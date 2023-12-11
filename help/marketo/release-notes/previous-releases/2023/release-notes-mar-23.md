@@ -1,9 +1,9 @@
 ---
 description: Versionsinformation - mars 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2023
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Versionsinformation: Mars 2023 {#release-notes-mar-23}
 
-Här nedan hittar du alla funktioner som ingår i utgåvan från mars 23. Se om det finns funktioner i din Adobe Marketo Engage-utgåva.
+Här nedan hittar du alla funktioner som ingår i utgåvan från mars 23. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -26,7 +26,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Förbättrat Används av komponenten för information om landningssidmallar och formulärdetaljer**: Fliken Nytt Används av användargränssnitt innehåller ytterligare information i Information om landningssidmallar och Formulärdetaljer, inklusive mer information om resurser som har använt en vald resurs. Gör analyser på långa listor med resurser med hjälp av sök-, sorterings- och filtreringsfunktionerna.
+* **Förbättrat Används av komponenten för information om landningssidmallar och formulärdetaljer**: Fliken Ny som används av användargränssnittet innehåller ytterligare information i Information om landningssidmallar och formulärdetaljer, inklusive mer information om resurser som har använt en vald resurs. Gör analyser på långa listor med resurser med hjälp av sök-, sorterings- och filtreringsfunktionerna.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Ta bort växla och klassisk upplevelse från landningssidor**: Om du tar bort växlingsfunktionen och den klassiska upplevelsen för landningssidor kan du använda den nya upplevelsen helt. Den nya upplevelsen gör det möjligt att fullständigt utnyttja de funktioner som finns i dessa resurser utan att behöva förlita sig på den gamla upplevelsen eller hela tiden behöva växla mellan de två upplevelserna.
+* **Ta bort växla och klassisk upplevelse från landningssidor**: Borttagning av växlingsfunktionen och den klassiska upplevelsen för landningssidor på/av hjälper dig att använda den nya upplevelsen. Den nya upplevelsen gör det möjligt att fullständigt utnyttja de funktioner som finns i dessa resurser utan att behöva förlita sig på den gamla upplevelsen eller hela tiden behöva växla mellan de två upplevelserna.
 
 <table> 
   <tr> 
@@ -90,11 +90,11 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-### Dynamiskt chatt {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dialogengagemangsrapport för Dynamic Chat**: Ger en översikt över dialogengagemang över tid, inklusive möjlighet att filtrera efter besökartyp och engagemangstyp för att ge användarna bättre synlighet.
+* **Dialogengagemangsrapport för Dynamic Chat**: Visar en översikt över dialoginteraktionen över tid, inklusive möjligheten att filtrera efter besökartyp och interaktionstyp för att ge användarna bättre synlighet.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Roller och behörigheter för dynamisk chatt**: Lägger till roller och behörigheter till Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
+* **Roller och behörigheter för Dynamic Chat**: Lägger till roller och behörigheter till Dynamic Chat, vilket gör att administratörer kan begränsa synlighet och användning av olika delar av programmet till valda användartyper.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Chatta som en programkanal för Dynamic Chat**: Skapar en ny Chat-programkanal för att spåra programutvecklingen för personer som förvärvats av Dynamic Chat. En marknadsförare har till exempel ett program som är associerat med en Dynamic Chat-dialogruta för att hämta nya leads. De kan nu tilldela det programmet chattkanalen så att de kan spåra när leads är medlemmar i programmet och när de har lyckats.
+* **Chatta som en programkanal för Dynamic Chat**: Skapar en ny Chat-programkanal för att spåra programutvecklingen för personer som förvärvats av Dynamic Chat. En marknadsförare har till exempel ett program som är associerat med en Dynamic Chat-dialogruta för att hämta nya leads. De kan nu tilldela det programmet till chattkanalen så att de kan spåra när leads är medlemmar i programmet och när de har lyckats.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Indragna attribut för Dynamic Chat**: Ser till att härledda IP-data (stad, stat, land osv.) skrivs till personregistret för nya personer som förvärvats av Dynamic Chat.
+* **Indragna attribut för Dynamic Chat**: Garanterar att härledda IP-data (stad, stat, land osv.) skrivs till personregistret för nya personer som förvärvats av Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Ytterligare språkstöd för Dynamic Chat**: Du kan nu välja mellan nio språk som stöds för att visa statiskt Dynamic Chat-innehåll i.
+* **Stöd för ytterligare språk för Dynamic Chat**: Du kan nu välja mellan nio språk som stöds för att visa statiskt Dynamic Chat-innehåll i.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Hoppa till nod i Stream Designer Preview för Dynamic Chat**: Gå direkt till en nod i Stream Designer från förhandsgranskningspanelen.
+* **Hoppa till nod i Stream Designer Preview för Dynamic Chat**: Hoppa direkt till en nod i Stream Designer från förhandsgranskningspanelen.
 
 <table> 
   <tr> 
