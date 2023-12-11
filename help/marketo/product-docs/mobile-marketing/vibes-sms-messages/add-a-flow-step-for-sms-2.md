@@ -4,20 +4,34 @@ title: Lägg till ett flödessteg för SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # Lägg till ett flödessteg för SMS {#add-a-flow-step-for-sms}
 
-Marketo Engage har tre flödessteg som du kan använda i SMS Smart Campaigns:
+Marketo Engage har tre flödessteg som du kan använda i SMS-smarta kampanjer:
 
-* **Skicka SMS-meddelande** - Den här flödesåtgärden skickar meddelanden till personer från Marketo Smart List som prenumererar på en användare som har valt att prenumerera på Vibes. Det initierar inte prenumerationsprocessen.
-* **Prenumerera på Vibes List** - Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en Vibes Acquisition Campaign som valts av användaren. Vibes skickar sedan ett bekräftelsemeddelande. Mottagaren måste svara&quot;Y&quot; för att bekräfta anmälan inom 24 timmar. När användaren har valt att delta blir han/hon medlem i din tillhörande prenumerationslista för Vibes.
-* **Avbeställ utskick om Vibes List** - Den här flödesåtgärden avslutar prenumerationen för varje person i en lista över användare som har valt att prenumerera på Vibes. När en användare skriver&quot;stopp&quot; i koden uppdateras sin personpost så att den avspeglar att han/hon inte längre är medlem i prenumerationslistan.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Skicka SMS-meddelande</td>
+    <td>Den här flödesåtgärden skickar meddelanden till personer från Marketo Smart List som prenumererar på en användare som har valt att prenumerera på Vibes. Det initierar inte prenumerationsprocessen. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Läs mer</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Prenumerera på Vibes List</td>
+    <td>Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en av användaren utvald Vibes-anskaffningskampanj. Vibes skickar sedan ett bekräftelsemeddelande och mottagaren måste svara med "Y" inom 24 timmar för att bekräfta anmälan. När användaren har valt att delta blir han/hon medlem i din tillhörande prenumerationslista för Vibes.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Avbeställ utskick om Vibes List</td>
+    <td>Den här flödesåtgärden avslutar prenumerationen för varje person i en lista över användare som har valt att prenumerera på Vibes. När en användare skriver"STOP" till din kod uppdateras sin personpost så att den återspeglar att han/hon inte längre är medlem i prenumerationslistan för Adobe.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

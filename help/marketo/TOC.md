@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9267'
 ht-degree: 0%
 
 ---
@@ -974,7 +974,7 @@ ht-degree: 0%
             + [Använd LinkedIn Lead Gen Form Filters and Triggers i en smart kampanj](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Använd kampanjkoder för att slutföra erbjudandet](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Visa sociala prestanda](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Dragningar {#sweepstakes}
+         + Lotteriet {#sweepstakes}
             + [Skapa Lotterier](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Anpassa utlottningsstilar](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Publicera Lotteriet](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
@@ -1257,7 +1257,7 @@ ht-degree: 0%
             + [Skicka ett spårat e-postmeddelande](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Skicka e-post via gruppe-post](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Använda en mall i dispositionsfönstret](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + Vanliga frågor och svar {#faq}
+      + Vanliga frågor {#faq}
          + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Har Sales Connect en iPhone- eller Android-app?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1290,7 +1290,7 @@ ht-degree: 0%
             + [Importera kontakter via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Hantera grupper](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Sidkolumner för personer](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + Tel.{#phone}
+      + Telefon {#phone}
          + [Samtal loggar inte till Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Utfall för samtal](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Samtalsorsaker](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1419,7 +1419,7 @@ ht-degree: 0%
                + [Anslut till Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Anslut till Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + Vanliga frågor och svar {#faq}
+         + Vanliga frågor {#faq}
             + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1460,7 +1460,7 @@ ht-degree: 0%
                + [Importera kontakter via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + Tel.{#phone}
+         + Telefon {#phone}
             + [Utfall för samtal](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [Samtalsorsaker](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1812,7 +1812,7 @@ ht-degree: 0%
             + [Definiera periodkostnader](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Aktivera anpassad fältsynkronisering för intäktscykelanalys](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Scenrapport för personer efter intäkt](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Tillskrivning {#attribution}
+            + Attribut {#attribution}
                + [Förstå attribut](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Attribut - exempel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Attribut - exempel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1943,6 +1943,7 @@ ht-degree: 0%
 + Versionsinformation {#release-notes}
    + [Releaschema](release-notes/release-schedule.md)
    + [Aktuell version](release-notes/current.md)
+   + [Aktuell tillfällig version av sida](release-notes/current-temp.md)
    + Tidigare versioner {#previous-releases}
       + 2023 {#2023}
          + [Versionsinformation: 23 januari](release-notes/previous-releases/2023/release-notes-jan-23.md)

@@ -4,9 +4,9 @@ title: Skapa ett Vibes SMS-meddelande
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -19,72 +19,65 @@ Så här skapar du ett Vibes SMS-meddelande.
 >
 >Den här funktionen är tillgänglig som tillägg för ditt Adobe Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. Högerklicka på ett program och välj **Ny lokal resurs**.
+1. Högerklicka på önskat program och välj **[!UICONTROL New Local Asset]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. Klicka **Ny lokal resurs**.
+1. Välj **SMS-meddelande**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >Du kan även klicka på **Nytt** nedrullningsbar meny.
-
-1. Klicka **SMS-meddelande**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. Ange ett namn och en valfri beskrivning för det nya SMS-meddelandet och klicka på **Skapa**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. Klicka **Redigera utkast**.
+1. Klicka i den blå bubblan i redigeraren och börja skriva text.
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. Klicka i den blå bubblan i meddelanderedigeraren och börja skriva text.
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >Teckengränsen för ett SMS-meddelande är 160 tecken med ASCII-standardteckenuppsättningen. Om du överskrider 160 tecken delas meddelandet upp baserat på det totala antalet tecken.
 
-1. Klicka **Token** på Infoga-menyn för att lägga till en token i meddelandet.
+1. Om du vill lägga till en token i meddelandet skriver du en snabbhälsning och klickar på **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >Om du lägger till en variabel kan meddelandet överskrida teckengränsen. Meddelandet delas sedan upp, vilket resulterar i ytterligare meddelanden.
+   >Om du lägger till en variabel kan meddelandet överskrida teckengränsen. Meddelandet delas sedan upp och ytterligare ett meddelande skapas.
 
    >[!IMPORTANT]
    >
    >SMS-kompatibilitet: Alla utgående SMS-meddelanden måste innehålla varumärkesnamnet eller programbeskrivningen. HJÄLP- och STOP-anvisningar ska ges minst en gång per månad och prenumerant för program för återkommande meddelanden.
 
-   ????? Om du använder Marketo URL-förkortaren används X-tecken i meddelandet ??????????
+1. Markera önskat **Token**, ange ett valfritt **Standardvärde** och klicka **Skapa**.
 
-1. Klicka **Länk** på Infoga-menyn för att lägga till en länk till meddelandet.
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. Om du vill lägga till en länk väljer du var i meddelandet som du vill att den ska visas och klickar på **Länk**.
 
-1. Välj en länktyp. Marketo landningssida är standard. Om du går med på det måste du välja landningssidan i listrutan och klicka på **Infoga**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. Välj en länktyp. Marketo landningssida är standard. Om du väljer det klickar du på listrutan Landningssida och väljer önskad sida. Klicka **Infoga** när det är klart.
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* De två spårningslänkarna är markerade som standard.
-   >* Om du använder Marketo URL-förkortaren används X-tecken i ditt meddelande.????????????????????????????
+   >De två spårningslänkarna är markerade som standard. Om du avmarkerar enbart Include mkt_tok kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person avanmäler sig).
 
-1. Om du vill använda en extern URL i stället klickar du på **Extern URL** och ange URL-adressen i URL-fältet. Klicka **Infoga**.
+1. Om du vill använda en extern URL i stället väljer du **Extern URL**, ange/klistra in URL-adressen och klicka på **Infoga**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >När Spåra länk är markerat ändrar Marketo automatiskt URL:en i spårningssyfte. Om du avaktiverar spårning visas URL:en i meddelandet i oförändrad form (t.ex. `www.adobe.com`).
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ Så här skapar du ett Vibes SMS-meddelande.
 
 1. Länken visas i meddelandet.
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo visar en länkförhandsgranskning av domänen för varumärkesspårning. Om du avmarkerar kryssrutan för länken mkt_tok ändras länken. Avmarkera kryssrutan Spåra länk också så förkortas URL-adressen till dess grundläggande längd (till exempel www.mygooglepage.com).
+   >Marketo visar en länkförhandsgranskning av domänen för varumärkesspårning. Om du avmarkerar kryssrutan för länken mkt_tok ändras länken.
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >Teckenantalet återspeglar endast tecknen i det lägsta meddelandet.
-
-Om du infogar mer än USA:s gräns bryts meddelandet ned i avsnitt. Det finns en absolut gräns på 900 tecken. När gränsen har nåtts trunkeras meddelandet automatiskt när det skickas till målgruppen.
-
-US LIMIT?????
+Om du infogar fler än 160 tecken delar redigeraren upp ditt SMS i avsnitt. Det finns en total gräns på 900 tecken per meddelande. Om du överskrider det kommer meddelandet att trunkeras vid leveransen.
