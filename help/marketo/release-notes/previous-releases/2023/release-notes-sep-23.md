@@ -2,10 +2,10 @@
 description: Versionsinformation - september 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - september 2023
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -248,8 +248,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr> 
    <td><strong>Sida för konversationsflöde</strong>: På sidan Design Studio Asset visas nu konversationsflöden i Dynamic Chat. Se vilka flöden som kan integreras i Marketo Engage och länka direkt till redigeraren.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 

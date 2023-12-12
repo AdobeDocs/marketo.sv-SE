@@ -4,10 +4,10 @@ description: Installera Marketo e-posttillägg för Outlook med en registrerings
 title: Installera Marketo e-posttillägg för Outlook med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 2%
+source-wordcount: '491'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 ## Hämta installationsprogram {#download-installer}
 
-1. Identifiera [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifiera [Microsoft Outlook version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
-1. Klicka på länken om du vill hämta det installationsprogram som passar din version av Microsoft Outlook.
+1. Klicka på länken om du vill hämta det installationsprogram som är lämpligt för din version av Microsoft Outlook.
 
    >[!NOTE]
    >
@@ -52,7 +52,11 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    | Outlook Web App | Stöds inte | Stöds inte |
    | Office 365* | [Ladda ned](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Ladda ned](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
-   *Office 365-version: Endast Windows-klient (i Windows 10, Enterprise eller Pro).
+   *Office 365-version: endast Windows-klient (i Windows 10, Enterprise eller Pro).
+
+   >[!IMPORTANT]
+   >
+   >Microsoft har släppt en [ny version av Outlook för Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Kopiera din registreringskod {#copy-your-registration-code}
 
@@ -98,11 +102,11 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    >
    >Om du får en säkerhetsfråga om en okänd utgivare klickar du på **Ja**.
 
-1. Installationen är klar, klicka på **Stäng**.
+1. Installationen är nu klar, klicka på **Stäng**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Öppna Microsoft Outlook och se Marketo-knapparna.
+1. Öppna nu Microsoft Outlook och se Marketo-knapparna.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
