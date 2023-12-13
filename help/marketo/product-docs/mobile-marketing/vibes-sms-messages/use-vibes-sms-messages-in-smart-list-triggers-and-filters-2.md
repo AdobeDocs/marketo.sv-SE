@@ -4,7 +4,7 @@ title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Efter dig [skapa ett Vibes SMS-meddelande](/help/marketo/product-docs/mobile-mar
 
 1. I Min Marketo klickar du på **Marknadsföringsaktiviteter**.
 
-   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
+   ![](assets/use-sms-options-in-smart-list-triggers-and-filters-1.png)
 
 1. Välj en smart kampanj där du vill använda dina SMS-resurser. Dra över en utlösare. I detta exempel använder vi **Fyller i formulär**.
 

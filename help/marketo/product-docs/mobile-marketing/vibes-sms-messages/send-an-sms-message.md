@@ -4,9 +4,9 @@ title: Skicka ett SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ Du har [skapade SMS-meddelandet](/help/marketo/product-docs/mobile-marketing/vib
 >
 >* Marketo Engage dedupes per telefonnummer. Om flera personer har samma telefonnummer får bara en person meddelandet om de bara är medlemmar i en prenumerationslista för Adobe. Deduping görs på prenumerationslistenivån för Vibes, inte på programnivån för Marketo.
 >* Marketo skickar inte till personer som är blocklist eller har avbrutit sin marknadsföring.
+>* Ett SMS-meddelande kommer inte att skickas till någon som avbeställt prenumerationen om de inte finns med i listan Vibes Mobile Database.
 
 ## Skicka ett batch-SMS {#send-a-batch-sms}
 

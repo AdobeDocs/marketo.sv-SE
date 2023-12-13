@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 164fcc02570e421b10d52a2be002ddbab70843bd
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9298'
 ht-degree: 0%
 
 ---
@@ -1591,6 +1591,7 @@ ht-degree: 0%
       + Administratör {#admin}
          + [Lägg till en mobilapp](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Lägg till vibes som en LaunchPoint-tjänst](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+         + [TEMP Add Vibes as a LaunchPoint Service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [Autentisera säkerhet för mobil åtkomst](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Innan du skapar push-meddelanden och meddelanden i appen](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Konfigurera Android-åtkomst för mobilapp](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1630,6 +1631,11 @@ ht-degree: 0%
          + [Lägg till ett flödessteg för SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Kontrollpanelen för SMS-meddelanden](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [TEMP Skapa ett SMS-meddelande](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
+         + [TEMP Skicka ett SMS](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [TEMP Använda SMS-alternativ i en smart kampanj](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [TEMP SMS-ordlista](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
+         + [TEMP SMS-rapportering](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
    + Personalisering {#personalization}
       + Segmentering och kodavsnitt {#segmentation-and-snippets}
          + Segmentering {#segmentation}
