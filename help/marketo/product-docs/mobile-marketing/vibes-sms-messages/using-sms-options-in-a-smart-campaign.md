@@ -4,7 +4,7 @@ title: Använda SMS-alternativ i en smart kampanj
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -25,10 +25,10 @@ Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-
 
 ## SMS-utlösare {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ The **Klicka på Länk i SMS-meddelande** utlösaren initierar ett flöde när e
 
 ## SMS-filter {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ Det finns tre SMS-flödessteg att välja mellan.
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">Skicka SMS-meddelande</td>
+    <td style="width:20%"><b>Skicka SMS-meddelande</b></td>
     <td>Den här flödesåtgärden skickar meddelanden till personer från Marketo Smart List som prenumererar på en användare som har valt att prenumerera på Vibes. Det initierar inte prenumerationsprocessen. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">Läs mer</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">Prenumerera på Vibes List</td>
+    <td style="width:20%"><b>Prenumerera på Vibes List</b></td>
     <td>Den här flödesåtgärden initierar SMS-prenumerationsprocessen via en av användaren utvald Vibes-anskaffningskampanj. Vibes skickar sedan ett bekräftelsemeddelande och mottagaren måste svara med "Y" inom 24 timmar för att bekräfta anmälan. När användaren har valt att delta blir han/hon medlem i din tillhörande prenumerationslista för Vibes.</td>
   </tr>
   <tr>
-    <td style="width:25%">Avbeställ utskick om Vibes List</td>
+    <td style="width:20%"><b>Avbeställ utskick om Vibes List</b></td>
     <td>Den här flödesåtgärden avslutar prenumerationen för varje person i en lista över användare som har valt att prenumerera på Vibes. När en användare skriver"STOP" till din kod uppdateras sin personpost så att den återspeglar att han/hon inte längre är medlem i prenumerationslistan för Adobe.</td>
   </tr>
   </tbody>
