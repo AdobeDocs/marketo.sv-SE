@@ -4,7 +4,7 @@ title: Använda SMS-alternativ i en smart kampanj
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda SMS-alternativ i en smart kampanj {#using-sms-options-in-a-smart-campaign}
 
-Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}vill du använda utlösare och filter för smarta listor i en smart kampanj för att få fördelarna.
+Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}vill du använda utlösare och filter för smarta listor i en smart kampanj för att få fördelarna.
 
 >[!NOTE]
 >
