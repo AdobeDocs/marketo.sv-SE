@@ -4,16 +4,16 @@ title: SMS-rapportering
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # SMS-rapportering {#sms-reporting}
 
-Kontrollpanelen för SMS-meddelanden ger användbar rapportanalys för dina meddelanden.
+Kontrollpanelen för SMS-meddelanden ger användbar analys av dina meddelanden.
 
 ## Åtkomst till instrumentpanelen {#access-the-dashboard}
 
