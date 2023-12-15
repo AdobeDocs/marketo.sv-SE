@@ -4,9 +4,9 @@ description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktd
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,8 @@ Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresur
 >
 >En del orsaker till att du använder en arbetsyta:
 >
->* Geografi: Marknadsföringsavdelningarna i Europa, Asien och Nordamerika får båda en arbetsyta
->* Affärsenhet: [!DNL Quicken], [!DNL Quickbooks] och [!DNL TurboTax] får du en arbetsyta
+>* Geografi: Marknadsföringsavdelningar i Europa, Asien och Nordamerika får båda en arbetsyta
+>* Affärsenhet: [!DNL Quicken], [!DNL Quickbooks] och [!DNL TurboTax] där du får en arbetsyta
 >
 >I båda fallen beror separationen på att marknadsföringsresurserna är helt olika. Om de delar marknadsföringsresurser kanske inte arbetsytorna är rätt verktyg för dig.
 
@@ -72,11 +72,11 @@ Så här delar du resurser mellan arbetsytor. Det fungerar på samma sätt för 
    >
    >Ursprungsmappen har nu en liten grön pil, vilket anger att den delades. I den delade arbetsytan har mappen ett hänglås som anger att den är skrivskyddad.
 
-Du kan dela dessa objekt mellan arbetsytor.
+Du kan dela dessa objekt mellan arbetsytorna.
 
 * E-postmallar
 * Mallar för landningssidor
-* Modeller
+* Models
 * Smarta kampanjer
 * [Smarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmenteringar](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
@@ -84,12 +84,16 @@ Du kan dela dessa objekt mellan arbetsytor.
 
 ## Klona mellan arbetsytor {#cloning-across-workspaces}
 
-För resurser som inte är mallar är det bäst att klona dem som lokala resurser i ett program.  Med rätt åtkomstnivå kan du dra och släppa resurserna på en annan arbetsyta:
+För resurser som inte är mallar är det bäst att klona dem som lokala resurser i ett program. Med rätt åtkomstnivå kan du dra och släppa resurserna på en annan arbetsyta:
 
 * Program
 * E-post
 * Landningssidor
 * Forms
+
+>[!IMPORTANT]
+>
+>Alla objekt som listas ovan kan klonas över arbetsytor, e-post, formulär och landningssidor _måste finnas i ett program_ vid kloningen.
 
 >[!NOTE]
 >
@@ -105,7 +109,7 @@ Om du vill flytta resurser till en ny arbetsyta placerar du dem i en mapp och dr
 
 ## Personpartitioner {#person-partitions}
 
-Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du känner att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress, ska du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du känner att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Du kan tilldela personpartitioner till  [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
 
