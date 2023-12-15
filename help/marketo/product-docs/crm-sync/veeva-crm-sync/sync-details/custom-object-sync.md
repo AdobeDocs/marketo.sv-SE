@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
 # Synkronisering av anpassat objekt {#custom-object-sync}
 
-Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. Så här konfigurerar du det.
+Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
 ## Aktivera anpassat objekt {#enable-custom-object}
 
-1. I Marketo klickar du på **Administratör** sedan **Veeva Objects Sync**.
+1. Klicka på i Marketo **[!UICONTROL Admin]** sedan **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Om det här är ditt första anpassade objekt klickar du på **Synkroniseringsschema**.
+1. Om det här är ditt första anpassade objekt klickar du på **[!UICONTROL Sync Schema]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Klicka **Inaktivera global synkronisering**.
+1. Klicka på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
    >
    >Anpassade objekt måste ha unika namn. Marketo stöder inte två olika anpassade objekt med samma namn.
 
-1. Klicka **Aktivera synkronisering**.
+1. Klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klicka **Aktivera synkronisering** igen.
+1. Klicka **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Gå tillbaka till **Veeva** -fliken.
+1. Gå tillbaka till **[!UICONTROL Veeva]** -fliken.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Klicka **Aktivera synkronisering**.
+1. Klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Om du vill visa alla anpassade vevevevektorobjekt klickar du på Synkronisera med admin och veva-objekt.
+1. Om du vill visa alla anpassade veeva-objekt klickar du på **[!UICONTROL Admin]** och **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-9.png)
 

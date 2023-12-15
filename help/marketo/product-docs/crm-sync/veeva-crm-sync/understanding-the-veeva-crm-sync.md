@@ -3,9 +3,9 @@ description: Så här fungerar Veeva CRM Sync - Marketo Docs - produktdokumentat
 title: Så här fungerar Veeva CRM Sync
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Marketo Engage synkroniserar med Veeva CRM hela dagen, varje dag. Varje synkroni
 
 Synkroniseringen mellan Veeva och Marketo Engage är endast dubbelriktad för kontaktfält i Person-kontoobjektet. När du gör ändringar i antingen Veeva eller Marketo Engage återspeglas dina uppdateringar i båda systemen. Alla andra synkningar är endast från Veeva till Marketo Engage. Klicka på länkarna nedan om du vill ha information om var och en av länkarna.
 
-## Vad är synkroniserat mellan Marketo Engage och Veeva? {#what-is-synced-between-marketo-engage-and-veeva}
+## Vad synkroniseras mellan Marketo Engage och Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
 * [Personkonton](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Användare
@@ -37,6 +37,6 @@ Synkroniseringen mellan Veeva och Marketo Engage är endast dubbelriktad för ko
 
 * The [inloggningsuppgifter som du anger i Marketo Engage för Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} används för att synkronisera data. Endast data som dessa autentiseringsuppgifter har åtkomst till inkluderas.
 
-* Veeva CRM baseras på force.com och den omfattande upplevelse som Marketo Engage har med plattformen ärvs till den här synkroniseringen.
+* Veeva CRM baseras på force.com och den omfattande upplevelse som Marketo Engage har med plattformen ärvs i den här synkroniseringen.
 
-* Veeva CRM visar: Lead, kontakt, konton (affärskonton, säljprojekt, kampanj och aktivitet). De stöds dock inte i synkroniseringen med Marketo Engage.
+* Veeva CRM visar: Lead, Contact, Accounts, Business Accounts, Opportunity, Campaign och Activity. De stöds dock inte i synkroniseringen med Marketo Engage.

@@ -4,10 +4,10 @@ description: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst - 
 title: Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 1%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Koppla ditt Marketo-konto till LinkedIn Matched Audiences för att använda en statisk lista eller smart lista från Marketo som ett LinkedIn-målgruppssegment.
+Koppla ditt Marketo Engage-konto till LinkedIn Matched Audiences för att använda en statisk lista från Marketo eller Smart List som ett LinkedIn-målgruppssegment.
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till **[!UICONTROL Admin]** -avsnitt.
 
    ![](assets/admin.png)
 
-1. Välj **Startpunkt**.
+1. Välj **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Nytt** och **Ny tjänst**.
+1. Välj **[!UICONTROL New]** och **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange **Visningsnamn** och välja **linkedIn Matched Auditions**. Klicka **Skapa**.
+1. Ange en **[!UICONTROL Display Name]** och välja **[!UICONTROL LinkedIn Matched Audiences]**. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Om du vill ansluta ett LinkedIn-konto klickar du på **Auktorisera**.
+1. Om du vill ansluta ett LinkedIn-konto klickar du på **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -43,15 +43,15 @@ Koppla ditt Marketo-konto till LinkedIn Matched Audiences för att använda en s
    >
    >För att Marketo ska kunna skicka målgrupper över flera LinkedIn annonskonton måste den LinkedIn-användare som du auktoriserar i följande steg ha tillgång till *alla* av annonskontona i kampanjhanteraren.
 
-1. linkedIn öppnas på en ny flik. Logga in på ditt LinkedIn-konto härifrån.
+1. LinkedIn öppnas på en ny flik. Logga in på ditt LinkedIn-konto härifrån.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Granska de begärda behörigheterna och klicka sedan på **Tillåt**.
+1. Granska begärda behörigheter och klicka sedan på **[!UICONTROL Allow]**.
 
    ![](assets/li-permissions.png)
 
-1. Ditt LinkedIn-konto är nu anslutet till Marketo. Klicka **Skapa**.
+1. Ditt LinkedIn-konto är nu anslutet till Marketo. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +61,4 @@ Koppla ditt Marketo-konto till LinkedIn Matched Audiences för att använda en s
 
 >[!MORELIKETHIS]
 >
->[Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

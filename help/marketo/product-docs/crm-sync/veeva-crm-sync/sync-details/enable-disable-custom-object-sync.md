@@ -3,16 +3,16 @@ description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo Docs - 
 title: Aktivera/inaktivera synkronisering av anpassat objekt
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # Aktivera/inaktivera synkronisering av anpassat objekt {#enable-disable-custom-object-sync}
 
-Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. Så här konfigurerar du det.
+Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
 
 ## Aktivera eller inaktivera synkronisering av anpassat objekt {#enable-or-disable-the-custom-object-sync}
 
@@ -20,15 +20,15 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 >
 >**Administratörsbehörigheter krävs**
 
-1. I Marketo klickar du på **Administratör** sedan **Veeva Objects Sync**.
+1. Klicka på i Marketo **[!UICONTROL Admin]** sedan **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Om det här är ditt första anpassade objekt klickar du på Synkronisera schema. Om inte, klicka **Uppdatera schema** för att vara säker på att du har de senaste.
+1. Om det här är ditt första anpassade objekt klickar du på Synkronisera schema. Om inte, klicka **[!UICONTROL Refresh Schema]** för att vara säker på att du har de senaste.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Om den globala synkroniseringen körs inaktiverar du den genom att klicka på **Inaktivera global synkronisering**.
+1. Om den globala synkroniseringen körs inaktiverar du den genom att klicka på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
    >
    >Det kan ta några minuter att synkronisera det anpassade objektschemat Veeva.
 
-1. Klicka **Uppdatera schema**.
+1. Klicka på **[!UICONTROL Refresh Schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ Markera det objekt som du vill synkronisera och klicka på Aktivera synkroniseri
 >
 >Marketo kan bara synkronisera ett anpassat objekt om det har en direkt relation till kontakt- eller kontoobjektet i Veeva CRM.
 
-1. Klicka **Aktivera synkronisering** igen.
+1. Klicka **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Gå tillbaka till fliken Veeva och klicka på **Aktivera synkronisering**.
+1. Gå tillbaka till fliken Veeva och klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Markera det objekt som du vill synkronisera och klicka på Aktivera synkroniseri
 >
 >Du kan inte använda anpassade objekt i smarta kampanjer med utlösare.
 
-1. I den smarta listan drar du över filtret&quot;Har möjlighet&quot; och anger det till **True**.
+1. I den smarta listan drar du över filtret&quot;Har möjlighet&quot; och anger det till **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,7 +70,7 @@ Markera det objekt som du vill synkronisera och klicka på Aktivera synkroniseri
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Underbar! Nu kan du använda det här anpassade objektets data i smarta kampanjer och smarta listor.
+Underbar! Nu kan du använda det här anpassade objektets data i Smarta kampanjer och Smarta listor.
 
 >[!MORELIKETHIS]
 >

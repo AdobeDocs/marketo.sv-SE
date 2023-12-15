@@ -4,38 +4,38 @@ description: Lägg till Google kundmatchning som en LaunchPoint-tjänst - Market
 title: Lägg till Google kundmatchning som en LaunchPoint-tjänst
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
 # Lägg till Google kundmatchning som en LaunchPoint-tjänst {#add-google-customer-match-as-a-launchpoint-service}
 
-Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
+Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör**.
+1. Gå till **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicka **LaunchPoint**.
+1. Klicka på **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **Nytt** sedan **Ny tjänst**.
+1. Välj **[!UICONTROL New]** sedan **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange **Visningsnamn** och markera **Google kundmatchning** från **Tjänst** nedrullningsbar meny. Klicka **Skapa**.
+1. Ange en **[!UICONTROL Display Name]** och markera **[!UICONTROL Google Customer Match]** från **[!UICONTROL Service]** nedrullningsbar meny. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/chooseservice.png)
 
-1. Om du vill ansluta ett Google AdWords-konto klickar du på **Auktorisera**.
+1. Om du vill ansluta ett Google AdWords-konto klickar du på **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,11 +47,11 @@ Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för m
 
    ![](assets/chooseaccount.png)
 
-1. Granska de begärda behörigheterna och klicka sedan på **Tillåt**.
+1. Granska begärda behörigheter och klicka sedan på **[!UICONTROL Allow]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Ditt Google AdWords-konto är nu anslutet till Marketo. Klicka **Skapa**.
+1. Ditt Google AdWords-konto är nu anslutet till Marketo. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 

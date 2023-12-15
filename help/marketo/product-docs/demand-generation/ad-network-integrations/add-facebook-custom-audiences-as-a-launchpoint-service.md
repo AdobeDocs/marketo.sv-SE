@@ -4,9 +4,9 @@ description: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjäns
 title: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Med den här integreringen kan ni skicka målgruppsdata från Marketo statiska och smarta listor till Facebook som kan användas som anpassade målgrupper i Facebook Ad Campaigns. Så här ställer du in det.
+Med den här integreringen kan ni skicka målgruppsdata från statiska och smarta listor från Marketo Engage till Facebook och använda dem som anpassade målgrupper i Facebook annonskampanjer. Så här ställer du in det.
 
-1. Gå till Marketo **Administratör**.
+1. Gå till Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Nytt** och markera **Ny tjänst**.
+1. Gå till **[!UICONTROL LaunchPoint]**, klicka **[!UICONTROL New]** och markera **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange **Visningsnamn** för tjänsten och väljer **Facebook Custom Auditions** från **Tjänst** nedrullningsbar meny.
+1. Ange en **[!UICONTROL Display Name]** för tjänsten och väljer **[!UICONTROL Facebook Custom Audiences]** från **[!UICONTROL Service]** nedrullningsbar meny.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](https://www.facebook.com/). Logga in på Facebook med det konto du vill använda för integreringen.
+1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](https://www.facebook.com/){target="_blank"}. Logga in på Facebook med det konto du vill använda för integreringen.
 
    >[!CAUTION]
    >
@@ -39,19 +39,19 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo statiska o
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. När du har loggat in på Facebook går du tillbaka till Marketo. Klicka **Auktorisera**.
+1. När du har loggat in på Facebook går du tillbaka till Marketo. Klicka på **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Du _måste_ använda ett Facebook Business Manager-konto för att er anpassade målgruppsintegrering ska fungera. Mer information om hur du skapar ett Business Manager-konto finns i [Hjälp om facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Du _måste_ använda ett Facebook Business Manager-konto för att er anpassade målgruppsintegrering ska fungera. Mer information om hur du skapar ett Business Manager-konto finns i [Hjälp om facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. Om du uppmanas till det klickar du på **OK** för att acceptera Marketo-appinstallationen i Facebook.
+1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att acceptera Marketo-appinstallationen i Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du är nu auktoriserad! Välj ett matchande läge och klicka på **Skapa**.
+1. Du är nu auktoriserad! Välj ett matchande läge och klicka på **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
@@ -59,14 +59,14 @@ Med den här integreringen kan ni skicka målgruppsdata från Marketo statiska o
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Bra jobbat! Nu kan du gå till vilken statisk eller smart lista som helst i Marketo och skicka målgruppsdata till Facebook.
+   Snyggt jobb! Nu kan du gå över till en statisk lista eller Smart List i Marketo och skicka målgruppsdata till Facebook.
 
    >[!CAUTION]
    >
-   >Innan du går, var noga med att [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) på ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
+   >Innan du går, var noga med att [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} på ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
 
 >[!MORELIKETHIS]
 >
->* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 >
->* [Konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [Konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
