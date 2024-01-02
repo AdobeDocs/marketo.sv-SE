@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
+source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 1%
@@ -59,6 +59,18 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>API-uppdatering för massimport av leads</strong>: En mindre justering har gjorts av beteendet för API:t för import av gruppleads när <b>id</b> anges som <b>lookupField</b> när jobb skapades. Om en personpost är länkad till den angivna <b>id</b> finns inte i Marketo Engage-databasen, ingen postuppdatering kommer att ske eftersom posten inte kan hittas. Det uppdaterade beteendet innebär nu att antalet ökar i <b>numOfRowsFailed</b> -egenskapen i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
+   <td><i>Kommer snart</i></td>
+   <td>n/a</td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -83,18 +95,6 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
    <td><strong>Utbyggbart dispositionsfönster</strong>: Det oanvända utrymmet komprimeras nu automatiskt i e-postfönstret för disposition, vilket ger mer utrymme i redigeraren. Dessutom kommer fönstret att kunna öppnas och expandera ännu mer, vilket ger användarna så mycket utrymme de behöver för att redigera sina e-postmeddelanden.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>API-uppdatering för massimport av leads</strong>: En mindre justering har gjorts av beteendet för API:t för import av gruppleads när <b>id</b> anges som <b>lookupField</b> när jobb skapades. Om en personpost är länkad till den angivna <b>id</b> finns inte i Marketo Engage-databasen, ingen postuppdatering kommer att ske eftersom posten inte kan hittas. Det uppdaterade beteendet innebär nu att antalet ökar i <b>numOfRowsFailed</b> -egenskapen i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
-   <td><i>Kommer snart</i></td>
-   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
