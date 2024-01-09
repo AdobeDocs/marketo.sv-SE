@@ -2,10 +2,10 @@
 description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -32,21 +32,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 ## Live Chat-meddelanden {#live-chat-notifications}
 
-När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->Du kan också konfigurera webbläsarmeddelanden, som meddelar dig om du inte är inloggad på Dynamic Chat.
->
->* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Saker att notera {#things-to-note}
-
-* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut.
-* Det finns för närvarande en gräns på 10 chatt per agent
+Läs mer om meddelanden i [Översikt över live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Konversationer {#conversations}
 
