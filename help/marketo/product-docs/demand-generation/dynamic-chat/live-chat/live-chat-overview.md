@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -68,20 +68,9 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
 
 ## Live Chat-meddelanden {#live-chat-notifications}
 
-När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
-
-![](assets/live-chat-overview-3.png)
-
->[!TIP]
->
->Du kan också konfigurera webbläsarmeddelanden, som meddelar dig om du inte är inloggad på Dynamic Chat.
->
->* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Aktivera meddelanden
-
 För att kunna ta emot webbläsarmeddelanden för live-chatt måste alla live-chattagenter aktivera webbläsarmeddelanden för Dynamic Chat när de uppmanas till det.
+
+### Aktivera meddelanden {#enabling-notifications}
 
 Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka **Aktivera**.
 
@@ -96,6 +85,19 @@ Om agenter inte får webbläsarmeddelanden även efter att de har tillåtit det 
 [Steg för Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Steg för Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### När en live-chatt dirigeras till en agent {#when-a-live-chat-is-routed-to-an-agent}
+
+När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Du kan också konfigurera webbläsarmeddelanden, som meddelar dig om du inte är inloggad på Dynamic Chat.
+>
+>* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Saker att notera {#things-to-note}
 
