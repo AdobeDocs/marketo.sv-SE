@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 0%
@@ -136,7 +136,8 @@ ht-degree: 0%
          + [Aktivera kommunikationsgränser](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Aktivera personbegränsningar för smarta kampanjer](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Filtrerar e-postsatsaktivitet](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Ta bort Avbeställ text från avsnittet &quot;Admin -> E-post&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Filtrerar TEMP för e-poststartaktivitet](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [Ta bort Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Fälthantering {#field-management}
          + [Blockera fältuppdateringar vid listimport från otillförlitliga källor](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Blockera uppdateringar till ett fält](product-docs/administration/field-management/block-updates-to-a-field.md)
