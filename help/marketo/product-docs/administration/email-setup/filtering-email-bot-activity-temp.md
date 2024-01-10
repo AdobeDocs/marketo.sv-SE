@@ -4,9 +4,9 @@ title: Filtrerar e-postsatsaktivitet
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Välj **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]** eller båda. Välj om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity]. Ange antal sekunder för **Varaktighet mellan aktiviteter** från 0 till 3 sekunder (standardvärdet är 0).
+1. Det finns två reglage att välja mellan. Du kan bara aktivera en eller båda. Om du aktiverar **[!UICONTROL Match with IAB List]** väljer du om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Om du aktiverar **[!UICONTROL Match with Proximity Pattern]** väljer du om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity]. Du kan också ange antalet sekunder för **Varaktighet mellan aktiviteter** (standard är 0, max är 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Med **Varaktighet mellan aktiviteter** om 0 sekunder kommer vi att identifiera e-postaktiviteter som inträffar exakt samma sekund. Om flera e-postaktiviteter inträffar inom det angivna antalet sekunder identifieras de som en Båda-aktivitet.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
 
-**VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglaget/reglagen. Om du inaktiverar återställs inte data.
+**VALFRITT STEG**: Om du vill inaktivera någon av funktionerna avmarkerar du bara respektive reglage. Om du gör det återställs inte data.
 
 >[!TIP]
 >
