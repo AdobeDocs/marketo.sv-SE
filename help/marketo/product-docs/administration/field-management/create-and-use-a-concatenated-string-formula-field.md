@@ -4,16 +4,16 @@ description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo 
 title: Skapa och använda ett sammanfogat strängfält (formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 1%
 
 ---
 
 # Skapa och använda ett sammanfogat strängfält (formel) {#create-and-use-a-concatenated-string-formula-field}
 
-Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde med hjälp av ett Marketo-formelfält.
+Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde med ett formelfält i Marketo Engage.
 
 1. Gå till **[!UICONTROL Admin]** område.
 
@@ -31,7 +31,7 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Ange **[!UICONTROL Name]** för fältet klickar du **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Name]** för fältet klickar du **[!UICONTROL Create]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
@@ -53,6 +53,6 @@ Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde 
 
 >[!NOTE]
 >
->Formelfält kan användas på landningssidor, e-postmeddelanden och kolumner för smarta listor (de exporteras inte). E-postmeddelanden med formelfält kan _not_ skickas med en batchkampanj. Använd en [e-postskripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) i detta scenario.
+>Formelfält kan användas i kolumnerna Landing Pages, emails och Smart List. E-postmeddelanden med formelfält kan _not_ skickas med en batchkampanj. Använd en [e-postskripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) i detta scenario.
 
 Bra jobbat! Nu har du ett smart fält som vet vilken hälsningsfras som ska inkluderas baserat på kön. Ha så kul och bli kreativ.
