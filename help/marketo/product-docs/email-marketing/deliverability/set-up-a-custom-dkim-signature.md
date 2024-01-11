@@ -4,9 +4,9 @@ description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - produktdokum
 title: Konfigurera en anpassad DKIM-signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* Vi rekommenderar nyckelstorleken 2048.
-   >* Om du använder en annan domän i din Från-adress använder vi den Marketo delade DKIM-signaturen.
-
    <table> 
    <tr>
    <td width="20%"><b>Väljare</b></td>
@@ -59,6 +54,17 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* Vi rekommenderar nyckelstorleken 2048.
+   >* Om du använder en annan domän i din Från-adress använder vi den Marketo delade DKIM-signaturen.
+
+   >[!IMPORTANT]
+   >
+   >Om du behöver uppdatera antingen DKIM-väljaren eller DKIM-krypteringsstorleken för din domän måste du ta bort din befintliga post och publicera den nyligen genererade posten igen med de nya värdena.
+   >
+   >Observera att när du gör det signeras inte DKIM för din domän förrän din nya post publiceras och valideras av vårt system. Planera ändringen i enlighet med detta, eftersom det kan ta 24 till 48 timmar innan den nya DKIM-posten är helt spridd över Internet.
 
 1. Skicka **Värdpost** och **TXT Value** till din IT-avdelning. Be dem att skapa posten åt dig och se till att den sprids till alla namnservrar som är kopplade till Från-domänen. Marketo DKIM-verifiering kräver att DKIM-nyckeln sprids till alla namnservrar som är associerade med den domän som DKIM-signerar.
 
