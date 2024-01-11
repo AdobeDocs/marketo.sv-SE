@@ -4,9 +4,9 @@ title: On-Demand-webbinarier
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, den teknik som driver Interactive Webinars, håller reda på såv
 
 Marketo tillhandahåller bevakningsstatistik för On Demand Webinars på fliken Dashboard med hjälp av följande widgetar:
 
-* On-Demand Summary: Detta ger en dagvis sammanfattning av antalet besökare (no-Shows) som tittar på inspelningen efter händelsen.
+* On-Demand Summary: Detta ger en sammanfattning av antalet besökare (no-Shows) som tittar på inspelningen efter händelsen på en viss dag(ar)
 
 * Statistik på begäran: Den här widgeten innehåller information om:
    * Dagar inspelningen finns tillgänglig för visning - Hjälper marknadsförare att utföra åtgärder, som att köra e-postkampanjer nära slutet av tillgänglighetsperioden på 30 dagar.

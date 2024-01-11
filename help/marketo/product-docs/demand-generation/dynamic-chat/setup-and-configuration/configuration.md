@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Lär dig hur du anpassar utseendet på chatbot-dialogrutan.
 
-Kom igång genom att klicka **Konfiguration**.
+Kom igång genom att klicka **Chatbot-inställningar** under **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen 
 
 ![](assets/configuration-4.png)
 
-### Agentinställningar {#agent-settings}
+### Punktinställningar {#agent-settings}
 
-I Agentinställningar kan du lägga till en etikett i din chatbox (t.ex. &quot;Adobe Bot&quot;) som visas högst upp i den. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Om du vill ladda upp en egen avatarbild klickar du på **+** -knappen.
+I Punktinställningar kan du lägga till en etikett till din chatbox (t.ex. &quot;Adobe Assistant&quot;) som visas högst upp i den. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Om du vill ladda upp en egen avatarbild klickar du på **+** -knappen.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ För att chattbot ska visas på webbplatsen måste du först installera JavaScri
 
 >[!TIP]
 >
->Om webbplatsen använder en skyddsprofil för innehåll kan du behöva tillåtslista följande URL:er för att chattbot ska fungera som förväntat:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Titta efter vad som ska läggas till om webbplatsen använder CSP (Content-Security-Policy) nedan.
 
 >[!NOTE]
 >
