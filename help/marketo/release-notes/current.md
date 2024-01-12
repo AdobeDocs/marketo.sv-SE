@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
+source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '646'
 ht-degree: 1%
 
 ---
@@ -32,8 +32,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
     <tr> 
    <td><strong>On Demand Webinars för interaktiva webbinarier</strong>: On-Demand Webinars gör att du kan publicera webbinariet och spåra dess besök/bevakningar. Detta hjälper dig att få fler leads genom registranter som inte deltar i webbinariet (ej showen) men som fortfarande är intresserade av att ta reda på mer och visa inspelningen.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-webbinarier</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -55,9 +55,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
    </tr>
     <tr> 
-   <td><strong>Filtrering av startaktivitet för e-post</strong>: Förbättrar hämtning av robotaktiviteter för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotaktivitet ska vara.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td><strong>Filtrerar e-postsatsaktivitet</strong>: Förbättrar hämtning av robotaktiviteter för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotaktivitet ska vara.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrerar e-postsatsaktivitet</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -125,8 +125,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
    </tr>
     <tr> 
    <td><strong>Alternativ för Chatbot-teckensnittsfärg</strong>: Anpassa teckensnittsfärger i en chattbot-konfiguration.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Konfiguration</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
     </tr>
     <tr> 
    <td><strong>Manuell avbruten chatt</strong>: Både besökare och agenter kan nu avsluta en live-chattsession manuellt.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
   <tr> 
    <td> </td> 
