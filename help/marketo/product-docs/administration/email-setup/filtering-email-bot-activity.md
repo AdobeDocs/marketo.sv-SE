@@ -3,10 +3,10 @@ description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumenta
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 12%
+source-wordcount: '507'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Välj **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]** eller båda. Välj om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity].
+1. Det finns två reglage att välja mellan. Du kan bara aktivera en eller båda. Om du aktiverar **[!UICONTROL Match with IAB List]** väljer du om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Om du aktiverar **[!UICONTROL Match with Proximity Pattern]** väljer du om du vill [!UICONTROL log bot activity] _eller_ [!UICONTROL filter bot activity]. Du kan också ange antalet sekunder för **Varaktighet mellan aktiviteter** (standard är 0, max är 3).
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
+>Med **Varaktighet mellan aktiviteter** om 0 sekunder kommer vi att identifiera e-postaktiviteter som inträffar exakt samma sekund. Om flera e-postaktiviteter inträffar inom det angivna antalet sekunder identifieras de som en Båda-aktivitet.
 
-**VALFRITT STEG**: Om du vill inaktivera den här funktionen avmarkerar du reglaget/reglagen. Om du inaktiverar återställs inte data.
+>[!IMPORTANT]
+>
+>* Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
+
+**VALFRITT STEG**: Om du vill inaktivera någon av funktionerna avmarkerar du bara respektive reglage. Om du gör det återställs inte data.
 
 >[!TIP]
 >

@@ -3,9 +3,9 @@ description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,17 @@ Till höger på skärmen Agent Inbox kan du se (uppifrån och ned) deras namn, b
 
 ![](assets/agent-inbox-5.png)
 
+## Avsluta en session {#end-a-session}
+
+Agenter kan avsluta en session manuellt genom att klicka på **Avsluta session** intill besökarinformationen.
+
+![](assets/agent-inbox-6.png)
+
 ## Aktivitetshistorik {#activity-history}
 
 Under besökarinformationen finns aktivitetshistorik. Visa aktivitetstyper och datum och till och med chattutdrag.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en
 
 1. Klicka på kalenderikonen.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Välj önskad agentkalender och klicka på **Skicka**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Chattbesökaren kan boka ett möte.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
