@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c38af227139a1c34be5f59f63e8b71f63b930da5
+source-git-commit: 482b3b2979bc46c703bfd391538d686a8c3c750f
 workflow-type: tm+mt
 source-wordcount: '9299'
 ht-degree: 0%
@@ -185,7 +185,7 @@ ht-degree: 0%
          + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
          + Prenumeration och användarmigrering {#subscription-and-user-migration}
-            + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
+            + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
       + Inställningar {#settings}
          + [API-information för massexport](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
