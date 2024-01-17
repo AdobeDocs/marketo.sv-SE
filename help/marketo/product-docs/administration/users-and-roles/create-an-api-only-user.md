@@ -4,16 +4,20 @@ description: Skapa en användare med endast API - Marketo Docs - produktdokument
 title: Skapa endast en API-användare
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # Skapa endast en API-användare {#create-an-api-only-user}
 
 Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}måste du skapa en användare med enbart API. Så här gör du.
+
+>[!NOTE]
+>
+>Om du skapar användare med endast API i en prenumeration som har överförts till Adobe Identity, ska du följa dina steg [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -59,4 +63,4 @@ Okej då! Nu ska vi skapa en anpassad tjänst.
 
 >[!MORELIKETHIS]
 >
->[Skapa en anpassad tjänst för användning med ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

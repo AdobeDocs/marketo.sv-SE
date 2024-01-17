@@ -2,10 +2,10 @@
 description: Ärvd kontrollista för instansadministratör - Marketo Docs - Produktdokumentation
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 
 >[!NOTE]
 >
->Detta gäller endast prenumerationer på [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} i Marketo Engage > Admin > Användare &amp; roller.
+>Detta gäller endast Marketo Engage abonnemang hos [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} i Marketo Engage > Admin > Användare &amp; roller.
 
 <table> 
  <tbody> 
@@ -288,11 +288,31 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td>Webbtjänster</td> 
    <td><li>är <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-begränsningar</a> aktiverad? Borde de vara det?</li>
 <li>Vilka användare/appar gör API-anrop i din instans?</li>
-<li>Stöter du eller är du nära att stöta på API-gränsen? 
+<li>Stöter du eller är du nära att stöta på API-gränsen?
 <br/>     Om så är fallet bör du överväga att öka den eller granska instansen för att få ned API-anropen.</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight (om tillämpligt)</td> 
+   <td>Adobe Dynamic Chat (om tillämpligt)</td> 
+<td><li>Har du godkänt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Produktadministratör för Dynamic Chat</a> inbjudan? E-postmeddelandet skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du är utsedd som systemadministratör.
+<br/>     Om inte, sök efter välkomstmeddelandet i din inkorg och acceptera inbjudan att konfigurera din Adobe ID.</li>   
+<li>Har du lagt till <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">önskade användare</a> till produktprofilen för Dynamic Chat i Adobe Admin Console?
+<ul>
+<li>Se till att dina berättigade användare har produktprofilen Dynamic Chat i sin Adobe-identitet. Du kan inte tilldela Access Dynamic Chat-roller i Marketo Engage &gt; Admin &gt; Användare och roller om de läggs till i en produktprofil.</li>
+<li>Anpassar standardprofilbehörigheterna till vad din organisation behöver på fliken Produktprofiler?<br/> 
+Om inte redigerar du behörigheterna för den specifika profilen. </li>
+<li>Om du har fler än en prenumeration, läggs dina användare till i rätt prenumerationer?</li>
+</ul>
+</li>
+När du är klar med granskningen av inställningarna för Användare och roller loggar du in på Dynamic Chat för att fortsätta granskningen.  
+<li>Är synkroniseringen av Marketo Engage och Dynamic Chat fortfarande aktiverad på fliken Integreringar?</li>
+<li>Gäller de fem standardprofilerna med fördefinierade behörigheter din organisation?<br/> 
+     Annars kan du <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">redigera dem i Dynamic Chat</a>. Du kan också <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">skapa en anpassad profil</a> med en anpassad uppsättning behörigheter.</li>
+<li>Om du vill ge dina användare åtkomst till Dynamic Chat, har du markerat Access Dynamic Chat i den tillämpliga rollen Marketo Engage under Admin &gt; Användare och roller &gt; Roller?
+<br/><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Rollerna Admin och Marketing User bör ha tillgång till Dynamic Chat.</li>
+<li>Har du <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">har kopplat din Marketo Engage-instans</a> till Dynamic Chat?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight (om tillämpligt)</td> 
    <td><li>Har <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-paketet har installerats</a>?</li>
 <li>Har du <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">uppgraderat till den senaste versionen av Sales Insight</a>?</li>
 <li>Har du slutfört konfigurationen av Sales Insight? <br/>     Företag/obegränsade användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klicka här</a>, Professional-användare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klicka här</a>.</li>
