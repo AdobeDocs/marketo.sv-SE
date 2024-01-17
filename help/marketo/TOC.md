@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: c38af227139a1c34be5f59f63e8b71f63b930da5
 workflow-type: tm+mt
-source-wordcount: '9295'
+source-wordcount: '9299'
 ht-degree: 0%
 
 ---
@@ -182,9 +182,10 @@ ht-degree: 0%
          + [Lägg till eller ta bort en produktadministratör](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Lägg till eller ta bort en användare](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Vanliga frågor och svar](product-docs/administration/marketo-with-adobe-identity/faq.md)
-         + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+         + Prenumeration och användarmigrering {#subscription-and-user-migration}
+            + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
       + Inställningar {#settings}
          + [API-information för massexport](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
