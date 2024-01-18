@@ -4,10 +4,10 @@ description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Pro
 title: Marketo Plugin Releases for Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '464'
+ht-degree: 0%
 
 ---
 
@@ -39,11 +39,26 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
    <th colspan="1">Version</th> 
    <th colspan="1">Releasedatum</th> 
    <th>Anteckningar</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">Felkorrigering: Felkorrigerade fel relaterade till den anpassade entitetssynkroniseringen.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">Felkorrigering: Korrigerade fel som förhindrade att kontakter på MS Dynamics slogs samman.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">Felkorrigering: Förhindrar att plugin-programmet skriver över andra anpassningar av gränssnittselementen i MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
    <td colspan="1">02/04/21</td> 
-   <td colspan="1">Stöd för synkronisering av flervalsalternativuppsättningsfält (den här funktionen är endast tillgänglig för V9.X och senare). .</td> 
+   <td colspan="1">Stöd för synkronisering av flervalsalternativuppsättningsfält (den här funktionen är endast tillgänglig för V9.X och senare).</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -68,7 +83,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">Felkorrigering: Plugin-programmet prenumererade inte på händelser som fångar statusändringen för det anpassade objektet. Den här korrigeringen är specifik för Dynamics CRM On Premise 2011. </td> 
+   <td colspan="1">Felkorrigering: Plugin-programmet prenumererade inte på händelser som fångar statusändringen för det anpassade objektet. Den här korrigeringen är specifik för Dynamics CRM On Premise 2011.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,7 +93,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>Felkorrigering: En onödig uppdateringstransaktion för kundaffärsmöjlighetsrollen i marknadsföringsloggen noterades när affärsmöjligheten skapades. </p><p>Felkorrigering: En extra borttagningstransaktion loggades när kundens affärsmöjlighetsroll togs bort.</p></td> 
+   <td colspan="1">Felkorrigering: En onödig uppdateringstransaktion för kundaffärsmöjlighetsrollen i marknadsföringsloggen noterades när affärsmöjligheten skapades.<p>Felkorrigering: En extra borttagningstransaktion loggades när kundens affärsmöjlighetsroll togs bort.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
