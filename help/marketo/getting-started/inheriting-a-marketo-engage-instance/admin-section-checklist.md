@@ -3,9 +3,9 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 0%
 
 ---
@@ -293,16 +293,16 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (om tillämpligt)</td> 
-<td><li>Har du godkänt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Produktadministratör för Dynamic Chat</a> inbjudan? E-postmeddelandet skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du är utsedd som systemadministratör.
+<td>Om du följer stegen nedan måste du ha tillgång till <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Om du inte har konfigurerat en Adobe ID än <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">lär dig hur man gör det här</a>.
+<br/>
+<li>Har du godkänt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Produktadministratör för Dynamic Chat</a> inbjudan? E-postmeddelandet skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du är utsedd som systemadministratör.
 <br/>     Om inte, sök efter välkomstmeddelandet i din inkorg och acceptera inbjudan att konfigurera din Adobe ID.</li>   
 <li>Har du lagt till <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">önskade användare</a> till produktprofilen för Dynamic Chat i Adobe Admin Console?
-<ul>
 <li>Se till att dina berättigade användare har produktprofilen Dynamic Chat i sin Adobe-identitet. Du kan inte tilldela Access Dynamic Chat-roller i Marketo Engage &gt; Admin &gt; Användare och roller om de läggs till i en produktprofil.</li>
 <li>Är standardprofilbehörigheterna anpassade efter organisationens behov på fliken Produktprofiler?<br/> 
 Om inte redigerar du behörigheterna för den specifika profilen. </li>
 <li>Om du har fler än en prenumeration, läggs dina användare till i rätt prenumerationer?</li>
-</ul>
-</li>
+<br>
 När du är klar med granskningen av inställningarna för Användare och roller loggar du in på Dynamic Chat för att fortsätta granskningen.  
 <li>Har du <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">har kopplat din Marketo Engage-instans</a> till Dynamic Chat?</li>
 <li>Gäller de fem standardprofilerna med fördefinierade behörigheter din organisation?<br/> 
