@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Översikt över live-chatt {#live-chat-overview}
 
 Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med säljarna.
+
+>[!NOTE]
+>
+>Konversationsflöden och live-chatt är gemensamma utvärderingsfunktioner som har en kombinerad livstidsgräns på 100 åtaganden för dem som ingår i paketet Dynamic Chat Select. När denna gräns har nåtts kommer alla publicerade konversationsflöden att sluta utlösas och besökare som begär att chatta med en live-agent får det globala återgångsmeddelandet. Kontakta din kontorepresentant för att diskutera alternativ för paketuppgradering om du vill öka den här gränsen.
 
 ## Lägg till chattagenter live {#add-live-chat-agents}
 
