@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
+source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '683'
 ht-degree: 1%
 
 ---
@@ -177,7 +177,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 ## Meddelanden {#announcements}
 
-* **Synkronisera lead-API-uppdatering**: Funktionen för API:t för synkronisering av lead har ändrats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
+* **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: I januariversionen 2024 uppdaterar vi jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
