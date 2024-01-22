@@ -4,7 +4,7 @@ description: Versionsinformation -Sommaren 16 - Marketo Docs - Produktdokumentat
 title: Versionsinformation - Sommaren 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Versionsinformation: Sommaren 16 {#release-notes-summer}
 
-Följande funktioner ingår i sommarversionen 16. Se om det finns funktioner i din Marketo-utgåva. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
+Följande funktioner ingår i sommarversionen 16. Se om det finns funktioner i Marketo Edition. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
 ## [Kontobaserad marknadsföring](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
@@ -39,7 +39,7 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint-integrering](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint-integrering](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Skapa enkelt SMS-meddelanden direkt i Marketo. Anpassa och anpassa ert budskap med hjälp av era omfattande Marketo-data och övervaka enkelt hur det fungerar med SMS-meddelandeinstrumentpanelen.
 

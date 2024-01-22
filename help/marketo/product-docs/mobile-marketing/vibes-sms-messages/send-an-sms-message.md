@@ -2,7 +2,7 @@
 description: Skicka ett SMS-meddelande - Marketo Docs - produktdokumentation
 title: Skicka ett SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Du har [skapade SMS-meddelandet](/help/marketo/product-docs/mobile-marketing/vib
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett Vibes-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Skapa ett Vibes-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Använda SMS-alternativ i en smart kampanj](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

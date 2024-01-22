@@ -4,10 +4,10 @@ description: Understanding Local Assets in a Program - Marketo Docs - Product Do
 title: Förstå lokala resurser i ett program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassni
 * [Testgrupp](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
 * [Knappen Socialt](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
 * [Youtube Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [Röstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [Värvningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
-* [Dragningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
-* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+* [Omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
+* [Referenserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
+* [Lotteriet](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
+* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
