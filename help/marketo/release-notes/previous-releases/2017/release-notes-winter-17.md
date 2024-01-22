@@ -4,16 +4,16 @@ description: Versionsinformation -vinter '17 - Marketo Docs - produktdokumentati
 title: Versionsinformation -vinter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Vintern &#39;17 {#release-notes-winter}
+# Versionsinformation: Vinter 17 {#release-notes-winter}
 
-Följande funktioner finns i vinterversionen 17. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i vinterversionen 17. Se om det finns funktioner i Marketo Edition.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
@@ -31,9 +31,9 @@ Grundläggande matchning använder endast e-postadresser, men i ny avancerad mat
 
 Detta API ger ett snabbare gränssnitt för att synkronisera anpassade objekt till Marketo. Du kan importera CSV-, TSV- eller SSV-kalkylbladsfiler till Marketo som anpassade objekt.
 
-## [Export av webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Export av webbkampanjer för personalisering](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
-Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Sedan kan du visa data i en bekväm layout.
+Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Sedan kan du visa dina data i en bekväm layout.
 
 ![](assets/web-personalization-csv-download-hand.png)
 
@@ -67,7 +67,7 @@ Filtrera prediktiva innehållsdelar som är aktiverade för e-post, multimedia e
 
 **[Filtrera analyser efter källa](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Analys av filterprediktivt innehåll för specifika källor - e-post, multimedia eller rekommendationsfält.
+Filtrera prediktiv innehållsanalys för specifika källor - e-post, multimedia eller rekommendationsfält.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,14 +85,14 @@ Bild-URL och metadata används nu i processen för automatisk identifiering av i
 
 Utvecklare har nu ytterligare kontroll över leveransen av push-meddelanden med ett nytt SDK API-anrop som gör att utvecklare kan ta bort push-tokens.
 
-## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Förbättra er målinriktning med ett nytt filteralternativ,&quot;Member of Vibes List&quot;.
 
-## [Äldre textredigerare och formulärredigerare 1.0-borttagning](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Äldre RTF-redigerare och formulärredigerare 1.0-borttagning](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 Från och med den 1 augusti 2017 kommer kunder som fortfarande använder den gamla RTF-redigeraren och formulärredigeraren 1.0 automatiskt att övergå till den nya versionen.
 
 ## [Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-En viktig förändring kommer att göras i Marketo aktivitets-API:er. Är du redo?
+En viktig förändring kommer att göras i Marketo aktivitets-API:er. Är du förberedd?
