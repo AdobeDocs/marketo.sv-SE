@@ -1,19 +1,17 @@
 ---
-description: Dok - Marketo Docs - produktdokumentation
-title: Dok
-hide: true
-hidefromtoc: true
+description: SMS-ordlista - Marketo Docs - produktdokumentation
+title: SMS-ordlista
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # SMS-ordlista {#sms-glossary}
 
-Nedan visas vanliga termer som du kommer att stöta på när du använder Vibes SMS-meddelanden med Marketo Engage.
+Nedan visas några vanliga termer som du kommer att stöta på när du använder Vibes SMS-meddelanden med Marketo Engage.
 
 <table>
 <thead>

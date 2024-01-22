@@ -1,10 +1,8 @@
 ---
 description: Använda SMS-alternativ i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använda SMS-alternativ i en smart kampanj
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -17,11 +15,11 @@ Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-
 
 >[!NOTE]
 >
->Om du vill skicka ett SMS har vi en [specifik artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) för det.
+>Om du vill skicka ett SMS har vi en [specifik artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} för det.
 
 >[!PREREQUISITES]
 >
->SMS-utlösare/filter visas bara om [Vibes-tjänsten har aktiverats](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMS-utlösare/filter visas bara om [Vibes-tjänsten har aktiverats](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS-utlösare {#sms-triggers}
 
@@ -87,6 +85,6 @@ Det finns tre SMS-flödessteg att välja mellan.
 
 >[!MORELIKETHIS]
 >
->* [Skicka ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [Skicka ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

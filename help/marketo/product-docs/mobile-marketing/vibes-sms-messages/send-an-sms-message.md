@@ -1,19 +1,17 @@
 ---
 description: Skicka ett SMS-meddelande - Marketo Docs - produktdokumentation
 title: Skicka ett SMS
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # Skicka ett SMS {#send-a-vibes-sms-message}
 
-Du har [skapade SMS-meddelandet](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), nu är det dags att skicka det. Du kan skicka det via Gruppera eller Utlös kampanj.
+Du har [skapade SMS-meddelandet](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, nu är det dags att skicka det. Du kan skicka det via Gruppera eller Utlös kampanj.
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ Du har [skapade SMS-meddelandet](/help/marketo/product-docs/mobile-marketing/vib
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett Vibes-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Vibes Flow Steps
-
+>* [Skapa ett Vibes-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Använda SMS-alternativ i en smart kampanj](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
