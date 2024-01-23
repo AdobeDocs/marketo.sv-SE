@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 1%
 
 ---
@@ -176,6 +176,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 <br/>
 
 ## Meddelanden {#announcements}
+
+* [Webbinariet Marketo Engage från januari 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
 
