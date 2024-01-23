@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
 workflow-type: tm+mt
-source-wordcount: '2329'
+source-wordcount: '2269'
 ht-degree: 0%
 
 ---
@@ -71,31 +71,29 @@ I nästa avsnitt på fliken Migreringsstatus finns två förloppsindikatorer. De
 
 Därefter visas tre avsnitt av statusen för administratören.
 
-Det första avsnittet handlar om e-postverifieringsstatus för användare i prenumerationen.
+* **Verifiering av användarens e-postadress**: verifieringsstatus för användare i prenumerationen.
+* **Migrering och aktivering av användare**: användarmigrering och aktivering (migrering och tillstånd till Marketo Engage-produkten) för de användare som ingår i prenumerationen.
+* **Bekräftelse av migrering**: prenumerationens slutförandestatus för migrering.
 
-Det andra avsnittet gäller användarmigrering och aktivering (dvs. migrering och berättigande till Marketo Engage-produkten) för de användare som ingår i prenumerationen.
-
-Det tredje avsnittet handlar om prenumerationens status för slutförande av migrering.
-
-Verifiering av användarens e-postadress
+**Verifiering av användarens e-postadress**
 
 I avsnittet Verifiering av användarens e-post kan en administratör hitta den aktuella statusen för e-postverifiering för användarna i prenumerationen, innan migrering till Adobe-identitet sker.
 
 En administratör kan visa prenumerationens e-postverifieringsstatus, hur många användare i prenumerationen som har slutfört e-postverifieringen och hur många användare som har markerats som ignorerade. Status rapporteras för alla användares e-postverifieringstillstånd i prenumerationen. Administratören kan klicka på antalet användare som hoppats över och navigeras till fliken Användarmigrering för att visa de användare som hoppats över.
 
-Bekräftelsemeddelandet kan skickas igen av en administratör på fliken Användarmigrering på migreringskonsolen och på fliken Användare och roller i området Marketo Admin, eller av användaren i deras kontoinställningar. Länken i bekräftelsemeddelandet upphör att gälla om 3 dagar, precis som i e-postmeddelanden med användarinbjudningar. Mer information om e-postverifiering finns i Community &lt;nation.marketo.com> och i e-postverifieringsdokumentationen &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/email-verification.html?lang=en>.
+Bekräftelsemeddelandet kan skickas igen av en administratör på fliken Användarmigrering på migreringskonsolen och på fliken Användare och roller i området Marketo Admin, eller av användaren i deras kontoinställningar. Länken i bekräftelsemeddelandet upphör, precis som med e-postmeddelanden från användare, om 3 dagar. Mer information om e-postverifiering finns på [Community](nation.marketo.com) och i [dokumentation om e-postverifiering](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
-VIKTIGT
+>[!IMPORTANT]
+>
+>Om en Marketo Engage-användare inte kan verifiera sin e-postadress kan de inte migreras till en Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när migreringen är klar. För att återfå åtkomst måste en Marketo-produktadministratör lägga till dem som en ny användare.
 
-Om en Marketo Engage-användare inte verifierar sin e-postadress kan de inte migreras till en Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när prenumerationen har migrerats. För att återfå åtkomsten när migreringen är klar måste en Marketo-produktadministratör lägga till dem som en ny användare.
-
-Migrering och aktivering av användare
+**Migrering och aktivering av användare**
 
 I avsnittet Användarmigrering och aktivering hittar en administratör den aktuella statusen för total användarmigrering och behörighet till Adobe Identity Management System.
 
 En administratör kan visa procentandelen användare i prenumerationen som har migrerats till en Adobe ID eller markerats som Överhoppad. Status rapporteras för alla användares migreringstillstånd till en Adobe ID i prenumerationen, eller markeras som Överhoppad och kommer inte att migreras. När användare migreras och har rätt till Marketo Engage, eller hoppas över, uppdateras den här statusen.
 
-Bekräftelse av migrering
+**Bekräftelse av migrering**
 
 I avsnittet Bekräftelse av migrering måste en administratör bekräfta att användarmigreringen har slutförts för prenumerationen.
 
@@ -103,7 +101,7 @@ När alla användare i prenumerationen har tagits med (antingen migrerats eller 
 
 SCREENSHOT
 
-Administratören som utför migreringen måste slutföra migreringsbekräftelsen genom att klicka på knappen Slutför migrering. De uppmanas att bekräfta att migreringen har slutförts.
+Administratören som utför migreringen måste bekräfta migreringen genom att klicka på **Slutför migrering** -knappen.
 
 SCREENSHOT
 
@@ -111,17 +109,17 @@ När användarmigreringen är klar tas migreringskonsolen bort från navigerings
 
 ### Förfallotid för användarmigrering {#user-migration-expiration}
 
-Adobe kräver att man slutför självbetjäningsmigreringar inom 30 dagar. Administratörer kommer inte att blockeras från att migrera användare eller slutföra migreringen om utgångsdatumet har passerat, men de kommer bara att kunna migrera användare på begäran.  Om en administratör behöver mer tid kan de förlänga prenumerationens förfallodatum.
+Adobe kräver att man slutför självbetjäningsmigreringar inom 30 dagar. Administratörer kommer inte att blockeras från att migrera användare eller slutföra migreringen om utgångsdatumet har passerat, men de kommer bara att kunna migrera användare på begäran. Om en administratör behöver mer tid kan de förlänga prenumerationens förfallodatum.
 
 SCREENSHOT
 
-Genom att klicka på knappen &quot;Utöka förfallodatum&quot; uppdateras datumet till en vecka senare. En administratör kan förlänga giltigheten upp till tre gånger.
+Klicka på **Utöka förfallodatum** uppdateras datumet till en vecka senare. En administratör kan förlänga giltigheten upp till tre gånger.
 
 SCREENSHOT
 
 SCREENSHOT
 
-Adobe kommer att vara ute efter att en kund inte har slutfört migreringen före förfallodatumet.
+Adobe kommer att nå ut om du inte slutfört migreringen före förfallodatumet.
 
 ### Fliken Användarmigrering {#user-migration-tab}
 
@@ -129,102 +127,98 @@ På fliken Användarmigrering kan administratörer ha fullständig kontroll öve
 
 Administratörer kan välja att:
 
-Utlös verifieringsmeddelanden för overifierade användare via knappen Verifiera e-post
-
-Hoppa över användarmigrering för användare som administratören vet inte kan/kommer inte att verifiera sin e-post eller ska inte migreras via knappen Hoppa över migrering
-
-Migrera valda användare vid behov via knappen Migrera nu
-
-Schemalägg användarmigrering för valda användare för ett specifikt datum med knappen Schemalägg migrering
-
-Migrera alla berättigade användare på begäran (inget användarval behövs) via knappen Migrera alla användare
+* Utlös verifieringsmeddelanden för overifierade användare via knappen Verifiera e-post
+* Hoppa över användarmigrering för användare som administratören vet kan/inte kan verifiera sin e-postadress eller ska inte migreras via knappen Hoppa över migrering
+* Migrera valda användare vid behov via knappen Migrera nu
+* Schemalägg användarmigrering för valda användare för ett specifikt datum med knappen Schemalägg migrering
+* Migrera alla berättigade användare på begäran (inget användarval behövs) via knappen Migrera alla användare
 
 SCREENSHOT
 
-Verifiera e-post
+**Verifiera e-post**
 
-E-postverifiering krävs för att en användare ska kunna migreras till en Adobe ID. Om det finns användare som inte har verifierat sin e-postadress och behöver migreras, kan administratören utlösa bekräftelsemeddelandet som skickas till användaren igen. Om du väljer en overifierad användare aktiveras knappen Bekräfta e-post och meddelandet skickas.
-
-SCREENSHOT
-
-När administratören klickar på knappen Bekräfta e-post får de ett meddelande om att e-postmeddelandet har skickats.
+E-postverifiering krävs för att en användare ska kunna migreras till en Adobe ID. Om det finns användare som inte har verifierat sin e-postadress och behöver migreras, kan administratören utlösa bekräftelsemeddelandet som skickas till användaren igen. Om du väljer en overifierad användare blir knappen Bekräfta e-post klickbar.
 
 SCREENSHOT
 
-Hoppa över och ångra användarmigrering
+När administratören klickar på **Verifiera e-post** så får de ett meddelande om att e-postmeddelandet skickades.
+
+SCREENSHOT
+
+**Hoppa över och ångra användarmigrering**
 
 Under användarmigreringen måste alla användare antingen migreras eller hoppas över. Adobe kräver att administratörer bekräftar att en användare inte migreras och att en administratör måste markera användaren som överhoppad. Om administratören inte gör det kan de inte bekräfta att användarmigreringen har slutförts. Alla användare som hoppats över kommer inte längre att ha tillgång till Marketo när migreringen är klar.
 
-VIKTIGT
+>[!IMPORTANT]
+>
+>En administratör måste hoppa över alla användare med overifierade e-postmeddelanden. Om det finns användare som har verifierat sina e-postmeddelanden, men administratören inte vill migrera dem av någon anledning, bör de markeras som ignorerade.
 
-En administratör måste hoppa över alla användare med overifierade e-postmeddelanden. Om det finns användare som har verifierat sina e-postmeddelanden, men administratören inte vill migrera dem av någon anledning, bör de markeras som ignorerade.
-
-Om du vill hoppa över en användare kan administratören välja önskad användare. Knappen Hoppa över migrering aktiveras. När du klickar på knappen Hoppa över migrering uppdateras sidan och den valda användarens verifieringsstatus och migreringsstatus uppdateras till Överhoppad.
-
-SCREENSHOT
-
-En administratör kan ångra hoppet över en användare som hoppats över, om det upptäcks att användaren måste migreras.
-
-Administratören kan välja önskad användare om användaren ska ångras. Knappen för att ångra migrering aktiveras. När du klickar på knappen Ångra migrering uppdateras sidan.  Den valda användarens verifieringsstatus uppdateras till den aktuella statusen, antingen Verifierad eller Overifierad, och användarens migreringsstatus uppdateras till Inte startad.
+Om du vill hoppa över en användare kan administratören välja önskad användare. Knappen Hoppa över migrering blir klickbar. Klicka på knappen **Hoppa över migrering** uppdateras sidan och den valda användarens verifieringsstatus och migreringsstatus uppdateras till Överhoppad.
 
 SCREENSHOT
 
-ANMÄRKNING
+En administratör kan ångra hoppet över en användare som hoppats över, om det är fastställt att användaren måste migreras.
 
-Knappen Ångra migrering är bara aktiv om alla valda användare har migreringsstatusen Överhoppad.
-
-Migrera Marketo-användare till Adobe-ID:n
-
-För kunder som vill ha större kontroll under användarmigreringen stöder Marketo självbetjäning för prenumerationer med 75 eller fler användare. Marketo produktadministratörer kan välja vilka användare som ska migreras gruppvis, eller alla berättigade användare samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna den flexibilitet och kontroll som behövs för att migrera och när användarna ska migreras. Administratörer kan också välja att migrera alla användare i en prenumeration.
-
-En administratör kan t.ex. välja en grupp med&quot;avancerade&quot; användare som de vill migrera först. När dessa användarmigreringar har slutförts kan de välja olika grupper baserat på exempelvis arbetsyta eller affärsfunktion eller roll för att batchmigrera användare ytterligare. Eller så kan de bestämma sig för att migrera alla övriga användare i prenumerationerna efter att den första gruppbearbetningen har slutförts. Målet är att ge största flexibilitet när det gäller att distribuera Adobe ID till användare.
-
-Alla användarmigreringar sker samtidigt och bör slutföras inom sextio sekunder. När en användarmigrering sker för en viss användare kan användaren förlora åtkomsten i upp till en minut, och det är bara om användaren är inloggad i programmet. När användarmigreringen är klar får användaren ett e-postmeddelande om hur man loggar in i Marketo Engage med en Adobe-identitet. Användaren måste acceptera inbjudan via knapplänken i e-postmeddelandet. När användaren har accepterat inbjudan bör han/hon logga in med en Adobe ID. Här finns instruktioner om hur du loggar in i Marketo Engage med en Adobe ID. &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.html>
+Administratören kan välja önskad användare om användaren ska ångras. Knappen för att ångra migrering kan klickas. Klicka på knappen **Ångra migrering** kommer sidan att uppdateras.  Den valda användarens verifieringsstatus uppdateras till den aktuella statusen, antingen Verifierad eller Overifierad, och användarens migreringsstatus uppdateras till Inte startad.
 
 SCREENSHOT
 
-Användarmigreringar behandlas oberoende av varandra, så om en användarmigrering misslyckas kommer Adobe att fortsätta att bearbeta andra användarmigreringar. Om ett migreringsfel inträffar krävs ingen åtgärd av en administratör. Adobe Engineering kommer att arbeta för att åtgärda problemet så snart som möjligt. Administratören kommer att få ett e-postmeddelande om felet och få ett meddelande om att Adobe arbetar med att lösa problemet omedelbart. Om en användares migrering misslyckas och användaren är inloggad i Marketo Engage, kan användaren förlora åtkomsten i upp till två minuter, medan det görs nya migreringsförsök.  Om en användares migrering misslyckas kan användaren fortsätta få åtkomst till Marketo-identiteten i Marketo Engage tills han/hon får ett e-postmeddelande om att migreringen lyckades och han/hon uppmanas att logga in med en Adobe ID.
+>[!NOTE]
+>
+>Knappen Ångra migrering är bara aktiv om alla valda användare har migreringsstatusen Överhoppad.
+
+### Migrera Marketo-användare till Adobe-ID:n {#migrating-marketo-users-to-adobe-ids}
+
+För dem som vill ha större kontroll under användarmigreringen stöder Marketo självbetjäning för prenumerationer med 75 eller fler användare. Marketo produktadministratörer kan välja vilka användare som ska migreras gruppvis, eller alla berättigade användare samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna flexibilitet och kontroll över vilka användare som migreras och när. Administratörer kan också välja att migrera alla användare i en prenumeration.
+
+En administratör kan t.ex. välja en grupp&quot;avancerade användare&quot; som de vill migrera först. När dessa användarmigreringar har slutförts kan de välja olika grupper baserat på variabel som arbetsyta/affärsfunktion/roll för att batchmigrera användare ytterligare. Eller så kan de bestämma sig för att migrera resten av användarna i prenumerationerna efter att den första gruppen har slutförts. Målet är att ge största flexibilitet när det gäller att distribuera Adobe ID till användare.
+
+Alla användarmigreringar sker samtidigt och bör slutföras inom sextio sekunder. När en användarmigrering sker för en viss användare kan användaren förlora åtkomsten i upp till en minut, och det är bara om användaren är inloggad i programmet. När användarmigreringen är klar får användaren ett e-postmeddelande om hur man loggar in i Marketo Engage med en Adobe-identitet. Användaren måste acceptera inbjudan via knapplänken i e-postmeddelandet. När användaren har accepterat inbjudan bör han/hon logga in med en Adobe ID. Instruktioner om hur du loggar in i Marketo Engage med en Adobe ID [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 SCREENSHOT
 
-Migrera nu
-
-En administratör kan välja en eller flera användare att migrera på begäran. Detta kommer att utlösa migreringen av användarna omedelbart. Om du vill migrera en eller flera användare väljer administratören önskade användare och knappen Migrera nu aktiveras.
+Användarmigreringar behandlas oberoende av varandra, så om en användarmigrering misslyckas kommer Adobe att fortsätta att bearbeta andra användarmigreringar. Om ett migreringsfel inträffar krävs ingen åtgärd av en administratör. Administratören kommer att få ett e-postmeddelande om felet och få ett meddelande om att Adobe arbetar med att lösa problemet omedelbart. Om en användares migrering misslyckas och den användaren är inloggad i Marketo Engage, kan användaren förlora åtkomsten i upp till två minuter medan det görs nya migreringsförsök. Om en användares migrering misslyckas kan användaren fortsätta få åtkomst till Marketo-identiteten i Marketo Engage tills han/hon får ett e-postmeddelande om att migreringen lyckades och han/hon uppmanas att logga in med en Adobe ID.
 
 SCREENSHOT
 
-ANMÄRKNING
+**Migrera nu**
 
-Knappen Migrera nu är bara aktiv om alla valda användare har Verified-status.
-
-När du klickar på knappen Migrera nu uppmanas administratören att bekräfta migreringen av de valda användarna. När administratören har bekräftat börjar användarmigreringen bearbetas så snart som möjligt.
+En administratör kan välja en eller flera användare att migrera på begäran. Detta kommer att utlösa migreringen av användarna omedelbart. Om du vill migrera en eller flera användare kan administratören välja önskade användare och knappen Migrera nu kan klickas.
 
 SCREENSHOT
 
-Schemalägg migrering
+>[!NOTE]
+>
+>Knappen Migrera nu är bara aktiv om alla valda användare har Verified-status.
 
-En administratör kan välja en eller flera användare att schemalägga migrering vid ett senare datum. Om du vill schemalägga migrering för en eller flera användare väljer administratören önskade användare och knappen Schemalägg migrering aktiveras.
-
-SCREENSHOT
-
-ANMÄRKNING
-
-Knappen Schemalägg migrering är bara aktiv om alla valda användare har Verified-verifieringsstatus.
-
-När du klickar på knappen Schemalägg migrering uppmanas administratören att välja önskat migreringsdatum för de valda användarna. Administratören kan bara välja datum före prenumerationens förfallodatum för migrering. När administratören har bekräftat kommer migreringen/migreringarna att schemaläggas att börja bearbetas det valda datumet.
+Klicka på knappen **Migrera nu** uppmanas administratören att bekräfta migreringen av de valda användarna. När administratören har bekräftat börjar användarmigreringen bearbetas så snart som möjligt.
 
 SCREENSHOT
 
-ANMÄRKNING
+**Schemalägg migrering**
 
-Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt, Pacific Standard Time, från migreringens startdatum. Migreringen av användare för alla andra prenumerationer börjar vid midnatt i prenumerationens angivna tidszon.
+En administratör kan välja en eller flera användare att schemalägga migrering vid ett senare datum. Om du vill schemalägga migrering för en eller flera användare väljer administratören önskade användare och knappen Schemalägg migrering blir klickbar.
 
-Migrera alla användare
+SCREENSHOT
+
+>[!NOTE]
+>
+>Knappen Schemalägg migrering är bara aktiv om alla valda användare har verifieringsstatusen &quot;Verified&quot;.
+
+Klicka på knappen **Schemalägg migrering** uppmanas administratören att välja önskat migreringsdatum för de valda användarna. Administratören kan bara välja datum före prenumerationens förfallodatum för migrering. När administratören bekräftar det schemaläggs användarmigreringen(en) att börja bearbetas det valda datumet.
+
+SCREENSHOT
+
+>[!NOTE]
+>
+>Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt, Pacific Standard Time, från migreringens startdatum. Migreringen av användare för alla andra prenumerationer börjar vid midnatt i prenumerationens angivna tidszon.
+
+**Migrera alla användare**
 
 En administratör kan när som helst välja att migrera alla berättigade användare i en prenumeration. Detta kommer att utlösa migreringen av de berättigade användarna omedelbart. Berättigade användare är användare med verifierade e-postmeddelanden som ännu inte har migrerats.
 
 SCREENSHOT
 
-När du klickar på knappen Migrera alla användare uppmanas administratören att bekräfta migreringen av alla berättigade användare. När administratören har bekräftat börjar användarmigreringen bearbetas så snart som möjligt.
+Klicka på knappen **Migrera alla användare** uppmanas administratören att bekräfta migreringen av alla berättigade användare. När administratören bekräftar det kommer användarmigreringen att börja bearbeta så snart som möjligt.
 
 SCREENSHOT
