@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ I avsnittet Verifiering av användarens e-post kan en administratör hitta den a
 
 En administratör kan visa prenumerationens e-postverifieringsstatus, hur många användare i prenumerationen som har slutfört e-postverifieringen och hur många användare som har markerats som ignorerade. Status rapporteras för alla användares e-postverifieringstillstånd i prenumerationen. Administratören kan klicka på antalet användare som hoppats över och navigeras till fliken Användarmigrering för att visa de användare som hoppats över.
 
-Bekräftelsemeddelandet kan skickas igen av en administratör på fliken Användarmigrering på migreringskonsolen och på fliken Användare och roller i området Marketo Admin, eller av användaren i deras kontoinställningar. Länken i bekräftelsemeddelandet upphör, precis som med e-postmeddelanden från användare, om 3 dagar. Mer information om e-postverifiering finns på [Community](nation.marketo.com) och i [dokumentation om e-postverifiering](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+Bekräftelsemeddelandet kan skickas igen av en administratör på fliken Användarmigrering på migreringskonsolen och på fliken Användare och roller i området Marketo Admin, eller av användaren i deras kontoinställningar. Länken i bekräftelsemeddelandet upphör, precis som med e-postmeddelanden från användare, om 3 dagar. Mer information om e-postverifiering finns på [Community](https://nation.marketo.com/) och i [dokumentation om e-postverifiering](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
