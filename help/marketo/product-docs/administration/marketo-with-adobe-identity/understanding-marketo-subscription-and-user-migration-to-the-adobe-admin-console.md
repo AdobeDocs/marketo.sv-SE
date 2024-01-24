@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Systemadministratörer kan behöva utföra några nödvändiga steg innan använ
 
 * Om du redan hanterar andra Adobe-produkter i din Adobe Admin Console kan Adobe begära ditt samtycke för att automatiskt migrera användare till din befintliga konsol. Klicka på knappen &quot;Kom igång&quot; i e-postmeddelandet för att navigera till godkännandesidan.
 
-Användarhanteringen förändras inte just nu. Marketo-administratörer fortsätter att hantera användare i Marketo Admin, och användare fortsätter att logga in med sin Marketo Identity tills deras användarmigrering är klar.
+Användarhanteringen förändras inte just nu. Även om Marketo-produkter visas i Admin Console fortsätter Marketo-administratörer att hantera användare i Marketo Admin-området, och användare fortsätter att logga in med sin Marketo Identity tills deras användarmigrering är klar. Under denna tid kan Marketo-produkter inte administreras i Admin Console förrän migreringen av användare påbörjas. Detta inkluderar den Dynamic Chat-instans som är associerad med prenumerationen.
+
+>[!NOTE]
+>
+>Om du för närvarande inte använder enkel inloggning, men funderar på att implementera den, rekommenderar vi att du gör det innan användarmigrering sker. Om du vill implementera enkel inloggning och din prenumeration har registrerats på Adobe Identity utan enkel inloggning (SSO) implementerad i Adobe Org skickar du en biljett till [Marketo Support](https://nation.marketo.com/){target="_blank"} och ange ämnet som&quot;Marketo on Admin Console, implementera enkel inloggning&quot;.
 
 ### Schemalägg användarmigrering {#schedule-user-migration}
 

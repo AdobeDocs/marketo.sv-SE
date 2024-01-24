@@ -4,9 +4,9 @@ description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '344'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >E-postadressen/inloggningen måste vara unik; om du redan har använt den i en sandlådeinstans måste du använda en annan i produktionen och vice versa.
+   >E-postadressen/inloggningen måste vara unik. Om du redan har använt den i en sandlådeinstans måste du använda en annan i produktionen och vice versa.
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -68,6 +68,10 @@ ht-degree: 2%
 Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande med instruktioner om hur du aktiverar kontot.
 
 ## Ta bort användare {#delete-users}
+
+>[!NOTE]
+>
+>Om användaren som du vill ta bort även är en Dynamic Chat-användare måste du [ta bort dem från Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) i Admin Console innan du kan ta bort dem i Marketo Engage.
 
 1. Gå till **[!UICONTROL Admin]** område.
 

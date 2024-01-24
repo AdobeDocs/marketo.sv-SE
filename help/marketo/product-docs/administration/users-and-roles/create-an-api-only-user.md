@@ -4,9 +4,9 @@ description: Skapa en användare med endast API - Marketo Docs - produktdokument
 title: Skapa endast en API-användare
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 Om du vill integrera med Marketo via [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}måste du skapa en användare med enbart API. Så här gör du.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Om du skapar användare med endast API i en prenumeration som har överförts till Adobe Identity, ska du följa dina steg [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Om du skapar användare med endast API i en prenumeration som har registrerats för Adobe Identity, är dina steg olika och [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >

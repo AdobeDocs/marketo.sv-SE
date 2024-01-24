@@ -4,9 +4,9 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
+
+>[!IMPORTANT]
+>
+>Detta gäller inte prenumerationer som är registrerade för Adobe Identity. För prenumerationer som är kopplade till Adobe Identity, ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -97,7 +101,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
    >
    >Kunder som använder Universal ID tillsammans med enkel inloggning måste ange identitetsleverantörens inloggnings-URL i **[!UICONTROL Login URL]** fält.
 
-1. Ange **[!UICONTROL Logout URL]**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
+1. Ange en **[!UICONTROL Logout URL]**. Det här är den URL som du vill att användaren ska dirigeras till när han/hon loggar ut från Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
