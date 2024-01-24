@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    </tr>
     <tr> 
    <td><strong>API-uppdatering för massimport av leads</strong>: En mindre justering har gjorts av beteendet för API:t för import av gruppleads när <b>id</b> anges som <b>lookupField</b> när jobb skapades. Om en personpost är länkad till den angivna <b>id</b> finns inte i Marketo Engage-databasen, ingen postuppdatering kommer att ske eftersom posten inte kan hittas. Det uppdaterade beteendet innebär nu att antalet ökar i <b>numOfRowsFailed</b> -egenskapen i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
    <td>n/a</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 ## Meddelanden {#announcements}
 
-* [Webbinariet Marketo Engage från januari 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: I januariversionen 2024 uppdaterar vi jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **E-postverifiering för användare med endast enkel inloggning**: Endast SSO-användare har verifierats automatiskt, vilket gör att de kan använda ett e-postkonto som inte är tillgängligt. Från och med mitten av januari kommer alla befintliga användare med enkel inloggning att bli overifierade och ombeds att verifiera sin e-post via en länk som vi skickar till e-postkontot. Alla nya användare med enkel inloggning behöver bara verifiera sina e-postadresser framöver.
+
+* Titta på [Webbinariet Marketo Engage från januari 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
