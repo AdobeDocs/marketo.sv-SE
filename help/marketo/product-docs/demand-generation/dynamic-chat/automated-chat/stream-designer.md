@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1108'
 ht-degree: 0%
 
 ---
@@ -24,36 +24,36 @@ Strömdesignern innehåller flera kort som du kan lägga till för att forma cha
 
 <table>
  <tr>
-  <td><strong>Meddelande</strong></td>
+  <td style="width:25%"><strong>Meddelande</strong></td>
   <td>Använd det här alternativet om du vill göra en programsats utan något svar (t.ex. "Hi! Alla artiklar är 25 % rabatt idag med koden SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Fråga</strong></td>
+  <td style="width:25%"><strong>Fråga</strong></td>
   <td>Använd detta när du vill ställa en flervalsfråga, där du kan ge tillgängliga svar (t.ex. vilken typ av fordon är du intresserad av? Svar = SUV, Compact, Truck osv.).</td>
  </tr>
  <tr>
-  <td><strong>Dokument</strong></td>
+  <td style="width:25%"><strong>Dokument</strong></td>
   <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
  </tr>
  <tr>
-  <td><strong>Information Capture</strong></td>
+  <td style="width:25%"><strong>Information Capture</strong></td>
   <td>Använd när du vill samla in information (t.ex. namn, e-postadress, befattning osv.). När du har valt vilket fält som svaren ska tilldelas till kan du välja mellan att låta besökartypen i svaret eller välja alternativ i en lista som du bestämmer (tips: det senare kan hjälpa till med att rensa databasen). Du kan också välja att skriva över alla data som du har angett för dem med deras svar, eller hoppa över frågan helt om du redan har ett värde för dem.</td>
  </tr>
  <tr>
-  <td><strong>Mötesbokning</strong></td>
+  <td style="width:25%"><strong>Mötesbokning</strong></td>
   <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa en <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till så att den inte skriver över ett standardfält i Marketo Engage).</td>
  </tr>
  <tr>
-  <td><strong>Mål</strong></td>
+  <td style="width:25%"><strong>Mål</strong></td>
   <td>Det här är det enda kortet som besökarna inte ser. Det är upp till dig att avgöra vid vilken punkt ett mål uppnås i den specifika chatten (t.ex. om du vill samla in besökarens e-postadress placerar du målkortet omedelbart efter Info Capture i strömmen).</td>
  </tr>
  <tr>
-  <td><strong>Åtgärd</strong></td>
+  <td style="width:25%"><strong>Åtgärd</strong></td>
   <td>Liknar dolda fält i ett formulär, med åtgärdskortet kan du fylla i alla lead- eller företagsattribut (som har en <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">strängdatatyp</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.</td>
  </tr>
  <tr>
-  <td><strong>Live Chatt</strong></td>
+  <td style="width:25%"><strong>Live Chatt</strong></td>
   <td>Använd chattkortet när du vill att besökarna ska chatta med en live-agent.
   <li>Chattkortet måste vara det sista kortet i grenen.</li>
   <li>Besökarna dirigeras till en agent så snart de kommer till kortet i strömmen, så vi rekommenderar att du före kortet tillfrågar besökarna om de vill chatta med en Live-agent.</li></td>
@@ -66,23 +66,23 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Zoomar in, skapar större kort</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Zoomar ut, skapa mindre kort</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Öppnar ett fönster där du kan testa chatten (tryck på samma knapp för att stänga)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Gör att du kan söka efter korttyper eller innehåll i strömmen</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Ordnar alla kort i strömmen</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    <table>
     <tr>
-     <td><strong>Typ</strong></td>
+     <td style="width:30%"><strong>Typ</strong></td>
      <td>Den typ av information som du vill hämta: Telefon, Text, E-post.</td>
     </tr>
     <tr>
-     <td><strong>Chatbot-meddelande</strong></td>
+     <td style="width:30%"><strong>Chatbot-meddelande</strong></td>
      <td>Det meddelande besökaren ser där han/hon uppmanas att ange informationen.</td>
     </tr>
     <tr>
-     <td><strong>Platshållare</strong></td>
+     <td style="width:30%"><strong>Platshållare</strong></td>
      <td>Exempeltext som hjälper besökaren att se vad han/hon ska ange.</td>
     </tr>
     <tr>
-     <td><strong>Mappa svar till attribut</strong></td>
+     <td style="width:30%"><strong>Mappa svar till attribut</strong></td>
      <td>Gör att du kan synkronisera besökarens svar till motsvarande fält i personposten i din Marketo-prenumeration.</td>
     </tr>
    </table>

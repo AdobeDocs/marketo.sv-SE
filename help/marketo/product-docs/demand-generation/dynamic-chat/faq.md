@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -85,6 +85,13 @@ En dialogruta är en konversation som automatiskt visas för webbbesökare som u
 **Finns det något sätt att använda Dynamic Chat för att boka möten direkt från ett e-postmeddelande?**
 
 Ja! [Lär dig mer](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+
+**Vad exakt betyder termer som&quot;Engaged&quot; eller&quot;People Acquired&quot;?**
+
+Det finns flera termer i Dynamic Chat. Definitioner för många av dem finns i hjälpartiklar i respektive område.
+* Analystermer som&quot;Personer som förvärvats&quot; [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* Smart List-utlösare/filterdefinitioner [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* Beskrivning av de olika Stream Designer-korten [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
 
 **Kan jag använda Dynamic Chat utan Marketo Engage?**
 
