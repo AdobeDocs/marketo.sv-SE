@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Ja! [Lär dig mer](https://nation.marketo.com/t5/product-blogs/using-dynamic-cha
 **Vad exakt betyder termer som&quot;Engaged&quot; eller&quot;People Acquired&quot;?**
 
 Det finns flera termer i Dynamic Chat. Definitioner för många av dem finns i hjälpartiklar i respektive område.
-* Analystermer som&quot;Personer som förvärvats&quot; [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Smart List-utlösare/filterdefinitioner [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Beskrivning av de olika Stream Designer-korten [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Analystermer som&quot;Personer som förvärvats&quot; [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Smart List-utlösare/filterdefinitioner [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Beskrivning av de olika Stream Designer-korten [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Kan jag använda Dynamic Chat utan Marketo Engage?**
 

@@ -3,7 +3,7 @@ description: Analytics - Marketo Docs - produktdokumentation
 title: Analyser
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -54,12 +54,12 @@ Visa dialogrutor, konversationsflöden eller alla. Välj en förinställning ell
 <thead>
 <tbody>
   <tr>
-    <td><b>Slutförd</b></td>
+    <td style="width:25%"><b>Slutförd</b></td>
     <td>En slutförd händelse inträffar när en besökare kommer till den sista uppmaningen i en konversation <i>eller</i> när en besökare har fyllt i allt innehåll i en konversation.
     <br>En slutförd händelse per besökare, per session.</td>
   </tr>
   <tr>
-    <td><b>Personer som förvärvats</b></td>
+    <td style="width:25%"><b>Inhämtade personer</b></td>
     <td>Händer när en besökare skickar sin e-postadress.
     <br>Ett förvärv per besökare, per session.</td>
   </tr>
