@@ -5,28 +5,28 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
+source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
 workflow-type: tm+mt
-source-wordcount: '2270'
+source-wordcount: '2249'
 ht-degree: 0%
 
 ---
 
 # Migrerar till Adobe-identitet {#migrating-to-adobe-identity}
 
-När Adobe schemalägger en prenumerations användarmigrering får produktadministratörer i Marketo Engage tillgång till migreringskonsolen, som finns på navigeringsmenyn i Admin-området under avsnittet Integrering.
+När Adobe schemalägger en prenumerations användarmigrering får produktadministratörer i Marketo Engage tillgång till migreringskonsolen, som finns på navigeringsmenyn i administratörsområdet under Integrering.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-1.png)
 
 ## Före migrering {#pre-migration}
 
 Innan migreringen börjar kan en administratör ändra startdatumet för användarmigreringen för sin prenumeration genom att gå till skärmen Före migrering på migreringskonsolen. Om du vill ändra datumet kan administratören klicka på **Redigera** -knappen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-2.png)
 
 Administratören kan välja ett datum mellan 8 och 30 dagar i framtiden. När ett datum har valts måste administratören klicka **Spara** för att göra ändringen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-3.png)
 
 >[!NOTE]
 >
@@ -40,17 +40,17 @@ Adobe migrerar automatiskt alla Marketo-administratörer med verifierade e-postm
 
 **Marketo Product Administrator Email**
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-4.png)
 
 **Marketo berättigandee-post**
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-5.png)
 
 **Om din Marketo-prenumeration har färre än 75 användare** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering och ingen åtgärd krävs för att utföra migreringen. När migreringen är klar visas inte Marketo migreringskonsol längre i navigeringsområdet i Marketo Admin och alla användare kommer att få åtkomst till Marketo via en Adobe ID.
 
 **Om din Marketo-prenumeration har 75 eller fler användare**, får Marketo produktadministratörer tillgång till migreringsverktyget för självbetjäningsanvändare i migreringskonsolen när användarmigreringen startar och varnas via banner vid inloggning på Min Marketo-sida. Administratören ansvarar för att slutföra användarmigreringen med verktyget för självbetjäningsanvändarmigrering.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-6.png)
 
 ## Marketo Self-Service User Migration {#marketo-self-service-user-migration}
 
@@ -63,7 +63,7 @@ Verktyget Marketo Self-Service User Migration Console består av två flikar.
 
 Fliken Migreringsstatus innehåller övergripande mätvärden för förloppet för användarens e-postverifiering, användarens migrering och aktivering samt slutförande av prenumerationsmigreringen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-7.png)
 
 Överst i migreringsstatusen visas prenumerationsmigreringens förfallodatum och knappen för att förlänga förfallotiden. Mer information om när migreringen upphör finns i [Avsnittet Förfallotid för användarmigrering](#user-migration-expiration).
 
@@ -99,11 +99,11 @@ I avsnittet Bekräftelse av migrering måste en administratör bekräfta att anv
 
 När alla användare i prenumerationen har tagits med (antingen migrerats eller hoppats över) visas knappen för att slutföra migreringen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-8.png)
 
-Administratören som utför migreringen måste bekräfta migreringen genom att klicka på **Slutför migrering** -knappen.
+Administratören som utför migreringen måste bekräfta migreringen genom att klicka på **Slutför migrering** -knappen. De uppmanas att **Bekräfta**.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-9.png)
 
 När användarmigreringen är klar tas migreringskonsolen bort från navigeringsmenyn i Admin.
 
@@ -111,13 +111,13 @@ När användarmigreringen är klar tas migreringskonsolen bort från navigerings
 
 Adobe kräver att man slutför självbetjäningsmigreringar inom 30 dagar. Administratörer kommer inte att blockeras från att migrera användare eller slutföra migreringen om utgångsdatumet har passerat, men de kommer bara att kunna migrera användare på begäran. Om en administratör behöver mer tid kan de förlänga prenumerationens förfallodatum.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-10.png)
 
-Klicka på **Utöka förfallodatum** uppdateras datumet till en vecka senare. En administratör kan förlänga giltigheten upp till tre gånger.
+Klicka på knappen **Utöka förfallodatum** uppdateras datumet till en vecka senare. En administratör kan förlänga giltigheten upp till tre gånger.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-11.png)
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-12.png)
 
 Adobe kommer att nå ut om du inte slutfört migreringen före förfallodatumet.
 
@@ -133,17 +133,17 @@ Administratörer kan välja att:
 * Schemalägg användarmigrering för valda användare för ett specifikt datum med knappen Schemalägg migrering
 * Migrera alla berättigade användare på begäran (inget användarval behövs) via knappen Migrera alla användare
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-13.png)
 
 **Verifiera e-post**
 
 E-postverifiering krävs för att en användare ska kunna migreras till en Adobe ID. Om det finns användare som inte har verifierat sin e-postadress och behöver migreras, kan administratören utlösa bekräftelsemeddelandet som skickas till användaren igen. Om du väljer en overifierad användare blir knappen Bekräfta e-post klickbar.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-14.png)
 
 När administratören klickar på **Verifiera e-post** så får de ett meddelande om att e-postmeddelandet skickades.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-15.png)
 
 **Hoppa över och ångra användarmigrering**
 
@@ -155,13 +155,13 @@ Under användarmigreringen måste alla användare antingen migreras eller hoppas
 
 Om du vill hoppa över en användare kan administratören välja önskad användare. Knappen Hoppa över migrering blir klickbar. Klicka på knappen **Hoppa över migrering** uppdateras sidan och den valda användarens verifieringsstatus och migreringsstatus uppdateras till Överhoppad.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-16.png)
 
 En administratör kan ångra hoppet över en användare som hoppats över, om det är fastställt att användaren måste migreras.
 
 Administratören kan välja önskad användare om användaren ska ångras. Knappen för att ångra migrering kan klickas. Klicka på knappen **Ångra migrering** kommer sidan att uppdateras.  Den valda användarens verifieringsstatus uppdateras till den aktuella statusen, antingen Verifierad eller Overifierad, och användarens migreringsstatus uppdateras till Inte startad.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-17.png)
 
 >[!NOTE]
 >
@@ -175,17 +175,17 @@ En administratör kan t.ex. välja en grupp&quot;avancerade användare&quot; som
 
 Alla användarmigreringar sker samtidigt och bör slutföras inom sextio sekunder. När en användarmigrering sker för en viss användare kan användaren förlora åtkomsten i upp till en minut, och det är bara om användaren är inloggad i programmet. När användarmigreringen är klar får användaren ett e-postmeddelande om hur man loggar in i Marketo Engage med en Adobe-identitet. Användaren måste acceptera inbjudan via knapplänken i e-postmeddelandet. När användaren har accepterat inbjudan bör han/hon logga in med en Adobe ID. Instruktioner om hur du loggar in i Marketo Engage med en Adobe ID [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-18.png)
 
 Användarmigreringar behandlas oberoende av varandra, så om en användarmigrering misslyckas kommer Adobe att fortsätta att bearbeta andra användarmigreringar. Om ett migreringsfel inträffar krävs ingen åtgärd av en administratör. Administratören kommer att få ett e-postmeddelande om felet och få ett meddelande om att Adobe arbetar med att lösa problemet omedelbart. Om en användares migrering misslyckas och den användaren är inloggad i Marketo Engage, kan användaren förlora åtkomsten i upp till två minuter medan det görs nya migreringsförsök. Om en användares migrering misslyckas kan användaren fortsätta få åtkomst till Marketo-identiteten i Marketo Engage tills han/hon får ett e-postmeddelande om att migreringen lyckades och han/hon uppmanas att logga in med en Adobe ID.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-19.png)
 
 **Migrera nu**
 
 En administratör kan välja en eller flera användare att migrera på begäran. Detta kommer att utlösa migreringen av användarna omedelbart. Om du vill migrera en eller flera användare kan administratören välja önskade användare och knappen Migrera nu kan klickas.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-20.png)
 
 >[!NOTE]
 >
@@ -193,13 +193,13 @@ SCREENSHOT
 
 Klicka på knappen **Migrera nu** uppmanas administratören att bekräfta migreringen av de valda användarna. När administratören har bekräftat börjar användarmigreringen bearbetas så snart som möjligt.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-21.png)
 
 **Schemalägg migrering**
 
 En administratör kan välja en eller flera användare att schemalägga migrering vid ett senare datum. Om du vill schemalägga migrering för en eller flera användare väljer administratören önskade användare och knappen Schemalägg migrering blir klickbar.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-22.png)
 
 >[!NOTE]
 >
@@ -207,7 +207,7 @@ SCREENSHOT
 
 Klicka på knappen **Schemalägg migrering** uppmanas administratören att välja önskat migreringsdatum för de valda användarna. Administratören kan bara välja datum före prenumerationens förfallodatum för migrering. När administratören bekräftar det schemaläggs användarmigreringen(en) att börja bearbetas det valda datumet.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-23.png)
 
 >[!NOTE]
 >
@@ -217,8 +217,8 @@ SCREENSHOT
 
 En administratör kan när som helst välja att migrera alla berättigade användare i en prenumeration. Detta kommer att utlösa migreringen av de berättigade användarna omedelbart. Berättigade användare är användare med verifierade e-postmeddelanden som ännu inte har migrerats.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-24.png)
 
-Klicka på knappen **Migrera alla användare** uppmanas administratören att bekräfta migreringen av alla berättigade användare. När administratören bekräftar det kommer användarmigreringen att börja bearbeta så snart som möjligt.
+Klicka på knappen **Migrera alla användare** uppmanas administratören att **Bekräfta** migrering av alla berättigade användare. När administratören bekräftar det kommer användarmigreringen att börja bearbeta så snart som möjligt.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-25.png)
