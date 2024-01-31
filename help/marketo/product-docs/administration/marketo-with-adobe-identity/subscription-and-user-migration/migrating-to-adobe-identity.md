@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Därefter visas tre avsnitt av statusen för administratören.
 * **Migrering och aktivering av användare**: användarmigrering och aktivering (migrering och tillstånd till Marketo Engage-produkten) för de användare som ingår i prenumerationen.
 * **Bekräftelse av migrering**: prenumerationens slutförandestatus för migrering.
 
-**Verifiering av användarens e-postadress**
+#### Verifiering av användarens e-postadress {#user-email-verification}
 
 I avsnittet Verifiering av användarens e-post kan en administratör hitta den aktuella statusen för e-postverifiering för användarna i prenumerationen, innan migrering till Adobe-identitet sker.
 
@@ -87,13 +87,13 @@ Bekräftelsemeddelandet kan skickas igen av en administratör på fliken Använd
 >
 >Om en Marketo Engage-användare inte kan verifiera sin e-postadress kan de inte migreras till en Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när migreringen är klar. För att återfå åtkomst måste en Marketo-produktadministratör lägga till dem som en ny användare.
 
-**Migrering och aktivering av användare**
+#### Migrering och aktivering av användare {#user-migration-and-activation}
 
 I avsnittet Användarmigrering och aktivering hittar en administratör den aktuella statusen för total användarmigrering och behörighet till Adobe Identity Management System.
 
 En administratör kan visa procentandelen användare i prenumerationen som har migrerats till en Adobe ID eller markerats som Överhoppad. Status rapporteras för alla användares migreringstillstånd till en Adobe ID i prenumerationen, eller markeras som Överhoppad och kommer inte att migreras. När användare migreras och har rätt till Marketo Engage, eller hoppas över, uppdateras den här statusen.
 
-**Bekräftelse av migrering**
+#### Bekräftelse av migrering {#migration-confirmation}
 
 I avsnittet Bekräftelse av migrering måste en administratör bekräfta att användarmigreringen har slutförts för prenumerationen.
 
