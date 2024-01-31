@@ -3,9 +3,9 @@ description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Marketo Engage fortsätter lanseringen av e-postverifiering som förberedelse f�
 ## Användarinbjudan {#user-invite}
 
 När en administratör bjuder in en användare verifieras den användaren automatiskt när han/hon klickar på länken för inbjudan.
+
+>[!IMPORTANT]
+>
+>Undantaget ovan är att i en prenumeration med enbart enkel inloggning får administratörer en ny användarinbjudan, men inte administratörer. Icke-administratörer måste gå igenom e-postverifieringsprocessen för att säkerställa migrering av sina användarposter. En administratör kan skicka e-postverifieringslänken genom att klicka på **Skicka e-postverifiering igen** intill användarnamnet.
 
 ## Verifierings-e-post {#verification-email}
 

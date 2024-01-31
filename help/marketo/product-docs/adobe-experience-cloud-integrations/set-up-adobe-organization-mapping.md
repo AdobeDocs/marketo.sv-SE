@@ -4,26 +4,27 @@ description: Konfigurera organisationsmappning för Adobe - Marketo Docs - produ
 title: Ställ in organisationsmappning för Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '220'
 ht-degree: 1%
 
 ---
 
 # Ställ in organisationsmappning för Adobe {#set-up-adobe-organization-mapping}
 
-För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CDP Marketo-kontakten, [!DNL Dynamic Chat]måste du först ange dina Adobe IMS-organisationsuppgifter i Marketo.
+För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CDP Marketo-kontakten, [!DNL Dynamic Chat]måste du först ange dina Adobe IMS-inloggningsuppgifter i Marketo Engage.
 
 >[!NOTE]
 >
->En HIPAA-klar distribution av en Marketo-instans kan inte använda den här integreringen.
+>* En HIPAA-klar distribution av en Marketo-instans kan inte använda den här integreringen.
+>* För att integreringen ska fungera måste Marketo och dina andra Adobe-program finnas i samma organisation.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->För kunder som har anslutit sig till Adobe Business Platform och Identity Management System fylls det Org-ID som är kopplat till prenumerationen redan i och är ett skrivskyddat fält.
+>För dem som uppgraderar till Adobe Business Platform och Identity Management System fylls det Org ID som är kopplat till prenumerationen redan i och är ett skrivskyddat fält. Stegen i den här artikeln är därför inte tillämpliga.
 
-1. I Marketo klickar du på **[!UICONTROL Admin]**.
+1. Klicka på i Marketo **[!UICONTROL Admin]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
