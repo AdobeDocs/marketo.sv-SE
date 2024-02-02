@@ -1,13 +1,12 @@
 ---
-description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentation
-title: Designa interaktiva webbinarier
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
+title: Best Practices for Interactive Webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
+source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1648'
 ht-degree: 0%
 
 ---
