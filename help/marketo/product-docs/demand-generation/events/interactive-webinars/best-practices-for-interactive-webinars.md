@@ -4,9 +4,9 @@ title: Best Practices for Interactive Webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Anpassade Pods är appar från tredje part som kan användas för att utöka funktionaliteten i ett Adobe Connect-rum. Egna pods kan hämtas från `apps.adobeconnect.com` som .pod- eller .zip-filer som sedan kan delas i delningsfönstret.
    * Vissa populära anpassade poder är nedräkningstimer, klocka, grovpapperssax, Word Cloud, Titler.
-   * Klicka här om du vill se en kort video om hur du använder anpassade rutor.
+   * [Klicka här](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om du vill se en kort video om hur du använder anpassade rutor.
 
 **Sekretess: Kontrollera inställningarna nedan om du vill att deltagarinformationen ska vara konfidentiell:**
 
