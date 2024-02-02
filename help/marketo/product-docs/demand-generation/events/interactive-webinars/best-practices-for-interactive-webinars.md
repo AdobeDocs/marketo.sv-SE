@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -69,54 +69,54 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 * Aktivera påminnelsen om inspelning i rumsinställningarna om du tänker spela in sessionen. Påminnelsen visas upp till fem minuter i mötet om inspelningen inte har startats.
 
 * Aktivera området Värd och Presenter och ställ in det med relevanta poder. Det här området är bara synligt för värdar och presentatörer och kan användas för att samarbeta under backstage-fasen. Här finns några poder:
-   * Engagement Dashboard för att övervaka deltagarnas engagemang i realtid. [Klicka här](https://www.youtube.com/watch?v=gf5fu0JK9Hk) om du vill se en kort video om hur du använder instrumentpanelen för engagemang.
+   * Engagement Dashboard för att övervaka deltagarnas engagemang i realtid. [Klicka här](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} om du vill se en kort video om hur du använder instrumentpanelen för engagemang.
    * Chatt Pod för att tillåta privata konversationer mellan medlemmar i presentationsteamet.
    * Anteckning Skriv ut påminnelsemeddelanden, frågor till presentatören eller vanliga frågesvar som du kan kopiera och klistra in för snabba svar på vanliga frågor.
 
-SLUTAD REDIGERING HÄR
+* Anpassade Pods är appar från tredje part som kan användas för att utöka funktionaliteten i ett Adobe Connect-rum. Egna pods kan hämtas från `apps.adobeconnect.com` som .pod- eller .zip-filer som sedan kan delas i delningsfönstret.
+   * Vissa populära anpassade poder är nedräkningstimer, klocka, grovpapperssax, Word Cloud, Titler.
+   * Klicka här om du vill se en kort video om hur du använder anpassade rutor.
 
-* Anpassade Pods är appar från tredje part som kan användas för att utöka funktionaliteten i ett Adobe Connect-rum. Anpassade Pod-filer kan laddas ned från apps.adobeconnect.com som .pod- eller .zip-filer som sedan kan delas i delningsfönstret.
+**Sekretess: Kontrollera inställningarna nedan om du vill att deltagarinformationen ska vara konfidentiell:**
 
-o Vissa populära anpassade poder är nedräkningstimer, klocka, grovpapperssax, Word Cloud, Titler. o Klicka här om du vill se en kort video om hur du använder anpassade rutor.
+* **Aktivitetsväljare**: Aktivitetsväljaren visar information om vem som talar för tillfället och varnar när deltagarna går med/lämnar rummet. Du kan ta bort aktivitetsväljaren genom att avmarkera Visa aktivitetsväljare under avsnittet Menyrad i Rumsinställningar.
 
-* Sekretess: Om du vill skydda deltagarinformationen kontrollerar du följande inställningar:
+* **Q&amp;A Pod**: Namnet på den deltagare som skickade frågan och namnet på den värd/presentatör som svarade kan båda döljas. Detta kan du göra genom att avmarkera Sekretessalternativen under avsnittet Q&amp;A Pod i rumsinställningarna.
 
-o Aktivitetsväljare: Aktivitetsväljaren visar information om vem som talar för tillfället och varningar om deltagare som ansluter till/lämnar rummet. Du kan ta bort aktivitetsväljaren genom att avmarkera Visa aktivitetsväljare under Menyrad i Rumsinställningar.
+* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder chattpanelen.
 
-o Q &amp; A Pod: Namnet på den deltagare som skickade frågan och namnet på den värd/presentatör som svarade kan båda döljas. Detta kan du göra genom att avmarkera sekretessalternativen under Q&amp;A Pod i rumsinställningarna.
+* **Privat chatt**: Inaktivera privat chatt för att förhindra att deltagare kan pinga en annan deltagare. Detta kan du göra genom att avmarkera&quot;Tillåt deltagare att chatta privat&quot; under avsnittet&quot;Chatt&quot; i rumsinställningarna.
 
-o Panelen Chatt: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. Klicka här om du vill läsa mer om hur du använder panelen Chatt.
+* **Deltagarsida**: Flytta rutan Deltagare till värd- och presentatörsområdet.
 
-o Privat chatt: Inaktivera privat chatt för att förhindra att deltagare kan pinga en annan deltagare. Detta kan du göra genom att avmarkera&quot;Tillåt deltagare att chatta privat&quot; under avsnittet&quot;Chatt&quot; i rumsinställningarna.
+## Leverans {#delivery}
 
-o Deltagarruta: Flytta rutan Deltagare till värd- och presentatörsområdet.
+* Testa dina inställningar för ljud och video och lär dig Adobe Connect om du inte har använt det tidigare. Glöm inte att ta med dina presentatörer och andra när du repeterar.
 
-B. Leverans
+* Be värdar och presentatörer att anlända minst 30 minuter före starttiden och se till att allt fungerar som det ska.
+   * Bestäm vem som ska moderera Frågor och svar- och chattfönstren.
+   * Fyll i frågor och svar och Chat Pods med frågor/chatt.
 
-* Kör några torra rundturer för att testa ljudvideoinställningarna och lära dig Adobe Connect om du aldrig har använt det tidigare. Glöm inte att ta med dina presentatörer och andra när du repeterar.
+* Ha program som du delar skärmbilder öppna i rätt fönster och kan demonstreras. Undvik att starta och logga in på program när skärmen delas.
 
-* Be värdar och presentatörer att anlända minst 30 minuter före starttiden och se till att allt fungerar som det ska och att all slutlig samordning sker.
+* Deltagare kan gå in i rummet 15 min före den schemalagda starten. Växla till lobbylayouten 15 min före den schemalagda starten för deltagare som kommer tidigt.
 
-o Bestäm vem som ska moderera Q &amp; A- och Chat-fönstren.
+* Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. [Klicka här](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om du vill se en kort video i värdområdet och presentationsområdet.
 
-o Fyll i Q &amp; A- och Chat Pods med frågor/chatt.
+* Använd Förbered-läget för att göra eventuella sista-minuten-ändringar privat. [Klicka här](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om du vill titta på en kort video om Förbered läge.
 
-* Ha program som du delar skärmbilder öppna i rätt fönster och redo att demonstrera - undvik att starta och logga in i program när skärmen delas.
+* Använd instrumentpanelen för engagemang för att hålla en flik över deltagarnas intressenivåer. Hoppa till en omröstning, fråga om acceptera/avböja fråga, skicka en fråga i chatt-rutan eller använd den anpassade Word Cloud-rutan för att få svar från deltagare och öka engagemangsnivåerna.
 
-* Deltagare kan gå in i rummet 15 min före den schemalagda starten. Växla till lobbylayouten 15 min före den schemalagda starten för deltagare som kommer tidigt. ・ Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. Klicka här om du vill se en kort video om värd- och presentatörsområdet. ・ Använd Förbered-läget för att göra sista-minuten-ändringar privat. Klicka här om du vill se en kort video om Förbered läge.
+* Håll en flik i presentatörens chatt (chatt i värd- och presentatörsområdet) för att kontinuerligt samordna med ditt team.
 
-* Använd instrumentpanelen för engagemang för att hålla en flik över deltagarnas intressenivåer. Hoppa till en omröstning, fråga om acceptera/avböja fråga, skicka en fråga i chatt eller använd den anpassade Word Cloud-rutan för att få svar från deltagare och öka engagemangsnivåerna.
+## Efterleverans {#post-delivery}
 
-* Håll en flik i presentatörens chatt (chattruta i värd- och presentatörsområdet) för att kontinuerligt samordna med ditt team.
+* När webbinariet har levererats kommer engagemangsdata tillsammans med inspelningen att göras tillgängliga i Marketo Engage i allmänhet inom 1-2 timmar. Validera inspelningen och bekräfta om webbinariets samtliga videoutdata har spelats in på rätt sätt så att de kan användas för att dela med publiken samt spåra on-demand-webbinaridata.
 
-C. Post Delivery - Nilesh
-
-* När webbinariet har levererats ska interaktionsdata tillsammans med inspelningen göras tillgängliga i Marketo i allmänhet inom en till två timmar. Validera inspelningen och bekräfta om webbinariets hela videoutdata har spelats in på rätt sätt så att det kan användas för att dela med publiken samt spåra on-demand-webbinaridata.
-
-* Skapa närliggande kampanjer för att ytterligare kvalificera deltagarleads baserat på deras engagemang med hjälp av filter och utlösare för interaktiva webbinarier. Tack för att du missade kampanjer för att ge mer information om evenemanget, inspelningslänken, händelsestatistik och framtida evenemang för att få användarna att ansluta till organisationen. Aktiviteter för no-Shows som besöker inspelningen kan spåras som en del av On-Demand-webbinarier och ytterligare vårdkampanjer kan skapas för No-Shows via On-Demand Webinars-filter och -utlösare.
+* Skapa närliggande kampanjer för att ytterligare kvalificera deltagarleads baserat på deras engagemang med hjälp av filter/utlösare för interaktiva webbinarier och ha Tack/mist ni kampanjer för att ge mer information från evenemanget, inspelningslänken, händelsestatistik och framtida evenemang för att uppmana No-Shows att återansluta till organisationen. Aktiviteter för no-Shows som besöker inspelningen kan spåras som en del av On-Demand-webbinarier och ytterligare webbkampanjer kan skapas för No-Shows via On-Demand-webbinarier (filter/utlösare).
 
 * Använd aktivitetsloggdata för varje medlem på fliken Medlemmar för att titta på de engagemangsaktiviteter som olika deltagare har utfört under webbinariet.
 
-* Ladda ned inspelningen och publicera den på olika landningssidor, mikrosajter eller portaler för större räckvidd.
+* Ladda ned inspelningen och publicera den på olika landningssidor, mikrosajter eller portaler för en större publik.
 
-* Använd kontrollpanelen för att få en sammanställd vy över webbinariets prestanda när det gäller programstatus, närvarofördelning, omröstningssvar samt nedladdning av filer och länkklick. Identifiera de positiva områdena och förbättringsområdena under webbinariet och se till att lektionerna kan användas i nästa webbinarium som ska genomföras.
+* Använd kontrollpanelen för att få en sammanställd vy över webbinariets prestanda när det gäller programstatus, närvarofördelning, omröstningssvar, filnedladdning och länkklick. Identifiera de positiva områdena och förbättringsområdena under webbinariet och se till att lektionerna kan användas i nästa webbinarium.
