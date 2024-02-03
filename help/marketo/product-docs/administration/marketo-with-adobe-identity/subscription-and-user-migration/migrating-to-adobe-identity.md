@@ -3,9 +3,9 @@ description: Migrera till Adobe Identity - Marketo Docs - produktdokumentation
 title: Migrerar till Adobe-identitet
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Administratören kan välja önskad användare om användaren ska ångras. Knapp
 
 ### Migrera Marketo-användare till Adobe-ID:n {#migrating-marketo-users-to-adobe-ids}
 
-För dem som vill ha större kontroll under användarmigreringen stöder Marketo självbetjäning för prenumerationer med 75 eller fler användare. Marketo produktadministratörer kan välja vilka användare som ska migreras gruppvis, eller alla berättigade användare samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna flexibilitet och kontroll över vilka användare som migreras och när. Administratörer kan också välja att migrera alla användare i en prenumeration.
+Marketo produktadministratörer kan välja vilka användare som ska migreras gruppvis, eller alla berättigade användare samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna flexibilitet och kontroll över vilka användare som migreras och när. Administratörer kan också välja att migrera alla användare i en prenumeration.
 
 En administratör kan till exempel välja en grupp med&quot;avancerade användare&quot; som de vill migrera först. När dessa användarmigreringar har slutförts kan de välja olika användargrupper baserat på variabler som arbetsyta/företag eller funktion/roll för att batchmigrera användare ytterligare. Eller så kan de bestämma sig för att migrera resten av användarna i prenumerationerna efter att den första gruppen har slutförts. Målet är att ge största flexibilitet när det gäller att distribuera Adobe ID till användare.
 
