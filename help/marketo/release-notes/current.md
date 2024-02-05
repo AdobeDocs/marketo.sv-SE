@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>On Demand Webinars för interaktiva webbinarier</strong>: On-Demand Webinars gör att du kan publicera webbinariet och spåra dess besök/bevakningar. Detta hjälper dig att få fler leads genom registranter som inte deltar i webbinariet (ej showen) men som fortfarande är intresserade av att ta reda på mer och visa inspelningen.</td> 
@@ -40,8 +39,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Conversational Landing Pages</strong>: Bädda in ett konversationsflöde i Dynamic Chat direkt på en landningssida i Marketo Engage så att besökarna kan schemalägga ett möte via Dynamic Chat utan att behöva fylla i ett formulär eller interagera med en chattbot.</td> 
    <td><i>Kommer snart</i></td>
@@ -52,8 +49,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Filtrerar e-postsatsaktivitet</strong>: Förbättrar hämtning av robotaktiviteter för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotaktivitet ska vara.</td> 
    <td>Levererat</td>
@@ -63,11 +58,29 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>API-uppdatering för massimport av leads</strong>: En mindre justering har gjorts av beteendet för API:t för import av gruppleads när <b>id</b> anges som <b>lookupField</b> när jobb skapades. Om en personpost är länkad till den angivna <b>id</b> finns inte i Marketo Engage-databasen, ingen postuppdatering kommer att ske eftersom posten inte kan hittas. Det uppdaterade beteendet innebär nu att antalet ökar i <b>numOfRowsFailed</b> -egenskapen i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
+   <td>Levererat</td>
+   <td>n/a</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Deltagare i interaktiva webbinarier</strong>: Deltagare i Webinar Team-sektionen i Interactive Webinars gör det möjligt för den som skapat evenemanget att lägga till interna eller externa användare i Interactive Webinars-programmet för att dela administrativa och leveransrelaterade ansvarsområden.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Lägga till ett webbinarium</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Ta bort en användare i interaktiva webbinarier</strong>: En Marketo Engage-administratör kan nu ta bort en eller flera användare i interaktiva webbinarier.</td> 
    <td>Levererat</td>
    <td>n/a</td>
   </tr>

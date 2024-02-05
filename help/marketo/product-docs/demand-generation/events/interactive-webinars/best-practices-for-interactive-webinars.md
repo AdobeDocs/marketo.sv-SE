@@ -1,10 +1,8 @@
 ---
 description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
 title: Best Practices for Interactive Webinars
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
