@@ -4,9 +4,9 @@ description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - prod
 title: Begränsa Marketo-inloggningar baserat på IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Informationen i den här artikeln gäller endast för direkta inloggningar på login.marketo.com. Det är för närvarande inte möjligt att tillämpa IP-begränsningar för enkel inloggning (SSO).
+>Informationen i den här artikeln är avsedd för användare som loggar in direkt på login.marketo.com och inte för dem som autentiserar med Adobe ID. Det är för närvarande inte möjligt att tillämpa IP-begränsningar för enkel inloggning (SSO).
 
 1. Gå till **[!UICONTROL Admin]** område.
 
@@ -43,7 +43,7 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
    >
    >* **[!UICONTROL Allowed IP addresses]**: Tillåtna IP-adresser läggs till. Den kommer att innehålla alla angivna IP-adresser och utesluta allt annat.
    >* **[!UICONTROL Block IP addresses]**: Förhindrar att specifika IP-adresser får åtkomst till Marketo.
-   >* **[!UICONTROL Disable IP Restrictions]**: Om du kontrollerar detta kommer eventuella begränsningsregler att sluta fungera. Använd detta för testning.
+   >* **[!UICONTROL Disable IP Restrictions]**: Om du kontrollerar detta kommer alla begränsningsregler att sluta fungera. Använd detta för testning.
 
    >[!NOTE]
    >
