@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: ce8b46126478fe9b2afcf9d475607ee71f64e111
+source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9272'
 ht-degree: 0%
 
 ---
@@ -1126,6 +1126,8 @@ ht-degree: 0%
       + [Ikonordlista](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Använda global sökning](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Växla av/på](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+   + Marketo Notifications {#marketo-notifications}
+      + [Meddelande: Webbsocketanslutning](product-docs/marketo-notifications/notification-websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Komma igång {#getting-started}
          + [Översikt över Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
