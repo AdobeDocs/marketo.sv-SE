@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 10fe526c672867b93b54e99e492e59c0541c3f36
+source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
 workflow-type: tm+mt
-source-wordcount: '9272'
+source-wordcount: '9275'
 ht-degree: 0%
 
 ---
@@ -1949,6 +1949,7 @@ ht-degree: 0%
 + Versionsinformation {#release-notes}
    + [Releaschema](release-notes/release-schedule.md)
    + [Aktuell version](release-notes/current.md)
+   + [Aktuellt VERSIONSTEMP](release-notes/current-temp.md)
    + Tidigare versioner {#previous-releases}
       + 2023 {#2023}
          + [Versionsinformation: 23 januari](release-notes/previous-releases/2023/release-notes-jan-23.md)
