@@ -4,9 +4,9 @@ title: Aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API-aktivitetsmetadata</strong>: Metadata som användaragent, plattform, webbläsare och enhet ingår nu i <i>alla</i> webbläsarbaserade aktiviteter, som ger enhetliga insikter i webbläsarbaserade aktiviteter via Marketo REST API.</td> 
+   <td><strong>API-aktivitetsmetadata</strong>: Metadata som User Agent, Platform och Device ingår nu i webb- och e-postaktiviteter, vilket ger enhetliga insikter i dessa aktiviteter via Marketo REST API.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
