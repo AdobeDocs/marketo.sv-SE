@@ -4,20 +4,26 @@ title: Lägg till ett webbinarium
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
+source-git-commit: 0d09fb0bec3b8fb392e503db13c9ab5b265424a5
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 # Lägg till ett webbinarium {#add-a-webinar-team}
 
+Ett webbinarium i Interactive Webinars består av alla roller som bidrar till att det webbinarium som finns i Adobe Connect kan levereras utan problem. Detta omfattar både presentatörer och andra.
+
 >[!PREREQUISITES]
 >
 >[Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
 
-När du har skapat ett interaktivt webbinarium kan du välja att lägga till en medvärd eller presentatör.
+Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har medvärdbehörighet under leverans i Adobe Connect. Interna värdar får tillgång till både Interactive Webinar Event Program i Marketo och får även medvärdbehörighet under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
+
+>[!NOTE]
+>
+>Presentatörer och medvärdar i Marketo mappar exakt till presentatörens och medarbetarnas roller under webbseminariet i Adobe Connect.
 
 ## Lägg till en medvärd {#add-a-co-host}
 
