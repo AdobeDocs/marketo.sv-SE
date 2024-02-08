@@ -4,9 +4,9 @@ title: Aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,27 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr>
+  <tr> 
+   <td><strong>Avancerad konverteringsflödeslogik</strong>: Lägg till ytterligare fält för utvärdering i ett och samma val för uppföljning av konversationsflöde.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Ändra ordning på konversationsflödeslogik</strong>: I Marketo Engage Forms kan du nu ändra ordningen på alternativen för konversationsflöde i stället för att behöva ta bort och lägga tillbaka.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>Anpassade mallar i interaktiva webbinarier</strong>: Nu kan du skapa egna mallar för rumslayouter i interaktiva webbinarier.</td> 
    <td><i>Kommer snart</i></td>
@@ -49,42 +70,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 </table>
 <br/>
 
-## Agile Release-funktioner {#agile-release-features}
-
-Alla funktioner nedan följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status bredvid varje funktion.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Funktion</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Dokumentation</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>Avancerad konverteringsflödeslogik</strong>: Lägg till ytterligare fält för utvärdering i ett och samma val för uppföljning av konversationsflöde.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Ändra ordning på konversationsflödeslogik</strong>: Du kan nu ändra ordningen på logiken som villkorlig logik för konversationsflöden konfigureras i i stället för att behöva ta bort och läsa.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## Meddelanden {#announcements}
 
-* **Borttagning av plugin-program för Insight Browser**: Adobe tar bort [Webbläsarplugin för Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) från Chrome Web Store den 18 mars 2024. Befintliga användare: du kan fortsätta använda plugin-programmet tills du migrerar din Marketo Engage-instans till Adobe Identity och Admin Console.
-
-{target="_blank"}
+* **Borttagning av plugin-program för Insight Browser**: Adobe tar bort målkontohanteringen [Webbläsarplugin för Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} från Chrome Web Store den 18 mars 2024. Befintliga användare: du kan fortsätta använda plugin-programmet tills du migrerar din Marketo Engage-instans till Adobe Identity och Admin Console.
