@@ -3,8 +3,7 @@ description: Meddelande - Websocket-anslutning - Marketo Docs - Produktdokumenta
 title: Meddelande - Webbsocketanslutning
 hide: true
 hidefromtoc: true
-feature: Getting Started
-source-git-commit: 10fe526c672867b93b54e99e492e59c0541c3f36
+source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Meddelande: Webbsocketanslutning {#notification-websocket-connection}
 
-Den här artikeln är avsedd för användare av Marketo Engage som fått följande meddelanden i sin Marketo-instans: `"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are connected to now on March 3, 2024. Please work with your IT team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
+Den här artikeln är avsedd för användare av Marketo Engage som har fått följande meddelanden i sin Marketo-instans: `"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are connected to now on March 3, 2024. Please work with your IT team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
 
 Om du eller din organisation använder restriktiva brandväggs- eller proxyserverinställningar kan du eller din nätverksadministratör behöva tillåtslista vissa domäner och IP-adressintervall för att Adobe Marketo Engage ska fungera som förväntat.
 
