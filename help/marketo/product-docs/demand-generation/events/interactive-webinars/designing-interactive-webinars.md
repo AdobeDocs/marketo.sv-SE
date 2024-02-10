@@ -3,9 +3,9 @@ description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentati
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 1. Din förhandsgranskning av webbinariet visas.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Som standard är namnet på rummet som anges i fältet&quot;Namn på interaktivt webbinarium&quot; samma namn som ditt händelseprogram för interaktiva webbinarier. Du kan ändra det så att det återspeglar titeln på själva webbinariet, eftersom det här namnet är synligt för publiken.
 
    >[!TIP]
    >
