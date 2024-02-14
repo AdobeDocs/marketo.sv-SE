@@ -1,10 +1,8 @@
 ---
 description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ Ett webbinarium i Interactive Webinars består av alla roller som bidrar till at
 
 >[!NOTE]
 >
->Presentatörer och medvärdar i Marketo mappar exakt till presentatörens och medarbetarnas roller under webbseminariet i Adobe Connect.
+>Presentatörer och medvärdar i Marketo är exakt mappade till presentatörens och värdenas roller under webbseminariet i Adobe Connect.
 
-Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har medvärdbehörighet under leverans i Adobe Connect. Interna värdar får tillgång till både Interactive Webinar Event Program i Marketo och får även medvärdbehörighet under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
+Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har värdbehörigheter under leverans i Adobe Connect. Interna värdar har tillgång till både Interactive Webinar Event Program i Marketo och värdbehörigheter under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
 
 >[!PREREQUISITES]
 >

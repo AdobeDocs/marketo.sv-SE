@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '236'
 ht-degree: 3%
 
 ---
@@ -46,16 +46,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td><i>Kommer snart</i></td>
    </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-    <tr> 
-   <td><strong>Anpassade mallar i interaktiva webbinarier</strong>: Nu kan du skapa egna mallar för rumslayouter i interaktiva webbinarier.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
