@@ -4,9 +4,9 @@ description: Använda ett universellt ID för prenumerationsinloggning - Marketo
 title: Använda ett universellt ID för prenumerationsinloggning
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ När du loggar ut och in igen loggar Marketo automatiskt in dig på den prenumer
 ## Community-profiler {#community-profiles}
 
 Om du har flera prenumerationer kan du ha flera communityprofiler. Vi rekommenderar att du väljer den inloggning som är länkad till din mest aktiva community-profil.
-
-## Mobilplattform {#mobile-platform}
-
-Användare med ett universellt ID kan se sina data på [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} från prenumerationen som de senast loggade in på. Du kan inte ändra prenumerationer från själva mobilplattformen.
 
 >[!MORELIKETHIS]
 >
