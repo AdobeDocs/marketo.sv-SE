@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp p
 
 ### Saker att notera {#things-to-note}
 
-* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut
-* Det finns för närvarande en gräns på 10 chatt per agent
+* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut. Efter det får besökarna [grundmeddelande](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
+* Det finns för närvarande en gräns på 10 chatt per agent.
 
 >[!MORELIKETHIS]
 >
