@@ -4,9 +4,9 @@ description: Utlös anpassade objektändringar - Marketo Docs - produktdokumenta
 title: Utlös ändringar av anpassade objekt
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >Den här funktionen är endast tillgänglig:
 >
->* För kunder på [!DNL Orion] infrastruktur
 >* Används endast med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via det inbyggda [!DNL Salesforce] eller [!DNL Microsoft Dynamics] integration
 >* Som utlösare, inte ett filter
 >
->Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill att utlösare för anpassade objektändringar ska vara aktiverade.
+>Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att aktivera utlösare för anpassade objektändringar.
 
-I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en *change* i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
+I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en _change_ i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
 
 >[!NOTE]
 >

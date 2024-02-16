@@ -4,7 +4,7 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Releaschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 5%
@@ -25,20 +25,14 @@ ht-degree: 5%
 
 _Releasedatum/funktioner kan komma att ändras_
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup>
+<table>
  <tbody> 
   <tr> 
    <th width="250px">Frigör</th>
    <th width="250px">Releasedatum</th>
    <th width="250px">Status</th>
   </tr>
-
-<tr>
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">23 september</a></td>
    <td>8 september 2023</td>
    <td>Levererat</td>
@@ -49,12 +43,12 @@ _Releasedatum/funktioner kan komma att ändras_
    <td>Levererat</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">24 januari</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">24 januari</a></td>
    <td>12 januari 2024</td>
    <td>Pågår</td>
   </tr>
   <tr> 
-   <td>24 mars</td>
+   <td><a href="/help/marketo/release-notes/current.md">24 mars</a></td>
    <td>8 mars 2024</td>
    <td>Vid schema</td>
   </tr>
