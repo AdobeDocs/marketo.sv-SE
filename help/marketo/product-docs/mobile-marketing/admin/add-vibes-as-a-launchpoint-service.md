@@ -4,9 +4,9 @@ description: Lägg till vibes som en LaunchPoint-tjänst - Marketo Docs - Produk
 title: Lägg till vibes som en LaunchPoint-tjänst
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Du kan skicka SMS-meddelanden till de personer som har valt att delta i era Vbö
 >
 >**Administratörsbehörigheter krävs**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->Du måste ha ett aktivt Vibes-konto och en Adobe-licens för Vibes SMS.
+>Du måste ha ett aktivt Vibes-konto och en Adobe-licens för Vibes SMS. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas av [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. I My Marketo går du till **[!UICONTROL Admin]** område.
 
@@ -49,4 +49,4 @@ Du kan skicka SMS-meddelanden till de personer som har valt att delta i era Vbö
 
 >[!MORELIKETHIS]
 >
->[Vibes video demo](https://vimeo.com/215233767/1ed136adbc)
+>[Vibes video demo](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
