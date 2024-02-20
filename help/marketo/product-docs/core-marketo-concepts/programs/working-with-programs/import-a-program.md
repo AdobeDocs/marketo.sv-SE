@@ -4,16 +4,20 @@ description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
 # Importera ett program {#import-a-program}
 
-Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan till exempel skapa ett program i en sandlåda och sedan importera det till din liveprenumeration. Du kan även importera ett fördefinierat program från [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Ett program kan importeras från en Marketo Engage-prenumeration till en annan. Du kan till exempel skapa ett program i en sandlåda och sedan importera det till din liveprenumeration. Du kan även importera ett fördefinierat program från [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>Program som har smarta listor som innehåller utlösaren&quot;Anpassat objekt är uppdaterat&quot; kommer att göra att importen misslyckas. Ta bort den här utlösaren från alla smarta listor innan du följer stegen som beskrivs nedan.
 
 ## Importera ett program {#importing-a-program}
 
@@ -27,9 +31,9 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
    >[!NOTE]
    >
-   >Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om [hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* Programimport är bara tillgängligt för användare som har roller med behörigheten Importera program aktiverad. Läs mer om [hantera användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Om du vill ansluta ett sandlådekonto till din liveprenumeration kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Välj en Marketo **[!UICONTROL Subscription]** och ett program att importera. Klicka på **[!UICONTROL Next]**.
 
