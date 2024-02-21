@@ -2,7 +2,7 @@
 description: Skapa ett SMS-meddelande - Marketo Docs - Produktdokumentation
 title: Skapa ett SMS-meddelande
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Så här skapar du ett SMS-meddelande.
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som tillägg för ditt Adobe Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta kontoteamet (din kontoansvarige) för mer information. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas av [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Den här funktionen är tillgänglig som tillägg för ditt Adobe Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta kontoteamet (din kontoansvarige) för mer information. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas av [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >

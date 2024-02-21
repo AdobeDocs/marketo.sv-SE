@@ -4,9 +4,9 @@ description: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,8 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 ## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
 
 1. Öppna ett nytt webbläsarfönster för att hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
-1. Gå till området Admin och välj **Försäljningsinsikter**.
+
+1. Gå till **Administratör** område och markera **Försäljningsinsikter**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -48,7 +49,7 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. Ett bekräftelsemeddelande visas. Klicka **OK**.
+1. En bekräftelse visas. Klicka **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -75,52 +76,6 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
 1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från konfigurationspanelen för Rest API i Marketo. Klicka **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
-
-## Ställ in Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Logga in på din Marketo-instans och klicka **Administratör**.
-
-   ![](assets/login-admin-1.png)
-
-1. Klicka **Försäljningsinsikter**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. Klicka **Redigera API-konfiguration**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Ange en **API-hemlig nyckel** och klicka **Spara**.
-
-   >[!CAUTION]
-   >
-   >Använd inte ett et-tecken (&amp;) i API-hemlig nyckel.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Låt det här fönstret vara öppet. Du behöver den här informationen senare i Salesforce.
-
-1. Gå tillbaka till Salesforce, klicka **Inställningar**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Sök efter&quot;fjärrwebbplats&quot; och klicka på **Inställning för fjärrplats** under **Säkerhetskontroller**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Klicka **Ny fjärrplats**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Retur **Namn på fjärrplats** och **URL för fjärrwebbplats** och sedan klicka **Spara**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >Du väljer **Namn på fjärrplats** (MarketoAPI används här). The **URL för fjärrwebbplats** finns i fältet Marketo Host i dialogrutan Redigera API-konfiguration från steg 4.
 
 ## Bevilja åtkomst till Salesforce-standardobjekt i användarprofilen för Sales Insight {#grant-sales-insight-users-profile-access}
 

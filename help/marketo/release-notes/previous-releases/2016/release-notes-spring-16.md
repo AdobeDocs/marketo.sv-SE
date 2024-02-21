@@ -4,20 +4,20 @@ description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Spring &#39;16 {#release-notes-spring}
+# Versionsinformation: våren 16 {#release-notes-spring}
 
 Följande funktioner finns i vårutgåvan 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
 ## [E-postinsikter](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-E-postinsikter är en helt ny historik över e-postanalyser av sammanställda data - helt omdesignade för blixtsnabba prestanda som en del av Project Orion. Den har ett helt nytt användargränssnitt som är optimerat för att passa e-postmarknadsförarnas behov och arbetsflöde.
+E-postinsikter är en helt ny historik över e-postanalyser av sammanställda data - helt omdesignade för blixtsnabba prestanda. Den har ett helt nytt användargränssnitt som är optimerat för att passa e-postmarknadsförarnas behov och arbetsflöde.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Skapa vackra e-postmeddelanden med våra nya startmallar! Du kan också snabbt h
 
 >[!NOTE]
 >
->E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Följ stegen i [den här artikeln](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Om du vill se om du gör det, följ stegen i [den här artikeln](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -47,7 +47,7 @@ Skapa fantastiska meddelanden i appen direkt inifrån Marketo. Definiera exakt v
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Inga utkast](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Inga utkastfragment](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med No-Draft får alla e-postmeddelanden och landningssidor som använder ett utdrag kodfragmentsuppdateringar och deras tidigare status bibehålls. Varje gång du godkänner ett fragment kan du välja att köra No-Draft och uppdatera allt eller skapa utkast. Det är upp till dig! No-Draft blir tillgängligt för alla kunder och styrs av ett nytt tillstånd i Admin.
 
@@ -63,7 +63,7 @@ På samma sätt som funktionen för IP-tillåtelselistning för Marketo-använda
 
 ## [Ny snabb Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Bygg på Orion-arkitekturen - den nya höghastighetsanslutningen för dynamik ger hastigheter upp till 20 gånger snabbare för inledande synkronisering och upp till 5 gånger snabbare för inkrementell synkronisering. Alla nya kunder kommer att ansluta sig till den här kontakten på releasedatum, och vi kommer gradvis att lansera den för befintliga kunder under sommarreleasetidningen.
+Den nya höghastighetsanslutningen Dynamics ger hastigheter på upp till 20 gånger snabbare för inledande synkronisering och upp till 5 gånger snabbare för inkrementell synkronisering. Alla nya kunder kommer att ansluta sig till den här kontakten på releasedatum, och vi kommer gradvis att lansera den för befintliga kunder under sommarreleasetidningen.
 
 **Uppdatera data för nya fält**: Nu kan du aktivera nya synkroniseringsfält när som helst och alla datavärden för det fältet uppdateras från Dynamics CRM till Marketo. Du behöver inte längre oroa dig för att du måste markera alla fält under den första konfigurationen. Om du inaktiverar ett befintligt synkroniseringsfält och sedan aktiverar det igen uppdateras alla datavärden för det fältet från Dynamics CRM till Marketo.
 
@@ -99,4 +99,4 @@ Nu kan du visa antalet poster och fält för alla publicerade anpassade objekt.
 
 ## Anpassade aktiviteter {#custom-activities}
 
-Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition Model. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen för att passa just deras affärsbehov. Information om hur du använder den här funktionen finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Marketo-administratörer kan nu definiera och hantera sina anpassade aktivitetstyper via Marketo Custom Activity Definition Model. På samma sätt som (och i kombination med) Marketo Custom Object Modeler kan administratörer nu utöka datamodellen efter just deras behov. Information om hur du använder den här funktionen finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
