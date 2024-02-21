@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c4ac853f552142a245ba3fe754551b0f1b3cb3fa
+source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9287'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,9 @@ ht-degree: 0%
       + [Ärvd instans: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Ärvd instans: Dokumentera konfigurationen](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Granska nyckelkompetenser](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
+   + Komma igång med TEMP {#temp-getting-started-area}
+      + [Administratör](getting-started/temp-getting-started-area/admin.md)
+      + [Databas](getting-started/temp-getting-started-area/database.md)
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}

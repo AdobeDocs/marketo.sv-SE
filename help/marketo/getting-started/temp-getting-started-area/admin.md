@@ -4,7 +4,7 @@ title: NYTT OMRÅDE
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a1c06c980a6f8955f4f51e2fc85202d77a8f27da
+source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # NYTT OMRÅDE: Administratörschecklista {#new-area-admin-checklist}
 
-Öppnar oskärpa
+Intro text.
 
 ## Roller {#roles}
 
