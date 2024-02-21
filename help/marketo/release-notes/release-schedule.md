@@ -4,9 +4,9 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Releaschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: ed4c454c89b5579649b0a1184a29ed2dcdfff8f8
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '134'
 ht-degree: 5%
 
 ---
@@ -31,11 +31,6 @@ _Releasedatum/funktioner kan komma att ändras_
    <th width="250px">Frigör</th>
    <th width="250px">Releasedatum</th>
    <th width="250px">Status</th>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">23 september</a></td>
-   <td>8 september 2023</td>
-   <td>Levererat</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-oct-23.md">23 oktober</a></td>
