@@ -4,10 +4,10 @@ description: Dölj och visa ett fält - Marketo Docs - produktdokumentation
 title: Dölja och visa ett fält
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
@@ -37,6 +37,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
    >
    >* För att dölja ett fält får det inte vara kopplat till några andra resurser (inklusive arkiverade sådana). Se till att du tar bort fältet från alla smarta listor, alternativ för flödessteg, formulär, e-post osv. innan du döljer det.
    >* Du kan inte dölja standardfält (systemfält).
+   >* Du kan inte dölja informationsfält för affärsmöjlighet.
 
 1. Klicka **[!UICONTROL Hide]** för att bekräfta.
 
