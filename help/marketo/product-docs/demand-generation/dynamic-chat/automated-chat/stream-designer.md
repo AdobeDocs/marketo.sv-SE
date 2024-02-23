@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '1108'
+source-wordcount: '1083'
 ht-degree: 0%
 
 ---
@@ -91,15 +91,15 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 
 Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. I det här exemplet skapar vi en för en dialogruta.
 
-1. Efter att du [skapade din dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klickar du på **Stream Designer** -fliken.
+1. Efter att du [skapade din dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klickar du på **[!UICONTROL Stream Designer]** -fliken.
 
    ![](assets/stream-designer-6.png)
 
-1. Dra och släpp frågekortet.
+1. Dra och släpp [!UICONTROL Question] kort.
 
    ![](assets/stream-designer-7.png)
 
-1. Under Chatbot Response, skriv din fråga hur du vill.
+1. Under [!UICONTROL Chatbot Response], säg din fråga så som du vill.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
    >
    >Poke är som standard aktiverat, vilket innebär att den inledande frågan visas bredvid chattikonen utan att besökaren behöver klicka på den för att se den. Poke är bara tillgängligt på det första kortet i konversationen.
 
-1. Ange dina användarsvar och klicka på **Spara**.
+1. Ange dina användarsvar och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Redigera lagrade värden** är ett valfritt steg för dem som vill lagra ett annat värde i databasen än vad som visas för besökare i chattbot för mappade attribut på frågekortet (t.ex.: besökaren ser &quot;Sökmotoroptimering&quot;, du lagrar värdet som &quot;SEO&quot;).
+   >**[!UICONTROL Edit Stored Values]** är ett valfritt steg för dem som vill lagra ett annat värde i databasen än vad som visas för besökare i chattbot för mappade attribut på frågekortet (t.ex.: besökaren ser &quot;Sökmotoroptimering&quot;, du lagrar värdet som &quot;SEO&quot;).
 
 1. För Ja vill vi schemalägga en avtalad tid, så under det alternativet drar du över schemaläggarkortet för avtalad tid.
 
    ![](assets/stream-designer-10.png)
 
-1. Klicka på i kolumnen till höger **Spara**.
+1. Klicka på i kolumnen till höger **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Eftersom det är ett mål drar du målkortet under schemaläggaren för avtalade tider.
+1. Eftersom det är ett mål drar du [!UICONTROL Goal] kortet under Avtalets schemaläggare.
 
    ![](assets/stream-designer-12.png)
 
-1. Namnge målet (eller välj ett befintligt) och klicka på **Spara**.
+1. Namnge målet (eller välj ett befintligt) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-13.png)
 
-1. För&quot;Nej&quot; vill vi se om de kommer att gå med i e-postlistan, så under det alternativet drar du över ett annat frågekort.
+1. För&quot;Nej&quot; vill vi se om de kommer att gå med i e-postlistan, så under det alternativet drar vi över ett annat [!UICONTROL Question] kort.
 
    ![](assets/stream-designer-14.png)
 
-1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka **Spara** när det är klart.
+1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Du kan lägga till fler svar genom att klicka på **Lägg till svar**.
+   >Du kan lägga till fler svar genom att klicka på **[!UICONTROL Add Response]**.
 
 1. Under svaret&quot;Ja&quot; drar du över Info Capture-kortet så att du kan samla in besökarens e-post.
 
    ![](assets/stream-designer-16.png)
 
-1. Klicka på **Typ** nedrullningsbar meny och välj **E-post**.
+1. Klicka på **[!UICONTROL Type]** nedrullningsbar meny och välj **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo och klicka på **Spara**.
+1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
     </tr>
    </table>
 
-1. Eftersom det är ett mål att samla in deras e-post drar du målkortet under Info Capture.
+1. Eftersom det är ett mål att samla in deras e-post drar du [!UICONTROL Goal] kortet under Info Capture.
 
    ![](assets/stream-designer-19.png)
 
-1. Namnge målet (eller välj ett befintligt) och klicka på **Spara**.
+1. Namnge målet (eller välj ett befintligt) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-21.png)
 
-1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har en värdserver och klicka på **Spara**.
+1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har en värdserver och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Välj **Förhandsgranska** om du vill förhandsgranska dialogrutan.
+1. Välj **[!UICONTROL Preview]** om du vill förhandsgranska dialogrutan.
 
    ![](assets/stream-designer-23.png)
 
-1. När du är klar att aktivera dialogrutan klickar du på **Publicera**.
+1. När du är klar att aktivera dialogrutan klickar du på **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Innan du klickar på Publicera bör du kontrollera att [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Innan du klickar [!UICONTROL Publish], kom ihåg att se till att du [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

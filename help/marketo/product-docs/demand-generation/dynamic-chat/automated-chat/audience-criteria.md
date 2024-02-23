@@ -3,9 +3,9 @@ description: Målgrupper - Marketo Docs - produktdokumentation
 title: Målgruppskriterier
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ På samma sätt som smarta Marketo Engage-listor kan du definiera målgruppen me
 
 ## Prioritet {#priority}
 
-Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än en. Det är etablerat när du börjar [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Du kan ändra prioriteten för en befintlig dialogruta genom att öppna den och gå till **Dialogruteinformation** på fliken Målgruppskriterier.
+Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än en. Det är etablerat när du börjar [skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Du kan ändra prioriteten för en befintlig dialogruta genom att öppna den och gå till **[!UICONTROL Dialogue Details]** på fliken Målgruppskriterier.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ Prioritet avgör vilken dialog ett lead får om de kvalificerar sig för mer än
 
 Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rullar eller hur länge de finns på sidan/webbplatsen. I exemplet nedan riktar vi oss till besökare som har varit på en viss sida i mer än 20 sekunder.
 
-1. Ta tag i **Tid på sidan** och dra den åt höger.
+1. Ta tag i **[!UICONTROL Time on Page]** och dra den åt höger.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rulla
 
 **Kända personer**
 
-Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan riktar vi oss mot alla **kända personer** i Kalifornien som arbetar på ett företag med över 50 anställda.
+Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan riktar vi oss till alla kända personer i Kalifornien som arbetar på ett företag med över 50 anställda.
 
-1. Ta tag i **Persontillstånd** och dra den åt höger.
+1. Ta tag i **[!UICONTROL Person State]** och dra den åt höger.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan rik
 
    ![](assets/audience-criteria-8.png)
 
-1. Ta tag i **Företagsstorlek** och dra det dit det ska _dra och släpp ett attribut här_.
+1. Ta tag i **[!UICONTROL Company Size]** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan rik
    >
    >Du kan också välja ett attribut genom att klicka på dess **+** -ikon.
 
-1. Klicka på operatorlistrutan och välj **Större än**.
+1. Klicka på operatorlistrutan och välj **[!UICONTROL Greater Than]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ Och det är allt!
 
 **Anonyma personer**
 
-Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss mot alla **anonyma personer** i New York.
+Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finns i din databas än. I det här exemplet riktar vi oss till alla anonyma personer som finns i New York.
 
-1. Ta tag i **Personens e-postadress** och dra den åt höger.
+1. Ta tag i **[!UICONTROL Person Email]** och dra den åt höger.
 
    ![](assets/audience-criteria-12.png)
 
-1. Klicka på operatorlistrutan och välj **Är tom**.
+1. Klicka på operatorlistrutan och välj **[!UICONTROL Is Empty]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Ta tag i **Inledningstillstånd** och dra det dit det ska _dra och släpp ett attribut här_.
+1. Ta tag i **[!UICONTROL Inferred State]** och dra det dit det ska _dra och släpp ett attribut här_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Använd Marketo Engage Smart Lists för er målgrupp i dialogrutan.
 >
 >Medlem i Smart List eller Medlem i List-kriterier kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Under Medlemskap, ta **Medlem i Smart List** och släpp det på arbetsytan.
+1. Under Medlemskap, ta **[!UICONTROL Member of Smart List]** och släpp det på arbetsytan.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,7 +133,7 @@ Godtagbara format:
 
 **Undantag**
 
-Använd undantag för att säkerställa att dialogrutan gör det **not** visas på en viss sida/ett visst område på webbplatsen. Undantag har samma format som inkluderingar.
+Använd undantag för att säkerställa att dialogrutan gör det _not_ visas på en viss sida/ett visst område på webbplatsen. Undantag har samma format som inkluderingar.
 
 ![](assets/audience-criteria-18.png)
 

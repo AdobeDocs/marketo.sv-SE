@@ -2,11 +2,11 @@
 description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdokumentation
 title: Lägg till eller ta bort chattanvändare
 feature: Dynamic Chat
-exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Klicka **Dynamic Chat**.
+1. Klicka på **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
    >
    >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg.
 
-1. Klicka på **Användare** -fliken.
+1. Klicka på **[!UICONTROL Users]** -fliken.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Klicka på **Lägg till användare** -knappen.
+1. Klicka på **[!UICONTROL Add User]** -knappen.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -52,19 +52,19 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
 Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Chat-behörighet gör du så här.
 
-1. Klicka på i Marketo **Administratör** och markera **Användare och roller**.
+1. Klicka på i Marketo **[!UICONTROL Admin]** och markera **[!UICONTROL Users & Roles]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Klicka på **Roller** -fliken.
+1. Klicka på **[!UICONTROL Roles]** -fliken.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Välj den roll du vill ändra i listan och klicka på **Redigera roll**.
+1. Välj den roll du vill ändra i listan och klicka på **[!UICONTROL Edit Role]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Välj **Access Dynamic Chat** och klicka **Spara**.
+1. Välj **[!UICONTROL Access Dynamic Chat]** och klicka **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -74,7 +74,7 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Klicka **Dynamic Chat**.
+1. Klicka på **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -82,7 +82,7 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
    >
    >Om du har fler än en Marketo-prenumeration väljer du en före nästa steg.
 
-1. Klicka på **Användare** -fliken.
+1. Klicka på **[!UICONTROL Users]** -fliken.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -90,11 +90,11 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Klicka på **Ta bort användare** -knappen.
+1. Klicka på **[!UICONTROL Remove User]** -knappen.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Klicka **Ta bort användare** för att bekräfta.
+1. Klicka **[!UICONTROL Remove User]** för att bekräfta.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

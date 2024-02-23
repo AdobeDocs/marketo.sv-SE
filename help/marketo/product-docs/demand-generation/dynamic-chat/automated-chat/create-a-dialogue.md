@@ -2,11 +2,11 @@
 description: Skapa en dialogruta - Marketo Docs - produktdokumentation
 title: Skapa en dialogruta
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Så här skapar du en ny dialogruta.
 
-1. Klicka **Dialogrutor**.
+1. Klicka på **[!UICONTROL Dialogues]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Klicka på **Skapa nytt** -knappen.
+1. Klicka på **[!UICONTROL Create New]** -knappen.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. Välj en tom dialogruta eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra prioritetsnivån (valfri) och klicka på **Skapa**.
+1. Välj en tom dialogruta eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra prioritetsnivån (valfri) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-dialogue-3.png)
 

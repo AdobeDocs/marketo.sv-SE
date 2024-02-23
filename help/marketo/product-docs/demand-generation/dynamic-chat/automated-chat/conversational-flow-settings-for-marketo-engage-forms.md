@@ -2,10 +2,10 @@
 description: Konversationsflödesinställningar för Marketo Engage Forms - Marketo Docs - produktdokumentation
 title: Konversationsflödesinställningar för Marketo Engage Forms
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Klicka **Redigera utkast**.
+1. Klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Klicka på **Formulärinställningar** sedan **Inställningar**.
+1. Klicka på **[!UICONTROL Form Settings]** sedan **[!UICONTROL Settings]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Klicka på **Konversationsflödesinställningar** skjutreglage som ska aktiveras.
+1. Klicka på **[!UICONTROL Conversational Flow Settings]** skjutreglage som ska aktiveras.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Ett standardalternativ visas. Välj din inställning. I det här exemplet väljer vi **Använd konversationsflöde**.
+1. Ett standardalternativ visas. Välj din inställning. I det här exemplet väljer vi **[!UICONTROL Use Conversational Flow]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
    >
    >Besökarens webbläsare måste vara en känd person som cookie innan formuläret skickas in för att bli berättigad till medlem i en statisk/smart lista.
 
-1. Klicka **Slutför** när det är klart.
+1. Klicka **[!UICONTROL Finish]** när det är klart.
 
    ![](assets/conversational-flow-settings-8.png)

@@ -3,9 +3,9 @@ description: Bästa val - Marketo Docs - produktdokumentation
 title: Bästa val
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 
 Fliken Bästa val innehåller en lista med alla dina aktiva leads baserat på deras prioritet, beräknade med hjälp av trängsel och relativa poäng.
 
+>[!CAUTION]
+>
+>Se till att inte överskrida 1 000 bästa val, annars kan sidan sluta läsas in. Om detta inträffar kan du använda filtren för att begränsa det totala antalet bästa val.
+
 **Filteralternativ**
 
 Du kan klicka på följande knappar för att se Bästa val:
@@ -21,7 +25,7 @@ Du kan klicka på följande knappar för att se Bästa val:
 * Leads: Du kan se Bästa val för alla leads som du har tilldelats i CRM
 * Kontakter: Du kan se Bästa val för alla kontakter som du har tilldelats i CRM
 * Kontokontakter: Du kan se Bästa val för alla kontakter som tillhör konton som du har tilldelats i CRM, även om du inte har tilldelats själva kontakten
-* Affärsmöjlighetskontakter: Du kan se Bästa val för alla kontakter som tillhör säljprojekt som du har tilldelats i CRM, även om du inte har tilldelats själva kontakten
+* Affärsmöjlighetskontakter: Du kan se Bästa val för alla kontakter som tillhör dig i CRM, även om själva kontakten inte är tilldelad dig
 
 **Saker att notera**
 

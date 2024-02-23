@@ -2,10 +2,10 @@
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt över dialogrutan
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,10 @@ På fliken Rapporter kan du se mätvärden för hur bra din dialogruta fungerar.
 
 Du kan inaktivera (och återaktivera) alla publicerade dialogrutor samtidigt.
 
-1. I Dynamic Chat klickar du på **Konfiguration** -fliken.
+1. I Dynamic Chat klickar du på **[!UICONTROL Configuration]** -fliken.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Växla **Chatt aktiverad** om du vill inaktivera (och sedan aktivera) alla dialogrutor igen.
+1. Växla **[!UICONTROL Chat Enabled]** om du vill inaktivera (och sedan aktivera) alla dialogrutor igen.
 
    ![](assets/dialogue-overview-5.png)
