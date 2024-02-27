@@ -4,7 +4,7 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
+source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -29,8 +29,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!NOTE]
 >
->Är du [!DNL Microsoft Azure] användare? Kolla in deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
-Det finns ett stavfel i steg 5c i självstudiekursen. Använd `https://<munchkinid>.mktoweb.com`, _not_ `https://<munchkinid>.marketo.com`.
+>Är du [!DNL Microsoft Azure] användare? Kolla in deras [självstudiekurs om integrering](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Det finns ett stavfel i steg 5c i självstudiekursen. Använd `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## Skicka förfrågan {#how-to-send-the-request}
 
