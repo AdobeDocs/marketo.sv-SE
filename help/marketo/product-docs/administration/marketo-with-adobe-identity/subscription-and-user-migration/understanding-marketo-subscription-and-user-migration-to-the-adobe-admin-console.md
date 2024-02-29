@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt
 
 **Adobe migrerar automatiskt Marketo Admins först**. När Marketo-administratörer migreras till Adobe Identity får de rollen som produktadministratör för Adobe i Marketo-programmet tillsammans med eventuella andra roller de tidigare hade.
 
-**Om din Marketo-prenumeration har färre än 75 användare** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering för att minimera overheadkostnader för användare av Adobe Marketo. Du behöver inte göra något för att utföra migreringen.
+**Om din Marketo-prenumeration har färre än 75 användare och inte har enkel inloggning i Marketo och/eller din Adobe-organisation** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering för att minimera overheadkostnader för användare av Adobe Marketo. Du behöver inte göra något för att utföra migreringen.
 
-**Om din Marketo-prenumeration har över 75 användare** får Marketo produktadministratörer tillgång till självbetjäningsmigreringsområdet på Marketo migreringskonsol, som finns i Marketo Admin. För dem som behöver större kontroll under användarmigreringsprocessen kan Marketo produktadministratörer börja välja användare att migrera gruppvis eller alla samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna fullständig flexibilitet och kontroll över vilka användare som migreras när de gör det.
+**Om din Marketo-prenumeration har över 75 användare eller har enkel inloggning i Marketo och/eller din Adobe Org** får Marketo produktadministratörer tillgång till självbetjäningsmigreringsområdet på Marketo migreringskonsol, som finns i Marketo Admin. För dem som behöver större kontroll under användarmigreringsprocessen kan Marketo produktadministratörer börja välja användare att migrera gruppvis eller alla samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna fullständig flexibilitet och kontroll över vilka användare som migreras när de gör det.
 
 >[!NOTE]
 >

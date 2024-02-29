@@ -3,9 +3,9 @@ description: Migrera till Adobe Identity - Marketo Docs - produktdokumentation
 title: Migrerar till Adobe-identitet
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe migrerar automatiskt alla Marketo-administratörer med verifierade e-postm
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Om din Marketo-prenumeration har färre än 75 användare** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering och ingen åtgärd krävs för att utföra migreringen. När migreringen är klar visas inte Marketo migreringskonsol längre i navigeringsområdet i Marketo Admin och alla användare kommer att få åtkomst till Marketo via en Adobe ID.
+**Om din Marketo-prenumeration har färre än 75 användare och inte har enkel inloggning i Marketo och/eller din Adobe-organisation** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering och ingen åtgärd krävs för att utföra migreringen. När migreringen är klar visas inte Marketo migreringskonsol längre i navigeringsområdet i Marketo Admin och alla användare kommer att få åtkomst till Marketo via en Adobe ID.
 
-**Om din Marketo-prenumeration har 75 eller fler användare**, får Marketo produktadministratörer tillgång till migreringsverktyget för självbetjäningsanvändare i migreringskonsolen när användarmigreringen startar och varnas via banner vid inloggning på Min Marketo-sida. Administratören ansvarar för att slutföra användarmigreringen med verktyget för självbetjäningsanvändarmigrering.
+**Om din Marketo-prenumeration har 75 eller fler användare eller har enkel inloggning i Marketo och/eller din Adobe Org**, får Marketo produktadministratörer tillgång till migreringsverktyget för självbetjäningsanvändare i migreringskonsolen när användarmigreringen startar och varnas via banner vid inloggning på Min Marketo-sida. Administratören ansvarar för att slutföra användarmigreringen med verktyget för självbetjäningsanvändarmigrering.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
