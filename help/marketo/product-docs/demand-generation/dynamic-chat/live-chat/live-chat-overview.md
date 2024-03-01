@@ -3,7 +3,7 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
 
 ## Live Chat-meddelanden {#live-chat-notifications}
 
-För att kunna ta emot webbläsarmeddelanden för live-chatt måste alla live-chattagenter aktivera webbläsarmeddelanden för Dynamic Chat när de uppmanas till det.
+>[!IMPORTANT]
+>
+>För att kunna ta emot webbläsarmeddelanden för live-chatt måste alla live-chattagenter aktivera webbläsarmeddelanden för Dynamic Chat när de uppmanas till det.
 
 ### Aktivera meddelanden {#enabling-notifications}
 

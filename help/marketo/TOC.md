@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
-source-wordcount: '9287'
+source-wordcount: '9288'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,9 @@ ht-degree: 0%
          + [Ändra detaljer i granskningsspår](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [Aktivera granskningsspår](product-docs/administration/audit-trail/enable-audit-trail.md)
          + [Filtrera i granskningsspår](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-         + [Historik för användarinloggning](product-docs/administration/audit-trail/user-login-history.md)
-      + E-postinställningar {#email-setup}
-         + Lägg till flera profileringsdomäner {#add-multiple-branding-domains}
+         + [Inloggningshistorik för användare](product-docs/administration/audit-trail/user-login-history.md)
+      + E-postinställning {#email-setup}
+         + Lägg till flera varumärkesdomäner {#add-multiple-branding-domains}
             + [Lägg till en extra varumärkesdomän med arbetsytor](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
             + [Lägg till en extra varumärkesdomän](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
             + [Ta bort en profileringsdomän](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
@@ -259,15 +259,15 @@ ht-degree: 0%
             + [Definiera smart lista för smart kampanj | Utlösare](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [Kontrolllista för smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Använda smarta kampanjer {#using-smart-campaigns}
-            + [Avbryta en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
-            + [Aktivera en utlösare för smart kampanj | Fliken Schema](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
-            + [Använd kommunikationsbegränsningar för smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-            + [Automatisk rensning av utlösarkampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+            + [Avbryt en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
+            + [Aktivera en utlösande smart kampanj | Fliken Schemalägg](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Tillämpa kommunikationsgränser på Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+            + [Automatisk rensning av utlöst kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [Kampanjåtgärder: Klona en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [Kampanjåtgärder: Ta bort en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
-            + [Avbryt en schemalagd batchkampanjkörning](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
-            + [Avbryt en schemalagd återkommande batchkampanjkörning](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
-            + [Inaktivera en utlösare för smart kampanj | Fliken Schema](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Avbryt en schemalagd batchkampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+            + [Avbryta en schemalagd återkommande Batchkampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
+            + [Inaktivera en utlöst smart kampanj | Fliken Schemalägg](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [Redigera kvalificeringsregler i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Flytta en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Åsidosätt personbegränsningar i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
@@ -334,7 +334,7 @@ ht-degree: 0%
             + [Synkronisera person till SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + Smarta kampanjdata {#smart-campaign-data}
             + [Exportera smarta kampanjresultat till Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
-            + [Filtrera resultat för smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+            + [Filtrera resultat av smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
             + [Visa blockerade personer i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
             + [Visa kvalificerade personer i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [Visa medlemmar i smarta kampanjer](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
@@ -503,7 +503,7 @@ ht-degree: 0%
          + [Skapa ny kampanjmapp](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + [Ordlista för kortkommandon](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-         + [Integritetshantering](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [Sekretesshantering](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Sekretessförfrågningar](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Byta namn på en Marketo-resurs](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [Förstå mappar](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
@@ -666,6 +666,7 @@ ht-degree: 0%
          + Live Chatt {#live-chat}
             + [Översikt över live-chatt](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [Meddelanden](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
@@ -786,9 +787,9 @@ ht-degree: 0%
       + Landningssidor {#landing-pages}
          + Om landningssidor {#understanding-landing-pages}
             + [Godkänn, Avgodkänn eller Ta bort en landningssida](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
-            + [Prestandarapport för landningssida](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [Testgrupper för landningssida](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-            + [Förstå frihandssidor jämfört med sidor med guidad landning](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+            + [Resultatrapport för målsida](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
+            + [Testgrupper för målsidor](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [Förstå landningssidor för fritt format kontra guidade landningssidor](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Landningssidor i fri form {#free-form-landing-pages}
             + [Lägg till en länk till en landningssidbild med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [Lägga till en länk till en bild på en startsida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
@@ -930,9 +931,9 @@ ht-degree: 0%
                + [Mall 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [Mall 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + Anpassa landningssidor {#personalizing-landing-pages}
-            + [Lägga till ett kodfragment på en landningssida](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-            + [Lägg till ytterligare CNAME för landningssida](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
-            + [Lägg till SSL på era landningssidor](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
+            + [Lägga till ett kodavsnitt på en landningssida](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+            + [Lägg till ytterligare CNAME för landningssidor](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
+            + [Lägg till SSL på dina landningssidor](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
             + [Lägga till text och token på en landningssida](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Aktivera anpassade URL:er för en landningssida](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Aktivera anpassade URL:er för ditt konto](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -998,7 +999,7 @@ ht-degree: 0%
          + [Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + Inkorgsspåraren {#inbox-tracker}
             + [Inkorgsspåraren Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
-      + Drivrutiner {#drip-nurturing}
+      + Droppuppfostran {#drip-nurturing}
          + Skapa ett engagemangsprogram {#creating-an-engagement-program}
             + [Lägg till en ström](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [Lägg till innehåll i en ström](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
@@ -1209,9 +1210,9 @@ ht-degree: 0%
             + [Installera ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
             + [Skicka ett e-postmeddelande från Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Avinstallera Sales Connect från Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
-            + [Förhindrar att den sekundära Gmail-adressen integreras med Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
+            + [Förhindra att sekundär Gmail-adress integreras med Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
             + [Plugin-programmet Sales Connect visas inte i Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/sales-connect-plugin-not-showing-up-in-gmail.md)
-            + [Schemalägg ett e-postmeddelande för ett senare datum](product-docs/marketo-sales-connect/email-plugins/gmail/schedule-an-email-for-a-later-date.md)
+            + [Schemalägg ett e-postmeddelande till ett senare datum](product-docs/marketo-sales-connect/email-plugins/gmail/schedule-an-email-for-a-later-date.md)
             + [Verktygsfältet Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Oväntat fel i Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC för Outlook {#msc-for-outlook}
@@ -1450,9 +1451,9 @@ ht-degree: 0%
             + [Varför skickades inte alla mina kontakter till säljinsiktsåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Varför markeras mina e-postmeddelanden som skräppost?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [Varför har min kampanj upphört?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
-            + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+            + [Varför visas inte spårningsaktivitet i Salesforce-aktiviteten?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integreringar {#integrations}
-            + [Integrering med högdagrar](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
+            + [INTEGRERING MED HÖGPUNKT](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Ge Marketo åtkomst till användare](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Intressanta stunder i Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
@@ -1875,7 +1876,7 @@ ht-degree: 0%
          + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Webbanpassning {#web-personalization}
-      + Kontobaserad webbmarknadsföring {#account-based-web-marketing}
+      + KONTOBASERAD WEBBMARKNADSFÖRING {#account-based-web-marketing}
          + [Kontobaserad webbmarknadsföring med TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Skapa en ny kontolista](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Skapa ett segment med hjälp av en kontolista](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

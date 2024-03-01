@@ -4,19 +4,46 @@ title: Meddelanden
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Meddelanden {#notifications}
 
-KOMMER SNART
+För att kunna ta emot webbläsarmeddelanden för live-chatt måste alla live-chattagenter aktivera webbläsarmeddelanden för Dynamic Chat när de uppmanas till det.
 
-Webbläsare
+Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka **Aktivera**.
 
-I appen
+![](assets/live-chat-overview-4.png)
 
-MSI-åtgärder
+Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka **Tillåt**.
+
+![](assets/live-chat-overview-5.png)
+
+## Aktivera meddelanden i Chrome{#enable-notifications-in-chrome}
+
+### Chrome för Windows
+
+Google beskriver stegen för att aktivera webbläsarmeddelanden för Windows i [den här artikeln](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+
+### Chrome för Mac OS
+
+(Infoga Johns steg här)
+
+## Aktivera meddelanden i Firefox{#enable-notifications-in-firefox}
+
+I Firefox beskrivs stegen för olika webbläsarversioner och operativsystem i [den här artikeln](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+
+## OS-meddelanden {#os-notifications}
+
+Om agenter fortfarande inte får meddelanden efter att de har tillåtit dem i sin webbläsare, kan de behöva aktivera meddelanden för webbläsaren i operativsystemets meddelandeinställningar.
+
+[Meddelanden: Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Meddelanden: Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+
+MEDDELADE MSI-ÅTGÄRDER NÅGONSIN???
