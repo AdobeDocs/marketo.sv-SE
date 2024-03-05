@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571743
-description: Konfigurera Marketo Sales Insight i Salesforce Professional Edition - Marketo Docs - produktdokumentation
+description: Lär dig konfigurera Marketo Sales Insight i Salesforce Professional Edition.
 title: Konfigurera Marketo Sales Insight i Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
+source-git-commit: 68abebb5e1f9dc0780aedcff51d46ed12d5b4d0a
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 0%
+source-wordcount: '684'
+ht-degree: 1%
 
 ---
 
 # Konfigurera Marketo Sales Insight i Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Salesforce Professional Edition. Kom så sätter vi igång.
+Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att utföra följande steg.
 
 >[!PREREQUISITES]
 >
@@ -23,89 +23,89 @@ Här är de steg du måste ta för att konfigurera Marketo Sales Insight i Sales
 
 >[!NOTE]
 >
->**Administratörsbehörigheter krävs**
+>**Administratörsbehörighet krävs.**
 
-## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
+## Konfigurera säljinsikter i Marketo Engage {#configure-sales-insight-in-marketo}
 
-1. Öppna ett nytt webbläsarfönster för att hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
+1. Öppna ett nytt webbläsarfönster om du vill hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
 
-1. Gå till **Administratör** område och markera **Försäljningsinsikter**.
+1. Gå till **[!UICONTROL Admin]** område och markera **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
-1. Klicka **Redigera API-konfiguration**.
+1. Klicka på **[!UICONTROL Edit API Configuration]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
-1. Ange en API-hemlig nyckel som du väljer och klicka på **Spara**. Använd INTE ett et-tecken (&amp;) i API-hemlighetsnyckeln.
+1. Ange en API-hemlig nyckel som du väljer och klicka på **[!UICONTROL Save]**. Använd INTE ett et-tecken (`&`) i API:ts hemliga nyckel.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3-1.png)
 
    >[!NOTE]
    >
-   >Din API-hemliga nyckel är som ett lösenord för din organisation och bör vara säker.
+   >Den hemliga API-nyckeln är som ett lösenord för din organisation och bör vara säker.
 
-1. Klicka **Visa** på panelen Rest API Configuration för att fylla i autentiseringsuppgifterna.
+1. Om du vill fylla i inloggningsuppgifterna klickar du **[!UICONTROL View]** i _[!UICONTROL Rest API Configuration]_-panelen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. En bekräftelse visas. Klicka **OK**.
+1. När du ser en bekräftelsedialogruta klickar du på **[!UICONTROL OK]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
 ## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
 
-1. I Salesforce klickar du på **Inställningar**.
+1. I Salesforce klickar du på **[!UICONTROL Setup]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Sök efter&quot;fjärrwebbplats&quot; och välj **Inställningar för fjärrplats**.
+1. Sök efter&quot;fjärrwebbplats&quot; och välj **[!UICONTROL Remote Site Settings]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
-1. Klicka **Ny fjärrplats**.
+1. Klicka på **[!UICONTROL New Remote Site]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSoapAPI&quot;). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från panelen Konfigurera Soap API i Marketo. Klicka **Spara**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan likna `MarketoSoapAPI`). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från konfigurationspanelen för Soap API i Marketo Engage. Klicka på **[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
-1. Klicka **Ny fjärrplats** igen.
+1. Klicka **[!UICONTROL New Remote Site]** igen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från konfigurationspanelen för Rest API i Marketo. Klicka **Spara**. Du har nu skapat fjärrplatsinställningar för Rest API.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoRestAPI&quot;). Ange URL för fjärrplats, som är din API-URL från konfigurationspanelen för Rest API i Marketo. Klicka på **[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Rest API.
 
-## Bevilja åtkomst till Salesforce-standardobjekt i användarprofilen för Sales Insight {#grant-sales-insight-users-profile-access}
+## Bevilja åtkomst till Salesforce-standardobjekt för Sales Insight-användarprofiler {#grant-sales-insight-users-profile-access}
 
-På grund av säkerhetsförbättringarna i Salesforce kan App Exchange-paket inte längre ge behörighet till standardobjekt, och åtkomst måste beviljas till relevanta Salesforce-objekt från Salesforce-användarens profil. Följ stegen nedan för att bevilja nödvändiga behörigheter.
+På grund av säkerhetsförbättringarna i Salesforce kan AppExchangar inte längre ge behörighet till standardobjekt, och åtkomst måste beviljas till relevanta Salesforce-objekt från Salesforce-användarens profil. Bevilja de nödvändiga behörigheterna genom att följa dessa steg.
 
-1. Klicka **Inställningar**.
+1. Klicka på **[!UICONTROL Setup]**.
 
 1. Sök efter profiler i Snabbsökning.
 
-1. Klicka **Redigera** bredvid den profil som dina Salesforce-användare använder.
+1. Klicka **[!UICONTROL Edit]** bredvid profilen som dina Salesforce-användare använder.
 
 1. Aktivera läsåtkomst för följande objekt under avsnittet Standardobjektbehörighet: Lead, Kontakt, Konto och Möjlighet.
 
-1. Klicka **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
 ## Anpassa sidlayouter {#customize-page-layouts}
 
-1. Klicka **Inställningar**.
+1. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Sök efter&quot;sidlayout&quot; och välj **Sidlayout** under **Leads**.
+1. Sök efter&quot;sidlayout&quot; och välj **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Klicka **Visualforce-sidor** till vänster. Dra **Avsnitt** till layouten under Anpassade länkar.
+1. Klicka **[!UICONTROL Visualforce Pages]** till vänster. Dra **[!UICONTROL Section]** till layouten under Anpassade länkar.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Ange&quot;Marketo Sales Insight&quot; som **Avsnittsnamn**. Välj **1 kolumn** och klicka **OK**.
+1. Ange&quot;Marketo Sales Insight&quot; som **[!UICONTROL Section Name]**. Välj **[!UICONTROL 1-Column]** och klicka **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -115,149 +115,107 @@ På grund av säkerhetsförbättringarna i Salesforce kan App Exchange-paket int
 
    >[!TIP]
    >
-   >Namnet på den här rutan ändras beroende på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter står Kontakt.
+   >Namnet på den här rutan ändras baserat på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter visas Kontakt.
 
-1. Dubbelklicka på **Lead** -block som du just har lagt till.
+1. Dubbelklicka på **[!UICONTROL Lead]** -block som du just har lagt till.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Redigera höjd till **450** pixlar och klicka **OK**.
+1. Redigera höjden till 450 pixlar och klicka **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
    >[!NOTE]
    >
-   >Kontrollera **Visa rullningslister** om du behöver tillgång till genomskärningsaktiviteter.
+   >Kontrollera **[!UICONTROL Show scrollbars]** om du behöver tillgång till genomskärningsaktiviteter.
 
    >[!TIP]
    >
-   >Vi rekommenderar en höjd på 410 pixlar för objekten Konton och Affärsmöjligheter.
+   >Den rekommenderade höjden för objekten Konton och säljprojekt är 410 pixlar.
 
-1. Klicka på **Fält** till vänster. Sök och dra sedan **Engagemang** etiketten i **Marketo Sales Insight** layout.
+1. Klicka **[!UICONTROL Fields]** till vänster. Sök och dra sedan **[!UICONTROL Engagement]** etiketten i **[!UICONTROL Marketo Sales Insight]** layout.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
-1. Upprepa även ovanstående steg för dessa fält.
+1. Upprepa föregående steg för följande fält:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1">Engagemang</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   * [!UICONTROL Engagement]
+   * [!UICONTROL Relative Score Value]
+   * [!UICONTROL Urgency Value]
+   * [!UICONTROL Last Interesting Moment Date]
+   * [!UICONTROL Last Interesting Moment Desc]
+   * [!UICONTROL Last Interesting Moment Source]
+   * [!UICONTROL Last Interesting Moment Type]
 
-1. Klicka **Spara** när du är klar.
+1. Klicka **[!UICONTROL Save]** när du är klar.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Upprepa den här processen för att lägga till Visualforce-sidavsnitt och Sales Insight-fält för **Kontakt**, **Konto** och **Möjligheter**.
-1. Upprepa steg 5-7 för att lägga till Visualforce-sidavsnitt för kontakt, konto och säljprojekt. Upprepa sedan steg 8-10 för att lägga till Sales Insight-fält för **Kontakt**. Glöm inte att spara efter ändringarna.
+1. Lägga till Visualforce-sidavsnitt för **[!UICONTROL Contact]**, **[!UICONTROL Account]** och **[!UICONTROL Opportunity]**, upprepa steg 5-7.
+
+1. Upprepa steg 8-10 för att lägga till Sales Insight-fält för **[!UICONTROL Contact]**. Glöm inte att spara efter ändringarna.
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
-Marketo personfält måste mappas till Salesforce-kontaktfält för att konverteringen ska fungera korrekt. Så här gör du.
+Marketo personfält måste mappas till Salesforce-kontaktfält för att konverteringen ska fungera korrekt. Följ de här stegen för att mappa dem.
 
-1. Klicka **Inställningar**.
+1. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Sök efter&quot;fält&quot; i sökfältet och klicka på **Fält** under **Leads**.
+1. Sök efter&quot;fält&quot; i sökfältet och klicka på **[!UICONTROL Fields]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
-1. Klicka **Mappa leadfält**.
+1. Klicka på **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
-1. Klicka på listrutan till höger för **Engagemang**.
+1. Klicka på listrutan till höger för **[!UICONTROL Engagement]**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
-1. Välj **Contact.Engagement** i listan.
+1. Välj **[!UICONTROL Contact.Engagement]** i listan.
 
    ![](assets/image2015-6-1-10-3a12-3a11-1.png)
 
 1. Upprepa och mappa även dessa fält.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1" rowspan="1">Anpassat fält för Marketo-person</th> 
-   <th colspan="1" rowspan="1">Anpassat fält för Salesforce-kontakt</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Engagemang</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relativt poängvärde</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Relativt poängvärde</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Värde för nödsituationer</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Emergency Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta datum</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta datum</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Senaste intressanta tillfälle</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tillfälle</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Källa för senaste intressanta stund</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta tidskälla</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Typ av senaste intressanta stund</p></td> 
-   <td colspan="1" rowspan="1"><p>Kontakt.Senaste intressanta stund</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   | Anpassat fält för Marketo-person | Anpassat fält för Salesforce-kontakt |
+   |--- |--- |
+   | `Engagement` | `Contact.Engagement` |
+   | `Relative Score Value` | `Contact.Relative Score Value` |
+   | `Urgency Value` | `Contact.Urgency Value` |
+   | `Last Interesting Moment Date` | `Contact.Last Interesting Moment Date` |
+   | `Last Interesting Moment Desc` | `Contact.Last Interesting Moment Desc` |
+   | `Last Interesting Moment Source` | `Contact.Last Interesting Moment Source` |
+   | `Last Interesting Moment Type` | `Contact.Last Interesting Moment Type` |
 
-1. Klicka **Spara** när du är klar.
+   {style="table-layout:auto"}
+
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## Konfigurationsfliken för Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
-1. Klicka på **+** i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
+1. Klicka på **+** i slutet av flikfältet och klicka på **[!UICONTROL Marketo Sales Insight Config]**.
 
 1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från **[!UICONTROL Rest API]** panel i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-Och det är allt! Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
+Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts och Opportunity.
 
 >[!NOTE]
 >
->Om diagnostiktestet misslyckades kan du behöva [lägga till fler fält i sidlayouten](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
+>Om diagnostestet misslyckades, [lägga till fler fält i sidlayouten](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} kan åtgärda problemet.
 
 >[!NOTE]
 >
->För konton kommer Sales Insight att inkludera alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
+>För konton inkluderar Sales Insight alla e-postmeddelanden, men bara de senaste intressanta stunderna, webbaktiviteten och poängändringarna.
 
 >[!MORELIKETHIS]
 >
