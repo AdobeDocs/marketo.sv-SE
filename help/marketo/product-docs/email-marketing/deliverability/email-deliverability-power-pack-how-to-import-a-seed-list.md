@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: E-postleverans Power Pack - Så här importerar du en dirigeringslista - Marketo Docs - Produktdokumentation
-title: E-postleverans, Power Pack - Så här importerar du en dirigeringslista
+description: Lär dig hur du importerar en startvärdeslista till din Marketo Engage-instans.
+title: Power Pack för e-postleverans - Så här importerar du en dirigeringslista
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Power Pack för e-postleverans: Så här importerar du en dirigeringslista {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera postlådeproviders, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna hur många inkorgar och skräppostmappar som levereras. Så här hämtar du listan till din Marketo-instans.
+En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera postlådeproviders, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna hur många inkorgar och skräppostmappar som levereras. Här nedan beskrivs de steg som krävs för att hämta listan till din Marketo Engage-instans.
 
 >[!IMPORTANT]
 >
