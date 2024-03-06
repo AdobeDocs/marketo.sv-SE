@@ -4,9 +4,9 @@ description: Lägg till Google kundmatchning som en LaunchPoint-tjänst - Market
 title: Lägg till Google kundmatchning som en LaunchPoint-tjänst
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '211'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 1%
 # Lägg till Google kundmatchning som en LaunchPoint-tjänst {#add-google-customer-match-as-a-launchpoint-service}
 
 Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
+
+>[!IMPORTANT]
+>
+>Synkroniseringsfunktionen mellan Adobe och Google är tillfälligt inaktiverad på grund av den senaste uppdateringen av Google Ads API.  Adobe granskar för närvarande Google krav för uppdateringen.
 
 >[!NOTE]
 >

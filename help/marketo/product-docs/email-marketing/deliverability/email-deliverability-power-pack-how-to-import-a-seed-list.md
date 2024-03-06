@@ -4,9 +4,9 @@ description: E-postleverans Power Pack - Så här importerar du en dirigeringsli
 title: E-postleverans, Power Pack - Så här importerar du en dirigeringslista
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera postlådeproviders, inklusive Google Apps, Hotmail, Yahoo!, osv., som används för att beräkna hur många inkorgar och skräppostmappar som levereras. Så här hämtar du listan till din Marketo-instans.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Den här artikeln är avsedd för användare med en aktiv Everest-prenumeration just nu. Om du använder Inbox Tracker av Bird (tidigare MessageBird), dina självstudiekurser [finns här](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importera en dirigerad lista {#import-a-seed-list}
 

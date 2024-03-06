@@ -1,20 +1,24 @@
 ---
-description: Inkorgsspåraren Tutorials - Marketo Docs - produktdokumentation
+description: Testa, övervaka och förstå leveransproblem med Marketo Engage Email Deliverability Powerpack.
 title: Inkorgsspåraren Tutorials
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Inkorgsspåraren Tutorials {#inbox-tracker-tutorials.md}
+# Inkorgsspåraren Tutorials {#inbox-tracker-tutorials}
 
-Testa, övervaka och förstå leveransproblem med Marketo Email Deliverability Powerpack, som bygger på MessageBirds Inbox Tracker-plattform. Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
+Testa, övervaka och förstå leveransproblem med Marketo Engage Email Deliverability Powerpack, som drivs av Inbox Tracker-plattformen för Fågel (tidigare MessageBird). Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
 
-MessageBird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av det här kraftfulla verktyget.
+>[!AVAILABILITY]
+>
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+
+Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av det här kraftfulla verktyget.
 
 ## Översikt över Inkorgsspåraren {#inbox-tracker-overview}
 
