@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '216'
 ht-degree: 3%
 
 ---
@@ -31,8 +31,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   <tr> 
    <td><strong>Avancerad konverteringsflödeslogik</strong>: Lägg till ytterligare fält för utvärdering i ett och samma val för uppföljning av konversationsflöde.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationsflödesinställningar för Marketo Engage Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    </tr>
     <tr> 
    <td><strong>Ändra ordning på konversationsflödeslogik</strong>: I Marketo Engage Forms kan du nu ändra ordningen på alternativen för konversationsflöde i stället för att behöva ta bort och lägga tillbaka.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationsflödesinställningar för Marketo Engage Forms</a></td>
    </tr>
   <tr> 
    <td> </td> 

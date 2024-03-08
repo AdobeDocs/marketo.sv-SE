@@ -3,9 +3,9 @@ description: Konversationsflödesinställningar för Marketo Engage Forms - Mark
 title: Konversationsflödesinställningar för Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Välj önskat konversationsflöde och leveranstyp.
+1. Markera önskat **[!UICONTROL Conversational Flow]** och **[!UICONTROL Delivery Type]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
    >
    >[Läs mer om konversationsflöden](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **VALFRITT STEG**: Du kan klicka på Lägg till val om du vill rikta in dig på chattbesökare som uppfyller ett visst villkor.
+   **VALFRITT STEG**: Klicka **[!UICONTROL Add Choice]** för att rikta in sig på chattbesökare som uppfyller ett visst villkor. Du kan lägga till upp till nio alternativ för totalt tio.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >Besökarens webbläsare måste vara en känd person som cookie innan formuläret skickas in för att bli berättigad till medlem i en statisk/smart lista.
 
-1. Klicka **[!UICONTROL Finish]** när det är klart.
+   **VALFRITT STEG**: Klicka på **+** signera i varje steg för att lägga till fler attribut, så att du kan begränsa målgruppen (attributen är de fält som du har valt för formuläret). I det här exemplet riktar vi oss till Adobe Technical Writers i Kalifornien.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >Med&quot;all&quot; avses att alla attribut måste vara uppfyllda för att kvalificera sig. Med&quot;any&quot; som villkorslogik betyder det att alla attribut är tillräckliga.
+
+   **VALFRITT STEG**: Om du lägger till två eller flera alternativ kan du ändra ordning på dem genom att klicka på deras upp-/nedpilar.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Klicka **[!UICONTROL Finish]** när det är klart.
+
+   ![](assets/conversational-flow-settings-10.png)

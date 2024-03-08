@@ -1,18 +1,18 @@
 ---
-description: Testa, övervaka och förstå leveransproblem med Marketo Engage Email Deliverability Powerpack.
+description: Testa, övervaka och förstå leveransproblem med Inbox Tracker.
 title: Inkorgsspåraren Tutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Inkorgsspåraren Tutorials {#inbox-tracker-tutorials}
 
-Testa, övervaka och förstå leveransproblem med Marketo Engage Email Deliverability Powerpack, som drivs av Inbox Tracker-plattformen för Fågel (tidigare MessageBird). Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
+Testa, övervaka och förstå leveransproblem med e-postleveransverktyg som drivs av Inkorgsspårningsplattformen Bird (tidigare MessageBird). Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
 
 >[!AVAILABILITY]
 >
