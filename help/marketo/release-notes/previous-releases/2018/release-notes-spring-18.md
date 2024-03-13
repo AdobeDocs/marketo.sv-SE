@@ -4,16 +4,16 @@ description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Våren 18 {#release-notes-spring}
+# Versionsinformation: våren 18 {#release-notes-spring}
 
-Följande funktioner finns i vårutgåvan 18. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i vårutgåvan 18. Se om det finns funktioner i Marketo Edition.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
@@ -31,8 +31,8 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 **ToutApp**
 
-* **Kompatibilitetskort**: GDPR-kompatibiliteten säkerställs genom att källan till säljkontakter och information om kundens samtycke för att ta emot kommunikation hämtas.
-* **Uppdatering av lösenordsprincip**: Skydda era data med striktare krav för att skapa, återställa och förfalla lösenord (uppfyller kraven för SOC II - Type 1).
+* **Kompatibilitetskort**: Säkerställ GDPR-efterlevnaden genom att hämta in källan till säljkontakter och detaljer om kundens samtycke för att ta emot kommunikation.
+* **Uppdatering av lösenordsprincip**: Skydda dina data med striktare krav på att lösenord ska skapas, återställas och upphöra att gälla (uppfyller SOC II - Type 1-kompatibilitetskrav).
 * **Effektivare kontoinställning**: Konfigurera och anslut ditt konto till Gmail, Outlook och andra system snabbare.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
@@ -76,10 +76,6 @@ Optimerad navigering och förbättrade arbetsflöden ger er insyn i kriterier f�
 Ange målet för optimeringsalgoritmen ContentAI för att få fler vyer, klick eller konverteringar.
 
 ## Integrering och API:er {#integration-and-apis}
-
-[Integrering av facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Skicka systemmeddelanden och intressanta ögonblick till Facebook Workplace.
 
 [Statiska list-API:er](https://developers.marketo.com/rest-api/assets/static-lists/)
 
