@@ -4,7 +4,7 @@ description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdo
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Kicka **[!UICONTROL Fields]** tabben **[!UICONTROL New Field]**.
+1. Klicka på **[!UICONTROL Fields]** tabbtangenten, sedan **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -37,7 +37,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
    >
    >De tre fälten ovan skapas automatiskt av Marketo när du skapar ett anpassat objekt. Marketo hanterar dessa fält automatiskt och du kan inte redigera eller ta bort dem.
 
-1. Ange [!UICONTROL Display Name] och (valfritt) [!UICONTROL Description].
+1. Ange en [!UICONTROL Display Name] och (valfritt) [!UICONTROL Description].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -55,7 +55,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    >[!TIP]
    >
-   >Dedupliceringsfält kan användas för att hämta, uppdatera eller ta bort anpassade objekt. Varje anpassad objektdefinition måste innehålla minst ett (och inte mer än tre) dedupliceringsfält.
+   >Dedupliceringsfält kan användas för att hämta, uppdatera eller ta bort anpassade objekt. Varje anpassad objektdefinition måste innehålla minst ett (och högst tre) dedupliceringsfält.
 
 1. Lägg till andra fält som du behöver.
 
