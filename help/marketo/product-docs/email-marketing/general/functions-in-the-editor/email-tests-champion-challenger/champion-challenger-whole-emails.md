@@ -4,16 +4,16 @@ description: Champion/Challenger -Helle emails - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Hele-mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # Champion/Challenger: Hela e-postmeddelanden {#champion-challenger-whole-emails}
 
-Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut den översta utföraren.
+Testa hela mejl mot varandra. När testet är klart skickar du ut den översta utföraren.
 
 >[!PREREQUISITES]
 >
@@ -43,11 +43,9 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
    >
    >**Exempel**
    >
-   >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i den smarta listan en av utmanarnas e-postmeddelanden och 85 % får det bästa e-postmeddelandet. Flera utmanarmejl delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
+   >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i Smart List en av utmanarnas e-postmeddelanden och 85 % får det bästa e-postmeddelandet. Flera utmanarmejl delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre. I Utlösarkampanjer kan den realiserade procentandelen skilja sig från den procentandel du väljer, eftersom fördelningen kanske inte justeras exakt med de valda procentsatserna. Detta kan inträffa när en variant bearbetar ett betydande antal personer som inte har anmält sig eller när en variant är ett operativt e-postmeddelande medan de andra inte gör det.
 
    För att få statistiskt förtroende måste du se till att den procentandel du tilldelar till utmanare innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
-
-   [Mer information än någonsin om statistisk säkerhet](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klicka **Nästa**.
 
@@ -57,4 +55,4 @@ Testa hela e-postmeddelanden mot varandra. När testet är klart skickar du ut d
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

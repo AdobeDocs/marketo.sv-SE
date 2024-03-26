@@ -4,14 +4,14 @@ description: Champion/Challenger -Subject line - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Subject Line
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Subject line {#champion-challenger-subject-line}
+# Champion/Challenger: Subject Line {#champion-challenger-subject-line}
 
 Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-post med den mest effektiva. Så här gör du.
 
@@ -43,9 +43,9 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
    >
    >**Exempel**
    >
-   >I den distribution som visas ovan får 10 % av den totala målgruppen som anges i den smarta listan ett av e-postmeddelandena med utmanarraden och 90 % får e-postmeddelanden med den främsta ämnesraden. E-postmeddelanden med flera utmanande ämnesrader delar 10 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
+   >I den distribution som visas ovan får 10 % av den totala målgruppen som anges i Smart List ett av e-postmeddelandena med utmanarraden och 90 % får e-postmeddelanden med den främsta ämnesraden. E-postmeddelanden med flera utmanande ämnesrader delar 10 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre. I Utlösarkampanjer kan den realiserade procentandelen skilja sig från den procentandel du väljer, eftersom fördelningen kanske inte justeras exakt med de valda procentsatserna. Detta kan inträffa när en variant bearbetar ett betydande antal personer som inte har anmält sig eller när en variant är ett operativt e-postmeddelande medan de andra inte gör det.
 
-   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat. [Mer information än någonsin om statistisk säkerhet](https://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat.
 
 1. Klicka **Nästa**.
 
@@ -55,4 +55,4 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -4,14 +4,14 @@ description: Champion/Challenger -From Address - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Från adress
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Från adress {#champion-challenger-from-address}
+# Befälhavare/kanal: Från adress {#champion-challenger-from-address}
 
 Vill du prova en annan från-adress utan problem? Så här gör du.
 
@@ -43,9 +43,9 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
    >
    >**Exempel**
    >
-   >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i den smarta listan ett e-postmeddelande med en utmanare från adress och 85 % får e-postmeddelandet med mästaren från adress. E-postmeddelanden för flera utmanare Från adresser delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre.
+   >I den distribution som visas ovan får 15 % av den totala målgruppen som anges i Smart List ett av e-postmeddelandena med en utmanare från adress och 85 % får e-postmeddelandet med mästaren från adress. E-postmeddelanden för flera utmanare Från adresser delar 15 % lika. När testet är klart kan du deklarera en vinnare manuellt. Från och med då får alla framtida personer det innehåll som presterar bättre. I Utlösarkampanjer kan den realiserade procentandelen skilja sig från den procentandel du väljer, eftersom fördelningen kanske inte justeras exakt med de valda procentsatserna. Detta kan inträffa när en variant bearbetar ett betydande antal personer som inte har anmält sig eller när en variant är ett operativt e-postmeddelande medan de andra inte gör det.
 
-   För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat. [Mer information än någonsin om statistisk säkerhet](https://en.wikipedia.org/wiki/Confidence_interval).
+   För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
 
 1. Klicka **Nästa**.
 
@@ -55,4 +55,4 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
