@@ -4,7 +4,7 @@ title: NYA AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -141,7 +141,7 @@ TABELL
 <tbody>
   <tr>
     <td>Mappstruktur</td>
-    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">ordna globala resurser</a>(t.ex. e-postmallar, e-post, formulär, bilder och filer, landningssidor och mallar för landningssidor) på ett lämpligt och enkelt sätt att söka i.</li></td>
+    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">ordna globala resurser</a> (t.ex. e-postmallar, e-post, formulär, bilder och filer, landningssidor och mallar för landningssidor) på ett lämpligt och enkelt sätt att söka i.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Ordna dina bilder och filer med hjälp av mappar</a></td>
   </tr>
 </tbody>

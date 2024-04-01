@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '380'
 ht-degree: 2%
 
 ---
@@ -68,3 +68,70 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
  </tbody> 
 </table>
 <br/>
+
+## Meddelanden {#announcements}
+
+* **API-uppdatering för aktiviteter**: Den 26 april lägger vi till flera nya attribut till webbaserade och e-postbaserade aktiviteter som returneras när du hämtar aktiviteter med [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} slutpunkt för att granska attributinformation för varje aktivitet.
+
+**Webbaserade aktiviteter**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Aktivitet</th> 
+   <th style="width:70%">Attribut som lagts till nyligen</th>
+   </tr>
+  <tr> 
+   <td>Besök webbsidan</td> 
+   <td>Webbläsare, plattform, enhet</td>
+  </tr>
+   <tr> 
+   <td>Fyll i formulär</td> 
+   <td>Webbläsare, plattform, enhet</td>
+  </tr>
+  <tr> 
+   <td>Klicka på Länk</td> 
+   <td>Webbläsare, plattform, enhet</td>
+  </tr>
+ </tbody> 
+</table>
+
+**E-postbaserade aktiviteter**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Aktivitet</th> 
+   <th style="width:70%">Attribut som lagts till nyligen</th>
+  </tr>
+   <tr> 
+   <td>Skicka e-post</td> 
+   <td>Webbläsare, plattform, enhet, användaragent</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>E-post levererad</td> 
+   <td>Webbläsare, plattform, enhet, användaragent</td>
+  </tr>
+   <tr> 
+   <td>E-post studsade</td> 
+   <td>Webbläsare, plattform, enhet, användaragent</td>
+  </tr>
+  <tr> 
+   <td>Avbeställ e-post</td> 
+   <td>Webbläsare, plattform, enhet</td>
+  </tr>
+  <tr> 
+   <td>Öppna e-post</td> 
+   <td>Webbläsare</td>
+  </tr>
+   <tr> 
+   <td>Klicka på E-post</td> 
+   <td>Webbläsare</td>
+  </tr>
+  <tr> 
+   <td>Mjuk e-poststudsning</td> 
+   <td>Webbläsare, plattform, enhet, användaragent</td>
+  </tr>
+ </tbody> 
+</table>
