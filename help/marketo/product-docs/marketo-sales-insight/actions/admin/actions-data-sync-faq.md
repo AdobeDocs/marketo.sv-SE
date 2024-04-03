@@ -3,9 +3,9 @@ description: Actions Data Sync FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om synkronisering av funktionsmakron
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 7ee5e8e3a32de5d4ff4022361f0d23d1d828ef74
+source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1054'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Det finns 11 fält som synkroniseras från Marketo Engage till Sales Insight-åt
 * Salesforce lead-ID
 * Salesforce-konto-ID
 * Salesforce-affärsmöjlighets-ID
-* Marketo ID
+* MARKETO ID
 * Företag
 * Titel
 * E-post
@@ -122,3 +122,4 @@ Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter
 >* [Synkroniseringsinställningar för Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+
