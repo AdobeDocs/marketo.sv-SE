@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1101'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,8 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Åtgärd</strong></td>
-  <td>Liknar dolda fält i ett formulär, med åtgärdskortet kan du fylla i alla lead- eller företagsattribut (som har en <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">strängdatatyp</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.</td>
+  <td>Liknar dolda fält i ett formulär, med åtgärdskortet kan du fylla i alla lead- eller företagsattribut (som har en <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">strängdatatyp</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
+  <p><i>Åtgärdskortet kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chatt</strong></td>
