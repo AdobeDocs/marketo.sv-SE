@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -156,7 +156,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-17.png)
 
-1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo och klicka på **[!UICONTROL Save]**.
+1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo Engage och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
     </tr>
     <tr>
      <td style="width:30%"><strong>Mappa svar till attribut</strong></td>
-     <td>Gör att du kan synkronisera besökarens svar till motsvarande fält i personposten i din Marketo-prenumeration.</td>
+     <td>Gör att du kan synkronisera besökarens svar till motsvarande fält i personposten i din Marketo Engage-prenumeration.</td>
     </tr>
    </table>
 
