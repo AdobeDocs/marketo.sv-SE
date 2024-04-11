@@ -4,9 +4,9 @@ description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - pro
 title: Aktivera synkronisering för en anpassad entitet
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
    >
    >Du måste inaktivera den globala synkroniseringen tillfälligt för att kunna aktivera eller inaktivera en anpassad entitet.
 
-1. Klicka på **[!UICONTROL Dynamics Entities Sync]** länk.
+1. Under Databashantering klickar du på **[!UICONTROL Dynamics Entities Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klicka på **[!UICONTROL Sync schema]** länk.
+1. Klicka på **[!UICONTROL Sync schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Markera de fält som du vill synkronisera eller använda som [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} och/eller utlösare i smarta listor. När du är klar klickar du **[!UICONTROL Enable Sync]**.
+1. Markera de fält som du vill synkronisera eller använda som [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) och/eller utlösare (för poster som lagts till, _not_ uppdaterat) i smarta listor. När du är klar klickar du **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -60,7 +60,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
    >
    >Under synkroniseringsprocessen kan du se att[!UICONTROL Dynamic Entities Sync]&quot; försvinner från navigeringsträdet. Detta beteende förväntas och kommer att visas igen när synkroniseringen är klar.
 
-1. Enheten har nu en grön bockmarkering.
+1. Enheten har nu en grön bock.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
