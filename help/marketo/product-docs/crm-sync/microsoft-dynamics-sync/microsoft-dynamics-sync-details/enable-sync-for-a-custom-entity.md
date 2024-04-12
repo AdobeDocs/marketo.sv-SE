@@ -4,9 +4,9 @@ description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - pro
 title: Aktivera synkronisering för en anpassad entitet
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
    >[!NOTE]
    >
-   >Du måste inaktivera den globala synkroniseringen tillfälligt för att kunna aktivera eller inaktivera en anpassad entitet.
+   >Du måste inaktivera den globala synkroniseringen tillfälligt för att aktivera eller inaktivera en anpassad entitet.
 
 1. Under Databashantering klickar du på **[!UICONTROL Dynamics Entities Sync]**.
 
