@@ -3,9 +3,9 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,10 @@ Ja, du kan styra vilka Marketo-användare som får tillstånd att skapa och leve
 **Måste jag koppla webbinariet som drivs av Adobe Connect tillbaka till Interactive Webinar Event Program som Launchpoint Event Programs?**
 
 Nej, interaktiva webbinariets händelseprogram gör associationen till dig.
+
+**Varför har vissa av mina leads statusen&quot;Registreringsfel&quot; i stället för&quot;Registrerad&quot;?&quot;**
+
+Om leadets&quot;förnamn&quot;-fält är tomt kan de inte registrera sig för webbinariet. Du kan lösa detta genom att ange ett giltigt förnamn.
 
 **Spelas mina interaktiva webbinarier in automatiskt?**
 
