@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -135,7 +135,7 @@ Marknadsföringsaktiviteter innehåller alla resurser och innehåll som utgör e
   <tr>
     <td>Sekretess och efterlevnad</td>
     <td><li>Skapa program för att säkerställa att ni följer datasekretess- och skräppostlagar som <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR, CASL, CAN-SPAM, CCPA osv.</a></li>
-    <br>Obs! Kom alltid ihåg att rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar. </td>
+    <br>Obs! Kom alltid ihåg att rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr>
     <td>Livscykel</td>

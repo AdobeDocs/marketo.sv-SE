@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -29,17 +29,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
   </tr>
-   <tr> 
-   <td><strong>Mallar för interaktiva webbinarier</strong>: Spara tid genom att skapa egna mallar för rumslayouter med specifikationer som passar er organisation.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Förbättringar av interaktiva webbinarier</strong>: Nu kan du ge värdar och presentatörer möjlighet att lägga till en webbinarititel, byta namn på ett rum och manuellt synkronisera engagemangsdata efter att eventet har levererats.</td> 
    <td><i>Kommer snart</i></td>

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,19 @@ Intro text.
 <tbody>
   <tr>
     <td>Roller</td>
-    <td><li>Granska de färdiga rollerna och bekräfta vilka behörigheter/behörigheter varje roll har.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Skapa en ny roll</a> eller <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">redigera rollerna</a> baserat på organisationens behov och hur ofta användarna loggar in.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Tilldela användare till lämpliga roller</a>. Användarna måste läggas till i prenumerationen i Adobe Admin Console innan de kan tilldela roller i roller. Se avsnittet Användare i checklistan Inledande installation [LINK]. <br>När du har tilldelat rollerna för användarna ska du granska antalet användare per roll.<br>Implementera en unik roll för varje API-användare för enkel felsökning.</td>
+    <td><li>Granska de färdiga rollerna och bekräfta vilka behörigheter/behörigheter varje roll har.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Skapa en ny roll</a> eller <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">redigera rollerna</a> baserat på organisationens behov och hur ofta användarna loggar in.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Tilldela användare till lämpliga roller</a>. Användarna måste läggas till i prenumerationen i Adobe Admin Console innan de kan tilldela roller i roller. Se avsnittet Användare i checklistan Inledande installation [LINK].</li>
+    <li>När du har tilldelat rollerna för användarna ska du granska antalet användare per roll.<br>Implementera en unik roll för varje API-användare för enkel felsökning.</td>
   </tr>
   <tr>
     <td>Dokumentation</td>
-    <td>Definiera användare och roller för din organisation.<br>Definiera processen för att lägga till en ny användare/administratör.</td>
+    <td><li>Definiera användare och roller för din organisation.</li>
+    <li>Definiera processen för att lägga till en ny användare/administratör.</li></td>
   </tr>
   <tr>
     <td>Sandlåda (om tillämpligt)</td>
-    <td>Granska kategorierna ovan för din sandlåda om du har en sådan.</td>
+    <td><li>Granska kategorierna ovan för din sandlåda om du har en sådan.</li></td>
   </tr>
 </tbody>
 </table>
@@ -53,11 +57,14 @@ Intro text.
 <tbody>
   <tr>
     <td>Arbetsytor och partitioner (om tillämpligt)</td>
-    <td>Bestäm antalet<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> arbetsytor</a> och/eller partitioner som din organisation behöver och <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">hur många användare som har åtkomst till varje arbetsyta.</a><br>Definiera det primära syftet med varje arbetsyta och partition.<br>Definiera relationen mellan arbetsytorna och partitionerna.</td>
+    <td><li>Bestäm antalet<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> arbetsytor</a> och/eller partitioner som din organisation behöver och <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">hur många användare som har åtkomst till varje arbetsyta.</a></li>
+    <li>Definiera det primära syftet med varje arbetsyta och partition.<br>Definiera relationen mellan arbetsytorna och partitionerna.</li></td>
   </tr>
   <tr>
     <td>Dokumentation</td>
-    <td>Dokumentera hur arbetsytor definieras och hur relaterar det till databaspartitioner (dvs. en global arbetsyta som ser alla, jämfört med affärssektorer). <br>Importera nya poster till lämplig partition.<br>Definiera värdet i CRM som placerar användare i rätt partition.</td>
+    <td><li>Dokumentera hur arbetsytor definieras och hur relaterar det till databaspartitioner (dvs. en global arbetsyta som ser alla, jämfört med affärssektorer).</li>
+    <li>Importera nya poster till lämplig partition.</li>
+    <li>Definiera värdet i CRM som placerar användare i rätt partition.</li></td>
   </tr>
 </tbody>
 </table>
@@ -71,19 +78,16 @@ Intro text.
     <th style="width:80%">Åtgärdsobjekt</th>
   </tr>
 </thead>
-  <tr>
-    <th>Område</th>
-    <th>Åtgärdsobjekt</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td>Inställningar för smart kampanj</td>
-    <td>Lägg till en <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">begränsning av storleken på Smart Campaign</a>, vilket förhindrar att hela databasen postas av misstag.</td>
+    <td><li>Lägg till en <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">begränsning av storleken på Smart Campaign</a>, vilket förhindrar att hela databasen postas av misstag.</li></td>
   </tr>
   <tr>
     <td>Dokumentation</td>
-    <td>Dokumentera hur arbetsytor definieras och hur relaterar det till databaspartitioner (dvs. en global arbetsyta som ser alla, jämfört med affärssektorer).  <br>Importera nya poster till lämplig partition.<br>Definiera värdet i CRM som placerar användare i rätt partition.</td>
+    <td><li>Dokumentera hur arbetsytor definieras och hur relaterar det till databaspartitioner (dvs. en global arbetsyta som ser alla, jämfört med affärssektorer).</li>
+    <li>Importera nya poster till lämplig partition.</li>
+    <li>Definiera värdet i CRM som placerar användare i rätt partition.</li></td>
   </tr>
 </tbody>
 </table>
@@ -100,11 +104,12 @@ Intro text.
 <tbody>
   <tr>
     <td>E-poststandard</td>
-    <td>Under Varumärkesdomän väljer du din domän och lägger till din e-post-CNAME. Detta ska vara i formatet: [EmailTrackingCNAME].[CompanyDomain].com.  <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Kontakta Marketo support</a> för att skydda den med SSL-certifikat. Den här processen kan ta upp till tre arbetsdagar att slutföra.</td>
+    <td><li>Under Varumärkesdomän väljer du din domän och lägger till din e-post-CNAME. Detta ska vara i formatet: [EmailTrackingCNAME].[CompanyDomain].com.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Kontakta Marketo support</a> för att skydda den med SSL-certifikat. Den här processen kan ta upp till tre arbetsdagar att slutföra.</li></td>
   </tr>
   <tr>
     <td>SPF/DKIM</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Konfigurera SPF och DKIM</a> för e-postleverans.</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Konfigurera SPF och DKIM</a> för e-postleverans.</li></td>
   </tr>
   <tr>
   </tr>
@@ -125,7 +130,8 @@ Intro text.
 <tbody>
   <tr>
     <td>Kommunikationsbegränsningar</td>
-    <td>Montera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Kommunikationsbegränsningar</a>.<br>Kontrollera om ditt företag behöver en policy för kommunikationsbegränsningar </td>
+    <td><li>Montera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Kommunikationsbegränsningar</a>.</li>
+    <li>Kontrollera om ditt företag behöver en policy för kommunikationsbegränsningar.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,15 +148,15 @@ Intro text.
 <tbody>
   <tr>
     <td>Kanaler</td>
-    <td>Definiera hur du använder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">kanaler</a>.</td>
+    <td><li>Definiera hur du använder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">kanaler</a>.</li></td>
   </tr>
   <tr>
     <td>Taggar</td>
-    <td>Definiera hur du använder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">taggar</a>.</td>
+    <td><li>Definiera hur du använder <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">taggar</a>.</li></td>
   </tr>
   <tr>
     <td>Kalender (om tillämpligt)</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Utfärda licenser för marknadsföringskalender</a> till dem som behöver åtkomst. <br>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Kalender.</a></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Utfärda licenser för marknadsföringskalender</a> till dem som behöver åtkomst. <br>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Kalender.</a></li></td>
   </tr>
 </tbody>
 </table>
@@ -167,17 +173,20 @@ Intro text.
 <tbody>
   <tr>
     <td>Fälthantering</td>
-    <td>Implementera namnkonvention för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">anpassade fält.</a> Börja till exempel med "MKTO".<br>Var selektiv när det gäller de fält du synkroniserar. Ju fler fält du synkroniserar, desto långsammare blir synkroniseringscykeln.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Blockera uppdateringar av fält</a> du vill skriva till en gång (d.v.s. ursprunglig lead-källa, information om ursprunglig lead-källa, första berörings-UTM-fält osv.)</td>
+    <td><li>Implementera namnkonvention för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">anpassade fält.</a> Börja till exempel med "MKTO".</li>
+    <li>Var selektiv när det gäller de fält du synkroniserar. Ju fler fält du synkroniserar, desto långsammare blir synkroniseringscykeln.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Blockera uppdateringar av fält</a> du vill skriva till en gång (d.v.s. ursprunglig lead-källa, information om ursprunglig lead-källa, första berörings-UTM-fält osv.).</li></td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td>Anpassade aktiviteter</td>
-    <td>Definiera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Anpassade aktiviteter</a> som är specifika för ditt företag.  </td>
+    <td><li>Definiera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Anpassade aktiviteter</a> som är specifika för ditt företag.</li></td>
   </tr>
   <tr>
     <td>Anpassade objekt</td>
-    <td>Granska hur många <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Anpassade objekt</a> du behöver. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Synkronisera de anpassade objekten till CRM</a>. </td>
+    <td><li>Granska hur många <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Anpassade objekt</a> du behöver.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Synkronisera de anpassade objekten till CRM</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,7 +203,9 @@ Intro text.
 <tbody>
   <tr>
     <td>CRM </td>
-    <td>Initiera CRM-synkronisering. Välj något av följande, beroende på vilken CRM ditt företag använder: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>. <br>Identifiera vilken typ av åtkomst du behöver för att komma åt CRM. <br>Identifiera CRM-administratören för felsökning. </td>
+    <td><li>Initiera CRM-synkronisering. Välj något av följande, beroende på vilken CRM ditt företag använder: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <li>Identifiera vilken typ av åtkomst du behöver för att komma åt CRM.</li>
+    <li>Identifiera CRM-administratören för felsökning.</li></td>
   </tr>
   <tr>
     <td>Landningssidor</td>
@@ -206,15 +217,17 @@ Intro text.
   </tr>
   <tr>
     <td>Webbtjänster</td>
-    <td>Aktivera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html">IP-begränsningarna</a> om tillämpligt. <br>Bestäm vilka användare/appar som kan göra <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-samtal</a> i din instans. <br>Granska alla program som ska göra API-anrop och kontrollera om en ökning eller en klippgräns behövs för API-anropen.  </td>
+    <td><li>Bestäm vilka användare/appar som kan göra <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-samtal</a> i din instans.</li>
+    <li>Granska alla program som ska göra API-anrop och kontrollera om en ökning eller en klippgräns behövs för API-anropen.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td>Ange obligatoriskt <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> tjänster för ditt företag. Varje LaunchPoint ska kombineras med en unik API-användare för att underlätta felsökning.  </td>
+    <td><li>Ange obligatoriskt <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> tjänster för ditt företag. Varje LaunchPoint ska kombineras med en unik API-användare för att underlätta felsökning.</li></td>
   </tr>
   <tr>
     <td>Interaktiva webbinarier (om tillämpligt)</td>
-    <td>OBS! Interaktiva webbinarier tillhandahålls endast till produktionsinstanser. <br>Den inbyggda webbinariefunktionen för interaktiva webbinarier <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">lägga till användare i avsnittet Användare</a> på fliken Interactive Webinar. </td>
+    <td>OBS! Interaktiva webbinarier tillhandahålls endast till produktionsinstanser.
+    <li>Den inbyggda webbinariefunktionen för interaktiva webbinarier <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">lägga till användare i avsnittet Användare</a> på fliken Interactive Webinar.</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (om tillämpligt)</td>
@@ -222,11 +235,15 @@ Intro text.
   </tr>
   <tr>
     <td>Försäljningsinsikter (om tillämpligt)</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Ställ in Sales Insight-åtgärd</a> i Sales Insight&gt;Actions Config.  <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Utfärda licenser till lämpliga användare.</a>  <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Konfigurera API:t</a>. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Anpassa poängen för leads.</a> </td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Ställ in Sales Insight-åtgärd</a> i Sales Insight&gt;Actions Config.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Utfärda licenser till lämpliga användare.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Konfigurera API:t</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Anpassa poängen för leads.</a></li></td>
   </tr>
   <tr>
     <td>Sales Connect (om tillämpligt)</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Bjud in lämpliga Marketo Engage-administratörer till Sales Connect-instansen</a>. <br>Slutför <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">ytterligare inställningar för Sales Connect-administratör</a> i Sales Connect och Salesforce. </td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Bjud in lämpliga Marketo Engage-administratörer till Sales Connect-instansen</a>.</li>
+    <li>Slutför <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">ytterligare inställningar för Sales Connect-administratör</a> i Sales Connect och Salesforce.</li></td>
   </tr>
 </tbody>
 </table>
@@ -243,11 +260,12 @@ Intro text.
 <tbody>
   <tr>
     <td>Treasure Chest </td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Aktivera skattetest</a> för att experimentera med pilottfunktioner.  <br>Bestäm vilka funktioner du vill aktivera eller inaktivera. </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Aktivera skattetest</a> för att experimentera med pilottfunktioner.</li>
+    <li>Bestäm vilka funktioner du vill aktivera eller inaktivera.</li></td>
   </tr>
   <tr>
     <td>Campaign Inspector </td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Aktivera Campaign Inspector</a> för att visa alla smarta kampanjer samtidigt. </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Aktivera Campaign Inspector</a> för att visa alla smarta kampanjer samtidigt.</li></td>
   </tr>
 </tbody>
 </table>
