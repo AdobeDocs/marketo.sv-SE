@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med s
 
 >[!NOTE]
 >
->Konversationsflöden och live-chatt är gemensamma utvärderingsfunktioner som har en kombinerad livstidsgräns på 100 åtaganden för dem som ingår i paketet Dynamic Chat Select. När denna gräns har nåtts kommer alla publicerade konversationsflöden att sluta utlösas och besökare som begär att chatta med en live-agent får det globala återgångsmeddelandet. Kontakta din kontorepresentant för att diskutera alternativ för paketuppgradering om du vill öka den här gränsen.
+>För dem som har paketet Dynamic Chat Select är live chatt en utvärderingsfunktion med en livstidsgräns på 100 åtaganden. När den här gränsen har nåtts kommer besökare som begär att chatta med en Live-agent inte att vara anslutna och i stället få det globala återgångsmeddelandet. Kontakta din kontorepresentant på Adobe för att diskutera alternativ för paketuppgradering om du vill öka gränsen.
 
 ## Lägg till chattagenter live {#add-live-chat-agents}
 

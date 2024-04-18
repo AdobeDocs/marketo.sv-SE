@@ -3,9 +3,9 @@ description: Översikt över konversationsflöde - Marketo Docs - produktdokumen
 title: Översikt över konversationsflöde
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Utforma ett konversationsflöde och aktivera det för alla besökare baserat på en specifik åtgärd (t.ex. genom att klicka på en knapp för att ringa upp, vid sidinläsning, hur lång tid som tillbringats på sidan).
 
 ![](assets/conversational-flow-overview-1.png)
-
->[!NOTE]
->
->Konversationsflöden och live-chatt är gemensamma utvärderingsfunktioner som har en kombinerad livstidsgräns på 100 åtaganden för dem som ingår i paketet Dynamic Chat Select. När denna gräns har nåtts kommer alla publicerade konversationsflöden att sluta utlösas och besökare som begär att chatta med en live-agent får det globala återgångsmeddelandet. Kontakta din kontorepresentant för att diskutera alternativ för paketuppgradering om du vill öka den här gränsen.
 
 ## Dialogrutor jämfört med konversationsflöden {#dialogues-vs-conversational-flows}
 

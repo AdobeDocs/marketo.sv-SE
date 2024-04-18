@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 **Releasedatum: 16 april 2024**
 
-### Konversationsflöden är nu tillgängliga för användare på Select-paketet {#conversational-flows-select-package}
+### Konversationsflöden är nu tillgängliga för alla användare {#conversational-flows-available-to-all-users}
 
-När vi släppte konversationsflöden förra året kunde de på Dynamic Chat Select-paketet bara utnyttja möjligheten att testa 100 livstidsåtaganden. Nu är konversationsflöden tillgängliga för alla i Select-paketet.
+Gör formulären och landningssidorna mer konvergerande och korta ned säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med säljarna direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla användare av Dynamic Chat.
 
-Konversationsflöde-engagemang räknas med i den månatliga gränsen på 250 engagerade konversationer för användare i Select-paketet.
+_&#42;Tidigare tillgänglig som utvärderingsfunktion med 100 livstidsåtaganden. Konversationsflödesåtaganden räknas nu in i den månadsvisa gränsen på 250 engagerade konversationer för användare i Select-paketet._
 
 ### Återanropsfunktioner {#callback-functions}
 
