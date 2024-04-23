@@ -4,9 +4,9 @@ description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs
 title: Definiera smart lista för smart kampanj | Utlösare
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Definiera smart lista för smart kampanj | Utlösare {#define-smart-list-for-smart-campaign-trigger}
 
 Låt en Smart Campaign köras på en person i taget baserat på live-händelser genom att lägga till utlösare.
+
+>[!CAUTION]
+>
+>Om du redigerar Smart List eller Flow Step i en aktiv kampanj kan det eventuellt bryta dess funktion. Om du väljer att göra det ska du vara försiktig.
 
 1. I din smarta kampanj klickar du på **[!UICONTROL Smart List]** -fliken.
 
