@@ -4,9 +4,9 @@ title: NYA AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -28,16 +28,15 @@ Text..
   <tr>
     <td>Globala landningssidor</td>
     <td><li>Skapa globala landningssidor (frihand/guidad).</li>
-    <li>Skapa en testsida för att A/B-testa den vinnande landningssidmallen (om tillämpligt).</li>
-    <li>Konfigurera din startsida för prenumerationscentral i Marketo Engage (om tillämpligt).</li></td>
+    <li>Skapa en testsida för att A/B-testa den vinnande landningssidmallen (om tillämpligt).</li></td>
   </tr>
   <tr>
     <td>Mallar</td>
-    <td><li>Skapa design för globala landningssidor.</li></td>
+    <td><li>Skapa en design för globala landningssidor.</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Inkludera lämplig sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragment</a> eller Tokens på landningssidorna för sekretessefterlevnad.</li></td>
+    <td><li>Skapa en sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragment</a> eller Tokens på era landningssidor för att säkerställa sekretess.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ Text..
 <tbody>
   <tr>
     <td>Global Forms</td>
-    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">globala formulär</a> för användningsfall som prenumerationsinställningar, hämtning av grafiskt innehåll, demobegäran, registrering av webbinarier osv.</li></td>
+    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">globala formulär</a> för användningsfall som prenumerationsinställningar, nedladdning av grafiskt innehåll, demonstrationsförfrågningar, registreringar av webbinarier osv.</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
@@ -62,7 +61,7 @@ Text..
   </tr>
   <tr>
     <td>Datainsamling</td>
-    <td><li>Överväg att tillämpa plocklistor på <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">formulärfält</a> i stället för öppna textfält för att förhindra röriga data.</li></td>
+    <td><li>Överväg att tillämpa plocklistor på <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">formulärfält</a> i stället för öppna textfält för att förhindra röriga data.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ Text..
   </tr>
   <tr>
     <td>Mallar</td>
-    <td><li>Utforma en modulbaserad <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">e-postmall</a> med en designer/utvecklare eller lägg in en egen HTML.</li>
-    <li>Skapa en testad e-postmall för att A/B-testa den vinnande e-postmallen (om tillämpligt).</li></td>
+    <td><li>Utforma en modulbaserad <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">e-postmall</a> med en designer/utvecklare, eller använd din egen HTML.</li>
+    <li>Skapa en testad e-postmall för att A/B-testa den vinnande mallen (om tillämpligt).</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Lägg till fragment</a> e-postmallar för att styra återanvändbara block som copyright year, global location och kompatibilitetsspecifikt språk. Lägg till variabler för att personalisera innehåll baserat på målgruppen.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Lägg till fragment</a> till era e-postmallar för att styra återanvändbara block som copyright year, global location och kompatibilitetsspecifikt språk. Lägg till variabler för att personalisera innehåll baserat på målgruppen.</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ Text..
 <tbody>
   <tr>
     <td>Fragment</td>
-    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Fragment</a> för att skapa återanvändbara innehållsblock som kan användas i olika fall, t.ex. kontaktinformation, länkar till sociala medier, varumärkesinformation samt sekretess- och efterlevnadsinformation i e-postmeddelanden och landningssidor.</li></td>
+    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Fragment</a> att ha återanvändbara innehållsblock som kan användas i olika fall, t.ex. kontaktinformation, länkar till sociala medier, varumärkesinformation och sekretess- och efterlevnadsinformation i e-postmeddelanden och landningssidor.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ Text..
 <tbody>
   <tr>
     <td>Mappstruktur </td>
-    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">ordna globala resurser</a> (t.ex. konverteringsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodavsnitt) på ett lämpligt och enkelt sätt.</li></td>
+    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">ordna globala resurser</a> (t.ex. konverteringsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodfragment osv.) på lämpligt sätt.</li></td>
   </tr>
 </tbody>
 </table>

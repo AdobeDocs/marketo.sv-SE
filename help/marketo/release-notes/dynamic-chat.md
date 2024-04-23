@@ -1,11 +1,9 @@
 ---
 description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokumentation
 title: Versionsinformation för Dynamic Chat
-hide: true
-hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -20,7 +18,7 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 ## April 2024-utgåvan {#april-release}
 
-**Releasedatum: 22 april 2024**
+**Releasedatum: 23 april 2024**
 
 ### Konversationsflöden är nu tillgängliga för alla användare {#conversational-flows-available-to-all-users}
 
