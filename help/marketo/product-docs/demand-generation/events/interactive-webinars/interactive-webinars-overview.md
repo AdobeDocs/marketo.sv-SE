@@ -3,9 +3,9 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
+source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ Nej, interaktiva webbinariets händelseprogram gör associationen till dig.
 **Varför har vissa av mina leads statusen&quot;Registreringsfel&quot; i stället för&quot;Registrerad&quot;?&quot;**
 
 Om leadets&quot;förnamn&quot;-fält är tomt kan de inte registrera sig för webbinariet. Du kan lösa detta genom att ange ett giltigt förnamn.
+
+**Jag får problem med ljud/video när jag presenterar ett webbinarium samtidigt som jag får åtkomst till min organisations VPN. Vad ska jag göra?**
+
+Adobe Connect, leveransplattformen för interaktiva webbinarier, använder WebRTC för ljud-/video-/skärmdelning. Det är troligt att din organisations brandvägg blockerar de IP-adresser/portar vi använder för WebRTC-baserad kommunikation. IT-avdelningen måste tillåta dessa portar för att WebRTC ska fungera. [Läs mer](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Spelas mina interaktiva webbinarier in automatiskt?**
 
