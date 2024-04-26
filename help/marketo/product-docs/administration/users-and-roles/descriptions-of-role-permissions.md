@@ -4,9 +4,9 @@ description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokument
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomst till webbhooks - Ger användare tillgång till webbhooks i Admin för att ställa in information och svarsmappningar
 * Åtkomst till arbetsytor och partitioner - Ger användarna tillgång till arbetsytor och partitioner i administratören för att skapa, redigera och ta bort
 
-_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Åtkomst-API  {#access-api}
 
@@ -105,7 +105,7 @@ Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och 
 * Ta bort rapport - Avmarkera tar bort användarens möjlighet att ta bort rapporter
 * Exportera analysdata - Avmarkering tar bort användarens möjlighet att exportera analysdata
 
-_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Öppna Kalender för Presentations {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Visa databasen samt visa och redigera smarta/statiska listor.
 
 * Visa affärsmöjlighetsdata - Döljer affärsmöjlighetsinformationen på personinformationssidan
 
-_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Åtkomstmarknadsföringsaktiviteter {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 * Administrera SEO
 * Standard SEO
 
-_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Målinriktning och personalisering {#targeting-and-personalization}
 
