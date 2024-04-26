@@ -4,9 +4,9 @@ description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokument
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -29,14 +29,20 @@ När du [skapa eller redigera en roll](/help/marketo/product-docs/administration
 
 ## Åtkomstadministratör  {#access-admin}
 
-Visa och gör ändringar i inställningarna under Mitt konto i Admin.
+Visa och ändra inställningarna under Mitt konto i Admin.
 
+* Åtkomst till Adobe Connect - Ger användare åtkomst till Adobe Connect
+* Använd Adobe Experience Manager&#42; - Ger användare åtkomst till Adobe Experience Manager-skärmen
+* Åtkomst till organisationsmappning för Adobe&#42; - Ger användare åtkomst till skärmen Organisationsmappning i Adobe
+* Åtkomst till administratörsgranskningsspår&#42; - Ger användarna åtkomst till skärmen Admin Audit Trading (Granskningsspår)
+* Åtkomst till granskningsspår&#42; - Ger användarna åtkomst till granskningsspår
 * Åtkomst till granskningsspår - Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår
+* Åtkomst till CAPTCHA - åtkomst till CAPTCHA-skärmen
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
 * Access CRM - Ger användarna åtkomst till CRM, t.ex. [!DNL Salesforce] eller [!DNL Microsoft Dynamics], i Admin
-* Åtkomst [[!DNL Data.com]](https://Data.com) - Ger användare åtkomst till flödesåtgärden på Data.com
-* Åtkomst till e-postadministratör - Ger användare behörighet att ändra standardinställningar, som att avbeställa prenumerationer och ange varumärke
+* Åtkomst [[!DNL Data.com]](https://data.com) - Ger användarna åtkomst till åtgärden Data.com
+* Åtkomst till e-postadministratör - Ger användarna åtkomst till e-postadministratören för att ändra standardinställningar, till exempel domäner för att avbryta prenumerationen och varumärken
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
 * Access File Upload - Ger användarna möjlighet att överföra bilder och filer till Design Studio
@@ -44,9 +50,11 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomstplats - Ger användare åtkomst till plats i Admin för att ange standardspråk, nationella inställningar, tidszon och valuta
 * Åtkomst till inloggningshistorik - Ger användare åtkomst till användarens inloggningshistorik i granskningsspår
 * Åtkomst till inloggningsinställningar - Ger användarna åtkomst till inloggningsinställningar i Admin för inställningar av säkerhet, IP-begränsningar och Smart List-rapporter
+* Använd ny upplevelse&#42; - Ger användarna tillgång till skärmen Ny upplevelse
 * Åtkomst till anpassad aktivitet för Marketo - Ger användare åtkomst till anpassade aktiviteter för Marketo i Admin
 * Åtkomst till anpassat Marketo-objekt - Ger användare åtkomst till anpassade Marketo-objekt i administratören
 * Åtkomst [!DNL Munchkin] - GIves-användare åtkomst till [!DNL Munchkin] i Admin, för att ange spårningskod, personspårning och aktivera API-konfiguration
+* Nå prediktiva målgrupper&#42; - Ger användarna tillgång till skärmen Predictive Audiences
 * Access Revenue Cycle Analytics (Åtkomstcykelanalys) - Ger användarna tillgång till Intäktscykelanalys i Admin, för inställning av Synkroniseringssammanfattning och Attribution
 * Åtkomstroller - Ger användare åtkomst till att hantera och redigera roller, men inte användare
 * Access Sales Insight - Ger användare åtkomst till att hantera Sales Insight i Admin för att ange status, API-konfiguration, personbedömning och andra inställningar
@@ -58,6 +66,8 @@ Visa och gör ändringar i inställningarna under Mitt konto i Admin.
 * Åtkomstanvändare - Ger användare åtkomst till att redigera och hantera användare (men inte roller) i Admin
 * Åtkomst till webbhooks - Ger användare tillgång till webbhooks i Admin för att ställa in information och svarsmappningar
 * Åtkomst till arbetsytor och partitioner - Ger användarna tillgång till arbetsytor och partitioner i administratören för att skapa, redigera och ta bort
+
+_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Åtkomst-API  {#access-api}
 
@@ -91,8 +101,11 @@ Ger användarna med **Endast API** **Roll** behörighet till de enskilda API:ern
 Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och de tre objekten nedan, om de inte är avmarkerade.
 
 * Access Revenue Explorer (Handkomstutforskaren) - Avmarkering tar bort användarens åtkomst till Intresseutforskaren
+* Skapa rapport&#42; - Ger användarna tillgång till att skapa, klona, läsa, uppdatera och flytta rapportresurser i analyser och marknadsföringsaktiviteter, samt resurser i modellen för intäktscykler
 * Ta bort rapport - Avmarkera tar bort användarens möjlighet att ta bort rapporter
 * Exportera analysdata - Avmarkering tar bort användarens möjlighet att exportera analysdata
+
+_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Öppna Kalender för Presentations {#access-calendar-presentations}
 
@@ -105,7 +118,7 @@ Ger användare åtkomst till kalenderpresentationer - aktiverar visning av Prese
 Ger användarna tillgång till fliken Design Studio och trädvyn, men inte till detaljer.
 
 * Åtkomst till e-post
-   * Redigera e-post - Ger användare behörighet att redigera, skapa och klona e-postmeddelanden
+   * Redigera e-post - Ger användarna behörighet att redigera, skapa och klona e-postmeddelanden
       * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Låt e-postmeddelanden fungera](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Godkänn e-post - Låter användarna godkänna e-postmeddelanden.
@@ -164,8 +177,11 @@ Visa databasen samt visa och redigera smarta/statiska listor.
    * Redigera segmentering
 
 * Ta bort person
+* Skapa lista&#42;
+   * Åtkomst till att skapa en listresurs i databas- och marknadsföringsaktiviteter
+   * Tillgång till att skapa en smart listresurs i databas- och marknadsföringsaktiviteter
 * Ta bort lista
-* Redigera person - Förhindrar manuell redigering och att enstaka flödessteg körs. kan du fortfarande redigera människor genom att köra kampanjer mot dem
+* Redigera person - Förhindrar manuell redigering och kör enstaka flödessteg; du kan fortfarande redigera personer genom att köra kampanjer mot dem
 * Exportera person - Exportera kalkylblad med från databaslistor
 * Importera anpassat objekt
 * Importera lista
@@ -174,7 +190,9 @@ Visa databasen samt visa och redigera smarta/statiska listor.
 
 * Visa affärsmöjlighetsdata - Döljer affärsmöjlighetsinformationen på personinformationssidan
 
-## Access Marketing Activities {#access-marketing-activities}
+_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+
+## Åtkomstmarknadsföringsaktiviteter {#access-marketing-activities}
 
 Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 
@@ -197,14 +215,17 @@ Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 * Ta bort marknadsföringsresurs
 * Redigera kampanjbegränsningar
 * Redigera marknadsföringsmaterial
+* Exportera kampanjaktivitet&#42;
 * Importprogram
-* Importera lista
+* Listimport
 * Schemalägg batchkampanj
 
 Åtkomst-SEO
 
 * Administrera SEO
 * Standard SEO
+
+_&#42;Detta tillstånd introduceras i passivt läge och är för närvarande inte tillgängligt för att undvika avbrott för befintliga användare. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
 
 ## Målinriktning och personalisering {#targeting-and-personalization}
 
