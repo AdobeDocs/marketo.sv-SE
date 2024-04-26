@@ -3,9 +3,9 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ Skapa ett interaktivt webbinarium i några enkla steg.
    >
    >Information om partnerwebbinarier finns här.
 
-1. Ange maximal målgruppsstorlek för webbinariet och hur länge det ska vara.
+1. Ge webbinariet en titel. Ange maximal målgruppsstorlek och hur länge den ska vara.
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* Webbinariets titel är synlig för deltagarna när de går med. Det är viktigt att titeln skiljer sig från namnet på Event Program för interaktiva webbinarier i din Marketo Engage-instans, liksom namnet på webbinariet.
+   >
+   >* Du kan inte återanvända en webbinarititel. Var och en måste vara unik i din Marketo-instans.
+   >
+   >* Du kan ändra webbinariets titel vid ett senare tillfälle om du vill.
 
 1. Schemalägg datum/tid för webbinariet och klicka på **Skapa**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Ditt interaktiva webbinarium skapas. [Lär dig hur du lägger till presentatörer och/eller medvärdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 Nu är det dags att [utforma ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[Lär dig hur du lägger till presentatörer och/eller medvärdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

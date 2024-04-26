@@ -2,10 +2,10 @@
 description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdokumentation
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ Du kan använda variabler för att inkludera webbinariets URL till enskilda medl
 Länkarna finns till höger på fliken Översikt i ditt Event Program för att skapa en landningssida samt en e-postkampanj. Resten av kampanjerna för en händelse är desamma som för partnerwebbinarier som använder integreringen med Launchpoint.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+Med interaktiva webbinarier kan du begära registrering före, under eller efter ett webbinarium. I samtliga fall behöver du bara dela webbinariets URL med leadet. När du klickar på länken innan webbinariet börjar skickas de till en startsida som är före webbinariet. När du klickar på det under webbinariet kommer de till det pågående webbinariet. Klicka på det när webbinariet tar dem till en inspelning av webbinariet.

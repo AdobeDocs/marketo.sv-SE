@@ -3,9 +3,9 @@ description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentati
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '475'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,9 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
    >[!NOTE]
    >
-   >Ett rum är ett onlinerum som används för att genomföra möten.
+   >* Ett rum är ett onlinerum som används för att genomföra möten.
+   >
+   >* Om du väljer ett befintligt webbinarium och behöver byta namn på det klickar du bara på **Byt namn på webbinarium** till höger.
 
 1. Välj en mall.
 
