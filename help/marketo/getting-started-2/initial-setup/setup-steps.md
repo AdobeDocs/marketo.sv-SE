@@ -4,9 +4,9 @@ title: Installationssteg
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1711'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Den första delen (i fet stil) är den `[LandingPageCNAME]`. Du behöver det i s
 
 Om du vill hämta det Munchkin-ID som du ska ersätta med landningssidan CNAME går du till administratörsområdet.
 
-![](assets/setup-steps-9.png)
+SCREENSHOT: setup-steps-9.png
 
 Klicka **Mitt konto**.
 
-![](assets/setup-steps-10.png)
+SCREENSHOT: setup-steps-10.png
 
 Kopiera [!UICONTROL Account String] från inställningarna för landningssidan.
 
-![](assets/setup-steps-11.png)
+SCREENSHOT: setup-steps-11.png
 
 Det här är `[Munchkin ID]`. Spara den. Du måste ge den till IT i steg 5.
 
@@ -100,17 +100,17 @@ Den första delen är e-postspårningen CNAME, `[EmailTrackingCNAME]`. Du måste
 
 Om du vill hitta spårningslänken för Marketo går du till **[!UICONTROL Admin]** område.
 
-![](assets/setup-steps-12.png)
+SCREENSHOT: setup-steps-12.png
 
 Klicka på **[!UICONTROL Email]**.
 
-![](assets/setup-steps-13.png)
+SCREENSHOT: setup-steps-13.png
 
 Kopiera [!UICONTROL Tracking Link] från e-postinställningarna.
 
 The [!UICONTROL Tracking Link] är i form av: `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+SCREENSHOT: setup-steps-14.png
 
 Det här är din `[MktoTrackingLink]`. Spara den. Du måste ge den till IT i steg 5.
 
@@ -215,35 +215,35 @@ När IT-avdelningen har slutfört sina uppgifter följer du de här stegen för 
 
 Gå till **[!UICONTROL Admin]** området för att lägga till landningssidan CNAME
 
-![](assets/setup-steps-15.png)
+SCREENSHOT: setup-steps-15.png
 
 Välj landningssidor och klicka på **[!UICONTROL Edit]** i [!UICONTROL Settings] område.
 
-![](assets/setup-steps-16.png)
+SCREENSHOT: setup-steps-16.png
 
 Ange ditt nya domännamn i fältet **[!UICONTROL Domain Name for Landing Pages]**. Den ska ha följande format:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+SCREENSHOT: setup-steps-17.png
 
 I **[!UICONTROL Fallback]** anger du den URL som du vill att användarna ska gå till om en landningssida inte är tillgänglig. Du kan använda företagets hemsida om du inte har någon reservsida. I **[!UICONTROL Homepage]** anger du företagets webbplats.
 
-![](assets/setup-steps-18.png)
+SCREENSHOT: setup-steps-18.png
 
 I [!UICONTROL Admin] område, markera **[!UICONTROL Email]** för att lägga till din e-post-CNAME
 
-![](assets/setup-steps-19.png)
+SCREENSHOT: setup-steps-19.png
 
 Bläddra nedåt till [!UICONTROL Branding Domains]. Välj din domän och klicka på **[!UICONTROL Edit]**.
 
-![](assets/setup-steps-20.png)
+SCREENSHOT: setup-steps-20.png
 
 Ange din e-postspårningsdomän i fältet Domän. Den ska ha följande format:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Klicka på **[!UICONTROL Save]**.
 
-![](assets/setup-steps-21.png)
+SCREENSHOT: setup-steps-21.png
 
 ## Integrera CRM {#integrate-your-crm}
 
