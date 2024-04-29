@@ -1,17 +1,17 @@
 ---
 description: Konfigurera Design Studio-avsnittet för den nya Marketo Engage-instansen.
-title: Ny instans - Design Studio Checklist
+title: New Instance Best Practices - Design Studio Checklist
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-# Ny instans: Design Studio Checklist {#new-instance-design-studio-checklist}
+# New Instance Best Practices: Design Studio Checklist {#new-instance-best-practices-design-studio-checklist}
 
 I Design Studio-delen finns de återanvändbara&quot;globala resurserna&quot;. Skapa globala resurser som din organisation tänker använda i program, använd en konsekvent namnkonvention och ordna dem i undermapparna för enkla sökningar.
 

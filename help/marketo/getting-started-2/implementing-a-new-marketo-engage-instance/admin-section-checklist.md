@@ -1,17 +1,17 @@
 ---
 description: Ställ in administratörsavsnittet för den nya Marketo Engage-instansen.
-title: Ny instans - checklista för administratörsavsnitt
+title: God praxis för nya instanser - checklista för administratörsavsnitt
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 0%
 
 ---
 
-# Ny instans: Checklista för administratörsavsnitt {#new-instance-admin-section-checklist}
+# God praxis för nya instanser: Checklista för administratörsavsnitt {#new-instance-best-practices-admin-section-checklist}
 
 När en ny administratör navigerar i en ny Marketo Engage-instans kan du använda checklistan nedan som hjälp i implementeringsprocessen. Precis som med alla dessa guider kan du hämta checklistorna [LÄNK] och spåra dina framsteg.
 

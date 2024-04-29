@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [Användarinställningar](getting-started-2/initial-setup/user-setup.md)
    + Implementera en ny Marketo Engage-instans {#implementing-a-new-marketo-engage-instance}
       + [Var ska jag börja?](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Ny instans: Checklista för administratörsavsnitt](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Ny instans: Databaskontrolllista](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Ny instans: Checklista för marknadsföringsaktiviteter](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Ny instans: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Ny instans: Dokumentera konfigurationen](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [God praxis för nya instanser: Checklista för administratörsavsnitt](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [God praxis för nya instanser: Databaskontrolllista](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Nya instansmetodtips: Checklista för marknadsföringsaktiviteter](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [New Instance Best Practices: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Nya instansmetodtips: Dokumentera dina inställningar](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Saker att veta {#things-to-know}
       + [Marketo Engage - ordlista](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Ikonordlista](getting-started-2/things-to-know/icon-glossary.md)

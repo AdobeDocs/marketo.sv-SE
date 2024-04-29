@@ -1,17 +1,17 @@
 ---
 description: Konfigurera databasavsnittet för den nya instansen Marketo Engage.
-title: Ny instans - Databaskontrolllista
+title: Nya bästa metoder för instanser - Databaskontrolllista
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Ny instans: Databaskontrolllista {#new-instance-database-checklist}
+# God praxis för nya instanser: Databaskontrolllista {#new-instance-best-practices-database-checklist}
 
 I avsnittet Databas finns en ögonblicksbild av nyckelattributen för personerna i instansen. Lär dig mer om de nödvändiga stegen för att navigera i olika listor och segmenteringar i din databas samt för att hantera personposter.
 

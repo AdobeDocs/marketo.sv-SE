@@ -1,17 +1,17 @@
 ---
 description: Dokumentera konfigurationen av din nya Marketo Engage-instans.
-title: Ny instans - Dokumentera konfigurationen
+title: Nya instansmetodtips - Dokumentera dina inställningar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
-# Ny instans: Dokumentera konfigurationen {#new-instancei-document-your-setup}
+# Nya instansmetodtips: Dokumentera dina inställningar {#new-instance-best-practices-document-your-setup}
 
 Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny instans i Marketo Engage är nästa steg att skapa dokumentation för din instanskonfiguration och tekniska stack. Oavsett om du skapar det via kalkylblad eller en projektledningsapplikation är din dokumentation en bra resurs för att spåra framsteg och registrera detaljer, samt hålla instansen strukturerad och hållbar för framtida marknadsförare inom organisationen.
 
