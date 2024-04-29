@@ -1,11 +1,10 @@
 ---
-unique-page-id: 4720476
 description: Klassisk ikon - ordlista - Marketo Docs - produktdokumentation
 title: Klassisk ikon - ordlista
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%

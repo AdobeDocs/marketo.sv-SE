@@ -4,7 +4,7 @@ title: Var ska jag börja?
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,15 +21,15 @@ I den här guiden&quot;Implementera en ny instans i Marketo Engage&quot; får du
 
 Hämta checklistor för ny implementeringsadministratör för Marketo Engage Instance[INFOGA LÄNK]eller gå igenom onlineguiderna nedan.
 
-* [Administratörsavsnittet](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin.md){target="_blank"}
+* [Administratörsavsnittet](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Databas](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database.md){target="_blank"}
+* [Databas](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Marknadsföringsaktiviteter](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities.md){target="_blank"}
+* [Marknadsföringsaktiviteter](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Dokumentera din nya instansinställning](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/documentation.md){target="_blank"}
+* [Dokumentera din nya instansinställning](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Kommunicera med andra {#connect-with-your-peers}
 
