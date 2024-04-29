@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Som en del av migreringen kommer din prenumeration och användarhantering att g�
 
 * **Systemadministratörer hanterar prenumerationer på Adobe Admin Console**. Se alla Adobe-produkter i en och samma konsol.
 
-* **Produktadministratörer hanterar användare och deras åtkomst på Adobe Admin Console**. Lägg till och ta bort användare för alla Adobe-prenumerationer.
+* **Produktadministratörer hanterar användare och deras åtkomst på Adobe Admin Console**. Lägg till och ta bort användare för alla Adobe-prenumerationer. Adobe Admin Console stöder inte användarbaserad förfallotid för åtkomst. Användare som har åtkomst till Marketo Engage som är schemalagd att upphöra efter migreringen kommer fortfarande att migreras och beviljas åtkomst som inte upphör att gälla. Efter migreringen måste de tas bort manuellt (eller före) det önskade förfallodatumet.
 
 * **Användare loggar in med Adobe-identitet**. Adobe migrerar befintliga användare till Adobe Admin Console. Användare loggar in på sina Marketo-prenumerationer med sin nya Adobe Identity - antingen Adobe ID eller Adobe Federated ID (SSO).
 
