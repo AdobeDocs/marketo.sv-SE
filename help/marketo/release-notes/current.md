@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '399'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 2%
 # Versionsinformation: april 2024 {#release-notes-apr-24}
 
 Här nedan hittar du alla funktioner som ingår i versionen från 24 april. Se om det finns funktioner i Adobe Marketo Engage Edition.
+
+Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -31,8 +33,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
      <tr> 
    <td><strong>Förbättringar av interaktiva webbinarier</strong>: Nu kan du ge värdar och presentatörer möjlighet att lägga till en webbinarititel, byta namn på ett rum och manuellt synkronisera engagemangsdata efter att eventet har levererats.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Skapa ett interaktivt webbinarium</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuell synkronisering</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -50,9 +53,9 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nya behörigheter för användare och roller</strong>: Det finns nya behörigheter som ger användare mer detaljerad åtkomst till Marketo Engage. Styr delar av Admin som inte tidigare har skapats, t.ex. Ny upplevelse och prediktiva målgrupper, dela behörigheter för att bevilja åtkomst till resursgranskningsspår och administratörsgranskningsspår separat, och använd nya skaps- och flyttbehörigheter för resurser och mappar för att förhindra att skrivskyddade användare gör ändringar.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td><strong>Nya behörigheter för användare och roller</strong>: Det finns nya behörigheter som ger användare mer detaljerad åtkomst till Marketo Engage. Styr delar av Admin som inte tidigare har skapats, t.ex. Ny upplevelse och prediktiva målgrupper, dela behörigheter för att bevilja åtkomst till resursgranskningsspår och administratörsgranskningsspår separat, och använd nya skaps- och flyttbehörigheter för resurser och mappar för att förhindra att skrivskyddade användare gör ändringar. De nya behörigheterna kommer att visas i din Marketo Engage-instans från och med den 26 april, men de är passiva just nu och kommer att vara tillgängliga senare det här kvartalet.</td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beskrivningar av rollbehörigheter</a></td>
   </tr>
  </tbody> 
 </table>
