@@ -1,11 +1,12 @@
 ---
-description: Help Center - Marketo Docs - produktdokumentation
+description: Help Center - Marketo Engage Docs - produktdokumentation
 title: Help Center
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -18,39 +19,39 @@ Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp
 
 När du har loggat in i Marketo Engage klickar du på hjälpikonen.
 
-![](assets/help-center-1.png)
+SCREENSHOT
 
 ### Stödlinjer {#guides}
 
 Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
-![](assets/help-center-2.png)
+SCREENSHOT
 
 1. Klicka på den stödlinje du vill visa.
 
-   ![](assets/help-center-3.png)
+SCREENSHOT
 
 1. Klicka **Kom igång**.
 
-   ![](assets/help-center-4.png)
+SCREENSHOT
 
 1. Klicka **Nästa** för att fortsätta.
 
-   ![](assets/help-center-5.png)
+SCREENSHOT
 
 1. Klicka **Klar** för att avsluta genomgången.
 
-   ![](assets/help-center-6.png)
+SCREENSHOT
 
-   >[!TIP]
-   >
-   >Avsluta stödlinjen när som helst genom att klicka **Avvisa**.
+>[!TIP]
+>
+>Avsluta stödlinjen när som helst genom att klicka **Avvisa**.
 
 ### Nyheter {#whats-new}
 
 Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Engage.
 
-![](assets/help-center-7.png)
+SCREENSHOT
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Eng
 
 På fliken Resurser får du snabb och direkt åtkomst till olika sätt att få ytterligare hjälp med instansen Marketo Engage.
 
-![](assets/help-center-8.png)
+SCREENSHOT
