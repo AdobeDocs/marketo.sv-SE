@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
 workflow-type: tm+mt
-source-wordcount: '9356'
+source-wordcount: '9358'
 ht-degree: 0%
 
 ---
@@ -690,6 +690,7 @@ ht-degree: 0%
             + [Agenthantering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [Skyddsinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [Routning](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Återanropsfunktioner](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
             + [Lägga till medlemmar i ett händelseprogram](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
