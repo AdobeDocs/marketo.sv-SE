@@ -3,9 +3,9 @@ description: Återanropsfunktioner - Marketo Docs - produktdokumentation
 title: Återanropsfunktioner
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
+source-git-commit: fd070322b6741268595d460318246abd3768dd3d
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -284,7 +284,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Timeout för live-chatt {#live-chat-timeout}
 
-Den här händelsen utlöses när en live-chattkonversation avbryts på grund av att besökaren slutar svara eller tappas.
+Den här händelsen utlöses när en live-chattkonversation avbryts på grund av att besökaren slutar svara eller att de har släppts.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
