@@ -1,12 +1,11 @@
 ---
 description: Återanropsfunktioner - Marketo Docs - produktdokumentation
 title: Återanropsfunktioner
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-event-argumentet i händelsen är ett objekt med metadata som är relaterade till konversation. Du kan komma åt metadata via event.data
+The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
 
 Nedan visas några viktiga metadatavärden som du kan komma åt:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-event-argumentet i händelsen är ett objekt med metadata som är relaterade till konversation. Du kan komma åt metadata via event.data
+The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
 
 Nedan visas några viktiga metadatavärden som du har åtkomst till.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-event-argumentet i händelsen är ett objekt med metadata som är relaterade till konversation. Du kan komma åt metadata via event.data
+The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
 
 Nedan visas några viktiga metadatavärden som du har åtkomst till.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-event-argumentet i händelsen är ett objekt med metadata som är relaterade till konversation. Du kan komma åt metadata via event.data
+The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
 
 Nedan visas några viktiga metadatavärden som du har åtkomst till.
 
@@ -338,7 +337,7 @@ Nedan visas några viktiga metadatavärden som du har åtkomst till.
 </tbody>
 </table>
 
-Om du vill skicka någon av dessa händelser till en tredjepartsplattform som Adobe Analytics eller Google Analytics måste du lägga till deras respektive spårningssamtal i dessa Dynamic Chat-händelser. Det skulle se ut ungefär som exemplet nedan.
+Om du vill skicka någon av dessa händelser till en analysplattform som Adobe Analytics eller Google Analytics måste du lägga till deras respektive spårningsanrop i dessa Dynamic Chat-händelser. Det skulle se ut ungefär som exemplet nedan.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
