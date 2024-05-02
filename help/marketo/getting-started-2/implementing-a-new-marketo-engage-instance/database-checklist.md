@@ -4,16 +4,17 @@ title: Nya bästa metoder för instanser - Databaskontrolllista
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
 # God praxis för nya instanser: Databaskontrolllista {#new-instance-best-practices-database-checklist}
 
-I avsnittet Databas finns en ögonblicksbild av nyckelattributen för personerna i instansen. Lär dig mer om de nödvändiga stegen för att navigera i olika listor och segmenteringar i din databas samt för att hantera personposter.
+I avsnittet Databas hittar du nyckelattributen för personerna i instansen. Lär dig mer om de nödvändiga stegen för att navigera i olika listor och segmenteringar i din databas samt för att hantera personposter.
 
 Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 
@@ -38,7 +39,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   </tr>
   <tr>
     <td>Marknadsföring har pausats</td>
-    <td><li>Definiera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marknadsföring har pausats</a> kriterier.</li></td>
+    <td><li>Definiera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marknadsföring har pausats</a> kriterier.</li></td>
   </tr>
   <tr>
     <td>Avrundade e-postadresser </td>
@@ -49,7 +50,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
     <td>Möjliga dubbletter</td>
     <td><li>Granska personer i listan Möjliga dubbletter.</li> 
     <li>Definiera er strategi för hantering av dubbletter för att avgöra om ni vill <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">sammanfoga personer manuellt</a>.</li>  
-    <li>Om du har en CRM-integrering kan du definiera en process och ett konto för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">effekten av att sammanfoga leads i CRM</a>.</li></td>
+    <li>Om du har en CRM-integrering kan du definiera en process och ett konto för <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">effekten av att sammanfoga leads i CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Inget förvärvsprogram</td>

@@ -4,9 +4,10 @@ title: Nya instansmetodtips - Dokumentera dina inställningar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -55,7 +56,7 @@ Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny ins
     <br>ID-typ
     <br>Produktprofil(er)
     <p>
-    <li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">överför CSV-filen</a> i bulk.</li></td>
+    <li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">massåtgärder</a>, som att överföra en .CSV-fil, använda REST-API:t för användarhantering osv.</li></td>
   </tr>
   <tr>
     <td>Organisation</td>

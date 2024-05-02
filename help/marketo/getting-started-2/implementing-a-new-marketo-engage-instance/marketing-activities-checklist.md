@@ -4,9 +4,10 @@ title: Nya instansmetodtips - Checklista för marknadsföringsaktiviteter
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -29,20 +30,20 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 <tbody>
   <tr>
     <td>Namnkonventioner</td>
-    <td><li>Definiera en konsekvent namnkonvention för prenumerationen innan du bygger ut mappstrukturen.</li></td>
+    <td><li>Definiera en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">konsekvent namnkonvention</a> för prenumerationen innan du bygger ut mappstrukturen.</li></td>
   </tr>
   <tr>
     <td>Mappstruktur</td>
-    <td><li>Bygg en enhetlig och lättnavigerad mappstruktur genom att referera till det här exemplet.</td>
+    <td><li>Bygg en enhetlig och lättnavigerad mappstruktur genom att referera till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">detta exempel</a>.</td>
   </tr>
   <tr>
     <td>Program</td>
-    <td><li>Skapa programmallar för varje kanal som du har skapat i administratörsavsnittet. Du kan enkelt börja genom att importera program från programbiblioteket. Se mer ingående i tabellen nedan.</li>
-    <li>Bestäm vilka flödessteg i smarta kampanjer som kan finnas i ett globalt program jämfört med ett lokalt program.</li> <li>Inkludera anskaffning, medlemskap och resultatspårning som en del av programmallen för att standardisera processen.</li></td>
+    <td><li>Skapa programmallar för <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">varje kanal</a> som du har skapat i ditt administratörsavsnitt. Du kan börja med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">importera program</a> från programbiblioteket. Se mer ingående i tabellen nedan.</li>
+    <li>Bestäm vilken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">flödessteg i smarta kampanjer</a> kan finnas i ett globalt program eller i ett lokalt program.</li> <li>Inkludera anskaffning, medlemskap och resultatspårning som en del av programmallen för att standardisera processen.</li></td>
   </tr>
   <tr>
     <td>Arkiv</td>
-    <td><li>Bestäm en policy för när program och resurser ska arkiveras. Observera att när den har arkiverats tas både objekt bort från utvalda listor och rapporter.</li></td>
+    <td><li>Bestäm en profil för när <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">arkivera program och resurser</a>. Observera att när den har arkiverats tas både objekt bort från utvalda listor och rapporter.</li></td>
   </tr>
   <tr>
     <td>Meddelanden</td>
@@ -52,6 +53,10 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 </table>
 
 ## Resurser {#assets}
+
+>[!TIP]
+>
+>Om du vill lagra marknadsföringsresurser som program, landningssidor och e-postmeddelanden i separata områden ska du referera till checklistan för avsnittet Admin [LÄNK] om du vill lära dig hur du konfigurerar arbetsytor.
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
     <td>Programtyper</td>
     <td><li>Förstå <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">Fyra programtyper</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">Importera programmallar</a> från <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">Programbibliotek</a> att börja.</li>
-    <li>E-postprogram: Under fliken Inställningar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">aktivera kommunikationsgränser</a>(rekommenderas).</li>
-    <li>Skapa en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Interaktivt webbinarium</a>, den inbyggda webbinariplattformen med ett Event Program och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associera ett rum med Interactive Webinar</a> (rekommenderas).  <li>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">poängprogram</a> för att hålla utkik efter signaler på er webbplats och med ert innehåll.</li></td>
+    <li>E-postprogram: Under fliken Inställningar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">aktivera kommunikationsgränser</a> (rekommenderas).</li>
+    <li>Skapa en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Interaktivt webbinarium</a>, den inbyggda webbinariplattformen med ett Event Program och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associera ett rum med Interactive Webinar</a> (rekommenderas).</li>
+    <li>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">poängprogram</a> för att hålla utkik efter signaler på er webbplats och med ert innehåll.</li></td>
   </tr>
   <tr>
     <td>Tokens</td>
-    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Tokens</a></li>.
-    <li>Använd variabler i vanliga programtyper för att öka effektiviteten. Överväg att implementera tokens som organisationen regelbundet behöver i <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">global mapp</a>.</li></td>
+    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Tokens</a>.</li>
+    <li>Använd variabler i vanliga programtyper för att öka effektiviteten. Överväg att implementera tokens som organisationen regelbundet behöver i <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">global mapp</a>.</li></td>
   </tr>
   <tr>
     <td>Gruppkampanjer</td>
@@ -80,7 +86,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   </tr>
   <tr>
     <td>Utlösarkampanjer</td>
-    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">Utlös smarta kampanjer</a> genom att använda minst en utlösare i avsnittet Smart lista.</li>
+    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">Utlös smarta kampanjer</a> genom att använda minst en utlösare i avsnittet Smart lista.</li>
     <li>Aktivera smarta kampanjer på fliken Schema för att köra kampanjåtgärderna.</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   </tr>
   <tr>
     <td>Personkälla</td>
-    <td><li>Skapa ett centraliserat program som tilldelar värden till lead-/personkälla i <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> Systemhanterade fält</a></li>.  
-    <li>Importera ett program för hantering av operativa data</a> från Marketo programbibliotek till start.</li></td>
+    <td><li>Skapa ett centraliserat program som tilldelar värden till lead-/personkälla i systemhanterade fält.</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">Importera ett program för hantering av operativa data</a> från Marketo programbibliotek till start.</li></td>
   </tr>
   <tr>
     <td>Datainsamling</td>
@@ -131,7 +137,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   <tr>
     <td>Studshantering</td>
     <td><li>Skapa ett operativt program för studshantering för att fånga upp alla studsdetaljer.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">Importera ett program för hantering av slutprodukter</a> från Marketo programbibliotek till start.</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">Importera ett program för hantering av slutprodukter</a> från Marketo programbibliotek till start.</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
@@ -153,7 +159,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   </tr>
   <tr>
     <td>E-postleverans</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">Skapa en e-postprestandarapport</a> för att övervaka e-postutskick och leveranstrender.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">Skapa en e-postprestandarapport</a> för att övervaka e-postutskick och leveranstrender.</li></td>
   </tr>
 </tbody>
 </table>
