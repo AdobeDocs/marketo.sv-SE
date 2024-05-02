@@ -4,9 +4,10 @@ title: God praxis för nya instanser - checklista för administratörsavsnitt
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ När en ny administratör navigerar i en ny Marketo Engage-instans kan du använ
     <td>Roller</td>
     <td><li>Granska de färdiga rollerna och bekräfta vilka behörigheter/behörigheter varje roll har.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Skapa en ny roll</a> eller <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">redigera rollerna</a> baserat på organisationens behov.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Tilldela användare till lämpliga roller</a>. Användarna måste läggas till i prenumerationen i Adobe Admin Console innan de kan tilldela roller i roller. Se avsnittet Användare i checklistan Inledande installation [LINK].</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">Tilldela användare till lämpliga roller</a>. Användarna måste läggas till i prenumerationen i Adobe Admin Console innan de kan tilldela roller i roller. Se avsnittet "Användare" i <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">Inledande installationschecklista</a>.</li>
     <li>Granska antalet användare per roll när du har tilldelat rollerna.</li>
     <li>Implementera en unik roll för varje API-användare för enkel felsökning.</li></td>
   </tr>
@@ -198,15 +199,6 @@ När en ny administratör navigerar i en ny Marketo Engage-instans kan du använ
     <li>Identifiera CRM-administratören för felsökning.</li></td>
   </tr>
   <tr>
-    <td>Landningssidor</td>
-    <td>Obs! Är du kund som lanseringspaket? Du kan hoppa över det här steget. Din konsult kommer att ge dig ett dokument med instruktioner för IT-konfiguration under samtalet. <br>Konfigurera landningssidans domän med en <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> och <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">ange domän- och sidinformation</a>. Detta ska vara i formatet: [LandingPageCNAME].[CompanyDomain].com <br>Välj en CNAME för dina landningssidor. Några exempel: <br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Kontakta Marketo support</a> för att starta processen med att etablera ett SSL-certifikat. Den här processen kan ta upp till tre arbetsdagar att slutföra. <br>TIPS: Håll det kort! Kortare URL:er är enklare att komma ihåg. Vi föreslår "gå" som domän. <br>Lägg till analysspårningskod (t.ex. Google Analytics eller Adobe Analytics) i era landningssidmallar. </td>
-  </tr>
-  <tr>
-    <td>Munchkin</td>
-    <td>Obs! Om du är kund som använder Launch Pack hoppar du över det här steget. Din konsult kommer att ge dig instruktioner om Munchkins kod i ditt dokument med IT-konfigurationsinstruktioner.
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Lägg till Munchkin-spårningskod</a> till er webbplats. Munchkin-kod kan vara <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hårdkodad</a> eller via Google Tag Manager.</li></td>
-  </tr>
-  <tr>
     <td>Webbtjänster</td>
     <td><li>Bestäm vilka användare/appar som kan göra <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-samtal</a> i din instans.</li>
     <li>Granska alla program som ska göra API-anrop och kontrollera om det behövs fler eller färre API-anrop.</li></td>
@@ -222,7 +214,7 @@ När en ny administratör navigerar i en ny Marketo Engage-instans kan du använ
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (om tillämpligt)</td>
-    <td>För att använda <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, den inbyggda konversationskanalen i Marketo Engage, fortsätter du med användarbehörighetsinställningarna enligt stegen nedan på <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Bekräfta om du har tilldelats en produktadministratörsroll för Adobe av systemadministratören för Adobe Org. Kontakt <a href="https://helpx.adobe.com/contact.html">Adobe kundtjänst</a> för att ta reda på vem i organisationen som har administratörsbehörighet i konsolen. <br>Acceptera <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">inbjudan till produktadministratör för Dynamic Chat</a>. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">välkomstmeddelande</a> skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du har utsetts till systemadministratör.  <br>Tilldela alla lämpliga användare till Dynamic Chat produktprofil i Adobe Admin Console. <br>Om en oönskad användare läggs till i flera produktprofiler måste du ta bort användaren från alla produktprofiler. Annars har de fortfarande tillgång till Dynamic Chat. <br>Du kan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">redigera produktprofiler i Dynamic Chat</a> och skapa en egen profil med en anpassad uppsättning <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">behörigheter som är tillgängliga i din prenumeration</a>. <br>Tilldela användare till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Dynamic Chat-roller i Access</a> i Marketo Engage/Admin/Users &amp; Roles. </td>
+    <td><li>Tilldela användare till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Dynamic Chat-roller i Access</a> i Marketo Engage &gt; Admin &gt; Användare &amp; roller.</li></td>
   </tr>
   <tr>
     <td>Försäljningsinsikter (om tillämpligt)</td>
@@ -235,6 +227,11 @@ När en ny administratör navigerar i en ny Marketo Engage-instans kan du använ
     <td>Sales Connect (om tillämpligt)</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Bjud in lämpliga Marketo Engage-administratörer till Sales Connect-instansen</a>.</li>
     <li>Slutför <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">ytterligare inställningar för Sales Connect-administratör</a> i Sales Connect och Salesforce.</li></td>
+  </tr>
+  <tr>
+    <td>Webhooks (om tillämpligt)</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">Skapa de webbhotell som behövs</a> för er verksamhet.</li>
+    </td>
   </tr>
 </tbody>
 </table>
