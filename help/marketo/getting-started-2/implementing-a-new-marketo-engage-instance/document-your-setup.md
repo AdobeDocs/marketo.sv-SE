@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,16 @@ Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny ins
     <td><li>Dokumentera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuella användare</a> av säkerhetsskäl. Följande information bör finnas som ett minimum (och alla visas om du går till Adobe Admin Console &gt; Användare):</li>
     <br>Namn
     <br>E-post
-    <br>ID-typ
-    <br>Produktprofil(er)
-    <p>
-    <li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">massåtgärder</a>, som att överföra en .CSV-fil, använda REST-API:t för användarhantering osv.</li></td>
-  </tr>
+    <br>Inloggning
+    <br>Roll
+    <br>Åtkomstens förfallodatum
+    <br>Skapad av användaren
+    <br>Senaste inloggningsdatum
+
+Obs! Kunderna kan även utöka detta för att inkludera dokumentation om roller/behörigheter.
+<p>
+<li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">massåtgärder</a>, som att överföra en .CSV-fil, använda REST-API:t för användarhantering osv.</li></td>
+</tr>
   <tr>
     <td>Organisation</td>
     <td><li>Dokumentera den överenskomna mappstrukturen, standardnamnkonventioner för program, resurser osv. och varför besluten fattas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Läs mer om de bästa metoderna här.</a></li></td>

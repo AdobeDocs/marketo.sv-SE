@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 Välkommen till din nya Adobe Marketo Engage-instans! Gör er redo för att effektivisera, automatisera och mäta marknadsföringsuppgifter och arbetsflöden med kraftfulla funktioner för automatiserad marknadsföring.
 
 I den här guiden&quot;Implementera en ny instans i Marketo Engage&quot; får du lära dig de bästa metoderna för att sömlöst implementera instansen för att säkerställa långsiktig hygien och driftseffektivitet. Varje checklista innehåller praktiska steg som du kan använda för att hålla reda på konfigurationsförloppet. Använd checklistorna för att dokumentera arbetet på vägen mot framtida förekomstgranskningar och registrering.
+
+## Nödvändiga steg
+
+ORD DET HÄR AVSNITTET OCH BYT NAMN
 
 ## Checklistor för bästa praxis för din nya Marketo Engage-instans {#best-practice-checklists-new-instance}
 

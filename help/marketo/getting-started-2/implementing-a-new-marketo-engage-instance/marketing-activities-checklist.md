@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,9 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 
 ## Resurser {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Om du vill lagra marknadsföringsresurser som program, landningssidor och e-postmeddelanden i separata områden ska du referera till checklistan för avsnittet Admin [LÄNK] om du vill lära dig hur du konfigurerar arbetsytor.
+>Om du vill lagra marknadsföringsresurser som program, landningssidor och e-postmeddelanden i separata områden, se [Checklista för administratörsavsnittet](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) om du vill lära dig hur du konfigurerar arbetsytor.
 
 <table>
 <thead>
