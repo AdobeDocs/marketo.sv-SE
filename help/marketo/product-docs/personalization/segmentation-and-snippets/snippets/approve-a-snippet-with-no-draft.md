@@ -4,9 +4,9 @@ description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentati
 title: Godkänn ett kodfragment utan utkast
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett fragment som delas eller refereras av resurser i andra arbetsytor.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 
    ![](assets/approve-the-snippet-2.png)
 
-1. I **Fragmentåtgärder** nedrullningsbar meny, välja **Godkänn utkast**.
+1. I **[!UICONTROL Snippet actions]** nedrullningsbar meny, välja **[!UICONTROL Approve draft]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Välj ett alternativ i dialogrutan Godkänn fragment och klicka på **Godkänn**:
+1. Välj ett alternativ i dialogrutan Godkänn fragment och klicka på **[!UICONTROL Approve]**:
 
-   * **Uppdatera alla**: Det här alternativet skapar inte utkast av godkända resurser med fragmentet. Alla mediefiler får uppdateringarna och underhåller deras tidigare status. En förloppsmodul visas längst upp till höger på skärmen och kan stängas när som helst. Om du vill återställa fragmentet högerklickar du på fragmentnamnet och väljer Visa godkännandestatus.
-   * **Skapa utkast**: Det här alternativet skapar utkast av godkända resurser med fragmentet. Välj det här alternativet om ändringar av kodfragment måste granskas först. Alla utkast måste godkännas manuellt.
+   * **[!UICONTROL Update all]**: Det här alternativet skapar inte utkast av godkända resurser med fragmentet. Alla mediefiler får uppdateringarna och underhåller deras tidigare status. En förloppsmodul visas längst upp till höger på skärmen och kan stängas när som helst. Om du vill återställa fragmentet högerklickar du på fragmentnamnet och väljer Visa godkännandestatus.
+   * **[!UICONTROL Create drafts]**: Det här alternativet skapar utkast av godkända resurser med fragmentet. Välj det här alternativet om ändringar av kodfragment måste granskas först. Alla utkast måste godkännas manuellt.
 
    ![](assets/approve-the-snippet-4.png)
 
