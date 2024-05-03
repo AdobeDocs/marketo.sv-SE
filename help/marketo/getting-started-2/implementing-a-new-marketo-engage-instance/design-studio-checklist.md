@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -30,8 +30,8 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 <tbody>
   <tr>
     <td>Globala landningssidor</td>
-    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">globala landningssidor (frihandsritning/guidad)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Skapa en testsida</a> A/B-testa den vinnande mallen för landningssida (om tillämpligt).</li></td>
+    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globala landningssidor (frihandsritning/guidad)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Skapa en testsida</a> A/B-testa den vinnande mallen för landningssida (om tillämpligt).</li></td>
   </tr>
   <tr>
     <td>Mallar</td>
@@ -39,7 +39,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Skapa en sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragment</a> eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> på era landningssidor för att säkerställa sekretess och integritet.</li></td>
+    <td><li>Skapa en sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragment</a> eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> på era landningssidor för att säkerställa sekretess och integritet.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Kom ihåg att hämta checklistor [LÄNK] och spåra dina framsteg.
 <tbody>
   <tr>
     <td>Mappstruktur </td>
-    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">ordna globala resurser</a> (t.ex. konverteringsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodfragment osv.) på lämpligt sätt.</li></td>
+    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">ordna globala resurser</a> (t.ex. konverteringsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodfragment osv.) på lämpligt sätt.</li></td>
   </tr>
 </tbody>
 </table>

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ Dina nya prenumerationer på Marketo Engage har gått med på [Adobe Identity Ma
     <td><li>Skapa en profil för när <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">skapa en användare</a>.</li> <li>Skapa en profil för när användare ska tas bort.</li>
     <li>Bestäm vem som ska ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe systemadministratörsbehörighet och Marketo Engage produktadministratörsbehörighet.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Lägg till användare</a> till önskad produktprofil.</li>
     <li>Skapa en API-användare för varje API-användningsfall.</li></td>
+  </tr>
+  <tr>
+    <td>API för användarhantering (om tillämpligt)</td>
+    <td><li>Använd <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe API för användarhantering</a> om du vill bjuda in, uppdatera och ta bort användare.</li>
+    <li>Använd <a href="https://developer.adobe.com/umapi/">Adobe API för användarhantering</a> för att lägga till eller ta bort roller (t.ex. administratörer, supportadministratörer och utvecklare).</li>
+    </td>
   </tr>
   <tr>
     <td>Produktsupportadministratör </td>

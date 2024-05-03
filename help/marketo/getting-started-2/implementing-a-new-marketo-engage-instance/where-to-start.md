@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Välkommen till din nya Adobe Marketo Engage-instans! Gör er redo för att effe
 
 I den här guiden&quot;Implementera en ny instans i Marketo Engage&quot; får du lära dig de bästa metoderna för att sömlöst implementera instansen för att säkerställa långsiktig hygien och driftseffektivitet. Varje checklista innehåller praktiska steg som du kan använda för att hålla reda på konfigurationsförloppet. Använd checklistorna för att dokumentera arbetet på vägen mot framtida förekomstgranskningar och registrering.
 
-## Nödvändiga steg
+## Inledande konfiguration {#initial-setup}
 
-ORD DET HÄR AVSNITTET OCH BYT NAMN
+Innan du går in i checklistorna för bästa praxis nedan kontrollerar du att du har följt stegen i området Inledande konfiguration.
+
+* [Inledande inställningsuppgifter](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Användarinställningar](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Checklistor för bästa praxis för din nya Marketo Engage-instans {#best-practice-checklists-new-instance}
 
