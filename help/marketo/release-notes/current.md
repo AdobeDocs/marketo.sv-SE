@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 2%
+source-wordcount: '428'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,18 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nya behörigheter för användare och roller</strong>: Det finns nya behörigheter som ger användare mer detaljerad åtkomst till Marketo Engage. Styr delar av Admin som inte tidigare har skapats, t.ex. Ny upplevelse och prediktiva målgrupper, dela behörigheter för att bevilja åtkomst till resursgranskningsspår och administratörsgranskningsspår separat, och använd nya skaps- och flyttbehörigheter för resurser och mappar för att förhindra att skrivskyddade användare gör ändringar. De nya behörigheterna kommer att visas i din Marketo Engage-instans från och med den 26 april, men de är passiva just nu och kommer att vara tillgängliga senare det här kvartalet.</td> 
+   <td><strong>Nya behörigheter för användare och roller</strong>: Det finns nya behörigheter som ger användare mer detaljerad åtkomst till Marketo Engage. Styr delar av Admin som inte tidigare har skapats, t.ex. Ny upplevelse och prediktiva målgrupper, dela behörigheter för att bevilja åtkomst till resursgranskningsspår och administratörsgranskningsspår separat, och använd nya skaps- och flyttbehörigheter för resurser och mappar för att förhindra att skrivskyddade användare gör ändringar. 
+   <p>De nya behörigheterna kommer att visas i din Marketo Engage-instans från och med den 26 april, men de är passiva just nu och kommer att vara tillgängliga senare det här kvartalet.
+   <li>Använd Adobe Experience Manager</li>
+   <li>Åtkomst till organisationsmappning för Adobe</li>
+   <li>Åtkomst till administratörsgranskningsspår</li>
+   <li>Åtkomst till resursgranskningsspår</li>
+   <li>Använd ny upplevelse</li>
+   <li>Nå prediktiva målgrupper</li>
+   <li>Skapa rapport</li>
+   <li>Skapa lista</li>
+   <li>Exportera kampanjaktivitet</li>
+   </td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beskrivningar av rollbehörigheter</a></td>
   </tr>
