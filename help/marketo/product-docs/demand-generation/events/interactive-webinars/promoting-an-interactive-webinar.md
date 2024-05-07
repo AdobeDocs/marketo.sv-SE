@@ -3,9 +3,9 @@ description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdo
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ Att marknadsföra ett interaktivt webbinarium liknar att marknadsföra ett partn
 
 När medlemmarna har lagts till eller importerats till programmet kan du skapa en e-postkampanj i Interactive Webinar Event Program för att skicka en inbjudan till alla programmedlemmar och ändra deras status till&quot;inbjudna&quot; när e-postmeddelandet har levererats.
 
-E-postmeddelandet kan innehålla specifika detaljer om programmet samt en URL till en landningssida som skulle dirigera om mottagaren till en viss sida där mer information om webbinariet (t.ex. innehåll, presentatörsinformation osv.) kan läggas till. Denna landningssida kan skapas som en lokal resurs i Interactive Webinars Event Program.
+>[!NOTE]
+>
+>Om du vill lägga till en kollega eller presentatör som målgruppsmedlem i det interaktiva webbseminariets Event Program måste du använda ett annat e-post-ID för dem, annars får de felmeddelandet&quot;this email is already registered&quot;.
+
+E-postmeddelandet kan innehålla specifik information om programmet, samt en URL för landningssida som skulle dirigera om mottagaren till en viss sida där mer information om webbinariet (t.ex. innehåll, presentatörsinformation osv.) kan läggas till. Denna landningssida kan skapas som en lokal resurs i händelseprogrammet för interaktiva webbinarier.
 
 Du kan begära registrering för det här webbinariet genom att aktivera ett formulär på landningssidan och länka formulärklickningarna till aktiverad registrering i händelseprogrammet för interaktiva webbinarier. En kampanj som använder formulärinlämning som utlösare och ändrar programstatus från&quot;inbjuden&quot; till&quot;registrerad&quot;.
 
