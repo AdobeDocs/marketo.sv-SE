@@ -4,7 +4,7 @@ description: Redigera din standardprofileringsdomän - Marketo Docs - produktdok
 title: Redigera din standardvarumärkesdomän
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
 >[!PREREQUISITES]
 >
->Se till att du [konfigurera en CNAME i din DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) innan du lägger till dina profildomäner i Marketo.
+>Se till att du [konfigurera en CNAME i din DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) innan du lägger till dina profildomäner i Marketo.
 
 1. Gå till **[!UICONTROL Admin]** område.
 

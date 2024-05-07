@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2036'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Nu har du all information du behöver för att skicka din förfrågan till IT!
 
 När du har samlat in all nödvändig information är du redo att skicka en förfrågan till IT. Du kan använda texten nedan som en mall och ersätta den feta texten med din egen information.
 
-[Inkludera en länk till den här artikeln](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Inkludera en länk till den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Klistra in den här texten i e-postmeddelandet och ersätt platshållarna med formatinformation:
 
