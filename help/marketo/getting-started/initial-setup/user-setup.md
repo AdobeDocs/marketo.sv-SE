@@ -3,9 +3,9 @@ description: Innan du kommer till den nya instansen av Marketo Engage måste du 
 title: Checklista för användarinställningar
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Dina nya prenumerationer på Marketo Engage har gått med på [Adobe Identity Ma
     <td>Prenumeration och produktadministratör för Marketo Engage</td>
     <td><li>Bekräfta att du har tilldelats en produktadministratörsroll för Adobe av systemadministratören för Adobe Org.</li>  
     <ul>
-    <li>Kontakta kontoteamet (din kontohanterare) på Adobe eller skicka ett e-postmeddelande till <code>customercare@marketo.com</code> eller mejla till customercare@marketo.comto där du hittar vem i organisationen som <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console systemadministratör</a> behörighet.</li></ul>
+    <li>Kontakta kontoteamet (din kontohanterare) på Adobe eller skicka ett e-postmeddelande till <code>customercare@marketo.com</code> för att ta reda på vem i organisationen som har <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console systemadministratör</a> behörighet.</li></ul>
     <li>Acceptera inbjudan till produktadministratör för Marketo Engage för att aktivera din Adobe ID. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">välkomstmeddelande</a> skickas när rollen tilldelas i Adobe Admin Console.</li></td>
   </tr>
   <tr>
