@@ -3,7 +3,7 @@ description: Ställ in avsnittet Marknadsföringsaktiviteter för din nya Market
 title: Nya instansmetodtips - Checklista för marknadsföringsaktiviteter
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Marknadsföringsaktiviteter innehåller alla resurser och innehåll som utgör era automatiserade marknadsföringsprogram. När du skapar en ny Marketo Engage-instans ser en ren och tydlig organisation till att alla användare enkelt kan hitta och hantera olika program.
 
-Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
+Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 ## Organisation {#organization}
 

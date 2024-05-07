@@ -3,7 +3,7 @@ description: Innan du kommer till den nya instansen av Marketo Engage måste du 
 title: Checklista för användarinställningar
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Nu när du är klar med alla [inledande installationssteg](/help/marketo/getting
 
 >[!NOTE]
 >
->Du kan även hämta den här checklistan, [tillsammans med en lista över bästa praxis](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) för den nya instansen och se hur du gör.
+>Du kan även hämta den här checklistan, [tillsammans med en lista över bästa praxis](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) för den nya instansen och se hur du gör.
 
 ## Marketo Engage på Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 

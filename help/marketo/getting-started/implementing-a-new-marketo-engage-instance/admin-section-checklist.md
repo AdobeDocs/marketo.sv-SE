@@ -3,7 +3,7 @@ description: Ställ in administratörsavsnittet för den nya Marketo Engage-inst
 title: God praxis för nya instanser - checklista för administratörsavsnitt
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # God praxis för nya instanser: Checklista för administratörsavsnitt {#new-instance-best-practices-admin-section-checklist}
 
-När en ny administratör navigerar i en ny Marketo Engage-instans kan du använda checklistan nedan som hjälp i implementeringsprocessen. Precis som med alla dessa stödlinjer kan du även [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
+När en ny administratör navigerar i en ny Marketo Engage-instans kan du använda checklistan nedan som hjälp i implementeringsprocessen. Precis som med alla dessa stödlinjer kan du även [ladda ned checklistor](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 ## Roller {#roles}
 
