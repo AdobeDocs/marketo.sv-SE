@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Konfigurera protokoll för Marketo - Marketo Docs - produktdokumentation
-title: Konfigurera protokoll för Marketo
+description: Konfigurera protokoll för Marketo Engage - Marketo Engage Docs - produktdokumentation
+title: Konfigurera protokoll för Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2136'
 ht-degree: 0%
 
 ---
 
-# Konfigurera protokoll för Marketo {#configure-protocols-for-marketo}
+# Konfigurera protokoll för Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Om du eller din organisation använder restriktiva brandväggs- eller proxyserverinställningar kan du eller din nätverksadministratör behöva tillåtslista vissa domäner och IP-adressintervall för att Adobe Marketo Engage ska fungera som förväntat.
 
-Om du behöver hjälp med att implementera protokollen nedan kan du dela den här artikeln med din IT-avdelning. Om de begränsar webbåtkomsten med hjälp av ett tillåtelselista måste de lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo-resurser och webbsocketar:
+Om du behöver hjälp med att implementera protokollen nedan kan du dela den här artikeln med din IT-avdelning. Om de begränsar webbåtkomsten med hjälp av ett tillåtelselista måste de lägga till följande domäner (inklusive asterisken) för att tillåta alla Marketo Engage-resurser och webbsocketar:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ Om du behöver hjälp med att implementera protokollen nedan kan du dela den hä
 
 **Spårningslänk-CNAME**
 
-Marknadsföringsteamet bör ha skickat två förfrågningar till dig om nya CNAME-poster. Den första gäller för landningssidans URL:er, så att landningssidorna visas i URL:er som återspeglar din domän och inte Marketo (den faktiska värden). Den andra gäller spårningslänkarna som ingår i de e-postmeddelanden de skickar från Marketo.
+Marknadsföringsteamet bör ha skickat två förfrågningar till dig om nya CNAME-poster. Den första gäller för landningssidans URL:er, så att landningssidorna visas i URL:er som återspeglar din domän och inte Marketo Engage (den faktiska värden). Den andra gäller spårningslänkarna som ingår i de e-postmeddelanden som de skickar från Marketo Engage.
 
 `1` **Lägg till CNAME för landningssidor**
 
-Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som tilldelas dina Marketo-landningssidor. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
+Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `[YourLandingPageCNAME]` pekar på den unika kontosträng som är tilldelad till landningssidorna för Marketo Engage. Logga in på din domänregistrators webbplats och ange landningssidan CNAME och kontosträng. Vanligtvis omfattar detta tre fält:
 
 * Alias: Ange `[YourLandingPageCNAME]` (tillhandahålls genom marknadsföring)
 * Typ: CNAME
@@ -39,7 +39,7 @@ Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `
 
 `2` **Lägg till CNAME för länkar för e-postspårning**
 
-Lägg till e-postmarknadsföringen CNAME som skickades till dig, så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo har tilldelat i formatet:\
+Lägg till e-postmarknadsföringen CNAME som skickades till dig, så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo Engage tilldelat i formatet:\
 `[YourEmailCNAME].[YourDomain].com` I CNAME `[MktoTrackingLink]`
 
 Exempel:
@@ -58,9 +58,9 @@ Meddela marknadsföringsteamet när du har slutfört den här processen.
 
 Den här processen kan ta upp till tre arbetsdagar att slutföra.
 
-## Steg 2: Tillåtslista IP-adresser för Marketo {#step-allowlist-marketo-ips}
+## Steg 2: IP-adresser i Tillåtelselista Marketo Engage {#step-allowlist-marketo-ips}
 
-När marknadsföringsgruppen använder Marketo för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo i tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
+När marknadsföringsgruppen använder Marketo Engage för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo Engage i tillåtelselista om du vill vara säker på att dessa testmeddelanden kommer fram.
 
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
@@ -82,7 +82,7 @@ Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
 199.15.212.0/22
 
-Vissa antispam-system använder fältet för e-postretursökväg i stället för IP-adressen för att tillåta. I sådana fall är det bästa sättet att tillåtslista&#42;.mktomail.com&#39;, eftersom Marketo använder flera postlådeunderdomäner. Andra antispam-system tillåtslista baserat på Från-adressen. I dessa situationer måste du ta med alla avsändande (&#39;Från&#39;) domäner som din marknadsföringsgrupp använder för att kommunicera med personer/leads.
+Vissa antispam-system använder fältet för e-postretursökväg i stället för IP-adressen för att tillåta. I sådana fall är det bästa sättet att tillåtslista&#42;.mktomail.com&#39;, eftersom Marketo Engage använder flera postlådeunderdomäner. Andra antispam-system tillåtslista baserat på Från-adressen. I dessa situationer måste du ta med alla avsändande (&#39;Från&#39;) domäner som din marknadsföringsgrupp använder för att kommunicera med personer/leads.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Marknadsföringsteamet bör också ha skickat dig DKIM-information (Domain Keys 
    Om det redan finns en SPF-post i vår DNS-post lägger du bara till följande:\
    include: mktomail.com
 
-   Ersätt CompanyDomain med webbplatsens huvuddomän (t.ex. &quot;`(company.com/)`&quot;) och CorpIP med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du ska skicka e-post från flera domäner via Marketo bör din IT-personal lägga till den här raden för varje domän (på en rad).
+   Ersätt CompanyDomain med webbplatsens huvuddomän (t.ex. &quot;`(company.com/)`&quot;) och CorpIP med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du ska skicka e-post från flera domäner via Marketo Engage bör din IT-personal lägga till den här raden för varje domän (på en rad).
 
 1. För DKIM skapar du DNS-resursposter för varje domän som vi vill konfigurera. Nedan visas värdposter och TXT-värden för varje domän som vi ska signera för:
 
@@ -253,7 +253,7 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 >[!NOTE]
 >
->Vi rekommenderar DMARC-justering på DKIM jämfört med SPF för Marketo.
+>Vi rekommenderar DMARC-justering på DKIM jämfört med SPF för Marketo Engage.
 
 * DKIM-justerad DMARC - För att ställa in DKIM-justerad DMARC måste du:
 
@@ -268,15 +268,15 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
    * Konfigurera DMARC för domänen för varumärkesskyddad retursökväg
 
-* Om du skickar e-post från Marketo via en dedikerad IP-adress och inte redan har implementerat en profilerad retursökväg, eller om du är osäker, öppnar du en biljett med [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Om du skickar e-post från Marketo Engage via en dedikerad IP-adress och inte redan har implementerat en profilerad retursökväg, eller om du inte är säker på om du har det, öppnar du en biljett med [Stöd för Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Om du skickar e-post från Marketo via en delad pool med IP-adresser kan du se om du är berättigad till pålitliga IP-adresser via [gäller här](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Varumärkesbaserad retursökväg erbjuds kostnadsfritt till dem som skickar från Marketo betrodda IP-adresser. Om du godkänner programmet kan du kontakta Marketo Support för att skapa en egen returväg.
+* Om du skickar e-post från Marketo Engage via en delad pool med IP-adresser kan du se om du är berättigad till pålitliga IP-adresser genom att [gäller här](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Varumärkesbaserad retursökväg erbjuds kostnadsfritt till dem som skickar från Marketo Engage Betrodda IP-adresser. Om du godkänner det här programmet kan du kontakta Adobe Support för att skapa en egen returväg.
 
    * Betrodda IP-adresser: En delad pool med IP-adresser som är reserverade för användare med lägre volym som skickar &lt;75 kB/månad och som inte är kvalificerade för en dedikerad IP-adress. Dessa användare måste också uppfylla kraven på god praxis.
 
-* Om du skickar e-post från Marketo via delade IP-adresser och du inte är berättigad till betrodda IP-adresser och skickar mer än 100 000 meddelanden per månad måste du kontakta kontoteamet på Adobe (din kontohanterare) för att köpa en dedikerad IP-adress.
+* Om du skickar e-post från Marketo Engage via delade IP-adresser och du inte är berättigad till betrodda IP-adresser och skickar mer än 100 000 meddelanden per månad måste du kontakta kontoteamet på Adobe (din kontohanterare) för att köpa en dedikerad IP-adress.
 
-* Strikta SPF-justeringar stöds inte och rekommenderas inte i Marketo.
+* Strikta SPF-justeringar stöds inte och rekommenderas inte i Marketo Engage.
 
 ## Steg 5: Konfigurera MX-poster för din domän {#step-set-up-mx-records-for-your-domain}
 
