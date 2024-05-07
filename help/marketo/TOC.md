@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
 workflow-type: tm+mt
-source-wordcount: '9332'
+source-wordcount: '9329'
 ht-degree: 0%
 
 ---
@@ -1736,7 +1736,6 @@ ht-degree: 0%
             + [Prenumerera på en grundläggande rapport](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Prenumerera på en smart lista](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Rapporttyper {#report-types}
-            + [Kampanjaktivitetsrapport](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Resultatrapport för e-postkampanj](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Webbaktivitetsrapport för företag](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport om personer efter status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
