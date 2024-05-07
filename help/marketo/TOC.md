@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9327'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,24 @@ ht-degree: 0%
 # Användarhandbok om Marketo {#using}
 
 + [Startsida](home.md)
-+ Komma igång med Marketo {#getting-started-with-marketo}
-   + [Komma igång](getting-started.md)
++ Komma igång med Marketo Engage {#getting-started}
    + [Vad är Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
-   + [Help Center](getting-started/help-center.md)
-   + [Marketo Engage - ordlista](getting-started/marketo-engage-glossary.md)
-   + [Klassisk ikon - ordlista](getting-started/classic-icon-glossary.md)
-   + Inställningar {#setup}
-      + [Installationssteg](getting-started/setup/setup-steps.md)
-      + [Konfigurera checklista](getting-started/setup/setup-checklist.md)
-      + [Konfigurera protokoll för Marketo](getting-started/setup/configure-protocols-for-marketo.md)
+   + Inledande konfiguration {#initial-setup}
+      + [Installationssteg](getting-started/initial-setup/setup-steps.md)
+      + [Konfigurera protokoll](getting-started/initial-setup/configure-protocols-for-marketo.md)
+      + [Användarinställningar](getting-started/initial-setup/user-setup.md)
+   + Implementera en ny Marketo Engage-instans {#implementing-a-new-marketo-engage-instance}
+      + [Var ska jag börja?](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [God praxis för nya instanser: Checklista för administratörsavsnitt](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [God praxis för nya instanser: Databaskontrolllista](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Nya instansmetodtips: Checklista för marknadsföringsaktiviteter](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [New Instance Best Practices: Design Studio Checklist](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Nya instansmetodtips: Dokumentera dina inställningar](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + Saker att veta {#things-to-know}
+      + [Marketo Engage - ordlista](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Ikonordlista](getting-started/things-to-know/icon-glossary.md)
+      + [Klassisk ikon - ordlista](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Help Center](getting-started/things-to-know/help-center.md)
    + Snabbvinningar {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Skicka e-post](getting-started/quick-wins/send-an-email.md)
@@ -45,24 +53,6 @@ ht-degree: 0%
       + [Ärvd instans: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Ärvd instans: Dokumentera konfigurationen](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Granska nyckelkompetenser](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-+ Komma igång med Marketo 2 {#getting-started-with-marketo-2}
-   + [Vad är Adobe Marketo Engage?](getting-started-2/what-is-adobe-marketo-engage.md)
-   + Inledande konfiguration {#initial-setup}
-      + [Inledande inställningsuppgifter](getting-started-2/initial-setup/initial-setup-tasks.md)
-      + [Installationssteg](getting-started-2/initial-setup/setup-steps.md)
-      + [Användarinställningar](getting-started-2/initial-setup/user-setup.md)
-   + Implementera en ny Marketo Engage-instans {#implementing-a-new-marketo-engage-instance}
-      + [Var ska jag börja?](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [God praxis för nya instanser: Checklista för administratörsavsnitt](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [God praxis för nya instanser: Databaskontrolllista](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nya instansmetodtips: Checklista för marknadsföringsaktiviteter](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [New Instance Best Practices: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Nya instansmetodtips: Dokumentera dina inställningar](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + Saker att veta {#things-to-know}
-      + [Marketo Engage - ordlista](getting-started-2/things-to-know/marketo-engage-glossary.md)
-      + [Ikonordlista](getting-started-2/things-to-know/icon-glossary.md)
-      + [Klassisk ikon - ordlista](getting-started-2/things-to-know/classic-icon-glossary.md)
-      + [Help Center](getting-started-2/things-to-know/help-center.md)
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
@@ -1143,7 +1133,6 @@ ht-degree: 0%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [Översikt](product-docs/marketo-engage-modern-ux/overview.md)
-      + [Ikonordlista](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Använda global sökning](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Växla av/på](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Notifications {#marketo-notifications}

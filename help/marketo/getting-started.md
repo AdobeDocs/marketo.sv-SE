@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: Komma igång - Marketo Docs - produktdokumentation
 title: Komma igång
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 9%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +25,7 @@ Vad är Marketo Engage, frågar du? Bra fråga!
 
 Med lite hjälp från IT-avdelningen kan du få det gjort på nolltid.
 
-[Starta installationen](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Starta installationen](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Få lite snabbvinningar {#get-some-quick-wins}
 
@@ -42,9 +44,9 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importera" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importera" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Skicka ett e-postmeddelande</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Skicka e-post</a>
     </div>
     <br>
   </td>
@@ -90,7 +92,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="Anslut" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivningsmotor</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivrutinsdykning</a>
     </div>
     <br>
   </td>

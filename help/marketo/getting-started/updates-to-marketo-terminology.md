@@ -1,10 +1,12 @@
 ---
 unique-page-id: 11387674
 description: Uppdateringar av Marketo Terminology - Marketo Docs - produktdokumentation
+hide: true
+hidefromtoc: true
 title: Uppdateringar av Marketo Terminologi
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -73,7 +75,7 @@ Lead och person **är samma sak**.
 
 ## Tokens {#tokens}
 
-Token med ordet lead i sig **ändras inte**. Vi ber om ursäkt för all förvirring. Om alla variabler ändras så att de matchar den nya terminologin bryts dock en hel del variabler som för närvarande används. Så du kommer fortfarande att se variabler som &quot;`{{lead.First Name}}`.&quot; Det finns inga personspecifika tokens.
+Token med ordet lead i sig **ändras inte**. Vi ber om ursäkt för all förvirring. Om du ändrar alla token så att de matchar den nya terminologin bryts en hel del tokens som används för närvarande. Så du ser fortfarande variabler som &quot;`{{lead.First Name}}`.&quot; Det finns inga personspecifika tokens.
 
 >[!NOTE]
 >
@@ -108,7 +110,7 @@ Fält som innehåller termen Lead har ersatts med Person eller ordet Lead har ta
 
 >[!NOTE]
 >
->En fullständig lista över fältnamn som påverkas finns här [Supportartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
+>En fullständig lista över fältnamn som påverkas finns här [Supportartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
 ## Realtidspersonalisering (RTP) är nu webbpersonalisering {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -137,11 +139,11 @@ Fält som innehåller termen Lead har ersatts med Person eller ordet Lead har ta
 
 Förutom namnändringen består den nu av fyra separata program:
 
-| **[Webbanpassning](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Har egen panel på hemskärmen |
+| **[Webbanpassning](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Har egen panel på hemskärmen |
 |---|---|
-| **[Kontobaserad webbmarknadsföring](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Tillgängligt via webbanpassningsbrickan |
-| **[Personaliserad återmarknadsföring](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Tillgängligt via webbanpassningsbrickan |
-| **[Prediktivt innehåll](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Har egen panel på hemskärmen |
+| **[Kontobaserad webbmarknadsföring](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Tillgängligt via webbanpassningsbrickan |
+| **[Personaliserad återmarknadsföring](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Tillgängligt via webbanpassningsbrickan |
+| **[Prediktivt innehåll](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Har egen panel på hemskärmen |
 
 >[!NOTE]
 >
