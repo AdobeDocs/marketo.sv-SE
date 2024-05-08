@@ -1,29 +1,31 @@
 ---
 unique-page-id: 10098238
-description: linkedIn Social Form Fill FAQ - Marketo Docs - produktdokumentation
-title: linkedIn Social Form Fill - frågor och svar
+description: LinkedIn Social Form Fill FAQ - Marketo Docs - produktdokumentation
+title: LinkedIn Social Form Fill - frågor och svar
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
 
-# linkedIn Social Form Fill - frågor och svar {#linkedin-social-form-fill-faqs}
+# LinkedIn Social Form Fill - frågor och svar {#linkedin-social-form-fill-faqs}
 
-linkedIn reviderade API-policy kräver att vi tar bort LinkedIn Social Form Fill från vår produkt.
+LinkedIn reviderade API-policy kräver att vi tar bort LinkedIn Social Form Fill från vår produkt.
 
 ## Viktiga saker att veta {#important-things-to-know}
 
-* linkedIn-knappar för ifyllning av sociala formulär kunde inte längre läggas till i Marketo den 28 april 2016
+* LinkedIn-knappar för ifyllning av sociala formulär kunde inte längre läggas till i Marketo den 28 april 2016
 
 * Vi har tagit bort LinkedIn-knappen för ifyllnad av sociala formulär från alla formulär där den var aktiverad
 
 ## Varför togs den här funktionen bort från min Marketo-prenumeration? {#why-was-this-functionality-removed-from-my-marketo-subscription}
 
-linkedIn har gjort betydande ändringar i sitt utvecklarprogram. Som en del av dessa förändringar kan Marketo inte längre ge stöd för den här funktionaliteten för kunderna.
+LinkedIn har gjort betydande ändringar i sitt utvecklarprogram. Som en del av dessa förändringar kan Marketo inte längre ge stöd för den här funktionaliteten för sina kunder.
 
 ## Vad hände om jag inte tog bort LinkedIn Social Form Fill-knapparna från formulären som hade Social Form aktiverat? {#what-happened-if-i-didnt-remove-the-linkedin-social-form-fill-buttons-from-my-forms-that-had-social-form-enabled}
 
@@ -35,7 +37,7 @@ Innan vi gjorde den här ändringen skickade vi ut veckovisa meddelanden till In
 
 ## Fungerar LinkedIn Social Sharing-knappar fortfarande? {#do-linkedin-social-sharing-buttons-still-work}
 
-Ja. Ändringen påverkar bara funktionen LinkedIn Social Form Fill.
+Ja. Ändringen påverkar bara LinkedIn funktion för ifyllnad av sociala formulär.
 
 ## Fungerar Facebook och Twitter Social Form Fill fortfarande? {#do-facebook-and-twitter-social-form-fill-still-work}
 
@@ -61,11 +63,11 @@ Nej, formulären som vi har tagit bort den här funktionen från har publicerats
 
 Nej, vi tar bara bort LinkedIn-knappen från ditt formulär. När ifyllning av sociala formulär används i ett formulär skapas en behållare ovanför som innehåller knapparna för ifyllning av sociala formulär. Före den 28 april 2016, om LinkedIn var det enda alternativet, liknade behållarens utseende den här bilden:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
-Efter 28 april 2016 finns det nu en tom behållare längst upp i alla formulär där LinkedIn Social Form Fill har tagits bort:
+Efter den 28 april 2016 finns det nu en tom behållare längst upp i alla formulär där LinkedIn Social Form Fill har tagits bort:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
