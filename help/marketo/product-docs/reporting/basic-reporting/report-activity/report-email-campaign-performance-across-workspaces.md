@@ -4,22 +4,22 @@ description: E-postrapport, kampanjprestanda på flera arbetsytor - Marketo Docs
 title: E-postrapport, kampanjprestanda i flera arbetsytor
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # E-postrapport, kampanjprestanda i flera arbetsytor {#report-email-campaign-performance-across-workspaces}
 
-Aktivera Global Reporting om du vill inkludera data från alla dina Marketo [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-postlänksprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)och [Kampanjaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapporter.
+Aktivera Global Reporting om du vill inkludera data från alla dina Marketo [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) och [E-postlänksprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporter.
 
 1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
-1. Välj rapport.
+1. Välj din rapport.
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 

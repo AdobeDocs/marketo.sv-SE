@@ -4,9 +4,9 @@ description: Filtrera personer i en rapport med en smart lista - Marketo Docs - 
 title: Filtrera personer i en rapport med en smart lista
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ Du kan använda smarta listor med följande rapporttyper:
 * [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [E-postlänkens prestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Prestanda för engagemangsström](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Kampanjaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [Kampanjens e-postprestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Företagets webbaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
@@ -40,7 +39,7 @@ Du kan använda smarta listor med följande rapporttyper:
 
    ![](assets/image2017-3-27-14-3a13-3a46.png)
 
-1. Konfigurera filtret.
+1. Konfigurera filter.
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 

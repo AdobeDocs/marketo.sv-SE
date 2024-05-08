@@ -3,9 +3,9 @@ description: Marketo Engage-ordlista - Marketo Docs - produktdokumentation
 title: Marketo Engage - ordlista
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 0%
 
 ---
@@ -129,11 +129,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"Campaign" kan betyda några saker i Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">kampanj</a> är en kortare term för smarta kampanjer. I <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">kampanjer</a> är en serie korrespondenssteg för flera kanaler. I <strong>Webbanpassning</strong>, webb <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">kampanjer</a> är anpassade reaktioner som är kopplade till ett visst segment.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Kampanjaktivitetsrapport</a></strong></td> 
-   <td colspan="1">Typ av rapportering som visar hur <strong>smarta kampanjer</strong> presterar.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Resultatrapport för e-postkampanj</a></strong></td> 
    <td colspan="1">Typ av rapportering som visar e-postresultatmått grupperade efter <strong>smart kampanj</strong>.</td> 
