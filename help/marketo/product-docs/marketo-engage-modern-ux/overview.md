@@ -3,9 +3,9 @@ description: Marketo Engage Modern UX Overview - Marketo Docs - produktdokumenta
 title: Marketo Engage Modern UX - översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Det finns många nya funktioner i det moderna användargränssnittet, som alla �
 
 **Ikoner**
 
-Det nya gränssnittet har förbättrad och utökad ikonografi. Läs om dem här: [Ikonordlista](/help/marketo/getting-started/things-to-know/icon-glossary.md).
+Det nya gränssnittet har förbättrad och utökad ikonografi.
 
 ![](assets/overview-2.png)
 

@@ -4,14 +4,18 @@ description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 2%
+source-wordcount: '359'
+ht-degree: 1%
 
 ---
 
 # Hantera Marketo-användare {#managing-marketo-users}
+
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för dem som gör det _not_ use [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} i stället.
 
 ## Skapa användare {#create-users}
 
@@ -71,7 +75,7 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
 >[!NOTE]
 >
->Om användaren som du vill ta bort även är en Dynamic Chat-användare måste du [ta bort dem från Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) i Admin Console innan du kan ta bort dem i Marketo Engage.
+>Om användaren som du vill ta bort även är en Dynamic Chat-användare måste du [ta bort dem från Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} i Admin Console innan du kan ta bort dem i Marketo Engage.
 
 1. Gå till **[!UICONTROL Admin]** område.
 
