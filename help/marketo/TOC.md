@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 0%
          + [Dynamic Chat verksamhet](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analyser](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
+         + Installation och konfiguration {#setup-and-configuration}
+            + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Behörigheter](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [Agentinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [Agenthantering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [Skyddsinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [Routning](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Återanropsfunktioner](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + Automatiserad chatt {#automated-chat}
             + [Översikt över konversationsflöde](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [Skapa ett konversationsflöde](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 0%
             + [Översikt över live-chatt](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [Meddelanden](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + Installation och konfiguration {#setup-and-configuration}
-            + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [Lägg till eller ta bort chattanvändare](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [Behörigheter](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [Konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [Agentinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [Agenthantering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [Skyddsinställningar](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [Routning](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [Återanropsfunktioner](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + Generativ AI {#generative-ai}
+            + [Generativ AI-översikt](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [Fråggenerering](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [Svarsbibliotek](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [Aktivitetslogg](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [Obesvarade frågor](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + Händelser {#events}
          + Förstå händelser {#understanding-events}
             + [Lägga till medlemmar i ett händelseprogram](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
