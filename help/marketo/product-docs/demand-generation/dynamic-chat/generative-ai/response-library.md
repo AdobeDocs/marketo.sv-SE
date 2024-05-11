@@ -4,9 +4,9 @@ title: Svarsbibliotek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -57,24 +57,49 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 ## Redigera och skicka frågor/svar gruppvis {#bulk-edit-and-upload-questions-responses}
 
-1. Text
+Instruktioner om hur du gör satsvisa redigeringar i den hämtade Excel-filen finns nedan. De visas även på fliken Uppgiftsinformation i filen.
 
-SCREENSHOT
+<table>
+<thead>
+  <tr>
+    <th>Åtgärd</th>
+    <th>Instruktioner</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Redigera en fråga</td>
+    <td>Ange den nya frågan i kolumnen"editedQuestion" (kolumn H)</td>
+  </tr>
+  <tr>
+    <td>Redigera ett svar</td>
+    <td>Ange det nya svaret i kolumnen"editedResponse" (kolumn I)</td>
+  </tr>
+  <tr>
+    <td>Lägg till en ny fråga</td>
+    <td>Skriv den nya frågan i kolumnen"editedQuestion" (kolumn H) och lämna questionResponseld tom. Du måste också ange ett lämpligt ämne i kolumnen "topics" (kolumn C) och en käll-URL i kolumnen "sourceUr!"</td>
+  </tr>
+  <tr>
+    <td>Lägg till en fråga och ett svar</td>
+    <td>Skriv den nya frågan i kolumnen"editedQuestion" (kolumn H), det nya svaret i kolumnen"editedResponse" (kolumn I) och lämna questionResponse tom. Du måste också ange ett lämpligt ämne i kolumnen "ämnen" (kolumn C)</td>
+  </tr>
+</tbody>
+</table>
 
-1. Text
+1. När du är klar med redigeringarna i filen går du tillbaka till fliken för svarsbiblioteket och klickar på Överför svar.
 
-SCREENSHOT
+   ![](assets/response-library-9.png)
 
-1. Text
+1. Ange det relevanta aktivitetsnamnet. Dra och släpp filen eller bläddra efter den på enheten och markera den. Klicka **Spara** när det är klart.
 
-SCREENSHOT
+   ![](assets/response-library-10.png)
 
-1. Text
+1. Bekräftelsen visas och du är klar.
 
-SCREENSHOT
+   ![](assets/response-library-11.png)
 
 ## Filtrera frågor {#filter-your-questions}
 
 Som standard listas frågorna i ordning efter tid/datum då de skapades, och de senaste visas först. Om du letar efter en viss fråga kan du använda filter för att begränsa sökningen. Filtrera efter ämnen, uppgiftsnamn och/eller godkännandestatus.
 
-SCREENSHOT
+![](assets/response-library-12.png)
