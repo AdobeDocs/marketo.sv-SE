@@ -4,16 +4,16 @@ title: Obesvarade frågor
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Obesvarade frågor {#unanswered-questions}
 
-Se alla frågor som chattbot inte kunde besvara eller de som besökarna markerat som&quot;inte till någon hjälp&quot; och använd denna värdefulla information för att skapa ytterligare förgodkända svar.
+Se alla frågor som chattbot inte kunde besvara och/eller de som besökare som markerats som&quot;inte till någon hjälp&quot; och använd denna värdefulla information för att skapa ytterligare förgodkända svar.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Se alla frågor som chattbot inte kunde besvara eller de som besökarna markerat
 
    ![](assets/unanswered-questions-2.png)
 
-1. Välj den obesvarade fråga som du vill generera ett svar för.
+1. Markera den obesvarade fråga som du vill skapa ett svar för.
 
    ![](assets/unanswered-questions-3.png)
 

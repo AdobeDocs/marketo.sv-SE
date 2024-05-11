@@ -4,16 +4,16 @@ title: Fråggenerering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # Fråggenerering {#question-generation}
 
-Se alla uppgifter och tillhörande information, t.ex. när de skapades, det totala antalet frågor, godkännandestatus med mera.
+Se alla dina uppgifter och relevant information, t.ex. när de skapades, det totala antalet frågor, godkännandestatus och mycket annat.
 
 ## Generera frågor {#generate-questions}
 
@@ -37,11 +37,11 @@ Se alla uppgifter och tillhörande information, t.ex. när de skapades, det tota
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->Status på sidan uppdateras inte i realtid. Klicka på Uppdatera för att se när det går från&quot;Bearbetning&quot; till&quot;Fullständig&quot;.
+   >[!TIP]
+   >
+   >Status på sidan uppdateras inte i realtid. Klicka på Uppdatera för att se när det går från&quot;Bearbetning&quot; till&quot;Fullständig&quot;.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Hämta frågor och svar {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Se alla uppgifter och tillhörande information, t.ex. när de skapades, det tota
 
    ![](assets/question-generation-6.png)
 
-1. Leta reda på hämtningsmappen i webbläsaren och markera filen. Detta kan se annorlunda ut beroende på webbläsaren.
+1. Leta reda på hämtningsmappen i webbläsaren och markera filen. Detta kan se annorlunda ut beroende på vilken webbläsare du använder.
 
    ![](assets/question-generation-7.png)
 
