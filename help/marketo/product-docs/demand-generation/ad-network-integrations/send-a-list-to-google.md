@@ -4,16 +4,17 @@ title: Skicka en lista till Google
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Skicka en lista till Google {#send-a-list-to-google}
 
-Följ stegen nedan för att skicka en statisk lista till ditt Google-konto.
+För dem som använder Google Customer Match följer du stegen nedan för att skicka en statisk Marketo Engage-lista till ditt Google-konto.
 
 1. I Marketo Engage söker du efter och markerar önskad lista.
 
@@ -39,7 +40,7 @@ Följ stegen nedan för att skicka en statisk lista till ditt Google-konto.
    >
    >* Markera **Synkronisera målgruppsmedlemskap** håller listan uppdaterad när den ändras i din instans. Vi lägger till/tar bort personer från målgruppen när de läggs till/tas bort från den statiska listan.
    >
-   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD.
+   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD. För dem som planerar att överföra uppgifter till användare i Europeiska ekonomiska samarbetsområdet (EES) har Google sammanställt en lista med [Vanliga frågor](https://support.google.com/google-ads/answer/14310715)samt ytterligare information som visar [Policy för användargodkännande i EU](https://www.google.com/about/company/user-consent-policy/).
 
 1. Klicka **Uppdatera**.
 
