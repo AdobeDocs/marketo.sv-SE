@@ -4,9 +4,10 @@ title: Obesvarade frågor
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -17,13 +18,13 @@ Se alla frågor som chattbot inte kunde besvara och/eller de som besökare som m
 
 >[!NOTE]
 >
->Listan med obesvarade frågor uppdateras automatiskt var 24:e timme.
+>Listan med obesvarade frågor uppdateras automatiskt var 24:e timme vid midnatt PST.
 
-1. Under Generative AI klickar du på **Assisterade svar**.
+1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klicka på **Obesvarade frågor** -fliken.
+1. Klicka på **[!UICONTROL Unanswered questions]** -fliken.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ Se alla frågor som chattbot inte kunde besvara och/eller de som besökare som m
 
    ![](assets/unanswered-questions-3.png)
 
-1. Ange ditt svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **Spara** när det är klart.
+1. Ange ditt svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/unanswered-questions-4.png)
 

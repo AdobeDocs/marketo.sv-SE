@@ -4,9 +4,10 @@ title: Svarsbibliotek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -17,27 +18,27 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 ## Lägg till en fråga manuellt {#manually-add-a-question}
 
-1. Under Generative AI klickar du på **Assisterade svar**.
+1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
 
    ![](assets/response-library-1.png)
 
-1. Klicka på **Svarsbibliotek** -fliken.
+1. Klicka på **[!UICONTROL Response library]** -fliken.
 
    ![](assets/response-library-2.png)
 
-1. Klicka **Lägg till fråga**.
+1. Klicka på **[!UICONTROL Add question]**.
 
    ![](assets/response-library-3.png)
 
-1. Ange fråga och svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **Spara** när det är klart.
+1. Ange fråga och svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/response-library-4.png)
 
-1. Klicka på Uppdatera så visas den nya frågan högst upp med statusen&quot;Bearbetar&quot;.
+1. Klicka på Uppdatera så visas den nya frågan högst upp med statusen &quot;[!UICONTROL Processing].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Efter några minuter klickar du igen och statusen ändras till&quot;Godkänd&quot;.
+1. Efter några minuter kan du uppdatera igen och statusen ändras till&quot;Godkänd&quot;.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 >[!NOTE]
 >
->Alla genererade frågor och svar tilldelas som standard statusen&quot;need review&quot;. Endast&quot;godkända&quot; frågor och svar är tillgängliga för chattbesökare.
+>Alla genererade frågor och svar tilldelas &quot;[!UICONTROL need review]som standard. Endast &quot;[!UICONTROL approved]&quot;frågor och svar blir tillgängliga för chattbesökare.
 
-1. I **Svarsbibliotek** klickar du på önskad fråga.
+1. I **[!UICONTROL Response library]** klickar du på önskad fråga.
 
    ![](assets/response-library-7.png)
 
-1. Redigera och klicka **Spara**.
+1. Redigera och klicka **[!UICONTROL Save]**.
 
    ![](assets/response-library-8.png)
 
@@ -86,11 +87,11 @@ Instruktioner om hur du gör satsvisa redigeringar i den hämtade Excel-filen fi
 </tbody>
 </table>
 
-1. När du är klar med redigeringarna i filen går du tillbaka till fliken för svarsbiblioteket och klickar på Överför svar.
+1. När du är klar med redigeringarna går du tillbaka till **[!UICONTROL Response library]** och klicka **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
-1. Ange det relevanta aktivitetsnamnet. Dra och släpp filen eller bläddra efter den på enheten och markera den. Klicka **Spara** när det är klart.
+1. Ange det relevanta aktivitetsnamnet. Dra och släpp filen eller bläddra efter den på enheten och markera den. Klicka **[!UICONTROL Save]** när det är klart.
 
    ![](assets/response-library-10.png)
 

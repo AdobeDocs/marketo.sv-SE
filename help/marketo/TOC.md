@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9355'
 ht-degree: 0%
 
 ---
@@ -675,12 +675,14 @@ ht-degree: 0%
             + [Skapa en dialogruta](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [Målgruppskriterier](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
+            + [Stream Designer Temp](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
          + Integreringar {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
          + Live Chatt {#live-chat}
             + [Översikt över live-chatt](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [Tillfällig agentinkorgen](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
             + [Meddelanden](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + Generativ AI {#generative-ai}
             + [Generativ AI-översikt](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)

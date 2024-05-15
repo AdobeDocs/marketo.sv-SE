@@ -4,9 +4,10 @@ title: Aktivitetslogg
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -15,11 +16,11 @@ ht-degree: 0%
 
 Se en lista över alla uppgifter och deras medföljande information, inklusive namn, ägare, typ och vem som redigerade dem och när.
 
-1. Under Generative AI klickar du på **Assisterade svar**.
+1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
 
    ![](assets/activity-log-1.png)
 
-1. Klicka på **Aktivitetslogg** -fliken.
+1. Klicka på **[!UICONTROL Activity log]** -fliken.
 
    ![](assets/activity-log-2.png)
 
