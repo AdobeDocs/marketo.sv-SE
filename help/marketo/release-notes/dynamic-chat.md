@@ -3,7 +3,7 @@ description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokum
 title: Versionsinformation för Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## Obesvarade frågor {#unanswered-questions}
+### Obesvarade frågor {#unanswered-questions}
 
 [Använd en databas med obesvarade frågor](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} från tidigare konversationer för att generera nya förgodkända svar och ha ett svarsbibliotek med den senaste informationen.
 
