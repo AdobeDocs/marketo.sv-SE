@@ -1,13 +1,11 @@
 ---
 description: Generativ AI-översikt - Marketo Docs - produktdokumentation
 title: Generativ AI-översikt
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -30,33 +28,45 @@ Skapa ett meddelande till besökaren när de når en viss punkt i konversationen
 
 ## Samtalssammanfattning {#conversation-summary}
 
-Vanligtvis måste du bläddra igenom hela chattutskriften för att få tillgång till hela kontexten för en besökarkonversation. Samtalssammanfattning genererar en sammanfattning för dig i realtid och innehåller även ämnen som besökaren har uttryckt intresse för. Detta är särskilt användbart för chattagenter som behöver ett snabbt konversationssammanhang när de växlar mellan chattar med flera besökare.
+Vanligtvis måste du bläddra igenom hela chattutskriften för att få tillgång till hela kontexten för en besökarkonversation. Samtalssammanfattning genererar en sammanfattning för dig i realtid och innehåller även ämnen som besökaren har uttryckt intresse för. Detta är särskilt användbart för chattagenter som behöver ett snabbt konversationssammanhang när de växlar mellan chattar med flera besökare. Förutom att de visas på chattskärmen i Agent Inbox finns de slutförda konversationssammanfattningarna i aktivitetsloggen för besökarens personpost i din Marketo Engage-databas.
 
 ![](assets/generative-ai-overview-3.png)
+
+![](assets/generative-ai-overview-4.png)
+
+>[!NOTE]
+>
+>En konversationssammanfattning genereras för både live och automatiserade chattar.
 
 ## Fråggenerering {#question-generation}
 
 [Skapa engagerande upplevelser](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) med AI-stödda konversationer för besökare i ett gränssnitt som är utbildat i försäljning, marknadsföring och produktkunskap.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-5.png)
 
 ## Svarsbibliotek {#response-library}
 
 [Skapa en anpassad samling](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) av frågor och svar, som ni har godkänt i förväg, för användning i allmänna AI-chattkampanjer.
 
-![](assets/generative-ai-overview-5.png)
+![](assets/generative-ai-overview-6.png)
 
 ## Aktivitetslogg {#activity-log}
 
 [Visa en lista över alla uppgifter](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) och tillhörande uppgifter, inklusive namn, ägare, typ och vem som har redigerat dem samt när.
 
-![](assets/generative-ai-overview-6.png)
+![](assets/generative-ai-overview-7.png)
 
 ## Obesvarade frågor {#unanswered-questions}
 
 [Skapa ytterligare förgodkända svar](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) för ditt svarsbibliotek med hjälp av AI som bygger på en databas ANVÄND OLIKA ORD med obesvarade frågor från tidigare konversationer.
 
-![](assets/generative-ai-overview-7.png)
+![](assets/generative-ai-overview-8.png)
+
+## Diskussionsämnen {#discussed-topics}
+
+Diskussionsämnen finns i Smart List-utlösare och -filter som en begränsning, vilket gör att du kan fördjupa dig ytterligare i dina Dynamic Chat-insikter.
+
+![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >

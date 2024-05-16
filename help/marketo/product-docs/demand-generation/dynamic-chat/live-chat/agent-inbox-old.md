@@ -1,11 +1,12 @@
 ---
 description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -56,45 +57,11 @@ Agenter kan avsluta en session manuellt genom att klicka på **Avsluta session**
 
 ![](assets/agent-inbox-6.png)
 
-## Kortkommandon {#shortcuts}
-
->[!NOTE]
->
->Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta kontoteamet (din kontoansvarige) för mer information.
-
-Kortkommandon från genererande AI [Svarsbibliotek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), är ett bra sätt att få hjälp direkt när du chattar med en besökare. Skriv bara ett snedstreck (`/`) i textrutan och väljer `ask` eller `search`.
-
-![](assets/agent-inbox-7.png)
-
-**Fråga** är till för att få hjälp med att svara på en fråga.
-
-1. Skriv eller välj `/ask` i textrutan. Skriv din fråga och tryck på Retur på tangentbordet.
-
-   ![](assets/agent-inbox-8.png)
-
-1. Ett svar visas. Klicka på kopieringsikonen om du vill att den ska klistras in i textrutan. Du kan redigera texten innan du skickar den till besökaren.
-
-   ![](assets/agent-inbox-9.png)
-
-**Sök** är till för att hjälpa dig att hitta sidor som hör till en viss text.
-
-1. Skriv eller välj `/search` i textrutan.
-
-   ![](assets/agent-inbox-10.png)
-
-1. Skriv vad du vill söka efter och tryck på Retur på tangentbordet.
-
-   ![](assets/agent-inbox-11.png)
-
-1. Tillämpliga länkar visas. Klicka på kopieringsikonen om du vill att de ska klistras in i textrutan. Du kan redigera innan du skickar informationen till besökaren.
-
-   ![](assets/agent-inbox-12.png)
-
 ## Aktivitetshistorik {#activity-history}
 
 Under besökarinformationen finns aktivitetshistorik. Visa aktivitetstyper och datum och till och med chattutdrag.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en
 
 1. Klicka på kalenderikonen.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Välj önskad agentkalender och klicka på **Skicka**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Chattbesökaren kan boka ett möte.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## Samtalssammanfattning {#conversation-summary}
-
->[!NOTE]
->
->Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta kontoteamet (din kontoansvarige) för mer information.
-
-Samtalssammanfattning genererar en snabb sammanfattning för dig i realtid, inklusive ämnen som besökaren har uttryckt intresse för. Den finns längst ned till höger på alla chattskärmar.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->En slutförd konversationssammanfattning finns också i aktivitetsloggen för besökarens personpost i Marketo Engage-databasen.

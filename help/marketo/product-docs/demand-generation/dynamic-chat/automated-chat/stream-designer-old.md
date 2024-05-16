@@ -1,11 +1,12 @@
 ---
 description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1187'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -37,7 +38,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
   <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Inhämtning av information</strong></td>
+  <td style="width:25%"><strong>Information Capture</strong></td>
   <td>Använd när du vill samla in information (t.ex. namn, e-postadress, befattning osv.). När du har valt vilket fält som svaren ska tilldelas till kan du välja mellan att låta besökartypen i svaret eller välja alternativ i en lista som du bestämmer (tips: det senare kan hjälpa till med att rensa databasen). Du kan också välja att skriva över alla data som du har angett för dem med deras svar, eller hoppa över frågan helt om du redan har ett värde för dem.</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td style="width:25%"><strong>Åtgärd*</strong></td>
   <td>Liknar dolda fält i ett formulär, med åtgärdskortet kan du fylla i alla lead- eller företagsattribut (som har en <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">strängdatatyp</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
-  <p><i>* Det här kortet kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
+  <p><i>* Action card kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Live-chatt</strong></td>
+  <td style="width:25%"><strong>Live Chatt</strong></td>
   <td>Använd chattkortet när du vill att besökarna ska chatta med en live-agent.
   <li>Chattkortet måste vara det sista kortet i grenen.</li>
   <li>Besökarna dirigeras till en agent så snart de kommer till kortet i strömmen, så vi rekommenderar att du före kortet tillfrågar besökarna om de vill chatta med en Live-agent.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Genererade svar*</strong></td>
-  <td>Skapa ett meddelande till besökaren när de når en viss punkt i konversationen. Ställ in ett antal frågor som de kan ställa på en gång för att få fram den önskade nyckelprestandaindikatorn.
-  <p><i>* Det här kortet kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Villkorlig förgrening</strong></td>
-  <td>Skapa grenar i Dialogrutorna baserat på olika villkor. Presentera olika innehåll för olika personer i samma dialog baserat på lead- och företagsattribut i Marketo Engage.</td>
  </tr>
 </table>
 

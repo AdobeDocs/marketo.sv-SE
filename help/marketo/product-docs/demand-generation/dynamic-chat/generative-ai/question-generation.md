@@ -1,13 +1,11 @@
 ---
 description: Fråggenerering - Marketo Docs - produktdokumentation
 title: Fråggenerering
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -72,16 +70,51 @@ Se alla dina uppgifter och relevant information, t.ex. när de skapades, det tot
 
 ## IP-adresser att Tillåtslista {#ip-addresses-to-allowlist}
 
-Om du vill kunna extrahera innehåll från dina webb-URL:er under genereringen av frågor och svar kontrollerar du att alla IP-adresser nedan har tillåtslista av ditt webbteam.
+Om du vill kunna extrahera innehåll från dina webb-URL:er under genereringen av frågor och svar, ska du leta reda på din region nedan och se till att alla IP-adresser som är kopplade till den är tillåtslista av ditt webbteam.
 
-<table width="150">
+<table width="450">
+<thead>
   <tr>
-    <td>20.167.0.149</td>
+    <th>Nordamerika</th>
+    <th>Europa</th>
+    <th>APAC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20.10.235.188</td>
+    <td>20.76.246.248</td>
+    <td>20.167.0.195</td>
   </tr>
   <tr>
-    <td>20.248.129.111</td>
+    <td>20.10.235.189</td>
+    <td>20.76.247.92</td>
+    <td>20.248.128.31</td>
   </tr>
   <tr>
-    <td>20.167.0.146</td>
+    <td>20.10.235.246</td>
+    <td>20.76.247.134</td>
+    <td>20.167.1.48</td>
   </tr>
+  <tr>
+    <td>20.10.235.248</td>
+    <td>20.76.247.244</td>
+    <td>20.167.1.63</td>
+  </tr>
+  <tr>
+    <td>20.10.235.255</td>
+    <td>20.93.168.10</td>
+    <td>20.167.1.92</td>
+  </tr>
+  <tr>
+    <td>20.10.236.96</td>
+    <td>20.93.168.44</td>
+    <td>20.167.1.155</td>
+  </tr>
+  <tr>
+    <td>20.119.144.14</td>
+    <td>20.105.224.16</td>
+    <td>20.211.64.11</td>
+  </tr>
+</tbody>
 </table>
