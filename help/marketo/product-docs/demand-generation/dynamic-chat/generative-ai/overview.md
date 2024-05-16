@@ -3,9 +3,9 @@ description: Generativ AI-översikt - Marketo Docs - produktdokumentation
 title: Generativ AI-översikt
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Vanligtvis måste du bläddra igenom hela chattutskriften för att få tillgång
 
 ## Obesvarade frågor {#unanswered-questions}
 
-[Skapa ytterligare förgodkända svar](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) för ditt svarsbibliotek med hjälp av AI som bygger på en databas ANVÄND OLIKA ORD med obesvarade frågor från tidigare konversationer.
+[Skapa ytterligare förgodkända svar](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) för ditt svarsbibliotek med hjälp av AI som bygger på en databas med obesvarade frågor från tidigare konversationer.
 
 ![](assets/generative-ai-overview-8.png)
 
