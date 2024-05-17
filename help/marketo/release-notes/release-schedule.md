@@ -4,7 +4,7 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Releaschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: d49de7245d942a5e0a113b8a2f00d7203a4fb39b
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 5%
@@ -48,12 +48,12 @@ _Releasedatum/funktioner kan komma att ändras_
    <td>Levererat</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">24 april</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">24 april</a></td>
    <td>26 april 2024</td>
    <td>Pågår</td>
   </tr>
   <tr>
-   <td>24 juni</td>
+   <td><a href="/help/marketo/release-notes/current.md">24 juni</a></td>
    <td>7 juni 2024</td>
    <td>Vid schema</td>
   </tr>
