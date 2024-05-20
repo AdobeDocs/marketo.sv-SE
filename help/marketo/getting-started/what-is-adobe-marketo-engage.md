@@ -4,9 +4,9 @@ description: Vad är Adobe Marketo Engage? - Marketo Docs - produktdokumentation
 title: Vad är Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,14 @@ Marketo Engage har massor av bra funktioner som hjälper er att nå era marknads
 
 * Formulärredigeraren
 * Landing Page Editor
+* Smarta kampanjer
+* Dynamic Chat
+* Interaktiva webbinarier
 * Guided Landing Page Templates
 * E-postredigerare
 * Verktyg för massutskick av e-post
 * Segmentering
 * Prediktivt innehåll
-* Dynamic Chat
-* Interaktiva webbinarier
 * Integrering med webbinarium från tredje part
 * Mobilmarknadsföring
 * Synkronisera med CRM (Salesforce eller Dynamics)
