@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---
@@ -42,4 +42,4 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i din **Administratör** > **LaunchPoint** meny mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du gör detta [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i din **Administratör** > **LaunchPoint** meny mellan 26 juli och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du gör detta [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} och [här för Matched Auditions](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Tjänsten Lead Gen Form har en typ av&quot;LinkedIn Lead Gen&quot; och tjänsten Matched Audience har typen&quot;LinkedIn Matched Audiences&quot;. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
