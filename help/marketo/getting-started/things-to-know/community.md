@@ -4,40 +4,68 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage Community {#marketo-engage-community}
 
-The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} är stället där du kan lära dig mer om din instans i Marketo Engage från både anställda och andra användare i Marketo Engage.
+The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} är stället där du kan lära dig mer om din Marketo Engage-instans från andra användare och Marketo anställda. Innan du börjar, ta dig en stund till att lära dig mer om [Gemenskapens riktlinjer](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## Registrera ditt användarnamn {#register-your-username}
+
+-registrera ett användarnamn
+
+SCREENSHOT
 
 ## Konfigurera din profil {#set-up-your-profile}
 
--registrera ett användarnamn -lägga till ett foto
+När du är inloggad på Marketing Nation klickar du på din standardavatarikon och väljer My settings (Mina inställningar) för att uppdatera dina inställningar, ändra ditt avatarfoto, kontrollera taggning med mera.
 
-## Skicka en fråga {#submit-a-question}
-
-Text
-
-## Läs blogginlägg {#read-blog-posts}
-
--champions -marketo PM
-
-## Skicka en idé {#submit-an-idea}
-
-text
+SCREENSHOT
 
 ## Använda sökningen {#using-the-search}
 
--filtrering
+Innan du skickar in en fråga använder du den robusta sökfunktionen för att se om frågan redan har tillfrågats/besvarats. Använd filteralternativen för att begränsa sökresultaten.
+
+SCREENSHOT
+
+>[!TIP]
+>
+>Använd en fokuserad nyckelordssökning i stället för en långvarig sökning för mer omfattande resultat (t.ex. sök i&quot;Dynamic Chat&quot; i stället för&quot;Hur lägger jag till en agent i Dynamic Chat&quot;)
+
+## Skicka en fråga {#submit-a-question}
+
+Det är här du brukar gå för hjälp. Starta en diskussionstråd (eller sök efter en befintlig) när du letar efter feedback på ett visst problem, eller hoppa in i någon annans tråd för att hjälpa dem med ett problem som du känner till.
+
+SCREENSHOT
+
+## Läs blogginlägg {#read-blog-posts}
+
+Det här avsnittet innehåller information som är mycket användbar både för Marketo Engage Users (inklusive flera Champions) och Marketo. Lämna kommentarerna längst ned när du behöver mer information.
+
+SCREENSHOT
+
+## Skicka en idé {#submit-an-idea}
+
+Om du någonsin kommer på en idé som du tror skulle förbättra Marketo Engage, skicka in den i det här avsnittet. Du kan också rösta på befintliga idéer.
+
+SCREENSHOT
+
+## Marketo användargrupper {#marketo-user-groups}
+
+Marketo användargrupper (MUG) är möten som förekommer i olika delar av världen. De ger dig möjlighet att nätverka, diskutera de senaste trenderna, lära dig mer om nya funktioner och mycket annat. Kontrollera om det finns någon i ditt område. Om det inte finns någon går du med i en virtuell användargrupp!
+
+SCREENSHOT
 
 ## Prenumerera på veckosammandraget {#subscribe-to-the-weekly-digest}
 
 Text
+
+SCREENSHOT
 
 ## Sammanfoga prenumerationer på Marketo Engage {#merging-marketo-engage-subscriptions}
 
@@ -57,22 +85,6 @@ Ange följande uppgifter i din begäran:
 
 Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När allt är klart ser du din engagemangshistorik i den huvudsakliga communityprofilen vid inloggning. Om du inte gör det loggar du ut från ditt konto och loggar in igen för att bekräfta.
 
+<p>
 
-
-Jonathan post:
-
-Välkommen till Marketing Nation Community!
-
-Om du är ny här, glöm inte att läsa våra riktlinjer för att vara säker på att du får ut så mycket som möjligt av vår community.
-
-Har du inte använt Marketo förut? Ställ en fråga på vår produktdiskussionssida eller gå till vår supportsida för att tala med vårt supportteam. Du kan också gå till vår Marketo Engage-dokumentation eller Marketo Measure-dokumentationssidor för att komma igång, och glöm inte att använda vårt sökfält för att se om andra har haft en liknande fråga tidigare!
-
-Våra Marketo användargrupper (MUG) är lokala möten som organiseras av passionerade MUG-ledare för att ge alla möjlighet att nätverka, diskutera de senaste trenderna, lära sig om nya funktioner, publicera lokala möjligheter och mycket annat. Ta en titt på de över 70 kapitlen för Marketo-användargrupper som finns tillgängliga och se om det finns ett MUG-möte i ditt område!
-
-Har du en idé som kan förbättra vår produkt? Skicka in din idé på vår Ideas-sida. Du kan också bläddra och rösta på idéer som lämnats in av andra.
-
-Slutligen erbjuder Marketo en mängd olika utbildningar och certifieringar för att öka din expertis med vår produkt. Mer information finns på sidan Marketo Engage Experience League.
-
-
-
--Ställa in en profil/registrera ett användarnamn -lägga till ett foto -skicka en fråga (diskussionstrådar) -läsande förkämpbloggar -skicka en idé -med sökningen (filtreringen) -prenumerera på veckosammandraget (måste loggas in)
+Välkommen till Marketo Engage och njut av Marketing Nation!
