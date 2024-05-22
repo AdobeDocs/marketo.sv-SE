@@ -4,9 +4,9 @@ description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdok
 title: Visa kontrollpanelen för e-postprogram
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Visa kontrollpanelen för e-postprogram {#view-the-email-program-dashboard}
 
 Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den här instrumentpanelen.
+
+>[!CAUTION]
+>
+>För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
 
 ## Välj e-postprogram {#select-your-email-program}
 
@@ -29,7 +33,7 @@ Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den h�
    >
    >Om ditt A/B-test eller e-postprogram inte har startats ännu visas ingen instrumentpanel.
 
-## E-postprogram A/B-testvy {#email-program-a-b-test-view}
+## A/B-testvy för e-postprogram {#email-program-a-b-test-view}
 
 Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för närvarande ser du följande:
 

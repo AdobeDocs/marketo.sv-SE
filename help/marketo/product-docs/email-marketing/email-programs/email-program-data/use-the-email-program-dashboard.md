@@ -4,9 +4,9 @@ description: Använd kontrollpanelen för e-postprogram - Marketo Docs - produkt
 title: Använda kontrollpanelen för e-postprogram
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Se hur e-postprogrammen fungerar i den här instrumentpanelsvyn.
 
+>[!CAUTION]
+>
+>För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
+
 >[!NOTE]
 >
->Om ditt program har ett A/B-test kan du titta på [Kontrollpanel för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Om ditt program har ett A/B-test kan du titta på [Kontrollpanel för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ I det här diagrammet visas antalet e-postmeddelanden som öppnas/klickas under 
 
 ## Sammanfattning - engagemang {#summary-engagement}
 
-Detta visar det övergripande [engagemangspoäng](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Detta visar det övergripande [engagemangspoäng](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -71,10 +75,10 @@ Resten av informationen visar Öppna, Klickningar, Klick/Öppna förhållande oc
 
 ## Uppdatera instrumentpanel {#refresh-dashboard}
 
-Klicka bara på uppdateringsikonen på kontrollpanelen för att se de senaste data.
+Klicka bara på uppdateringsikonen på instrumentpanelen för att se de senaste data.
 
 ![](assets/refreshicon.png)
 
 >[!MORELIKETHIS]
 >
->[Använd kontrollpanelen för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Använd kontrollpanelen för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

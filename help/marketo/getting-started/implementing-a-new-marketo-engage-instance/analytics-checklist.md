@@ -4,7 +4,7 @@ title: New Instance Best Practices - Analytics Checklist
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Identifiera rapporter som ska delas med olika användargrupper inom organisation
     <td>OBS! Den här rapporten kräver att du har definierat dina kanaler, förloppsstatus och steg för slutförande i <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Admin &gt; Taggar</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mät effekten av er marknadsföringstaktik</a> inom selektiva program.</li>
     <li>Hantera programmedlemskap (med hjälp av smarta kampanjer för att uppdatera förvärvsprogram, status, status) enligt bästa praxis inom marknadsföringsaktiviteter.</li>
     <li>Åtgärd som bygger på kostnader för innevarande år och rullande 12 månader.
-    <ul><li>Kom ihåg att behålla <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodkostnader</a> är avgörande för att kunna utnyttja programprestandarapporten.</li>
+    <ul><li>Kom ihåg att behålla <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodkostnader</a> är avgörande för att kunna utnyttja programprestandarapporten.</li></ul>
     <br>TIPS: Så här sammanställer du och visar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importerade listor</a> i Prestandarapporter för programmet ser du till att era team väljer rätt inköpsprogram för taggning. Överväg <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">skapa ett standardprogram</a> som ska väljas som förvärvsprogram när de importerade listorna inte gäller någon kanal. Detta garanterar att alla importerade personer har ett giltigt förvärvsprogram som är relaterat till deras källa, affärsenhet, kanal osv. i stället för ett tomt värde.</td>
   </tr>
   <tr>

@@ -4,9 +4,9 @@ description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ Läs mer om följande A/B-tester:
 
 ## Kontrollpaneler {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Vissa föredrar att använda e-postprogram framför att skicka e-postmeddelanden via en smart kampanj på grund av programmets detaljerade rapportkontrollpanel.
+>För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
 
 Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A/B-testresultatet i korthet.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Vissa föredrar att använda e-postprogram framför att skicka e-postmeddelanden via en Smart Campaign på grund av programmets detaljerade rapportpanel.
 
 ## Kapsling {#nesting}
 
