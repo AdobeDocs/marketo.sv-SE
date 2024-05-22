@@ -4,16 +4,16 @@ description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Om e-postprogram {#understanding-email-programs}
 
-Säg hej till din nya Marketo-vän, e-postprogrammet. Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett och samma ställe.
+Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett och samma ställe.
 
 ## Kontrollpanelen {#control-panel}
 

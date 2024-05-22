@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '280'
+ht-degree: 2%
 
 ---
 
@@ -30,6 +30,17 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
+  </tr>
+     <tr> 
+   <td><strong>Mallar för interaktiva webbinarier</strong>: Nu kan marknadsförarna skapa egna mallar för rumslayouter i interaktiva webbinarier.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Inspelade fält i Forms</strong>: Datakällan som används för att fylla i härledda fält när en person skapas via formulärifyllning utan tidigare webbaktivitet har uppdaterats för att använda samma datakälla som andra metoder för personinsamling. Inkommande fältdata är nu konsekventa över alla samlingspunkter.</td> 
