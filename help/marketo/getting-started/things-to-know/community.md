@@ -4,7 +4,7 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -23,7 +23,7 @@ SCREENSHOT
 
 ## Konfigurera din profil {#set-up-your-profile}
 
-När du är inloggad på Marketing Nation klickar du på din standardavatarikon och väljer My settings (Mina inställningar) för att uppdatera dina inställningar, ändra ditt avatarfoto, kontrollera taggning med mera.
+När du är inloggad på Marketing Nation klickar du på din standardavatarikon och väljer **[!UICONTROL My settings]** om du vill uppdatera dina inställningar, ändra avatarfotot, kontrollera taggning och mycket mer.
 
 SCREENSHOT
 
@@ -45,7 +45,7 @@ SCREENSHOT
 
 ## Läs blogginlägg {#read-blog-posts}
 
-Det här avsnittet innehåller information som är mycket användbar både för Marketo Engage Users (inklusive flera Champions) och Marketo. Lämna kommentarerna längst ned när du behöver mer information.
+Det här avsnittet innehåller information som är mycket användbar både för användare av Marketo Engage (inklusive för flera olika Champions) och för anställda hos Marketo. Lämna kommentarerna längst ned när du behöver mer information.
 
 SCREENSHOT
 
@@ -57,7 +57,7 @@ SCREENSHOT
 
 ## Marketo användargrupper {#marketo-user-groups}
 
-Marketo användargrupper (MUG) är möten som förekommer i olika delar av världen. De ger dig möjlighet att nätverka, diskutera de senaste trenderna, lära dig mer om nya funktioner och mycket annat. Kontrollera om det finns någon i ditt område. Om det inte finns någon går du med i en virtuell användargrupp!
+Marketo användargrupper (MUG) är möten som förekommer i olika delar av världen. De ger dig möjlighet att nätverka, diskutera de senaste trenderna, lära dig mer om nya funktioner och mycket annat. Kontrollera om det finns någon i ditt område. Om det inte finns någon kan du gå med i en virtuell användargrupp!
 
 SCREENSHOT
 
@@ -85,6 +85,6 @@ Ange följande uppgifter i din begäran:
 
 Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När allt är klart ser du din engagemangshistorik i den huvudsakliga communityprofilen vid inloggning. Om du inte gör det loggar du ut från ditt konto och loggar in igen för att bekräfta.
 
-<p>
+<br>
 
 Välkommen till Marketo Engage och njut av Marketing Nation!
