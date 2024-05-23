@@ -4,9 +4,9 @@ description: Använd kontrollpanelen för e-postprogram - Marketo Docs - produkt
 title: Använda kontrollpanelen för e-postprogram
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Se hur e-postprogrammen fungerar i den här instrumentpanelsvyn.
 
 >[!CAUTION]
 >
->För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
+>För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 >[!NOTE]
 >

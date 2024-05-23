@@ -4,9 +4,9 @@ description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Läs mer om följande A/B-tester:
 
 >[!CAUTION]
 >
->För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
+>För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A/B-testresultatet i korthet.
 

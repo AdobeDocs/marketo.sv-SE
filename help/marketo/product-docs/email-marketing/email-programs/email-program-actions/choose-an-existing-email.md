@@ -4,9 +4,9 @@ description: Välj en befintlig e-postadress - Marketo Docs - produktdokumentati
 title: Välj en befintlig e-postadress
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->För att rapporteringen ska bli korrekt bör du undvika att återanvända ett e-postmeddelande som tidigare använts i ett e-postprogram via en Smart Campaign, eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det läggs rapportnumren till på den ursprungliga kontrollpanelen för e-postprogrammet. Om du behöver återanvända samma e-postadress [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället.
+>För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 En gång har du [skapade ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat er målgrupp, vill ni bestämma vilka e-postmeddelanden ni ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) från början eller välj en som redan finns. Så här väljer du en som redan finns.
 
