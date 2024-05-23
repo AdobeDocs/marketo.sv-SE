@@ -4,16 +4,16 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage Community {#marketo-engage-community}
+# Adobe Marketo Engage Community {#marketo-engage-community}
 
-The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} är stället där du kan lära dig mer om din Marketo Engage-instans från andra användare och Marketo anställda. Innan du börjar, ta dig en stund till att lära dig mer om [Gemenskapens riktlinjer](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+The [Adobe Marketo Engage Community](https://nation.marketo.com/) (även känt som Marketing Nation) är stället där du kan lära dig mer om din Marketo Engage-instans från andra användare och Marketo anställda. Innan du börjar, ta dig en stund till att lära dig mer om [Gemenskapens riktlinjer](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registrera ditt användarnamn {#register-your-username}
 
