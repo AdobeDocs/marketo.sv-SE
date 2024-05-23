@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
 workflow-type: tm+mt
-source-wordcount: '9350'
+source-wordcount: '9358'
 ht-degree: 0%
 
 ---
@@ -1730,6 +1730,7 @@ ht-degree: 0%
             + [Visa personer eller anonyma besökare i webbrapporter](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Öka detaljnivån i en rapport om personprestanda](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Exportera en rapport till Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+            + [Filtrera en kampanjaktivitetsrapport](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrera resurser i en e-postrapport för kampanj](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrera resurser i en e-postrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Gruppera personrapporter efter attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1743,6 +1744,7 @@ ht-degree: 0%
             + [Prenumerera på en grundläggande rapport](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Prenumerera på en smart lista](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Rapporttyper {#report-types}
+            + [Kampanjaktivitetsrapport](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Resultatrapport för e-postkampanj](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Webbaktivitetsrapport för företag](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport om personer efter status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
