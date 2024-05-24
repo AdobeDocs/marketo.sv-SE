@@ -3,7 +3,7 @@ description: Konfigurera databasavsnittet för den nya instansen Marketo Engage.
 title: Nya bästa metoder för instanser - Databaskontrolllista
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -84,8 +84,8 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Område</th>
-    <th style="width:80%">Åtgärdsobjekt</th>
+    <th style="width:21%">Område</th>
+    <th style="width:79%">Åtgärdsobjekt</th>
   </tr>
 </thead>
 <tbody>

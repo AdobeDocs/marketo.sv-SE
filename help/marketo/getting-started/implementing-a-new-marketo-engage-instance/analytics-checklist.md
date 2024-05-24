@@ -4,7 +4,7 @@ title: New Instance Best Practices - Analytics Checklist
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
   <tr>
     <td>Organisation: Namngivning, mappar och arkivering</td>
     <td><li>Använd en namngivningskonvention för rapporter för att skilja på rapporter på fliken Globala rapporter.</li>
-    <ul>
-    <li>Ett exempel på god praxis för namngivning är [rapporttyp] [Global vs. BU-specifik tagg] [Rapportbeskrivning], till exempel [E-postprestanda]-[Global]-[180 dagars e-poståtagande].</li>
-    </ul> 
+    <ul><li>Ett exempel på god praxis för namngivning är [rapporttyp] [Global vs. BU-specifik tagg] [Rapportbeskrivning], till exempel [E-postprestanda]-[Global]-[180 dagars e-poståtagande].</li></ul><br>
     <li>Identifiera rapporter som ska delas med olika användargrupper inom organisationen (t.ex. säljteam, ledarskap inom marknadsföring) och ordna rapporterna efter mapp i mappen Grupprapporter i Analytics for Global Reports.</li> 
     <li>Arkiveringen bör begränsas till mappen Globala rapporter, eftersom dessa alltid är aktiverade rapporter.   <ul>
     <li>Begränsa arkivering till organisatoriska förändringar som att minska eller lägga till relevanta affärsenheter om du rapporterar baserat på en affärsenhetsstruktur.</li>
@@ -104,7 +102,7 @@ Identifiera rapporter som ska delas med olika användargrupper inom organisation
     <td>Prestandarapport för människor</td>
     <td><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Vi rekommenderar att du har en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">strategi för kanaler och taggar</a> för varje implementering av Marketo Engage innan ni kan spåra de personer ni köpt och avkastningen på era marknadsföringsinvesteringar per kanal.
     <p>
-    <li>Ta reda på vilka kriterier du ska använda för att mäta resultatet i era kundvärvningsprogram och skapa tidsbaserade (innevarande år, senaste rullande 12-månadersvy eller 180-dagarsrapporter) standardrapporter baserade på följande mätvärden:</li> <ul><li>Förvärvningsprogram: programmet Marketo Engage som krediteras för att förvärva personen.
+    <li>Ta reda på vilka kriterier du ska använda för att mäta resultatet i era kundvärvningsprogram och skapa tidsbaserade (innevarande år, senaste rullande 12-månadersvy eller 180-dagarsrapporter) standardrapporter baserade på följande mätvärden:</li> <ul><li>Förvärvningsprogram: programmet Marketo Engage som krediteras för att förvärva personen.</li>
     <li>Personkälla: Källkategorin för hur posten skulle kännas känd för din databas (baserat på källlistan med värden i CRM)
     </li></ul>
     <li>Mät personer som skapats per vecka eller månad. Den här rapporten ger dig ett mått på databasens tillväxthastighet och om du närmar dig storleksgränsen för databasen.</li>
