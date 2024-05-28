@@ -4,9 +4,9 @@ description: MSI Feature Overview - Marketo Docs - produktdokumentation
 title: Översikt över MSI-funktioner
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Översikt över MSI-funktioner {#msi-feature-overview}
 
 MSI har följande funktioner i Salesforce Lightning och Classic.
+
+>[!NOTE]
+>
+>Kontrollera att webbläsarens zoom är inställd på högst 125 % när du använder Windows och 150 % på Mac för att se alla tillgängliga data.
 
 ## Visualforce-panel {#visualforce-panel}
 
@@ -41,8 +45,8 @@ Visualforce-sidor:
 
 * Lead - Inkluderar alternativet att klicka på&quot;Gå till fullständig lista&quot;, du kommer att få en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
 * Fullständig lista för lead - Innehåller inte alternativet Gå till fullständig lista
-* Lead Mobile - synlig i Salesforce-mobilprogram
-* Lead Contact Bridge - Visar MSI-panelen för den kontakt du har lagt till i fältet för MSI-kontakt-ID
+* Lead Mobile - synlig i Salesforce-mobilapplikation
+* Lead Contact Bridge - Visar MSI-panelen för kontakten som du har lagt till i fältet för MSI-kontakt-ID
 
 Fält:
 
@@ -57,14 +61,14 @@ Fält:
 * Relativt poängvärde
 * Akut
 * Värde för nödsituationer
-* Visa i Marketo - Klicka på det här fältet för att öppna en icke-redigerbar vy av leadet i Marketo. Innehåller: Leadinformation, företagsinformation, SFDC-huvudinformation, SFDC-anpassade fält, aktivitetslogg
+* Visa i Marketo - Klicka på det här fältet för att öppna en icke-redigerbar vy av leadet i Marketo. Innehåller: Leadinformation, Företagsinformation, SFDC-huvudinformation, SFDC-anpassade fält, aktivitetslogg
 * MSI-kontakt-ID - Lägg till en Salesforce-kontakt i det här fältet och ta med panelen &quot;Lead Contact Bridge&quot; i leadlayouten för att se kontaktens MSI-panel
 
 ## Kontaktlayout {#contact-layout}
 
 Visualforce-sidor:
 
-* Kontakt - Inkluderar alternativ för att klicka på&quot;Gå till fullständig lista&quot;, du kommer att skickas till en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
+* Kontakt - innehåller alternativ för att klicka på&quot;Gå till fullständig lista&quot;, du kommer att få en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
 * Fullständig kontaktlista - innehåller inte alternativet Gå till fullständig lista
 * Kontakt Mobile - synlig i Salesforce-mobilprogram
 * Lägg till på kontaktsidan för Marketo Campaign - Funktionen Lägg till i Marketo Campaign är tillgänglig på den här panelen
@@ -81,7 +85,7 @@ Fält:
 * Relativt poängvärde
 * Akut
 * Värde för nödsituationer
-* Visa i Marketo - Klicka på det här fältet för att öppna en icke-redigerbar vy av leadet i Marketo. Innehåller: Leadinformation, företagsinformation, SFDC-huvudinformation, SFDC-anpassade fält, aktivitetslogg
+* Visa i Marketo - Klicka på det här fältet för att öppna en icke-redigerbar vy av leadet i Marketo. Innehåller: Leadinformation, Företagsinformation, SFDC-huvudinformation, SFDC-anpassade fält, aktivitetslogg
 * MKto Lead Score
 * Sales Insight - Öppnar hela kontaktlistsidan
 
@@ -132,9 +136,9 @@ Följande funktioner är **inte tillgängligt** på sidan för säljprojektslayo
 
 ## Lead- och kontaktlistevy (massåtgärder) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-post som gruppåtgärdsknappar i listvyn Lead och Kontakt.
+Salesforce Lightning: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-post som gruppåtgärdsknappar i vyn Lead- och kontaktlista.
 
-Salesforce Classic: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-post som gruppåtgärdsknappar i listvyn Lead och Kontakt.
+Salesforce Classic: Lägg till i bevakningslistan, Lägg till i Marketo Campaign och Skicka Marketo e-postgruppknappar i vyn Lead- och kontaktlista.
 
 ## Marketo Tab {#marketo-tab}
 
@@ -172,10 +176,10 @@ Salesforce Classic: Lägg till i bevakningslistan, Lägg till i Marketo Campaign
    * Prenumerationsalternativ för att få e-postmeddelanden för den här typen av händelse
    * Ikonen med hög prioritet för att visa den här personen är ett Bästa val
 
-## Marketo Sales Insight Configuration tab {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 * Driftsinställningar: Inkluderar de Soap &amp; Rest API-autentiseringsuppgifter som krävs för att konfigurera MSI i SFDC
-* MSI-konfiguration: Innehåller konfiguration av fliken Marketo och MSI visualforce-panelen
+* MSI-konfiguration: Innehåller konfiguration av Marketo-fliken och MSI visualforce-panelen
 * Återställ Marketo Sales Insight: Innehåller möjlighet att rensa bort alla konfigurationer
 
 >[!MORELIKETHIS]
