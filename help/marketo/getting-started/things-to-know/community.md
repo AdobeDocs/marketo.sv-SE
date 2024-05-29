@@ -4,9 +4,9 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ The [Adobe Marketo Engage Community](https://nation.marketo.com/) (även känt s
 
 ## Registrera ditt användarnamn {#register-your-username}
 
--registrera ett användarnamn
+1. Logga in på din Marketo Engage-instans.
+
+1. I My Marketo klickar du på the Community tile.
+
+1. Om detta är första gången du loggar in instrueras du att registrera ett användarnamn i användarforumet.
+
+   >[!NOTE]
+   >
+   >Du kan ändra ditt användarnamn när som helst, men du måste registrera dig nu.
+
+1. När du har registrerat ditt användarnamn kommer du till communityhemsidan och kan interagera och publicera i communityn.
 
 SCREENSHOT
 
@@ -87,4 +97,4 @@ Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När
 
 <br>
 
-Välkommen till Marketo Engage och njut av Marketing Nation!
+Välkommen till Marketo Engage och ha kul när du utforskar Marketing Nation!

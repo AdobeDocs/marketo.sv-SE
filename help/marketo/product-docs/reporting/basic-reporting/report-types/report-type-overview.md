@@ -4,9 +4,9 @@ description: Översikt över rapporttyp - Marketo Docs - produktdokumentation
 title: Översikt över rapporttyp
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,7 @@ När du [skapa en rapport i ett program](/help/marketo/product-docs/reporting/ba
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Webbsidesaktivitet</a></strong></td> 
    <td>Rapportera om webbaktivitet till era landningssidor och på den offentliga webbplatsen.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Social påverkan</strong></td> 
-   <td>Granska den sociala aktivitet du skapar och se hur ofta dina medarbetare berättar för sina vänner om dig.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Resultatrapport för engagemangsström</a> </strong></td> 
    <td>Se hur väl <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagemangsprogram</a> arbetar.</td> 
