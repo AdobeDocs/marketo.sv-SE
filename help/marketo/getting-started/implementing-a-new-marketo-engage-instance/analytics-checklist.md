@@ -4,9 +4,9 @@ title: New Instance Best Practices - Analytics Checklist
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ Identifiera rapporter som ska delas med olika användargrupper inom organisation
     <li>Hantera programmedlemskap (med hjälp av smarta kampanjer för att uppdatera förvärvsprogram, status, status) enligt bästa praxis inom marknadsföringsaktiviteter.</li>
     <li>Åtgärd som bygger på kostnader för innevarande år och rullande 12 månader.
     <ul><li>Kom ihåg att behålla <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Periodkostnader</a> är avgörande för att kunna utnyttja programprestandarapporten.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="anteckningsikon"> TIPS: Så här sammanställer du och visar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importerade listor</a> i Prestandarapporter för programmet ser du till att era team väljer rätt inköpsprogram för taggning. Överväg <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">skapa ett standardprogram</a> som ska väljas som förvärvsprogram när de importerade listorna inte gäller någon kanal. Detta garanterar att alla importerade personer har ett giltigt förvärvsprogram som är relaterat till källa, affärsenhet, kanal osv. i stället för ett tomt värde.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="anteckningsikon"> TIPS: Så här sammanställer du och visar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importerade listor</a> i Prestandarapporter för programmet ser du till att era team väljer rätt inköpsprogram för taggning. Överväg <a href="https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">skapa ett standardprogram</a> som ska väljas som förvärvsprogram när de importerade listorna inte gäller någon kanal. Detta garanterar att alla importerade personer har ett giltigt förvärvsprogram som är relaterat till källa, affärsenhet, kanal osv. i stället för ett tomt värde.</td>
   </tr>
   <tr>
     <td>Prestandarapport för landningssida</td>
@@ -152,7 +153,7 @@ Vissa Marketo Engage-rapporter är bäst lämpade att distribueras som lokala re
   <tr>
     <td>Kampanjaktivitetsrapport</td>
     <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Kampanjaktivitetsrapport</a> och välja en period i er arbetsmapp i marknadsföringsaktiviteter.</li>
-    <li>Ställ in rapporter för att övervaka utlösarna för varje användningsfall och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">använda kampanjfilter</a> (t.ex. utlösare för beteendebedömning, utlösare för livscykelkvalificering, utlösare för intressanta ögonblick).</li></td>
+    <li>Ställ in rapporter för att övervaka utlösarna för varje användningsfall och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">använda kampanjfilter</a> (t.ex. utlösare för beteendebedömning, utlösare för livscykelkvalificering, utlösare för intressanta ögonblick).</li></td>
   </tr>
   <tr>
     <td>Resultatrapport för engagemangsström (om tillämpligt)</td>
@@ -160,4 +161,41 @@ Vissa Marketo Engage-rapporter är bäst lämpade att distribueras som lokala re
     <li>Använd <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">"Segmenteringsfilter" på rapportens inställningsflik</a> och gruppera rapportdata efter <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segment</a> (t.ex. personkälla, bransch) som används i ditt Engagement Program. Detta hjälper er att få djupare insikter i varje segments engagemangsmönster och vägleder er att göra strategiska ändringar för att förbättra ert engagemangsprogram (innehåll, ström, strömavslut osv.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABELL MED ARBETSPUNKTER
+
+<table>
+<tbody>
+<tr>
+    <td>Grupprapporter</td>
+    <td><img src="assets/note-icon.png" alt="anteckningsikon"> OBS! TEXT.
+    <p>
+    <li>TEXT.</li>
+    <li>TEXT.
+    <ul><li>TEXT</li>
+    <li>TEXT</li></ul>
+    <li>TEXT.</li>
+    <li>TEXT.</li>
+    <p><img src="assets/tip-icon.png" alt="anteckningsikon"> TIPS: TEXT.</td>
+  </tr>
+  </tbody>
+</table>
+
+TESTKORRIGERING 1
+
+<table>
+<tbody>
+<tr>
+    <td>Prestandarapport för människor</td>
+    <td><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Vi rekommenderar att du har en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">strategi för kanaler och taggar</a> för varje implementering av Marketo Engage innan ni kan spåra de personer ni köpt och avkastningen på era marknadsföringsinvesteringar per kanal.
+    <p>
+    <li>Ta reda på vilka kriterier du ska använda för att mäta resultatet i era kundvärvningsprogram och skapa tidsbaserade (innevarande år, senaste rullande 12-månadersvy eller 180-dagarsrapporter) standardrapporter baserade på följande mätvärden:</li>
+    <ul><li>Förvärvningsprogram: programmet Marketo Engage som krediteras för att förvärva personen</li>
+    <li>Personkälla: Källkategorin för hur posten skulle kännas känd för din databas (baserat på källlistan med värden i CRM)</li></ul>
+    <li>Mät personer som skapats per vecka eller månad. Den här rapporten ger dig ett mått på databasens tillväxthastighet och om du närmar dig storleksgränsen för databasen.</li>
+    <li>Filtrera mätvärden i personprestandarapporter efter <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">använda smarta listor som anpassade kolumner.</a></li>
+    <p><img src="assets/tip-icon.png" alt="anteckningsikon"> TIPS: Skapa smarta listor för de anpassade kolumner som du vill lägga till i personprestandarapporten i databasen i stället för marknadsföringsaktiviteter så att du kan se namnet på den smarta listan korrekt och tydligt när den väljs i rapporten.</td>
+  </tr>
+  </tbody>
 </table>
