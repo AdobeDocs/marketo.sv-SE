@@ -3,9 +3,9 @@ description: Lär dig de bästa metoderna när du implementerar en ny Marketo En
 title: Var ska jag börja?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Hämta instansen Marketo Engage [Nya checklistor för implementeringsadministrat
 
 * [Databas](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Marknadsföringsaktiviteter](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analyser](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Dokumentera din nya instansinställning](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Kommunicera med andra {#connect-with-your-peers}
 
-Besök [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} om du vill veta mer om instansen i Marketo Engage från både anställda och andra användare i Marketo Engage.
+Besök [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (kallas även Marketing Nation) om du vill veta mer om din instans i Marketo Engage från både anställda och andra användare.
 
-Kom igång i Marketing Nation Community:
+Kom igång i communityn:
 
 1. Klicka **Fortsätt med Adobe ID** och väljer din primära prenumeration på inloggningssidan.
 1. Fyll i din community-profil när du loggar in.

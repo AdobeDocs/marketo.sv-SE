@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
       + [Var ska jag börja?](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [God praxis för nya instanser: Checklista för administratörsavsnitt](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [God praxis för nya instanser: Databaskontrolllista](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nya instansmetodtips: Checklista för marknadsföringsaktiviteter](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [New Instance Best Practices: Design Studio Checklist](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Nya instansmetodtips: Checklista för marknadsföringsaktiviteter](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Ny instansmetodpraxis: Analyschecklista](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Nya instansmetodtips: Dokumentera dina inställningar](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Saker att veta {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 0%
       + [Var ska jag börja?](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Ärvd instans: Admin Section Checklist](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Ärvd instans: Databaskontrolllista](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [Ärvd instans: Checklista för marknadsföringsaktiviteter](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Ärvd instans: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Ärvd instans: Checklista för marknadsföringsaktiviteter](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Ärvd instans: Dokumentera konfigurationen](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Granska nyckelkompetenser](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Produktdokument {#product-docs}

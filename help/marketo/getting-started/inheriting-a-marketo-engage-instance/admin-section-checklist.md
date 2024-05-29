@@ -3,9 +3,9 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
 
 >[!NOTE]
 >
->Detta gäller endast Marketo Engage abonnemang hos [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} i Marketo Engage > Admin > Användare &amp; roller.
+>Detta gäller endast Marketo Engage abonnemang hos [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om din prenumeration ännu inte har anslutit till Adobe IMS fortsätter du med [äldre användarroller och behörigheter](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} i Marketo Engage > Admin > Användare &amp; roller.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ När du är klar med granskningen av inställningarna för Användare och roller
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Granska en ärvd instans: Database ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
