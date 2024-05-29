@@ -3,7 +3,7 @@ description: Lär dig de bästa metoderna när du implementerar en ny Marketo En
 title: Var ska jag börja?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,3 +51,4 @@ Kom igång i communityn:
 1. Klicka **Fortsätt med Adobe ID** och väljer din primära prenumeration på inloggningssidan.
 1. Fyll i din community-profil när du loggar in.
 1. När du har skickat in informationen kommer du att hamna på communityhemsidan och vara snäll och gå!
+
