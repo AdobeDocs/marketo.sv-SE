@@ -2,10 +2,10 @@
 description: Agenthantering - Marketo Docs - produktdokumentation
 title: Agenthantering
 feature: Dynamic Chat
-exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ I Agenthantering kan du visa en lista med agenter i din Dynamic Chat-instans, ha
 På den här fliken visas alla agenter i din Dynamic Chat-instans och den innehåller information om deras namn, e-postadress, chattstatus och annat.
 
 ![](assets/agent-management-2.png)
+
+>[!NOTE]
+>
+>Visa inte en agent som du _just_ tillagd? Det kan ta upp till två timmar för dem att visas här när de har lagts till i Admin Console i Adobe.
 
 ## Team {#teams}
 
