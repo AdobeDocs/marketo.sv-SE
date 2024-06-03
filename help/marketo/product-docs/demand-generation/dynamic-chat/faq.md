@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,11 @@ ht-degree: 0%
 
 Nedan finns svar på några vanliga frågor om Dynamic Chat.
 
-**Kan jag installera Dynamic Chat var som helst på min företagswebbplats eller fungerar det bara på Marketo landningssidor?**
+**Jag verkar inte ha tillgång till Dynamic Chat. Hur kan jag få det?**
+
+Kontakta din Marketo Engage-administratör och kontrollera att de har [har lagt till dig som användare](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} i Adobe Admin Console.
+
+**Kan jag installera Dynamic Chat var som helst på företagets webbplats eller fungerar det bara på Marketo landningssidor?**
 
 JavaScript-kodfragmentet Dynamic Chat kan installeras på alla webbplatser och på Marketo landningssidor.
 
