@@ -6,7 +6,7 @@ exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
 source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -19,50 +19,50 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 1. Välj program. Klicka **Inställningar**.
 
-   ![](assets/use-tags-in-a-program-1.png)
+   ![](assets/image2014-9-23-15-3a45-3a0.png)
 
 1. Dra en tagg till arbetsytan.
 
-   ![](assets/use-tags-in-a-program-2.png)
+   ![](assets/image2014-9-23-15-3a45-3a13.png)
 
 1. Välj ett värde i listrutan.
 
-   ![](assets/use-tags-in-a-program-3.png)
+   ![](assets/image2014-9-23-15-3a45-3a30.png)
 
 1. Klicka **Spara**.
 
-   ![](assets/use-tags-in-a-program-4.png)
+   ![](assets/image2014-9-23-15-3a45-3a36.png)
 
 1. Just nu. Den nya taggen visas på arbetsytan.
 
-   ![](assets/use-tags-in-a-program-5.png)
+   ![](assets/image2014-9-23-15-3a45-3a47.png)
 
 ## Redigera en tagg {#edit-a-tag}
 
 1. Gå till **Inställningar** -fliken. Högerklicka på taggen. Välj **Redigera**.
 
-   ![](assets/use-tags-in-a-program-6.png)
+   ![](assets/image2014-9-23-15-3a45-3a53.png)
 
 1. Klicka på listrutan. Välj ett nytt värde.
 
-   ![](assets/use-tags-in-a-program-7.png)
+   ![](assets/image2014-9-23-15-3a46-3a12.png)
 
 1. Klicka **Spara**.
 
-   ![](assets/use-tags-in-a-program-8.png)
+   ![](assets/image2014-9-23-15-3a46-3a25.png)
 
 1. Bra! Redigeringarna visas på arbetsytan.
 
-   ![](assets/use-tags-in-a-program-9.png)
+   ![](assets/image2014-9-23-15-3a46-3a35.png)
 
 ## Ta bort en tagg  {#delete-a-tag}
 
 1. Gå till **Inställningar** -fliken. Högerklicka på taggen och välj **Ta bort**.
 
-   ![](assets/use-tags-in-a-program-10.png)
+   ![](assets/image2014-9-23-15-3a46-3a55.png)
 
 1. Klicka **Ta bort** för att bekräfta.
 
-   ![](assets/use-tags-in-a-program-11.png)
+   ![](assets/image2014-9-23-15-3a47-3a8.png)
 
-Snyggt jobbat! Program med konsekventa taggar gör det enklare att köra rapporter.
+Hög fem! Den är borta. Program med konsekventa taggar gör det enklare att köra rapporter.
