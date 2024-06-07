@@ -4,16 +4,16 @@ title: Mallar för interaktiva webbinarier
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '61'
+ht-degree: 3%
 
 ---
 
 # Mallar för interaktiva webbinarier {#templates-for-interactive-webinars}
 
-Text
+Skapa lättanvända mallar i interaktiva webbinarier för att producera innehåll snabbare och/eller följa varumärkesriktlinjerna när du arbetar i ett team.
 
 ## Skapa en mall {#create-a-template}
 
@@ -25,7 +25,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-1. Klicka på [!UICONTROL Manage Templates].
+1. Klicka på **[!UICONTROL Manage Templates]**.
 
 SCREENSHOT
 
