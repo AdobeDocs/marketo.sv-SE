@@ -4,7 +4,7 @@ description: Förstå mina token i ett program - Marketo Docs - produktdokumenta
 title: Förstå mina token i ett program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -41,31 +41,31 @@ Exempel:
    <td>Använd denna token för att <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">lägg till en kalenderhändelsefil (.i)</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> till era e-postmeddelanden och landningssidor.</td> 
   </tr> 
   <tr> 
-   <td><p>Datum <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
+   <td><p>Datum <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
    <td>Denna token innehåller ett datumvärde. Datumet visas som årsdag (t.ex. 2016-05-23).</td> 
   </tr> 
   <tr> 
-   <td>E-postmeddelande <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://developers.marketo.com/documentation/email-scripting/" title="Följ länk" rel="nofollow">här</a>. </td> 
+   <td>E-postmeddelande <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Följ länk" rel="nofollow">här</a>. </td> 
   </tr> 
   <tr> 
-   <td>Antal<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>Nummer<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>Ett heltal. Den kan till och med vara negativ.</td> 
   </tr> 
   <tr> 
-   <td>RTF <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>RTF <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Det här är HTML. Använd det i e-postmeddelanden och på landningssidor.</td> 
   </tr> 
   <tr> 
-   <td>Poäng <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Poäng <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Använd denna token i <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">steg för att ändra spaltflöde</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">SFDC-kampanj <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
+   <td colspan="1">SFDC-kampanj <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
    <td colspan="1">Använd denna token för att tillåta att leads som blir en del av ett Marketo-program även läggs till i det SFDC-kampanjer som läggs till.</td> 
   </tr> 
   <tr> 
-   <td>Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Text <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Bara lite text. Använd det när HTML är överdrivet. Storleksgränsen för texttoken är 524 288 tecken (UTF-8), eller 2 MB.</td> 
   </tr> 
  </tbody> 

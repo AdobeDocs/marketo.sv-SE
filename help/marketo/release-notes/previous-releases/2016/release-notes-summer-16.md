@@ -4,7 +4,7 @@ description: Versionsinformation -Sommaren 16 - Marketo Docs - Produktdokumentat
 title: Versionsinformation - Sommaren 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -100,16 +100,16 @@ Ange en tidsfördröjning för webbkampanjer att reagera på webbplatsen.
 
 Visa innehållsanalyser och rekommendationer offline.
 
-## [API-stöd för e-postredigeraren 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [API-stöd för e-postredigeraren 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Redan befintliga resurs-API:er, som tidigare bara var kompatibla med e-post och mallar i version 1.0, är nu aktiverade för e-postresurser i version 2.0.
 
-## [Marketo Developer Site](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo Developer Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nytt och förbättrat!
 
 ## [Sekretessinställningar](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marknadsförarna kan använda integritetsinställningar för att bestämma om de ska spåra besökare med hjälp av Munchkin- och webbpersonaliseringsfunktionerna. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. Dessa metoder kan påverka Marketo värde och funktionalitet inom specifika områden, men om marknadsföraren inte ändrar någonting ändras inte funktionen i Marketo.
+Marknadsförarna kan använda integritetsinställningar för att bestämma om de ska spåra besökare med hjälp av Munchkin- och webbpersonaliseringsfunktionerna. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. De här metoderna kan påverka Marketo värde och funktionalitet inom vissa områden, men om marknadsföraren inte ändrar någonting ändras inte funktionen i Marketo.
 
 Den här funktionen kommer gradvis att lanseras för kunderna under en period av sex veckor. Kontakta Marketo Support om du behöver det direkt.

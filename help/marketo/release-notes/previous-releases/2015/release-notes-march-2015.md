@@ -4,9 +4,9 @@ description: Versionsinformation -mars 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -mars 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följande funktioner ingår i mars 2015-utgåvan. Kontrollera om det finns funkt
 
 ## Kalender-HD {#calendar-hd}
 
-Visa teamets marknadsföringsaktiviteter i kalenderns nya presentationsläge. De här programmen är bra för tv-apparater eller jättestora skärmar på kontoret! Ange och visa mål baserat på en smart lista eller anpassade mått.
+Visa teamets marknadsföringsaktiviteter med kalenderns nya presentationsläge. De här programmen är bra för tv-apparater eller jättestora skärmar på kontoret! Ange och visa mål baserat på en smart lista eller anpassade mått.
 
 >[!NOTE]
 >
@@ -37,9 +37,9 @@ Intresseutforskaren har ett helt nytt utseende och en helt ny känsla, liksom de
 
 ## Nya REST API:er för resurs {#new-asset-rest-apis}
 
-[Nya REST API:er för resurs](https://developers.marketo.com/)
+[Nya REST API:er för resurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och kodfragment [via API](https://developers.marketo.com/documentation/asset-api)!
+Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och kodfragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 

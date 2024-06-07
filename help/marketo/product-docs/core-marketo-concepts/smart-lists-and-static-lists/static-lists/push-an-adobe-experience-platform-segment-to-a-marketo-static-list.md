@@ -3,7 +3,7 @@ description: Överför ett Adobe Experience Platform-segment till en Marketo Sta
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!NOTE]
    >
-   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
+   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** och upprepa steg 15 två gånger genom att välja **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
 

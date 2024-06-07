@@ -4,9 +4,9 @@ description: Skicka ett exempelmejl - Marketo Docs - produktdokumentation
 title: Skicka ett exempelmeddelande
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Information
 
    >[!NOTE]
    >
-   >Mina token matchar värdet som passar e-postprogrammet.
+   >Mina token matchar det värde som är lämpligt för e-postprogrammet.
 
 1. Ange en eller flera e-postadresser för leverans. Om du har flera e-postadresser avgränsar du dem med kommatecken. Klicka **Skicka** när det är klart.
 
@@ -38,7 +38,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Information
 
    >[!TIP]
    >
-   >Om du vill lösa tokens som en viss person väljer du den personen i **listruta för person** i steg 2.
+   >Om du vill matcha tokens som en viss person väljer du den personen i **listruta för person** i steg 2.
 
 ## Skicka ett exempelmeddelande när du redigerar {#send-a-sample-email-while-editing}
 
@@ -56,7 +56,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Information
 
    >[!NOTE]
    >
-   >Utlösarfältet gäller bara för de som använder [e-postskript](https://developers.marketo.com/documentation/velocity-script/).
+   >Utlösarfältet gäller bara för de som använder [e-postskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 

@@ -4,9 +4,9 @@ description: Skapa en [!DNL Webhook] - Marketo Docs - produktdokumentation
 title: Skapa en [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
@@ -55,4 +55,4 @@ Använd [!DNL Webhooks] för att dra nytta av webbtjänster från tredje part f�
 
 >[!NOTE]
 >
->Läs mer i [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} Djupdykning.
+>Läs mer i [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} Djupdykning.

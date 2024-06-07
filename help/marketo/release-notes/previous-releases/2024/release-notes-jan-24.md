@@ -2,7 +2,8 @@
 description: Versionsinformation - januari 2024 - Marketo Docs - produktdokumentation
 title: Versionsinformation - januari 2024
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 0%
@@ -191,7 +192,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 * **One-Click List-Unsubscribe Update**: Gmail och Yahoo har implementerat flera nya krav för avsändare som trädde i kraft den 1 februari 2024. Läs [vad de är och hur de påverkar dig](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
+* **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: I januariversionen 2024 uppdaterar vi jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

@@ -2,9 +2,10 @@
 description: Versionsinformation - april 2024 - Marketo Docs - produktdokumentation
 title: Versionsinformation - april 2024
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -73,7 +74,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **API-uppdatering för aktiviteter**: Den 26 april lägger vi till flera nya attribut till webbaserade och e-postbaserade aktiviteter som returneras när du hämtar aktiviteter med [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} slutpunkt för att granska attributinformation för varje aktivitet.
+* **API-uppdatering för aktiviteter**: Den 26 april lägger vi till flera nya attribut till webbaserade och e-postbaserade aktiviteter som returneras när du hämtar aktiviteter med [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Aktiviteterna som listas nedan inkluderar nu attribut för webbläsare, plattform, enhet och användaragent. Ring [Hämta aktivitetstyper](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} slutpunkt för att granska attributinformation för varje aktivitet.
 
 **Webbaserade aktiviteter**
 

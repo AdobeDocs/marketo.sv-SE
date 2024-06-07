@@ -4,9 +4,9 @@ description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs
 title: Sales Insight for Non-Native Salesforce Integrations
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
 >* Ett Salesforce-konto med [Installation av MSI-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
->* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att förstå objektet och relationerna.
+>* MARKETO REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 >* Ställ in Salesforce-objekt för att visa den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
 
 >[!NOTE]
@@ -47,14 +47,14 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive global unique identifier</td> 
+      <td>Salesforce-försäljarens skiftlägeskänsliga globalt unika identifierare</td> 
       <td><p>Identifierar posten för Marketo-säljare till ett externt Salesforce-försäljningsanvändarobjekt.</p><p>Försäljaren måste synkroniseras först innan de andra objekten synkroniseras så att rätt relationer skapas.</p></td> 
      </tr> 
     </tbody> 
    </table>
 
-   * API-dokumentation för säljare: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
-   * API-dokumentation för synkronisering av säljaren: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST){target="_blank"}
+   * API-dokumentation för säljare: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API-dokumentation för synkronisering av säljaren: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synkronisera Salesforce-konton med Marketo.
 
@@ -79,14 +79,14 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive global unique identifier</td> 
+      <td>Salesforce-försäljarens skiftlägeskänsliga globalt unika identifierare</td> 
       <td>Identifierar en företagspost för Marketo till ett externt Salesforce-användarobjekt som är kontoägare.<br><br>Används också inom Marketo för att associera företaget med den säljare som äger företagsposten. Säljaren måste synkroniseras först innan du anger det här fältet.</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
-   * API-dokumentation för synkronisering av företag: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
+   * API-dokumentation för företag: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-dokumentation för synkronisering av företag: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synkronisera Salesforce-leads/kontakter till Marketo.
 
@@ -111,7 +111,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive global unique identifier</td> 
+      <td>Salesforce-försäljarens skiftlägeskänsliga globalt unika identifierare</td> 
       <td>Identifierar det externa Salesforce-objektet Försäljningsanvändare som äger denna lead/kontakt.<br><br>Kopplar även lead till säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
@@ -122,8 +122,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
     </tbody> 
    </table>
 
-   * API-dokumentation för leads: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/)
-   * API-dokumentation för synkronisering av leads: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+   * API-dokumentation för leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API-dokumentation för synkronisering av leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synkronisera Salesforce-affärsmöjligheter med Marketo.
 
@@ -153,14 +153,14 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive global unique identifier</td> 
+      <td>Salesforce-försäljarens skiftlägeskänsliga globalt unika identifierare</td> 
       <td>Identifierar det externa Salesforce-försäljningsanvändarobjektet som äger affärsmöjligheten. </td> 
      </tr> 
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-dokumentation för synkroniseringsmöjligheter: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera Salesforce-kontaktroller till Marketo.
 
@@ -185,7 +185,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>leadId</td> 
-      <td>Ej tillämpligt, det här skulle vara ett Marketo lead-ID</td> 
+      <td>Ej tillämpligt. Detta är ett Marketo lead-ID</td> 
       <td>Detta är Marketo lead-ID för den synkroniserade Salesforce-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den globalt unika identifieraren, som inte är skiftlägeskänslig för Salesforce, som externalPersonId och fråga för Marketo Lead med hjälp av Marketo REST API.</td> 
      </tr> 
      <tr> 
@@ -196,8 +196,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-dokumentation för synkroniseringsmöjligheter: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera senast intressanta stund-/MSI-bedömningsfält till SFDC.
 
@@ -224,32 +224,32 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentType</td> 
-      <td>Etikett: Typ av senaste intressanta stund<br>Namn: Sista_intressanta_stund_typ__c</td> 
+      <td>Etikett: Senaste intressanta stund<br>Namn: Last_Intressant_stund_Type__c</td> 
       <td>Typ av det sista intressanta tillfället för leadet</td> 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentDate</td> 
-      <td><p>Etikett: Senaste intressanta datum</p><p>Namn: Last_Intrescing_Moment_Date__c</p></td> 
+      <td><p>Etikett: Senaste intressanta datum</p><p>Namn: Last_Intressant_Moment_Date__c</p></td> 
       <td>Datum för leadets sista intressanta stund</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentDesc</td> 
-      <td><p>Etikett: Senaste intressanta stund - beskrivning</p><p>Namn: Sista_intressanta_stund_Desc_c</p></td> 
+      <td><p>Etikett: Beskrivning av Senaste intressanta stund</p><p>Namn: Last_Intressant_stund_Desc__c</p></td> 
       <td>Beskrivning av leadets sista intressanta stund</td> 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentSource</td> 
-      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intrescing_Moment_Source__c</p></td> 
+      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intressant_Moment_Source__c</p></td> 
       <td>Källa till leadets sista intressanta tillfälle</td> 
      </tr> 
      <tr> 
       <td>prioritet</td> 
-      <td><p>Etikett: Engagemang</p><p>Namn: Prioritet__c</p></td> 
+      <td><p>Etikett: Engagement</p><p>Namn: Prioritet__c</p></td> 
       <td>Leadens prioritet</td> 
      </tr> 
      <tr> 
       <td>relativeUrgent</td> 
-      <td><p>Etikett: Relativt brådskande värde</p><p>Namn: Emergency_Value__c</p></td> 
+      <td><p>Etikett: Relativt akutvärde</p><p>Namn: Emergency_Value__c</p></td> 
       <td>Leadens relativa brådskande situation</td> 
      </tr> 
      <tr> 
@@ -260,6 +260,6 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
     </tbody> 
    </table>
 
-   Dokumentation för Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+   Dokumentation för Lead REST API: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
    Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas vid sökning i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. E-postmeddelandet för den externa säljaren i Marketo måste dessutom matcha e-postmeddelandet för den användaren i Salesforce. Data kanske inte visas på fliken Marketo i Salesforce om e-postmeddelandena inte matchar.

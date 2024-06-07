@@ -4,16 +4,16 @@ description: Versionsinformation -höst 17 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Hösten 17 {#release-notes-fall}
+# Versionsinformation: höst 17 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i höstutgåvan 17. Se om det finns funktioner i Marketo Edition.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
@@ -37,22 +37,22 @@ Med den här nya funktionen kan du nu lagra och leverera e-post enligt lokala ti
 
 >[!NOTE]
 >
->Om du inte kan aktivera tidszonen för mottagare i dina e-post- och engagemangsprogram ännu, ska du inte få panik! Vi gör den här funktionen gradvis tillgänglig för alla kunder.
+>Om du inte kan aktivera tidszonen för mottagare i dina e-post- och engagemangsprogram ännu, ska du inte få panik! Vi aktiverar den här funktionen gradvis för alla kunder.
 
-## [Granska exempelmejl efter segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Granska exempel på e-postmeddelanden efter segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo har ett nytt alternativ för att välja ett segment när exempelmeddelanden skickas för granskning. Du behöver inte längre manuellt avgöra vilket segment ett lead tillhör, vilket gör det enklare att skicka e-postmeddelanden med dynamiskt innehåll till olika segment.
 
-## [linkedIn Lead Gen - anpassade frågor](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn Lead Gen - anpassade frågor](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Anpassa era LinkedIn Lead Gen-formulär för att samla in anpassade lead-attribut. Du kan nu ställa upp till tre anpassade frågor per formulär, välja mellan enradstext eller flervalsfrågor och mappa tillbaka till Marketo lead-fält.
+Anpassa era LinkedIn Lead Gen-formulär för att samla in anpassade lead-attribut. Du kan nu ställa upp till tre anpassade frågor per formulär, välja mellan enradig textinmatning eller flervalsfrågor och mappa tillbaka till Marketo lead-fält.
 
 ## Integrering med Slack {#slack-integration}
 
 Vi har släppt två funktioner som en del av vår nya integrering med Slack:
 
 * Systemmeddelanden: Få Slack-meddelanden om viktiga händelser i din Marketo-instans, som aviseringar om aktuella kampanjstatus och eventuella problem som kräver omedelbar åtgärd.
-* Intressanta stunder: När en Marketo Insight har utlösts av en känd person från ett försäljningskonto kan ledande ägare meddelas via Slack. Meddelanden innehåller information om lead samt detaljer om försäljningskontot.
+* Intressanta ögonblick: När en Marketo Insight har utlösts av en känd person från ett försäljningskonto kan ledande ägare meddelas via Slack. Meddelanden innehåller information om lead samt detaljer om försäljningskontot.
 
 ## ABM-förbättringar {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 ## Integrering  {#integration}
 
-**[API för e-postförhandsgranskning](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API för e-postförhandsgranskning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
-**[Ersätt HTML-API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Ersätt HTML-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Utvecklare kan fjärruppdatera HTML innehåll i e-postresurser, vilket gör att de kan arbeta i ett enda system för att underhålla resurser.

@@ -4,9 +4,9 @@ description: Konfigurera dina SOAP API-inställningar - Marketo Docs - produktdo
 title: Konfigurera dina SOAP API-inställningar
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '72'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Vi rekommenderar att du använder REST API. Läs mer på [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Vi rekommenderar att du använder REST API. Läs mer på [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -35,8 +35,8 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->Din SOAP-slutpunkt och [!UICONTROL User ID] kommer att vara unika, skicka inte skärmbilden i den här artikeln till din utvecklare.
+>Din SOAP-slutpunkt och [!UICONTROL User ID] kommer att vara unik. Skicka inte skärmbilden i den här artikeln till din utvecklare.
 
 >[!MORELIKETHIS]
 >
->[SOAP API-dokumentation](https://developers.marketo.com/documentation/soap/)
+>[SOAP API-dokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

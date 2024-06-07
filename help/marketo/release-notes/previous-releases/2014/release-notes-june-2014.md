@@ -4,14 +4,14 @@ description: Versionsinformation -juni 2014 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Juni 2014 {#release-notes-june}
+# Versionsinformation: juni 2014 {#release-notes-june}
 
 Följande funktioner ingår i versionen från juni 2014. Kontrollera om det finns funktioner i Marketo Edition.
 
@@ -35,7 +35,7 @@ När du skickar ett test-e-postmeddelande från Sales Insight går det inte att 
 
 ## Lead ReST API {#lead-rest-api}
 
-Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. För att komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplats](https://developers.marketo.com/documentation/rest/) om du vill ha mer information om hur du använder detta API.
+Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. För att komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) om du vill ha mer information om hur du använder detta API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns - uppdatering {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

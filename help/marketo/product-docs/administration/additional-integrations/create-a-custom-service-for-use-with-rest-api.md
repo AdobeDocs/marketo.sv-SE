@@ -4,9 +4,9 @@ description: Skapa en anpassad tjänst för användning med ReST API - Marketo D
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Läs mer om våra utvecklares dokumentation om [ReST API](https://developers.marketo.com/documentation/rest/). Vi har också [SOAP API](https://developers.marketo.com/documentation/soap/) om det är vad du behöver.
+>Läs mer om våra utvecklares dokumentation om [REST API](https://developer.adobe.com/marketo-apis/). Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är vad du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
@@ -43,7 +43,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Ange **[!UICONTROL Display Name]** för tjänsten. Välj **[!UICONTROL API Only User]** [tidigare skapat](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Ange en **[!UICONTROL Display Name]** för tjänsten. Välj **[!UICONTROL API Only User]** [tidigare skapat](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -67,7 +67,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klicka **[!UICONTROL View Details]** för [!UICONTROL LaunchPoint] tjänst skapad ovan.
+1. Klicka **[!UICONTROL View Details]** för anpassade [!UICONTROL LaunchPoint] tjänst skapad ovan.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
@@ -81,4 +81,4 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!CAUTION]
 >
->Dela inte denna information; det är bakdörren till era data. Håll det säkert!
+>Dela inte den här informationen, det är bakdörren till dina data. Håll det säkert!

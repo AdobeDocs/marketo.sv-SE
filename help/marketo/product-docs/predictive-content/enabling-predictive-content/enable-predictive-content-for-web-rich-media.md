@@ -4,9 +4,9 @@ description: Aktivera prediktivt innehåll för multimedia för webben - Marketo
 title: Aktivera prediktivt innehåll för multimedia för webben
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
 
-1. Om du vill aktivera en enskild titel klickar du på en titel för att öppna redigeraren. Klicka på Multimedia och kontrollera sedan **Aktiverat för prediktivt innehåll i multimedia** och klicka **Spara**.
+1. Om du vill aktivera en enskild titel klickar du på den för att öppna redigeraren. Klicka på Multimedia och kontrollera sedan **Aktiverat för prediktivt innehåll i multimedia** och klicka **Spara**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
@@ -47,14 +47,14 @@ När du har förberett innehållets titel, beskrivning och bild för multimedia 
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen till mallen för multimedierekommendationer [på webbplatsen Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen till mallen för multimedierekommendationer [på webbplatsen Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 
 **Mallexempel**
 
-* Mall1: Tre vågräta innehållskomponenter med bilder, sidhuvud och beskrivning
-* Mall2: Tre vertikala innehållskomponenter med bilder, sidhuvud och beskrivning
+* Mall1: Tre vågräta innehållsdelar med bilder, rubrik och beskrivning
+* Mall2: Tre vertikala innehållskomponenter med bilder, rubrik och beskrivning
 
 Här är ett exempel på rekommendationsmallen för multimedia1:
 

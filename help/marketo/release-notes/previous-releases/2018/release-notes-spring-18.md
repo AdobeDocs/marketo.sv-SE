@@ -4,7 +4,7 @@ description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -77,12 +77,12 @@ Ange målet för optimeringsalgoritmen ContentAI för att få fler vyer, klick e
 
 ## Integrering och API:er {#integration-and-apis}
 
-[Statiska list-API:er](https://developers.marketo.com/rest-api/assets/static-lists/)
+[Statiska list-API:er](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Hantera listor mellan Marketo och andra system enklare med nya dubbelriktade API:er för att skapa, läsa, uppdatera och ta bort statiska listor på distans utan att vidta några åtgärder i Marketo användargränssnitt.
 
 ## Sekretessförbättringar {#privacy-enhancements}
 
-[Sekretess för webbspårning](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Sekretess för webbspårning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Förbättrad Munchkins spårning uppfyller lokala och internationella sekretessbestämmelser genom att anonymisera webbbesökarnas IP-adresser och göra det möjligt för dem att permanent välja bort webbspårning.

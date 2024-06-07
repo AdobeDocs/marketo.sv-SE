@@ -4,9 +4,9 @@ description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-På fliken Segment visas alla anpassade definierade segment som du ställer in baserat på olika attribut.  **Ett segment är en samling besökare som uppfyller de angivna villkoren på sidan&quot;Ställ in ett segment&quot;.**  Ett segment kan vara besökare från en viss bransch, plats eller baserat på besökarens aktivitet på plats.
+På fliken Segment visas alla anpassade definierade segment som du ställer in baserat på olika attribut.  **Ett segment är en samling besökare som uppfyller de angivna villkoren som definieras på sidan Ange ett segment.**  Ett segment kan vara besökare från en viss bransch, plats eller baserat på besökarens aktivitet på plats.
 
 Inom webbpersonalisering kan en besökare matcha mer än ett segment. Om det till exempel finns ett segment för besökare i USA och ett segment för finansföretag skulle en webbbesökare från Bank of America matcha **båda** segmentet för besökare i USA och segmentet för finansföretag.
 
@@ -37,7 +37,7 @@ Inom webbpersonalisering kan en besökare matcha mer än ett segment. Om det til
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Matchar</strong></p></td> 
-   <td colspan="1" rowspan="1">Antalet besökare som uppfyller de anpassade, definierade villkoren för segmentet</td> 
+   <td colspan="1" rowspan="1">Antalet besökare som uppfyller segmentets anpassade, definierade villkor</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td> 
@@ -62,14 +62,14 @@ Se [hur du skapar och visar segmentetiketter](/help/marketo/product-docs/web-per
 
 Om du markerar ett segment i tabellen visas mer information om segmentet på den högra panelen.
 
-Dessa uppgifter omfattar:
+Bland dessa uppgifter finns:
 
 * Segmentets namn
 * Segmentets skapandedatum
 * De associerade kampanjerna visar vilka kampanjer som används i segmentet. Om du klickar på antalet reaktioner kommer du till kampanjsidan där kampanjkoden (Call to Action) för segmentet visas
 * Antalet matchningar (antalet besökare som uppfyller segmentvillkoren) för segmentet och antalet distinkta (unika) besökare som matchade segmentet. När du klickar på den unika besökarlänken visas segmentets resultat på besökarens sida
 * Segmentets ägare/användare som skapat det
-* Domänwebbplatserna som är associerade med segmentet
+* Domänwebbplatserna som är kopplade till segmentet
 * En kort sammanfattning av de valda villkoren för segmentet
 
 ## Aktivera eller inaktivera ett segment {#enable-or-disable-a-segment}
@@ -96,8 +96,8 @@ Definiera allmänna parametrar för ditt segment:
 * **Segmentregellogik:**  Välj en AND/OR-logik för att skapa varje segmenteringsattribut
 * **Timing:** Definiera nivån på besökarens engagemang i kampanjen
 
-   * **Vid registrering**: Engagera från besökaren som kommer till webbplatsen
-   * **Efter 1:a klickningen - 9:e klickningen**: Engagera besökaren efter ett visst antal klick på webbplatsen
+   * **Vid registrering**: Engagemang från besökaren kommer till webbplatsen
+   * **Efter 1:a och 9:e klickningen**: Engagera besökaren efter ett visst antal klick på webbplatsen
 
 >[!TIP]
 >
@@ -114,7 +114,7 @@ Definiera allmänna parametrar för ditt segment:
 >    * 1, 2 och 3
 >    * 1 eller 2 eller 3
 >
->    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. t.ex. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
+>    Blandning av&quot;och&quot; och&quot;eller&quot; kräver parenteser för att förtydliga logiks avsikt. &quot;1 eller 2 och 3&quot; skall skrivas som något av följande:
 >
 >    * 1 och (2 eller 3)
 >    * (1 och 2) eller 3
@@ -149,9 +149,9 @@ När landet har lagts till kan du även ange segmentets stat, ort och postnummer
 
 >[!TIP]
 >
->**Vilka segmentvillkor väljer jag? &quot;AND&quot; eller&quot;OR&quot;?** Eller fungerar som ett extra alternativ i varje fält. Prospekt behöver bara uppfylla ett av de kriterier som valts ut i varje fält för att vara kvalificerade för segmentet. (Prospekt kan till exempel antingen komma från USA. *eller* från försvarsindustrin). AND fungerar som en extra obligatorisk parameter som måste uppfyllas för det här segmentet. (Prospekten måste till exempel vara både från USA och försvarsindustrin). Inom varje segmenteringsprofil kan varje separat fält fungera som både och, antingen&quot;AND&quot; eller&quot;OR&quot; beroende på vilket segmentvillkor som valts.
+>**Vilka segmentvillkor väljer jag? &#39;AND&#39; eller &#39;OR&#39;?** Eller fungerar som ett extra alternativ i varje fält. Prospekt behöver bara uppfylla ett av de kriterier som valts ut i varje fält för att vara kvalificerade för segmentet. (Prospekt kan till exempel antingen komma från USA. *eller* från försvarsindustrin). AND fungerar som en extra obligatorisk parameter som måste uppfyllas för det här segmentet. (Prospekten måste till exempel vara både från USA och försvarsindustrin). Inom varje segmenteringsprofil kan varje separat fält fungera som både och, antingen&quot;AND&quot; eller&quot;OR&quot; beroende på vilket segmentvillkor som valts.
 
-**Branscher** Under **Profilsegmentering** markerar du kryssrutan bredvid **Bransch**.
+**Branscher** Under **Profilsegmentering** markerar du kryssrutan intill **Bransch**.
 
 * Välj bland följande parametrar:
 
@@ -160,7 +160,7 @@ När landet har lagts till kan du även ange segmentets stat, ort och postnummer
 
 **Organisationsgrupp**
 
-Under **Profilsegmentering** markerar du kryssrutan bredvid **Organisationsgrupp.**
+Under **Profilsegmentering** markerar du kryssrutan intill **Organisationsgrupp.**
 
 * Välj bland följande alternativ i listrutan:
 
@@ -168,7 +168,7 @@ Under **Profilsegmentering** markerar du kryssrutan bredvid **Organisationsgrupp
    * Fortune 1000 - Omfattar endast Fortune 1000-företag i detta segment
    * Global 2000 - Innefattar Global 2000-företagen i detta segment
    * Enterprise - Innehåller organisationer med fler än 1 000 anställda och intäkter över 250 miljoner dollar
-   * Små och medelstora företag - Inkluderar endast små och medelstora företag i detta segment
+   * SMB - Endast små och medelstora företag ingår i detta segment
 
 **-Namngivna konton-**
 
@@ -187,7 +187,7 @@ Välj från en [Namngiven kontolista](/help/marketo/product-docs/web-personaliza
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för webbanpassning [Läs API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för webbanpassning [Läs API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exkludera ISP**
 
@@ -207,9 +207,9 @@ Du kan lägga till eller ta bort persondatafält från Kontoinställningar > Dat
 
 >[!TIP]
 >
->Skapa segmentkriterier enligt alla persondatafält från Marketo, t.ex. Befattning; Poäng; Roll; osv..
+>Skapa dina segmentkriterier utifrån alla persondatafält från Marketo-personer som Befattning, Poäng, Roll osv.
 >
->Exempel: &quot;Jobbtitel är lika med CMO&quot; och &quot;bakgrundsmusik är mindre än eller lika med 50&quot;
+>T.ex. &quot;Befattning är lika med CMO&quot; och &quot;Poängen är mindre än eller lika med 50&quot;
 
 **Marketo Email Campaign** Segmentera och personalisera kampanjer genom att skicka e-postmeddelanden från en besökare som klickar på ett e-postmeddelande från Marketo och kommer till webbplatsen. Segmentera efter Marketo programnamn eller kampanjnamn och fortsätt konversationen från e-post till webben. Välj + för att lägga till fält från listrutan.
 
@@ -217,7 +217,7 @@ Du kan lägga till eller ta bort persondatafält från Kontoinställningar > Dat
 
 **Status**
 
-Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym.
+Definiera ditt segment utifrån den potentiella kundens status: känd eller anonym.
 
 * Känd - Välj det här alternativet i listrutan för kända besökare. En besökare är känd när de skickar in ett formulär på din webbplats och visas på sidan Webbpersonalisering.
 * Anonym - Välj det här alternativet i listrutan för anonyma besökare.
@@ -234,7 +234,7 @@ Definiera ditt segment utifrån en potentiell kunders status: känd eller anonym
 
 * Specifika besök - Välj det här alternativet i listrutan för att ange en specifik besökare.
 
-   * Ange det besökarnummer du vill spåra i textrutan till höger. Det unika besökaridentifieringsnumret för webbpersonalisering visas när du klickar på en besökare (på besökarsidan) och på Ställ in kampanj på den högra panelen. Besökar-ID:t finns i avsnittet Avancerade inställningar. Besökar-ID:t finns också i URL:en (t.ex. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Ange det besökarnummer du vill spåra i textrutan till höger. Det unika besökaridentifieringsnumret för webbpersonalisering visas när du klickar på en besökare (på besökarsidan) och på Ställ in kampanj på den högra panelen. Besökar-ID finns i avsnittet Avancerade inställningar. Besökar-ID:t finns också i URL:en (t.ex. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Sökvillkor** - Definiera ett segment enligt den potentiella kundens sökvillkor.
 
@@ -265,7 +265,7 @@ Dra och släpp det mobila operativsystemet i segmentredigeraren
 * **Typ av besökare**<br />
   **Mobiloperativsystem** - I listrutan väljer du ett eller flera mobila operativsystem i listan. Det valda mobiloperativsystemet visas nedan.
 
-   * Besökaren använder vilken mobil enhet som helst
+   * Besökaren använder en mobil enhet
    * Besökaren använder den specifika enheten/operativsystemet
    * Besökaren använder inte någon mobil enhet
 
@@ -282,15 +282,15 @@ Målgrupp som använder specifika webbläsartyper och/eller versioner.
 
 **Datahändelser** - Segmentera besökare som utlöser specifika anpassade datahändelser
 
-Lägg till det händelsevärde som du vill ha som mål. t.ex. från datakällor från tredje part.
+Lägg till det händelsevärde som du vill ha som mål. Till exempel från datakällor från tredje part.
 
 **API för användarkontext**
 
-API-anrop för webbanpassning  [läs mer om det här.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+API-anrop för webbanpassning  [läs mer om det här.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Använda jokertecken -** När du vill ta med en sökterm eller URL som innehåller något i den, dvs. &quot;[google.com](https://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här jokertecken och det ska läggas in med en asterisk - den här lilla killen&#42; - i varje ände. Så allt kommer från [google.com](https://google.com) ska anges som &#42; [google.com](https://google.com)&#42;
+>**Använda jokertecken -** När du vill ta med ett sökord eller en URL som innehåller något i det, t.ex. &quot;[google.com](https://google.com)&quot; eller &quot;söktermsprodukt&quot;, kallar vi det här jokertecken och det ska läggas in med en asterisk - den här lilla killen&#42; - i varje ände. Så allt kommer från [google.com](https://google.com) ska anges som &#42; [google.com](https://google.com)&#42;
 
 ## Redigera segment {#edit-segments}
 
@@ -314,13 +314,13 @@ Du kan ta bort segment som du har skapat.
 
 >[!NOTE]
 >
->Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste ni ta bort kampanjen och sedan segmentet.
+Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste ni ta bort kampanjen och sedan segmentet.
 
-Bra! Nu när ni förstår segmentavsnittet ska vi lära oss mer om kampanjer.
+Bra! Nu när ni förstår segmentavsnittet kan vi lära oss mer om kampanjer.
 
 >[!MORELIKETHIS]
 >
->* [Skapa ett enkelt webbsegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Skapa ett enkelt webbsegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Skapa en ny webbkampanj i zonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

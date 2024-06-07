@@ -4,9 +4,9 @@ description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs -
 title: Växla synlighet för ett formulärfält dynamiskt
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till en landsväljare i formuläret](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Lägg till en landsväljarlista i formuläret](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa blankettfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
@@ -23,7 +23,7 @@ En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa bla
 >
 >**Exempel**
 >
->I det här exemplet kan vi dölja **Läge** fält såvida **Land** väljs som&quot;USA&quot;.
+>I det här exemplet kan vi dölja **Läge** fält såvida inte **Land** är markerat som &quot;USA&quot;.
 
 1. Gå till **Marknadsföringsaktiviteter**.
 
@@ -69,6 +69,6 @@ Och det är allt! När man fyller i blanketten och väljer USA som land visas f�
 
 >[!IMPORTANT]
 >
->Formulärfältets beteende fungerar sömlöst när fältvärden ställs in/uppdateras via anpassat skript med [API-funktioner](https://developers.marketo.com/javascript-api/forms/){target="_blank"} i Forms 2.0.
+>Formulärfältets beteende fungerar sömlöst när fältvärden ställs in/uppdateras via anpassat skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
 >
 >Villkorliga fält kanske inte fungerar som förväntat om fältvärden ändras av andra externa skript än JavaScript-API:t för Forms 2.0.

@@ -4,9 +4,9 @@ description: Skapa en token för e-postskript - Marketo Docs - produktdokumentat
 title: Skapa en e-postskripttoken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.ap
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under **Mina token** tabb, dra i en **E-postskript** token.
+1. Under **Mina token** tabb, dra i en **E-postmeddelande** token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
@@ -49,7 +49,7 @@ För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.ap
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för hastighet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

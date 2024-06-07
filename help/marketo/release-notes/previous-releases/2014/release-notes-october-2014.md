@@ -4,16 +4,16 @@ description: Versionsinformation -oktober 2014 - Marketo Docs - produktdokumenta
 title: Versionsinformation -oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Oktober 2014 {#release-notes-october}
+# Versionsinformation: oktober 2014 {#release-notes-october}
 
-Se om det finns funktioner i din Marketo-utgåva. Dokumentationen kommer när den släpps.
+Se om det finns funktioner i Marketo Edition. Dokumentationen kommer när den släpps.
 
 ## Programfokus i marknadsföringskalender {#program-focus-in-marketing-calendar}
 
@@ -30,7 +30,7 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information finns tillgänglig efter lanseringen på [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -46,7 +46,7 @@ Fullständig information finns tillgänglig efter lanseringen på [developers.ma
 
 [Använd anpassade objektdata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) från Microsoft Dynamics för filtrering och aktivering av smarta listor, smarta kampanjer, program...
 
-## Aktieägarsupport för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
+## Stöd för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
 Synkronisera aktieägardata för affärsmöjlighet från Dynamics. Det finns även möjligheter som är kopplade till ett konto med hjälp av fältet Primärt konto samt möjligheter som är kopplade till kontakten med synkroniseringen Primär kontakt.
 
@@ -70,4 +70,4 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Besök [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) för fullständig information.
+Besök [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig information.

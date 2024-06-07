@@ -4,7 +4,7 @@ description: Versionsinformation -vinter '17 - Marketo Docs - produktdokumentati
 title: Versionsinformation -vinter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Grundläggande matchning använder endast e-postadresser, men i ny avancerad mat
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API för anpassad objektimport](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API för anpassad objektimport](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 Detta API ger ett snabbare gränssnitt för att synkronisera anpassade objekt till Marketo. Du kan importera CSV-, TSV- eller SSV-kalkylbladsfiler till Marketo som anpassade objekt.
 
@@ -81,7 +81,7 @@ Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehå
 
 Bild-URL och metadata används nu i processen för automatisk identifiering av innehåll.
 
-## [SDK-förbättringar](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK-förbättringar](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Utvecklare har nu ytterligare kontroll över leveransen av push-meddelanden med ett nytt SDK API-anrop som gör att utvecklare kan ta bort push-tokens.
 

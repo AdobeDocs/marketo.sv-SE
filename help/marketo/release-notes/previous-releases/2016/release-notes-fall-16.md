@@ -4,16 +4,16 @@ description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Hösten &#39;16 {#release-notes-fall}
+# Versionsinformation: höst 16 {#release-notes-fall}
 
-Följande funktioner finns i höstutgåvan 16. Se om det finns funktioner i din Marketo-utgåva. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
+Följande funktioner finns i höstutgåvan 16. Se om det finns funktioner i Marketo Edition. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
 ## Prediktivt innehåll i e-post {#predictive-content-in-email}
 
@@ -45,7 +45,7 @@ Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en end
 >
 >Kontakta Marketo Support för att aktivera den här funktionen.
 
-## Marketo kontobaserade marknadsföringsförbättringar {#marketo-account-based-marketing-enhancements}
+## Förbättringar av kontobaserad marknadsföring för Marketo {#marketo-account-based-marketing-enhancements}
 
 Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kontohanterare. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
 
@@ -53,7 +53,7 @@ Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsförin
 
 **REST API**
 
-I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API:er finns på [Marketo Developers webbplats](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API:er finns på [Marketo Developers webbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Förbättringar av granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Ge dina iOS Push Notification ännu bättre detaljrikedom genom att aktivera lju
 
 Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [finns på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API:er för namngivna konton](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API:er för namngivna konton](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 I den här versionen kan Marketo ABM-användare hantera namngivna konton via API:t för namngivna konton. Användare kan skapa, uppdatera och ta bort namngivna konton samt läsa och uppdatera ABM-poängen för namngivna konton.
 
-## [Stöd för API:t för e-postredigeraren v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Stöd för API:t för e-postredigeraren v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Hantera variabler och moduler för e-post i v2.0-format med Marketo REST API.
 

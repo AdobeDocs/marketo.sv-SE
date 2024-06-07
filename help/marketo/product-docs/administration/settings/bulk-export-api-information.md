@@ -3,16 +3,16 @@ description: API-information för massexport - Marketo Docs - produktdokumentati
 title: API-information för massexport
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
 
 # API-information för massexport {#bulk-export-api-information}
 
-Lär dig hur mycket [API för massextrahering](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} kapaciteten har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
+Lär dig hur mycket [API för massextrahering](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} din kapacitet har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
 
 >[!NOTE]
 >

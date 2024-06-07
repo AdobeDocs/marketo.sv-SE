@@ -4,9 +4,9 @@ description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokum
 title: Anpassade fält för programmedlem
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Utlösare och filter {#triggers-and-filters}
 
-Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} och/eller [filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
+* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har någon, kommer förlorarens värde att användas.
 * Ändringstypen tillåts inte i fält för programmedlemsinformation.
 * Begränsningen &quot;contains&quot; Smart List stöds inte för anpassade fält för programmedlem.

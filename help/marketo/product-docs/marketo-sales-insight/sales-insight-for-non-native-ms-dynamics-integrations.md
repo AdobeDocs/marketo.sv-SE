@@ -3,9 +3,9 @@ description: Sales Insight for Non-Native MS Dynamics Integrations - Marketo Doc
 title: Sales Insight for Non-Native MS Dynamics Integrations
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1413'
+source-wordcount: '1258'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 >[!PREREQUISITES]
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
->* Hämta [MSI-paket för anpassad synkronisering](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* Ladda ned [MSI-paket för anpassad synkronisering](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* En MS Dynamics-prenumeration med MSI-installation (vi stöder bara [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} just nu).
->* Marketo REST API [har konfigurerats](https://developers.marketo.com/rest-api/){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
->* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att förstå objektet och relationerna.
+>* MARKETO REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 
 ## Lyckad icke-inbyggd synkronisering för MSI kräver följande {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -48,8 +48,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * API-dokumentation för säljare: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
-   * API-dokumentation för synkronisering av säljaren: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST){target="_blank"}
+   * [API-dokumentation för säljare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [API-dokumentation för synkronisering av säljaren](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synkronisera MS Dynamics-konton med Marketo.
 
@@ -80,12 +80,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * API-dokumentation för företag: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
-   * API-dokumentation för synkronisering av företag: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
+   * API-dokumentation för företag: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-dokumentation för synkronisering av företag: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synkronisera MS Dynamics Leads/Contacts till Marketo.
 
-   Du måste infoga en Marketo-lead för MS Dynamics-lead/kontakt. The _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ fält är obligatoriska för att lägga upp lead.
+   Du måste infoga en Marketo Lead för MS Dynamics Lead/Contact. The _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ fält är obligatoriska för att lägga upp lead.
 
    <table> 
     <colgroup> 
@@ -101,7 +101,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      </tr> 
      <tr> 
       <td>externalPersonId</td> 
-      <td>Lead/kontakt-skiftlägeskänslig global unik identifierare för MS Dynamics</td> 
+      <td>Lead/kontakt-skiftlägesokänslig global unik identifierare för MS Dynamics</td> 
       <td>Identifierar Marketo Lead-posten till ett externt lead-/kontaktobjekt för MS Dynamics.<br><br>Det här är ett nytt fält som introduceras för MSI som inte är Native.</td> 
      </tr> 
      <tr> 
@@ -117,8 +117,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * API-dokumentation för leads: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target="_blank"}
-   * API-dokumentation för synkronisering av leads: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target="_blank"}
+   * API-dokumentation för leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * API-dokumentation för synkronisering av leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Synkronisera MS Dynamics-affärsmöjligheter med Marketo.
 
@@ -138,7 +138,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
-      <td>Lead/kontakt-skiftlägeskänslig global unik identifierare för MS Dynamics</td> 
+      <td>Lead/kontakt-skiftlägesokänslig global unik identifierare för MS Dynamics</td> 
       <td>Identifierar Marketo-säljprojektsposten till ett externt MS Dynamics-säljprojektsobjekt.</td> 
      </tr> 
      <tr> 
@@ -154,8 +154,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-dokumentation för synkroniseringsmöjligheter: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera kontaktroller för MS Dynamics till Marketo.
 
@@ -176,11 +176,11 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      <tr> 
       <td>externalOpportunityId</td> 
       <td>Versalokänslig global unik identifierare för MS Dynamics-affärsmöjlighet</td> 
-      <td>Identifierar Marketo-säljprojektsrollen för ett externt MS Dynamics-säljprojektsobjekt.<br><br>MS Dynamics-säljprojektet måste synkroniseras korrekt först.</td> 
+      <td>Identifierar Marketo Opportunity Role för ett externt MS Dynamics Opportunity-objekt.<br><br>MS Dynamics-säljprojektet måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
-      <td>Ej tillämpligt, det här skulle vara ett Marketo lead-ID</td> 
+      <td>Ej tillämpligt. Detta är ett Marketo lead-ID</td> 
       <td>Detta är Marketo lead-ID för den synkroniserade MS Dynamics-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den skiftlägeskänsliga globala unika identifieraren för MS Dynamics som externalPersonId och fråga för Marketo Lead med Marketo REST API.</td> 
      </tr> 
      <tr> 
@@ -191,8 +191,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-dokumentation för synkroniseringsmöjligheter: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportzationsUsingPOST){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera senast intressanta stund-/MSI-bedömningsfält till MS Dynamics.
 
@@ -219,32 +219,32 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentType</td> 
-      <td>Etikett: Typ av senaste intressanta stund<br>Namn: Sista_intressanta_stund_typ__c</td> 
+      <td>Etikett: Senaste intressanta stund<br>Namn: Last_Intressant_stund_Type__c</td> 
       <td>Typ av det sista intressanta tillfället för leadet</td> 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentDate</td> 
-      <td><p>Etikett: Senaste intressanta datum</p><p>Namn: Last_Intrescing_Moment_Date__c</p></td> 
+      <td><p>Etikett: Senaste intressanta datum</p><p>Namn: Last_Intressant_Moment_Date__c</p></td> 
       <td>Datum för leadets sista intressanta stund</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentDesc</td> 
-      <td><p>Etikett: Senaste intressanta stund - beskrivning</p><p>Namn: Sista_intressanta_stund_Desc_c</p></td> 
+      <td><p>Etikett: Beskrivning av Senaste intressanta stund</p><p>Namn: Last_Intressant_stund_Desc__c</p></td> 
       <td>Beskrivning av leadets sista intressanta stund</td> 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentSource</td> 
-      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intrescing_Moment_Source__c</p></td> 
+      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intressant_Moment_Source__c</p></td> 
       <td>Källa till leadets sista intressanta tillfälle</td> 
      </tr> 
      <tr> 
       <td>prioritet</td> 
-      <td><p>Etikett: Engagemang</p><p>Namn: Prioritet__c</p></td> 
+      <td><p>Etikett: Engagement</p><p>Namn: Prioritet__c</p></td> 
       <td>Leadens prioritet</td> 
      </tr> 
      <tr> 
       <td>relativeUrgent</td> 
-      <td><p>Etikett: Relativt brådskande värde</p><p>Namn: Emergency_Value__c</p></td> 
+      <td><p>Etikett: Relativt akutvärde</p><p>Namn: Emergency_Value__c</p></td> 
       <td>Leadens relativa brådskande situation</td> 
      </tr> 
      <tr> 
@@ -255,6 +255,6 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
     </tbody> 
    </table>
 
-   * Dokumentation för Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+   * Dokumentation för Lead REST API: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
    Korrekt användning av de externa fälten är avgörande för en lyckad icke-inbyggd synkronisering. Om du inte ser data i vissa vyer är det troligt att ett visst fält inte synkroniserades korrekt. Om t.ex. en leads aktiviteter och intressanta stunder inte visas vid sökning i MSI-widgeten under deras konto, är det troligt att antingen lead-företagets företag eller kontot inte synkroniserades korrekt. Om du utför en GET-begäran för denna lead samtidigt som du anger externa fält kan du kontrollera om leadet synkroniserades korrekt. Dessutom måste e-postadressen till den externa säljaren i Marketo matcha e-postadressen för den användaren i MS Dynamics. Data kanske inte visas på fliken Marketo i MS Dynamics om e-postmeddelandena inte matchar.

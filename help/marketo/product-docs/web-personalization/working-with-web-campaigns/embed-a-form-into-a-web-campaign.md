@@ -4,9 +4,9 @@ description: Bädda in ett formulär i en webbkampanj - Marketo Docs - produktdo
 title: Bädda in ett formulär i en webbkampanj
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Om du vill lägga till en bakgrundsbild i formuläret kan du:
 
 * Redigera CSS för ett formulärtema
 * Ändra dialogrute- eller widgetfärger i Ange kampanj
-* Lägg till CSS-kod i skriptet
+* Lägga till CSS-kod i skriptet
 
 Information om hur du redigerar CSS för ett formulärtema finns i [den här artikeln](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
@@ -85,4 +85,4 @@ Så här lägger du till CSS-kod i skriptet:
 >
 >* [Redigera CSS för ett formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Visa tackmeddelande utan en uppföljningsstartsida](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

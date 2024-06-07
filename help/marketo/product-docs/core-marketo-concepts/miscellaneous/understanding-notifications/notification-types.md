@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Meddelandetyper - Marketo Docs - produktdokumentation
 title: Meddelandetyper
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -60,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i våra [Dokumentation för utvecklare](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>En del felkoder som du kan få beskrivs i våra [Dokumentation för utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

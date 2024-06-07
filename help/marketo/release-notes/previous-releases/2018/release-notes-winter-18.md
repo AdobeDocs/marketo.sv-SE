@@ -4,16 +4,16 @@ description: Versionsinformation -vinter '18 - Marketo Docs - produktdokumentati
 title: Versionsinformation -vinter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Vintern &#39;18 {#release-notes-winter}
+# Versionsinformation: Vinter 18 {#release-notes-winter}
 
-Följande funktioner finns i vinterversionen 18. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i vinterversionen 18. Se om det finns funktioner i Marketo Edition.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
@@ -87,7 +87,7 @@ Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer generera
 
 ## Integrering {#integration}
 
-**[Aktivera/inaktivera kampanj-API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Aktivera/inaktivera kampanj-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 

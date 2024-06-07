@@ -4,9 +4,9 @@ description: Bädda in ett formulär på din webbplats - Marketo Docs - produktd
 title: Bädda in ett formulär på din webbplats
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Ge nu bara inbäddningskoden till webbutvecklaren och låt dem lägga till den p
 
 >[!NOTE]
 >
->Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem [Forms 2.0 - utvecklarsida](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem [Forms 2.0 - utvecklarsida](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-Bra jobbat! Vill du ha [bädda in kod för att inkludera ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!
+Snyggt jobb! Vill du ha [bädda in kod för att inkludera ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!

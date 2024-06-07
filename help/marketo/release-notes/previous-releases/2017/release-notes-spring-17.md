@@ -4,22 +4,22 @@ description: Versionsinformation -Spring '17 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Våren 17 {#release-notes-spring}
+# Versionsinformation: våren 17 {#release-notes-spring}
 
-Följande funktioner finns i vårutgåvan 17. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i vårutgåvan 17. Se om det finns funktioner i Marketo Edition.
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Om ett ämne har flera underrubriker placeras länkarna där.
 
-## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
 Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya **Fyller i formuläret för LinkedIn Lead Gen** utlösare och filter.
 
@@ -35,7 +35,7 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 ![](assets/four-281-29.png)
 
-## [Massextrahera API:er för personer och aktiviteter](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [Massextrahera API:er för personer och aktiviteter](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Överför enkelt stora mängder person- och aktivitetsdata från Marketo till era externa system.
 
@@ -49,7 +49,7 @@ Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna k
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av poängen så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-**[API:er för kontolista för ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[API:er för kontolista för ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 
@@ -75,7 +75,7 @@ Ställ in animeringseffekterna för Dialog Web Campaign för att anpassa hur en 
 
 ![](assets/animationoptins.png)
 
-**[Dialogrutan Stäng knappanpassning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Dialogrutan Stäng anpassning av knapp](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Anpassa stängningsknappen för dialogrutor. Välj bland en rad alternativ som används i webbkampanjer i formatet Genomskinlig dialogruta. Markera ikonen, färgen och placeringen för knappen Stäng. Du kan också lägga till en egen knappbild.
 
@@ -97,6 +97,6 @@ Webbanpassning finns nu på alla språk som stöds av Marketo (engelska, japansk
 
 Prediktivt innehåll finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
-## [Äldre textredigerare och formulärredigerare 1.0-borttagning](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Äldre RTF-redigerare och formulärredigerare 1.0-borttagning](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 Från och med den 1 augusti 2017 kommer kunder som fortfarande använder den gamla RTF-redigeraren och formulärredigeraren 1.0 automatiskt att övergå till den nya versionen.

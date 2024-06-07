@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo Docs - produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -18,7 +18,7 @@ När du är klar med [inledande konfiguration](/help/marketo/product-docs/demand
 
 >[!NOTE]
 >
->Dynamic Chat stöder synkronisering [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} och anpassade personfält och företagsfält.
+>Dynamic Chat stöder synkronisering [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} och anpassade personfält och företagsfält.
 
 1. I Min Marketo klickar du på **[!UICONTROL Dynamic Chat]** platta.
 

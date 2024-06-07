@@ -4,14 +4,14 @@ description: Versionsinformation -januari 2015 - Marketo Docs - produktdokumenta
 title: Versionsinformation - januari 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Januari 2015 {#release-notes-january}
+# Versionsinformation: januari 2015 {#release-notes-january}
 
 Följande funktioner ingår i januari 2015-versionen. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
@@ -19,7 +19,7 @@ Följande funktioner ingår i januari 2015-versionen. Kontrollera om det finns f
 
 **Mobilanpassade landningssidor**
 
-Nu kan du [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) från landningssidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen lanseras gradvis under veckan efter releasen.
+Nu kan du [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) från landningssidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen kommer gradvis att lanseras under veckan efter releasen.
 
 [-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
@@ -31,7 +31,7 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 * Hämta leads per program-ID
 * Hämta borttagna leads
 
-Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information finns tillgänglig efter lanseringen på [developers.marketo.com](https://developers.marketo.com)
+Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **Stöd för anpassade objekt för e-postskript**
 
@@ -47,7 +47,7 @@ Marknadsföring visar annonser för personer som har besökt din webbplats. Nu k
 
 Förbättringar av modulen Namngivna konton förbättrar matchningsfrekvenserna och valideringarna för användarna. Bland tilläggen finns:
 
-* Matchande organisationer från din lista över namngivna konton med leadens e-postadress (även för RTP-kunder)
+* Matchande organisationer från din lista över namngivna konton med leadens e-postadress (även för kunder som bara använder RTP)
 * Stöd för upp till 100 000 poster per konto
 * CSV-filmall för visning och hämtning
 
@@ -57,11 +57,11 @@ Förbättringar av modulen Namngivna konton förbättrar matchningsfrekvenserna 
 
 Alternativen för RTP-tagg under Kontoinställningar har uppdaterats till att omfatta:
 
-1. CDN och asynkron (rekommenderad tagg)
+1. CDN och asynkron (rekommenderas)
 1. CDN och synkron (hög hastighet)
 1. Asynkron tagg utan CDN
 1. Synkron tagg utan CDN
 
-För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Information om hur du distribuerar RTP-taggen finns i [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Information om hur du distribuerar RTP-taggen finns i [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

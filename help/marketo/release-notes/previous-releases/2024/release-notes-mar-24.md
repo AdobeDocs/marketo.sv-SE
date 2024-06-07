@@ -3,9 +3,9 @@ description: Versionsinformation - mars 2024 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,6 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Hämta API-korrigering för programmedlem**: En ändring gjordes nyligen för att korrigera beteendet i [Hämta programmedlemmar](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} slutpunkt. Tidigare, vid användning av `updatedAt` filtertyp för att ange ett datumintervall. Det kan bero på att poster för programmedlemskap som uppdaterats inom det intervallet inte ingick i svaret. Dessutom fanns det en risk att poster för programmedlemskap som uppdaterats utanför det angivna datumintervallet felaktigt togs med i svaret. Båda problemen har lösts.
+* **Hämta API-korrigering för programmedlem**: En ändring gjordes nyligen för att korrigera beteendet i [Hämta programmedlemmar](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} slutpunkt. Tidigare, vid användning av `updatedAt` filtertyp för att ange ett datumintervall. Det kan bero på att poster för programmedlemskap som uppdaterats inom det intervallet inte ingick i svaret. Dessutom fanns det en risk att poster för programmedlemskap som uppdaterats utanför det angivna datumintervallet felaktigt togs med i svaret. Båda problemen har lösts.
 
-* **Borttagning av plugin-program för Insight Browser**: Adobe tar bort målkontohanteringen [Webbläsarplugin för Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Borttagning av plugin-program för Insight Browser**: Adobe tar bort målkontohanteringen [Webbläsarplugin för Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} från Chrome Web Store den 8 april 2024. Befintliga användare: du kan fortsätta använda plugin-programmet tills du migrerar din Marketo Engage-instans till Adobe Identity och Admin Console. Den här ändringen **påverkar inte** alla andra TAM-funktioner/-data i Marketo Engage eller e-postplugin-programmen för Chrome och Outlook som fungerar med Sales Insight. [Läs mer](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

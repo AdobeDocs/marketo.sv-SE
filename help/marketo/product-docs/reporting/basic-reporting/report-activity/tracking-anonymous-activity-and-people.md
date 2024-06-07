@@ -4,9 +4,9 @@ description: Spåra anonym aktivitet och människor - Marketo Docs - produktdoku
 title: Spåra anonym aktivitet och människor
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ Första gången någon besöker en Marketo [landningssida](/help/marketo/product
 1. En anonym aktivitet skapas när någon:
 
    * Besök din Marketo [landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) första gången.
-   * Besöker en sida på webbplatsen som har [Munchkin-spårning](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
-   * Klicka på [Visa som webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) i ett e-postmeddelande från Marketo.
+   * Besöker en sida på webbplatsen som har [Munchkin tracking](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+   * Klicka på [Visa som webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) i ett Marketo-mejl.
 
    >[!NOTE]
    >
@@ -29,13 +29,13 @@ Första gången någon besöker en Marketo [landningssida](/help/marketo/product
 
    * Klicka på en [länk i ett Marketo-mejl](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Fyller i en Marketo [formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Använder Marketo [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) eller [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (för utvecklare) för att koppla en anonym aktivitet till en känd post.
+   * Använder Marketo [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
 
    Ett namn i databasen kan vara knutet till många cookies eftersom användare ofta använder olika enheter och webbläsare för att besöka webbplatsen.
 
    >[!NOTE]
    >
-   >När anonyma poster sammanfogas till en ny eller befintlig personpost, kommer anpassade fältvärden att **not** överföring.
+   >När anonyma poster sammanfogas till en ny eller befintlig personpost, kommer anpassade fältvärden att **not** överflyttning.
 
    >[!MORELIKETHIS]
    >

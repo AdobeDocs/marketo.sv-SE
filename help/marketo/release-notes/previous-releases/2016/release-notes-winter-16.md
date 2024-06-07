@@ -4,14 +4,14 @@ description: Versionsinformation -vinter '16 - Marketo Docs - produktdokumentati
 title: Versionsinformation -vinter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Vinter &#39;16 {#release-notes-winter}
+# Versionsinformation: Vinter 16 {#release-notes-winter}
 
 Följande funktioner ingår i vinterversionen 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
@@ -21,7 +21,7 @@ Filtret Är anonym har tagits bort för smarta listor. Se [Nästa generations Mu
 
 ## [Kontrollpanel för databas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
-Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller databasstorlek för totalt antal personer, antal säljbara leads och en uppdelning av leads efter de fem främsta källorna.
+Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller databasstorlek för totalt antal personer, antal säljbara leads och en uppdelning av leads efter fem främsta källor.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
@@ -49,13 +49,13 @@ Om du vill använda den här funktionen måste e-postprogrammet vara schemalagt 
 
 ## [Förbättringar av mobilmarknadsföring](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Stöd för sandlådeappar**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program-API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Program-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande eller uppdatering av smarta listor och smarta kampanjer i ett program.
 
@@ -65,7 +65,7 @@ Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande 
 
 ![](assets/pending-backog-cropped.png)
 
-**[Meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelanden om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
+**[Meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelande om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
