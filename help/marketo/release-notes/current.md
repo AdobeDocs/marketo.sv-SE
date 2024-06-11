@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '277'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
      <tr> 
    <td><strong>Mallar för interaktiva webbinarier</strong>: Nu kan marknadsförarna skapa egna mallar för rumslayouter i interaktiva webbinarier.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Mallar</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
      <tr> 
    <td><strong>Inspelade fält i Forms</strong>: Datakällan som används för att fylla i härledda fält när en person skapas via formulärifyllning utan tidigare webbaktivitet har uppdaterats för att använda samma datakälla som andra metoder för personinsamling. Inkommande fältdata är nu konsekventa över alla samlingspunkter.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>

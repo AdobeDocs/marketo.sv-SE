@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9359'
 ht-degree: 0%
 
 ---
@@ -724,6 +724,7 @@ ht-degree: 0%
             + [Skapa ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Lägg till ett webbinarium](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Designa interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Mallar](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Marknadsför ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Ändra eller ta bort ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [On-Demand-webbinarier](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
