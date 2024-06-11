@@ -4,7 +4,7 @@ description: Översikt över väljaren för e-postmallar - Marketo Docs - Produk
 title: Översikt över väljaren för e-postmall
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Översikt över väljaren för e-postmall {#email-template-picker-overview}
 
-När du [skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
+När du [skapa e-post](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Namn** blir namnet på det e-postmeddelande som du skapar baserat på mallen, inte själva mallen. **Beskrivning** gäller även för e-postmeddelandet och är valfritt.
 
@@ -27,7 +27,7 @@ Om din e-postadress är viktig och du vill att den ska kringgå kommunikationsbe
 
 **Startmallar** innehåller en samling färdiga responsiva e-postmallar. Du kan använda dem som de är eller anpassa dem efter dina önskemål.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Mina mallar** består av alla mallar som du har skapat. Du kan också ha mappar.
 
@@ -41,7 +41,7 @@ Om du vill förhandsgranska en mall håller du pekaren över miniatyrbilden och 
 
 ![](assets/seven-1.png)
 
-Förhandsgranskaren visar hur mallen kommer att återges på en stationär dator...
+Förhandsgranskaren visar hur mallen återges på en stationär dator...
 
 ![](assets/eight-1.png)
 
