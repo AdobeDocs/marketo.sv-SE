@@ -3,9 +3,9 @@ description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokum
 title: Versionsinformation för Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chat-releaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar metod för driftsättning av funktioner. Ibland finns det flera releaser på en månad, så var vänlig och kika regelbundet efter den senaste informationen.
 
 Standardsidan för versionsinformation för Marketo Engage [finns här](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Juniversion 2024 {#june-release}
+
+**Releasedatum: 6 juni 2024**
+
+### Konversationsflödeskort {#conversational-flow-card}
+
+Effektivisera flera steg i ett flöde i dialogrutorna genom att utnyttja Conversational Flow-kortet.
+
+Exempel: Om ditt mål är att skapa registreringar för ditt webbinarium via flera dialogrutor måste du återskapa samma flöde för alla dialogrutor som har det målet. Och om du måste uppdatera någon detalj måste du redigera varje dialogruta en åt gången. Det är inte längre fallet, tack vare konversationsflödet.
+
+Förutom att återanvända flöden mellan flera dialogrutor kan du även använda samma övergångsflöde för att utlösa via andra kanaler, som formulär och landningssidor.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Användningsgränser {#usage-limits}
+
+På sidan Användningsbegränsningar visas viktig information, t.ex. paketinformation och status för din användningsgräns.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Version maj 2024 {#may-release}
 

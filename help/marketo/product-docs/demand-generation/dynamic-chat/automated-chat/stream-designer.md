@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1187'
+source-wordcount: '1204'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td style="width:25%"><strong>Villkorlig förgrening</strong></td>
   <td>Skapa grenar i Dialogrutorna baserat på olika villkor. Presentera olika innehåll för olika personer i samma dialog baserat på lead- och företagsattribut i Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Konversationsflöde</strong></td>
+  <td>Effektivisera flera steg i ett flöde i dialogrutorna med hjälp av konversationsflödeskortet.</td>
  </tr>
 </table>
 
