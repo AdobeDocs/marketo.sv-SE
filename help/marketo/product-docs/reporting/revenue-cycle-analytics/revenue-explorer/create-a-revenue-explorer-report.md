@@ -4,9 +4,9 @@ description: Skapa en rapport om intäktsutforskaren - Marketo Docs - produktdok
 title: Skapa en rapport för intäktsutforskaren
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Med rapporten Revenue Explorer (intäktsutforskaren) kan du följa avkastningen 
 >[!AVAILABILITY]
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+
+>[!IMPORTANT]
+>
+>Papperskorgen i intäktscykelutforskaren har tillfälligt dolts på grund av ett fel. Vi arbetar för närvarande med en korrigering och dina filer är säkra. Kontakta [Stöd för Adobe](https://nation.marketo.com/t5/support/ct-p/Support) om det finns filer som du behöver återställa.
 
 1. Gå till **Intäktsutforskaren** område.
 
