@@ -4,9 +4,9 @@ description: Skapa meddelandetext i appen - Marketo Docs - produktdokumentation
 title: Skapa meddelandetext i appen
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Skapa meddelandetext i appen {#create-in-app-message-text}
 
 Klicka på textområdet om du vill arbeta med textformatet och innehållet.
+
+>[!CAUTION]
+>
+>Vi rekommenderar att du inte använder känslolägesikoner i texten eftersom de inte stöds fullt ut just nu.
 
 1. Klicka på huvudtexten om du vill redigera den infogade texten.
 
@@ -41,7 +45,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    >[!NOTE]
    >
-   >Det teckensnitt som återges i annonsen är standardteckensnittet för varje plattform: Helvetica for Apple and Roboto for Android
+   >Det teckensnitt som återges i annonsen är standardteckensnittet för varje plattform: Helvetica för Apple och Roboto för Android
 
 1. Markera rutan för att välja åtgärd för att trycka på text.
 
@@ -53,7 +57,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    >[!NOTE]
    >
-   >För tryckåtgärder kan du ställa in olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja Ingen.
+   >För tryckningsåtgärder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja Ingen.
 
 1. Klicka på stödtexten för att redigera den. Det fungerar på samma sätt som att redigera huvudtexten, men standardtextstorleken är mindre.
 
