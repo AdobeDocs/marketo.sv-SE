@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 68962b2cc0132194852da2081b8577f732d4b497
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '9361'
+source-wordcount: '9331'
 ht-degree: 0%
 
 ---
@@ -116,7 +116,7 @@ ht-degree: 0%
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Lägg till webb som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-         + [Konfigurera dina SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
+         + [Konfigurera SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [Anslut BrightTALK till Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Skapa en anpassad tjänst för användning med ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Skapa en webbkrok](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -169,7 +169,7 @@ ht-degree: 0%
          + [Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Skapa en anpassad aktivitet](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Redigera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Publicera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Publish en anpassad aktivitet](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [Export av metadata för anpassad aktivitet](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Anpassade Marketo-objekt {#marketo-custom-objects}
          + [Förstå anpassade Marketo-objekt](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -239,21 +239,21 @@ ht-degree: 0%
          + [Aktivera No-draft för kodfragment](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Arbetsytor och personpartitioner {#workspaces-and-person-partitions}
          + [Arbetsytor och personpartitioner](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-         + [Tillåt användaråtkomst till en arbetsyta](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
+         + [Tillåt användaråtkomst till en Workspace](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Tilldela personpartitioner till arbetsytor](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [Tilldela personpartitioner med tilldelningsregler](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [Ändra namnet på en arbetsyta](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [Skapa en ny arbetsyta](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [Ändra namnet på en Workspace](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [Skapa en ny Workspace](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [Skapa en personpartition](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
-         + [Ta bort en arbetsyta](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [Redigera en arbetsyta](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [Ta bort en Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
+         + [Redigera en Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Redigera en befintlig personpartition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Dela segment mellan arbetsytor och partitioner](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
       + [Adobe Experience Cloud Integrations - översikt](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [Ställ in organisationsmappning för Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synkronisera en publik från Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
-      + [Importera resurser med Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Importera Assets med Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Adobe Experience Cloud Interface Overview](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Marketo Core Concepts {#core-marketo-concepts}
       + Smarta kampanjer {#smart-campaigns}
@@ -391,9 +391,9 @@ ht-degree: 0%
          + Skapa program {#creating-programs}
             + [Förstå program](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [Skapa ett program](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
-            + [Förstå lokala resurser i ett program](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+            + [Understanding Local Assets in a Program](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Förstå programmedlemskap](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-            + [Använda fliken Resurser](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
+            + [Använda fliken Assets](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
             + [Använda fliken Program](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + Arbeta med program {#working-with-programs}
             + [Bästa praxis: Organisera dina program](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
@@ -424,7 +424,7 @@ ht-degree: 0%
             + [CT-YYY-MM-Content on Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
             + [CT-YYY-MM-Content Non-Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
             + [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
-            + [OA-YYY-MM-Online Advertising Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [OA-YYY-MM-Online Advertising Marketo startsida](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
             + [OP-Data Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
             + [OP-Lead Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
             + [OP-Scoring-Beteende](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
@@ -471,7 +471,7 @@ ht-degree: 0%
             + [Radera transaktioner direkt i marknadsföringskalendern](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
             + [Ta bort ett filter i Marketing Calendar](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/deleting-a-filter-in-the-marketing-calendar.md)
             + [Redigera poster direkt i marknadsföringskalendern](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
-            + [Filtrera marknadsföringskalendern efter arbetsyta](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
+            + [Filtrera marknadsföringskalendern efter Workspace](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
             + [Filtrera marknadsföringskalendern](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
             + [Spara en filterdefinition i marknadsföringskalendern](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
             + [Dela en filterdefinition i Marketing Calendar](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
@@ -711,7 +711,7 @@ ht-degree: 0%
                + [Skapa en händelse med Marketo ON24-adaptern](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Skapa en händelse i Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-               + [Skapa underordnade kampanjer och lokala resurser](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [Skapa underordnade kampanjer och lokala Assets](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [Skapa ett webbinarium i ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [Exempel på händelseintegrering ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24 - Händelseregistreringsuppdateringar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
@@ -734,7 +734,7 @@ ht-degree: 0%
          + [Lägga till leads till en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Skapa en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [Redigera inställningar för Facebook Rich Post](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Publicera landningssidor på Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Publish landningssidor till Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Konfigurera Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Mappa anpassade fält till Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [Konfigurera offlinekonverteringar för Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
@@ -970,15 +970,15 @@ ht-degree: 0%
             + [Konfigurera när knappen för sociala medier öppnas](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [Knappen Anpassa social app](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [Anpassa videodelningsflöde](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-            + [Ställ in intäktsattribuering för digitala annonskampanjer](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
+            + [Ställ in intäktsattribuering för digitala Advertising-kampanjer](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
          + Skapa en omröstning {#creating-a-poll}
             + [Skapa en omröstning](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [Anpassa inställningar för omröstning](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Publicera en omröstning](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [Granska rösterna i omröstningen](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + Referenserbjudanden {#referral-offers}
             + [Skapa ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Publicera ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [Publish ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [Skicka e-post om uppfyllelse av hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Ange mål för hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + Sociala funktioner {#social-functions}
@@ -1001,7 +1001,7 @@ ht-degree: 0%
          + Lotteriet {#sweepstakes}
             + [Skapa Lotterier](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Anpassa utlottningsstilar](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publicera Lotteriet](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [Publish a Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Välj Lotterivinnare](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-postmarknadsföring {#email-marketing}
       + Leverans {#deliverability}
@@ -1285,7 +1285,7 @@ ht-degree: 0%
       + Vanliga frågor {#faq}
          + [Kan jag återställa en kontakt eller grupp jag tagit bort?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
-         + [Har Sales Connect en iPhone- eller Android-app?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
+         + [Har Sales Connect iPhone eller Android App?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Hur Tillåtslista jag Sales Connect på min server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [Jag har låst ut mitt konto. Vad ska jag göra?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Är Sales Connect kompatibelt med Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
@@ -1449,7 +1449,7 @@ ht-degree: 0%
             + [Kan jag spåra flera mottagare med CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Vanliga frågor om innehåll och bifogad fil](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
             + [Kommer vyer, klickningar och svar från mottagarna som listas i avsnittet CC och BCC i e-postmeddelandet att spåras?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
-            + [Har Sales Insight Actions en iPhone- eller Android-app?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Har Sales Insight Actions en iPhone eller Android App?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Hur Tillåtslista jag Sales Insight-åtgärder på Min server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Hur korrigerar jag&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hur förhindrar jag självvisningar?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
@@ -1508,7 +1508,7 @@ ht-degree: 0%
             + [Visa malllista som en annan användare](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + Använda MSI {#using-msi}
          + [Logga inkommande e-post från dina leads i Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-      + MSI Chrome-plugin {#msi-chrome-plugin}
+      + MSI Chrome Plugin {#msi-chrome-plugin}
          + [Installera Marketo Insights för Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Använda Marketo Insights för Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Visa person- och kontoinformation och aktiviteter i Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
@@ -1561,7 +1561,7 @@ ht-degree: 0%
                + [Välj en åtgärd i Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Konfigurera sidfot för avanmälan i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Lås försäljningsmall](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Publicera ett e-postmeddelande till Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Publish an Email to Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Skicka ett testmeddelande](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Språkstöd {#language-support}
                + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1604,21 +1604,14 @@ ht-degree: 0%
       + [Sales Insight for Non-Native MS Dynamics Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Sales Insight for Non-Native Salesforce Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
-      + [Aktivera roller för Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
       + [Förväntat beteende](product-docs/marketo-sky/expected-behavior.md)
-      + [Komma igång med prediktiva målgrupper](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
-      + [Modellens hälsa och datavalidering](product-docs/marketo-sky/model-health-and-data-validity.md)
-      + [Prediktiva filter](product-docs/marketo-sky/predictive-filters.md)
-      + [Ställa in en händelsekarta](product-docs/marketo-sky/setting-an-event-cap.md)
-      + [Ange händelsemål](product-docs/marketo-sky/setting-event-goals.md)
-      + [Förstå målspårning och projekterade registreringar](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobilmarknadsföring {#mobile-marketing}
       + Administratör {#admin}
          + [Lägg till en mobilapp](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Lägg till vibes som en LaunchPoint-tjänst](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Autentisera säkerhet för mobil åtkomst](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Innan du skapar push-meddelanden och meddelanden i appen](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
-         + [Konfigurera Android-åtkomst för mobilapp](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+         + [Konfigurera Android Push Access för mobilappar](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
          + [Konfigurera iOS Push Access för mobilappar](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [Ta bort mobilapp](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [Skicka SDK-kod till en utvecklare](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
@@ -1656,7 +1649,7 @@ ht-degree: 0%
          + [Använda SMS-alternativ i en smart kampanj](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [SMS-rapportering](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [SMS-ordlista](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalisering {#personalization}
+   + Personalization {#personalization}
       + Segmentering och kodavsnitt {#segmentation-and-snippets}
          + Segmentering {#segmentation}
             + [Godkänn en segmentering](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1686,7 +1679,7 @@ ht-degree: 0%
       + Komma igång {#getting-started}
          + [Inställningar för algoritmmål](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Skapa innehållsmönster](product-docs/predictive-content/getting-started/create-content-patterns.md)
-         + [Distribuera JavaScript för Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
+         + [Installera JavaScript för Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
          + [Aktivera innehållsidentifiering](product-docs/predictive-content/getting-started/enable-content-discovery.md)
          + [Ställ in kategorier](product-docs/predictive-content/getting-started/set-up-categories.md)
       + Arbeta med allt innehåll {#working-with-all-content}
@@ -1733,8 +1726,8 @@ ht-degree: 0%
             + [Öka detaljnivån i en rapport om personprestanda](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Exportera en rapport till Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [Filtrera en kampanjaktivitetsrapport](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-            + [Filtrera resurser i en e-postrapport för kampanj](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-            + [Filtrera resurser i en e-postrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Filtrera Assets i en kampanjrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+            + [Filtrera Assets i en e-postrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Gruppera personrapporter efter attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [E-postrapport, kampanjprestanda i flera arbetsytor](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Dela en modell över arbetsytor](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
@@ -1807,11 +1800,11 @@ ht-degree: 0%
             + [Skapa en lyckad sökvägsanalys](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
             + [Aktivera anpassade fältgrupper för modellresultatanalys (leads)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
             + [Hitta alla leads i en intäktscykelmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [Sammanfoga två steg i intäktsmodelleraren](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [Sammanfoga två steg i Modeler Revenue](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [Rapport om din intäktsmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
             + [Ange Google AdWords-konverteringar i intäktsmodellen med ett Manager-konto](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [Ange Google AdWords-konverteringar i intäktsmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [Starta spårning efter konto i intäktsmodelleraren](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [Starta spårning efter konto i Intresse-Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [Förstå intäktsmodellfaser](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [Förstå lyckad affärsmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
             + [Förstå intäktsmodeller](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
@@ -1890,7 +1883,7 @@ ht-degree: 0%
          + [Konfigurera kontoprofilering](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [Rankning och justering av kontoprofilering](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [Ny kontoidentifiering](product-docs/target-account-management/account-profiling/new-account-discovery.md)
-   + Webbanpassning {#web-personalization}
+   + Web Personalization {#web-personalization}
       + Kontobaserad webbmarknadsföring {#account-based-web-marketing}
          + [Kontobaserad webbmarknadsföring med TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Skapa en ny kontolista](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
@@ -1899,19 +1892,19 @@ ht-degree: 0%
          + [Lägg till underdomäner i kontoinställningar](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Redigera områden](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Inloggning och användarhantering](product-docs/web-personalization/getting-started/login-and-user-management.md)
-         + [Ställa in webbanpassning till Spåra inte](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
+         + [Ange att webb-Personalization inte ska spåras](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
          + [Användarinställningar](product-docs/web-personalization/getting-started/user-settings.md)
-         + [Arbetsytor för webbpersonalisering](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
+         + [Arbetsytor i Web Personalization](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
       + Implementering av RTP-tagg {#rtp-tag-implementation}
          + [Distribuera RTP JavaScript](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
-         + [Aktivera eller inaktivera JavaScript-taggen RTP](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
+         + [Aktivera eller inaktivera RTP JavaScript-taggen](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
          + [Implementera RTP på Marketo landningssidor](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
          + [Implementera RTP i Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Implementera RTP i Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Implementera RTP med Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Implementera RTP med Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Implementera RTP med Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + Rapportering för webbanpassning {#reporting-for-web-personalization}
+      + Reporting for Web Personalization {#reporting-for-web-personalization}
          + [E-postrapporter](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Aktivera/inaktivera rapportprenumerationer](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [Undanta specifika IP-adresser från spårning](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
@@ -1923,10 +1916,10 @@ ht-degree: 0%
             + [Integrera RTP med Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Integrera RTP med Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integrera med Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Om webbanpassning {#understanding-web-personalization}
+      + Understanding Web Personalization {#understanding-web-personalization}
          + [Innehållsanalys](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
-         + [Ordlista för webbpersonalisering](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
-         + [Webbpersonalisering - översikt](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
+         + [Personalization-ordlista för webben](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
+         + [Personalization - översikt](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Använda mallar {#using-templates}
          + [Spara kampanjen som en mall](product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
          + [Använda mallar för att skapa webbkampanjer](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
@@ -1942,7 +1935,7 @@ ht-degree: 0%
       + Återmarknadsföring av webbplatser {#website-retargeting}
          + [Personaliserad marknadsföring i Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Personaliserad marknadsföring i Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Återannonsering med webbpersonaliseringsdata](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Återannonsering med Web Personalization Data](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Arbeta med webbkampanjer {#working-with-web-campaigns}
          + [AB Testa webbkampanjen](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Lägga till en mål-URL i en webbkampanj](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
@@ -1951,7 +1944,7 @@ ht-degree: 0%
          + [Skapa en ny webbkampanj för dialog](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [Skapa en ny webbkampanj i zonen](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
          + [Skapa en ny webbkampanj för widget](product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-         + [Definiera en smart lista för webbpersonaliseringsaktiviteter](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+         + [Definiera en smart lista för Personalization-aktiviteter på webben](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
          + [Ta bort en webbkampanj](product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
          + [Redigera en befintlig webbkampanj](product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
          + [Bädda in ett formulär i en webbkampanj](product-docs/web-personalization/working-with-web-campaigns/embed-a-form-into-a-web-campaign.md)
@@ -1964,7 +1957,7 @@ ht-degree: 0%
          + [Schemalägg en webbkampanj](product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
          + [Ange hur webbkampanjen ska visas](product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)
          + [Sortera webbkampanjer efter senaste eller populäraste resultat](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
-         + [Använda Redigeraren för webbanpassning av RTF](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
+         + [Använda Personalization RTF-redigeraren](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Visa webbkampanjer från en viss etikett](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Versionsinformation {#release-notes}
    + [Releaschema](release-notes/release-schedule.md)
