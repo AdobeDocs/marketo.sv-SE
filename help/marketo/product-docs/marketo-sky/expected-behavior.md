@@ -4,9 +4,9 @@ title: Förväntat beteende
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ I den här artikeln hittar du information om förväntat beteende som är koppla
    * Sannolikhetsprognoser på ledarnivå - [!DNL Sky/Classic]
    * Mål och spårning - [!DNL Sky] endast
    * Insikter och rekommendationer - [!DNL Sky] endast
-* [Inledande aktivering](/help/marketo/product-docs/marketo-sky/getting-started-with-predictive-audiences.md) tar **24-48 timmar** för alla processer som ska slutföras när PA har aktiverats. Du kommer att se alla funktioner för prediktiva målgrupper och prediktiva filter i gränssnittet, men det kan ta upp till 24 timmar innan de här funktionerna börjar fungera.
+* Inledande aktivering **24-48 timmar** för alla processer som ska slutföras när PA har aktiverats. Du kommer att se alla funktioner för prediktiva målgrupper och prediktiva filter i gränssnittet, men det kan ta upp till 24 timmar innan de här funktionerna börjar fungera.
 * **Förutsättningar genereras bara för nya kampanjer som skapas efter att funktionen har aktiverats.**
 
 **Det finns ytterligare saker att tänka på när det gäller prediktiva filter**:
@@ -38,9 +38,9 @@ I den här artikeln hittar du information om förväntat beteende som är koppla
 * Prediktiva filter är inte tillgängliga för utlösarkampanjer.
 * Om du vill köra en smart kampanj måste troliga filter användas tillsammans med andra vanliga filter.
 * Funktionen Sparade regler kan inte användas i kampanjer som innehåller prediktiva filter.
-* Du kan använda **upp till 5** prediktiva filter i en smart lista.
+* Du kan använda **upp till 5** prediktiva filter i en smart lista.
 * Prediktiva filter kan bearbeta en **högst 1 miljon kvalificerade leads**.
-* Du kan ha **upp till 50 aktiva program** med prediktiva filter. Ett aktivt program är ett program som använder prediktiva filter och har schemalagts minst en gång.
+* Du kan ha **upp till 50 aktiva program** med prediktiva filter. Ett aktivt program är ett program som använder prediktiva filter och har schemalagts minst en gång.
 
 ## När är inte projicerade registreringar tillgängliga?
 
