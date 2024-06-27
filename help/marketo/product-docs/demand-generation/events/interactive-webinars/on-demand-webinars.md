@@ -2,9 +2,10 @@
 description: On Demand Webinars - Marketo Docs - produktdokumentation
 title: On-Demand-webbinarier
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ On-Demand Webinars fångar och förfinar leads som registrerats för ditt event 
 
 URL:en för webbinariet Joining som delades med de registrerade före evenemanget kan användas för att titta på inspelningen on demand. När en registrant som inte deltog i live-evenemanget (t.ex. en lead med programstatus som &quot;No-Show&quot;) klickar på webbinariets anslutnings-URL, ändras leadets programstatus från &quot;No-Show&quot; till &quot;Attended On-Demand&quot;. Programstatusen för de leads som tittade på händelsen live och har statusen &quot;Attended&quot; påverkas inte om de bestämmer sig för att besöka URL:en Joining och titta på inspelningen on demand.
 
-Adobe Connect, den teknik som driver Interactive Webinars, håller reda på såväl besöket som hur länge tittarna ser på filmerna och rapporterar om informationen till Marketo dagligen. Inspelningen finns på Joining URL i 30 dagar efter händelsen. Längden kan inte ändras.
+Adobe Connect, den teknik som driver Interactive Webinars, håller reda på besökets längd liksom hur länge ledtrådarna som tittar på inspelningen ska vara och rapporterar informationen till Marketo Engage dagligen. Spårning för On-Demand-webbinarier stoppas 30 dagar efter händelsen. Längden kan inte ändras.
 
-Marketo tillhandahåller bevakningsstatistik för On Demand Webinars på fliken Dashboard med hjälp av följande widgetar:
+Marketo Engage tillhandahåller bevakningsstatistik för On Demand-webbinarier på fliken Dashboard med hjälp av följande widgetar:
 
 * On-Demand Summary: Detta ger en sammanfattning av antalet besökare (no-Shows) som tittar på inspelningen efter händelsen på en viss dag(ar)
 
