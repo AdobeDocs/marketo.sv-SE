@@ -3,9 +3,9 @@ description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentat
 title: Begränsning för e-postanslutning
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,7 @@ ht-degree: 0%
 
 Genom att integrera ditt Sales Connect-konto för att skicka via Exchange- eller Gmail-e-postleverantörer får du en smidig konfiguration och optimerar e-postleveransen för 1:1-säljkommunikation. Men för att skydda systemen och kontona tillämpar Gmail och Exchange e-postgränser. Dessa begränsningar är öppna för att ökas eller minskas efter leverantörens gottfinnande.
 
-## Begränsning av e-postanslutning (beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Den här funktionen finns för närvarande i Beta. Kontakta kontoteamet (din kontoansvarige) för att gå med.
+## Begränsning av e-postanslutning (Beta) {#email-connection-throttling-beta}
 
 Begränsning av e-postanslutning gör att Sales Connect-administratörer kan konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveranskanalleverantören inte överskrider de tvingande gränserna.
 
@@ -49,7 +45,7 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Ange väntetiden innan varje batch skickas. I det här exemplet väljer vi 25 e-postmeddelanden var 45:e sekund.
+1. Ange hur lång tid det ska ta innan varje batch skickas. I det här exemplet väljer vi 25 e-postmeddelanden var 45:e sekund.
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -86,5 +82,5 @@ Begränsningar anges av organisationens IT-avdelning när servern hanteras av or
 >[!MORELIKETHIS]
 >
 >* [Översikt över leveranskanalen](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Email Connection för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

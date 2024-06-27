@@ -3,7 +3,7 @@ description: Ändra eller ta bort ett interaktivt webbinarium - Marketo Docs - p
 title: Ändra eller ta bort ett interaktivt webbinarium
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Rummet läses in. Om du vill byta rum väljer du ett i listrutan Rummen. Om du bara vill uppdatera mallen klickar du på **Använd rum**.
+1. Rummet läses in. Om du vill byta rum väljer du ett i listrutan Rummen. Om du vill uppdatera mallen klickar du på **Använd rum**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -36,7 +36,7 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. När du är klar med ändringarna klickar du på **Avsluta rummet**.
+1. När du är klar med ändringarna klickar du **Avsluta rummet**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -64,7 +64,7 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
    >
    >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Klona** därifrån.
 
-1. Ge det klonade programmet ett namn, ange arbetsytan och målet (om du vill att programmet ska vara någon annanstans) och klicka på **Spara**.
+1. Ge det klonade programmet ett namn, ange Workspace och mål (om du vill att programmet ska vara någon annanstans) och klicka på **Spara**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
