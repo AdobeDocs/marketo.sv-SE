@@ -4,9 +4,9 @@ description: Använd taggar i ett program - Marketo Docs - produktdokumentation
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Använd taggar i ett program {#use-tags-in-a-program}
 
 Taggar är attribut som beskriver dina program och används för att gruppera programtyper vid rapportering.
+
+>[!NOTE]
+>
+>Om du använder Inkomstcykel Explorer måste en periodkostnad definieras (även om det är 0) för att rapporteringen ska vara tillgänglig för programmet.
 
 ## Använda en tagg i ett program {#use-a-tag-in-a-program}
 
