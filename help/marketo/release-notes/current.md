@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -32,9 +32,42 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
+   <td><strong>Engagement Dashboard för interaktiva webbinarier</strong>: Få en sammanställd resultatvy för webbinariet samt en heltäckande bild av engagemanget för varje deltagare under webbinariet, så att ni kan bestämma vilka som leder till målet via Marketo Engage orkestreringsverktyg.</td> 
+    <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Rumshantering för interaktiva webbinarier</strong>: Ha tillgång till enskilda rum som skapats (och gör ändringar om det behövs) samt få tillgång till innehållet och inspelningen (och rensa dem om det behövs för att optimera lagringen).</td> 
+    <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Anpassning av webbinarium för interaktiva webbinarier</strong>: Tillhandahåll en enhetlig varumärkesgodkänd upplevelse genom att använda ett gemensamt rumsgränssnitt, mellanskärmar (t.ex. bakgrunder på ingångsskärmen) samt anpassade videobakgrunder, så att webbinaristrategin enklare kan anpassas efter varumärkesstrategin.</td> 
+    <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Marketo REST API-ändring</strong>: Vi introducerar en mindre ändring av <a href="https://developers.marketo.com/rest-api/user-management/">API för användarhantering</a>. Båda <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Bläddra bland användare</a> och <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Ta bort användare</a> slutpunkter har nu stöd <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Hantering av målkonto</a> -användare.</td> 
-   <td><i>kommer snart</i></td>
-   <td><i>kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
   </tr>
  </tbody> 
 </table>
