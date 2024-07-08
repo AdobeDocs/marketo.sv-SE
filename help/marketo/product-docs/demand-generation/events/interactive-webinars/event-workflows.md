@@ -3,9 +3,9 @@ description: Event Workflows - Marketo Docs - Product Documentation
 title: Arbetsflöden för händelser
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Gå till fliken Översikt om du vill visa det inspelade webbinariet, få länken
 >[!NOTE]
 >
 >* Interaktiva webbinarier registreras inte automatiskt. När webbinariet har startats klickar du på listrutan bredvid webbinariets namn och väljer **Spela in session**.
+>* Om sessionen spelas in måste värden avsluta inspelningen manuellt eller välja &quot;Avsluta session för alla&quot; för att stoppa inspelningen. I annat fall stoppas inspelningen automatiskt inom 10 minuter från den sista deltagaren i rummet.
 >* Inspelningen hämtas i MP4-format.
 >* När du delar inspelningen kan den visas av alla som har länken, så se till att den delas med den avsedda publiken.
 
