@@ -3,9 +3,9 @@ description: Fråggenerering - Marketo Docs - produktdokumentation
 title: Fråggenerering
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Se alla dina uppgifter och relevant information, t.ex. när de skapades, det tot
    >[!IMPORTANT]
    >
    >Om du vill vara säker på att Marketo Engage kan skrapa innehåll från de angivna URL:erna måste du först tillåtslista flera IP-adresser. [Mer information finns nedan](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >Webbplatser/sidor måste vara offentliga (dvs. inte dolda bakom en inloggning) för att deras information ska kunna rensas.
 
 1. Beroende på ditt innehåll kan det ta upp till 30 minuter att generera frågor och svar. Klicka på **[!UICONTROL OK]**.
 
