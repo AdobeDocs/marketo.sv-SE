@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Versionsinformation: juli 2024 {#release-notes-july-24}
 
-Här nedan hittar du alla funktioner som ingår i versionen från 24 juni. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Här nedan hittar du alla funktioner som finns i juliversionen från 24. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
