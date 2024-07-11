@@ -3,16 +3,16 @@ description: Generativ AI-översikt - Marketo Docs - produktdokumentation
 title: Generativ AI-översikt
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Generativ AI-översikt {#generative-ai-overview}
 
-Generativ AI i Adobe Dynamic Chat bearbetar avsiktssignaler, användarpreferenser och tidigare beteenden i realtid för att generera relevanta, personaliserade meddelanden för chattbesökare.
+Med de generativa AI-baserade funktionerna i Adobe Dynamic Chat kan ni optimera produktiviteten för era säljare, få insikter i besökarnas avsikter och besvara besökarnas frågor på ett säkert sätt.
 
 ## Behörigheter {#permissions}
 
