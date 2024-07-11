@@ -1,11 +1,12 @@
 ---
 description: Installationssteg - Marketo Docs - produktdokumentation
+short-description: Vill du bara komma igång med Adobe Marketo Engage? Lär dig vilka steg du måste slutföra innan du går in.
 title: Installationssteg
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1684'
 ht-degree: 0%
 
 ---
@@ -261,7 +262,7 @@ Välj något av följande, beroende på vilken CRM ditt företag använder.
 >
 >Är du [!DNL Launch Pack] kund? Du kan hoppa över det här steget. Din konsult kommer att förse dig med [!DNL Munchkin] kodinstruktioner i dokumentet med IT-installationsanvisningar.
 
-Marketo Engage har JavaScript-spårning (anropas [!DNL Munchkin]) som du kan använda för att spåra personaktiviteter på en webbsida. [!DNL Munchkin] krävs för att integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till [!DNL Munchkin] Spåra kod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage har JavaScript för anpassad spårning (kallas [!DNL Munchkin]) som du kan använda för att spåra personaktiviteter på en webbsida. [!DNL Munchkin] krävs för att integrera din webbplats i Marketo. Följ de här stegen för att [Lägg till [!DNL Munchkin] Spåra kod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ Marketo Engage har JavaScript-spårning (anropas [!DNL Munchkin]) som du kan anv
 
 ## Prestandaförväntningar {#performance-expectations}
 
-Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i kolumnen &quot;Standard&quot; i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i kolumnen &quot;Standard&quot; i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; refererar till prestandanivåpaket som innehåller [högre prestanda](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

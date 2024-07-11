@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage-ordlista - Marketo Docs - produktdokumentation
+short-description: Lär dig Marketo Engage termer och deras definitioner så att du snabbt kommer igång.
 title: Marketo Engage - ordlista
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 0%
 
 ---
@@ -52,7 +53,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Annonsnätverksintegrering </strong></a></td> 
-   <td colspan="1">(tidigare Ad Bridge) Ett sätt att koppla samman Marketo unika målgruppsdata med betalmediesystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer.</td> 
+   <td colspan="1">(tidigare Ad Bridge) Ett sätt att koppla Marketo unika målgruppsdata till era betalda mediesystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><strong>Godkänd</strong></td> 
-   <td colspan="1">Används för att bekräfta när en <strong>resurs</strong> är redo för konsumtion. Resurser kan inte visas offentligt förrän de har godkänts.</td> 
+   <td colspan="1">Används för att bekräfta när en <strong>resurs</strong> är redo för konsumtion. Assets kan inte ses offentligt förrän de har godkänts.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Tillgång</strong></td> 
@@ -128,7 +129,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">"Campaign" kan betyda några saker i Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">kampanj</a> är en kortare term för smarta kampanjer. I <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">kampanjer</a> är en serie korrespondenssteg för flera kanaler. I <strong>Webbanpassning</strong>, webb <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">kampanjer</a> är anpassade reaktioner som är kopplade till ett visst segment.</td> 
+   <td colspan="1">"Campaign" kan betyda några saker i Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">kampanj</a> är en kortare term för smarta kampanjer. I <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">kampanjer</a> är en serie korrespondenssteg för flera kanaler. I <strong>Web Personalization</strong>, webb <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">kampanjer</a> är anpassade reaktioner som är kopplade till ett visst segment.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Resultatrapport för e-postkampanj</a></strong></td> 
@@ -184,7 +185,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Innehållsanalys</strong></a></td> 
-   <td colspan="1">Ett område i <strong>Webbanpassning</strong> som visar befintligt innehåll från din webbplats samt innehållsprestanda.</td> 
+   <td colspan="1">Ett område i <strong>Web Personalization</strong> som visar befintligt innehåll från din webbplats samt innehållsprestanda.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Innehållsengagemangsnivå</strong></td> 
@@ -393,8 +394,8 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td><p>Den EU-lagstiftning som trädde i kraft den 25 maj 2018 syftar till att ge EU-medborgarna bättre kontroll över sina personuppgifter.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Globala resurser</strong></td> 
-   <td>Resurser skapade i <strong>Design Studio</strong> för användning i <strong>program</strong> över hela Marketo. </td> 
+   <td><strong>Global Assets</strong></td> 
+   <td>Assets som skapats i <strong>Design Studio</strong> för användning i <strong>program</strong> över hela Marketo. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Guidad landningssida</strong></td> 
@@ -483,8 +484,8 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td colspan="1">En samling människor. I Marketo finns det smarta listor och statiska listor. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">smart lista</a> är en dynamisk lista med personer som kan ändras hela tiden, eftersom den baseras på filter som du definierar (t.ex. alla i din databas som bor i Kalifornien). När nya personer uppfyller kriterierna (eller befintliga personer inte längre är kvalificerade) ändras listan. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statisk lista</a> är, ja, statiskt. Den ändras inte om du inte lägger till/tar bort någon manuellt.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokala resurser</strong></a></td> 
-   <td><strong>Resurser</strong> används inom ett specifikt <strong>program</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokal Assets</strong></a></td> 
+   <td><strong>Assets</strong> används inom ett specifikt <strong>program</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +536,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
-   <td>Marketo egen JavaScript-spårningskod. Här spåras alla personer som besöker er webbplats. Detta inkluderar anonyma besökare (tillsammans med deras IP-adresser och annan information). </td> 
+   <td>Marketo egen spårningskod för JavaScript. Här spåras alla personer som besöker er webbplats. Detta inkluderar anonyma besökare (tillsammans med deras IP-adresser och annan information). </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mina Marketo</strong></td> 
@@ -861,14 +862,14 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
     <div> 
      <p><strong> Webbkampanj</strong></p> 
     </div></td> 
-   <td colspan="1">En anpassad reaktion som är kopplad till ett visst segment. I <strong>Webbanpassning</strong>, webbkampanjer innehåller <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogrutor</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">I zoner</a>och <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgetar</a></strong>.</td> 
+   <td colspan="1">En anpassad reaktion som är kopplad till ett visst segment. I <strong>Web Personalization</strong>, webbkampanjer innehåller <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogrutor</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">I zoner</a>och <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgetar</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Aktivitetsrapport för webbsida</a></strong></td> 
    <td>En rapporttyp i Marketo. Du kan då se de kända <i>eller</i> anonyma personer som besöker er webbplats.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Webbanpassning</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web Personalization</strong></td> 
    <td>En tilläggsfunktion som ger er en plattform för målinriktning och personalisering som hjälper Marketo-användare att engagera kända och anonyma besökare i realtid, baserat på vilka de är och vad de gör.</td> 
   </tr>
   <tr> 
@@ -889,10 +890,10 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td><strong>Jokertecken</strong></td> 
-   <td>Ett tecken (*) används i <strong>Webbanpassning</strong>) som används före eller efter en sträng för att ersätta andra tecken i en sträng.</td> 
+   <td>Ett tecken (*) används i <strong>Web Personalization</strong>) som används före eller efter en sträng för att ersätta andra tecken i en sträng.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Arbetsyta</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Workspace</a></strong></td> 
    <td>Ett separat område i Marketo som innehåller marknadsföring <strong>resurser</strong>. Du kan till exempel ha en arbetsyta som heter"Nordamerika" som du använder strikt för att marknadsföra i den regionen. Europa, Asien osv.</td> 
   </tr>  
  </tbody> 
