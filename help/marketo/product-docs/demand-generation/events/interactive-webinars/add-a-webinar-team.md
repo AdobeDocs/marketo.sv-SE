@@ -2,9 +2,10 @@
 description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Ett webbinarium i Interactive Webinars består av alla roller som bidrar till at
 
 >[!NOTE]
 >
->Presentatörer och medvärdar i Marketo är exakt mappade till presentatörens och värdenas roller under webbseminariet i Adobe Connect.
+>Presentatörer och andra i Marketo Engage mappar exakt till presentatörens och värddatorernas roller under webbseminariet i Adobe Connect. Deltagare kan ändra layouter och rutor, vilket inte presentatörer kan.
 
 Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har värdbehörigheter under leverans i Adobe Connect. Interna värdar har tillgång till både Interactive Webinar Event Program i Marketo och värdbehörigheter under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
 
@@ -25,7 +26,7 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
 ## Lägg till en medvärd {#add-a-co-host}
 
-1. På sidan Översikt över det interaktiva webbinariet klickar du på **Lägg till värdar**.
+1. Klicka på **Lägg till värdar** på sidan Översikt för det interaktiva webbinariet.
 
    ![](assets/add-a-webinar-team-1.png)
 
@@ -35,9 +36,9 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
    >[!NOTE]
    >
-   >Om du väljer **Intern interaktiv webbinarianvändare** behöver du bara klicka på **Tillgängliga värdar** och välj i listan över personer som har lagts till som användare av interaktiva webbinarier i Marketo Engage.
+   >Om du väljer **Intern användare av interaktivt webbinarium** behöver du bara klicka på listrutan **Tillgängliga värdar** och välja i listan över personer som har lagts till som användare av interaktiva webbinarier i Marketo Engage.
 
-1. Ange medvärdarens förnamn, efternamn och e-postadress. Klicka **Lägg till**.
+1. Ange medvärdarens förnamn, efternamn och e-postadress. Klicka på **Lägg till**.
 
    ![](assets/add-a-webinar-team-3.png)
 
@@ -47,11 +48,11 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
 ## Lägg till en presentatör {#add-a-presenter}
 
-1. På sidan Översikt över det interaktiva webbinariet klickar du på **Lägg till presentatörer**.
+1. Klicka på **Lägg till presentatörer** på sidan Översikt för det interaktiva webbinariet.
 
    ![](assets/add-a-webinar-team-5.png)
 
-1. Ange den önskade presentatörens förnamn, efternamn och e-postadress. Klicka **Lägg till**.
+1. Ange den önskade presentatörens förnamn, efternamn och e-postadress. Klicka på **Lägg till**.
 
    ![](assets/add-a-webinar-team-6.png)
 

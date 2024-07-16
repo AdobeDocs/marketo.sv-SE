@@ -3,9 +3,9 @@ description: On Demand Webinars - Marketo Docs - produktdokumentation
 title: On-Demand-webbinarier
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage tillhandahåller bevakningsstatistik för On Demand-webbinarier p
    * Genomsnittlig bevakningstid i minuter för alla besökare - Ger marknadsförarna en uppfattning om hur mycket av inspelningen som visas och vad Smart Campaigns kan användas för att rikta leads över en viss bevakningstid.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Vyer räknas bara när bevakningstiden överskrider en minut.
 
 Filtren och utlösarna för interaktiva webbinarier har ändrats för att passa On-Demand Webinars. Utlösaren&quot;Attends Event&quot; och filtret&quot;Has Attention event&quot; läggs till med en extra begränsning (&quot;Event Mode&quot;), där en marknadsförare kan välja om målet är Live-målgrupp eller On-Demand-målgrupp. Om villkoret Händelseläge inte är markerat används både Live-målgruppen och On-Demand-målgruppen. Andra begränsningar, t.ex. &quot;Bevakningsdatum&quot; och &quot;Bevakningstid&quot;, kan användas med händelseläget &quot;On-Demand&quot;. Inaktivitetsfiltret &quot;Har inte deltagit i en händelse&quot; kan även användas för webbinarier på begäran i händelseläget &quot;On-Demand&quot;.
