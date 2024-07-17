@@ -4,36 +4,32 @@ description: Ge kredit till referenten - Marketo Docs - produktdokumentation
 title: Ge kredit till referent
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Ge kredit till referent {#give-credit-to-referrer}
 
-## Översikt {#overview}
-
-När en [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}kan du kreditera referenten på olika sätt:
+När du kör ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} eller en [utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"} kan du tillgodoräkna dig referenten på olika sätt:
 
 * Genererade besök
 * Refererade signeringsprogram
 * **Smart List-utlösare**
 * Anpassad JavaScript-händelse
 
-Om du valde att använda **Smart List-utlösare** för att ange ett mål måste du använda **Ge kredit till referent** flödessteg.
+Om du väljer att använda alternativet **Smart List-utlösare** för att ange ett mål måste du använda flödessteget **Ge kredit till referent**.
 
-![](assets/image2014-9-22-15-3a59-3a18.png)
+![](assets/give-credit-to-referrer-1.png)
 
-## Användning {#usage}
+1. När ni väl har skapat kampanjen och bestämt vilken åtgärd ni ska utlösa behöver ni bara hitta och välja den sociala app som ni vill tillgodoräkna er referenten.
 
-1. När du har skapat din kampanj och bestämt vilken åtgärd som ska utlösas, söker du bara efter och väljer den sociala app som du vill kreditera referenten till.
-
-   ![](assets/image2014-9-22-15-3a59-3a39.png)
+   ![](assets/give-credit-to-referrer-2.png)
 
    >[!NOTE]
    >
-   >Kontrollera att din sociala app är konfigurerad att använda Smart List Trigger. Se [Ange mål för hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} för mer information.
+   >Kontrollera att din sociala app är konfigurerad att använda Smart List Trigger. Mer information finns i [Ange mål för hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"}.
 
 Underbar! Alla som bearbetas av det här flödessteget kommer nu att tillgodoräkna sig sin referent.

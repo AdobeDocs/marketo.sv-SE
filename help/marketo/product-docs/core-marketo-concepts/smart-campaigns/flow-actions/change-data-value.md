@@ -4,16 +4,14 @@ description: Ändra datavärde - Marketo Docs - produktdokumentation
 title: Ändra datavärde
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Ändra datavärde {#change-data-value}
-
-## Översikt {#overview}
 
 Du kan använda Marketo för att uppdatera ett fälts värde. För detta kommer du att använda flödesåtgärden **[!UICONTROL Change Data Value]**.
 
@@ -22,8 +20,6 @@ Du kan använda Marketo för att uppdatera ett fälts värde. För detta kommer 
 >[!NOTE]
 >
 >Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i [Blockera uppdateringar av ett fält](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}.
-
-## Användning {#usage}
 
 1. Sök efter och markera det fält som du vill ändra värdet för.
 

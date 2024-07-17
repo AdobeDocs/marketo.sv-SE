@@ -4,9 +4,9 @@ description: Rensa fältvärden - Marketo Docs - produktdokumentation
 title: Rensa fältvärden
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/clear-field-values-1.png)
 
-1. Boom! Det visste du säkert inte! När flödessteget är klart rensas värdet för det fält du valde.
+1. När flödessteget är klart rensas värdet för det fält du valde.
 
    ![](assets/clear-field-values-2.png)
 

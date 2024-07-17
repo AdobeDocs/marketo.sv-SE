@@ -4,40 +4,36 @@ description: Change Score - Marketo Docs - Product Documentation
 title: Ändra poäng
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
 # Ändra poäng {#change-score}
 
-## Översikt {#overview}
+Det är enkelt och kraftfullt att betygsätta människor och det hjälper säljteamet att prioritera.
 
-Det är enkelt och kraftfullt att betygsätta personer så att säljteamet kan prioritera dem.
-
-![](assets/flowstep-changescore.png)
-
-## Användning {#usage}
+![](assets/change-score-1.png)
 
 1. Välj det poängfält som du vill ändra.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >Du kan skapa flera poängfält. Se [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} för mer information.
+   >Du kan skapa flera poängfält. Mer information finns i [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Ange den poängändring du vill ha.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Ändringar:
 
    * **+5** till ökning
    * **-5** minskar (negativa tal tillåts)
    * **=5** kommer att göra poängen med det exakta talet
-   * **=-5** kommer att göra poängen med ett exakt negativt tal
+   * **=-5** kommer att göra poängen exakt negativt tal
 
-Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid. Det var det vi gjorde!
+Få lite grundläggande poängsättning på plats snabbt och finjustera sedan resultatet över tid.

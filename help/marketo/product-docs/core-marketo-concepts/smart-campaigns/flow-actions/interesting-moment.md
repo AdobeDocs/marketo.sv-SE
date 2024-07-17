@@ -4,38 +4,34 @@ description: Intressant stund - Marketo Docs - produktdokumentation
 title: Intressant stund
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
 # Intressant stund {#interesting-moment}
 
-## Översikt {#overview}
+Om du har Marketo Sales Insight kan du använda flödessteget **Intressant stund** för att ge säljteamet insyn i de coola saker som medarbetarna gör.
 
-Om du har Marketo Sales Insight kan du använda **Intressant stund** flödesläge för att ge säljteamet insyn i de coola saker era medarbetare gör.
+![](assets/interesting-moment-1.png)
 
-![](assets/image2016-1-27-11-3a0-3a21.png)
+1. Markera den intressanta stund **[!UICONTROL type]** som du vill använda.
 
-## Användning {#usage}
-
-1. Markera den intressanta stunden **[!UICONTROL type]** som du vill använda.
-
-   ![](assets/image2014-9-22-10-3a49-3a51.png)
+   ![](assets/interesting-moment-2.png)
 
 1. Skapa en **[!UICONTROL description]** som förklarar det intressanta ögonblicket för ditt säljteam.
 
-   ![](assets/image2014-9-22-10-3a49-3a55.png)
+   ![](assets/interesting-moment-3.png)
 
    >[!TIP]
    >
    >_Mindre är mer_. Samarbeta med säljarna för att se till att intressanta ögonblick faktiskt blir intressanta.
 
-Du kan också använda [variabler i intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} för att göra verkligt användbara dynamiska beskrivningar.
+Du kan också använda [tokens i intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} för att göra verkligt användbara dynamiska beskrivningar.
 
 >[!MORELIKETHIS]
 >
 >* [Använda intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
->* [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}
+>* [Tokens för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

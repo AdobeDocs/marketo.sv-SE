@@ -4,7 +4,7 @@ description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - prod
 title: Använd en datumtoken i ett vänteflödessteg
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -19,17 +19,17 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 >
 >Detta gäller endast utlösarkampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
 
-1. I din smarta kampanj **[!UICONTROL Flow]** tabb, dra över **[!UICONTROL Wait]** flödessteg.
+1. Dra över flödessteget **[!UICONTROL Wait]** på fliken Smart Campaign **[!UICONTROL Flow]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Klicka på kugghjulet.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Från **[!UICONTROL Type]** nedrullningsbar meny, välja **[!UICONTROL Date Token]**.
+1. Välj **[!UICONTROL Date Token]** i listrutan **[!UICONTROL Type]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Välj en datumtoken som anger när vänsteget ska avslutas:
 
@@ -38,11 +38,11 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. Markera kryssrutan om du vill vänta till nästa årsdag för datumet som infaller under det aktuella eller nästa kalenderår.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,15 +50,15 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
 1. Du kan också ändra slutdatumet med ett visst antal dagar.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >Du kan också ange antalet dagar med en `{{lead.` eller `{{company.` token som representerar ett heltalsfält, eller en `{{my.` token av nummertyp.
+   >Du kan också ange antalet dagar med en `{{lead.`- eller `{{company.`-token som representerar ett heltalsfält eller en `{{my.`-token av taltyp.
 
 1. Klicka på **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >

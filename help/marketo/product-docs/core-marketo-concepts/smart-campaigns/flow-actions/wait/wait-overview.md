@@ -4,32 +4,28 @@ description: Vänta - Marketo Docs - produktdokumentation
 title: Vänta
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Vänta {#wait}
+# Vänteöversikt {#wait-overview}
 
-## Översikt {#overview}
+Pausa en person i ett smart kampanjflöde med praktiska **väntesteg**.
 
-Pausa en person i ett smart kampanjflöde med användaren **väntesteg**.
+![](assets/wait-overview-1.png)
 
-![](assets/wait-overview.png)
-
-Lägg märke till hur du kan skriva på ett naturligt språk som&quot;4 timmar&quot;. Gör **not** Förkortar dock orden (dvs. 4 timmar). Den smarta kampanjen körs fortfarande, men väntesteget ignoreras.
+Lägg märke till hur du kan skriva på ett naturligt språk som&quot;4 timmar&quot;. Förkorta ordet **inte** (dvs. 4 timmar). Den smarta kampanjen körs fortfarande, men väntesteget ignoreras.
 
 >[!CAUTION]
 >
->Om du ändrar varaktigheten för ett väntesteg påverkas inte personer som redan har angivit det. Till exempel: Om du har ett väntesteg på 5 dagar, anger en person det, ändrar du väntesteget till 7 dagar - personen väntar fortfarande bara 5 dagar innan han/hon går vidare till nästa flödessteg.
+>Om du ändrar varaktigheten för ett väntesteg påverkas inte personer som redan har angivit det. Exempel: du har ett väntesteg på 5 dagar, en person anger det och sedan ändrar du väntesteget till 7 dagar. Den personen väntar bara 5 dagar innan han/hon går vidare till nästa flödessteg.
 
 >[!TIP]
 >
->Om du har någon som redan är i ett vänteläge och du inte vill att de ska fortsätta efter vänteperiodens slut infogar du [ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt efter väntesteget. Ange vem du vill ta bort genom att använda [lägg till alternativ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) alternativ.
-
-## Användning {#usage}
+>Om du har någon som redan är i ett väntesteg och du inte vill att de ska gå vidare efter vänteperioden, infogar du [ta bort från flödet](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt efter väntesteget. Ange vem du vill ta bort med alternativet [Lägg till alternativ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 Det finns tre sätt att använda ett vänteflödessteg:
 

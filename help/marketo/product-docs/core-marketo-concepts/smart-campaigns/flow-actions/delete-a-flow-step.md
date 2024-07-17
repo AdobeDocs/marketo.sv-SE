@@ -4,9 +4,9 @@ description: Ta bort ett flödessteg - Marketo Docs - produktdokumentation
 title: Ta bort ett flödessteg
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,21 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Tar bort flödessteg, _särskilt väntesteg_ från aktiva smarta kampanjer kan få oväntade resultat. Läs den här artikeln noggrant.
+>Om du tar bort flödessteg, _speciellt väntesteg_ från aktiva smarta kampanjer, kan det få oväntade resultat. Läs den här artikeln noggrant.
 
 Först tar vi grunderna. Så här tar du bort ett oönskat flödessteg från en smart kampanj.
 
-1. I Smart Campaign **[!UICONTROL Flow]** klickar du på **X** om du vill ta bort ett flödessteg.
+1. I den smarta kampanjen **[!UICONTROL Flow]** klickar du på ikonen **X** för att ta bort ett flödessteg.
 
-![](assets/image2014-9-22-13-3a52-3a20.png)
+   ![](assets/delete-a-flow-step-1.png)
 
 1. Klicka på **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-22-13-3a55-3a25.png)
-
-   Enkelt och enkelt, eller hur? För det mesta..
+   ![](assets/delete-a-flow-step-2.png)
 
    >[!CAUTION]
    >
-   >Ta bort, lägga till och flytta steg i en _aktiv_ kampanjen kan definitivt få oväntade resultat. Överväg att skapa en ny kampanj, testa den och sedan byta kampanj.
+   >Om du tar bort, lägger till och flyttar steg i en _aktiv_-kampanj kan oväntade resultat uppstå. Överväg att skapa en ny kampanj, testa den och sedan byta kampanj.
 
    Ändringar kan göras i en aktiv kampanj, men kan få oförutsedda konsekvenser. Här är detaljerna:
 
@@ -39,10 +37,10 @@ Först tar vi grunderna. Så här tar du bort ett oönskat flödessteg från en 
 
    Om kampanjen:
 
-   1. **Aldrig körd**. Gör alla ändringar du vill. Det kommer inte att påverka någon förrän ni genomför kampanjen.
+   1. **Kördes aldrig**. Gör alla ändringar du vill. Det kommer inte att påverka någon förrän ni genomför kampanjen.
    1. **Är en återkommande smart kampanj**. Ändringarna kommer att påverka andra användare i framtiden, inte tidigare.
-   1. **Kördes redan UTAN väntesteg** Ingen kommer att påverkas eftersom kampanjen är vilande efter att ha körts.
-   1. **Körs just nu**. Ändringar kan orsaka oväntat beteende beroende på tidpunkten och informationen för borttagningen. Vi rekommenderar att du INTE redigerar en batchkampanj som aktivt körs. Lär dig hur man gör i krissituationer [avbryta en aktiv smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
+   1. **Kördes redan utan väntesteg**.Inga personer påverkas eftersom kampanjen är vilande efter körning.
+   1. **Körs just nu**. Ändringar kan orsaka oväntat beteende beroende på tidpunkten och informationen för borttagningen. Vi rekommenderar att du INTE redigerar en batchkampanj som aktivt körs. Lär dig hur du [avbryter en smart kampanj som körs](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} i nödfall.
 
    1. **Kördes redan med väntesteg.** Flera detaljer om den här.\
       När en person går in i ett vänteläge sänker personen längden och anger vilket NUMBER-STEG han/hon ska gå tillbaka till. Se exemplet nedan.
@@ -61,8 +59,8 @@ Först tar vi grunderna. Så här tar du bort ett oönskat flödessteg från en 
    >    * STEG 2. Vänta en vecka
    >    * STEG 3. Skicka e-post nr 2
    >
-   >1. Folk som träffade **Steg 2** väntar 1 vecka innan du går vidare till **Steg 3**.
+   >1. Personer som trycker på **Steg 2** väntar en vecka innan de går vidare till **Steg 3**.
    >1. Du tar bort **Steg 2** under veckan.
    >1. Folk kommer att fortsätta vänta i 1 vecka (de kommer inte automatiskt tillbaka till flödet).
-   >1. När de äntligen kommer tillbaka försöker de att gå till **Steg 3**. De kommer inte att hitta den.
-   >1. **VIKTIGT!** Eftersom det nu bara finns två steg _får inte e-post nr 2_.
+   >1. När de äntligen kommer tillbaka försöker de gå till **Steg 3**. De kommer inte att hitta den.
+   >1. **VIKTIGT!** Eftersom det nu bara finns två steg kommer personerna _inte att få e-post nr 2_.

@@ -4,50 +4,46 @@ description: Skicka avisering - Marketo Docs - produktdokumentation
 title: Skicka avisering
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Skicka avisering {#send-alert}
 
-## Översikt {#overview}
+Marketo Engage kan skicka ett e-postmeddelande med personinformation till vem som helst - säljaren, en partner eller någon annan. Använd flödessteget [!UICONTROL Send Alert].
 
-Marketo kan skicka ett e-postmeddelande med personinformation till vem som helst - säljaren, en partner eller någon annan. Använd &quot;[!UICONTROL Send Alert]&quot;.
-
-![](assets/one-1.png)
-
-## Användning {#usage}
+![](assets/send-alert-1.png)
 
 1. Sök efter och välj det e-postmeddelande som du vill skicka.
 
-   ![](assets/two-1.png)
+   ![](assets/send-alert-2.png)
 
    >[!NOTE]
    >
-   >Din e-postavisering måste innehålla all rubrikinformation och finnas i **[!UICONTROL Approved]** tillstånd.
+   >Din e-postavisering måste innehålla all rubrikinformation och vara i läget **[!UICONTROL Approved]**.
 
 1. Du kan klicka på förhandsgranskningsikonen för att kontrollera att du har valt rätt e-postadress.
 
-   ![](assets/three-1.png)
+   ![](assets/send-alert-3.png)
 
    >[!NOTE]
    >
-   >Använd kommandot[!UICONTROL Send Alert Info]&quot; i din e-postadress.
+   >Använd token [!UICONTROL Send Alert Info] i ditt e-postmeddelande.
 
 1. Välj varningsmottagare. Du kan välja [!UICONTROL Sales Owner] eller [!UICONTROL Account Owner].
 
-   ![](assets/four-2.png)
+   ![](assets/send-alert-4.png)
 
 1. Du kan också lägga till andra e-postadresser som du vill ha (avgränsade med kommatecken eller semikolon).
 
-   ![](assets/five.png)
+   ![](assets/send-alert-5.png)
 
    >[!TIP]
    >
-   >I utlösande kampanjer kan du använda variabler i **[!UICONTROL To Other Emails]** som `{{lead.Territory Owner}}` eller `{{my.Alert Recipient}}` så länge som värdena är giltiga e-postadresser. Tokens in **[!UICONTROL To Other Emails]** fungerar inte i en gruppkampanj.
+   >I utlösarkampanjer kan du använda variabler i **[!UICONTROL To Other Emails]**, till exempel `{{lead.Territory Owner}}` eller `{{my.Alert Recipient}}`, förutsatt att värdena är giltiga e-postadresser. Tokens i **[!UICONTROL To Other Emails]** fungerar inte i en gruppkampanj.
 
 >[!MORELIKETHIS]
 >

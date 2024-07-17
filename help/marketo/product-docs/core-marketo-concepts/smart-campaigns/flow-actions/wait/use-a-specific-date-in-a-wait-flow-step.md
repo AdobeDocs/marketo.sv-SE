@@ -4,7 +4,7 @@ description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs 
 title: Använd ett specifikt datum i ett vänteflödessteg
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Använd ett specifikt datum i ett vänteflödessteg {#use-a-specific-date-in-a-wait-flow-step}
 
-Du kan använda[!UICONTROL Wait]&quot; flödar steg för att pausa en persons resa genom en Smart Campaign fram till ett visst datum.
+Du kan använda flödessteget [!UICONTROL Wait] om du vill pausa en persons resa via en smart kampanj till ett visst datum.
 
-1. I din smarta kampanj **[!UICONTROL Flow]** tabb, dra över **[!UICONTROL Wait]** flödessteg.
+1. Dra över flödessteget **[!UICONTROL Wait]** på fliken Smart Campaign **[!UICONTROL Flow]**.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. Klicka på kugghjulet.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Från **[!UICONTROL Type]** nedrullningsbar meny, välja **[!UICONTROL Date]**.
+1. Välj **[!UICONTROL Date]** i listrutan **[!UICONTROL Type]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. Välj det datum då du vill återuppta.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
 1. Ange tid (valfritt) och klicka på **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >
