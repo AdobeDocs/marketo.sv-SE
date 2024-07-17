@@ -4,7 +4,7 @@ description: Skapa aktivitet - Marketo Docs - produktdokumentation
 title: Skapa uppgift
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Som marknadsförare har ni information som kan hjälpa försäljningen att sluta avtal. Du kan skapa uppgifter för att tala om för dem vad de ska göra och när de ska göra det.
 
-![](assets/image2014-9-22-14-3a54-3a46.png)
+![](assets/create-task-1.png)
 
 >[!NOTE]
 >
->När Marketo Sync User skapar uppgifter **[!UICONTROL Due In]** är ett obligatoriskt fält för uppgiften som ska skapas i Salesforce. Marketo anger fem dagar som standard om det inte finns något värde.
+>När Marketo Sync-användaren skapar uppgifter är **[!UICONTROL Due In]** ett obligatoriskt fält för uppgiften som ska skapas i Salesforce. Marketo anger fem dagar som standard om det inte finns något värde.
 
 Som standard ser flödessteget ut så här:
 
-![](assets/image2014-9-22-14-3a54-3a49.png)
+![](assets/create-task-2.png)
 
 Anpassa alla fält för att skapa uppgiften som du vill.
 
-![](assets/image2014-9-22-14-3a54-3a52.png)
+![](assets/create-task-3.png)
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **[!UICONTROL Subject]** och **[!UICONTROL Description]**. Se [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} för mer information.
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i **[!UICONTROL Subject]** och **[!UICONTROL Description]**. Mer information finns i [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}.

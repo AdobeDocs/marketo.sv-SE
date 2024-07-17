@@ -4,22 +4,18 @@ description: Change Engagement Program Stream - Marketo Docs - produktdokumentat
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
 # Change Engagement Program Stream {#change-engagement-program-stream}
 
-## Översikt {#overview}
+Normalt använder du [flödesövergångsregler](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta. Men om du vill flytta personer manuellt från en ström till en annan, är det här flödessteget som ska användas.
 
-Normalt använder du [regler för direktövergång](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) för att uppnå detta. Men om du vill flytta personer manuellt från en ström till en annan, är det här flödessteget som ska användas.
-
-![](assets/image2014-9-22-14-3a52-3a14.png)
-
-## Användning {#usage}
+![](assets/change-engagement-program-stream-1.png)
 
 1. Välj det engagemangsprogram som du vill flytta personen till.
 
@@ -27,10 +23,10 @@ Normalt använder du [regler för direktövergång](/help/marketo/product-docs/e
    >
    >Om du väljer ett annat program lämnas personen kvar i den aktuella strömmen och läggs till i den nya.
 
-   ![](assets/image2014-9-22-14-3a52-3a50.png)
+   ![](assets/change-engagement-program-stream-2.png)
 
 1. Markera den ström du vill lägga till dina personer i.
 
-   ![](assets/image2014-9-22-14-3a52-3a59.png)
+   ![](assets/change-engagement-program-stream-3.png)
 
 Och det är allt!

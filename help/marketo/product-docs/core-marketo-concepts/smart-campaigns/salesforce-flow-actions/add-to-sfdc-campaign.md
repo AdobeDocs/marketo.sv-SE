@@ -4,45 +4,43 @@ description: Lägg till i SFDC-kampanj - Marketo Docs - produktdokumentation
 title: Lägg till i SFDC-kampanj
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Lägg till i SFDC-kampanj {#add-to-sfdc-campaign}
 
+Det här flödessteget kan användas i Marketo Engage-kampanjer eller som ett enda flödessteg för att lägga till personer som leads i en Salesforce-kampanj. Om leadet ännu inte finns i Salesforce synkroniseras det automatiskt och läggs till i kampanjen med den angivna statusen.
+
 >[!NOTE]
 >
 >Endast tillgängligt när det är integrerat med Salesforce.
 
-## Översikt {#overview}
-
-Det här flödessteget kan användas i Marketo-kampanjer eller som ett enda flödessteg för att lägga till personer som leads i en Salesforce-kampanj. Om leadet ännu inte finns i Salesforce synkroniseras det automatiskt och läggs till i kampanjen med den angivna statusen.
-
-![](assets/image2014-9-22-15-3a43-3a36.png)
+![](assets/add-to-sfdc-campaign-1.png)
 
 ## Användning {#usage}
 
 1. Hitta och välj den Salesforce-kampanj som du vill lägga till dina leads i.
 
-   ![](assets/image2014-9-22-15-3a43-3a45.png)
+   ![](assets/add-to-sfdc-campaign-2.png)
 
    >[!TIP]
    >
    >Om du inte kan se en Salesforce-kampanj i kampanjlistan:
    >
-   >  1. Se till att [kampanjsynkronisering är aktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
-   >  1. Bekräfta att [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} is a [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} i Salesforce.
+   >  1. Kontrollera att [kampanjsynkroniseringen är aktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
+   >  1. Bekräfta att din [Marketo Sync-användare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} är en [marknadsföringsanvändare](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} i Salesforce.
 
    >[!TIP]
    >
-   >Du kan använda Salesforce-kampanj [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} för att göra programkloningen enklare.
+   >Du kan använda Salesforce-kampanjen [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} för att göra programkloningen enklare.
 
 1. Välj den Salesforce-kampanjmedlemskapsstatus som du vill tilldela leads när de läggs till.
 
-   ![](assets/image2014-9-22-15-3a45-3a2.png)
+   ![](assets/add-to-sfdc-campaign-3.png)
 
    >[!CAUTION]
    >

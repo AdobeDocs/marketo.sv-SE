@@ -4,22 +4,18 @@ description: Ändringsprogrammet lyckades - Marketo Docs - produktdokumentation
 title: Programmet har ändrats
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Programmet har ändrats {#change-program-success}
 
-## Översikt {#overview}
+Om du någon gång har en grupp personer som markerats felaktigt med Programslutfört, kan du använda det här flödessteget för att ange värdet true eller false för Framgången.
 
-Om du någon gång har en grupp personer som av misstag har markerats med Programmet lyckades kan du använda det här flödessteget för att ange värdet true eller false för åtgärden.
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## Användning {#usage}
+![](assets/change-program-success-1.png)
 
 1. När du drar i det här flödessteget ställs programmet automatiskt in på det program som innehåller den smarta kampanj som du redigerar.
 
@@ -27,11 +23,11 @@ Om du någon gång har en grupp personer som av misstag har markerats med Progra
    >
    >Endast programmedlemmar påverkas.
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
 1. Välj **[!UICONTROL Success]** eller **[!UICONTROL Success Date]** som attribut.
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
@@ -39,7 +35,7 @@ Om du någon gång har en grupp personer som av misstag har markerats med Progra
 
 1. Ange **[!UICONTROL New Value]** till **[!UICONTROL True]** eller **[!UICONTROL False]**.
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >
