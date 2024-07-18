@@ -4,32 +4,32 @@ description: Visa medlemmar i smarta kampanjer - Marketo Docs - produktdokumenta
 title: Visa medlemmar i smarta kampanjer
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Visa medlemmar i smarta kampanjer {#view-smart-campaign-members}
 
-Visa personer som redan har gått igenom Smart Campaign-flödet, dvs. medlemmar i Smart Campaign.
+Visa personer som redan har kört genom Smart Campaign-flödet.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. I din smarta kampanj klickar du på **[!UICONTROL View Campaign Members]**.
+1. Klicka på **[!UICONTROL View Campaign Members]** i din smarta kampanj.
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->Ni kan visa kampanjmedlemmar var ni än befinner er i en smart kampanj.
+   >[!TIP]
+   >
+   >Ni kan visa kampanjmedlemmar var ni än befinner er i en smart kampanj.
 
-1. The **[!UICONTROL Campaign Members]** -fliken visar personer som redan har gått igenom Smart Campaign-flödet.
+1. Fliken **[!UICONTROL Campaign Members]** visar personer som redan har körts via det smarta kampanjflödet.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
