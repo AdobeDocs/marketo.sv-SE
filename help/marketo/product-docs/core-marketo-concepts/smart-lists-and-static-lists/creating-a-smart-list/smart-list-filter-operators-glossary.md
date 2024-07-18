@@ -4,9 +4,9 @@ description: Operatorordlista för smarta listfilter - Marketo Docs - produktdok
 title: Ordlista för operatorer för smarta listfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,28 +19,90 @@ Här är en ordlista som beskriver varje uppsättning operatorer.
 
 ## Datumfält {#date-fields}
 
-![](assets/image2014-9-10-17-3a15-3a47.png)
+![](assets/smart-list-filter-operators-glossary-1.png)
 
 När du väljer en operator ändras den högra sidan dynamiskt.
 
-| Operator | Höger sida | Beskrivning |
-|---|---|---|
-| är | Enstaka datum | Exakt datummatchning |
-| är inte | Enstaka datum | Alla datum förutom det angivna |
-| mellan | Två datumfält | Alla datum inklusive och mellan två angivna datum |
-| tidigare | Indata för naturligt språk&#42; | Se diagrammet nedan |
-| tidigare än | Indata för naturligt språk&#42; | Se diagrammet nedan |
-| i framtiden | Indata för naturligt språk&#42; | Se diagrammet nedan |
-| i framtiden | Indata för naturligt språk&#42; | Se diagrammet nedan |
-| tidsram | Förinställningar (sista kvartalet, igår osv.) | Definierad i plocklista |
-| efter | Enstaka datum | Alla poster efter angivet datum |
-| före | Enstaka datum | Alla poster före den angivna |
-| på eller efter | Enstaka datum | Samma som&quot;efter&quot; men inkluderande |
-| på eller före | Enstaka datum | Samma som&quot;före&quot; men inklusive |
-| är tom | Ingen | Alla poster utan datum |
-| är inte tom | Ingen | Alla poster med valfritt datum |
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Höger sida</th>
+    <th>Beskrivning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>är</td>
+    <td>Enstaka datum</td>
+    <td>Exakt datummatchning</td>
+  </tr>
+  <tr>
+    <td>är inte</td>
+    <td>Enstaka datum</td>
+    <td>Alla datum förutom det angivna</td>
+  </tr>
+  <tr>
+    <td>mellan</td>
+    <td>Två datumfält</td>
+    <td>Alla datum inklusive och mellan två angivna datum</td>
+  </tr>
+  <tr>
+    <td>tidigare</td>
+    <td>Indata för naturligt språk*</td>
+    <td>Se diagrammet nedan</td>
+  </tr>
+  <tr>
+    <td>tidigare än</td>
+    <td>Indata för naturligt språk*</td>
+    <td>Se diagrammet nedan</td>
+  </tr>
+  <tr>
+    <td>i framtiden</td>
+    <td>Indata för naturligt språk*</td>
+    <td>Se diagrammet nedan</td>
+  </tr>
+  <tr>
+    <td>i framtiden</td>
+    <td>Indata för naturligt språk*</td>
+    <td>Se diagrammet nedan</td>
+  </tr>
+  <tr>
+    <td>tidsram</td>
+    <td>Förinställningar (sista kvartalet, igår osv.)</td>
+    <td>Definierad i plocklista</td>
+  </tr>
+  <tr>
+    <td>efter</td>
+    <td>Enstaka datum</td>
+    <td>Alla poster efter angivet datum</td>
+  </tr>
+  <tr>
+    <td>före</td>
+    <td>Enstaka datum</td>
+    <td>Alla poster före den angivna</td>
+  </tr>
+  <tr>
+    <td>på eller efter</td>
+    <td>Enstaka datum</td>
+    <td>Samma som"efter" men inkluderande</td>
+  </tr>
+  <tr>
+    <td>på eller före</td>
+    <td>Enstaka datum</td>
+    <td>Samma som"före" men inklusive</td>
+  </tr>
+  <tr>
+    <td>är tom</td>
+    <td>Ingen</td>
+    <td>Alla poster utan datum</td>
+  </tr>
+  <tr>
+    <td>är inte tom</td>
+    <td>Ingen</td>
+    <td>Alla poster med valfritt datum</td>
+  </tr>
+</tbody></table>
 
-&#42; Naturligt språk är coolt. Här är några av de mönster du kan ange:
+**&#42;** Naturliga språkindata är coola. Här är några av de mönster du kan ange:
 
 * 1 timme
 * 82 dagar
@@ -52,15 +114,15 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!NOTE]
 >
->&quot;Tidigare&quot; _gör_ inkluderar den dag (fram till tidpunkten, inte efter) som du skapar din smarta lista.
+>&quot;Tidigare&quot; _omfattar_ den dag (fram till tidpunkten, inte efter) som du skapar din smarta lista.
 
 >[!CAUTION]
 >
->När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, SFDC Skapat den) och använder begränsningarna **[!UICONTROL before]**, **[!UICONTROL on or before]**, eller **[!UICONTROL in past before]**, kommer den smarta listan även att omfatta personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, Skapat den SFDC) och använder begränsningarna **[!UICONTROL before]**, **[!UICONTROL on or before]** eller **[!UICONTROL in past before]**, kommer den smarta listan även att innehålla personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
-![](assets/image2014-9-10-17-3a15-3a58.png)
+![](assets/smart-list-filter-operators-glossary-2.png)
 
 >[!NOTE]
 >
@@ -78,18 +140,48 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
 ## Strängfält {#string-fields}
 
-![](assets/image2014-9-10-17-3a16-3a6.png)
+![](assets/smart-list-filter-operators-glossary-3.png)
 
-| Operator | Beskrivning |
-|---|---|
-| är | Exakt matchning (ej skiftlägeskänslig) |
-| är inte | Allt utom exakt matchning |
-| börjar med | Första bokstäver i strängmatchning |
-| börjar inte med | Strängens första bokstäver matchar INTE |
-| innehåller | Alla bokstäver i strängen matchar (exempel: california, förmögenhet, däri) |
-| innehåller inte | Inga bokstäver i strängmatchningen. (inverterat av &quot;contains&quot;) |
-| är tom | Poster utan värde (NULL) |
-| är inte tom | Poster med ANY-värde |
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Beskrivning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>är</td>
+    <td>Exakt matchning (ej skiftlägeskänslig)</td>
+  </tr>
+  <tr>
+    <td>är inte</td>
+    <td>Allt utom exakt matchning</td>
+  </tr>
+  <tr>
+    <td>börjar med</td>
+    <td>Första bokstäver i strängmatchning</td>
+  </tr>
+  <tr>
+    <td>börjar inte med</td>
+    <td>Strängens första bokstäver matchar INTE</td>
+  </tr>
+  <tr>
+    <td>innehåller</td>
+    <td>Alla bokstäver i strängen matchar (exempel: california, förmögenhet, däri)</td>
+  </tr>
+  <tr>
+    <td>innehåller inte</td>
+    <td>Inga bokstäver i strängmatchningen. (inverterat av "contains")</td>
+  </tr>
+  <tr>
+    <td>är tom</td>
+    <td>Poster utan värde (NULL)</td>
+  </tr>
+  <tr>
+    <td>är inte tom</td>
+    <td>Poster med ANY-värde</td>
+  </tr>
+</tbody>
+</table>
 
 >[!TIP]
 >
@@ -97,53 +189,51 @@ Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 
 ## Heltalsfält {#integer-fields}
 
-![](assets/image2014-9-10-17-3a16-3a14.png)
+![](assets/smart-list-filter-operators-glossary-4.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">är</td> 
-   <td colspan="1" rowspan="1">Exakt nummermatchning ( = 0 returnerar båda leads med 0 <em>och</em> NULL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">är inte</td> 
-   <td colspan="1" rowspan="1">Allt utom exakt nummermatchning</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">mellan</td> 
-   <td colspan="1" rowspan="1">Definiera två värden för att hitta alla däremellan (inklusive)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">större än</td> 
-   <td colspan="1" rowspan="1">Ovanför angivet</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">mindre än</td> 
-   <td colspan="1" rowspan="1">Mindre än den angivna</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">minst</td> 
-   <td colspan="1" rowspan="1">Ovanför angivet (inkluderande)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">högst</td> 
-   <td colspan="1" rowspan="1">Mindre än den angivna (inkluderande)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">är tom</td> 
-   <td colspan="1" rowspan="1">Poster som inte har något värde (NULL) - noll är ett tal, det är <em>not</em> NULL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">är inte tom</td> 
-   <td colspan="1" rowspan="1">Poster med ANY-värde (inklusive noll)</td> 
-  </tr> 
- </tbody> 
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Beskrivning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>är</td>
+    <td>Exakt nummermatchning ( = 0 returnerar båda leads med 0 och NULL)</td>
+  </tr>
+  <tr>
+    <td>är inte</td>
+    <td>Allt utom exakt nummermatchning</td>
+  </tr>
+  <tr>
+    <td>mellan</td>
+    <td>Definiera två värden för att hitta alla däremellan (inklusive)</td>
+  </tr>
+  <tr>
+    <td>större än</td>
+    <td>Ovanför angivet</td>
+  </tr>
+  <tr>
+    <td>mindre än</td>
+    <td>Mindre än den angivna</td>
+  </tr>
+  <tr>
+    <td>minst</td>
+    <td>Ovanför angivet (inkluderande)</td>
+  </tr>
+  <tr>
+    <td>högst</td>
+    <td>Mindre än den angivna (inkluderande)</td>
+  </tr>
+  <tr>
+    <td>är tom</td>
+    <td>Poster som saknar värde (NULL) - noll är ett tal, det är inte NULL</td>
+  </tr>
+  <tr>
+    <td>är inte tom</td>
+    <td>Poster med ANY-värde (inklusive noll)</td>
+  </tr>
+</tbody>
 </table>
 
 Som du ser gör de här operatorerna det enkelt att tala Marketo-esiska flytande!

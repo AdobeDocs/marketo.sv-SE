@@ -4,7 +4,7 @@ description: Smarta listor - Marketo Docs - produktdokumentation
 title: Smarta listor
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Med smarta listor kan du söka efter särskilda grupper med personer med hjälp av enkla filter. De används i hela Marketo, t.ex. i smarta kampanjer, program, rapporter, segmenteringar, affärsmodeller, engagemangsprogram, dynamiskt innehåll med mera. Smarta listor kan skapas på två platser i Marketo beroende på dina behov:
 
-1. I **Databas**, där de är tillgängliga för delad/global användning (t.ex.&quot;Alla personer som inte har prenumererat&quot;).
-1. I **program** som lokala tillgångar, där de hittar en grupp personer som är relevanta för det specifika programmet (t.ex. &quot;Attended Tradeshow&quot;).
+1. I **Database**, där de är tillgängliga för delad/global användning (t.ex. &quot;All Unsubscribed People&quot;).
+1. I **program** som lokala resurser, där de hittar en grupp personer som är relevanta för det specifika programmet (t.ex. &quot;Attended Tradeshow&quot;).
 
 De viktigaste stegen för att skapa en smart lista är:
 
@@ -28,21 +28,21 @@ Här är ett exempel på hur en smart lista ser ut.
 
 ## Huvudflik {#main-tab}
 
-Här kan du [redigera namnet på den smarta listan](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} och se information om Smart List.
+Här kan du [redigera namnet på den smarta listan](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} och visa information om den smarta listan.
 
-![](assets/smartlist.png)
+![](assets/understanding-smart-lists-1.png)
 
 ## Fliken Personer {#people-tab}
 
-Här ser du resultatet, dvs. alla personer som är kvalificerade för de filter du använder [tillagd och definierad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} på fliken Smart List.
+Det är här du ser dina resultat, dvs. alla personer som är kvalificerade för de filter som du [har lagt till och definierat](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} på fliken Smart lista.
 
-![](assets/smartlist-people.png)
+![](assets/understanding-smart-lists-2.png)
 
 ## Fliken Smart lista {#smart-list-tab}
 
 Du lägger till och definierar filtren för att visa en viss grupp personer på fliken Personer.
 
-![](assets/smartlist-filters.png)
+![](assets/understanding-smart-lists-3.png)
 
 Okej, vi börjar!
 

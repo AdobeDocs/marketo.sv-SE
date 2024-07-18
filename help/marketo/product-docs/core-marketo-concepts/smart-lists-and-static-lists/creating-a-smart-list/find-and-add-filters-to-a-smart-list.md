@@ -4,16 +4,16 @@ description: Söka efter och lägga till filter i en smart lista - Marketo Docs 
 title: Söka efter och lägga till filter i en smart lista
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 # Söka efter och lägga till filter i en smart lista {#find-and-add-filters-to-a-smart-list}
 
-En gång har du [skapade en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filter. Så här söker du efter och lägger till filter.
+När du har [skapat en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} måste du lägga till och [definiera](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filter. Så här söker du efter och lägger till filter.
 
 I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 
@@ -23,19 +23,19 @@ I det här exemplet hittar vi alla i Kalifornien med en poäng över 50.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/ma.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 
-1. Markera den smarta lista som du vill lägga till filter i och klicka på **[!UICONTROL Smart List]** -fliken.
+1. Markera den smarta lista som du vill lägga till filter i och klicka på fliken **[!UICONTROL Smart List]**.
 
-   ![](assets/two.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-2.png)
 
-1. Sök och dra **[!UICONTROL State]** filter på arbetsytan.
+1. Hitta och dra filtret **[!UICONTROL State]** till arbetsytan.
 
-   ![](assets/three.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-3.png)
 
-1. Hitta och dra **[!UICONTROL Score]** filtrera över.
+1. Du kan också hitta och dra filtret **[!UICONTROL Score]** över.
 
-   ![](assets/four.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
 Perfekt! Låt oss definiera de här filtren.
 

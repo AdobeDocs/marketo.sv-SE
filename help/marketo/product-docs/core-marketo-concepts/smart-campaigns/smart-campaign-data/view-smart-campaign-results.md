@@ -4,7 +4,7 @@ description: Visa resultat för smarta kampanjer - Marketo Docs - produktdokumen
 title: Visa resultat för smart kampanj
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Vill du se en sammanfattning av allt som hände i en Smart Campaign? Så här gör du.
 
-1. I din smarta kampanj klickar du på **[!UICONTROL Results]**.
+>[!TIP]
+>
+>Du kan visa listan över personer som har bearbetats av den smarta kampanjen genom att klicka på [Visa kampanjmedlemmar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
+
+1. Klicka på **[!UICONTROL Results]** i din smarta kampanj.
+
+   ![](assets/view-smart-campaign-results-1.png)
 
    >[!TIP]
    >
-   >Du kan visa listan över personer som har bearbetats av den smarta kampanjen genom att klicka på [Visa kampanjmedlemmar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
+   >Du kan även filtrera resultaten baserat på aktivitetstyp. Lär dig hur du [filtrerar resultat för smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
-   ![](assets/image2014-9-22-11-38-10.jpg)
+1. Klicka på en **[!UICONTROL ID]** om du vill visa mer information om den aktuella aktiviteten.
 
-   >[!TIP]
-   >
-   >Du kan även filtrera resultaten baserat på aktivitetstyp. Lär dig hur [filtrera resultaten från Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
-
-1. Klicka på en **[!UICONTROL ID]** för att få mer information om just den aktiviteten.
-
-   ![](assets/image2014-9-22-11-39-22.jpg)
+   ![](assets/view-smart-campaign-results-2.png)
 
    >[!TIP]
    >
    >Visa personinformation genom att klicka på personens namn.
 
-   Gräv in i resultaten för att se vad kampanjen faktiskt gjorde, eller helt enkelt [exportera resultat från smarta kampanjer till Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Titta på resultaten för att se vad kampanjen faktiskt gjorde eller [exportera resultaten från Smart Campaign till Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

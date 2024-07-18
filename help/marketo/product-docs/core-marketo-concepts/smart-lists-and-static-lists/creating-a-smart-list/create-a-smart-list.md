@@ -4,7 +4,7 @@ description: Skapa en smart lista - Marketo Docs - produktdokumentation
 title: Skapa en smart lista
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -17,23 +17,23 @@ Med smarta listor kan du söka efter särskilda grupper med personer med hjälp 
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. Välj det program som du vill skapa den smarta listan i.
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
-1. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Local Asset]**.
+1. Klicka på **[!UICONTROL New Local Asset]** under **[!UICONTROL New]**.
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
 1. Välj **[!UICONTROL Smart List]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
-1. Ange en **[!UICONTROL Name]** och klicka **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Name]** och klicka på **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    Ta-da, bra jobb! Nu ska vi lägga till och definiera några filter.
 
