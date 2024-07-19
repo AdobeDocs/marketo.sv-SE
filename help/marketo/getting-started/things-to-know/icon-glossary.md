@@ -2,10 +2,8 @@
 description: Ikonordlista - Marketo Engage Docs - produktdokumentation
 title: Ikonordlista
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -14,16 +12,16 @@ ht-degree: 2%
 
 # Marketo Engage-ikon, ordlista {#icon-glossary}
 
-Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du behöver referera till ikonerna för Marketo Classic kan de [hittades här](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du behöver referera till Marketo Classic-ikonerna kan de [hittas här](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Allmänna ikoner {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th>
+   <th style="width:25%">Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
@@ -228,7 +226,7 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
    <td><img src="assets/workspace.png"></td> 
-   <td>Arbetsyta</td> 
+   <td>Workspace</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
@@ -243,9 +241,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -408,14 +406,14 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
  </tbody>
 </table>
 
-## Resurser {#assets}
+## Assets {#assets}
 
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Nedan visas ikonerna för det aktuella Adobe Marketo Engage-gränssnittet. Om du
 <table> 
  <tbody>
   <tr>
-   <th>Gammal ikon</th> 
-   <th> Ny ikon</th> 
-   <th>Beskrivning</th> 
+   <th style="width:25%">Gammal ikon</th> 
+   <th style="width:25%"> Ny ikon</th> 
+   <th style="width:50%">Beskrivning</th> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 

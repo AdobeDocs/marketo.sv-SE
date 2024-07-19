@@ -2,10 +2,8 @@
 description: Klassisk ikon - ordlista - Marketo Docs - produktdokumentation
 title: Klassisk ikon - ordlista
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
@@ -14,15 +12,15 @@ ht-degree: 0%
 
 # Klassisk ikon - ordlista {#classic-icon-glossary}
 
-Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella ikonordlistan kan vara [hittades här](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella ikonordlistan [finns här](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
 **Allmänna ikoner**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th>
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>Målmapp som delats från en annan arbetsyta <br>(padlock anger att redigeringar inte kan göras)</td> 
+   <td>Målmappen som delades från en annan arbetsyta <br> (hänglåset anger att det inte går att redigera)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th>
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th> 
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>E-postprogram <br>(Röd flagga ned = e-post har inte skickats än)</td> 
+   <td>E-postprogram <br>(röd flagga ned = e-post har inte skickats än)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th> 
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -529,7 +527,7 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </td> 
-   <td>Publicera till Facebook</td> 
+   <td>Publish till Facebook</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png"> 
@@ -639,8 +637,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th>
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th> 
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th>
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ikon</th>
-   <th style="width:90%">Namn</th> 
+   <th style="width:15%">Ikon</th>
+   <th style="width:85%">Namn</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
