@@ -4,34 +4,34 @@ description: Inkommande filter - Marketo Docs - produktdokumentation
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Inkommande filter {#inferred-filters}
 
-När någon besöker er webbplats [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies och placerar dem i systemet. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
+[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies och placerar dem i systemet när någon besöker din webbplats. Vi söker upp deras IP-adresser i en särskild databas och hittar all slags information.
 
 >[!NOTE]
 >
 >Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i filterdefinitioner för smarta listor.
 >
->Databasuppdateringar kan utföras under [Marketo Engage produktrelease](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} innehåller en förklaring till eventuella ändringar av härledda fältvärden.
+>Databasuppdateringar kan utföras under en [Marketo Engage-produktversion](/help/marketo/release-notes/release-schedule.md){target="_blank"}. När en uppdatering görs innehåller versionsinformationen för [Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"} en förklaring till eventuella ändringar i härledda fältvärden.
 
-![](assets/image2015-4-27-13-3a25-3a46.png)
+![](assets/inferred-filters-1.png)
 
-![](assets/image2015-4-27-16-3a58-3a53.png)
+![](assets/inferred-filters-2.png)
 
-![](assets/image2015-4-27-16-3a59-3a35.png)
+![](assets/inferred-filters-3.png)
 
-![](assets/image2015-4-27-17-3a0-3a12.png)
+![](assets/inferred-filters-4.png)
 
-![](assets/image2015-4-27-13-3a36-3a9.png)
+![](assets/inferred-filters-5.png)
 
-![](assets/image2015-4-27-13-3a30-3a48.png)
+![](assets/inferred-filters-6.png)
 
 När du använder något av de här filtren i en smart lista kommer resultatet att ge personer den här slutna informationen.
 
@@ -40,7 +40,7 @@ När du använder något av de här filtren i en smart lista kommer resultatet a
 >Använd dessa filter i en webbaktivitetsrapport. Använd säljarnas territorier och prenumerera på en anpassad daglig rapport med webbplatsbesökare de senaste 24 timmarna. De kommer att älska det!
 >
 >* Besökt webbsida - de senaste 24 timmarna
->* Inledningstillstånd är [markera sitt territorium]
+>* Den härledda staten är [välj deras territorium]
 
 Dessa anonyma besökare konverteras automatiskt till personer när de klickar på en e-postlänk eller fyller i ett formulär. De behåller dock all information som de kommit fram till.
 

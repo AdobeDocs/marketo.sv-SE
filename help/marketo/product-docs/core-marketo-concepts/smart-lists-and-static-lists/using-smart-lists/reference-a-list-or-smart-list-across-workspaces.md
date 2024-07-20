@@ -4,9 +4,9 @@ description: Referera till en lista eller en smart lista över arbetsytor - Mark
 title: Referera till en lista eller en smart lista över arbetsytor
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,37 @@ Listor och smarta listor kan delas och refereras till mellan arbetsytor för enk
 
 >[!NOTE]
 >
->Personpartitionsregler gäller (smarta listor och statiska listor på en arbetsyta visar endast personer som är medlemmar i listan _och_ medlemmar på den aktuella arbetsytan).
+>Personpartitionsregler gäller (smarta listor och statiska listor i en arbetsyta visar bara personer som är både medlemmar i listan _och_ medlemmar i den aktuella arbetsytan).
 
 ## Dela en lista eller smart lista {#share-a-list-or-smart-list}
 
 1. Gå till **[!UICONTROL Database]**.
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
 1. Högerklicka på en kampanjmapp. Välj **Ny mapp**.
 
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
+
    >[!NOTE]
    >
-   >Resurser kan bara delas mellan arbetsytor om de är kapslade i en mapp.
+   >Assets kan bara delas mellan arbetsytor om de är kapslade i en mapp.
 
-   ![](assets/two-4.png)
+1. Namnge mappen och klicka på **[!UICONTROL Create]**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Dra och släpp en lista eller smart lista som du vill dela till den nya mappen.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Högerklicka **[!UICONTROL New Folder]** och markera **[!UICONTROL Share Folder]**.
+1. Högerklicka på den nya mappen och välj **[!UICONTROL Share folder]**.
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Välj en **[!UICONTROL Workspace]** att dela med. Välj **[!UICONTROL Save]**.
+1. Välj en **[!UICONTROL Workspace]** att dela med och klicka på **[!UICONTROL Save]**.
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
    Häftig! Den här listan kommer nu att vara tillgänglig på båda arbetsytorna.
 

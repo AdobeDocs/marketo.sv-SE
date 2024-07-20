@@ -4,7 +4,7 @@ description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs 
 title: Skapa och ändra vyer för listor och smarta listor
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -17,27 +17,27 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Skapa en vy {#create-a-view}
 
-1. Gå till en lista eller smart lista och klicka på **[!UICONTROL People]** och klicka på **[!UICONTROL Create View]** under **[!UICONTROL View]** nedrullningsbar meny.
+1. Gå till en lista eller Smart List, klicka på fliken **[!UICONTROL People]** och klicka på **[!UICONTROL Create View]** under listrutan **[!UICONTROL View]**.
 
-   ![](assets/smartlist-createview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
 1. Namnge vyn och hitta den kolumn som du vill lägga till eller ta bort.
 
-   ![](assets/image2014-9-12-11-3a23-3a53.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. Lägg till/ta bort kolumner och klicka sedan på **[!UICONTROL Create]**.
+1. Lägg till/ta bort de kolumner du vill använda och klicka sedan på **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-12-11-3a24-3a7.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->Om du snabbt vill söka använder du **Sök** box.
+>Använd rutan **Sök** om du snabbt vill söka.
 
 ## Växla vy {#switch-views}
 
-1. Klicka på **[!UICONTROL View]** och sedan välja önskad vy. Växla fram och tillbaka mellan vyer efter behov.
+1. Klicka på listrutan **[!UICONTROL View]** och välj sedan önskad vy. Växla fram och tillbaka mellan vyer efter behov.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
 >[!NOTE]
 >
@@ -45,27 +45,27 @@ En smart lista visar en standarduppsättning med kolumner. Visste du att du kund
 
 ## Redigera en vy {#edit-a-view}
 
-1. Se till att vyn som du vill redigera är markerad i **[!UICONTROL View]** nedrullningsbar meny.
+1. Kontrollera att vyn som du vill redigera är markerad i listrutan **[!UICONTROL View]**.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. Klicka på **[!UICONTROL Edit]** alternativ.
+1. Klicka på alternativet **[!UICONTROL Edit]**.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
-1. Gör önskade ändringar och klicka **[!UICONTROL Save]**.
+1. Gör önskade ändringar och klicka på **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a19.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## Ta bort en vy {#delete-a-view}
 
-1. Välj **[!UICONTROL Edit]** för den vy som du vill ta bort från **[!UICONTROL View]** nedrullningsbar meny.
+1. Välj alternativet **[!UICONTROL Edit]** för den vy som du vill ta bort från listrutan **[!UICONTROL View]**.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
 1. Klicka på **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a39.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 
 Det är bara du som kan se de anpassade vyer du skapar i listrutan Visa, så tala om för dina vänner att de behöver skapa egna vyer!
 
