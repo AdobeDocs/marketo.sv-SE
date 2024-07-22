@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-postmeddelanden.
 
-1. Välj program och klicka på **Mina token**.
+1. Välj ditt program och klicka på **Mina token**.
 
    ![](assets/one-4.png)
 
@@ -23,19 +23,19 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/two-4.png)
 
-1. Ge variabeln ett unikt namn, ange en URL (utan https://) och klicka på **Spara**.
+1. Ge token ett unikt namn, ange en URL (utan mappen https://) och klicka på **Spara**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om du vill vara säker på att klickningarna spåras i ditt e-postmeddelande gör du så här **not** ange https:// i tokenvärdet.
+   >Om du vill vara säker på att klick spåras i ditt e-postmeddelande anger du **inte** https:// i token-värdet.
 
 1. Välj e-postadressen i programmet.
 
    ![](assets/four-3.png)
 
-1. Klicka **Redigera utkast**.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/five-3.png)
 
@@ -63,11 +63,11 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/ten.png)
 
-1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i **URL** och klicka **Infoga**.
+1. Tryck på Ctrl/Cmd+V för att klistra in innehållet i rutan **URL** och klicka på **Infoga**.
 
    ![](assets/eleven.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/twelve.png)
 

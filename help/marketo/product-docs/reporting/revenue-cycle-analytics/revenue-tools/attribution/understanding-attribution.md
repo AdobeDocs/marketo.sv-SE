@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Attribution hjälper er att mäta programframgången. Vissa program är avsedda 
 
 ## First Touch-attribuering (FT) {#first-touch-ft-attribution}
 
-First Touch-attribuering (FT) ger svar på en **enkel företagsfråga**,&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
+First Touch-attribuering (FT) besvarar en **enkel affärsfråga**,&quot;Vilka program är bra på att skaffa lönsamma nya namn?&quot;
 
 ## MultiTouch-attribuering {#multi-touch-attribution}
 
-MultiTouch ger svar på en **komplicerad affärsfråga**,&quot;Vilka program är mest inflytelserika när det gäller att föra människor framåt i säljcykeln över tid?&quot;
+MultiTouch besvarar en **komplicerad affärsfråga**,&quot;Vilka program är mest inflytelserika när det gäller att flytta personer framåt i säljcykeln över tid?&quot;
 
 ## Attributionsregler {#rules-of-attribution}
 
@@ -41,9 +41,9 @@ I följande exempel kan du tillämpa dessa regler och förstå allt du behöver 
 
 >[!MORELIKETHIS]
 >
->* [Attribut - exempel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Attribut - exempel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attribut - exempel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Attribut - exempel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Attribution Example 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attribution Example 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attribution Example 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attribution Example 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 Om du använder den här funktionen får du definitivt ut det mesta av din investering i Marketo.

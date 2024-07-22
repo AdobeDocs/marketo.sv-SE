@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 5%
+source-wordcount: '335'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ När det finns en ny version av Marketo-tillägget för e-post för Outlook föl
 
 >[!NOTE]
 >
->Från och med 10/1/20 har den senaste versionen av Outlook-plugin inte längre stöd för offlineläge. Detta börjar gälla efter installation/uppgradering på eller efter 10/1.
+>Från och med 10/1/20 har den senaste versionen av Outlook inte längre stöd för offlineläge. Detta börjar gälla efter installation/uppgradering på eller efter 10/1.
 
 ## Hämta installationsprogram {#download-installer}
 
@@ -39,10 +39,10 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
   </tr> 
   <tr> 
    <td><strong>Outlook-version</strong></td> 
-   <td><strong>32-bitars</strong></td> 
-   <td><strong>64-bitars</strong></td> 
-   <td><strong>32-bitars</strong></td> 
-   <td><strong>64-bitars</strong></td> 
+   <td><strong>32 bitar</strong></td> 
+   <td><strong>64 bitar</strong></td> 
+   <td><strong>32 bitar</strong></td> 
+   <td><strong>64 bitar</strong></td> 
   </tr> 
   <tr> 
    <td>Outlook 2000</td> 
@@ -121,7 +121,7 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
 ## Uppgradera {#upgrade}
 
-1. Identifiera [Microsoft Outlook-version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifiera din [Microsoft Outlook-version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Välj version i listan ovan.
 
@@ -129,7 +129,7 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Du kommer att lägga märke till att all information är förifylld. Klicka bara **Nästa**.
+1. Du kommer att märka att all information är förifylld. Klicka bara på **Nästa**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,15 +149,15 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
    >
    >Om installationen misslyckas bör du samarbeta med din IT-avdelning för att säkerställa att HTTPS-trafik inte blockeras. Installationsprogrammet kräver att HTTPS-trafik är öppen.
 
-1. Klicka **Nästa** för att installera på standardplatsen.
+1. Klicka på **Nästa** om du vill installera på standardplatsen.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. Installationen har slutförts. Klicka **Stäng**.
+1. Installationen har slutförts. Klicka på **Stäng**.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
@@ -167,5 +167,5 @@ Hämta det installationsprogram som är lämpligt för din version av Microsoft 
 
 >[!MORELIKETHIS]
 >
->* [Skicka och spåra ett e-postmeddelande med Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Skicka och spåra ett e-postmeddelande med Marketo-tillägget för e-post för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

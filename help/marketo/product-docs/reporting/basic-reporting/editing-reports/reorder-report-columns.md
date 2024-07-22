@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan ändra ordningen på kolumnerna i en rapport.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Välj rapporten från navigeringsträdet och klicka på **Rapport** -fliken.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

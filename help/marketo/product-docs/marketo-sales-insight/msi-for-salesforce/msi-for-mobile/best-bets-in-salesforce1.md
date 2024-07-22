@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bästa val i Salesforce1 {#best-bets-in-salesforce}
 
-Dina [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) är era leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
+Dina [bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) är dina leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
 
 1. Gå till Marketo i Salesforce-appen.
 
@@ -24,4 +24,4 @@ Dina [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-sales
 >[!MORELIKETHIS]
 >
 >* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Skicka e-post och kampanjer och bevakningslistor från Marketo i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

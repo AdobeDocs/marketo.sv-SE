@@ -6,22 +6,22 @@ exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Installera Sales Connect för Office365 Mac OS, Windows och Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
-Vi har skapat en integrering med Outlook Web Apps. Outlook Web Apps är en version av Outlook som ingår i Office 365-prenumerationen. Eftersom det är webbläsarbaserat fungerar integreringen både i Mac och Windows. [Klicka här för att få en komplett installationsguide](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+Vi har skapat en integrering med Outlook Web Apps. Outlook Web Apps är en version av Outlook som ingår i Office 365-prenumerationen. Eftersom det är webbläsarbaserat fungerar integreringen både i Mac och Windows. [Klicka här för den fullständiga installationsguiden](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Som administratör kan du [installera det här för hela teamet](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+Som administratör kan du [installera det här å hela teamets vägnar](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
 >Om du inte har någon butiksknapp finns du inte i den senaste versionen av Outlook för Mac. Så här uppdaterar du:
 >
->i. Gå till hjälpknappen (i den övre navigeringen till höger om &quot;Outlook&quot;)
+>i. Gå till hjälpknappen (i den övre navigeringen till höger om &quot;Outlook&quot;).
 >
 >ii. Välj **Sök efter uppdateringar** i listrutan
 >

@@ -19,19 +19,19 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
 >
 >Leads måste vara medlemmar i modellen som ska inkluderas i rapporten.
 
-1. Gå till **Analyser**.
+1. Gå till **Analys**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klicka **Leads efter intäktsstadium**.
+1. Klicka på **Leads efter intäktsstadium**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klicka på **Inställningar** och dubbelklicka sedan under filteravsnittet **Intäktscykelmodell**.
+1. Klicka på fliken **Inställningar** och dubbelklicka sedan på **Intäktscykelmodell** under filteravsnittet.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Välj godkänt **Modell**.
+1. Välj den godkända **modellen**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,8 +39,8 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
    >
    >För att vara tillgänglig från den här rullgardinsmenyn måste modellen vara godkänd eller åtminstone ha godkända stadier.
 
-1. Klicka på **Rapport** för att se hur många leads som finns i varje fas i intäktscykelmodellen.
+1. Klicka på fliken **Rapport** för att se hur många leads som finns i varje fas i intäktscykelmodellen.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Varför är detta användbart? Modellen visar er sälj- och marknadsföringstratt. Håll reda på deras saldon över tiden för att identifiera flaskhalsar innan de blir ett problem.
+Varför är detta användbart? Modellen visar er sälj- och marknadsföringstratt. Håll koll på deras saldon över tiden för att identifiera flaskhalsar innan de blir ett problem.

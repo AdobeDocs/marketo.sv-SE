@@ -6,7 +6,7 @@ exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 >
 >Om du vill lägga till Facebook Lead Ads i din instans kontaktar du kontoteamet på Adobe (din kontoansvarige).
 
-1. Gå till Marketo **Administratör**.
+1. Gå till Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **LaunchPoint**, klicka på **Nytt,** och markera **Ny tjänst**.
+1. Gå till **LaunchPoint**, klicka på **Nytt** och välj **Ny tjänst**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange **Visningsnamn** för tjänsten väljer du **Facebook Lead Ads** i listrutan och klicka på **Skapa**.
+1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **Facebook Lead Ads** i listrutan och klicka på **Create**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -47,15 +47,15 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Om du uppmanas till det klickar du på **OK** för att acceptera Marketo-appinstallationen i Facebook.
+1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-appinstallationen i Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Du kommer att märka att du nu är auktoriserad. Klicka **Nästa**.
+1. Du kommer att märka att du nu är auktoriserad. Klicka på **Nästa**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Markera de sidor du vill att Marketo ska hämta Facebook Lead Ads från och klicka på **Nästa**.
+1. Markera de sidor som du vill att Marketo ska hämta Facebook Lead Ads från och klicka på **Next**.
 
    >[!TIP]
    >
@@ -67,7 +67,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan också [hämta in data från Lead Ads - anpassade frågor](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta in data från anpassade frågor för Lead Ads ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -82,5 +82,5 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) för a
 >[!MORELIKETHIS]
 >
 >* [Tilldela/ta bort behörigheter i Leads Access Manager (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
->* [Använd filter och utlösare för annonsering av leads i en smart kampanj](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Använd filter och utlösare för annonsering på leads i en smart kampanj](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Mappa anpassade fält till Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

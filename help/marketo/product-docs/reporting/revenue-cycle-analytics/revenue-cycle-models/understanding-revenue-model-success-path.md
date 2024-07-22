@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Lyckad sökväg {#success-path}
 
-I modellen var den gröna banan den **Lyckad sökväg** är den optimala vägen för hur en ledande linjär övergång till ett slutet/vunnet företag.
+I modellen är den gröna sökvägen **Success Path** den optimala vägen för hur ett ledande linjärt går över till ett slutet/vunnet företag.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exempelfaser på en lyckad sökväg:
 
@@ -26,7 +26,7 @@ Exempelfaser på en lyckad sökväg:
 | **Granska nya namn** | Granska om nya namn är kvalificerade |
 | **Prospekt** | Kvalificerade potentiella kunder som ännu inte är försäljningsklara |
 | **Lead** | Marknadsföringskvalificerade leads (&quot;försäljningsfärdiga&quot;) |
-| **Möjligheter** | Försäljningsaccepterade leads, arbetar aktivt |
+| **Möjlighet** | Försäljningsaccepterade leads, arbetar aktivt |
 | **Kund** | Avslutade vunna erbjudanden |
 
 >[!TIP]
@@ -37,11 +37,11 @@ Exempelfaser på en lyckad sökväg:
 
 Eftersom inte alla leads följer en linjär&quot;lyckad väg&quot;, bör du även definiera dina&quot;omdirigeringsfaser&quot; för att fånga leads som inte är kvalificerade eller som kräver några vårdområden innan de blir klara. Exempel:
 
-| **DETOUR SCENNAMN** | **DEFINITION** |
+| **DETTA SCENNAMN** | **DEFINITION** |
 |---|---|
 | **Diskvalificerad** | Namn markerade som ej inbyggda |
 | **Inaktiv** | Proportioner som inte har svarat |
-| **Återvunnen** | Kvalificerad men behöver mer näring (länkad till potentiell kund) |
+| **Återanvänt** | Kvalificerad men behöver mer näring (länkad till potentiell kund) |
 | **Förlorad** | Förlorade möjligheter (kontinuerlig vårdsverksamhet) |
 
 >[!TIP]

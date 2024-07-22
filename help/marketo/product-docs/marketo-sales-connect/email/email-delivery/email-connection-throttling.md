@@ -5,7 +5,7 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,13 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 * Det är bara e-postmeddelanden som skickas via Gmail eller Exchange som stryper för en anpassad leveranskanal
 * Begränsningen för e-postanslutning placerar varje enskild användare i e-postmeddelanden separat eftersom varje användare har sin egen anslutning till sin e-postleverantör
 
-**Konfigurera inställningarna för begränsning av e-postanslutning**
+**Konfigurerar inställningarna för begränsning av e-postanslutning**
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicka **Allmänt**.
+1. Klicka på **Allmänt**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -41,11 +41,11 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 
    ![](assets/email-connection-throttling-3.png)
 
-1. Ange väntetiden innan varje batch skickas. I det här exemplet väljer vi 25 e-postmeddelanden var 45:e sekund.
+1. Ange hur lång tid det ska ta innan varje batch skickas. I det här exemplet väljer vi 25 e-postmeddelanden var 45:e sekund.
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/email-connection-throttling-5.png)
 

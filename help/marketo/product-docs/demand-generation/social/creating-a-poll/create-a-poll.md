@@ -6,7 +6,7 @@ exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 >
 >Om du vill använda bilderna i omröstningen lägger du till dem i Marketo Images and Files Library innan du börjar. Lägg till en 60x60px-bild för varje omröstningspost. Se [Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Välj **Nytt** > **Ny lokal resurs**.
+1. Välj **Ny** > **Ny lokal resurs** i programmet.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. I **Lokalt resursgalleri**, klicka **Omröstning**.
+1. Klicka på **Avsökning** i **galleriet för lokala resurser**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -33,7 +33,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    >[!TIP]
    >
-   >Du kan spara tid med **Klona från** om du vill kopiera alla inställningar från en befintlig videoresurs.
+   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig videoresurs.
 
 1. Skriv en rubrik för omröstningen (vanligtvis en kort fråga).
 
@@ -43,7 +43,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Om du vill lägga till en post klickar du på **+** och redigera titeln och beskrivningen.
+1. Om du vill lägga till en post klickar du på symbolen **+** och redigerar titeln och beskrivningen.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -51,7 +51,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Välj den bild du behöver och klicka sedan på **Välj**.
+1. Markera den bild du behöver och klicka sedan på **Välj**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -59,7 +59,7 @@ Engagera personer med en omröstning som de kan rösta i och dela med sina vänn
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Klicka **Godkänn** och **Stäng.**
+1. Klicka på **Godkänn** och **Stäng.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -67,7 +67,7 @@ Frågeredigeraren öppnas i ett nytt fönster. Standardinställningarna är bra,
 
 >[!TIP]
 >
->Om du vill ändra något av standardvärdena i din omröstning klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
+>Klicka på **Bakåt** om du vill ändra något av standardvärdena i din omröstning. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
 
 Om det finns några problem i omröstningen uppmanas du att åtgärda dem innan omröstningen godkänns.
 
@@ -77,4 +77,4 @@ Om det finns några problem i omröstningen uppmanas du att åtgärda dem innan 
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [publicera din omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), men du kan ändra inställningarna för din omröstning om det behövs. Börja med [anpassa omröstningsinställningarna](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>Nästa steg är att [publicera din omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), men du kan ändra inställningarna för din omröstning om det behövs. Börja med att [anpassa omröstningsinställningarna](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).

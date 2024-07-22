@@ -21,7 +21,7 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
 ## Skapa en smart kontolista {#create-an-account-smart-list}
 
-1. I Marketo går du till **Marknadsföringsaktiviteter**.
+1. Gå till **Marknadsföringsaktiviteter** i Marketo.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,11 +29,11 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
+1. Klicka på listrutan **Ny** och välj **Ny lokal resurs**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Klicka **Smart lista för konto**.
+1. Klicka på **Smart lista för konto**.
 
    ![](assets/account-smart-lists-4.png)
 
@@ -47,11 +47,11 @@ Din smarta kontolista har skapats. Anvisningar om hur du definierar regler finns
 
 Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med ett betydande undantag: behållare.
 
-1. Klicka på knappen **Regler för smarta kontouppsättningar** -fliken.
+1. Om du vill definiera den smarta listan för ditt konto klickar du på fliken **Smart lista för konto**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Välj önskade kontofilter. I det här exemplet väljer vi _Bransch är hälsovård_.
+1. Välj önskade kontofilter. I det här exemplet väljer vi _Branschen är sjukvård_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -59,13 +59,13 @@ Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med et
 
    >[!NOTE]
    >
-   >ICP-indikatordata som används i [Rankning och justering av kontoprofilering](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) visas som anpassade kontoattribut som kan användas i smarta kontolistor. Dessa anpassade attributdata baseras på när kontoprofilmodellen skapades/uppdaterades.
+   >ICP-indikatordata som användes i din [kontoprofileringsrankning och justering](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) visas som anpassade kontoattribut som kan användas i din smarta kontolista. Dessa anpassade attributdata baseras på när kontoprofilmodellen skapades/uppdaterades.
 
-1. Välj matchande personfilter. I det här exemplet väljer vi _State is California_.
+1. Välj matchande personfilter. I det här exemplet väljer vi _Delstaten är Kalifornien_.
 
    ![](assets/account-smart-lists-9.png)
 
-**VALFRITT STEG**: Här kommer behållare in. Om du väljer ytterligare ett filter för matchad person kan du släppa det under det första, eller _in_ den, skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtitel är CFO_.
+**VALFRITT STEG**: Här kommer behållare in. Om du väljer ytterligare ett Matchat personfilter kan du släppa det under det första, eller _i_ det, och skapa en behållare. I det här exemplet skapar vi en behållare genom att lägga till _Jobbtiteln är CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -75,7 +75,7 @@ Så här ser behållaren ut.
 
 >[!NOTE]
 >
->Om du skapar en behållare med filter skapas en&quot;och&quot;-regel, vilket innebär att den bara returnerar alla resultat som kombineras. I det här exemplet finns en vårdbransch och den finns även i Kalifornien _och_ med någon som är angiven som CFO. Om du inte vill använda behållare släpper du bara filtret nedanför/ovanför det befintliga.
+>Om du skapar en behållare med filter skapas en&quot;och&quot;-regel, vilket innebär att den bara returnerar alla resultat som kombineras. I det här exemplet har en vårdbransch som tillsammans med en annan i Kalifornien _och_ har någon som är listad som CFO. Om du inte vill använda behållare släpper du bara filtret nedanför/ovanför det befintliga.
 
 Och det är allt! Se avsnittet nedan för att se hur du kan använda din smarta kontolista.
 
@@ -87,13 +87,13 @@ Och det är allt! Se avsnittet nedan för att se hur du kan använda din smarta 
 
 På fliken Översikt i den smarta kontolistan finns några åtgärdsalternativ.
 
-**Exportera**: Resultatet av din smarta kontolista exporteras som en CSV-fil.
+**Exportera**: Detta exporterar resultatet av din smarta kontolista som en CSV-fil.
 
 **Klona**: Skapar en kopia av din smarta kontolista.
 
-**Skicka till annonsnätverk**: Skickar listan till LinkedIn som en ny Matchad målgrupp.
+**Skicka till annonsnätverk**: Skickar listan till LinkedIn som en ny matchad publik.
 
-Du kan också referera till din smarta kontolista i en smart kampanj/lista som är standard med hjälp av _Smart lista för personmedlem på konto_ filter.
+Du kan också referera till din smarta kontolista i en smart kampanj/lista som är standard genom att använda filtret _Personmedlem i Smart lista_ för ditt konto.
 
 ![](assets/account-smart-lists-12.png)
 
@@ -105,4 +105,4 @@ Du kan också referera till din smarta kontolista i en smart kampanj/lista som �
 >
 >**Definition**
 >
->**Smart lista för personmedlem på konto**: I det här fallet avser ordet&quot;medlem&quot; själva kontot, så&quot;personmedlem&quot; betyder de faktiska personerna (Marketo-poster) på dessa konton.
+>**Personmedlem i kontots smarta lista**: I det här fallet refererar ordet &quot;medlem&quot; till själva kontot, så &quot;personmedlem&quot; betyder de faktiska personerna (Marketo-poster) i dessa konton.

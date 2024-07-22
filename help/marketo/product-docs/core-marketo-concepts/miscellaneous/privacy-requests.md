@@ -4,7 +4,7 @@ title: Sekretessförfrågningar
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyd
 
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 
-* Via [Privacy Servicens användargränssnitt](https://privacyui.cloud.adobe.io/). Läs dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
-* Via Privacy Services-API:t. Läs dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Genom användargränssnittet ](https://privacyui.cloud.adobe.io/) för [Privacy Servicen. Se dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Via Privacy Services-API:t. Se dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} och API-information [här](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-The [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} har stöd för två typer av begäranden: dataåtkomst och borttagning av data.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} har stöd för två typer av förfrågningar: dataåtkomst och borttagning av data.
 
 Låt oss se hur du kan skapa förfrågningar om åtkomst och borttagning.
 
@@ -38,10 +38,10 @@ Om du vill göra en begäran om åtkomst- och borttagningsdata för Marketo Enga
 
 1. Identifiera följande:
 
-   a. IMS-organisations-ID<br/>
+   a. IMS-organisations-ID <br/>
 b. E-postadress till den person du vill agera på
 
-   Ett IMS-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med @AdobeOrg. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations IMS-organisation kontaktar du Adobe kundtjänst på `gdprsupport@adobe.com`. Du behöver IMS-organisations-ID för att kunna skicka begäranden till sekretess-API:t.
+   Ett IMS-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med @AdobeOrg. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations IMS-organisation kan du kontakta Adobe kundtjänst på `gdprsupport@adobe.com`. Du behöver IMS-organisations-ID för att kunna skicka begäranden till sekretess-API:t.
 
 1. I Privacy Service kan du skicka in begäranden om åtkomst och borttagning till Marketo Engage och kontrollera status för befintliga begäranden.
 
@@ -50,23 +50,23 @@ b. E-postadress till den person du vill agera på
 &quot;companyContext&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* värde: `<Your IMS Org ID Value>`
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
 användare:
 
-* &quot;action&quot;: antingen **åtkomst** eller **delete**
+* &quot;action&quot;: antingen **access** eller **delete**
 * &quot;användar-ID&quot;:
-   * &quot;namespace&quot;: **e-post**
+   * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **standard**
-   * värde: `<Data Subject's Email Address>`
+   * &quot;value&quot;: `<Data Subject's Email Address>`
 
 include:
 
-* **marketo** (som är den Adobe-produkt som är tillämplig på ansökan)
+* **marketo** (som är Adobe som gäller för begäran)
 
 reglering:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, eller **nzpa_nzl**  (som är den sekretessregel som gäller för begäran)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** eller **nzpa_nzl** (som är den sekretessregel som gäller för begäran)
 
 ## Exempel ett: GDPR-borttagningsbegäran {#gdpr-delete-request}
 
@@ -196,4 +196,4 @@ JSON-svar
 
 >[!MORELIKETHIS]
 >
->[Integritetshantering](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[Sekretesshantering](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)

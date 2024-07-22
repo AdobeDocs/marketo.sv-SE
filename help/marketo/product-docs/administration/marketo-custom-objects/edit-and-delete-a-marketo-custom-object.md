@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anpassat objekt.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -33,7 +33,7 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Klicka på **[!UICONTROL Custom Object Actions]** och klicka **[!UICONTROL Edit Object]**.
+1. Klicka på fliken **[!UICONTROL Custom Object Actions]** och klicka på **[!UICONTROL Edit Object]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
@@ -45,13 +45,13 @@ Använd menyn Anpassade objektåtgärder för att redigera eller ta bort ett anp
 
 ## Ta bort ett anpassat objekt {#delete-a-custom-object}
 
-Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig innan du släpper **[!UICONTROL Delete]**.
+Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. Anpassade objekt kan anslutas till andra objekt eller till smarta listor. Marketo varnar dig innan du kan klicka på **[!UICONTROL Delete]**.
 
 >[!CAUTION]
 >
 >Du kan inte återställa ett anpassat objekt när du har tagit bort det.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
@@ -69,13 +69,13 @@ Det är enkelt att ta bort ett anpassat objekt, men du måste vara försiktig. A
 
    >[!TIP]
    >
-   >Du kan också högerklicka på objektet och markera **[!UICONTROL Delete Object]**.
+   >Du kan också högerklicka på objektet och välja **[!UICONTROL Delete Object]**.
 
-1. Om det anpassade objektet är i utkastform, inte godkänt än, får du den här varningen. Om du är säker klickar du på **[!UICONTROL Delete]**.
+1. Om det anpassade objektet är i utkastform, inte godkänt än, får du den här varningen. Klicka på **[!UICONTROL Delete]** om du är säker.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Retur **[!UICONTROL I understand]**, kontrollera **[!UICONTROL Cannot Undo]** och klicka **[!UICONTROL Delete]**.
+1. Om det anpassade objektet redan har godkänts finns det en större risk om du tar bort det. Så du får en bättre varning. Ange **[!UICONTROL I understand]**, markera kryssrutan **[!UICONTROL Cannot Undo]** och klicka på **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

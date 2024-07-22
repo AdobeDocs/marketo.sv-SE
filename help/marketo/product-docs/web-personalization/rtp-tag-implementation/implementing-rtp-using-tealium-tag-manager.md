@@ -6,7 +6,7 @@ exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. Gå till fliken Taggar och lägg till taggen för anpassad behållare för team, som finns på fliken Övrigt på Marketplace.
 
-1. I fältet Titel anger du **Marketo RTP** och klicka **Slutför**.
+1. Ange **Marketo RTP** i fältet Titel och klicka på **Slutför**.
 
 1. Spara ändringarna.
 
@@ -29,9 +29,9 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. När profilen har sparats klickar du på ditt namn/din e-postadress i det övre högra hörnet av Tealium iQ-konsolen.
 
-1. På Admin-menyn klickar du på **Hantera mallar** under Kontoadministratör.
+1. Klicka på **Hantera mallar** under Kontoadministratör på Admin-menyn.
 
-1. Välj **Egen tealium-behållare: Marketo RTP** i listrutan för att öppna taggmallen.
+1. Välj **Anpassad behållare för team: Marketo RTP** i listrutan för att öppna taggmallen.
 
 1. Logga in på ditt RTP-konto.
 
@@ -39,18 +39,18 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
    >[!NOTE]
    >
-   >Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 11.
+   >Om du redan har fått din JavaScript-tagg från supporten fortsätter du till steg 11.
 
 1. Under Domän letar du reda på den relevanta domänen och klickar på **Generera tagg**.
 
-1. Kopiera RTP JavaScript-taggen och klistra in den mellan Start Tag Library Code och End Tag Library Code i Tealium Profile Template.
+1. Kopiera RTP JavaScript-taggen och klistra in den mellan starttaggsbibliotekskoden och sluttaggbibliotekskoden i Tealium Profile Template.
 
    >[!NOTE]
    >
    >**Viktiga steg**
    >
-   >Ta bort `<!-- RTP tag -->` och `<!-- End of RTP tag -->` -taggar från koden som du placerar i den här filen.
+   >Ta bort taggarna `<!-- RTP tag -->` och `<!-- End of RTP tag -->` från koden som du placerar i den här filen.
    >
-   >Ta bort alla `<script type='text/javascript'>` och `</script>` -taggar från koden som du placerar i den här filen.
+   >Ta bort alla `<script type='text/javascript'>`- och `</script>`-taggar från koden som du monterar i den här filen.
 
-1. **Klicka på Spara profilmall** och publicera din nya profil.
+1. **Klicka på Spara profilmall** och publicera den nya profilen.

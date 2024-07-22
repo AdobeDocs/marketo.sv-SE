@@ -20,35 +20,35 @@ Det går snabbt och enkelt att lägga till användare eller administratörer!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Under Administratörsinställningar väljer du **Användarhantering**.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Klicka på **Åtgärder** och markera **Bjud in användare**.
+1. Klicka på knappen **Åtgärder** och välj **Bjud in användare**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Du kan också välja **Bjud in användare via CSV** om du har alla i listan i ett kalkylblad.
+   >Du kan också välja **Bjud in användare via CSV** om du har alla i ett kalkylblad.
 
-1. Ange e-postadresserna till de personer du vill lägga till.
+1. Ange e-postadresserna till de personer som du vill lägga till.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. TILLVAL: Lägg till användare i alla team som de ska vara en del av. Om du hoppar över den här delen läggs alla nya medlemmar till i gruppen Alla.
+1. VALFRITT STEG: Lägg till användare i alla team som de ska vara en del av. Om du hoppar över den här delen läggs alla nya medlemmar till i gruppen Alla.
 
    ![](assets/invite-users-and-admins-5.png)
 
    >[!NOTE]
    >
-   >[Läs mer om Team](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[Läs mer om team](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. Markera den Marketo-arbetsyta som du vill lägga till nya användare i. Om du bara har en arbetsyta visas&quot;Standard&quot; som alternativ. Klicka **Bjud in**.
+1. Markera den Marketo-arbetsyta som du vill lägga till nya användare i. Om du bara har en arbetsyta visas&quot;Standard&quot; som alternativ. Klicka på **Bjud in**.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -64,11 +64,11 @@ Följ de här stegen för att göra en befintlig användare till administratör.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Under Administratörsinställningar väljer du **Användarhantering**.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Hitta den användare du vill göra till administratör, klicka på listrutan Roll och välj **Administratör**.
+1. Hitta den användare du vill göra till administratör, klicka på listrutan Roll och välj **Admin**.
 
    ![](assets/invite-users-and-admins-10.png)
 

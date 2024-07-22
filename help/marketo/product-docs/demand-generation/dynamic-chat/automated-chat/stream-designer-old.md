@@ -17,9 +17,9 @@ Det finns _många_ möjliga kombinationer av strömmar. Den här artikeln inneh�
 
 >[!PREREQUISITES]
 >
->Innan du kan använda dokumentkortet måste du [konfigurera](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} på ditt Adobe-konto.
+>Innan du kan använda dokumentkortet måste du först [konfigurera det](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} i ditt Adobe-konto.
 
-## Stream Designer-kort {#stream-designer-cards}
+## Strömma Designer-kort {#stream-designer-cards}
 
 Stream Designer innehåller flera kort som du kan lägga till för att forma chattkonversationen.
 
@@ -43,7 +43,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Mötesbokning</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa en <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till så att den inte skriver över ett standardfält i Marketo Engage).</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka på <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa ett <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till att inte skriva över ett standardfält i Marketo Engage).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Mål</strong></td>
@@ -51,7 +51,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Åtgärd*</strong></td>
-  <td>Liknar dolda fält i ett formulär, med åtgärdskortet kan du fylla i alla lead- eller företagsattribut (som har en <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">strängdatatyp</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
+  <td>På samma sätt som dolda fält i ett formulär kan du med åtgärdskortet fylla i alla lead- eller företagsattribut (som har datatypen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
   <p><i>* Action card kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
@@ -62,7 +62,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
 </table>
 
-## Stream Designer-ikoner {#stream-designer-icons}
+## Strömma Designer-ikoner {#stream-designer-icons}
 
 I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här gör de.
 
@@ -91,23 +91,23 @@ I det övre högra hörnet av Stream Designer visas en handfull ikoner. Så här
 
 ## Skapa en ström {#create-a-stream}
 
-Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. I det här exemplet skapar vi en för en dialogruta.
+Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} för konversationer. I det här exemplet skapar vi en för en dialogruta.
 
-1. Efter att du [skapade din dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klickar du på **[!UICONTROL Stream Designer]** -fliken.
+1. När du har [skapat din dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klickar du på fliken **[!UICONTROL Stream Designer]**.
 
    ![](assets/stream-designer-6.png)
 
-1. Dra och släpp [!UICONTROL Question] kort.
+1. Dra och släpp [!UICONTROL Question]-kortet.
 
    ![](assets/stream-designer-7.png)
 
-1. Under [!UICONTROL Chatbot Response], säg din fråga så som du vill.
+1. Under [!UICONTROL Chatbot Response], skriv din fråga så som du vill.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >Du kan personalisera upplevelsen för kända chattbesökare genom att använda variabler (t.ex. Hello `{{lead.leadFirstName:""}}`). Klicka bara på klammerparentesen till höger och gör ditt val. Lägg till ett standardvärde mellan offerterna om du vill att anonyma besökare ska se något generiskt (t.ex. Hello `{{lead.leadFirstName:"there"}}`).
+   >Du kan anpassa upplevelsen för kända chattbesökare genom att använda tokens (till exempel: Hej `{{lead.leadFirstName:""}}`). Klicka bara på klammerparentesen till höger och gör ditt val. Lägg till ett standardvärde mellan offerterna om du vill att anonyma besökare ska se något generiskt (t.ex. Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
@@ -119,17 +119,17 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    >[!NOTE]
    >
-   >**[!UICONTROL Edit Stored Values]** är ett valfritt steg för dem som vill lagra ett annat värde i databasen än vad som visas för besökare i chattbot för mappade attribut på frågekortet (t.ex.: besökaren ser &quot;Sökmotoroptimering&quot;, du lagrar värdet som &quot;SEO&quot;).
+   >**[!UICONTROL Edit Stored Values]** är ett valfritt steg för dem som vill lagra ett annat värde i databasen än det som visas för besökare i chatbot för mappade attribut på frågekortet (t.ex. besökaren ser Sökmotoroptimering, du lagrar det värdet som SEO.).
 
 1. För Ja vill vi schemalägga en avtalad tid, så under det alternativet drar du över schemaläggarkortet för avtalad tid.
 
    ![](assets/stream-designer-10.png)
 
-1. Klicka på i kolumnen till höger **[!UICONTROL Save]**.
+1. Klicka på **[!UICONTROL Save]** i kolumnen till höger.
 
    ![](assets/stream-designer-11.png)
 
-1. Eftersom det är ett mål drar du [!UICONTROL Goal] kortet under Avtalets schemaläggare.
+1. Eftersom det är ett mål drar du kortet [!UICONTROL Goal] nedanför schemaläggaren för avtalade tider.
 
    ![](assets/stream-designer-12.png)
 
@@ -137,11 +137,11 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-13.png)
 
-1. För&quot;Nej&quot; vill vi se om de kommer att gå med i e-postlistan, så under det alternativet drar vi över ett annat [!UICONTROL Question] kort.
+1. För Nej vill vi se om de kommer att ansluta till e-postlistan, så under det alternativet drar du över ett annat [!UICONTROL Question]-kort.
 
    ![](assets/stream-designer-14.png)
 
-1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka **[!UICONTROL Save]** när det är klart.
+1. Ange ditt svar och lägg till svarsalternativ för besökaren. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/stream-designer-15.png)
 
@@ -153,7 +153,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-16.png)
 
-1. Klicka på **[!UICONTROL Type]** nedrullningsbar meny och välj **[!UICONTROL Email]**.
+1. Klicka på listrutan **[!UICONTROL Type]** och välj **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
@@ -180,7 +180,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
     </tr>
    </table>
 
-1. Eftersom det är ett mål att samla in deras e-post drar du [!UICONTROL Goal] kortet under Info Capture.
+1. Eftersom det är ett mål att samla in deras e-post drar du [!UICONTROL Goal]-kortet under Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -192,24 +192,24 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-21.png)
 
-1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har en värdserver och klicka på **[!UICONTROL Save]**.
+1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har värdtjänster för och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Välj **[!UICONTROL Preview]** om du vill förhandsgranska dialogrutan.
+1. Markera växlingsknappen **[!UICONTROL Preview]** om du vill förhandsgranska dialogrutan.
 
    ![](assets/stream-designer-23.png)
 
-1. När du är klar att aktivera dialogrutan klickar du på **[!UICONTROL Publish]**.
+1. Klicka på **[!UICONTROL Publish]** när du är redo att aktivera din dialogruta.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Innan du klickar [!UICONTROL Publish], kom ihåg att se till att du [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Innan du klickar på [!UICONTROL Publish] måste du kontrollera att du har [angett mål-URL:er](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Skapa en dialogruta](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [Målgruppsvillkor](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
 >* [Adobe PDF Embed API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

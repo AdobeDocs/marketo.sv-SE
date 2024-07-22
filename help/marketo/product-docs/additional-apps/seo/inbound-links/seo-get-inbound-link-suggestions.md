@@ -13,9 +13,9 @@ ht-degree: 4%
 
 # SEO - Hämta förslag på inkommande länk {#seo-get-inbound-link-suggestions}
 
-Marketo kan föreslå vilka inkommande länkar som är värdefulla för [optimering utanför sidan](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo kan föreslå vilka inkommande länkar som är värdefulla för din [off-page-optimering](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Gå till **[!UICONTROL Inbound Links]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -33,7 +33,7 @@ Marketo kan föreslå vilka inkommande länkar som är värdefulla för [optimer
 
    >[!TIP]
    >
-   >Visste du att du kan  [lägga till länken i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Kolla in den!
+   >Visste du att du kan [lägga till din länk i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Kolla in den!
 
 Häftig! Dessa nya länkar kommer nu att spåras.
 

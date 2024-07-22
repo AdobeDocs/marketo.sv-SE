@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ Analystabellen innehåller följande information:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka <strong>Titel</strong> om du vill öppna innehålls-URL:en på en ny flik.</td> 
+   <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Innehåll Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vyer</strong></p></td> 
@@ -60,11 +60,11 @@ Analystabellen innehåller följande information:
    <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analysikon</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analysikon</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Se fler analyser av innehållet</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Tar bort innehållet från innehållsanalysen</td> 
   </tr> 
  </tbody> 
@@ -85,12 +85,12 @@ Ytterligare innehållsanalyser är:
 **Analyser**
 
 * **Vyer**: Vyer av den delen av innehållet för det valda tidsintervallet
-* **Direktkonvertering**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
-* **Konverteringsgrad****:** En procentuell konverteringsgrad beräknad med Direktkonvertering dividerat med Klickning
+* **Direktkonvertering**: Webbbesökare som visade innehållet och fyllde i ett formulär vid samma besök.
+* **Konverteringsgrad****:** En konverteringsgrad i procent beräknad av Direct-konverteringar dividerat med klick
 
-**Trender**
+**Trends**
 
-* A **Trender** Ett diagram som visar de senaste 30 dagarnas vyer av det specifika innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
+* Ett **Trender**-diagram som visar de senaste 30 dagarnas vyer av den specifika delen av innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
 
 ## Ta bort innehåll {#delete-content}
 

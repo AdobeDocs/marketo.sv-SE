@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-En administratör kan välja att kräva inloggning för att visa en rapport.
+En administratör kan välja att kräva inloggning för att kunna visa en rapport.
 
-1. Klicka **Administratör** och sedan **Inloggningsinställningar**.
+1. Klicka på **Admin** och sedan på **Inloggningsinställningar**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicka **Redigera** för rapportinställningar för smart lista.
+1. Klicka på **Redigera** om du vill visa rapportinställningar för smart lista.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Välj **Ja** för att hämta rapporter med inloggning.
+1. Välj **Ja** om du vill ha en inloggning för att hämta rapporter.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

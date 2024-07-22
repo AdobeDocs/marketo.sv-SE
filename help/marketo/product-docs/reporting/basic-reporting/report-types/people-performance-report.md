@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Använd en rapport om personprestanda för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och väljer **Personprestanda** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personprestanda** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 
 1. Bra! Nu kan du utforska rapporten People Performance. Lär dig hur du får ut ännu mer av det i listan nedan.
 
    >[!NOTE]
    >
-   >Som standard grupperas rapporter om personprestanda efter *Skapad den* månad.
+   >Som standard grupperas rapporter om personprestanda efter *Skapad* månad.
 
    ![](assets/one.png)
 
@@ -33,7 +33,7 @@ Prestandarapporter från människor är mycket kraftfulla. Genom att gruppera, f
 
 Du kan:
 
-* [Gruppera leads efter lead eller företagsattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [Gruppleads efter lead- eller företagsattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 * [Gruppera leads efter segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 * [Använd smarta listor som anpassade rapportkolumner.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 * [Lägg till affärsmöjlighetsvärden som rapportkolumner.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
@@ -44,4 +44,4 @@ Du kan:
 
   >[!TIP]
   >
-  >Kom ihåg att rapporter är enkla att komma åt [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.
+  >Kom ihåg att rapporter är enkla att [skapa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), konfigurera och [ta bort](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Lek vidare med de många sätt du kan manipulera dem på och lär dig de bästa sätten att fokusera på viktiga data.

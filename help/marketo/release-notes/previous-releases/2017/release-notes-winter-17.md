@@ -31,7 +31,7 @@ Grundläggande matchning använder endast e-postadresser, men i ny avancerad mat
 
 Detta API ger ett snabbare gränssnitt för att synkronisera anpassade objekt till Marketo. Du kan importera CSV-, TSV- eller SSV-kalkylbladsfiler till Marketo som anpassade objekt.
 
-## [Export av webbkampanjer för personalisering](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Export av Personalization-webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Sedan kan du visa dina data i en bekväm layout.
 
@@ -39,7 +39,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ## Lokalisering {#localization}
 
-Apparna Webbpersonalisering, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [välj språk och språkområde](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
+Apparna Web Personalization, Predictive Content och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språkområde](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -59,19 +59,19 @@ Använd namngivet konto eller kontolista som dimensioner i e-postinsikter.
 
 ## Förbättringar av prediktivt innehåll {#predictive-content-enhancements}
 
-**[Filtrera efter aktiverad källa](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrera efter aktiverad Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtrera prediktiva innehållsdelar som är aktiverade för e-post, multimedia eller rekommendationsfältet.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtrera analyser efter källa](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrera analyser efter Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtrera prediktiv innehållsanalys för specifika källor - e-post, multimedia eller rekommendationsfält.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Predictive Content Editor**
+**Redigerare för prediktivt innehåll**
 
 Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehållsförberedelser efter källa - e-post, multimedia eller rekommendationsfält.
 
@@ -85,7 +85,7 @@ Bild-URL och metadata används nu i processen för automatisk identifiering av i
 
 Utvecklare har nu ytterligare kontroll över leveransen av push-meddelanden med ett nytt SDK API-anrop som gör att utvecklare kan ta bort push-tokens.
 
-## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint-integrering](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Förbättra er målinriktning med ett nytt filteralternativ,&quot;Member of Vibes List&quot;.
 
@@ -93,6 +93,6 @@ Förbättra er målinriktning med ett nytt filteralternativ,&quot;Member of Vibe
 
 Från och med den 1 augusti 2017 kommer kunder som fortfarande använder den gamla RTF-redigeraren och formulärredigeraren 1.0 automatiskt att övergå till den nya versionen.
 
-## [Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [Marketo Activity API:er](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
 En viktig förändring kommer att göras i Marketo aktivitets-API:er. Är du förberedd?

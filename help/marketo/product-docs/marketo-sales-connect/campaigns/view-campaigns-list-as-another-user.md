@@ -19,11 +19,11 @@ Som administratör kan ni visa kampanjer som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Kampanjer**.
+1. Klicka på **Kampanjer** i webbprogrammet.
 
    ![](assets/one-5.png)
 
-1. Klicka på **Visa som** och välj önskad användare.
+1. Klicka på listrutan **Visa som** och välj önskad användare.
 
    ![](assets/two-4.png)
 

@@ -25,18 +25,18 @@ Om du vill filtrera efter kontolista klickar du på listrutan Visa...
 
 ![](assets/three.png)
 
-Så här visar du [Kontrollpanel för kontolista](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard)klickar du på namnet på den kontolista du har valt..
+Om du vill visa kontrollpanelen [Kontolista](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) klickar du på namnet på den kontolista du har valt..
 
 ![](assets/four.png)
 
-...och kontrollpanelen läses in.
+...och instrumentpanelen läses in.
 
 ![](assets/five.png)
 
-Om du inte vill visa kontrollpanelen för kontolistan utan vill gå igenom ett namngivet konto klickar du på **Mer information** under namnet...
+Om du inte vill visa kontrollpanelen för kontolistan utan vill gå igenom ett namngivet konto klickar du på **Mer information** under namnet..
 
 ![](assets/six.png)
 
-...och visa [insikter om namngivet konto](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...och visa det [namngivna kontots insikter](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

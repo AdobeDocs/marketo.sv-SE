@@ -2,7 +2,8 @@
 description: Säkerhetsinställningar - Marketo Docs - produktdokumentation
 title: Skyddsinställningar
 feature: Dynamic Chat
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 På sidan Användningsbegränsningar finns viktig information, som paketinformation och status för användningsbegränsning.
 
-1. Under Konfiguration klickar du på **[!UICONTROL Usage limits]**.
+1. Klicka på **[!UICONTROL Usage limits]** under Konfiguration.
 
    ![](assets/usage-limits-1.png)
 

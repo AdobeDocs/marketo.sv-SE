@@ -23,7 +23,7 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 >
 >Informationen i den här artikeln är avsedd för användare som loggar in direkt på login.marketo.com och inte för dem som autentiserar med Adobe ID. Det är för närvarande inte möjligt att tillämpa IP-begränsningar för enkel inloggning (SSO).
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
@@ -35,7 +35,7 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Välj om du vill **Tillåt** eller **Blockera** anger du adressen/adresserna och klickar sedan på **[!UICONTROL Save]**.
+1. Välj om du vill **Tillåt** eller **Blockera** specifika adresser, ange adressen/adresserna och klicka sedan på **[!UICONTROL Save]**.
 
    >[!NOTE]
    >

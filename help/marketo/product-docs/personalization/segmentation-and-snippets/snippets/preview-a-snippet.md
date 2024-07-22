@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägga till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Lägg till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Kodavsnitt är block med dynamiskt innehåll som ändras baserat på segmenteringsregler.
 
@@ -23,7 +23,7 @@ Kodavsnitt är block med dynamiskt innehåll som ändras baserat på segmenterin
 
    ![](assets/designstudio-3.png)
 
-1. Klicka på fragmentet och sedan **Förhandsgranska fragment**.
+1. Klicka på fragmentet och **Förhandsgranska fragment**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

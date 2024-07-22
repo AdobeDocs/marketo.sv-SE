@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägga till automatisk uppsägning av prenumerationer i en mall {#add-auto-unsubscribes-to-a-template}
 
-1. Välj en mall och klicka på **Redigera** under Avbeställ.
+1. Markera mallen och klicka på **Redigera** i avsnittet Avsluta prenumeration.
 
 1. Välj om du vill lägga till det automatiska avabonnemanget, det automatiska avblocket eller båda.
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Du kan även justera hur dessa meddelanden om att avbryta prenumerationen visas på **Tidszon och avbeställning** tabba in **Inställningar**.
+>Du kan också justera hur dessa meddelanden om att prenumerera ska visas på fliken **Tidszon och att prenumerera** i **Inställningar**.

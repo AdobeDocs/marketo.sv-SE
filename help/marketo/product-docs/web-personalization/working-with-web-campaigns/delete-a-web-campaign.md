@@ -19,9 +19,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
-1. På webbkampanjsidan klickar du på **Ta bort** på kampanjen som du vill ta bort.
+1. Klicka på **Ta bort** för den kampanj du vill ta bort på sidan Webbkampanjer.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

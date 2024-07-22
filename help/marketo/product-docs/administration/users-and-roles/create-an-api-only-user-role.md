@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Skapa en användarroll endast för API {#create-an-api-only-user-role}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.c
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. Klicka på **[!UICONTROL Roles]** och sedan **[!UICONTROL New Role]**.
+1. Klicka på fliken **[!UICONTROL Roles]** och sedan på **[!UICONTROL New Role]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
@@ -41,4 +41,4 @@ Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.c
 
 >[!MORELIKETHIS]
 >
->Bra gjort! Nu ska vi [skapa en användare med endast API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>Bra gjort! Nu ska vi [skapa en Endast API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).

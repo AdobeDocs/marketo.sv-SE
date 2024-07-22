@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,11 @@ Facebook Lead Ads-kampanjer genererar leads och skickar dem till Marketo för an
 >
 >Det innebär att annonsering 1, trots att den genererade färre leads, hade 50 procents framgång, medan annons 3 nästan inte alls var effektiv.
 >
->Utan offlinekonverteringar skulle annonsören förmodligen investera mer i annons 3. Med offlinekonverteringsdata är det troligare att annonsören investerar i annons 1.
+>Utan offlinekonverteringar skulle annonsören förmodligen investera mer i annons 3. Med konverteringsdata offline kommer annonsören mer sannolikt att investera i annons 1.
 
-Du kan [konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka annonsprestanda offline till Facebook.
+Du kan [konfigurera Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till Facebook.
 
-1. Se till att [Integrering med facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
+1. Kontrollera att [Facebook LaunchPoint-integreringen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
 1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser i Facebook.
 1. När en Facebook-lead genereras från en Facebook Lead Ad och når en mappad fas skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Data visas i Facebook Ads Manager Report.
 

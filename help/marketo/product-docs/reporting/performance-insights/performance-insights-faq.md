@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Success är ett mått på meningsfull interaktion i Marketo. Syftet med ett prog
 
 >[!NOTE]
 >
->I ett webbinarium kan det finnas flera statusar, som: Inbjuden, registrerad och anmäld. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
+>I ett webbinarium kan det finnas flera statusar, t.ex.: Inbjuden, Registrerad och Bifogad. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
 
 ## Fungerar MPI tillsammans med CRM? {#will-mpi-work-with-any-crm}
 
-Ja. I praktiken interagerar inte MPI direkt med CRM för datasynkronisering. MPI använder data som lagras i Marketo Analytics Data warehouse. Eftersom CRM-synkroniseringen görs i Lead Management-programmet visas data korrekt i alla CRM-system som Marketo stöder tillsammans med Lead Management-programmet. CRM-affärsmöjlighetsfälten måste dock mappas korrekt till Marketo affärsmöjlighetsfält.
+Ja. I praktiken interagerar inte MPI direkt med CRM för datasynkronisering. MPI använder data som lagras i Marketo Analytics-Datan Warehouse. Eftersom CRM-synkroniseringen görs i Lead Management-programmet visas data korrekt i alla CRM-system som Marketo stöder tillsammans med Lead Management-programmet. CRM-affärsmöjlighetsfälten måste dock mappas korrekt till Marketo affärsmöjlighetsfält.
 
 ## Jag har inga andra Marketing Analytics-produkter (ARB, RCE, RCA, Program Analysis). Fungerar MPI för mig? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -31,9 +31,9 @@ MPI är ett oberoende tillägg till Lead Management-programmet. Inga andra analy
 
 ## RCA visar även prestandadata för programmet. Finns det någon skillnad mellan de data som visas i MPI och RCA? {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-Nej. MPI hämtar data från samma data warehouse som RCA. Därför kommer du inte att se några skillnader i data mellan de båda. Med RCA kan du skapa egna rapporter direkt. Med MPI får du tillgång till lättbegripliga visuella instrumentpaneler.
+Nej. MPI hämtar data från samma datalager som RCA. Därför kommer du inte att se några skillnader i data mellan de båda. Med RCA kan du skapa egna rapporter direkt. Med MPI får du tillgång till lättbegripliga visuella instrumentpaneler.
 
-## Jag vill inte att vissa av mina program (till exempel Operational) ska visas i MPI. Hur kontrollerar jag synligheten för specifika program? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
+## Jag vill inte att vissa av mina program (t.ex. Operational) ska visas i MPI. Hur kontrollerar jag synligheten för specifika program? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
 Du kan styra visningen av dina program genom att ange Analytics-beteendet för dina program till Operational. Detta gör att programmet inte tas med i analysberäkningarna.
 
@@ -63,7 +63,7 @@ Du kanske också saknar möjligheter på grund av att programkostnaden saknas i 
 
 >[!NOTE]
 >
->Periodkostnad **har** som ska konfigureras för rapportering av lyckade och nya namn på instrumentpanelen för engagemang. På den här instrumentpanelen används periodkostnadsdata för att samla framgångar och nya namn. Om periodkostnad inte är inställt kommer instrumentpanelen för engagemang inte att rapportera korrekt oavsett inställningarna för analysbeteendet ovan.
+>Periodkostnaden **har** att ställa in för rapportering av lyckade och nya namn på instrumentpanelen för engagemang. På den här instrumentpanelen används periodkostnadsdata för att samla framgångar och nya namn. Om periodkostnad inte är inställt kommer instrumentpanelen för engagemang inte att rapportera korrekt oavsett inställningarna för analysbeteendet ovan.
 
 ## Varför saknar jag vissa möjligheter i MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -74,7 +74,7 @@ Två viktiga orsaker till varför du kanske saknar möjligheter i MPI är:
 
 MPI beräknar om alla dina möjligheter inkluderas i analysen eller inte. Annars uppmanas du att överväga att ändra dina attribueringsinställningar (Explicit, Implicit, Hybrid) för att inkludera fler möjligheter.
 
-Du kanske också saknar möjligheter på grund av att programkostnaden saknas i dina program. Meddelandet kommer att visas men pekar inte på vilka program som saknar kostnader. Granska din programkonfiguration så att den innehåller kostnader för att se till att alla program och möjligheter ingår i MPI.
+Du kanske också saknar möjligheter på grund av att programkostnaden saknas i dina program. Varningen kommer att visas men pekar inte på vilka program som saknar kostnader. Granska din programkonfiguration så att den innehåller kostnader för att se till att alla program och möjligheter ingår i MPI.
 
 ## Varför visas inte anpassade fält, säljprojektstyp och ABM-filter på instrumentpanelen för engagemang? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
@@ -82,7 +82,7 @@ Anpassade fält, säljprojektstyp och ABM-filter är alla attribut som är relat
 
 ## Jag vill använda ett anpassat Salesforce-säljprojektsfält för intäktsrapportering i stället för standardfältet Salesforce-säljprojektsbelopp. Kommer MPI att tillåta mig att göra det? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) kan mappa om Marketo fält för säljprojektsbelopp till ett anpassat Salesforce-fält så länge som fälttypen är valuta. Eftersom MPI pekar på beloppsfältet för Marketo-säljprojekt kan MPI använda data från det ommappade anpassade Salesforce-fältet.
+Ja. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) kan mappa om Marketo fält för säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på beloppsfältet för Marketo-säljprojekt kan MPI använda data från det ommappade anpassade Salesforce-fältet.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Ja. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) kan ma
 
 ## Kan jag ändå använda MPI om jag inte utnyttjar möjligheterna? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-MPI är utformat för att du ska kunna mäta programmets prestanda från början av processen till intäktseffekten. Om du inte utnyttjar möjligheterna kommer du fortfarande att kunna:
+MPI är utformat för att du ska kunna mäta programmets prestanda från början av processen till intäktseffekten. Om du inte utnyttjar möjligheterna kan du fortfarande:
 
 * Visa resultatet av era vårdsprogram för målgruppsengagemang.
 * Visa resultatet för era program för värvning av leads.
@@ -100,11 +100,11 @@ MPI är utformat för att du ska kunna mäta programmets prestanda från början
 
 ## Kan jag mäta framgången med kontobaserade strategier i MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI kan integreras med [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) för att smidigt hämta kontolistor för ABM till MPI. Du kan använda filtret ABM-kontolista för att välja önskad ABM-lista att filtrera data efter.
+Ja. MPI integreras med [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) för att dra in ABM-kontolistor till MPI sömlöst. Du kan använda filtret ABM-kontolista för att välja önskad ABM-lista att filtrera data efter.
 
 ## Är attribuering direkt tillgängligt när jag köper MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. Men [korrekt installation](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) är nödvändigt för att säkerställa att affärsmöjligheter och programdata flödar korrekt in i MPI.
+Marketo Attribution-funktionerna är tillgängliga för våra kunder när de köper MPI. [korrekt konfiguration](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) krävs dock för att säkerställa att affärsmöjligheter och programdata flödar korrekt till MPI.
 
 ## Vad måste jag göra för att konfigurera attribuering? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -118,7 +118,7 @@ Marketo Attribution-funktionerna är tillgängliga för våra kunder när de kö
       1. Inkludera programkostnader i dina program
       1. Granska analysbeteendet för att ange om ett program ska inkluderas i analysen
       1. Ange resultatkriterier för alla kanaler du har
-      1. Tie Person to Programs
+      1. Koppla person till program
 
          1. Kontrollera att inköpsprogrammet och förvärvsdatumet har angetts för varje person i databasen för att First Touch Attribution ska fungera.
          1. Se till att dina program anger status som lyckade för personer i din databas

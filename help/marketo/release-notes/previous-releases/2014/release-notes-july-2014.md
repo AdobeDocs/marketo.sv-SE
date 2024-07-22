@@ -17,7 +17,7 @@ Följande funktioner ingår i juliversionen 2014. Kontrollera om det finns funkt
 
 ## Marknadsföringskalender {#marketing-calendar}
 
-Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) utan kostnad för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
+Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) kommer att vara tillgänglig kostnadsfritt för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -31,7 +31,7 @@ Marketo Lead Management uppdateras med ett nytt utseende som är modernt och smi
 
 ## Datumoperatorer {#date-operators}
 
-[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for &quot;in previous before&quot;, &quot;in future&quot;, and &quot;in future after&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
+[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) för &quot;tidigare&quot;, &quot;i framtiden&quot; och &quot;i framtiden efter&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Förutom den marknadsföringskalender som du hanterar dina evenemang och standar
 
 ## Lista åtgärder i ReST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Se [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) om du vill ha fullständig dokumentation.
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -56,7 +56,7 @@ Vi har lagt till anropen nedan som rör liståtgärder i ReST. Se [https://exper
 
 ## Snabb listimport {#fast-list-import}
 
-Över **50x snabbare** zoomar filerna in i Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
+Över **50x snabbare** zoomar dina filer in i Marketo! De gamla importalternativen &quot;Normal&quot; och &quot;Optimerad för nya leads&quot; har ersatts med &quot;Standard (snabb import)&quot;.
 
 Alternativet Hoppa över nya leads och uppdateringar ändras inte.
 
@@ -65,12 +65,12 @@ Alternativet Hoppa över nya leads och uppdateringar ändras inte.
 Utbyggnaden kommer att stagnera från mitten av juli och fortsätta under de kommande månaderna.
 
 * Tar bort beroendet jQuery för fullständig och framtida kompatibilitet
-* Mer kompatibel med andra JavaScript-skript på webbplatsen
+* Mer kompatibel med andra JavaScript på er webbplats
 * Fullständigt testad på många sajter under det senaste året!
 
-## RTP: Kampanjmallar för personalisering i realtid {#rtp-real-time-personalization-campaign-templates}
+## RTP: Personalization Campaign-mallar i realtid {#rtp-real-time-personalization-campaign-templates}
 
-RTP Set Campaign page now [innehåller färdiga mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Välj bland en mängd olika stilar som webbinarier, fallstudier och e-böcker.
+RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Välj bland en mängd olika stilar som webbinarier, fallstudier och e-böcker.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 

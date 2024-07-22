@@ -6,7 +6,7 @@ exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Med händelser kan du automatisera online- och offlinehändelser! Fånga personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj mapp för det nya programmet. Välj **Nytt** och klicka **Nytt program**.
+1. Välj mapp för det nya programmet. Välj **Nytt** och klicka på **Nytt program**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Välj ett namn för aktiviteten. Sedan, under **Programtyp**, markera **Händelse**.
+1. Välj ett namn för aktiviteten. Välj sedan **Händelse** under **Programtyp**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Välj en **Kanal**.
+1. Välj en **kanal**.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,7 +43,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Välj **Schemavy** och klicka på den i kalendern för att öppna popup-fönstret. Ange datum och tid.
+1. Om du vill schemalägga din aktivitet väljer du **Schemavy** och klickar på den i kalendern för att öppna popup-fönstret. Ange datum och tid.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
@@ -51,7 +51,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Skapa [landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)och [e-post](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) för att bjuda in dina gäster! Du kommer också att vilja bekanta dig med [programschemavy](https://docs.marketo.com/display/docs/program+schedule+view).
+När aktiviteten har skapats kan du skapa [landningssidorna](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulären](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [e-postmeddelanden](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och bjuda in dina gäster! Du vill också bekanta dig med [programschemavyn](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

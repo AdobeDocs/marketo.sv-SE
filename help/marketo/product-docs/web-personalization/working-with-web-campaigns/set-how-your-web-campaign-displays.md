@@ -25,21 +25,21 @@ Det här alternativet är valt som standard och visar bara kampanjen vid sidinl�
 
 Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reagera på din webbplats.
 
-1. Klicka på **Visa på** nedrullningsbar meny och välj **Fördröjning**.
+1. Klicka på listrutan **Visa på** och välj **Fördröjning**.
 
    ![](assets/d1.png)
 
-1. Klicka på **Vänta** och välj önskad tid.
+1. Klicka på listrutan **Vänta** och välj önskad tid.
 
    ![](assets/d2.png)
 
 ## Rulla {#scroll}
 
-1. Klicka på **Visa på** nedrullningsbar meny och välj **Rulla**.
+1. Klicka på listrutan **Visa på** och välj **Bläddra**.
 
    ![](assets/s1.png)
 
-1. Klicka på **När** och välja när du vill att webbkampanjen ska visas.
+1. Klicka på listrutan **När** och välj när du vill att webbkampanjen ska visas.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
 När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsaren.
 
-1. Klicka på **Visa på** nedrullningsbar meny och välj **Avsluta metod**.
+1. Klicka på listrutan **Visa på** och välj **Avsluta metod**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsar
 
 >[!TIP]
 >
->Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [Förhandsgranskning av webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Vill du se hur de valda effekterna kommer att se ut i förväg? Kolla in dem via en [förhandsgranskning av webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

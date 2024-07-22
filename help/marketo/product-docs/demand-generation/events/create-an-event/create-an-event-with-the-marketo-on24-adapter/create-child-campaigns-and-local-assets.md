@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
-description: Skapa underordnade kampanjer och lokala resurser - Marketo Docs - produktdokumentation
-title: Skapa underordnade kampanjer och lokala resurser
+description: Skapa underordnade kampanjer och lokala Assets - Marketo Docs - produktdokumentation
+title: Skapa underordnade kampanjer och lokala Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '665'
 ht-degree: 1%
 
 ---
 
-# Skapa underordnade kampanjer och lokala resurser {#create-child-campaigns-and-local-assets}
+# Skapa underordnade kampanjer och lokala Assets {#create-child-campaigns-and-local-assets}
 
 Skapa era barnkampanjer och lokala resurser med Design Studio.
 
@@ -44,13 +44,13 @@ Använd Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När
 
 >[!NOTE]
 >
->Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När du skickar ut en bekräftelse-URL matchas denna token automatiskt mot personens unika bekräftelse-URL.
+>Om du vill fylla i bekräftelsemeddelandet med den här unika URL:en använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När du skickar ut en bekräftelse-URL matchas denna token automatiskt mot personens unika bekräftelse-URL.
 >
->Ange typ av bekräftelsemeddelande som **Operativ** för att säkerställa att registrerade personer får sin bekräftelseinformation, även om de avbeställer prenumerationen.
+>Ange typen av bekräftelsemeddelande som **Operational** för att se till att alla som registrerar får sin bekräftelseinformation, även om de avbeställer prenumerationen.
 
 >[!TIP]
 >
->Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Se [ON24 Help Site](https://www.on24.com/live-webcast-elite/){target="_blank"} för mer information.
+>Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Mer information finns på [ON24-hjälpwebbplatsen](https://www.on24.com/live-webcast-elite/){target="_blank"}.
 
 ## Krav för registrering av underordnad kampanj {#registration-child-campaign-requirements}
 
@@ -60,12 +60,12 @@ Exempel på underordnade kampanjer är en inbjudningskampanj, en registreringska
 
 >[!CAUTION]
 >
->För att adaptern ska kunna utföra sitt arbete MÅSTE du skapa en registreringskampanj. Den här kampanjen måste utlösas av personen som fyller i ett formulär och det första steget måste ändra personens programstatus till **Registrerad**. Kampanjen skickar sedan ett bekräftelsemeddelande via e-post. Mer information finns i resten av den här artikeln.
+>För att adaptern ska kunna utföra sitt arbete MÅSTE du skapa en registreringskampanj. Den här kampanjen måste utlösas av personen som fyller i ett formulär och det första steget måste ändra personens programstatus till **Registrerad**. Kampanjen skickar sedan ett bekräftelsemejl. Mer information finns i resten av artikeln.
 
 **Registrering/bekräftelse (utlösarkampanj)**
 
 * Smart List
-* Utlösare baserad på **Fyller i formulär**. Se till att du inkluderar landningssidan som formuläret använder **Lägg till begränsning**, särskilt om samma formulär används på flera landningssidor.
+* Utlösare baserad på **Fyller i formulär**. Se till att du inkluderar landningssidan som formuläret är aktivt på med **Lägg till begränsning**, särskilt om samma formulär används på flera landningssidor.
 
 >[!CAUTION]
 >
@@ -73,32 +73,32 @@ Exempel på underordnade kampanjer är en inbjudningskampanj, en registreringska
 
 >[!NOTE]
 >
->Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo kommer utlösaren att vara **Fyller i formulär** med formulärnamnet.
+>Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo, kommer utlösaren att vara **Fyller i formulär** med formulärnamnet.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flöde**
 
-* **Ändra programstatus** - Ange som webbinarium -> Registrerad.
+* **Ändra programstatus** - Ange som webbinarium -> Registrerat.
 
 Det här flödessteget krävs som STEG FÖR FÖRSTA FLÖDE när du konfigurerar din underordnade kampanj. När en persons programstatus ändras till Registrerad skickar Marketo registreringsinformationen till ON24. Ingen annan status kommer att föra personen över.
 
-* **Skicka e-post** - Bekräftelsemeddelande via e-post. Ange det här e-postmeddelandet som **Operativ** så att de som har registrerat sig fortfarande får prenumerationen.
+* **Skicka e-post** - bekräftelse via e-post. Ange det här e-postmeddelandet som **Funktion** så att de som har registrerat sig fortfarande får det.
 
-The **Skicka e-post** Flödessteget MÅSTE vara det andra steget. Bekräftelsemeddelandet innehåller `{{member.webinar url}}`, som fylls i med information som skickas tillbaka till Marketo från ON24.
+Flödessteget **Skicka e-post** MÅSTE vara det andra steget. Bekräftelsemeddelandet innehåller `{{member.webinar url}}`, som fylls i med information som skickas tillbaka till Marketo från ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->Ordningen på dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. The **Ändra programstatus** skickar personen till ON24 för att registrera och en unik URL genereras. När detta har inträffat kan du skicka ut bekräftelsemeddelandet som innehåller denna unika URL-adress med hjälp av `{{member.webinar URL}}` token.
+>Ordningen på dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. Steget **Ändra programstatus** skickar personen till ON24 för att registrera och en unik URL genereras. När detta har inträffat kan du sedan skicka ut bekräftelsemeddelandet som innehåller denna unika URL med hjälp av token `{{member.webinar URL}}`.
 >
->Om personen returneras med ett registreringsfel får han/hon ingen e-postbekräftelse.
+>Om personen returneras med ett registreringsfel får han/hon inte någon e-postbekräftelse.
 
 Nästa steg är att [testa din ON24-händelseintegrering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Om Marketo ON24-nätverkskortshändelser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
->* [Exempel på händelseintegrering ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Exempel på ON24-händelseintegrering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
 >* [Om status för webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

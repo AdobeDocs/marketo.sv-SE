@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Vem röstade på vad i din omröstning? Låt oss ta reda på det.
 
-1. I **Marknadsföringsaktiviteter**, markerar omröstningen och klickar på **Deltagare** -fliken.
+1. I **Marknadsföringsaktiviteter** väljer du omröstningen och klickar på fliken **Deltagare** .
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Klicka på siffran i **Röster** kolumn.
+1. Klicka på talet i kolumnen **Votes**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
-1. Det de röstade om kommer att visas. Klicka **Stäng**.
+1. Det de röstade om kommer att visas. Klicka på **Stäng**.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 

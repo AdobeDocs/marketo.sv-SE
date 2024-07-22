@@ -47,11 +47,11 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
    >
    >För att få bästa möjliga kvalitet måste bilden vara 400 × 400 pixlar eller mindre.
 
-1. Infoga bildens URL och klicka på **Lägg till**.
+1. Infoga bild-URL:en och klicka på **Lägg till**.
 
    ![](assets/five.png)
 
-1. Klicka och dra i skjutreglaget för att ändra bildstorleken. Klicka och dra sedan beskärningsrutan för att isolera det bildområde som du vill använda. Klicka **Förhandsgranska** när det är klart.
+1. Klicka och dra i skjutreglaget för att ändra bildstorleken. Klicka och dra sedan beskärningsrutan för att isolera det bildområde som du vill använda. Klicka på **Förhandsgranska** när du är klar.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Du kan också klicka på **Kategorier** och lägg till kategorier i innehållet. Alternativen finns i [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Du kan också klicka på fältet **Kategorier** och lägga till kategorier i innehållet. Det finns alternativ bland de [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ Så här konfigurerar du ditt prediktiva innehåll för e-postmeddelanden.
 
    ![](assets/nine.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >I Marketo Email Editor v2.0 kan du även [visa layoutmallar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) du använder när du aktiverar innehållet.
+   >I Marketo e-postredigerare v2.0 kan du även [visa de layoutmallar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) som du använder när du aktiverar innehållet.

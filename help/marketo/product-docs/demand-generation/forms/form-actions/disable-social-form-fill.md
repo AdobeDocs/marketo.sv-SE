@@ -19,7 +19,7 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
 >
 >Alla kunder har inte köpt den här funktionen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -27,7 +27,7 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klicka under Formulärinställningar **Inställningar**.
+1. Klicka på **Inställningar** under Formulärinställningar.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ Ibland vill du inte längre att besökarna ska skicka in formulär med hjälp av
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

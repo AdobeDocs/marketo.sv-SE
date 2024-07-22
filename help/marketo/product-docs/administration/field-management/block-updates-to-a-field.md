@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Blockera uppdateringar till ett fält {#block-updates-to-a-field}
 
-Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gång och sedan behålla det ursprungliga värdet under fältets livstid. Detta kan vara användbart för fält som [!UICONTROL Person Source].
+Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gång och sedan behålla det ursprungliga värdet under fältets livstid. Detta kan vara användbart för ett fält som [!UICONTROL Person Source].
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/block-updates-to-a-field-1.png)
 
@@ -27,18 +27,18 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Sök efter fältet, markera det och sedan under **[!UICONTROL Field Actions]**, klicka **[!UICONTROL Block Field Updates]**.
+1. Sök efter fältet, markera det och klicka sedan på **[!UICONTROL Block Field Updates]** under **[!UICONTROL Field Actions]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 
    >[!NOTE]
    >
-   >Du kan blockera uppdateringar till [Anpassade fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) också.
+   >Du kan även blockera uppdateringar av [anpassade programmedlemsfält](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
 
-1. Välj **[!UICONTROL Input Sources]** du vill blockera och klicka **[!UICONTROL Apply]**.
+1. Markera **[!UICONTROL Input Sources]** som du vill blockera och klicka på **[!UICONTROL Apply]**.
 
    ![](assets/block-updates-to-a-field-4.png)
 
    >[!CAUTION]
    >
-   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på det fält som matchar _exakt_ (eller om alias upprättas). Om fältet väljs manuellt från listrutan Marketo-fält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.
+   >När du utför en listimport visas statusen för ett fält som blockeras i importförhandsvisningen endast om fältet identifieras automatiskt av Marketo baserat på namnet på fältet som matchar _exakt_ (eller om alias har upprättats). Om fältet väljs manuellt från listrutan Marketo-fält visas inte spärrstatusen i importförhandsvisningen, men uppdateringsblockering för det fältet kommer fortfarande att implementeras.

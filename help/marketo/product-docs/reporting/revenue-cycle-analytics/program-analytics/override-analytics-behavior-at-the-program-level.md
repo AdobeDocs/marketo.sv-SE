@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Åsidosätt analysbeteende på programnivå {#override-analytics-behavior-at-the-program-level}
 
-Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) men du kan också åsidosätta den på programnivå. Så här:
+Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan också åsidosätta det på programnivå. Så här:
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Under **Inställningar** drar du Analytics-beteendet till arbetsytan.
+1. Under fliken **Inställningar** drar du Analytics Behavior till arbetsytan.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -33,16 +33,16 @@ Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs
    >
    >**Definition**
    >
-   >* **Inkluderande** - Det här alternativet ser till att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
-   >* **Operativ** - Det här alternativet innebär att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
+   >* **Inkluderande** - Det här alternativet ser till att programmet är tillgängligt för rapportering i intäktsutforskaren och analysprogram, oavsett om du har inkluderat en periodkostnad eller inte.
+   >* **Operativ** - Det här alternativet resulterar i att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
 
    >[!NOTE]
    >
-   >Standardbeteendet (om den här inställningen inte används) är att programmet inkluderas i Analytics **ENDAST om det finns minst en periodkostnad**, till och med en med noll dollar.
+   >Standardbeteendet (om den här inställningen inte används) är att programmet endast inkluderas i analysen **ENDAST om det finns minst en periodkostnad**, även en med noll dollar tilldelat.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

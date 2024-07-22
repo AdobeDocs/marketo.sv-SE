@@ -49,7 +49,7 @@ Nej, dessa data har redan lagrats på personposten i Marketo och påverkades int
 
 ## Var finns mer information om LinkedIn API-policy? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Följ den här länken om du vill veta mer om de ändringar som LinkedIn har gjort i deras API-policy: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Följ den här länken om du vill veta mer om de ändringar som LinkedIn har gjort i deras API-princip: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Hur kontaktar jag LinkedIn med frågor? {#how-can-i-contact-linkedin-with-questions}
 

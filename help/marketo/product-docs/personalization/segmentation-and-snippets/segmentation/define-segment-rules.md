@@ -6,7 +6,7 @@ exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 >
 >[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Gå till **Databas.**
+1. Gå till **databasen.**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Välj **Segmentering** från trädet och klicka sedan på en viss **Segment**.
+1. Välj **Segmentering** i trädet och klicka sedan på ett visst **segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Klicka **Smart List** och lägga till filter.
+1. Klicka på **Smart lista** och lägg till filter.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
    >[!CAUTION]
    >
-   >Segmenten stöder för närvarande inte _Tidigare_ och _I tidsram_  operatorer på filter. Det beror på att segmenteringar bara söker efter uppdateringar när ett ändringsdatavärde loggas. Dessa värden är _not_ loggad för saker som ändras automatiskt, t.ex. formelfält och datum. Dessutom stöds inte datumoperatorer med relativa datumintervall eftersom de beräknas vid tidpunkten för segmenteringsgodkännande, inte vid tidpunkten för en Ändra datavärdesaktivitet.
+   >Segment har för närvarande inte stöd för operatorerna _I föregående_ och _I tidsram_ på filter. Det beror på att segmenteringar bara söker efter uppdateringar när ett ändringsdatavärde loggas. Dessa värden är _inte_ loggade för saker som ändras automatiskt, till exempel formelfält och datum. Dessutom stöds inte datumoperatorer med relativa datumintervall eftersom de beräknas vid tidpunkten för segmenteringsgodkännande, inte vid tidpunkten för en Ändra datavärdesaktivitet.
 
    >[!NOTE]
    >
@@ -45,19 +45,19 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 
    >[!CAUTION]
    >
-   >Aktivitetsloggning för kontofält kan påverka kvalificeringen. Därför rekommenderar vi att du inte använder kontofält när du definierar segmentregler.
+   >Aktivitetsloggningsbeteendet för kontofält kan påverka kvalificeringen. Därför rekommenderar vi att du inte använder kontofält när du definierar segmentregler.
 
-1. Klicka på **Personer (utkast)** om du vill visa de personer som kan vara kvalificerade att vara medlemmar i det här segmentet.
+1. Klicka på fliken **Personer (utkast)** för att visa de personer som kan kvalificera sig som medlemmar i det här segmentet.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Gå till **Segmenteringsåtgärder**. Klicka **Godkänn**.
+1. Gå till **Segmenteringsåtgärder**. Klicka på **Godkänn**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
    >[!CAUTION]
    >
-   >Det totala antalet segment som du kan skapa i en segmentering beror på antalet och typen av filter som används och även på hur komplex logiken i segmenten är. Du kan skapa upp till 100 segment med hjälp av standardfält, men med andra typer av filter kan det bli mer komplicerat och segmenteringen kanske inte kan godkännas. Några exempel är: anpassade fält, listmedlem, fält för huvudägare och intäktsfaser.
+   >Det totala antalet segment som du kan skapa i en segmentering beror på antalet och typen av filter som används och även på hur komplex logiken i segmenten är. Du kan skapa upp till 100 segment med hjälp av standardfält, men med andra typer av filter kan det bli mer komplicerat och segmenteringen kanske inte kan godkännas. Några exempel är: anpassade fält, listmedlem, leadägarfält och intäktsfaser.
    >
    >Om du får ett felmeddelande under godkännandet och behöver hjälp med att minska komplexiteten i din segmentering kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -69,7 +69,7 @@ Bra jobbat! De här segmenten kommer att bli bra på många ställen i Marketo.
 
 >[!NOTE]
 >
->En person kan vara berättigad till olika segment, men tillhör så småningom bara ett som är beroende av [segmentens prioritetsordning](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
+>En person kan kvalificera sig för olika segment, men tillhör så småningom bara ett som är beroende av [prioritetsordningen för segmenten](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >

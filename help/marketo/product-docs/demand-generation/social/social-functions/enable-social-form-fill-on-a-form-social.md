@@ -19,7 +19,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klicka på under Formulärinställningar **Inställningar**.
+1. Klicka på **Inställningar** under Formulärinställningar.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +37,13 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på [data som Marketo hämtar](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om någon använder knapparna för sociala medier.
+   >Ta en titt på vilka [data Marketo kommer att hämta](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om andra använder knapparna för sociala medier.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

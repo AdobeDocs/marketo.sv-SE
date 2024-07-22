@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använd kontrollpanelen för e-postprogram - A/B-testvy {#use-the-email-program-dashboard-a-b-test-view}
 
-Se hur [e-postprogram A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) fungerar med den här instrumentpanelen.
+Se hur ditt [e-postprogram A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) fungerar med den här instrumentpanelen.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,4 +45,4 @@ Cool Dashboard, tycker du inte?
 
 >[!MORELIKETHIS]
 >
->[Använda kontrollpanelen för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[Använd kontrollpanelen för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

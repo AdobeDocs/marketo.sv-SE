@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Förstå mina rapporter och grupprapporter {#understanding-my-reports-and-group-reports}
 
-Du kan skapa **Mina rapporter** och **Grupprapporter** från [Startsida för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Du kan skapa **Mina rapporter** och **grupprapporter** från [startsidan för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **Mina rapporter** är bara synliga för dig.
 

@@ -6,7 +6,7 @@ exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
 
    ![](assets/one.png)
 
-1. Klicka **Gruppåtgärder** och markera **Importera CSV**.
+1. Klicka på **Gruppera åtgärder** och välj **Importera CSV**.
 
    ![](assets/two.png)
 
-1. Klicka **Bläddra**.
+1. Klicka på **Bläddra**.
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
    >
    >Grupper är begränsade till 1 000 kontakter.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/four.png)
 
-1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka **Nästa** när det är klart.
+1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka på **Nästa** när du är klar.
 
    ![](assets/five.png)

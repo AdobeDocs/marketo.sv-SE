@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Namngivet ABM-konto</strong></td> 
-   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om ABM-namngivna konton.</a></td> 
+   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om namngivna konton för ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anpassade attribut</strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">du aktivera</a> för affärsmöjlighetsanalysen kan filtreras på i Performance Insights.</p></td> 
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">som du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investeringsperiod</strong></p></td> 
@@ -68,12 +68,12 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
    <td colspan="1"><p>Affärsmöjlighetstyp som konfigurerats för säljprojektsobjektet i Salesforce-konfigurationen (CRM).</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Programtagg</strong></p></td> 
+   <td><p><strong>Programkod</strong></p></td> 
    <td><p>Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Lär dig hur du arbetar med programtaggar här.</a></p></td> 
   </tr> 
   <tr> 
-   <td><strong>Arbetsyta</strong></td> 
-   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som: program, landningssidor, e-post med mera. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Läs mer om arbetsytor här.</a></p></td> 
+   <td><strong>Workspace</strong></td> 
+   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som program, landningssidor, e-post med mera. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Läs mer om arbetsytor här.</a></p></td> 
   </tr> 
  </tbody> 
 </table>

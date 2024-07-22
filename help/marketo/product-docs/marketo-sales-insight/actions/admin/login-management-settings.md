@@ -1,5 +1,5 @@
 ---
-description: Inställningar för inloggningshantering - Marketo Docs - produktdokumentation
+description: Inloggningshanteringsinställningar - Marketo Docs - produktdokumentation
 title: Inställningar för inloggningshantering
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
@@ -16,7 +16,7 @@ Inställningarna för inloggningshantering gör att administratörer kan ange au
 
 >[!NOTE]
 >
->Som standard markeras alternativet Endast Salesforce för instanser av Sales Insight Actions. Vi rekommenderar den här inställningen så att användare kan [automatisk inloggning](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) från Salesforce.
+>Som standard markeras alternativet Endast Salesforce för instanser av Sales Insight Actions. Vi rekommenderar den här inställningen så att användare kan [logga in automatiskt](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) från Salesforce.
 
 ## Uppdatera inställningar för inloggningshantering {#update-login-management-settings}
 
@@ -30,11 +30,11 @@ Följ de här stegen för att uppdatera dina inställningar för inloggningshant
 
    ![](assets/login-management-settings-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/login-management-settings-2.png)
 
-1. Bläddra ned till inloggningshanteringskortet och välj önskad inställning (i det här exemplet väljer vi endast Salesforce). Klicka **Spara** när det är klart.
+1. Bläddra ned till inloggningshanteringskortet och välj önskad inställning (i det här exemplet väljer vi endast Salesforce). Klicka på **Spara** när du är klar.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Endast Salesforce innebär att användare bara kan autentisera sig för att anv�
 
 ### Hur aktiverar en ny användare till min instans sitt konto när&quot;Endast Salesforce&quot; har valts? {#activate-when-salesforce-only-is-selected}
 
-När du klickar på **Komma igång** i e-postmeddelandet med en inbjudan skickas nya användare till en kontoaktiveringsskärm där de måste ansluta sin Salesforce-instans för att aktivera sitt konto för Sales Insight Actions.
+När du klickar på knappen **Komma igång** i e-postmeddelandet med en inbjudan skickas nya användare till en kontoaktiveringsskärm där de måste ansluta sin Salesforce-instans för att kunna aktivera sitt konto för Sales Insight Actions.
 
 ![](assets/login-management-settings-4.png)
 
@@ -60,7 +60,7 @@ När användaren navigerar till inloggningsskärmen anger han/hon först sin e-p
 
 ### Hur hanteras användarautentisering för åtgärder när en användare öppnar en åtgärdsfunktion från Salesforce och&quot;Endast Salesforce&quot; har valts? {#how-is-user-authentication-handled}
 
-När en användare klickar på en av åtgärderna (Samtal, E-post, Kampanj, Uppgifter, Kampanjlista osv.) använder vi deras SFDC-autentisering för att automatiskt logga in dem på deras konto för Sales Insight Actions. Vi anropar den här autentiseringen [Automatisk inloggning](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+När en användare klickar på en av åtgärderna (Samtal, E-post, Kampanj, Uppgifter, Kampanjlista osv.) använder vi deras SFDC-autentisering för att automatiskt logga in dem på deras konto för Sales Insight Actions. Den här autentiseringen anropas [vid automatisk inloggning](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## Vanliga frågor om alla inloggningsmetoder {#all-login-methods-faq}
 

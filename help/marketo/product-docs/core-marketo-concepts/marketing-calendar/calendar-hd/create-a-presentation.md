@@ -7,13 +7,13 @@ feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
 # Skapa en presentation {#create-a-presentation}
 
-Skapa en presentation för att projicera teamets kalendervyer och mål på en HDTV. Presentations är specifikt för arbetsytan.
+Skapa en presentation för att projicera teamets kalendervyer och mål på en HDTV. Presentations är Workspace-specifikt.
 
 >[!AVAILABILITY]
 >
@@ -24,7 +24,7 @@ Skapa en presentation för att projicera teamets kalendervyer och mål på en HD
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicka **[!UICONTROL Presentations]** längst ned till höger.
+1. Klicka på **[!UICONTROL Presentations]** längst ned till höger.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

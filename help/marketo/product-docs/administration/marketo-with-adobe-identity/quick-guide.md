@@ -5,7 +5,7 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ Skapa produktprofil och produktadministratör.
 
 ## Användarhantering {#user-management}
 
-Lägga till och ta bort användare. Slutförd av produktadministratör (eller systemadministratör).
+Lägga till och ta bort användare. Slutförd av produktadministratör (eller system)
+Admin).
 
 [Lägg till en användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 

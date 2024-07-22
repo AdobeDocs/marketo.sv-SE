@@ -1,7 +1,8 @@
 ---
 description: Bildredigerare - Marketo Docs - produktdokumentation
 title: Bildredigeraren
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+exl-id: fef96635-3011-4549-9c40-e92c3f33c398
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -20,10 +21,10 @@ Med bildredigeraren kan du göra snabba, ljusa redigeringar av dina bilder i Mar
 
    ![](assets/image-editor-2.png)
 
-1. Klicka på **[!UICONTROL Edit Image]** -knappen.
+1. Klicka på knappen **[!UICONTROL Edit Image]**.
 
    ![](assets/image-editor-3.png)
 
-1. Välj bland en mängd olika funktioner i verktygsfältet längst upp. Klicka **[!UICONTROL Save]** när det är klart.
+1. Välj bland en mängd olika funktioner i verktygsfältet längst upp. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/image-editor-4.png)

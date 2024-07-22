@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Lägga till ett fält i ett formulär {#add-a-field-to-a-form}
 
-När du har [skapade formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [valt ett tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)kan du lägga till ytterligare fält som användare kan fylla i. Så här gör du.
+När du har [skapat formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [markerat ett tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kanske du vill lägga till fler fält som användare kan fylla i. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ När du har [skapade formuläret](/help/marketo/product-docs/demand-generation/f
 
    ![](assets/editform-1.png)
 
-1. Klicka på **+** signera.
+1. Klicka på **+**-tecknet.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,11 +35,11 @@ När du har [skapade formuläret](/help/marketo/product-docs/demand-generation/f
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. Lägg till så många fält du behöver och klicka **Slutför**.
+1. Lägg till så många fält du behöver och klicka på **Slutför**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Klicka nu **Godkänn och stäng**.
+1. Klicka nu på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +47,4 @@ När du har [skapade formuläret](/help/marketo/product-docs/demand-generation/f
 >
 >Var noga med att godkänna alla utkast till landningssidor som har skapats på grund av formulärändringar.
 
-Inte dåligt alls. Fortsätt med det goda arbetet! Så här lär vi oss mer om [gör ett formulärfält obligatoriskt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) nästa?
+Inte dåligt alls. Fortsätt med det goda arbetet! Vad tycker vi om att [göra ett formulärfält obligatoriskt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) härnäst?

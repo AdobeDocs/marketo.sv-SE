@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hierarkier ska skapas i CRM. Om du inte har någon CRM följer du de här stegen för att skapa en hierarki manuellt.
 
-1. I Namngivna konton klickar du på **Gruppera efter hierarki** kryssrutan.
+1. I Namngivna konton klickar du i kryssrutan **Gruppera efter hierarki**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,13 +27,13 @@ Hierarkier ska skapas i CRM. Om du inte har någon CRM följer du de här stegen
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klicka på **Åtgärder för namngivet konto** nedrullningsbar meny och välj **Länka till namngivet konto**.
+1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Länka till namngivet konto**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Om du vill ta bort länken för konton följer du stegen ovan men väljer **Bryt länk från namngivet konto**.
+   >Om du vill ta bort länken för konton följer du stegen ovan men väljer **Ta bort länk från namngivet konto**.
 
 1. Välj ett överordnat namngivet konto i listrutan och klicka på **Länk**.
 

@@ -44,7 +44,7 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
  </tbody> 
 </table>
 
-**Utkast och schemalagd**
+**Utkast och schemalagt**
 
 <table> 
  <colgroup> 
@@ -86,7 +86,7 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
-|  -funktion | Beskrivning |
+| Funktion | Beskrivning |
 |---|---|
 | Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
 | Ring | Öppnar säljtelefonen för att ringa ett samtal till e-postmottagaren. |

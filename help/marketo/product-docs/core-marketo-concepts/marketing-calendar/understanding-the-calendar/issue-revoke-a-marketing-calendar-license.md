@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 1%
 >
 >**Administratörsbehörigheter krävs**
 
-Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} licenser måste ni utfärda licenser till användare som behöver åtkomst. Så här gör du.
+Om du vill använda dina [platser i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} måste du utfärda licenser till användare som behöver åtkomst. Så här gör du.
 
-1. Gå till **[!UICONTROL Admin]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Admin]**.
 
    ![](assets/adminhand.png)
 
@@ -27,15 +27,15 @@ Så här använder du [Marknadsföringskalender](/help/marketo/product-docs/core
 
    ![](assets/2.png)
 
-1. Markera användare och klicka på **[!UICONTROL Issue License]**.
+1. Markera användarna och klicka på **[!UICONTROL Issue License]**.
 
    >[!TIP]
    >
-   >Använd **Ctrl/Cmd+klicka** för att markera flera användare samtidigt.
+   >Använd **Ctrl/Cmd+klicka** om du vill markera flera användare samtidigt.
 
    ![](assets/3.png)
 
-1. Kontrollera **[!UICONTROL Enable License]** och klicka **[!UICONTROL Save]**.
+1. Markera **[!UICONTROL Enable License]** och klicka på **[!UICONTROL Save]**.
 
    >[!NOTE]
    >

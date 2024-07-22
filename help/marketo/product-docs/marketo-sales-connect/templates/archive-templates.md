@@ -6,7 +6,7 @@ exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Arkivera innehåll för att rensa upp ditt säljinnehållskonto utan att förlora några malldata.
 
-Markera rutan bredvid en mall och klicka på **Arkiv**.
+Markera rutan bredvid en mall och klicka på **Arkivera**.
 
 >[!NOTE]
 >

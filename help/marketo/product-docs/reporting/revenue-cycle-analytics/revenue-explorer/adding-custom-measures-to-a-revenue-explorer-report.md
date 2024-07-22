@@ -21,9 +21,9 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
 >
 >Du behöver minst ett mått i rapporten, men det behöver inte vara ett av de mått som du använder för att definiera ditt anpassade mått.
 
-1. Dra över fälten du behöver för rapporten. Se [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) för mer information.
+1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
 
-1. Högerklicka på ett befintligt mått (blå cell) och klicka på **Användardefinierat mått** och markera **Beräknat mått**.
+1. Högerklicka på ett befintligt mått (blå cell), klicka på **Användardefinierat mått** och välj **Beräknat mått**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
    >
    >Du kan skriva de matematiska symbolerna själv eller använda markeringsrutan.
 
-1. När du är klar klickar du på **OK**.
+1. Klicka på **OK** när du är klar.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

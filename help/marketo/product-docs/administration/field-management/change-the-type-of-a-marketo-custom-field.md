@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Så här ändrar du fälttypen för ett anpassat fält.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
@@ -27,7 +27,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. I **[!UICONTROL Field Actions]** nedrullningsbar meny, klicka **[!UICONTROL Change Type]**.
+1. Klicka på **[!UICONTROL Change Type]** i listrutan **[!UICONTROL Field Actions]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 

@@ -19,23 +19,23 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 >
 >[Godkänn en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Välj **E-postprestanda** rapport.
+1. Välj din **e-postrapport**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicka på **Inställningar** tabb och dra över **Gruppera efter segment**.
+1. Klicka på fliken **Inställningar** och dra över **Gruppera efter segment**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka **Använd**.
+1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka på **Använd**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Så ja! Klicka på **Rapport** -fliken. Om du använder en segmentering visar rapporten en rad för varje segment.
+1. Så ja! Klicka på fliken **Rapport**. Om du använder en segmentering visar rapporten en rad för varje segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
@@ -45,4 +45,4 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 
 >[!MORELIKETHIS]
 >
->[Filtrera resurser i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[Filtrera Assets i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

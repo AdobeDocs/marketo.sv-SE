@@ -5,7 +5,7 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Salesforce och Marketo Sales Connect [måste vara ansluten](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Logga e-postaktivitet via API [måste vara aktiverat](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Salesforce och Marketo Sales Connect [måste vara anslutna](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* E-postaktivitet för loggning via API [måste aktiveras](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-fältet Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
+Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-aktivitetsfältet - Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
 
 >[!NOTE]
 >
->* Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseuppgift återspeglas i motsvarande Salesforce-uppgifts ämnesfält, om du använder `{{activity_subject}}` dynamiskt fält i anpassning av aktivitetsdetalj.
->* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsuppgift uppdateras.
+>* Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseaktivitet visas i motsvarande Salesforce-uppgifts ämnesfält, om du använder det dynamiska fältet `{{activity_subject}}` i din anpassning av aktivitetsdetaljer.
+>* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsaktivitet uppdateras.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -52,7 +52,7 @@ Funktionen kan användas för att låsa upp följande fördelar:
 
 >[!NOTE]
 >
->Om du loggar e-postsvar som aktiviteter till Salesforce kommer de inte att använda inställningarna för anpassning av aktivitetsinformation i Salesforce. I stället loggar de som&quot;Svara: E-postämne.&quot;
+>Om du loggar e-postsvar som aktiviteter till Salesforce kommer de inte att använda inställningarna för anpassning av aktivitetsinformation i Salesforce. I stället loggar de som&quot;Svara: E-postämne&quot;.
 
 ## Dynamiska aktivitetsfält som stöds {#activity-dynamic-fields-supported}
 
@@ -111,11 +111,11 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klicka **Salesforce**.
+1. Klicka på **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klicka **Synkronisera inställningar**.
+1. Klicka på **Synkronisera inställningar**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
    >
    >Även om det inte är obligatoriskt att radbryta tillagd text inom raka hakparenteser kan det vara lättare för en del att skilja mellan data när de fylls i i ett ämnesfält i Salesforce. Exempel: `[Sales Connect] - {{Activity_type}}`
 
-1. Lägg till ytterligare dynamiska fält genom att klicka på **Lägg till dynamiskt fält** -knappen.
+1. Lägg till ytterligare dynamiska fält som du vill ha genom att klicka på knappen **Lägg till dynamiskt fält** .
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -147,4 +147,4 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 >
 >* [Synkronisera inställningar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [Anpassa Sales Connect för CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Anpassa försäljningsanslutning för CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

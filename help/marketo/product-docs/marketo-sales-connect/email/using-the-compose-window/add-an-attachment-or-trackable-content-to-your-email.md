@@ -39,7 +39,7 @@ När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
 
    ![](assets/attach-five.png)
 
@@ -59,13 +59,13 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
 
    ![](assets/three-4.png)
 
-1. Markera det innehåll du vill lägga till och klicka på **Innehållet spåras** och klicka **Infoga**.
+1. Markera det innehåll som du vill lägga till, klicka på **Innehållet är spårat** och klicka på **Infoga**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
 
    Innehållet visas som en länk i ditt e-postmeddelande. Mottagaren kan klicka på länken för att hämta innehållet.
 

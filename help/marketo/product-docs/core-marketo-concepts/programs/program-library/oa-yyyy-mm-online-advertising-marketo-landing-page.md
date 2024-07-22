@@ -1,20 +1,20 @@
 ---
-description: OA-YYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Product Documentation
-title: OA-YYY-MM-Online Advertising Marketo Landing Page
+description: OA-YYYY-MM-Online Advertising Marketo landningssida - Marketo Docs - produktdokumentation
+title: OA-YYY-MM-Online Advertising Marketo startsida
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
-# OA-YYY-MM-Online Advertising Marketo Landing Page {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-YYY-MM-Online Advertising Marketo startsida {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Detta är ett exempel på ett program för onlinereklam, som en Marketo Landing Page med registreringsblankett och ett Marketo standardprogram. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -27,7 +27,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <th>Programtyp</th>
   </tr> 
   <tr> 
-   <td>Onlineannonsering</td> 
+   <td>Online Advertising</td> 
    <td>01 - Medlem 
 <br/>02 - Aktiverad - Slutförd</td>
    <td>Inkluderande</td>
@@ -36,7 +36,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Resurser - innehåller alla kreativa resurser 
+   <td>Assets - innehåller alla kreativa resurser 
 <br/>(undermappar för e-post och landningssidor)  </td>
   </tr>
   <tr> 
@@ -179,11 +179,11 @@ SCREENSHOT OF PROGRAM
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -198,7 +198,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 * Överväg att uppdatera mallarna i det importerade programmet så att de använder de varumärkesanpassade mallarna, eller uppdatera den importerade mallen så att den återspeglar ert varumärke genom att lägga till ett fragment eller lämplig logotyp/sidfotsinformation.
 
-* Använd Programtaggar för att filtrera rapporter efter olika källor för onlineannonsering.
+* Använd Programtaggar för att filtrera rapporter efter olika källor i Online Advertising.
 
 * Överväg att uppdatera namnkonventionen för det här programexemplet så att den överensstämmer med namnkonventionen.
 
@@ -208,7 +208,7 @@ SKÄRMBILD AV KONFLIKTREGLER
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;02 - Engaged (Program Success)&quot; för att spåra framgångar! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;02 - Engaged (Program Success)&quot; för att spåra framgångar! Gör detta _innan_ ditt formulär är live och e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

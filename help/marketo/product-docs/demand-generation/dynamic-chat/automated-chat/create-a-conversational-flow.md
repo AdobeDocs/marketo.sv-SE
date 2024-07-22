@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Så här skapar du ett nytt konversationsflöde.
 
-1. Under [!UICONTROL Automated Chat], klicka **[!UICONTROL Conversational Flows]**.
+1. Klicka på **[!UICONTROL Conversational Flows]** under [!UICONTROL Automated Chat].
 
    ![](assets/create-a-conversational-flow-1.png)
 
@@ -22,7 +22,7 @@ Så här skapar du ett nytt konversationsflöde.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. Välj ett tomt konversationsflöde eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra språk (valfritt) och klicka på **[!UICONTROL Create]**.
+1. Välj ett tomt konversationsflöde eller någon av de förifyllda mallarna. Ange ett namn (beskrivningen är valfri), ändra språket (valfritt) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 
@@ -30,8 +30,8 @@ Så här skapar du ett nytt konversationsflöde.
    >
    >Detta ändrar endast systemtextens språk. Du ansvarar för att översätta innehåll.
 
-1. Precis som i dialogrutor är det dags att [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Precis som i dialogrutor är det nu dags att [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Översikt över konversationsflöde](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[Konversationsflöde - översikt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

@@ -18,7 +18,7 @@ Så här skapar du en ny dialogruta.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Klicka på **[!UICONTROL Create New]** -knappen.
+1. Klicka på knappen **[!UICONTROL Create New]**.
 
    ![](assets/create-a-dialogue-2.png)
 
@@ -30,9 +30,9 @@ Så här skapar du en ny dialogruta.
 >
 >Prioritet avgör vilken dialogruta som visas för en besökare när de kvalificerar sig för flera dialogrutor samtidigt.
 
-Lär dig sedan hur du [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+Lär dig sedan [skapa en ström](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Målgruppsvillkor](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [Strömma Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

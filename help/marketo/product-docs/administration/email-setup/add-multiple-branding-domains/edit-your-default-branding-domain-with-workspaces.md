@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Redigera din standardprofileringsdomän med arbetsytor {#edit-your-default-branding-domain-with-workspaces}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
@@ -41,6 +41,6 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->När du lägger till ytterligare profileringsdomäner kan du välja att göra den till din primära domän för en eller flera arbetsytor, och alla befintliga oskickade e-postmeddelanden anges till &quot;Standard&quot; och alla nya e-postmeddelanden blir standard till den primära domänen. Du kan åsidosätta detta per e-post.
+>När du lägger till ytterligare profileringsdomäner kan du välja att göra den till din primära domän för en eller flera arbetsytor. Alla befintliga oskickade e-postmeddelanden anges till &quot;Standard&quot; och alla nya e-postmeddelanden kommer att vara standarddomänen. Du kan åsidosätta detta per e-post.
 
-Nu kan du [lägga till ytterligare varumärkesdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) du behöver för arbetsytorna.
+Nu kan du [lägga till ytterligare profileringsdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) som du behöver för arbetsytorna.

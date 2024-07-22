@@ -26,7 +26,7 @@ Ibland måste en administratör skicka en del SDK-kod till en utvecklare.
 
 Så här gör du.
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -38,7 +38,7 @@ Så här gör du.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka **Funktioner för mobilappar** och markera **Skicka till utvecklare**.
+1. Klicka på **Åtgärder för mobilappar** och välj **Skicka till utvecklare**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 

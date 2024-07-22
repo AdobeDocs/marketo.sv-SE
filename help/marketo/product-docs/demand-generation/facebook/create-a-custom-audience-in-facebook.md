@@ -6,7 +6,7 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} i avsnittet Admin.
->* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} på ditt Facebook-konto.
+>* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} i administratörsavsnittet.
+>* [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} i ditt Facebook-konto.
 
 >[!TIP]
 >
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Välj **Leads** klickar du på **Skicka via Ad Bridge** ikonen längst ned.
+1. Välj fliken **Leads** och klicka sedan på ikonen **Skicka via Lägg till Bridge** längst ned.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Välj **Facebook** och klicka **Nästa**.
+1. Välj **Facebook** och klicka på **Nästa**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Klicka på **Målgrupp** nedrullningsbar meny och välj **+ Ny publik**.
+1. Klicka på listrutan **Målgrupp** och välj **+ Ny målgrupp**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >Facebook API tillåter upp till 500 anpassade målgrupper per Facebook-annonskonto.
 
-1. Text i en **Målgruppsnamn**. Klicka **Uppdatera**.
+1. Skriv in ett **målgruppsnamn**. Klicka på **Uppdatera**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Välj **Ersätta en befintlig målgrupp** kryssruta. Om du gör det här kommer det att **not** ta bort den målgrupp som ersätts.
+   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **Ersätt en befintlig publik**. Om du gör detta tas **inte** den målgrupp som ersätts bort.
 
 1. När du är klar uppdateras statusdialogrutan.
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Och det är allt! I Facebook ser du den nya publiken i **Ads Manager** > **Målgrupper**.
+   Och det är allt! I Facebook ser du den nya målgruppen i **Ads Manager** > **Publiker**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -72,4 +72,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Lägga till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Lägg till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

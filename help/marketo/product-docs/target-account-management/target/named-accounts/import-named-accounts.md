@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt till TAM!
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Importera namngivna konton**.
+1. Klicka på listrutan **Nytt** och välj **Importera namngivna konton**.
 
    ![](assets/inaone.png)
 
-1. Ett nytt fönster öppnas. Klicka **Bläddra** markerar du sedan filen med namngivna konton som du vill importera.
+1. Ett nytt fönster öppnas. Klicka på **Bläddra** och markera sedan filen med namngivna konton som du vill importera.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >Ange [så mycket information](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) så långt det är möjligt. Du kan bara lägga till firmografisk information; ingenting Marketo beräknar (dvs. Pipeline). Om du vill skapa namngivna konton baserat på CRM-konton exporterar du bara kontonamnet och CRM-ID:t från CRM till en CSV-fil, använder alternativet Kontonamn och mappar CRM-ID:t under importprocessen. Om du vill länka ett CRM-konto till ett namngivet konto måste du ange CRM-kontots exakta namn.
+   >Ange [så mycket information](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) som möjligt i filen. Du kan bara lägga till firmografisk information. Det finns inga Marketo-beräkningar (dvs. Pipeline). Om du vill skapa namngivna konton baserat på CRM-konton exporterar du bara kontonamnet och CRM-ID:t från CRM till en CSV-fil, använder alternativet Kontonamn och mappar CRM-ID:t under importprocessen. Om du vill länka ett CRM-konto till ett namngivet konto måste du ange CRM-kontots exakta namn.
 
-1. Välj mellan två borttagningslägen: Kontonamn eller domännamn. I det här exemplet väljer vi Konto. Klicka på **Lägen** nedrullningsbar meny och välj **Efter kontonamn**.
+1. Välj mellan två borttagningslägen: Kontonamn eller Domännamn. I det här exemplet väljer vi Konto. Klicka på listrutan **Lägen** och välj **Efter kontonamn**.
 
    ![](assets/inathree.png)
 
@@ -35,7 +35,7 @@ Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt ti
    >
    >Om du väljer **Efter domänläge** måste både namngivna konto- och domänfält inkluderas.
 
-1. Om du vill välja vilken kontolista ditt namngivna konto ska läggas till i klickar du på **Kontolista** och gör ditt val.
+1. Om du vill välja vilken kontolista ditt namngivna konto ska läggas till klickar du på listrutan **Kontolista** och gör ditt val.
 
    ![](assets/inafour.png)
 
@@ -43,15 +43,15 @@ Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt ti
    >
    >Du kan också skapa en helt ny kontolista genom att skriva namnet i listrutan.
 
-1. Om du vill skicka ett meddelande om importen klickar du på knappen **Skicka avisering till** och välja en Marketo-användare. Du _inte_ ange en e-postadress manuellt.
+1. Om du vill skicka ett meddelande om importen klickar du på listrutan **Skicka avisering till** och väljer en Marketo-användare. Du _kan inte_ ange en e-postadress manuellt.
 
    ![](assets/inafive-2.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/inasix-2.png)
 
-1. Mappa varje fält genom att dubbelklicka på **Marketo Field** och välja rätt fält. Klicka **Nästa** när det är klart.
+1. Mappa varje fält genom att dubbelklicka på listrutan **Marketo Field** och välja lämpligt fält. Klicka på **Nästa** när du är klar.
 
    ![](assets/inaseven.png)
 

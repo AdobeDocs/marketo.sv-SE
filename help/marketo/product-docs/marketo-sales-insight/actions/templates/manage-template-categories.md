@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## Skapa en kategori {#create-a-category}
 
-1. Klicka på **Mallar** -fliken.
+1. Klicka på fliken **Mallar**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Klicka på **+** ikon bredvid **Kategorier**.
+1. Klicka på ikonen **+** bredvid **Kategorier**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## Byta namn på en mallkategori {#rename-a-template-category}
 
-1. Klicka på **Mallar** -fliken.
+1. Klicka på fliken **Mallar**.
 
    ![](assets/manage-template-categories-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## Ta bort en mallkategori {#delete-a-template-category}
 
-1. Klicka på **Mallar** -fliken.
+1. Klicka på fliken **Mallar**.
 
    ![](assets/manage-template-categories-7.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-8.png)
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/manage-template-categories-9.png)
 

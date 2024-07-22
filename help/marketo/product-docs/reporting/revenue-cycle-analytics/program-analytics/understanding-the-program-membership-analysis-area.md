@@ -39,7 +39,7 @@ Hur många nya namn genererade varje program/kanal per månad?
 
 | Mät | Beskrivning |
 |---|---|
-| % nya namn | Andel leads som förvärvats i ett program |
+| % nya namn | Procent av leads som förvärvats i ett program |
 | Medlemmar | Totalt antal leads i ett program |
 | Nya namn | Totalt antal nya namn som hämtats av ett program |
 

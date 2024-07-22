@@ -19,7 +19,7 @@ Flödesstegen talar om för Marketo Engage vad du vill ska hända med en grupp p
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Välj en smart kampanj och klicka på **[!UICONTROL Flow]**.
+1. Välj din smarta kampanj och klicka på **[!UICONTROL Flow]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -39,9 +39,9 @@ Flödesstegen talar om för Marketo Engage vad du vill ska hända med en grupp p
 >
 >Om en post är ogiltig visas en röd, flytande linje. Håll pekaren över raden för att se hur du kan korrigera den.
 
-Häftig! Se till att [granska och validera Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} innan du schemalägger eller aktiverar den.
+Häftig! Var noga med att [granska och validera den smarta kampanjen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} innan du schemalägger eller aktiverar den.
 
 >[!MORELIKETHIS]
 >
->* [Använd Lägg till alternativ i ett flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [Använd Lägg till val i ett flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
 >* [Ändra ordning på flödesstegen i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

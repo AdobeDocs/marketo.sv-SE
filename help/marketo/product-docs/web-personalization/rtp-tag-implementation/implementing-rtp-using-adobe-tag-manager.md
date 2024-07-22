@@ -6,7 +6,7 @@ exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Logga in på ditt konto för Dynamic Tag Manager ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Logga in på ditt Dynamic Tag Manager-konto ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Gå till **Instrumentpanel.** Klicka på den relevanta webbegenskapen.
+1. Gå till **instrumentpanelen.** Klicka på den relevanta webbegenskapen.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Gå till **Regler**, klicka **Skapa ny regel**.
+1. Gå till **Regler** och klicka på **Skapa ny regel**.
 
 1. Fyll i följande
 
    1. Namn: **Marketo RTP**
    1. Villkor (komprimera): Utlösarregel vid - **Överst på sidan**
-   1. JavaScript (komprimera): klicka **Lägg till nytt skript**
+   1. JavaScript (komprimera): klicka på **Lägg till nytt skript**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -56,11 +56,11 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    >[!CAUTION]
    >
-   >Se till att du tar bort alla taggar och bara låter skriptet vara kvar (nej `<script type='text/javascript'>` , `</script>` )
+   >Se till att du tar bort alla taggar och bara låter skriptet vara (nej `<script type='text/javascript'>` , `</script>` )
 
-1. Klicka **Spara kod** i skriptredigeraren och **Spara regel** i regelredigeraren.
+1. Klicka på **Spara kod** i skriptredigeraren och **Spara regel** i regelredigeraren.
 
-1. Leta reda på Marketo RTP-sidans inläsningsregel i panelen Regler och i **Åtgärder** listruteväljare **Aktivera regler**.
+1. Leta reda på inläsningsregeln för Marketo RTP-sidan på panelen Regler och välj **Aktivera regler** i listrutan **Åtgärder**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 

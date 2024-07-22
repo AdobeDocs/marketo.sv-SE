@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Här nedan hittar du alla funktioner som ingår i versionen från 24 april. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
-Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Versionsinformationen för Adobe Dynamic Chat [ finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -22,7 +22,7 @@ Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **26 april 2024**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **26 april 2024**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
-   <td><strong>Förbättringar av interaktiva webbinarier</strong>: Nu kan du ge värdar och presentatörer möjlighet att lägga till en webbinarititel, byta namn på ett rum och manuellt synkronisera engagemangsdata efter att eventet har levererats.</td> 
+   <td><strong>Förbättringar av interaktiva webbinarier</strong>: Nu kan du ge värdar och presentatörer möjlighet att lägga till en titel på ett webbinarium, byta namn på ett rum och manuellt synkronisera engagemangsdata efter att evenemanget har levererats.</td> 
    <td>Levererat</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Skapa ett interaktivt webbinarium</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuell synkronisering</a></li></td>
@@ -43,7 +43,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Förbättringar av granskningsspår</strong>: Nya typer av åtgärder kan nu fångas in i granskningsspåret för ändringar som gjorts i Fälthantering, ändringar som gjorts i Användare och roller samt antalet personer som exporterats från listor och smarta listor.</td> 
+   <td><strong>Förbättringar av granskningsspår</strong>: 
+   Nya typer av åtgärder kan nu fångas in i granskningsspåret för ändringar som gjorts i Fälthantering, ändringar som gjorts i Användare och roller samt antalet personer som exporterats från listor och smarta listor.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -74,7 +75,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **API-uppdatering för aktiviteter**: Den 26 april lägger vi till flera nya attribut till webbaserade och e-postbaserade aktiviteter som returneras när du hämtar aktiviteter med [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Aktiviteterna som listas nedan inkluderar nu attribut för webbläsare, plattform, enhet och användaragent. Ring [Hämta aktivitetstyper](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} slutpunkt för att granska attributinformation för varje aktivitet.
+* **API-uppdatering för aktiviteter**: Den 26 april lägger vi till flera nya attribut till webbaserade och e-postbaserade aktiviteter som returneras när du hämtar aktiviteter med [Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Aktiviteterna som listas nedan inkluderar nu attribut för webbläsare, plattform, enhet och användaragent. Anropa slutpunkten [Hämta aktivitetstyper](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} om du vill granska attributinformation för varje aktivitet.
 
 **Webbaserade aktiviteter**
 

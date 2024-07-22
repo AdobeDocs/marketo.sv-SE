@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i din **Administratör** > **LaunchPoint** meny mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster på **Admin** > **LaunchPoint** -menyn mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Koppla ditt Marketo Engage-konto till LinkedIn Matched Audiences för att använda en statisk lista från Marketo eller Smart List som ett LinkedIn-målgruppssegment.
 
-1. Gå till **[!UICONTROL Admin]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
@@ -35,17 +35,17 @@ Koppla ditt Marketo Engage-konto till LinkedIn Matched Audiences för att använ
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange en **[!UICONTROL Display Name]** och välja **[!UICONTROL LinkedIn Matched Audiences]**. Klicka på **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Display Name]** och välj **[!UICONTROL LinkedIn Matched Audiences]**. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Om du vill ansluta ett LinkedIn-konto klickar du på **[!UICONTROL Authorize]**.
+1. Klicka på **[!UICONTROL Authorize]** om du vill ansluta ett LinkedIn-konto.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >För att Marketo ska kunna skicka målgrupper över flera LinkedIn annonskonton måste den LinkedIn-användare som du auktoriserar i följande steg ha tillgång till *alla* av annonskontona i kampanjhanteraren.
+   >För att Marketo ska kunna skicka målgrupper över flera LinkedIn annonskonton måste den LinkedIn-användare som du auktoriserar i följande steg ha tillgång till *alla* av dessa annonskonton i sin Campaign Manager.
 
 1. LinkedIn öppnas på en ny flik. Logga in på ditt LinkedIn-konto härifrån.
 
@@ -65,4 +65,4 @@ Koppla ditt Marketo Engage-konto till LinkedIn Matched Audiences för att använ
 
 >[!MORELIKETHIS]
 >
->[Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+>[Använd en Marketo-lista eller smart lista som ett målgruppssegment i LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

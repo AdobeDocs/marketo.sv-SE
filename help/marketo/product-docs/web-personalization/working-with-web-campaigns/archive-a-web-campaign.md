@@ -17,13 +17,13 @@ ht-degree: 0%
 
    ![](assets/one.jpg)
 
-1. Klicka på statuslistrutan för önskad webbkampanj och välj **Arkiv**.
+1. Klicka på statuslistrutan för den önskade webbkampanjen och välj **Arkivera**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på filterikonen och under **Status** väljer du **Arkiverad** kryssruta och klicka **Använd**.
+   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och markerar kryssrutan **Arkiverad** under **Status** och klickar på **Använd**.
 
 >[!MORELIKETHIS]
 >

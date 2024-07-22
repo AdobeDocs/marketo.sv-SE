@@ -23,23 +23,23 @@ En marknadsföringsanvändare behöver till exempel vanligtvis bred åtkomst i h
 
 Marketo har flera inbyggda roller med olika åtkomstnivåer:
 
-* **Administratör** - alla delar av programmet, inklusive administrationsavsnittet
-* **Standardanvändare** - alla delar av programmet, utom administrationsavsnittet
-* **Marknadsförare** - alla delar av programmet, utom administrationsavsnittet
-* **Webbdesigner** - endast Design Studio
-* **Analysanvändare** - endast Analytics-avsnittet
+* **Admin** - alla delar av programmet, inklusive avsnittet Admin
+* **Standardanvändare** - alla delar av programmet, utom avsnittet Admin
+* **Marknadsföringsanvändare** - alla delar av programmet, utom avsnittet Admin
+* **Web Designer** - endast Design Studio
+* **Analysanvändare** - endast avsnittet Analyser
 
 Du kan inte redigera rollerna Admin och Standard User, men du kan redigera de andra. Du kan också skapa nya anpassade roller som matchar de särskilda organisationsstrukturerna i ditt företag.
 
 ## Marketo med Adobe Identity {#marketo-with-adobe-identity}
 
-Om du använder Marketo med Adobe Identity, listan över profilbeskrivningar [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Om du använder Marketo med Adobe Identity finns listan med profilbeskrivningar [här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Tilldela roller till en användare {#assign-roles-to-a-user}
 
-Du kan tilldela roller till en användare när du [skapa användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) eller av [redigera en befintlig användare](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Du kan tilldela roller till en användare när du [skapar användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) eller genom att [redigera en befintlig användare](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -47,11 +47,11 @@ Du kan tilldela roller till en användare när du [skapa användare för första
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. I listan väljer du den användare du vill redigera och klickar på **[!UICONTROL Edit User]**.
+1. I listan väljer du den användare som du vill redigera och klickar på **[!UICONTROL Edit User]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. Under **[!UICONTROL Roles]** väljer du de roller du vill tilldela användaren, baserat på de behörigheter användaren behöver, och klickar på **[!UICONTROL Save]**.
+1. Under **[!UICONTROL Roles]** väljer du de roller du vill tilldela användaren, baserat på de behörigheter användaren behöver, och klickar sedan på **[!UICONTROL Save]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -63,7 +63,7 @@ Du kan tilldela roller till en användare när du [skapa användare för första
 
 Ibland har din organisation mycket specifika medarbetare som kräver en anpassad kombination av behörigheter.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -71,7 +71,7 @@ Ibland har din organisation mycket specifika medarbetare som kräver en anpassad
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Klicka på **[!UICONTROL Roles]** -fliken.
+1. Klicka på fliken **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
@@ -79,7 +79,7 @@ Ibland har din organisation mycket specifika medarbetare som kräver en anpassad
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Ange **[!UICONTROL Role Name]**, a **[!UICONTROL Description]** (valfritt) och välj de behörigheter som användare med den här rollen behöver.
+1. Ange en **[!UICONTROL Role Name]**, en **[!UICONTROL Description]** (valfritt) och välj de behörigheter som användare i den här rollen behöver.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -87,7 +87,7 @@ Ibland har din organisation mycket specifika medarbetare som kräver en anpassad
 
 Om du behöver ändra behörigheterna som är kopplade till en befintlig roll kan du redigera rollen.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -95,7 +95,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Klicka på **[!UICONTROL Roles]** -fliken.
+1. Klicka på fliken **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
@@ -103,7 +103,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Ändra **[!UICONTROL Role Name]** och **[!UICONTROL Description]** vid behov, och sedan ändra urvalet av associerade **[!UICONTROL Permissions]**.
+1. Ändra **[!UICONTROL Role Name]** och **[!UICONTROL Description]** om det behövs och ändra sedan markeringen för associerad **[!UICONTROL Permissions]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -115,7 +115,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
 Om en roll blir onödig kan du ta bort den.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
@@ -123,14 +123,14 @@ Om en roll blir onödig kan du ta bort den.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Klicka på **[!UICONTROL Roles]** -fliken.
+1. Klicka på fliken **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. I listan väljer du den roll du vill ta bort och klickar på **[!UICONTROL Delete Role]**.
+1. Välj den roll du vill ta bort i listan och klicka på **[!UICONTROL Delete Role]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. Klicka **[!UICONTROL Delete]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/managing-user-roles-and-permissions-19.png)

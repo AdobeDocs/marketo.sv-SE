@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Följande funktioner ingår i vinterversionen 16. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## [Är ett anonymt filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## [är ett anonymt filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Filtret Är anonym har tagits bort för smarta listor. Se [Nästa generations Munchkin Tracking - frågor och svar](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) för mer information. Den här ändringen påverkar inte webbpersonalisering (RTP), som fortsätter att identifiera anonyma och kända webbesökare och personalisera innehåll i realtid för dessa besökare.
+Filtret Är anonym har tagits bort för smarta listor. Mer information finns i dokumentet [Next Generation Munchkin Tracking FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Ändringen påverkar inte Web Personalization (RTP), som fortsätter att identifiera anonyma och kända webbesökare och personalisera innehåll i realtid för dessa besökare.
 
-## [Kontrollpanel för databas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [Databasinstrumentpanel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
 Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller databasstorlek för totalt antal personer, antal säljbara leads och en uppdelning av leads efter fem främsta källor.
 
@@ -27,7 +27,7 @@ Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller d
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Vi har lagt till Microsoft Edge i [lista över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
+Vi har lagt till Microsoft Edge i listan [över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -65,7 +65,7 @@ Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande 
 
 ![](assets/pending-backog-cropped.png)
 
-**[Meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelande om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
+**[Meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelanden om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,11 +77,11 @@ Nu kan du skapa många-till-många-relationer mellan leads/konton och ett anpass
 
 ## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ads](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
+[Facebook Lead-annonser](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Schemaläggare för webbkampanjer (realtidspersonalisering)](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## [Webbkampanjschemaläggare (Personalization i realtid)](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
 
 Schemalägg kampanjen i förväg. Ange ett start- och slutdatum för personaliserat webbinnehåll och upprepa kampanjer på specifika dagar och tidpunkter. Anpassa schemat för att visa kampanjen efter besökarens tid eller en vald tidszon.
 

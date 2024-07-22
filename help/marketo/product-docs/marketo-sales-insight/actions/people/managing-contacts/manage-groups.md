@@ -47,11 +47,11 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
 ## Skapa en grupp {#create-a-group}
 
-1. Klicka på **+** bredvid Grupper.
+1. Klicka på **+** bredvid Grupper på sidan Personer.
 
    ![](assets/manage-groups-1.png)
 
-1. Namnge gruppen och klicka **Skapa**.
+1. Namnge gruppen och klicka på **Skapa**.
 
    ![](assets/manage-groups-2.png)
 
@@ -63,15 +63,15 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
    ![](assets/manage-groups-3.png)
 
-1. Klicka **Gruppåtgärder** och markera **Skapa kontakt och lägg till i grupp**.
+1. Klicka på **Gruppera åtgärder** och välj **Skapa kontakt och lägg till i grupp**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [dessa steg](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Fyll i kontaktinformationen och klicka **Skapa** (eller **Skapa och lägg till ny** för att lägga till en till).
+1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
 
    ![](assets/manage-groups-5.png)
 
@@ -95,7 +95,7 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
    ![](assets/manage-groups-8.png)
 
-   Du äger fortfarande gruppen, men den visas nu under _Teamgrupper_.
+   Du äger fortfarande gruppen, men den visas nu under _Team Groups_.
 
 ## Ta bort delning av en grupp {#unshare-a-group}
 
@@ -107,7 +107,7 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
    ![](assets/manage-groups-10.png)
 
-1. Klicka på **X** intill teamet som du delade gruppen med och klicka sedan ut ur modalen.
+1. Klicka på **X** bredvid det team du delade gruppen med och klicka sedan utanför det modala.
 
    ![](assets/manage-groups-11.png)
 
@@ -137,6 +137,6 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 
    ![](assets/manage-groups-16.png)
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/manage-groups-17.png)

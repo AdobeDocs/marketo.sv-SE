@@ -19,7 +19,7 @@ Flödesstegen körs uppifrån och ned. Så här ordnar du om flödesstegen efter
 >
 >[Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. I din smarta kampanj **[!UICONTROL Flow]** drar och släpper du flödessteget dit du vill ha det.
+1. Dra och släpp flödessteget till den plats där du vill ha det på fliken Smart Campaign **[!UICONTROL Flow]**.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

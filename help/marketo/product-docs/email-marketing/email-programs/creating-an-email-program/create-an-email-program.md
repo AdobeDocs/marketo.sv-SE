@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande till en grupp personer.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Markera mappen som du vill skapa programmet i och klicka på **Nytt** och markera **Nytt program**.
+1. Markera mappen som du vill skapa programmet i, klicka på listrutan **Nytt** och välj **Nytt program**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande til
 
    >[!NOTE]
    >
-   >Vid val **E-post** som programtyp, ställs kanalen automatiskt in på **Skicka e-post**. Du kan ändra den om du vill.
+   >När du väljer **E-post** som programtyp ställs kanalen automatiskt in på **Skicka via e-post**. Du kan ändra den om du vill.
 
    ![](assets/four.png)
 

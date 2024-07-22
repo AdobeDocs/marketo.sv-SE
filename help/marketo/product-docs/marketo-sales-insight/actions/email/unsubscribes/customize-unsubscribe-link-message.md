@@ -22,7 +22,7 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Under Administratörsinställningar klickar du på **Avbeställ**.
+1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
    >
    >Det spelar ingen roll vilken URL du anger. När e-postmeddelandet skickas kommer den första (eller enda) hyperlänken automatiskt att länka till standardsidan för avanmälan.
 
-1. Ange en URL-adress, ange om du vill att länken ska öppnas i det aktuella eller nya fönstret och klicka på **Spara**.
+1. Ange en URL-adress, kontrollera om du vill att länken ska öppnas i det aktuella eller ett nytt fönster och klicka sedan på **Spara**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Klicka **Spara** längst ned för att spara ändringarna.
+1. Klicka på **Spara** längst ned för att spara ändringarna.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

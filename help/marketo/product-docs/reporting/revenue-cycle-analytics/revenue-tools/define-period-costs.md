@@ -6,7 +6,7 @@ exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
 ## Definiera en periodkostnad {#define-a-period-cost}
 
-1. Öppna **Inställningar** -fliken i ditt program eller evenemang.
+1. Gå till fliken **Inställningar** i programmet eller evenemanget.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Dra och släpp **Periodkostnad** till arbetsytan och **Ny kostnad** visas.
+1. Dra och släpp **Periodkostnad** på arbetsytan och dialogrutan **Ny kostnad** visas.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Ange **Programmånad** du vill koppla till den definierade kostnaden.
+1. Ange den **programmånad** som du vill associera med den definierade kostnaden.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Ange **Periodkostnad** heltal utan decimaler eller kommatecken (max gräns: 99999999)
+1. Ange ett heltal för **periodkostnaden** utan decimaler eller kommatecken (maxgräns: 9999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
    >
    >Valutan (t.ex. USD, EUR osv.) är en global inställning som hanteras av en Marketo Admin
 
-1. Ange en beskrivning **Anteckning** (valfritt) och klicka på **Spara**.
+1. Ange en beskrivande **anteckning** (valfritt) och klicka på **Spara**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Redigera en periodkostnad {#edit-a-period-cost}
 
-1. Högerklicka på Periodkostnad och välj **Redigera** på popup-menyn för att öppna **Redigera kostnad** -dialogrutan.
+1. Högerklicka på Periodkostnad och välj **Redigera** på snabbmenyn för att öppna dialogrutan **Redigera kostnad**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,10 +63,10 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
 ## Ta bort en periodkostnad {#delete-a-period-cost}
 
-1. Högerklicka på den periodkostnad du vill ta bort och välj **Ta bort** på snabbmenyn för att visa **Ta bort kostnad** fråga.
+1. Högerklicka på den periodkostnad du vill ta bort och välj **Ta bort** på snabbmenyn för att visa uppmaningen **Ta bort kostnad**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klicka **Ta bort** för att permanent ta bort periodkostnaden, eller **Avbryt** att gå tillbaka.
+1. Klicka på **Ta bort** om du vill ta bort periodkostnaden permanent eller på **Avbryt** om du vill gå tillbaka.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

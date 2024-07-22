@@ -19,10 +19,10 @@ När du visar information om tävlingsbidrag i marknadsföringskalendern kan du 
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
 
-1. Tävlingsbidragen är skrivskyddade i marknadsföringskalendern. Navigera till programmet för att redigera.
+1. Posterna är skrivskyddade i marknadsföringskalendern. Navigera till programmet för att göra redigeringar.
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
 >[!TIP]
 >
->Prova att högerklicka på informationen till höger. Du kan se menyer för att navigera eller öppna redigerarna. Bra, eller hur?
+>Prova att högerklicka på informationen till höger. Du kan se menyer för att navigera eller öppna redigerarna. Fint, eller hur?

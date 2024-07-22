@@ -25,11 +25,11 @@ Till höger på sidan finns det flera uppgifter om dina skickade e-postmeddeland
 
 ![](assets/two-1.png)
 
-**Typ** anger vilken typ av tillgång som används.
-**Mottagare** är antalet personer som har fått e-postmeddelandet.
-**Leveransmått** ger dig en snabb översikt över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
-**Engagement Metrics** ger dig en snabb vy över hur många mottagare som har öppnat, klickat på och avbrutit en prenumeration i ett e-postmeddelande.
-**Poäng** är din e-postadress [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Typ** anger vilken typ av resurs som används.
+**Mottagarens** nummer är antalet personer som har skickats e-postmeddelandet.
+**Leveransstatistik** ger dig en snabb översikt över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
+**Engagement Metrics** ger dig en snabb översikt över hur många mottagare som har öppnat, klickat in och avbrutit en prenumeration i ett e-postmeddelande.
+**Poäng** är ditt e-postmeddelandes [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Som standard sorteras dina e-postmeddelanden efter de senaste, men du kan sortera dem efter alla tillgängliga mätvärden.
 

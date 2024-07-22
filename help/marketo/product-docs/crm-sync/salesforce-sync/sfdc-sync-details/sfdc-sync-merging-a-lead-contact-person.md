@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Ibland är det bäst att bara lista reglerna. Här är vi:
 
-* När du sammanfogar två leads i **Salesforce**, anger den normala synkroniseringen Marketo Engage och leads sammanfogas automatiskt som personer i Marketo.
-* Sammanfoga två personer i **Marketo** anropar faktiskt samma process som att sammanfoga dem som leads i Salesforce. Det fungerar fortfarande automatiskt.
-* Sammanfoga en **leda (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
+* När du sammanfogar två leads i **Salesforce** anger den normala synkroniseringen Marketo Engage och leads sammanfogas automatiskt som personer i Marketo.
+* När två personer slås samman i **Marketo** anropas i själva verket samma process som när de slås samman som leads i Salesforce. Det fungerar fortfarande automatiskt.
+* Att sammanfoga en **lead (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
 * Standardpoängen sammanfogas vid sammanslagningen.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ Ibland är det bäst att bara lista reglerna. Här är vi:
 
 >[!NOTE]
 >
->Djupdykning för mer information om [sammanfoga personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Djupdykning om du vill ha mer information om [att slå samman personer i Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

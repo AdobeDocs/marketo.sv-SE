@@ -19,7 +19,7 @@ Använd rutan Kontextanpassade Marketo Insights för att se kontoinformation och
 
 Fönstret visas i det vanliga läsfönstret för Inkorgen och Skickat och visar information och aktiviteter för den person som skickade e-postmeddelandet till dig (eller den som du skickade e-postmeddelandet till för objekt i mappen Skickat).
 
-På fliken Personaktivitet visas relevant information om personen, till exempel namn, titel, bild och så vidare. Du kan även se de senaste aktiviteterna som har inträffat efter att du har skickat ett e-postmeddelande, till exempel besökt en webbsida, fyllt i ett formulär, klickat på en länk, deltagit i ett evenemang och öppnat ett e-postmeddelande.
+På fliken Personaktivitet visas relevant information om personen, till exempel namn, titel, bild och så vidare. Du kan även se de senaste aktiviteterna som har inträffat efter att du har skickat ett e-postmeddelande, till exempel besökt en webbsida, fylla i ett formulär, klicka på en länk, delta i ett evenemang och öppna ett e-postmeddelande.
 
 ![](assets/1.png)
 

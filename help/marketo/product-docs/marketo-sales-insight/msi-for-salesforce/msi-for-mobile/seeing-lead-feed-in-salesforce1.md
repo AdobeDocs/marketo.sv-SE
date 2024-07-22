@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ledningsmataren är en uppdaterad lista över intressanta händelser som har utförts av dina leads.
 
-1. Gå till **Marketo** område i Salesforce1.
+1. Gå till **Marketo** i Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tryck **Lead-feed**.
+1. Tryck på **Leadfeed**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -34,5 +34,5 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 >[!MORELIKETHIS]
 >
 >* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Skicka e-post och kampanjer och bevakningslistor från Marketo i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 >* [Bästa val i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

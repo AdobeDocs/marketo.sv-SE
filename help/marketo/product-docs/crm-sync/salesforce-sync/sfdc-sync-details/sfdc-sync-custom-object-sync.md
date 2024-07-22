@@ -6,7 +6,7 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det associeras med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} objekt i Salesforce.
+>Om du vill använda ett anpassat objekt måste det vara associerat med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}-, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}- eller [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} -objekt i Salesforce.
 
 >[!IMPORTANT]
 >
@@ -29,7 +29,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
 ## Aktivera anpassat objekt  {#enable-custom-object}
 
-1. Klicka **[!UICONTROL Admin]** och **[!UICONTROL Salesforce Objects Sync]** länk.
+1. Klicka på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
@@ -59,7 +59,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Klicka **[!UICONTROL Enable Sync]** igen.
+1. Klicka på **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,7 +67,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
    >
    >Glöm inte att aktivera den globala synkroniseringen igen!
 
-1. Gå tillbaka till **Salesforce** -fliken.
+1. Gå tillbaka till fliken **Salesforce**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och **[!UICONTROL Salesforce Objects Sync]** länk (samma som steg 1 ovan).
+1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]** (samma som steg 1 ovan).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

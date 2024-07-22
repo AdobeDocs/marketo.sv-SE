@@ -17,13 +17,13 @@ När du utformar en landningssida i fri form kan du använda stödlinjer för at
 
 >[!NOTE]
 >
->Stödlinjerna är bara tillgängliga på **Frihand** landningssidans redigerare.
+>Stödlinjer är bara tillgängliga i **sidredigeraren för frihandsritning**.
 
-1. Välj en **Landningssida** och klicka **Redigera utkast**.
+1. Välj en **landningssida** och klicka på **Redigera utkast**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicka **Åtgärder för landningssida** och markera **Visa stödlinjer**.
+1. Klicka på **Åtgärder för landningssida** och välj **Visa stödlinjer**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

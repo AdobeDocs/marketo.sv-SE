@@ -16,15 +16,15 @@ Du kan lägga till Marketo-knappar i dina Salesforce-layouter. Här är ett exem
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Klicka **Inställningar**. Sök efter &quot;söklayout&quot; och klicka på **Söklayouter** under **Leads**.
+1. Klicka på **Konfigurera**. Sök efter söklayout och klicka på **söklayouten** under **Leads**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Klicka **Redigera** i **Listvy för leads** rad.
+1. Klicka på **Redigera** i raden **Leads List View**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Lägg till **Lägg till i Marketo Campaign**, **Skicka e-post till Marketo** och **Lägg till i bevakningslista** knappar till **Markerade knappar** och **Spara**.
+1. Lägg till **Lägg till i Marketo Campaign**, **Skicka Marketo-e-post** och **Lägg till i bevakningslista** till knapparna **Markerade knappar** och **Spara**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

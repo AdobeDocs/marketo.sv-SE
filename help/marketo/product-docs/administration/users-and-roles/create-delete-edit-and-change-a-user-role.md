@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Skapa, ta bort, redigera och ändra en användarroll {#create-delete-edit-and-change-a-user-role}
 
-**Roller** gruppera en mängd behörigheter. **Behörigheter** gör att du kan göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
+**Roller** grupperar en mängd behörigheter. Med **behörigheter** kan du göra saker i Marketo. Du tilldelar en **roll** till en användare. Enkelt som paj.
 
 >[!NOTE]
 >
@@ -24,14 +24,14 @@ ht-degree: 1%
 >Följande roller är systemroller och kan inte redigeras eller tas bort:
 >
 >* Administratör
->* Adobe produktadministratör
+>* Produktadministratör för Adobe
 >* Standardanvändare
 >* RTP-redigerare
 >* RTP-startprogram
 
 ## Skapa en roll {#create-a-role}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -39,17 +39,17 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Gå till **[!UICONTROL Roles]** och klicka **[!UICONTROL New Role]**.
+1. Gå till fliken **[!UICONTROL Roles]** och klicka på **[!UICONTROL New Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Namnge din nya roll, kontrollera alla behörigheter du vill ge användare som är kopplade till rollen och klicka på **[!UICONTROL Create]**.
+1. Namnge din nya roll, kontrollera alla behörigheter som du vill ge användare som är associerade med rollen och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Ta bort en roll {#delete-a-role}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -57,11 +57,11 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Under **[!UICONTROL Roles]** väljer du en roll och klickar på **[!UICONTROL Delete Role]**.
+1. Välj en roll på fliken **[!UICONTROL Roles]** och klicka på **[!UICONTROL Delete Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. Bekräfta borttagningen genom att klicka **[!UICONTROL Delete]**.
+1. Bekräfta borttagningen genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 >
 >Om du vill redigera din egen användarroll måste du logga in som en annan användare med administratörsbehörighet.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -83,15 +83,15 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Klicka på **[!UICONTROL Roles]** -fliken.
+1. Klicka på fliken **[!UICONTROL Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Markera den roll du vill redigera och klicka på **[!UICONTROL Edit Role]**.
+1. Markera rollen som du vill redigera och klicka på **[!UICONTROL Edit Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. Gör alla ändringar du behöver och klicka **[!UICONTROL Save]**.
+1. Gör alla ändringar du behöver och klicka på **[!UICONTROL Save]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -101,11 +101,11 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Vill du uppdatera kontots e-postadress? [Läs mer här](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Vill du uppdatera kontots e-postadress? [Lär dig mer här](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Ändra en användares roll {#change-a-users-role}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
@@ -117,7 +117,7 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. Avmarkera föregående roll, markera den nya och klicka sedan på **[!UICONTROL Save]**.
+1. Avmarkera den tidigare rollen, markera den nya och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Help Center {#help-center}
 
-Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) får du tillgång till praktiska produktgenomgångar ordnade efter upplevelsenivå.
+Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) kan du få tillgång till användbara genomgångar i produkter ordnade efter erfarenhetsnivå.
 
 ## Åtkomst {#how-to-access}
 
@@ -30,21 +30,21 @@ Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
    ![](assets/help-center-3.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/help-center-4.png)
 
-1. Klicka **Nästa** för att fortsätta.
+1. Klicka på **Nästa** för att fortsätta.
 
    ![](assets/help-center-5.png)
 
-1. Klicka **Klar** för att avsluta genomgången.
+1. Klicka på **Klar** för att avsluta genomgången.
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >Avsluta stödlinjen när som helst genom att klicka **Avvisa**.
+   >Stäng guiden när som helst genom att klicka på **Stäng**.
 
 ### Nyheter {#whats-new}
 

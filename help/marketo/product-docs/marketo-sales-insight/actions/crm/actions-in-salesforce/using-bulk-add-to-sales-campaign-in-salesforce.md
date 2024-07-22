@@ -1,10 +1,10 @@
 ---
 description: Använda Lägg till i säljkampanj gruppvis i Salesforce - Marketo Docs - produktdokumentation
 title: Använda Lägg till gruppvis i försäljningskampanj i Salesforce
-exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Lär dig hur du lägger till säljkampanjer satsvis i Salesforce för att skala 
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har installerat [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} i dina kontakt- och leadlistor i Salesforce.
+>Kontrollera att du har installerat det [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} till din Salesforce-instans och har konfigurerat [åtgärdsknapparna](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} för din kontakt- och leadlistevy i Salesforce.
 
 ## Lägg till gruppvis i försäljningskampanj i Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. I Salesforce navigerar du till hemsidan Leads/Kontakter genom att klicka på **Leads/kontakter** -fliken.
+1. Gå till hemsidan för Leads/Kontakter i Salesforce genom att klicka på fliken **Leads/Kontakter** .
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 
-1. I **Visa** väljer du önskad vy över de leads/kontakter som du vill skicka e-post till.
+1. I listrutan **Visa** väljer du önskad vy över de leads/kontakter som du vill skicka e-post till.
 
    >[!TIP]
    >
-   >Du kan skapa en ny vy genom att klicka på kodikonen till höger och välja **Nytt**. När du har gett vyn ett nytt namn och sparat det kan du klicka på filterikonen till höger för att filtrera ner till den önskade uppsättningen leads/kontakter som du vill skicka med e-post.
+   >Du kan skapa en ny vy genom att klicka på kodikonen till höger och välja **Ny**. När du har gett vyn ett nytt namn och sparat det kan du klicka på filterikonen till höger för att filtrera ner till den önskade uppsättningen leads/kontakter som du vill skicka med e-post.
 
-1. Välj önskade leads eller kontaktlistor och klicka på **Lägg till i försäljningskampanj** -knappen.
+1. Välj önskad lead- eller kontaktlista och klicka på knappen **Lägg till i säljkampanj** .
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-2.png)
 
@@ -49,11 +49,11 @@ Lär dig hur du lägger till säljkampanjer satsvis i Salesforce för att skala 
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
-1. Du kan se olika alternativ beroende på vilket första steget i kampanjen är. Om ditt första steg är ett e-postmeddelande kan du redigera e-postmeddelandet för varje mottagare enligt nedan. När du är klar klickar du på **Nästa**.
+1. Du kan se olika alternativ beroende på vilket första steget i kampanjen är. Om ditt första steg är ett e-postmeddelande kan du redigera e-postmeddelandet för varje mottagare enligt nedan. Klicka på **Nästa** när detta är klart.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. Om ditt första steg är ett e-postmeddelande och du har konfigurerat det så att du kan välja när kampanjen startar kan du välja att **Starta nu** eller **Schemalägg en ny starttid**. Klicka på **Starta**.
+1. Om ditt första steg är ett e-postmeddelande och du har konfigurerat det så att du kan välja när kampanjen startar, kan du välja att **Starta nu** eller **Schemalägga en ny starttid**. Klicka på **Start** när detta är klart.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -63,9 +63,9 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
 
 ## Lägg till i säljkampanj gruppvis i Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
-1. Klicka på **Leads/kontakter** -fliken.
+1. Klicka på fliken **Leads/Kontakter** i Salesforce.
 
-1. I listrutan Visa väljer du önskad vy med leads/kontakter som du vill skicka e-post till och klickar på **Gå**.
+1. I listrutan Visa markerar du den vy med leads/kontakter som du vill skicka e-post till och klickar på **Gå**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-8.png)
 
@@ -73,7 +73,7 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
    >
    >Du kan skapa en ny vy genom att klicka på Skapa ny vy och konfigurera de tillgängliga filtren för att begränsa listan över mottagare som du ska skicka e-post till.
 
-1. Välj lead eller kontaktlista och klicka på **Lägg till i försäljningskampanj** -knappen.
+1. Välj önskad lead- eller kontaktlista och klicka på knappen **Lägg till i säljkampanj** .
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
 
@@ -83,17 +83,17 @@ När du har klickat på Start visas en bekräftelseskärm där du ser hur många
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
-1. Välj den försäljningskampanjkategori som du vill använda på menyn **Kategorier** nedrullningsbar meny.
+1. Välj den försäljningskampanjkategori som du vill använda i listrutan **Kategorier**.
 
 1. Välj den försäljningskampanj som du vill lägga till de valda personerna i och klicka på **Nästa**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
-1. Du kan se olika alternativ beroende på vilket första steget i kampanjen är. Om ditt första steg är ett e-postmeddelande kan du redigera e-postmeddelandet för varje mottagare enligt nedan. När du är klar klickar du på **Nästa**.
+1. Du kan se olika alternativ beroende på vilket första steget i kampanjen är. Om ditt första steg är ett e-postmeddelande kan du redigera e-postmeddelandet för varje mottagare enligt nedan. Klicka på **Nästa** när detta är klart.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. Om ditt första steg är ett e-postmeddelande och du har konfigurerat det så att du kan välja när kampanjen startar kan du välja att **Starta nu** eller **Schemalägg en ny starttid**. Klicka på **Starta**.
+1. Om ditt första steg är ett e-postmeddelande och du har konfigurerat det så att du kan välja när kampanjen startar, kan du välja att **Starta nu** eller **Schemalägga en ny starttid**. Klicka på **Start** när detta är klart.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

@@ -38,7 +38,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="Anslut" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Konfigurera och lägga till en person</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Konfigurera och lägg till en person </a>
     </div>
     <br>
   </td>
@@ -55,7 +55,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="E-post" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landningssida med ett formulär</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landningssida med formulär </a>
     </div>
     <br>
   </td>
@@ -64,7 +64,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="Anslut" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. Enkel poängsättning</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Enkel poängsättning </a>
     </div>
     <br>
   </td>
@@ -83,7 +83,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="E-post" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importera en lista med personer</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importera en lista med personer </a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="Anslut" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivrutinsdykning</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drivrutinsstruktur </a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
       <img alt="E-post" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Meddela säljaren</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avisera säljaren </a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
 
 ## STEG 4 Grattis! Du är redo för Nation  {#congrats-youre-ready-for-the-nation}
 
-Kolla in [Marknadsföringsnation](https://nation.marketo.com){target="_blank"}!
+Kolla in [Marketing Nation](https://nation.marketo.com){target="_blank"}!

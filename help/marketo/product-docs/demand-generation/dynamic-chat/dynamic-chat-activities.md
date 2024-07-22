@@ -28,7 +28,7 @@ Dynamic Chat erbjuder flera filter och utlösare som kan användas i dina smarta
   </tr>
   <tr>
     <td style="width:25%"><b>Engagerad med ett konversationsflöde/dialog</b></td>
-    <td>Ett ärende inträffar första gången en webbbesökare klickar på en fråga i ett Dialog- eller konversationsflöde (klicka på ett flervalsalternativ, skicka information, boka ett möte, öppna ett dokument osv.). Om en besökare öppnar en dialogruta eller ett konversationsflöde, men inte klickar på en uppmaning, är ett engagemang <b>not</b> loggad. 
+    <td>Ett ärende inträffar första gången en webbbesökare klickar på en fråga i ett Dialog- eller konversationsflöde (klicka på ett flervalsalternativ, skicka information, boka ett möte, öppna ett dokument osv.). Om en besökare öppnar en dialogruta eller ett konversationsflöde, men inte klickar på en fråga, loggas <b>inte</b> ett ärende. 
     <br>En engagemangshändelse per besökare, per session.</td>
   </tr>
    <tr>
@@ -56,5 +56,5 @@ Dynamic Chat erbjuder flera filter och utlösare som kan användas i dina smarta
 ## Saker att notera {#things-to-note}
 
 * Villkor stöds i flödessteg i Dynamic Chat
-* Dynamic Chat-aktiviteter kan synkroniseras till [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Dynamic Chat aktiviteter kan synkroniseras till [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
 * Du kan visa enskilda Dynamic Chat-aktiviteter i aktivitetsloggen för en personpost

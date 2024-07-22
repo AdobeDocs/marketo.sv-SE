@@ -6,7 +6,7 @@ exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Matcha högerleads till högernamngivna konton med Marketo Lead-to-Account-match
 
 >[!NOTE]
 >
->**Matchning av lead-till-konto** är en inbyggd funktion i Marketo Target Account Management. Den använder otydlig logik för att automatiskt matcha leads till rätt namngivna konton i nära realtid. Dessa namngivna konton kan vara CRM-konton eller Marketo-företag.
+>**Matchning från lead till konto** är en inbyggd funktion i Marketo Target Account Management. Den använder otydlig logik för att automatiskt matcha leads till rätt namngivna konton i nära realtid. Dessa namngivna konton kan vara CRM-konton eller Marketo-företag.
 
 ## Översikt {#overview}
 
 Marketo Lead-to-Account Matching följer en process i fyra steg:
 
-**Steg 1 -** Vår matchningsprocess börjar med att använda nyckelinformation på lead-poster, som:
+**Steg 1 -** Vår matchningsprocess börjar med att använda nyckelinformation på lead-posterna, som:
 
 * E-postdomän (t.ex. acme.com)
 * Infört företagsnamn från IP-adress
 * Företagsnamn - Detta kan vara CRM-kontonamn eller huvudföretagets namnattribut (t.ex. kommer från formulärifyllning)
 
-**Steg 2 -** Vi normaliserar företagsnamnen som vi hittar baserat på olika leadattribut (t.ex. Acme Inc. och Acme Corp normaliseras automatiskt till Acme). Detta steg gör att vi har en enda representation av det namngivna kontot i Marketo och kan se alla leads i ett namngivet konto.
+**Steg 2 -** Vi normaliserar företagsnamnen som vi hittar baserat på olika lead-attribut (t.ex. Acme Inc. och Acme Corp normaliseras automatiskt till Acme). Detta steg gör att vi får en enda representation av det namngivna kontot i Marketo och kan se alla leads i ett namngivet konto.
 
-**Steg 3 -** Vi delar matchade leads i två grupper: Stark Match och Weak Match.
+**Steg 3 -** leads har matchats i två grupper: Stark matchning och Svag matchning.
 
 * Svag matchade leads visas på de namngivna kontona och kan sedan lösas manuellt.
 
@@ -45,19 +45,19 @@ Eftersom matchning av lead-till-konto i Marketo är en inbyggd funktion i Market
 
 ## Använda LeanData för Lead till kontomatchning {#using-leandata-for-lead-to-account-matching}
 
-Efter [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) har aktiverat LeanData för ditt konto, följ stegen nedan för att konfigurera det.
+När [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) har aktiverat LeanData för ditt konto följer du stegen nedan för att konfigurera det.
 
-1. I Salesforce klickar du på **Startsida** till vänster om navigeringen.
+1. I Salesforce klickar du på **Startsida** i den vänstra navigeringen.
 
-1. Fortfarande i det vänstra navigeringsfältet klickar du under Administration på **Användare** sedan **Profiler**.
+1. Klicka på **Användare** och sedan **Profiler** under Administration fortfarande i det vänstra navigeringsfältet.
 
-1. Leta reda på och markera **Marketo Sync** profil.
+1. Leta reda på och välj profilen **Marketo Sync**.
 
 1. Bläddra ned till avsnittet Fältnivåsäkerhet och leta upp Lead-objektet. Välj **Visa**.
 
-1. Markera kryssrutan i fältet &quot;Rapporterar matchat konto&quot; **Läsåtkomst** kolumnen är markerad.
+1. Kontrollera att kryssrutan i kolumnen **Läs åtkomst** är markerad för fältnamnet &quot;Rapportera matchat konto&quot;.
 
-1. I Marketo går du till **Administratör** -avsnitt.
+1. Gå till avsnittet **Admin** i Marketo.
 
    ![](assets/lead-to-account-matching-1.png)
 

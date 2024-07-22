@@ -19,8 +19,8 @@ När du inte behöver något innehåll längre är det enkelt att bli av med det
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Ta bort innehåll**.
+1. Klicka på listrutan **Innehållsåtgärder** och välj **Ta bort innehåll**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
-   Så där.
+   Så där ja.

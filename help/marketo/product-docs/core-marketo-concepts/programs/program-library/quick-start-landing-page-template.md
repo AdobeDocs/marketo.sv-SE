@@ -2,10 +2,10 @@
 description: Quick Start Landing Page Template - Marketo Docs - produktdokumentation
 title: Startsidmall för snabbstart
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Vissa av startprogrammen i referensbiblioteket för Marketo Engage innehåller e
 
 >[!TIP]
 >
->Läs mer om [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Läs mer om [guidade sidmallar för landning](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Sammanfattning av avsnitt {#sections-summary}
 
@@ -49,7 +49,8 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 * Stycketextelement för att uppdatera styckekopia
 * Formulärelement som ska läggas till i ett formulär
 * Textelement under formuläret för att redigera text och länkar i sekretesspolicyn
-* Variabler att redigera: Bakgrundsfärg för avsnitt
+* Variabler att redigera:
+Bakgrundsfärg för avsnitt
    * Bakgrundsfärg direkt bakom formuläret
    * Kantradie för ruta runt formuläret (vilket gör att det har böjda hörn eller, om värdet är &quot;0&quot;, fyrkantiga hörn)
    * Visa eller dölj hela avsnittet
@@ -81,7 +82,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Knappens kantradie**: justerar formulärknappen så att den antingen är rundad eller rektangulär
 * **Knappfärg**: uppdaterar färgen på knappen i formuläret
-* **Färg på hovring av knapp**: ändrar hovringsfärgen för knappen i formuläret
+* **Hovringsfärg för knapp**: ändrar hovringsfärgen för knappen i formuläret
 * **Länkfärg**: uppdaterar färgen på länkar på hela sidan
-* **Avsnittets övre avstånd**: lägger till utrymme ovanför varje avsnitt utom logotypavsnittet
+* **Avsnittets övre avstånd**: lägger till utrymme ovanför varje avsnitt förutom logotypavsnittet
 * **Avsnittets nedre avstånd**: lägger till utrymme under varje avsnitt utom avsnittet med logotyper

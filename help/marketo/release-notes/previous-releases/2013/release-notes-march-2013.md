@@ -6,7 +6,7 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Följande funktioner ingår i mars-versionen.
 
-## Marketo Kalenderfiler {#marketo-calendar-files}
+## Marketo Calendar-filer {#marketo-calendar-files}
 
-Skapa en kalenderfil som en **Min token** som ska användas i e-postmeddelanden med bekräftelser och påminnelser. Den här integrerade kalenderfilen (t.ex. ICS-filen) återger alla variabler, inklusive Mina token och `{{member.webinar URL}}` token.
+Skapa en kalenderfil som en **Min token** som ska användas i din händelsebekräftelse och påminnelsemeddelanden. Den här integrerade kalenderfilen (t.ex. ICS-filen) återger alla tokens, inklusive Mina token och token `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
@@ -27,7 +27,7 @@ Skapa väntesteg som kan köras ett visst antal dagar före eller efter en datum
 
 ![](assets/image2014-9-22-15-3a35-3a44.png)
 
-Du kan skapa ett väntesteg som väntar 14 dagar innan leadets födelsedag. Om du väljer &quot;använd nästa brytdatum för detta datum&quot; ignoreras automatiskt det år som är associerat med datumet och det aktuella eller nästa kalenderår används i stället.
+Du kan skapa ett väntesteg som väntar 14 dagar innan leadet fyller år. Om du väljer &quot;använd nästa brytdatum för detta datum&quot; ignoreras automatiskt det år som är associerat med datumet och det aktuella eller nästa kalenderår används i stället.
 
 ## Sociala Lotterier {#social-sweepstakes}
 

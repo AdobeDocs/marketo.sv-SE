@@ -6,7 +6,7 @@ exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,4 @@ Vilka typer av innehåll är mest engagerande? Se det i det här diagrammet.
 
 >[!NOTE]
 >
->Om du klickar på en kategorilänk (exempel i bilden ovan): leadgen, e-post osv.) den öppnar sidan Allt innehåll med den kategori som du klickade på och som lagts till i filtret, och visar innehållsanalysen i den kategorin.
+>Om du klickar på en kategorilänk (exempel i bilden ovan: leadgen, e-post osv.) den öppnar sidan Allt innehåll med den kategori som du klickade på och som lagts till i filtret, och visar innehållsanalysen i den kategorin.

@@ -6,7 +6,7 @@ exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Skicka ett gruppe-postmeddelande {#sending-a-group-email}
 
-1. Klicka på **Folk** -fliken.
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
@@ -49,7 +49,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/edit-four.png)
 
-1. Klicka **Förhandsgranska dynamiska fält** och förhandsgranska till höger.
+1. Klicka på **Förhandsgranska dynamiska fält** och visa förhandsgranskningen till höger.
 
    ![](assets/edit-five.png)
 

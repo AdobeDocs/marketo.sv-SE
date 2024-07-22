@@ -31,6 +31,6 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
 >[!MORELIKETHIS]
 >
->* [Märka webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Visa segment från en viss etikett](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Ange etikett för dina webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Visa segment från en specifik etikett](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Märk upp dina segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

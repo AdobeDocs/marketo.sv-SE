@@ -53,7 +53,7 @@ Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsförin
 
 **REST API**
 
-I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API:er finns på [Marketo Developers webbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Förbättringar av granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -61,13 +61,13 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 ## [Nya behörigheter](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Låt e-postmeddelandet fungera**
+**Använd e-post**
 
 Det var inte länge sedan du var tvungen att oroa dig för att användare ska skicka transaktionsmeddelanden via e-post till personer i din databas som har avbeställt prenumerationen. Du kan nu ange vilka användare som kan få ett e-postmeddelande att fungera eller redigera användbara e-postmeddelanden.
 
 **Redigera kampanjbegränsningar**
 
-Varför [kampanjbegränsningar](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) om du inte klarar dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
+Varför anger du [kampanjbegränsningar](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) om du inte kan framtvinga dem? När du anger inställningarna för kampanjbegränsning för att begränsa antalet personer i databasen som kan användas för en enskild kampanj, kan du nu begränsa vilka användare som kan åsidosätta inställningarna när du schemalägger en kampanj.
 
 ## [Ljud för mobila push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,18 +80,18 @@ Ge dina iOS Push Notification ännu bättre detaljrikedom genom att aktivera lju
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Säljinsikter kompatibel med Salesforce-kryptering](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Säljinformation är kompatibel med Salesforce-kryptering](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [finns på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [tillgängligt på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API:er för namngivna konton](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 I den här versionen kan Marketo ABM-användare hantera namngivna konton via API:t för namngivna konton. Användare kan skapa, uppdatera och ta bort namngivna konton samt läsa och uppdatera ABM-poängen för namngivna konton.
 
-## [Stöd för API:t för e-postredigeraren v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Stöd för e-postredigeraren v2.0 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Hantera variabler och moduler för e-post i v2.0-format med Marketo REST API.
 
-## [Ändringar i Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Ändringar i Marketo Salesforce-synkronisering](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo Salesforce-integrering utvecklas för att förbättra det sätt på vilket Marketo-fält synkroniseras med Salesforce. I stället för att behöva synkronisera en stor grupp fält som du kanske behöver kan du nu välja vilka fält du vill inkludera och välja vilka. Läs vår dokumentation här för mer information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

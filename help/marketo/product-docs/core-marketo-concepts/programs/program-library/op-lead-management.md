@@ -2,10 +2,10 @@
 description: OP-Lead Management - Marketo Docs - produktdokumentation
 title: OP-Lead Management
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Det här är ett exempel på arbetsflöden för bästa praxis för leadhantering
 >
 >I Marketo Engage kallas poster i din databas personer/person. Leadhanteringen i det här exemplet gäller posterna i CRM.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) .
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -39,7 +39,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -85,7 +85,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

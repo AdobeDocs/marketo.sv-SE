@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## Lägga till taggvärden {#adding-tag-values}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-tag-values-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/managing-tag-values-2.png)
 
-1. Klicka **[!UICONTROL New]** sedan **[!UICONTROL New Tag Value]**.
+1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Tag Value]**.
 
    ![](assets/managing-tag-values-3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 1%
 
    ![](assets/managing-tag-values-4.png)
 
-1. Ange **[!UICONTROL Value]** och klicka **[!UICONTROL Add Another]**. Du kan lägga till så många värden du vill.
+1. Ange en **[!UICONTROL Value]** och klicka på **[!UICONTROL Add Another]**. Du kan lägga till så många värden du vill.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Lägg till återstående värden och klicka på **[!UICONTROL Create]**.
+1. Lägg till de återstående värdena och klicka på **[!UICONTROL Create]**.
 
    ![](assets/managing-tag-values-6.png)
 
@@ -57,11 +57,11 @@ Du borde se ändringarna direkt!
 
 Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk genom att dölja taggtypen.
 
-1. Välj **[!UICONTROL Tag]** och väljer **[!UICONTROL Value]** du vill gömma dig.
+1. Markera **[!UICONTROL Tag]** och markera den **[!UICONTROL Value]** som du vill dölja.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Under **[!UICONTROL Tag Actions]** väljer du **[!UICONTROL Hide]**.
+1. Välj **[!UICONTROL Hide]** under **[!UICONTROL Tag Actions]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -69,7 +69,7 @@ Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk gen
 
 Om du vill se dina dolda värden igen gör du följande:
 
-1. Välj **[!UICONTROL Show Hidden]** kryssrutan. När du har markerat det här alternativet kan du se det dolda värdet.
+1. Markera kryssrutan **[!UICONTROL Show Hidden]**. När du har markerat det här alternativet kan du se det dolda värdet.
 
    ![](assets/managing-tag-values-10.png)
 

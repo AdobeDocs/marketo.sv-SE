@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Lägg till en landsväljarlista i formuläret](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Lägg till en landsväljarlista i ditt formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa blankettfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formulärfält eller [fältuppsättningar](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exempel**
 >
->I det här exemplet kan vi dölja **Läge** fält såvida inte **Land** är markerat som &quot;USA&quot;.
+>I det här exemplet döljer vi fältet **Delstat** såvida inte **Land** har valts som &quot;USA&quot;.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -33,7 +33,7 @@ En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa bla
 
    ![](assets/editform-1.png)
 
-1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **Synlighetsregler**.
+1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **synlighetsreglerna**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,9 +59,9 @@ En bra egenskap hos Marketo-blanketter är att man dynamiskt kan dölja/visa bla
 
    >[!NOTE]
    >
-   >Vi har tidigare konverterat Land till en plocklistefälttyp och [har lagt till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Vi konverterade tidigare Land till en fälttyp för plocklista och [lade till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Och det är allt! När man fyller i blanketten och väljer USA som land visas f�
 
 >[!IMPORTANT]
 >
->Formulärfältets beteende fungerar sömlöst när fältvärden ställs in/uppdateras via anpassat skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
+>Formulärfältets beteende fungerar sömlöst när fältvärden ställs in/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
 >
->Villkorliga fält kanske inte fungerar som förväntat om fältvärden ändras av andra externa skript än JavaScript-API:t för Forms 2.0.
+>Villkorliga fält kanske inte fungerar som förväntat om fältvärdena ändras av andra externa skript än Forms 2.0 JavaScript API.

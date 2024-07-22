@@ -23,6 +23,6 @@ Ibland kan man ha för mycket av en bra sak. Ta bort gamla presentationer för a
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Klicka **[!UICONTROL Delete]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

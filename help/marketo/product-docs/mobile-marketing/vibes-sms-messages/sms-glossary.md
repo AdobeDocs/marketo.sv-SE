@@ -2,7 +2,8 @@
 description: SMS-ordlista - Marketo Docs - produktdokumentation
 title: SMS-ordlista
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -57,7 +58,7 @@ Nedan visas några vanliga termer som du kommer att stöta på när du använder
   </tr>
   <tr>
     <td>Händelse</td>
-    <td>En händelse är en definierad förekomst som kan skickas till Vibes-plattformen och användas för att utlösa API-utlösta åtgärder, inklusive meddelandeutskick. Varje händelse innehåller data som är specifika för händelsen, inklusive en event_type, som används för att avgöra vilken API-utlöst meddelandekampanj den motsvarar. Händelse-API:t kan utlösas via Webkrok i Marketo Engage. Läs mer om våra <a href="https://developer-platform.vibes.com/reference/event-api">Händelse-API-referens</a>.</td>
+    <td>En händelse är en definierad förekomst som kan skickas till Vibes-plattformen och användas för att utlösa API-utlösta åtgärder, inklusive meddelandeutskick. Varje händelse innehåller data som är specifika för händelsen, inklusive en event_type, som används för att avgöra vilken API-utlöst meddelandekampanj den motsvarar. Händelse-API:t kan utlösas via Webkrok i Marketo Engage. Läs mer med vår <a href="https://developer-platform.vibes.com/reference/event-api">Event API-referens</a>.</td>
   </tr>
   <tr>
     <td>Nyckelord</td>
@@ -101,7 +102,7 @@ Nedan visas några vanliga termer som du kommer att stöta på när du använder
   </tr>
   <tr>
     <td>Vibes Platform</td>
-    <td>Webbplatsen du loggar in på för att hantera kampanjer. Gå till <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> för att få tillgång till Vibes plattform.</td>
+    <td>Webbplatsen du loggar in på för att hantera kampanjer. Gå till <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> för att komma åt Vibes-plattformen.</td>
   </tr>
 </tbody>
 </table>

@@ -23,4 +23,4 @@ Bilden nedan visar integrationsprocessen.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Vill du börja? Börja med [Skapa en händelse med ON24-adaptern](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Är du redo att börja? Börja med [Skapa en händelse med ON24-adaptern](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

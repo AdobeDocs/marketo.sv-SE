@@ -41,7 +41,7 @@ Namngivna konton håller personerna från de företag ni riktar er mot. Kontroll
   </tr> 
   <tr> 
    <td><strong>Folk</strong></td> 
-   <td>Mängd personer som tilldelats ett namngivet konto</td> 
+   <td>Mängd personer som har tilldelats ett namngivet konto</td> 
   </tr> 
   <tr> 
    <td><strong>Pipeline</strong></td> 
@@ -61,7 +61,7 @@ Namngivna konton håller personerna från de företag ni riktar er mot. Kontroll
   </tr> 
   <tr> 
    <td><strong>SNI-kod</strong></td> 
-   <td><span><strong>S</strong>Standard <strong>I</strong>industrigren <strong>C</strong>klassificering - fyrsiffrig kod för klassificering av branscher<br></span></td> 
+   <td><span><strong>S</strong>Standard <strong>I</strong>Industriell <strong>C</strong>klassificering - fyrsiffrig kod för klassificering av branscher<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Intäkter</strong></td> 
@@ -96,7 +96,7 @@ Namngivna konton håller personerna från de företag ni riktar er mot. Kontroll
    <td colspan="1">Ägare till angivet konto</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Kontoteammedlem</strong></td> 
+   <td colspan="1"><strong>Medlem i kontoteam</strong></td> 
    <td colspan="1">Medlem av en grupp intressenter som arbetar tillsammans med specifika konton</td> 
   </tr> 
  </tbody> 

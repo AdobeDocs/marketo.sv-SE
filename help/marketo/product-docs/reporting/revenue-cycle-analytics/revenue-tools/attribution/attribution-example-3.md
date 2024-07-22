@@ -6,7 +6,7 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
 * 11 april | Steve Downloads (Content) - success
-* 22 april | Affärsmöjlighet skapas för 3 000 USD (både Steve och Jason har roller)
+* 22 april | Affärsmöjlighet har skapats för 3 000 USD (både Steve och Jason har roller)
 * 25 april | Jason Attends (Webinar) - success
 * 30 april | Affärsmöjligheten är avbruten
 
@@ -39,7 +39,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 >[!NOTE]
 >
->**Attributionsregler**
+>**Attribution Rules**
 >
 >1. Krediten delas jämnt
 >1. Du kan inte ge mer beröm än du har fått
@@ -49,6 +49,6 @@ Prova alla exempel så blir du ett attribueringsproffs!
 
 >[!MORELIKETHIS]
 >
->* [Attribut - exempel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Attribut - exempel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attribut - exempel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Attribution Example 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attribution Example 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attribution Example 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

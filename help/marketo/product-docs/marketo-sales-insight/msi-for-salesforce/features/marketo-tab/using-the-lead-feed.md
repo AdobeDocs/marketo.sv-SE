@@ -40,8 +40,8 @@ När du visar det i Salesforce har varje objekt:
    <td><p>Beskrivning</p></td> 
   </tr> 
   <tr> 
-   <td><p>S. Lead/kontakt</p></td> 
-   <td><p>Person som hade det här intressanta ögonblicket</p></td> 
+   <td><p>A. Lead/kontakt</p></td> 
+   <td><p>Person som hade detta intressanta ögonblick</p></td> 
   </tr> 
   <tr> 
    <td><p>B. Händelsetyp</p></td> 
@@ -61,10 +61,10 @@ När du visar det i Salesforce har varje objekt:
   </tr> 
   <tr> 
    <td><p>F. Prenumerera</p></td> 
-   <td><p>Få e-postmeddelanden för händelser som detta</p></td> 
+   <td><p>Ta emot e-postmeddelanden för händelser som detta</p></td> 
   </tr> 
   <tr> 
-   <td><p>G. Stjärna</p></td> 
+   <td><p>G. Star</p></td> 
    <td><p>Den här personen är ett Bästa val (hög prioritet)</p></td> 
   </tr> 
  </tbody> 
@@ -83,7 +83,7 @@ Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-fe
 
 >[!NOTE]
 >
->Företagets Marketo-administratör måste [aktivera RSS-flöden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att det här ska fungera.
+>Företagets Marketo-administratör måste [aktivera RSS-flöden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) för att detta ska fungera.
 
 För att få RSS-uppdateringar behöver du två saker: RSS-länken och en RSS-flödesläsare. Du kan få RSS-länken genom att klicka på RSS-ikonen i lead-flödet:
 

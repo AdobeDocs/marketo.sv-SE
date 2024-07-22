@@ -4,9 +4,10 @@ title: Nytt dokument för Lägg till bilder
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Det finns flera alternativ för att lägga till nya filer/bilder i din Images- o
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Upload image or file]**.
+1. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -33,7 +34,7 @@ Det finns flera alternativ för att lägga till nya filer/bilder i din Images- o
 
    ![](assets/add-images-and-files-to-marketo-4.png)
 
-1. När resursen har valts klickar du **Överför**.
+1. När resursen har valts klickar du på **Överför**.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 
@@ -47,11 +48,11 @@ Text
 
 1. Följ steg 1 och 2 [från ovan](#upload-image-or-file).
 
-1. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Import image or file]**.
+1. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Välj **[!UICONTROL Web]** och klicka **[!UICONTROL Next]**.
+1. Välj alternativet **[!UICONTROL Web]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
@@ -69,11 +70,11 @@ Text
 
 1. Följ steg 1 och 2 [från ovan](#upload-image-or-file).
 
-1. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Import image or file]**.
+1. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Välj **[!UICONTROL Box]** och klicka **[!UICONTROL Next]**.
+1. Välj alternativet **[!UICONTROL Box]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -89,7 +90,7 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. Markera den Marketo Engage-mapp du vill att bilden ska sparas i. I det här exemplet lämnar vi det som Bilder och Filer (standard). Klicka **Importera**.
+1. Markera den Marketo Engage-mapp du vill att bilden ska sparas i. I det här exemplet lämnar vi det som Bilder och Filer (standard). Klicka på **Importera**.
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -99,11 +100,11 @@ Text
 
 1. Följ steg 1 och 2 [från ovan](#upload-image-or-file).
 
-1. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Import image or file]**.
+1. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Välj **[!UICONTROL Adobe Experience Manager]** och klicka **[!UICONTROL Next]**.
+1. Välj alternativet **[!UICONTROL Adobe Experience Manager]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

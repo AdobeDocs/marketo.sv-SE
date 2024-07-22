@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda fältorganisatörer {#using-field-organizers}
 
-Fältorganisatörer hjälper dig att ange vissa fält av alla möjliga värden. Du kan till exempel skapa meningsfulla grupperingar, som västkusten och östkusten, för fältet Territorium. Detta gör att rapporter körs snabbare.
+Fältorganisatörer hjälper dig att ange vissa fält av alla möjliga värden. Du kan till exempel skapa meningsfulla grupperingar, som västkusten och östkusten, för fältet Territorium. Detta hjälper rapporter att gå snabbare.
 
 Fältorganisatörer liknar segmenteringar, som används allmänt, men fältorganisatörer används för rapportering på fältnivå.
 
@@ -23,25 +23,25 @@ Det finns ingen specifik rapport för fältorganisatörer.
 
 Fältorganisatörer används i modellprestandaanalys.
 
-## Skapa fältorganisatörer {#how-to-create-field-organizers}
+## Så här skapar du fältorganisatörer {#how-to-create-field-organizers}
 
-1. Klicka **Databas**.
+1. Klicka på **Databas**.
 
    ![](assets/db.png)
 
-1. Under **Nytt**, markera **Ny fältorganisatör**.
+1. Under **Nytt** väljer du **Ny fältorganisatör**.
 
    ![](assets/two-1.png)
 
-1. Under **Fält** väljer du ett attribut. Beskrivningen är valfri.
+1. Välj ett attribut under **Fält**. Beskrivningen är valfri.
 
    ![](assets/three-1.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka **Lägg till grupp**.
+1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka på **Lägg till grupp**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

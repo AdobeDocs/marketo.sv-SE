@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Filtrera webbkampanjer {#filter-web-campaigns}
 
-När du har skapat hundratals webbpersonaliseringskampanjer är det verkligen bra att kunna använda filter för att visa endast de du är intresserad av.
+När du har skapat hundratals Personalization-webbkampanjer är det verkligen bra att kunna använda filter för att visa endast de du är intresserad av.
 
 1. Gå till **Webbkampanjer**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. På webbkampanjsidan klickar du på **Filter**.
+1. Klicka på **Filter** på sidan Webbkampanjer.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Markera kryssrutan för den status och/eller typ av kampanj som du vill filtrera efter, till exempel **Pausad** eller **Dialog**. Klicka **Använd**.
+1. Markera kryssrutan för den status och/eller typ av kampanj som du vill filtrera efter, till exempel **Pausad** eller **Dialog**. Klicka på **Använd**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Använd **Markera alla** om du vill välja alla eller **Rensa** för att ta bort alla kryssrutor.
+   >Använd kryssrutan **Markera alla** för att välja alla eller länken **Rensa** för att ta bort alla kryssrutor.
 
 1. Nu visas bara kampanjer som matchar filtret.
 

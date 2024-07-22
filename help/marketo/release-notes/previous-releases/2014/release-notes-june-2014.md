@@ -35,11 +35,11 @@ När du skickar ett test-e-postmeddelande från Sales Insight går det inte att 
 
 ## Lead ReST API {#lead-rest-api}
 
-Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. För att komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) om du vill ha mer information om hur du använder detta API.
+Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. Om du vill komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) för mer information om hur du använder API:t.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns - uppdatering {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-kampanjer innehåller nu en ny design med miniatyrbilder och kampanjresultat. Dessutom kan du [ordna era kampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) efter datum eller bästa prestanda.
+RTP-kampanjer innehåller nu en ny design med miniatyrbilder och kampanjresultat. Dessutom kan du [ordna dina kampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) utifrån datum eller bästa prestanda.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ RTP-kampanjer innehåller nu en ny design med miniatyrbilder och kampanjresultat
 
 Lägg till alla era RTP-data på webbanalysplattformen.
 
-Integrationen med [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) är nu aktiverat som standard, så under Kontoinställningar aktiverar du den switch som du vill skicka data till anpassade GA-variabler och GA-händelser för.
+Integrationen med [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) är nu aktiverad som standard, så under Kontoinställningar aktiveras den switch som du vill skicka data till anpassade GA-variabler och -händelser för.
 
-Vi har också slutfört integreringen med [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Integreringen med [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md) har också slutförts.

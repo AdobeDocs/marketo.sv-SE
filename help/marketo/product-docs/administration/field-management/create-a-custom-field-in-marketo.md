@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Om du behöver ett nytt anpassat fält i Marketo Engage för att lagra/hämta in data, så här skapar du ett.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -35,11 +35,11 @@ Om du behöver ett nytt anpassat fält i Marketo Engage för att lagra/hämta in
 
    >[!TIP]
    >
-   >Kolla in [Ordlista för anpassade fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Ta en titt på ordlistan [Anpassade fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Ange [!UICONTROL Name] som du vill att den ska visas i Marketo. The [!UICONTROL API Name] genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka **[!UICONTROL Create]** när det är klart.
+1. Ange [!UICONTROL Name] så som du vill att den ska visas i Marketo. [!UICONTROL API Name] genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka på **[!UICONTROL Create]** när du är klar.
 
 >[!CAUTION]
 >

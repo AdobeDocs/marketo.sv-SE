@@ -17,7 +17,7 @@ Det blir allt viktigare för organisationer att följa lagar om e-postsekretess.
 * Länkar för att avbryta prenumerationen placeras på alla e-postmeddelanden som skickas från Marketo Sales och Salesforce (detta gäller inte för anpassade e-postmeddelanden som skickas från Outlook eller Gmail)
 * Administratörer kan redigera avbeställningsmeddelanden för hela teamet
 * Information om att avbryta prenumerationen lagras i PDV
-* Du kan avsluta prenumerationen manuellt: Klicka på Länk, Salesforce-synkronisering och Studsa
+* Du kan avbryta prenumerationen manuellt: Klicka på Länk, Salesforce-synkronisering och Studsa
 * Ny startsida för länk för avanmälan
 
 ## Avbeställ Landing Page {#unsubscribe-link-landing-page}
@@ -48,7 +48,7 @@ Med historikkortet för att avbryta prenumerationen kan administratörer och anv
 
 >[!NOTE]
 >
->Det finns bara ett historikkort för att avsluta prenumerationen om personen har _återprenumerera_ vid något tillfälle.
+>Det finns bara ett historikkort för att avsluta prenumerationen om personen har _återkallat prenumerationen_ vid något tillfälle.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -63,8 +63,8 @@ Med historikkortet för att avbryta prenumerationen kan administratörer och anv
    <td><p>Visar det datum då prenumerationen/återprenumerationen ägde rum.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Detaljer</strong></td> 
-   <td><p>Återprenumeration: En Sales Connect-administratör tog manuellt bort avbeställningen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
+   <td><strong>Information</strong></td> 
+   <td><p>Prenumerera igen: En Sales Connect-administratör tog manuellt bort prenumerationen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Källa</strong></td> 
@@ -75,4 +75,4 @@ Med historikkortet för att avbryta prenumerationen kan administratörer och anv
 
 >[!MORELIKETHIS]
 >
->[Anpassa meddelande om att avbryta prenumeration på länk](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+>[Anpassa länkmeddelande för att avbryta prenumeration](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)

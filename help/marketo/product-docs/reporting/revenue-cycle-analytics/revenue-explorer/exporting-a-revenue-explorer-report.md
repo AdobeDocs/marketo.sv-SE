@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
 
-1. Klicka på kugghjulsikonen och välj **Exportera** och välja ett filformat.
+1. Klicka på kugghjulsikonen, välj **Exportera** och välj ett filformat.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
    >* Excel
    >* CSV
 
-1. Markera önskat **Sidformat** och **Orientering** och klicka **Exportera**.
+1. Välj önskat **sidformat** och **orientering** och klicka på **Exportera**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Du kan exportera alla intäktsutforskarrapporter och dela dem med vem som helst.
 
 >[!MORELIKETHIS]
 >
->[Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Prenumerera på en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

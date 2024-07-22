@@ -17,13 +17,13 @@ Det är enkelt att navigera i marknadsföringskalendern. Så här gör du.
 
 >[!PREREQUISITES]
 >
->Se till att du har en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - annars visas inte Marketing Calendar-panelen i My Marketo.
+>Kontrollera att du har en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - annars visas inte marknadsföringskalenderrutan i Min Marketo.
 
 >[!NOTE]
 >
 >Återkommande smarta kampanjer stöds inte i marknadsföringskalendern.
 
-1. Gå till **Marknadsföringskalender**.
+1. Gå till **marknadsföringskalendern**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ Det är enkelt att navigera i marknadsföringskalendern. Så här gör du.
 
 ## Ändra mellan lägen {#change-between-modes}
 
-1. Klicka på **[!UICONTROL 3 weeks]** eller **[!UICONTROL Month]** för att växla mellan lägen.
+1. Klicka på flikarna **[!UICONTROL 3 weeks]** eller **[!UICONTROL Month]** för att växla mellan lägena.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ Det är enkelt att navigera i marknadsföringskalendern. Så här gör du.
 
 I dagordningsvyn visas alla dina bidrag som en lista.
 
-1. Klicka på **[!UICONTROL Filter]** nedrullningsbar meny.
+1. Klicka på listrutan **[!UICONTROL Filter]**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Välj **[!UICONTROL Agenda]** vy.
+1. Välj vyn **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -71,4 +71,4 @@ Häftig! Det här är grunderna. Du kan också anpassa vyn med hjälp av filter.
 
 >[!MORELIKETHIS]
 >
->[Filtrera marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[Filtrerar marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

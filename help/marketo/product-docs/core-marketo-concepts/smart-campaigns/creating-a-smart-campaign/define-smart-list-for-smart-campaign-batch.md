@@ -29,11 +29,11 @@ Smarta listor är en mekanism i hela Marketo Engage som definierar vem (vilka pe
 
    >[!NOTE]
    >
-   >En smart kampanj med bara filter körs i _Grupp_ läge. Den hittar personer i databasen som är kvalificerade baserat på filtren och kör alla via flödet samtidigt.
+   >En smart kampanj med bara filter körs i läget _Gruppera_. Den hittar personer i databasen som är kvalificerade baserat på filtren och kör alla via flödet samtidigt.
 
    >[!NOTE]
    >
-   >Du kan få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare, vilket gör att den smarta kampanjen _Utlösare_ läge.
+   >Du kan få en smart kampanj att köras på en person i taget baserat på live-händelser genom att lägga till utlösare, vilket innebär att den smarta kampanjen är i _utlösarläget_.
 
 1. Klicka på listrutan och välj en filteroperator för det filter du valt.
 
@@ -49,11 +49,11 @@ Smarta listor är en mekanism i hela Marketo Engage som definierar vem (vilka pe
 
    >[!NOTE]
    >
-   >Som standard är personer som uppfyller alla smarta listregler kvalificerade. Detta kan ändras för att passa era kampanjbehov. Checka ut  [Smart List-regler för komplex logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} om du vill veta mer.
+   >Som standard är personer som uppfyller alla smarta listregler kvalificerade. Detta kan ändras för att passa era kampanjbehov. Ta en titt på [Smart List-regler för komplex Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} om du vill veta mer.
 
-   Lär dig hur du aktiverar live-händelser för en person i taget [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   Lär dig hur du [Definiera smart lista för smart Campaign om du vill aktivera en person i taget för live-händelser | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

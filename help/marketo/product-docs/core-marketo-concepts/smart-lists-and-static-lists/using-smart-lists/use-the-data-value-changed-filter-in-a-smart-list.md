@@ -19,20 +19,20 @@ Värdena ändras ständigt och uppdateras i din Marketo-databas. I stället för
 >
 >[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Gå till **[!UICONTROL Marketing Activities]** område.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Markera den smarta listan och klicka på **[!UICONTROL Smart List]** -fliken.
+1. Markera den smarta listan och klicka på fliken **[!UICONTROL Smart List]**.
 
    ![](assets/two-1.png)
 
-1. Hitta **[!UICONTROL Data Value Changed]** filtrera och dra den till arbetsytan.
+1. Hitta filtret **[!UICONTROL Data Value Changed]** och dra det till arbetsytan.
 
    ![](assets/three-1.png)
 
-1. Ange **[!UICONTROL Attribute]** till det fält där du vill söka efter datavärdesändringar.
+1. Ange **[!UICONTROL Attribute]** till fältet som du vill söka efter datavärdesändringar för.
 
    ![](assets/four.png)
 
-Det här filtret söker efter alla personer som har ändrat status. Om du vill bli ännu mer fancier, försök [lägga till en begränsning i ett Smart List-filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Det här filtret söker efter alla personer som har ändrat status. Om du vill få en ännu större fancier kan du försöka med att [lägga till en begränsning i ett Smart List-filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

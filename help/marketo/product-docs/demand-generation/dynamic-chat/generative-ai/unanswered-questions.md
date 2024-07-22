@@ -18,11 +18,11 @@ Se alla frågor som chattbot inte kunde besvara och/eller de som besökare som m
 >
 >Listan med obesvarade frågor uppdateras automatiskt var 24:e timme vid midnatt PST.
 
-1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
+1. Klicka på **[!UICONTROL Assisted responses]** under Generativ AI.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klicka på **[!UICONTROL Unanswered questions]** -fliken.
+1. Klicka på fliken **[!UICONTROL Unanswered questions]**.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ Se alla frågor som chattbot inte kunde besvara och/eller de som besökare som m
 
    ![](assets/unanswered-questions-3.png)
 
-1. Ange ditt svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **[!UICONTROL Save]** när det är klart.
+1. Ange ditt svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/unanswered-questions-4.png)
 

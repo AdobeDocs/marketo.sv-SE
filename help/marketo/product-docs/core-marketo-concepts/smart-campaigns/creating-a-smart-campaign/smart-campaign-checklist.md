@@ -17,7 +17,7 @@ Följ stegen nedan för att se till att den smarta kampanjen körs på ett smidi
 
 ## Ta bort fel i smarta listor {#get-rid-of-smart-list-errors}
 
-Klicka på **[!UICONTROL Smart List]**. Ta bort röda, blanka linjer som du ser genom att åtgärda felen.
+Klicka på **[!UICONTROL Smart List]** i din smarta kampanj. Ta bort röda, blanka linjer som du ser genom att åtgärda felen.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ Klicka på **[!UICONTROL Smart List]**. Ta bort röda, blanka linjer som du ser 
 
 >[!NOTE]
 >
->Använda **[!UICONTROL Member of Smart List]** kan innehålla fel i den andra listan. Kolla där också.
+>Om du använder **[!UICONTROL Member of Smart List]** kan det finnas fel i den andra listan. Kolla där också.
 
 ## Hämta RID för flödesfel {#get-rid-of-flow-errors}
 
-I din smarta kampanj klickar du på **[!UICONTROL Flow]**. Ta bort röda, blanka linjer genom att åtgärda felen.
+Klicka på **[!UICONTROL Flow]** i din smarta kampanj. Ta bort röda, blanka linjer genom att åtgärda felen.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,24 +43,24 @@ I din smarta kampanj klickar du på **[!UICONTROL Flow]**. Ta bort röda, blanka
 
 ## Granska fliken Schema {#review-the-schedule-tab}
 
-I **[!UICONTROL Schedule]** flik, kontrollera **[!UICONTROL Smart List Status]** om det finns fel i den smarta kampanjen som behöver åtgärdas.
+På fliken **[!UICONTROL Schedule]** kontrollerar du om det finns fel i den smarta kampanjen som behöver åtgärdas i **[!UICONTROL Smart List Status]**.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Gräns för begränsning av personbegränsningar {#check-person-restrictions-limit}
 
-I **[!UICONTROL Schedule]** se till att antalet kvalificerade personer inte överstiger personbegränsningen.
+På fliken **[!UICONTROL Schedule]** kontrollerar du att antalet kvalificerade personer inte överstiger personbegränsningen.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Om det behövs kan du [Åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Om det behövs kan du [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Påminnelse**
 >
->Om din smarta kampanj fortfarande inte fungerar, lär du dig hur [förstå meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) för att ta reda på vad som gick fel och hur man åtgärdar det.
+>Om din smarta kampanj fortfarande inte fungerar kan du lära dig hur du [förstår meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) för att ta reda på vad som gick fel och hur du åtgärdar det.
 
 Snyggt jobb! Ha checklistan till hands innan du kör en smart kampanj.

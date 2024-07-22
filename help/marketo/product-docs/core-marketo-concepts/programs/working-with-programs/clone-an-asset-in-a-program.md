@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Klona en resurs i ett program {#clone-an-asset-in-a-program}
 
-Klona ett program-kloner _allt_. Ibland vill du bara klona en resurs. Så här gör du.
+Klonar ett program klonar _allt_. Ibland vill du bara klona en resurs. Så här gör du.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Klona ett program-kloner _allt_. Ibland vill du bara klona en resurs. Så här g
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Varje typ av resurs har en egen dialogruta. Fyll i informationen och klicka **[!UICONTROL Clone]**.
+1. Varje typ av resurs har en egen dialogruta. Fyll i informationen och klicka på **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Du kan också klona en resurs till ett annat program. Använd **[!UICONTROL Program]** för att göra ditt val.
+   >Du kan också klona en resurs till ett annat program. Använd listrutan **[!UICONTROL Program]** för att göra ditt val.
 
 1. Bra! Du bör nu se den nya klonade resursen.
 

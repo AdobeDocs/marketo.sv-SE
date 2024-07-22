@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Vem loggar in på vårt konto?
 
 ## Vad vi granskar {#what-we-audit}
 
-Marketo granskar [skapa, redigera och ta bort](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) åtgärder för:
+Marketo granskar åtgärderna [Skapa, redigera och ta bort](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) för:
 
 * Designstudiematerial
 * Alla Marketo-program
@@ -41,12 +41,12 @@ Marketo granskar [skapa, redigera och ta bort](/help/marketo/product-docs/admini
 * Listor (smart/statisk)
 * Användare (admin)
 * Roller och behörigheter (administratör)
-* Arbetsyta och partitioner (admin)
+* Workspace och partitioner (admin)
 * Användarinloggningshistorik
 
 >[!NOTE]
 >
->Marketo är _not_ granska ändringar som gjorts i Webbpersonalisering, Predictive Content eller Sales Insight just nu.
+>Marketo granskar _inte_ ändringar som gjorts i Web Personalization, Predictive Content eller Sales Insight just nu.
 
 ## Granskningsspårskomponenter {#audit-trail-components}
 
@@ -56,17 +56,17 @@ Granskningsspåret består av tre komponenter.
 
 Se aktivitet för specifika resurser.
 
-**2) [Granskningsspår för administratör](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**2) [Admin - Granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Övervaka användarbaserad information.
 
 **3) [Historik för användarinloggning](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Se vilka som loggat in på prenumerationen och när. Inkluderar även misslyckade inloggningsförsök.
+Se vilka som loggat in på prenumerationen och när. Dessutom ingår misslyckade inloggningsförsök.
 
 >[!TIP]
 >
->Det finns så mycket du kan granska med hjälp av granskningsspår, se till att använda [Filtrering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Det finns så mycket du kan granska med granskningsspår att du måste använda [Filtrering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Exporterar data {#exporting-data}
 
@@ -78,7 +78,7 @@ Du kan bara visa 30 dagars data i din instans. Använd exportalternativet för a
 >
 >**Definition**
 >
->**Okänd:** I [!DNL Webhook]kan du se en användares namn och e-postadress som är &quot;Okänd&quot;. Det här inträffar när du ändrar värdena i din plocklista i CRM. Dessa värden visas i Marketo-formulär och på landningssidor. Om du gör den här uppdateringen på CRM-sidan läggs dina landningssidor automatiskt till som refererar till formuläret. I [!DNL Webhook]kommer vi att fånga upp att landningssidan har skrivits, men användarens namn och e-postadress kommer att visas som&quot;Okänd&quot; eftersom vi inte kan hämta användarinformation från CRM-sidan.
+>**Okänd:** I [!DNL Webhook] kan du se en användares namn och e-postadress listade som&quot;Okänd&quot;. Det här inträffar när du ändrar värdena i din plocklista i CRM. Dessa värden visas i Marketo-formulär och på landningssidor. Om du gör den här uppdateringen på CRM-sidan läggs dina landningssidor automatiskt till som refererar till formuläret. I [!DNL Webhook] kommer vi att ta reda på att landningssidan har skrivits, men användarens namn och e-postadress visas som&quot;Okänd&quot; eftersom vi inte kan hämta användarinformationen från CRM-sidan.
 
 >[!MORELIKETHIS]
 >

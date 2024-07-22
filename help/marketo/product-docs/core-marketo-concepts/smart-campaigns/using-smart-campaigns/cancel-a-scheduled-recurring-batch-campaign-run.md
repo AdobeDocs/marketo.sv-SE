@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta framtida körningar. Så här gör du.
 
-1. Välj Smart Campaign och klicka på **Schema** -fliken.
+1. Markera den smarta kampanjen och klicka på fliken **Schema**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klicka **Schemalägg upprepning**.
+1. Klicka på **Schemalägg upprepning**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Du kan avbryta en enskild körning genom att klicka på ![röd x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) bredvid den. Lär dig hur [avbryta en schemalagd batchkampanjkörning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >Du kan avbryta en enskild körning genom att klicka på den ![röda x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) bredvid den. Lär dig hur du [avbryter en schemalagd batchkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Ange schema till **[!UICONTROL None]** och klicka **[!UICONTROL Save]**.
+1. Ange schemat till **[!UICONTROL None]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ Om du har en återkommande batchkampanj som du inte vill ha mer kan du avbryta f
 
    >[!MORELIKETHIS]
    >
-   >[Avbryt en schemalagd batchkampanjkörning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[Avbryt en schemalagd gruppkampanjkörning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

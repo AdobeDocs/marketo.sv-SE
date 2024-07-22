@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Rapportering är tillgängligt på dialognivå, kontrollera det övergripande engagemanget med hjälp av de tre instrumentpanelerna nedan.
 
-Åtkomst till varje instrumentpanel under **Analyser** till vänster om navigeringen.
+Gå till varje instrumentpanel under **Analytics** i den vänstra navigeringen.
 
 ![](assets/analytics-1.png)
 
@@ -55,7 +55,7 @@ Visa dialogrutor, konversationsflöden eller alla. Välj en förinställning ell
 <tbody>
   <tr>
     <td style="width:25%"><b>Slutförd</b></td>
-    <td>En slutförd händelse inträffar när en besökare kommer till den sista uppmaningen i en konversation <i>eller</i> när en besökare har fyllt i allt innehåll i en konversation.
+    <td>En slutförd händelse inträffar när en besökare kommer till den sista uppmaningen i en konversation <i> eller</i> när en besökare slutför allt innehåll i en konversation.
     <br>En slutförd händelse per besökare, per session.</td>
   </tr>
   <tr>

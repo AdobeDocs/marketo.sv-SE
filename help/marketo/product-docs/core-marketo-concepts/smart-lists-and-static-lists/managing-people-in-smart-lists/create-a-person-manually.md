@@ -23,7 +23,7 @@ Det finns många sätt att få in en person i Marketo Engage. Så här skapar du
 
    ![](assets/db-1.png)
 
-1. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Person]**.
+1. Klicka på **[!UICONTROL New Person]** under **[!UICONTROL New]**.
 
    ![](assets/two-2.png)
 

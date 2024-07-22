@@ -21,7 +21,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 >
 >Salesforce och Sales Connect måste vara anslutna.
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
    ![](assets/two-2.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
    ![](assets/four-1.png)
 
-1. Klicka på **Salesforce API** -fliken. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka **Spara** när det är klart.
+1. Klicka på fliken **Salesforce API**. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
 **Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-3.png)
 
@@ -59,11 +59,11 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
    ![](assets/two-3.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **E-post till Salesforce (BCC)** och klicka **Aktivera**.
+1. Klicka på fliken **E-post till Salesforce (BCC)** och klicka på **Aktivera**.
 
    ![](assets/six-2.png)
 
@@ -76,9 +76,9 @@ Om din e-postadress till Salesforce inte kommer in av någon anledning, följer 
 1. Välj **Min e-post till Salesforce**.
 1. På den här sidan visas ett fält med namnet&quot;E-post till Salesforce-adress&quot;. Om inget fylls i bredvid det bläddrar du nedåt till&quot;Mina godkända e-postadresser&quot;.
 1. Ange den eller de e-postadresser som du vill ska kopieras.
-1. Klicka **Spara ändringar**.
+1. Klicka på **Spara ändringar**.
 
-**Det går inte att hitta min e-post till Salesforce i Mina inställningar**
+**Kan inte hitta min e-post till Salesforce i Mina inställningar**
 
 Om du inte ser Min e-post till Salesforce under dina inställningar har administratören kanske inte aktiverat den. Det här kan hända om ditt team inte har använt Salesforce tidigare, eller om ditt team aldrig har använt den BCC-adress som Salesforce erbjuder.
 
@@ -86,12 +86,12 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka **Inställningar**.
-1. Klicka **E-postadministration**.
-1. Klicka **E-post till Salesforce**.
-1. Klicka **Redigera**.
+1. Klicka på **Konfigurera**.
+1. Klicka på **E-postadministration**.
+1. Klicka på **Skicka e-post till Salesforce**.
+1. Klicka på **Redigera**.
 1. Markera rutan bredvid&quot;Aktiv&quot;.
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 ## Synkronisera aktiviteter/påminnelser för Sales Connect till Salesforce-aktiviteter {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
@@ -103,7 +103,7 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 
    ![](assets/two-2.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/three-1.png)
 

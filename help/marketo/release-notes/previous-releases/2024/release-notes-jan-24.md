@@ -20,7 +20,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från 24 januari. Se
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **12 januari 2024**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **12 januari 2024**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -30,7 +30,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>On Demand Webinars för interaktiva webbinarier</strong>: On-Demand Webinars gör att du kan publicera webbinariet och spåra dess besök/bevakningar. Detta hjälper dig att få fler leads genom registranter som inte deltar i webbinariet (ej showen) men som fortfarande är intresserade av att ta reda på mer och visa inspelningen.</td> 
+   <td><strong>On-Demand-webbinarier för interaktiva webbinarier</strong>: Med On-Demand-webbinarier kan du publicera webbinariet och spåra dess besök/bevakningar. Detta hjälper dig att få fler leads genom registranter som inte deltar i webbinariet (ej showen) men som fortfarande är intresserade av att ta reda på mer och visa inspelningen.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-webbinarier</a></td>
   </tr>
@@ -40,7 +40,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Conversational Landing Pages</strong>: Bädda in ett konversationsflöde i Dynamic Chat direkt på en landningssida i Marketo Engage så att besökarna kan schemalägga ett möte via Dynamic Chat utan att behöva fylla i ett formulär eller interagera med en chattbot.</td> 
+   <td><strong>Conversational Landing Pages</strong>: Bädda in ett konversationsflöde i Dynamic Chat direkt på en landningssida för Marketo Engage så att besökarna kan schemalägga ett möte via Dynamic Chat utan att behöva fylla i ett formulär eller interagera med en chattbot.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -50,7 +50,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Filtrerar e-postsatsaktivitet</strong>: Förbättrar hämtning av robotaktiviteter för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotaktivitet ska vara.</td> 
+   <td><strong>Filtrerar startaktivitet för e-post</strong>: Förbättrar hämtning av startaktivitet för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotidentifiering ska vara.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrerar e-postsatsaktivitet</a></td>
   </tr>
@@ -60,7 +60,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
    </tr>
     <tr> 
-   <td><strong>API-uppdatering för massimport av leads</strong>: En mindre justering har gjorts av beteendet för API:t för import av gruppleads när <b>id</b> anges som <b>lookupField</b> när jobb skapades. Om en personpost är länkad till den angivna <b>id</b> finns inte i Marketo Engage-databasen, ingen postuppdatering kommer att ske eftersom posten inte kan hittas. Det uppdaterade beteendet innebär nu att antalet ökar i <b>numOfRowsFailed</b> -egenskapen i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
+   <td><strong>API-uppdatering för massradsimport</strong>: En mindre justering har gjorts av beteendet för API:t för massradsimport när <b>id</b> anges som <b>lookupField</b> när jobb skapas. Om en personpost som är länkad till angivet <b>id</b> inte hittas i Marketo Engage-databasen, kommer ingen postuppdatering att ske eftersom posten inte kan hittas. Det uppdaterade beteendet inkluderar nu ökning av antalet i egenskapen <b>numOfRowsFailed</b> i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td> 
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -70,7 +70,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <td> </td>
    </tr>
   <tr> 
-   <td><strong>Deltagare i interaktiva webbinarier</strong>: Deltagare i Webinar Team-sektionen i Interactive Webinars gör det möjligt för den som skapat evenemanget att lägga till interna eller externa användare i Interactive Webinars-programmet för att dela administrativa och leveransrelaterade ansvarsområden.</td> 
+   <td><strong>Deltagare för interaktiva webbinarier</strong>: Deltagare i teamavsnittet för webbinarier i Interactive Webinars gör det möjligt för den som skapat interaktiva webbinarier att lägga till interna eller externa användare i programmet för interaktiva webbinarier för att dela det administrativa ansvaret och leveransansvaret.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Lägga till ett webbinarium</a></td>
   </tr>
@@ -105,7 +105,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr> 
   </tr>
     <tr> 
-   <td><strong>Utbyggbart dispositionsfönster</strong>: Det oanvända utrymmet komprimeras nu automatiskt i e-postfönstret för disposition, vilket ger mer utrymme i redigeraren. Dessutom kommer fönstret att kunna öppnas och expandera ännu mer, vilket ger användarna så mycket utrymme de behöver för att redigera sina e-postmeddelanden.</td> 
+   <td><strong>Utbyggbart dispositionsfönster</strong>: Dispositionsfönstret komprimerar nu automatiskt oanvänt utrymme, vilket ger mer utrymme i redigeraren. Dessutom kommer fönstret att kunna öppnas och expandera ännu mer, vilket ger användarna så mycket utrymme de behöver för att redigera sina e-postmeddelanden.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -137,7 +137,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    </tr>
     <tr> 
-   <td><strong>Alternativ för Chatbot-teckensnittsfärg</strong>: Anpassa teckensnittsfärger i en chattbot-konfiguration.</td> 
+   <td><strong>Alternativ för teckensnittsfärg för Chatbot</strong>: Anpassa teckensnittsfärger i en chattbot-konfiguration.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -170,7 +170,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     </tr>
     <tr> 
-   <td><strong>Senaste Marketo Engage-aktiviteter i agentinkorgen</strong>: Nyligen utförda Marketo Engage-aktiviteter, t.ex. Öppnad e-post och Ifyllt formulär, visas för leads i agentinkorgen.</td> 
+   <td><strong>Nyligen använda Marketo Engage-aktiviteter i agentinkorgen</strong>: Nyligen använda Marketo Engage-aktiviteter, som Öppen e-post och Fylld från formulär, visas för leads i agentinkorgen.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -180,7 +180,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Villkorlig förgrening</strong>: Nu kan du visa besökare olika konversationsinnehåll baserat på fördefinierade villkor, till exempel besökarnas plats eller tillgänglighet som aktiv agent.</td> 
+   <td><strong>Villkorlig förgreningslogik</strong>: Nu kan du visa besökare olika konversationsinnehåll baserat på fördefinierade villkor, till exempel besökarnas plats eller tillgänglighet för live-agent.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -190,12 +190,12 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 ## Meddelanden {#announcements}
 
-* **One-Click List-Unsubscribe Update**: Gmail och Yahoo har implementerat flera nya krav för avsändare som trädde i kraft den 1 februari 2024. Läs [vad de är och hur de påverkar dig](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
+* **En-klicksuppdatering för att avbryta prenumerationen**: Gmail och Yahoo har implementerat flera nya krav för avsändare som trädde i kraft den 1 februari 2024. Lär dig [vad de är och hur de påverkar dig](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Synkronisera lead-API-uppdatering**: [Synkronisera lead-API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Beteendet har justerats något vad gäller uppdateringar av `unsubscribed` fält. Nu när du passerar `null` som värdet är lika med att skicka värdet för `false`.
+* **API-uppdatering för synkronisering av lead**: Beteendet för [API:t för synkronisering av lead](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} har justerats något med avseende på uppdateringar av fältet `unsubscribed`. När du skickar `null` som värde är det nu lika med att skicka värdet `false`.
 
-* **Marketo Engage Forms jQuery 1.x**: I januariversionen 2024 uppdaterar vi jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: I januari 2024-versionen uppdateras jQuery för Marketo Engage Forms till jQuery 3.x. Detta kan påverka implementeringen av anpassade formulär beroende på äldre versioner av jQuery. [Läs mer här](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **E-postverifiering för användare med endast enkel inloggning**: Endast SSO-användare har verifierats automatiskt, vilket gör att de kan använda ett e-postkonto som inte är tillgängligt. Från och med mitten av januari kommer alla befintliga användare med enkel inloggning att bli overifierade och ombeds att verifiera sin e-post via en länk som vi skickar till e-postkontot. Alla nya användare med enkel inloggning behöver bara verifiera sina e-postadresser framöver.
+* **Verifiering via e-post för användare med endast enkel inloggning**: Användare med endast enkel inloggning har verifierats automatiskt, vilket gör att de kan använda ett otillgängligt e-postkonto. Från och med mitten av januari kommer alla befintliga användare med enkel inloggning att bli overifierade och ombeds att verifiera sin e-post via en länk som vi skickar till e-postkontot. Alla nya användare med enkel inloggning behöver bara verifiera sina e-postadresser framöver.
 
-* Titta på [Webbinariet Marketo Engage från januari 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Titta på webbinariet [Marketo Engage från januari 2024 ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

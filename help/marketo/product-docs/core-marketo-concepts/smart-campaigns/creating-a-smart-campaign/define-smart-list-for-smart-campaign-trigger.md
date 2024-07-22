@@ -19,7 +19,7 @@ Låt en Smart Campaign köras på en person i taget baserat på live-händelser 
 >
 >Om du redigerar Smart List eller Flow Step i en aktiv kampanj kan det eventuellt bryta dess funktion. Om du väljer att göra det ska du vara försiktig.
 
-1. I din smarta kampanj klickar du på **[!UICONTROL Smart List]** -fliken.
+1. Klicka på fliken **[!UICONTROL Smart List]** i din smarta kampanj.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Låt en Smart Campaign köras på en person i taget baserat på live-händelser 
 
    >[!NOTE]
    >
-   >En smart kampanj med utlösare körs i _Utlösare_ läge. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
+   >En smart kampanj med utlösare körs i läget _Utlösare_. Den körs på en person i taget baserat på händelser som utlösts och eventuella ytterligare filter.
 
    >[!IMPORTANT]
    >
@@ -53,9 +53,9 @@ Låt en Smart Campaign köras på en person i taget baserat på live-händelser 
 
    >[!NOTE]
    >
-   >Med flera utlösare går en person igenom flödet om _VALFRITT_ en av utlösarna aktiveras.
+   >Med flera utlösare går en person igenom flödet om _ANY_ någon av utlösarna aktiveras.
 
-Lär dig hur man kör kampanjen på en uppsättning personer samtidigt [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

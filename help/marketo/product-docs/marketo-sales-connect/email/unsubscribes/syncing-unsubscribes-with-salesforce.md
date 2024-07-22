@@ -6,7 +6,7 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 ## Krav för att avbryta prenumerationen på Synkronisera med Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Synkronisering av avbruten prenumeration måste vara aktiverat (för nightly sync)
-* Fältet Avanmäl dig måste vara installerat i Salesforce
+* Fältet för avanmälan måste vara installerat i Salesforce
 * Personposter i Sales Connect måste ha ett Salesforce-ID
 
 **Push Unsubscribe**
@@ -25,13 +25,13 @@ När en avanmälan samlas in i Sales Connect skickar vi den till Salesforce i re
 
 **Avbeställ synkronisering**
 
-När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avbeställningar i Marketo Sales med fältet Avanmäl i Salesforce.
+När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avbeställningar i Marketo Sales med fältet Avanmäl dig i Salesforce.
 
 ## Konfigurera Synkronisera för att avbryta prenumeration för Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
 Användare kan bestämma sig för om de vill synkronisera sin avanmälan med standardfältet för avanmälan via e-post som Marketo också kan synkronisera med, eller så kan de synkronisera med fältet för avanmälan från Marketo så att avanmälan från försäljning och avanmälan från marknadsföring kan differentieras.
 
-1. Gå till [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen och välj **Inställningar**.
+1. Gå till [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen och välj **Inställningar**.
 
    ![](assets/one-1.png)
 
@@ -39,7 +39,7 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    ![](assets/two-2.png)
 
-1. Klicka **Synkroniserar med Salesforce** aktiverar du sedan nattsynkroniseringen.
+1. Klicka på **Synkronisering till Salesforce** och aktivera sedan nattsynkronisering.
 
    ![](assets/three-2.png)
 
@@ -49,8 +49,8 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    | Fält | Beskrivning |
    |---|---|
-   | **Synkronisera med Salesforce-alternativfält** | Markerat som standard uppdaterar bara Salesforce-alternativfältet. |
-   | **Synkronisera med fältet för Marketo-avanmälan** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [Marketo förs.avanmäl dig.](#msoo) |
+   | **Synkronisera med Salesforce-fältet för avanmälan** | Markerat som standard uppdaterar bara Salesforce-alternativfältet. |
+   | **Synkronisera med fältet för avanmälan för Marketo-försäljning** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [avanmälningsfält för Marketo.](#msoo) |
 
 ## Installera avanmälningsfältet i sidlayouten {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -86,7 +86,7 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
    ![](assets/11.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/twelve.png)
 

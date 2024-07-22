@@ -6,8 +6,8 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 1%
+source-wordcount: '342'
+ht-degree: 0%
 
 ---
 
@@ -45,7 +45,7 @@ När e-postmeddelandet har skickats visar kortet annan värdefull information, i
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tryck **[!UICONTROL Confirm]** för att slutföra jobbet, eller **[!UICONTROL Never Mind]** om du haft andra tankar.
+1. Tryck på **[!UICONTROL Confirm]** för att slutföra jobbet eller **[!UICONTROL Never Mind]** om du hade andra tankar.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -115,6 +115,6 @@ Högerklicka på ett e-postkort för att förhandsgranska det.
 
 >[!MORELIKETHIS]
 >
->* [Förstå Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Förstå Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Förstå analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

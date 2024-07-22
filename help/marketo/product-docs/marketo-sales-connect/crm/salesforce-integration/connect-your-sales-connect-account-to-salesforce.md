@@ -17,19 +17,19 @@ Följ de här enkla stegen för att ansluta Sales Connect till Salesforce.
 
 ## Ansluta som administratör {#how-to-connect-as-an-admin}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/six.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Anslut**.
+1. Klicka på **Anslut** på fliken Anslutningar och anpassningar.
 
    ![](assets/seven.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/four.png)
 
@@ -37,19 +37,19 @@ Följ de här enkla stegen för att ansluta Sales Connect till Salesforce.
 
 ## Ansluta som icke-administratör {#how-to-connect-as-a-non-admin}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
 
    ![](assets/one.png)
 
-1. Under Mitt konto väljer du **Salesforce**.
+1. Välj **Salesforce** under Mitt konto.
 
    ![](assets/two.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Anslut**.
+1. Klicka på **Anslut** på fliken Anslutningar och anpassningar.
 
    ![](assets/three.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/four.png)
 

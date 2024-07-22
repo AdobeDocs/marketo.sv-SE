@@ -23,11 +23,11 @@ Rektanglar på landningssidor passar bra för att markera ett textområde.
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över **Rektangel** -element.
+1. Dra över elementet **Rectangle**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Markera rektangeln och använd **Egenskapssida** för att göra de ändringar som behövs.
+1. Markera rektangeln och använd **egenskapssidan** för att göra nödvändiga ändringar.
 
    >[!TIP]
    >

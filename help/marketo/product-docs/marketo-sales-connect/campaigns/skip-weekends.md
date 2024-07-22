@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddelanden ska skickas ut på en lördag eller söndag. Annars kan du hoppa över helger.
 
-1. I Sales Connect klickar du på **Kampanjer** -fliken.
+1. Klicka på fliken **Kampanjer** i Sales Connect.
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddela
 
    ![](assets/two-2.png)
 
-1. Klicka **Inställningar**.
+1. Klicka på **Inställningar**.
 
    ![](assets/three-2.png)
 
-1. Välj **Hoppa över helger** kryssrutan.
+1. Markera kryssrutan **Hoppa över helger**.
 
    ![](assets/four-2.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Redigera inställningar för analysbeteende {#edit-analytics-behavior-settings}
 
-Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, men du kan även redigera det på programnivå. Så här gör du.
+Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, men du kan även redigera det på programnivå. Så här gör du.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
@@ -23,7 +23,7 @@ Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. I **[!UICONTROL Setup]** tabb, dra [!UICONTROL Analytics Behavior] på arbetsytan.
+1. Dra [!UICONTROL Analytics Behavior] till arbetsytan på fliken **[!UICONTROL Setup]**.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ Du kan ange [analysbeteende på adminnivå i kanaler](/help/marketo/product-docs
 >
 >**Definition**
 >
->**[!UICONTROL Inclusive]** - Det här alternativet säkerställer att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
+>**[!UICONTROL Inclusive]** - Det här alternativet ser till att programmet är tillgängligt för rapportering i intäktsutforskaren och analytiker oavsett om du har inkluderat en periodkostnad eller inte.
 >
->**[!UICONTROL Operational]** - Det här alternativet innebär att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
+>**[!UICONTROL Operational]** - Det här alternativet gör att programmet inte visas i någon av intäktsutforskarna eller analysatorerna.
 
 >[!NOTE]
 >

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Följ de här stegen för att skapa ett namngivet konto manuellt.
 
-1. I Namngivna konton klickar du på **Nytt** nedrullningsbar meny och välj **Skapa namngivet konto**.
+1. Klicka på listrutan **Nytt** i Namngivna konton och välj **Skapa namngivet konto**.
 
    ![](assets/two-1.png)
 
-1. Fyll i önskade fält och klicka **Skapa**.
+1. Fyll i önskade fält och klicka på **Skapa**.
 
    ![](assets/three-1.png)
 
@@ -29,4 +29,4 @@ Följ de här stegen för att skapa ett namngivet konto manuellt.
 
 >[!MORELIKETHIS]
 >
->[Lägg till personer till ett namngivet konto](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[Lägg till personer i ett namngivet konto](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

@@ -29,7 +29,7 @@ Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att ut
 
 1. Öppna ett nytt webbläsarfönster om du vill hämta inloggningsuppgifterna för Marketo Sales Insight från ditt Marketo-konto.
 
-1. Gå till **[!UICONTROL Admin]** område och markera **[!UICONTROL Sales Insight]**.
+1. Gå till området **[!UICONTROL Admin]** och välj **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -37,7 +37,7 @@ Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att ut
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
-1. Ange en API-hemlig nyckel som du väljer och klicka på **[!UICONTROL Save]**. Använd INTE ett et-tecken (`&`) i API:ts hemliga nyckel.
+1. Ange en API-hemlig nyckel som du väljer och klicka på **[!UICONTROL Save]**. Använd INTE ett et-tecken (`&`) i API-hemlig nyckel.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3-1.png)
 
@@ -45,7 +45,7 @@ Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att ut
    >
    >Den hemliga API-nyckeln är som ett lösenord för din organisation och bör vara säker.
 
-1. Om du vill fylla i inloggningsuppgifterna klickar du **[!UICONTROL View]** i _[!UICONTROL Rest API Configuration]_-panelen.
+1. Om du vill fylla i inloggningsuppgifterna klickar du på **[!UICONTROL View]** på panelen _[!UICONTROL Rest API Configuration]_.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
@@ -55,11 +55,11 @@ Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att ut
 
 ## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
 
-1. I Salesforce klickar du på **[!UICONTROL Setup]**.
+1. Klicka på **[!UICONTROL Setup]** i Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Sök efter&quot;fjärrwebbplats&quot; och välj **[!UICONTROL Remote Site Settings]**.
+1. Sök efter fjärrplats och välj **[!UICONTROL Remote Site Settings]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
@@ -67,11 +67,11 @@ Konfigurera Marketo Sales Insight i Salesforce Professional Edition genom att ut
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Ange namnet på fjärrplatsen (det kan likna `MarketoSoapAPI`). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från konfigurationspanelen för Soap API i Marketo Engage. Klicka på **[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoSoapAPI`). Ange URL för fjärrplatsen, som är din Marketo-värd-URL från konfigurationspanelen för Soap API i Marketo Engage. Klicka på **[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
-1. Klicka **[!UICONTROL New Remote Site]** igen.
+1. Klicka på **[!UICONTROL New Remote Site]** igen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
@@ -85,7 +85,7 @@ På grund av säkerhetsförbättringarna i Salesforce kan AppExchangar inte län
 
 1. Sök efter profiler i Snabbsökning.
 
-1. Klicka **[!UICONTROL Edit]** bredvid profilen som dina Salesforce-användare använder.
+1. Klicka på **[!UICONTROL Edit]** bredvid profilen som dina Salesforce-användare använder.
 
 1. Aktivera läsåtkomst för följande objekt under avsnittet Standardobjektbehörighet: Lead, Kontakt, Konto och Möjlighet.
 
@@ -97,19 +97,19 @@ På grund av säkerhetsförbättringarna i Salesforce kan AppExchangar inte län
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Sök efter&quot;sidlayout&quot; och välj **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
+1. Sök efter sidlayout och välj **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Klicka **[!UICONTROL Visualforce Pages]** till vänster. Dra **[!UICONTROL Section]** till layouten under Anpassade länkar.
+1. Klicka på **[!UICONTROL Visualforce Pages]** till vänster. Dra **[!UICONTROL Section]** till layouten under avsnittet Anpassade länkar.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Ange&quot;Marketo Sales Insight&quot; som **[!UICONTROL Section Name]**. Välj **[!UICONTROL 1-Column]** och klicka **[!UICONTROL OK]**.
+1. Ange&quot;Marketo Sales Insight&quot; som **[!UICONTROL Section Name]**. Markera **[!UICONTROL 1-Column]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Dra och släpp **Lead** till det nya avsnittet.
+1. Dra och släpp **Lead** i det nya avsnittet.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -117,23 +117,23 @@ På grund av säkerhetsförbättringarna i Salesforce kan AppExchangar inte län
    >
    >Namnet på den här rutan ändras baserat på objekttypen. Om du till exempel ändrar sidlayouten för Kontakter visas Kontakt.
 
-1. Dubbelklicka på **[!UICONTROL Lead]** -block som du just har lagt till.
+1. Dubbelklicka på **[!UICONTROL Lead]**-blocket som du nyss lade till.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Redigera höjden till 450 pixlar och klicka **[!UICONTROL OK]**.
+1. Redigera höjden till 450 pixlar och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
    >[!NOTE]
    >
-   >Kontrollera **[!UICONTROL Show scrollbars]** om du behöver tillgång till genomskärningsaktiviteter.
+   >Kontrollera **[!UICONTROL Show scrollbars]** om du behöver åtkomst till genomskärningsaktiviteter.
 
    >[!TIP]
    >
    >Den rekommenderade höjden för objekten Konton och säljprojekt är 410 pixlar.
 
-1. Klicka **[!UICONTROL Fields]** till vänster. Sök och dra sedan **[!UICONTROL Engagement]** etiketten i **[!UICONTROL Marketo Sales Insight]** layout.
+1. Klicka på **[!UICONTROL Fields]** till vänster. Sök och dra sedan etiketten **[!UICONTROL Engagement]** till layouten **[!UICONTROL Marketo Sales Insight]**.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
@@ -147,13 +147,13 @@ På grund av säkerhetsförbättringarna i Salesforce kan AppExchangar inte län
    * [!UICONTROL Last Interesting Moment Source]
    * [!UICONTROL Last Interesting Moment Type]
 
-1. Klicka **[!UICONTROL Save]** när du är klar.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Lägga till Visualforce-sidavsnitt för **[!UICONTROL Contact]**, **[!UICONTROL Account]** och **[!UICONTROL Opportunity]**, upprepa steg 5-7.
+1. Om du vill lägga till Visualforce-sidavsnitt för **[!UICONTROL Contact]**, **[!UICONTROL Account]** och **[!UICONTROL Opportunity]** upprepar du steg 5-7.
 
-1. Upprepa steg 8-10 för att lägga till Sales Insight-fält för **[!UICONTROL Contact]**. Glöm inte att spara efter ändringarna.
+1. Upprepa steg 8-10 för att lägga till fält för Sales Insight för **[!UICONTROL Contact]**. Glöm inte att spara efter ändringarna.
 
 ## Mappa anpassade personfält {#map-custom-person-fields}
 
@@ -193,17 +193,17 @@ Marketo personfält måste mappas till Salesforce-kontaktfält för att konverte
 
    {style="table-layout:auto"}
 
-1. Klicka på **[!UICONTROL Save]**.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
 ## Konfigurationsfliken för Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
-1. Klicka på **+** i slutet av flikfältet och klicka på **[!UICONTROL Marketo Sales Insight Config]**.
+1. Klicka på **+** i slutet av flikfältet i Salesforce och klicka på **[!UICONTROL Marketo Sales Insight Config]**.
 
-1. Kopiera inloggningsuppgifterna från Soap API-panelen i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
+1. Kopiera autentiseringsuppgifterna från Soap API-panelen på [Marketo Sales Insight Admin-sidan](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i Soap API-avsnittet på Salesforce Sales Insight Configuration-sidan.
 
-1. Kopiera inloggningsuppgifterna från **[!UICONTROL Rest API]** panel i [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i delen Rest API på sidan Konfiguration av Salesforce Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen **[!UICONTROL Rest API]** på [Marketo Sales Insight Admin-sidan](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} och klistra in dem i delen Rest API på konfigurationssidan för Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -211,7 +211,7 @@ Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts oc
 
 >[!NOTE]
 >
->Om diagnostestet misslyckades, [lägga till fler fält i sidlayouten](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} kan åtgärda problemet.
+>Om diagnostiktestet misslyckas kan [problemet åtgärdas genom att fler fält läggs till i sidlayouten](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"}.
 
 >[!NOTE]
 >
@@ -219,6 +219,6 @@ Du bör kunna se fälten Marketo Sales Insight för Leads, Contacts, Accounts oc
 
 >[!MORELIKETHIS]
 >
->* [Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
->* [Lägg till fliken Marketo i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
+>* [Prioritet, brådskande, Relativ poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
+>* [Lägg till Marketo-flik i Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
 >* [Lägg till åtkomst till profiler för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

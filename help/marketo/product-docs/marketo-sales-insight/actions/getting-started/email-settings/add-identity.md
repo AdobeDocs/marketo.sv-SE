@@ -22,11 +22,11 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
    ![](assets/add-identity-1.png)
 
-1. Klicka **E-postinställningar**.
+1. Klicka på **E-postinställningar**.
 
    ![](assets/add-identity-2.png)
 
-1. Klicka **Lägg till identitet**.
+1. Klicka på **Lägg till identitet**.
 
    ![](assets/add-identity-3.png)
 
@@ -34,7 +34,7 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
    ![](assets/add-identity-4.png)
 
-1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. Verifiera genom att klicka **Verifiera e-postadress**.
+1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. Verifiera genom att klicka på **Verifiera e-postadress**.
 
    ![](assets/add-identity-5.png)
 

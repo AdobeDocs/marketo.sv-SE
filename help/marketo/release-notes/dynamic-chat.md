@@ -42,25 +42,25 @@ På sidan Användningsbegränsningar visas viktig information, t.ex. paketinform
 
 ### Förgodkänt svarsbibliotek {#pre-approved-response-library}
 
-[Skapa ett marknadsföringsgodkänt bibliotek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} av AI-genererade frågor och svar som hjälper dig att konfigurera generativ AI-chatt på några minuter.
+[Skapa ett marknadsföringsgodkänt bibliotek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} med AI-genererade frågor och svar som hjälper dig att konfigurera generativ AI-chatt på några minuter.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### Obesvarade frågor {#unanswered-questions}
 
-[Använd en databas med obesvarade frågor](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} från tidigare konversationer för att generera nya förgodkända svar och ha ett svarsbibliotek med den senaste informationen.
+[Använd en databas med obesvarade frågor](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} från tidigare konversationer för att generera nya förgodkända svar och underhålla ett svarsbibliotek med den senaste informationen.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### Sammandrag {#conversation-summaries}
 
-[Ge säljarna en sammanfattning av konversationer](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} bland annat insikter om viktiga diskussionsämnen inför möten för att minska förberedelsetiden och ge säljarna bättre information.
+[Ge säljarna sammanfattade konversationer](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} med insikter om viktiga diskussionsämnen före möten för att minska förberedelsetiden och ge säljarna bättre information.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI-säljgenvägar {#genai-sales-shortcuts}
 
-[Förse medarbetarna med chatt på ett snabbare sätt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} för att få tillgång till AI-genererade svar, redigera befintliga genererade svar och söka efter ytterligare innehåll som ska skickas till köpare under konversation.
+[Ge chattagenter snabbare sätt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} att komma åt AI-genererade svar, redigera befintliga genererade svar och söka efter ytterligare innehåll att skicka till köpare under konversation.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -80,13 +80,13 @@ Knuffa webbbesökarna med en uppmaning att agera för att få konversationer att
 
 ### Konversationsflöden är nu tillgängliga för alla användare {#conversational-flows-available-to-all-users}
 
-Gör formulären och landningssidorna mer konvergerande och korta ned säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med säljarna direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla användare av Dynamic Chat.
+Gör formulären och landningssidorna mer konvergerande och korta ned säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med försäljningen direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla Dynamic Chat-användare.
 
-_&#42;Tidigare tillgänglig som utvärderingsfunktion med 100 livstidsåtaganden. Konversationsflödesåtaganden räknas nu in i den månadsvisa gränsen på 250 engagerade konversationer för användare i Select-paketet._
+_&#42;Tidigare tillgänglig som utvärderingsfunktion med 100 livstidsåtaganden. Konversationsflödesåtaganden räknas nu mot månadsgränsen på 250 aktiverade konversationer för användare i Select-paketet._
 
 ### Återanropsfunktioner {#callback-functions}
 
-[Återanropsfunktioner](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kan ni samla in Dynamic Chat analyshändelser i externa system, som Adobe Analytics eller Google Analytics, när besökarna interagerar med Dynamic Chat konversationer. Du aktiverar analyshändelser för Dynamic Chat genom att registrera ett återanrop med API:t för att lyssna på händelserna. På så sätt kan ni få en mer holistisk bild av Dynamic Chat engagemang när det gäller andra nyckeldata, till exempel webbtrafik.
+[Med återanropsfunktionerna](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kan du samla in Dynamic Chat analyshändelser i externa system, som Adobe Analytics eller Google Analytics, när besökarna interagerar med Dynamic Chat-konversationer. Du aktiverar analyshändelser för Dynamic Chat genom att registrera ett återanrop med API:t för att lyssna på händelserna. På så sätt kan ni få en mer holistisk bild av Dynamic Chat engagemang när det gäller andra nyckeldata, till exempel webbtrafik.
 
 ### Tillgänglighetsvillkor för Live-agent har lagts till i villkorlig förgrening {#live-agent-availability-conditional-branching}
 

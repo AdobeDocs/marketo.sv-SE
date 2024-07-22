@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Markera den resurs som du vill ersätta. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Replace image or file]**.
+1. Markera den resurs som du vill ersätta. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Replace image or file]**.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Ersättningsfiltypen måste vara densamma som originalet (t.ex. .jpg)
 
-1. När du har valt ersättningsbilden/filen klickar du på **[!UICONTROL Replace]**.
+1. Klicka på **[!UICONTROL Replace]** när du har markerat ersättningsbilden/ersättningsfilen.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

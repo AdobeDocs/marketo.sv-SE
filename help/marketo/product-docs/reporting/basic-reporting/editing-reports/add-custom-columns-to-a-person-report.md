@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Lägg till anpassade kolumner i en personrapport {#add-custom-columns-to-a-person-report}
 
-Du kan filtrera mätvärdena ytterligare i dina personrapporter med hjälp av [smarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) som anpassade kolumner.
+Du kan filtrera mätvärdena i dina personrapporter ytterligare genom att använda dina [smarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) som anpassade kolumner.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Välj rapporten och klicka på **Inställningar** -fliken.
+1. Markera rapporten och klicka på fliken **Inställningar**.
 
    ![](assets/two-1.png)
 
-1. Dra över **Egna kolumner**.
+1. Dra över **Anpassade kolumner**.
 
    ![](assets/three-1.png)
 
@@ -31,10 +31,10 @@ Du kan filtrera mätvärdena ytterligare i dina personrapporter med hjälp av [s
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Du har gjort det! Klicka på **Rapport** om du vill visa rapporten med de nya kolumnerna.
+1. Du har gjort det! Klicka på fliken **Rapport** om du vill visa rapporten med de nya kolumnerna.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >Du kan också [Lägg till säljprojektskolumner i en lead-rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >Du kan också [lägga till säljprojektskolumner i en lead-rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

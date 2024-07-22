@@ -5,7 +5,7 @@ exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,31 +16,31 @@ Dynamiska fält fungerar bara när du använder en mall. Enskilda e-postmeddelan
 
 ## Vad som ska kontrolleras {#what-to-check}
 
-Det finns tre typer av dynamiska fält i Sales Insight Actions: Basic, Custom och Salesforce. Grundläggande och Anpassad ser båda ut att hämta information från [webbprogram](https://toutapp.com/login){target="_blank"}. If the information does not exist in the web application, the fields will be blank. Salesforce fields pull information from [Salesforce.com](https://salesforce.com){target="_blank"}.
+Det finns tre typer av dynamiska fält i Sales Insight-åtgärder: Basic, Custom och Salesforce. Grundläggande och Anpassad ser båda ut att hämta information från [webbprogrammet](https://toutapp.com/login){target="_blank"}. Om informationen inte finns i webbprogrammet är fälten tomma. Salesforce-fält hämtar information från [Salesforce.com](https://salesforce.com){target="_blank"}.
 
-**Felsöka Salesforce-fält**
+**Felsökning av Salesforce-fält**
 
 Salesforce-fält: t.ex. `{{sfdc_account_name}}`
 
-* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till [Inställningar](https://toutapp.com/login{target="_blank"} sida och klicka **Hantera** bredvid din CRM.
+* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till sidan [Inställningar](https://toutapp.com/login{target="_blank"}) och klicka på **Hantera** bredvid CRM.
 
-**Felsöka grundläggande och anpassade fält**
+**Felsökning av grundläggande och anpassade fält**
 
-Marketo Sales Insight Actions Basic Fields: t.ex. `{{company}}`
+Marketo Sales Insight Actions Basic Fields: e.g., `{{company}}`
 
 Anpassade fält för Marketo Sales Insight-åtgärder: t.ex. `{{custom_field_favorite_movie}}`
 
-* Motsvarande fält måste sparas för din kontakt i [Personsida](https://toutapp.com/next#relationships){target="_blank"} för att hänvisa till vårt dynamiska fält. Om du till exempel skickar ett e-postmeddelande till Mary och använder `{{company}}` men hennes kontaktpost inte listar ett företag, vi kan inte fylla i det.
+* Motsvarande fält måste sparas för din kontakt på sidan [Personer](https://toutapp.com/next#relationships){target="_blank"} för att det dynamiska fältet ska referera till. Om du till exempel skickar ett e-postmeddelande till Mary och använder fältet `{{company}}`, men hennes kontaktpost inte listar något företag, kommer vi inte att kunna fylla i det.
 
 ## Varför skickade mitt e-postmeddelande utan att fylla i alla dynamiska fält? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Insight Actions förhindrar att e-postmeddelanden skickas ut om vi inte kan fylla i alla dynamiska fält i e-postmeddelandet. **Men**, finns det några undantag från den här regeln. Vissa fält skickas ut tomma eller fyller i ett värde automatiskt om vi kan hitta ett. Dessa fält och hur de kommer att reagera om de inte kan fylla i fältet visas nedan.
+Sales Insight Actions förhindrar att e-postmeddelanden skickas ut om vi inte kan fylla i alla dynamiska fält i e-postmeddelandet. **Men**, det finns några undantag för den här regeln. Vissa fält skickas ut tomma eller fyller i ett värde automatiskt om vi kan hitta ett. Dessa fält och hur de kommer att reagera om de inte kan fylla i fältet visas nedan.
 
-`{{first_name}}` = TOM
+`{{first_name}}` = TOMT
 
 `{{last_name}}` =TOM
 
-`{{title}}` = TOM
+`{{title}}` = TOMT
 
 `{{company}}` = &quot;ditt företag&quot;
 
@@ -48,4 +48,4 @@ Sales Insight Actions förhindrar att e-postmeddelanden skickas ut om vi inte ka
 
 >[!NOTE]
 >
->The `{{first_name}}` ska det finnas både Sales Insight Actions och Salesforce för att försöka hämta information. Alla andra fält i den här listan söker bara i Sales Insight Actions för att fylla i fältet.
+>Fältet `{{first_name}}` kommer att finnas i både Sales Insight Actions och Salesforce för att försöka hämta information. Alla andra fält i den här listan söker bara i Sales Insight Actions för att fylla i fältet.

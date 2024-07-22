@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Ange krav på socialresurs {#set-social-share-requirement}
 
-När du [skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
+När du [skapar ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du kräva att andra delar erbjudandet för att kunna registrera sig eller göra det valfritt.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
-1. Välj hänvisningserbjudandet och klicka på **Redigera utkast**.
+1. Markera hänvisningserbjudandet och klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Gå till **Appinställningar** och sedan **Steg för registreringsflöde**.
+1. Gå till **Appinställningar** och sedan till **Registreringsflödessteg** i den hänvisande erbjudanderedigeraren.
 
    ![](assets/three.png)
 
@@ -31,9 +31,9 @@ När du [skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-gen
 
    ![](assets/four.png)
 
-   * **Personfångst** > **Dela**: Man kan hoppa över delning och bara registrera sig.
-   * **Dela** > **Personfångst**: Personen måste dela för att kunna registrera sig.
+   * **Personhämtning** > **Dela**: Personen kan hoppa över delning och bara registrera sig.
+   * **Dela** > **Personhämtning**: Personen måste dela för att kunna registrera sig.
 
-1. För varje alternativ finns förhandsvisningen i **Visa och redigera** -fönstret.
+1. För varje alternativ, se förhandsvisningen i fönstret **Visa och redigera**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

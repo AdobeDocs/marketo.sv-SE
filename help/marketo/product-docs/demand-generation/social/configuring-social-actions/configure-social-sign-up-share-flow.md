@@ -6,7 +6,7 @@ exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
 ## Välj nätverk för delning {#select-networks-for-sharing}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma-1.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. I redigeraren för sociala appar klickar du på **Registreringsflöde** > **Sociala nätverk**.
+1. Klicka på **Registreringsflöde** > **Sociala nätverk** i redigeraren för sociala appar.
 
    ![](assets/three.png)
 
@@ -47,11 +47,11 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
    >
    >I en videodelning genereras miniatyrbilden automatiskt.
 
-   Om du väljer **Lägg till dynamiskt innehåll**, värdena för sidans **OpenGraph** taggar (log:title, og:caption och og:description) och miniatyrbilden läggs automatiskt till i Facebook-inlägg. Se nästa steg.
+   Om du väljer **Lägg till dynamiskt innehåll** läggs värdena för sidans **OpenGraph** -taggar (log:title, og:caption och og:description) och miniatyrbilden automatiskt till i Facebook-inlägg. Se nästa steg.
 
-   Om du väljer **Lägg till statiskt innehåll**, anger titel, bildtext, beskrivning och överför en bild. Se de två nästa stegen.
+   Om du väljer **Lägg till statiskt innehåll** anger du titeln, bildtexten, beskrivningen och överför en bild. Se de två nästa stegen.
 
-1. I fönstret Visa och redigera klickar du på **Visa redigeringar** och redigera delningsmeddelandet som visas i Facebook-inlägg.
+1. I fönstret Visa och redigera klickar du på **Visa redigeringar** och redigerar delningsprompten och meddelandet som ska visas i Facebook-inlägg.
 
    >[!TIP]
    >
@@ -61,9 +61,9 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
    >[!NOTE]
    >
-   >The [resurs-URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) läggs automatiskt till i alla delningsmeddelanden.
+   >URL:en för [resursen](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) läggs automatiskt till i alla delningsmeddelanden.
 
-1. Om du valde **Lägg till statiskt innehåll** ovan redigerar du titel, bildtext och beskrivning och överför en anpassad bild (från [**Marketo Images and Files**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Om du väljer **Lägg till statiskt innehåll** ovan redigerar du titeln, bildtexten och beskrivningen och överför en anpassad bild (från dina [**Marketo-bilder och filer**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
@@ -73,11 +73,11 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
    >
    >Om du överför en bild visas den inte här förrän du stänger och öppnar redigeraren för sociala appar igen.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
 Om du väljer värden för sidans taggar (log:title, og:caption och og:description) läggs miniatyrbilden automatiskt till i Facebook-inlägg. Se nästa steg.
 
-## Konfigurera Twitter-meddelandet {#configure-the-twitter-message}
+## Konfigurera Twitterna {#configure-the-twitter-message}
 
 1. Redigera delningsprompten och meddelandet som ska visas i Twitter tweets.
 
@@ -85,9 +85,9 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
    >[!TIP]
    >
-   >Använd {html_title} i tweettexten så att sidans rubrik visas automatiskt.
+   >Använd {html_title} i tweettexten för att visa sidans rubrik automatiskt.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
 ## Konfigurera LinkedIn-meddelandet {#configure-the-linkedin-message}
 
@@ -95,19 +95,19 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   Om du väljer **Lägg till dynamiskt innehåll**, läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden automatiskt till i LinkedIn-inlägg. Se nästa steg.
+   Om du väljer **Lägg till dynamiskt innehåll** läggs värdena för sidtaggarna (rubrik och beskrivning) och miniatyrbilden till automatiskt i LinkedIn-inlägg. Se nästa steg.
 
-   Om du väljer **Lägg till statiskt innehåll**, anger titel, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
+   Om du väljer **Lägg till statiskt innehåll** anger du titel, bildtext och beskrivning och överför en bild. Se de två nästa stegen.
 
-1. I **Visa och redigera** fönster, klicka **Visa redigeringar** och redigera delningsmeddelandet som visas i LinkedIn-inlägg.
+1. I fönstret **Visa och redigera** klickar du på **Visa redigeringar** och redigerar delningsprompten och meddelandet som ska visas i LinkedIn-inlägg.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
    >[!TIP]
    >
-   >Använd {html_title} i din inläggstext för att visa sidans titel automatiskt.
+   >Använd {html_title} i din inläggstext för att visa sidans rubrik automatiskt.
 
-1. Om du valde **Lägg till statiskt innehåll** ovan, redigera titel och beskrivning och ladda upp en anpassad bild (från din [**Marketo Images and Files**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Om du väljer **Lägg till statiskt innehåll** ovan redigerar du titeln och beskrivningen och överför en anpassad bild (från dina [**Marketo-bilder och filer**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -117,4 +117,4 @@ Om du väljer värden för sidans taggar (log:title, og:caption och og:descripti
 
 >[!MORELIKETHIS]
 >
->Nu kan du klicka på **Slutför** > **Godkänn och stäng** och lägga din sociala app på en landningssida. Du kan också konfigurera [hämtning från människa](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) eller [fråga om återdelning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).
+>Sedan kan du klicka på **Slutför** > **Godkänn och stäng** och placera din sociala app på en landningssida. Du kan också konfigurera [Personhämtning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) eller uppmaningen [Dela igen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).

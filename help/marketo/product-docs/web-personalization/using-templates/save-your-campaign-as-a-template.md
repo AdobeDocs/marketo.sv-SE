@@ -31,6 +31,6 @@ Har du någonsin ägnat tid åt att skapa den perfekta webbkampanjen? Du kan nu 
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. Så ja! Nästa gång du skapar en kampanj och väljer en mall kan du kontrollera Mina mallar på sidan Ange kampanjer för att se vilka mallar du har sparat.
+1. Så ja! Nästa gång du skapar en kampanj och väljer en mall kan du kontrollera Mina mallar på sidan Ange kampanjer för att se de mallar du har sparat.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Under Administratörsinställningar väljer du **Teamhantering**.
+1. Välj **Teamhantering** under Administratörsinställningar.
 
    ![](assets/two-1.png)
 
-1. Klicka på **+**.
+1. Klicka på **+** bredvid Alla team.
 
    ![](assets/three-1.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Nu kan ni dela mallar, kampanjer och grupper med teamet.
+   >Nu kan ni dela mallar, kampanjer och grupper med det teamet.
 
 ## Lägg till personer i ditt underteam {#add-people-to-your-sub-team}
 
-1. Fortfarande i Teamhantering väljer du **Alla** grupp.
+1. Välj gruppen **Alla** fortfarande i Teamhantering.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klicka **Lägg till markerade i team**.
+1. Klicka på **Lägg till markerade i team**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klicka **Lägg till i team** när det är klart.
+1. Klicka på **Lägg till i team** när du är klar.
 
    ![](assets/nine.png)

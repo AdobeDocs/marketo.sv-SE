@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har ett nyckelord som du inte vill fortsätta att optimera för gör du så här för att ta bort det.
 
-1. Klicka för att gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Klicka för att gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -23,6 +23,6 @@ Om du har ett nyckelord som du inte vill fortsätta att optimera för gör du s�
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Klicka **[!UICONTROL Delete]** igen för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]** igen.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)

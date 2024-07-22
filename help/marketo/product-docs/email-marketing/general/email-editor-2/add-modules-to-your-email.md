@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras i mallen. Moduler kan innehålla valfri kombination av element, variabler och annat HTML-innehåll. Det är enkelt att lägga till dem i e-postmeddelandet.
 
-1. Skapa ett e-postmeddelande. Var noga med att välja (eller skapa) en mall som innehåller moduler.
+1. Skapa ett mejl. Var noga med att välja (eller skapa) en mall som innehåller moduler.
 
    ![](assets/one-1.png)
 
    >[!NOTE]
    >
-   >De flesta startmallar för Marketo innehåller moduler. Du kan också [skapa egna](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >De flesta startmallar för Marketo innehåller moduler. Du kan också [skapa en egen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Klicka till höger om e-postmeddelandet **Moduler**.
+1. Klicka på **Moduler** längst till höger i e-postmeddelandet.
 
    ![](assets/two-3.png)
 

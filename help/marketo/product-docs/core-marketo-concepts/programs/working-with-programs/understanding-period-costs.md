@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Periodkostnader avser de pengar du spenderar under en viss månad på ett progra
 >
 >Om du spenderar 1 000 dollar på att anställa en illustratör till en e-bok som lanseras i juli, skulle kostnaden för e-boksprogrammet bli 1 000 dollar i juli.
 >
->Om du spenderar 200 USD per månad på [!DNL Google Adwords] - [!DNL Google Adwords] skulle ha en periodkostnad på 200 dollar _varje månad_.
+>Om du spenderar 200 USD per månad på [!DNL Google Adwords] har [!DNL Google Adwords]-programmet en periodkostnad på 200 _USD varje månad_.
 
 >[!NOTE]
 >
 >[Förstå program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Förstå programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Om programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Hur periodkostnader beräknas {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph1.png)
 
-   ...kontakter som lagts till under månaderna före och efter kommer *endast* räkna mot mars.
+   ...kontakter som lagts till under månaderna före och efter räknas *endast* till mars.
 
    ![](assets/graph2.png)
 
@@ -61,7 +61,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    >[!NOTE]
    >
-   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om en periodkostnad inte har definierats för _alla_ månader kommer rapporter i RCE inte att vara tillgängliga för programmet.
+   >Sammanfattningsvis - månader utan definierade periodkostnader kommer att gå bakåt till den sista som definierats. Om det inte finns någon kostnad för föregående period kommer månaderna att flyttas fram till nästa som har definierats. Om en periodkostnad inte har definierats för _några_ månader är rapportering i RCE inte tillgängligt för programmet.
 
    >[!MORELIKETHIS]
    >

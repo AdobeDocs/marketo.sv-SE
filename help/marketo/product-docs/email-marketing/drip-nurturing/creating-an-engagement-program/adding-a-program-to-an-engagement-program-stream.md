@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Varför använda ett kapslat program i en interaktionsprogramström? {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-Det är enkelt att lägga till e-post i en ström i ett engagemangsprogram, och det fungerar bra. Men om era affärsbehov är mer komplexa kan det vara bra att placera e-postmeddelandet i ett program. Du kanske vill:
+Det är enkelt att lägga till ett e-postmeddelande i en ström i ett engagemangsprogram, och det fungerar bra. Men om era affärsbehov är mer komplexa kan det vara bra att placera e-postmeddelandet i ett program. Du kanske vill:
 
 * Skicka ett e-postmeddelande till en undergrupp personer i strömmen
 * Skicka *olika* e-postmeddelanden till undergrupper i strömmen
@@ -25,23 +25,23 @@ Det är enkelt att lägga till e-post i en ström i ett engagemangsprogram, och 
 
 ## Vad händer när du använder ett program i en ström? {#what-happens-when-you-use-a-program-in-a-stream}
 
-När du använder ett kapslat program baseras beslutet att skicka ett e-postmeddelande till en person på programmedlemskapet och program-ID:t.
+När du använder ett kapslat program baseras beslutet att skicka ett e-postmeddelande till en person på programmets medlemskap och program-ID.
 
 * Om du inte är medlem i ett program får du alla e-postmeddelanden som ingår i programmet en gång
 * Om du är medlem i programmet får du inte e-postmeddelandet
 * Om du inte längre är medlem men har fått e-postmeddelandet tidigare via det programmet får du inte e-postmeddelandet
 
-När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut tidigare *i det särskilda programmet* kan du få den igen.
+När du använder ett program i en ström spelar det ingen roll om du har fått den specifika e-postadressen tidigare. Så länge e-postmeddelandet inte har skickats ut före *i det specifika programmet* kan du ta emot det igen.
 
 Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du kanske vill använda den ena eller den andra.
 
 >[!TIP]
 >
->Var noga med att använda en **Medlem i Engagement Program** i din smarta lista.
+>Använd ett **Member of Engagement Program**-filter i den smarta listan.
 
 ## Vad händer med dem som inte uppfyller villkoren i den smarta listan? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De kommer att gå vidare till nästa del av innehållet i strömmen för *följande* cast.
+Om någon filtreras bort från den smarta listan i ett kapslat programs smarta kampanj går de inte vidare till nästa innehåll under den aktuella sändningen. De kommer att gå vidare till nästa del av innehållet i strömmen för *efterföljande*-strängen.
 
 ## Vad innehåller ett kapslat program? {#what-does-a-nested-program-contain}
 

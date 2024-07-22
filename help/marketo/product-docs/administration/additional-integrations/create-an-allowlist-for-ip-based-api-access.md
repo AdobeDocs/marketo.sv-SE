@@ -19,7 +19,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
@@ -27,11 +27,11 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. I **[!UICONTROL IP Restrictions]** område, klicka **[!UICONTROL Edit],** eller klicka **[!UICONTROL Edit IP Restrictions]** i det övre vänstra hörnet.
+1. Klicka **[!UICONTROL Edit],** eller klicka **[!UICONTROL Edit IP Restrictions]** i det övre vänstra hörnet i området **[!UICONTROL IP Restrictions]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Kontrollera **[!UICONTROL Enable IP Restrictions]** och ange de IP-adresser som du vill Tillåtslista.
+1. Markera rutan **[!UICONTROL Enable IP Restrictions]** och ange de IP-adresser som du vill Tillåtslista.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -39,7 +39,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
    >
    >Du kan ange en enstaka IP-adress eller ett intervall av dessa eller använda ett jokertecken.
 
-1. Klicka **[!UICONTROL Add]** om du vill öppna ytterligare fält för att ange fler IP-adresser.
+1. Klicka på **[!UICONTROL Add]** om du vill öppna ytterligare fält och ange fler IP-adresser.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 

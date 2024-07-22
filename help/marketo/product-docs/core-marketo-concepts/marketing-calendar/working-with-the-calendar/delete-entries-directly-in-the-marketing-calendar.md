@@ -6,16 +6,16 @@ exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Radera transaktioner direkt i marknadsföringskalendern {#delete-entries-directly-in-the-marketing-calendar}
 
-Förutom [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
+Förutom att [skapa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}- och [redigera](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}-poster kan du ta bort dem direkt i marknadsföringskalendern. Så här gör du.
 
-1. Klicka på **MU** platta.
+1. Klicka på plattan **MU**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 

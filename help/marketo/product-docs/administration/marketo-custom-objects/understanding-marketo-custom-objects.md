@@ -21,13 +21,13 @@ Använd anpassade objekt för att spåra mätvärden som är specifika för din 
 
 Använd anpassade objekt som filter och triggers i era smarta kampanjer. Exempel:
 
-* **Filter**: Skicka e-post endast till ägare av ett visst fordonsmärke
-* **Utlösare**: Skicka ett e-postmeddelande när ett anpassat objekt läggs till en person eller ett företag.
+* **Filter**: Skicka e-post endast till ägare av ett visst varumärke
+* **Utlösare**: Skicka ett e-postmeddelande när ett anpassat objekt läggs till för en person eller ett företag.
 
 Du kan ställa in anpassade objekt i en 1:N- eller många-till-många-relation. Exempel:
 
-* **En-till-många**: En person äger flera bilar
-* **Många-till-många**: Flera studenter har deltagit i flera kurser från en kurskatalog
+* **En till många**: En person äger flera bilar
+* **Många-till-många**: Flera elever har deltagit i flera kurser från en kurskatalog
 
 I en en-till-många-struktur används ett enda länkfält för att koppla det anpassade objektet till en person eller ett företag.
 
@@ -43,7 +43,7 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Åtkomst till anpassade Marketo-objekt {#accessing-marketo-custom-objects}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
@@ -69,17 +69,17 @@ Många-till-många anpassade objekt använder två länkfält, som ingår i ett 
 
 ## Visa anpassade objekt som är kopplade till en person {#view-custom-objects-associated-to-a-person}
 
-När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information från [!UICONTROL Custom Objects] på sidan med personinformation.
+När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten automatiskt till personer i databasen med hjälp av länkfältet i det anpassade objektet när du överför specifika anpassade objektdata. Du kan visa information på fliken [!UICONTROL Custom Objects] på sidan med personinformation.
 
 1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Öppna databasen och klicka på **[!UICONTROL People]** -fliken. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
+1. Öppna databasen och klicka på fliken **[!UICONTROL People]**. Dubbelklicka på posten för en person som är kopplad till ett anpassat objekt.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. På personinformationssidan klickar du på **[!UICONTROL Custom Objects]** -fliken. Markera objektet i listrutan.
+1. Klicka på fliken **[!UICONTROL Custom Objects]** på personinformationssidan. Markera objektet i listrutan.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,7 +95,7 @@ Om du har flera personer i Marketo som är poster i CRM- eller Marketo-poster ko
 
 Anpassade objekt kan bara länka direkt till en enskild post. Det innebär att när din anpassade objekttyp är länkad efter företagsfält bör du se till att dina personposter är kopplade till ett företag antingen med hjälp av kontaktkonvertering i CRM eller med hjälp av fältet externalCompanyId om du hanterar företag som använder Marketo REST API:er. För personposter som inte är uttryckligen länkade till företagsposter, kommer anpassade objekt som är länkade med hjälp av företag att slumpmässigt länkas till en enda post, även om värdet i företagsfältet delas av många personer.
 
-Se [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) för mer information.
+Mer information finns i [Importera anpassade objektdata](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >

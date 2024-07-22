@@ -18,7 +18,7 @@ Följ stegen nedan för att lära dig hur du lägger till hyperlänkar i e-postm
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -26,11 +26,11 @@ Följ stegen nedan för att lära dig hur du lägger till hyperlänkar i e-postm
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Ange den URL som du vill att den ska länkas till (dvs. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Välj om du vill att URL:en ska öppnas i samma eller ett nytt fönster och klicka på **Spara**.
+1. Ange den URL som du vill att den ska länkas till (t.ex. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Välj om du vill att URL-adressen ska öppnas i samma eller ett nytt fönster och klicka på **Spara**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. Klicka **Spara** igen.
+1. Klicka på **Spara** igen.
 
    ![](assets/add-hyperlinked-text-5.png)
 

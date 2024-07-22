@@ -16,7 +16,7 @@ Med de generativa AI-baserade funktionerna i Adobe Dynamic Chat kan ni optimera 
 
 ## Behörigheter {#permissions}
 
-För att kunna använda generativ AI måste du se till att ge användarna rätt [behörigheter](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Om du vill använda generativ AI måste du ge användarna rätt [behörighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ Vanligtvis måste du bläddra igenom hela chattutskriften för att få tillgång
 
 ## Fråggenerering {#question-generation}
 
-[Skapa engagerande upplevelser](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) med AI-stödda konversationer för besökare i ett gränssnitt som är utbildat i försäljning, marknadsföring och produktkunskap.
+[Förbättra inkommande upplevelser](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) med AI-stödda konversationer för besökare med ett gränssnitt som är utbildat med sälj-, marknadsförings- och produktkunskap.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Svarsbibliotek {#response-library}
 
-[Skapa en anpassad samling](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) av frågor och svar, som ni har godkänt i förväg, för användning i allmänna AI-chattkampanjer.
+[Skapa en anpassad samling](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) med frågor och svar, som alla har godkänts i förväg av dig, för användning i generativa AI-chattkampanjer.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitetslogg {#activity-log}
 
-[Visa en lista över alla uppgifter](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) och tillhörande uppgifter, inklusive namn, ägare, typ och vem som har redigerat dem samt när.
+[Visa en lista över alla aktiviteter](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) och deras medföljande information, inklusive namn, ägare, typ och vem som redigerade dem och när.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Obesvarade frågor {#unanswered-questions}
 
-[Skapa ytterligare förgodkända svar](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) för ditt svarsbibliotek med hjälp av AI som bygger på en databas med obesvarade frågor från tidigare konversationer.
+[Skapa ytterligare förgodkända svar](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) för ditt svarsbibliotek med hjälp av AI, baserat på en databas med obesvarade frågor från tidigare konversationer.
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -74,11 +74,11 @@ Diskussionsämnen finns i Smart List-utlösare och -filter som en begränsning, 
 
 ## Vanliga frågor och svar {#faq}
 
-**Är generativ AI tillgängligt för alla användare i Dynamic Chat?**
+**Är generativ AI tillgängligt för alla Dynamic Chat?**
 
 Generativ AI är endast tillgängligt för prenumeranter på Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-**Finns det någon gräns för hur många frågor och svar jag kan ha genererat?**
+**Finns det en gräns för hur många frågor och svar jag kan ha skapat?**
 
 Ja. Det finns för närvarande en livstidsgräns på 1000.
 

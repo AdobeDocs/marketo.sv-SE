@@ -21,7 +21,7 @@ Du kan lägga till vilken rubrik som helst på sidan Allt innehåll i det predik
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Godkänn för prediktivt innehåll**.
+1. Klicka på listrutan **Innehållsåtgärder** och välj **Godkänn för prediktivt innehåll**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ Du kan också godkänna titlar för prediktivt innehåll direkt på popup-menyn 
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Kontrollera **Godkänn för prediktivt innehåll** i popup-rutan Redigera innehåll och klicka på **Spara**.
+1. Markera rutan **Godkänn för prediktivt innehåll** på popup-menyn Redigera innehåll och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

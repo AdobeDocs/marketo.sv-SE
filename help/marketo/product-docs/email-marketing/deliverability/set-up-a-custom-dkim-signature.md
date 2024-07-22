@@ -21,7 +21,7 @@ För att säkerställa avancerad leverans signerar vi automatiskt all utgående 
 
 Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domäner du väljer. Så här gör du.
 
-1. Gå till **Administratör** -avsnitt.
+1. Gå till avsnittet **Admin**.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,15 +29,15 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
    >
    >Om du skapar en anpassad DKIM-signatur på det gammaldags sättet kommer den att fortsätta att fungera och visas här.
 
-1. Klicka **E-post**.
+1. Klicka på **E-post**.
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Klicka på **SPF/DKIM** tabbtangenten, sedan **Lägg till domän**.
+1. Klicka på fliken **SPF/DKIM** och sedan på **Lägg till domän**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. Ange den domän som du kommer att använda i Marketo e-postmeddelanden som Från-adress. Välj en väljare och en nyckelstorlek. Klicka **Lägg till** när det är klart.
+1. Ange den domän som du kommer att använda i Marketo e-postmeddelanden som Från-adress. Välj en väljare och en nyckelstorlek. Klicka på **Lägg till** när du är klar.
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -66,7 +66,7 @@ Du kan anpassa DKIM-signaturen så att den återspeglar vilken eller vilka domä
    >
    >Observera att när du gör det signeras inte DKIM för din domän förrän din nya post publiceras och valideras av vårt system. Planera ändringen i enlighet med detta, eftersom det kan ta 24 till 48 timmar innan den nya DKIM-posten är helt spridd över Internet.
 
-1. Skicka **Värdpost** och **TXT Value** till din IT-avdelning. Be dem att skapa posten åt dig och se till att den sprids till alla namnservrar som är kopplade till Från-domänen. Marketo DKIM-verifiering kräver att DKIM-nyckeln sprids till alla namnservrar som är associerade med den domän som DKIM-signerar.
+1. Skicka **värdposten** och **TXT-värdet** till din IT-avdelning. Be dem att skapa posten åt dig och se till att den sprids till alla namnservrar som är kopplade till Från-domänen. Marketo DKIM-verifiering kräver att DKIM-nyckeln sprids till alla namnservrar som är associerade med den domän som DKIM-signerar.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 

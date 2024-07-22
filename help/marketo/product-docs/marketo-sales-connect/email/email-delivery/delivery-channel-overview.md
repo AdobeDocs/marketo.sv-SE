@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect ger dig flera alternativ för att leverera e-postmeddeland
 
 ## Rekommenderas: Gmail eller Exchange via e-postanslutning {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect ger en smidig konfiguration och förbättrad leverans via vår e-posttjänst. Med e-postanslutningen kan alla användare ansluta till sina [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) eller [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) konto till Sales Connect som ska användas som leveranskanal för alla Sales Connect-e-postmeddelanden.
+Sales Connect ger en smidig konfiguration och förbättrad leverans via vår e-posttjänst. Med e-postanslutningen kan varje användare ansluta till sitt [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)- eller [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)-konto till Sales Connect och använda det som leveranskanal för alla Sales Connect-e-postmeddelanden.
 
 Att använda Gmail eller Exchange ger vissa tydliga fördelar jämfört med andra alternativ för leveranskanaler:
 
@@ -25,7 +25,7 @@ Att använda Gmail eller Exchange ger vissa tydliga fördelar jämfört med andr
 * Autentiseringsmetoder som SPF och DKIM har redan konfigurerats och hanteras av IT-teamet, så det finns ingen ytterligare konfiguration.
 * Att skicka e-postmeddelanden inom ett givet e-postnätverk (dvs. att skicka ett e-postmeddelande som en Exchange-användare till ett företag som tar emot e-post via Exchange) kan öka leveransmöjligheterna ytterligare.
 
-Det är viktigt att notera att dessa leveranskanaler har sina egna sändningsgränser som upprätthålls av Microsoft och Google. För att bekämpa detta använder vi en begränsningsmekanism som hjälper användarna att hålla sig inom dessa gränser. Läs mer om [e-postbegränsning här](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Det är viktigt att notera att dessa leveranskanaler har sina egna sändningsgränser som upprätthålls av Microsoft och Google. För att bekämpa detta använder vi en begränsningsmekanism som hjälper användarna att hålla sig inom dessa gränser. Läs mer om [begränsning av e-post här](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
@@ -45,11 +45,11 @@ Dessutom erbjuder tredjepartsleverantörer av SMTP en mängd funktioner som hjä
 
 MSC-servrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se vilka MSC-servrar som är tillgängliga i deras e-postinställningar. Alla icke-äldre kunder ser inte MSC som ett alternativ och bör ansluta sitt Gmail- eller Outlook-konto till Sales Connect för att låsa upp en leveranskanal.
 
-MSC-servrar saknar stöd för DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för bästa slutprodukt.
+MSC-servrar saknar stöd för DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för att få bästa möjliga resultat.
 
 ## Marketo-servrar {#marketo-servers}
 
-Marketo e-postservrar kan inte integreras med Sales Connect. Marketo-servrar är optimerade för massleverans så att de kan anpassas efter marknadsförarnas behov. Gmail och Exchange har dock högre framgångar för säljkommunikation med 1:1, vilket är anledningen till att vi rekommenderar att du använder dessa servrar för din säljkommunikation.
+Marketo e-postservrar kan inte integreras med Sales Connect. Marketo-servrar är optimerade för massleverans så att de kan anpassas efter marknadsförarnas behov. Gmail och Exchange har dock högre framgångar för säljkommunikation med 1:1, vilket är anledningen till att vi rekommenderar att du använder de här servrarna för din säljkommunikation.
 
 >[!MORELIKETHIS]
 >

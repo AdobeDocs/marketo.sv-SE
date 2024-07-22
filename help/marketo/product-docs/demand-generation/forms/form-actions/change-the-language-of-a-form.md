@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lär dig hur du ändrar formulärets språk.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
@@ -23,23 +23,23 @@ Lär dig hur du ändrar formulärets språk.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Klicka **Formulärinställningar** och markera **Inställningar**.
+1. Klicka på **Formulärinställningar** och välj **Inställningar**.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Markera önskat **Formulärspråk**.
+1. Välj **formulärspråk**.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   TILLVAL: Välj språk/region för det valda språket.
+   VALFRITT STEG: Välj språk/region för det valda språket.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Klicka **Godkänn och stäng** för att tillämpa och spara ändringar.
+1. Klicka på **Godkänn och stäng** för att tillämpa och spara ändringarna.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ Lär dig hur du ändrar formulärets språk.
 
    >[!TIP]
    >
-   >Kom ihåg [godkänna landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) utkast som har skapats av formulärändringar.
+   >Kom ihåg att [godkänna utkastet till landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapades av formulärändringarna.
 
 Formuläret återspeglar nu det språk du valt.
 

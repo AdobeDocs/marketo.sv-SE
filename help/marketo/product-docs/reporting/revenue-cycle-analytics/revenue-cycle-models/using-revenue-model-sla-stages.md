@@ -21,23 +21,23 @@ SLA står för&quot;servicenivåavtal&quot;. Dessa steg används när det finns 
 
 ## Lägga till en SLA-scen {#add-an-sla-stage}
 
-1. Klicka på knappen **Analyser** på hemskärmen My Marketo.
+1. Klicka på knappen **Analytics** på startskärmen i My Marketo för att lägga till en ny SLA-fas för intäktscykelmodell.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Välj en befintlig modell i avsnittet Analytics (Analyser), eller [skapa en ny](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Välj din befintliga modell i avsnittet Analyser eller [skapa en ny](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicka **Redigera utkast**.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Om du vill lägga till en ny SLA-scen klickar du på **SLA** och sedan dra och släppa till valfri plats på arbetsytan.
+1. Om du vill lägga till en ny SLA-scen klickar du på knappen **SLA** och drar och släpper sedan till valfri plats på arbetsytan.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Du kan redigera **Namn**, lägga till **Beskrivning** och justera **Typ** när du har lagt till en scen. Du kan också välja **[Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
+1. Du kan redigera **namnet**, lägga till en **beskrivning** och justera **typen** när du har lagt till en scen. Du kan även välja **[Starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** just nu.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
@@ -49,11 +49,11 @@ När du väljer en SLA-scenikon kan du redigera namnet, lägga till en beskrivni
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Klicka i **Namn** och **Beskrivning** fält för att redigera deras innehåll.
+1. Klicka i fälten **Namn** och **Beskrivning** för att redigera innehållet.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Välj **Typ** för redigering.
+1. Markera listrutan **Typ** som du vill redigera.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

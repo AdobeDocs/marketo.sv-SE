@@ -5,7 +5,7 @@ title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 ## Saker att känna till om sandlådor {#things-to-know-about-sandboxes}
 
 * När Adobe Account Team har konfigurerat din sandlåda och skickar inbjudan måste du använda en annan e-postadress för att logga in än din Marketo-produktionsinstans.
-* Om du vill lägga till användare är processen densamma som [lägga till användare i produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
+* Om du vill lägga till användare är processen densamma som att [lägga till användare i produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
 * Din Marketo-sandlåda börjar bli tom, men har samma funktioner som din produktionsinstans.
 * Om du skapar ett program i sandlådan och vill flytta det till produktion kan du utföra en [programimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Sandlådor stryps så att produktionsinstanser inte påverkas negativt av testmiljöer. Du kan skicka upp till 20 e-postmeddelanden per kampanjkörning.
@@ -34,7 +34,7 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 
 ## Instanskopia {#instance-copy}
 
-Du kan skicka ett supportärende och begära en engångsinstanskopia för att fylla i din sandlåda. Instanskopian kommer inte att ta över _allt_, dock. Läs [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för mer information.
+Du kan skicka ett supportärende och begära en engångsinstanskopia för att fylla i din sandlåda. Instanskopian tar dock inte över _allt_. Mer information finns i [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >

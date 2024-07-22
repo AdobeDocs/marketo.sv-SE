@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147093
 description: Understanding Local Assets in a Program - Marketo Docs - Product Documentation
-title: Förstå lokala resurser i ett program
+title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
 source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Förstå lokala resurser i ett program {#understanding-local-assets-in-a-program}
+# Understanding Local Assets in a Program {#understanding-local-assets-in-a-program}
 
-Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassningsbara och gör att ni kan skapa automatiserade marknadsföringsinitiativ. Här är en översikt över de flesta lokala resurser du kan skapa i ett program:
+Lokala resurser är det innehåll som utgör programmet. Assets är anpassningsbara och gör att ni kan skapa automatiserade marknadsföringsinitiativ. Här är en översikt över de flesta lokala resurser du kan skapa i ett program:
 
 ![](assets/one.png)
 
@@ -28,12 +28,12 @@ Lokala resurser är det innehåll som utgör programmet. Resurserna är anpassni
 * [E-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
 * [E-post](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [Push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
-* [Landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
+* [Startsida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
 * [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Testgrupp](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Knappen Socialt](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [Youtube Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [Omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
+* [Knapp för sociala medier](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
+* [YouTube-video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
+* [Avsökning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
 * [Referenserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
 * [Lotteriet](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
-* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+* [Vibes SMS-meddelanden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

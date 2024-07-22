@@ -20,11 +20,11 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på i Marketo **[!UICONTROL Admin]** sedan **[!UICONTROL Veeva Objects Sync]**.
+1. I Marketo klickar du på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Om det här är ditt första anpassade objekt klickar du på Synkronisera schema. Om inte, klicka **[!UICONTROL Refresh Schema]** för att vara säker på att du har de senaste.
+1. Om det här är ditt första anpassade objekt klickar du på Synkronisera schema. Om inte, klicka på **[!UICONTROL Refresh Schema]** för att kontrollera att du har de senaste.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
@@ -48,7 +48,7 @@ Markera det objekt som du vill synkronisera och klicka på Aktivera synkroniseri
 >
 >Marketo kan bara synkronisera ett anpassat objekt om det har en direkt relation till kontakt- eller kontoobjektet i Veeva CRM.
 
-1. Klicka **[!UICONTROL Enable Sync]** igen.
+1. Klicka på **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
@@ -62,7 +62,7 @@ Markera det objekt som du vill synkronisera och klicka på Aktivera synkroniseri
 >
 >Du kan inte använda anpassade objekt i smarta kampanjer med utlösare.
 
-1. I den smarta listan drar du över filtret&quot;Har möjlighet&quot; och anger det till **[!UICONTROL True]**.
+1. I den smarta listan drar du över filtret Har möjlighet och anger **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

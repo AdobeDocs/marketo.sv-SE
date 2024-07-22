@@ -19,11 +19,11 @@ Så här ställer du in ditt prediktiva innehåll för rekommendationsfältet.
 >
 >Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
-1. På **Prediktivt innehåll** klickar du på en titel för att öppna redigeraren.
+1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Klicka **Liggande**.
+1. Klicka på **Bar**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ Så här ställer du in ditt prediktiva innehåll för rekommendationsfältet.
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/save.png)

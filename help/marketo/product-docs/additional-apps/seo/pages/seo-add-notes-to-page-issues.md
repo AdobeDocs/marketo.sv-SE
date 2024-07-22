@@ -17,11 +17,11 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
 ## Lägga till anteckningar i avsnittet Sidproblem {#adding-notes-in-page-issues-section}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. På fliken Sidor klickar du på **[!UICONTROL Issues]**.
+1. Klicka på **[!UICONTROL Issues]** på fliken Sidor.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
@@ -39,7 +39,7 @@ Visste du att du kan lägga till anteckningar i sidnummer som personliga påminn
 
 ## Lägg till anteckningar i detaljnivå nedåt {#add-notes-in-page-detail-drill-down}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 

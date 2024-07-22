@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Kalenderfunktioner {#calendar-functionality}
 
-Informera mottagarna när du är tillgänglig genom att trycka på **Kalender** -knappen. Den hämtas i din Google-kalender och gör att du kan lägga till specifika datum och tidpunkter som du är ledig, och mottagaren kan svara tillbaka med en tid som passar dem.
+Informera dina mottagare när du är tillgänglig genom att trycka på knappen **Kalender** . Den hämtas i din Google-kalender och gör att du kan lägga till specifika datum och tidpunkter som du är ledig, och mottagaren kan svara tillbaka med en tid som passar dem.

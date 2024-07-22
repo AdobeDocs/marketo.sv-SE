@@ -21,7 +21,7 @@ Kontrollpanelen Kontolista ger en översikt över sammanställda insikter från 
 
 ## Kontrollpanel för kontolista {#account-list-dashboard}
 
-Om du vill visa kontrollpanelen för en kontolista klickar du bara på namnet...
+Om du vill visa kontrollpanelen för en kontolista klickar du bara på dess namn...
 
 ![](assets/one-new.png)
 
@@ -44,7 +44,7 @@ Om du vill visa kontrollpanelen för en kontolista klickar du bara på namnet...
 
 ## Fliken Namngivna konton {#named-accounts-tab}
 
-Klicka på **Namngivna konton** för att se vilka namngivna konton som tillhör den kontolistan.
+Klicka på fliken **Namngivna konton** för att se vilka namngivna konton som tillhör den kontolistan.
 
 ![](assets/three-1.png)
 
@@ -54,6 +54,6 @@ Klicka på **Namngivna konton** för att se vilka namngivna konton som tillhör 
 
 ## Används av flik {#used-by-tab}
 
-Klicka på **Används av** för att se vilka resurser som refererar till den kontolistan.
+Klicka på fliken **Används av** för att se vilka resurser som refererar till den kontolistan.
 
 ![](assets/four-2.png)

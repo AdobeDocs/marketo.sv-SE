@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Använd kontrollpanelen för att få en översiktlig bild av hur nyckelordsrankningen är trending och hur bra webbplatsen är optimerad för SEO.
 
-Om du vill veta vad du kan fokusera på för att förbättra dina SEO-satsningar använder du [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) i den här instrumentpanelen.
+Om du vill ta reda på vad du ska fokusera på för att förbättra SEO-arbetet kan du använda [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)-avsnittet på den här instrumentpanelen.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
-I det här avsnittet visas hur din webbplats rankas för [nyckelord som ni riktar er mot](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+I det här avsnittet visas hur din webbplats rangordnas för de [nyckelord som du riktar dig till](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ I det här avsnittet visas hur din webbplats rankas för [nyckelord som ni rikta
 
 >[!TIP]
 >
->Du kan även visa hur en [specifik lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
+>Du kan även visa hur en [specifik lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) med nyckelord fungerar. Klicka på listrutan och välj vilken som ska intressera dig.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Det bygger på en sammanställning av dussintals bästa metoder. En poäng på 7
 
 ## [!UICONTROL Keyword Rank Trends] {#keyword-rank-trends}
 
-The [!UICONTROL Keyword Rank Trends] graph hämtar dina nyckelord med de fem största sökvolymerna per månad och visar hur de rangordnas över tid.
+Grafen [!UICONTROL Keyword Rank Trends] hämtar dina nyckelord med de fem högsta månatliga sökvolymerna och visar hur de rangordnas över tid.
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ The [!UICONTROL Keyword Rank Trends] graph hämtar dina nyckelord med de fem st�
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Nu ska vi kolla in [!UICONTROL Recommendations] i den här instrumentpanelen.
+Nu ska vi kolla in avsnittet [!UICONTROL Recommendations] på den här instrumentpanelen.
 
 >[!MORELIKETHIS]
 >
->[Om Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Kontrollpanelen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

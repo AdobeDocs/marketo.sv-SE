@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10099411
 description: Översikt över analys av e-postinsikter - Marketo Docs - produktdokumentation
-title: Översikt över analys av e-postinsikter
+title: Översikt över analys av e-postinformation
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Översikt över analys av e-postinsikter {#email-insights-analytics-overview}
+# Översikt över analys av e-postinformation {#email-insights-analytics-overview}
 
-Utforska sammanställda data i Analytics för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
+Utforska aggregerade data i Analytics för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtrering](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) är tillgängligt för att hjälpa dig att gå igenom mer efter specifika mätvärden.
+[Filtrering](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) är tillgängligt för att hjälpa dig att hitta specifika mått.
 
 ![](assets/filter-field.png)
 
@@ -25,7 +25,7 @@ KPI-paneler (Key Points of Interest) ger er en snabb titt på de mer populära m
 
 ![](assets/kpi.png)
 
-Håll pekaren över KPI-rutorna om du vill ha mer information..
+Håll pekaren över KPI-rutorna för mer information..
 
 ![](assets/kpi-hover.png)
 
@@ -41,11 +41,11 @@ I diagrammet visas de filtrerade villkoren. Om du vill dölja ett av filtren kli
 
 ![](assets/chart1.png)
 
-...och måttet försvinner från diagrammet. Klicka på färgremsan igen så att den visas igen.
+...och mätvärdena försvinner från diagrammet. Klicka på färgremsan igen så att den visas igen.
 
 ![](assets/chart2.png)
 
-Om du skapar ett diagram som du vill använda igen gör du det till ett [snabbdiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Om du skapar ett diagram som du vill använda igen kan du göra det till ett [snabbdiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ Du kan också ange vad du ser (vänster till höger): Alla, Målgrupp, Innehåll
 
 >[!MORELIKETHIS]
 >
->[E-postinsikter - skicka översikt](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[E-postinsikter skickar en översikt](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

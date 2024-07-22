@@ -59,7 +59,7 @@ Hur mycket spenderade jag per program och månad?
   </tr> 
   <tr> 
    <td>% nya namn</td> 
-   <td>Andel leads som förvärvats av ett program</td> 
+   <td>Procentandel leads som förvärvats av ett program</td> 
   </tr> 
   <tr> 
    <td>Medlemmar</td> 
@@ -91,10 +91,10 @@ Hur mycket spenderade jag per program och månad?
 
 | Mät | Beskrivning |
 |---|---|
-| Bransch | Programtagg |
-| Produktserie | Programtagg |
-| Programägare | Programtagg |
-| Län | Programtagg |
+| Bransch | Programkod |
+| Produktserie | Programkod |
+| Programägare | Programkod |
+| Län | Programkod |
 
 ## Lyckades {#success}
 

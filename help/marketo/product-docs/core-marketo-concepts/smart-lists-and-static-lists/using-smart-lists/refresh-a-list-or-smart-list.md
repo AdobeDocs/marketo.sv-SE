@@ -17,7 +17,7 @@ Om du har kört en smart lista och några minuter har gått kan resultatet bli a
 
 ## Uppdatera resultat {#refresh-results}
 
-1. Uppdatera data i **[!UICONTROL People]** Klicka på uppdateringsikonen i en smart lista.
+1. Om du vill uppdatera data på fliken **[!UICONTROL People]** i en smart lista klickar du på ikonen Uppdatera.
 
    ![](assets/refreshbutton.png)
 

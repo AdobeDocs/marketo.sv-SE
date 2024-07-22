@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägga till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Lägg till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Ett fragment måste godkännas före användning.
 
@@ -23,7 +23,7 @@ Ett fragment måste godkännas före användning.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicka på **Fragment**. Under **Fragmentåtgärder**, klicka **Godkänn**.
+1. Klicka på ditt **fragment**. Klicka på **Godkänn** under **Utdragsåtgärder**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

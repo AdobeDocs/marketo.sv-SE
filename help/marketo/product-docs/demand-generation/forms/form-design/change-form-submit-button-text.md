@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359649
 description: Ändra Skicka-knapp för formulär - Marketo Docs - produktdokumentation
-title: Ändra text på Skicka-knapp för formulär
+title: Ändra text för Skicka formulär-knapp
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Ändra text på Skicka-knapp för formulär {#change-form-submit-button-text}
+# Ändra text för Skicka formulär-knapp {#change-form-submit-button-text}
 
 Du kan snabbt och enkelt ändra en formulärknapp från &quot;Skicka&quot; till något annat ord. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Du kan snabbt och enkelt ändra en formulärknapp från &quot;Skicka&quot; till 
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Markera knappen och ändra **Etikett**.
+1. Markera knappen och ändra **etiketten**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,11 +31,11 @@ Du kan snabbt och enkelt ändra en formulärknapp från &quot;Skicka&quot; till 
    >
    >Observera att du även kan ändra etiketten Väntar. Detta visas när användaren har klickat på knappen och innan formuläret har skickats.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

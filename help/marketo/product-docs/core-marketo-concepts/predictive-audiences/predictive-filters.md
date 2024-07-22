@@ -5,7 +5,7 @@ exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
 source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Som en del av Predictive Audiences erbjuder Marketo en grupp AI/ML-baserade filt
 
 ## Sannolikhet att delta {#likelihood-to-attend}
 
-Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper er att rikta in och bjuda in leads som har större sannolikhet att **deltar** ditt webbinarium eller event. Observera att&quot;Sannolikhet att delta&quot; kommer att vara ditt nuvarande eventprogram.
+Det här filtret används för att effektivt begränsa er målgrupp. Detta hjälper dig att rikta och bjuda in leads som har större sannolikhet att **delta** i ditt webbinarium eller din händelse. Observera att&quot;Sannolikhet att delta&quot; kommer att vara ditt nuvarande eventprogram.
 
 ![Bild två](assets/predictive-filters-2.png)
 
 ## Sannolikhet för registrering {#likelihood-to-register}
 
-Liknar _Sannolikhet att delta_ filtrera, använd det här filtret för att begränsa målgrupper och målleads som har större sannolikhet att **registrerar** för webbinariet eller evenemanget.
+På samma sätt som filtret _Sannolikhet att delta_ använder du det här filtret för att begränsa din målgrupp och dina målleads som har större sannolikhet att **registrera** för ditt webbinarium eller din händelse.
 
 ![Bild tre](assets/predictive-filters-3.png)
 
@@ -46,9 +46,9 @@ Detta filtrerar publiken efter om de har en hög eller låg sannolikhet för att
 
 Dessa två filter hjälper er att utöka er nuvarande målgrupp genom att rikta in er på fler leads som liknar medlemmar i andra program eller Smart List. Filtren Lookalike tar hänsyn till fler än 50 faktorer, inklusive leadattribut, e-postaktivitet, webbaktivitet och engagemang.
 
-Klicka **[!UICONTROL Add Constraint]** om du vill välja villkor för att medlemmarna i de valda programmen ska lyckas.
+Klicka på **[!UICONTROL Add Constraint]** om du vill välja villkor för att medlemmarna i de valda programmen ska lyckas.
 
-Klicka på **+** om du enkelt vill lägga till flera program/smarta listor till ett filter.
+Klicka på ikonen **+** för att enkelt lägga till flera program/smarta listor till ett filter.
 
 ![Bild fem](assets/predictive-filters-5.png)
 

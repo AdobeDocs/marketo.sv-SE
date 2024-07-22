@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Om du vill se hur innehållet ser ut i en sökmotor har vi lagt till en liten genväg.
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 

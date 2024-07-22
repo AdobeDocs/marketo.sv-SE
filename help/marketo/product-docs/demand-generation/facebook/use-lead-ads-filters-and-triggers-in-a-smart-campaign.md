@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När ni har aktiverat Facebook Lead Ads kan ni använda dem i era smarta kampanjer för att se hur programmet fungerar. När man skickar in sina uppgifter i en Facebook Lead Ad-enhet skickas informationen direkt till Marketo.
 
-1. Använd **Fyller i formulär för annonser för leads** filter eller utlösare.
+1. Använd filtret **Fyller i formuläret för annonser för leads** eller utlösaren.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

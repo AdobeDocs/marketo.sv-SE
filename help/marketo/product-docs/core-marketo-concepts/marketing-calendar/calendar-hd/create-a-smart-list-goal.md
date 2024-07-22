@@ -6,7 +6,7 @@ exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Målen är sätt att följa utvecklingen och motivera ert team. De kan kombineras med smarta listor för att spåra olika sorters saker i Marketo. När du har skapat ett mål för en smart lista uppdateras den automatiskt varannan timme när den används i en presentation.
 
-Precis som presentationer är målen [arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifik.
+Precis som för presentationer är målen [arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifika.
 
 1. Gå till **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicka **[!UICONTROL Presentations]** i det nedre högra hörnet.
+1. Klicka på **[!UICONTROL Presentations]** längst ned till höger.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Välj **[!UICONTROL Goals]** -fliken.
+1. Välj fliken **[!UICONTROL Goals]**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Dra och släpp **[!UICONTROL Smart List Goal]** på arbetsytan.
+1. Dra **[!UICONTROL Smart List Goal]** till arbetsytan.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Ange ett namn för målet och ange ett **[!UICONTROL Goal Target]**. Klicka sedan på **[!UICONTROL Create]**.
+1. Ange ett namn för målet och ange **[!UICONTROL Goal Target]**. Klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ Precis som presentationer är målen [arbetsyta](/help/marketo/product-docs/admi
 
    ![](assets/mql.png)
 
-1. När den smarta listan är klar klickar du på **[!UICONTROL Close]** och gå tillbaka till föregående flik.
+1. När den smarta listan är klar klickar du på knappen **[!UICONTROL Close]** och går tillbaka till föregående flik.
 
    ![](assets/mql2.png)
 

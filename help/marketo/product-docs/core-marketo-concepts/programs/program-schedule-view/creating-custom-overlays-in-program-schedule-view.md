@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan skapa anpassade övertäckningar för att visa poster som är relevanta för dina behov.
 
-1. Klicka på **[!UICONTROL Agenda]** nedrullningsbar meny.
+1. Klicka på listrutan **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 

@@ -17,7 +17,7 @@ Vill du hantera sidorna? Det kan du enkelt göra genom att skapa en lista. Du ka
 
 ## Lägg till sida i en lista {#add-page-to-a-list}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
@@ -31,7 +31,7 @@ Vill du hantera sidorna? Det kan du enkelt göra genom att skapa en lista. Du ka
 
    >[!TIP]
    >
-   >Du kan också skapa en ny lista för sidan. Skriv ditt namn i [!UICONTROL Create a new list].
+   >Du kan också skapa en ny lista för sidan. Skriv bara ditt namn i [!UICONTROL Create a new list].
 
 1. Klicka på listan som du just har lagt till sidan i.
 
@@ -41,11 +41,11 @@ Ja! Sidan bör nu läggas till i listan.
 
 ## Ta bort sida från en lista {#remove-page-from-a-list}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. På **[!UICONTROL Pages]** klickar du på listan som du vill rensa.
+1. På fliken **[!UICONTROL Pages]** klickar du på listan som du vill rensa.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
@@ -61,4 +61,4 @@ Ja! Sidan bör nu läggas till i listan.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Klar. Sidan tas bort från listan.
+Klart. Sidan tas bort från listan.

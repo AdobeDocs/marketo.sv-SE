@@ -34,7 +34,7 @@ När du har etablerat ditt Marketo Sales Connect-konto från Marketo och bjudit 
 
 Alla användare måste ansluta till Salesforce för att kunna aktivera loggförsäljningsaktiviteter för Salesforce, som e-post, samtal och uppgifter. När du ansluter till Salesforce som administratör har du dock möjlighet att konfigurera dina inställningar för aktivitetsloggning för hela teamet så att globala loggningsinställningar tillämpas för alla Sales Connect-användare.
 
-Följ stegen i för att ansluta din Sales Connect-instans till din Salesforce-instans som administratör eller icke-administratör [den här artikeln](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+Följ stegen i [den här artikeln](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) för att ansluta din Sales Connect-instans till din Salesforce-instans som administratör eller icke-administratör.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -43,7 +43,7 @@ Följ stegen i för att ansluta din Sales Connect-instans till din Salesforce-in
 Om ni ansluter till Marketo kan era säljare utnyttja kraften i marknadsföringsautomatisering och marknadsföringsinsikter i sina prospekteringsinsatser. Följande funktioner kräver att du konfigurerar en integrering med Marketo.
 
 * Dela [marknadsföringskampanjer](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) med säljare
-* Push [Intressanta ögonblick](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) till Live Feed
+* Skjut [intressanta stunder](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) till Live-feed
 * Loggar säljaktiviteter till Marketo
 
 Klicka här om du vill veta mer om hur du ansluter till Marketo och ger säljarna åtkomst till anslutningen.
@@ -52,7 +52,7 @@ Klicka här om du vill veta mer om hur du ansluter till Marketo och ger säljarn
 
 En del av att säkerställa att försäljningen är aktiverad för framgång är att ha rätt funktioner på sin primära arbetsyta. Anpassningspaketet Sales Connect gör att engagemangsfunktioner och viktiga attribut för försäljningsaktivitet kan nås från Salesforce.
 
-Mer information om hur du installerar Säljanpassning av anslutning [klicka här](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+[Klicka här](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) om du vill veta mer om hur du installerar anpassningen av Sales Connect.
 
 ## Testning i sandlådan {#testing-in-sandbox}
 

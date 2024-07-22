@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Skicka ett gruppe-postmeddelande {#sending-a-group-email}
 
-1. Klicka på **Folk** -fliken.
+1. Klicka på fliken **Personer**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -36,7 +36,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 1. Skapa ett gruppe-postmeddelande med [Steg 1-3 ovan](#sending-a-group-email).
 
-1. [Välj en mall](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)eller fylla i e-postmeddelandet.
+1. [Välj en mall](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) eller fyll i e-postmeddelandet.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Välj önskad mottagare och klicka på **Förhandsgranska dynamiska fält**. Visa förhandsgranskningen till höger.
+1. Markera önskad mottagare och klicka på **Förhandsgranska dynamiska fält**. Visa förhandsgranskningen till höger.
 
    ![](assets/sending-emails-via-group-email-7.png)
 

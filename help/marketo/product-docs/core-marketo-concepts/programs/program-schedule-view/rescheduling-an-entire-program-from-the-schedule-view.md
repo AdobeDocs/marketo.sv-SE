@@ -41,7 +41,7 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
 >[!NOTE]
 >
->Resurser som redan har körts flyttas inte.
+>Assets som redan är igång kommer inte att flyttas.
 
 Allt är nu omplanerat. Justera eventuella specifika datum efter behov.
 

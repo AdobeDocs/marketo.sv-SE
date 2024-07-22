@@ -5,7 +5,7 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**System** Administratörer skapas endast på organisationsnivå i Adobe. Om du tror att du behöver mer än ett, vänligen kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>**System**-administratörer skapas bara på organisationsnivå i Adobe. Om du tror att du behöver mer än en kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Lägg till en produktadministratör {#add-a-product-admin}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Klicka **Marketo Engage**.
+1. Klicka på **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klicka på **[!UICONTROL Admins]** -fliken.
+1. Klicka på fliken **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klicka på **[!UICONTROL Add Admin]** -knappen.
+1. Klicka på knappen **[!UICONTROL Add Admin]**.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klicka på menyn tre punkter under Produkter och välj **[!UICONTROL Edit]**.
+1. Klicka på menyn med tre punkter under Produkter och välj **[!UICONTROL Edit]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Klicka på **+** signera. Klicka på nedtryckningen bredvid den önskade Marketo Engage-prenumerationen (om det finns fler än en) och välj önskad produktprofil.
+1. Klicka på **+**-tecknet. Klicka på nedtryckningen bredvid den önskade Marketo Engage-prenumerationen (om det finns fler än en) och välj önskad produktprofil.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -74,7 +74,7 @@ Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet med
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Klicka **Marketo Engage**.
+1. Klicka på **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,15 +82,15 @@ Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet med
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klicka på **[!UICONTROL Admins]** -fliken.
+1. Klicka på fliken **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Välj den administratör som du vill ta bort och klicka på **[!UICONTROL Remove Admin]** -knappen.
+1. Markera den administratör som du vill ta bort och klicka på knappen **[!UICONTROL Remove Admin]**.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klicka **[!UICONTROL Remove Admin]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Remove Admin]**.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

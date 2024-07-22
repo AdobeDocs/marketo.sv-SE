@@ -5,7 +5,7 @@ exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
 ## Skapa ett team {#create-a-team}
 
-1. I [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [webbprogrammet](https://toutapp.com/login) och välj **Inställningar**.
 
    ![](assets/creating-a-team-1.png)
 
-1. Under Administratörsinställningar väljer du **Teamhantering**.
+1. Välj **Teamhantering** under Administratörsinställningar.
 
    ![](assets/creating-a-team-2.png)
 
-1. Klicka på **+** ikon.
+1. Klicka på ikonen **+** bredvid Team.
 
    ![](assets/creating-a-team-3.png)
 
@@ -34,11 +34,11 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
 >[!NOTE]
 >
->Nu kan ni dela mallar, kampanjer och grupper med teamet.
+>Nu kan ni dela mallar, kampanjer och grupper med det teamet.
 
 ## Lägg till personer i ett team {#add-people-to-a-team}
 
-1. Fortfarande i Teamhantering, välj **Alla medlemmar**.
+1. Välj **Alla medlemmar** i Teamhantering.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
    ![](assets/creating-a-team-6.png)
 
-1. Klicka **Lägg till i team**.
+1. Klicka på **Lägg till i team**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
    ![](assets/creating-a-team-8.png)
 
-1. Klicka **Lägg till** när det är klart.
+1. Klicka på **Lägg till** när du är klar.
 
    ![](assets/creating-a-team-9.png)

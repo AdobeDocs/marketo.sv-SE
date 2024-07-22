@@ -2,10 +2,10 @@
 description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - produktdokumentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Detta är ett exempel på avancerade utbildningsprogram som använder Marketo Engage Engagement Program. Kapslade e-postprogram hindrar människor från att ta emot innehåll som de redan har konsumerat eller styr vilken typ av innehåll de ska använda i varje ström. Attributrapportering kan köras för varje enskilt kapslat e-postprogram. Kanaler: &quot;Inturer&quot; och en dedikerad &quot;Inurture Email&quot;-kanal för kapslade e-postprogram skickar ett nyhetsbrev via ett Marketo Engage-e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -44,7 +44,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,12 +132,12 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Resurser (Innehåller kapslade program och resursmappar finns också i kapslade program för att innehålla e-post)</td>
+   <td>Assets (Innehåller kapslade program och resursmappar finns också i kapslade program med e-post)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Kapslade program (bor i resursmappen)</td>
+   <td>Kapslade program (bor under Assets-mappen)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -189,11 +189,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -213,4 +213,4 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;04 - engagerad (programmet lyckades)&quot; för att spåra lyckade försök! Gör så här _före_ dina e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;04 - engagerad (programmet lyckades)&quot; för att spåra lyckade försök! Gör detta _innan_ dina e-postmeddelanden skickas.

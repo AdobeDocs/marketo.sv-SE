@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # Ändra standard från e-post och från etikett {#change-the-default-from-email-and-from-label}
 
-Varje administratörsanvändare kan ändra standardvärdena för **[!UICONTROL From Email]** och **[!UICONTROL From Label]** så att standardinställningarna används när de skapar nya e-postmeddelanden.
+Varje Admin-användare kan ändra standardvärdena för **[!UICONTROL From Email]** och **[!UICONTROL From Label]** så att dessa standardvärden används när de skapar nya e-postmeddelanden.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
@@ -27,7 +27,7 @@ Varje administratörsanvändare kan ändra standardvärdena för **[!UICONTROL F
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Ange de standardvärden som du vill använda **[!UICONTROL From Email]** och **[!UICONTROL From Label]** sedan klicka **[!UICONTROL Save Changes]**.
+1. Ange de standardvärden som du vill använda för **[!UICONTROL From Email]** och **[!UICONTROL From Label]** och klicka sedan på **[!UICONTROL Save Changes]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

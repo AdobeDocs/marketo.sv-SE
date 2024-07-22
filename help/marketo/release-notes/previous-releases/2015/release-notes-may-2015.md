@@ -6,12 +6,12 @@ exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Maj 2015 {#release-notes-may}
+# Versionsinformation: maj 2015 {#release-notes-may}
 
 Följande funktioner ingår i majversionen 2015. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
@@ -27,7 +27,7 @@ Vi lanserar ett nytt redigeringsläge för landningssidor och mallsyntax. Till s
 
 [Avbryt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
-Träffade du skicka innan ett e-postprogram var klart att skickas? Bromsa med den nya knappen för avbrutet e-postprogram. Detta stoppar e-postprogram direkt i sina spår.
+Träffade du skicka innan ett e-postprogram var klart att skickas? Dra i bromsen med den nya knappen för avbrutet e-postprogram. Detta stoppar e-postprogram direkt i sina spår.
 
 ## E-postleverans  {#email-deliverability}
 
@@ -43,7 +43,7 @@ RTP: [Dra och släpp segmentredigerare](/help/marketo/product-docs/web-personali
 
 Dra och släpp villkoren i segmentbyggaren, definiera värdet och du är bra på att skapa ett realtidssegment.
 
-## RTP: Prediktiv text Recommendations {#rtp-predictive-content-recommendations}
+## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
 [Prediktiv text Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 

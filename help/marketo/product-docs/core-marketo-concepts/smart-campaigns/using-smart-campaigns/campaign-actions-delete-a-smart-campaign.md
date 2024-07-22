@@ -19,19 +19,19 @@ Om du har en gammal Smart Campaign som du inte längre behöver kan du ta bort d
 >
 >Se till att du är säker innan du tar bort. När du har tagit bort en smart kampanj kan den inte återställas.
 
-1. Gå till **[!UICONTROL Marketing Activities]** område.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigera till din inaktiva smarta kampanj. I **[!UICONTROL Campaign Actions]** nedrullningsbar meny, välja **[!UICONTROL Delete]**.
+1. Navigera till din inaktiva smarta kampanj. Välj **[!UICONTROL Delete]** i listrutan **[!UICONTROL Campaign Actions]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Lär dig hur du avbryter bearbetningen av en aktiv smart kampanj utan att ta bort den helt och hållet [avbryta en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Om du vill avbryta bearbetningen av en aktiv smart kampanj utan att ta bort den helt och hållet, ska du lära dig hur du [avbryter en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-1. Klicka **[!UICONTROL Delete]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

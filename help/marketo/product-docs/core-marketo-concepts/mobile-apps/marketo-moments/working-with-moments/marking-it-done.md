@@ -6,14 +6,14 @@ exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Markera färdig {#marking-it-done}
 
-Markera ett e-postprogram, en händelse eller ett analyskort som [!UICONTROL Done] för att ta bort den från strömmen. Det finns två sätt att göra det på.
+Markera ett e-postprogram, en händelse eller ett analyskort som [!UICONTROL Done] om du vill ta bort det från dataströmmen. Det finns två sätt att göra det på.
 
 >[!IMPORTANT]
 >

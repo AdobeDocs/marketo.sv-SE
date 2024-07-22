@@ -2,7 +2,8 @@
 description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
 title: Best Practices for Interactive Webinars
 feature: Interactive Webinars
-source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
+exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Skapa ett exempel på interaktivt webbinarium (IW) och klona det varje gång för att undvika att börja från början.
 
-* Återanvänd Adobe Connect-rum om du senare levererar samma material. Navigera till **Radera innehåll från poser** på Pods-menyn för att rensa chatthistorik och omröstningsresultat från den senaste sessionen. Det här rensar bara innehållet i rummet. Alla data från tidigare sessioner kommer även i fortsättningen att vara tillgängliga i Marketo Engage.
+* Återanvänd Adobe Connect-rum om du senare levererar samma material. Navigera till **Rensa innehåll från poder** på Pods-menyn för att rensa chatthistorik och fråga om resultat från den senaste sessionen. Det här rensar bara innehållet i rummet. Alla data från tidigare sessioner kommer även i fortsättningen att vara tillgängliga i Marketo Engage.
 
 * Undvik schemaläggning av sessioner med bakåt. Kontrollera att du har minst 30 minuters förberedelsetid innan du startar webbinariet. Detta gör att du kan ladda upp alla sista minuten-presentationsändringar, justera mikrofonen och kameran och få nya presentatörer som är bekväma med gränssnittet.
 
@@ -41,7 +42,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Använd er webbplats/blogg, sociala medier, betald annonsering och partnerkampanjer för att nå en större publik och driva registreringar.
 
-* Skicka påminnelser till registrerade inbjudningar 2-3 dagar före webbinariet _och_ på dagen för evenemanget för att säkerställa att de inte glömmer det och kan närvara.
+* Skicka påminnelser via e-post till registrerade inbjudna 2-3 dagar före webbinariet _och_ på dagen för evenemanget för att säkerställa att de inte glömmer bort det och kan närvara.
 
 ### Utforma ett rum {#designing-a-room}
 
@@ -70,17 +71,17 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
    * Chatt Pod för att tillåta privata konversationer mellan medlemmar i presentationsteamet.
    * Anteckning Skriv ut påminnelsemeddelanden, frågor till presentatören eller vanliga frågesvar som du kan kopiera och klistra in för snabba svar på vanliga frågor.
 
-* Anpassade Pods är appar från tredje part som kan användas för att utöka funktionaliteten i ett Adobe Connect-rum. Egna pods kan hämtas från `apps.adobeconnect.com` som .pod- eller .zip-filer som sedan kan delas i delningsfönstret.
+* Anpassade Pods är appar från tredje part som kan användas för att utöka funktionaliteten i ett Adobe Connect-rum. Anpassade Pod-filer kan hämtas från `apps.adobeconnect.com` som .pod- eller .zip-filer som sedan kan delas i delningsfönstret.
    * Vissa populära anpassade poder är nedräkningstimer, klocka, grovpapperssax, Word Cloud, Titler.
-   * [Klicka här](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om du vill se en kort video om hur du använder anpassade rutor.
+   * [Klicka här](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om du vill se en kort video om hur du använder anpassade poder.
 
 **Sekretess: Kontrollera inställningarna nedan om du vill att deltagarinformationen ska vara konfidentiell:**
 
-* **Aktivitetsväljare**: Aktivitetsväljaren visar information om vem som talar för tillfället och varnar när deltagarna går med/lämnar rummet. Du kan ta bort aktivitetsväljaren genom att avmarkera Visa aktivitetsväljare under avsnittet Menyrad i Rumsinställningar.
+* **Aktivitetsväljare**: Aktivitetsväljaren visar information om vem som talar för tillfället och varnar när deltagare går med/lämnar rummet. Du kan ta bort aktivitetsväljaren genom att avmarkera Visa aktivitetsväljare under avsnittet Menyrad i Rumsinställningar.
 
-* **Q&amp;A Pod**: Namnet på den deltagare som skickade frågan och namnet på den värd/presentatör som svarade kan båda döljas. Detta kan du göra genom att avmarkera Sekretessalternativen under avsnittet Q&amp;A Pod i rumsinställningarna.
+* **Q&amp;A Pod**: Namnet på deltagaren som skickade frågan och namnet på värden/presentatör som svarade kan båda vara dolda. Detta kan du göra genom att avmarkera Sekretessalternativen under avsnittet Q&amp;A Pod i rumsinställningarna.
 
-* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder chattpanelen.
+* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder panelen Chatt.
 
 * **Privat chatt**: Inaktivera privat chatt för att förhindra att deltagare kan pinga en annan deltagare. Detta kan du göra genom att avmarkera&quot;Tillåt deltagare att chatta privat&quot; under avsnittet&quot;Chatt&quot; i rumsinställningarna.
 
@@ -98,9 +99,9 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Deltagare kan gå in i rummet 15 min före den schemalagda starten. Växla till lobbylayouten 15 min före den schemalagda starten för deltagare som kommer tidigt.
 
-* Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. [Klicka här](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om du vill se en kort video i värdområdet och presentationsområdet.
+* Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. [Klicka här](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om du vill se en kort video i värd- och presentationsområdet.
 
-* Använd Förbered-läget för att göra eventuella sista-minuten-ändringar privat. [Klicka här](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om du vill titta på en kort video om Förbered läge.
+* Använd Förbered-läget för att göra eventuella sista-minuten-ändringar privat. [Klicka här](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om du vill se en kort video om Förbered läge.
 
 * Använd instrumentpanelen för engagemang för att hålla en flik över deltagarnas intressenivåer. Hoppa till en omröstning, fråga om acceptera/avböja fråga, skicka en fråga i chatt-rutan eller använd den anpassade Word Cloud-rutan för att få svar från deltagare och öka engagemangsnivåerna.
 

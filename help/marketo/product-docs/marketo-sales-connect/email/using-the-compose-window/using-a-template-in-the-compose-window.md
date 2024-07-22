@@ -6,7 +6,7 @@ exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -41,21 +41,21 @@ ht-degree: 0%
 
 ## Fästa mallkategorier i dispositionsfönstret {#pinning-template-categories-in-the-compose-window}
 
-Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång till de mallar du använder mest.
+Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till dina mest använda mallar.
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
    ![](assets/one-6.png)
 
-1. Klicka på **+** -ikon bredvid Favoriter.
+1. Klicka på ikonen **+** bredvid Favoriter.
 
    ![](assets/pinning-two.png)
 
-1. Klicka på **Fäst en kategori** och välj önskad kategori.
+1. Klicka på listrutan **Fäst en kategori** och välj önskad kategori.
 
    ![](assets/pinning-three.png)
 
-1. Klicka **Spara ändringar** när du är klar (valfritt: upprepa steg 3 för att lägga till fler).
+1. Klicka på **Spara ändringar** när du är klar (valfritt: upprepa steg 3 om du vill lägga till fler).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång
 
    >[!NOTE]
    >
-   >**Favoriter** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**Favoriter** finns som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    Den valda kategorin är nu fäst.

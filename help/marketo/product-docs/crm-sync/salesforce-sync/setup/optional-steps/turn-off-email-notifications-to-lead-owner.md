@@ -23,10 +23,10 @@ Du kan inaktivera de automatiska e-postmeddelanden som skickas till Leadägare i
 
    ![](assets/adminsalesforce.png)
 
-1. Under **[!UICONTROL Sync Options]**, klicka **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** under **[!UICONTROL Sync Options]**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Avmarkera **[!UICONTROL Send email notification to owner in Salesforce upon lead assignment]** box. Klicka på **[!UICONTROL Save]**.
+1. Avmarkera kryssrutan **[!UICONTROL Send email notification to owner in Salesforce upon lead assignment]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/new-screen.png)

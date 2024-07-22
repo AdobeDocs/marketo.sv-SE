@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Du kan lägga till inkommande länkar manuellt. Så här:
 
-1. Gå till **[!UICONTROL Inbound Links]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +29,7 @@ Du kan lägga till inkommande länkar manuellt. Så här:
 
    >[!TIP]
    >
-   >Visste du att du kan [lägg till din inkommande länk till en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Kolla in den!
+   >Visste du att du kan [lägga till din inkommande länk i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Kolla in den!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

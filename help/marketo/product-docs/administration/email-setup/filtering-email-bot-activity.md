@@ -39,7 +39,7 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klicka på **[!UICONTROL Bot Activity]** -fliken.
+1. Klicka på fliken **[!UICONTROL Bot Activity]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
@@ -53,13 +53,13 @@ I e-postlänkens klickning och öppningsaktivitet via e-post fylls nya attribut 
 
 >[!NOTE]
 >
->Med **Varaktighet mellan aktiviteter** om 0 sekunder kommer vi att identifiera e-postaktiviteter som inträffar exakt samma sekund. Om flera e-postaktiviteter inträffar inom det angivna antalet sekunder identifieras de som en Båda-aktivitet.
+>Med **Varaktighet mellan aktiviteter** inställd på 0 sekunder kommer vi att identifiera e-postaktiviteter som inträffar exakt samma sekund. Om flera e-postaktiviteter inträffar inom det angivna antalet sekunder identifieras de som en Båda-aktivitet.
 
 >[!IMPORTANT]
 >
->* Om du väljer [!UICONTROL Filter Bot Activity]kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
+>* Om du väljer [!UICONTROL Filter Bot Activity] kan du se en nedgång i e-postmeddelanden som öppnas och klicka på falska aktiviteter som försvinner.
 
-**VALFRITT STEG**: Om du vill inaktivera någon av funktionerna avmarkerar du bara respektive reglage. Om du gör det återställs inte data.
+**VALFRITT STEG**: Om du vill inaktivera någon av funktionerna avmarkerar du bara respektive skjutreglage. Om du gör det återställs inte data.
 
 >[!TIP]
 >

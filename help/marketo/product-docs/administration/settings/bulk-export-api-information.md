@@ -12,13 +12,13 @@ ht-degree: 1%
 
 # API-information för massexport {#bulk-export-api-information}
 
-Lär dig hur mycket [API för massextrahering](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} din kapacitet har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
+Lär dig hur du kontrollerar hur mycket [kapacitet för API:t för massutdrag](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
 
 >[!NOTE]
 >
 >Kontakta din kontorepresentant om du behöver ytterligare kapacitet.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 

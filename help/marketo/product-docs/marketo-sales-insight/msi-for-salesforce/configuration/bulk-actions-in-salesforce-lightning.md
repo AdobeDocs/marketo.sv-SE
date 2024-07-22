@@ -19,15 +19,15 @@ Så här ställer du in massåtgärder i Salesforce Lightning.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Klicka på **Objektshanteraren** -fliken.
+1. Klicka på fliken **Objektshanteraren**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Sök och välj **Lead** label.
+1. Sök efter och markera etiketten **Lead**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicka **Sök efter layouter för Salesforce Classic**.
+1. Klicka på **Sök efter layouter för Salesforce Classic**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
@@ -35,11 +35,11 @@ Så här ställer du in massåtgärder i Salesforce Lightning.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Under Anpassade knappar söker du efter och väljer **Lägg till i Marketo Campaign (blixt)** och **Skicka Marketo-e-post (blixt)**. Klicka på **Lägg till** -knappen.
+1. Under Anpassade knappar letar du reda på och väljer **Lägg till i Marketo Campaign (blixt)** och **Skicka Marketo-e-post (blixt)**. Klicka på knappen **Lägg till**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

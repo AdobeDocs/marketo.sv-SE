@@ -19,7 +19,7 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 >
 >Funktioner för Sales Insight-åtgärder, inklusive Skicka e-post, Lägg till i säljkampanj och Uppgifter, är inte tillgängliga i e-postpluginer för Sales Insight för Gmail och Outlook. För närvarande kan användare bara skicka spårbara e-postmeddelanden med eller utan en Marketo-e-postmall från sin e-postklient när de använder e-postpluginmodulerna för Sales Insight.
 
-1. Öppna Microsoft Outlook och klicka på **Marketo-meddelande**.
+1. Öppna Microsoft Outlook och klicka på **Marketo Message**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
@@ -27,7 +27,7 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Gör alla redigeringar och klicka sedan **Send and Track**.
+1. Gör alla redigeringar och klicka sedan på **Skicka och spåra**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 

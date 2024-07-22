@@ -19,11 +19,11 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 >
 >[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klicka på **Analyser** in **Mina Marketo**.
+1. Klicka på **Analytics** i **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Välj **Program Analyzer**.
+1. Välj din **programanalys**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
@@ -31,27 +31,27 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Använd **X-axel** för att välja ett mått för den vågräta axeln. Låt oss börja med **Programkostnad**.
+1. Använd listrutan **X-axel** för att välja ett mått för den vågräta axeln. Vi börjar med **Programkostnad**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här, vi följer med **(FT) Pipeline skapad**.
+1. Använd listrutan Y-axel för att välja ett mått för den lodräta axeln. Här följer **(FT) Pipeline skapad**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Använd **Y-axel** välj **(MT) Pipeline skapad**.
+1. Använd listrutan **Y-axel** för att välja **(MT) Pipeline skapad**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   I den här flerberöringsattribueringsvyn ser vi att webbseminariekanalen har större påverkan på den pipeline som skapas och mindre kostnader än kanalerna Tradeshow och Online Advertising.
+   I den här flerberöringsattribueringsvyn ser vi att webbseminariekanalen har större påverkan på den pipeline som skapas och kostar mindre än kanalerna Tradeshow och Online Advertising.
 
    Nu ska vi lägga till ytterligare två dimensioner!
 
-1. Använd **Bubbelstorlek** för att välja ytterligare ett mått, som **Nya namn**.
+1. Använd listrutan **Bubbelstorlek** för att välja ytterligare ett mått, till exempel **Nya namn**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +59,9 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vi ser att webbseminariekanalen krymper, mätt med **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
+   Vi ser att webbseminariekanalen krymper, enligt mätning med **Nya namn**. Vi kan dra slutsatsen att även om den har många medlemmar är det mindre effektivt att generera nya leads än Tradeshow-kanalen.
 
-1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Låt oss välja **(FT) Vinstintäkter**.
+1. Använd slutligen listrutan Färg för att lägga till den fjärde dimensionen. Vi väljer **(FT) Intäkter vinn**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -71,7 +71,7 @@ Använd Program Analyzer för att jämföra kanalkostnader, medlemsförvärv, pi
 
    Av färgerna har vi fått veta att Tradeshow-kanalen, den grönaste bubblan, har påverkat de största intäkterna, som mäts med första-beröringsattribuering.
 
-1. Om vi ändrar färgens mått till **(MT) Intäkter, vinst**, ser vi att webbannonskanalen, nu den grönaste, påverkade mer intäkter - över tid_ än webbseminariet och handelskanalerna.
+1. Om vi nu ändrar Color-måttet till **(MT) Revenue Won** ser vi att Online Advertising-kanalen, nu den grönaste, påverkade mer intäkter - över tid_ än webbinariet och Tradeshow-kanalerna.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -84,4 +84,4 @@ I vårt exempel ser vi att Tradeshow-kanalen både är den mest dyra (längst ti
 >[!MORELIKETHIS]
 >
 >* [Utforska program- och kanalinformation med Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Jämför programeffektiviteten med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Jämför programeffektivitet med programanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

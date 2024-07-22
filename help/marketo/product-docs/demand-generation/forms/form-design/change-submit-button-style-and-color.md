@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du tycker att standardknappen för att skicka är trist, eller om du behöver något mer avancerat, kan du välja bland en mängd färdiga knappformat.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Välj **Skicka** och klicka **Redigera** bredvid Knappformat.
+1. Markera knappen **Skicka** och klicka på **Redigera** bredvid Knappformat.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
    >
    >Du kan också ange färgkoden manuellt.
 
-1. Klicka **Välj**.
+1. Klicka på **Markera**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

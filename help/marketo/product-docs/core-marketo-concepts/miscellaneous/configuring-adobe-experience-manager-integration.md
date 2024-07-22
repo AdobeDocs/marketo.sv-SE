@@ -35,7 +35,7 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
    ![](assets/two.png)
 
-1. I **[!UICONTROL Tools]**, klicka **[!UICONTROL Operations]** och markera **[!UICONTROL Web Console]**.
+1. I **[!UICONTROL Tools]** klickar du på **[!UICONTROL Operations]** och väljer **[!UICONTROL Web Console]**.
 
    ![](assets/2a.png)
 
@@ -47,27 +47,27 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
    ![](assets/four.png)
 
-1. I **[!UICONTROL Allowed Origins (Regexp)]** textruta, skriva in `https://.*\.marketo\.com` och klicka **[!UICONTROL Save]**.
+1. Skriv `https://.*\.marketo\.com` i textrutan **[!UICONTROL Allowed Origins (Regexp)]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/five-psd.png)
 
-1. Klicka på i sidhuvudet högst upp på sidan **[!UICONTROL Web Console]** och markera **[!UICONTROL System Information]**.
+1. Klicka på **[!UICONTROL Web Console]** i sidhuvudet högst upp på sidan och välj **[!UICONTROL System Information]**.
 
    ![](assets/six.png)
 
-1. Klicka på **[!UICONTROL Restart]** -knappen.
+1. Klicka på knappen **[!UICONTROL Restart]** under Serverinformation.
 
    ![](assets/seven.png)
 
-1. Klicka **[!UICONTROL OK]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL OK]**.
 
    ![](assets/eight.png)
 
-1. Klicka på Marketo Engage **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
 
    ![](assets/nine.png)
 
-1. Under Integrering väljer du **[!UICONTROL Adobe Experience Manager]**.
+1. Välj **[!UICONTROL Adobe Experience Manager]** under Integrering.
 
    ![](assets/ten.png)
 

@@ -19,7 +19,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >E-post som används omfattas inte av kommunikationsbegränsningar.
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
 ![](assets/one-1.png)
 
@@ -31,7 +31,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 
    ![](assets/two-1.png)
 
-1. Kontrollera **Driftmeddelande** och klicka **Spara**.
+1. Markera **Operational Email** och klicka på **Save**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >Operativa e-postmeddelanden har inte utformats för att fungera med engagemangsprogram. Ett engagemangsprogram kommer därför att ignorera ett e-postmeddelandes driftsstatus. Tänk på det när du arbetar med dem.
 
-Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig hur  [godkänna ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Glöm inte att godkänna det här e-postmeddelandet för att ändringarna ska börja gälla. Lär dig [godkänna ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

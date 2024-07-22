@@ -26,8 +26,8 @@ Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny ins
 <tbody>
   <tr>
     <td>Listimport</td>
-    <td><li>Samla in en lista med datakällor som poster hämtas från <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importera till Marketo Engage</a>.</li>
-    <li>Om du importerar från flera datakällor bör du använda malllistor eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">skapa ett anpassat fält</a> på personposten för att ange datakällan.</li></td>
+    <td><li>Samla in en lista med datakällor som poster hämtas från till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importera till Marketo Engage</a>.</li>
+    <li>Om du importerar från flera datakällor kan det vara bra att använda huvudlistor eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">skapa ett anpassat fält</a> i personposten för att ange datakällan.</li></td>
   </tr>
   <tr>
     <td>Databasintegrering</td>
@@ -48,7 +48,7 @@ Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny ins
 <tbody>
   <tr>
     <td>Användare</td>
-    <td><li>Dokumentera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuella användare</a> av säkerhetsskäl. Följande information bör inkluderas minst (och visas alla genom att gå till Admin &gt; Användare &amp; roller):</li>
+    <td><li>Dokumentera de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">aktuella användarna</a> i din instans av säkerhetsskäl. Följande information bör inkluderas minst (och visas alla genom att gå till Admin &gt; Användare &amp; roller):</li>
     <ul>
     <li>Namn</li>
     <li>E-post</li>
@@ -59,7 +59,7 @@ Nu när du har lärt dig de viktigaste produktområdena för att skapa en ny ins
     <li>Senaste inloggningsdatum</li></ul>
     <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Du kan även utöka den här för att inkludera dokumentation om roller/behörigheter.
     <p>
-    <li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">massåtgärder</a>, som att överföra en .CSV-fil, använda REST-API:t för användarhantering osv.</li></td>
+    <li>Som produktadministratör för Marketo Engage ska du utveckla en intern process för att granska och uppdatera användarlistan för Marketo Engage med jämna mellanrum. Om du vill göra ändringar i listan över användare i Adobe Admin Console bör du överväga <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">massåtgärder</a>, till exempel att överföra en .CSV-fil med REST-API:t för användarhantering.</li></td>
   </tr>
   <tr>
     <td>Organisation</td>

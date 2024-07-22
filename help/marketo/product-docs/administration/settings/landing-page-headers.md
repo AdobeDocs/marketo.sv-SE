@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner för landningssidan.
 
-1. I Marketo klickar du på **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/landing-page-headers-1.png)
 
@@ -22,11 +22,11 @@ Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner f�
 
    ![](assets/landing-page-headers-2.png)
 
-1. Klicka **[!UICONTROL Edit]** intill Landing Page HTTP Headers.
+1. Klicka på **[!UICONTROL Edit]** bredvid HTTP-rubriker för landningssida.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Välj önskade inställningar och klicka på **[!UICONTROL Save]** när det är klart.
+1. Välj önskade inställningar och klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/landing-page-headers-4.png)
 

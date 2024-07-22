@@ -19,15 +19,15 @@ Det går snabbt och enkelt att lägga till användare!
 
    ![](assets/one.png)
 
-1. Under Administratörsinställningar väljer du **Användarhantering**.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klicka **Bjud in användare**.
+1. Klicka på **Bjud in användare**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Ange e-postadresserna till de personer du vill lägga till och klicka på **Nästa**.
+1. Ange e-postadresserna till de personer som du vill lägga till och klicka på **Nästa**.
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ Det går snabbt och enkelt att lägga till användare!
    >
    >Som standard läggs alla nya medlemmar till i gruppen Alla.
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/five.png)

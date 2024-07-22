@@ -19,15 +19,15 @@ Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
    ![](assets/verify-your-email-1.png)
 
-1. Under Mitt konto klickar du på **E-postinställningar**.
+1. Klicka på **E-postinställningar** under Mitt konto.
 
    ![](assets/verify-your-email-2.png)
 
-1. Under Adress och Signatur hittar du den e-postadress du vill verifiera och klickar på **Skicka bekräftelsemeddelande igen**. Ett nytt bekräftelsemeddelande skickas.
+1. Under Adress och Signatur letar du reda på den e-postadress du vill verifiera och klickar på **Skicka bekräftelsemeddelande igen**. Ett nytt bekräftelsemeddelande skickas.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicka **Skicka igen**.
+1. Klicka på **Skicka om**.
 
    ![](assets/verify-your-email-4.png)
 

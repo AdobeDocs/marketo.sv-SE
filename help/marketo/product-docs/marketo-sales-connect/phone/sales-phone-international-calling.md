@@ -6,8 +6,8 @@ exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 16%
+source-wordcount: '399'
+ht-degree: 11%
 
 ---
 
@@ -33,7 +33,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
   </tr> 
   <tr> 
    <td colspan="1">Österrike</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436988, 4366 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -137,7 +137,7 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
   </tr> 
   <tr> 
    <td>USA</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
@@ -150,11 +150,11 @@ Säljtelefon gör det enkelt för dig att kommunicera internationellt. För kund
 
 Idag erbjuder vi internationella telefonsamtal till vår Sales Phone utan extra kostnad. Vi vill göra det enkelt för er att kommunicera med era egna presumtiva kunder och kunder, och därför har vi lanserat stöd för internationella telefonsamtal med standardtaxa. Vi erbjuder täckning till 34 länder utanför USA och Kanada för regioner i Europa, Asien och andra viktiga destinationer. Vi kommer att fortsätta att utöka baserat på kundernas feedback.
 
-**Om jag befinner mig utanför USA, vilka länder kan jag ringa från och till?**
+**Vilka länder kan jag ringa från och till om jag befinner mig utanför USA?**
 
 Här är en lista över länder som vi för närvarande inte stöder samtal från och till. Om det land du ringer från stöds, kan du ringa vilket annat internationellt land som helst som vi stöder.
 
-**Finns det specifika typer av nummer som jag inte kan ringa via telefonförsäljning?**
+**Finns det specifika typer av nummer som jag inte kan ringa med telefonförsäljning?**
 
 Ja. Vi stöder inte samtal till telefonnummer för premiumpriser (till exempel 900 siffror i USA och +449 i Storbritannien). I allmänhet stöder vi inte att vi ringer telefonnummer för delade kostnader samt ett litet antal andra premiumvägar.
 

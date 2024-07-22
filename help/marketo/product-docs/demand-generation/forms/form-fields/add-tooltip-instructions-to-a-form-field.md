@@ -19,33 +19,33 @@ ht-degree: 0%
 >
 >**Definition**
 >
->Formulär **Tips** är text i fältet som försvinner när besökaren börjar skriva i fältet.
+>Formuläret **Tips** är text i fältet som försvinner när besökaren börjar skriva i fältet.
 >
->Formulär **Instruktioner** är små verktygstips som visas när besökaren hovrar över fältet.
+>Formuläret **Instruktioner** är små verktygstips som visas när besökaren hovrar över fältet.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Välj **formulär** och klicka **Redigera formulär**.
+1. Markera ditt **formulär** och klicka på **Redigera formulär**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Markera fältet och ange **Instruktioner**.
+1. Markera fältet och ange **instruktioner**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >Glöm inte att [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Glöm inte att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

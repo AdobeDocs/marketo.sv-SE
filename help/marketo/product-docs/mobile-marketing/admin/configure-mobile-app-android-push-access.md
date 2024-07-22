@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512432
-description: Konfigurera åtkomst till Android-push för mobilappar - Marketo Docs - produktdokumentation
-title: Konfigurera Android-åtkomst för mobilapp
+description: Konfigurera Android Push Access för mobilappar - Marketo Docs - produktdokumentation
+title: Konfigurera Android Push Access för mobilappar
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera Android-åtkomst för mobilapp {#configure-mobile-app-android-push-access}
+# Konfigurera Android Push Access för mobilappar {#configure-mobile-app-android-push-access}
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Under **Åtkomsttyp för push**, markera **Android** och klicka **Konfigurera.**
+1. Under **Push Access Type** väljer du **Android** och klickar på **Configure.**
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Du behöver en **Server-API-nyckel** och **Projektnummer** från mobilappsutvecklaren. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera appen och aktivera molnmeddelanden.
+   >Du behöver en **Server-API-nyckel** och **projektnummer** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera din app och aktivera molnmeddelanden.
 
-1. Ange nyckel för server-API och projektnummer. Klicka **Spara**.
+1. Ange nyckel för server-API och projektnummer. Klicka på **Spara**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 

@@ -6,7 +6,7 @@ exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Spåra svar görs genom att titta på ett meddelande-ID som finns i varje e-post
 
 >[!PREREQUISITES]
 >
->**Anslutning till e-postserver:** Sales Connect måste vara ansluten till din inkorg så att vi vet när ett nytt svar har kommit. Du måste ha ett Sales Connect-konto [ansluten till Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Om du använder Outlook måste vi integrera med dina [Exchange-server](https://toutapp.com/next#settings/exchange_settings).
+>**Anslutning till e-postserver:** Sales Connect måste vara ansluten till din inkorg så att vi vet när ett nytt svar har kommit. Du måste ha ditt Sales Connect-konto [anslutet till Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Om du använder Outlook måste vi integrera med din [Exchange-server](https://toutapp.com/next#settings/exchange_settings).
 
 Om Sales Connect inte kan spåra den potentiella kundens svar på ditt e-postmeddelande kan den inte stoppa en kampanj baserat på svarsidentifiering eller loggning som svarar till Salesforce.  Vad menar vi med e-postadresser som kan svara?
 

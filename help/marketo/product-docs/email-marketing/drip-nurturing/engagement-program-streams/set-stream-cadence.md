@@ -6,36 +6,36 @@ exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
 
 # Ange strömavslut {#set-stream-cadence}
 
-Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan, eller var tredje tisdag i månaden.
+Ni kan skicka engagemangsinnehåll när ni vill. Exempel: en gång i veckan eller var tredje tisdag i månaden.
 
 ## Ange hörnpunkt {#set-cadence}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Hitta och välj engagemangsprogram genom att klicka på **Strömmar** tabbtangenten och sedan klicka **Ange strömavslut**.
+1. Hitta och välj ditt engagemangsprogram, klicka på fliken **Strömmar** och klicka sedan på **Ange stängsel för strömmar**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja **Vecka** eller **Månadsvis**.
+1. Välj hur ofta du vill att cadence ska upprepas. Du kan välja **Veckovis** eller **Månadsvis**.
 
 ## Vecka {#weekly}
 
-1. Välj **Vecka**.
+1. Välj **Varje vecka**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Markera **Ingen** stänger av strömmen.
+   >Om du väljer **Ingen** stängs dataströmmen av.
 
 1. Välj datum för den första omgången.
 
@@ -51,15 +51,15 @@ Ni kan skicka engagemangsinnehåll när ni vill. Till exempel: en gång i veckan
 
    >[!TIP]
    >
-   >Du kan ställa in att din cadence ska köras varje dag genom att välja **Upprepningar: Vecka** / **Varje: 1 vecka** / **På**: alla dagar.
+   >Du kan ange att din cadence ska köras varje dag genom att välja **Upprepningar: Vecka** / **Var: 1 Vecka** / **På**: alla dagar.
 
-   Välj tid nu. Markera rutan om du vill använda den [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(d.v.s. leverera i enlighet med lokala tidszoner) och klicka sedan på **Spara**.
+   Välj tid nu. Markera rutan om du vill använda [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.v.s. leverera enligt lokala tidszoner) och klicka sedan på **Spara**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >Innehållet kommer att publiceras det datum du valde för den första omgången, så se till att det sammanfaller med den veckodag du väljer; i annat fall kommer det att gå ut två gånger under den första veckan.
+   >Innehållet skrivs ut det datum du valde för den första omgången, så se till att det sammanfaller med den veckodag du väljer. Annars går det ut två gånger den första veckan.
 
 1. Hovra över staketet. Du får se vilka dagar som framtida sändningar kommer att gå ut.
 
@@ -73,7 +73,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
 
 ## Månadsvis {#monthly}
 
-1. Välj **Månadsvis** för hur ofta det upprepas.
+1. Välj **Månadsvis** om du vill se hur ofta den upprepas.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ Så ja! Fortsätt läsa om du vill konfigurera en månadskurs.
    >
    >Du kan också välja veckodag.
 
-1. Välj en **Tid** och klicka **Spara**.
+1. Välj en **tid** och klicka på **Spara**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
@@ -109,5 +109,5 @@ Nu vet du hur man lägger upp en strömcadence!
 
 >[!MORELIKETHIS]
 >
->* [Förstå mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Förstå mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Schemalägg engagemangsprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

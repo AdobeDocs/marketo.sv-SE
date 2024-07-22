@@ -5,19 +5,19 @@ exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
 source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
 
 # Steg 1 av 4: Installera Marketo Solution med Resource Owner Password Control Connection {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du först installera Marketo-lösningen i Dynamics. **Administratörsbehörigheter för Dynamics krävs**.
+Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du först installera Marketo-lösningen i Dynamics. **Dynamics-administratörsbehörigheter krävs**.
 
 >[!CAUTION]
 >
 >* Aktivera inte anpassad entitetssynkronisering innan den inledande synkroniseringen har slutförts. Du meddelas via e-post när den första synkroniseringen är klar.
->* Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Mer information får du av [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>* Om Multi-Factor Authentication (MFA) är aktiverat för Dynamics Sync måste du inaktivera det för att Dynamics ska kunna synkroniseras korrekt med Marketo. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} om du vill ha mer information.
 
 >[!NOTE]
 >
@@ -25,17 +25,17 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du f�
 
 >[!PREREQUISITES]
 >
->[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Hämta Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. Logga in på **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Klicka ![](assets/image2015-3-16-16-3a1-3a13.png) meny och välj **[!UICONTROL CRM]**.
+1. Klicka på menyn ![](assets/image2015-3-16-16-3a1-3a13.png) och välj **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klicka ![](assets/image2015-5-13-10-3a5-3a8.png) -menyn. Välj **[!UICONTROL Settings]** välj **[!UICONTROL Solutions]**.
+1. Klicka på menyn ![](assets/image2015-5-13-10-3a5-3a8.png). I listrutan väljer du **[!UICONTROL Settings]** och sedan **[!UICONTROL Solutions]**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -43,7 +43,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du f�
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicka på **[!UICONTROL Choose File]**. Välj den Marketo Lead Management-lösning du använder [nedladdad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Choose File]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -51,11 +51,11 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du f�
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. När du är klar med kontrollen av all information klickar du på **[!UICONTROL Close]**.
+1. När du har kontrollerat alla detaljer klickar du på **[!UICONTROL Close]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Nu kan du gå tillbaka till sidan Lösningsinformation och klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Next]** på sidan Lösningsinformation igen.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -83,7 +83,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du f�
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Välj **[!UICONTROL Marketo Lead Management]** och klicka **[!UICONTROL Publish All Customizations]**.
+1. Markera **[!UICONTROL Marketo Lead Management]** och klicka på **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -91,4 +91,4 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo Engage måste du f�
 
    >[!MORELIKETHIS]
    >
-   >[Steg 2 av 4: Konfigurera Marketo Solution med Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+   >[Steg 2 av 4: Konfigurera Marketo-lösningen med Resursägarens lösenordskontrollanslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949206
 description: SEO - Importera nyckelord med en CSV - Marketo Docs - Produktdokumentation
-title: SEO - Importera nyckelord med en CSV-fil
+title: SEO - Importera nyckelord med en CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 2%
 
 ---
 
-# SEO - Importera nyckelord med en CSV-fil {#seo-importing-keywords-with-a-csv}
+# SEO - Importera nyckelord med en CSV {#seo-importing-keywords-with-a-csv}
 
-1. Du kan [lägg till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) och till och med importera nyckelord från en CSV-fil. Så här gör du importen.
+1. Du kan [lägga till nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellt, [hämta nyckelordsförslag](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) och till och med importera nyckelord från en CSV-fil. Så här gör du importen.
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Importgränserna varierar beroende på din prenumeration. Kontakta din säljare om du vill ha mer information.
+   >Importgränserna varierar beroende på prenumerationen. Kontakta din säljare om du vill ha mer information.
 
 1. Klicka på **[!UICONTROL Import]**.
 

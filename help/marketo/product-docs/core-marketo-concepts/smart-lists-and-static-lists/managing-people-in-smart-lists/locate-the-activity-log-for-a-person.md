@@ -23,7 +23,7 @@ Aktivitetsloggen är den ultimata källan till sanning. Det här är den fullst�
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicka på **[!UICONTROL People]** -fliken. Välj en person **[!UICONTROL Id]** tal.
+1. Klicka på fliken **[!UICONTROL People]**. Välj en person **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -49,4 +49,4 @@ Behöver du exportera en persons aktivitetslogg till Excel?
 
    >[!MORELIKETHIS]
    >
-   >Läs mer om [filtrera aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} för att se specifik personverksamhet.
+   >Läs mer om [filtrering av aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} för att se specifika personaktiviteter.

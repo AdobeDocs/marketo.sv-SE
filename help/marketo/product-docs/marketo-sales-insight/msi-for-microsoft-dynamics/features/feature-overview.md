@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37357043
 description: Funktionsöversikt - Marketo Docs - produktdokumentation
-title: Funktionsöversikt
+title: Översikt över funktioner
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 ---
 
-# Funktionsöversikt {#feature-overview}
+# Översikt över funktioner {#feature-overview}
 
 Följande funktioner är tillgängliga i den nya MSI MSD-lösningen.
 
@@ -55,7 +55,7 @@ Följande funktioner är tillgängliga i den nya MSI MSD-lösningen.
 * Prioritet
 * Akut
 
-## Marketo Sales Insight-anrop till åtgärdsknappen i kontaktlayouten  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Marketo Sales Insight call to action button in Contact layout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Lägg till i Marketo Campaign
 * Skicka e-post till Marketo

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lyssna på och agera utifrån viktiga beteendeaktiviteter på kontonivå i olika kanaler (t.ex. e-post, webben, annonser) med hjälp av utlösare på kontonivå.
 
-Välj en smart kampanj och klicka på **[!UICONTROL Smart List]**.
+Välj din smarta kampanj och klicka på **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Ange &quot;Namngivet konto&quot; i sökrutan för att hitta båda utlösarna fö
 
 ![](assets/two-1.png)
 
-Dra utlösaren till arbetsytan. I det här exemplet använder vi _Tillagt på namngivet konto_.
+Dra utlösaren till arbetsytan. I det här exemplet använder vi _Added to Named Account_.
 
 ![](assets/three-1.png)
 

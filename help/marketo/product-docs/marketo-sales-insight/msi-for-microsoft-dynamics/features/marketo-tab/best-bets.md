@@ -18,6 +18,6 @@ Genom att klicka på punktmenyn under åtgärdskolumnen kan du använda interakt
 * Skicka e-post till Marketo
 * Lägg till i Marketo Campaign
 
-Du kan också välja flera leads på fliken Bästa val och välja _Skicka e-post till Marketo_ eller _Lägg till i Marketo Campaign_.
+Du kan också välja flera leads på fliken Bästa val och välja _Skicka Marketo-e-post_ eller _Lägg till i Marketo Campaign_.
 
 ![](assets/best-bets-1.png)

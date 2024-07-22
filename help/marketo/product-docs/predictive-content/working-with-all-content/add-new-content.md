@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
-1. Klicka på **Lägg till innehåll** nedrullningsbar meny och välj **Lägg till innehåll**.
+1. Klicka på listrutan **Lägg till innehåll** och välj **Lägg till innehåll**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicka **Lägg till**.
+1. Klicka på **Lägg till**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Den nya titeln visas nu på **Allt innehåll** sida. Observera att det inte har godkänts för prediktivt innehåll än.
+1. Den nya titeln visas nu på sidan **Allt innehåll**. Observera att det inte har godkänts för prediktivt innehåll än.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

@@ -21,7 +21,7 @@ Behöver du automatiskt avsluta en kampanj när en mottagare svarar? Så här g�
 
 ## Inaktivera en kampanj för en person {#turn-off-a-campaign-for-one-person}
 
-När du har skapat din kampanj går du bara till **Inställningar** och välja hur ni vill att kampanjen ska fungera om någon svarar.
+När du har skapat din kampanj går du till fliken **Inställningar** och väljer hur du vill att kampanjen ska fungera om någon svarar.
 
 Båda alternativen avslutar kampanjen och mottagaren får inga fler e-postmeddelanden från dig.
 

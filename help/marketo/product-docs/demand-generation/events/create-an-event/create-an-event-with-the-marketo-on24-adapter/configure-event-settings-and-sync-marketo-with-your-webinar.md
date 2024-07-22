@@ -6,7 +6,7 @@ exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följ de här stegen för att konfigurera händelseinställningarna för Marketo
 
 ## Ange händelsen {#set-the-event}
 
-1. Välj den händelse som du vill associera med ett ON24-webbinarium och klicka sedan på **Händelseåtgärder** nedrullningsbar meny och välj **Händelseinställningar**.
+1. Välj den händelse som du vill associera med ett ON24-webbinarium, klicka sedan på listrutan **Händelseåtgärder** och välj **Händelseinställningar**.
 
    ![](assets/one.png)
 
@@ -29,29 +29,29 @@ Följ de här stegen för att konfigurera händelseinställningarna för Marketo
 
    ![](assets/three.png)
 
-1. Ange händelse-ID (hämta detta från ON24). Klicka **Spara**.
+1. Ange händelse-ID (hämta detta från ON24). Klicka på **Spara**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Under högtider kan det ta 15 till 20 minuter för ON24 att göra händelseinformationen tillgänglig för Marketo. Om du får meddelandet&quot;Ogiltigt sessions-ID&quot; kan du försöka igen lite senare.
+   >Under högbelastningstider kan det ta 15 till 20 minuter för ON24 att göra händelseinformationen tillgänglig för Marketo. Om du får meddelandet&quot;Ogiltigt sessions-ID&quot; kan du försöka igen lite senare.
 
 ## Ange schema {#set-the-schedule}
 
 När du ställer in en händelse som är associerad med ett ON24-webbinarium fylls händelseschemat i med data från ON24. Följ de här stegen för att öppna dialogrutan Händelseschema.
 
-1. Markera händelsen. Klicka på **Händelseåtgärder** nedrullningsbar meny och välj **Schemalägg.**
+1. Markera händelsen. Klicka på listrutan **Händelseåtgärder** och välj **Schemalägg.**
 
    ![](assets/five.png)
 
-1. Välj **Startdatum, slutdatum** och **Tidszon**. Klicka **Spara**.
+1. Välj **Startdatum, Slutdatum** och **Tidszon**. Klicka på **Spara**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder för att se hur nya data fylls i.
+   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder för att se hur nya data fylls i.
 
 Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 

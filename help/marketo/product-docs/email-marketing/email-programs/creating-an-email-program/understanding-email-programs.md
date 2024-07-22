@@ -17,7 +17,7 @@ Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett o
 
 ## Kontrollpanelen {#control-panel}
 
-Fyra lådor håller dig fokuserad. **Målgrupp** definierar &quot;vem&quot;, **E-post** innehåller&quot;what,&quot; **Schema** definierar &quot;when,&quot; och **Godkännande** gör den redo att gå.
+Fyra lådor håller dig fokuserad. **Målgruppen** definierar &quot;vem&quot;, **Email** anger &quot;vad&quot;, **Schedule** definierar &quot;when&quot; och **Approval** gör det klart att användas.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Läs mer om följande A/B-tester:
 
 >[!CAUTION]
 >
->För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
+>Undvik att _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det startade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande [klonar du det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 Njut av frukterna av ditt arbete. Kontrollpanelerna visar e-postprogrammet och A/B-testresultatet i korthet.
 
@@ -79,5 +79,5 @@ Nu när du förstår e-postprogram kan du komma igång med en av de relaterade a
 >* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
 >* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Skapa en e-postadress för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Schemalägg ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

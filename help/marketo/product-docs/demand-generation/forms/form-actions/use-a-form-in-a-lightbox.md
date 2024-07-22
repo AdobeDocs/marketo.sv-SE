@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En ljuslåda är en teknik som öppnar ett formulär framför innehållet när du vill att det ska visas. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Under **Formuläråtgärder**, klicka **Bädda in kod**.
+1. Klicka på **Bädda in kod** under **Formuläråtgärder**.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Ange **Kodtyp** till **Ljuslåda**.
+1. Ange **kodtypen** till **Ljuslåda**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 

@@ -17,7 +17,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!PREREQUISITES]
 >
->* [Skapa en användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Skapa endast en API-användarroll](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Skapa endast en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
@@ -27,15 +27,15 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Läs mer om våra utvecklares dokumentation om [REST API](https://developer.adobe.com/marketo-apis/). Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är vad du behöver.
+>Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Klicka **LaunchPoint**.
+1. Klicka på **LaunchPoint**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
@@ -43,7 +43,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Ange en **[!UICONTROL Display Name]** för tjänsten. Välj **[!UICONTROL API Only User]** [tidigare skapat](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Ange en **[!UICONTROL Display Name]** för tjänsten. Markera **[!UICONTROL API Only User]** [som skapades](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -59,7 +59,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 ## Autentiseringsuppgifter för API-åtkomst {#credentials-for-api-access}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
@@ -67,7 +67,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klicka **[!UICONTROL View Details]** för anpassade [!UICONTROL LaunchPoint] tjänst skapad ovan.
+1. Klicka på **[!UICONTROL View Details]** för den anpassade [!UICONTROL LaunchPoint]-tjänsten som skapats ovan.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 

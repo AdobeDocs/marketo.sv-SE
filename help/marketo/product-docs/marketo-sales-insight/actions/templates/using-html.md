@@ -18,18 +18,18 @@ ht-degree: 0%
 
    ![](assets/using-html-1.png)
 
-1. Klicka på **Redigera**.
+1. Klicka på **Redigera** på mallredigeringskortet.
 
    ![](assets/using-html-2.png)
 
-1. Klicka på **Källa** i mallredigeraren.
+1. Klicka på knappen **Source** i mallredigeraren.
 
    ![](assets/using-html-3.png)
 
-1. Klistra in källkoden och klicka **Spara**.
+1. Klistra in källkoden och klicka på **Spara**.
 
    ![](assets/using-html-4.png)
 
 >[!NOTE]
 >
->Om du får felmeddelandet &quot;Error - to remove the style/java/html tags&quot; betyder det att du har en formatering som vi inte stöder. Du bör söka efter ordstilen i källkoden och ta bort allt från `<style>` via `</style>`.
+>Om du får felmeddelandet &quot;Error - to remove the style/java/html tags&quot; betyder det att du har en formatering som vi inte stöder. Du bör söka efter ordformatet i Source-koden och ta bort allt från `<style>` till `</style>`.

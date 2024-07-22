@@ -19,17 +19,17 @@ Få en visuell representation av hastighet och flöde genom er intäktscykelmode
 >
 >[Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Klicka på **Analyser** platta.
+1. Klicka på rutan **Analyser**.
 
    ![](assets/one.png)
 
-1. Klicka på **Success Path Analyzer** ikon.
+1. Klicka på ikonen **Success Path Analyzer** .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Om du får en varning om att inga data hittades i den angivna tidsramen klickar du bara på **Stäng** för att ändra tidsramen. Om du inte uppmanas att göra det men vill ändra tidsramen går du till **Inställningar** och dubbelklicka **Tidsram**.
+   >Om du får en varning om att inga data hittades i den angivna tidsramen klickar du bara på **Stäng** för att ändra tidsramen. Om du inte uppmanas att göra det men vill ändra tidsramen går du till **Inställningar** och dubbelklickar på **Tidsram**.
 
 1. Om du inte har några data eller om du ändrar tidsramen väljer du en i listrutan och klickar på Spara.
 
@@ -37,9 +37,9 @@ Få en visuell representation av hastighet och flöde genom er intäktscykelmode
 
    >[!TIP]
    >
-   >Om du vill markera ett visst område väljer du **Egen** och använder **Från** och **Till** fält.
+   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till**.
 
-1. Om du har fler än en intäktscykelmodell väljer du den du vill ha på menyn **Inställningar** -fliken.
+1. Om du har fler än en intäktscykelmodell väljer du den du vill ha på fliken **Inställningar**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Få en visuell representation av hastighet och flöde genom er intäktscykelmode
 
    ![](assets/five.png)
 
-1. Klicka på **Success Path Analyzer** -fliken.
+1. Klicka på fliken **Success Path Analyzer**.
 
    ![](assets/success-tab.png)
 
@@ -55,8 +55,8 @@ Nu kan du utforska hur du rör dig mellan scenerna!
 
 >[!TIP]
 >
->Vill du spara din rapport? Klicka på **Analysåtgärder** nedrullningsbar meny och välj **Spara som**.
+>Vill du spara din rapport? Klicka på listrutan **Analysåtgärder** och välj **Spara som**.
 
 >[!MORELIKETHIS]
 >
->[Använda sökvägsanalysen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+>[Använda sökvägsanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)

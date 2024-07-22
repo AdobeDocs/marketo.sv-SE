@@ -16,11 +16,11 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 >[!TIP]
 >
->Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} för att visa självstudiekurser om Dynamic Chat.
+>Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
 
 ## Integreringar {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att ha ett gränssnitt för Marketo-prenumerationer. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data för den första, [engångssynkronisering](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} för att slutföra.
+En viktig komponent i Dynamic Chat är möjligheten att ha ett gränssnitt för Marketo-prenumerationer. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data att slutföra den inledande [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.
 
 Följande synkroniseras:
 
@@ -50,11 +50,11 @@ Här kan du se en lista över alla agenter som har kopplat samman sina kalendrar
 
 ## Live Chatt {#live-chat}
 
-Erbjud dina kvalificerade webbbesökare att komma i kontakt med säljarna via [live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+Erbjud dina kvalificerade webbbesökare att få kontakt med dina säljare via [live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## Konversationsflöde {#conversational-flow}
 
-[Designa en konversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} som kan aktiveras av en besökare baserat på en åtgärd som du anger (t.ex. att fylla i ett formulär, klicka på en länk).
+[Designa en konversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} som kan utlösas av en besökare baserat på en åtgärd som du anger (t.ex. att fylla i ett formulär, klicka på en länk).
 
 ## Generativ AI {#generative-ai}
 
@@ -66,7 +66,7 @@ Följ stegen nedan för att ändra ditt Dynamic Chat-språk.
 
 >[!IMPORTANT]
 >
->Om du ändrar ditt språk på profilnivå ändras språket för _alla_ Experience Cloud, inte bara Dynamic Chat.
+>Om du ändrar ditt språk på profilnivån ändras språket för _alla_-program, inte bara Dynamic Chat.
 
 1. Klicka på inställningsikonen på ditt Experience Cloud-konto och välj **Inställningar**.
 
@@ -88,7 +88,7 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
 
 ## Bevarandegränser för data i Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständig lista finns i Marketo Engage [Produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datatyp</th>
@@ -117,4 +117,4 @@ Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständ
 
 ## Vanliga frågor och svar {#faq}
 
-Se [Vanliga frågor om Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Se [Dynamic Chat - frågor och svar](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

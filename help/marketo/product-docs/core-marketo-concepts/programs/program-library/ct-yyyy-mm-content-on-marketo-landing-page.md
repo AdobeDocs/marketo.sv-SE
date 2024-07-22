@@ -2,10 +2,10 @@
 description: CT-YYY-MM-Content on Marketo Landing Page - Marketo Docs - Product Documentation
 title: CT-YYY-MM-Content on Marketo Landing Page
 feature: Programs
-exl-id: 11745023-a0c1-45ef-9547-6426f24e3fee
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Det här exemplet är utformat som ett innehållsprogram som använder en landningssida för Marketo Engage med ett Marketo Engage-formulär som använder ett standardprogram för Marketo Engage. Formuläret är för att få tillgång till innehållet/erbjudandet. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -36,7 +36,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Resurser - innehåller alla kreativa resurser 
+   <td>Assets - innehåller alla kreativa resurser 
 <br/>(undermappar för e-post, landningssidor och Forms)  </td>
   </tr>
   <tr> 
@@ -177,11 +177,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -202,7 +202,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;02-engagerad&quot; för att spåra framgångar! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;02-engagerad&quot; för att spåra framgångar! Gör detta _innan_ ditt formulär är live och e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

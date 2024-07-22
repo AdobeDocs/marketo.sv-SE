@@ -20,13 +20,13 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **14 oktober 2022**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **14 oktober 2022**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
 
 ### Marknadsföringsdatamiljö {#marketing-data-environment}
 
 </br>
 
-* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som tagits emot för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.) med kampanjmedlemsfält i Salesforce.
+* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som har hämtats för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.) med kampanjmedlemsfält i Salesforce.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tbody>
 </table>
 
-* **Integrering med Adobe Privacy Service**: Harmonisera med Privacy Service för att automatisera efterlevnaden av datasekretesbestämmelser i olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
+* **Integrering av Privacy Service i Adobe**: Harmonisera med Privacy Service för att automatisera kompatibiliteten med dataintegritetsregler för olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Uppdaterade skärmar i nästa generation**: Vi levererar nya, uppdaterade skärmar i nästa generation av upplevelser som ger en uppdaterad design- och användarvänlighetsförbättring som är tillgänglig via växlingsknapp:
+* **Uppdaterade Screens i nästa generations upplevelse**: Vi levererar nya, uppdaterade skärmar i nästa generations upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
    * Information om landningssidmall
    * E-postmallslista
@@ -107,7 +107,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 </br>
 
-* **Masslead-import: Salesperson-association**: Paritet med Lead REST API för att kunna associera leads med säljare under bulkimporten, vilket minskar komplexiteten och antalet API-anrop som krävs.
+* **Masslead-import: Salesperson-association**: Paritet med lead REST API för att kunna associera leads med säljare under bulklead-importprocessen, vilket minskar komplexiteten och antalet API-anrop som krävs.
 
 <table> 
   <tr> 
@@ -127,7 +127,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Sales Insight Integration med Dynamic Chat**: Insikter Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
+* **Sales Insight-integrering med Dynamic Chat**: Insikter-instrumentpanelen innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-* **Ordna dialogströmmar automatiskt för Dynamic Chat**: Förbättra arbetsytan i den fullmatade dialogen genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
+* **Dialogrutan Ordna automatiskt strömmar för Dynamic Chat**: Förbättra arbetsytan i din fullmatade dialog genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
 
 <table> 
   <tr> 
@@ -154,12 +154,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tr>
   <tr> 
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Stream Designer-ikoner</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Strömma Designer-ikoner</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Möteslänkar för Dynamic Chat**: Möjlighet att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökarna.
+* **Möteslänkar för Dynamic Chat**: Alternativ för att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökare.
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
   </tbody>
 </table>
 
-* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flyttal) gör att du kan utnyttja fler Marketo Engage fält i Dynamic Chat för saker som målgruppsanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
+* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, float) gör att du kan utnyttja fler befintliga Marketo Engage-fält i Dynamic Chat för saker som målanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
 
 <table> 
   <tr> 
@@ -191,4 +191,4 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Forms 1.0**: Borttagningen av Forms 1.0 slutförs i oktober-versionen. Forms 1.0-mediefiler kan inte längre skicka data till Marketo Engage och returnerar fel vid försök.
 
-* **Forms utan skript**: Forms fungerar inte längre när Javascript är inaktiverat i webbläsaren. Formulärinlämning kräver att Javascript är aktiverat.
+* **Forms utan skript**: Forms fungerar inte längre när JavaScript är inaktiverat i webbläsaren. Formulärinlämning kräver att Javascript är aktiverat.

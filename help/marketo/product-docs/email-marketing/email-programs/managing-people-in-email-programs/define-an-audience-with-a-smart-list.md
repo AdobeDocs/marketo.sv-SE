@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definiera en publik med en smart lista {#define-an-audience-with-a-smart-list}
 
-En gång [skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)ska du tala om för den vem som e-postmeddelandet ska skickas till. Du kan göra det här genom att [importera en lista med personer](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) eller med en smart lista. Så här gör du med en smart lista.
+När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) vill du tala om för det vem du vill skicka e-postmeddelandet till. Du kan göra detta genom att [importera en lista över personer](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) eller med en smart lista. Så här gör du med en smart lista.
 
 >[!PREREQUISITES]
 >
@@ -23,17 +23,17 @@ En gång [skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/em
 >
 >Det går bara att definiera målgruppen när e-postprogrammet inte har godkänts.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj e-postprogram och klicka sedan på **Redigera smart lista** under **Målgrupp** platta.
+1. Välj ditt e-postprogram och klicka sedan på **Redigera smart lista** under rutan **Målgrupp**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Kontrollera att vyn är inställd på **Kontrollpanelen** om du vill hitta den här inställningen.
+   >Kontrollera att vyn är inställd på **Kontrollpanelen** för att hitta den här inställningen.
 
 1. Hitta de filter du vill använda och dra dem till arbetsytan.
 
@@ -47,7 +47,7 @@ En gång [skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/em
 
    ![](assets/myemailprogram.jpg)
 
-   Utmärkt arbete! Nu är det dags att [välj ett befintligt e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) att skicka till dessa personer.
+   Utmärkt arbete! Nu är det dags att [välja ett befintligt e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) som ska skickas till dessa personer.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ En gång [skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/em
 >* Ogiltig e-postadress
 >* Tom e-postadress
 >
->Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick. **Observera:** E-post skickas fortfarande till personer som markerats som avbeställda och marknadsföringen har avbrutits.
+>Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick. **Obs!** E-postmeddelanden skickas fortfarande till personer som har markerats som avbrutna prenumerationer och marknadsföringen har pausats.
 >
->Använd ![—](assets/image2014-10-23-16-3a32-3a36.png) på publikpanelen för att se hur många som får e-postmeddelandet.
+>Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36.png) på målgruppspanelen för att se hur många personer som får e-postmeddelandet.
 
 >[!MORELIKETHIS]
 >
 >* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Skapa en e-postadress för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

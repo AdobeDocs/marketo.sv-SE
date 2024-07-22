@@ -2,10 +2,10 @@
 description: OP-Scoring-Demographic - Marketo Docs - produktdokumentation
 title: OP-Scoring-Demographic
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '310'
 ht-degree: 7%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 Detta är ett exempel på ett avancerat (tokeniserat) operativt program som använder ett Marketo Engage-standardprogram för demografiska poängbedömningar. Visa och redigera poängvärdena på fliken Mina token. Kräver ett anpassat poängfält med namnet&quot;Demografisk poäng&quot;.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -52,7 +52,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -240,7 +240,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

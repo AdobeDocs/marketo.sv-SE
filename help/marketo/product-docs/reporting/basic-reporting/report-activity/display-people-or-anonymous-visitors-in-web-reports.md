@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >[Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-I [Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) och  [Webbaktivitetsrapporter för företag](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) du kan se antingen [personer eller anonyma besökare](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) som besöker er webbplats. De anonyma besökarna har kommit på data, som Metro Area.  Så här väljer du om rapporten ska visa kända leads eller anonyma besökare.
+I [webbsidesaktivitetsrapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) och [företagswebbaktivitetsrapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) kan du se antingen [personer eller anonyma besökare](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) som besöker din webbplats. De anonyma besökarna har kommit på data, som Metro Area.  Så här väljer du om rapporten ska visa kända leads eller anonyma besökare.
 
-1. Klicka på **Inställningar**.
+1. Klicka på **Konfigurera** i din rapport om webbsidesaktivitet.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Dubbelklicka **Aktivitetskälla**.
+1. Dubbelklicka på **Activity Source**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. Välj **Kända leads** (personer) eller **Anonyma besökare** i listrutan.
+1. Välj **Kända leads** (personer) eller **Anonyma besökare** i listrutan på popup-menyn.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -35,10 +35,10 @@ I [Webbsidesaktivitet](/help/marketo/product-docs/reporting/basic-reporting/repo
    >
    >Inkludera Internetleverantörer för anonyma besökare som genererar en längre rapport, men om ni utesluter dem får ni en tydligare bild av var era besökare kommer ifrån utöver standardkällorna, som Google.
 
-1. Så där. Klicka på **Rapport** för att gå tillbaka och visa din rapport med kända eller anonyma personer.
+1. Så där ja. Klicka på fliken **Rapport** för att gå tillbaka och visa din rapport med kända eller anonyma personer.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
 >[!MORELIKETHIS]
 >
->[Spåra anonym aktivitet och människor](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+>[Spåra anonym aktivitet och personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

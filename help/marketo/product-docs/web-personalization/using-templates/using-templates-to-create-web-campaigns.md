@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda mallar för att skapa webbkampanjer {#using-templates-to-create-web-campaigns}
 
-Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra inbyggda mallar eller [egen](save-your-campaign-as-a-template.md).
+Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra inbyggda mallar eller genom att [spara din egen](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicka **Skapa ny webbkampanj**.
+1. Klicka på **Skapa ny webbkampanj**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicka **Mallar**.
+1. Klicka på **Mallar**.
 
    ![](assets/templates.png)
 
@@ -49,13 +49,13 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    >[!TIP]
    >
-   >För mobilkampanjer väljer du en mall från **mobil** -avsnitt.
+   >För mobilkampanjer väljer du en mall i avsnittet **mobile**.
 
 1. Anpassa mallen.
 
    ![](assets/customize-template.jpg)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/click-save-hand.jpg)
 

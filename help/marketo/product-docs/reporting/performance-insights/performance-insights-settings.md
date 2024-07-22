@@ -23,7 +23,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Visa slutförda program efter {#view-program-success-by}
 
-**Engagement Dashboard - Bidrag och trender**
+**Instrumentpanel för engagemang - Bidrag och trend**
 
 <table> 
  <tbody> 
@@ -40,13 +40,13 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Konfiguration för föregående period {#previous-period-configuration}
 
-**Engagemang, pipeline, intäktsinstrumentpaneler - endast bidrag**
+**Åtagande, pipeline, intäktsinstrumentpaneler - endast bidrag**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Kalenderperiod</strong></td> 
-   <td>Ställ in föregående period på: föregående kalendermånad, kvartal eller år.</td> 
+   <td>Ange föregående period till: föregående kalendermånad, kvartal eller år.</td> 
   </tr> 
   <tr> 
    <td><strong>YOY Period</strong></td> 
@@ -57,7 +57,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Marknadsföringspåverkade affärsmöjligheter {#marketing-influenced-opportunities}
 
-**Instrumentpanel för pipeline - Bidrag och trender**
+**Instrumentpanel för pipeline - Bidrag och trend**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Lär dig mer om de olika inställningarna i MPI.
  </tbody> 
 </table>
 
-**Instrumentpanel för intäkter - Bidrag och trender**
+**Instrumentpanel för intäkter - Bidrag och trend**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Kostnadsberäkning {#cost-calculation}
 
-**Instrumentpaneler för pipeline och intäkt - Bidrag och trender**
+**Instrumentpaneler för pipeline och intäkt - Bidrag och trend**
 
 <table> 
  <tbody> 

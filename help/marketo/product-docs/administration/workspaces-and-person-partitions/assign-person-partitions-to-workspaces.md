@@ -6,7 +6,7 @@ exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,13 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
 >[!PREREQUISITES]
 >
->[Skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[Skapa en ny Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Arbetsytor och personpartitioner kan vara komplexa. Kontakta  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} för hjälp med att konfigurera dem.
+>Arbetsytor och personpartitioner kan vara komplexa. Kontakta [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} om du behöver hjälp med att konfigurera dem.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
@@ -45,9 +45,9 @@ Så här redigerar du personliga partitioner/arbetsytetilldelningar:
 
    >[!NOTE]
    >
-   >* The &quot;[!UICONTROL All Person Partitions]&quot; anger att den här arbetsytan har åtkomst till alla personpartitioner i systemet.
+   >* Kryssrutan [!UICONTROL All Person Partitions] anger att den här arbetsytan har åtkomst till alla personpartitioner i systemet.
    >
-   >* Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} för att flytta runt människor.
+   >* Primära personpartitioner är standardinställningen där alla personer ska anges. Använd [flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) eller [tilldelningsregler](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} för att flytta personer.
 
 1. Klicka på **[!UICONTROL Save]**.
 
@@ -61,4 +61,4 @@ Arbetsytan har redigerats!
 
 >[!MORELIKETHIS]
 >
->[Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[Förstå arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

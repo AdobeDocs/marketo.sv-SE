@@ -1,8 +1,8 @@
 ---
 description: Varför har min kampanj upphört? - Marketo Docs - produktdokumentation
 title: Varför har min kampanj upphört?
-exl-id: d1d14150-7d50-48f5-abd3-fc40cfe74c98
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

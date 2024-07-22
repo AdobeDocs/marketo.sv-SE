@@ -24,7 +24,7 @@ På den här fliken visas alla agenter i din Dynamic Chat-instans och den inneh�
 
 >[!NOTE]
 >
->Visa inte en agent som du _just_ tillagd? Det kan ta upp till två timmar för dem att visas här när de har lagts till i Admin Console i Adobe.
+>Ser du inte en agent som du _just_ har lagt till? Det kan ta upp till två timmar för dem att visas här när de har lagts till i Admin Console i Adobe.
 
 ## Team {#teams}
 
@@ -38,7 +38,7 @@ Administratörer kan skapa team med agenter för att underlätta dirigering till
 
 ### Skapa ett team {#create-a-team}
 
-1. Klicka **+ Skapa team**.
+1. Klicka på **+ Skapa team**.
 
    ![](assets/agent-management-4.png)
 
@@ -46,11 +46,11 @@ Administratörer kan skapa team med agenter för att underlätta dirigering till
 
    ![](assets/agent-management-5.png)
 
-1. Klicka på **Lägg till agenter** och välj önskade agenter.
+1. Klicka på listrutan **Lägg till agenter** och välj önskade agenter.
 
    ![](assets/agent-management-6.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/agent-management-7.png)
 
@@ -70,7 +70,7 @@ Välj ett standardmeddelande (systemmeddelande) eller skriv ett anpassat meddela
 
 >[!NOTE]
 >
->Markera **Inkludera bokningsalternativ för möte** kryssrutan ger chattbesökaren möjlighet att boka ett möte när inga agenter är tillgängliga för live-chatt.
+>Om du markerar kryssrutan **Inkludera mötesbokningsalternativ** får chattbesökaren möjlighet att boka ett möte när inga agenter är tillgängliga för live-chatt.
 
 >[!TIP]
 >

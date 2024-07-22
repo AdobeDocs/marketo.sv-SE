@@ -14,7 +14,7 @@ ht-degree: 0%
 
 I Design Studio-delen finns de återanvändbara&quot;globala resurserna&quot;. Skapa globala resurser som din organisation tänker använda i program, använd en konsekvent namnkonvention och ordna dem i undermapparna för enkla sökningar.
 
-Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
+Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) och spåra dina framsteg.
 
 ## Landningssidor {#landing-pages}
 
@@ -28,8 +28,8 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
 <tbody>
   <tr>
     <td>Globala landningssidor</td>
-    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globala landningssidor (frihandsritning/guidad)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Skapa en testsida</a> A/B-testa den vinnande mallen för landningssida (om tillämpligt).</li></td>
+    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globala landningssidor (frihand/guidad)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Skapa en testsida</a> för att A/B-testa den vinnande landningssidmallen (om tillämpligt).</li></td>
   </tr>
   <tr>
     <td>Mallar</td>
@@ -37,7 +37,7 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Skapa en sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragment</a> eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> på era landningssidor för att säkerställa sekretess och integritet.</li></td>
+    <td><li>Skapa en sidfot med <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Utdrag</a> eller <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Token</a> på dina landningssidor för sekretessefterlevnad.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,15 +54,15 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
 <tbody>
   <tr>
     <td>Global Forms</td>
-    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">globala formulär</a> för användningsfall som prenumerationsinställningar, nedladdning av grafiskt innehåll, demonstrationsförfrågningar, registreringar av webbinarier osv.</li></td>
+    <td><li>Konfigurera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">globala formulär</a> för användningsfall som prenumerationsinställningar, hämtningar av Gated-innehåll, demonstrationsförfrågningar, webbinarieregistreringar osv.</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Behåll formulären <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Allmänna dataskyddsförordningen (GDPR)</a> kompatibel.</li></td>
+    <td><li>Behåll dina formulär <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">enligt den allmänna dataskyddsförordningen (GDPR)</a>.</li></td>
   </tr>
   <tr>
     <td>Datainsamling</td>
-    <td><li>Överväg att tillämpa plocklistor på <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">formulärfält</a> i stället för öppna textfält för att förhindra röriga data.</li></td>
+    <td><li>Överväg att tillämpa plocklistor på <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">formulärfälten</a> i stället för öppna textfält för att förhindra röriga data.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
   </tr>
   <tr>
     <td>Mallar</td>
-    <td><li>Utforma en modulbaserad <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">e-postmall</a> med en designer/utvecklare, eller använd din egen HTML.</li>
+    <td><li>Designa en modulbaserad <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">e-postmall</a> med en designer/utvecklare, eller använd din egen HTML.</li>
     <li>Skapa en testad e-postmall för att A/B-testa den vinnande mallen (om tillämpligt).</li></td>
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Lägg till fragment</a> till era e-postmallar för att styra återanvändbara block som copyright year, global location och kompatibilitetsspecifikt språk.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Lägg till token</a> för att personalisera innehåll baserat på målgruppen.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Lägg till fragment</a> i e-postmallarna för att styra återanvändbara block som copyright year, global location och kompatibilitetsspecifikt språk.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Lägg till token</a> om du vill anpassa innehåll baserat på målgruppen.</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
 <tbody>
   <tr>
     <td>Fragment</td>
-    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Fragment</a> att ha återanvändbara innehållsblock som kan användas i olika fall, t.ex. kontaktinformation, länkar till sociala medier, varumärkesinformation och sekretess- och efterlevnadsinformation i e-postmeddelanden och landningssidor.</li></td>
+    <td><li>Skapa <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Kodavsnitt</a> om du vill ha återanvändbara innehållsblock som kan användas i flera fall, t.ex. kontaktinformation, länkar till sociala medier, varumärkesinformation och sekretess- och efterlevnadsinformation i dina e-postmeddelanden och landningssidor.</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Kom ihåg [ladda ned checklistor](/help/marketo/getting-started/implementing-a-n
 <tbody>
   <tr>
     <td>Mappstruktur </td>
-    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">ordna globala resurser</a> (t.ex. konverteringsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodfragment osv.) på lämpligt sätt.</li></td>
+    <td><li>Skapa undermappar för varje typ av resurs och <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">ordna globala resurser</a> (t.ex. konversationsflöden, e-postmallar, e-post, formulär, bilder och filer, landningssidor, landningssidmallar, kodfragment osv.) på lämpligt sätt.</li></td>
   </tr>
 </tbody>
 </table>

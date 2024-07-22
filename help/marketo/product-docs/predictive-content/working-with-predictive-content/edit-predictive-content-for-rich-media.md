@@ -19,11 +19,11 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 >
 >Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
-1. På **Prediktivt innehåll** klickar du på en titel för att öppna redigeraren.
+1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klicka **Multimedia**.
+1. Klicka på **Multimedia**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Skriv i en **Beskrivning**.
+1. Skriv in en **beskrivning**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klicka på **Kategorier** ruta för att välja/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
+1. Klicka på rutan **Kategorier** för att markera/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +51,6 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    ![](assets/six-1.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/save.png)

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359799
-description: Publicera Lotteriet - Marketo Docs - Produktdokumentation
-title: Publicera Lotteriet
+description: Publish a Sweepstakes - Marketo Docs - produktdokumentation
+title: Publish a Sweepstakes
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Publicera Lotteriet {#publish-a-sweepstakes}
+# Publish a Sweepstakes {#publish-a-sweepstakes}
 
-Efter dig [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du publicera den på Marketo landningssidor, på din webbplats och på din Facebook.
+När du har [skapat en utlottning](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du publicera den på dina Marketo-landningssidor, på din webbplats och på din Facebook.
 
 >[!AVAILABILITY]
 >
@@ -30,7 +30,7 @@ Efter dig [skapa utlottningar](/help/marketo/product-docs/demand-generation/soci
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Välj dina utlottningar och klicka **Infoga**.
+1. Välj dina utlottningar och klicka på **Infoga**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -38,7 +38,7 @@ Efter dig [skapa utlottningar](/help/marketo/product-docs/demand-generation/soci
    >
    >Du måste godkänna dina utlottningar för att kunna göra dem tillgängliga här.
 
-   Grattis! Godkänn landningssidan och dina utlottningar är live. Du kan också [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägg upp utlottningen på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Grattis! Godkänn landningssidan och dina utlottningar är live. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [göra utlottningar på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -46,4 +46,4 @@ Efter dig [skapa utlottningar](/help/marketo/product-docs/demand-generation/soci
 
    >[!NOTE]
    >
-   >När någon väl har börjat registrera sig, kom ihåg att gå tillbaka till appen till [välj vinnarna av lotterierna](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >Kom ihåg att gå tillbaka till appen för att [välja vinnarna](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

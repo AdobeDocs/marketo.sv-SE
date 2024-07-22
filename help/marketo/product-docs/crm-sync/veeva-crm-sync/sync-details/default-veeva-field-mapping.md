@@ -81,7 +81,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
       <td>Land</td>
     </tr>
     <tr>
-      <td>MailingPostalCode</td>
+      <td>Postnummer</td>
       <td>Postnummer</td>
     </tr>
     <tr>

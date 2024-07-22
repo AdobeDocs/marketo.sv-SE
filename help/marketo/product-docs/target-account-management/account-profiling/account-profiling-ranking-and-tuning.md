@@ -21,7 +21,7 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 
 ![](assets/results.png)
 
-Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)lämnar du bara rutan avmarkerad.
+Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) lämnar du bara rutan avmarkerad.
 
 <table> 
  <tbody> 
@@ -29,7 +29,7 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
    <td><strong>Rankning</strong></td> 
    <td> 
     <div>
-      Kontorangordningen baseras på kundprofilen Ideal. A är bäst, D är minst lämpligt. 
+      Kontorangordningen baseras på kundprofilen Ideal. A är bäst, D är minst passad. 
     </div></td> 
   </tr> 
   <tr> 
@@ -158,13 +158,13 @@ Klicka på listrutan Lägg till ICP-indikator för att infoga ytterligare indika
 
 ![](assets/add-icp.png)
 
-Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med information om namngivet konto, samt använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med namngivna kontouppgifter, och du kan använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-indikatorer ingår som begränsningar i **Medlem i namngivet konto** Filter och utlösare.
+>ICP-indikatorer ingår som begränsningar i **Medlem av namngivet konto** - filter och utlösare.
 
 Indikatorns viktning styr den prioritetsnivå som varje indikator får i din modell.
 
@@ -174,6 +174,6 @@ Klicka på Uppdatera modell för att ändringarna ska börja gälla.
 
 ![](assets/refresh-button.png)
 
-När du är klar med att justera modellen (när du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **Spara och använd rankning**.
+När du är klar med att justera modellen (efter att du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **Spara och tillämpa rangordning**.
 
 ![](assets/ranks.png)

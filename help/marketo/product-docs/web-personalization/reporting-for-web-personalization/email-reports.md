@@ -6,16 +6,16 @@ exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # E-postrapporter {#email-reports}
 
-Om du vill anpassa vilken automatiserad e-postrapport som användaren får kan du läsa  [Avsnittet Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## E-postrapporter om webbpersonalisering {#web-personalization-email-reports}
+## Personalization e-postrapporter {#web-personalization-email-reports}
 
 Dagliga eller veckovisa e-postrapporter skickas till användarens e-postadress med den senaste informationen om organisation, person, kampanj och resurser.
 
@@ -31,7 +31,7 @@ Den dagliga/veckovisa rapporten skickar ett e-postmeddelande till användaren me
 
 ![](assets/two.png)
 
-Personrapporten varje dag/vecka skickar ett e-postmeddelande till användaren med de senaste 100 personerna från webbplatsen enligt följande: personens e-postadress, organisationens namn, plats, delstat, datum för när personen togs och segment som personen tillhör.
+Personrapporten varje dag/vecka skickar ett e-postmeddelande till användaren med de senaste 100 personerna från webbplatsen enligt personens e-postadress, organisationsnamn, plats, datum för när personen togs och segment som personen tillhör.
 
 ## De bästa realtidskampanjerna {#top-performing-real-time-campaigns}
 
@@ -39,17 +39,17 @@ Personrapporten varje dag/vecka skickar ett e-postmeddelande till användaren me
 
 I rapporten&quot;Top Performing Real-time Campaigns Report&quot; skickas ett e-postmeddelande till användaren med information om kampanjens namn, visningar, klickningar, vilket segment kampanjen reagerade på och kampanjens konverteringsgrad.
 
-## Rapport över de vanligaste utföranderesurserna {#top-performing-assets-report}
+## Rapport från Assets som presterar bäst {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-I rapporten&quot;Top Performing Assets&quot; skickas ett e-postmeddelande till användaren med information om de viktigaste innehållsresurserna, som visar resursnamnet och procentandelen matchningar jämfört med andra resurser.
+I rapporten Top Performing Assets skickas ett e-postmeddelande till användaren med information om de viktigaste innehållsresurserna. Rapporten visar resursnamnet och procentandelen matchningar jämfört med andra resurser.
 
-## Rapport över rekommenderade resurser {#recommended-assets-report}
+## Rekommenderad Assets-rapport {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-Rapporten Rekommenderade resurser skickar ett e-postmeddelande till användaren med allt innehåll och det antal klick som kommer från innehåll som visas i innehållsrekommendationsmotorn.
+Den rekommenderade Assets-rapporten skickar ett e-postmeddelande till användaren med allt innehåll och det antal klick som kommer från innehåll som visas i innehållsrekommendationsmotorn.
 
 ## Sammanfattningsrapport {#summary-report}
 
@@ -61,12 +61,12 @@ Sammanfattningsrapporten skickar ett e-postmeddelande (månadsvis eller kvartals
 >
 >**Definitioner**
 >
->**Direktkonvertering**: En webbbesökare som klickar på en anpassad kampanj eller rekommenderat innehåll och under samma besökssession fortsätter att fylla i alla formulär på webbplatsen med sin e-postadress.
+>**Direktkonvertering**: En webbbesökare som klickar på en anpassad kampanj eller rekommenderat innehåll och som under samma besökssession fortsätter att fylla i alla formulär på webbplatsen med sin e-postadress.
 >
->**Konvertering**: En webbbesökare som fyller i ett formulär på webbplatsen och lämnar sin e-postadress, medan de under ett tidigare besök (inom de senaste sex månaderna) klickade på en personlig kampanj eller rekommenderad innehållsresurs.
+>**Assisterad konvertering**: En webbbesökare som fyller i ett formulär på webbplatsen och lämnar sin e-postadress, medan de under ett tidigare besök (inom de senaste sex månaderna) klickade på en personlig kampanj eller rekommenderad innehållsresurs.
 
 >[!NOTE]
 >
->Marketo Web Personalization fångar webbbesökarens e-postadress för alla formulär som fylls i på webbplatsen. Detta visas på sidan Webbpersonalisering och är den person som används i sammanfattningsrapporten.
+>Marketo Web Personalization hämtar webbbesökarens e-postadress för alla formulär som fylls i på webbplatsen. Detta visas på webbsidan Personalization People och är den person som används i sammanfattningsrapporten.
 
-Om du vill anpassa vilken automatiserad e-postrapport som användaren får kan du läsa [Avsnittet Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [Användarinställningar](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

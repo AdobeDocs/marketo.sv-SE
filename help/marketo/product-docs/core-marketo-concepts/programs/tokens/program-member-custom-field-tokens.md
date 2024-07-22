@@ -19,7 +19,7 @@ På baksidan av funktionerna för anpassade fält för programmedlemmar utökas 
 
 PMCF-token stöds under medlemsdomänen för tokens-familjen.
 
-Medlemstoken används för fält som omfattas av programmedlemmens tillämpningsområde. I nuläget används medlemstoken även för att infoga unika värden från integrerade tjänstpartner. `{{member.webinar url}}` -token löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören. {{member.registration code}} matchar registreringskoden som tillhandahålls av tjänsteleverantören.
+Medlemstoken används för fält som omfattas av programmedlemmens tillämpningsområde. I nuläget används medlemstoken även för att infoga unika värden från integrerade tjänstpartner. `{{member.webinar url}}`-token löser automatiskt personens unika bekräftelse-URL som genererats av tjänstprovidern. {{member.registration code}} matchar registreringskoden som tillhandahålls av tjänsteleverantören.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Medlemstoken används för fält som omfattas av programmedlemmens tillämpnings
 >* Det går inte att använda token för anpassade fält för programmedlemmar i: e-postförrubrik, datumtoken i väntesteg eller kodfragment.
 >* Programmedlemmens status stöds inte i medlemstoken.
 
-## Använda token för anpassade fält för programmedlemmar i resurser {#using-program-member-custom-field-tokens-in-assets}
+## Använda token för anpassade fält för programmedlemmar i Assets {#using-program-member-custom-field-tokens-in-assets}
 
 Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddelanden, landningssidor, SMS, push-meddelanden och webhooks.
 
 **E-post**
 
-1. Välj önskad e-postadress och klicka på **[!UICONTROL Edit Draft]**.
+1. Markera önskad e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -55,7 +55,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **Landningssidor**
 
-1. Välj landningssida och klicka på **[!UICONTROL Edit Draft]**.
+1. Välj din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -85,11 +85,11 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
 **SMS**
 
-1. Välj önskat SMS och klicka **[!UICONTROL Edit Draft]**.
+1. Välj önskat SMS och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klicka på **`{{ Token`** -knappen.
+1. Klicka på knappen **`{{ Token`**.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -119,7 +119,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klicka **[!UICONTROL Finish]** för att spara och avsluta (eller **[!UICONTROL Next]** att först granska).
+1. Klicka på **[!UICONTROL Finish]** för att spara och avsluta (eller **[!UICONTROL Next]** för att granska först).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

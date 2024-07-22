@@ -122,7 +122,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om dessa variabler i [Ordlista för systemtoken](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Läs mer om de här tokenerna i [ordlistan för systemtoken](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!NOTE]
 >
->Läs mer om [variabler för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
+>Hitta mer information om [token för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) baserat på utlösare som används i en smart kampanj.
 
 ## Programtoken {#program-tokens}
 
@@ -163,10 +163,10 @@ Mina token definieras i ett program och börjar med `{{my.` följt av namnet som
 
 ## Medlemstoken {#member-token}
 
-Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}` token. The `{{member.webinar url}}` -token löser automatiskt personens unika bekräftelse-URL som genereras av tjänsteleverantören.
+Medlemstoken används för att infoga unika värden från integrerade tjänstpartner. Ett vanligt användningsområde för Member Tokens är för unika URL:er för webbinarier-deltagare. Varje person har en unik URL för att komma åt webbinariet som kan infogas med en `{{member.webinar url}}`-token. Token `{{member.webinar url}}` löser automatiskt personens unika bekräftelse-URL som genererats av tjänstprovidern.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->The `{{member.webinar url}}` -token fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad resurs till Event Program.
+>Token `{{member.webinar url}}` fylls bara i om den smarta kampanj som skickar e-postmeddelandet är en underordnad resurs till Event Program.

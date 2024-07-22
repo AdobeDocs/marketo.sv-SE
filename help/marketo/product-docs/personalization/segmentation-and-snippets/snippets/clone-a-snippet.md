@@ -19,15 +19,15 @@ Klona ett fragment för att skapa en kopia som du kan ändra efter behov.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Gå till fragmentet och sedan under **Fragmentåtgärder**, klicka **Klona**.
+1. Gå till fragmentet och klicka sedan på **Klona** under **Utdragsåtgärder**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Ange information om fragment och klicka på **Klona**.
+1. Ange utdragsinformation och klicka på **Klona**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
-Häftig! Nu kan du ändra det klonade fragmentet så att det passar dina behov.
+Häftig! Nu kan du ändra det klonade fragmentet efter dina behov.
 
 >[!MORELIKETHIS]
 >

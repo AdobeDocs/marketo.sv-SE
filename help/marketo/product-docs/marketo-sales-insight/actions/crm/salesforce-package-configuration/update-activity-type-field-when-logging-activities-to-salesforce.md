@@ -1,10 +1,10 @@
 ---
 description: Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce - Marketo Docs - produktdokumentation
 title: Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -28,29 +28,29 @@ ht-degree: 0%
 
 Kontrollera först att du har rätt plocklistevärden på plats. Du behöver hjälp av din Salesforce-administratör för att göra ändringar i din lista.
 
-Kontrollera först vilka värden du saknar i din aktivitetstypsväljare (ej e-post, samtal eller svar). Du kan behöva hjälp av din Salesforce-administratör för att granska detta och göra ändringar i din lista över aktivitetstyper. Om du vill göra de här ändringarna följer du stegen nedan.
+Kontrollera först vilka värden du saknar i din aktivitetstypsväljare (ej e-post, samtal eller svar). Du kan behöva hjälp av din Salesforce-administratör för att granska detta och göra ändringar i din lista över aktivitetstyper. Om du vill göra de här ändringarna följer din Salesforce-administratör stegen nedan.
 
 ### I Salesforce Lightning {#salesforce-lightning}
 
 1. Navigera till [Salesforce.com](https://salesforce.com){target="_blank"}.
 1. Klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar** > **Objektshanteraren**.
 1. Skriv &quot;task&quot; i rutan &#39;Quick Find&#39;.
-1. Klicka på i den vänstra panelen **Fält och relationer**.
-1. Klicka på fältetikett **Typ**.
-1. Klicka på under Picklist-värdet för uppgiftstyp **Nytt**.
+1. Klicka på **Fält och relationer** i den vänstra panelen.
+1. Klicka på fältetiketten **Typ**.
+1. Klicka på **Nytt** under Picklist-värde för aktivitetstyp.
 1. Skriv namnet på de värden för uppgiftstypväljaren som saknas (&quot;E-post,&quot;Ring&quot;,&quot;Svara&quot;).
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 ### I Salesforce Classic {#salesforce-classic}
 
 1. Navigera till [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Klicka **Inställningar** > **Bygge** > **Anpassa** > **Verksamhet** > **Aktivitetsfält**.
-1. Klicka **Typ**.
-1. Klicka på under Picklist-värdet för uppgiftstyp **Nytt**.
+1. Klicka på **Konfigurera** > **Skapa** > **Anpassa** > **Aktiviteter** > **Åtgärdsfält**.
+1. Klicka på **Typ**.
+1. Klicka på **Nytt** under Picklist-värde för aktivitetstyp.
 1. Skriv namnet på de värden för uppgiftstypväljaren som saknas (&quot;E-post,&quot;Ring&quot;,&quot;Svara&quot;).
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
-Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden _not_ fylls i på påminnelseuppgifter för Sales Insight Actions.
+Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde för loggade e-postmeddelanden, samtal och svar. Dessa värden fylls _inte_ i på påminnelseaktiviteter för Sales Insight-åtgärder.
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ Nu när detta är på plats börjar du se textfältet fylla i motsvarande värde
 
 >[!MORELIKETHIS]
 >
->* [Loggningsattribut för försäljningsaktivitet till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [Loggar attribut för försäljningsaktivitet till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Konfigurera detaljanpassning av Salesforce-aktivitet](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [Synkronisera försäljningsaktiviteter till Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

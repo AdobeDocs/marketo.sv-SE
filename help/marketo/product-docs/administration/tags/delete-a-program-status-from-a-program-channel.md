@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en status av misstag eller inte längre behöver den kan du ta bort den.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
@@ -23,11 +23,11 @@ Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en 
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Markera den kanal som du vill ta bort en status från och under **[!UICONTROL Tag Actions]**, klicka **[!UICONTROL Edit]**.
+1. Markera kanalen som du vill ta bort en status från och klicka sedan på **[!UICONTROL Edit]** under **[!UICONTROL Tag Actions]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Klicka på det röda **X** för att ta bort status och klicka sedan på **[!UICONTROL Save]**.
+1. Klicka på det röda **X** för att ta bort statusen och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en 
    >
    >Om någon person för närvarande är tilldelad till den aktuella statusen kan du inte ta bort den, men du kan dölja den.
 
-Snyggt gjort! Du kan också [ta bort en hel kanal](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) om du behöver det.
+Snyggt gjort! Du kan även [ta bort en hel kanal](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) om du behöver det.

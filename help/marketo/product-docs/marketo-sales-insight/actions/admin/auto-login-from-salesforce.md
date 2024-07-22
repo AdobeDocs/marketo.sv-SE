@@ -16,7 +16,7 @@ Med automatisk inloggning kan användare av Sales Insight Actions automatiskt au
 
 Så här använder du automatisk inloggning:
 
-* [Inställningar för inloggningshantering](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) måste anges till&quot;Endast Salesforce&quot;
+* [Inloggningshanteringsinställningarna](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) måste anges till Endast Salesforce
 
 * Användaren måste ha bjudits in att använda Sales Insight Actions
 

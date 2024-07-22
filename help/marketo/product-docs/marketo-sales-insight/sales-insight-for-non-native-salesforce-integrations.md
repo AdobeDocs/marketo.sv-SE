@@ -18,9 +18,9 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 >[!PREREQUISITES]
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
->* Ett Salesforce-konto med [Installation av MSI-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* MARKETO REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
->* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
+>* Ett Salesforce-konto med [MSI-paket konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Läs [blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 >* Ställ in Salesforce-objekt för att visa den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
 
 >[!NOTE]
@@ -31,7 +31,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
 1. Synkronisera Salesforce-säljanvändaren till Marketo.
 
-   Salesforce-användaren är en extern användare som äger lead/kontakt i Salesforce. En Marketo-säljare måste uppgraderas för Salesforce-säljanvändaren. The *externalSalesPersonId* ska fyllas i av säljaren.
+   Salesforce-användaren är en extern användare som äger lead/kontakt i Salesforce. En Marketo-säljare måste uppgraderas för Salesforce-säljanvändaren. Fältet *externalSalesPersonId* är obligatoriskt för att lägga upp säljaren.
 
    <table> 
     <colgroup> 
@@ -58,7 +58,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
 1. Synkronisera Salesforce-konton med Marketo.
 
-   Ett Marketo-företag måste uppdateras för Salesforce-kontot. The _externalCompanyId_ och _externalSalesPersonId_ fält är obligatoriska för att bekräfta företaget.
+   Ett Marketo-företag måste uppdateras för Salesforce-kontot. Fälten _externalCompanyId_ och _externalSalesPersonId_ är obligatoriska för företagets upsert.
 
    <table> 
     <colgroup> 
@@ -90,7 +90,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
 1. Synkronisera Salesforce-leads/kontakter till Marketo.
 
-   Du måste ange en Marketo-lead för Salesforce-lead/kontakt. The _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ fält är obligatoriska för att lägga upp lead.
+   Du måste ange en Marketo-lead för Salesforce-lead/kontakt. Fälten _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ krävs för att ladda upp lead.
 
    <table> 
     <colgroup> 
@@ -112,12 +112,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Salesforce-försäljarens skiftlägeskänsliga globalt unika identifierare</td> 
-      <td>Identifierar det externa Salesforce-objektet Försäljningsanvändare som äger denna lead/kontakt.<br><br>Kopplar även lead till säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
+      <td>Identifierar det externa Salesforce-objektet Försäljningsanvändare som äger denna lead/kontakt.<br><br>Relaterar även leadet med säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
       <td>Salesforce-kontots skiftlägeskänsliga globalt unika identifierare</td> 
-      <td>Identifierar det externa Salesforce-kontoobjektet som lead/kontakt tillhör.<br><br>Även relaterar lead-posten till ett företag i Marketo. Salesforce-kontot måste först synkroniseras korrekt.</td> 
+      <td>Identifierar det externa Salesforce-kontoobjektet som lead/kontakt tillhör.<br><br>Relaterar även lead-posten till ett företag i Marketo. Salesforce-kontot måste först synkroniseras korrekt.</td> 
      </tr> 
     </tbody> 
    </table>
@@ -127,7 +127,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
 1. Synkronisera Salesforce-affärsmöjligheter med Marketo.
 
-   Du måste bekräfta en Marketo-möjlighet för Salesforce-säljprojektet. The _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ fält är obligatoriska för att bekräfta säljprojektet.
+   Du måste bekräfta en Marketo-möjlighet för Salesforce-säljprojektet. Fälten _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ krävs för att bekräfta affärsmöjligheten.
 
    <table> 
     <colgroup> 
@@ -149,7 +149,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      <tr> 
       <td>externalCompanyId</td> 
       <td>Salesforce-kontots skiftlägeskänsliga globalt unika identifierare</td> 
-      <td>Identifierar det externa Salesforce-kontoobjektet som affärsmöjligheten tillhör. <br><br>Salesforce-kontot måste först synkroniseras korrekt.</td> 
+      <td>Identifierar det externa Salesforce-kontoobjektet som affärsmöjligheten tillhör. <br><br>Salesforce-kontot måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
@@ -164,7 +164,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
 1. Synkronisera Salesforce-kontaktroller till Marketo.
 
-   Salesforce-kontaktroller för en Salesforce-affärsmöjlighet kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger att _externalOpportunityId_, _roll_ och _leadId_ fält.
+   Salesforce-kontaktroller för en Salesforce-affärsmöjlighet kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger fälten _externalOpportunityId_, _role_ och _leadId_.
 
    <table> 
     <colgroup> 
@@ -203,7 +203,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
 
    När dina Salesforce-objekt har synkroniserats korrekt till Marketo kan du dra nytta av MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
 
-   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo-lead med _externalPersonId_ som filterType och som skickas i Salesforce Lead GUID som filterValue.
+   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till Salesforce med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av _externalPersonId_ som filterType och skicka Salesforce Lead GUID som filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -224,7 +224,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentType</td> 
-      <td>Etikett: Senaste intressanta stund<br>Namn: Last_Intressant_stund_Type__c</td> 
+      <td>Etikett: Senaste intressanta stund typ<br>Namn: Last_Intressant_stund_typ__c</td> 
       <td>Typ av det sista intressanta tillfället för leadet</td> 
      </tr> 
      <tr> 
@@ -239,8 +239,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till Salesforce via en anpassad 
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentSource</td> 
-      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intressant_Moment_Source__c</p></td> 
-      <td>Källa till leadets sista intressanta tillfälle</td> 
+      <td><p>Etikett: Senaste intressanta stund Source</p><p>Namn: Last_Intressant_stund_Source__c</p></td> 
+      <td>Source för ledningens sista intressanta ögonblick</td> 
      </tr> 
      <tr> 
       <td>prioritet</td> 

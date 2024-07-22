@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dynamiskt innehåll {#understanding-dynamic-content}
 
-Personalisering handlar mycket mer än bara&quot;Hej&quot; `{{First_Name}}`&quot;. Med Marketo dynamiska innehåll kan du anpassa hur olika personer ser en landningssida eller ett e-postmeddelande.
+Det finns mycket mer med personalisering än bara&quot;Hej `{{First_Name}}`&quot;. Med Marketo dynamiska innehåll kan du anpassa hur olika personer ser en landningssida eller ett e-postmeddelande.
 
 ![](assets/artboard-1.png)
 
@@ -25,9 +25,9 @@ Först måste du dela upp dina personer i undergrupper. Detta kallas [segmenteri
 >
 >**Definition**
 >
->Segmentering kategoriserar målgruppen i olika undergrupper baserat på en [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) regel. Dessa grupper kallas segment.
+>Segmentering kategoriserar målgruppen i olika undergrupper baserat på en [smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)-regel. Dessa grupper kallas segment.
 
-Om vi till exempel har en segmentering som kallas Bransch kan några av segmenten vara: Sjukvård, teknik, ekonomi, konsumentvaror osv.
+Om vi till exempel har en segmentering som kallas industri kan några av segmenten vara: sjukvård, teknik, ekonomi, konsumentvaror osv.
 
 ![](assets/artboard-2.png)
 
@@ -39,7 +39,7 @@ När du har skapat olika segment kan du lägga till dynamiska innehållsblock p�
 
 ## Fragment {#snippets}
 
-[Fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) är ett användbart verktyg i Marketo. Skapa en gång och använd den på flera ställen! Om du uppdaterar fragmentet uppdateras alla resurser (landningssidor eller e-postmeddelanden) som använder fragmentet automatiskt.
+[Kodfragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) är ett användbart verktyg i Marketo. Skapa en gång och använd den på flera ställen! Om du uppdaterar fragmentet uppdateras alla resurser (landningssidor eller e-postmeddelanden) som använder fragmentet automatiskt.
 
 >[!NOTE]
 >

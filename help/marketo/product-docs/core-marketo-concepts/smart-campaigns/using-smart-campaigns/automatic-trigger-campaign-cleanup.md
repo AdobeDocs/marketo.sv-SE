@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ En gång i kvartalet kommer Marketo att hitta smarta kampanjer som har stannat (
 
 Självklart! En gång per kvartal får ni ett meddelande en vecka i förväg med alla kampanjer vi planerar att inaktivera.
 
-1. Klicka på **[!UICONTROL Notifications]** -ikon.
+1. Klicka på ikonen **[!UICONTROL Notifications]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Klicka på **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Klicka sedan på **[!UICONTROL These Idle Trigger Campaigns will be deactivated]** länk.
+1. Klicka på **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Klicka sedan på länken **[!UICONTROL These Idle Trigger Campaigns will be deactivated]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -52,7 +52,7 @@ Antingen återställs 6-månadersräknaren.
 
 Absolut - en vecka efter det ursprungliga meddelandet inaktiverar vi de listade kampanjerna (minus alla som kvalificerat minst en person eller inaktiverats/återaktiverats) och skickar ett bekräftelsemeddelande.
 
-1. Välj **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]** meddelande. Klicka på **[!UICONTROL These Idle Trigger Campaigns]** länk.
+1. Välj meddelandet **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Klicka på länken **[!UICONTROL These Idle Trigger Campaigns]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

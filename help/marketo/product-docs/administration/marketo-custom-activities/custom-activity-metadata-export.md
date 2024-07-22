@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Följ stegen nedan för att exportera ditt anpassade metadataschema för aktivitet.
 
-1. I Min Marketo klickar du på **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Min Marketo.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
@@ -26,7 +26,7 @@ Följ stegen nedan för att exportera ditt anpassade metadataschema för aktivit
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Klicka på **[!UICONTROL Custom Activity Actions]** nedrullningsbar meny och välj **[!UICONTROL Export Activity]**.
+1. Klicka på listrutan **[!UICONTROL Custom Activity Actions]** och välj **[!UICONTROL Export Activity]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Ikonordlista {#new-icon-glossary}
 
-Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du behöver referera till ikonerna för Marketo Classic kan de [hittades här](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du behöver referera till Marketo Classic-ikonerna kan de [hittas här](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Allmänna ikoner {#general-icons}
 
@@ -228,7 +228,7 @@ Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du beh�
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
    <td><img src="assets/workspace.png"></td> 
-   <td>Arbetsyta</td> 
+   <td>Workspace</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
@@ -408,7 +408,7 @@ Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du beh�
  </tbody>
 </table>
 
-## Resurser {#assets}
+## Assets {#assets}
 
 <table> 
  <tbody>

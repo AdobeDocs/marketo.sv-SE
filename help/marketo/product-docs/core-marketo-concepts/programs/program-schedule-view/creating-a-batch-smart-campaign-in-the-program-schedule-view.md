@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en batchsmart kampanj i programschemavy {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Du kan skapa nya smarta kampanjer och [kör om befintliga](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} i programmet från programschemavyn.
+Du kan skapa nya smarta kampanjer och [köra om befintliga](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} i programmet från programschemavyn.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Du kan skapa nya smarta kampanjer och [kör om befintliga](/help/marketo/product
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Välj ett namn för tävlingsbidraget, som blir din nya smarta kampanj. Tryck på **[!UICONTROL Enter/Return]** för att bekräfta namnet.
+1. Välj ett namn för tävlingsbidraget, som blir din nya smarta kampanj. Bekräfta namnet genom att trycka på **[!UICONTROL Enter/Return]**.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Klicka på **[!UICONTROL Type]** nedrullningsbar meny och välj **[!UICONTROL Smart Campaign]**.
+1. Klicka på listrutan **[!UICONTROL Type]** och välj **[!UICONTROL Smart Campaign]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Du kan skapa nya smarta kampanjer och [kör om befintliga](/help/marketo/product
 
    ![](assets/four.png)
 
-1. Välj [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regler.
+1. Välj dina [smarta Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}-regler.
 
    ![](assets/changeprogramstatus-hands.png)
 

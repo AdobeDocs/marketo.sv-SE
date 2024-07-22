@@ -27,10 +27,10 @@ Om din CRM ger dig en hemlig kopia-adress kan du använda CRM-avsnittet&quot;oth
 
 ## Ansluta till andra CRM:er {#how-to-connect-to-other-crms}
 
-1. Klicka **Inställningar**.
-1. Klicka **CRM**.
-1. Klicka **Anslut** enligt övriga kreditriskreducerande åtgärder.
-1. Klicka **Konfigurera** och klistra sedan in din BCC-adress under E-post till BCC.
-1. Klicka **Spara** och din BCC-adress sparas i Sales Connect.
+1. Klicka på **Inställningar**.
+1. Klicka på **CRM**.
+1. Klicka på **Anslut** under Andra CRM:er.
+1. Klicka på **Konfigurera** och klistra sedan in din BCC-adress under E-post till BCC.
+1. Klicka på **Spara** så sparas din BCC-adress i Sales Connect.
 
    E-postmeddelanden loggas nu i CRM via BCC.

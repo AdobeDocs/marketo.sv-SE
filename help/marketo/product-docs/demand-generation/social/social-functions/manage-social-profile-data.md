@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Hantera data för social profil {#manage-social-profile-data}
 
-När någon interagerar med en Marketo [social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller tillåter att deras sociala nätverk förifyller ett Marketo-formulär med [social formulärfyllning](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)hämtar Marketo alla tillgängliga data från sin sociala profil. Du kan visa den här informationen på [Sidan Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)eller lägga till den som en kolumn i en [anpassad vy för en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+När någon interagerar med en Marketo [social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), eller auktoriserar sitt sociala nätverk att förifylla ett Marketo-formulär med [social formulärfyllning](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), hämtar Marketo alla tillgängliga data från sin sociala profil. Du kan visa den här informationen på [personinformationssidan](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) eller lägga till den som en kolumn i en [anpassad vy av en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
 Social formulärfyllning och sociala appar samlar in lite olika fältuppsättningar. Se respektive avsnitt nedan.
 
@@ -56,7 +56,7 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 
 >[!CAUTION]
 >
->Data som hämtas av ifyllnad för sociala formulär skriver över matchande fält såvida du inte [blockera uppdateringar av dessa fält på formulärnivå](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>Data som hämtas av ifyllning för sociala formulär skriver över matchande fält såvida du inte [blockerar uppdateringar av dessa fält på formulärnivå](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Från Twitter: {#from-twitter-1}
 
@@ -75,8 +75,8 @@ Beroende på nätverkets och användarens sekretessinställningar hämtas ett el
 
 >[!NOTE]
 >
->Fyllning av sociala formulär hämtar e-postadressen _endast_ om personen skriver in den i formuläret. Om du behöver e-postadressen bör du [gör det till ett obligatoriskt fält i formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Ifyllning av sociala formulär hämtar e-postadressen _endast_ om personen anger den i formuläret. Om du behöver e-postadressen bör du [göra den till ett obligatoriskt fält i formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Aktivera [social formulärfyllning](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
+>Aktivera [fyllning av sociala formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) om du vill hämta in den här informationen från formulär.

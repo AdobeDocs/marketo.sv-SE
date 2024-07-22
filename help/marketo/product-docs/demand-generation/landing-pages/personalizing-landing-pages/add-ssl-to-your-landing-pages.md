@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med SSL-kryptering (Secure Socket Layer) kan du skydda alla dina landningssidor för en Marketo Engage-instans.
 
-När du fyller i ett webbformulär eller besöker en landningssida som hanteras av Marketo Engage, skickas informationen som standard via ett osäkert protokoll (HTTP). Enligt företagets policy kanske du vill skydda den information som skickas till Marketo via HTTPS. Om du till exempel besöker `http://info.mydomain.com/` det kommer nu att `https://info.mydomain.com/`.
+När du fyller i ett webbformulär eller besöker en landningssida som hanteras av Marketo Engage, skickas informationen som standard via ett osäkert protokoll (HTTP). Enligt företagets policy kanske du vill skydda den information som skickas till Marketo via HTTPS. När du till exempel besöker `http://info.mydomain.com/` blir det nu `https://info.mydomain.com/`.
 
 Marketo Engage spårar&quot;Besökt webbsida&quot; och&quot;Klicka på länk på webbsida&quot; som standard över osäkra HTTP-protokoll. Om du vill att dina spårningslänkar ska vara skyddade med deras egna certifikat måste du ha Marketo som en separat icke-delad server för att kunna aktivera den. För att skydda alla aspekter av en kontakts interaktion med dig måste du vanligtvis skydda både landningssidor och spårningslänkar.
 

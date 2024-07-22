@@ -29,6 +29,6 @@ Med URL Builder kan du skapa URL:er som kan fylla i Marketo dolda formulärfält
 
    >[!NOTE]
    >
-   >Om du inte ser några fält som är tillgängliga i verktyget kontrollerar du att formuläret har dolda fält och att de är [ange att URL-parametrar ska accepteras](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Om du inte ser några fält som är tillgängliga i verktyget kontrollerar du att formuläret har dolda fält och att de är [inställda på att acceptera URL-parametrar](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Bra jobbat! Nu kan du kopiera och klistra in URL-adressen och använda den på webben.

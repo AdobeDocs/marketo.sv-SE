@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Lägg till en e-postskripttoken i din e-post {#add-an-email-script-token-to-your-email}
 
-Efter att du [skapade ditt e-postskript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
+När du har [skapat ditt e-postskript](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) vill du lägga till det i ett e-postmeddelande för att se hur det fungerar. Så här gör du.
 
 >[!NOTE]
 >
 >Den totala storleken på alla skripttoken som infogats i ett enda e-postmeddelande får inte överstiga 100 kB.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/one-2.png)
 
-1. Sök efter och välj det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
+1. Sök efter och markera det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
 
    ![](assets/two-2.png)
 
@@ -47,7 +47,7 @@ Efter att du [skapade ditt e-postskript](/help/marketo/product-docs/email-market
    >
    >Lägg till ett standardvärde om du vill.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/six.png)
 

@@ -2,10 +2,10 @@
 description: E-postmall för snabbstart - Marketo Docs - produktdokumentation
 title: E-postmall för snabbstart
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ E-postredigeraren i Marketo Engage har funktioner som hjälper dig att ändra la
 
 * **Bildelement**: På samma sätt som textelement kan bilder bytas ut, länkas till och storleksändras.
 
-* **Variabel**: När en modul är markerad visas variabler till höger om redigeraren. De kan användas för att justera attribut i modulen som inte är så lätt att redigera via bild- eller textelement.
+* **Variabler**: När en modul är markerad visas variabler till höger om redigeraren. De kan användas för att justera attribut i modulen som inte är så lätt att redigera via bild- eller textelement.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Modulsammanfattning {#modules-summary}
 
@@ -92,7 +92,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * CTA-textfärg
    * CTA-bakgrundsfärg
    * CTA-kantfärg
-   * CTA-kantradie (för att göra knapparna rundade - **Anteckning**: den här funktionen fungerar inte i e-postklienter i Microsoft Outlook)
+   * CTA-kantradie (för att göra knapparna rundade - **Obs!**: den här funktionen fungerar inte i e-postklienter för Microsoft Outlook)
    * CTA URL
    * CTA-text
    * CTA-justering

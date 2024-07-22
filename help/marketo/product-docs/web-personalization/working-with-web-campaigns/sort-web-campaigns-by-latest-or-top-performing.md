@@ -27,7 +27,7 @@ Ni kan sortera era webbkampanjer på några olika sätt.
    >
    >**Senaste** - sorteras baserat på det datum då kampanjen skapades. Senaste kampanjen överst.
    >
-   >**Toppresterande** - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
+   >**Top Performing** - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

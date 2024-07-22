@@ -20,15 +20,15 @@ Följ de här enkla stegen för att ansluta Sales Insight Actions-kontot till Sa
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Salesforce** sedan **Anslut**.
+1. Klicka på **Salesforce** och sedan **Connect** på fliken Anslutningar och anpassningar.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -40,13 +40,13 @@ Följ de här enkla stegen för att ansluta Sales Insight Actions-kontot till Sa
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. Under Mitt konto väljer du **Salesforce**.
+1. Välj **Salesforce** under Mitt konto.
 
-1. Klicka på fliken Anslutningar och anpassningar **Salesforce** sedan **Anslut**.
+1. Klicka på **Salesforce** och sedan **Connect** på fliken Anslutningar och anpassningar.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

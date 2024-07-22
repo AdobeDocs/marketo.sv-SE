@@ -17,7 +17,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Skapa rapporten {#create-the-report}
 
-1. Hitta och välj engagemangsprogram, sedan under **Nytt** klicka **Ny lokal resurs**.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Ny** under **Ny lokal resurs**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -32,7 +32,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
    Välj Prestanda för avtalsström som rapporttyp.
    ![](assets/engagementreportchoose.png)
 
-1. Namnge rapporten och klicka **Skapa**.
+1. Namnge rapporten och klicka på **Skapa**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,7 +44,7 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Under **Inställningar** dubbelklicka på **Engagement Program Email** filter.
+1. Under fliken **Inställningar** dubbelklickar du på **e-postfiltret för engagemangsprogrammet** .
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -54,12 +54,12 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Kör rapport {#run-report}
 
-1. Om du vill köra rapporten klickar du på **Rapport** -fliken.
+1. Klicka på fliken **Rapport** om du vill köra rapporten.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Se [Så här fungerar engagemanget](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) om du vill ha mer information om vad det är.
+   >Även om det inte finns någon illustration är Engagement Score en kolumn i den här rapporten. Mer information om vad det är finns i [Förstå engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-   Bra jobbat! Observera att rapporten grupperas efter engagemangsprogram.
+   Snyggt jobb! Observera att rapporten grupperas efter engagemangsprogram.

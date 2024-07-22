@@ -6,7 +6,7 @@ exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Kvalifikationsregler styr hur många gånger någon kan gå igenom flödet i en smart kampanj. Som standard skickas de bara en gång genom flödet, även om någon utlöser en smart kampanj flera gånger. Så här ändrar du de här inställningarna.
 
-1. I din smarta kampanj klickar du på **[!UICONTROL Schedule]** och sedan **[!UICONTROL Edit Settings]**.
+1. Klicka på fliken **[!UICONTROL Schedule]** i den smarta kampanjen och sedan på **[!UICONTROL Edit Settings]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >Du kan också klicka **[!UICONTROL Edit]** till höger om&quot;Inställningar för smart kampanj&quot;.
+   >Du kan också klicka på **[!UICONTROL Edit]** till höger om Inställningar för smart kampanj.
 
-1. Välj hur ofta du vill leda dina medarbetare via Smart Campaign-flödet: **[!UICONTROL only once]**, **[!UICONTROL every time]**, eller **en gång var # dag**/**veckor**/**månader**.
+1. Välj hur ofta du vill köra dina medarbetare via Smart Campaign-flödet: **[!UICONTROL only once]**, **[!UICONTROL every time]** eller **en gång var # days**/**week**/**month**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,7 +33,7 @@ Kvalifikationsregler styr hur många gånger någon kan gå igenom flödet i en 
 
    >[!NOTE]
    >
-   >Kommunikationsbegränsningar tillämpas inte på smarta kampanjer som standard. Lär dig hur [använda kommunikationsbegränsningar för en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >Kommunikationsbegränsningar tillämpas inte på smarta kampanjer som standard. Lär dig hur du [använder kommunikationsbegränsningar för en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >

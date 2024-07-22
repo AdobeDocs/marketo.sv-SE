@@ -5,7 +5,7 @@ exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Adobe Experience Cloud Interface anpassar gränssnittets utseende och känsla f�
 
 Om du inte redan är inloggad på en Adobe Experience Cloud-produkt loggar du in direkt på [!DNL Marketo Engage] här: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Om du _är_ som redan är inloggad på en Adobe Experience Cloud-produkt klickar du bara på menyikonen och väljer **[!DNL Marketo Engage]**.
+Om du _redan är_ inloggad på en Adobe Experience Cloud-produkt klickar du bara på menyikonen och väljer **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -30,9 +30,9 @@ Om du _är_ som redan är inloggad på en Adobe Experience Cloud-produkt klickar
 
 Förutom det uppdaterade utseendet och känslan kommer du att märka följande funktioner:
 
-**Integrerat Help Center**
+**Integrerat hjälpcenter**
 
-Få tillgång till en mängd tillgängliga hjälpresurser inifrån [!DNL Marketo Engage] program.
+Få tillgång till en mängd tillgängliga hjälpresurser inifrån programmet [!DNL Marketo Engage].
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -42,7 +42,7 @@ De som har tillgång till flera Adobe-produkter kan enkelt växla mellan dem.
 
 ![](assets/unified-shell-overview-3.png)
 
-**Meddelanden**
+**Meddelanden och meddelanden**
 
 Visa och interagera med produktspecifika meddelanden och allmänna produktmeddelanden för Adobe direkt i programmet.
 
@@ -54,11 +54,11 @@ Klicka på din profilikon om du vill ändra språk eller andra inställningar f�
 
 ![](assets/unified-shell-overview-5.png)
 
-## Vanliga frågor {#faq}
+## Vanliga frågor och svar {#faq}
 
-**Jag kan inte logga in på [!DNL Marketo Engage] via Experience Cloud-gränssnittet. Vad kan problemet vara?**
+**Jag kan inte logga in på [!DNL Marketo Engage] via Experience Cloud. Vad kan problemet vara?**
 
-Om du kan logga in på Adobe Experience Cloud, men sedan ser felet&quot;Det gick inte att läsa in sidan&quot;, kan problemet finnas på [!DNL Marketo Engage] sida. Kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
+Om du kan logga in på Adobe Experience Cloud, men sedan ser felet&quot;Det gick inte att läsa in sidan&quot;, kan problemet finnas på [!DNL Marketo Engage]-sidan. Kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
 
 **Vart gick användarhistorik, global sökning, Marketo-meddelanden och aktivitetsfältet?**
 

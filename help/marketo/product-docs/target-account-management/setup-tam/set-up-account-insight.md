@@ -19,15 +19,15 @@ Så här konfigurerar du Account Insight.
 >
 >TAM-kontopoäng [måste konfigureras](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) först.
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klicka **Hantering av målkonto** i trädet, och **Försäljning** -fliken.
+1. Klicka på **Hantering av målkonto** i trädet och sedan på fliken **Försäljning** .
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ Så här konfigurerar du Account Insight.
 
    >[!NOTE]
    >
-   >Om [Kontobakgrundsinställningar](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) konfigurationerna under Försäljning måste uppdateras av en administratör för att poängen ska återspegla användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
+   >Om [kontopoängsinställningarna](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) uppdateras vid något tillfälle måste konfigurationen under Försäljning uppdateras av en administratör för att poängen ska återspegla användarens inställningar. Användaren måste logga ut och logga in igen för att se ändringarna.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/five-4.png)

@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ## Vad är skillnaden mellan innehåll och en bifogad fil? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **bifogad fil** är precis som en bifogad fil som du använder i din vanliga e-postklient.
+En **bifogad fil** är precis som en bifogad fil som du använder i din vanliga e-postklient.
 
-**Innehåll** är vad vi använder för att beskriva filer (PPT, PDF, Word, doc, osv.) som du vill bli spårad av Sales Insight Actions.
+**Innehåll** är det vi använder för att beskriva filer (PPT, PDF, Word, osv.) som du vill bli spårad av Sales Insight Actions.
 
 När du har klickat på den knappen kan du välja en fil som redan har överförts eller överföra en ny fil som ska spåras. Sedan infogar vi en länk i e-postmeddelandet eller mallen som du använder.
 
 På den mottagande sidan klickar mottagaren på länken och innehållet fylls i i webbläsaren. På så sätt kan vi spåra varje sidvy och rapportera dem till användaren av Sales Insight Actions i Live Feed.
 
-Alternativ för filer och innehåll finns i: engångskommunikation via e-post, mallar, kampanjer, Outlook (både Windows och Mac), Gmail och OWA.
+Fil- och innehållsalternativ finns i: e-post, mallar, kampanjer, Outlook (både Windows och Mac), Gmail och OWA.
 
 ## Vem hanterar innehållet och var lagras det? {#who-manages-the-content-and-where-is-it-stored}
 
-Innehållet kan laddas upp till databasen Sales Insight Actions av alla användare som kan skapa mallar. Det innebär att användarna kan överföra valfritt innehåll.
+Innehållet kan laddas upp till databasen Sales Insight Actions av alla användare som kan skapa mallar. Det innebär att användarna kan ladda upp valfritt innehåll.
 
 ## Kan innehåll, spelböcker, mallar osv. skapas/struktureras av team? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

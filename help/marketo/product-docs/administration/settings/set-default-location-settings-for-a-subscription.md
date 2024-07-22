@@ -6,8 +6,8 @@ exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 1%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ I den här artikeln beskrivs hur en administratör kan visa och redigera standar
 
 ## Ange standardplatsinställningar för en prenumeration {#set-default-location-settings-for-a-subscription-1}
 
-När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användarna kan alltid [ändra språk, nationella inställningar och tidszonsinställningar](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) i sina enskilda konton.
+När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användare kan alltid [ändra sina inställningar för språk, språk och tidszon](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) i sina enskilda konton.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
@@ -37,23 +37,23 @@ När en administratör ändrar standardplatsinställningarna ärver nyskapade an
 
    Den här prenumerationen skapades på engelska. Säg att du var i London och ville ändra standardspråk och tidszon. Språkinställningen avgör formateringen för siffror, datum och tider.
 
-1. Välj **[!UICONTROL Locale]** och ändra det till **[!UICONTROL English (United Kingdom)]**.
+1. Markera **[!UICONTROL Locale]** och ändra den till **[!UICONTROL English (United Kingdom)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Välj sedan lämplig **[!UICONTROL Time Zone]**.
+1. Välj sedan rätt **[!UICONTROL Time Zone]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/) har stöd för franska, tyska, japanska, portugisiska och spanska.
+   >Marketo Sales Insight för [Salesforce.com](https://salesforce.com/) stöder franska, tyska, japanska, portugisiska och spanska.
 
 ## Ange standardvalutainställningar för en prenumeration {#set-the-default-currency-settings-for-a-subscription}
 
 Om du ändrar standardspråkområdet för dina användare kanske du också vill ändra inställningarna för valutaformat.
 
-1. Klicka **[!UICONTROL Edit]** in [!UICONTROL Subscription Currency Settings].
+1. Klicka på **[!UICONTROL Edit]** i [!UICONTROL Subscription Currency Settings].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 

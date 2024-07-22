@@ -6,20 +6,20 @@ exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # Använd inaktivitetsfilter i en smart lista {#use-inactivity-filters-in-a-smart-list}
 
-Visste du att du kan söka efter personer i en smart lista som _inte_ gör något? Kolla in dessa inaktivitetsfilter.
+Visste du att du kan söka efter personer i en smart lista som _inte_ har gjort något? Kolla in dessa inaktivitetsfilter.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera den smarta lista som du vill redigera och klicka sedan på **[!UICONTROL Smart List]** -fliken.
+1. Markera den smarta lista som du vill redigera och klicka sedan på fliken **[!UICONTROL Smart List]**.
 
    ![](assets/smartlist-choose.png)
 
@@ -29,8 +29,8 @@ Visste du att du kan söka efter personer i en smart lista som _inte_ gör någo
 
    >[!TIP]
    >
-   >Det finns många filter i **[!UICONTROL Inactivity Filters]** mapp. Sök efter&quot;Inte&quot; och checka ut dem.
+   >Det finns många filter i mappen **[!UICONTROL Inactivity Filters]**. Sök efter&quot;Inte&quot; och checka ut dem.
 
-1. Välj **[!UICONTROL is any]** -operator. Då hittar du alla personer som inte har besökt någon sida de senaste 30 dagarna.
+1. Välj operatorn **[!UICONTROL is any]**. Då hittar du alla personer som inte har besökt någon sida de senaste 30 dagarna.
 
    ![](assets/mysmartlist-people.jpg)

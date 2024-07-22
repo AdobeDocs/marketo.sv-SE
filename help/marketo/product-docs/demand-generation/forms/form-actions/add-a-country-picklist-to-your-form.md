@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949966
 description: Lägg till en landsväljarlista i ditt formulär - Marketo Docs - Produktdokumentation
-title: Lägg till en landsväljare i formuläret
+title: Lägg till en landsväljarlista i formuläret
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Lägg till en landsväljare i formuläret {#add-a-country-picklist-to-your-form}
+# Lägg till en landsväljarlista i formuläret {#add-a-country-picklist-to-your-form}
 
 Följ dessa anvisningar för att konvertera landfältet till en listruta med en lista över alla länder.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-9.png)
 
@@ -23,23 +23,23 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
 
    ![](assets/editform-1.png)
 
-1. Klicka på **+** signera.
+1. Klicka på **+**-tecknet.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Sök och markera **Land**.
+1. Sök efter och välj **Land**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Med **Land** markerat fält ändrar **Fälttyp** till **Välj**.
+1. Markera fältet **Land** och ändra **fälttyp** till **Välj**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Redigera** den **Värden** för att lägga till en lista över länder som användare kan välja mellan.
+1. **Redigera** **Värden** om du vill lägga till listan över länder som användare kan välja från.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicka **Avancerat** **Redigerare**.
+1. Klicka på **Avancerat** **Redigeraren**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
    >
    >Redigera listan eller använd någon annan lista.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

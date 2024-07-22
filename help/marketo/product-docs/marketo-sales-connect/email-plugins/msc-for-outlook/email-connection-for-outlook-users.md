@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,27 @@ Lär dig hur du ansluter ditt Sales Connect-konto till Outlook.
 
 Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leveranskanalen i Outlook, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
 
    ![](assets/one.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/two.png)
 
-1. Klicka på **E-postanslutning** -fliken.
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/three.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/four.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
 
    ![](assets/five-a.png)
 
-1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
+1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -62,9 +62,9 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    >[!NOTE]
    >
-   >Marketo stöder för närvarande inte Hybrid-konton för Exchange.
+   >Marketo stöder för närvarande inte hybridkonton i Exchange.
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/seven-a.png)
 
@@ -72,7 +72,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/eight-a.png)
 
-1. Klicka **Acceptera**.
+1. Klicka på **Acceptera**.
 
    ![](assets/nine-a.png)
 
@@ -86,27 +86,27 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
 Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkomst till Outlooks leveranskanal, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
 
    ![](assets/one.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/two.png)
 
-1. Klicka på **E-postanslutning** -fliken.
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/three.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/four.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
 
    ![](assets/five-a.png)
 
-1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
+1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
 
    ![](assets/six-b.png)
 
@@ -123,7 +123,7 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
     </tbody>
    </table>
 
-1. Ange dina uppgifter och klicka på **Anslut**.
+1. Ange dina autentiseringsuppgifter och klicka på **Anslut**.
 
    ![](assets/seven-b.png)
 

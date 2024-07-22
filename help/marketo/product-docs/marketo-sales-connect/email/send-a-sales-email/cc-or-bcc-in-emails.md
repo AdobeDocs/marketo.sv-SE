@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # CC eller Hemlig kopia i e-postmeddelanden {#cc-or-bcc-in-emails}
 
-Du kan skicka kopior och Hemlig kopia som du brukar göra med e-postmeddelanden.
+Du kan skicka kopior och Hemlig kopia som du brukar göra med dina e-postmeddelanden.
 
 När det gäller spårning kan vår tjänst inte skilja mellan vem som öppnade ditt e-postmeddelande (oavsett om det var den ursprungliga mottagaren eller den kopierade personen). Du kan ibland gissa detta baserat på användarens plats och webbläsare, men det är ingen exakt vetenskap.

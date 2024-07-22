@@ -6,14 +6,14 @@ exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Mall 9E {#template-9e}
 
-Högerklicka för att [ladda ned mall 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Högerklicka för att [hämta mall 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -26,6 +26,6 @@ Den här mallen innehåller följande innehåll:
 * Åtta kroppsdelar (valfritt)
 * En sidfot (valfritt)
 
-**Högerklicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan för att hämta den här mallen:**
 
 [Template 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)

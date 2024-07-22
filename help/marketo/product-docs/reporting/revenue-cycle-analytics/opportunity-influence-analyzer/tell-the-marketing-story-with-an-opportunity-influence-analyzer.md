@@ -19,27 +19,27 @@ Använd en påverkansanalys för säljprojekt för att illustrera marknadsförin
 >
 >[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Gå till **Analyser** och väljer **Analys av påverkan på affärsmöjlighet**.
+1. Gå till **Analytics** och välj **Opportunity Influence Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
    Affärsmöjlighetsanalysen är en visuell representation av de interaktioner, program och händelseframgångar som är involverade i den affärsmöjligheten. Låt oss titta på diagrammet:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange punkter** representerar intressanta ögonblick i affärsmöjligheten (öppnade e-postmeddelanden, besök i butiker, nedladdningar av whitepaper osv.). Större punkter indikerar fler interaktioner.
+   * ![-](assets/image2014-10-3-13-3a43-3a21.png) **Orange punkter** representerar intressanta ögonblick i affärsmöjligheten (e-postmeddelanden som öppnats, butiksbesök, whitepaper-nedladdningar osv.). Större punkter indikerar fler interaktioner.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-ikoner** ange om programmet lyckades.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Binder-ikoner** anger att programmet har lyckats.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderikoner** ange att händelsen lyckades.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderikoner** anger att händelsen har slutförts.
 
    * **Affärsmöjlighetsperiod**. Det gröna området representerar själva affärsmöjligheten, från skapande av affärsmöjlighet till stängning av affärsmöjlighet (vunnen eller förlorad).
 
    * **Affärsmöjlighetens livscykel**. De grå områdena före och efter den gröna affärsmöjlighetsperioden visar de interaktioner som ledde till och följde på affärsmöjligheten.
 
-   The **Inställningar** visas personer från kontot:
+   På panelen **Inställningar** visas personer från kontot:
 
-   * The **tal inom parentes** är antalet interaktioner med kontakten.
+   * **talet inom parentes** är antalet interaktioner med den kontakten.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)The **gul stjärna** anger den primära kontakten.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Den **gula stjärnan** anger den primära kontakten.
 
 1. Håll muspekaren över ett namn för att se personens befattning och källan till deras medverkan i affärsmöjligheten.
 

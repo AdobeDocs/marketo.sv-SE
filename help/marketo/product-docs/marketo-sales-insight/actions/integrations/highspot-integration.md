@@ -24,11 +24,11 @@ Säljarna får tillgång till Highspot-funktioner från Sales Insight Actions oc
 
    ![](assets/highspot-integration-1.png)
 
-1. Under **Administratörsinställningar**, markera **Allmänt**.
+1. Välj **Allmänt** under **Administratörsinställningar**.
 
    ![](assets/highspot-integration-2.png)
 
-1. Bläddra till **Integreringar** och klicka på skjutreglaget för att aktivera högdager.
+1. Bläddra till **integrationskortet** och klicka på skjutreglaget för att aktivera högdager.
 
    ![](assets/highspot-integration-3.png)
 
@@ -56,13 +56,13 @@ Få åtkomst till Highspot och lägg till innehåll i e-postmeddelanden från Di
 
    ![](assets/highspot-integration-8.png)
 
-1. Välj önskat innehåll och klicka på **Lägg till innehåll** -knappen.
+1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll** .
 
    ![](assets/highspot-integration-9.png)
 
    >[!TIP]
    >
-   >Om du inte snabbt ser det innehåll du vill ha använder du sökfältet högst upp.
+   >Om du inte snabbt ser det innehåll du vill ha kan du använda sökfältet längst upp.
 
    Innehållet visas som en länk i ditt e-postmeddelande. Mottagaren kan klicka på länken för att visa/hämta den.
 

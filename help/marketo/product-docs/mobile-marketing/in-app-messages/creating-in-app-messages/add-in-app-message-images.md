@@ -6,14 +6,14 @@ exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
 
 # Lägg till meddelandebilder i appen {#add-in-app-message-images}
 
-Här väljer du och anpassar dina bilder för meddelanden i appen.
+Här väljer du och anpassar dina bilder i appen.
 
 1. Markera meddelandet i appen och klicka på **Redigera utkast**.
 
@@ -27,11 +27,11 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klicka på **Stil** och klicka på mallens bildområde.
+1. Klicka på fliken **Format** och klicka på mallens bildområde.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klicka **Välj bild**.
+1. Klicka på **Välj bild**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
@@ -47,7 +47,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klicka **Ta bort**. Nu kan du välja en till.
+1. Klicka på **Ta bort**. Nu kan du välja en till.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -85,7 +85,7 @@ Här väljer du och anpassar dina bilder för meddelanden i appen.
 
    >[!NOTE]
    >
-   >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Ingen**.
+   >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Inget**.
 
 Bra jobbat! Nu är det dags att [skapa texten för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 

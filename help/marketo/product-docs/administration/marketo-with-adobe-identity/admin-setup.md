@@ -5,7 +5,7 @@ exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ När du har lagts till som systemadministratör för Adobe till Marketo Engage i
 
 ## Inledande konfiguration {#initial-setup}
 
-1. När du har lagts till som systemadministratör för Marketo Engage (i en ny eller etablerad organisation) får du ett välkomstmeddelande. Klicka på **[!UICONTROL Get Started]**.
+1. När du har lagts till som systemadministratör för Marketo Engage (i en ny eller etablerad organisation) får du ett välkomstmeddelande. Klicka på **[!UICONTROL Get Started]** i det e-postmeddelandet.
 
    ![](assets/admin-setup-1.png)
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurera din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -28,7 +28,7 @@ När du har lagts till som systemadministratör för Adobe till Marketo Engage i
 
 När systemadministratören har öppnat Admin Console är det dags att skapa en produktprofil. Så här får dina användare/administratörer åtkomst till Marketo Engage.
 
-1. I **[!UICONTROL Overview]** sida, under **[!UICONTROL Products and Services]**, klicka **Marketo Engage**.
+1. Klicka på **Marketo Engage** under **[!UICONTROL Products and Services]** på sidan **[!UICONTROL Overview]**.
 
    ![](assets/admin-setup-3.png)
 
@@ -40,11 +40,11 @@ När systemadministratören har öppnat Admin Console är det dags att skapa en 
    >
    >Om du har flera prenumerationer måste du följa dessa steg för var och en av dem.
 
-1. Klicka på **[!UICONTROL New Profile]** -knappen.
+1. Klicka på knappen **[!UICONTROL New Profile]**.
 
    ![](assets/admin-setup-5.png)
 
-1. Ge produktprofilen ett namn (visningsnamn och beskrivning är valfria) och klicka på **[!UICONTROL Save]**.
+1. Ge din produktprofil ett namn (visningsnamn och beskrivning är valfria) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/admin-setup-6.png)
 

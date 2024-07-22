@@ -18,5 +18,5 @@ Det blir allt viktigare för organisationer att följa lagar om e-postsekretess.
 * Länkar för att avbryta prenumerationen placeras på alla e-postmeddelanden som skickas från Sales Connect/ToutApp och Salesforce (detta gäller inte för anpassade e-postmeddelanden som skickas från Outlook eller Gmail)
 * Administratörer kan redigera avbeställningsmeddelanden för hela teamet
 * Information om att avbryta prenumerationen lagras i PDV
-* Du kan avsluta prenumerationen manuellt: Klicka på Länk, Salesforce-synkronisering och Studsa
+* Du kan avbryta prenumerationen manuellt: Klicka på Länk, Salesforce-synkronisering och Studsa
 * Ny startsida för länk för avanmälan

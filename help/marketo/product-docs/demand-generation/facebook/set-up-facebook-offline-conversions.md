@@ -6,7 +6,7 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 >[!PREREQUISITES]
 >
 >* Du måste [konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Du måste ha en godkänd modell i [Intäktscykelmodelleraren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* Du måste ha en godkänd modell i [Inkomstcykeln Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## Administratörskonfiguration {#admin-configuration}
 
-1. Gå till Marketo **Administratör**.
+1. Gå till Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
@@ -30,37 +30,37 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 
    >[!NOTE]
    >
-   >Om du inte har gjort det, så gå vidare och [Konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), och sedan komma tillbaka hit.
+   >Om du inte har gjort det kan du [konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) och sedan komma tillbaka hit.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Om du vill kan du redigera **Visningsnamn** för att inkludera offlinekonverteringar. Klicka **Nästa**.
+1. Om du vill kan du redigera **visningsnamnet** så att det omfattar offlinekonverteringar. Klicka på **Nästa**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Kontrollera **Aktivera offlinekonverteringar** och klicka **Nästa**.
+1. Markera **Aktivera offlinekonvertering** och klicka på **Nästa**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Söt! Du är halvvägs färdig med att aktivera Facebook offlinekonverteringar. Låt oss gå till Revenue Cycle Modeler för att kartlägga faserna.
+   Söt! Du är halvvägs färdig med att aktivera Facebook offlinekonverteringar. Låt oss gå över till Revenue Cycle Modeler för att kartlägga faserna.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Konfiguration av intäktscykelmodell {#revenue-cycle-modeler-configuration}
+## Inkomstcykel, Modeler-konfiguration {#revenue-cycle-modeler-configuration}
 
-1. Gå till **Analyser**.
+1. Gå till **Analys**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Välj modell och klicka på **Redigera utkast**.
+1. Markera modellen och klicka på **Redigera utkast**.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -79,7 +79,7 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
    >* Sökningar
    >* Innehållsvyer
 
-1. Markera den scen som du vill mappa och gå sedan till **Facebook Conversion** väljer du den Facebook-händelse som du vill mappa den till. Upprepa det här steget om du vill mappa alla faser i RCM till offlinekonverteringsfaser på Facebook.
+1. Markera den scen som du vill mappa och välj sedan den Facebook-händelse som du vill mappa den till i listrutan **Facebook Conversion** . Upprepa det här steget om du vill mappa alla faser i RCM till offlinekonverteringsfaser på Facebook.
 
    ![](assets/1-1.png)
 
@@ -95,7 +95,7 @@ Genom att skicka offlinekonverteringsdata tillbaka till Facebook för personer s
 
    >[!CAUTION]
    >
-   >Kontrollera ditt Facebook-konto och se till att alla [annonser är associerade](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) till händelseuppsättningen Marketo Offline Conversions. Om de inte är det kanske inte annonseringen fungerar.
+   >Kontrollera ditt Facebook-konto och se till att alla [annonser är kopplade](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) till händelseuppsättningen Marketo Offline Conversions. Om de inte är det kanske inte annonseringen fungerar.
 
    >[!NOTE]
    >

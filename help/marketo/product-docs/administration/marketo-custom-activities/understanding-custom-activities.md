@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Spåra en åtgärd som en person har vidtagit specifikt för din verksamhet med anpassade aktiviteter.
 
-**Vad är aktiviteter?**
+**Vad är aktiviteter**
 
 Det finns flera sätt som en person kan interagera med din organisation. De kan besöka företagets webbplats, delta i ett av dina bildspel eller klicka på en länk i ett e-postmeddelande som du har skickat till dem. Dessa åtgärder är aktiviteter, och oavsett vilka åtgärder de vidtar, samlar Marketo in dem så att marknadsföringsteamet bättre kan förstå hur de kan skicka dem aktuell och relevant kommunikation.
 
@@ -35,6 +35,6 @@ Anpassade aktiviteter fungerar på samma sätt som vanliga aktiviteter. Men det 
 
 Steg 1: [Skapa en anpassad aktivitet](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) i ditt Marketo-konto
 
-Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [Anpassat aktivitets-API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
+Steg 2: Medarbetaren i organisationen som arbetar med vårt API kan sedan påbörja implementeringen. Mer information finns här: [API för anpassad aktivitet](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Ha det så roligt!

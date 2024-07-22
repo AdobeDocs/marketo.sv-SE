@@ -19,7 +19,7 @@ Kontrollpanelen för databaser fungerar som en ögonblicksbild som hjälper dig 
 >
 >Varje arbetsyta har en egen databaskontrollpanel.
 
-För att komma dit väljer du **[!UICONTROL Database]** från din My Marketo.
+Välj **[!UICONTROL Database]** på Min Marketo för att komma dit.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ Diagrammen visar totalt antal personer, antal säljbara personer samt de fem fr�
 
 >[!TIP]
 >
->Vill du få mer specifik eller aktuell information om dina medarbetare? Prova en [Prestandarapport för människor](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Vill du få mer specifik eller aktuell information om dina medarbetare? Försök med en [personprestandarapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Totalt antal personer:** Antalet heltidsanställda personer för den listade arbetsytan.
 
-**Marknadsföringsbara personer:** Antal heltidsanställda personer för den listade arbetsytan, _minus följande_: personer utan e-postadress, personer vars e-post är hårt studsad, personer som är blocklist, personer som har avbeställt prenumerationen, personer som för närvarande är inställda på Marketing Suspended.
+**Marknadsförbara personer:** Antal heltidsanställda personer för den listade arbetsytan, _minus följande_: personer utan e-postadress, personer vars e-post har fastnat, personer som har blocklist, personer som har avbrutit prenumerationen och personer som för närvarande är inställda på Marketing Suspended.

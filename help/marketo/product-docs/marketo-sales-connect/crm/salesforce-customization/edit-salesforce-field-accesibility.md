@@ -19,4 +19,4 @@ Om du inte ser aktivitetsloggen för e-post i Salesforce kan det bero på begrä
 
 * Arbeta med din Salesforce-administratör för att se till att de här säkerhetsinställningarna inte stör Sales Connect.
 
-* Om du är Salesforce-administratör kan du se fälttillgängligheten på fliken Säkerhetskontroller. De huvudfält som Sales Connect ska interagera med är: Konto, Kontakter, Möjligheter, Lead och Uppgift.
+* Om du är Salesforce-administratör kan du se fälttillgängligheten på fliken Säkerhetskontroller. De huvudfält som Sales Connect ska interagera med är: Konto, Kontakter, Möjlighet, Lead och Aktivitet.

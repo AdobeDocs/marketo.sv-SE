@@ -19,11 +19,11 @@ Som administratör kan du visa mallar som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka **Mallar**.
+1. Klicka på **Mallar**.
 
    ![](assets/one.png)
 
-1. Klicka på **Visa som** och välj önskad användare.
+1. Klicka på listrutan **Visa som** och välj önskad användare.
 
    ![](assets/two.png)
 

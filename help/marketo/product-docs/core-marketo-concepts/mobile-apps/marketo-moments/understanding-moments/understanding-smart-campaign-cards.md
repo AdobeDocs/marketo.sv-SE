@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
 1. På informationskortet får du tillgång till information om Smart List-filter, flöde och e-postsammanfattning.
 
-1. Tryck **Smart List**.
+1. Tryck på **Smart lista**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tryck **Flöde**.
+1. Tryck på **Flöde**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicka **E-postsammanfattning**.
+1. Klicka på **E-postsammanfattning**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Det är en bra idé att ta en titt på ett e-postmeddelande innan det skickas ut
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tryck [Skicka exempel](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på länkarna för mer information).
+1. Tryck på [Skicka exempel](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på länkarna för mer information).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Kort för obekräftade smarta kampanjer är grå tills du bekräftar dem. Sedan 
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tryck **Bekräfta**.
+1. Tryck på **Bekräfta**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tryck **Bekräfta** för att slutföra jobbet, eller **Aldrig sinna** om du har andra tankar.
+1. Tryck på **Bekräfta** för att slutföra jobbet, eller **Slut aldrig på** om du har andra tankar.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Du kan avbryta en bekräftad, schemalagd körning av en smart kampanj.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tryck **Avbryt körning**.
+1. Tryck på **Avbryt körning**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tryck **Avbryt körning**. Om du i sista minuten vill avbryta körningen trycker du **Aldrig sinna** och Smart Campaign kommer att köras enligt schemat.
+1. Tryck på **Avbryt körning**. Om du i sista minuten bestämmer dig för att inte avbryta körningen trycker du på **Aldrig Mind** så körs den smarta kampanjen som den är schemalagd.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,7 +119,7 @@ Du kan schemalägga om en bekräftad smart kampanj som inte har körts än.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tryck **Ändra schema**.
+1. Tryck på **Ändra schema**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
@@ -141,7 +141,7 @@ Precis som med andra Marketo Moments-kort kan du trycka på de tre punkterna på
 
 >[!NOTE]
 >
->Du kan också trycka på **Dela** ikonen på ett Smart Campaign-kort som ska delas och **Klar** och **Favorit** ikoner på informationskortet.
+>Du kan också trycka på ikonen **Dela** på ett Smart Campaign-kort som du vill dela och på ikonerna **Klar** och **Favorit** på informationskortet.
 
 ## Ta snabbt bort ett smart kampanjkort {#quickly-delete-a-smart-campaign-card}
 

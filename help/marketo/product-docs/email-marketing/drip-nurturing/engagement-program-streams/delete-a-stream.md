@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer du dessa snabba och enkla steg.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj engagemangsprogram och gå till **Strömmar**.
+1. Välj ditt engagemangsprogram och gå till **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -31,10 +31,10 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Bekräfta borttagningen genom att klicka **Ta bort**.
+1. Bekräfta borttagningen genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >Om strömmen innehåller personer blir du ombedd att [move](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) de ut först.
+   >Om det finns personer i strömmen blir du ombedd att [flytta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) dem först.

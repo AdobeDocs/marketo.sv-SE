@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >[Lägg till bilder och filer i Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Välj en startsida för frihandslandning och klicka på **Redigera** **Utkast**.
+1. Välj landningssida för frihandsritning och klicka på **Redigera** **Utkast**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. I redigeraren drar du över **Bild** -element.
+1. Dra över elementet **Bild** i redigeraren.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Klicka **Infoga**.
+1. Klicka på **Infoga**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Bra jobbat! Du har just lagt till en bild på din startsida i fri form.
+   Snyggt jobb! Du har just lagt till en bild på din startsida i fri form.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

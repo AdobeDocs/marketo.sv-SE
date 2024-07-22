@@ -23,11 +23,11 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Gå till Webbanpassning **Webbkampanjer**.
+1. Gå till **Webbkampanjer** i Web Personalization.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klicka **Skapa ny kampanj**.
+1. Klicka på **Skapa ny kampanj**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ Se hur du kan bädda in ett Marketo-formulär i en webbkampanj (Dialog, In Zone 
 
    ![](assets/five-1.png)
 
-1. Klistra in formulärinbäddningskoden i HTML källredigeraren. Klicka **Uppdatera**.
+1. Klistra in formulärinbäddningskoden i HTML Source Editor. Klicka på **Uppdatera**.
 
    ![](assets/six-1.png)
 
 1. Formuläret visas inte i redigeringsvyn, men du kan förhandsgranska det för att se hur det kommer att visas i en kampanj.
 
-1. Klicka **Starta** för att starta kampanjen.
+1. Klicka på **Starta** för att starta kampanjen.
 
    >[!NOTE]
    >
@@ -55,11 +55,11 @@ Om du vill lägga till en bakgrundsbild i formuläret kan du:
 * Ändra dialogrute- eller widgetfärger i Ange kampanj
 * Lägga till CSS-kod i skriptet
 
-Information om hur du redigerar CSS för ett formulärtema finns i [den här artikeln](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Mer information om hur du redigerar CSS för ett formulärtema finns i [den här artikeln](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Så här ändrar du dialogrute- eller widgetfärger i Ange kampanj:
 
-1. Välj en kampanjtyp för dialog och en dialogstil, rubrikfärg och bakgrundsfärg i Rich Text Editor för att anpassa formulärets bakgrundsfärger. Klicka **Spara**.
+1. Välj en kampanjtyp för dialog och en dialogstil, rubrikfärg och bakgrundsfärg i Rich Text Editor för att anpassa formulärets bakgrundsfärger. Klicka på **Spara**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,11 +73,11 @@ Så här lägger du till CSS-kod i skriptet:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Klistra in formulärinbäddningskoden med bakgrundsformatkoden i källredigeraren i HTML. Klicka **Uppdatera**.
+1. Klistra in formulärinbäddningskoden med bakgrundsformatkoden i HTML Source Editor. Klicka på **Uppdatera**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klicka **Förhandsgranska** för att se hur det kommer att återges i en kampanj (formuläret visas inte i redigeringsvyn). Här är ett exempel på hur formulärkoden ovan återges i en kampanj med en bakgrundsbild.
+1. Klicka på **Förhandsgranska** om du vill se hur det återges i en kampanj (formuläret visas inte i redigeringsvyn). Här är ett exempel på hur formulärkoden ovan återges i en kampanj med en bakgrundsbild.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 

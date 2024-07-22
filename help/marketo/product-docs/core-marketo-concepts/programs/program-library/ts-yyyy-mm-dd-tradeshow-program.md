@@ -2,10 +2,10 @@
 description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Produktdokumentation
 title: TS-YYYY-MM-DD Tradeshow Program
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Detta är ett exempel på ett program för bildspel med inbjudningar och uppföljningsmejl som använder ett Marketo Engage Event Program.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -32,15 +32,15 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <br/>02-Väntelistat
    <br/>03-Registrerad
    <br/>04-Besökta monter
-   <br/>05-engagerad vid Show - lyckades
-   <br/>06-engagerade vid postshow - lyckades</td>
+   <br/>05-Aktiverat vid Show - Klart
+   <br/>06-Angivet vid Post Show - klart</td>
    <td>Inkluderande</td>
    <td>Händelse</td>
   </tr>
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Alla kreativa resurser 
 <br/>(undermappar för e-post- och landningssidor)</td>
   </tr>
   <tr> 
@@ -186,11 +186,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -211,7 +211,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;03 - Inaktiverad av uppföljningsmeddelande via e-post (programmet lyckades)&quot; för att spåra om det lyckades! Gör så här _före_ dina e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;03 - Inaktiverad av uppföljningsmeddelande via e-post (programmet lyckades)&quot; för att spåra om det lyckades! Gör detta _innan_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

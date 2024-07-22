@@ -6,7 +6,7 @@ exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Du måste konfigurera användare med en licens för att använda TAM. Så här g
 
 >[!NOTE]
 >
->Antalet tillgängliga licenser varierar beroende på din prenumeration. Kontakta din säljare om du behöver mer information.
+>Antalet tillgängliga licenser varierar beroende på prenumerationen. Kontakta din säljare om du behöver mer information.
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Klicka **Användare och roller**. Välj den användare som licensen ska utfärdas till och klicka på **Utfärda licens** och markera **Hantering av målkonto**.
+1. Klicka på **Användare och roller**. Välj den användare som licensen ska utfärdas till, klicka på listrutan **Utfärda licens** och välj **Hantering av målkonto**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Kontrollera **Aktivera licens** kryssruta och klicka **Spara**.
+1. Markera kryssrutan **Aktivera licens** och klicka på **Spara**.
 
    ![](assets/issue-a-license-3.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147306
-description: Filtrera marknadsföringskalendern efter arbetsyta - Marketo Docs - produktdokumentation
-title: Filtrera marknadsföringskalendern efter arbetsyta
+description: Filtrera marknadsföringskalendern med Workspace - Marketo Docs - produktdokumentation
+title: Filtrera marknadsföringskalendern efter Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Filtrera marknadsföringskalendern efter arbetsyta {#filtering-the-marketing-calendar-by-workspace}
+# Filtrera marknadsföringskalendern efter Workspace {#filtering-the-marketing-calendar-by-workspace}
 
 Marknadskalendern kan filtreras efter objekt i specifika arbetsytor.
 
-1. Klicka på **[!UICONTROL Calendar]** platta.
+1. Klicka på rutan **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. På filterpanelen väljer du **[!UICONTROL Workspace]** nedrullningsbar meny. Välj önskad arbetsyta.
+1. Välj listrutan **[!UICONTROL Workspace]** på filterpanelen. Välj önskad arbetsyta.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
@@ -27,4 +27,4 @@ Marknadskalendern kan filtreras efter objekt i specifika arbetsytor.
 
    >[!NOTE]
    >
-   >[Spara en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Sparar en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

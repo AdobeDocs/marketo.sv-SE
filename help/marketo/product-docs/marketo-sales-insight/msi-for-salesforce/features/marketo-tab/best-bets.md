@@ -33,7 +33,7 @@ Knapparna Lead och Kontakt är markerade som standard. Du kan välja ett eller f
 
 Du kan inte &quot;Dölj&quot; ett lead eller en kontakt som du inte äger.
 
-**Inline-engagemang**
+**Infogat engagemang**
 
 Genom att klicka på dotmenyn under åtgärdskolumnen kan du nå ut till en viss lead eller kontakt med följande engagemangsalternativ:
 

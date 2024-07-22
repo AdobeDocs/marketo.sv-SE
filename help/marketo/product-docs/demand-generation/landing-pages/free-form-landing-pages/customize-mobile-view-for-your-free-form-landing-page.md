@@ -23,17 +23,17 @@ Mobilvyn på landningssidan i friform är oftast automatisk, men du kan anpassa 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klicka **Redigera utkast**.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicka på **Mobil** -fliken.
+1. Klicka på fliken **Mobil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Mobil jämfört med skrivbordsvy {#mobile-vs-desktop-view}
 
-Under Sidelement visas en ![](assets/image2015-1-22-18-3a39-3a53.png) (skrivbord) och en ![](assets/image2015-1-22-18-3a40-3a31.png) (mobil) ikon. På så sätt kan du visa/dölja olika element dynamiskt.
+Under Sidelement visas en ikon för ![](assets/image2015-1-22-18-3a39-3a53.png) (skrivbord) och en ikon för ![](assets/image2015-1-22-18-3a40-3a31.png) (mobil). På så sätt kan du visa/dölja olika element dynamiskt.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,11 +83,11 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 >[!TIP]
 >
->Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandslandning eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
+>Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandssidan eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
 
 ## Förhandsgranska mobilvy {#preview-mobile-view}
 
-1. Klicka **Förhandsgranska utkast**.
+1. Klicka på **Förhandsgranska utkast**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
@@ -99,7 +99,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Om du älskar det klickar du **Godkänn och stäng**.
+1. Om du gillar det klickar du på **Godkänn och stäng**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

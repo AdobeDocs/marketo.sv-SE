@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan snabbt och enkelt lägga till leads/kontakter till smarta Marketo-kampanjer direkt inifrån Microsoft Dynamics. Så här gör du.
 
-1. I Dynamics går du till **Försäljning** område.
+1. Gå till området **Försäljning** i Dynamics.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ Du kan snabbt och enkelt lägga till leads/kontakter till smarta Marketo-kampanj
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klicka **...** och markera **Lägg till i Marketo Campaign**.
+1. Klicka på **..** och välj **Lägg till i Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Välj den Marketo-kampanj som du vill lägga till leads eller kontakter i och klicka på **Lägg till**.
+1. Markera den Marketo-kampanj som du vill lägga till leads eller kontakter i och klicka på **Lägg till**.
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >För att kampanjen ska visas i listrutan använder du  [**Kampanjen har begärts** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med Sales Insight som källa när du konfigurerade kampanjen.
+   >För att kampanjen ska visas i listrutan använder du [**Campaign is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), med Sales Insight som källa, när du konfigurerade kampanjen.
 
 Och det där är alla! Nu har ni kraften i Marketo smarta kampanjer direkt från Dynamics.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen. Så här gör du.
 
-1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -23,13 +23,13 @@ Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen. Så h�
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Välj **Aktiv från** datum, sedan **Aktiv via** datum och klicka **Spara**.
+1. Välj ditt **Aktiv från**-datum, datumet **Aktiv till** och klicka på **Spara**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Du kan gå **Aktiv via** tom för att göra innehållet tillgängligt för alltid.
+   >Du kan lämna **Aktiv till** tomt om du vill göra innehåll tillgängligt för alltid.
 
    Perfekt! Du ser klockikonen bredvid det schemalagda innehållet. Den blir aktiv och inaktiv enligt det schema du anger.
 

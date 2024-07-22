@@ -37,11 +37,11 @@ Använd filtret Är personkonto i din smarta lista för att skilja personkonton 
 
 ## Var visas informationen om mitt personkonto i Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Aktiviteter som rör personkonton visas i **[!UICONTROL Account]** -panelen.
+Aktiviteter som rör personkonton visas på panelen **[!UICONTROL Account]**.
 
 >[!NOTE]
 >
->Marketo Sales Insight&#39;s **[!UICONTROL Add to Marketo Campaign]** och **[!UICONTROL Send Email]** är för närvarande inte tillgängliga för personkonton.
+>Marketo Sales Insight-alternativen **[!UICONTROL Add to Marketo Campaign]** och **[!UICONTROL Send Email]** är för närvarande inte tillgängliga för personkonton.
 
 ## Hur kopplar jag affärsmöjligheter till ett personkonto? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo är beroende av kontaktrollen för affärsmöjligheten för att avgöra 
 
 ## Vilket e-postfält ska jag använda för personkonton? {#which-email-field-should-i-use-for-person-accounts}
 
-Det finns två e-postfält för ett personkonto. Använd **E-postadress** fält i formulären (inte **Personens e-postadress**) för att säkerställa att Marketo deduplicering och annan e-postbearbetning fungerar som den ska.
+Det finns två e-postfält för ett personkonto. Använd fältet **E-postadress** i dina formulär (inte **Personens e-postadress**) för att se till att Marketo deduplicering och annan e-postbearbetning fungerar som de ska.

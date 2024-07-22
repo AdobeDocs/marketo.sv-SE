@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Välkommen till din nya Adobe Marketo Engage-instans! Gör er redo för att effektivisera, automatisera och mäta marknadsföringsuppgifter och arbetsflöden med kraftfulla funktioner för automatiserad marknadsföring.
 
-I den här guiden&quot;Implementera en ny instans i Marketo Engage&quot; får du lära dig de bästa metoderna för att sömlöst implementera instansen för att säkerställa långsiktig hygien och driftseffektivitet. Varje checklista innehåller praktiska steg som du kan använda för att hålla reda på konfigurationsförloppet. Använd [hämtningsbara checklistor](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} för att dokumentera arbetet på vägen mot framtida förekomstgranskningar och användarintroduktioner.
+I den här guiden&quot;Implementera en ny instans i Marketo Engage&quot; får du lära dig de bästa metoderna för att sömlöst implementera instansen för att säkerställa långsiktig hygien och driftseffektivitet. Varje checklista innehåller praktiska steg som du kan använda för att hålla reda på konfigurationsförloppet. Använd checklistorna [som kan hämtas](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} för att dokumentera ditt arbete på samma sätt som framtida förekomstgranskningar och användarintroduktioner.
 
 ## Inledande konfiguration {#initial-setup}
 
@@ -28,7 +28,7 @@ Innan du går in i checklistorna för bästa praxis nedan kontrollerar du att du
 
 ## Checklistor för bästa praxis för din nya Marketo Engage-instans {#best-practice-checklists-new-instance}
 
-Hämta instansen Marketo Engage [Nya checklistor för implementeringsadministratörer](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}eller gå igenom onlineguiderna nedan.
+Hämta checklistorna för den nya implementeringsadministratören [i Marketo Engage-instansen](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} eller gå igenom onlineguiderna nedan.
 
 * [Administratörsavsnittet](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
@@ -44,11 +44,11 @@ Hämta instansen Marketo Engage [Nya checklistor för implementeringsadministrat
 
 ## Kommunicera med andra {#connect-with-your-peers}
 
-Besök [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (kallas även Marketing Nation) om du vill veta mer om din instans i Marketo Engage från både anställda och andra användare.
+Besök [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (kallas även Marketing Nation) om du vill veta mer om din instans i Marketo Engage från både anställda och andra användare i Marketo Engage.
 
 Kom igång i communityn:
 
-1. Klicka **Fortsätt med Adobe ID** och väljer din primära prenumeration på inloggningssidan.
+1. Klicka på **Fortsätt med Adobe ID** och välj din primära prenumeration på inloggningssidan.
 1. Fyll i din community-profil när du loggar in.
 1. När du har skickat in informationen kommer du att hamna på communityhemsidan och vara snäll och gå!
 

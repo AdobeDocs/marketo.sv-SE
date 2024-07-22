@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Exportera metadata för anpassat objekt {#custom-object-metadata-export}
 
-Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade objektmetadataschemat. Så här skaffar du den.
+Om du använder vårt SOAP API eller Munchkin API kan du exportera ett anpassat objektmetadataschema. Så här skaffar du den.
 
 >[!AVAILABILITY]
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
@@ -30,7 +30,7 @@ Om du använder vårt SOAP API eller Munchkin API kan du exportera det anpassade
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Klicka på **[!UICONTROL Custom Object Actions]** nedrullningsbar meny och välj **[!UICONTROL Export Object]**.
+1. Klicka på listrutan **[!UICONTROL Custom Object Actions]** och välj **[!UICONTROL Export Object]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

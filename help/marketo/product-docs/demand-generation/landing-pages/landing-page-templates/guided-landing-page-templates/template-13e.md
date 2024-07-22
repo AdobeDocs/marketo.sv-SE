@@ -6,14 +6,14 @@ exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
 # Mall 13E {#template-13e}
 
-Högerklicka för att [ladda ned mall 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Högerklicka för att [hämta mall 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -26,6 +26,6 @@ Den här mallen innehåller följande innehåll:
 * Fem karosserisektioner (valfritt)
 * Sidfot (valfritt)
 
-**Högerklicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan för att hämta den här mallen:**
 
-[Template 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[Mall 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

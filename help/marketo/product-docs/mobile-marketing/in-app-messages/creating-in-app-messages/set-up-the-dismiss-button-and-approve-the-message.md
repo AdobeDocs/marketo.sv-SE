@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
 Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du redo att avsluta jobbet.
 
-1. Klicka på knappen **Meddelandeåtgärder** nedrullningsbar meny och välj **Förhandsgranska**.
+1. Om du vill förhandsgranska ditt meddelande i appen klickar du på listrutan **Meddelandeåtgärder** och väljer **Förhandsgranska**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,9 +63,9 @@ Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du r
 
    >[!NOTE]
    >
-   >Du kan också välja **Godkänn och stäng** direkt från listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säkert?
+   >Du kan också välja **Godkänn och stäng** direkt från listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
 
-1. Stäng fliken om du vill stänga redigeraren utan att godkänna. Den sparas automatiskt så att du kan returnera och godkänna den senare.
+1. Stäng fliken om du vill stänga redigeraren utan att godkänna den. Den sparas automatiskt så att du kan returnera och godkänna den senare.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 

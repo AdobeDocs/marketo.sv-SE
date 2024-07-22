@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: '"Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Service - Marketo Docs - produktdokumentation'
-title: "Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Tjänst"
+description: "Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
+title: "Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Lägg till [!DNL GoToWebinar] som [!DNL LaunchPoint] Tjänst {#add-gotowebinar-as-a-launchpoint-service}
+# Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint]-tjänst {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
+Marketo hanterar din registrering och närvaro av [!DNL GoToWebinar].
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
 
 >[!NOTE]
 >
->En befintlig prenumeration på [!DNL GoToWebinar] och administrationsrättigheter krävs för detta steg. Ha e-post och lösenord som du använder för att logga in på [!DNL GoToWebinar] till hands.
+>En befintlig prenumeration på [!DNL GoToWebinar] och administrationsrättigheter krävs för det här steget. Ha e-postadressen och lösenordet som du använder för att logga in på [!DNL GoToWebinar] till hands.
 
 >[!NOTE]
 >
->[!DNL GoToMeeting], [!DNL GoToWebcast]och [!DNL GoToTraining] stöds för närvarande inte.
+>[!DNL GoToMeeting], [!DNL GoToWebcast] och [!DNL GoToTraining] stöds inte för närvarande.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
@@ -39,7 +39,7 @@ Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]** väljer du **[!UICONTROL GoToWebinar]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL GoToWebinar]** under **[!UICONTROL Service]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
@@ -49,9 +49,9 @@ Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
 
    >[!NOTE]
    >
-   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till [!DNL GoToWebinar]väljer du **[!UICONTROL Enable Additional Fields]** box.
+   >Om du vill synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till [!DNL GoToWebinar] markerar du rutan **[!UICONTROL Enable Additional Fields]**.
 
-1. I [!DNL GoToWebinar] Popup-fönstret Logga in, ange **[!UICONTROL GoToWebinar]** e-post och lösenord och klicka **[!UICONTROL Sign In]**.
+1. I popup-fönstret [!DNL GoToWebinar] Logga in anger du din **[!UICONTROL GoToWebinar]**-e-postadress och ditt lösenord och klickar på **[!UICONTROL Sign In]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
@@ -59,14 +59,14 @@ Marketo hanterar dina [!DNL GoToWebinar] registrering och närvaro.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Bra! Dina **[!UICONTROL GoToWebinar]** kontot har nu synkroniserats med Marketo.
+1. Bra! Ditt **[!UICONTROL GoToWebinar]**-konto har synkroniserats med Marketo.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->När du uppdaterar ditt lösenord i [!DNL GoToWebinar]måste du även uppdatera ditt lösenord i Marketo.
+>När du uppdaterar ditt lösenord i [!DNL GoToWebinar] måste du även uppdatera ditt lösenord i Marketo.
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [skapa en händelse med [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.
+>Lär dig hur du [skapar en händelse med  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.

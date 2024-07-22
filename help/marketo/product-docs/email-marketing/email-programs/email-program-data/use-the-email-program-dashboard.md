@@ -17,11 +17,11 @@ Se hur e-postprogrammen fungerar i den här instrumentpanelsvyn.
 
 >[!CAUTION]
 >
->För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
+>Undvik att _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det startade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande [klonar du det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 >[!NOTE]
 >
->Om ditt program har ett A/B-test kan du titta på [Kontrollpanel för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Om ditt program har ett A/B-test går du till [e-postprogramkontrollpanelen - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ I det här diagrammet visas antalet e-postmeddelanden som öppnas/klickas under 
 
 ## Sammanfattning - engagemang {#summary-engagement}
 
-Detta visar det övergripande [engagemangspoäng](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Detta visar det övergripande [engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,7 +63,7 @@ Resten av informationen visar Öppna, Klickningar, Klick/Öppna förhållande oc
 
 >[!TIP]
 >
->The **Avbeställ** i ovanstående exempel var hastigheten så liten att Marketo zoomade in för att ge dig en bättre look. Den andra siffran i fältet läggs bara till för skalning.
+>Frekvensen **Unsubscribe** i exemplet ovan var så liten att Marketo zoomade in för att ge dig ett bättre utseende. Den andra siffran i fältet läggs bara till för skalning.
 
 >[!NOTE]
 >
@@ -71,7 +71,7 @@ Resten av informationen visar Öppna, Klickningar, Klick/Öppna förhållande oc
 >
 >**Öppnar** räknas när e-postmottagaren hämtar e-postbilderna, som innehåller en spårningspixel som infogats av Marketo. Om mottagaren visar e-postmeddelandet men väljer att inte hämta bilderna räknas det inte som en öppen fil. Om bilderna läses in i mottagarens förhandsgranskningsfönster räknas det vanligtvis som en öppen bild, men det varierar beroende på e-postklienten.
 >
->**Klicka för att öppna** Mäter hur många procent e-postmeddelanden som både öppnades och där en länk klickades i e-postmeddelandet. Vi tar antalet unika klick dividerat med antalet unika öppningar och multiplicerar med 100 för att visa det som en procentandel.
+>**Klicka för att öppna** mäter procentandelen e-postmeddelanden som både öppnades och som hade en länk klickad i e-postmeddelandet. Vi tar antalet unika klick dividerat med antalet unika öppningar och multiplicerar med 100 för att visa det som en procentandel.
 
 ## Uppdatera instrumentpanel {#refresh-dashboard}
 

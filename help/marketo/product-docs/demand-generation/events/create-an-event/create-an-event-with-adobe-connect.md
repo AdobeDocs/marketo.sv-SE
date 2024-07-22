@@ -6,7 +6,7 @@ exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -20,35 +20,35 @@ Synkronisering med Adobe Connect gör att ni kan hantera registrering och närva
 >* [Länka Adobe Connect och Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect. Om du behöver hjälp kan du kolla in [Adobe Connect Användarhandbok](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Kontrollera först att du har skapat ett möte eller seminarium i Adobe Connect. Om du behöver hjälp kan du läsa [Adobe Connect användarhandbok](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som du angav när du angav dina inloggningsuppgifter i Marketo. När du har skapat ditt möte eller seminarium bör du notera all relevant logistisk information (t.ex. telefonnumret) som du kan använda i bekräftelsemeddelandet och ICS-filen.
 
 >[!CAUTION]
 >
->Som händelsevärd måste du se till att gå med inifrån programmet och **not** via länken som skickas till deltagarna.
+>Som händelsevärd måste du se till att ansluta inifrån appen och **inte** via länken som skickas till deltagarna.
 
 >[!NOTE]
 >
 >Vi stöder för närvarande inte Adobe Connect On-Site.
 
-1. Välj **Händelseåtgärder** och sedan **Händelseinställningar**.
+1. Välj **Händelseåtgärder** och sedan **Händelseinställningar** hemma för en ny händelse.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Om du inte ser **Händelseinställningar** i listrutan kontrollerar du att händelsens kanal har **Händelse med webbinarium** som markerats under &quot;Gäller för&quot;.
+   >Om du inte ser **Händelseinställningar** i listrutan kontrollerar du att händelsens kanal har **Händelse med webbinarium** markerat under &quot;Gäller för&quot;.
 
-1. Under **Evenemangspartner**, markera **Adobe Connect**.
+1. Under **Event Partner** väljer du **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Välj **Inloggning** ID:t och välj **Händelse**.
+1. Välj ditt **inloggnings**-ID och välj din **händelse**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/event-settings-overview.png)
 
@@ -56,13 +56,13 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
 
    >[!NOTE]
    >
-   >De fält som Marketo skickar är: Förnamn, efternamn, e-postadress.
+   >De fält som Marketo skickar är: Förnamn, Efternamn, E-postadress.
 
    >[!TIP]
    >
-   >Om du vill infoga personens unika URL-adress i ett e-postmeddelande använder du den här variabeln: `{{member.webinar url}}`. När e-postmeddelandet skickas löser denna token automatiskt personens unika bekräftelse-URL från Adobe Connect.
+   >Om du vill infoga personens unika URL i ett e-postmeddelande använder du den här token: `{{member.webinar url}}`. När e-postmeddelandet skickas löser denna token automatiskt personens unika bekräftelse-URL från Adobe Connect.
    >
-   >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+   >Ange bekräftelsemeddelandet som **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
    Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
 
@@ -74,7 +74,7 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder på fliken Sammanfattning av händelsen.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken Sammanfattning för händelsen.
 
    >[!MORELIKETHIS]
    >

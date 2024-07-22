@@ -25,7 +25,7 @@ Med kontrollpanelen för engagemang kan du mäta effektiviteten i dina program f
 
 Mäta målgruppsengagemang
 
-Välj **Framgångar** mätvärden för att mäta målgruppernas engagemang i era vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
+Välj måttet **Framgångar** för att mäta målgruppernas engagemang i dina vårdsprogram. Success är ett mått på meningsfull interaktion i Marketo.
 
 ![](assets/3-4.png)
 
@@ -33,11 +33,11 @@ Syftet med ett program är att skapa en meningsfull interaktion med personen ell
 
 >[!NOTE]
 >
->I ett webbinarium kan det finnas flera statusar, som: Inbjuden, registrerad och anmäld. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
+>I ett webbinarium kan det finnas flera statusar, t.ex.: Inbjuden, Registrerad och Bifogad. Inbjudna eller registrerade är inte meningsfulla interaktioner eftersom folk egentligen inte tittar på webbinariet. I det här fallet anses det som lyckat.
 
 Mäta nytt namnförvärv
 
-Välj **Nya namn** mätvärden för att mäta effektiviteten i era nya program för förvärv av namn.
+Välj måttet **Nya namn** om du vill mäta effektiviteten i dina nya program för namnvärvning.
 
 ![](assets/4-3.png)
 
@@ -59,14 +59,14 @@ Panelen Pipeline visar kanalprestanda med hjälp av första-touch- och multitouc
   </tr> 
   <tr> 
    <td><p><strong>Pipeline skapad</strong></p></td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Det kan vara en bråkdel av det totala antalet leads.</p></td> 
+   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Det kan vara en bråkdel av summan om det finns flera leads.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Öppen pipeline</strong></p></td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter som fortfarande är öppna. Det kan vara en bråkdel av det totala antalet leads.</p></td> 
+   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter som fortfarande är öppna. Det kan vara en bråkdel av summan om det finns flera leads.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Förväntad intäkt</strong></p></td> 
+   <td><p><strong>Förväntade intäkter</strong></p></td> 
    <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med värdet för affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
   </tr> 
   <tr> 
@@ -82,7 +82,7 @@ Panelen Pipeline visar kanalprestanda med hjälp av första-touch- och multitouc
 
 ## Intäkter {#revenue}
 
-Instrumentpanelen Intäkter visar kanalprestanda med hjälp av statistik för första beröringen och multitouch.
+Instrumentpanelen Intäkter visar kanalprestanda med hjälp av första-berörings- och multitouch-mått.
 
 ![](assets/six-1.png)
 
@@ -94,7 +94,7 @@ Instrumentpanelen Intäkter visar kanalprestanda med hjälp av statistik för f�
   </tr> 
   <tr> 
    <td><p><strong>Vinst på intäkt</strong></p></td> 
-   <td><p>Andelen kredit (i penningvärde) som tagits emot för att påverka en vunnen möjlighet.</p></td> 
+   <td><p>Andelen kredit (i penningvärde) som tagits emot för att påverka en vunnen affärsmöjlighet.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Kostnad per affärsmöjlighet vunnen</strong></p></td> 

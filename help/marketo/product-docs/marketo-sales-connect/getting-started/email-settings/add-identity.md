@@ -21,11 +21,11 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
 1. Klicka på ikonen Inställningar.
 
-1. Klicka **E-postinställningar**.
+1. Klicka på **E-postinställningar**.
 
-1. Klicka **Lägg till identitet**.
+1. Klicka på **Lägg till identitet**.
 
-1. Ange din information (e-post och namn är obligatoriska fält), klicka på **Skapa** när det är klart.
+1. Ange din information (e-post och namn är obligatoriska fält) och klicka på **Skapa** när du är klar.
 
 1. Klicka på länken i det bekräftelsemeddelande du får.
 

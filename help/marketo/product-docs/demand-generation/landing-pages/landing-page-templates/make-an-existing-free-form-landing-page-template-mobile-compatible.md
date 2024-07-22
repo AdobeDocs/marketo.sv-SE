@@ -25,19 +25,19 @@ Det kan du göra på två ställen: mallredigeraren och redigeraren för landnin
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Välj en mall där **Mobilkompatibel** är **Nej**.
+1. Välj en mall där **Mobile Compatible** är **No**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicka **Redigera utkast**.
+1. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicka **Gör mobilkompatibel**.
+1. Klicka på **Gör mobilkompatibel**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicka **Uppgradera**.
+1. Klicka på **Uppgradera**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,11 +69,11 @@ Om du gör några ändringar i mallen klickar du på Mallåtgärder och väljer 
 
 När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland att märka att mallen inte har uppgraderats. Rädsla inte! Där kan du uppgradera den.
 
-1. Klicka på **Mobil** -fliken.
+1. Klicka på fliken **Mobil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klicka på kryssrutan och klicka **Aktivera**.
+1. Klicka på kryssrutan och klicka på **Aktivera**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland
    >
    >När du aktiverar mobilversionen av en mall skapas utkast för alla landningssidor som använder den.
 
-Häftig! Nu kan du [anpassa mobilvyn](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) av alla dina landningssidor som använder den här mallen.
+Häftig! Du kan nu [anpassa den mobila vyn](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) för alla dina landningssidor som använder den här mallen.

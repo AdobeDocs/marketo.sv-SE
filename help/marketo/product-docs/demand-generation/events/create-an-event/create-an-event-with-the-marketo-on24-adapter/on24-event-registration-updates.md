@@ -19,25 +19,25 @@ Du kan godkänna dina registranter manuellt innan du skickar en bekräftelse via
 
 1. För kampanjen Registreringsutlösare:
 
-   * Ställ in utlösaren på **Fyller i formulär**.
-   * I Flödet anger du status i progression till **Väntar på godkännande**.
+   * I den smarta listan ställer du in utlösaren på **Fyller i formulär**.
+   * I Flödet anger du statusen i progression till **Väntar på godkännande**.
 
-1. Gå till händelsen och klicka på knappen **Medlemmar** -fliken. På den här fliken visas alla personer som har fyllt i formuläret. Deras status bör vara inställd på **Väntar på godkännande**.
-1. Använd filtret längst upp i rutnätet för att endast visa personer med statusen **Väntar på godkännande**.
+1. Gå till händelsen och klicka på fliken **Medlemmar**. På den här fliken visas alla personer som har fyllt i formuläret. Deras status ska vara **Väntande godkännande**.
+1. Använd filtret längst upp i rutnätet om du bara vill visa personer med statusen **Väntar på godkännande**.
 1. Markera de personer som du vill registrera (Skift-klicka, Ctrl-klicka eller Markera alla).
-1. Klicka på **Ändra status**. Välj **Registrerad**, **Avvisad** eller någon annan tillämplig status.
+1. Klicka på **Ändra status** på menyn. Välj **Registrerad**, **Avvisad** eller någon annan tillämplig status.
 
 ## Hantera personer med ett registreringsfel {#handling-people-with-a-registration-error}
 
 Om en person slutar att registreras utan att anges till statusfelet Registreringsfel är det inte för sent att återskapa.
 
-1. Filtrera listan med personer med statusen på fliken Medlemmar **Registreringsfel**.
-1. Kontrollera att du har fastställt och åtgärdat problemet med integreringen innan du fortsätter (kontrollera att det inte finns några fel under **Event Partners** i Admin).
+1. Filtrera listan med personer med statusen **Registreringsfel** på fliken Medlemmar.
+1. Innan du fortsätter bör du kontrollera att du har fastställt och åtgärdat problemet med integrering (kontrollera att det inte finns några fel under **Event Partners** i Admin).
 1. När problemet är löst väljer du alla personer med status Registreringsfel och ändrar deras status till **Registrerad**. Detta kommer att försöka registrera dem igen med ON24.
 
 ## Uppdaterar medlemsstatus från ON24 {#updating-member-status-from-on}
 
-Marketo hämtar automatiskt information om närvaro vid ungefär 200 PST varje kväll. Om du vill uppdatera närvaroinformation manuellt klickar du på **Uppdatera från webbseminarieleverantör** under **Händelseåtgärder**.
+Marketo hämtar automatiskt information om närvaro vid ungefär 200 PST varje kväll. Om du vill uppdatera närvaroinformationen manuellt klickar du på **Uppdatera från webbinariet-providern** under **Händelseåtgärder**.
 
 >[!MORELIKETHIS]
 >

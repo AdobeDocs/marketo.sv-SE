@@ -23,7 +23,7 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
 
    ![](assets/one-8.png)
 
-1. Sök efter och välj den e-postmall som du vill lägga till länken i. Klicka **Redigera utkast**.
+1. Sök efter och välj den e-postmall som du vill lägga till länken i. Klicka på **Redigera utkast**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
 
    >[!CAUTION]
    >
-   >Vi rekommenderar inte att du använder formatet **position:relativ** i din e-postmall. Det kan skapa problem med placeringen och visningen av rutan Vidarebefordra till vän.
+   >Vi rekommenderar inte att du använder formatet **position:relative** i din e-postmall. Det kan skapa problem med placeringen och visningen av rutan Vidarebefordra till vän.
 
-1. Klicka **Förhandsgranska utkast** för att säkerställa att mallen ser ut som du vill ha den.
+1. Klicka på **Förhandsgranska utkast** för att kontrollera att mallen ser ut som du vill ha den.
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/five-4.png)
 
-1. Placera markören där du vill att länken ska visas och klicka på **Infoga token** -knappen.
+1. Placera markören där du vill att länken ska visas och klicka på knappen **Infoga token** .
 
    ![](assets/six-2.png)
 
-1. Välj **`{{system.forwardToFriendLink}}`** token.
+1. Välj token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/seven-1.png)
 
-1. Klipp ut **`{{system.forwardToFriendLink}}`** -token med Ctrl+X (Windows) eller Cmd+X (Mac). Markera&quot;Framåt till en vän&quot; och klicka på **Infoga/redigera länk** -knappen.
+1. Klipp ut **`{{system.forwardToFriendLink}}`**-token med Ctrl+X (Windows) eller Cmd+X (Mac). Markera Vidarebefordra till en vän och klicka på knappen **Infoga/redigera länk** .
 
    ![](assets/eight-1.png)
 
-1. Klistra in **`{{system.forwardToFriendLink}}`** till **URL** med Ctrl/Cmd+V och sedan klicka **Infoga**.
+1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på **Infoga**.
 
    ![](assets/nine.png)
 
@@ -108,7 +108,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    ![](assets/fourteen.png)
 
-1. Gå till **Aktivitetslogg** -fliken. Dubbelklicka **Vidarebefordrad till väns-e-post** eller **Vidarebefordra till väns-e-post** om du vill ha mer information.
+1. Gå till fliken **Aktivitetslogg**. Dubbelklicka på **Mottaget till väns-e-post** eller **Skickat framåt till väns-e-post** för att visa information.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    ![](assets/sixteen.png)
 
-1. Om du vill visa en person efter ID kopierar du och klistrar in **Person-ID** till slutet av URL:en (början av URL:en beror på din Marketo-instans):
+1. Om du vill visa en person efter ID kopierar och klistrar du in **person-ID** i slutet av URL:en (början av URL:en beror på din Marketo-instans):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Vi ska göra **Person-ID** klickbart och länka direkt till personen i en kommande patch.
+   >Vi gör **person-ID** klickbart och länkar direkt till personen i en kommande korrigering.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Om den vän som tar emot vidarebefordran är en okänd person skapas en ny person med namnet&quot;Vidarebefordra till vän&quot; markerat som personens **Källa**.
-   >Om e-postmeddelandet är en lokal tillgång i ett program markeras programmet som personens **Anskaffningsprogram**.
+   >Om den vän som tar emot vidarebefordran är en okänd person, skapas en ny person med&quot;Vidarebefordra till vän&quot;, markerad som personens **Source**.
+   >Om e-postmeddelandet är en lokal tillgång i ett program markeras programmet som personens **förvärvsprogram**.
 
 ## Utlös eller filtrera med hjälp av vidarebefordringsaktivitet {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ Om du söker efter &quot;framåt&quot; i en smart kampanjlista hittar du tillgä
 
 ## Testa framåt till vän {#test-forward-to-friend}
 
-Om du vill testa Vidarebefordra till vän skickar du dig ett e-postmeddelande med länken Framåt. Se till att du skickar det via **Skicka e-post** flödessteg, *not* via **Skicka testmeddelande**.
+Om du vill testa Vidarebefordra till vän skickar du dig ett e-postmeddelande med länken Framåt. Kontrollera att du skickar det genom flödessteget **Skicka e-post**, *inte* via **Skicka testmeddelande**.

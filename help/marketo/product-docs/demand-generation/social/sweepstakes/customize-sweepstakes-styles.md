@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # Anpassa utlottningsstilar {#customize-sweepstakes-styles}
 
-När du [skapa utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)kan du anpassa utseendet på landningssidan.
+När du [skapar utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) kan du anpassa utseendet på landningssidan.
 
 >[!AVAILABILITY]
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Markera utlottningen och klicka **Redigera utkast**.
+1. Markera utlottningen och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. I Lotteriet går du till **Appinställningar** > **Utseende**.
+1. Gå till **Appinställningar** > **Utseende** i Lotteriet.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -46,7 +46,7 @@ När du [skapa utlottningar](/help/marketo/product-docs/demand-generation/social
 
    >[!NOTE]
    >
-   >Om du använder en bild med text på den måste du komma ihåg att ta bort texten från **Ange knapp** under Text ovan.
+   >Om du använder en bild med text i den måste du komma ihåg att ta bort texten från fältet **Ange knapp** under Text ovan.
 
 1. När du gör varje ändring visas resultatet i förhandsvisningen för Visa och redigera.
 
@@ -58,4 +58,4 @@ När du [skapa utlottningar](/help/marketo/product-docs/demand-generation/social
 
    >[!MORELIKETHIS]
    >
-   >Nästa steg är att lägga till [e-postmeddelanden om registrering och fullgörande av dina utlottningar](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Nästa steg är att lägga till [e-postmeddelanden om registrering och uppfyllelse i dina utlottningar](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

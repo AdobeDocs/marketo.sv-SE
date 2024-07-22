@@ -19,11 +19,11 @@ Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. S
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Välj **Nytt** > **Ny lokal resurs**.
+1. Välj **Ny** > **Ny lokal resurs** i programmet.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. I **Lokalt resursgalleri**, klicka **Referenserbjudande**.
+1. Klicka på **Referenserbjudande** i **galleriet för lokala resurser**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,11 +33,11 @@ Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. S
 
    >[!TIP]
    >
-   >Du kan spara tid med **Klona från** möjlighet att kopiera alla inställningar från ett befintligt hänvisningserbjudande.
+   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från ett befintligt hänvisningserbjudande.
 
    Anvisningserbjudanderedigeraren öppnas i ett nytt fönster. Standardinställningarna är alla bra, men du måste lägga till en länk till reglerna för ditt erbjudande (villkor). Länken visas längst ned på delningsmeddelandeskärmar. Vi visar hur du gör i nästa steg.
 
-1. Klicka **Avancerade alternativ**.
+1. Klicka på **Avancerade alternativ**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
@@ -47,17 +47,17 @@ Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. S
 
    >[!NOTE]
    >
-   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se  [Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se [Lägg till din sekretesspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    >[!TIP]
    >
-   >Om du vill ändra standardinställningarna i ditt hänvisningserbjudande klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
+   >Om du vill ändra något av standardvärdena i ditt hänvisningserbjudande klickar du på **Tillbaka**. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 

@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Använd dynamiskt innehåll i e-postmeddelanden för att skicka riktade leads-up
 
 >[!NOTE]
 >
->Användning av variabler i dynamiskt innehåll i ett e-postmeddelande stöds bara när du använder Utlösarkampanjer. Det är **not** stöds när gruppkampanjer används.
+>Användning av variabler i dynamiskt innehåll i ett e-postmeddelande stöds bara när du använder Utlösarkampanjer. Det stöds **inte** när gruppkampanjer används.
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj e-post och klicka **Redigera utkast**.
+1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
 
    ![](assets/1.2.png)
 
-1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på **Gör dynamisk** -knappen.
+1. I det här exemplet gör vi ämnesraden dynamisk. Klicka i ämnesfältet och klicka sedan på knappen **Gör dynamisk** .
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Markera området, klicka på kugghjulsikonen och välj **Gör dynamisk** (eller [Ersätt med fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
+   >Du kan också göra ett element inuti e-postmeddelandet dynamiskt. Det gör du genom att markera området, klicka på kugghjulsikonen och välja **Gör dynamisk** (eller [Ersätt med fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), beroende på vad du gör).
 
 1. Ange namnet på segmenteringen, markera det och klicka på **Spara**.
 

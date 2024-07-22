@@ -17,11 +17,11 @@ Du definierar leveransmålet när du skapar ett hänvisningserbjudande. Om den �
 
 ## Hämta konverteringsskriptet {#retrieve-the-conversion-script}
 
-1. Klicka på **Erbjudandeinformation** och sedan markera **Kundens JavaScript-händelse** från listrutan för att uppfylla målet.
+1. Klicka på **Erbjudandeinformation** i redigeraren för hänvisningserbjudanden och välj sedan **Kundhändelse för JavaScript** i listrutan för mål för uppfyllelse.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopiera det översta skriptet i den grå rutan och placera det på webbsidan i `<body>` -taggar. Det nedersta skriptet placeras i `<header>` -taggar.
+1. Kopiera det översta skriptet i den grå rutan och placera det på webbsidan i `<body>` -taggarna. Det nedersta skriptet placeras inuti `<header>`-taggarna.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ Du definierar leveransmålet när du skapar ett hänvisningserbjudande. Om den �
 
 ## Hämta Loader-skriptet {#retrieve-the-loader-script}
 
-1. Välj hänvisningserbjudandet från trädet och klicka sedan på **Referensåtgärder** och **Bädda in kod**.
+1. Välj hänvisningserbjudandet från trädet och klicka sedan på **Erbjudandeåtgärder** och **Bädda in kod**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Högerklicka på **Huvudkod** och infoga den i webbsidans sidhuvud. Gör sedan samma sak med **Kroppskod**.
+1. Högerklicka på **sidhuvudskoden** och infoga den i sidhuvudet på webbsidan. Gör sedan samma sak med **Body Code**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -59,4 +59,4 @@ Häftig! Din webbplats har nu anpassat sina mål för social marknadsföring med
 >
 >* [Ange mål för hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Distribuera sociala medier på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Distribuera socialt på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

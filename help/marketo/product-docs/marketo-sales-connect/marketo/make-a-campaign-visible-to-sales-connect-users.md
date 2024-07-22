@@ -19,19 +19,19 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/one.png)
 
-1. Klicka på **Smart List** -fliken.
+1. Klicka på fliken **Smart lista**.
 
    ![](assets/two.png)
 
-1. Lägg till den begärda utlösaren för Campaign.
+1. Lägg till kampanjutlösaren är begärd.
 
    ![](assets/three.png)
 
-1. Välj &quot;is&quot; för källan **Webbtjänstens API**.
+1. Välj is **Webbtjänstens API** som källa.
 
    ![](assets/4.png)
 
-1. Klicka på **Flöde** -fliken.
+1. Klicka på fliken **Flöde**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/six.png)
 
-1. För Typ väljer du **Webb**.
+1. Välj **Webb** som Typ.
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
    ![](assets/eight.png)
 
-1. Klicka på **Schema** och **Aktivera** kampanjen.
+1. Klicka på fliken **Schema** och **Aktivera** kampanjen.
 
    ![](assets/nine.png)

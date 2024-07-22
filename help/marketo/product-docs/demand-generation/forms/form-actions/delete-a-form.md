@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har ett formulär som du inte behöver och som inte används kan du ta bort det. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Om du har ett formulär som du inte behöver och som inte används kan du ta bor
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Under **Formuläråtgärder**, klicka **Ta bort formulär**.
+1. Klicka på **Ta bort formulär** under **Formuläråtgärder**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Om du har ett formulär som du inte behöver och som inte används kan du ta bor
    >
    >Kom ihåg att ta bort formuläret från alla landningssidor som använder det. Bekräfta också att formuläret inte används på en offentlig webbplats.
 
-1. Bekräfta genom att klicka **Ta bort**.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ Om du har ett formulär som du inte behöver och som inte används kan du ta bor
 
 >[!CAUTION]
 >
->Om du tar bort ett formulär som används av den offentliga webbplatsen visas ingen varning och formuläret kommer att brytas. Överväg  [arkivera](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) i stället.
+>Om du tar bort ett formulär som används av den offentliga webbplatsen visas ingen varning och formuläret kommer att brytas. Överväg att arkivera [det](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) i stället.

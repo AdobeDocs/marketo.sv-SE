@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Gå till området Leadinformation i Salesforce1 och klicka på **Relaterad** -fliken.
+1. Gå till området Leadinformation i Salesforce1 och klicka på fliken **Relaterat**.
 
    ![](assets/one-1.png)
 
-1. Klicka på punkten (tre små punkter). Längst ned kan du välja bland: &quot;Lägg till i Marketo Campaign&quot;, &quot;Send Marketo Email&quot;, &quot;View in Marketo&quot;, &quot;Add/Remove from Watchlist.&quot;
+1. Klicka på punkten (tre små punkter). Längst ned kan du välja mellan:&quot;Lägg till i Marketo Campaign&quot;,&quot;Skicka Marketo-e-post&quot;,&quot;Visa i Marketo&quot;,&quot;Lägg till/ta bort från bevakningslista&quot;.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du skapar en [utlöst kampanj med alternativet &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Vilka smarta kampanjer visas? De med utlösarna&quot;Campaign is Requested&quot;. Lär dig hur du konfigurerar en [utlöst kampanj med hjälp av&quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Coola, nu kan säljarna aktivt delta i marknadsföringen.
 
@@ -31,7 +31,7 @@ Coola, nu kan säljarna aktivt delta i marknadsföringen.
 >
 >**Exempel**
 >
->Bra smarta kampanjer kan låta som:
+>Bra smarta kampanjer att begära kan låta som:
 >
 >1. Långsiktig vårdnad - när de inte har någon budget i år
 >1. Aktiv försäljningscykel - när säljaren inte vill att några meddelanden ska skickas till leadet utom den egna (använd den flagga som anger att marknadsföringen pausas för att tillfälligt avbryta prenumerationen)

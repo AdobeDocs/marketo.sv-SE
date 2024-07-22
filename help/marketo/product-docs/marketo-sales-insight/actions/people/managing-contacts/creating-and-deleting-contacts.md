@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ## Skapa kontakter {#creating-contacts}
 
-1. Klicka på **Åtgärder** och markera **Skapa kontakt**.
+1. Klicka på knappen **Åtgärder** på sidan Personer och välj **Skapa kontakt**.
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka **Skapa** när du är klar, eller **Skapa och lägg till ny** för att lägga till fler kontakter.
+1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **Skapa** när du är klar eller **Skapa och lägg till ny** om du vill lägga till fler kontakter.
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
    >[!TIP]
    >
-   >Vill du lägga till flera kontakter samtidigt? [Klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) om du vill veta hur du importerar kontakter via CSV.
+   >Vill du lägga till flera kontakter samtidigt? [Klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) om du vill veta mer om hur du importerar kontakter via CSV.
 
 ## Ta bort kontakter {#deleting-contacts}
 
@@ -36,6 +36,6 @@ ht-degree: 0%
    >
    >Om du vill ta bort flera kontakter markerar du bara flera personer. De återstående stegen är desamma.
 
-1. Klicka **Ta bort kontakt** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort kontakt**.
 
    ![](assets/creating-and-deleting-contacts-4.png)

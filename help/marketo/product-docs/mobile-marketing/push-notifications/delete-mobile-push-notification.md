@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ta bort mobilpush-meddelande {#delete-mobile-push-notification}
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Under **Push-meddelandeåtgärder**, klicka **Ta bort**.
+1. Klicka på **Ta bort** under **Push Notification Actions**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Bekräfta genom att klicka **Ta bort**.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

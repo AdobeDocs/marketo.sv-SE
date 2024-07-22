@@ -19,19 +19,19 @@ Du kan arkivera ett program, men ibland vill du bara göra dig av med det perman
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klicka på **[!UICONTROL Program Actions]** nedrullningsbar meny och välj **[!UICONTROL Delete]**.
+1. Klicka på listrutan **[!UICONTROL Program Actions]** och välj **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Markera alternativknappen &quot;Ta bort alla..&quot;. Granska effekterna av borttagningen och klicka sedan på **[!UICONTROL Delete]** för att bekräfta.
+1. Markera alternativknappen &quot;Ta bort alla..&quot;. Granska effekterna av borttagningen av programmet och klicka sedan på **[!UICONTROL Delete]** för att bekräfta.
 
 >[!TIP]
 >
->Arkiveringsprogram bevarar programdata men gör programmet oanvändbart. Välj det alternativet och klicka sedan på **[!UICONTROL Next]** om du vill ha mer information om arkivering.
+>Arkiveringsprogram bevarar programdata men gör programmet oanvändbart. Välj det alternativet och klicka sedan på **[!UICONTROL Next]** för att visa mer information om arkivering.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Klar. Det är som om programmet aldrig existerade.
+Klart. Det är som om programmet aldrig existerade.
 
 ## Varför kan jag inte ta bort mitt program? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ För att åtgärda problemet kan du behöva granska och avgranska/ta bort. Följ
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klicka **[!UICONTROL Used By]** för att se var tillgången används.
+1. Klicka på **[!UICONTROL Used By]** för att se var resursen används.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

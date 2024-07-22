@@ -15,21 +15,21 @@ ht-degree: 0%
 
 När du är klar med att skapa en gruppkampanj kan du välja att köra den nu eller senare. Så här kör du det omedelbart.
 
-1. Välj Batch Campaign, gå till **[!UICONTROL Schedule]** och klicka på **[!UICONTROL Run Once]**.
+1. Välj gruppkampanj, gå till fliken **[!UICONTROL Schedule]** och klicka på **[!UICONTROL Run Once]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
-1. Kontrollera att **[!UICONTROL Run Now]** är markerat och klickar **[!UICONTROL Run]**.
+1. Kontrollera att **[!UICONTROL Run Now]** är markerat och klicka på **[!UICONTROL Run]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
-1. Bekräfta genom att klicka **[!UICONTROL Run]** en gång till.
+1. Bekräfta genom att klicka på **[!UICONTROL Run]** en gång till.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Ta det lugnt! Du kan också [scheman körs senare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} om du vill.
+   Ta det lugnt! Du kan också [schemalägga körningar för senare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} om du vill.
 
    >[!NOTE]
    >
-   >* [Schemalägg en batchsmart kampanj att köras senare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
-   >* [Schemalägg en återkommande batchkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >* [Schemalägg en smart gruppkampanj att köras senare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
+   >* [Schemalägg en återkommande gruppkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

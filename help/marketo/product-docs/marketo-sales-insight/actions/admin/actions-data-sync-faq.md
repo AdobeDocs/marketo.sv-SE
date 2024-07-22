@@ -16,15 +16,15 @@ Synkroniseringen av datafältet för Sales Insight-åtgärder gör att systemet 
 
 Detta tillhandahåller aktuella persondata i webbappen Sales Insight Actions och gör det möjligt för systemet att samla in unika ID:n för motsvarande personposter i Marketo och lead-/kontakt-/konto-/affärsmöjlighetsposter i Salesforce, så att poster kan refereras till korrekt för loggningsdata.
 
-Synkroniseringen kan aktiveras på fliken Sales Insight Actions Config i administratörsavsnittet i Marketo Engage. Mer information finns på [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+Synkroniseringen kan aktiveras på fliken Sales Insight Actions Config i administratörsavsnittet i Marketo Engage. Mer information finns i [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
 Diagrammet ovan visar hur personaktivitets- och aktivitetsdata kan synkroniseras mellan system. Några saker att notera:
 
 * Personposter synkroniseras till Sales Insight Actions från Marketo Engage, vilket gör Marketo Engage till källan för uppgifter om säljare i Sales Insight Actions
-* Både Marketo Engage och Sales Insight [har en mekanism](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) för att samla in och synkronisera avbeställningsstatus till Salesforce
-* Avbeställningsstatus synkroniseras inte från försäljningsåtgärder till Marketo Engage, men Sales Insight Actions kan konfigureras för att kontrollera status för Marketo Unsubscribe på personer innan säljarna kan skicka ett e-postmeddelande med [Avbeställ Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Både Marketo Engage och Sales Insight-åtgärder [har en mekanism](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) för att samla in och synkronisera avprenumerationsstatus till Salesforce
+* Avbeställningsstatus synkroniseras inte från försäljningsåtgärder till Marketo Engage, men Sales Insight Actions kan konfigureras för att kontrollera status för Marketo Unsubscribe på personer innan säljarna kan skicka ett e-postmeddelande med [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Nedan visas några vanliga frågor om hur synkroniseringen av data fungerar.
 
@@ -72,7 +72,7 @@ Det går inte att konfigurera vilka Marketo Engage-fält som ska synkroniseras t
 
 ## Varför har Sales Insight Actions en egen databas? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions har ett eget webbprogram med en dedikerad person- och aktivitetsdatabas som ger en optimerad arbetsyta som är framtagen och utformad för säljteam. På så sätt kan säljchefer och säljare få plats att bygga ut och hantera sin engagemangsstrategi utan att ge åtkomst till eller behörigheter för den primära arbetsytan i Marketo Engage, som är optimerad för marknadsföringsspecialister.
+Sales Insight Actions har ett eget webbprogram med en dedikerad person- och aktivitetsdatabas som ger en optimerad arbetsyta som är framtagen och utformad för säljteam. På så sätt kan säljchefer och säljare skapa och hantera sin strategi för engagemang   utan att ge åtkomst till eller behörighet till den primära arbetsytan i Marketo Engage, som är optimerad för specialister inom marknadsföringsverksamhet.
 
 ## Hur hanteras dubbletter? {#how-are-duplicates-handled}
 
@@ -113,13 +113,13 @@ Med Sales Insight Actions kan administratörer konfigurera vilka försäljningsa
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter som e-post och samtal loggas till Salesforce i en [enkelriktad synkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Avbeställ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) och [Påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) hålls uppdaterade med tvåvägssynkronisering. Var och en av dessa datasynkroniseringar kan konfigureras från webbappen Sales Insight Actions.
+Diagrammet ovan visar vilken information som loggas till Salesforce. Aktiviteter som e-post och samtal loggas till Salesforce i en [enkelriktad synkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Avbeställningar](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) och [Påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) uppdateras med en tvåvägssynkronisering. Var och en av dessa datasynkroniseringar kan konfigureras från webbappen Sales Insight Actions.
 
 >[!MORELIKETHIS]
 >
->* [Synkronisera avbeställningar med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [Synkroniserar avbrutna prenumerationer med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Avbeställ Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Synkroniseringsinställningar för Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Initiera datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+>* [Starta datasynkronisering](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 

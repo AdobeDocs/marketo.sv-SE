@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar och klick direkt inifrån Microsoft Dynamics. Så här gör du.
 
-1. I Dynamics går du till **Försäljning** område.
+1. Gå till området **Försäljning** i Dynamics.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Välj en **Systemvy**.
+1. Välj en **systemvy**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,21 +27,21 @@ Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar o
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicka på **...** tabbtangenten och klicka sedan på **Skicka e-post till Marketo**.
+1. Klicka på fliken **..** och sedan på **Skicka e-post för Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Du kan [publicera e-postmeddelanden som mallar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) så att säljarna kan använda dem.
+   >Du kan [publicera e-postmeddelanden som mallar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) så att ditt säljteam kan använda dem.
 
-1. Lägg till ett ämne, skapa e-postmeddelandet och klicka **Skicka e-post**. (Välj en mall om du behöver en.)
+1. Lägg till ett ämne, komponera e-postmeddelandet och klicka på **Skicka e-post**. (Välj en mall om du behöver en.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Klicka **Skicka testmeddelande** först skickas e-postadressen till dig (primär e-postadress i Microsoft Dynamics) innan den faktiska e-postadressen skickas.
+   >Du kan klicka på **Skicka testmeddelande** först så skickas e-postmeddelandet till dig (primär e-postadress i Microsoft Dynamics) innan du skickar det faktiska e-postmeddelandet.
 
    >[!NOTE]
    >

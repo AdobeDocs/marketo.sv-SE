@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
 >[!PREREQUISITES]
 >
->Innan du följer stegen nedan måste du [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Innan du följer stegen nedan måste du först [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klicka på ikonen Inställningar och välj **Inställningar**.
 
    ![](assets/one-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/two-1.png)
 
-1. Bläddra nedåt till telefoninställningar för Sales Connect och klicka på **Hantera inspelningsmeddelande**.
+1. Bläddra ned till Inställningar för Sales Connect Phone och klicka på **Hantera inspelningsmeddelande**.
 
    ![](assets/three-1.png)
 
-1. Klicka **Importera inspelning**.
+1. Klicka på **Importera inspelning**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
    ![](assets/five.png)
 
-1. När överföringen är klar väljer du punkten (tre punkter) i filhanteraren och klickar på **Markera som meddelande om samtycke**. Klicka **OK** när det är klart.
+1. När överföringen är klar väljer du dotfilen (tre punkter) i filhanteraren och klickar på **Välj som medgivandemeddelande**. Klicka på **OK** när du är klar.
 
    ![](assets/six.png)
 

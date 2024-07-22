@@ -4,7 +4,7 @@ title: Integritetshantering
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Marketo Engage har en uppsättning verktyg som hjälper dig att följa sekretess
 
 Marketo Engage hjälper dig att följa följande regler:
 
-* **[!DNL GDPR]** [Allmän dataskyddsförordning](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) Det är EU:s (EU) integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för EU-länder.
-* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;kapitel=&amp;artikel=) ger personer bosatta i Kalifornien rätt till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
-* **[!DNL PDPA]** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) Det är integritetslagstiftningen som harmoniserar och moderniserar dataskyddskraven för Thailand.
+* **[!DNL GDPR]** [Den allmänna dataskyddsförordningen](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) är EU:s integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för EU-länder.
+* **[!DNL CCPA]** [Kaliforniens lag om konsumentsekretess](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;kapitel=&amp;artikel=) ger personer bosatta i Kalifornien rätt att få tillgång till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
+* **[!DNL PDPA]** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Thailand.
 * **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) från och med början av 2021 för alla företag som samlar in eller behandlar personuppgifter i Brasilien.
 * **[!DNL NZPA]** [Integritetslag 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Nya Zeeland.
 
@@ -37,9 +37,9 @@ Alla de ovannämnda förordningarna gäller för Marketo Engage-kunder som inneh
 
 ## Rätt till åtkomst och rätt att glömma {#right-to-access-and-right-to-be-forgotten}
 
-För att underlätta beredskapen för din integritet kan du med Marketo Engage hantera **åtkomst** och **delete** förfrågningar.
+För att underlätta sekretessberedskapen kan du med Marketo Engage hantera förfrågningar om **åtkomst** och **delete**.
 
-* The **Rätt till åtkomst** Den registrerade har rätt att från den registrerade erhålla en bekräftelse om huruvida personuppgifter som rör dem behandlas, var och i vilket syfte. Den personuppgiftsansvarige ska tillhandahålla en kostnadsfri kopia av personuppgifterna i elektroniskt format.
-* Kallas även datautsuddgummi, **Rätt att glömma** (framställan om radering) ger den registrerade rätt att låta den registrerade radera sina personuppgifter, upphöra med vidare spridning av uppgifterna och eventuellt låta tredje part stoppa behandlingen av uppgifterna.
+* **Åtkomsträttigheten** ger den registrerade rätt att få bekräftelse från den personuppgiftsansvarige på om personuppgifter som rör dem behandlas, var och i vilket syfte. Den personuppgiftsansvarige ska tillhandahålla en kostnadsfri kopia av personuppgifterna i elektroniskt format.
+* **Rättigheten att bli glömd** (begäran om radering) kallas även dataradering och ger den registrerade rätt att låta den registrerade radera sina personuppgifter, upphöra med vidarespridning av uppgifterna och eventuellt få tredje parter att avbryta behandlingen av uppgifterna.
 
-Om du vill veta hur du kan skapa begäran om åtkomst/borttagning och hur vi bearbetar den kan du läsa [den här artikeln](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Mer information om hur du kan skapa åtkomst-/borttagningsbegäranden och hur vi bearbetar dem finns i [den här artikeln](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

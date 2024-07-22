@@ -17,7 +17,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 >[!PREREQUISITES]
 >
->Du måste ha en [Licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} för att använda den här funktionen.
+>Du måste ha en [licens för marknadsföringskalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} för att kunna använda den här funktionen.
 
 ## Använd den globala övertäckningen {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Välj **[!UICONTROL Overlay]** längst ned till höger.
+1. Välj **[!UICONTROL Overlay]** i det nedre högra hörnet.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ Med den globala övertäckningen i programschemavyn kan du se programmet i relat
 
 ## Använd ett sparat filter som övertäckning {#use-a-saved-filter-as-an-overlay}
 
-Om du har [har sparat ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}kan du använda den som en övertäckning i programschemavyn.
+Om du har [sparat ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} kan du använda det som en övertäckning i programschemavyn.
 
-1. Klicka på **[!UICONTROL Overlay]** och välj filterdefinition.
+1. Klicka på listrutan **[!UICONTROL Overlay]** och välj filterdefinitionen.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

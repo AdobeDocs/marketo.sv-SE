@@ -16,13 +16,13 @@ Dialogrutor är individuella chattsamtal. I varje dialogruta bestämmer du var d
 
 ## Målgruppskriterier {#audience-criteria}
 
-The [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} i en dialogruta är där du ska definiera var och till vem chattkonversationen ska visas
+Avsnittet [Målgruppskriterier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} i en dialogruta är där du definierar var och till vilka chattkonversationen ska visas
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} i en dialogruta där du utformar konversationen som du vill ha med webbplatsbesökarna.
+Avsnittet [Direktuppspela Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} i en dialogruta är där du utformar konversationen som du vill ha med webbplatsens besökare.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ På fliken Rapporter kan du se mätvärden för hur bra din dialogruta fungerar.
 
 Du kan inaktivera (och återaktivera) alla publicerade dialogrutor samtidigt.
 
-1. I Dynamic Chat klickar du på **[!UICONTROL Configuration]** -fliken.
+1. Klicka på fliken **[!UICONTROL Configuration]** i Dynamic Chat.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Växla **[!UICONTROL Chat Enabled]** om du vill inaktivera (och sedan aktivera) alla dialogrutor igen.
+1. Växla **[!UICONTROL Chat Enabled]** till av om du vill inaktivera (och aktivera igen) alla dialogrutor.
 
    ![](assets/dialogue-overview-5.png)

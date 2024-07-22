@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Efter dig [skapa ett Vibes SMS-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}vill du använda utlösare och filter för smarta listor i en smart kampanj för att få fördelarna. Så här gör du.
+När du har [skapat ett SMS-meddelande från Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} vill du använda utlösare och filter för Smart List i en smart kampanj för att få fördelarna. Så här gör du.
 
-1. I Min Marketo klickar du på **Marknadsföringsaktiviteter**.
+1. Klicka på **Marknadsföringsaktiviteter** i Min Marketo.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. Välj en smart kampanj där du vill använda dina SMS-resurser. Dra över en utlösare. I detta exempel använder vi **Fyller i formulär**.
+1. Välj en smart kampanj där du vill använda dina SMS-resurser. Dra över en utlösare. I det här exemplet använder vi **Fyller i formulär**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -42,35 +42,35 @@ SKICKA ETT SMS:
 
 Här är några exempel:
 
-The **SMS-meddelandestudsar** utlösaren initierar ett flöde, som att skicka ett e-postmeddelande, när ett SMS-meddelande studsar.
+Utlösaren **SMS Message Bounces** initierar ett flöde, som att skicka ett e-postmeddelande, när ett SMS-meddelande studsar.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-The **Prenumererar på Vibes List** utlösaren initierar ett flöde när en person prenumererar.
+Utlösaren **Prenumererar på Vibes List** initierar ett flöde när en person prenumererar.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-The **Klicka på Länk i SMS-meddelande** utlösaren initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
+Utlösaren **Click Link in SMS Message** initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS-filter {#sms-filters}
 
-Du kan också använda Vibes-filter i smarta listor. The **Prenumererar på Vibes List** filter hittar alla som *någonsin* prenumererar på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
+Du kan också använda Vibes-filter i smarta listor. Filtret **Prenumererar på Vibes-listan** hittar alla som har *någonsin* prenumererat på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-I motsats till **Medlem i Vibes List** filtersökningar _alla_ prenumererar för närvarande på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
+Filtret **Medlem i listan** hittar däremot _alla_ som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Alla SMS-filter innehåller **Aktivitetsdatum** -begränsning som standard.
+>Alla SMS-filter innehåller begränsningen **Aktivitetsdatum** som standard.
 
 När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [definiera flödet](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

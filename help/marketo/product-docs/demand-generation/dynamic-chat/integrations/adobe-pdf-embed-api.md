@@ -24,7 +24,7 @@ Med dokumentkortet kan du bädda in PDF-dokument i dialogrutor och spåra besök
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Ange dina inloggningsuppgifter, godkänn villkoren och klicka på **[!UICONTROL Create Credentials]**.
+1. Ange dina autentiseringsuppgifter, godkänn villkoren och klicka på **[!UICONTROL Create Credentials]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,16 +32,16 @@ Med dokumentkortet kan du bädda in PDF-dokument i dialogrutor och spåra besök
    >
    >Du måste använda den domän där du ska vara värd för chattbot (t.ex. om du är värd för chattbot på mycompany.com, se till att du anger det i steg 4).
 
-1. Klicka **[!UICONTROL Copy]** för att kopiera ditt klient-ID.
+1. Klicka på **[!UICONTROL Copy]** om du vill kopiera ditt klient-ID.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Tillbaka i Dynamic Chat, klicka **[!UICONTROL Integrations]**. Klicka på Adobe PDF Embed API-kort **[!UICONTROL Activate]**.
+1. Klicka på **[!UICONTROL Integrations]** i Dynamic Chat. Klicka på **[!UICONTROL Activate]** på Adobe PDF Embed API-kortet.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Klistra in [!UICONTROL Client ID] och klicka **[!UICONTROL Save]**.
+1. Klistra in [!UICONTROL Client ID] och klicka på **[!UICONTROL Save]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Nu kan du använda dokumentkortet i dina dialogrutor [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+Nu kan du använda dokumentkortet i din dialogrutas [direktuppspelning av Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!

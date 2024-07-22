@@ -6,24 +6,24 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
 
 # Importera en lista med personer {#import-a-list-of-people}
 
-## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till databasen {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Uppdrag: Importera en kalkylbladslista med deltagande i affärsprogram till din databas {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Konfigurera och lägg till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-I den här självstudiekursen får du lära dig hur du importerar personer från en kalkylbladsfil till Marketo.
+I den här självstudiekursen får du lära dig att importera personer från en kalkylbladsfil till Marketo.
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
-1. Börja med att ladda ned en övningsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) till datorn.
+1. Börja med att ladda ned vår övningskalkylbladsfil ([**tradeshow-Attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) till datorn.
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -41,33 +41,33 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    >[!CAUTION]
    >
-   >Marketo gör det **not** har stöd för e-postadresser som innehåller känslolägesikoner.
+   >Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 
-1. Gå till **[!UICONTROL Marketing Activities]** område.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Välj **Utbildning** mapp, sedan under **[!UICONTROL New]** klicka **[!UICONTROL New Program]**.
+1. Välj mappen **Learning** och klicka sedan under **[!UICONTROL New]** på **[!UICONTROL New Program]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Namn** Programmet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; för **[!UICONTROL Program Type]**.
+1. **Namn** på programmet&quot;My Tradeshow Program&quot; och välj&quot;Event&quot; för **[!UICONTROL Program Type]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Välj **[!UICONTROL Tradeshow]** för **[!UICONTROL Channel]** och klicka **[!UICONTROL Create]**.
+1. Välj **[!UICONTROL Tradeshow]** för **[!UICONTROL Channel]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->Händelseprogram inträffar vid specifika datum. Läs mer om [**Händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Händelseprogram inträffar vid specifika datum. Läs mer om [**händelser**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
-## Steg 3: Importera kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
+## Steg 3: Importera ditt kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. I **Mitt Tradeshow Program**, klicka **[!UICONTROL New]** och markera **[!UICONTROL New Local Asset]**.
+1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]** i **My Tradeshow Program**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -75,11 +75,11 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Namn** i listan&quot;Tradeshow Attendees&quot; och klickar på **[!UICONTROL Create]**.
+1. **Namnge** listan&quot;Deltagare i mässa&quot; och klicka på **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. I **[!UICONTROL Tradeshow Attendees]** lista, klicka på **[!UICONTROL List Actions]** och markera **[!UICONTROL Import List]**.
+1. Klicka på **[!UICONTROL List Actions]** i listan **[!UICONTROL Tradeshow Attendees]** och välj **[!UICONTROL Import List]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -91,31 +91,31 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
    >
    >Storleksgränsen för CSV-filer är 100 MB.
 
-1. **[!UICONTROL Browse]** till **tradeshow-Attendees.csv** kalkylbladsfil på datorn och klicka på **[!UICONTROL Next]**.
+1. **[!UICONTROL Browse]** till kalkylbladsfilen **tradeshow-Attendees.csv** på datorn och klicka på **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >I listimportläge väljer du **[!UICONTROL Skip new people and updates]** innebär att du inte kommer att påverka befintliga personposter eller logga några aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget:
+   >Om du väljer **[!UICONTROL Skip new people and updates]** i läget Listimport påverkas inte befintliga personposter eller loggar några aktiviteter. Använd det här läget om du vill ha en snabb, förfiltrerad statisk lista över befintliga personer som kan användas i dina marknadsföringsaktiviteter. Om du väljer det här läget kommer du att:
    >
    > * Hoppa över skapande av ny person
    > * Hoppa över uppdateringar av personfält
    > * Hoppa över aktivitetsloggning
 
-1. Kartlägg [!UICONTROL List Column] fält till respektive Marketo Field och klicka **[!UICONTROL Next]**.
+1. Mappa dina [!UICONTROL List Column]-fält till deras respektive Marketo-fält och klicka på **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} så att de kan bli alternativ.
+   >Kolumnrubrikerna ska alltid matcha fältet exakt (skiftlägeskänsligt) för att uppnå bästa resultat för automatisk mappning. Om du använder anpassade fält och inte ser dem i listrutan går du tillbaka och [skapar dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} så att de kan bli alternativ.
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo Field.
+   >Om det finns fält som du inte vill importera väljer du **Ignorera** i listrutan Marketo-fält.
 
-1. Välj **Mitt Tradeshow Program** för **[!UICONTROL Acquisition Program]** och sedan klicka **[!UICONTROL Import]**.
+1. Välj **My Tradeshow Program** för **[!UICONTROL Acquisition Program]** och klicka sedan på **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,7 +123,7 @@ I den här självstudiekursen får du lära dig hur du importerar personer från
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Tillbaka in **Mitt Tradeshow Program** klickar du på **[!UICONTROL Members]** -fliken. Du kommer att se alla de personer du just importerat.
+1. Gå tillbaka till **My Tradeshow Program** och klicka på fliken **[!UICONTROL Members]**. Du kommer att se alla de personer du just importerat.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -137,6 +137,6 @@ Deltagarna i ditt varumärke är nu medlemmar i ditt Marketo-program!
 
 <br> 
 
-[◄ 4: Automatiskt svar för e-post](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ 4: Automatiskt svar via e-post](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Uppdrag 6: Drip, Drip, Sköldhet ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Uppgift 6: Drift, Drift, Sköldpaddor ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

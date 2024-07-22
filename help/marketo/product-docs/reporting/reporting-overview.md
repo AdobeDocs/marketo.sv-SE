@@ -16,11 +16,11 @@ Marketo erbjuder en mängd rapporteringsmoduler för olika behov.
 
 ## Grundläggande rapportering {#basic-reporting}
 
-Du kan konfigurera [grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} inom program eller i Analytics-området. Grundläggande rapporter består av olika typer av färdiga rapporter med flexibiliteten att filtrera, sortera och justera tidsrymder.
+Du kan konfigurera [grundläggande rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} i program eller i Analytics-området. Grundläggande rapporter består av olika typer av färdiga rapporter med flexibiliteten att filtrera, sortera och justera tidsrymder.
 
 ## E-postinsikter {#email-insights}
 
-Använd Analytics och Sends för att få [kraftfulla insikter](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} på e-postmeddelanden från historiska data.
+Använd Analytics och Sends för att få [kraftfulla insikter](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} om e-postmeddelanden från historiska data.
 
 ## Prestandainsikter {#performance-insights}
 
@@ -54,13 +54,13 @@ Några av fördelarna med avancerad BI Analytics-rapportering:
 
 ## Avancerad reseanalys {#advanced-journey-analytics}
 
-Intäktscykelmodeller: modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
+Intäktscykelmodeller: Modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
 
-Success Path Analyzer: Få en visuell representation av hastighet och flöde genom er intäktscykelmodell. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
+Success Path Analyzer: Få en visuell representation av hastighet och flöde genom intäktscykelmodellen. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
 
-Program Analyzer: Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt. Använd programanalysverktyget för att granska och jämföra alla kostnader och avkastning i detalj per program eller kanal.
+Programanalys: Identifiera snabbt program som är framgångsrika eller inte och fokusera på resurserna på rätt sätt. Använd programanalysverktyget för att granska och jämföra alla kostnader och avkastning i detalj per program eller kanal.
 
-Analys av affärsmöjlighet: Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
+Analysera påverkan av affärsmöjligheter: Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
 
 >[!NOTE]
 >

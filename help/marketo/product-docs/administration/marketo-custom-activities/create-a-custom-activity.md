@@ -6,7 +6,7 @@ exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '100'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
 >
 >De flesta prenumerationer har en tilldelad gräns på 10 anpassade aktivitetstyper.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-activity-1.png)
 
@@ -31,7 +31,7 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Ange ett namn och valfritt [!UICONTROL Description]och sedan klicka **[!UICONTROL Next]**. API-namnet fylls i automatiskt, men kan anpassas.
+1. Ange ett namn och valfri [!UICONTROL Description] och klicka sedan på **[!UICONTROL Next]**. API-namnet fylls i automatiskt, men kan anpassas.
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -39,11 +39,11 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
    >
    >Om du bestämmer dig för att ändra API-namnet måste du se till att namnet inte hamnar i konflikt med fält i andra anpassade aktiviteter.
 
-1. Definiera [!UICONTROL Filter] och [!UICONTROL Trigger] och klicka **[!UICONTROL Next]**.
+1. Definiera [!UICONTROL Filter] och [!UICONTROL Trigger] och klicka på **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Ge det primära fältet ett namn som sammanfattar vad den anpassade aktiviteten är till för.
+1. Ge det primära fältet ett namn som sammanfattar vad den anpassade aktiviteten är till.
 
    ![](assets/create-a-custom-activity-6.png)
 

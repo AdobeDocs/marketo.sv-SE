@@ -17,7 +17,7 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som gör det _not_ use [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Om du gör det kan du få åtkomst till inställningarna som beskrivs nedan i [Adobe-kontoprofil](https://account.adobe.com/profile).
+>Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Om du gör det kan du komma åt inställningarna som beskrivs nedan i din [Adobe-kontoprofil](https://account.adobe.com/profile).
 
 ## Språk som stöds {#supported-languages}
 
@@ -30,7 +30,7 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 
 ## Ändra användarspråk, nationella inställningar och tidszon {#change-user-language-locale-and-time-zone}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
@@ -38,11 +38,11 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Under Mitt konto klickar du på **[!UICONTROL Edit Location Settings]**.
+1. Klicka på **[!UICONTROL Edit Location Settings]** under Mitt konto.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Ändra dina **[!UICONTROL Language]**.
+1. Ändra din **[!UICONTROL Language]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,11 +50,11 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
    >
    >Du kan också ändra enbart ditt språk genom att klicka på listrutan för språk högst upp på inloggningssidan.
 
-1. Ändra dina **[!UICONTROL Locale]**.
+1. Ändra din **[!UICONTROL Locale]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Ändra dina **[!UICONTROL Time Zone]**.
+1. Ändra din **[!UICONTROL Time Zone]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 

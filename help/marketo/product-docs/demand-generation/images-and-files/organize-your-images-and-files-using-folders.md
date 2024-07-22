@@ -19,7 +19,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Högerklicka på **[!UICONTROL Images and Files]** och markera **[!UICONTROL New folder]**.
+1. Högerklicka på **[!UICONTROL Images and Files]** och välj **[!UICONTROL New folder]**.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
@@ -27,7 +27,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Gå tillbaka till **[!UICONTROL Images and Files]** och välj den resurs som du vill flytta. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Move]**.
+1. Gå tillbaka till **[!UICONTROL Images and Files]** och markera resursen som du vill flytta. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Move]**.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ När du skapar mappar kan du flytta bilder och filer, se bara den uppsättning b
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. Klicka **Mflytta**.
+1. Klicka på **Move**.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

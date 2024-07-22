@@ -31,19 +31,19 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. I Översikt finns [!UICONTROL Event Cap] och klicka **[!UICONTROL Not Set]**.
+1. Sök efter [!UICONTROL Event Cap] i översikten och klicka på **[!UICONTROL Not Set]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Ange det maximala antal personer som du vill kunna registrera för din aktivitet och klicka på **[!UICONTROL Next]**.
+1. Ange det maximala antalet personer som du vill kunna registrera för din aktivitet och klicka på **[!UICONTROL Next]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicka på [!UICONTROL Registration Page] och välj den landningssida som ska fungera som registreringssida.
+1. Klicka på listrutan [!UICONTROL Registration Page] och välj den landningssida som ska fungera som registreringssida.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Klicka på **[!UICONTROL Registration Full Page]** och välj den landningssida som ska fungera som registreringssida. Klicka **[!UICONTROL Set and Enable]** när det är klart.
+1. Klicka på listrutan **[!UICONTROL Registration Full Page]** och välj den landningssida som ska fungera som registreringssida. Klicka på **[!UICONTROL Set and Enable]** när du är klar.
 
    ![](assets/setting-an-event-cap-5.png)
 

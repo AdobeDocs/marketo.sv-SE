@@ -23,7 +23,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 >
 >Läs mer om [program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), det viktigaste elementet i Marketo.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-program-channel-1.png)
 
@@ -35,11 +35,11 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Varför taggar? En kanal är ett sätt att beskriva ett program, precis som andra taggar. Kanalen har bara specialfunktioner.
 
-1. Klicka på **+** signera bredvid [!UICONTROL Channel] för att utöka och se befintliga kanaler.
+1. Klicka på **+** bredvid [!UICONTROL Channel] för att expandera och visa befintliga kanaler.
 
    ![](assets/create-a-program-channel-3.png)
 
-1. Under **[!UICONTROL New]**, klicka **[!UICONTROL New Channel]**.
+1. Klicka på **[!UICONTROL New Channel]** under **[!UICONTROL New]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -49,55 +49,55 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Kanal: Billboard
    >
-   >* Använd för: Standard
+   >* Använd på: Standard
    >* Progression: Medlem, engagerad (om du är osäker, så fungerar dessa bra)
-   >* Slutfört: Engagerad
+   >* Slutfört: Engagerat
    >
-   >Kanal: Part
+   >Kanal: Fest
    >
-   >* Använd för: Händelse
-   >* Progression: Inbjuden, Registrerad, Inget bildspel och Deltar
-   >* Slutfört: Anmäld
+   >* Använd på: händelse
+   >* Progression: Inbjuden, Registrerad, Ingen visning och Bifogad
+   >* Slutförd: Deltagad
    >
    >Kolla in Progressions of existing channel för att få en uppfattning om hur de används.
 
-1. Låt oss följa exemplet med partikanalen. Ge ditt nya namn **Kanal** och välj den programtyp som ska användas.
+1. Låt oss följa exemplet med partikanalen. Namnge din nya **kanal** och välj den programtyp som den ska användas för.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Gäller för vad? Det finns flera typer av program. Matcha kanalen till rätt typ. Om du är osäker, välj **[!UICONTROL Default]**.
+   >Gäller för vad? Det finns flera typer av program. Matcha kanalen till rätt typ. Välj **[!UICONTROL Default]** om du är osäker.
 
    >[!NOTE]
    >
-   >Vid användning av[!UICONTROL Event with Webinar]systemmappningar låses (vilket krävs av webbinarier-integreringar) och kan inte redigeras.
+   >När [!UICONTROL Event with Webinar] används kommer systemmappningar att låsas (vilket krävs av webbinära integreringar) och kan inte redigeras.
 
 1. Ange de två första statusnamnen för programmet och klicka sedan på **[!UICONTROL Add Step]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. Ange ett annat program **[!UICONTROL Status]** och **[!UICONTROL Step]** nummer och klicka sedan på **[!UICONTROL Add Step]**.
+1. Ange ett annat program, **[!UICONTROL Status]** och **[!UICONTROL Step]**, och klicka sedan på **[!UICONTROL Add Step]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >The **[!UICONTROL Step]** talet används för sortering av programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
+   >Numret **[!UICONTROL Step]** används för att sortera programstatus. Tänk på att det inte går att gå bakåt i dessa steg. De kan bara ändra status till ett högre eller lika värde. Använd lika värden när statusvärdena ska växla fram och tillbaka i stället för en progression.
 
-1. Ange det sista programmet **[!UICONTROL Status]** och **[!UICONTROL Step]** tal.
+1. Ange det sista programmet **[!UICONTROL Status]** och **[!UICONTROL Step]**-numret.
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >När typen används[!UICONTROL Event]systemmappning krävs för statusvärdena Registrerad, Väntelistat och Attended. Dessa statusvärden kan därför inte döljas.
+   >Systemmappning krävs för statusvärdena Registrerad, Väntelistat och Attended när typen [!UICONTROL Event] används. Dessa statusvärden kan därför inte döljas.
 
-1. Välj **[!UICONTROL Mobile Check-in Status]** for **[!UICONTROL Registered]**.
+1. Välj **[!UICONTROL Mobile Check-in Status]** för **[!UICONTROL Registered]**.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. Välj **[!UICONTROL Mobile Check-in Status]** for **[!UICONTROL Attended]**.
+1. Välj **[!UICONTROL Mobile Check-in Status]** för **[!UICONTROL Attended]**.
 
    ![](assets/create-a-program-channel-10.png)
 
@@ -107,13 +107,13 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
    >[!NOTE]
    >
-   >Endast personer med **[!UICONTROL Mobile Check-in Status]** av **[!UICONTROL Registered]** och **[!UICONTROL Attended]** visas i [Appar för mobilincheckning](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >Endast personer med **[!UICONTROL Mobile Check-in Status]** av **[!UICONTROL Registered]** och **[!UICONTROL Attended]** visas i [apparna för mobilincheckning](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
    >Om en ny person skapas i appen för mobilincheckning ställs den in på Registrerad i händelseprogrammet. Om en person checkas in i händelsen i appen ställs den in på Bifogad i händelseprogrammet.
 
-1. Välj **[!UICONTROL Success]** programstatus, klicka sedan på **[!UICONTROL Create]**.
+1. Välj programstatus för **[!UICONTROL Success]** och klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/create-a-program-channel-11.png)
 

@@ -23,7 +23,7 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Ange &quot;profil&quot; i det vänstra sökfältet och klicka på **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
+1. Skriv &quot;profile&quot; i det vänstra sökfältet och klicka på **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,7 +31,7 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Under **[!UICONTROL Field-Level Security]** avsnitt, klicka **[!UICONTROL View]** bredvid objektet som innehåller fältet.
+1. Klicka **[!UICONTROL View]** bredvid objektet som innehåller fältet under avsnittet **[!UICONTROL Field-Level Security]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
@@ -39,7 +39,7 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Kontrollera **[!UICONTROL Visible]** kryssrutan för fältet som du vill lägga till i synkroniseringen och klicka **[!UICONTROL Save]**.
+1. Markera kryssrutan **[!UICONTROL Visible]** för fältet som du vill lägga till i synkroniseringen och klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 

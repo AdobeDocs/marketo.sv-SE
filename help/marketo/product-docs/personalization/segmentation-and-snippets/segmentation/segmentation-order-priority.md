@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Prioritet för segmenteringsordning {#segmentation-order-priority}
 
-Det är viktigt att förstå hur **beställa** anger prioriteten för utvärdering av dina personer i en segmentering.
+Det är viktigt att förstå hur **order** anger prioriteten för utvärdering av dina personer i en segmentering.
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ Det är viktigt att förstå hur **beställa** anger prioriteten för utvärderi
 >
 >Du kan bara redigera en segmentering i utkastläge.
 
-1. Gå till **Databas**.
+1. Gå till **databasen**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Välj **Segmentering**. I **Segmenteringsåtgärder**, klicka **Redigera segment**.
+1. Välj din **segmentering**. Klicka på **Redigera segment** i **Segmenteringsåtgärder**.
 
    ![](assets/segmentation-order-priority-2.png)
 

@@ -23,11 +23,11 @@ Så här skapar du ett segment med hjälp av en kontolista.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klicka **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Ange ett namn för segmentet. Dra och släpp **Kontolistor** från **Firmographics** -avsnitt.
+1. Ange ett namn för segmentet. Dra och släpp **Kontolistor** från avsnittet **FirstGraphics**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ Så här skapar du ett segment med hjälp av en kontolista.
 
    >[!NOTE]
    >
-   >Kontolistor synkroniseras från ABM till webbpersonalisering för användning i segmentering. Välj dem i listrutan. Synkroniseringen kan ta upp till fem minuter. Det synkroniseras bara om det finns ett eller flera namngivna konton i kontolistan.
+   >Kontolistor synkroniseras från ABM till Web Personalization för användning i segmentering. Välj dem i listrutan. Synkroniseringen kan ta upp till fem minuter. Det synkroniseras bara om det finns ett eller flera namngivna konton i kontolistan.
 
-1. Klicka **Spara** eller klicka **Spara och definiera kampanj** för att gå till sidan Campaigns.
+1. Klicka på **Spara** eller klicka på **Spara och definiera kampanj** för att gå till sidan Kampanjer.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

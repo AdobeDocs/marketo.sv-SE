@@ -2,8 +2,8 @@
 description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -16,15 +16,15 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
 
 ## Redigera befintliga behörigheter {#edit-existing-permissions}
 
-1. I [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klicka **Dynamic Chat**.
+1. Klicka på **Dynamic Chat** i [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/permissions-1.png)
 
-1. I **Produktprofiler** markerar du den profil som du vill redigera. I det här exemplet väljer vi **Live Agent**.
+1. Välj den profil som du vill redigera på fliken **Produktprofiler**. I det här exemplet väljer vi **Live Agent**.
 
    ![](assets/permissions-2.png)
 
-1. Klicka på **Behörigheter** -fliken.
+1. Klicka på fliken **Behörigheter**.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
 
    ![](assets/permissions-4.png)
 
-1. Tillgängliga behörighetsobjekt visas till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. I det här exemplet finns det bara en tillgänglig, så vi lägger till den. Klicka på **+** signera.
+1. Tillgängliga behörighetsobjekt visas till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. I det här exemplet finns det bara en tillgänglig, så vi lägger till den. Klicka på **+**-tecknet.
 
    ![](assets/permissions-5.png)
 
@@ -40,7 +40,7 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
    >
    >Om du aktiverar Inkludera automatiskt läggs alla behörighetsobjekt till i den inkluderade listan. När nya behörighetsobjekt blir tillgängliga inkluderas de automatiskt för den produktprofilen.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/permissions-6.png)
 
@@ -50,15 +50,15 @@ Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
 
 ## Skapa en profil {#create-a-profile}
 
-1. I [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klicka **Dynamic Chat**.
+1. Klicka på **Dynamic Chat** i [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/permissions-8.png)
 
-1. I **Produktprofiler** flik, klicka **Ny profil**.
+1. Klicka på **Ny profil** på fliken **Produktprofiler**.
 
    ![](assets/permissions-9.png)
 
-1. **Namn** din produktprofil. Du kan också ge den ett visningsnamn och/eller en beskrivning och välja att låta användare få meddelanden när de läggs till/tas bort. Klicka **Spara** när det är klart.
+1. **Namn** din produktprofil. Du kan också ge den ett visningsnamn och/eller en beskrivning och välja att låta användare få meddelanden när de läggs till/tas bort. Klicka på **Spara** när du är klar.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
 
    ![](assets/permissions-11.png)
 
-1. Följ nu steg 3-6 från [avsnitt ovan](#edit-existing-permissions) för varje önskat område.
+1. Följ nu steg 3-6 från [avsnittet ovan](#edit-existing-permissions) för varje önskat område.
 
 ## Lista över behörigheter {#list-of-permissions}
 
@@ -84,10 +84,10 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
     <td>Konversationshantering</td>
     <td><li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publicera dialogrutor</li>
+    <li>Publish-dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publicera konversationsflöden</li></td>
+    <li>Publish konversationsflöden</li></td>
   </tr>
   <tr>
     <td>Live Chatt</td>
@@ -129,7 +129,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
 </tbody>
 </table>
 
-**&#42;** Endast tillgängligt för Dynamic Prime-användare
+**&#42;** är för närvarande endast tillgängligt för Dynamic Prime-användare
 
 <p>
 
@@ -150,26 +150,26 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <td><i>Konversationshantering</i>
     <li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publicera dialogrutor</li>
+    <li>Publish-dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publicera konversationsflöden</li>
+    <li>Publish konversationsflöden</li>
     <br>
-    <i>Live Chatt</i>
+    <i> Live-chatt </i>
     <li>n/a</li>
     <br>
     <i>Möten</i>
     <li>n/a</li>
     <br>
-    <i>Analyser</i>
+    <i> Analyser </i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <br>
-    <i>Agentinställningar</i>
+    <i> Agentinställningar </i>
     <li>n/a</li>
     <br>
-    <i>Administratörsinställningar</i>
+    <i> Administratörsinställningar </i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Visa kontolista <b>*</b></li>
@@ -182,23 +182,23 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <li>Visa dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <br>
-    <i>Live Chatt</i>
+    <i> Live-chatt </i>
     <li>Visa mina konversationer</li>
     <br>
     <i>Möten</i>
     <li>n/a</li>
     <br>
-    <i>Analyser</i>
+    <i> Analyser </i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <br>
-    <i>Agentinställningar</i>
+    <i> Agentinställningar </i>
     <li>Hantera chatttillgänglighet live</li>
     <li>Anslut din kalender</li>
     <li>Hantera kalendertillgänglighet</li>
     <br>
-    <i>Administratörsinställningar</i>
+    <i> Administratörsinställningar </i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Visa kontolista <b>*</b></li>
@@ -211,22 +211,22 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <li>Visa dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <br>
-    <i>Live Chatt</i>
+    <i> Live-chatt </i>
     <li>n/a</li>
     <br>
     <i>Möten</i>
     <li>n/a</li>
     <br>
-    <i>Analyser</i>
+    <i> Analyser </i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <br>
-    <i>Agentinställningar</i>
+    <i> Agentinställningar </i>
     <li>Anslut din kalender</li>
     <li>Hantera kalendertillgänglighet</li>
     <br>
-    <i>Administratörsinställningar</i>
+    <i> Administratörsinställningar </i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Visa kontolista <b>*</b></li>
@@ -238,27 +238,27 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <td><i>Konversationshantering</i>
     <li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publicera dialogrutor</li>
+    <li>Publish-dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publicera konversationsflöden</li>
+    <li>Publish konversationsflöden</li>
     <br>
-    <i>Live Chatt</i>
+    <i> Live-chatt </i>
     <li>n/a</li>
     <br>
     <i>Möten</i>
     <li>n/a</li>
     <br>
-    <i>Analyser</i>
+    <i> Analyser </i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <li>Exportera rapporter</li>
     <br>
-    <i>Agentinställningar</i>
+    <i> Agentinställningar </i>
     <li>n/a</li>
     <br>
-    <i>Administratörsinställningar</i>
+    <i> Administratörsinställningar </i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
@@ -277,25 +277,25 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <li>Visa dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <br>
-    <i>Live Chatt</i>
+    <i> Live-chatt </i>
     <li>Visa mina konversationer</li>
     <li>Visa alla konversationer</li>
     <br>
     <i>Möten</i>
     <li>Hantera alla möten</li>
     <br>
-    <i>Analyser</i>
+    <i> Analyser </i>
     <li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
     <li>Exportera rapporter</li>
     <br>
-    <i>Agentinställningar</i>
+    <i> Agentinställningar </i>
     <li>Hantera chatttillgänglighet live</li>
     <li>Anslut din kalender</li>
     <li>Hantera kalendertillgänglighet</li>
     <br>
-    <i>Administratörsinställningar</i>
+    <i> Administratörsinställningar </i>
     <li>Visa Round-robin</li>
     <li>Visa anpassade regler</li>
     <li>Hantera anpassade regler (lägg till, redigera, ta bort)</li>
@@ -309,4 +309,4 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
 </tbody>
 </table>
 
-**&#42;** Endast tillgängligt för Dynamic Prime-användare
+**&#42;** är för närvarande endast tillgängligt för Dynamic Prime-användare

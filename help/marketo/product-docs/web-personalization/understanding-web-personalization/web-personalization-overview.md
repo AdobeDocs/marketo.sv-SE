@@ -1,52 +1,52 @@
 ---
 unique-page-id: 3571900
-description: Webbpersonalisering - översikt - Marketo Docs - produktdokumentation
-title: Webbpersonalisering - översikt
+description: Översikt över Web Personalization - Marketo Docs - produktdokumentation
+title: Personalization - översikt
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
 
-# Webbpersonalisering - översikt {#web-personalization-overview}
+# Personalization - översikt {#web-personalization-overview}
 
 ## Introduktion {#introduction}
 
-För nya Marketo-kunder är personalisering i realtid uppdelat i fyra appar som nås via dessa två paneler: Webbpersonalisering och ContentAI.
+För nya Marketo-kunder är Personalization i realtid uppdelat i fyra appar som nås via dessa två paneler: Web Personalization och ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Webbpersonalisering och ContentAI finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
+>Web Personalization och ContentAI finns på alla språk som stöds av Marketo (engelska, franska, tyska, japanska, portugisiska, spanska).
 
-Befintliga kunder har fortsatt åtkomst till apparna via panelen för anpassning i realtid tills de förnyas, och då kommer de att använda inloggningen ovan.
+Befintliga kunder har fortsatt åtkomst till apparna via Personalization-plattan i realtid tills de förnyas, och då kommer de att använda inloggningen ovan.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-När du klickar på panelen Webbanpassning visas sidan Kontrollpanel. Klicka på ContentAI-rutan och gå direkt till Recommendations-sidan Content.
+När du klickar på panelen Web Personalization visas sidan Dashboard. Klicka på ContentAI-rutan och gå direkt till Recommendations-sidan Content.
 
 De fyra programmen är:
 
-* Webbanpassning
+* Web Personalization
 * Kontobaserad webbmarknadsföring
 * Återmarknadsföring av webbplatser
 * ContentAI
 
-The **Webbanpassning** platta är er åtkomstpunkt för att skapa personaliserade webbkampanjer. Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
+Platsen **Web Personalization** är din åtkomstpunkt för att skapa anpassade webbkampanjer. Kontobaserad webbmarknadsföring och återmarknadsföring på webben. Du kan lägga till innehåll på sidan Innehållsanalys.
 
-**Kontobaserad webbmarknadsföring** fungerar med webbpersonalisering och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, det totala engagemanget och organisationstrender samt en lista över kontona. Du kan även skapa nya namngivna konton där.
+**Kontobaserad webbmarknadsföring** fungerar med Web Personalization och har namngivna konton. Sidan Namngivna konton innehåller grafisk information om befintliga kunder, totala engagemang och organisationstrender samt en lista över konton. Du kan även skapa nya namngivna konton där.
 
-**Återmarknadsföring av webbplatser** ger er möjlighet att ommarknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
+**Återmarknadsföring av webbplatser** ger dig möjlighet att återmarknadsföra till segmenterade målgrupper. Du kan ange segment, men inte använda namngivna konton i filtret.
 
 **ContentAI** är platsen där innehållsrekommendationer ska ges. Du kan enkelt lägga till innehåll på Recommendations-sidan Innehåll.
 
 >[!NOTE]
 >
->Om du vill komma åt kontobaserad webbmarknadsföring eller återmarknadsföring av webbplatser måste du klicka på panelen Webbanpassning, även om du inte har appen Webbanpassning.
+>Om du vill få åtkomst till kontobaserad webbmarknadsföring eller återmarknadsföring av webbplatser måste du klicka på Web Personalization-plattan även om du inte har Web Personalization-appen.
 
 ## Organisationer {#organizations}
 
@@ -56,7 +56,7 @@ På fliken Organisationer visas all information (namn, plats, aktivitet och tids
 
 >[!TIP]
 >
->&quot;Mest aktiv&quot; jämfört med &quot;Senaste&quot; - Tabellen är organiserad av identifierade organisationer och sedan av Internetleverantörer (anges med en ISP-ikon). Den kan sorteras enligt följande:
+>&quot;Most Active&quot; vs.&quot;Latest&quot; - Tabellen är organiserad av identifierade organisationer och sedan av Internetleverantörer (anges med en ISP-ikon). Den kan sorteras enligt följande:
 >
 >* Mest aktiva: de mest aktiva organisationerna i tabellen, baserat på antalet sidvisningar
 >* Senaste: de senaste organisationerna i tabellen (standard)
@@ -69,7 +69,7 @@ Den högra panelen på sidan Organisationer har följande funktioner och insikte
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Kalkylbladsikon</strong>: Ikonen finns längst upp till höger på panelen och hämtar organisationstabellen i CSV-format för användning offline</p><p><strong>Ange e-postavisering</strong>: Skickar ett e-postmeddelande till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>Leads</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>Dela</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter, öppnar ett nytt fönster med ytterligare information från respektive webbsida som ger ytterligare information om den valda organisationen</p><p><strong>Sök</strong>: Visar det nyckelord som används om besökaren kom fram via en sökmotor</p><p><strong>Referenter</strong>: Visar URL-länken för sidan som refererade trafiken till din webbplats</p><p><strong>Besökare</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>Clickstream</strong>: Visar en tabell över användaraktiviteten och URL-sökvägen på webbplatsen och hur länge de besökt varje sida</p></td> 
+   <td><p><strong>Ikon för kalkylblad</strong>: I den övre högra delen av panelen hämtas organisationstabellen i CSV-format av ikonen, så att den kan användas offline</p><p><strong>Ange e-postavisering</strong>: Skickar e-post till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>Leads</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>Dela</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter öppnar ett nytt fönster med ytterligare information från respektive webbsida som ger ytterligare information om den valda organisationen</p><p><strong>Sök</strong>: Visar nyckelordet som används om besökaren kom fram via en sökmotor</p><p><strong>Referenter</strong>: Visar URL-länken för sidan som refererade till trafiken till din webbplats</p><p><strong>Besökare</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>Clickstream</strong>: Visar en tabell över användaraktiviteten och URL-sökvägen på webbplatsen och hur länge de besökte varje sida</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -111,7 +111,7 @@ Den högra panelen på sidan Besökare ger följande insikter:
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td> 
-   <td colspan="1" rowspan="1">Gör att du kan ställa in en kampanjCTA som är associerad med den valda besökaren</td> 
+   <td colspan="1" rowspan="1">Gör att du kan ställa in en CTA för kampanj som är associerad med den valda besökaren</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Plats</strong></td> 
@@ -144,7 +144,7 @@ Realtidssidan delas upp i sex informativa tabeller över besöksinformation på 
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Besökare</strong></td> 
-   <td colspan="1" rowspan="1"> Representerar antalet besökare som för närvarande finns på din webbplats</td> 
+   <td colspan="1" rowspan="1"> Representerar antalet besökare som för närvarande finns på webbplatsen</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Klickningar per minut</strong></p></td> 
@@ -152,7 +152,7 @@ Realtidssidan delas upp i sex informativa tabeller över besöksinformation på 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>De viktigaste organisationerna</strong></td> 
-   <td colspan="1" rowspan="1">En kort version av organisationstabellen</td> 
+   <td colspan="1" rowspan="1">En kort version av organisationsregistret</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Realtidssegment</strong></td> 

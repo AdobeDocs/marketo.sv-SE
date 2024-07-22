@@ -19,19 +19,19 @@ Vi vill att e-postmeddelanden från Sales Connect ska kännas som en sömlös up
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Klicka **Adress och signatur** och välj den e-postadress som du vill skapa en signatur för.
+1. Klicka på **Adress och signatur** och välj den e-postadress som du vill skapa en signatur för.
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Klicka på signaturkortet **Redigera**.
+1. Klicka på **Redigera** på signaturkortet.
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Ange önskad text (eller bilder) och klicka **Spara**.
+1. Ange önskad text (eller bilder) och klicka på **Spara**.
 
    ![](assets/add-your-email-signature-5.png)
 

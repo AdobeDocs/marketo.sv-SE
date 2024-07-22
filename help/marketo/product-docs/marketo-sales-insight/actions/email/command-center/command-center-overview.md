@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
  <tr>
   <td>Utkast</td>
   <td>E-postmeddelanden som har sparats som ett utkast.<br/>
-  <strong>Anteckning</strong>: Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-post och gruppmeddelanden) sparas inte som utkast.</td>
+  <strong> Obs! </strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-postmeddelanden och gruppmeddelanden) sparas inte som utkast.</td>
  </tr>
  <tr>
   <td>Pågår</td>
@@ -60,12 +60,12 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
  <tr>
   <td>Studsade</td>
   <td>E-postmeddelanden som har avvisats från mottagarnas e-postserver.<br/>
-  <strong>Anteckning</strong>: Detta upptäcks endast om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
+  <strong> Obs! </strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
  </tr>
  <tr>
   <td>Spam</td>
   <td>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br/>
-  <strong>Anteckning</strong>: Detta upptäcks endast om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
+  <strong> Obs! </strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
  </tr>
 </table>
 
@@ -81,7 +81,7 @@ När ni väl har börjat engagera era prospects via dispositionsfönstret eller 
 
 Om du till exempel lägger till 100 personer i en kampanj i MSC kanske du vill rikta om dem som visade och klickade på ditt e-postmeddelande, men inte svarade på det. För att göra detta kan du använda Campaign-filtret tillsammans med filtren Visa och klicka på status Activity (Aktivitet) för att identifiera en lista över personer som ska återställas.
 
-Bonus: Om du sparar din avancerade sökning kommer den att fungera som en dynamisk lista och lägga till e-postmeddelanden som uppfyller engagemangskriterierna när mottagaren visar eller klickar på ditt e-postmeddelande.
+Bonus: Om du sparar din avancerade sökning fungerar den som en dynamisk lista och lägger till e-postmeddelanden som uppfyller engagemangskriterierna när mottagaren visar eller klickar på ditt e-postmeddelande.
 
 >[!MORELIKETHIS]
 >

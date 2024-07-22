@@ -6,7 +6,7 @@ exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,12 @@ När du trycker på ett e-postprogramkort kan du:
 * [Markera en händelse som klar](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Dela ett händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Det finns två händelsekort. The [!UICONTROL On-Deck] kort, som skickas några timmar före evenemanget, visar hur många personer som är registrerade. The [!UICONTROL Results] kort som skickas efteråt visar hur många som faktiskt deltog.
+Det finns två händelsekort. Kortet [!UICONTROL On-Deck], som skickades några timmar före evenemanget, visar hur många personer som har registrerats. [!UICONTROL Results]-kortet, som skickas efteråt, visar hur många som faktiskt har deltagit.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
->* [Förstå Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Förstå Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Om e-postprogramkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Om händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

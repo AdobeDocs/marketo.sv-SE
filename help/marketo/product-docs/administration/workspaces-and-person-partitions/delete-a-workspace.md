@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360313
-description: Ta bort en arbetsyta - Marketo Docs - produktdokumentation
-title: Ta bort en arbetsyta
+description: Ta bort en Workspace - Marketo Docs - produktdokumentation
+title: Ta bort en Workspace
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Ta bort en arbetsyta {#delete-a-workspace}
+# Ta bort en Workspace {#delete-a-workspace}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >Du kan inte ta bort standardarbetsytan i Marketo.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-workspace-1.png)
 
@@ -29,10 +29,10 @@ ht-degree: 1%
 
    ![](assets/delete-a-workspace-2.png)
 
-1. Markera en arbetsyta och klicka på **[!UICONTROL Delete Workspace]**.
+1. Välj en arbetsyta och klicka på **[!UICONTROL Delete Workspace]**.
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Bekräfta antalet resurser som du håller på att ta bort (den visas bredvid&quot;[!UICONTROL total assets]&quot;) väljer du **[!UICONTROL Cannot Undo]** kryssruta och klicka sedan **[!UICONTROL Delete]**.
+1. Bekräfta antalet resurser som du håller på att ta bort (den visas bredvid [!UICONTROL total assets]), markera kryssrutan **[!UICONTROL Cannot Undo]** och klicka sedan på **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-workspace-4.png)

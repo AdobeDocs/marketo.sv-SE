@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Autentisera säkerhet för mobil åtkomst {#authenticate-mobile-access-security}
 
-För att förbättra säkerheten för mobilanvändare tillhandahåller Marketo två nya ID: åtkomstnyckeln och åtkomsthemligheten. Dessa hjälper till att säkerställa att användare som loggar in i ditt program faktiskt är de som de verkar vara.
+För att förbättra säkerheten för mobilanvändare tillhandahåller Marketo två nya ID:n: Access Key (Åtkomstnyckel) och Access Secret (Åtkomstnyckel). Dessa hjälper till att säkerställa att användare som loggar in i ditt program faktiskt är de som de verkar vara.
 
-Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avdelning så att de kan skapa en säker matchning.
+Om du vill aktivera ID:n måste du skaffa koderna och ge dem till din IT-avdelning så att de kan skapa en säker matchning.
 
 >[!PREREQUISITES]
 >
 >Om du vill aktivera den här funktionen kontaktar du supporten och begär Vespa Secure Mode.
 
-1. I Marketo väljer du **Administratör** och klicka **Mobilappar och enheter**.
+1. I Marketo väljer du **Admin** och klickar på **Mobilappar och enheter**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ Om du vill aktivera ID:n måste du skaffa koderna och skicka dem till din IT-avd
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Bläddra nedåt och klicka i sektionen Åtkomstskydd **Redigera**.
+1. Bläddra nedåt och klicka på **Redigera** i sektionen Åtkomstsäkerhet.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Kontrollera **Aktivera säkerhet** kryssrutan. Klicka **Spara**.
+1. Markera kryssrutan **Aktivera skydd**. Klicka på **Spara**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

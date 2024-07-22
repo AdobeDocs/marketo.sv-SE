@@ -17,7 +17,7 @@ Bygg intäktsbaserade rapporter med hjälp av den TAM-specifika dimensionen Name
 
 >[!NOTE]
 >
->**Dimensioner** - attribut (som representeras av gula punkter) som ger olika åsikter om åtgärderna.
+>**Dimensioner** - attribut (representeras av gula punkter) som ger olika vyer av måtten.
 
 ![](assets/one-2.png)
 

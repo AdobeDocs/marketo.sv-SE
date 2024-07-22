@@ -6,7 +6,7 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 ## Målprogram som stöds {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* ADOBE ANALYTICS (_endast_ om du äger en Adobe Audience Manager-licens)
+* Adobe Analytics (_endast_ om du äger en Adobe Audience Manager-licens)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
@@ -38,11 +38,11 @@ En statisk lista är bara det, statiskt. Listan i Adobe Experience Cloud ändras
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klicka på **[!UICONTROL Audience Manager Folder]** och markera önskad målmapp i Experience Cloud.
+1. Klicka på listrutan **[!UICONTROL Audience Manager Folder]** och välj önskad målmapp i Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya målgruppsnamnet och klicka **[!UICONTROL Send]**.
+1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya publiknamnet och klicka på **[!UICONTROL Send]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
@@ -62,15 +62,15 @@ Synkronisering av en lista innebär att när du uppdaterar en lista i Marketo sy
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Klicka på **[!UICONTROL Audience Library Folder]** och markera önskad målmapp i Experience Cloud.
+1. Klicka på listrutan **[!UICONTROL Audience Library Folder]** och välj önskad målmapp i Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya målgruppsnamnet, kontrollera **[!UICONTROL Keep Audience Membership in Sync]** och klicka **[!UICONTROL Send]**.
+1. Välj om du vill skapa en ny målgrupp eller skriva över en befintlig (i det här exemplet skapar vi en ny). Ange det nya målgruppsnamnet, markera rutan **[!UICONTROL Keep Audience Membership in Sync]** och klicka på **[!UICONTROL Send]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -86,15 +86,15 @@ Du kan när som helst stoppa synkroniseringen av listan.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. Klicka **[!UICONTROL Stop]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Stop]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
 ## Saker att notera {#things-to-note}
 
-**Dela till Adobe Analytics**
+**Delning till Adobe Analytics**
 
-För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Granska [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
+För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
 
 **Trait Usage för Adobe Audience Manager-kunder**
 

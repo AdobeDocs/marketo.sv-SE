@@ -6,7 +6,7 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälte
 
 ## Installera anpassningar i Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
 
    ![](assets/one.png)
 
-1. Under Administratörsinställningar väljer du **Salesforce**.
+1. Välj **Salesforce** under Administratörsinställningar.
 
    ![](assets/two.png)
 
-1. Klicka **Marketo Sales Connect-anpassningar**.
+1. Klicka på **Marketo Sales Connect-anpassningar**.
 
    ![](assets/three.png)
 
-1. Klicka **Anslut till Salesforce**.
+1. Klicka på **Anslut till Salesforce**.
 
    ![](assets/four.png)
 
@@ -49,19 +49,19 @@ Uppdateringar av Salesforce-anpassningspaketet kommer att innehålla förbättri
 >
 >**Administratörsbehörighet krävs.**
 
-1. I [webbprogram](https://www.toutapp.com), klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [webbprogrammet](https://www.toutapp.com) och välj **Inställningar**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Kortet Sales Connect Customization visar om det finns uppdateringar. Klicka **Uppdatera anpassningar**.
+1. Kortet Sales Connect Customization visar om det finns uppdateringar. Klicka på **Uppdatera anpassningar**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicka **Uppgradera**.
+1. Klicka på **Uppgradera**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,7 +75,7 @@ När kortet är klart visas&quot;Säljarens anpassningar av Connect är uppdater
 
 ## Anpassade aktivitetsfält {#custom-activity-fields}
 
-Marketo kommer att upptäcka att de nya fälten har skapats och sedan göra en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden till **new** endast fält. Gamla fält uppdateras inte.
+Marketo upptäcker att de nya fälten har skapats och gör sedan en engångsefterfyllning av data, en ommappning och en pågående synkronisering av värden endast i fälten **new**. Gamla fält uppdateras inte.
 
 | **Fältnamn** | **Beskrivning** |
 |---|---|
@@ -118,8 +118,8 @@ Marketo kommer att upptäcka att de nya fälten har skapats och sedan göra en e
    <td>Beskrivning av engagemanget.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Senaste marknadsföringsaktivitetskälla</td> 
-   <td>Källa för marknadsföringsengagemang.</td> 
+   <td>MSE - Last Marketing Engagement Source</td> 
+   <td>Source om marknadsföringsengagemang.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - Typ av senaste marknadsföringsåtagande</td> 
@@ -166,7 +166,7 @@ Marketo kommer att upptäcka att de nya fälten har skapats och sedan göra en e
 
 ## Användarhandböcker {#user-guides}
 
-[Anpassade MSE-rapporter i Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[MSE-anpassade rapporter i Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
 [MSE för Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 

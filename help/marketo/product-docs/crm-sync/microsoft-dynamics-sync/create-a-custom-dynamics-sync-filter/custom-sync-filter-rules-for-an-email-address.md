@@ -17,8 +17,8 @@ Följ de här reglerna för att förhindra synkronisering av poster som inte har
 
 * När ett lead skapas ELLER när leadets e-postadressfält uppdateras, kontrollerar du om leadet har en e-postadress och, om så är fallet, ändrar du Synkronisera till Mkto till **[!UICONTROL True]**. Ändra annars till **[!UICONTROL False]**.
 
-* När en kontakt skapas ELLER när kontaktens e-postadressfält uppdateras, kontrollerar du om kontakten har en e-postadress och om den har det, ändrar du Synkronisera till MKTO till **[!UICONTROL True]** och ändra Synkronisera till Mkto till **[!UICONTROL True]** på kontoposten. Annars ändrar du till **[!UICONTROL False]**.
+* När en kontakt skapas ELLER när kontaktens e-postadressfält uppdateras, kontrollerar du om kontakten har en e-postadress och om den har det, ändrar Synkronisera till MKto till **[!UICONTROL True]** och ändrar Synkronisera till MKto till **[!UICONTROL True]** i kontoposten. Annars ändrar du till **[!UICONTROL False]**.
 
-* När kontaktens företagsnamn (parentcustomerid) uppdateras kontrollerar du om kontaktens fält Synkronisera med kto är sant. I så fall ändrar du Synkronisera till MKTO för kontot till **[!UICONTROL True]** också.
+* När kontaktens företagsnamn (parentcustomerid) uppdateras kontrollerar du om kontaktens fält Synkronisera med kto är sant. Om det är det ändrar du även Synkronisera till MKto för kontot till **[!UICONTROL True]**.
 
-* När fältet Potentiell kund (anpassad) eller Kontakt (parentkontaktaktid) för affärsmöjligheten uppdateras, kontrollerar du om kontots Synkronisera med MKto-fält är sant eller om kontaktens Synkronisera med MKto-fält är sant. I så fall ändrar du Synkronisera till MKTO på affärsmöjligheten till **[!UICONTROL True]** också.
+* När fältet Potentiell kund (anpassad) eller Kontakt (parentkontaktaktid) för affärsmöjligheten uppdateras, kontrollerar du om kontots Synkronisera med MKto-fält är sant eller om kontaktens Synkronisera med MKto-fält är sant. Om det är det ändrar du även Synkronisera till MKto för affärsmöjligheten till **[!UICONTROL True]**.

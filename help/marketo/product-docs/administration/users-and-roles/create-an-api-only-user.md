@@ -13,21 +13,21 @@ ht-degree: 2%
 
 # Skapa endast en API-användare {#create-an-api-only-user}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}måste du skapa en användare med enbart API. Så här gör du.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} måste du skapa en användare som bara har API. Så här gör du.
 
 >[!IMPORTANT]
 >
->Om du skapar användare med endast API i en prenumeration som har registrerats för Adobe Identity, är dina steg olika och [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Om du skapar Endast API-användare i en prenumeration som har konverterats till Adobe Identity, är dina steg olika och [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
->[Skapa en användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
+>[Skapa endast en API-användarroll](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-1.png)
 
@@ -47,7 +47,7 @@ Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.c
    >
    >Lägg till en valfri orsak eller ett förfallodatum för åtkomst. Utgångsdatumet är praktiskt för korttidsanställda.
 
-1. Välj **[!UICONTROL API Only]** roll och kontrollera **[!UICONTROL API Only]** kryssrutan. Klicka på **[!UICONTROL Next]**.
+1. Markera rollen **[!UICONTROL API Only]** och markera kryssrutan **[!UICONTROL API Only]**. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/create-an-api-only-user-5.png)
 

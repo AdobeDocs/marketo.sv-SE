@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Prioritera era webbkampanjer när två eller flera webbkampanjer överlappar var
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 1. Ange prioritetspoäng (999 = Högsta prioritet 1 = Lägsta prioritet) på sidan Redigera kampanj.
 

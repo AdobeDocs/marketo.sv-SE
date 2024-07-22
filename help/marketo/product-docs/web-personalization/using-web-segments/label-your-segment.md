@@ -17,7 +17,7 @@ Har du så många segment att rullning blir krånglig? Använd etiketter för at
 
 ## Tagga ett segment {#tag-a-segment}
 
-1. Logga in på Webbpersonalisering och gå till **Segment**.
+1. Logga in på Web Personalization och gå till **Segment**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Har du så många segment att rullning blir krånglig? Använd etiketter för at
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Om du vill använda en befintlig etikett klickar du på **Ange etikett**, markera en ruta och klicka på **Använd**.
+1. Om du vill använda en befintlig etikett klickar du på **Ange etikett**, markerar en ruta och klickar på **Använd**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Om du vill skapa en ny etikett klickar du på **Ange etikett**, ange det nya etikettnamnet och klicka på **Skapa nytt**.
+1. Du kan också skapa en ny etikett genom att klicka på **Ange etikett**, ange den nya etikettens namn och klicka på **Skapa ny**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

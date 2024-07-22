@@ -6,7 +6,7 @@ exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om?
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,7 +27,7 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Växla fram och tillbaka för att välja **Formulärtema** som du vill.
+1. Växla fram och tillbaka för att välja **Formulärtemat** som du vill använda.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
 
    >[!TIP]
    >
-   >Du kan också [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >Du kan även [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicka **Nästa** för att konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
+1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
@@ -54,4 +54,4 @@ Hur enkelt var det där?! Du kan nu låta din HTML/CSS-bok samla in lite damm.
 >[!MORELIKETHIS]
 >
 >* [Redigera CSS för ett formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Lägga till ett fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+>* [Lägg till ett fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)

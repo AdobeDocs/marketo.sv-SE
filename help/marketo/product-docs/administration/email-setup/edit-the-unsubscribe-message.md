@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) läggs text och länkar till längst ned. Du kan ändra standardinställningarna. Så här gör du.
+När du skickar marknadsföringsmeddelanden (icke-[operativ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) läggs text och länkar för att avbryta prenumerationen till längst ned. Du kan ändra standardinställningarna. Så här gör du.
 
 ## Var ska du göra redigeringen? {#where-to-make-the-edit}
 
-1. Gå till **[!UICONTROL Admin]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
@@ -36,15 +36,15 @@ När du skickar e-postmarknadsföring (icke-[operativ](/help/marketo/product-doc
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Redigera **[!UICONTROL Unsubscribe HTML]** och **[!UICONTROL Unsubscribe Text]** versioner som du vill ha och klicka på **[!UICONTROL Save Changes]**.
+1. Redigera versionerna **[!UICONTROL Unsubscribe HTML]** och **[!UICONTROL Unsubscribe Text]** efter dina önskemål och klicka på **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Där har du den. _Se till att testa!_ Du vill inte att dina marknadsföringsmejl ska ha brutna länkar för att avbryta prenumerationen.
+   Där har du den. _Se till att testa!_ Du vill inte att dina marknadsföringsmeddelanden ska innehålla brutna länkar för att avbryta prenumerationen.
 
 >[!TIP]
 >
->Du kan anpassa HTML för att avsluta prenumerationen i ditt e-postmeddelande genom att använda [variabler](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Du kan anpassa positionen för det avbrutna HTML i ditt e-postmeddelande genom att använda [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Avbeställ standardtext {#default-unsubscribe-text}
 
@@ -56,4 +56,4 @@ Om du behöver gå tillbaka till systemets standardavbrutna prenumeration kopier
 
 >[!MORELIKETHIS]
 >
->[Redigera meddelandet&quot;Visa som webbsida&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Redigera meddelandet Visa som webbsida](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >Om du vill lägga till en person i en Marketo Campaign från Sales Connect måste Sales Connect ha personens lead-ID för Marketo.
 
-1. Klicka på **Folk** Tabb.
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
-1. Hitta de kontakter som du vill lägga till.
+1. Sök efter den eller de kontakter som du vill lägga till.
 
    ![](assets/two-3.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Klicka **Lägg till markerade i kampanj**.
+1. Klicka på **Lägg till markerade i kampanj**.
 
    ![](assets/four-3.png)
 
-1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
+1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka på **Nästa** när du är klar.
 
    ![](assets/five-2.png)
 
-1. Klicka **Marknadsföringskampanj**.
+1. Klicka på **Marknadsföringskampanj**.
 
    ![](assets/six-1.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
+1. Du visas de kontakter som är behöriga. Klicka på **Start** för att lägga till dem.
 
    ![](assets/nine.png)
 
 ## Lägg till en grupp i en kampanj {#add-a-group-to-a-campaign}
 
-1. Klicka på **Folk** Tabb.
+1. Klicka på fliken **Personer**.
 
    ![](assets/one-3.png)
 
@@ -73,15 +73,15 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Klicka **Lägg till grupp i kampanj**.
+1. Klicka på **Lägg till grupp i kampanj**.
 
    ![](assets/twelve.png)
 
-1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka **Nästa** när det är klart.
+1. Eftersom du lägger till i en marknadsföringskampanj går du inte längre till en&quot;från&quot;-adress. Du kan dock välja att lägga till fler kontakter. Om du väljer att göra det klickar du på Individuella och skriver in dem. Klicka på **Nästa** när du är klar.
 
    ![](assets/thirteen.png)
 
-1. Välj **Marknadsföringskampanj**.
+1. Välj **Marknadskampanj**.
 
    ![](assets/six-1.png)
 
@@ -101,6 +101,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Du visas de kontakter som är behöriga. Klicka **Starta** för att lägga till dem.
+1. Du visas de kontakter som är behöriga. Klicka på **Start** för att lägga till dem.
 
    ![](assets/nine.png)

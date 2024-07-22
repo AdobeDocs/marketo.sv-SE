@@ -5,14 +5,14 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1209'
 ht-degree: 0%
 
 ---
 
 # Flödesstegstjänst {#flow-step-service}
 
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Information om hur du skapar och publicerar din egen tjänst finns i [GitHub-databas för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Mer information om hur du redigerar och publicerar din egen tjänst finns i [GitHub-databasen för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. En implementering av en koncepttest för sökning av tabeller finns [här](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
@@ -22,13 +22,13 @@ Administratörsbehörighet krävs i Marketo för att installera ett anpassat fl�
 
 För att kunna påbörja installationen måste du först hämta URL:en för det OpenAPI-dokument som definierar tjänsten. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn Tjänsteleverantörer i ditt Admin Section.
 
-Klicka **[!UICONTROL Next]** om du vill gå till sektionen Ange inloggningsuppgifter för tjänsten.
+Klicka på **[!UICONTROL Next]** för att gå till sektionen Ange tjänstinloggningsuppgifter.
 
 ![](assets/flow-step-service-1.png)
 
 ## Ange autentiseringsuppgifter för tjänsten {#enter-service-credentials}
 
-Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett inmatningsfält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och kan kräva ett fält som heter Realm, och **OAuth2** med _Klientautentiseringsuppgifter_ bidrag, vilket kräver _Klient-ID_ och _Klienthemlighet_.
+Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett indatafält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och kan även kräva ett fält som heter Realm, och **OAuth2** som använder _Klientautentiseringsuppgifter_ som kräver ett _klient-ID_ och _Klienthemlighet_.
 
 När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. Om de angivna autentiseringsuppgifterna är ogiltiga visas ett felmeddelande om detta.
 
@@ -38,7 +38,7 @@ Vissa tjänsteleverantörer kommer att inkludera ett valfritt steg i Onboarding 
 
 ## Fältmappning {#field-mapping}
 
-För att kunna ta emot eller returnera data från ett visst lead-fält måste det fältet mappas. Mappning är ett obligatoriskt steg under introduktionen, men du kan alltid gå tillbaka och ändra mappningarna senare. Det finns två typer av mappningar som är konfigurerade på olika skärmar: **Utgående fält** som skickas till tjänsten när Marketo anropar flödessteget, och **Inkommande fält** som är fält som kan ta emot data från tjänsten när den returnerar data till Marketo.
+För att kunna ta emot eller returnera data från ett visst lead-fält måste det fältet mappas. Mappning är ett obligatoriskt steg under introduktionen, men du kan alltid gå tillbaka och ändra mappningarna senare. Det finns två typer av mappningar som har konfigurerats på olika skärmar: **Utgående fält**, som skickas till tjänsten när Marketo anropar flödessteget, och **Inkommande fält**, som är fält som kan ta emot data från tjänsten när data returneras till Marketo.
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ Valfria fältmappningar kan inaktiveras utan avbrott i tjänsten, men obligatori
 
 ## Tjänststyrda mappningar {#service-driven-mappings}
 
-Tjänster som har en fast uppsättning indata och utdata, som ett steg i händelseregistreringsflödet, använder **Tjänststyrda mappningar**. För den här typen av mappning tillhandahåller tjänsteleverantören både en datatyp och ett tips i form av ett API-namn. Om tipset matchar API-namnet för ett befintligt lead-fält fylls fältet automatiskt i i mappningsavsnittet. För fält utan matchande tips måste du fylla i mappningen manuellt från fältlistan med matchande datatyp. Mappningar som krävs måste fyllas i för att introduktionen ska kunna slutföras.
+Tjänster som har en fast uppsättning indata och utdata, som till exempel ett steg i händelseregistreringsflödet, använder **Tjänststyrda mappningar**. För den här typen av mappning tillhandahåller tjänsteleverantören både en datatyp och ett tips i form av ett API-namn. Om tipset matchar API-namnet för ett befintligt lead-fält fylls fältet automatiskt i i mappningsavsnittet. För fält utan matchande tips måste du fylla i mappningen manuellt från fältlistan med matchande datatyp. Mappningar som krävs måste fyllas i för att introduktionen ska kunna slutföras.
 
 ![](assets/flow-step-service-2.png)
 
 ## Användarstyrda mappningar {#user-driven-mappings}
 
-Tjänster som inte har en fast uppsättning indata och utdata, t.ex. en datumformateringstjänst, använder **Användarstyrda mappningar**. Det innebär att varje inkommande och utgående fält måste konfigureras av en administratör.
+Tjänster som inte har en fast uppsättning indata och utdata, t.ex. en datumformateringstjänst, använder **användarstyrda mappningar**. Det innebär att varje inkommande och utgående fält måste konfigureras av en administratör.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ Vissa tjänster har antingen valfria eller obligatoriska globala konfigurationsa
 
 ## Återkalla en tjänst {#retiring-a-service}
 
-För att underlätta övergången till nya eller alternativa versioner av en tjänst utan att störa den aktiva användningen kan tjänster tas bort från menyn Tjänsteleverantörer. **Återkalla en tjänst** tar bort motsvarande flödessteg från paletten Smart Campaign-flöde, så att inga nya användningar av den kan skapas. I de flesta fall bör du ha en ersättningstjänst som är klar att ersätta den befintliga när du väljer att dra in en tjänst.
+För att underlätta övergången till nya eller alternativa versioner av en tjänst utan att störa den aktiva användningen kan tjänster tas bort från menyn Tjänsteleverantörer. **Genom att behålla en tjänst** tas motsvarande flödessteg bort från paletten Smart Campaign-flöde, så att inga nya användningar av den kan skapas. I de flesta fall bör du ha en ersättningstjänst som är klar att ersätta den befintliga när du väljer att dra in en tjänst.
 
 ## Borttagning av tjänst {#service-deprecation}
 

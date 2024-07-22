@@ -2,8 +2,8 @@
 description: OP-Acquisition-API - Marketo Docs - Produktdokumentation
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Det här exempelprogrammet är avsett för operativa processer för att spåra f
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -69,7 +69,7 @@ Det här exempelprogrammet är avsett för operativa processer för att spåra f
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

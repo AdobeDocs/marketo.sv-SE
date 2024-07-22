@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Översikt över väljaren för e-postmall {#email-template-picker-overview}
 
-När du [skapa e-post](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
+När du [skapar ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) har du flera kostnadsfria mallar att välja bland. Du kan också skapa en egen mall och spara den för framtida bruk.
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Namn** blir namnet på det e-postmeddelande som du skapar baserat på mallen, inte själva mallen. **Beskrivning** gäller även för e-postmeddelandet och är valfritt.
+**Namn** är namnet på e-postmeddelandet som du skapar baserat på mallen, inte själva mallen. **Beskrivning** gäller även för e-postmeddelandet och är valfritt.
 
 ![](assets/two-2.png)
 
-Om din e-postadress är viktig och du vill att den ska kringgå kommunikationsbegränsningar, [göra det operativt](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) genom att markera rutan. **Öppna i redigeraren** är markerat som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **Skapa** betyder, skapa!
+Om din e-post är viktig och du vill att den ska kringgå kommunikationsgränserna [kan du aktivera den](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) genom att markera kryssrutan. **Öppna i redigeraren** är markerat som standard, vilket innebär att du vill börja redigera ditt nya e-postmeddelande direkt. **Skapa** betyder, skapa!
 
 ![](assets/three-2.png)
 
@@ -49,7 +49,7 @@ Förhandsgranskaren visar hur mallen återges på en stationär dator...
 
 ![](assets/nine-1.png)
 
-Om du gillar den här mallen väljer du den genom att klicka på **Välj** längst ned till höger. Vill du fortsätta leta? Klicka på **X** uppe till höger. Använd vänster- och högerpilarna för att bläddra igenom mallar.
+Om du gillar den här mallen väljer du den genom att klicka på **Markera** längst ned till höger. Vill du fortsätta leta? Klicka på **X** uppe till höger. Använd vänster- och högerpilarna för att bläddra igenom mallar.
 
 ![](assets/ten-1.png)
 

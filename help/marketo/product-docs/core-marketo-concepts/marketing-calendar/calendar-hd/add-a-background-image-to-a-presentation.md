@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Anpassa en presentation genom att välja en bakgrundsbild.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Dra och släpp **[!UICONTROL Background Image]** från det högra trädet till arbetsytan.
+1. Dra och släpp **[!UICONTROL Background Image]** från det högra trädet på arbetsytan.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +35,11 @@ Anpassa en presentation genom att välja en bakgrundsbild.
 
    >[!TIP]
    >
-   >Använd en bild som **1920 x 1080** eller **1 280 x 720**.
+   >Använd en bild som är **1920 x 1080** eller **1280 x 720** för att få ett renast utseende.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Klicka **[!UICONTROL Preview]** för att kolla in det.
+1. Klicka på **[!UICONTROL Preview]** för att checka ut den.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

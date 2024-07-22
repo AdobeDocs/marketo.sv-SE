@@ -4,8 +4,8 @@ title: Loggningsattribut för försäljningsaktivitet till Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '292'
+ht-degree: 2%
 
 ---
 
@@ -13,21 +13,21 @@ ht-degree: 1%
 
 Salesforce-administratör kan lägga till anpassade aktivitetsfält manuellt i Salesforce.
 
-1. Klicka på i Salesforce-kontot **Inställningar**.
+1. Klicka på **Inställningar** i Salesforce-kontot.
 
 1. Sök efter&quot;Anpassade aktivitetsfält&quot; i snabbsökningsfältet och klicka på det.
 
-1. Klicka **Nytt**.
+1. Klicka på **Ny**.
 
-1. Välj den datatyp som motsvarar fältet som du vill lägga till baserat på tabellen nedan och klicka på **Nästa**.
+1. Välj datatyp som motsvarar fältet som du vill lägga till baserat på tabellen nedan och klicka på **Nästa**.
 
 1. Ange fältnamnet och etiketten för det fält som du vill lägga till.
 
 Beskrivning av varje kolumn i tabellen nedan:
 
-* **Fältetikett**: Fältnamn som visas i användargränssnittet (det här namnet kan anpassas för att förbättra läsbarheten för ditt team)
+* **Fältetikett**: Fältnamn visas i användargränssnittet (det här namnet kan anpassas för att förbättra läsbarheten för ditt team)
 * **Fältnamn**: Fältets tekniska namn (kontrollera att fältnamnet du anger matchar fältnamnet i tabellen nedan)
-* **API-namn**: Tekniskt namn på fältet för API (se till att API-namnet som du anger matchar API-namnet i tabellen nedan)
+* **API-namn**: Det tekniska namnet på fältet för API (kontrollera att API-namnet du anger matchar API-namnet i tabellen nedan)
 * **Datatyp**: Typ av fält
 * **Storlek**: Textfältets storlek
 
@@ -35,7 +35,7 @@ Beskrivning av varje kolumn i tabellen nedan:
  <tr>
   <th>Fältetikett</th>
   <th>Fältnamn</th>
-  <th>API-namn</th>
+  <th>API Name</th>
   <th>Datatyp</th>
   <th>Storlek</th>
  </tr>

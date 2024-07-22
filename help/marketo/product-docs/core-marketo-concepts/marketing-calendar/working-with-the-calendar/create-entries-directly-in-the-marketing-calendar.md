@@ -20,11 +20,11 @@ Med Marketo kan du skapa tävlingsbidrag direkt i din marknadsföringskalender i
 * E-postprogram
 * Smarta kampanjer
 
-1. Klicka på **[!UICONTROL Calendar]** platta.
+1. Klicka på rutan **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Markera en tidigare post och klicka på **[!UICONTROL Show Program Focus]**.
+1. Välj en tidigare post och klicka på **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -38,7 +38,7 @@ Med Marketo kan du skapa tävlingsbidrag direkt i din marknadsföringskalender i
 
    >[!TIP]
    >
-   >Obs! Du kan också skapa **Smarta kampanjer**, **E-postprogram** och **Grundläggande transaktioner** på samma sätt.
+   >Observera att du även kan skapa **smarta kampanjer**, **e-postprogram** och **grundläggande poster** på det här sättet.
 
 1. Stäng programfokusläget när du är klar med redigeringen.
 

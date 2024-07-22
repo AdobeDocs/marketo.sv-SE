@@ -21,15 +21,15 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
 ## Komma runt {#getting-around-it}
 
-1. Logga in på [!DNL Salesforce] med hjälp av markeringen för att synkronisera användare.
+1. Logga in på [!DNL Salesforce] med markeringen för att synkronisera användaren.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Under användarnamnet går du till **[!UICONTROL Setup]**.
+1. Gå till **[!UICONTROL Setup]** under användarnamnet.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Under **[!UICONTROL Personal Information]**, klicka **[!UICONTROL My Personal Information]**.
+1. Klicka på **[!UICONTROL My Personal Information]** under **[!UICONTROL Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -45,11 +45,11 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Tillbaka i Marketo, under **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, klicka **[!UICONTROL Refresh Schema]**.
+1. I Marketo, under **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, klickar du på **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Objektivlistan kommer då att visas på engelska. Välj det objekt du vill använda och klicka **[!UICONTROL Enable Sync]**.
+1. Objektivlistan kommer då att visas på engelska. Välj det objekt du vill använda och klicka sedan på **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

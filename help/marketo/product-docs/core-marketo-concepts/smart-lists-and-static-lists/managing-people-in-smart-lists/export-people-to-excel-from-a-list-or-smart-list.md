@@ -19,7 +19,7 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
 
    ![](assets/ma.png)
 
-1. Markera den lista eller smarta lista som du vill exportera och gå till **[!UICONTROL People]** -fliken.
+1. Markera den lista eller smarta lista som du vill exportera och gå till fliken **[!UICONTROL People]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,22 +27,22 @@ Om du behöver listresultat eller smarta listresultat utanför Marketo kan du en
 
    ![](assets/exportpeople.png)
 
-1. Välj **[!UICONTROL Visible Columns]** och klicka **[!UICONTROL Export]**.
+1. Markera **[!UICONTROL Visible Columns]** och klicka på **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Om du väljer **[!UICONTROL All Columns]**, blir exporten större och tar längre tid att generera/hämta.
+   >Om du väljer **[!UICONTROL All Columns]** blir exporten större och tar längre tid att generera/hämta.
 
    >[!TIP]
    >
-   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i **[!UICONTROL Format]** nedrullningsbar meny.
+   >Om personposterna innehåller främmande tecken som inte återges korrekt vid exporten kan du prova att ändra filtypen i listrutan **[!UICONTROL Format]**.
 
-1. Exporten körs. När du är klar klickar du **[!UICONTROL Download now]** för att hämta filen.
+1. Exporten körs. När du är klar kan du klicka på **[!UICONTROL Download now]** för att hämta filen.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. The **[!UICONTROL Download now]** kan nås genom att markera **[!UICONTROL Show Export Status]** i **[!UICONTROL List Actions]** och gäller i en vecka.
+   >Om det tar ett tag att exportera kan du alltid logga ut och komma tillbaka till den senare. Du kommer åt länken **[!UICONTROL Download now]** genom att välja **[!UICONTROL Show Export Status]** på menyn **[!UICONTROL List Actions]** och den gäller i en vecka.

@@ -6,7 +6,7 @@ exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Google Fonts är fantastiska och vi har byggt in dem direkt i formulärredigerar
 >
 >Den här inställningen påverkar formuläretiketten, indatatexten och eventuell RTF-text.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,23 +27,23 @@ Google Fonts är fantastiska och vi har byggt in dem direkt i formulärredigerar
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Formulärinställningar**, markera **Inställningar**.
+1. Välj **Inställningar** under **Formulärinställningar**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Välj **Teckensnittsfamilj** du vill ha.
+1. Välj den **teckensnittsfamilj** du vill ha.
 
    >[!TIP]
    >
-   >Ett gäng [Google Fonts](https://www.google.com/fonts) finns att använda.
+   >En hög med [Google-teckensnitt](https://www.google.com/fonts) är tillgängliga för användning.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    >[!NOTE]
    >

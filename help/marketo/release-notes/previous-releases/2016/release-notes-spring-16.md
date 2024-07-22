@@ -31,7 +31,7 @@ Skapa vackra e-postmeddelanden med våra nya startmallar! Du kan också snabbt h
 
 >[!NOTE]
 >
->E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Om du vill se om du gör det, följ stegen i [den här artikeln](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>E-postredigeraren 2.0 (med mallväljaren) kommer gradvis att lanseras från och med den 3 juni. Vi kommer att vara klara den 30 juni. Till skillnad från e-postinsikter meddelas du inte när du har åtkomst. Följ stegen i [den här artikeln](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md) om du vill se om du gör det.
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -41,13 +41,13 @@ Det stämmer, en helt ny e-postredigerare! Använd lättanvända dra-och-släpp-
 
 ![](assets/17a-29-modules-next.png)
 
-## [Meddelanden i appar för mobiler](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
+## [Mobilmeddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
 
 Skapa fantastiska meddelanden i appen direkt inifrån Marketo. Definiera exakt vem som ska se det och när med meddelandeprogrammet i appen. Övervaka enkelt programmets prestanda med kontrollpanelen.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Inga utkastfragment](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Inga utkast](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 Nu är det dags att omgodkänna allt varje gång ett textutdrag uppdateras! Med No-Draft får alla e-postmeddelanden och landningssidor som använder ett utdrag kodfragmentsuppdateringar och deras tidigare status bibehålls. Varje gång du godkänner ett fragment kan du välja att köra No-Draft och uppdatera allt eller skapa utkast. Det är upp till dig! No-Draft blir tillgängligt för alla kunder och styrs av ett nytt tillstånd i Admin.
 
@@ -61,23 +61,23 @@ Marketo REST API:er har nu stöd för kontroll över Marketo landningssidor, lan
 
 På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu konfigurera en tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån din organisations nätverk. Information om hur du konfigurerar detta finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Ny snabb Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Ny snabb Microsoft Dynamics Sync-anslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Den nya höghastighetsanslutningen Dynamics ger hastigheter på upp till 20 gånger snabbare för inledande synkronisering och upp till 5 gånger snabbare för inkrementell synkronisering. Alla nya kunder kommer att ansluta sig till den här kontakten på releasedatum, och vi kommer gradvis att lansera den för befintliga kunder under sommarreleasetidningen.
 
 **Uppdatera data för nya fält**: Nu kan du aktivera nya synkroniseringsfält när som helst och alla datavärden för det fältet uppdateras från Dynamics CRM till Marketo. Du behöver inte längre oroa dig för att du måste markera alla fält under den första konfigurationen. Om du inaktiverar ett befintligt synkroniseringsfält och sedan aktiverar det igen uppdateras alla datavärden för det fältet från Dynamics CRM till Marketo.
 
-**Synkronisera lead som kontakt**: Funktionen Synkronisera lead till Microsoft har ett nytt alternativ för att synkronisera som lead eller kontakt.
+**Synkronisera lead som kontakt**: Flödesåtgärden Synkronisera lead till Microsoft har ett nytt alternativ för synkronisering som lead eller kontakt.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Fliken Synkroniseringsfel**: Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras med information som åtgärd, riktning, felkod och felmeddelande.
+**Admin-fliken Synkroniseringsfel**: Sök efter, söka efter eller exportera leads (och andra objekt) som inte kunde synkroniseras med information som åtgärd, riktning, felkod och felmeddelande.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: Connector är helt certifierad för Dynamics 2016 Online- och On-Local-versioner.
 
-**Plugin-uppdateringarna finns nu dokumenterade:** Se [plugin-programmet uppdaterar docs-artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+**Plugin-uppdateringarna finns nu dokumenterade:** Se dokumentartikeln [om uppdatering av plugin-program](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [Eget instansnamn](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 

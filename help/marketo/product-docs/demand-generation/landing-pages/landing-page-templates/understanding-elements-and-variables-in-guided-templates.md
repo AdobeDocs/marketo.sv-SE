@@ -6,14 +6,14 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
 # Förstå element och variabler i guidade mallar {#understanding-elements-and-variables-in-guided-templates}
 
-Det finns två typer av redigerbara sektioner i mallar för guidade landningssidor: element och variabler.
+Mallar för guidade landningssidor har två typer av redigerbara sektioner: element och variabler.
 
 ## Element {#elements}
 
@@ -23,17 +23,17 @@ Elementen är de olika innehållsdelar som utgör en landningssida. Det kan vara
 
 När du redigerar en guidad landningssida visas elementen om de har markerats som redigerbara i mallen. Elements kommer att ha följande ikoner:
 
-* ![—](assets/image2015-5-20-12-3a30-3a48.png) Bild
-* ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo Form
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) bild
+* ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo-formulär
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share Button
-* ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo Poll
-* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo Referral
-* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Lotteriet
+* ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo-delningsknapp
+* ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo-avsökning
+* ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo-referens
+* ![—](assets/image2015-5-20-12-3a44-3a40.png)Lotteriet Marketo
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-kodfragment
 
-## Variabler {#variables}
+## Variabel {#variables}
 
 Variabler är tokenliknande attribut som kan anpassas från den guidade redigeraren på landningssidan, som visas nedan.
 
@@ -49,11 +49,11 @@ Det finns tre typer av variabler: strängvariabler, färgvariabler och booleska 
   </tr> 
   <tr> 
    <td>Färg</td> 
-   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
+   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
   </tr> 
   <tr> 
    <td>Boolean</td> 
-   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (sant/falskt)</p></td> 
+   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (Sant/falskt)</p></td> 
   </tr> 
  </tbody> 
 </table>

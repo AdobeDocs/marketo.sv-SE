@@ -41,11 +41,11 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
    >
    >Du kan även klicka på dubbelpilen för att expandera till helskärmsläge.
 
-1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och markera **Läs in Marketo-mall**.
+1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **Läs in Marketo-mall**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Välj en **Tillgänglig mall** och klicka **OK**.
+1. Välj en **tillgänglig mall** och klicka på **OK**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,7 +55,7 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
 
    >[!NOTE]
    >
-   >Meddelanden spåras bara när **Skicka** knappen är lila.
+   >Meddelanden spåras bara när knappen **Skicka** är lila.
 
 1. E-postmeddelandet visas snart i din Marketo Sales Insight och alla öppningar och klick spåras.
 
@@ -65,7 +65,7 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
 
 Du kan logga svar och gammal aktivitet i en leads aktivitetshistorik.
 
-1. I förhandsgranskningsfönstret i Google Mail klickar du på **Logga med Marketo**.
+1. Klicka på **Logga med Marketo** i förhandsgranskningsfönstret i Google Mail.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 

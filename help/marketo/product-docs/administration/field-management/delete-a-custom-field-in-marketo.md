@@ -17,9 +17,9 @@ ht-degree: 1%
 >
 >**Administratörsbehörigheter krävs**
 
-Du kanske vill ta bort ett fält som du har skapat tidigare om du inte längre använder det. Tyvärr kan du inte ta bort fält i Marketo, men du _kan_ dölj dem från användargränssnittet.
+Du kanske vill ta bort ett fält som du har skapat tidigare om du inte längre använder det. Tyvärr kan du inte ta bort fält i Marketo, men du _kan_ dölja dem från användargränssnittet.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
@@ -27,8 +27,8 @@ Du kanske vill ta bort ett fält som du har skapat tidigare om du inte längre a
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Klicka på **[!UICONTROL Field Actions]** nedrullningsbar meny och välj **[!UICONTROL Hide Field]**.
+1. Klicka på listrutan **[!UICONTROL Field Actions]** och välj **[!UICONTROL Hide Field]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   Detaljerade stegvisa instruktioner finns i [dölja och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   Detaljerade stegvisa instruktioner finns i [Dölj och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).

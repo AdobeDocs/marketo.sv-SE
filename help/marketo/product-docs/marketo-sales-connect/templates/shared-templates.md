@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Dela en mall {#how-to-share-a-template}
 
-Om du använder ett av våra teamkonton är alla dina mallar fortfarande privata som standard. Klicka på den gröna **Dela** överst i mallen för att dela den med resten av teamet.
+Om du använder ett av våra teamkonton är alla dina mallar fortfarande privata som standard. Klicka på den gröna **Dela**-knappen högst upp i mallen om du vill dela den med resten av teamet.
 
 ## Söka efter delade mallar  {#how-to-find-shared-templates}
 
-Mallar som har delats med dig visas under **Teammallar** sidhuvudet till vänster på sidan Mallar.
+Mallar som har delats med dig visas under rubriken **Teammallar** till vänster på sidan Mallar.
 
 >[!NOTE]
 >

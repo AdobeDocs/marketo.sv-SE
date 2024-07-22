@@ -5,7 +5,7 @@ exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ Läs mer om integrationen mellan Dynamic Chat och Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Ditt SFDC-paket för Sales Insight måste vara av version [2.4.0 eller senare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Ditt SFDC-paket för Sales Insight måste vara version [2.4.0 eller senare](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Du måste ha [Integrering med Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} konfigurera
+>* [Dynamic Chat-integrering](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} måste vara konfigurerad
 >
->* Se till att du använder din Sales Insight [Driftsinställningar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Kontrollera att fältet API-hemlig nyckel är ifyllt i [driftsinställningarna](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} i din Sales Insight. Lär dig hur du hämtar det [här](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"} om du inte gör det.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 Följ stegen nedan för att aktivera integreringen av Dynamic Chat.
 
-1. Logga in på ditt Salesforce-konto, klicka på + i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
+1. Logga in på ditt Salesforce-konto, klicka på + i slutet av flikfältet och klicka på **Marketo Sales Insight Config**.
 
 1. Klicka för att ta bort&quot;Visualforce-panelen&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Välj **Aktivera Dynamic Chat-data** kryssrutan.
+1. Markera kryssrutan **Aktivera Dynamic Chat-data**.
 
    ![](assets/dynamic-chat-integration-2.png)
 

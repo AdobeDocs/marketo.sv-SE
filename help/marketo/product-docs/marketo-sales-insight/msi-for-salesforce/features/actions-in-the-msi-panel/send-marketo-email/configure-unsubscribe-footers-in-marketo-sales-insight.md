@@ -6,7 +6,7 @@ exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera instäl
 >
 >**Definition**
 >
->**E-post** är de som skickas från Sales Insight (utan dem som skickas från Marketo Outlook-plugin).
+>**Försäljningsmeddelanden** är de som skickas från Sales Insight (de som inte skickas från Marketo Outlook-plugin).
 
-1. Gå till **Administratör** område.
+1. Gå till området **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klicka **Försäljningsinsikter** sedan **Redigera inställningar**.
+1. Klicka på **Försäljningsinsikter** och sedan på **Redigera inställningar**.
 
    ![](assets/two-1.png)
 
@@ -37,23 +37,23 @@ Säljmejl placerar automatiskt sidfoten längst ned. Du kan dock justera instäl
 
    ![](assets/three-1.png)
 
-   * **Ingen mall** - Manuellt sammansatt av säljare.
+   * **Ingen mall** - Manuellt sammansatt av säljanvändare.
    * **Standard-e-post** - E-postmeddelanden baserade på en mall.
-   * **Driftmeddelande** - E-postmeddelanden som ignorerar Avbeställ, Marknadsföring pausad och Kommunikationsbegränsningar (de skickar oavsett vad).
+   * **Driftlig e-post** - E-postmeddelanden som ignorerar Avsluta prenumeration, Markering pausad och Kommunikationsbegränsningar (de skickar oavsett vad).
 
    Du kan ange olika beteenden för varje typ.
 
    >[!CAUTION]
    >
-   >**Respektera inställningar för att avbryta prenumerationen**: leads som inte längre prenumererar får INTE e-postmeddelandet även om det publicerade e-postmeddelandet är i drift
+   >**Respektera inställningarna för att avbryta prenumerationen**: leads som inte längre prenumererar får INTE e-postmeddelandet även om det publicerade e-postmeddelandet fungerar
    >
-   >**Ignorera inställningar för att avbryta prenumerationen**: leads som inte längre prenumererar får e-postmeddelandet
+   >**Ignorera inställningar för att avbryta prenumerationen**: leads kommer att få e-postmeddelandet
 
-1. Gör de ändringar du vill och klicka sedan på **Spara**.
+1. Gör önskade ändringar och klicka sedan på **Spara**.
 
    >[!TIP]
    >
-   >De två sista alternativen gör att du dynamiskt kan inkludera/exkludera sidfoten för att avbryta prenumerationen beroende på antalet mottagare (större än 1 eller större än 5).
+   >De två sista alternativen gör att du dynamiskt kan inkludera/exkludera sidfoten för avanmälan beroende på antalet mottagare (större än 1 eller större än 5).
 
    ![](assets/four-1.png)
 

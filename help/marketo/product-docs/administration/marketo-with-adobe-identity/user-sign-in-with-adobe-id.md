@@ -14,7 +14,7 @@ ht-degree: 0%
 
 När en användare med Adobe Identity behöver logga in på programmet Marketo Engage måste han/hon logga in via inloggningslänken för AdobeID jämfört med den vanliga inloggningen på inloggningssidan för Marketo Engage. När du klickar på länken dirigeras användaren till Marketo Engage-programmet.
 
-1. Klicka **[!UICONTROL Continue with AdobeID]** på inloggningssidan för Marketo Engage.
+1. Klicka på **[!UICONTROL Continue with AdobeID]** på inloggningssidan för Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 

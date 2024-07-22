@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Definiera värden i ett alternativfält eller markerat fält i ett formulär {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-När du har [ange en fälttyp](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) om du vill vara en alternativknapp eller välja typ ska du definiera de värden som användaren kan välja mellan. Så här gör du.
+När du har [angett en fälttyp](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) som en alternativknapp eller valtyp, vill du definiera de värden som användaren kan välja mellan. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -29,7 +29,7 @@ När du har [ange en fälttyp](/help/marketo/product-docs/administration/field-m
 
    >[!NOTE]
    >
-   >Det första och standardvärdet är alltid &quot;Välj..&quot; Du kan redigera det själv. Om du ändrar standardalternativknappen till en annan rad, &quot;Välj..&quot; visas inte som ett alternativ i formuläret.
+   >Det första och standardvärdet är alltid &quot;Välj..&quot; Du kan redigera det själv. Om du ändrar standardalternativknappen till en annan rad visas inte &quot;Välj..&quot; som ett alternativ i formuläret.
 
 1. Klicka för att lägga till värdet.
 
@@ -39,9 +39,9 @@ När du har [ange en fälttyp](/help/marketo/product-docs/administration/field-m
    >
    >**Definition**
    >
-   >**Visningsvärde:** Vad som visas för besökaren.
+   >**Visningsvärde:** Vad visas för besökaren.
    >
-   >**Lagrat värde:** Vad som spelas in i Marketo.
+   >**Lagrat värde:** Vad spelas in i Marketo.
 
 1. Lägg till så många värden du behöver och klicka sedan på **Spara**.
 
@@ -53,13 +53,13 @@ När du har [ange en fälttyp](/help/marketo/product-docs/administration/field-m
 
    >[!TIP]
    >
-   >Klicka **Avancerad redigerare** om du vill kopiera/klistra in en lista med värden. Det kan spara tid i realtid.
+   >Klicka på **Avancerad redigerare** om du vill kopiera/klistra in en lista med värden. Det kan spara tid i realtid.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

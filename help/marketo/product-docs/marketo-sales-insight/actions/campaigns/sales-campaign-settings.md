@@ -22,19 +22,19 @@ Aktivera hopphelger så att alla steg som skulle ha inträffat på en veckodag (
 >
 >Med Skip Weekends aktiverat schemaläggs e-postmeddelanden efter en 5-dagars vecka. Det innebär att när ett steg är schemalagt ignoreras helger som dagar.
 
-1. Klicka **Kampanjer**.
+1. Klicka på **Kampanjer**.
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Välj önskad försäljningskampanj.
+1. Välj önskad säljkampanj.
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Klicka på **Inställningar** -fliken.
+1. Klicka på fliken **Inställningar**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Välj **Hoppa över helger** kryssrutan.
+1. Markera kryssrutan **Hoppa över helger**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,19 +42,19 @@ Aktivera hopphelger så att alla steg som skulle ha inträffat på en veckodag (
 
 Om du använder e-postanslutning upptäcker vi studsar baserat på studsmeddelandet som skickas till användarens inkorg. Dessutom kan vi ta bort personer från säljkampanjer när ett studs.
 
-1. Klicka **Kampanjer**.
+1. Klicka på **Kampanjer**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Välj önskad försäljningskampanj.
+1. Välj önskad säljkampanj.
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Klicka på **Inställningar** -fliken.
+1. Klicka på fliken **Inställningar**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Välj **Ta bort vid studs** kryssrutan.
+1. Markera kryssrutan **Ta bort vid studs**.
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -62,24 +62,24 @@ Om du använder e-postanslutning upptäcker vi studsar baserat på studsmeddelan
 
 Om svarsuppföljning är aktiverat för Gmail eller Exchange kan vi automatiskt avsluta din säljkampanj om en mottagare svarar på ditt e-postmeddelande.
 
-1. Klicka **Kampanjer**.
+1. Klicka på **Kampanjer**.
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Välj önskad försäljningskampanj.
+1. Välj önskad säljkampanj.
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Klicka på **Inställningar** -fliken.
+1. Klicka på fliken **Inställningar**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Under **Om ett svar inträffar** gör du dina val.
+1. Gör dina val under **Om ett svar inträffar**.
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
->* [Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [Skapa en säljkampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >* [Om sändningsalternativ för försäljningskampanj för e-poststeg](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

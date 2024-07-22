@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Länkar i prenumerationsmeddelanden för rapporter upphör att gälla efter tre dagar. Följ de här stegen för att ändra förfallotiden för länkarna.
 
-1. Under **Administratör**, klicka på **Inloggningsinställningar**.
+1. Klicka på **Inloggningsinställningar** under **Admin**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicka på **Redigera URL-förfallodatum** -knappen.
+1. Klicka på knappen **Redigera förfallodatum för URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Välj i listrutan hur många dagar innan länken upphör att gälla. Klicka **Spara**.
+1. Välj i listrutan hur många dagar innan länken upphör att gälla. Klicka på **Spara**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

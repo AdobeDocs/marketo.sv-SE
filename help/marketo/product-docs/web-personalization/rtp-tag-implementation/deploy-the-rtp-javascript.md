@@ -21,24 +21,24 @@ Följ installationsanvisningarna nedan för att skapa och konfigurera RTP-taggen
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. I **Domän** och **Domänkonfiguration**, letar upp den relevanta domänen och klickar på **Generera tagg**.
+1. Leta reda på den relevanta domänen i **Domän** och **Domänkonfiguration** och klicka på **Generera tagg**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
-1. Kopiera och klistra in taggen för webbpersonalisering (RTP) på webbplatsen.
+1. Kopiera och klistra in taggen Web Personalization (RTP) på webbplatsen.
 
    ![](assets/web-personalization-tag.png)
 
    >[!NOTE]
    >
-   >Kopiera RTP JavaScript-taggen och klistra in den som det första skriptet i sidhuvudet - mellan `<head> </head>` -taggar.
+   >Kopiera RTP JavaScript-taggen och klistra in den som det första skriptet i sidhuvudet mellan `<head> </head>`-taggarna.
 
-   Kontrollera att taggen visas på alla sidor, inklusive landningssidor och underdomäner. Kontrollera detta genom att högerklicka på webbplatsens sida. Gå till Visa sidkälla i en webbläsare. Sök: &quot;RTP&quot;.
+   Kontrollera att taggen visas på alla sidor, inklusive landningssidor och underdomäner. Kontrollera detta genom att högerklicka på webbplatsens sida. Gå till View Page Source i en webbläsare. Sök: RTP.
 
-1. Växla tagg till **PÅ**.
+1. Taggväxlingen är inställd på **ON**.
 
    Bekräfta att växlingsknappen Tagg är inställd på ON. Du bör börja se dataflödet på fliken Organisationen.
 
-   Du är nu konfigurerad med RTP-taggen och klar att börja [skapa segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) och realtidskampanjer!
+   Du är nu konfigurerad med RTP-taggen och redo att börja [skapa segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) och realtidskampanjer!
 
 1. Kontrollera att taggen finns på alla sidor.

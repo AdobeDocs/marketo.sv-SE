@@ -50,7 +50,7 @@ Det finns massor av nya trädfunktioner.
 
 >[!NOTE]
 >
->Om du gör en sökning i trädet visas bara de första 250 resultaten. Om du inte kan hitta resursen efter en sökning använder du [Global sökning](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) funktion.
+>Om du gör en sökning i trädet visas bara de första 250 resultaten. Om du inte kan hitta resursen efter en sökning använder du funktionen [Global sökning](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
 **Marketo Classic jämfört med nya Marketo**
 

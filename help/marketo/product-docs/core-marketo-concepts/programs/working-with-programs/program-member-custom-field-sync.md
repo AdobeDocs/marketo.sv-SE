@@ -5,8 +5,8 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 1%
+source-wordcount: '348'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Skapar [Anpassade fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Skapar [anpassade programmedlemsfält](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Synkronisera en Salesforce-kampanj med ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -23,11 +23,11 @@ ht-degree: 1%
 
 ## Mappa Salesforce-fält till anpassade programmedlemsfält {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Klicka på i Marketo **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klicka **[!DNL Salesforce]** och sedan klicka **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
+1. Klicka på **[!DNL Salesforce]** och sedan på **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 1. Om du vill ha ytterligare fältkopplingar avmarkerar du sökrutan och upprepar steg 3 till 5.
 
-1. Klicka **[!UICONTROL Save]** när det är klart.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 1%
 
 Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän ändring, måste du först ta bort mappningen. Så här gör du.
 
-1. Klicka på i Marketo **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klicka **[!DNL Salesforce]** och sedan klicka **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
+1. Klicka på **[!DNL Salesforce]** och sedan på **[!UICONTROL Edit]** bredvid Synkronisering av anpassade fält för programmedlem.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
 
    >[!TIP]
    >
-   >Du kan välja **[!UICONTROL Mapped]** om du bara vill visa mappade fält.
+   >Du kan markera kryssrutan **[!UICONTROL Mapped]** om du bara vill visa mappade fält.
 
-1. Dela upp genom att klicka på **X** bredvid fältet.
+1. Ta bort mappningen genom att klicka på **X** bredvid fältet.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -158,6 +158,6 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
 
 >[!MORELIKETHIS]
 >
->* [Ändra medlemsuppgifter för program](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Ändra programmedlemsdata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Visa data i programmedlemsrutnätet](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
 >* [SFDC-synkronisering - kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

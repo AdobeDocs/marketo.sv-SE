@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Skapa en e-postskripttoken {#create-an-email-script-token}
 
-För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.apache.org/engine/1.7/user-guide.html) i era e-postmeddelanden. Så här gör du.
+För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.ap
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under **Mina token** tabb, dra i en **E-postmeddelande** token.
+1. Under fliken **Mina token** drar du i en **e-postskripttoken** .
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Namnge din e-postskripttoken och **klicka för att redigera** innehållet.
+1. Namnge din e-postskripttoken och **klicka för att redigera** dess innehåll.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Använd trädet till höger för att dra in **Person, möjlighet**, eller **Eget objekt** variabler.
+1. Använd trädet till höger för att dra i tokens för **person, möjlighet** eller **anpassat objekt**.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ För avancerade utvecklare kan du använda [Snabbhetsskript](https://velocity.ap
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Referenshandbok för hastighet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Referenshandbok för snabbhet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Snabbhetsverktyg, JavaScript](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. När skriptet är klart klickar du på **Spara**.
+1. Klicka på **Spara** när skriptet är klart.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicka **Spara** en gång till.
+1. Klicka på **Spara** en gång till.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Anpassa inställningar för omröstning {#customize-poll-settings}
 
-När du [skapa en omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)kan du begränsa antalet röster som tillåts per social profil.
+När du [skapar en omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) kan du begränsa antalet röster som tillåts per social profil.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,14 +23,14 @@ När du [skapa en omröstning](/help/marketo/product-docs/demand-generation/soci
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. I omröstningsredigeraren går du till **Appinställningar** > **Avancerade alternativ**.
+1. Gå till **Appinställningar** > **Avancerade alternativ** i avsökningsredigeraren.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Markera alternativet att införa en **Röstgräns** och ange maximalt antal röster.
+1. Markera alternativet att införa en **röstgräns** och ange det högsta antalet röster som tillåts.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Du kan klicka **Slutför** > **Godkänn och stäng** till [publicera din omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)eller så kan du fortsätta att anpassa den. Prova till exempel [konfigurera meddelanden efter delning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Du kan klicka på **Slutför** > **Godkänn och stäng** för att [publicera din omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), eller fortsätta att anpassa den. Prova till exempel att [konfigurera uppmaningar efter delning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

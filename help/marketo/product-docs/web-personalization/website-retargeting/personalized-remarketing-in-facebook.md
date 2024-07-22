@@ -6,7 +6,7 @@ exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,18 @@ Med personaliserad marknadsföring kan ni återengagera era användare med hjäl
 
 >[!PREREQUISITES]
 >
->* Slutför [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) konfiguration
->* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentation om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och Remarketing.
+>* Slutför installationen av [återmarknadsföring med Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och återmarknadsföring.
 
 ## Skapa en publik i Facebook {#creating-an-audience-in-facebook}
 
-1. I Facebook går du till [Fliken Målgrupp](https://www.facebook.com/ads/audience_manager) i Ads Manager.
+1. I Facebook går du till [målgruppsfliken](https://www.facebook.com/ads/audience_manager) i annonshanteraren.
 
-1. Klicka **verktyg** och markera **Målgrupper**.
+1. Klicka på **Verktyg** och välj **Publiker**.
 
    ![](assets/one-1.png)
 
-1. Klicka **Skapa en anpassad målgrupp**.
+1. Klicka på **Skapa en anpassad målgrupp**.
 
    ![](assets/two-1.png)
 
@@ -36,19 +36,19 @@ Med personaliserad marknadsföring kan ni återengagera era användare med hjäl
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. I listan Webbplatstrafik väljer du **Anpassad kombination**.
+1. Välj **Anpassad kombination** i listan över webbplatstrafik.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. I listan Inkludera väljer du **Händelse**.
+1. Välj **Händelse** i listan Inkludera.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. I händelselistan väljer du **RTP Remarketing** och välj en parameter.
+1. Välj **RTP-ommarknadsföring** i händelselistan och välj en parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. I det här exemplet väljer du Bransch som ska innehålla **Utbildning**. Retur **Utbildning** och redigera **I slutet av** till 180 dagar. Ange målgruppsnamn: **Utbildningsindustri**. Klicka **Skapa publik**.
+1. I det här exemplet väljer du Bransch som ska innehålla **Utbildning**. Ange **Utbildning** och redigera **Under de senaste** till 180 dagarna. Ange målgruppsnamn: **Utbildningsbranschen**. Klicka på **Skapa publik**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -88,7 +88,7 @@ Med personaliserad marknadsföring kan ni återengagera era användare med hjäl
        </tr> 
        <tr> 
         <td>Bransch</td> 
-        <td><p>Försvar</p><p>Utbildning</p><p>Finansiella tjänster</p><p>Offentlig sektor</p><p>Sjukvård, farmakologi, bioteknik</p><p>Programvara och Internet</p><p>osv.. (enligt RTP:s branschalternativ)</p></td> 
+        <td><p>Försvar</p><p>Utbildning</p><p>Finansiella tjänster</p><p>Offentlig sektor</p><p>Sjukvård, farmakologi, bioteknik</p><p>Programvara och Internet</p><p>etc.. (enligt RTP-branschalternativ)</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">Segmenterad publik</td> 
@@ -103,13 +103,13 @@ Med personaliserad marknadsföring kan ni återengagera era användare med hjäl
 
 ## Rikta in er målgrupp med en annons {#target-your-audience-with-an-ad}
 
-Mer information finns i [Facebook dokumentation](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Mer information finns i [Facebook-dokumentation](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Gå till annonshanteraren, klicka på **Skapa annons**.
+1. Gå till annonshanteraren och klicka på **Skapa annons**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Välj **Skicka personer till din webbplats** som mål för er kampanj.
+1. Välj **Skicka personer till din webbplats** som mål för din kampanj.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -129,5 +129,5 @@ Mer information finns i [Facebook dokumentation](https://developers.facebook.com
 
 >[!MORELIKETHIS]
 >
->* [Återannonsering med webbpersonaliseringsdata](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Återmarknadsföring med Personalization-data på webben](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Personaliserad marknadsföring i Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

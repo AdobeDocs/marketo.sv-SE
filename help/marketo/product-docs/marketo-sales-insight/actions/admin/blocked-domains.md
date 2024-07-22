@@ -22,7 +22,7 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 
    ![](assets/blocked-domains-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/blocked-domains-2.png)
 

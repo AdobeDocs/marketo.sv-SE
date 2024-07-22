@@ -5,7 +5,7 @@ exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
 >[!PREREQUISITES]
 >
->Innan du följer stegen nedan måste du [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
+>Innan du följer stegen nedan måste du först [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
 1. Klicka på ikonen Inställningar och välj **Inställningar**.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. Klicka på Ring inspelningskortet **Hantera inspelningsmeddelande**.
+1. Klicka på **Hantera inspelningsmeddelande** på samtalskortet.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Klicka **Importera inspelning**.
+1. Klicka på **Importera inspelning**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. När överföringen är klar väljer du punkten (tre punkter) i filhanteraren och klickar på **Markera som meddelande om samtycke**. Klicka **OK** när det är klart.
+1. När överföringen är klar väljer du dotfilen (tre punkter) i filhanteraren och klickar på **Välj som medgivandemeddelande**. Klicka på **OK** när du är klar.
 
    ![](assets/two-party-consent-settings-6.png)
 

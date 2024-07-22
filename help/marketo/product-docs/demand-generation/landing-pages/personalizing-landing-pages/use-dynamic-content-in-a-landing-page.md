@@ -16,14 +16,14 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Skapa en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Lägga till ett nytt formulär på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Skapa en startsida med kostnadsfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Lägg till ett nytt formulär på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 Genom att använda dynamiskt innehåll på landningssidor engagerar du människor med riktad information.
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -49,7 +49,7 @@ Genom att använda dynamiskt innehåll på landningssidor engagerar du människo
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element från statisk till **Dynamisk**.
+1. Dra och släpp element från statisk till **dynamisk**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 

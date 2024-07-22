@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Lägg till anpassade fält till konton, mappa dem till CRM och använd dem för CRM-kontoidentifiering i Marketo.
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicka **Fälthantering** sedan **Nytt anpassat fält**.
+1. Klicka på **Fälthantering** och sedan på **Nytt anpassat fält**.
 
    ![](assets/two-4.png)
 
-1. Klicka på **Objekt** nedrullningsbar meny och välj **Namngivet konto**.
+1. Klicka på listrutan **Objekt** och välj **Namngivet konto**.
 
    ![](assets/three-3.png)
 
-1. Klicka på **Typ** och välj en typ.
+1. Klicka på listrutan **Typ** och välj en typ.
 
    ![](assets/four-3.png)
 
-1. Ange **Namn** (API-namnet fylls i automatiskt) och klicka på **Skapa**.
+1. Ange ett **namn** (API-namnet fylls i automatiskt) och klicka på **Skapa**.
 
    ![](assets/five-3.png)
 
-1. När fältet har skapats markerar du det i trädet till höger. Klicka på **Fältåtgärder** nedrullningsbar meny och välj **Mappa till CRM-fält**.
+1. När fältet har skapats markerar du det i trädet till höger. Klicka på listrutan **Fältåtgärder** och välj **Mappa till CRM-fält**.
 
    ![](assets/six-2.png)
 

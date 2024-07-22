@@ -17,9 +17,9 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
 
 >[!PREREQUISITES]
 >
->[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Hela e-postmeddelanden** i **Testtyp** nedrullningsbar meny.
+1. Välj **Hela e-postmeddelanden** i listrutan **Testtyp** i e-posttestredigeraren.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
    >
    >Kom ihåg: Det ursprungliga e-postmeddelandet är segraren. Utmanarna tävlar mot det.
 
-1. Sök och välj **Utmanare** e-post(er) och klicka sedan på **Klona**.
+1. Leta reda på och välj e-postadressen/e-postmeddelandena **Resenärer** och klicka sedan på **Klona**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
 
    För att få statistiskt förtroende måste du se till att den procentandel du tilldelar till utmanare innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
@@ -55,4 +55,4 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera Champion-villkor](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

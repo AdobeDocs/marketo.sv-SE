@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Här nedan hittar du alla funktioner som ingår i versionen från 24 juni. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
-Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Versionsinformationen för Adobe Dynamic Chat [ finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **7 juni 2024**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den 7 juni 2024 **, med en stegvis utrullning av återstående funktioner under de följande veckorna.** Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -31,7 +31,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
-   <td><strong>Mallar för interaktiva webbinarier</strong>: Nu kan marknadsförarna skapa egna mallar för rumslayouter i interaktiva webbinarier.</td> 
+   <td><strong>Mallar för interaktiva webbinarier</strong>: Nu kan marknadsförare skapa anpassade mallar för rumslayouter i interaktiva webbinarier.</td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Mallar</a></td>
   </tr>
@@ -42,7 +42,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   </tr>
      <tr> 
-   <td><strong>Inspelade fält i Forms</strong>: Datakällan som används för att fylla i härledda fält när en person skapas via formulärifyllning utan tidigare webbaktivitet har uppdaterats för att använda samma datakälla som andra metoder för personinsamling. Inkommande fältdata är nu konsekventa över alla samlingspunkter.</td> 
+   <td><strong>Inkommande fält i Forms</strong>: Datakällan som används för att fylla i härledda fält när en person skapas via formulärfyllning utan tidigare webbaktivitet har uppdaterats för att använda samma datakälla som andra personsamlingsmetoder. Inkommande fältdata är nu konsekventa över alla samlingspunkter.</td> 
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -52,4 +52,4 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i din **Administratör** > **LaunchPoint** meny mellan 26 juli och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du gör detta [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} och [här för Matched Auditions](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Tjänsten Lead Gen Form har en typ av&quot;LinkedIn Lead Gen&quot; och tjänsten Matched Audience har typen&quot;LinkedIn Matched Audiences&quot;. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av Marketo Engage LinkedIn-integreringar. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster på **Admin** > **LaunchPoint** -menyn mellan 26 juli och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du slutför denna [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} och [här för Matchade målgrupper](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Tjänsten Lead Gen Form har en typ av&quot;LinkedIn Lead Gen&quot; och tjänsten Matched Audience har typen&quot;LinkedIn Matched Audiences&quot;. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

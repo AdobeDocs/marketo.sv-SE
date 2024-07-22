@@ -16,17 +16,17 @@ Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och det mo
 
 >[!NOTE]
 >
->När Växla växel är markerat sparas alla befintliga arbetsflöden automatiskt innan gränssnittsändringen inträffar. Om en åtgärd redan pågår (t.ex.: om en resurs håller på att godkännas) får du ett felmeddelande som anger att den är sådan och bör försöka igen när åtgärden har slutförts.
+>När Växla växel är markerat sparas alla befintliga arbetsflöden automatiskt innan gränssnittsändringen inträffar. Om en åtgärd redan pågår (t.ex. en resurs håller på att godkännas) får du ett felmeddelande som anger att den är sådan och bör försöka igen när åtgärden har slutförts.
 
 ## Aktivera växeln Växla för enskilda roller {#enable-the-toggle-switch-for-individual-roles}
 
-Aktivera växlingsknappen för enskilda roller eller för alla roller. Så här gör du.
+Aktivera växlingsväxling för enskilda roller eller för alla roller. Så här gör du.
 
-1. Klicka på Marketo Engage **Administratör**.
+1. Klicka på **Admin** i Marketo Engage.
 
    ![](assets/toggle-switch-1.png)
 
-1. Klicka **Ny upplevelse**.
+1. Klicka på **Ny upplevelse**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -38,7 +38,7 @@ Aktivera växlingsknappen för enskilda roller eller för alla roller. Så här 
 
 Du kan välja att manuellt aktivera det moderna användargränssnittet för Marketo Engage för enskilda funktioner eller alla tillgängliga funktioner (nuvarande och kommande).
 
-I ett område som för närvarande har växeln Växla (i det här exemplet är vi i e-postlistvyn) klickar du bara på växlingsknappen längst ned till höger på sidan.
+I ett område som för närvarande har växeln Växla (i det här exemplet är vi i e-postlistvyn) klickar du bara på växeln längst ned till höger på sidan.
 
 ![](assets/toggle-switch-4.png)
 
@@ -46,11 +46,11 @@ Den nya upplevelsen läses in.
 
 ![](assets/toggle-switch-5.png)
 
-Aktivera den för _alla_ klickar du på kugghjulsikonen bredvid växlingsknappen.
+Om du vill aktivera den för _alla_ funktioner klickar du på kugghjulsikonen bredvid växlingsknappen.
 
 ![](assets/toggle-switch-6.png)
 
-Välj **Aktivera för alla tillgängliga funktioner** och klicka **OK**.
+Välj **Aktivera för alla tillgängliga funktioner** och klicka på **OK**.
 
 ![](assets/toggle-switch-7.png)
 

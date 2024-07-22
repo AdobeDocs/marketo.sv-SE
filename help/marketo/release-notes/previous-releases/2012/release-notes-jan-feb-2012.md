@@ -6,18 +6,18 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Jan/feb 2012 {#release-notes-jan-feb}
+# Versionsinformation: jan/feb 2012 {#release-notes-jan-feb}
 
-Följande funktioner ingår i Jan/Feb-versionen. Se om det finns funktioner i din Marketo-utgåva. Efter releasen finns länkar till detaljerad funktionsdokumentation.
+Följande funktioner ingår i Jan/Feb-versionen. Se om det finns funktioner i Marketo Edition. Kom tillbaka efter releasen för länkar till detaljerad funktionsdokumentation.
 
 ## Avancerat dynamiskt innehåll {#advanced-dynamic-content}
 
-_Finns för Pro- och Enterprise-versioner_
+_Tillgängligt för Pro- och Enterprise-versioner_
 
 Med avancerat dynamiskt innehåll kan ni skapa engagerande e-postmeddelanden och landningssidor som är relevanta för er målgrupp utan att behöva skapa flera resurser för samma budskap. Uppgraderade förhandsgranskare gör att du kan visa varje unik version på en enda skärm.
 
@@ -25,7 +25,7 @@ Med avancerat dynamiskt innehåll kan ni skapa engagerande e-postmeddelanden och
 
 ## Segmentering  {#segmentation}
 
-_Finns för Pro- och Enterprise-versioner_
+_Tillgängligt för Pro- och Enterprise-versioner_
 
 Segmentering är en grupp segment, som är en riktad grupp av individer som ni marknadsför. Segment definieras av regler som styrs av filtervillkor som liknar smarta listor. Dina segment kan baseras på demografiska data, t.ex. befattning eller bransch, eller på beteenden som besökta webbsidor eller klickade länkar.
 
@@ -33,15 +33,15 @@ Segmentering är en grupp segment, som är en riktad grupp av individer som ni m
 
 ## Fragment {#snippets}
 
-_Finns för Pro- och Enterprise-versioner_
+_Tillgängligt för Pro- och Enterprise-versioner_
 
 Lagra multimediematerial som kan användas om och om igen för att skapa statiska eller dynamiska e-postmeddelanden och landningssidor.
 
 ![](assets/image2014-9-23-9-3a50-3a58.png)
 
-## PURL {#purls}
+## PURL:er {#purls}
 
-_Finns för Pro- och Enterprise-versioner_
+_Tillgängligt för Pro- och Enterprise-versioner_
 
 Med personaliserade URL:er kan marknadsförarna nu skapa kontaktspecifika URL:er för att driva personalisering, mätbarhet och lyfta svaren i flerberöringsmarknadsföringsprogram för både direktreklam och e-postkampanjer.
 
@@ -49,7 +49,7 @@ Med personaliserade URL:er kan marknadsförarna nu skapa kontaktspecifika URL:er
 
 ## Stöd för EU:s integritetsdirektiv {#eu-privacy-directive-support}
 
-Nya funktioner för att följa webbläsarens inställningar&quot;Spåra inte&quot; är bland annat möjligheten att inaktivera spårning för anonyma leads. på så sätt blir det enklare att följa EU:s strängare regler för integritetsskydd.
+Nya funktioner för att följa webbläsarens inställningar &quot;Spåra inte&quot; är bland annat möjligheten att inaktivera spårning för anonyma leads, vilket gör det enklare att följa EU:s strängare regler för sekretesskontroll.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
@@ -72,7 +72,7 @@ Från namn, Från e-post, Svar till (NYTT) och Ämne visas i redigeraren. Alla a
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 och 9
-* **Anteckning**: stöder inte längre Internet Explorer 7
+* **Obs!**: vi stöder inte längre Internet Explorer 7
 
 ## Programhantering {#program-management}
 

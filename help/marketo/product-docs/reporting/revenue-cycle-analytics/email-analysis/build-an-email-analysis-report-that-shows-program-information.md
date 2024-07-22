@@ -19,19 +19,19 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 >
 >Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Starta **Intäktsutforskaren**.
+1. Starta **intäktsutforskaren**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicka **Skapa nytt** och markera **Rapport**.
+1. Klicka på **Skapa ny** och välj **Rapport**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Välj **E-postanalys** område och klicka **OK**.
+1. Välj området **E-postanalys** och klicka på **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Hitta **Skickat (vecka)** gul punkt och högerklicka på den. Klicka **Filter**.
+1. Hitta den gula punkten **Skickat (vecka)** och högerklicka på den. Klicka på **Filter**.
 
    >[!NOTE]
    >
@@ -39,22 +39,22 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Kontrollera **Aktuell skickad vecka** och klicka **OK**.
+1. Markera **Aktuell skickad vecka** och klicka på **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Sök och dubbelklicka på **Programkanal** gul punkt.
+1. Sök efter och dubbelklicka på den gula punkten **Programkanal** .
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Sök och dubbelklicka på **E-postnamn** gul punkt.
+1. Sök och dubbelklicka på den gula punkten **E-postnamn** .
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Sök och dubbelklicka på **Skickat**, **Öppnad** och **Klickat** blå prickar.
+1. Leta reda på och dubbelklicka på de blå punkterna **Skickat**, **Öppnat** och **Klickat**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   Bra jobbat! Du borde ha en rapport som ser ut ungefär så här:
+   Snyggt jobb! Du borde ha en rapport som ser ut ungefär så här:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

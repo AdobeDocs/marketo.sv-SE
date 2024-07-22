@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post? {#how-does-sales-insight-actions-handle-email-de-duping}
 
-När du är [överföra en CSV-fil](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) i Sales Insight Actions sammanfogar vi alla som kontakter i CSV innan importen äger rum.
+När du [överför en CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)-fil till Sales Insight Actions sammanfogas alla liknande kontakter i CSV-filen innan importen äger rum.
 
 Vi gör detta baserat på e-postadressen. Om det finns två identiska e-postadresser sammanfogar vi dem till en kontakt.
 

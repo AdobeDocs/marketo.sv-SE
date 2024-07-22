@@ -27,7 +27,7 @@ Marketo Engage ger kontroll över den anpassade objektsynkroniseringen i Salesfo
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce Objects Sync]** visas i den vänstra kolumnen.
+1. **[!UICONTROL Salesforce Objects Sync]** visas i vänsterkolumnen.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -39,11 +39,11 @@ Marketo Engage ger kontroll över den anpassade objektsynkroniseringen i Salesfo
 
    >[!TIP]
    >
-   >Om **[!UICONTROL Edit Visible Fields]** är nedtonad, objektet används för närvarande i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om knappen **[!UICONTROL Edit Visible Fields]** är nedtonad används objektet i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Om den globala synkroniseringen är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
+1. Om din globala synkronisering är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
@@ -55,7 +55,7 @@ Marketo Engage ger kontroll över den anpassade objektsynkroniseringen i Salesfo
    >
    >Alla fält markeras som standard som begränsningar för filter.
 
-1. Klicka på **[!UICONTROL Fields]** för att bekräfta dina ändringar.
+1. Klicka på fliken **[!UICONTROL Fields]** för att bekräfta ändringarna.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

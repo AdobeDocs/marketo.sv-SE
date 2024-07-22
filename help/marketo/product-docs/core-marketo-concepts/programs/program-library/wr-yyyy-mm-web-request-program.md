@@ -2,10 +2,10 @@
 description: WR-YYYY-MM-Web Request Program - Marketo Docs - Produktdokumentation
 title: WR-YYYY-MM-Web Request Program
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Det här är ett exempelprogram som är idealiskt för kontaktförfrågningar, offertförfrågningar, demonstrationsförfrågningar eller testförfrågningar med hjälp av ett Marketo Engage-standardprogram. Kan användas med Marketo landningssidor eller som ett inbäddat formulär på landningssidor som inte kommer från Marketo. Ett varningsmeddelande skickas till en angiven person när formuläret skickas in.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -35,7 +35,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -82,7 +82,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Alla kreativa resurser 
 <br/>(undermappar för varningar och landningssidor)</td>
   </tr>
   <tr> 
@@ -145,11 +145,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna

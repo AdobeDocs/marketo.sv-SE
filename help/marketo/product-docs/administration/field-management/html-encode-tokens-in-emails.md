@@ -23,7 +23,7 @@ Aktivera/inaktivera token för personer och företag som används i e-postmeddel
 >
 >Med kodning konverteras tecken till HTML-kodversioner för att undvika förvirring när de skickas (d.v.s. &quot;&amp;&quot; ändras till `&amp;`). Mer information får du av webbutvecklaren.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
@@ -35,7 +35,7 @@ Aktivera/inaktivera token för personer och företag som används i e-postmeddel
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. Kontrollera **[!UICONTROL HTML Encode Tokens in Emails]** för att aktivera, avmarkera för att inaktivera.
+1. Markera kryssrutan **[!UICONTROL HTML Encode Tokens in Emails]** om du vill aktivera, avmarkera om du vill inaktivera.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

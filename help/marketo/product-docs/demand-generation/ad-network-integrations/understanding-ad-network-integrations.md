@@ -36,7 +36,7 @@ Funktionerna är följande:
 
    * En person kan till exempel söka efter, se och klicka på en annons och sedan fylla i ett formulär online. Efter det får han en demo offline och blir en CRM-möjlighet. Det är där annonsören riktar sig mot honom
 
-* Återmarknadsföring av besökare, använda [Webbanpassning](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}för att få dem tillbaka till er webbplats
+* Återmarknadsföring av webbplatsbesökare, med [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, för att dirigera dem tillbaka till din webbplats
 
    * Anpassa efter segment eller lodrätt
 
@@ -45,10 +45,10 @@ Funktionerna är följande:
 Du kan använda integreringar för att:
 
 * [Lägg till Google AdWords som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Lägga till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Lägg till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 * [Konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [Använd en Marketo-lista eller smart lista som ett målgruppssegment i LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | Målgruppsdata | Radmatning | Offlinekonvertering |
 |---|---|---|---|

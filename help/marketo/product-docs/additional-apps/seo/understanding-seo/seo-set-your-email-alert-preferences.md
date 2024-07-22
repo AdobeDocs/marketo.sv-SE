@@ -19,6 +19,6 @@ Du kan anpassa e-postinställningarna för att avgöra när du ska uppdateras om
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Ange vad du vill bli informerad om via e-post och klicka **[!UICONTROL Save]**.
+1. Ange vad du vill få e-postmeddelanden om och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

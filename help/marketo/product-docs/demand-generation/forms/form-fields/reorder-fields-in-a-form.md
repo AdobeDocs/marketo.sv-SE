@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att ordna om fält i ett Marketo-formulär. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,4 +31,4 @@ Det är enkelt att ordna om fält i ett Marketo-formulär. Så här gör du.
 >
 >Du kan också dra och släppa fälten bredvid varandra. Du kan göra kolumner!
 
-Bra jobbat! Du skjuter i den här.
+Snyggt jobb! Du skjuter i den här.

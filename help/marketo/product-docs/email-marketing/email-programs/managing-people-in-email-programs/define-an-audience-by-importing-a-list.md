@@ -6,7 +6,7 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Skapa en e-postadress för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra det här genom att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
+När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postmeddelandet till. Du kan göra detta genom att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) eller genom att importera en lista. Så här uppnår du detta genom att importera en lista.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 >
 >Alla datum-/tidfält som importeras behandlas som centraltid. Om du har datum-/tidsfält i en annan tidszon kan du använda en Excel-formel för att omvandla den till Central Time (USA/Chicago).
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,7 +33,7 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 
    ![](assets/importlist.png)
 
-1. Listimportfönstret öppnas, klicka på **Bläddra** och markera den fil som du vill importera. När du har valt en lista med personer klickar du på **Nästa**.
+1. Listimportfönstret öppnas, klicka på **Bläddra** och välj den fil du vill importera. När du har valt din lista med personer klickar du på **Nästa**.
 
    ![](assets/importlist1.png)
 
@@ -47,9 +47,9 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 
    >[!TIP]
    >
-   >Marketo kommer ihåg mappningarna för framtida importer!
+   >Marketo kommer att komma ihåg mappningarna för framtida importer!
 
-1. Ange **Namn** för listan och klicka på **Importera**.
+1. Ange ett **namn** för listan och klicka på **Importera**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ När du har skapat ett e-postprogram vill du berätta vem du vill skicka e-postm
 >
 >Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick.
 >
->Använd ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **Målgrupp** visa hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på villkoren i den smarta listan. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
+>Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36-1.png) på **målgruppspanelen** för att se hur många personer som är kvalificerade att ta emot e-postmeddelandet baserat på smarta listvillkor. Ta bort det blockerade numret från personnumret för att få det totala antalet personer som ska få e-postmeddelandet.
 
 >[!TIP]
 >
@@ -82,4 +82,4 @@ Fantastisk! Nu är det dags att välja ett befintligt e-postmeddelande eller att
 >[!MORELIKETHIS]
 >
 >* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Skapa en e-postadress för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

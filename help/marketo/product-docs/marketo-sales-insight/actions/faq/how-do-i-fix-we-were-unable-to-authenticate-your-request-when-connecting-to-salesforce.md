@@ -38,16 +38,16 @@ Om du fick felmeddelandet&quot;Vi kunde inte autentisera din begäran&quot; med 
 ### Aktivera API i användarbehörigheter {#enable-api-in-user-permissions}
 
 1. Låt en Salesforce-administratör logga in i Salesforce.
-1. Välj **Inställningar**.
+1. Välj **Konfigurera**.
 1. Välj **Hantera användare**.
 1. Välj **Profiler**.
-1. Hitta profilen som ToutApp-användarna är under och klicka på **Redigera**.
-1. Bläddra nedåt till **Administrativa behörigheter** och se till att **API aktiverat** är markerad.
+1. Hitta den profil som ToutApp-användarna befinner sig under och klicka på **Redigera**.
+1. Bläddra ned till **Administrativa behörigheter** och kontrollera att **API-aktivering** är markerat.
 
 ### Kontrollera om Salesforce blockerar åtgärder för försäljningsinsikter från anslutning {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
 1. Låt en Salesforce-administratör logga in i Salesforce.
-1. Välj **Inställningar**.
+1. Välj **Konfigurera**.
 1. Välj **Hantera program**.
-1. Välj **OAuth-användning för anslutna appar**.
+1. Välj **Anslutna appar för OAuth-användning**.
 1. Se till att Sales Insight Actions visar &quot;Block&quot; bredvid den. Om du ser Upphäv blockering klickar du på knappen för att häva blockeringen av Sales Insight Actions åtkomst till Salesforce.

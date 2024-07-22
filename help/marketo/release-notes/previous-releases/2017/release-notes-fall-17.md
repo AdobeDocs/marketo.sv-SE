@@ -39,7 +39,7 @@ Med den här nya funktionen kan du nu lagra och leverera e-post enligt lokala ti
 >
 >Om du inte kan aktivera tidszonen för mottagare i dina e-post- och engagemangsprogram ännu, ska du inte få panik! Vi aktiverar den här funktionen gradvis för alla kunder.
 
-## [Granska exempel på e-postmeddelanden efter segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Granska exempelmejl efter segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo har ett nytt alternativ för att välja ett segment när exempelmeddelanden skickas för granskning. Du behöver inte längre manuellt avgöra vilket segment ett lead tillhör, vilket gör det enklare att skicka e-postmeddelanden med dynamiskt innehåll till olika segment.
 
@@ -62,7 +62,7 @@ Marketo ABM synkroniserar nu och visar CRM-konton utan kontakter. Inkludera nya 
 
 ## ContentAI Analytics {#contentai-analytics}
 
-**[Nytt ABM-kontolistfilter](https://docs.marketo.com/x/1BPG)**
+**[Nytt listfilter för ABM-konto](https://docs.marketo.com/x/1BPG)**
 
 Visa och jämför innehållsprestanda i kontolistor för ABM för att optimera befintligt innehåll. ContentAI visar dig:
 
@@ -70,15 +70,15 @@ Visa och jämför innehållsprestanda i kontolistor för ABM för att optimera b
 * toppkonverterat innehåll
 * AI-baserat föreslaget innehåll för marknadsföringsaktiviteter
 
-## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
+## Förbättringar i Personalization {#web-personalization-enhancements}
 
-**[Token för webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Tokens för webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Tokens finns nu tillgängliga för användning inom webbkampanjer. Använd variabler för att leverera personaliserade meddelanden och innehåll för att öka engagemanget i era webbkampanjer.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[Design Studio Images in Web Campaign Editor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Design Studio-bilder i Web Campaign Editor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i Marketo.
 
@@ -90,6 +90,6 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
-**[Ersätt HTML-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Ersätt HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Utvecklare kan fjärruppdatera HTML innehåll i e-postresurser, vilket gör att de kan arbeta i ett enda system för att underhålla resurser.

@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Ta bort Avbeställ text från Admin > E-postavsnitt {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Den enda anledningen till att du bör ta bort det avbrutna innehållet helt från **[!UICONTROL Admin]** > **[!UICONTROL Email]** är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
+Den enda anledningen till att du någonsin helt bör ta bort innehållet som inte längre är prenumerant i området **[!UICONTROL Admin]** > **[!UICONTROL Email]** är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
@@ -23,7 +23,7 @@ Den enda anledningen till att du bör ta bort det avbrutna innehållet helt frå
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Markera all text och tryck på **[!UICONTROL Delete]** -tangenten.
+1. Markera all text och tryck på **[!UICONTROL Delete]**.
 
    >[!CAUTION]
    >
@@ -39,4 +39,4 @@ Den enda anledningen till att du bör ta bort det avbrutna innehållet helt frå
 
 >[!NOTE]
 >
->För **Avbeställ text** du måste lägga till ett enda tecken. Använd streck eller punkt.
+>För **Avbeställ text** måste du lägga till ett enda tecken. Använd streck eller punkt.

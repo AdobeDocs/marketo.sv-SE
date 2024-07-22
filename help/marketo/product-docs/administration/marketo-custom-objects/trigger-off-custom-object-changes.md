@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >Den här funktionen är endast tillgänglig:
 >
->* Används endast med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via det inbyggda [!DNL Salesforce] eller [!DNL Microsoft Dynamics] integration
+>* Kan endast användas med anpassade Marketo-objekt, inte anpassade objekt som synkroniseras via den inbyggda integreringen [!DNL Salesforce] eller [!DNL Microsoft Dynamics]
 >* Som utlösare, inte ett filter
 >
->Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att aktivera utlösare för anpassade objektändringar.
+>Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om du vill att utlösare för anpassade objektändringar ska vara aktiverade.
 
 I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassat objekt läggs till en person eller ett företag. Du kan också skapa en smart lista som använder en _change_ i ett anpassat objekt som utlösare. Du kan till exempel använda den för att skicka ett e-postmeddelande när ett kursnamn uppdateras.
 
@@ -28,7 +28,7 @@ I den smarta kampanjens lista kan du utlösa en flödesåtgärd när ett anpassa
 >
 >Ingen aktivitetsloggpost skapas när en anpassad objektpost ändras.
 
-1. I Marketo Engage, gå till **[!UICONTROL Marketing Activities]**.
+1. Gå till **[!UICONTROL Marketing Activities]** i Marketo Engage.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 

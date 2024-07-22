@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Använda sökvägsanalysen {#using-the-success-path-analyzer}
 
-Använd en Success Path Analyzer för att utforska de specifika detaljer som reflekterar både flöde (mängd) och hastighet (hastighet, i antal dagar) för personer genom de olika faserna av [Intäktscykelmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Använd en Success Path Analyzer för att utforska de specifika detaljer som återspeglar både flöde (mängd) och hastighet (hastighet, i antal dagar) för personer genom faserna i [intäktscykelmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
 >[Skapa en lyckad sökvägsanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Gå till **Analyser** och väljer **Success Path Analyzer**.
+1. Gå till **Analytics** och välj din **Success Path Analyzer**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Diagrammet till höger visar data i den markerade knappen till vänster. Som standard är detta Balans.
 
-1. Klicka **I flöde** om du vill visa hur många personer som har kommit in på scenen under den markerade tidsramen.
+1. Klicka på **I flöde** om du vill visa hur många personer som kom in på scenen under den valda tidsramen.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,17 +33,17 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som ref
    * Klicka på Konvertera % för att ange konverteringsgraden från detta till nästa steg.
    * Klicka på Avg Time för att se hur länge personer tillbringade den här scenen innan de flyttades till nästa fas.
 
-1. Klicka **Diagrammakron** > Jämför period för att jämföra data med en annan tidsram med samma längd.
+1. Klicka på **Diagramåtgärder** > Jämför period för att jämföra data med en annan tidsram med samma längd.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Välj **Från** datum för jämförelseperioden.
+1. Välj datumet **Från** för jämförelseperioden.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   The **Till** datumet ställs in automatiskt så att det matchar den ursprungliga tidsperiodens längd.
+   Datumet **Till** anges automatiskt så att det matchar längden på den ursprungliga tidsperioden.
 
-1. Klicka **Jämför**.
+1. Klicka på **Jämför**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som ref
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Om du vill ändra tidsskalan för diagrammet klickar du på något av **Diagram efter** knappar: varje dag (standard), varje vecka och varje månad
+1. Om du vill ändra tidsskalan för diagrammet klickar du på någon av knapparna **Diagram**: dag (standard), vecka och månad
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. För steg med servicenivåavtal (SLA) klickar du på **Diagrammakron** > **Visa förfallodatum för SLA** för att visa alla som någonsin missat ett SLA-mål inom den angivna tidsramen.
+1. För faser med servicenivåavtal (SLA) klickar du på **Diagramåtgärder** > **Visa SLA-förfallodatum** för att visa alla personer som någon gång har missat ett SLA-mål inom den angivna tidsramen.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som ref
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   De personer som visas med orange kan *eller kanske inte* fortfarande vara i SLA-stadiet.
+   De personer som visas med orange kan vara *eller kanske inte* fortfarande vara i SLA-scenen.
 
-1. Klicka **Diagrammakron** > **Visa förfallet SLA** om du vill visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-steget vid slutet av den angivna tidsperioden.
+1. Klicka på **Diagramåtgärder** > **Visa tidigare SLA** om du vill visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-stadiet i slutet av den angivna tidsperioden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som ref
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Om du vill skriva ut diagrammet klickar du på **Diagrammakron** > **Skriv ut diagram**.
+1. Om du vill skriva ut diagrammet klickar du på **Diagramåtgärder** > **Skriv ut diagram**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

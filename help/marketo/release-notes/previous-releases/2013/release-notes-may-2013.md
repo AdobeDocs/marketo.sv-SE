@@ -6,18 +6,18 @@ exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Maj 2013 {#release-notes-may}
+# Versionsinformation: maj 2013 {#release-notes-may}
 
 Följande funktioner finns i majversionen.
 
 ## Kalenderfiler för landningssidor {#calendar-files-for-landing-pages}
 
-Skapa en kalenderfil som en Min token som kan läggas till på din startsida. Denna integrerade kalenderfil (t.ex. .ics-fil) återger alla token, inklusive Mina token på lokala tillgångslandsidor.
+Skapa en kalenderfil som en Min token som kan läggas till på din startsida. Den här integrerade kalenderfilen (t.ex. en .ics-fil) återger alla tokens, inklusive Mina token på landningssidor för lokala resurser.
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 

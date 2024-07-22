@@ -17,7 +17,7 @@ Här är några saker du bör känna till när det gäller att lägga till och t
 
 ## Lägga till värden för plocklista {#adding-picklist-values}
 
-1. Om ett extra värde läggs till i Salesforce till en typ av plocklistefält får du ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identifiera vilka former detta kommer att påverka.
+1. Om ett extra värde läggs till i Salesforce för en typ av plocklistefält får du ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} som identifierar vilka formulär som detta påverkar.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 

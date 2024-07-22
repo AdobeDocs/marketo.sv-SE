@@ -17,11 +17,11 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
 ## Lägga till sidproblem i en lista {#add-page-issues-to-a-list}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. På **[!UICONTROL Pages]** flik, klicka **[!UICONTROL Issues]**.
+1. Klicka på **[!UICONTROL Issues]** på fliken **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
@@ -35,15 +35,15 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    >[!TIP]
    >
-   >Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv ditt namn i **[!UICONTROL Create a new list]**.
+   >Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv bara ditt namn i **[!UICONTROL Create a new list]**.
 
 ## Ta bort sidproblem från en lista {#remove-page-issue-from-a-list}
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. På fliken Sidor klickar du på **[!UICONTROL Issues]**.
+1. Klicka på **[!UICONTROL Issues]** på fliken Sidor.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 

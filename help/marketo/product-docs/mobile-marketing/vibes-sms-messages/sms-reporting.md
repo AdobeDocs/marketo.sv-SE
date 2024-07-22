@@ -2,7 +2,8 @@
 description: SMS Reporting - Marketo Docs - produktdokumentation
 title: SMS-rapportering
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ Kontrollpanelen för SMS-meddelanden ger användbar analys av dina meddelanden.
 
 ## Åtkomst till instrumentpanelen {#access-the-dashboard}
 
-1. Om du vill visa rapporten väljer du önskat SMS-meddelande. Klicka på **Visa** nedrullningsbar meny och välj **Kontrollpanel**.
+1. Om du vill visa rapporten väljer du önskat SMS-meddelande. Klicka på listrutan **Visa** och välj **Kontrollpanel**.
 
    ![](assets/sms-reporting-1.png)
 

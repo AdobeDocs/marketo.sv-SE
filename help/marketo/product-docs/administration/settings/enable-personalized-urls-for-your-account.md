@@ -19,7 +19,7 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
@@ -31,11 +31,11 @@ Personaliserade URL:er passar utmärkt för e-postkampanjer i tryck.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Kontrollera **[!UICONTROL Enable Personalized URLs]** och klicka **[!UICONTROL Save]**.
+1. Markera rutan **[!UICONTROL Enable Personalized URLs]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Bra jobbat! Nu när du har aktiverat PURL:er för ditt konto kan du [aktivera dem för enskilda landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Snyggt jobb! Nu när du har aktiverat PURL:er för ditt konto kan du [aktivera dem för enskilda landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

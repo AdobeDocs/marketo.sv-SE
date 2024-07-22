@@ -16,15 +16,15 @@ Lär dig hur du lägger till och tar bort användare och visar dina aktuella lic
 
 ## Lägg till en användare {#add-a-user}
 
-1. Gå till **Administratör** område.
+1. Gå till området **Admin**.
 
    ![](assets/user-and-license-management-1.png)
 
-1. Klicka **Interaktiva webbinarier**.
+1. Klicka på **Interaktiva webbinarier**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Klicka **Lägg till/ta bort användare**.
+1. Klicka på **Lägg till/ta bort användare**.
 
    ![](assets/user-and-license-management-3.png)
 
@@ -34,19 +34,19 @@ Lär dig hur du lägger till och tar bort användare och visar dina aktuella lic
 
 ## Ta bort en användare {#remove-a-user}
 
-1. Gå till **Administratör** område.
+1. Gå till området **Admin**.
 
    ![](assets/user-and-license-management-5.png)
 
-1. Klicka **Interaktiva webbinarier**.
+1. Klicka på **Interaktiva webbinarier**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Klicka **Lägg till/ta bort användare**.
+1. Klicka på **Lägg till/ta bort användare**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Markera de användare som du vill ta bort och tryck på Delete-tangenten på tangentbordet. Klicka **OK** när det är klart.
+1. Markera de användare som du vill ta bort och tryck på Delete-tangenten på tangentbordet. Klicka på **OK** när du är klar.
 
    ![](assets/user-and-license-management-8.png)
 
@@ -54,11 +54,11 @@ Lär dig hur du lägger till och tar bort användare och visar dina aktuella lic
 
 Interactive Webinars erbjuder specifika licenser för att skapa event som drivs av Adobe Connect. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta kontogruppen på Adobe (din kontohanterare) för att få ytterligare licenser.
 
-1. Gå till **Administratör** område.
+1. Gå till området **Admin**.
 
    ![](assets/user-and-license-management-9.png)
 
-1. Klicka **Interaktiva webbinarier**.
+1. Klicka på **Interaktiva webbinarier**.
 
    ![](assets/user-and-license-management-10.png)
 
@@ -100,7 +100,7 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
 
 **Saker att notera**
 
-* Typen&quot;Additional Storage License&quot; ger bara lagring, därför är värdet i alla fält _utom_ Lagringskapaciteten listas som &quot;-&quot;.
+* Typen&quot;Additional Storage License&quot; ger bara lagringsutrymme, därför kommer värdet i alla fält _förutom_ som lagringskapacitet att listas som &quot;-&quot;.
 
 * Typen &quot;Shared Room License&quot; har obegränsat antal händelser och &quot;Additional Storage License&quot; (Tilläggslicens för lagring) erbjuder bara lagring, så fältet Total Events för dessa licenser listas helt enkelt som &quot;-&quot;.
 
@@ -114,7 +114,7 @@ Interaktiva webbinarier kan reglera användningen genom att ge Marketo Engage be
 
 Marketo-användare som har fått tillstånd att använda interaktiva webbinarier och som är ägare till ett visst händelseprogram för interaktiva webbinarier kan utföra alla interaktiva webbinarifunktioner som är relaterade till det programmet. Detta inkluderar: skapa, komma åt, ändra, klona, flytta och ta bort programmet. Men när användaren inte längre är en interaktiv webbinäranvändare, kan ägaren av programmet komma åt och flytta programmet, men inte utföra några andra funktioner.
 
-Marketo-användare som har fått tillstånd att använda interaktiva webbinarier och som _not_ ägare av ett visst händelseprogram för interaktiva webbinarier skulle kunna utföra begränsade funktioner i dessa program. Marketo icke-admin-användare kan komma åt och klona programmet, men kan inte utföra några andra funktioner om de har behörighet för Interactive Webinars. Marketo Admin-användare _kommer_ kunna utföra alla funktioner, som att komma åt, ändra, klona, flytta och ta bort programmet (förutsatt att de har behörighet för Interactive Webinars). När behörigheten har återkallats för användare av Marketo Admin och andra användare, kan de bara komma åt händelseprogrammet för interaktiva webbinarier och kan inte utföra några andra funktioner.
+Marketo-användare som har fått tillstånd att använda interaktiva webbinarier och som _inte_ äger ett visst händelseprogram för interaktiva webbinarier kan utföra begränsade funktioner i dessa program. Marketo icke-admin-användare kan komma åt och klona programmet, men kan inte utföra några andra funktioner om de har behörighet för Interactive Webinars. Marketo Admin-användare _kan dock_ utföra alla funktioner, som att komma åt, ändra, klona, flytta och ta bort det programmet (förutsatt att de har behörighet för Interactive Webinars). När behörigheten har återkallats för användare av Marketo Admin och andra användare, kan de bara komma åt händelseprogrammet för interaktiva webbinarier och kan inte utföra några andra funktioner.
 
 Begränsningen av de funktioner som kan användas anges med en nedtonad åtgärdsknapp och ett hovringsmeddelande. Några exempel på de nedtonade åtgärdsknapparna är&quot;Design Your Webinar&quot; eller&quot;Enter Your Webinar&quot;. För icke-åtgärdbara funktioner visas ett meddelande som markerar begränsningarna. Se exemplet nedan:
 

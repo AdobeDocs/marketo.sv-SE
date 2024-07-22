@@ -25,7 +25,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    >[!TIP]
    >
-   >Använd det här fältet när du [skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
+   >I framtiden ska du använda det här fältet när du [skapar ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) för att hämta språkinställningar.
 
 ## Skapa segmentering {#create-segmentation}
 
@@ -33,7 +33,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. I **[!UICONTROL New]** nedrullningsbar meny, klicka **[!UICONTROL New Segmentation]**.
+1. Klicka på **[!UICONTROL New Segmentation]** i listrutan **[!UICONTROL New]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
@@ -45,7 +45,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
    >
    >Standardsegmentet är engelska.
 
-1. Fortsätt att lägga till segment tills alla språk är representerade. Klicka på **[!UICONTROL Create]**.
+1. Fortsätt att lägga till segment tills alla dina språk finns representerade. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -53,7 +53,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Gå till **[!UICONTROL Smart List]** -fliken. Retur **[!UICONTROL Preferred Language]** i sökfältet. Dra och släpp filtret på arbetsytan.
+1. Gå till fliken **[!UICONTROL Smart List]**. Ange **[!UICONTROL Preferred Language]** i sökfältet. Dra filtret till arbetsytan.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,7 +61,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Upprepa för alla dina olika språk. Välj sedan **[!UICONTROL Segmentation Actions]** nedrullningsbar meny och klicka **[!UICONTROL Approve]**.
+1. Upprepa för alla dina olika språk. Markera sedan listrutan **[!UICONTROL Segmentation Actions]** och klicka på **[!UICONTROL Approve]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
@@ -71,7 +71,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. I **[!UICONTROL New]** listruta, klicka **[!UICONTROL New Snippet]**.
+1. Klicka på **[!UICONTROL New Snippet]** i listrutan **[!UICONTROL New]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -83,15 +83,15 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Kopiera och klistra in denna token: `{{system.unsubscribeLink}}` till **[!UICONTROL URL]** fält. Klicka på **[!UICONTROL Insert]**.
+1. Kopiera och klistra in denna token: `{{system.unsubscribeLink}}` i fältet **[!UICONTROL URL]**. Klicka på **[!UICONTROL Insert]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Välj **[!UICONTROL Segment By]** i **[!UICONTROL Segmentation]** -avsnitt.
+1. Välj **[!UICONTROL Segment By]** i avsnittet **[!UICONTROL Segmentation]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Från **[!UICONTROL Segmentation]** nedrullningsbar meny, skriva in **[!UICONTROL Preferred]** och markera **[!UICONTROL Preferred Language]**. Klicka på **[!UICONTROL Save]**.
+1. I listrutan **[!UICONTROL Segmentation]** skriver du **[!UICONTROL Preferred]** och väljer **[!UICONTROL Preferred Language]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
@@ -99,11 +99,11 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Se till att `{{system.unsubscribeLink}}` finns fortfarande i **[!UICONTROL URL]** fält. Redigera **[!UICONTROL Display Text]** för att matcha det språk du valde. Klicka på **[!UICONTROL Apply]**.
+1. Kontrollera att `{{system.unsubscribeLink}}` fortfarande finns i fältet **[!UICONTROL URL]**. Redigera **[!UICONTROL Display Text]** så att det matchar det valda språket. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Upprepa för alla segment. Gå sedan tillbaka till **[!UICONTROL Design Studio]** klickar du på **[!UICONTROL Snippet Actions]** och klicka **[!UICONTROL Approve]**.
+1. Upprepa för alla segment. Gå sedan tillbaka till **[!UICONTROL Design Studio]**, klicka på listrutan **[!UICONTROL Snippet Actions]** och klicka på **[!UICONTROL Approve]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -115,15 +115,15 @@ Häftig. Nästan klart!
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. Söka efter och markera fragmentet i listrutan och klicka på **[!UICONTROL Save]**.
+1. Sök efter och välj fragmentet i listrutan och klicka på **[!UICONTROL Save]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Klicka på **[!UICONTROL Back]**...
+1. Om du vill testa det klickar du på **[!UICONTROL Back]**..
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...sedan **[!UICONTROL Dynamic]** -fliken.
+1. ...sedan fliken **[!UICONTROL Dynamic]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -143,7 +143,7 @@ Om du vill att dina medarbetare ska komma till en avanmälningssida på det spr�
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Skriv in _Avbeställ_ i sökfältet och välj önskad sida för att avbryta prenumerationen.
+1. Skriv in _Avsluta abonnemang_ i sökfältet och välj den önskade sidan Avsluta abonnemang.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
@@ -155,7 +155,7 @@ Om du vill att dina medarbetare ska komma till en avanmälningssida på det spr�
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Hitta **[!UICONTROL Preferred Language]** segment. Klicka på **[!UICONTROL Save]**.
+1. Hitta segmentet **[!UICONTROL Preferred Language]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
@@ -163,4 +163,4 @@ Om du vill att dina medarbetare ska komma till en avanmälningssida på det spr�
 
    >[!NOTE]
    >
-   >Läs mer om [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola grejer du kan göra.
+   >Läs mer om [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) och alla coola saker du kan göra.

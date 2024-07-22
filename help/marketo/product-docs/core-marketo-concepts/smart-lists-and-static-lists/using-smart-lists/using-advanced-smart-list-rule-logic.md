@@ -6,7 +6,7 @@ exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Du kan hitta exakt de personer du behöver genom att tillämpa logiken för smar
 
 ## Lägg till logik i en smart lista {#add-logic-to-a-smart-list}
 
-Som standard hittar din smarta lista de personer som matchar **[!UICONTROL ALL]** filter (filter 1 _och_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **[!UICONTROL ANY]** av definierade filter (filter 1 _eller_ 2 _eller_ 3) eller använda avancerade filter (filter 1) _och_ 2 _eller_ 3).
+Som standard hittar din smarta lista de personer som matchar **[!UICONTROL ALL]** filter (filter 1 _,_ 2 _och_ 3). Du kan ändra regellogiken för att hitta personer som matchar **[!UICONTROL ANY]** för de definierade filtren (filter 1 _eller_ 2 _eller_ 3) eller använda avancerade filter (filter 1 _och_ 2 _eller_ 3).
 
-I det här exemplet vill vi säga att du vill hitta folk i Kalifornien _och_ med minst 50 poäng _eller_ med statusen&quot;Försäljning kvalificerad&quot;.
+I det här exemplet vill vi säga att du vill hitta personer i Kalifornien _och_ med ett poängtal på minst 50 poäng _eller_ med statusen&quot;Försäljning kvalificerad&quot;.
 
 1. Välj **[!UICONTROL Use Advanced filters]** i listrutan.
 
@@ -36,9 +36,9 @@ I det här exemplet vill vi säga att du vill hitta folk i Kalifornien _och_ med
 
    >[!NOTE]
    >
-   >Använda **[!UICONTROL Advanced]** -filter minskar behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
+   >Genom att använda filter för **[!UICONTROL Advanced]** minskar du behovet av att skapa smarta listor med filtret Medlem i smart lista. Detta hjälper till att optimera prestanda.
 
-1. The **[!UICONTROL Advanced filters]** &quot;och&quot; visas som standardvärde mellan alla filter.
+1. Textrutan **[!UICONTROL Advanced filters]** visar&quot;och&quot; som standardvärde mellan alla filter.
 
    ![](assets/two-2.png)
 

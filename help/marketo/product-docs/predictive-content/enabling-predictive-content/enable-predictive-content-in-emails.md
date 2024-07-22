@@ -6,7 +6,7 @@ exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,18 +26,18 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 >* **Förbered ditt prediktiva innehåll**
 >
 >   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} eller
->   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
+>   * [Redigera förebyggande innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
 >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Godkänn en titel för förebyggande innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 ## Lägga till prediktivt innehåll med e-postredigeraren 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Klicka **Marknadsföringsaktiviteter**.
+1. Klicka på **marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Välj e-post och klicka **Redigera utkast**.
+1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
    ![](assets/three.png)
 
-1. Om du vill markera en eller flera kategorier klickar du på **Kategorier** i listrutan, gör dina val och klicka **Använd**.
+1. Om du vill välja en eller flera kategorier klickar du på listrutan **Kategorier**, markerar dem och klickar på **Använd**.
 
    ![](assets/four.png)
 
@@ -61,15 +61,15 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
    ![](assets/six.png)
 
-1. Om du vill visa olika bilder klickar du på **Uppdatera**.
+1. Om du vill visa olika möjliga bilder klickar du på **Uppdatera**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Bilden är inte markerad **_tills mottagaren öppnar e-postmeddelandet_**. Det du ser i förhandsgranskningen är alltså bara ett exempel och behöver inte vara den bild som mottagaren ser.
+   >Bilden markeras inte **_förrän mottagaren öppnar e-postmeddelandet_**. Det du ser i förhandsgranskningen är alltså bara ett exempel och behöver inte vara den bild som mottagaren ser.
 
-1. När du är klar med förhandsgranskningen av e-postmeddelandet klickar du på **Förhandsgranskningsåtgärder** nedrullningsbar meny och välj **Godkänn och stäng**. Om du fortfarande behöver redigera klickar du på **Redigera utkast** till höger.
+1. När du har förhandsgranskat e-postmeddelandet klickar du på listrutan **Förhandsgranskningsåtgärder** och väljer **Godkänn och stäng**. Om du fortfarande behöver redigera klickar du på **Redigera utkast** till höger.
 
    ![](assets/eight.png)
 
@@ -77,7 +77,7 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
    >
    >När du skickar ett prov markeras en slumpmässig bild.
 
-När du har godkänt ditt e-postmeddelande kommer det att vara försett med prediktivt innehåll och klart att skickas!
+När du har godkänt ditt e-postmeddelande kommer det att ha prediktivt innehåll och kan skickas!
 
 >[!CAUTION]
 >
@@ -85,9 +85,9 @@ När du har godkänt ditt e-postmeddelande kommer det att vara försett med pred
 
 ## Lägga till prediktivt innehåll när du inte använder e-postredigeraren 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Om du inte använder en [E-post 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} -mall kan du lägga till prediktivt innehåll i e-postmeddelandet genom att helt enkelt tagga en bild i mallen som ett redigerbart Marketo-bildelement.
+Om du inte använder en [E-post 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"}-mall kan du lägga till prediktivt innehåll i e-postmeddelandet genom att helt enkelt tagga en bild i mallen som ett redigerbart bildelement i Marketo.
 
-Läs mer om [Marketo-specifik syntax här](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Läs mer om den [Marketo-specifika syntaxen här](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Här är ett exempel på hur koden ska se ut (det här är bara ett exempel, kopiera inte koden nedan exakt).
 

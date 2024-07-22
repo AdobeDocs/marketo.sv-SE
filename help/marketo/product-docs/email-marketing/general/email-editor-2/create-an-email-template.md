@@ -6,7 +6,7 @@ exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ Följ de här stegen för att skapa en ny e-postmall.
 
 ## Skapa en ny e-postmall {#create-a-new-email-template}
 
-1. Klicka **Design Studio**.
+1. Klicka på **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klicka **Nytt** väljer **Ny e-postmall**.
+1. Klicka på **Ny** och välj sedan **Ny e-postmall**.
 
    ![](assets/ds-two.png)
 
-1. Ge den nya mallen ett namn och klicka **Skapa**.
+1. Ge den nya mallen ett namn och klicka på **Skapa**.
 
    ![](assets/three-1.png)
 
-1. Börja redigera den nya mallen genom att klicka på **Redigera utkast**.
+1. Klicka på **Redigera utkast** om du vill börja redigera den nya mallen.
 
    ![](assets/4.png)
 
@@ -45,23 +45,23 @@ Följ de här stegen för att skapa en ny e-postmall.
    >
    >Även om det inte finns någon hård begränsning kan det leda till prestandaproblem när en e-postmall används av över 500 e-postmeddelanden om mallen godkänns efter en uppdatering. Vi rekommenderar att du skapar en ny mall när en e-postmall har 500 e-postmeddelanden kopplade till sig.
 
-## Spara ett e-postmeddelande som en mall {#save-an-email-as-a-template}
+## Spara e-post som en mall {#save-an-email-as-a-template}
 
 Följ de här enkla stegen om du har skapat ett e-postmeddelande som du vill spara som en mall för framtida bruk.
 
-1. Klicka **Marknadsföringsaktiviteter**.
+1. Klicka på **marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Sök och välj e-postadress och klicka sedan på **Redigera utkast**.
+1. Sök efter och markera din e-postadress och klicka sedan på **Redigera utkast**.
 
    ![](assets/two-1.png)
 
-1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Spara som mall**.
+1. Klicka på listrutan **E-poståtgärder** och välj **Spara som mall**.
 
    ![](assets/four-1.png)
 
-1. Klicka på **Mapp** nedrullningsbar meny, välj var du vill att mallen ska vara aktiv och klicka sedan på **Spara**.
+1. Klicka på listrutan **Mapp**, välj var du vill att mallen ska visas och klicka sedan på **Spara**.
 
    ![](assets/five-1.png)
 

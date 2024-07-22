@@ -27,11 +27,11 @@ Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Välj **[!UICONTROL New]** sedan **[!UICONTROL New Service]**.
+1. Välj **[!UICONTROL New]** och sedan **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ange en **[!UICONTROL Display Name]** och markera **[!UICONTROL Google Customer Match]** från **[!UICONTROL Service]** nedrullningsbar meny. Klicka på **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Display Name]** och välj **[!UICONTROL Google Customer Match]** i listrutan **[!UICONTROL Service]**. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google
 
    >[!CAUTION]
    >
-   >För att Marketo ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du godkänner i följande steg ha tillgång till _alla_ av dessa konton.
+   >För att Marketo ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till _alla_ av dessa konton.
 
    ![](assets/chooseaccount.png)
 

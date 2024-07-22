@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Ge Marketo åtkomst till användare {#grant-marketo-access-to-users}
 
-Följ stegen i den här artikeln för att ge dina användare av Sales Insight Actions tillgång till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
+Följ stegen i den här artikeln för att ge dina användare av Sales Insight Actions tillgång till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
 
-Du måste bjuda in användare till [Försäljningsinsikter](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på sidan Marketo > Team Access (i Sales Insight Actions), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till [Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på Marketo > Team Access-sidan (i Sales Insight Actions), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
@@ -24,11 +24,11 @@ Du måste bjuda in användare till [Försäljningsinsikter](/help/marketo/produc
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Under Administratörsinställningar klickar du på **Marketo**.
+1. Klicka på **Marketo** under Administratörsinställningar.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Klicka på **Användaråtkomst** -fliken. Markera en eller flera användare och klicka sedan på **Anslut**.
+1. Klicka på fliken **Användaråtkomst**. Markera en eller flera användare och klicka sedan på **Anslut**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ Du måste bjuda in användare till [Försäljningsinsikter](/help/marketo/produc
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **VALFRITT STEG**: Klicka på listrutan Arbetsyta och välj önskad arbetsyta.
+   **VALFRITT STEG**: Klicka på listrutan Workspace och välj önskad arbetsyta.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Klicka **Anslut**.
+1. Klicka på **Anslut**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

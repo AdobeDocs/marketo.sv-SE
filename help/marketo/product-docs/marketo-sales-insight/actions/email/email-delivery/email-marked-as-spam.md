@@ -3,7 +3,7 @@ description: E-post markerad som skräppost - Marketo Docs - produktdokumentatio
 title: E-post markerad som skräppost
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,10 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 
 **Kontrollera dina inställningar**
 
-* Anpassad domänspårning: På så sätt kan du visa alla spårningslänkar som du vill.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
-* Leveranskanal för e-post: Teamet kan antingen använda din Gmail/Outlook-leveranskanal eller konfigurera en anpassad SMTP. [Klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
+* Anpassad domänspårning: Det gör att du kan visa alla spårningslänkar som vanligt.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
+* Leveranskanal för e-post: teamet kan antingen använda din Gmail/Outlook-leveranskanal eller konfigurera en anpassad SMTP. [Klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
 
-**Kontrollera dina e-postbeteenden**
+**Kontrollera e-postbeteenden**
 
 * Håll e-postmeddelandena korta och informella och klistra in mallarna som ett e-postmeddelande som du har skrivit tidigare.
 

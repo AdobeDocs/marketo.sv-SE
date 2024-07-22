@@ -21,7 +21,7 @@ Du kan avgodkänna en titel för prediktivt innehåll på sidan Allt innehåll e
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Ogodkänd för prediktivt innehåll**.
+1. Klicka på listrutan **Innehållsåtgärder** och välj **Avgodkänn för prediktivt innehåll**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Du kan avgodkänna en titel medan du redigerar den.
 
    ![](assets/click-icon-hand.png)
 
-1. Avmarkera **Godkänn för prediktivt innehåll** och klicka **Spara**.
+1. Avmarkera kryssrutan **Godkänn för prediktivt innehåll** och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

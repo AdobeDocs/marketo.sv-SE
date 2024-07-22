@@ -6,7 +6,7 @@ exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på **[!UICONTROL Profiles]** länk.
+1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på länken **[!UICONTROL Profiles]**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -37,17 +37,17 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Välj **[!UICONTROL Standard User]**, namnge profilen&quot;Marketo-Salesforce Sync&quot; och klicka på **[!UICONTROL Save]**.
+1. Välj **[!UICONTROL Standard User]**, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Ange profilbehörigheter {#set-profile-permissions}
 
-1. Klicka **[!UICONTROL Edit]** för att ange säkerhetsbehörigheter.
+1. Klicka på **[!UICONTROL Edit]** för att ange säkerhetsbehörigheter.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Under **[!UICONTROL Administrative Permissions]** kontrollerar du att följande rutor är markerade:
+1. Kontrollera att följande rutor är markerade under avsnittet **[!UICONTROL Administrative Permissions]**:
 
    * API aktiverat
    * Redigera HTML-mallar
@@ -58,7 +58,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    >[!TIP]
    >
-   >Kontrollera **[!UICONTROL Password Never Expires]** box.
+   >Kontrollera kryssrutan **[!UICONTROL Password Never Expires]**.
 
 1. Kontrollera att följande rutor är markerade under avsnittet Allmänna användarbehörigheter:
 
@@ -82,7 +82,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. När du är klar klickar du **[!UICONTROL Save]** längst ned på sidan.
+1. När du är klar klickar du på **[!UICONTROL Save]** längst ned på sidan.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
    >
    >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir rörigt och snabbar upp synkroniseringen.
 
-1. Gå till profildetaljsidan **[!UICONTROL Field-Level Security]** -avsnitt. Klicka **[!UICONTROL View]** om du vill redigera objektens hjälpmedel:
+1. Gå till avsnittet **[!UICONTROL Field-Level Security]** på profilinformationssidan. Klicka på **[!UICONTROL View]** om du vill redigera tillgängligheten för objekten:
 
    * Lead
    * Kontakt
@@ -107,11 +107,11 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. För varje objekt klickar du **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** för varje objekt.
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Leta reda på de fält som inte behövs, kontrollera att **[!UICONTROL Read Access]** och **[!UICONTROL Edit Access]** är inte markerade. Klicka **[!UICONTROL Save]** när det är klart.
+1. Leta reda på de fält som inte behövs, kontrollera att **[!UICONTROL Read Access]** och **[!UICONTROL Edit Access]** inte är markerade. Klicka på **[!UICONTROL Save]** när du är klar.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. När du har avaktiverat alla onödiga fält måste du kontrollera **[!UICONTROL Read Access and Edit Access]** för följande objektfält. Klicka **[!UICONTROL Save]** när det är klart.
+1. När du har inaktiverat alla onödiga fält måste du kontrollera **[!UICONTROL Read Access and Edit Access]** efter följande objektfält. Klicka på **[!UICONTROL Save]** när du är klar.
 
 <table> 
  <tbody> 
@@ -148,13 +148,13 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
 >[!TIP]
 >
->Skapa ett dedikerat Salesforce-konto (till exempel `marketo@yourcompany.com`) för att skilja mellan Marketo och andra Salesforce-användare.
+>Skapa ett dedikerat Salesforce-konto (t.ex. `marketo@yourcompany.com`) för att skilja mellan Marketo och andra Salesforce-användare.
 
-1. Skriv&quot;Hantera användare&quot; i navigeringsfältet och klicka sedan på **[!UICONTROL Users]**. Klicka på **[!UICONTROL New User]**.
+1. Skriv Hantera användare i navigeringsfältet och klicka sedan på **[!UICONTROL Users]**. Klicka på **[!UICONTROL New User]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Fyll i obligatoriska fält. Välj sedan **[!UICONTROL User License: Salesforce]** och den profil som du skapade tidigare. Klicka **[!UICONTROL Save]** när du är klar.
+1. Fyll i obligatoriska fält. Markera sedan **[!UICONTROL User License: Salesforce]** och den profil som du skapade tidigare. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

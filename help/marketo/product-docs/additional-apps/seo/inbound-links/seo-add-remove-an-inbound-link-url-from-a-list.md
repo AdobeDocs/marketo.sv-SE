@@ -17,7 +17,7 @@ Du kan ordna dina URL:er för inkommande länkar till ditt hjärtas innehåll.
 
 ## Lägg till en URL för inkommande länk i en lista {#add-an-inbound-link-url-to-a-list}
 
-1. Gå till **[!UICONTROL Inbound Links]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
@@ -31,7 +31,7 @@ Du kan ordna dina URL:er för inkommande länkar till ditt hjärtas innehåll.
 
 >[!TIP]
 >
->Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv ditt namn i [!UICONTROL Create a new list].
+>Du kan också skapa en ny lista där nyckelordet ska placeras. Skriv bara ditt namn i [!UICONTROL Create a new list].
 
 ## Ta bort en URL för inkommande länk från en lista {#remove-an-inbound-link-url-from-a-list}
 
@@ -41,7 +41,7 @@ Ibland kanske du vill ta bort en URL för inkommande länkar från en lista.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klicka på **[!UICONTROL Filter by list]** nedrullningsbar meny. Klicka på listan som du vill rensa.
+1. Klicka på listrutan **[!UICONTROL Filter by list]**. Klicka på listan som du vill rensa.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 

@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med s
 
 ## Lägg till chattagenter live {#add-live-chat-agents}
 
-Om du vill komma igång med live-chatt måste du lägga till dina live-chattagenter som [användare i Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. När detta är klart kan du lägga till en [live chattkort](#using-the-live-chat-card) till en ny eller befintlig dialogruta.
+Om du vill komma igång med live-chatt måste du lägga till dina live-chattagenter som [användare i Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} och ge dem [Live-chattbehörighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. När detta är klart kan du lägga till ett [live-chattkort](#using-the-live-chat-card) i en ny eller befintlig dialogruta.
 
-När besökare begär att få chatta med en agent via din dialogruta har agenterna flera [meddelandealternativ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} där de kan börja chatta med besökaren.
+När besökare begär att få chatta med en agent via din dialogruta har agenterna flera [meddelandealternativ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. När de klickar på meddelandet kommer de till sin [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} där de kan börja chatta med besökaren.
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ för att uppdatera bilden [dessa steg](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Uppdatera bilden genom att följa [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
-Använd chattkortet i [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} när ni vill att besökarna ska chatta med en handläggare.
+Använd chattkortet i [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} när du vill att besökarna ska chatta med en live-agent.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
   </tr>
     <tr> 
    <td><b>Anpassade regler</b></td>
-   <td>Alla anpassade regler rullas igenom när man överväger var besökaren ska dirigeras. Om besökaren inte är berättigad till någon anpassad regel får de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">live-chattmeddelande</a>.</td>
+   <td>Alla anpassade regler rullas igenom när man överväger var besökaren ska dirigeras. Om besökaren inte är berättigad till någon anpassad regel får han/hon <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">meddelandet </a> om live-chattåtergång.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
@@ -78,11 +78,11 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
 
 ### Aktivera meddelanden {#enabling-notifications}
 
-Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka **Aktivera**.
+Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka på **Aktivera**.
 
 ![](assets/live-chat-overview-4.png)
 
-Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka **Tillåt**.
+Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka på **Tillåt**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -107,9 +107,9 @@ När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp p
 
 ### Saker att notera {#things-to-note}
 
-* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut. Efter det får besökarna [grundmeddelande](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Chat Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
+* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut. Efter det får besökarna [grundmeddelandet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Chat Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
 * Det finns för närvarande en gräns på 10 chatt per agent.
 
 >[!MORELIKETHIS]
 >
->[Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[Agentinkorg](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}

@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Redigera element i ett e-postmeddelande {#edit-elements-in-an-email}
 
-E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment och video. Så här redigerar du varje bild.
+E-postmeddelanden kan innehålla fyra olika element: RTF, Bilder, Kodavsnitt och Video. Så här redigerar du varje bild.
 
-## Så här redigerar du RTF-elementet {#how-to-edit-the-rich-text-element}
+## Redigera Rich Text-elementet {#how-to-edit-the-rich-text-element}
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one-edited.png)
 
-1. E-postredigeraren öppnas. Markera RTF, klicka på kugghjulsikonen och välj **Redigera**.
+1. E-postredigeraren öppnas. Markera RTF-texten, klicka på kugghjulsikonen och välj **Redigera**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    ![](assets/three.png)
 
-1. Lägg till/redigera text och tryck **Spara**.
+1. Lägg till/redigera texten och tryck på **Spara**.
 
    ![](assets/four.png)
 
@@ -73,7 +73,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    **Den här datorn**
 
-   Om du vill överföra en bild från datorn klickar du på **Bläddra**.
+   Klicka på **Bläddra** om du vill överföra en bild från datorn.
 
    ![](assets/nine.png)
 
@@ -87,7 +87,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    >[!NOTE]
    >
-   >Om du ersätter en bild måste du kontrollera **Skriv över befintlig bild** som visas under bildens URL/namn.
+   >Om du ersätter en bild måste du markera rutan **Skriv över befintlig bild** som visas under bildens URL/namn.
 
    **Design Studio**
 
@@ -99,7 +99,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    ![](assets/thirteen.png)
 
-## Redigera fragmentelementet {#how-to-edit-the-snippet-element}
+## Så här redigerar du fragmentelementet {#how-to-edit-the-snippet-element}
 
 1. Klicka i modulen med fragmentelementet.
 
@@ -127,7 +127,7 @@ E-postmeddelanden kan innehålla fyra olika element: RTF, bilder, kodfragment oc
 
    ![](assets/twenty.png)
 
-1. Klistra in video-URL:en från Vimeo eller YouTube. Klicka sedan utanför URL-rutan för att läsa in förhandsgranskningen. Ändra dimensionerna efter dina behov, lägg till Alt-text (valfritt) och tryck sedan på **Infoga**.
+1. Klistra in videons URL från Vimeo eller YouTube. Klicka sedan utanför URL-rutan för att läsa in förhandsgranskningen. Ändra dimensionerna efter dina behov, lägg till Alt-text (valfritt) och tryck sedan på **Infoga**.
 
    ![](assets/twentyone.png)
 

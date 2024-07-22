@@ -23,8 +23,8 @@ Här är sju möjliga scenarier och resultat som du bör vara medveten om för a
 |---|---|---|
 | En kampanj i ett separat, fristående standardprogram | Inte medlem i standardprogrammet | Ja |
 | En kampanj i ett separat, fristående standardprogram | En medlem i standardprogrammet | Nej |
-| En kampanj i ett standardprogram som aktiveras från en sändning i **samma** CEE-programmet | En medlem i standardprogrammet | Nej |
-| En kampanj i ett standardprogram som aktiveras från en sändning i **samma** CEE-programmet | Inte medlem i standardprogrammet | Ja |
-| En kampanj i ett standardprogram som aktiveras från en sändning i en **olika** CEE-programmet | En medlem i standardprogrammet | Nej |
-| En kampanj i ett standardprogram som aktiveras från en sändning i en **olika** CEE-programmet | Inte medlem i standardprogrammet | Ja |
-| A **olika** CEE-program som använder en smart ström | En medlem i båda CEE-programmen | Nej |
+| En kampanj i ett standardprogram som utlöses från en sändning inom CEE-programmet **same** | En medlem i standardprogrammet | Nej |
+| En kampanj i ett standardprogram som utlöses från en sändning inom CEE-programmet **same** | Inte medlem i standardprogrammet | Ja |
+| En kampanj i ett standardprogram som aktiveras från en sändning inom ett **annat** CEE-program | En medlem i standardprogrammet | Nej |
+| En kampanj i ett standardprogram som aktiveras från en sändning inom ett **annat** CEE-program | Inte medlem i standardprogrammet | Ja |
+| Ett **annat** CEE-program som använder en smart ström | En medlem i båda CEE-programmen | Nej |

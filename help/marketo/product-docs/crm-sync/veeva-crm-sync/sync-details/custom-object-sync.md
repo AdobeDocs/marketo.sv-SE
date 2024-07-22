@@ -26,7 +26,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
 ## Aktivera anpassat objekt {#enable-custom-object}
 
-1. Klicka på i Marketo **[!UICONTROL Admin]** sedan **[!UICONTROL Veeva Objects Sync]**.
+1. I Marketo klickar du på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-1.png)
 
@@ -54,11 +54,11 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klicka **[!UICONTROL Enable Sync]** igen.
+1. Klicka på **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Gå tillbaka till **[!UICONTROL Veeva]** -fliken.
+1. Gå tillbaka till fliken **[!UICONTROL Veeva]**.
 
    ![](assets/custom-object-sync-7.png)
 
@@ -66,7 +66,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
    ![](assets/custom-object-sync-8.png)
 
-1. Om du vill visa alla anpassade veeva-objekt klickar du på **[!UICONTROL Admin]** och **[!UICONTROL Veeva Objects Sync]**.
+1. Klicka på **[!UICONTROL Admin]** och **[!UICONTROL Veeva Objects Sync]** om du vill visa alla anpassade veva-objekt.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ Underbar! Nu kan du använda data från det här anpassade objektet i Smarta kam
 
 >[!MORELIKETHIS]
 >
->* [Synkronisera samtal och ringa nyckelmeddelanden](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [Synkroniserar meddelande för samtal och samtal](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 >* [Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

@@ -19,7 +19,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Om du vill ändra färg på standardknappen klickar du på **Färg** -knappen.
+1. Om du vill ändra färg på standardknappen klickar du på knappen **Färg** .
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Om du vill använda en egen bild för en knapp klickar du på knappen Bild och klickar på **Välj bild**.
+1. Om du vill använda en egen bild för en knapp klickar du på knappen Bild och sedan på **Välj bild**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Välj bilden och klicka på **Välj**.
+1. Välj bilden och klicka på **Markera**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -71,7 +71,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
    >
    >Knappen har alltid en tryckåtgärd, så kryssrutan Knacka åtgärd markeras automatiskt med standardmeddelandet&quot;Stäng meddelande&quot;.
 
-Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och knappen Stäng](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och stänga knappen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

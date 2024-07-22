@@ -18,11 +18,11 @@ För dem som använder Google Customer Match följer du stegen nedan för att sk
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Klicka på **Liståtgärder** nedrullningsbar meny och välj **Skicka till annonsnätverk**.
+1. Klicka på listrutan **Visa åtgärder** och välj **Skicka till annonsnätverk**.
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. Välj Google och klicka **Nästa**.
+1. Välj Google och klicka på **Nästa**.
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,14 +36,14 @@ För dem som använder Google Customer Match följer du stegen nedan för att sk
 
    >[!NOTE]
    >
-   >* Markera **Synkronisera målgruppsmedlemskap** håller listan uppdaterad när den ändras i din instans. Vi lägger till/tar bort personer från målgruppen när de läggs till/tas bort från den statiska listan.
+   >* Om du väljer **Håll målgruppsmedlemskapet synkroniserat** uppdateras listan när den ändras i din instans. Vi lägger till/tar bort personer från målgruppen när de läggs till/tas bort från den statiska listan.
    >
-   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD. För dem som planerar att överföra uppgifter till användare i Europeiska ekonomiska samarbetsområdet (EES) har Google sammanställt en lista med [Vanliga frågor](https://support.google.com/google-ads/answer/14310715){target="_blank"}samt ytterligare information som visar [Policy för användargodkännande i EU](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD. För dem som planerar att överföra data för användare i Europeiska ekonomiska samarbetsområdet (EES) har Google sammanställt en lista med [vanliga frågor ](https://support.google.com/google-ads/answer/14310715){target="_blank"} samt ytterligare information som beskriver [EU:s policy för användargodkännande](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
-1. Klicka **Uppdatera**.
+1. Klicka på **Uppdatera**.
 
    ![](assets/send-a-list-to-google-6.png)
 
-1. Klicka **OK** för att avsluta.
+1. Klicka på **OK** för att avsluta.
 
    ![](assets/send-a-list-to-google-7.png)

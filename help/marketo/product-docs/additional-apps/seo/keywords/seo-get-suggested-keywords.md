@@ -17,7 +17,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
 ## Hämta nyckelordsförslag med ett nyckelord {#get-keyword-suggestions-using-a-keyword}
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
@@ -31,7 +31,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    >[!TIP]
    >
-   >Visste du att du kan  [lägg till nyckelordet i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) just här?
+   >Visste du att du kan [lägga till ditt nyckelord i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
 1. Välj föreslagna nyckelord. Klicka på **[!UICONTROL Add Selected]**.
 
@@ -45,7 +45,7 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
 ## Hämta nyckelordsförslag från en URL  {#get-keyword-suggestions-from-a-url}
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
@@ -57,13 +57,13 @@ Marketo SEO kan föreslå vilka nyckelord du ska spåra. Vi kan ge förslag base
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Ange **[!UICONTROL URL]** och klicka **[!UICONTROL Suggest Keywords]**.
+1. Ange en **[!UICONTROL URL]** och klicka på **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Visste du att du kan [lägg till nyckelordet i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) just här?
+   >Visste du att du kan [lägga till ditt nyckelord i en ny eller befintlig lista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) här?
 
 1. Välj föreslagna nyckelord. Klicka på **[!UICONTROL Add Selected]**.
 

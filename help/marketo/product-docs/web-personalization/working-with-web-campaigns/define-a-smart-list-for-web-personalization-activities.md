@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097867
-description: Definiera en smart lista för webbpersonaliseringsaktiviteter - Marketo Docs - produktdokumentation
-title: Definiera en smart lista för webbpersonaliseringsaktiviteter
+description: Definiera en smart lista för Personalization-aktiviteter på webben - Marketo Docs - produktdokumentation
+title: Definiera en smart lista för Personalization-aktiviteter på webben
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Definiera en smart lista för webbpersonaliseringsaktiviteter {#define-a-smart-list-for-web-personalization-activities}
+# Definiera en smart lista för Personalization-aktiviteter på webben {#define-a-smart-list-for-web-personalization-activities}
 
-Du kan använda webbpersonaliseringsaktiviteter i filter och utlösare när du definierar en smart lista i en smart kampanj. Här vill du fånga alla som har klickat på ett webbpersonaliseringsanrop (kampanj).
+Du kan använda Web Personalization-aktiviteter i filter och utlösare när du definierar en smart lista i en smart kampanj. Här vill du fånga vem som helst som har klickat på en Personalization-webbuppmaning (kampanj).
 
-Använd en utlösare för att skicka ett e-postmeddelande eller en varning, eller ändra ett värde eller poäng baserat på besökare som klickade och var engagerade i ett webbpersonaliseringsanrop. Du kan även filtrera och visa leads som klickats på ett webbpersonaliseringsanrop.
+Använd en utlösare för att skicka ett e-postmeddelande eller en varning, eller ändra ett värde eller poängvärde baserat på besökare som klickade och interagerade med ett Personalization-anrop för webben. Du kan även filtrera och visa leads som klickats på en Personalization-uppmaning på webben.
 
-1. Klicka på **Smart List** -fliken.
+1. Klicka på fliken **Smart lista** i den smarta kampanjen.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -57,10 +57,10 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
    >
    >Med flera utlösare går en person igenom flödet om någon av utlösarna aktiveras.
 
-   Lär dig hur man kör kampanjen på en uppsättning personer samtidigt [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Definiera en smart lista för aktiviteter med prediktivt innehåll](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

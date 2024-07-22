@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Du kan ta bort en segmentering genom att följa stegen nedan.
 
-1. Gå till **Databas**.
+1. Gå till **databasen**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Gå till segmenteringen och klicka på **Används av** för att kontrollera associationer.
+1. Gå till din segmentering och klicka på **Används av** för att kontrollera associationer.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Om din segmentering används av andra resurser tar du bort alla dessa associationer innan du fortsätter.
 
-1. Ta bort alla associationer och sedan i **Segmenteringsåtgärder** klicka **Ogodkänd**.
+1. Ta bort alla associationer och klicka sedan på **Ta bort godkännande** i **Segmenteringsåtgärder**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,8 +33,8 @@ Du kan ta bort en segmentering genom att följa stegen nedan.
    >
    >Du kan ta bort associationer genom att ta bort eller skapa alternativ för resurserna som använder segmenteringen.
 
-1. Klicka på **Segmenteringsåtgärder** och ta bort segmenteringen.
+1. Klicka på **Segmenteringsåtgärder** och ta bort segmenteringen när det inte godkänts.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
-Så där. Du kan inte få tillbaka den, så se till att du inte behöver den längre.
+Så där ja. Du kan inte få tillbaka den, så se till att du inte behöver den längre.

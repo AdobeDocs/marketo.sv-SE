@@ -29,4 +29,4 @@ Du kan skriva över den primära domänen per e-post. Detta ändrar hur länkarn
 
    >[!NOTE]
    >
-   >Alla användare har inte behörighet att ange den varumärkesskyddade domänen per e-post. Kontakta administratören om du inte ser [!UICONTROL Branded Domains] nedrullningsbar meny.
+   >Alla användare har inte behörighet att ange den varumärkesskyddade domänen per e-post. Kontakta din administratör om du inte ser listrutan [!UICONTROL Branded Domains].

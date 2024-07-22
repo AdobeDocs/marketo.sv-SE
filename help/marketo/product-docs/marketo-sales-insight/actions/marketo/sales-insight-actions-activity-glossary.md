@@ -5,14 +5,14 @@ exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '557'
 ht-degree: 1%
 
 ---
 
 # Aktivitetsordlista för Sales Insight Actions {#sales-insight-actions-activity-glossary}
 
-I Sales Insight Actions, when a seller: lägger till ett lead till en försäljningskampanj, skickar ett e-postmeddelande till dem eller gör ett utgående försäljningssamtal, loggas det under Marketo aktivitetshistorik för det leadet. När leadet dessutom interagerar med e-post, öppnar, klickar och svarar loggas det också.
+När en säljare lägger till ett lead till en försäljningskampanj, skickar ett e-postmeddelande till dem eller gör ett utgående försäljningssamtal i Sales Insight Actions loggas det under Marketo aktivitetshistorik för det leadet. När leadet dessutom interagerar med e-post, öppnar, klickar och svarar loggas det också.
 
 Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
 
@@ -53,7 +53,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Namn på försäljningskampanj</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
  <tr>
   <th rowspan="9">Open Sales Email</th>
@@ -81,10 +81,10 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Namn på försäljningskampanj</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
  <tr>
-  <th rowspan="10">Klicka på E-postadress för försäljning</th>
+  <th rowspan="10">Klicka på E-postadress</th>
   <td>Länk</td>
  </tr>
  <tr>
@@ -112,7 +112,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Namn på försäljningskampanj</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
 <tr>
   <th rowspan="3">Svar på e-postadress</th>
@@ -122,7 +122,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Källa</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
  <tr>
   <th rowspan="11">Mottaget försäljningssamtal</th>
@@ -156,7 +156,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Försäljningssamtal besvarat av</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
  <tr>
   <th rowspan="6">Lägg till i försäljningskampanj</th>
@@ -198,7 +198,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
  </tr>
  <tr>
   <th rowspan="5">E-postutfall för försäljning</th>
-  <td>Detaljer</td>
+  <td>Information</td>
  </tr>
  <tr>
   <td>E-post</td>
@@ -207,14 +207,14 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   <td>Skickat av</td>
  </tr>
  <tr>
-  <td>Marketo-säljarens ID</td>
+  <td>Marketo-säljares person-ID</td>
  </tr>
  <tr>
   <td>Mall-ID</td>
  </tr>
 </table>
 
-## Beskrivningar {#descriptions}
+## Beskrivning {#descriptions}
 
 <table> 
  <tr>
@@ -223,7 +223,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>Detaljer</strong></td> 
+   <td><strong>Information</strong></td> 
    <td>Information om studsfelmeddelande.</td> 
   </tr> 
   <tr> 
@@ -235,7 +235,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
    <td>URL som användaren klickade på.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo-säljarens ID</strong></td> 
+   <td><strong>Marketo-säljares person-ID</strong></td> 
    <td>Unikt ID för personpost i Säljinformationsåtgärder.</td> 
   </tr> 
   <tr> 
@@ -268,11 +268,11 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   </tr>
   <tr> 
    <td><strong>Försäljningskampanj-ID</strong></td> 
-   <td>Unikt ID för tillgång till säljkampanj i åtgärder för försäljningsinsikter.</td> 
+   <td>Unikt ID för tillgång till säljkampanj i försäljningsinsikter.</td> 
   </tr>
   <tr> 
    <td><strong>Namn på försäljningskampanj</strong></td> 
-   <td>Namn på försäljningskampanj.</td> 
+   <td>Namn på säljkampanj.</td> 
   </tr>
   <tr> 
    <td><strong>URL för försäljningskampanj</strong></td> 
@@ -280,7 +280,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   </tr>
   <tr> 
    <td><strong>E-postämne för försäljning</strong></td> 
-   <td>Ärenderad e-postadress följd av ett unikt ID (t.ex.: Min ämnesrad (SIA-12345678)</td> 
+   <td>Ärenderad e-postadress följd av ett unikt ID (t.ex. Min ärenderad (SIA-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Telefonnummer till försäljning har anropats</strong></td> 
@@ -300,7 +300,7 @@ Aktiviteterna nedan loggas till Marketo från Sales Insight Actions.
   </tr> 
   <tr> 
    <td><strong>Källa</strong></td> 
-   <td>Aktivitetens källa. Anger som "Tout" för aktiviteter inom Sales Insight före oktoberversionen 21. Kommer att bli "Sales App" för Sales Insight Actions-aktiviteter efter okt 21-versionen.</td>
+   <td>Source om aktiviteten. Anger som "Tout" för aktiviteter inom Sales Insight före oktoberversionen 21. Kommer att bli "Sales App" för Sales Insight Actions-aktiviteter efter okt 21-versionen.</td>
   </tr> 
   <tr> 
    <td><strong>Mall-ID</strong></td> 

@@ -27,13 +27,13 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 
 >[!TIP]
 >
->Se till att _Förhandsgranska en presentation_ innan du startar programmet.
+>_Förhandsgranska en presentation_ innan du startar den.
 
 1. Klicka på **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klicka **[!UICONTROL Launch]** en gång till. Då loggas du ut från Marketo så att presentationen kan visas på ett säkert sätt.
+1. Klicka på **[!UICONTROL Launch]** en gång till. Då loggas du ut från Marketo så att presentationen kan visas på ett säkert sätt.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 

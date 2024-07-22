@@ -17,17 +17,17 @@ Det är enkelt att lägga till ett namngivet konto i en kontolista.
 
 >[!NOTE]
 >
->Detta gäller endast kontolistor, **not** Dynamiska kontolistor.
+>Detta gäller endast kontolistor, **inte** dynamiska kontolistor.
 
 1. Markera raden för det namngivna konto som du vill lägga till i.
 
    ![](assets/four-1.png)
 
-1. Klicka på **Åtgärder för namngivet konto** nedrullningsbar meny och välj **Lägg till i kontolista**.
+1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Lägg till i kontolistan**.
 
    ![](assets/five-1.png)
 
-1. Klicka på **Kontolista** nedrullningsbar meny, välj önskad kontolista och klicka på **Lägg till**.
+1. Klicka på listrutan **Kontolista**, markera önskad kontolista och klicka på **Lägg till**.
 
    ![](assets/six-1.png)
 

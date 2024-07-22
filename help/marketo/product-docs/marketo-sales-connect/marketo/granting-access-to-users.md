@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Bevilja åtkomst för användare {#granting-access-to-users}
 
-Följ stegen i den här artikeln för att ge dina Sales Connect-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och tillgång till marknadsföringskampanjer.
+Följ stegen i den här artikeln för att ge dina Sales Connect-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
 
-Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)innan de visas på sidan Marketo > Team Access (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) innan de visas på Marketo > Team Access-sidan (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
@@ -32,7 +32,7 @@ Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-do
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicka på listrutan Arbetsyta, välj önskad arbetsyta och klicka på **Anslut**.
+1. Klicka på listrutan Workspace, markera arbetsytan/arbetsytorna och klicka på **Anslut**.
 
    ![](assets/granting-access-to-users-3.png)
 

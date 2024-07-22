@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # SEO - filtrera nyckelordsresultat {#seo-filter-keyword-results}
 
-Du har kanske en massa [nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
+Du kan ha många [nyckelord](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Här är olika sätt att filtrera dem:
 
 ## Filtrera efter lista {#filter-by-list}
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,19 +27,19 @@ Du har kanske en massa [nyckelord](/help/marketo/product-docs/additional-apps/se
 
    >[!NOTE]
    >
-   >Om du inte ser några listor [lära dig skapa en nyckelordslista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Om du inte ser några listor kan du [lära dig att skapa en nyckelordslista](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 ## Filtrera efter SERP-rangordning {#filter-by-serp-rank}
 
-1. Gå till [!UICONTROL Keywords] -avsnitt.
+1. Gå till avsnittet [!UICONTROL Keywords].
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
    De orange fyrkanterna definierar de övre (vänster) och nedre (höger) gränserna. Filtret fungerar på nyckelordets [SERP-rankning](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Dra de orange fyrkanterna åt vänster/höger för att filtrera resultaten.
+1. Dra de orangefärgade fyrkanterna åt vänster/höger för att filtrera resultaten.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
@@ -47,10 +47,10 @@ Söt! Du kommer nu endast att titta på nyckelord i den listan.
 
 Du kan också hitta de nyckelord du söker efter med hjälp av sökfältet i det övre högra hörnet.
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Ange ditt nyckelord i **[!UICONTROL Search]** fält.
+1. Ange ditt nyckelord i fältet **[!UICONTROL Search]**.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

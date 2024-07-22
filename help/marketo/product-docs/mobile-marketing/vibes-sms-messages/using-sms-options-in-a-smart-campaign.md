@@ -2,7 +2,8 @@
 description: Använda SMS-alternativ i en smart kampanj - Marketo Docs - produktdokumentation
 title: Använda SMS-alternativ i en smart kampanj
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,15 +12,15 @@ ht-degree: 0%
 
 # Använda SMS-alternativ i en smart kampanj {#using-sms-options-in-a-smart-campaign}
 
-Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}vill du använda utlösare och filter för smarta listor i en smart kampanj för att få fördelarna.
+När du har [skapat ett SMS-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} vill du använda utlösare och filter för smarta listor i en smart kampanj för att få fördelarna.
 
 >[!NOTE]
 >
->Om du vill skicka ett SMS har vi en [specifik artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} för det.
+>Om du vill skicka ett SMS-meddelande har vi en [specifik artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} för det.
 
 >[!PREREQUISITES]
 >
->SMS-utlösare/filter visas bara om [Vibes-tjänsten har aktiverats](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>SMS-utlösare/filter visas bara om tjänsten [Vibes har aktiverats](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS-utlösare {#sms-triggers}
 
@@ -32,11 +33,11 @@ Efter dig [skapa ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-
 
 Här är några exempel:
 
-The **SMS-meddelandestudsar** utlösaren initierar ett flöde, som att skicka ett e-postmeddelande, när ett SMS-meddelande studsar.
+Utlösaren **SMS Message Bounces** initierar ett flöde, som att skicka ett e-postmeddelande, när ett SMS-meddelande studsar.
 
-The **Prenumererar på Vibes List** utlösaren initierar ett flöde när en person prenumererar.
+Utlösaren **Prenumererar på Vibes List** initierar ett flöde när en person prenumererar.
 
-The **Klicka på Länk i SMS-meddelande** utlösaren initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
+Utlösaren **Click Link in SMS Message** initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
 
 ## SMS-filter {#sms-filters}
 
@@ -47,13 +48,13 @@ The **Klicka på Länk i SMS-meddelande** utlösaren initierar ett flöde när e
   </tr>
 </table>
 
-The **Prenumererar på Vibes List** filter hittar alla som *någonsin* prenumererar på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
+Filtret **Prenumererar på Vibes-listan** hittar alla som har *någonsin* prenumererat på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
 
-I motsats till **Medlem i Vibes List** filtersökningar _alla_ prenumererar för närvarande på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
+Filtret **Medlem i listan** hittar däremot _alla_ som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
 
 >[!NOTE]
 >
->Alla SMS-filter innehåller **Aktivitetsdatum** -begränsning som standard.
+>Alla SMS-filter innehåller begränsningen **Aktivitetsdatum** som standard.
 
 ## SMS-flödessteg {#sms-flow-steps}
 
@@ -81,10 +82,10 @@ Det finns tre SMS-flödessteg att välja mellan.
 
 >[!NOTE]
 >
->The **Prenumerera på Vibes List** och **Avbeställ utskick om Vibes List** flöden har olika krav. För **Prenumerera** måste du välja listan Vibes och värvningskampanjen Vibes. För **Avbeställ**, är det bara listan Vibes som krävs.
+>Flödena **Prenumerera på Vibes List** och **Avsluta prenumerationen på Vibes List** har olika krav. För **prenumerationen** måste du välja listan Vibes och värvningskampanjen Vibes. För **Unsubscribe** krävs bara listan Vibes.
 
 >[!MORELIKETHIS]
 >
->* [Skicka ett SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Definiera smart lista för smart kampanj | Utlösare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Definiera smart lista för smart kampanj | Grupp](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [Skicka ett SMS-meddelande](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

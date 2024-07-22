@@ -17,9 +17,9 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
 >[!PREREQUISITES]
 >
->Se till att du [konfigurera en CNAME i din DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) innan du lägger till dina profildomäner i Marketo.
+>Kontrollera att du har [konfigurerat en CNAME i din DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) innan du lägger till dina profileringsdomäner i Marketo.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
@@ -27,7 +27,7 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. I [!UICONTROL Branding Domains] markerar du den generiska domänen och klickar på Redigera för att ändra den till företagets varumärkesdomän.
+1. I tabellen [!UICONTROL Branding Domains] väljer du den generiska domänen och klickar på Redigera för att ändra den till företagets varumärkesdomän.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -35,8 +35,8 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
    >
    >Du kan inte lägga till ytterligare en domän förrän du först har redigerat den generiska domänen.
 
-1. Ange namnet på standarddomänen och klicka på **[!UICONTROL Save]**.
+1. Ange namnet på din standarddomän och klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-Nu kan du [lägga till ytterligare varumärkesdomäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) du behöver.
+Nu kan du [lägga till ytterligare branding-domäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) som du behöver.

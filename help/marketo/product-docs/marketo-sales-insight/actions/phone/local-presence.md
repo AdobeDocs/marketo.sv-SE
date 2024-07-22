@@ -20,11 +20,11 @@ Med Lokal närvaro kan du få det att se ut som om du ringer från mottagarens r
 
    ![](assets/local-presence-1.png)
 
-1. Välj **Använd lokal närvaro** kryssrutan.
+1. Markera kryssrutan **Använd lokal närvaro**.
 
    ![](assets/local-presence-2.png)
 
-## Vanliga frågor {#faq}
+## Vanliga frågor och svar {#faq}
 
 **Kan min kontakt ringa upp mig på det här nya numret?**
 
@@ -32,12 +32,12 @@ Nej, lokal närvaro fungerar bara för utgående samtal. Anroparen kan inte ring
 
 **Kan jag ringa var som helst med lokal närvaro?**
 
-Vi erbjuder all telefonfunktionalitet för försäljning endast för samtal i USA.
+Vi erbjuder all telefonfunktionalitet för försäljning endast i USA.
 
-**Är det lokala visningsnumret alltid detsamma när jag anropar en riktnummer?**
+**Är det lokala närvaronumret alltid detsamma när jag anropar en riktnummer?**
 
 Talet är troligtvis alltid detsamma när du anropar en riktnummer.
 
-**Ändrar mitt nummer eller bara riktnumret när jag använder lokal närvaro?**
+**Ändrar hela mitt nummer eller bara riktnumret när jag använder lokal närvaro?**
 
 Hela ditt nummer ändras.

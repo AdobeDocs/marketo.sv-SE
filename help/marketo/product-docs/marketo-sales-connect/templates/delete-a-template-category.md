@@ -15,8 +15,8 @@ ht-degree: 0%
 
 1. Klicka på menyikonen bredvid en kategori och klicka sedan på **Ta bort**.
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
 >[!NOTE]
 >
->Kategorier kan inte tas bort om de fortfarande innehåller mallar. Flytta/ta bort de här mallarna innan du tar bort en kategori
+>Kategorier kan inte tas bort om de fortfarande innehåller mallar. Flytta/ta bort dessa mallar innan du tar bort en kategori

@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Avgodkänna ett kodavsnitt](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
+>[Ta bort godkännande av ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Ta bort ett fragment som du inte längre behöver.
 
@@ -23,7 +23,7 @@ Ta bort ett fragment som du inte längre behöver.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Gå till fragmentet och sedan under **Fragmentåtgärder** klicka på **Ta bort**.
+1. Gå till fragmentet och klicka sedan på **Ta bort** under **Utdragsåtgärder**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
@@ -35,4 +35,4 @@ Ta bort ett fragment som du inte längre behöver.
    >
    >Du kan bara ta bort ett utdrag som inte är godkänt och som inte används av några resurser.
 
-Klar! Du kan inte hämta den, så se till att du inte klickar på borttagningsknappen.
+Klart! Du kan inte hämta den, så se till att du inte klickar på borttagningsknappen.

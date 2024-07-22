@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program eller i Design Studio som ska användas globalt.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/one-1.png)
 
@@ -33,19 +33,19 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny. Välj **Ny lokal resurs**.
+1. Klicka på listrutan **Nytt**. Välj **Ny lokal resurs**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Välj **Landningssida**.
+1. Välj **Startsida**.
 
    ![](assets/four.png)
 
-1. Ge landningssidan ett namn. Klicka på **Mall** nedrullningsbar meny och välj **Guidad mall**.
+1. Ge landningssidan ett namn. Klicka på listrutan **Mall** och välj **Guidad mall**.
 
    >[!NOTE]
    >
-   >De guidade mallarna för landningssidor har ![—](assets/image2015-5-26-9-3a26-3a51.png) -ikonen bredvid dem. De guidade mallarna är strukturerade så att de kan vara fullt responsiva.
+   >De guidade startsidmallarna har ikonen ![—](assets/image2015-5-26-9-3a26-3a51.png) bredvid sig. De guidade mallarna är strukturerade så att de kan vara fullt responsiva.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,20 +55,20 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    ![](assets/six.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny. Välj **Ny landningssida**.
+1. Klicka på listrutan **Nytt**. Välj **Ny landningssida**.
 
    ![](assets/seven.png)
 
-1. Ge landningssidan ett namn. Klicka på **Mall** nedrullningsbar meny och välj **Guidad mall**.
+1. Ge landningssidan ett namn. Klicka på listrutan **Mall** och välj **Guidad mall**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL:en redigerar du **Sidans URL** fält.
+>URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sidadress**.
 >
->Rensa **Öppna i redigeraren** om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat **Skapa**.
+>Avmarkera kryssrutan **Öppna i redigerare** om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat på **Skapa**.

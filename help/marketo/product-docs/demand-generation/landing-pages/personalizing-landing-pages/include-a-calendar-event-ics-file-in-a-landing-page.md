@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Inkludera en ICS-fil för kalenderhändelse på en landningssida {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-A **Kalenderfil** Med hjälp av en token kan du lägga till en kalendringshändelselänk (.ics) på dina Marketo-landningssidor.
+Med en **kalenderfils**-token kan du lägga till en kalendringshändelselänk (.ics) till dina Marketo-landningssidor.
 
 >[!PREREQUISITES]
 >
 >* [Skapa en kalenderhändelsefil (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. I landningssidans redigerare klickar du på **{...}** om du vill infoga en token.
+1. Klicka på **{...}** i landningssidans redigerare om du vill infoga en token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Välj **Kalenderfil** token och klicka **Infoga**.
+1. Välj token **Kalenderfil** och klicka på **Infoga**.
 
    >[!CAUTION]
    >
@@ -33,7 +33,7 @@ A **Kalenderfil** Med hjälp av en token kan du lägga till en kalendringshände
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    Folk kommer att se en landningssida som ser ut så här:
 
@@ -43,4 +43,4 @@ Söt! Allt borde fungera bra nu. Se till att testa.
 
 >[!MORELIKETHIS]
 >
->[Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[Ta med en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)

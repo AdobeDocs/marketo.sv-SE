@@ -17,21 +17,21 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Skapa ett segmenteringsutkast {#create-a-segmentation-draft}
 
-1. Gå till **Databas**.
+1. Gå till **databasen**.
 
    ![](assets/db.png)
 
-1. Klicka på **Segmenteringsåtgärder** och sedan **Skapa utkast**.
+1. Klicka på **Segmenteringsåtgärder** i segmenteringen och sedan på **Skapa utkast**.
 
    ![](assets/two.png)
 
-1. The **Status** ändringar av Godkänd med utkast. A **Utkast** mappen skapas i din segmentering.
+1. **Status** ändras till Godkänd med utkast. En **utkastmapp** skapas i din segmentering.
 
    ![](assets/three.png)
 
 ## Lägg till, redigera eller ta bort segment {#add-edit-or-delete-segments}
 
-1. Klicka på **Segmenteringsåtgärder** och sedan **Redigera segment**.
+1. Klicka på **Segmenteringsåtgärder** i segmenteringen och sedan på **Redigera segment**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
    >
    >Du kan bara redigera segment i ett utkast och inte i Godkänt segment.
 
-1. **Lägg till segment**, **Redigera** befintlig (byta namn på eller ändra ordningen) eller **Ta bort** alla segment.
+1. **Lägg till segment**, **Redigera** befintliga (ändra namn eller ordning) eller **Ta bort** segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
    >[!CAUTION]
    >
-   >Borttagningen påverkar allt associerat dynamiskt innehåll i e-postmeddelanden, landningssidor och fragment. **Ingen ångra**. Kontrollera **Används av** för att se vad segmentet använder.
+   >Borttagningen påverkar allt associerat dynamiskt innehåll i e-postmeddelanden, landningssidor och fragment. **Det finns ingen Ångra**. Kontrollera fliken **Används av** för att se vad som använder segmentet.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. I utkastet **Segment**, gå till **Smart List**. Använd regler som liknar [Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

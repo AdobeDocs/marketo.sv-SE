@@ -19,17 +19,17 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 >
 >Läs mer om [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Gå till sidan Personinformation. Klicka på **[!UICONTROL Activity Log]** -fliken.
+1. Gå till sidan Personinformation. Klicka på fliken **[!UICONTROL Activity Log]**.
 
    ![](assets/one.png)
 
-1. Välj **[!UICONTROL Filter]** nedrullningsbar meny.
+1. Välj listrutan **[!UICONTROL Filter]**.
 
    ![](assets/two-3.png)
 
 ## Skapa anpassade filter {#creating-custom-filters}
 
-1. Klicka på **[!UICONTROL Filter]** nedrullningsbar meny. Välj **[!UICONTROL Custom]**.
+1. Klicka på listrutan **[!UICONTROL Filter]**. Välj **[!UICONTROL Custom]**.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Ange en **[!UICONTROL custom filter name]**. Klicka på **[!UICONTROL Save]**.
+1. Ange **[!UICONTROL custom filter name]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 
@@ -47,9 +47,9 @@ Sök efter aktiviteter som är viktiga för dig i aktivitetsloggen.
 
 ## Referera sparade filter {#reference-saved-filters}
 
-Du kan komma åt sparade filter via [!UICONTROL Filter] nedrullningsbar meny.
+Det går att komma åt sparade filter från listrutan [!UICONTROL Filter].
 
-1. Klicka på **[!UICONTROL Filters]** nedrullningsbar meny. Välj **[!UICONTROL Custom]**.
+1. Klicka på listrutan **[!UICONTROL Filters]**. Välj **[!UICONTROL Custom]**.
 
    ![](assets/seven-1.png)
 

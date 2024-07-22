@@ -31,13 +31,13 @@ Här är några rapporter som du kan skapa i området för säljprojektsanalys.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Affärsmöjligheten stängd av lead-källa
+1. Affärsmöjligheten har stängts av Lead Source
 
    Den här rapporten redogör för alla möjligheter som stängts av lead-källan och ger en tydlig översikt över vilka källor som fungerar och vilka som inte gör det.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Tid att stänga efter källa
+1. Tid att stänga av Source
 
    Den här rapporten visar förhållandet mellan de genomsnittliga dagarna för stängning av en affärsmöjlighet och lead-källan.
 
@@ -84,8 +84,8 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | E-postadress | Leads e-postadress |
    | Befattning | Leads befattning |
    | Fullständigt namn | Lead&#39;s full name |
-   | Ursprunglig källtyp | Leads ursprungliga källtyp |
-   | Registerkälltyp | Leads registrerade källtyp |
+   | Ursprunglig Source-typ | Leads ursprungliga källtyp |
+   | Registrera Source Type | Leads registrerade källtyp |
    | Leadägarens e-postadress | Leadägarens e-postadress |
    | Lead Owner Job Title | Leadägarens befattning |
    | Leadägarens namn | Leadägarens namn |
@@ -111,15 +111,15 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | Affärsmöjlighetens namn | Affärsmöjlighetens namn |
    | Affärsmöjlighet | Möjlighetsfas |
    | Typ av affärsmöjlighet | Typ av affärsmöjlighet |
-   | Vunnen affärsmöjlighet | Är den här affärsmöjligheten stängd och vunnen |
-   | Marknadsföringspåverkad affärsmöjlighet | Den här flaggan anger om någon av ledtrådarna/kontakterna har förvärvats eller uppnåtts i något marknadsföringsprogram. Endast program som har en periodkostnad definierad beaktas. |
+   | Vunnen affärsmöjlighet | Är affärsmöjligheten stängd och vunnen |
+   | Marknadsföringspåverkad affärsmöjlighet | Den här flaggan anger om någon av ledtrådarna/kontakterna har förvärvats av eller uppnåtts i något marknadsföringsprogram. Endast program som har en periodkostnad definierad beaktas. |
 
 1. Tidsram för stängd affärsmöjlighet
 
    | Dimension | Beskrivning |
    |---|---|
    | Affärsmöjligheten stängd år | Det år då affärsmöjligheten stängs |
-   | Stängt säljprojekt kvartal | Kvartalet när affärsmöjligheten stängs |
+   | Stängt säljprojekt, kvartal | Kvartalet när affärsmöjligheten stängs |
    | Stängd månad för affärsmöjlighet | Den månad då affärsmöjligheten stängs |
    | Stängd vecka för affärsmöjlighet | Veckan då affärsmöjligheten stängs |
    | Stängningsdatum för affärsmöjlighet | Datumet då affärsmöjligheten stängs |
@@ -131,7 +131,7 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | Skapad affärsmöjlighet år | Det år då affärsmöjligheten skapas |
    | Möjligheter skapad i kvartal | Kvartalet när affärsmöjligheten skapas |
    | Skapad månad för affärsmöjlighet | Den månad då affärsmöjligheten skapades |
-   | Vecka för skapad affärsmöjlighet | Veckan då affärsmöjligheten skapas |
+   | Skapad vecka för affärsmöjlighet | Veckan då affärsmöjligheten skapas |
    | Skapad affärsmöjlighet | Datumet då affärsmöjligheten skapas |
 
 1. Åtgärder
@@ -147,12 +147,12 @@ Med säljprojektsanalys får du tillgång till alla lead-, företags- och affär
    | Antal affärsmöjligheter (öppna) | Totalt antal öppna affärsmöjligheter |
    | Antal affärsmöjligheter (Won) | Totalt antal möjligheter som vunnits |
    | Affärsmöjlighet - belopp | Totalt affärsmöjlighetsbelopp. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
-   | Affärsmöjlighet (förlorad) | Totalt belopp för förlorade affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
+   | Affärsmöjlighet - belopp (förlorad) | Totalt belopp för förlorade affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
    | Belopp för affärsmöjlighet (öppet) | Totalt belopp för öppna affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
    | Belopp för affärsmöjlighet (vunnet) | Totalt belopp för vunna affärsmöjligheter. Om mer än en lead är associerad med en affärsmöjlighet, baseras allokeringsbeloppet på lead-poäng. |
 
 >[!MORELIKETHIS]
 >
->* [Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Skapa en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [Prenumerera på en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

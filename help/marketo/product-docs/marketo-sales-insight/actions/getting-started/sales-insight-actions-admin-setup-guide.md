@@ -5,7 +5,7 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 >[!PREREQUISITES]
 >
->* Bekräfta med kontoteamet (din kontohanterare) på Adobe att MSI-åtgärder har aktiverats för ditt Marketo Engage-konto (om du inte har någon kontohanterare kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
+>* Kontrollera med kontoteamet (din kontohanterare) att MSI-åtgärder har aktiverats för ditt Marketo Engage-konto (om du inte har någon kontohanterare kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Din Marketo/Salesforce-synkronisering måste vara konfigurerad.
 
 <table>
@@ -31,7 +31,7 @@ ht-degree: 0%
   <td>Ställ in Marketo-försäljningskonto</td>
  </tr>
  <tr>
-  <td>Marketo Admin eller <br/>Salesforce-administratör</td>
+  <td>Marketo Admin eller <br/>Salesforce Admin</td>
   <td>Anslut Marketo-försäljningskonto till Salesforce</td>
  </tr>
  <tr>
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ## Ställ in Marketo försäljningskonto {#set-up-marketo-sales-account}
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/msi-actions-admin-guide-1.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
    >
    >Om du inte ser ett klient-ID och klienthemlighet på integreringsinformationskortet aktiverar du åtgärdsinstansen genom att bjuda in den första användaren, så visas klient-ID och klienthemlighet.
 
-1. Klicka **Försäljningsinsikter** sedan **Åtgärdskonfiguration**. Välj i en lista över Marketo-administratörer som du vill bjuda in och klicka på **Skicka inbjudan**.
+1. Klicka på **Sales Insight** och sedan på **Actions Config**. Välj i en lista över Marketo-administratörer som ska bjudas in och klicka på **Skicka inbjudan**.
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -78,19 +78,19 @@ Användaren får ett e-postmeddelande med steg för att få åtkomst till kontot
 
 ## Anslut Marketo-försäljningskonto till Salesforce {#connect-marketo-sales-account-to-salesforce}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Anslut**.
+1. Klicka på **Anslut** på fliken Anslutningar och anpassningar.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
@@ -98,15 +98,15 @@ Om du redan är inloggad i Salesforce är du ansluten. Annars blir du ombedd att
 
 ## Anslut Marketo till ditt konto för säljappar {#connect-marketo-to-your-sales-apps-account}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. Under Administratörsinställningar klickar du på **Marketo**.
+1. Klicka på **Marketo** under Administratörsinställningar.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. Klicka **koppla**. Ditt konto ansluts då.
+1. Klicka på **anslut**. Ditt konto ansluts då.
 
    ![](assets/msi-actions-admin-guide-9.png)
 
@@ -120,21 +120,21 @@ Synkroniseringen av datafält för Sales Insight Actions gör att systemet kan h
 
 >[!CAUTION]
 >
->När du har initierat datasynkronisering bör du **not** ta bort den ursprungliga användaren från din instans av Sales Insight Actions. Det här är användaren som den första inbjudan skickades till.
+>När du har initierat datasynkronisering bör du **inte** ta bort den ursprungliga användaren från instansen Sales Insight Actions. Det här är användaren som den första inbjudan skickades till.
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicka **Försäljningsinsikter**.
+1. Klicka på **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klicka på **Åtgärdskonfiguration** -fliken. Klicka på Synkroniseringskortet för åtgärdsfält **Synkronisera**.
+1. Klicka på fliken **Åtgärdskonfiguration**. Klicka på **Synkronisera** på aktivitetsfältets synkroniseringskort.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. En förhandsgranskning av fälten som ska synkroniseras visas. Klicka **Starta synkronisering**.
+1. En förhandsgranskning av fälten som ska synkroniseras visas. Klicka på **Starta synkronisering**.
 
    ![](assets/msi-actions-admin-guide-13.png)
 
@@ -142,19 +142,19 @@ Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo S
 
 >[!NOTE]
 >
->Läs mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce. [klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Om du vill veta mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce [klickar du här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Bjud in enskilda användare till MSI-åtgärder {#invite-individual-users-to-msi-actions}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Under Administratörsinställningar väljer du **Användarhantering**.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. Klicka **Åtgärder** och markera **Bjud in användare**.
+1. Klicka på **Åtgärder** och välj **Bjud in användare**.
 
    ![](assets/msi-actions-admin-guide-16.png)
 
@@ -170,15 +170,15 @@ Du får ett bekräftelsemeddelande.
 
 ## Bjud in användare via CSV till MSI-åtgärder {#invite-users-via-csv-to-msi-actions}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-konto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Under Administratörsinställningar väljer du **Användarhantering**.
+1. Välj **Användarhantering** under Administratörsinställningar.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. Klicka **Åtgärder** och markera **Bjud in användare via CSV**.
+1. Klicka på **Åtgärder** och välj **Bjud in användare via CSV**.
 
    ![](assets/msi-actions-admin-guide-20.png)
 

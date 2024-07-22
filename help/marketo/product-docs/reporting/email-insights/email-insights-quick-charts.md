@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
    ![](assets/six.png)
 
-1. Ge snabbdiagrammet ett namn och klicka **Spara**.
+1. Ge snabbdiagrammet ett namn och klicka på **Spara**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
 Vill du ta bort ett snabbdiagram? Det är enkelt!
 
-1. Klicka på **Snabbdiagram** ikon.
+1. Klicka på ikonen **Snabbdiagram** .
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Vill du ta bort ett snabbdiagram? Det är enkelt!
 
    ![](assets/ten.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/eleven.png)
 

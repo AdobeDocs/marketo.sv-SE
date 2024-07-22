@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359512
 description: Använd segmentfilter i en smart lista - Marketo Docs - produktdokumentation
-title: Använd segmentfilter i en smart lista
+title: Använda segmentfilter i en smart lista
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Använd segmentfilter i en smart lista {#use-segment-filters-in-a-smart-list}
+# Använda segmentfilter i en smart lista {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Optimera prestanda för smarta listor med hjälp av segmentfilter.
 
-1. Sök efter ordet i den smarta listan som du skapade **Segment**, dra och släpp filtret.
+1. I den smarta listan som du skapade söker du efter ordet **Segment**, drar och släpper filtret.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

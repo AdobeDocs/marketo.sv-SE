@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce. När **[!UICONTROL Sync Now]** om du trycker på knappen. Detta kan inte göras längre.
+>Den här funktionen är bara tillgänglig före den första synkroniseringen till Salesforce. När knappen **[!UICONTROL Sync Now]** trycks ned kan detta inte längre göras.
 
 Under den första synkroniseringen till Salesforce kombinerar Marketo Engage automatiskt anpassade fält med liknande namn till ett enda fält på Marketo-sidan för att säkerställa att data kan utbytas med både lead- och kontaktobjekt i CRM. I den här artikeln beskrivs hur du anpassar mappningarna.
 
 ## Mappa omappade fält {#map-unmapped-fields}
 
-När du ser ett fält i [!UICONTROL Unmapped Fields] mapp betyder det att den inte är mappad till ett liknande fält på lead eller kontakt i Salesforce. Du kan fixa det där.
+När du ser ett fält i mappen [!UICONTROL Unmapped Fields] betyder det att det inte är mappat till ett liknande fält på lead eller kontakt i Salesforce. Du kan fixa det där.
 
 1. Klicka på **[!UICONTROL Edit Mappings]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Öppna **[!UICONTROL Unmapped Custom Fields]** mapp.
+1. Öppna mappen **[!UICONTROL Unmapped Custom Fields]**.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ När du ser ett fält i [!UICONTROL Unmapped Fields] mapp betyder det att den in
 
    ![](assets/three.png)
 
-1. Klicka **[!UICONTROL Finish Mappings]** när du är klar.
+1. Klicka på **[!UICONTROL Finish Mappings]** när du är klar.
 
    ![](assets/four.png)
 
@@ -55,7 +55,7 @@ Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automa
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klicka **[!UICONTROL Finish Mappings]** när du är klar.
+1. Klicka på **[!UICONTROL Finish Mappings]** när du är klar.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ Om du har fält med liknande namn på lead- och kontaktobjektet mappas de automa
 
 ## Återställ schema {#reset-schema}
 
-1. Om du gör några ändringar i schemat i Salesforce medan du arbetar med mappningarna kan du dra in ändringarna genom att klicka **[!UICONTROL Reset Schema]**.
+1. Om du gör några ändringar i schemat i Salesforce medan du arbetar med mappningarna kan du dra in ändringarna genom att klicka på **[!UICONTROL Reset Schema]**.
 
    * Alla mappningsändringar återställs!
    * Om du återställer schemat läggs bara fält till, inte tas bort (även om du döljer dem för synkroniseringsanvändaren).

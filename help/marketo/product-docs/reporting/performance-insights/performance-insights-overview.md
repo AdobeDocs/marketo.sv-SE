@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12979006
 description: Performance Insights Overview - Marketo Docs - produktdokumentation
-title: Performance Insights - översikt
+title: Översikt över prestandainsikter
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Performance Insights - översikt {#performance-insights-overview}
+# Översikt över prestandainsikter {#performance-insights-overview}
 
 Marketo Performance Insights hjälper er att optimera er kanalmix för maximal effektivitet, liksom att identifiera långsiktiga trender för att hitta enhetliga vinnande strategier.
 
@@ -27,7 +27,7 @@ Om du vill få åtkomst till Performance Insights klickar du på ikonen på star
 
 ## Bidrag {#contribution}
 
-Utvärdera marknadsföringens [bidrag till intäkter](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) som en funktion av kundvärvning, påverkan, konvertering och till och med installerad bastillväxt.
+Utvärdera Marketing:s [bidrag till intäkterna](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) som en funktion av kundvärvning, påverkan, konvertering och till och med installerad bastillväxt.
 
 ![](assets/two.png)
 
@@ -37,22 +37,22 @@ Som standard återspeglar de data som visas prestanda efter engagemang. Du kan v
 
 ## Trend {#trend}
 
-Upptäck [långsiktiga trender](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) för att hitta enhetliga vinnande strategier.
+Identifiera konsekventa vinnande strategier genom att identifiera [långsiktiga trender](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md).
 
 ![](assets/4.png)
 
 ## Inställningar {#settings}
 
-Klicka på [Inställningar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) om du vill ange ytterligare parametrar.
+Klicka på ikonen [Inställningar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) på kontrollpanelerna för intäkter och pipeline för att ange ytterligare parametrar.
 
 ![](assets/5.png)
 
 ## Exportera data {#export-data}
 
-Du kan exportera data och diagram i PowerPoint eller Excel. Du kan också spara dem som [Snabbdiagram](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Du kan exportera data och diagram i antingen PowerPoint eller Excel. Du kan också spara dem som ett [snabbdiagram](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->Exportera data till Excel för att visa data som är tillgängliga för alla kanaler (inte bara de tio översta). PPT-exporten kommer att vara WYSIWYG (utdata kommer att efterlikna det du ser på skärmen).
+>Exportera data till Excel för att visa data som är tillgängliga för alla kanaler (inte bara de tio översta). PPT-exporten blir WYSIWYG (utdata påminner om det du ser på skärmen).

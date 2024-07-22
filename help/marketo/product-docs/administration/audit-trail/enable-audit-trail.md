@@ -25,11 +25,11 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
    ![](assets/enable-audit-trail-1.png)
 
-1. Välj **[!UICONTROL Users & Roles]** och klicka **[!UICONTROL Roles]**.
+1. Markera **[!UICONTROL Users & Roles]** och klicka på **[!UICONTROL Roles]**.
 
    ![](assets/enable-audit-trail-2.png)
 
-1. Markera rollen som du vill aktivera granskningsspår för och klicka på **[!UICONTROL Edit Role]**.
+1. Välj den roll som du vill aktivera granskningsspår för och klicka på **[!UICONTROL Edit Role]**.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -37,7 +37,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
    >
    >Du kan också skapa en ny roll och ge den åtkomst till granskningsspår här.
 
-1. Expandera **[!UICONTROL Access Admin]** behörighet. Välj **[!UICONTROL Access Audit Trail]** och/eller **[!UICONTROL Access Login History]**, beroende på dina behov. Klicka på **[!UICONTROL Save]**.
+1. Expandera behörigheten **[!UICONTROL Access Admin]**. Välj **[!UICONTROL Access Audit Trail]** och/eller **[!UICONTROL Access Login History]**, beroende på dina behov. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -45,17 +45,17 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
    >
    >**Definition**
    >
-   >**[!UICONTROL Access Audit Trail]**: Ger användarna åtkomst till båda [!UICONTROL Asset Audit Trail] och [!UICONTROL Admin Audit Trail].
+   >**[!UICONTROL Access Audit Trail]**: Ger användare åtkomst till både [!UICONTROL Asset Audit Trail] och [!UICONTROL Admin Audit Trail].
    >
-   >**[!UICONTROL Access Login History]**: Ger användare åtkomst till [Historik för användarinloggning](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Access Login History]**: Ger användare åtkomst till [användarinloggningshistorik](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Tilldela roll för granskningsspår till en användare {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Skapa](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) eller [enable](#enable-audit-trail) en befintlig roll som ger den behörighet för granskningsspår.
+>[Skapa](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) eller [aktivera](#enable-audit-trail) en befintlig roll och ge den behörigheten Granskningsspår.
 
-1. I **[!UICONTROL Users & Roles]**, klicka **[!UICONTROL Users]**.
+1. Klicka på **[!UICONTROL Users]** i **[!UICONTROL Users & Roles]**.
 
    ![](assets/enable-audit-trail-5.png)
 
@@ -73,7 +73,7 @@ Granskningsspårning är tillgängligt för alla kunder och styrs av två admini
 
    >[!CAUTION]
    >
-   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när [filtrering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Om du har aktiverat arbetsytor markerar du rollens kryssruta, som markerar alla arbetsytor. Om du avmarkerar en enskild arbetsyta döljs granskningsspåret. Det innebär att du ser granskningsversionsdata för alla arbetsytor. Du kan dölja arbetsytor när du [filtrerar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicka på **[!UICONTROL Save]**.
 

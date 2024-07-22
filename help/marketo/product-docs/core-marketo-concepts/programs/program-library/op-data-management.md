@@ -2,10 +2,10 @@
 description: OP-Data Management - Marketo Docs - produktdokumentation
 title: OP-Data Management
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Det här är ett exempel på enkla arbetsflöden för datahantering med bästa praxis, som använder ett standardprogram, som hjälper dig att hantera datakonsekvens för poster i Marketo Engage-databasen.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -35,7 +35,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -77,7 +77,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>Onlineannonsering</td>
+   <td>Online Advertising</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -112,7 +112,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Smart Campaign</td> 
    <td> </td>
-   <td>Ny person från onlinereklam</td>
+   <td>Ny person från Advertising online</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
@@ -137,17 +137,17 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Nightly Batch för personkälla (för trafikinstanser med hög trafik)</td>
+   <td>Person Source Nightly Batch (för högtrafikinstanser)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Personkälla utlöses (för lågtrafikinstanser)</td>
+   <td>Person Source Triggered (för lågtrafikinstanser)</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Hämta personkälla</td>
+   <td>Capture Person Source</td>
   </tr>
   <tr> 
    <td>Mapp</td> 
@@ -176,7 +176,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

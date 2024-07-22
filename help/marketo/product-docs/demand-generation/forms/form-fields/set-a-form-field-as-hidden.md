@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dolda formulärfält kan i tysthet hämta in data utan besökarens indata. Så här fungerar det.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Dolda formulärfält kan i tysthet hämta in data utan besökarens indata. Så h
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Markera fältet och ange **Fälttyp** till **Dold.**
+1. Markera fältet och ställ in **fälttypen** på **Dold.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 

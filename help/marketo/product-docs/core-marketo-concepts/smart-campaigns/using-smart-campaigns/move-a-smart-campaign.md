@@ -17,17 +17,17 @@ Flytta en smart kampanj mellan olika program eller mappar genom att dra och slä
 
 >[!CAUTION]
 >
->Eftersom reglerna inte ändras måste du uppdatera informationen manuellt för att återspegla det nya programmet om kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, eftersom det _not_ automatisk uppdatering.
+>Eftersom reglerna inte ändras måste du uppdatera informationen manuellt för att återspegla det nya programmet om kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, eftersom det _inte_ uppdateras automatiskt.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Leta reda på den smarta kampanj du vill flytta, högerklicka på den och välj **[!UICONTROL Move]**.
+1. Leta reda på den smarta kampanj som du vill flytta, högerklicka på den och välj **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Välj **[!UICONTROL To]** (destination), **[!UICONTROL Program]**, och valfritt **[!UICONTROL Folder]**. Välj **[!UICONTROL Move]**.
+1. Välj **[!UICONTROL To]** (mål), **[!UICONTROL Program]** och valfritt **[!UICONTROL Folder]**. Välj **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

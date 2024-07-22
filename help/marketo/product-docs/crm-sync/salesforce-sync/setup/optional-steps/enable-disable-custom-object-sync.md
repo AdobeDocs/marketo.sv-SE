@@ -25,15 +25,15 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    ![](assets/one.png)
 
-1. Klicka på **[!UICONTROL Salesforce Objects Sync]**.
+1. Klicka på **[!UICONTROL Salesforce Objects Sync]** på menyn Databashantering.
 
    ![](assets/two-2.png)
 
-1. Om det här är ditt första anpassade objekt klickar du på **[!UICONTROL Sync schema]**. Klicka annars på **[!UICONTROL Refresh Schema]** för att vara säker på att du har de senaste.
+1. Om det här är ditt första anpassade objekt klickar du på **[!UICONTROL Sync schema]**. Klicka annars på **[!UICONTROL Refresh Schema]** för att kontrollera att du har den senaste.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Om den globala synkroniseringen körs måste du inaktivera den genom att klicka på **[!UICONTROL Disable Global Sync]**.
+1. Om din globala synkronisering körs måste du inaktivera den genom att klicka på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -53,11 +53,11 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Klicka **[!UICONTROL Enable Sync]** igen.
+1. Klicka på **[!UICONTROL Enable Sync]** igen.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Gå tillbaka till **[!DNL Salesforce]** och klicka **[!UICONTROL Enable Sync]**.
+1. Gå tillbaka till fliken **[!DNL Salesforce]** och klicka på **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 >
 >Du kan inte använda anpassade objekt i smarta kampanjer med utlösare.
 
-1. I din smarta lista drar du över **[!UICONTROL Has Opportunity]** filtrera och ange till **[!UICONTROL true]**.
+1. Dra över filtret **[!UICONTROL Has Opportunity]** i din smarta lista och ange **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 

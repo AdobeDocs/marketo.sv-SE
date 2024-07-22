@@ -6,12 +6,12 @@ exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: September 2013 {#release-notes-september}
+# Versionsinformation: september 2013 {#release-notes-september}
 
 Följande funktioner ingår i versionen från september.
 
@@ -31,7 +31,7 @@ Använd data från anpassade Marketo-objekt eller lägg till villkorsstyrd logik
 
 Vi har bytt namn på åtgärden Skicka test till Skicka exempel
 
-## Personaliserat e-postexempel {#personalized-send-sample-email}
+## Personaliserat e-postprov för Skicka {#personalized-send-sample-email}
 
 När du skickar ett e-postexempel kan du välja namnet på ett lead för att anpassa exempelmeddelandet.
 
@@ -61,7 +61,7 @@ Du kan nu exportera data i säljprojektsanalysen till Excel. Varje exporterad Ex
 
 Ni kan ändra det sätt på vilket Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsvärden i Intresseutforskarrapporter under området för analys av affärsmöjlighet och säljprojektsanalysen. Detta påverkar också attribueringsvärdena i Program Analyzer.
 
-Du kan ändra inställningarna för programattribuering till ett av tre alternativ. Om du ändrar den här inställningen ändras inga Marketo- eller CRM-data. det ändrar helt enkelt hur dina rapporter fungerar och kan återställas när som helst.
+Du kan ändra inställningarna för programattribuering till ett av tre alternativ. Om du ändrar den här inställningen ändras inte Marketo- eller CRM-data. Det ändrar bara hur dina rapporter körs och kan återställas när som helst.
 
 Inställningen Explicit undersöker bara kontakter med roller (aktuellt beteende). Implicit undersöker alla kontakter som är kopplade till kontot oavsett roll. Vi rekommenderar starkt att du använder läget Explicit om det är möjligt. Om du använder Implicit kan det skapa falska positiva effekter, men de som har en bra affärsmöjlighet har inget verkligt inflytande på affärsmöjligheten.
 

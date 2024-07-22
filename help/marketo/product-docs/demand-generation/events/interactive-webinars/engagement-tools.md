@@ -49,7 +49,7 @@ Chattrutan används för att kommunicera med andra deltagare i rummet. Chattarna
 
 En chattruta som läggs till i värd- och presentationsområdet kan användas för att kommunicera privat med presentationsteamet. Mer information om Chat-rutan finns i den här hjälpartikeln för Adobe och i den här videon.
 
-OBS! En chattruta spelas alltid in. Använd en chattpanel om du inte vill att chattarna ska vara en del av inspelningen. Läs den här hjälpartikeln om du vill veta mer om chattrutan. [Länka detta till Chats under Inspelning på den nya sidan Delivering Interactive Webinar].
+OBS! En chattruta spelas alltid in. Använd en chattpanel om du inte vill att chattarna ska vara en del av inspelningen. Läs den här hjälpartikeln om du vill veta mer om chattrutan. [Länka detta till Chatt i inspelningsavsnittet på den nya sidan Delivering Interactive Webinar ].
 
 SCREENSHOT
 

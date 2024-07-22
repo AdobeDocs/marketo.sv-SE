@@ -6,7 +6,7 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på
 >
 >Diagram visar insikter från de senaste 90 dagarna.
 
-**Kontoengagemang över tid** Klicka på **Visa** till höger om du vill ändra vad du ser. Förutom Kontopoäng kan du visa efter Total Intäkter...
+**Kontoengagemang över tid** Klicka på listrutan **Visa** till höger för att ändra det du visar. Förutom Kontopoäng kan du visa efter Total Intäkter...
 
 ![](assets/two-new.png)
 
@@ -56,15 +56,15 @@ Tillgängligt för användare av Marketo Sales Insight. Se intressanta ögonblic
 
 ![](assets/int-mom.png)
 
-**De vanligaste personerna**
+**Populärast**
 
-Dessa personer beräknas baserat på prioriteringar som baseras på den senaste eller brådskande situationen som personer med namngivna konton visar (samma [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) i Sales Insight), eller Scores som definierats av användaren. **Prioritet** är endast tillgängligt för användare av Marketo Sales Insight.
+De här personerna beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) i Sales Insight), eller resultat som definieras av användaren. **Prioritet** är bara tillgängligt för användare av Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Inkluderar underordnade**
 
-Klicka **Inkluderar underordnade** om du vill visa och välja de underordnade kontona för det valda namngivna kontot och visa deras sammanlagda analyser.
+Klicka på **Inkluderar underordnade** för att visa och välja de underordnade kontona för det valda namngivna kontot och visa deras aggregerade analyser.
 
 ![](assets/abm.png)
 
@@ -108,10 +108,10 @@ Visa teammedlemmar, lägg till/ta bort medlemmar, och tilldela även en kontoäg
 
 >[!NOTE]
 >
->Klicka på **Kontoteamåtgärder** nedrullningsbar meny för att lägga till/ta bort kontomedlemmar eller för att tilldela en kontoägare.
+>Klicka på listrutan **Åtgärder för kontoteam** om du vill lägga till/ta bort kontomedlemmar eller tilldela en kontoägare.
 
 ## ICP-indikatorer {#icp-indicators}
 
-Visa de ICP-indikatorer som du valde att exportera när du [har anpassat din modell](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Visa de ICP-indikatorer som du valde att exportera när du [justerade modellen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

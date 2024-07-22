@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Skicka meddelandet nu eller schemalägg det för senare.
 
-1. Om du vill schemalägga ett meddelande i appen väljer du **Ange framtida datum** och välj ett startdatum i den nedrullningsbara kalendern.
+1. Om du vill schemalägga ett meddelande i appen väljer du **Ange framtida datum** och väljer ett startdatum i den nedrullningsbara kalendern.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -23,7 +23,7 @@ Skicka meddelandet nu eller schemalägg det för senare.
 
    ![](assets/schedule-your-in-app-message-2.png)
 
-1. Slutdatum och sluttid är valfria. välj dem i listrutorna.
+1. Slutdatum och sluttid är valfria. Välj dem i listrutorna.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
@@ -31,4 +31,4 @@ Skicka meddelandet nu eller schemalägg det för senare.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Enkelt! Sist men inte minst är [Godkännande](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) steg.
+Enkelt! Sist men inte minst är steget [Godkännande](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

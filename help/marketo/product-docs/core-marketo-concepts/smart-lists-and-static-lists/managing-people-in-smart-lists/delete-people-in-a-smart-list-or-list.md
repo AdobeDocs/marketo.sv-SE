@@ -6,7 +6,7 @@ exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Du kan snabbt och enkelt ta bort vissa/alla personer som finns i en lista eller 
 
    ![](assets/ma-1.png)
 
-1. Markera den lista/smarta lista som innehåller alla personer som du vill ta bort och gå till **[!UICONTROL People]** -fliken.
+1. Markera listan/den smarta listan som innehåller alla personer som du vill ta bort och gå till fliken **[!UICONTROL People]**.
 
    ![](assets/two-1.png)
 
@@ -37,9 +37,9 @@ Du kan snabbt och enkelt ta bort vissa/alla personer som finns i en lista eller 
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor klickar du på **[!UICONTROL Select All]** kommer att markera alla personer på alla sidor.
+   >Om resultatet sträcker sig över flera sidor, kan du klicka på **[!UICONTROL Select All]** för att markera alla personer på alla sidor.
 
-1. Om du vill ta bort alla personer från Marketo klickar du **[!UICONTROL Delete Person]**.
+1. Klicka på **[!UICONTROL Delete Person]** om du vill ta bort personer från Marketo helt.
 
    ![](assets/four-1.png)
 
@@ -59,12 +59,12 @@ Du kan snabbt och enkelt ta bort vissa/alla personer som finns i en lista eller 
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Om du tar bort fler än 50 personer visas det här. Ange antalet personer som du vill ta bort, kontrollera **[!UICONTROL Cannot Undo]** och klicka sedan på **[!UICONTROL Delete]**.
+1. Om du tar bort fler än 50 personer visas det här. Ange antalet personer som du vill ta bort, markera rutan **[!UICONTROL Cannot Undo]** och klicka sedan på **[!UICONTROL Delete]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Om du vill visa resultatet av massborttagningen klickar du på **[!UICONTROL View Results]** i popup-rutan Enstaka flödesåtgärd i skärmens övre högra hörn. Borttagningstiderna kan variera avsevärt beroende på olika faktorer.
+   >Om du vill visa resultatet av massborttagningen klickar du på **[!UICONTROL View Results]** i popup-rutan för en enda flödesåtgärd i skärmens övre högra hörn. Borttagningstiderna kan variera avsevärt beroende på olika faktorer.
 
    Det här är en bra funktion, var försiktig när du använder den!

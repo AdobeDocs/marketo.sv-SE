@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Följande funktioner finns i vinterversionen 18. Se om det finns funktioner i Marketo Edition.
 
-Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
+Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs!**: Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## Förbättringar av kampanjprestanda och dataflöde {#campaign-performance-and-throughput-enhancements}
 
@@ -25,9 +25,9 @@ Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmn
 
 Vi har två förbättringar av vår integrering med Salesforce CRM:
 
-* [Meddelanden från Marketo Admin](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) för vissa CRM-synkroniseringsfel (inloggningsuppgifterna har gått ut, API-gränser har uppnåtts osv.)
+* [Marketo Admin-meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) för vissa CRM-synkroniseringsfel (autentiseringsuppgifterna har upphört att gälla, API-gränser har uppnåtts osv.)
 
-* [Möjlighet att stänga av e-postmeddelanden](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) till Leadägare vid leadtilldelning
+* [Möjlighet att inaktivera e-postmeddelanden](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) till lead-ägare vid leadtilldelning
 
 Dessa förbättringar kommer att öka under 2018.
 
@@ -43,7 +43,7 @@ Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsan
 
 ## Kontobaserade marknadsföringsförbättringar {#account-based-marketing-enhancements}
 
-**[ABM Hierarkier](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
+**[ABM-hierarkier](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 För ABM-kunder med Salesforce eller Microsoft Dynamics ärver nu ABM automatiskt (och visar) de överordnade och underordnade relationer som skapats i CRM. Du kommer att kunna använda dessa relationer i både sammanslagningsrapportering och kampanjkörning.
 
@@ -55,7 +55,7 @@ Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombiner
 
 **Mottagarens tidszon**
 
-* **[Månatlig sjukledighet](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Vi har lagt till möjligheten att planera vårdsprogram på en månadskurs.
+* **[Månadsvis sjuksköterska](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Vi har lagt till möjligheten att schemalägga vårdprogram en gång i månaden.
 
 * **[Stoppa leverans](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Nu kan du stoppa alla återstående meddelanden som skickas mitt i körningen.
 
@@ -65,19 +65,19 @@ Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombiner
 
 Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
 
-**[API-förbättring för linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[API-förbättring för matchade målgrupper i LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Med vårt nya LinkedIn-API kan ni nu rikta om personer i er Marketo-databas till flera LinkedIn Campaign Manager-konton.
 
-## Webbanpassning {#web-personalization}
+## Web Personalization {#web-personalization}
 
-**Japansk datakälla för webbanpassning**
+**Japanska data, Source för webben, Personalization**
 
-Marketo lägger till ytterligare en japansk datakälla för webbpersonalisering för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
+Marketo lägger till ytterligare en japansk datakälla för Web Personalization för att förbättra identifieringen (omvänd IP-sökning) och personaliseringen för besökare som kommer från Japan. Organisationsnamn visas på japanska.
 
-**[Skapa ett webbsegment med hjälp av statiska listor](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[Skapa ett webbsegment med statiska listor](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Webbpersonalisering kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
+Web Personalization kan nu personalisera innehåll för en känd webbbesökare som ingår i en statisk lista som definieras i marknadsföringsaktiviteter (MLM). Med den här förbättringen kan ni nu marknadsföra statiska listor över alla kanaler och rikta in er på personer på dessa listor med personaliserat innehåll på er webbplats.
 
 ## ContentAI {#contentai}
 
@@ -87,7 +87,7 @@ Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer generera
 
 ## Integrering {#integration}
 
-**[Aktivera/inaktivera kampanj-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Aktivera/inaktivera kampanj-API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 
@@ -95,12 +95,12 @@ Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjä
 
 **Avbeställ uppdatering**
 
-Från 1 mars 2018 skickas alla e-postmeddelanden från [ToutApp.com](https://ToutApp.com) (och genom att använda knappen &quot;E-post med utgång&quot; i Salesforce) visas en länk för att avbryta prenumerationen längst ned.
+Från och med 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](https://ToutApp.com) (och med knappen&quot;E-post med utgång&quot; i Salesforce) att ha en länk för att avbryta prenumerationen längst ned.
 
 **Uppdatering av Live-feed**
 
 Vi har uppdaterat utseende och känsla på flikarna Engagement och Task för att göra det enklare och snabbare för säljarna att svara på kundernas aktiviteter direkt från Live Feed.
 
-**Uppdatering av personinformationsvy**
+**Uppdatering av personinformationsvyn**
 
 Den förbättrade personinformationsvyn (PDV, People Detail View) ger en heltäckande bild av dina kontakter genom att sammanföra din Tout- och Salesforce CRM-kontaktinformation.

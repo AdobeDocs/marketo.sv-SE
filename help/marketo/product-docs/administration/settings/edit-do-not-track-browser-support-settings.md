@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Under **[!UICONTROL Person Tracking]**, klicka **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** under **[!UICONTROL Person Tracking]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Välj **[!UICONTROL Support]** och klicka **[!UICONTROL Save]**.
+1. Markera **[!UICONTROL Support]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Mer information om Do Not Track (Spåra inte) och hur det fungerar finns på [den här sidan](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Om du vill veta mer om Do Not Track (Spåra inte) och hur det fungerar går du till [den här sidan](https://en.wikipedia.org/wiki/Do_Not_Track).

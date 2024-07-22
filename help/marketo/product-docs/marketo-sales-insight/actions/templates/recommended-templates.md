@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Sales Insight Action’s Recommended Templates hjälper dig att få rätt budska
 
    ![](assets/recommended-templates-2.png)
 
-1. Klicka på Rekommenderat mallkort **Redigera**.
+1. Klicka på **Redigera** på det rekommenderade mallkortet.
 
    ![](assets/recommended-templates-3.png)
 
-1. Välj **Skapa en rekommenderad mall** kryssruta och klicka **Spara**.
+1. Markera kryssrutan **Skapa en rekommenderad mall** och klicka på **Spara**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ Sales Insight Action’s Recommended Templates hjälper dig att få rätt budska
 
 ## Alla jämfört med {#all-vs-any}
 
-Välj **Alla** om du vill att mallen ska rekommenderas när alla villkor är uppfyllda. Välj **Alla** om du vill att mallen ska rekommenderas när något av villkoren uppfylls.
+Välj **Alla** om du vill att mallen ska rekommenderas när alla villkor är uppfyllda. Välj **Valfri** om du vill att mallen ska rekommenderas när något av villkoren uppfylls.
 
 ## Ange villkor {#setting-criteria}
 
@@ -44,13 +44,13 @@ Dina villkor kommer att ange för vilka mallar som ska rekommenderas. Du kan ang
 
 ## Villkor {#conditions}
 
-Välj villkor. När villkoren för det dynamiska fältet är uppfyllda rekommenderas mallen. Välj mellan fyra olika villkor.
+Välj villkor nu. När villkoren för det dynamiska fältet är uppfyllda rekommenderas mallen. Välj mellan fyra olika villkor.
 
 **Lika med**: Värdet måste vara en exakt matchning (t.ex. Marketo är lika med Marketo)
 
-**Är inte lika med**: Värdet måste vara allt annat än en exakt matchning (t.ex. är Marketing Nation inte lika med Marketing)
+**Är inte lika med**: Värdet måste vara något annat än en exakt matchning (t.ex. är Marketing Nation inte lika med Marketing)
 
-**Innehåller**: Endast behöver innehålla värdet (t.ex. Marketo Rocks! innehåller Marketo)
+**Innehåller**: Endast värdet behöver anges (t.ex. Marketo Rocks! innehåller Marketo)
 
 **Innehåller inte**: Värdet får inte finnas i det dynamiska fältet (t.ex. Marketo Rocks! innehåller inte häftig)
 

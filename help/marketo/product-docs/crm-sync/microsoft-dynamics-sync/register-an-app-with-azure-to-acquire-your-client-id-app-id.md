@@ -6,7 +6,7 @@ exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
 ## Registrera en ny app {#registering-a-new-app}
 
-1. [Logga in](https://login.microsoftonline.com/){target="_blank"} till Microsoft Azure-hanteringsportalen med hjälp av ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att utöka **[!UICONTROL Admin]** objekt i den vänstra navigeringsrutan och markera **[!UICONTROL Azure AD]**.
+1. [Logga in](https://login.microsoftonline.com/){target="_blank"} på Microsoft Azure-hanteringsportalen med ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att expandera **[!UICONTROL Admin]**-objektet i den vänstra navigeringsrutan och välja **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >
@@ -25,20 +25,20 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    >[!NOTE]
    >
-   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/){target="_blank"} för en. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program enligt proceduren nedan.
+   >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/){target="_blank"} för ett. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program enligt proceduren nedan.
    >
    >
    >Om du har ett Azure-konto men din Office 365-prenumeration med Microsoft Dynamics 365 inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} för att associera de två kontona.
 
-1. Sök och klicka **[!UICONTROL Azure Active Directory]** i den vänstra navigeringsrutan.
+1. Sök och klicka på **[!UICONTROL Azure Active Directory]** i den vänstra navigeringsrutan.
 
    ![](assets/two.png)
 
-1. Under Hantera klickar du på **[!UICONTROL App registrations]**.
+1. Klicka på **[!UICONTROL App registrations]** under Hantera.
 
    ![](assets/three.png)
 
-1. Klicka **[!UICONTROL New registration]** överst på sidan.
+1. Klicka på **[!UICONTROL New registration]** överst på sidan.
 
    ![](assets/four.png)
 
@@ -46,21 +46,21 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/five.png)
 
-1. Du bör nu se din app i **[!UICONTROL App registrations]** -fliken.
+1. Du bör nu se din app på fliken **[!UICONTROL App registrations]**.
 
    ![](assets/six.png)
 
 ## Konfigurera programbehörigheter {#configuring-app-permissions}
 
-1. Under **[!UICONTROL App registrations]** i din Active Directory klickar du på det program du vill konfigurera behörigheter för.
+1. Klicka på det program du vill konfigurera behörigheter för på fliken **[!UICONTROL App registrations]** i din Active Directory.
 
    ![](assets/seven.png)
 
-1. Under Hantera klickar du på **[!UICONTROL API permissions]**.
+1. Klicka på **[!UICONTROL API permissions]** under Hantera.
 
    ![](assets/eight.png)
 
-1. Klicka på **[!UICONTROL Add a permission]** -knappen.
+1. Klicka på knappen **[!UICONTROL Add a permission]**.
 
    ![](assets/nine.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/ten.png)
 
-1. Kontrollera **[!UICONTROL Access Common Data Service as organization users]** och klicka sedan på **[!UICONTROL Add permissions]**.
+1. Markera rutan **[!UICONTROL Access Common Data Service as organization users]** och klicka sedan på **[!UICONTROL Add permissions]**.
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/twelve.png)
 
-1. Klicka på **[!UICONTROL Grant admin consent]** -knappen.
+1. Klicka på knappen **[!UICONTROL Grant admin consent]**.
 
    ![](assets/thirteen.png)
 
-1. Klicka **[!UICONTROL Yes]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Yes]**.
 
    ![](assets/fourteen.png)
 

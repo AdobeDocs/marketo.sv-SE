@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Under Analys av affärsmöjlighet kan du analysera enskilda programs effektivitet eller se summerade resultat per programkanal.
 
-**Exempel på affärsfrågor som du kan svara på i det här analysområdet inkluderar**:
+**Exempel på affärsfrågor som du kan besvara med det här analysområdet är**:
 
 Hur många möjligheter har kopplats till ett visst program och hur många av dem har vi vunnit?
 
@@ -86,7 +86,7 @@ Precis som med förvärvet ändras värdet av att bidra till försäljningen av 
    <td>Andelen kredit (i penningvärde) som programmet tog emot för att påverka skapandet av den öppna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
-   <td>Förväntad intäkt</td> 
+   <td>Förväntade intäkter</td> 
    <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med affärsmöjlighetsvärdet. Det kan vara en bråkdel om flera leads är inblandade.</td> 
   </tr> 
   <tr> 
@@ -100,7 +100,7 @@ Precis som med förvärvet ändras värdet av att bidra till försäljningen av 
  </tbody> 
 </table>
 
-_&#42;(FT) = First Touch Attribution, används för åtgärder för inköp av leads. (MT) = MultiTouch-attribuering, används för åtgärder för lyckade leads_
+_&#42;(FT) = First-Touch Attribution, används för mått på lead-förvärv; (MT) = Multi-Touch Attribution, används för mått på lead-lyckade_
 
 Nedan visas ett scenario som beskriver hur säljprojektsenheter beräknas när det finns två program som genererade leads, men dessa leder till ett säljprojekt från samma konto.
 
@@ -116,9 +116,9 @@ Nedan visas ett scenario som beskriver hur säljprojektsenheter beräknas när d
 
 **Konto 1**
 
-* Skapar en möjlighet: Möjligheter 1
+* Skapar en affärsmöjlighet: affärsmöjlighet 1
 
-Marketo ger krediter utan att man behöver göra dubbelräkning mellan programmen. I det här fallet får varje program 0,5 enheter för säljprojekt. Det innebär att varje program får hälften av krediterna för den skapade möjligheten. Hälften av de intäkter som är kopplade till säljprojektet tilldelas respektive program.
+Marketo ger krediter utan att man behöver göra dubbelräkning i alla program. I det här fallet får varje program 0,5 enheter för säljprojekt. Det innebär att varje program får hälften av krediterna för den skapade möjligheten. Hälften av de intäkter som är kopplade till säljprojektet tilldelas respektive program.
 
 ## Diverse programrelaterade åtgärder {#miscellaneous-program-related-measures}
 
@@ -135,7 +135,7 @@ De andra tillgängliga åtgärderna återspeglar programmets övergripande resul
    <td><p>Det totala antalet affärsmöjligheter som har gett ett program någon form av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.</p></td> 
   </tr> 
   <tr> 
-   <td>Genomsnittligt antal lyckade försök per stängd affärsmöjlighet</td> 
+   <td>Genomsnittligt antal lyckade försök per avslutad affärsmöjlighet</td> 
    <td>Genomsnittligt antal lyckade program innan affärsmöjligheten stängdes. <br></td> 
   </tr> 
   <tr> 
@@ -169,11 +169,11 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
   </tr> 
   <tr> 
    <td>Attribut för affärsmöjlighet</td> 
-   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Ägarnamn för affärsmöjlighet<br>Affärsmöjlighet<br>Typ av affärsmöjlighet</td> 
+   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägarnamn<br>Affärsmöjlighetens stadium<br>Affärsmöjlighetstyp</td> 
   </tr> 
   <tr> 
    <td>Tidsram för affärsmöjlighet</td> 
-   <td>Stängt affärstillfälle år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
+   <td>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
   </tr> 
   <tr> 
    <td>Programattribut</td> 
@@ -186,8 +186,8 @@ Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring f
  </tbody> 
 </table>
 
-*&#42;Alla möjligheter som gav ett program valfri typ av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.*
+*&#42;Alla affärsmöjligheter som gav någon typ av attribueringskrediter till ett program. Möjligheter kan påverkas av ett eller flera leads och av ett eller flera program.*
 
 >[!MORELIKETHIS]
 >
->[Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Skapa en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

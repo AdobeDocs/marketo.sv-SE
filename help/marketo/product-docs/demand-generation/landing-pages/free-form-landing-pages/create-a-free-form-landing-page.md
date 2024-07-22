@@ -21,7 +21,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
 ## Skapa en landningssida med valfri form i ett program {#create-a-free-form-landing-page-in-a-program}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Klicka **Nytt**. Välj **Ny lokal resurs**.
+1. Klicka på **Ny**. Välj **Ny lokal resurs**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Klicka på **Landningssida**.
+1. Klicka på **Startsida**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,13 +45,13 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL:en redigerar du **Sidans URL** fält.
+>URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sidadress**.
 
 ## Skapa en landningssida i fri form i Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
@@ -59,7 +59,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
    ![](assets/designstudio.png)
 
-1. Klicka **Nytt** sedan **Ny landningssida**.
+1. Klicka på **Ny** och sedan på **Ny landningssida**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,7 +67,7 @@ Landningssidor i friform kan skapas som lokala resurser i ett program eller i De
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 

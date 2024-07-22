@@ -17,37 +17,37 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Som standard använder Marketo Sales Insight **Leadpoäng** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
+Som standard använder Marketo Sales Insight fältet **Lead Score** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
 >[!TIP]
 >
->Så här gör du om du inte redan har dina anpassade poängfält [skapa](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem.
+>Om du inte redan har dina anpassade poängfält, så här [skapar](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem.
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Stjärnor**: Stjärnor representerar det totala antalet leads jämfört med andra leads.
->* **Lågor**: Det är angeläget att använda flamma - hur mycket ett leads poäng har ändrats nyligen.
+>* **Stjärnor**: Stjärnor representerar totalt antal leads jämfört med andra leads.
+>* **Lågor**: Lågor representerar ett brådskande ärende - hur mycket ett leadresultat har ändrats nyligen.
 >
 
-1. Under **Administratör**, klicka **Försäljningsinsikter**.
+1. Klicka på **Försäljningsinsikter** under **Admin**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Under **Inställningar för poängsättning av lead**, klicka på **Redigera**.
+1. Klicka på **Redigera** under **Leadbedömningsinställningar**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Markera fältet som du vill använda för **Stjärnor**.
+1. Markera fältet som du vill använda för **stjärnor**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Markera fältet som du vill använda för **Lågor**.
+1. Markera fältet som du vill använda för **flamma**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
@@ -57,4 +57,4 @@ Som standard använder Marketo Sales Insight **Leadpoäng** för att beräkna st
 
    >[!MORELIKETHIS]
    >
-   >[Prioritet, Urklipp, Relativa poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Prioritet, brådskande, Relativ poäng och Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

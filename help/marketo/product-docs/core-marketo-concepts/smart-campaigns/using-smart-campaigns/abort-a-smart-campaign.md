@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Ibland startar man en Smart Campaign och inser omedelbart att det var ett misstag. Så här drar du in nödbromsen och stoppar Smart Campaign mitt i körningen.
 
-1. Välj önskad smart kampanj och klicka på **[!UICONTROL Schedule]** -fliken.
+1. Välj önskad smart kampanj och klicka på fliken **[!UICONTROL Schedule]**.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Klicka på **[!UICONTROL Campaign Actions]** nedrullningsbar meny. Välj **[!UICONTROL Abort Campaign]**.
+1. Klicka på listrutan **[!UICONTROL Campaign Actions]**. Välj **[!UICONTROL Abort Campaign]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Klicka **[!UICONTROL Abort]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Abort]**.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,10 +39,10 @@ Ibland startar man en Smart Campaign och inser omedelbart att det var ett missta
 
    >[!NOTE]
    >
-   >Ta en titt på **[!UICONTROL Results]** fliken i Smart Campaign för att se vilka åtgärder som utfördes före avbrottet. Du hittar också en  [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} med ytterligare information.
+   >Ta en titt på fliken **[!UICONTROL Results]** i Smart Campaign för att se vilka åtgärder som utfördes före avbrottet. Du hittar också ett [meddelande](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} med ytterligare information.
 
    >[!TIP]
    >
-   >Vill du ta bort en person från flödet i en utlösarkampanj? Checka ut [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
+   >Vill du ta bort en person från flödet i en utlösarkampanj? Kolla in [Ta bort från flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
 Dubbelkontrollera alltid ditt arbete, men nödbromsen kan komma till användning.

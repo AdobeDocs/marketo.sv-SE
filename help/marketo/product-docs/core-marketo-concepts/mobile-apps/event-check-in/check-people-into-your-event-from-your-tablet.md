@@ -6,7 +6,7 @@ exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ När någon visas vid ditt evenemang hittar du deras information i appen. Efter 
 >
 >Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Appen fungerar likadant på båda [!DNL iPad] och [!DNL Android], förutom mindre skillnader i layout och design.
+Appen fungerar på samma sätt på både [!DNL iPad] och [!DNL Android], med undantag för små skillnader i layout och design.
 
 >[!PREREQUISITES]
 >
@@ -27,9 +27,9 @@ Appen fungerar likadant på båda [!DNL iPad] och [!DNL Android], förutom mindr
 
 ## Checka in registrerade gäster {#check-in-registered-guests}
 
-1. Tryck på appikonen på din [!DNL iPad] eller [!DNL Android] surfplatta.
+1. Tryck på appikonen på din [!DNL iPad]- eller [!DNL Android]-surfplatta.
 
-1. Tryck **[!UICONTROL Login]** för att starta Marketo Event.
+1. Tryck på **[!UICONTROL Login]** för att starta Marketo Event-appen.
 
    ![](assets/1.jpg)
 
@@ -55,7 +55,7 @@ Appen fungerar likadant på båda [!DNL iPad] och [!DNL Android], förutom mindr
 
    >[!NOTE]
    >
-   >Processen är densamma på [!DNL iPad] och [!DNL Android], men skärmarna skiljer sig åt och objekten kan finnas på olika platser. Den här artikeln innehåller [!DNL iPad] gränssnitt. Jämför [!DNL Android] i det här avsnittet för referens.
+   >Processen är densamma på [!DNL iPad] och [!DNL Android], men skärmarna skiljer sig åt och objekten kan finnas på olika platser. Den här artikeln innehåller gränssnittet [!DNL iPad]. Jämför skärmen [!DNL Android] i det här avsnittet för referens.
 
    **[!DNL iPad]**
 
@@ -65,7 +65,7 @@ Appen fungerar likadant på båda [!DNL iPad] och [!DNL Android], förutom mindr
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tryck på det valda namnet och tryck på personposten **[!UICONTROL Check-in]**.
+1. Tryck på det valda namnet och tryck på **[!UICONTROL Check-in]** på personposten.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -97,7 +97,7 @@ Du kan lägga till gäster som inte finns i din Marketo-databas manuellt. De che
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Fyll i så många grundläggande informationsfält du kan och tryck **[!UICONTROL Done]**.
+1. Fyll i så många grundläggande informationsfält du kan och tryck på **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -113,9 +113,9 @@ Den nya personen registreras som incheckad till din händelse och läggs till i 
 
 ## Invertera en incheckning {#reverse-a-check-in}
 
-Om du checkade in en person av misstag _innan du synkroniserar med Marketo_ kan du vända på statusen för Bifogad.
+Om du checkade in en person av misstag, _innan du synkroniserade med Marketo_, kan du invertera statusen Bifogad.
 
-1. Tryck på namnet i listan och tryck sedan på **[!UICONTROL Undo]**.
+1. Tryck på namnet i listan och tryck på **[!UICONTROL Undo]** i personposten.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -129,13 +129,13 @@ Du kan lägga till och ändra gästinformation direkt vid evenemanget!
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Redigera och lägga till information i fälten och tryck sedan på **[!UICONTROL Done]**.
+1. Redigera och lägg till information i fälten och tryck sedan på **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >I [!DNL Android], **[!UICONTROL Done]** knappen kan vara dold. Bläddra ned för att hitta den.
+   >I [!DNL Android] kan knappen **[!UICONTROL Done]** vara dold. Bläddra ned för att hitta den.
 
 Informationen uppdateras när du synkroniserar appen med Marketo.
 

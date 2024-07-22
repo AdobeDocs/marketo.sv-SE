@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Connect har två standardkategorier som hjälper dig att ordna dina mallar.
 
-1. Klicka på **+** ikon bredvid **Kategorier**.
+1. Klicka på ikonen **+** bredvid **Kategorier**.
 
 1. Ange ett namn för den nya kategorin och klicka sedan på **Skapa**.
 

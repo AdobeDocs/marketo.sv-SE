@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 Anslut Marketo till en Event Partner för att automatisera onlineeventen. När du kopplar ihop dem kan du:
 
 * Hantera webbinarier
-* Skicka registreringsinformation som samlats in på en Marketo-landningssida till den konfigurerade Event Partner
+* Skicka registreringsinformation som samlats in på en Marketo-landningssida till den konfigurerade Event Partner-partnern
 * Dra automatiskt in närvaroinformation i en Marketo-händelse
 * Fånga personernas status som medlemmar i programmet
 

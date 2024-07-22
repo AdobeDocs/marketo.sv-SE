@@ -18,7 +18,7 @@ Du kan använda Marketo för att uppdatera ett fälts värde med hjälp av åtg�
 >
 >Du kan också blockera ett fält så att det inte uppdateras. Mer information finns i Blockera uppdateringar till ett fält.
 
-1. På fliken för Smart Campaign-flöde tar du fram **[!UICONTROL Change Program Member Data]** och välj önskat program.
+1. Gå till flödessteget **[!UICONTROL Change Program Member Data]** på fliken Flöde i Smart Campaign och välj önskat program.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -38,7 +38,7 @@ Kör nu bara Smart Campaign, så är du klar!
 
 >[!TIP]
 >
->Om du vill rensa fälten i stället för att uppdatera dem kan du ange &quot;NULL&quot; (inga citattecken, versaler) som [!UICONTROL New Value].
+>Om du vill rensa fälten i stället för att uppdatera dem kan du ange&quot;NULL&quot; (inga citattecken, versaler) som [!UICONTROL New Value].
 
 >[!MORELIKETHIS]
 >

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Använd RTF i ett formulär för att lägga till instruktioner eller annan information mellan fält. Kolla in den.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klicka på **+** signera.
+1. Klicka på **+**-tecknet.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
@@ -39,15 +39,15 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
    >
    >Om du behöver en radavgränsare i formuläret använder du knappen Vågrät linje.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ Använd RTF i ett formulär för att lägga till instruktioner eller annan infor
 
 >[!TIP]
 >
->Visste du att du också kan [lägg till synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) till ett RTF-block?
+>Visste du att du även kan [lägga till synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) i ett RTF-block?

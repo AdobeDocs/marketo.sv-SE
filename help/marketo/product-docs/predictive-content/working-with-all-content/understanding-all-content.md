@@ -20,10 +20,10 @@ På sidan Allt innehåll visas allt innehåll som har identifierats eller lagts 
 Sidfälten innehåller:
 
 * **Titel**: Namnet på innehållet
-* **Kategorier**: Skapad av dig och används för att gruppera prediktiva resultat för webben eller e-post
+* **Kategorier**: Skapade av dig och används för att gruppera prediktiva resultat för webben eller e-post
 * **Vyer**: Totalt antal klick på identifierat webbinnehåll (inklusive alla källor)
-* **Konverteringar**: Antalet besökare som visade en del av innehållet och fyllde i ett formulär vid samma besök
-* **Konverteringsgrad**: En procentandel beräknad genom direktkonvertering dividerat med klick
+* **Konverteringar**: Antalet besökare som visade ett innehållsobjekt och slutförde ett formulär vid samma besök
+* **Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick
 * **Godkänn för prediktiv**: Ikonen visas om innehållet har godkänts
 
 Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av innehållet eller godkänna en del av innehållet. När du har godkänt innehållet kan du redigera det på sidan Predictive Content.
@@ -32,7 +32,7 @@ Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av in
 
 Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum eller datumintervall för innehållsanalysen med hjälp av standardinställningar eller anpassade inställningar.
 
-1. På **Allt innehåll** klickar du på filterikonen under **Kategori** väljer du en eller flera innehållskategorier.
+1. Klicka på filterikonen på sidan **Allt innehåll** och välj en eller flera innehållskategorier under **Kategori**.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 
 ## Visa analyser för ett datum- eller datumintervall {#display-analytics-for-a-date-or-date-range}
 
-1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka **Använd**.
+1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka på **Använd**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
@@ -52,5 +52,5 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 >
 >* [Lägg till nytt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
 >* [Ta bort innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Godkänn en titel för förebyggande innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Avgodkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)

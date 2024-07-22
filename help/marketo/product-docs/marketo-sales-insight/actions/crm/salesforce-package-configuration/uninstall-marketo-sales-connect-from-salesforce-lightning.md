@@ -4,7 +4,7 @@ title: Avinstallera Marketo Sales Connect från Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: '1192'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
 
 ## Ta bort Sales Connect-fält från sidlayout {#remove-sales-connect-fields-from-page-layout}
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-1. Klicka **Objektshanteraren**.
+1. Klicka på **Objektshanteraren**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-1. Bläddra nedåt till och markera **Lead**.
+1. Bläddra ned till och välj **Lead**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-1. Klicka **Sidlayouter**.
+1. Klicka på **Sidlayouter**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
 
-1. Klicka **Leadlayout**.
+1. Klicka på **Leadlayout**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
 
@@ -39,7 +39,7 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
    >
    >Vyn Redigera sidlayout har inte uppdaterats i Salesforce Lightning ännu.
 
-1. I konsolen väljer du **Fält**. Sök efter MSC i Snabbsökning. Alla nedtonade fält har lagts till i sidlayouten. Du måste ta bort dem.
+1. Välj **Fält** i konsolen. Sök efter MSC i Snabbsökning. Alla nedtonade fält har lagts till i sidlayouten. Du måste ta bort dem.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
@@ -47,19 +47,19 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
    >
    >Om inget av fälten är nedtonat betyder det att du inte har lagt till dem i sidlayouten. Du kan hoppa över det här avsnittet.
 
-1. Bläddra till det avsnitt som innehåller anpassade fält för Sales Connect.
+1. Bläddra till det avsnitt som har dina anpassade Sales Connect-fält.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-7.png)
 
 1. Det finns 10 typer av MSC-fält som kan läggas till i det här avsnittet. Ta bort alla fält som du har lagt till eller ta bort hela avsnittet.
 
-1. Klicka **Snabbspara** när det är klart.
+1. Klicka på **Snabbspara** när du är klar.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
 ## Ta bort knappar för försäljningskontakt från sidlayouter {#remove-sales-connect-buttons-from-page-layouts}
 
-1. I konsolen (steg 4 ovan) väljer du **Knappar**. Sök i MSC. Alla nedtonade knappar har lagts till i det anpassade knappavsnittet. Du måste ta bort dem.
+1. I konsolen (steg 4 ovan) väljer du **Knappar**. Sök i &quot;MSC.&quot; Alla nedtonade knappar har lagts till i det anpassade knappavsnittet. Du måste ta bort dem.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
@@ -71,7 +71,7 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. Klicka **Snabbspara** när det är klart.
+1. Klicka på **Snabbspara** när du är klar.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -81,7 +81,7 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Välj Koppla försäljning i området Markerade fält och klicka på pilen Ta bort. Klicka **OK** när det är klart.
+1. Välj Koppla försäljning i området Markerade fält och klicka på pilen Ta bort. Klicka på **OK** när du är klar.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
@@ -89,23 +89,23 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
    >
    >Förkortningen MSE _är_ Sales Connect. Det är bara det föregående namnet&quot;Marketo Sales Engage&quot;.
 
-1. Klicka **Spara** när du är klar med sidan Leads.
+1. Klicka på **Spara** när du är klar med sidan Leads.
 
 ## Ta bort åtgärdsknappar för Säljanslutning i grupp från leadlistevyn {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. Klicka **Objektshanteraren**.
+1. Klicka på **Objektshanteraren**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Bläddra nedåt till och markera **Lead**.
+1. Bläddra ned till och välj **Lead**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. Klicka **Söklayouter**.
+1. Klicka på **Sök efter layouter**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
@@ -113,7 +113,7 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. Välj **Lägg till i MSC Campaign**, **E-post med MSC** och **Skicka till MSC** och klicka på Ta bort-pilen. Klicka sedan på **Spara**.
+1. Välj **Lägg till i MSC Campaign**, **Skicka e-post med MSC** och **Skicka till MSC** och klicka på Ta bort-pilen. Klicka sedan på **Spara**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -121,29 +121,29 @@ Du bör inte längre se knapparna i leadlistevyn.
 
 ## Ta bort MSC-konfiguration för kontakter {#remove-msc-configuration-for-contacts}
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
-1. Klicka **Objektshanteraren**.
+1. Klicka på **Objektshanteraren**.
 
-1. Bläddra nedåt till och markera **Kontakt**.
+1. Bläddra ned till och välj **Kontakt**.
 
-1. Klicka **Sidlayouter**.
+1. Klicka på **Sidlayouter**.
 
-1. Klicka **Kontaktlayout**.
+1. Klicka på **Kontaktlayout**.
 
 1. Upprepa steg från alla tre avsnitten.
 
 ## Ta bort MSC-konfiguration för affärsmöjlighet {#remove-msc-configuration-for-opportunity}
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
-1. Klicka **Objektshanteraren**.
+1. Klicka på **Objektshanteraren**.
 
-1. Bläddra nedåt till och markera **Möjligheter**.
+1. Bläddra ned till och välj **Möjlighet**.
 
-1. Klicka **Sidlayouter**.
+1. Klicka på **Sidlayouter**.
 
-1. Klicka **Affärsmöjlighet**.
+1. Klicka på **Affärsmöjlighetslayout**.
 
 Affärsmöjlighetsvyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följande fält:
 
@@ -151,15 +151,15 @@ Affärsmöjlighetsvyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följ
 
 ## Ta bort MSC-konfiguration för konto {#remove-msc-configuration-for-account}
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
-1. Klicka **Objektshanteraren**.
+1. Klicka på **Objektshanteraren**.
 
-1. Bläddra nedåt till och markera **Konto**.
+1. Bläddra ned till och välj **Konto**.
 
-1. Klicka **Sidlayouter**.
+1. Klicka på **Sidlayouter**.
 
-1. Klicka **Kontolayout**.
+1. Klicka på **Kontolayout**.
 
 Kontovyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följande fält:
 
@@ -167,9 +167,9 @@ Kontovyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följande fält:
 
 ## Ta bort Marketo Sales Outbox {#remove-marketo-sales-outbox}
 
-1. I Salesforce klickar du på **+** överst på skärmen.
+1. Klicka på fliken **+** högst upp på skärmen i Salesforce.
 
-1. Klicka **Anpassa mina flikar**.
+1. Klicka på **Anpassa mina flikar**.
 
 1. Välj alternativet Marketo Sales Outbox till höger. Klicka på borttagningspilen och sedan på **Spara**.
 
@@ -177,11 +177,11 @@ Kontovyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följande fält:
 
 När du har tagit bort alla objekt från ditt Salesforce-konto följer du stegen nedan.
 
-1. I Salesforce Lightning klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Salesforce Lightning och välj **Konfigurera**.
 
 1. Ange&quot;Apex Classes&quot; i rutan Snabbsökning.
 
-1. Klicka **Ta bort** bredvid alla MarketoSalesConnectionCustomization- eller MarketoSalesEngageCustomization-poster i listan.
+1. Klicka på **Delete** bredvid alla MarketoSalesConnectionCustomization- eller MarketoSalesEngageCustomization-poster i listan.
 
 Du är redo!
 
@@ -270,7 +270,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
  </tr>
  <tr>
   <td>MSC-e-post visad</td>
-  <td>Loggar en bockmarkering när mottagaren visar ett e-postmeddelande</td>
+  <td>Loggar en bock när mottagaren visar ett e-postmeddelande</td>
   <td>Aktivitet</td>
   <td>Kryssruta</td>
  </tr>
@@ -284,7 +284,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <th>Datatyp</th>
  </tr>
  <tr>
-  <td>MSC - senaste marknadsföringsåtagande</td>
+  <td>MSC - Senaste marknadsföringsåtagande</td>
   <td>Senaste inkommande engagemang från marknadsföring</td>
   <td>
   <p>Konto
@@ -305,7 +305,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
  </tr>
  <tr>
   <td>MSC - Senaste marknadsföringsbesök</td>
-  <td>Beskrivning av engagemanget</td>
+  <td>Beskrivning av ärendet</td>
   <td>
   <p>Konto 
   <p>Kontakt 
@@ -314,8 +314,8 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC - källa för senaste marknadsföringsåtagande</td>
-  <td>Källa för marknadsföringsengagemang</td>
+  <td>MSC - senaste marknadsföringsengagemanget Source</td>
+  <td>Source för marknadsföringsinsatser</td>
   <td>
   <p>Konto 
   <p>Kontakt 
@@ -325,7 +325,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
  </tr>
  <tr>
   <td>MSC - Typ av senaste marknadsföringsåtagande</td>
-  <td>Typ av engagemang (t.ex.: Webbaktivitet)</td>
+  <td>Typ av engagemang (t.ex. webbaktivitet)</td>
   <td>
   <p>Konto 
   <p>Kontakt 
@@ -375,7 +375,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
  </tr>
  <tr>
   <td>MSC - avanmäl dig</td>
-  <td>Avanmäl dig från fält</td>
+  <td>Avanmäl dig</td>
   <td>
   <p>Konto 
   <p>Kontakt 

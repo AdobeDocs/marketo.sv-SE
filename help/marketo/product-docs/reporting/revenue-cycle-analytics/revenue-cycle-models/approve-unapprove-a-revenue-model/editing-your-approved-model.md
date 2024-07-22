@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Redigera din modell {#editing-your-model}
 
-1. Markera den modell som du vill ändra i avsnittet Analytics (Analyser) och klicka på **Redigera utkast**.
+1. Markera den modell som du vill ändra i Analytics-avsnittet och klicka på **Redigera utkast**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Välj den nya scenen för leads i den markerade eller välj **Ingen** för att ta bort leads från din modell. När du är klar klickar du på **Sammanfoga**.
+1. Välj den nya scenen för leads som finns i den markerade, eller välj **Inget** om du vill ta bort leads från modellen. När du är klar klickar du på **Sammanfoga**.
 
    ![](assets/three.png)
 
-1. När du är klar med ändringarna av modellen godkänner du den igen genom att välja **Godkänn modellutkast** i **Modellåtgärder** -menyn.
+1. När du är klar med ändringarna av modellen godkänner du den igen genom att välja **Godkänn modellutkast** på menyn **Modellåtgärder**.
 
    ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Om du inte godkänner modellen tas alla leads bort och deras historik i modellen tas bort. Överväg att redigera din modell i stället för att inte godkänna den.
 
-1. Markera den modell som du vill avgodkänna. Från **Modellåtgärder** meny, välja **Ogodkänd modell**.
+1. Markera den modell som du vill avgodkänna. På menyn **Modellåtgärder** väljer du **Ogodkänd modell**.
 
    ![](assets/five.png)
 
-1. Klicka **Ogodkänd**.
+1. Klicka på **Ogodkänd**.
 
    ![](assets/six.png)
 

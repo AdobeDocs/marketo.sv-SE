@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Förstå SEO-kontrollpanelen: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Förstå SEO Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
 Använd kontrollpanelen för att få en översikt över hur nyckelordsrankningarna är trending och hur bra webbplatsen är optimerad för SEO.
 
-Du kan även ta reda på hur du kan förbättra med [!UICONTROL Recommendations] -avsnitt. Kom så kör vi in!
+Du kan även ta reda på hur du kan förbättra med hjälp av avsnittet [!UICONTROL Recommendations]. Kom så kör vi in!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL Top Page Optimization Issues] {#top-page-optimization-issues}
 
-Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att se hela [Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->Du kan klicka [!UICONTROL Top Page Optimization Issues] för att se en fullständig lista.
+>Du kan klicka på [!UICONTROL Top Page Optimization Issues] om du vill visa en fullständig lista.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -35,10 +35,10 @@ Att ha välkända webbplatser som länkar till ert innehåll kan öka er sidrank
 
 >[!TIP]
 >
->Du kan klicka på [!UICONTROL Top Link Optimization] för att se en fullständig lista.
+>Du kan klicka på [!UICONTROL Top Link Optimization] om du vill visa en fullständig lista.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
 >[!MORELIKETHIS]
 >
->[Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[Detaljnivå för sidinformation nere](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

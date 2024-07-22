@@ -34,11 +34,11 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
-* [Översikt över instrumentpanelen](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
+* [Kontrollpanelsöversikt](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
 * [Kontrollpanel (slutbarhet)](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
 
-* [Instrumentpanel (rykte och autentisering)](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
+* [Kontrollpanel (rykte och autentisering)](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
 
 * [ISP-viktning](https://veed.io/view/bec80e1d-66f2-462c-8470-60610c8a07f7){target="_blank"}
 
@@ -46,7 +46,7 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 * [Kampanjspåraren - översikt](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
-* [Kampanjspårare (kampanjgranskning)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
+* [Kampanjspåraren (kampanjgranskning)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 
 * [Analysspåraren](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
@@ -60,7 +60,7 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 * [Domäninformation](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 
-* [Policy Manager](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
+* [Principhanteraren](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 
 ## Inkorgsspåraren, postmaster-verktyg {#inbox-tracker-postmaster-tools}
 
@@ -70,4 +70,4 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 ![](assets/inbox-tracker-tutorials-3.png)
 
-* [Designspårare](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
+* [Designspåraren](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}

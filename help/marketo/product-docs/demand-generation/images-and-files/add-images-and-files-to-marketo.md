@@ -23,7 +23,7 @@ Lär dig hur du lägger till nya bilder eller filer i din Marketo Engage-instans
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Upload image or file]**.
+1. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -35,7 +35,7 @@ Lär dig hur du lägger till nya bilder eller filer i din Marketo Engage-instans
    >
    >Den största storleken per fil är 100 MB.
 
-1. När resursen har valts klickar du **Överför**.
+1. När resursen har valts klickar du på **Överför**.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 

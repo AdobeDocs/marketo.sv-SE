@@ -6,7 +6,7 @@ exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Sidan [!UICONTROL Optimization Score] är en allmän rankning av hur bra sidan �
 
 >[!TIP]
 >
->Klicka på [!UICONTROL High Impact] i [!UICONTROL To Do] kommer du att omdirigeras till [!UICONTROL Issues tab] och visa dig högprioriterade problem att lösa.
+>Klicka på länken [!UICONTROL High Impact] i rutan [!UICONTROL To Do] så dirigeras du om till [!UICONTROL Issues tab] och visas problem med hög prioritet som ska lösas.
 
-## [!UICONTROL Pages] Tabb {#pages-tab}
+## Fliken [!UICONTROL Pages] {#pages-tab}
 
-The **[!UICONTROL Pages]tab** visar hur väl enskilda sidor på webbplatsen är optimerade för sökning.
+Fliken **[!UICONTROL Pages]** visar hur bra enskilda sidor på webbplatsen är optimerade för sökning.
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
@@ -38,11 +38,11 @@ The **[!UICONTROL Pages]tab** visar hur väl enskilda sidor på webbplatsen är 
 | [!UICONTROL Title] | Titel och URL för alla sidor på din domän. Verifiera din domän. |
 | [!UICONTROL Optimization Score] | Den hemliga sås som används för att visa hur bra sidan är optimerad för sökning på en skala från 1 till 100. |
 | [!UICONTROL Links] | Antal olika domäner med minst 1 inkommande länk till din plats. |
-| [!UICONTROL Target Keywords] | De nyckelord som du väljer att optimera varje sida för. [Detta kräver indata](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Target Keywords] | De nyckelord som du väljer att optimera varje sida för. [Detta kräver dina indata](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## [!UICONTROL Issues] Tabb {#issues-tab}
+## Fliken [!UICONTROL Issues] {#issues-tab}
 
-The **[!UICONTROL Issues]tab** kommer att identifiera vilka förbättringar du kan göra för att öka poängen för optimering och rankning.
+Fliken **[!UICONTROL Issues]** identifierar vilka förbättringar du kan göra för att öka din optimeringspoäng och rankning.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
@@ -53,4 +53,4 @@ The **[!UICONTROL Issues]tab** kommer att identifiera vilka förbättringar du k
 | [!UICONTROL Category] | Typ av problem som rapporteras. |
 | [!UICONTROL Status] | Är aktiviteten slutförd eller fortfarande öppen? När du och din webbmaster har åtgärdat problemet på din webbplats bör statusen ändras till löst (grön kontroll). |
 
-Häftig, nu när du vet grunderna om sidor kan du kolla in [Artikeln Detaljnivå - nedåt](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) för att lära dig mer coola saker.
+Nu när du känner till grunderna för sidor kan du läsa artikeln [Detaljinfo](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om du vill veta mer om coola saker.

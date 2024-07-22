@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ Marketo är bra på att välja rätt personer för ett program eller en smart ka
 
 >[!NOTE]
 >
->Lär dig [skapa segmenteringar](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Lär dig [hur du skapar segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör du dela dem mellan arbetsytorna. Här är några bra saker att veta:
+När du har konfigurerat de här personerna (_och_ du använder arbetsytor) vill du dela dem mellan arbetsytorna. Här är några bra saker att veta:
 
 ## Regler och tips {#rules-tips}
 
-* Varje Marketo-prenumeration kan innehålla upp till 20&quot;totalt&quot; segment över flera arbetsytor (**inte 20 per arbetsyta**).
+* Varje Marketo-prenumeration kan innehålla upp till 20 segment, totalt, över flera arbetsytor (**inte 20 per arbetsyta**).
 * Du kan bara dela en segmentering med arbetsytor som du har tillgång till.
-* Se till att skapa och använda en **Standardarbetsyta som har synlighet i alla partitioner**.
+* Se till att skapa och använda en **standardarbetsyta som har synlighet i alla partitioner**.
 
 * Segmenteringsbearbetningen körs bara på personerna på arbetsytan där segmenteringen skapas.
 
-   * Skapa segmenteringen som du vill dela i standardarbetsytan.
+   * Skapa den segmentering som du vill dela i standardversionen av Workspace.
       * Godkänn segmenteringen
       * Den delade arbetsytan ser en låst mapp och segmenteringen är skrivskyddad.
       * Det går inte att redigera den delade versionen. Du kan bara redigera det ursprungliga segmentet där det skapades.
@@ -60,7 +60,7 @@ När du har konfigurerat dessa profiler (_och_ om du använder arbetsytor) bör 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Högerklicka **[!UICONTROL Segmentations]** och markera **[!UICONTROL New Folder]**.
+1. Högerklicka på **[!UICONTROL Segmentations]** och välj **[!UICONTROL New Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 

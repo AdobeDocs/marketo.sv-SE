@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Se vilka företag som besöker er webbplats. Du kan välja att visa kända eller anonyma besökare, men inte båda i samma rapport.
 
-Skapa en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) för att se de enskilda personer som besöker er webbplats.
+Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) om du vill se de enskilda personer som besöker din webbplats.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först ange [upp Munchkin på er webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först konfigurera [Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj Företagets webbaktivitetsrapport [rapporttyp](report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [för företagswebbaktiviteten](report-type-overview.md).
 
-1. Välj [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
+1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
 
-1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 
 1. Så ja! Granska din rapport för att se vilka företag som besöker er webbplats.
 
@@ -33,9 +33,9 @@ Skapa en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/
 
    >[!TIP]
    >
-   >För att hitta de företag som besöker er webbplats mest, [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) på _Sidvyer_ kolumn och välj **Sortera fallande**.
+   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _Sidvyer_ och väljer **Sortera fallande**.
 
-   [Kolumner som du kan markera](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport:
+   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 
 <table> 
  <thead> 
@@ -47,11 +47,11 @@ Skapa en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/
  <tbody> 
   <tr> 
    <td>Företag</td> 
-   <td>Besökarnas företag.<br> <strong>Namn i fetstil</strong> har bekräftats vara företagsnamn av minst en person.</td> 
+   <td>Besökarnas företag.<br> <strong>Namn i fet stil</strong> har bekräftats vara företagsnamn av minst en person.</td> 
   </tr> 
   <tr> 
    <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i fetstil</strong> ange att det är företaget, inte Internet-leverantören. </td> 
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i fet stil</strong> anger att det är företaget, inte Internet-leverantören. </td> 
   </tr> 
   <tr> 
    <td>Sidvyer</td> 

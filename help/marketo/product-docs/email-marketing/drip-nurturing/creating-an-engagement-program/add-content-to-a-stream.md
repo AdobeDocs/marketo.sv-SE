@@ -15,23 +15,23 @@ ht-degree: 0%
 
 När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i strömmarna. Du kan lägga till e-post eller program i en ström.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
    Du kan lägga till innehåll på två olika sätt:
 
-**Knappen Lägg till innehåll**
+**Lägg till innehållsknapp**
 
-1. Klicka på **Lägg till innehåll** -knappen.
+1. Klicka på knappen **Lägg till innehåll** .
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Välj **E-post** _eller_ **Program** väljer du sedan det e-postprogram eller det program/den smarta kampanj som du vill lägga till.
+1. Välj **E-post** _eller_ **Program** och välj sedan det e-postprogram eller den smarta kampanj som du vill lägga till.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -39,18 +39,18 @@ När ni väl har skapat ert engagemangsprogram måste ni lägga till innehåll i
    >
    >E-postmeddelanden som är lokala för det här engagemangsprogrammet sorteras överst.
 
-**+ ikon**
+**+-ikon**
 
-1. Klicka på **+** ikon, välj **E-post** _eller_ **Program** väljer du sedan det e-postprogram eller det program/den smarta kampanj som du vill lägga till.
+1. Klicka på ikonen **+**, välj **E-post** _eller_ **Program** och välj sedan det e-postprogram eller den smarta kampanj som du vill lägga till.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >En smart kampanj måste innehålla **Medlem i Engagement Program** för att det ska fungera.
+   >En smart kampanj måste innehålla filtret **Member of Engagement Program** för att den ska fungera korrekt.
 
-Bra jobbat! Nu vet ni hur ni lägger till innehåll i era programströmmar. Lägg till så mycket du behöver för din näring. Mer information finns i den relaterade artikeln nedan.
+Snyggt jobb! Nu vet ni hur ni lägger till innehåll i era programströmmar. Lägg till så mycket du behöver för din näring. Mer information finns i den relaterade artikeln nedan.
 
 >[!MORELIKETHIS]
 >
->[Lägga till ett program i en Engagement Program Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Lägger till ett program i en engagemangsprogramström](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

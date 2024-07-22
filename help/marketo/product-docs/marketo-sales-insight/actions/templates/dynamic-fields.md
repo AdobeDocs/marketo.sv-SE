@@ -5,24 +5,24 @@ exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
 
 # Dynamiska fält {#dynamic-fields}
 
-Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
+Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{first_name}}` eller `{{company}}`. Dessa fält gör att du kan skicka e-post till flera kontakter och fylla i fälten automatiskt utan att behöva skriva ut dem separat för varje kontakt.
 
 >[!TIP]
 >
->Fälten&quot;first_name&quot; och&quot;company&quot; är de enda fält som kommer att användas för både Sales Insight Actions och Salesforce. Det innebär att en kontakt inte finns i [webbprogram](https://toutapp.com/login)söker vi i Salesforce för att se om vi kan hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
+>Fälten&quot;first_name&quot; och&quot;company&quot; är de enda fält som kommer att användas för både Sales Insight Actions och Salesforce. Det innebär att om en kontakt inte finns i [webbprogrammet](https://toutapp.com/login) söker vi i Salesforce för att se om det går att hitta en kontakt-/lead-post med en matchande e-postadress. Vi använder sedan information från den posten för att fylla i fältet.
 
 ## Infoga ett dynamiskt fält i en mall {#insert-a-dynamic-field-into-a-template}
 
-1. I **Mallar och kampanjer** söker du efter den mall som du vill redigera och klickar på **Redigera mall**.
+1. I **Mallar och kampanjer** letar du reda på mallen som du vill redigera och klickar på **Redigera mall**.
 
-1. Klicka **Infoga dynamiskt fält**.
+1. Klicka på **Infoga dynamiskt fält**.
 
    >[!NOTE]
    >
@@ -48,9 +48,9 @@ Det gör du genom att lägga till &quot;|&quot; efter etiketten för det dynamis
 
 ## Ordlista för dynamiska fält {#dynamic-fields-glossary}
 
-När du skapar en mall i Sales Insight Actions rekommenderar vi alltid att du integrerar dynamiska fält med **Infoga dynamiskt fält** -knappen.
+När du skapar en mall i Sales Insight Actions rekommenderar vi alltid att du integrerar dynamiska fält med knappen **Infoga dynamiskt fält** .
 
-Det här verktyget används för att `auto-personalize your email` och spara massor av tid `pulling information from the People page`.
+Det här verktyget används för att `auto-personalize your email` och sparar dig massor av tid av `pulling information from the People page`.
 
 | Dynamiskt fält | Exempel på vad som visas i ditt e-postmeddelande |
 |---|---|
@@ -68,11 +68,11 @@ Det här verktyget används för att `auto-personalize your email` och spara mas
 **Saker att notera**:
 
 * Om en kontakts information är felaktigt angiven eller saknas på sidan Personer, kommer den inte att föras över korrekt till din mall.
-* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` tar bort alla formella titlar, som Inc., LLC. osv., från namnet på din kontakts företag.
-* När du använder `{{company_friendly}}`ska du avgränsa Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Insight Actions vad som ska tas bort när värdet hämtas.
-* Vi låter dig anpassa dina e-postmallar med fördefinierade attribut som `{{my_name}}` eller `{{my_title}}`. Med dessa fält kan du snabbt referera till dig själv i e-postmallar.
-* Systemet lägger automatiskt till användarens signatur i varje e-postmeddelande som skickas. Om användaren använder en mall med `{{my_signature}}` dynamiskt fält fylls signaturen där `{{my_signature}}` dynamiskt fält har placerats ut. Det läggs bara till där för att undvika duplicering. Systemet hanterar `{{team_unsubscribe}}` på samma sätt som när den globala inställningen för att avsluta prenumeration är aktiverad.
+* Skillnaden mellan `{{company}}` och `{{company_friendly}}` är att `{{company_friendly}}` kommer att ta bort alla formella titlar, som Inc., LLC osv., från namnet på din kontakts företag.
+* När du använder `{{company_friendly}}` måste du separera Inc. eller Co. med ett kommatecken i kontaktinformationen. Så här vet Sales Insight Actions vad som ska tas bort när värdet hämtas.
+* Du kan anpassa dina e-postmallar med fördefinierade attribut som `{{my_name}}` eller `{{my_title}}`. Med dessa fält kan du snabbt referera till dig själv i e-postmallar.
+* Systemet lägger automatiskt till användarens signatur i varje e-postmeddelande som skickas. Om användaren använder en mall med det `{{my_signature}}` dynamiska fältet fyller systemet i signaturen där det `{{my_signature}}` dynamiska fältet har placerats. Det läggs bara till där för att undvika duplicering. Systemet hanterar `{{team_unsubscribe}}` på samma sätt när den globala inställningen för att avsluta prenumerationen är aktiverad.
 
 >[!TIP]
 >
->Om dina dynamiska fält inte fylls i, checka ut [den här artikeln](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>Om dina dynamiska fält inte fylls i går du till [den här artikeln](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).

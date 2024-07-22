@@ -6,7 +6,7 @@ exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Det finns två sätt att skapa e-postmeddelanden i Marketo. Vi tittar på båda.
 
    ![](assets/create-an-email-1.png)
 
-1. Klicka på **Nytt** nedrullningsbar meny och välj **Ny e-post**.
+1. Klicka på listrutan **Ny** och välj **Ny e-post**.
 
    ![](assets/create-an-email-2.png)
 
@@ -33,15 +33,15 @@ Enkelt! Nu åt andra hållet..
 
 ## Skapa ett e-postmeddelande i marknadsföringsaktiviteter {#create-an-email-in-marketing-activities}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/create-an-email-3.png)
 
-1. Välj det program du vill lägga till e-postmeddelandet i och klicka på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
+1. Välj det program du vill lägga till e-postmeddelandet i, klicka på listrutan **Nytt** och välj **Ny lokal resurs**.
 
    ![](assets/create-an-email-4.png)
 
-1. Klicka **E-post**.
+1. Klicka på **E-post**.
 
    ![](assets/create-an-email-5.png)
 
@@ -55,7 +55,7 @@ Vilken metod du än väljer kommer du till mallväljaren.
 
    >[!NOTE]
    >
-   >Du kan välja mellan en samling färdiga responsiva e-postmallar, eller en mall som du sparade genom att först välja **Mina mallar** och följer samma steg.
+   >Du kan välja från en samling färdiga responsiva e-postmallar eller en mall som du sparade genom att först välja **Mina mallar** och sedan följa samma steg.
 
 1. Ange en ämnesrad. Rekommenderad teckengräns är 50.
 
@@ -67,4 +67,4 @@ Din e-postadress har skapats, så redigera bort!
 
 >[!MORELIKETHIS]
 >
->[Redigera din e-postrubrik](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[Redigera din e-postadress](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

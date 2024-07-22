@@ -6,7 +6,7 @@ exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 
 ## Installation {#installation}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-4.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/two-4.png)
 
@@ -34,7 +34,7 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
 
    >[!CAUTION]
    >
-   >Om du är ansluten visas en grön Install-knapp. **GÖR INTE** klicka på den här knappen, fortsätt till steg 4 i stället.
+   >Om du är ansluten visas en grön Install-knapp. **DO NOT** click this button, forts to step 4 istället.
 
 1. Logga in på Salesforce-kontot som du är ansluten till och klicka sedan på [den här länken](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Du kommer att skickas till installationssidan för Sales Connect.
@@ -42,9 +42,9 @@ Kunder som har Salesforce Professional Edition måste följa dessa steg för att
    ![](assets/install-package.png)
 
 1. Välj de användare som du vill installera anpassningar för: Endast administratör, alla användare eller specifika profiler.
-1. Klicka på **Installera** för att installera anpassning.
+1. Klicka på knappen **Installera** för att installera anpassning.
 1. Logga in på ditt Salesforce-konto för att bekräfta att installationen lyckades.
-1. Klicka **Inställningar**, sök efter&quot;Installerade paket&quot; i sökfältet och klicka på **Installerade paket**.
+1. Klicka på **Konfigurera**, sök efter&quot;Installerade paket&quot; i sökfältet och klicka på **Installerade paket**.
 
    Där ser du Marketo Sales Connect Customizations.
 

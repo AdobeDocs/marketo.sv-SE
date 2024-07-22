@@ -24,15 +24,15 @@ Ge evenemangen specifika mål och se hur de fungerar.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Välj [!UICONTROL Campaign Folder], ge evenemanget en [!UICONTROL Name]väljer du [!UICONTROL Program Type] och [!UICONTROL Channel]. Klicka **[!UICONTROL Create]** när det är klart.
+1. Välj [!UICONTROL Campaign Folder], ge din händelse en [!UICONTROL Name], välj [!UICONTROL Program Type] och [!UICONTROL Channel]. Klicka på **[!UICONTROL Create]** när du är klar.
 
    ![](assets/setting-event-goals-2.png)
 
-1. Klicka på **[!UICONTROL Reports]** -fliken.
+1. Klicka på fliken **[!UICONTROL Reports]** i din händelse.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Ange målet för [!UICONTROL Registered] genom att klicka **[!UICONTROL Set a goal]**. Skriv numret i och tryck på Retur.
+1. Ange målet för [!UICONTROL Registered] genom att klicka på **[!UICONTROL Set a goal]**. Skriv numret i och tryck på Retur.
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ Ge evenemangen specifika mål och se hur de fungerar.
 >
 >Du kan inte ange mål för en händelse efter att den har startats.
 
-Och det är allt! Kontrollera status för händelsens mål genom att klicka på [!UICONTROL Reports] -fliken.
+Och det är allt! Kontrollera status för händelsemål genom att klicka på fliken [!UICONTROL Reports].

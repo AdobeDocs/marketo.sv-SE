@@ -30,11 +30,11 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Skicka och spåra e-postmeddelanden](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) för leads och kontakter från Microsoft Dynamics.
+[Skicka och spåra säljmeddelanden](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) till leads och kontakter från Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
@@ -44,7 +44,7 @@ Fullständig information finns tillgänglig efter lanseringen på [https://exper
 
 ## Stöd för anpassade entiteter för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Använd anpassade objektdata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) från Microsoft Dynamics för filtrering och aktivering av smarta listor, smarta kampanjer, program...
+[Använd anpassade objektdata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) från Microsoft Dynamics för filtrering och utlösning i smarta listor, smarta kampanjer, program...
 
 ## Stöd för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ Kontrollpanelen har nu förbättrats så att den innehåller mer lättöverskåd
 
 ## RTP - Nya mobilmallar för kampanjer {#rtp-new-mobile-templates-for-campaigns}
 
-Snabbt och enkelt [skapa mobilkampanjer](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) med dessa nya mallar.
+[Skapa mobilkampanjer](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) snabbt och enkelt med de nya mallarna.
 
 ## RTP - API för användarkontext {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Besök [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig information.
+Mer information finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).

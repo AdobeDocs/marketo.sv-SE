@@ -21,7 +21,7 @@ Om du har begränsad tid att fördjupa dig i dina kunskaper rekommenderar vi fö
 
 <p>
 
-![Avbryt en schemalagd batchkampanj](assets/reviewing-core-skills-2.png) [**Avbryt en schemalagd batchkampanj**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+![Avbryt en schemalagd gruppkampanj](assets/reviewing-core-skills-2.png) [**Avbryt en schemalagd gruppkampanj**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
 
 <p>
 
@@ -37,4 +37,4 @@ Om du har begränsad tid att fördjupa dig i dina kunskaper rekommenderar vi fö
 
 <p>
 
-![Organisera dina program](assets/reviewing-core-skills-6.png) [**Organisera dina program**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![Organisera dina program](assets/reviewing-core-skills-6.png) [**Så här organiserar du dina program**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

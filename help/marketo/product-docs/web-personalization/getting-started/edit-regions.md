@@ -19,11 +19,11 @@ Vill du ändra de regionala inställningarna för användare så att endast data
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicka **Redigera områden**.
+1. Klicka på **Redigera områden**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
-1. Kontrollera länder och delstater som är relaterade till din region.
+1. Kontrollera vilka länder eller delstater som är relaterade till din region.
 
 >[!NOTE]
 >

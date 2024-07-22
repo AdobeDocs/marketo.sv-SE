@@ -6,7 +6,7 @@ exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Men när du importerar den till Marketo kanske du ser att de tecken som inte är
 
 Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan identifiera alla tecken som inte är latinska. Den goda nyheten är att du kan följa några enkla steg för att åtgärda det.
 
-1. Välj **Spara som...** från **Fil** i Excel.
+1. Välj **Spara som..** på menyn **Arkiv** i Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Välj **UTF-16 Unicode-text (.txt)** som **Format** alternativ. Detta kodar filen så som den kan visas i Marketo.
+1. Välj **UTF-16 Unicode-text (.txt)** som **Format** -alternativ. Då kodas filen som den visas i Marketo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -47,7 +47,7 @@ Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan i
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Välj **Sök och ersätt..** från **Redigera** -menyn.
+1. Välj **Sök och ersätt..** på menyn **Redigera**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -55,7 +55,7 @@ Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan i
    >
    >Motsvarande åtgärd för Windows-användare är: **Redigera > Ersätt..**
 
-1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Och klicka **Alla**.
+1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Klicka sedan på **Alla**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

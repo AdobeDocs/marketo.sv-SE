@@ -1,9 +1,10 @@
 ---
 description: Anslut till Outlook - Marketo Docs - produktdokumentation
 title: Anslut till Outlook
-source-git-commit: 2538bd5973eb3372352c3ddbada6521911f9fc33
+exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -20,27 +21,27 @@ Lär dig hur du ansluter kontot Sales Insight Actions till Outlook.
 
 Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leveranskanalen i Outlook, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Marketo Sales och välj **Settings**.
 
    ![](assets/connect-to-outlook-1.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/connect-to-outlook-2.png)
 
-1. Klicka på **E-postanslutning** -fliken.
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/connect-to-outlook-4.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
 
    ![](assets/connect-to-outlook-5.png)
 
-1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
+1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Outlook Online.
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -59,9 +60,9 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    >[!NOTE]
    >
-   >Marketo stöder för närvarande inte Hybrid-konton för Exchange.
+   >Marketo stöder för närvarande inte hybridkonton i Exchange.
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/connect-to-outlook-7.png)
 
@@ -69,7 +70,7 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/connect-to-outlook-8.png)
 
-1. Klicka **Acceptera**.
+1. Klicka på **Acceptera**.
 
    ![](assets/connect-to-outlook-9.png)
 
@@ -83,27 +84,27 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
 Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkomst till Outlooks leveranskanal, möjlighet att schemalägga e-postmeddelanden i Outlook och skicka regelefterlevnad.
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Marketo Sales och välj **Settings**.
 
    ![](assets/connect-to-outlook-10.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/connect-to-outlook-11.png)
 
-1. Klicka på **E-postanslutning** -fliken.
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/connect-to-outlook-13.png)
 
-1. Välj **Jag använder Outlook för att skicka e-post** och klicka **Nästa**.
+1. Välj **Jag använder Outlook för att skicka e-post** och klicka på **Nästa**.
 
    ![](assets/connect-to-outlook-14.png)
 
-1. Välj den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
+1. Markera den version av Outlook som du använder och klicka på **Nästa**. I det här exemplet väljer vi Exchange On-Local.
 
    ![](assets/connect-to-outlook-15.png)
 
@@ -120,7 +121,7 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
     </tbody>
    </table>
 
-1. Ange dina uppgifter och klicka på **Anslut**.
+1. Ange dina autentiseringsuppgifter och klicka på **Anslut**.
 
    ![](assets/connect-to-outlook-16.png)
 
@@ -145,7 +146,7 @@ Du kan behöva samarbeta med IT-avdelningen för att få tillstånd att tillåta
 Beroende på ditt IT-teams önskemål och aktuella konfiguration är det bäst att rådfråga dem om hur de ska bevilja åtkomst. Nedan finns några artiklar som kan vägleda konversationen.
 
 * Global samtycke: [Integrerade appar och Azure AD för Microsoft 365-administratörer](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Användargodkännande: [Konfigurera hur användare godkänner program](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Administratörsgodkännande: [Konfigurera arbetsflödet för administratörsgodkännande](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Aktivera eller inaktivera användarens samtycke: [Hantera användargodkännande för appar i Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Användarsamtycke: [Konfigurera hur användare godkänner program](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
+* Administratörssamtycke: [Konfigurera arbetsflödet för administratörsgodkännande](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Aktivera eller inaktivera användargodkännande: [Hantera användargodkännande för appar i Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
 * Hantera med Microsoft Defender: [Hantera OAuth-appar](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

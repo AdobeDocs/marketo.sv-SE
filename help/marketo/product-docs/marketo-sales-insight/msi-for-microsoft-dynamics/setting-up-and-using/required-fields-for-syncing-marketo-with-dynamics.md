@@ -6,20 +6,20 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Obligatoriska fält för synkronisering av Marketo med Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Dessa fält *måste* synkas med Marketo för både Lead och Contact for Sales Insight:
+De här fälten *måste* synkroniseras med Marketo för både lead och för att kontakt för Sales Insight ska fungera:
 
 * Prioritet
 * Akut
 * Relativa poäng
 
-Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Kontrollera i instansen att fälten är synkroniserade för båda för att åtgärda detta **Lead** och **Kontakt**. Om inte, lägg till dem.
+Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Du åtgärdar detta genom att checka in instansen för att kontrollera att fälten är synkroniserade för både **Lead** och **Contact**. Om inte, lägg till dem.
 
 Så här verifierar och lägger du till synkroniseringsfält.
 
@@ -27,7 +27,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka **Redigera** i Fältsynkroniseringsinformation.
+1. Klicka på **Redigera** i fältsynkroniseringsinformation.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,4 +57,4 @@ Så här verifierar och lägger du till synkroniseringsfält.
 
 >[!MORELIKETHIS]
 >
->[Stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[Konfigurera stjärnor och flamma för lead-/kontaktposter](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

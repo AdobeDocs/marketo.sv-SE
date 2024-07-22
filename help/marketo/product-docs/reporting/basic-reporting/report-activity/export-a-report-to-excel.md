@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Du kan exportera alla rapporter till en Excel-fil för att arbeta med data i andra program.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Välj rapporten från navigeringsträdet och klicka på **Rapport** -fliken.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Klicka på **Exportera** -knappen.
+1. Klicka på knappen **Exportera**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +31,4 @@ Du kan exportera alla rapporter till en Excel-fil för att arbeta med data i and
 
    >[!MORELIKETHIS]
    >
-   >Om den hämtade filen är för stor kan du [ändra rapportstorlek](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Om den hämtade filen är för stor kan du [ändra rapportstorleken](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

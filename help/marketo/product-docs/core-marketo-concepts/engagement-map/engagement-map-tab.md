@@ -1,8 +1,8 @@
 ---
 description: Engagement Map Tab - Marketo Docs - Product Documentation
 title: Fliken Åtagandekarta
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Flödessteg: Om ett flödessteg innehåller alternativ visas namnet på flödess
 * Lista med urvalsvillkor som är kopplade till flödessteget
 * Redigera flödessteg
 
-Flödessteg: Om ett flödessteg _not_ inkluderar eventuella alternativ. Kortet visar de attribut som är kopplade till flödessteget. Om du klickar på den visas en utfällbar panel med följande information:
+Flödessteg: Om ett flödessteg _inte_ innehåller några alternativ visas de attribut som är kopplade till flödessteget på det här kortet. Om du klickar på den visas en utfällbar panel med följande information:
 
 * Kampanj som flödessteget tillhör
 * Lista med attribut som är kopplade till flödessteget
@@ -69,7 +69,7 @@ Flödessteg: Om ett flödessteg _not_ inkluderar eventuella alternativ. Kortet v
    * Lista med urvalsvillkor som är kopplade till flödessteget
    * Redigera flödessteg
 
-* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Klicka på _val_ kommer att utöka kampanjen som är kopplad till det specifika valet samt visa en utfällbar panel med följande information:
+* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på _choice_-kortet utökas kampanjen som är kopplad till det specifika valet samt en utfällbar panel med följande information visas:
 
    * Campaign som valet tillhör
    * Redigera alternativ
@@ -134,7 +134,7 @@ Nedan visas ett exempel på en varning på ett Choice-kort som visas i steg-kort
 >
 >Varningar är rekommendationer att granska, men indikerar inga fel i Smart Campaign.
 
-**Fel i filterkort kan vara:**
+**Fel i filterkort kan innehålla:**
 
 * Ett fel i Smart List som gör att kvalificerade målgrupper inte visas
 

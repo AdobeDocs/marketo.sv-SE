@@ -29,9 +29,9 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen.
 
-1. Öppna menyn Kampanjstatus och välj **Schema**.
+1. Öppna menyn Campaign Status och välj **Schedule**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -43,7 +43,7 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
    >
    >Standardinställningen kör kampanjer i webbbesökarens tidszon.
 
-1. Välj ett startdatum och en starttid och ett slutdatum och en sluttid.
+1. Välj ett startdatum och en sluttid och ett slutdatum.
 
    ![](assets/image2016-1-14-8-3a16-3a12.png)
 
@@ -51,18 +51,18 @@ Du kan schemalägga webbkampanjen baserat på besökarens tid eller en vald tids
    >
    >Du kan välja datum och tid på den nedrullningsbara menyn och kalendern eller ange dem manuellt. Tidpunkterna är 12-timmars AM/PM-tid.
 
-1. Som standard körs kampanjen varje dag mellan start- och slutdatumet. Om du bara vill köra kampanjen på vissa dagar eller vid specifika tidpunkter använder du **Upprepa** inställningar. Välj dag och start- och sluttid för att visa kampanjen. Använd plustecknet + för att lägga till ytterligare dagar.
+1. Som standard körs kampanjen varje dag mellan start- och slutdatumet. Om du bara vill köra kampanjen på vissa dagar eller vid specifika tidpunkter använder du inställningarna för **Upprepa**. Välj dag och start- och sluttid för att visa kampanjen. Använd plustecknet + för att lägga till ytterligare dagar.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klicka **Schema**.
+1. Klicka på **Schema**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Status för kampanjen på kampanjsidan ändras till **Schemalagd** och ikonen för klockan/kalendern visas. Klicka på den här ikonen om du vill redigera kampanjschemat.
+1. Statusen för kampanjen på kampanjsidan ändras till **Schemalagd** och klockan/kalenderikonen visas. Klicka på den här ikonen om du vill redigera kampanjschemat.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >Kampanjstatusen är som **Schemalagd** även när kampanjen körs under de valda schemalagda tiderna. När ett schemalagt slutdatum har passerat ändras kampanjstatusen till **Pausad**.
+   >Kampanjstatusen förblir **Schemalagd** även när kampanjen körs under de valda schemalagda tiderna. När ett schemalagt slutdatum har passerat ändras kampanjstatusen till **Pausad**.

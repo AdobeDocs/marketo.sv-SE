@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ E-postanalysområdet fokuserar på e-poststatistik. I den här artikeln presente
 
 >[!AVAILABILITY]
 >
->Detta är tillgängligt för användare med Select Edition eller [Analys av intäktscykler](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) tillägg. Kontakta din säljare för mer information.
+>Detta är tillgängligt för användare med tillägget Select Edition eller [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Kontakta din säljare för mer information.
 
 ## E-postklickning på hetta rutnät för aktivitet {#email-click-activity-heat-grid}
 

@@ -19,15 +19,15 @@ E-postmeddelanden har begränsade funktioner (begränsad CSS och inga JavaScript
 >
 >Visa som webbsida är inte aktiverat när du skapar ett nytt e-postmeddelande. Om du aktiverar den och klonar e-postmeddelandet kopieras den här inställningen.
 
-1. Välj e-post och klicka **Redigera utkast**.
+1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
 
    ![](assets/one-5.png)
 
-1. I e-postredigeraren klickar du på **E-postinställningar**.
+1. Klicka på **E-postinställningar** i e-postredigeraren.
 
    ![](assets/two-5.png)
 
-1. Kontrollera **Inkludera vy som webbsida** och klicka **Spara**.
+1. Markera rutan **Inkludera vy som webbsida** och klicka på **Spara**.
 
    ![](assets/three-4.png)
 

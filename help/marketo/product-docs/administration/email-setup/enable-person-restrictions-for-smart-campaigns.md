@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Aktivera personbegränsningar för smarta kampanjer {#enable-person-restrictions-for-smart-campaigns}
 
-Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan kvalificera sig för en smart kampanj. På så sätt slipper du oavsiktligt skicka hela databasen via e-post.
+Det finns en funktion i Marketo som begränsar det _maximala_ antalet personer som kan kvalificera sig för en smart kampanj. På så sätt slipper du oavsiktligt skicka hela databasen via e-post.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan 
 >
 >Detta gäller endast gruppkampanjer och e-postprogram.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
@@ -39,7 +39,7 @@ Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan 
    >
    >Om antalet personer som är kvalificerade att köras via en smart kampanj överstiger den angivna gränsen kommer den inte att köras alls.
 
-1. Ange en gräns och klicka **[!UICONTROL Save]**.
+1. Ange en gräns och klicka på **[!UICONTROL Save]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
@@ -49,9 +49,9 @@ Det finns en funktion i Marketo som begränsar _maximum_ antal personer som kan 
 
    >[!CAUTION]
    >
-   >Den här gränsen tillämpas på alla smarta kampanjer, men kan åsidosättas på kampanjnivå. Lär dig hur [åsidosätta personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Den här gränsen tillämpas på alla smarta kampanjer, men kan åsidosättas på kampanjnivå. Lär dig hur du [åsidosätter personbegränsningar i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Klar! Du har just aktiverat säkerhetsväxeln.
+Klart! Du har just aktiverat säkerhetsväxeln.
 
 >[!MORELIKETHIS]
 >

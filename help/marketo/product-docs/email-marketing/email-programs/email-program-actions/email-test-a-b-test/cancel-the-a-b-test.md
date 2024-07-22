@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Avbryt A/B-testet {#cancel-the-a-b-test}
 
-Om du har  [lade till en A/B-testning](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) till ditt e-postprogram och har beslutat att du inte längre vill ha det är enkelt att ångra det. Så här gör du.
+Om du har [lagt till en A/B-testning](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) i e-postprogrammet och har beslutat att du inte längre vill ha det, är det enkelt att ångra. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,12 +23,12 @@ Om du har  [lade till en A/B-testning](/help/marketo/product-docs/email-marketin
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Under **E-post** platta, klicka **Ta bort A/B-test**.
+1. Klicka på **Ta bort A/B-test** under rutan **E-post**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
    >[!NOTE]
    >
-   >Ditt e-postprogram måste avgodkännas innan du kan ta bort A/B-testet. Se [Godkänn/avgodkänn ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) för mer information.
+   >Ditt e-postprogram måste avgodkännas innan du kan ta bort A/B-testet. Mer information finns i [Godkänn/avgodkänn ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md).
 
 Ta det lugnt!

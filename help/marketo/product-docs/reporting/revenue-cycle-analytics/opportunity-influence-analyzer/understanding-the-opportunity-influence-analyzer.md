@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718648
 description: Förstå säljprojektsanalys - Marketo Docs - produktdokumentation
-title: Förstå analysen av affärsmöjlighet
+title: Förstå analysen av säljprojektspåverkan
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Förstå analysen av affärsmöjlighet {#understanding-the-opportunity-influence-analyzer}
+# Förstå analysen av säljprojektspåverkan {#understanding-the-opportunity-influence-analyzer}
 
 Varje möjlighet är en historia. Var träffade du ledaren? Vilka marknadsföringsmöjligheter påverkade dem under marknadsförings-/försäljningsprocessen?
 
@@ -19,7 +19,7 @@ Med säljprojektsanalysen kan du se hela artikeln. Det finns till och med i Sale
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Lägg märke till de gröna kontrollerna**. De visar att programmet lyckades för ett av namnen till höger. Det gröna området anger början och slutet av affärsmöjligheten.
+**Observera de gröna kontrollerna**. De visar att programmet lyckades för ett av namnen till höger. Det gröna området anger början och slutet av affärsmöjligheten.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Om du vill behålla det här beteendet bör du ta bort dubbletter av dina data i
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

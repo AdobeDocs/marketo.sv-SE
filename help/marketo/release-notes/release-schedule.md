@@ -13,9 +13,9 @@ ht-degree: 5%
 
 # Releaschema {#release-schedule}
 
-**Frigör**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
+**Utgåva**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
-**Releasedatum**: Utrullningen börjar vanligtvis på tisdag i releasecommien, och mer av uppgraderingen sker på fredag kväll. Det listade datumet gäller uppdateringen på fredag.
+**Releasedatum**: Lanseringen börjar vanligtvis på tisdag i versionsveckan, och mer av uppgraderingen sker på fredag kväll. Det listade datumet gäller uppdateringen på fredag.
 
 **Status**:
 

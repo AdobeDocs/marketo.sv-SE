@@ -16,7 +16,7 @@ ht-degree: 0%
 Här är några av detaljerna:
 
 * Marketo Engage tar inte automatiskt bort personer bara för att leads har tagits bort i Salesforce. I stället anges flaggan &quot;SFDC is Deleted&quot; till true. Om du vill kan du aktivera det här fältet och ta bort det i Marketo.
-* [Ta bort person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} flödesåtgärd. Detta tar bort en person i MKTO men du kan välja att ta bort i `Salesforce` också.
+* [Flödesåtgärden Ta bort person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"}. Detta tar bort en person i MKTO, men du kan också ta bort den i `Salesforce`.
 
-* [Ta bort från SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} flödesåtgärd: Detta tar bort ett lead i SFDC, men du kan även välja att ta bort en person i Marketo.
-* Om ett lead tas bort i Salesforce (men en person inte tas bort i Marketo) och sedan körs det i [Synkronisera med Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} flödesåtgärd, då skulle en ny lead skapas i Salesforce.
+* [Flödesåtgärden Ta bort från SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"}: Detta tar bort en lead i SFDC men du kan även ta bort en person i Marketo.
+* Om ett lead tas bort i Salesforce (men en person inte tas bort i Marketo) och sedan körs genom flödesåtgärden [Synkronisera med Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} skapas ett nytt lead i Salesforce.

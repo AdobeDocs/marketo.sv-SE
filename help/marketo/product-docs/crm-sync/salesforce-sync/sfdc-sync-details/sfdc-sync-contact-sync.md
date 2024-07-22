@@ -6,7 +6,7 @@ exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Vi är trevliga och låter Salesforce vinna. Det är sällsynt att en sådan kol
 
 ## Kan jag konvertera en person till en kontakt i Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, använd **[Konvertera person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** flödesåtgärd.
+Ja, använd flödesåtgärden **[Konvertera person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}**.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Ja, använd **[Konvertera person](/help/marketo/product-docs/core-marketo-concep
 
 ## Kan jag framtvinga en synkronisering av en kontakt manuellt? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, använd **[Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** och den kommer att synkas i realtid.
+Ja, använd flödesåtgärden **[Synkronisera person till SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** så synkroniseras den i realtid.
 
 ## Synkroniserar alla standardfält med Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

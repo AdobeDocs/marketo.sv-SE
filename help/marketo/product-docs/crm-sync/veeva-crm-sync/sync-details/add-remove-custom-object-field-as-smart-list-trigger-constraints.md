@@ -18,7 +18,7 @@ Marketo Engage ger specifik kontroll över den anpassade objektsynkningen Veeva.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka **[!UICONTROL Admin]** sedan **[!UICONTROL Veeva Objects Sync]**.
+1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -34,7 +34,7 @@ Marketo Engage ger specifik kontroll över den anpassade objektsynkningen Veeva.
    >
    >Om knappen Redigera synliga fält är nedtonad används objektet i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
 
-1. Om den globala synkroniseringen är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
+1. Om din globala synkronisering är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
@@ -46,7 +46,7 @@ Marketo Engage ger specifik kontroll över den anpassade objektsynkningen Veeva.
    >
    >Alla fält markeras som standard som begränsningar för filter.
 
-1. Klicka på **[!UICONTROL Fields]** för att bekräfta dina ändringar.
+1. Klicka på fliken **[!UICONTROL Fields]** för att bekräfta ändringarna.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

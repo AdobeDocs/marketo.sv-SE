@@ -6,7 +6,7 @@ exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj program. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Schedule]**.
+1. Välj program. Klicka på listrutan **[!UICONTROL View]**. Välj **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Namnge posten. Tryck **[!UICONTROL Enter]** för att bekräfta namnet.
+1. Namnge posten. Bekräfta namnet genom att trycka på **[!UICONTROL Enter]**.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -51,11 +51,11 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 ## Ändra posttyp {#change-entry-type}
 
-1. Välj en grundläggande post på menyn **[!UICONTROL Agenda]** vy.
+1. Välj en grundläggande post i vyn **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Välj **[!UICONTROL Type]** nedrullningsbar meny. Välj en ny posttyp.
+1. Välj listrutan **[!UICONTROL Type]**. Välj en ny posttyp.
 
    >[!NOTE]
    >
@@ -69,4 +69,4 @@ Du kan skapa poster i programschemavyn för att komplettera ett befintligt progr
 
 >[!NOTE]
 >
-> Du kan också skapa en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} från schemavyn.
+> Du kan också skapa ett [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"}- eller [e-postprogram](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} från schemavyn.

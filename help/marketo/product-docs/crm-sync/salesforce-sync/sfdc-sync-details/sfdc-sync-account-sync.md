@@ -6,7 +6,7 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Nej. Ett konto kan ha många kontakter, en kontakt kan bara ha ett konto.
 
 ## Kan jag skapa konton från Marketo? {#can-i-create-accounts-from-marketo}
 
-För det mesta, nej. Om du använder [Konvertera person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} om du utför ett flödessteg på en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
+För det mesta, nej. Om du däremot använder flödessteget [Konvertera person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} för en person skapas en ny kontakt, ett nytt konto och ett nytt säljprojekt.
 
 >[!CAUTION]
 >

@@ -23,13 +23,13 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
-1. För webbkampanjen klickar du på **Klona**.
+1. Klicka på **Klona** för webbkampanjen.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen har titeln &quot;[KAMPANJNAMN] Copy&quot;.
+1. Kampanjkloningen kopierar allt innehåll från den befintliga webbkampanjen till den nya klonade kampanjen. Den nya klonade webbkampanjen har titeln [CAMPAIGN NAME] Copy.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -41,4 +41,4 @@ Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställning
 >
 >* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Skapa en Widget-kampanj för RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

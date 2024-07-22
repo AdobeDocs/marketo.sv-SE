@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Kampanjaktivitetsrapport {#campaign-activity-report}
 
-Se hur [Smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) presterar.
+Se hur dina [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) fungerar.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och väljer **Kampanjaktivitet** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Kampanjaktivitet** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på **Rapport** -fliken.
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 
 1. Bra! Utforska er rapport för att identifiera era mest effektiva kampanjer, grupperade efter kampanjtyp.
 
@@ -25,15 +25,15 @@ Se hur [Smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart
 
    >[!TIP]
    >
-   >För att hitta de kampanjer som bearbetade flest människor, till exempel [sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) på _Totalt antal bearbetade personer_ och välja **Sortera fallande**.
+   >Om du vill hitta de kampanjer som har bearbetat flest personer, till exempel [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) på _Totalt antal bearbetade personer_ och väljer **Sortera fallande**.
 
-   Klicka på namnet på en smart kampanj för att öppna den.  [Kolumner som du kan markera](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport omfattar:
+   Klicka på namnet på en smart kampanj för att öppna den.  [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport är:
 
    | Kolumn | Beskrivning |
    |---|---|
    | Antal batchkörningar | Antal gånger som kampanjen kördes. |
    | Totalt antal bearbetade personer | Antal personer som har gått igenom kampanjens flöde. |
-   | Personer i vänteläge | Om en kampanj fortfarande pågår, antalet personer som finns kvar i *Vänta* steg. |
+   | Personer i vänteläge | Om en kampanj fortfarande körs, antalet personer som finns kvar i steget *Vänta*. |
    | Borttagen från flöde | Antal personer som har tagits bort från kampanjen. |
    | Senaste aktivitet | Den senaste gången en person bearbetades av kampanjen. |
 
@@ -41,10 +41,10 @@ Se hur [Smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart
 
    | Typ | Beskrivning |
    |---|---|
-   | Grupp | Batchkampanjer i **Marknadsföringsaktiviteter** -fliken. |
-   | Kör åtgärd | Personåtgärder körs från **Databas**. |
-   | Utlöst (aktivt) | Aktuella utlösta kampanjer i **Marknadsföringsaktiviteter** -fliken. |
-   | Utlöst (inaktivt) | Inaktiva utlösta kampanjer i **Marknadsföringsaktiviteter** -fliken. |
+   | Grupp | Gruppkampanjer på fliken **Marknadsföringsaktiviteter**. |
+   | Kör åtgärd | Personåtgärder körs från **databasen**. |
+   | Utlöst (aktivt) | Aktuella utlösta kampanjer på fliken **Marknadsföringsaktiviteter**. |
+   | Utlöst (inaktivt) | Inaktiva utlösta kampanjer på fliken **Marknadsföringsaktiviteter**. |
 
 >[!MORELIKETHIS]
 >

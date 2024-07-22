@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Om sändningsalternativ för försäljningskampanj för e-poststeg {#understanding-sales-campaign-send-options-for-email-steps}
 
-När du skapar en försäljningskampanj har du flera alternativ för hur e-poststegen skapas i Sales Insight-åtgärder. Beroende på var e-postadressen hamnar i er säljkampanj skiljer sig alternativen också åt.
+När du skapar en försäljningskampanj har du flera alternativ för hur e-poststegen skapas i Sales Insight-åtgärder. Och beroende på var e-postadressen hamnar i er säljkampanj skiljer sig även alternativen åt.
 
 ## Skicka-alternativ i första steget {#first-step-send-options}
 
@@ -29,7 +29,7 @@ Om det är ditt första steg och den första dagen i din säljkampanj har du fö
 * När ni börjar med er säljkampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny&quot;skicka&quot;-tid när du stänger av din säljkampanj.
 
-### Skapa en uppgift; Jag skickar det här e-postmeddelandet själv {#first-step-create-a-task}
+### Skapa en uppgift. Jag skickar det här e-postmeddelandet själv {#first-step-create-a-task}
 
 * Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
 * När du har valt detta alternativ kommer vi att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar säljkampanjen. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
@@ -51,7 +51,7 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 * När ni börjar med er säljkampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny&quot;skicka&quot;-tid när du stänger av din säljkampanj.
 
-### Skapa en uppgift; Jag skickar det här e-postmeddelandet själv {#subsequent-create-a-task}
+### Skapa en uppgift. Jag skickar det här e-postmeddelandet själv {#subsequent-create-a-task}
 
 * Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
 * När du har valt detta alternativ kommer Säljannonsering att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar säljkampanjen. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
@@ -61,8 +61,8 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 
 ### Skapa det här e-postmeddelandet som en uppföljning av föregående e-postmeddelande i kampanjen {#subsequent-create-this-email}
 
-* Aktivera den här kryssrutan om du vill att det föregående e-postmeddelandet i din säljkampanj ska bifogas till nästa e-postmeddelande som din försäljningskampanj skickar ut.
-* För den bifogade kopian av e-postmeddelandet skickas alltid e-postmallen i din försäljningskampanj ut. Ändringar som användaren har gjort innan det skickades kommer inte att tas med i sändningen.
+* Aktivera den här kryssrutan om du vill att det föregående e-postmeddelandet i din säljkampanj ska bifogas till nästa e-postmeddelande som din säljkampanj skickar ut.
+* För den bifogade kopian av e-postmeddelandet skickas alltid e-postmallen i din säljkampanj ut. Ändringar som användaren har gjort innan det skickades kommer inte att tas med i sändningen.
 
 >[!NOTE]
 >
@@ -70,6 +70,6 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 
 >[!MORELIKETHIS]
 >
->[Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Skapa en säljkampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->[Inställningar för försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[Inställningar för försäljningskampanj ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

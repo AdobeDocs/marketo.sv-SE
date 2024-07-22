@@ -17,7 +17,7 @@ Programkanaler är en samling statusar eller kontrollpunkter som leads bör gå 
 
 Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort den.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
@@ -25,7 +25,7 @@ Om du råkar göra en av misstag eller inte längre behöver en, kan du ta bort 
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Markera kanalen som du vill ta bort. I **[!UICONTROL Tag Actions]** nedrullningsbar meny, klicka **[!UICONTROL Delete]**.
+1. Markera kanalen som du vill ta bort. Klicka på **[!UICONTROL Delete]** i listrutan **[!UICONTROL Tag Actions]**.
 
    >[!TIP]
    >

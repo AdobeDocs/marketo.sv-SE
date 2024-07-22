@@ -6,7 +6,7 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---
@@ -21,9 +21,9 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
 >[!PREREQUISITES]
 >
->Du måste ha [Driftsättning mot Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 eller 3.0 (ADFS) har konfigurerats. **Anteckning**: IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Du måste ha konfigurerat [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 eller 3.0 (ADFS). **Obs!** IFD-dokumentet hämtas automatiskt när du klickar på länken.
 >
->[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du börjar.
+>[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du startar.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in i Dynamics och välj **[!UICONTROL Settings]** i den nedre vänstra menyn.
+1. Logga in i Dynamics och välj **[!UICONTROL Settings]** längst ned till vänster.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicka på **[!UICONTROL Browse]**. Välj den Marketo Lead Management-lösning du använder [nedladdad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Browse]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -51,11 +51,11 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. När du är klar med kontrollen av all information klickar du på **[!UICONTROL Close]**.
+1. När du har kontrollerat alla detaljer klickar du på **[!UICONTROL Close]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Gå tillbaka till sidan Lösningsinformation, klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Next]** på sidan Lösningsinformation.
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
@@ -79,7 +79,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management visas nu på **Alla lösningar** sida.
+1. Marketo Lead Management visas nu på sidan **Alla lösningar**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 

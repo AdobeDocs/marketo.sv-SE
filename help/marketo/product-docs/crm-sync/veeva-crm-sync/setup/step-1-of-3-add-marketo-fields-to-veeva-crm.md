@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 2%
+source-wordcount: '505'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +42,7 @@ Utför följande steg för fältet Poäng för att lägga till det.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Klicka på **[!UICONTROL Contact]** -objekt.
+1. Klicka på objektet **[!UICONTROL Contact]**.
 
 1. Välj **[!UICONTROL Fields and Relationships]**.
 
@@ -58,7 +58,7 @@ Utför följande steg för fältet Poäng för att lägga till det.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Ange **[!UICONTROL Field Label]**, **[!UICONTROL Length]** och **[!UICONTROL Field Name]** för fältet enligt tabellen nedan.
+1. Ange **[!UICONTROL Field Label]**, **[!UICONTROL Length]** och **[!UICONTROL Field Name]** för fältet, vilket visas i tabellen nedan.
 
 <table>
  <tbody>
@@ -71,7 +71,7 @@ Utför följande steg för fältet Poäng för att lägga till det.
   <tr>
    <td>Poäng</td>
    <td>mkto71_Lead_Score</td>
-   <td>Antal</td>
+   <td>Nummer</td>
    <td>Längd 10<br/>
 Decimaler 0</td>
   </tr>
@@ -92,7 +92,7 @@ Decimaler 0</td>
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Ange åtkomstinställningar och klicka på **[!UICONTROL Next]**.
+1. Ange åtkomstinställningarna och klicka på **[!UICONTROL Next]**.
 
 1. Ställ in alla roller till Synlig och Skrivskyddad.
 
@@ -105,9 +105,9 @@ Decimaler 0</td>
 
 1. Välj de sidlayouter som ska visa fältet.
 
-1. Klicka **[!UICONTROL Save & New]** för att gå tillbaka och skapa de två andra anpassade fälten.
+1. Klicka på **[!UICONTROL Save & New]** om du vill gå tillbaka och skapa de två andra anpassade fälten.
 
-1. Klicka **[!UICONTROL Save]** när du är klar med alla tre.
+1. Klicka på **[!UICONTROL Save]** när du är klar med alla tre.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

@@ -17,15 +17,15 @@ Identifiera och engagera namngivna konton och personer i dem med nya kontobasera
 
 ## TAM-filter {#tam-filters}
 
-1. Välj en smart kampanj och klicka på **Smart List**.
+1. Välj din smarta kampanj och klicka på **Smart lista**.
 
    ![](assets/one.png)
 
-1. Klicka på **+** för att utöka **Kontofilter** mapp.
+1. Klicka på mappen **+** för att expandera mappen **Kontofilter**.
 
    ![](assets/two.png)
 
-1. Dra de filter som du vill använda till arbetsytan.
+1. Dra de filter du vill använda till arbetsytan.
 
    ![](assets/three.png)
 
@@ -35,17 +35,17 @@ Om du vill använda det här filtret klickar du på listrutan med kontolistan...
 
 ![](assets/four.png)
 
-...och välj en eller flera kontolistor.
+...och välj önskad(a) kontolista(er).
 
 ![](assets/five.png)
 
 >[!NOTE]
 >
->Det finns bara en kvalificerare för medlemslistan: &quot;is&quot; - Ytterligare kvalificerare (som &quot;is not&quot; och &quot;is any&quot;) är inte tillgängliga.
+>För filtret Medlem i kontolista finns det bara en kvalificerare: &quot;is&quot; - ytterligare kvalificerare (som &quot;is not&quot; och &quot;is any&quot;) är inte tillgängliga.
 
 ## Medlem i namngivet konto {#member-of-named-account}
 
-Välj först en kvalificerare. **Är** för ett specifikt namngivet konto eller specifika namngivna konton, eller **är** för alla namngivna konton.
+Välj först en kvalificerare. **Är** för ett specifikt namngivet konto(n) eller **är något** för ett namngivet konto.
 
 ![](assets/six.png)
 

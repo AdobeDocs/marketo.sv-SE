@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hur spårning fungerar {#how-view-tracking-works}
 
-Vi håller reda på e-postöppningar genom att placera en osynlig bild inuti de e-postmeddelanden du skickar.
+Vi spårar öppnandet av e-postmeddelanden genom att placera en osynlig bild inuti de e-postmeddelanden du skickar.
 
 Om någon svarar på ditt e-postmeddelande men Sales Connect säger att det inte visades, är det troligt att mottagaren inte aktiverade bilder i sin e-postklient (d.v.s. klicka på meddelandet&quot;klicka här för att hämta bilder&quot; i e-postmeddelandet).
 

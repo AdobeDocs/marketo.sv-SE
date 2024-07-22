@@ -6,14 +6,14 @@ exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # Konfigurera SPF och DKIM för e-postleveransen {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Ett snabbt sätt att förbättra e-postleveransen är att lägga till **SPF** (Sender Policy Framework) och **DKIM** (Domännycklar för identifierad e-post) till dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketo att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
+Ett snabbt sätt att förbättra e-postleveranshastigheten är att införliva **SPF** (Sender Policy Framework) och **DKIM** (Domain Keys Identified Mail) i dina DNS-inställningar. Med det här tillägget i dina DNS-poster talar du om för mottagarna att du har auktoriserat Marketo att skicka e-post för din räkning. Utan den här ändringen har din e-postadress större chans att markeras som skräppost eftersom e-postadressen adresserades från din domän, men skickas från en IP-adress med en Marketo-domän.
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ Ett snabbt sätt att förbättra e-postleveransen är att lägga till **SPF** (S
 
 **Om du inte har någon SPF-post på din domän**
 
-Be nätverksadministratören lägga till följande rad i DNS-posterna. Ersätt [domän] med webbplatsens huvuddomän (t.ex. &quot;company.com&quot;) och [corpIP] med IP-adressen till företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du skickar e-post från flera domäner via Marketo bör du lägga till detta i varje domän (på en rad).
+Be nätverksadministratören lägga till följande rad i DNS-posterna. Ersätt [domän] med webbplatsens huvuddomän (t.ex. &quot;company.com&quot;) och [corpIP] med IP-adressen för företagets e-postserver (ex. &quot;255.255.255.255&quot;). Om du skickar e-post från flera domäner via Marketo bör du lägga till detta i varje domän (på en rad).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -45,7 +45,7 @@ När du har konfigurerat den offentliga nyckeln i din DNS-post och aktiverat den
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-**Hur ställer jag upp DKIM?**
+**Hur konfigurerar jag DKIM?**
 
 Se [Konfigurera en anpassad DKIM-signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 

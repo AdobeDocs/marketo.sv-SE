@@ -7,7 +7,7 @@ exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Ja, Sales Insight Actions är kompatibelt med Salesforce Lightning.
 
-Please [klicka här](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) för Installations- och Success Guide.
+[Klicka här](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) för installations- och programguiden.
 
 >[!NOTE]
 >

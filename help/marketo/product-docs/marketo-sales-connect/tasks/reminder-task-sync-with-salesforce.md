@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Om du vill veta mer om hur du aktiverar uppgiftssynkronisering kan du checka ut [Synkronisera aktiviteter/påminnelser för Sales Connect till Salesforce-aktiviteter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Om du vill veta mer om hur du aktiverar aktivitetssynkronisering kan du checka ut [Synkronisera försäljningsanslutningsuppgifter/påminnelser till Salesforce-uppgifter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
 När inställningarna för uppgiftssynkronisering är aktiverade kommer användare att se sina påminnelseuppgifter dubbelsynkroniserade med Salesforce. Det innebär att användare kan hantera uppgifter från antingen Salesforce eller Sales Connect och känna sig säkra på att systemen är anpassade efter varandra.
 
@@ -55,15 +55,15 @@ Nedan visas en lista över påminnelseuppgiftsfälten i Sales Connect och deras 
   <td>Datumet då uppgiften förfaller.</td>
  </tr>
  <tr>
-  <td>Detaljer</td>
-  <td>Kommentarer</td>
+  <td>Information</td>
+  <td>Kommentar</td>
   <td>Visar mer detaljerad information om vad som var tänkt att slutföras med påminnelseaktiviteten.</td>
  </tr>
 </table>
 
 ## Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-När du först aktiverar synkroniseringen mellan Sales Connect- och Salesforce-uppgifter importerar vi dina Salesforce-uppgifter. Vi ska **not** föra över alla aktuella uppgifter du har i Sales Connect till Salesforce. För att minska problem och dubbletter är de enda uppgifter som synkroniseras från Sales Connect till Salesforce de uppgifter som skapas *efter* du synkroniserar Sales Connect med SFDC.
+När du först aktiverar synkroniseringen mellan Sales Connect- och Salesforce-uppgifter importerar vi dina Salesforce-uppgifter. Vi kommer **inte** att föra över aktuella uppgifter som du har i Sales Connect till Salesforce. För att minska problem och dubbletter är de enda uppgifter som synkroniseras från Sales Connect till Salesforce aktiviteter som skapas *efter* att du synkroniserat Sales Connect med SFDC.
 
 Det här händer när du synkroniserar Sales Connect- och SFDC-uppgifter:
 
@@ -71,14 +71,14 @@ Det här händer när du synkroniserar Sales Connect- och SFDC-uppgifter:
 
 * Påminnelser som har uppdaterats eller skapats under de senaste 24 timmarna hämtas in från SFDC till Sales Connect. Synkroniseringen baseras på förfallodatum och alla dessa uppgifter synkroniseras på baksidan, men i kommandocentralen visas endast uppgifter som förfaller idag och imorgon.
 
-* Om synkronisering har aktiverats tidigare och du tar bort några uppgifter i SFDC, tas allt som har tagits bort de senaste 15 dagarna bort från kommandocentralen.
+* Om synkronisering har aktiverats tidigare och du tar bort några uppgifter i SFDC, kommer allt som har tagits bort de senaste 15 dagarna att tas bort från kommandocentralen.
 
 * Vi synkroniserar kontinuerligt uppgifter mellan Sales Connect och SFDC så länge synkroniseringen är aktiverad.
 
 Efter den första synkroniseringen kommer alla uppgifter du skapar, redigerar, slutför eller tar bort i Sales Connect att synkroniseras med din uppgiftslista i Salesforce. Och allt som du har skapat, redigerat, slutfört eller tagit bort i Salesforce kommer att uppdatera din uppgiftslista i Sales Connect.
 
-Aktivera synkroniseringen genom att markera synkroniseringsrutan i [Sidan Inställningar](https://toutapp.com/login) i webbprogrammet.
+Om du vill aktivera synkroniseringen markerar du bara synkroniseringsrutan på [inställningssidan](https://toutapp.com/login) i webbprogrammet.
 
 >[!NOTE]
 >
->Ämnesfältet för en uppgift kan uppdateras i Sales Connect och uppdateringen synkroniseras i Salesforce-ämnesfältet för motsvarande synkroniserade uppgift, om du använder `{{activity_subject}}` dynamiskt fält i [Anpassning av aktivitetsdetalj](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) inställningar. Omvänt kommer alla uppdateringar som görs i ämnesfältet i Salesforce att _not_ synkronisera till ämnesfältet för påminnelseaktiviteten Sales Connect.
+>Ämnesfältet för en aktivitet kan uppdateras i Sales Connect och den uppdateringen synkroniseras i Salesforce-ämnesfältet för motsvarande synkroniserade uppgift, om du använder det dynamiska fältet `{{activity_subject}}` i dina [inställningar för anpassning av aktivitetsinformation](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Omvänt kommer alla uppdateringar som görs i ämnesfältet i Salesforce _inte_ att synkroniseras till ämnesfältet i påminnelseaktiviteten för Sales Connect.

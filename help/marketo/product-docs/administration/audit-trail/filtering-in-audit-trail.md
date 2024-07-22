@@ -7,7 +7,7 @@ feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Under **[!UICONTROL Security]** väljer du **[!UICONTROL Audit Trail]**.
+1. Välj **[!UICONTROL Audit Trail]** under **[!UICONTROL Security]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -29,17 +29,17 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    >[!NOTE]
    >
-   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: _alla e-postmeddelanden - redigerade av vem som helst - under de senaste sju dagarna_.
+   >Det finns en mängd möjliga sökparameterkombinationer. I det här exemplet hittar vi: _alla e-postmeddelanden - redigerade av alla - under de senaste sju dagarna_.
 
-1. Klicka på **[!UICONTROL Period]** nedrullningsbar meny och välj **[!UICONTROL Last 7 Days]**.
+1. Klicka på listrutan **[!UICONTROL Period]** och välj **[!UICONTROL Last 7 Days]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Klicka på **[!UICONTROL Asset Type]** nedrullningsbar meny och välj **[!UICONTROL Email]**.
+1. Klicka på listrutan **[!UICONTROL Asset Type]** och välj **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicka på **Afunktioner** nedrullningsbar meny och välj **[!UICONTROL Edit]**.
+1. Klicka på listrutan **Aactions** och välj **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -55,8 +55,8 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    >[!NOTE]
    >
-   >Om du har aktiverat arbetsytor visas granskningsdata för alla arbetsytor. Om du använder ett arbetsytefilter kommer Marketo ihåg det tidigare arbetsytevärdet varje gång du använder granskningsspår. Arbetsytebehörigheter på resursnivå används.
+   >Om du har aktiverat arbetsytor visas granskningsdata för alla arbetsytor. Om du använder ett arbetsytefilter kommer Marketo ihåg det tidigare arbetsytevärdet varje gång du använder granskningsspår. Workspace-behörigheter på resursnivå tillämpas.
 
    >[!MORELIKETHIS]
    >
-   >[Ändra detaljer i granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Ändra information i granskningsspåret](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

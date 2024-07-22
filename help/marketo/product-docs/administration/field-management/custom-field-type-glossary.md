@@ -6,7 +6,7 @@ exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 >[!TIP]
 >
->Beroende på fälttyp, filter/utlösare [operatorer](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) blir annorlunda.
+>Beroende på fälttyp kommer filter/utlösare [operatorer](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) att vara olika.
 
 >[!NOTE]
 >
->De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **Sträng**, vilket är högst 255 tecken långt.
+>De flesta fält får inte innehålla maximalt antal tecken, utan i stället en mängd byte. Därför kan vi inte ange en definitiv teckengräns för varje fält. Undantaget är **String**, som är högst 255 tecken långt.
 
 ## Boolean {#boolean}
 
-**Exempelnamn:** Är kund - tagga dina medarbetare som kunder
+**Exempelnamn:** är kund - tagga dina personer som kunder
 
-**Exempelvärden:** True (checked) / False (unchecked)
+**Exempelvärden:** Sant (markerad)/Falskt (avmarkerad)
 
-**Operatorer**: Ingen
+**Operatorer**: Inga
 
 ## Valuta {#currency}
 
-**Exempelnamn:** Budget - Lagra ett nummervärde för ett företags budget
+**Exempelnamn:** Budget - Lagra ett talvärde för ett företags budget
 
 **Exempelvärden:** 100
 
-**Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
+**Operatorer**: är, inte, mellan, större än, mindre än, minst, är tom, är inte tom
 
 ## Datum {#date}
 
@@ -49,7 +49,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärden:** 8/19/14
 
-**Operatorer**: är, inte, mellan, tidigare, tidigare, tidigare, i framtiden, efter, i tidsramen, efter, före, på eller efter, är tom, är inte tom
+**Operatorer**: är, inte, mellan, tidigare, tidigare, i framtiden, efter, i tidsram, efter, före, på eller efter, på eller före, är tom, är inte tomma
 
 ## Datetime {#datetime}
 
@@ -57,7 +57,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärden:** 8/19/14 2:00
 
-**Operatorer**: är, inte, mellan, tidigare, tidigare, tidigare, i framtiden, efter, i tidsramen, efter, före, på eller efter, är tom, är inte tom
+**Operatorer**: är, inte, mellan, tidigare, tidigare, i framtiden, efter, i tidsram, efter, före, på eller efter, på eller före, är tom, är inte tomma
 
 ## E-post {#email}
 
@@ -65,21 +65,21 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärden:** name@company.com
 
-**Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
+**Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom
 
 ## Float {#float}
 
-**Exempelnamn:** Grad - Behåll en persons medelvärde för poäng eller något annat numeriskt värde med decimaler
+**Exempelnamn:** Grad-punktsmedel - Behåll en persons medelvärde för poäng eller något annat numeriskt värde med decimaler
 
-**Exempelvärden:** 2,47
+**Exempelvärden:** 2.47
 
-**Operatorer**: mellan, större än, mindre än, åtminstone, är tom, är inte tom
+**Operatorer**: mellan, större än, mindre än, åtminstone, är tomma, är inte tomma
 
 ## Formel {#formula}
 
-**Exempelnamn:** Hälsningar - använd det här speciella fältet i en [lösning för att få rätt hälsning](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) baserat på kön
+**Exempelnamn:** Hälsningar - använd det här specialfältet i en [lösning för att få rätt hälsning](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) baserat på kön
 
-**Exempelvärden:** kontrollera den länkade lösningen
+**Exempelvärden:** Kontrollera den länkade lösningen
 
 ## Heltal {#integer}
 
@@ -87,7 +87,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärden:** 600
 
-**Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
+**Operatorer**: är, inte, mellan, större än, mindre än, minst, är tom, är inte tom
 
 ## Procent {#percent}
 
@@ -95,23 +95,23 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärden:** 85 %
 
-**Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
+**Operatorer**: är, inte, mellan, större än, mindre än, minst, är tom, är inte tom
 
 ## Tel. {#phone}
 
-**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer åt dina medarbetare
+**Exempelnamn:** Alternativ telefon - lagra ytterligare ett telefonnummer för dina personer
 
 **Exempelvärde:** 650-555-5555
 
-**Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
+**Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom
 
 ## Poäng {#score}
 
-**Exempelnamn:** Beteendepoäng/demografisk poäng - skapa flera poängfält för att hålla reda på olika attribut
+**Exempelnamn:** Beteendepoäng/Demografisk poäng - skapa flera poängfält för att hålla reda på olika attribut
 
 **Exempelvärde:** 14
 
-**Operatorer**: är, inte, mellan, större än, mindre än, åtminstone, är tom, är inte tom
+**Operatorer**: är, inte, mellan, större än, mindre än, minst, är tom, är inte tom
 
 ## Sträng {#string}
 
@@ -119,20 +119,20 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelvärde:** ros
 
-**Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
+**Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom
 
 ## Textområde {#text-area}
 
-**Exempelnamn:** Kommentarer - lägg till ett kommentarsfält i formulären så att du kan skriva text på flera rader
+**Exempelnamn:** Kommentarer - lägg till ett kommentarsfält i formulären för att tillåta flerradig text
 
 **Exempelvärde:** Den här artikeln är fantastisk!
 
-**Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
+**Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom
 
 ## URL {#url}
 
-**Exempelnamn:** Blogg - skapa ett fält för lagring av personblogg-URL:er
+**Exempelnamn:** Blogg - skapa ett fält för lagring av personbloggens URL
 
 **Exempelvärde:** www.myblog.com
 
-**Operatorer**: is, is not, startar med, inte börjar med, innehåller, inte innehåller, är tom, är inte tom
+**Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom

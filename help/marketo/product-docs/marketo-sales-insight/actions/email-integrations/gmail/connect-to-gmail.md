@@ -1,9 +1,10 @@
 ---
 description: Anslut till Gmail - Marketo Docs - produktdokumentation
 title: Anslut till Gmail
-source-git-commit: 2538bd5973eb3372352c3ddbada6521911f9fc33
+exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -14,33 +15,33 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 
 >[!CAUTION]
 >
->Om du är [använda filter](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} eller regler i ditt Gmail-konto som automatiskt markerar e-postmeddelanden som lästa kan orsaka problem med svarsuppföljningen. Vi rekommenderar att du inaktiverar alla regler som automatiskt markerar e-postmeddelanden som lästa när du använder svarsspårning med Gmail.
+>Om du [använder filter](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} eller regler i ditt Gmail-konto för att automatiskt markera e-postmeddelanden som lästa, kan detta orsaka problem med svarsuppföljning. Vi rekommenderar att du inaktiverar alla regler som automatiskt markerar e-postmeddelanden som lästa när du använder svarsspårning med Gmail.
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Marketo Sales och välj **Settings**.
 
    ![](assets/connect-to-gmail-1.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/connect-to-gmail-2.png)
 
-1. Klicka på **E-postanslutning** -fliken.
+1. Klicka på fliken **E-postanslutning**.
 
    ![](assets/connect-to-gmail-3.png)
 
-1. Klicka **Kom igång**.
+1. Klicka på **Kom igång**.
 
    ![](assets/connect-to-gmail-4.png)
 
-1. Välj **Jag använder Gmail för att skicka e-post** och klicka **Nästa**.
+1. Välj **Jag använder Gmail för att skicka e-post** och klicka på **Nästa**.
 
    ![](assets/connect-to-gmail-5.png)
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/connect-to-gmail-6.png)
 
-1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte, ange din Gmail-adress och klicka på **Nästa**. I det här exemplet är vi ännu inte inloggade.
+1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte anger du din Gmail-adress och klickar på **Nästa**. I det här exemplet är vi ännu inte inloggade.
 
    ![](assets/connect-to-gmail-7.png)
 
@@ -48,7 +49,7 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 
    ![](assets/connect-to-gmail-8.png)
 
-1. Klicka **Tillåt**.
+1. Klicka på **Tillåt**.
 
    ![](assets/connect-to-gmail-9.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 När du skapar en social app kan du välja vilken URL som ska delas i inlägg från deltagarna.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. I redigeraren för sociala appar går du till **Appinställningar** och sedan **Avancerade alternativ**.
+1. Gå till **Appinställningar** i redigeraren för sociala appar och sedan till **Avancerade alternativ**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -38,9 +38,9 @@ När du skapar en social app kan du välja vilken URL som ska delas i inlägg fr
    >Dela inlägg kan länka till tre platser:
    >
    >* **Refererande sida**: Sidan som innehåller appen.
-   >* **Annan landningssida**: En annan Marketo-landningssida än de som visas i listrutan.
+   >* **Annan landningssida**: En annan Marketo-landningssida än de som finns i listrutan.
    >* **Extern URL**: En landningssida som inte är Marketo.
 
 >[!MORELIKETHIS]
 >
->[Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Lägg till din sekretesspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

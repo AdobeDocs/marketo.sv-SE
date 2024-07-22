@@ -25,11 +25,11 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Du kan också klicka på Push Notification-åtgärdsmenyn **Skicka exempel**.
+   Du kan också klicka på **Skicka exempel** på åtgärdsmenyn för push-meddelanden.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Du kan också klicka på i Push Notifications Editor **Skicka exempel**.
+   Du kan också klicka på **Skicka exempel** i Push Notifications Editor.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Eller klicka **Lägg till enhet** till [lägg till en ny testenhet](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) för att skicka exemplet till.
+   Du kan också klicka på **Lägg till enhet** för att [lägga till en ny testenhet](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) som du vill skicka exemplet till.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Du kan ansluta enheten till appen på två sätt.
 
-   Med det första alternativet klickar du på **Besök URL med enhet** kopierar du URL:en från fältet och skickar den i ett e-postmeddelande eller SMS till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **Skicka**.
+   Med det första alternativet klickar du på knappen **Besök URL med enhet**, kopierar URL-adressen från fältet och skickar den i ett e-postmeddelande eller ett textmeddelande till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **Skicka**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Eller, med det andra alternativet, klicka på **Skanna QR-kod med enhet** och skanna QR-koden med din enhet. När statusen visar anslutningen klickar du på **Skicka**.
+   Eller, med det andra alternativet, klicka på knappen **Skanna QR-kod med enhet** och skanna QR-koden med din enhet. När statusen visar anslutningen klickar du på **Skicka**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Har du lagt till en testenhet, men den visas inte i listan i **Skicka till** fält? Kontrollera följande för att felsöka:
+   >Har du lagt till en testenhet, men den visas inte i fältet **Skicka till**? Kontrollera följande för att felsöka:
    >
    >* Push-meddelanden är aktiverade för det program som är associerat med push-meddelandet.
    >

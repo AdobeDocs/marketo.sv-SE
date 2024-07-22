@@ -16,9 +16,9 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
 >[!PREREQUISITES]
 >
->* [Redigera API-rollen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} för att säkerställa att den har **Skrivskyddad person** behörighet (finns i listrutan Åtkomst-API).
+>* [Redigera API-rollen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} och kontrollera att den har behörigheten **Read-Write Person** (finns i listrutan Åtkomst-API).
 >* [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} i Marketo.
->* Gå till **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Sök efter namnet på den roll du just skapade och klicka på **[!UICONTROL View Details]**. Kopiera och spara informationen i **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]** som du kunde behöva det för steg 7.
+>* Gå till **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Sök efter namnet på rollen som du just skapade och klicka på **[!UICONTROL View Details]**. Kopiera och spara informationen i **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]**, eftersom du kan behöva den för steg 7.
 >* Skapa en statisk lista i Marketo eller sök efter och välj en som du redan har skapat. Du behöver dess ID.
 
 1. Logga in på [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
@@ -29,7 +29,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
-1. Klicka på **[!UICONTROL Destinations]**.
+1. Klicka på **[!UICONTROL Destinations]** i den vänstra navigeringen.
 
    ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
@@ -37,7 +37,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Hitta plattan Marketo Engage och klicka **[!UICONTROL Activate]**.
+1. Hitta plattan Marketo Engage och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -52,13 +52,13 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!NOTE]
    >
-   >Om du väljer Nytt konto kan du hitta ditt Munchkin-ID genom att gå till **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (den ingår också i din Marketo-URL när du har loggat in). Klient-ID/hemlighet som du bör ha från att följa de krav som anges högst upp i den här artikeln.
+   >Om du väljer Nytt konto kan du hitta ditt Munchkin-ID genom att gå till **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (det är också en del av din Marketo-URL när du har loggat in). Klient-ID/hemlighet som du bör ha från att följa de krav som anges högst upp i den här artikeln.
 
-1. Välj destinationskontot och klicka på **[!UICONTROL Select]**.
+1. Välj målkontot och klicka på **[!UICONTROL Select]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Ange ett mål **[!UICONTROL Name]** och en valfri beskrivning. Klicka på listrutan Skapa person och välj&quot;Matcha befintliga Marketo-personer och skapa saknade personer i Marketo&quot; _eller_ &quot;Matcha endast befintliga Marketo-användare&quot; (i det här exemplet väljer vi den första). Du måste också välja en **[!UICONTROL Workspace]**.
+1. Ange ett mål **[!UICONTROL Name]** och en valfri beskrivning. Klicka på listrutan Skapa person och välj Matcha befintliga Marketo-personer och Skapa saknade personer i Marketo _eller_ Matcha endast befintliga Marketo-personer (i det här exemplet väljer vi den första). Du måste också välja en **[!UICONTROL Workspace]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -66,7 +66,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
    >
    >Om du väljer&quot;Matcha endast befintliga Marketo-användare&quot; behöver du bara mappa e-postmeddelandet och/eller ECID så att du kan hoppa över steg 13-16.
 
-1. Det här avsnittet är valfritt. Klicka **[!UICONTROL Create]** att hoppa över.
+1. Det här avsnittet är valfritt. Klicka på **[!UICONTROL Create]** om du vill hoppa över.
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
@@ -84,7 +84,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!IMPORTANT]
    >
-   >När ett segment har aktiverats för första gången på Marketo-målet kan de bakåtfyllnadsprofiler som redan fanns i segmentet innan Marketo-målaktiveringen aktiveras _upp till 24 timmar_. Framöver kommer profiler som läggs till i segmentet att läggas till i Marketo direkt.
+   >När ett segment har aktiverats för första gången på Marketo-målet kan det ta _upp till 24 timmar_ att fylla i profiler som redan fanns i segmentet innan Marketo-målaktiveringen. Framöver kommer profiler som läggs till i segmentet att läggas till i Marketo direkt.
 
 1. Klicka på **[!UICONTROL Add New Mapping]**.
 
@@ -102,11 +102,11 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
    >
    >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
-1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** och upprepa steg 15 två gånger genom att välja **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
+1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** igen och upprepa steg 15 två gånger. Välj **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. Nu är det dags att mappa e-postadressen. Klicka **[!UICONTROL Add New Mapping]** igen.
+1. Nu är det dags att mappa e-postadressen. Klicka på **[!UICONTROL Add New Mapping]** igen.
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -114,19 +114,19 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. Klicka på alternativknappen Välj identitetsnamnområde och välj **[!UICONTROL Email]** och sedan klicka **[!UICONTROL Select]**.
+1. Klicka på alternativknappen Välj identitetsnamnområde, välj **[!UICONTROL Email]** och klicka sedan på **[!UICONTROL Select]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >Mappa e-post och/eller ECID från **[!UICONTROL Identity Namespace]** -fliken är det viktigaste att göra för att säkerställa att personen matchas i Marketo. Mappning via e-post ger högsta matchningsfrekvens.
+   >Att mappa e-post och/eller ECID från fliken **[!UICONTROL Identity Namespace]** är det viktigaste att göra för att se till att personen matchas i Marketo. Mappning via e-post ger högsta matchningsfrekvens.
 
 1. Nu är det dags att välja källfälten. Klicka på markörikonen för e-post.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. Klicka på alternativknappen Välj identitetsnamnutrymme, sök efter och markera **[!UICONTROL Email]** och sedan klicka **[!UICONTROL Select]**.
+1. Klicka på alternativknappen Välj identitetsnamnområde, sök efter och markera **[!UICONTROL Email]** och klicka sedan på **[!UICONTROL Select]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
@@ -134,7 +134,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. Låt alternativknappen Välj attribut vara markerad. Sök efter&quot;företag&quot; och välj **[!UICONTROL companyName]** och sedan klicka **[!UICONTROL Select]**.
+1. Låt alternativknappen Välj attribut vara markerad. Sök efter&quot;företag&quot; och välj **[!UICONTROL companyName]** och klicka sedan på **[!UICONTROL Select]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
@@ -146,6 +146,6 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Granska ändringarna och klicka på **[!UICONTROL Finish]**.
+1. Granska dina ändringar och klicka på **[!UICONTROL Finish]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

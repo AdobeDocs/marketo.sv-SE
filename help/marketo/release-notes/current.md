@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Här nedan hittar du alla funktioner som finns i juliversionen från 24. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
-Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Versionsinformationen för Adobe Dynamic Chat [ finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -22,7 +22,7 @@ Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **26 juli 2024**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **26 juli 2024**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
    <th style="width:25%">Dokumentation</th>
   </tr>
      <tr> 
-   <td><strong>Engagement Dashboard för interaktiva webbinarier</strong>: Få en sammanställd resultatvy för webbinariet samt en heltäckande bild av engagemanget för varje deltagare under webbinariet, så att ni kan bestämma vilka som leder till målet via Marketo Engage orkestreringsverktyg.</td> 
+   <td><strong>Engagement Dashboard för interaktiva webbinarier</strong>: Skaffa en sammanställd vy för webbinariets prestanda samt en heltäckande bild av engagemanget för varje deltagare under webbinariet så att ni kan bestämma vilka som leder till mål med hjälp av Marketo Engage verktyg för samordning.</td> 
     <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -43,7 +43,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   </tr>
      <tr> 
-   <td><strong>Rumshantering för interaktiva webbinarier</strong>: Ha tillgång till enskilda rum som skapats (och gör ändringar om det behövs) samt få tillgång till innehållet och inspelningen (och rensa dem om det behövs för att optimera lagringen).</td> 
+   <td><strong>Rumshantering för interaktiva webbinarier</strong>: Få tillgång till enskilda rum som har skapats (och gör ändringar om det behövs) samt få tillgång till innehållet och inspelningen (och rensa dem om det behövs för att optimera lagringen).</td> 
     <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -54,7 +54,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   </tr>
      <tr> 
-   <td><strong>Anpassning av webbinarium för interaktiva webbinarier</strong>: Tillhandahåll en enhetlig varumärkesgodkänd upplevelse genom att använda ett gemensamt rumsgränssnitt, mellanskärmar (t.ex. bakgrunder på ingångsskärmen) samt anpassade videobakgrunder, så att webbinaristrategin enklare kan anpassas efter varumärkesstrategin.</td> 
+   <td><strong>Anpassning av webbinarium för interaktiva webbinarier</strong>: Skapa en enhetlig varumärkesupplevelse som godkänts av organisationen genom att använda ett gemensamt rumsgränssnitt, mellanskärmar (t.ex. bakgrunder för deltagande på skärmen) samt anpassade videobakgrunder, så att webbinaristrategi enklare kan anpassas efter varumärkesstrategin.</td> 
     <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -65,7 +65,7 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
   </tr>
   </tr>
      <tr> 
-   <td><strong>Marketo REST API-ändring</strong>: Vi introducerar en mindre ändring av <a href="https://developers.marketo.com/rest-api/user-management/">API för användarhantering</a>. Båda <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Bläddra bland användare</a> och <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Ta bort användare</a> slutpunkter har nu stöd <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Hantering av målkonto</a> -användare.</td> 
+   <td><strong>Marketo REST API-ändring</strong>: Vi introducerar en mindre ändring i <a href="https://developers.marketo.com/rest-api/user-management/">API:t för användarhantering</a>. Både slutpunkterna <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Bläddra bland användare</a> och <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Ta bort användare</a> har nu stöd för <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">målkontohanteringsanvändare</a>.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -75,8 +75,8 @@ Följande funktioner faller under standardversionscykeln och kommer att släppas
 
 ## Meddelanden {#announcements}
 
-* **Ny dokumentationswebbplats för utvecklare**: Som en del av vårt fortsatta arbete med att förbättra användarupplevelsen i Marketo Engage kommer vi att migrera all utvecklardokumentation till Adobe Experience League och Adobe Developer webbplats i juli 2024. [Läs mer](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+* **Ny dokumentationswebbplats för utvecklare**: Som en del av vårt fortsatta arbete med att förbättra användarupplevelsen för Marketo Engage migrerar vi all utvecklardokumentation till Adobe Experience League och Adobe Developer webbplats i juli 2024. [Läs mer](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
 
-* **Åtkomsttoken i borttagning av frågeparameter**: Stöd för autentisering med hjälp av åtkomsttoken i en frågeparameter för ett Marketo Engage REST API-anrop kommer att tas bort i en framtida version (specifikt datum för TBD). Befintliga integreringar bör migreras till användningen av auktoriseringshuvudet [beskrivs här](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Ny utveckling bör endast använda auktoriseringshuvudet för autentisering med Marketo Engage.
+* **Åtkomsttoken i borttagning av frågeparametrar**: Stöd för autentisering med åtkomsttoken i en frågeparameter i ett Marketo Engage REST API-anrop kommer att tas bort i en framtida version (TBD för specifikt datum). Befintliga integreringar ska migreras till användning av auktoriseringshuvudet [som beskrivs här](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Ny utveckling bör endast använda auktoriseringshuvudet för autentisering med Marketo Engage.
 
-* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i din **Administratör** > **LaunchPoint** meny mellan 26 juli och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du gör detta [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} och [här för Matched Auditions](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Tjänsten Lead Gen Form har en typ av&quot;LinkedIn Lead Gen&quot; och tjänsten Matched Audience har typen&quot;LinkedIn Matched Audiences&quot;. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **LinkedIn-omautentisering krävs**: LinkedIn uppgraderar sina Marketing API:er som används av Marketo Engage LinkedIn-integreringar. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster på **Admin** > **LaunchPoint** -menyn mellan 26 juli och 15 december 2024 för att undvika avbrott i tjänsten. Du hittar instruktioner om hur du slutför denna [här för Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} och [här för Matchade målgrupper](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Tjänsten Lead Gen Form har en typ av&quot;LinkedIn Lead Gen&quot; och tjänsten Matched Audience har typen&quot;LinkedIn Matched Audiences&quot;. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

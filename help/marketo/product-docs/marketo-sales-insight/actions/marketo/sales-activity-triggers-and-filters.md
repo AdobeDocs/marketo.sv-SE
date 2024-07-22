@@ -20,7 +20,7 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. I **Smart List** sök i&quot;Sales Apps&quot;.
+1. På fliken **Smart lista** söker du efter Försäljningsappar.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
 >[!NOTE]
 >
->En fullständig lista över aktiviteter, begränsningar och definitioner finns i [Aktivitetsordlista för Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>En fullständig lista över aktiviteter, begränsningar och definitioner finns i [Aktivitetsordlistan ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md) Sales Insight Actions.

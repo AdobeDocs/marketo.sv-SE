@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som gör det _not_ use [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det, följ stegen i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Skapa användare {#create-users}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i dialogrutan **[!UICONTROL Access Expires]** med datumväljaren.
+1. Du kan också ange en orsak till inbjudan och välja ett förfallodatum i fältet **[!UICONTROL Access Expires]** med datumväljaren.
 
    ![](assets/managing-marketo-users-5.png)
 
@@ -51,11 +51,11 @@ ht-degree: 1%
    >
    >När förfallodatumet inkommer får användaren ett meddelande om förfallodatum och kontot är låst.
 
-1. Välj **[!UICONTROL Role]** efter eget val och klicka **[!UICONTROL Next]**.
+1. Välj **[!UICONTROL Role]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Redigera inbjudningsmeddelandet om det behövs. Klicka **Seend**.
+1. Redigera inbjudningsmeddelandet om det behövs. Klicka på **Send**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -77,7 +77,7 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 >
 >Om användaren som du vill ta bort även är en Dynamic Chat-användare måste du [ta bort dem från Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} i Admin Console innan du kan ta bort dem i Marketo Engage.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-10.png)
 
@@ -89,13 +89,13 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Bekräfta genom att klicka **[!UICONTROL OK]**.
+1. Bekräfta genom att klicka på **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Återställ användarlösenord {#reset-user-passwords}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-14.png)
 
@@ -103,11 +103,11 @@ Den nya användaren visas nu på fliken Användare och får ett e-postmeddelande
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Välj en användare och klicka på **[!UICONTROL Reset Password]**.
+1. Markera en användare och klicka på **[!UICONTROL Reset Password]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klicka **[!UICONTROL Close]** för att stänga uppmaningen.
+1. Klicka på **[!UICONTROL Close]** om du vill stänga uppmaningen.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,7 +119,7 @@ Användaren får ett e-postmeddelande med instruktioner för lösenordsåterstä
 
 ## Ändra behörigheter och redigera användarinformation {#change-permissions-and-edit-user-information}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-18.png)
 
@@ -127,7 +127,7 @@ Användaren får ett e-postmeddelande med instruktioner för lösenordsåterstä
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Välj en användare och klicka på **[!UICONTROL Edit User]**.
+1. Markera en användare och klicka på **[!UICONTROL Edit User]**.
 
    ![](assets/managing-marketo-users-20.png)
 

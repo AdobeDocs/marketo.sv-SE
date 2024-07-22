@@ -6,16 +6,16 @@ exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Diagramresultat från intäktsutforskaren {#graphing-results-from-revenue-explorer}
 
-Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också visa resultat som diagram i olika format.
+Som standard visas rapporter i Intresseutforskaren som en tabell. Du kan också visa resultat som diagram i olika format.
 
-1. Klicka på pilen i **Visa som** nedrullningsbar meny för rapporten. Olika övertoningsalternativ visas.
+1. Klicka på pilen i listrutan **Visa som** i rapporten. Olika övertoningsalternativ visas.
 
    ![](assets/one-1.png)
 
@@ -25,23 +25,23 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/column.png)
 
-**Staplad stapel**: Varje rad i tabellen har en kolumn i diagrammet.
+**Staplad kolumn**: Varje rad i tabellen har en kolumn i diagrammet.
 
 ![](assets/stacked-column.png)
 
-**Staplad fraktionsstapel**: Varje rad i tabellen har en kolumn i diagrammet och skalas till 100 %.
+**100 % staplad kolumn**: Varje rad i tabellen har en kolumn i diagrammet och skalas till 100 %.
 
 ![](assets/100-stacked-column.png)
 
-**Linje**: Varje kolumn visas som en rad och varje rad som en datapunkt på raden.
+**Rad**: Varje kolumn visas som en rad och varje rad som en datapunkt på raden.
 
 ![](assets/line.png)
 
-**Kombinationsruta för spaltlinje**: Kombination av stapeldiagram och linjediagram.
+**Kolumnlinjesammansättning**: En kombination av stapeldiagram och linjediagram.
 
 ![](assets/column-line-combo.png)
 
-**Liggande**: Varje rad och kolumn i tabellen visas som ett vågrätt fält.
+**Fält**: Varje rad och kolumn i tabellen visas som ett vågrätt fält.
 
 ![](assets/bar.png)
 
@@ -49,11 +49,11 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/stacked-bar.png)
 
-**Staplad liggande fraktionsstapel**: Varje rad i tabellen har en rad i diagrammet och skalas till 100 %.
+**100% staplad liggande stapel**: Varje rad i tabellen har en rad i diagrammet och skalas till 100 %.
 
 ![](assets/100-stacked-bar.png)
 
-**Yta**: Data visas som staplade fält, men är ifyllda.
+**Område**: Data visas ungefär som staplade fält, men är ifyllda.
 
 ![](assets/area.png)
 
@@ -61,11 +61,11 @@ Som standard visas rapporter i skatteutforskaren som en tabell. Du kan också vi
 
 ![](assets/pie.png)
 
-**Solexplosion**: Radiellt diagram som representerar attribut i segment.
+**Sunburst**: Radiellt diagram som representerar attribut i segment.
 
 ![](assets/sunburst.png)
 
-**Spridning**: Bubblor baserade på använda attribut. Använd mått för att färgkoda bubblan och/eller för att bestämma dess storlek.
+**Spridning**: Bubblor som baseras på använda attribut. Använd mått för att färgkoda bubblan och/eller bestämma dess storlek.
 
 ![](assets/scatter.png)
 

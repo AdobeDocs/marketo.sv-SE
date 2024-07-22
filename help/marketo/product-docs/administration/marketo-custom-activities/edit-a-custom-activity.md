@@ -7,15 +7,15 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
 # Redigera en anpassad aktivitet {#edit-a-custom-activity}
 
-Behöver du ändra en anpassad aktivitet som du redan har skapat? Så här gör du.
+Behöver du göra ändringar i en anpassad aktivitet som du redan har skapat? Så här gör du.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 

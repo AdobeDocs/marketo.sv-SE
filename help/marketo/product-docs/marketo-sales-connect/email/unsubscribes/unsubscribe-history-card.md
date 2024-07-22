@@ -32,8 +32,8 @@ Med historikkortet för att avbryta prenumerationen kan administratörer och anv
    <td><p>Visar det datum då prenumerationen/återprenumerationen ägde rum.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Detaljer</strong></td> 
-   <td><p>Återprenumeration: En Sales Connect-administratör tog manuellt bort avbeställningen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
+   <td><strong>Information</strong></td> 
+   <td><p>Prenumerera igen: En Sales Connect-administratör tog manuellt bort prenumerationen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Källa</strong></td> 

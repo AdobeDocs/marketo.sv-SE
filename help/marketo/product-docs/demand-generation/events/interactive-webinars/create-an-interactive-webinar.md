@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Skapa ett interaktivt webbinarium i några enkla steg.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
@@ -22,19 +22,19 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Ge programmet ett namn. Under Programtyp väljer du **Händelse**.
+1. Ge programmet ett namn. Välj **Händelse** under Programtyp.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Klicka på listrutan Kanal och välj en kanal som har _Händelse med webbinarium_ i kolumnen&quot;Tillämpar på&quot;. I det här exemplet väljer vi **Webbinarium**.
+1. Klicka på listrutan Kanal och markera en kanal som har _Event med Webinar_ i kolumnen &quot;Gäller för&quot;. I det här exemplet väljer vi **webbinarium**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >För att se vilka kanaler som gäller _Händelse med webbinarium_, gå till **Administratör** > **Taggar**. &quot;Gäller för&quot; ska vara den mittersta kolumnen. Läs mer om Tillämpa på i steg 5 i [den här artikeln](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Om du vill se vilka kanaler som gäller för _Event med webbinarium_ går du till **Admin** > **Taggar**. &quot;Gäller för&quot; ska vara den mittersta kolumnen. Läs mer om Tillämpa på i steg 5 i [den här artikeln](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-1. Välj **Interaktiva webbinarier** och klicka **Nästa**.
+1. Välj **Interaktiva webbinarier** och klicka på **Nästa**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -60,8 +60,8 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 
 <p>
 
-Nu är det dags att [utforma ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Nu är det dags att [designa ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Lär dig hur du lägger till presentatörer och/eller medvärdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
+>[Lär dig hur du lägger till presentatörer och/eller värdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

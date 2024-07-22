@@ -22,19 +22,19 @@ Använd meddelanden i appen för att interagera direkt med kunderna medan de anv
 
 >[!NOTE]
 >
->**Exempel 1**: Sommarrabatt visas när du öppnar appen.
+>**Exempel 1**:&quot;Sommarförsäljning&quot; visas när appen öppnas.
 >
->**Exempel 2**: Medan du tittar på en medicinsk video kan du boka ett läkarbesök och då aktiveras en rabattkupong på 40 dollar.
+>**Exempel 2**: När du tittar på en medicinsk video kan du boka ett läkarbesök så får du en rabattkupong på 40 dollar.
 
 Innan du kan skapa och skicka meddelanden i appen för din mobilapp behöver du Marketo Admin och utvecklaren av mobilappar för att kunna göra några inställningar.  Det finns tre steg till processen att skapa meddelanden i appen:
 
 ## Steg 1: Administratör och utvecklare utför initiala inställningar {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Se [Innan du skapar push-meddelanden och meddelanden i appen](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) för mer information.
+Marketo Admin och utvecklaren av mobilappar samarbetar för att konfigurera dig. Mer information finns i [Innan du skapar push-meddelanden och meddelanden i appen](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Steg 2: Skapa ett meddelande i appen {#step-create-an-in-app-message}
 
-Du [skapa ett meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) med onlineredigeraren.
+Du [skapar ett meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) med onlineredigeraren.
 
 ## Steg 3: Skicka! {#step-send}
 

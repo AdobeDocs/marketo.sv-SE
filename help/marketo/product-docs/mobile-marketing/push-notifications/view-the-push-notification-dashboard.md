@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att se hur dina push-meddelanden fungerar.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,7 +23,7 @@ Det är enkelt att se hur dina push-meddelanden fungerar.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicka **Visa: Sammanfattning** och markera **Kontrollpanel**.
+1. Klicka på **Visa: Sammanfattning** och välj **Kontrollpanel**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
@@ -33,7 +33,7 @@ Det är enkelt att se hur dina push-meddelanden fungerar.
 
    >[!NOTE]
    >
-   >The _Skickat_ kan visa fler utskick än det exakta antalet personer som push-meddelandet skickades till. Det beror på att det beräknas baserat på *antal enheter* som är kvalificerade att ta emot din push-funktion. Om en person till exempel har tre enheter registrerar kontrollpanelen tre utskick, inte en.
+   >Måttet _Skickat_ kan visa fler utskick än det exakta antalet personer som push-meddelandet skickades till. Det beror på att det beräknas baserat på *antalet enheter* som är kvalificerade att ta emot din push-överföring. Om en person till exempel har tre enheter registrerar kontrollpanelen tre utskick, inte en.
 
    >[!MORELIKETHIS]
    >

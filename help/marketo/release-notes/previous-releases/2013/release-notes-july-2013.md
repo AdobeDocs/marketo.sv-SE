@@ -6,12 +6,12 @@ exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Juli 2013 {#release-notes-july}
+# Versionsinformation: juli 2013 {#release-notes-july}
 
 Följande funktioner finns i juliversionen som är planerad att lanseras på fredag den 26 juli.
 
@@ -29,7 +29,7 @@ Vill du sluta skicka för mycket e-post? Nu är det enkelt att automatiskt begr�
 
 ## Cobalt-användargränssnitt {#cobalt-user-interface}
 
-Under de närmaste månaderna kommer du att märka att mer av vårt nya tema kommer att lanseras i olika delar av programmet. Inga funktioner kommer att flyttas eller tas bort.
+Under de närmaste månaderna kommer du att märka att mer av vårt nya tema kommer att lanseras i olika delar av programmet. Inga funktioner flyttas eller tas bort.
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
@@ -41,4 +41,4 @@ Visa och sortera medlemsrutnätet efter det datum då leadet lades till.
 
 ## Ändringar i stavningskontrollen i WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
-Tjänsten som används av WYSIWYG-redigeraren för stavningskontroll har avbrutits. Vi har tagit bort stavningskontrollen från redigeraren tills vi hittar en ersättning.
+Tjänsten som används av WYSIWYG-redigeraren för stavningskontroll har upphört. Vi har tagit bort stavningskontrollen från redigeraren tills vi hittar en ersättning.

@@ -16,7 +16,7 @@ Se till att alla skickade Sales Insight Actions-e-postmeddelanden innehåller et
 
 >[!NOTE]
 >
->Om du använder `{{team_unsubscribe}}` dynamiskt fält i en e-postmall och inställningen för att avsluta prenumerationen är aktiverad, kommer det dynamiska fältet för att avsluta prenumerationen att fylla i ditt meddelande _i stället för_ som ett tillägg till ditt meddelande om att avbryta prenumerationen.
+>Om du använder det dynamiska fältet `{{team_unsubscribe}}` i en e-postmall och inställningen för att avsluta prenumerationen är aktiverad, kommer det dynamiska fältet för att avsluta prenumerationen att fylla i ditt meddelande _i stället för_ som läggs till i ditt meddelande om att prenumerationen har avbrutits.
 
 ## Aktivera/inaktivera Lägg till för avbeställning {#enable-disable-unsubscribe-append}
 
@@ -24,7 +24,7 @@ Se till att alla skickade Sales Insight Actions-e-postmeddelanden innehåller et
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. Under Administratörsinställningar klickar du på **Avbeställ**.
+1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -34,4 +34,4 @@ Se till att alla skickade Sales Insight Actions-e-postmeddelanden innehåller et
 
 >[!TIP]
 >
->Om du inaktiverar inställningen för att avsluta prenumerationen rekommenderar vi att du lägger till en sidfot för att avbryta prenumerationen i mallarna så att du är säker på att din kommunikation har ett avanmälningsalternativ. Du kan göra detta genom att lägga till ett eget meddelande till varje mall eller genom att använda `{{team_unsubscribe}}` [dynamiskt fält](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>Om du inaktiverar inställningen för att avsluta prenumerationen rekommenderar vi att du lägger till en sidfot för att avbryta prenumerationen i mallarna så att du är säker på att din kommunikation har ett avanmälningsalternativ. Du kan göra detta genom att lägga till ett eget anpassat meddelande till varje mall eller genom att använda det `{{team_unsubscribe}}` [dynamiska fältet](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

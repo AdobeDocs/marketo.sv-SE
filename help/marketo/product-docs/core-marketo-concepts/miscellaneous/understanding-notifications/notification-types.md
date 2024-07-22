@@ -46,7 +46,7 @@ Om du försöker skicka personer till Facebook utan att godkänna användarvillk
 
 ## Rensa inaktiv utlösarkampanj {#idle-trigger-campaign-cleanup}
 
-Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om  [automatisk rensning av utlösarkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Läs mer om [automatisk rensning av utlösarkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i våra [Dokumentation för utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

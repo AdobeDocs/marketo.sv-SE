@@ -6,16 +6,16 @@ exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # Redigera landningssidrubrik och metadata {#edit-landing-page-title-and-metadata}
 
-Med Marketo kan du redigera din landningssida [metataggar för SEO-ändamål](https://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>` del av HTML.
+I Marketo kan du redigera [metataggar för landningssidan för SEO](https://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>`-delen av HTML.
 
-1. Välj en landningssida och klicka på **Redigera utkast**.
+1. Markera en landningssida och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,18 +23,18 @@ Med Marketo kan du redigera din landningssida [metataggar för SEO-ändamål](ht
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Under **Åtgärder för landningssida**, klicka **Redigera metadatataggar för sidor**.
+1. Klicka på **Redigera sidmetataggar** under **Åtgärder för landningssida**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Ange **Titel**, **Nyckelord** och **Beskrivning** för sidan. Markera önskat **Robotar** och ange allt anpassat innehåll för HTML `<head>` -avsnitt. Klicka **Spara**.
+1. Ange **titel**, **nyckelord** och **beskrivning** för sidan. Markera det önskade alternativet **Robots** och ange eventuellt anpassat innehåll för sektionen `<head>` i HTML. Klicka på **Spara**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Vad gör [robotar](https://www.robotstxt.org/meta.html) menar du?**
+   >**Vad betyder [robotar](https://www.robotstxt.org/meta.html)?**
    >
-   >**index**: sidan är sökbar på webben. **följ**: sökmotorer kan följa länkar på indexerade sidor.
+   >**index**: sidan kan sökas på webben. **följ**: sökmotorer kan följa länkar på indexerade sidor.
 
 1. Redigera taggarna när som helst och godkänn landningssidan.

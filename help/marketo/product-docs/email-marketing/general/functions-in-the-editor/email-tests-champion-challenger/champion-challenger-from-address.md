@@ -17,17 +17,17 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
 >[!PREREQUISITES]
 >
->[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Från adress** i **Testtyp** nedrullningsbar meny.
+1. Välj **Från adress** i listrutan **Testtyp** i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Den första Från-adressen anges som **Champion**. Efterföljande från adresser anropas **Utmanare**.
+   >Den första Från-adressen är angiven som **Champion**. Efterföljande från adresser kallas **Utmanare**.
 
-1. Ange **Från namn** (vänster) och **Från adress** (right) för utmanarna.
+1. Ange **Från namn** (vänster) och **Från adress** (höger) för utmanarna.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +55,4 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera Champion-villkor](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -5,7 +5,7 @@ exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ Som Marketo-administratör kan du markera ett specifikt fält som&quot;känsligt
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Välj **[!UICONTROL Mark Field as Sensitive]** kryssrutan.
+1. Markera kryssrutan **[!UICONTROL Mark Field as Sensitive]**.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

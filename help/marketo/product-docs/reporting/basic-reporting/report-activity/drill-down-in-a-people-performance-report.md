@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gå ned i en rapport om personprestanda om du vill se ytterligare personinformation.
 
-1. Klicka på **Rapport** om du vill visa en befintlig rapport.
+1. Klicka på fliken **Rapport** om du vill visa en befintlig rapport.
 
    ![](assets/one.png)
 
@@ -27,11 +27,11 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/three.png)
 
-1. I **Detaljerad** markerar du det attribut du vill gå ned till. Klicka sedan på **Detaljerad**.
+1. I popup-fönstret **Detaljnivå** väljer du det attribut du vill gå ned till. Klicka sedan på **Granska nedåt**.
 
    ![](assets/four.png)
 
-1. Bra jobbat! Detaljrapporten öppnas på en ny flik. Nu kan du utforska den nya rapporten.
+1. Snyggt jobb! Detaljrapporten öppnas på en ny flik. Nu kan du utforska den nya rapporten.
 
    >[!TIP]
    >
@@ -39,6 +39,6 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/five.png)
 
-1. Spara dina resultat (valfritt) genom att klicka på **Exportera** ikonen längst ned till vänster.
+1. Om du vill spara dina resultat (valfritt) klickar du på ikonen **Exportera** längst ned till vänster.
 
    ![](assets/six.png)

@@ -19,7 +19,7 @@ Statiska listor är en grupp personer som redan finns i din databas. Så här sk
 
    ![](assets/db.png)
 
-1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New List]**.
+1. Klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New List]**.
 
    ![](assets/two.png)
 

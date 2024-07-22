@@ -1,6 +1,6 @@
 ---
 description: Hur förhindrar jag självvisningar - Marketo Docs - produktdokumentation
-title: Hur förhindrar jag självvisningar
+title: Hur kan jag förhindra självvisningar?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -26,31 +26,31 @@ Marketo Sales lagrar en cookie i webbläsaren för att förhindra att vyer spår
 
 Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient. Du kan avsevärt minska antalet självvisningar i Outlook genom att inaktivera bilder som laddas ned automatiskt. Här nedan beskrivs hur du gör.
 
-1. I Outlook klickar du på **Fil** på menyraden.
+1. Klicka på **Arkiv** i menyraden i Outlook.
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Klicka **Alternativ**.
+1. Klicka på **Alternativ**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Klicka på **Trust Center**.
+1. Klicka på **Trust Center** i dialogrutan Outlook-alternativ.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. Under Microsoft Outlook Trust Center klickar du på **Inställningar för Trust Center**.
+1. Klicka på **Inställningar för Trust Center** under Microsoft Outlook Trust Center.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Klicka på Automatisk hämtning på menyn till vänster och välj **Hämta inte bilder automatiskt i HTML e-post eller RSS-objekt** kryssruta.
+1. Klicka på Automatisk hämtning på menyn till vänster och markera kryssrutan **Hämta inte bilder automatiskt i HTML-e-post eller RSS-objekt** .
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Klicka **OK** i dialogrutan Säkerhetscenter.
+1. Klicka på **OK** i dialogrutan Säkerhetscenter.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Klicka **OK** i dialogrutan Outlook-alternativ.
+1. Klicka på **OK** i dialogrutan Outlook-alternativ.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -62,10 +62,10 @@ Vyer spåras genom att en liten osynlig bildpixel hämtas till din e-postklient.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Under E-post väljer du **Läser**.
+1. Välj **Läser** under E-post.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Klicka på **Aldrig** alternativknapp.
+1. Klicka på alternativknappen **Aldrig** under Säkerhet.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

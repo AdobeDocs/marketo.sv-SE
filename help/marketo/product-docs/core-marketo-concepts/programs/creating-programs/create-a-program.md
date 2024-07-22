@@ -19,14 +19,14 @@ Program är ett av de viktigaste elementen i Marketo. Du kommer att använda dem
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj mapp för det nya programmet. Välj **[!UICONTROL New]** och klicka **[!UICONTROL New Program]**.
+1. Välj mapp för det nya programmet. Markera **[!UICONTROL New]** och klicka på **[!UICONTROL New Program]**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Ange en **[!UICONTROL Name]** väljer du en **[[!UICONTROL Channel]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** i listrutan och klicka på **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Name]**, markera en **[[!UICONTROL Channel]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** i listrutan och klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[Förstå program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[Program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.

@@ -25,9 +25,9 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
 >[!NOTE]
 >
->Endast personer som har skapats i Marketo från din CRM och via SOAP API:t kommer att ha tilldelningsregler tillämpade på dem.
+>Endast personer som har skapats i Marketo från din CRM och via SOAP API:t får tilldelningsregler tillämpade på dem.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
@@ -35,11 +35,11 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Under **[!UICONTROL Person Partitions]** flik, klicka **[!UICONTROL Assignment Rules]**.
+1. Klicka på **[!UICONTROL Assignment Rules]** på fliken **[!UICONTROL Person Partitions]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Klicka **[!UICONTROL Add Choice]** för att lägga till villkor för att dirigera personer till personpartitioner.
+1. Klicka på **[!UICONTROL Add Choice]** om du vill lägga till villkor för att dirigera personer till personpartitioner.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 

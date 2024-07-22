@@ -17,15 +17,15 @@ Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en
 
 ## Lägg till en persona {#add-a-persona}
 
-1. I Min Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Min Marketo.
 
    ![](assets/one.png)
 
-1. Välj **Hantering av målkonto**.
+1. Välj **Hantering av målkonto** i trädet.
 
    ![](assets/using-personas-2.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en
 
    ![](assets/four.png)
 
-1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka **Spara** när det är klart.
+1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka på **Spara** när du är klar.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
 
    ![](assets/one-a.png)
 
-1. Klicka på **Personas** -fliken.
+1. Klicka på fliken **Personas**.
 
    ![](assets/two-a.png)
 

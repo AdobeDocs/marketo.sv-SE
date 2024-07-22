@@ -5,7 +5,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,25 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
 ## Skapa en roll enbart för API {#create-an-api-only-role}
 
-1. I My Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Min Marketo.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. Klicka på under Dokumentskydd **Användare och roller**.
+1. Klicka på **Användare och roller** under Säkerhet.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Klicka på **Roller** och sedan **Ny roll**.
+1. Klicka på fliken **Roller** och sedan på **Ny roll**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Ange ett rollnamn. Öppna **Åtkomst-API** och välj&quot;Read-Write Custom Object&quot; och&quot;Read-Write Person&quot;. Klicka **Skapa**.
+1. Ange ett rollnamn. Öppna menyn **Åtkomst-API** och välj&quot;Read-Write Custom Object&quot; och&quot;Read-Write Person&quot;. Klicka på **Skapa**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Skapa en ny användare {#create-a-new-user}
 
-1. Klicka på knappen **Användare** och klicka **Bjud in ny användare**.
+1. Klicka på fliken **Användare** och sedan på **Bjud in ny användare** i Användare och roller.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -42,11 +42,11 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Välj den roll för endast ON24 API som du nyss skapade. Välj **Endast API** kryssrutan. Klicka **Nästa**.
+1. Välj den roll för endast ON24 API som du nyss skapade. Markera kryssrutan **Endast API**. Klicka på **Nästa**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Klicka **Skicka**.
+1. Klicka på **Skicka**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,15 +56,15 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
 ## Konfigurera ON24-anslutning {#set-up-on24-connection}
 
-1. Klicka fortfarande i administratörsavsnittet på **LaunchPoint**.
+1. Klicka på **LaunchPoint** i administratörsavsnittet.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Klicka **Nytt** sedan **Ny tjänst**.
+1. Klicka på **Ny** och sedan på **Ny tjänst**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Välj ett visningsnamn. Klicka på **Tjänst** nedrullningsbar meny och välj **Egen**. Ange en beskrivning. Klicka på listrutan Endast API-användare och välj den användare som du skapade [i stegen ovan](#create-a-new-user). Klicka **Skapa**.
+1. Välj ett visningsnamn. Klicka på listrutan **Tjänst** och välj **Egen**. Ange en beskrivning. Klicka på listrutan Endast API-användare och välj den användare som du skapade [ i stegen ovan](#create-a-new-user). Klicka på **Skapa**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Navigera med ditt sparade klient-ID, klienthemlighet och identitet till ditt ON24-konto. Resten av stegen utförs där och är [anges här](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Navigera med ditt sparade klient-ID, klienthemlighet och identitet till ditt ON24-konto. Resten av stegen utförs där och [beskrivs här](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.

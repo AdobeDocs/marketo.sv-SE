@@ -16,8 +16,8 @@ ht-degree: 0%
 Det finns flera sätt att bli medlemmar i ett engagemangsprogram:
 
 * [Lägg till i engagemangsprogram](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Change Engagement Program Cadence](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) flödessteg
-* [Change Engagement Program Stream](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) flödessteg
+* [Ändra aktivitetsprogrammets avslutningssteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
+* [Flödessteget Ändra engagemangsprogramström](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
 * [Ändra programstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) flödessteg
 * Om en person fyller i ett formulär lokalt i ett engagemangsprogram
 * Importera medlemmar till ett engagemangsprogram (via fliken Medlemmar i programmet)

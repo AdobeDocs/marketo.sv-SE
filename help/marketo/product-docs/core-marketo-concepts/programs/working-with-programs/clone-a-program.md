@@ -6,7 +6,7 @@ exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Klona snabbt och enkelt ett helt program och allt dess material i stället för att manuellt återskapa allting.
 
-1. Sök efter och välj det program som du vill klona. I **[!UICONTROL Program Actions]** nedrullningsbar meny, klicka **[!UICONTROL Clone]**.
+1. Sök efter och välj det program som du vill klona. Klicka på **[!UICONTROL Clone]** i listrutan **[!UICONTROL Program Actions]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
 
    >[!NOTE]
    >
-   >Programmen kan klonas till [kampanj](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
+   >Program kan klonas till [kampanj](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappar](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) eller [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Se till att du delar alla underliggande beroende resurser (e-post, kodavsnitt, mallar för landningssidor osv.) med målarbetsytan innan du klonar.
 
    ![](assets/cloneto.png)
 
@@ -31,7 +31,7 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
    >
    >Ser du NOTE i skärmbilden ovan? Det innebär att om du klonar ett program med 1 000 eller fler personer i en lista kommer själva listan att klonas, men den kommer att vara tom. Om du klonar ett program med en lista som innehåller 999 personer eller mindre visas den listan tillsammans med alla dess medlemmar i det klonade programmet.
 
-1. Ange en [!UICONTROL Name].
+1. Ange [!UICONTROL Name].
 
    ![](assets/cloneprogramname.png)
 

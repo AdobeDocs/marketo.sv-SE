@@ -18,19 +18,19 @@ Vi vill att e-postmeddelanden från Marketo Sales ska kännas som en sömlös up
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. Under Mitt konto väljer du **E-postinställningar**.
+1. Välj **E-postinställningar** under Mitt konto.
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. I **Adress och signatur** väljer du den e-postadress som du vill skapa en signatur för.
+1. På fliken **Adress och Signatur** väljer du den e-postadress som du vill skapa en signatur för.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. Klicka på signaturkortet **Redigera**.
+1. Klicka på **Redigera** på signaturkortet.
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Ange önskad text (eller bilder) och klicka **Spara**.
+1. Ange önskad text (eller bilder) och klicka på **Spara**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

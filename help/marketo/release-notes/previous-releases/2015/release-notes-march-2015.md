@@ -27,7 +27,7 @@ Visa teamets marknadsföringsaktiviteter med kalenderns nya presentationsläge. 
 
 ## Integrering med Google Adwords {#google-adwords-integration}
 
-Länka [Google AdWords-konto till Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) för att automatiskt överföra konverteringsdata offline från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg ni vill följa).
+Länka ditt [Google AdWords-konto till Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om du automatiskt vill överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg ni vill följa).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -39,18 +39,18 @@ Intresseutforskaren har ett helt nytt utseende och en helt ny känsla, liksom de
 
 [Nya REST API:er för resurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och kodfragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
+Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
-Stöds med det senaste installationsprogrammet nu [via appen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Stöds med det senaste installationsprogrammet [som nu är tillgängligt via appen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Personaliserat webbengagemang med Lead Data {#rtp-personalized-web-engagement-with-lead-data}
 
-Utnyttja [huvuddatafält](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) ni har er i Marketo lead-databas för att skapa segmentering i realtid och personaliserade innehållskampanjer. Hantera dina lead-datafält i RTP och lägg till/ta bort relevanta lead-fält.
+Utnyttja de [ledande datafälten](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) som du har i din Marketo lead-databas för att skapa segmentering i realtid och personaliserade innehållskampanjer. Hantera dina lead-datafält i RTP och lägg till/ta bort relevanta lead-fält.
 
 ## RTP - Anpassa webbinnehåll efter e-postadress eller namn på programkampanj {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Fortsätt konversationen med ditt lead i alla kanaler, från e-post till webben. [Anpassa inkommande innehåll baserat på e-postkampanjer eller program](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) namn som används i Marketo marknadsföringsaktiviteter.
+Fortsätt konversationen med ditt lead i alla kanaler, från e-post till webben. [Anpassa inkommande innehåll baserat på namn på e-postkampanj eller program](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) som används i Marketo marknadsföringsaktiviteter.

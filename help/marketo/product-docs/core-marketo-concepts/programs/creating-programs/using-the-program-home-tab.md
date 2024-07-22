@@ -33,17 +33,17 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klicka **[!UICONTROL Export]** längst ned i Sammanfattning för att ladda ned rapporten.
+1. Klicka på **[!UICONTROL Export]** längst ned i sammanfattningen för att hämta rapporten.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Används av vy {#used-by-view}
 
-1. I **[!UICONTROL Marketing Activities]** väljer du ett program.
+1. Välj ett program i **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Used By]**.
+1. Klicka på listrutan **[!UICONTROL View]**. Välj **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
 ## Medlemskapsvy {#membership-view}
 
-1. I **[!UICONTROL Marketing Activities]** väljer du ett program.
+1. Välj ett program i **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Membership]**.
+1. Klicka på listrutan **[!UICONTROL View]**. Välj **[!UICONTROL Membership]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ På startfliken för programmet får du en översikt över vad som pågår i pro
 
    >[!NOTE]
    >
-   >**[!UICONTROL Historical]** innebär att alla som har gått igenom programmet **[!UICONTROL Current]** innehåller endast personer som för närvarande deltar i programmet.
+   >**[!UICONTROL Historical]** betyder att alla som har gått igenom programmet har en betydelse, medan **[!UICONTROL Current]** endast inkluderar personer som för närvarande finns i programmet.
 
    >[!MORELIKETHIS]
    >
-   >[Förstå programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Om programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

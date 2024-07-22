@@ -13,43 +13,43 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Installera](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) eller [Uppgradera](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight Package in your Salesforce instance
+>* [Installera](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) eller [Uppgradera](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight-paket i Salesforce-instansen
 >* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Lägg till ny fjärrplats i Salesforce {#add-new-remote-site-in-salesforce}
 
-1. I Salesforce klickar du på **Inställningar**.
+1. Klicka på **Konfigurera** i Salesforce.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Sök efter&quot;fjärrwebbplats&quot; och välj **Inställningar för fjärrplats**.
+1. Sök efter fjärrplats och välj **Fjärrwebbplatsinställningar**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Klicka **Ny fjärrplats**.
+1. Klicka på **Ny fjärrplats**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight1&quot;). Ange URL för fjärrplatsen `https://ims-na1.adobelogin.com` och klicka **Spara**.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight1&quot;). Ange URL:en för fjärrplatsen `https://ims-na1.adobelogin.com` och klicka på **Spara**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-1. Klicka **Ny fjärrplats** igen.
+1. Klicka på **Ny fjärrplats** igen.
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight2&quot;). Ange URL för fjärrplats `https://mkto-sales-connect.adobe.io` och klicka **Spara**.
+1. Ange namnet på fjärrplatsen (det kan vara något som &quot;MarketoSalesInsight2&quot;). Ange URL:en för fjärrplatsen `https://mkto-sales-connect.adobe.io` och klicka på **Spara**.
 
 ## Aktivera åtgärder för säljinsikter i hela CRM {#enabling-sales-insight-actions-across-the-crm}
 
-1. I Salesforce klickar du på **Marketo Sales Insight Config** -fliken.
+1. Klicka på fliken **Marketo Sales Insight Config** i Salesforce.
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >Om du inte ser &quot;Marketo Sales Insight Config&quot; i det övre fältet klickar du på **+** signera och hitta det under Alla flikar.
+   >Om du inte ser &quot;Marketo Sales Insight Config&quot; i det övre fältet klickar du på **+** och hittar det under Alla flikar.
 
-1. Välj **Aktivera MSI-åtgärder** kryssrutan.
+1. Markera kryssrutan **Aktivera MSI-åtgärder**.
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >Om du inte har tillgång till API:ts säkerhetsnyckel kan du hitta den genom att följa stegen i [den här artikeln](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
-1. Klicka **Spara** när det är klart.
+1. Klicka på **Spara** när du är klar.
 
 Detta aktiverar automatiskt alla MSI-funktionsmakron som beskrivs i artikeln om funktionsöversikten.
 

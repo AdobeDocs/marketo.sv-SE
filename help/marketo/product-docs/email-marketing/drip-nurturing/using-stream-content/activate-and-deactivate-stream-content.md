@@ -17,11 +17,11 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
 ## Aktivera ströminnehåll {#activate-stream-content}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
@@ -41,7 +41,7 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
 ## Inaktivera ströminnehåll {#deactivate-stream-content}
 
-1. Välj engagemangsprogram och klicka på **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
 
    ![](assets/cloneasteam.jpg)
 

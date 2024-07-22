@@ -24,32 +24,32 @@ Var och en av dessa funktioner kan nås från:
 **Sidlayout med en åtgärd**
 
 * Panelen Lead-layout: En åtgärd och kan styras av användarprofilen
-* Panelen Kontaktlayout: En åtgärd och kan styras av användarprofilen
-* Knappen Lead-layout: En åtgärd och kan inte styras av användarprofilen
+* Kontaktlayoutpanelen: En åtgärd och kan styras av användarprofilen
+* Knapp för leadlayout: En åtgärd och kan inte styras av användarprofilen
 * Kontaktlayoutsknapp: En åtgärd och kan inte styras av användarprofilen
 
   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Sidlayout med gruppåtgärd**
 
-* Panelen Kontolayout: Gruppåtgärd och kan styras av användarprofil
-* Panelen för säljprojektslayout: Gruppåtgärd och kan styras av användarprofil
+* Panelen Kontolayout: Gruppåtgärd och kan styras av användarprofilen
+* Panelen Affärsmöjlighet: Gruppåtgärd och kan styras av användarprofilen
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Fliken Bästa val**
 
-* Fliken Best Bets Bulk Actions: Gruppåtgärd och kan styras av användarprofil
+* Best Bets Bulk Actions tab: Group action and can controls by user profile
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Fliken Best Bets In-line Actions: En åtgärd och kan styras av användarprofilen
+* Best Bets In-line Actions tab: Single action and can be controls by user profile
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 
-**Listvy med gruppåtgärd**
+**Listvy med massåtgärd**
 
-* Leadlistvy: Massåtgärd och kan inte styras av användarprofilen
-* Visa kontaktlista: Massåtgärd och kan inte styras av användarprofilen
+* Leadlistvy: Massåtgärd och kan inte styras av användarprofil
+* Kontaktlistvy: Massåtgärd och kan inte styras av användarprofil
 
   ![](assets/choose-an-action-in-sales-insight-5.png)

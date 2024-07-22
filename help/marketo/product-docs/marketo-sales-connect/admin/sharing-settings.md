@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
 ## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. I dialogrutan [webbprogram](https://toutapp.com/login)går du till sidan Inställningar.
+1. Gå till sidan Inställningar i [webbprogrammet](https://toutapp.com/login).
 
    ![](assets/one-2.png)
 
-1. Under Administratörsinställningar väljer du **Delningsåtkomst**.
+1. Välj **Delningsåtkomst** under Administratörsinställningar.
 
    ![](assets/two-2.png)
 
-1. Se till att **Delningsinställningar** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
+1. Kontrollera att **Delningsinställningarna** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
    ![](assets/four-2.png)
 
-1. Klicka **Lägg till team för åtkomst**.
+1. Klicka på **Lägg till team för åtkomst**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
    >
    >Om du inte ser något team måste du gå till Teamhantering och skapa ett team med användare.
 
-1. Klicka **Lägg till team för åtkomst** att spara.
+1. Klicka på **Lägg till team för åtkomst** för att spara.
 
    ![](assets/seven-1.png)
 

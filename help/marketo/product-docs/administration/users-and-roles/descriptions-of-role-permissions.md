@@ -23,7 +23,7 @@ Ytterligare information om behörigheter:
 
 ## Tillgängliga behörigheter {#available-permissions}
 
-När du [skapa eller redigera en roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)kan du välja vilken av följande behörigheter du vill tillåta för den rollen genom att markera lämpliga rutor.
+När du [skapar eller redigerar en roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) kan du välja vilken av följande behörigheter som ska tillåtas för den rollen genom att markera lämpliga rutor.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ När du [skapa eller redigera en roll](/help/marketo/product-docs/administration
 Visa och ändra inställningarna under Mitt konto i Admin.
 
 * Åtkomst till Adobe Connect - Ger användare åtkomst till Adobe Connect
-* Använd Adobe Experience Manager&#42; - Ger användare åtkomst till Adobe Experience Manager-skärmen
-* Åtkomst till organisationsmappning för Adobe&#42; - Ger användare åtkomst till skärmen Organisationsmappning i Adobe
-* Åtkomst till administratörsgranskningsspår&#42; - Ger användarna åtkomst till skärmen Admin Audit Trading (Granskningsspår)
-* Åtkomst till granskningsspår&#42; - Ger användarna åtkomst till granskningsspår
+* Åtkomst till Adobe Experience Manager&#42; - Ger användare åtkomst till Adobe Experience Manager-skärmen
+* Åtkomst till organisationsmappning från Adobe &#42; - Ger användare åtkomst till Adobe-skärmen Organisationsmappning
+* Åtkomst till administratörsgranskningsspår &#42; - Ger användare åtkomst till skärmen Admin Audit Trail (Granskningsspår)
+* Åtkomst till granskningsspår &#42; - Ger användare åtkomst till granskningsspår
 * Åtkomst till granskningsspår - Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår
 * Åtkomst till CAPTCHA - åtkomst till CAPTCHA-skärmen
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
-* Access CRM - Ger användarna åtkomst till CRM, t.ex. [!DNL Salesforce] eller [!DNL Microsoft Dynamics], i Admin
-* Åtkomst [[!DNL Data.com]](https://data.com) - Ger användarna åtkomst till åtgärden Data.com
+* Access CRM - Ger användare åtkomst till CRM, till exempel [!DNL Salesforce] eller [!DNL Microsoft Dynamics], i Admin
+* Åtkomst [[!DNL Data.com]](https://data.com) - Ger användare åtkomst till Data.com.
 * Åtkomst till e-postadministratör - Ger användarna åtkomst till e-postadministratören för att ändra standardinställningar, till exempel domäner för att avbryta prenumerationen och varumärken
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
@@ -50,34 +50,34 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomstplats - Ger användare åtkomst till plats i Admin för att ange standardspråk, nationella inställningar, tidszon och valuta
 * Åtkomst till inloggningshistorik - Ger användare åtkomst till användarens inloggningshistorik i granskningsspår
 * Åtkomst till inloggningsinställningar - Ger användarna åtkomst till inloggningsinställningar i Admin för inställningar av säkerhet, IP-begränsningar och Smart List-rapporter
-* Använd ny upplevelse&#42; - Ger användarna tillgång till skärmen Ny upplevelse
+* Åtkomst till den nya upplevelsen &#42; - ger användarna åtkomst till skärmen Ny upplevelse
 * Åtkomst till anpassad aktivitet för Marketo - Ger användare åtkomst till anpassade aktiviteter för Marketo i Admin
 * Åtkomst till anpassat Marketo-objekt - Ger användare åtkomst till anpassade Marketo-objekt i administratören
-* Åtkomst [!DNL Munchkin] - GIves-användare åtkomst till [!DNL Munchkin] i Admin, för att ange spårningskod, personspårning och aktivera API-konfiguration
-* Nå prediktiva målgrupper&#42; - Ger användarna tillgång till skärmen Predictive Audiences
+* Åtkomst [!DNL Munchkin] - GIves-användare får åtkomst till [!DNL Munchkin] i Admin för att ställa in spårningskod, personspårning och aktivera API-konfiguration
+* Åtkomst till prediktiva målgrupper &#42; - Ger användare åtkomst till skärmen Predictive Audiences
 * Access Revenue Cycle Analytics (Åtkomstcykelanalys) - Ger användarna tillgång till Intäktscykelanalys i Admin, för inställning av Synkroniseringssammanfattning och Attribution
 * Åtkomstroller - Ger användare åtkomst till att hantera och redigera roller, men inte användare
 * Access Sales Insight - Ger användare åtkomst till att hantera Sales Insight i Admin för att ange status, API-konfiguration, personbedömning och andra inställningar
 * Åtkomst till enkel inloggning - Ger användarna åtkomst till att hantera enkel inloggning i Admin, för att aktivera SAML och arbeta med SAML-inställningar och URL:er för omdirigeringssida
 * Access Smart Campaign - Ger användarna tillgång till Smart Campaign i Admin, för att begränsa begränsningarna för kvalificerade personer
-* Åtkomst till SOAP API - ger användarna åtkomst till att hantera SOAP API:er i webbtjänster i Admin
+* Åtkomst SOAP API - ger användarna åtkomst till att hantera SOAP API:er i Web Services i Admin
 * Åtkomsttaggar - Ger användarna åtkomst till alla anpassade taggar utom kanaltaggen
 * Access Treasure Chest - Ger användarna tillgång till de experimentella funktionerna i Resurs Chest i Admin
 * Åtkomstanvändare - Ger användare åtkomst till att redigera och hantera användare (men inte roller) i Admin
 * Åtkomst till webbhooks - Ger användare tillgång till webbhooks i Admin för att ställa in information och svarsmappningar
 * Åtkomst till arbetsytor och partitioner - Ger användarna tillgång till arbetsytor och partitioner i administratören för att skapa, redigera och ta bort
 
-_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Åtkomst-API  {#access-api}
 
-Ger användarna med **Endast API** **Roll** behörighet till de enskilda API:erna som anges nedan.
+Ger användare med **endast** **rollen** åtkomst till de enskilda API:erna som listas nedan.
 
-* Godkänn resurser
+* Godkänn Assets
 * Kör kampanj
 * Skrivskyddad aktivitet
 * Metadata för skrivskyddad aktivitet
-* Skrivskyddade resurser
+* Skrivskyddad Assets
 * Skrivskyddad kampanj
 * Skrivskyddat företag
 * Skrivskyddat anpassat objekt
@@ -87,7 +87,7 @@ Ger användarna med **Endast API** **Roll** behörighet till de enskilda API:ern
 * Skrivskyddad säljare
 * Aktivitet för läsning/skrivning
 * Metadata för aktiviteten Read-Write
-* Skrivskyddade resurser
+* Read-Write Assets
 * Read-Write Campaign
 * Läs/skriv företag
 * Anpassat objekt för läsning/skrivning
@@ -101,11 +101,11 @@ Ger användarna med **Endast API** **Roll** behörighet till de enskilda API:ern
 Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och de tre objekten nedan, om de inte är avmarkerade.
 
 * Access Revenue Explorer (Handkomstutforskaren) - Avmarkering tar bort användarens åtkomst till Intresseutforskaren
-* Skapa rapport&#42; - Ger användarna tillgång till att skapa, klona, läsa, uppdatera och flytta rapportresurser i analyser och marknadsföringsaktiviteter, samt resurser i modellen för intäktscykler
+* Skapa rapport&#42; - Ger användare åtkomst att skapa, klona, läsa, uppdatera och flytta rapportresurser i analyser och marknadsföringsaktiviteter, samt intäktscykler för Modeler-resurser
 * Ta bort rapport - Avmarkera tar bort användarens möjlighet att ta bort rapporter
 * Exportera analysdata - Avmarkering tar bort användarens möjlighet att exportera analysdata
 
-_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Öppna Kalender för Presentations {#access-calendar-presentations}
 
@@ -119,11 +119,11 @@ Ger användarna tillgång till fliken Design Studio och trädvyn, men inte till 
 
 * Åtkomst till e-post
    * Redigera e-post - Ger användarna behörighet att redigera, skapa och klona e-postmeddelanden
-      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Låt e-postmeddelanden fungera](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Använd e-post - Ger användare behörighet att göra e-postmeddelanden operativa. Se: [Låt ett e-postmeddelande fungera](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Godkänn e-post - Låter användarna godkänna e-postmeddelanden.
       * Ta bort e-post - Gör det möjligt för användare att ta bort e-postmeddelanden.
-      * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till en extra varumärkesdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Ange profilerad domän - Gör att användare kan arbeta med profileringsdomäner. Se: [Lägg till ytterligare en profileringsdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * E-postmall för åtkomst
 
@@ -177,7 +177,7 @@ Visa databasen samt visa och redigera smarta/statiska listor.
    * Redigera segmentering
 
 * Ta bort person
-* Skapa lista&#42;
+* Skapa lista &#42;
    * Åtkomst till att skapa en listresurs i databas- och marknadsföringsaktiviteter
    * Tillgång till att skapa en smart listresurs i databas- och marknadsföringsaktiviteter
 * Ta bort lista
@@ -186,11 +186,11 @@ Visa databasen samt visa och redigera smarta/statiska listor.
 * Importera anpassat objekt
 * Importera lista
 * Sammanfoga personer
-* Kör enstaka flödesåtgärder - Gör att användare kan köra **Ändra datavärde** flöda steg på personer från databasen
+* Kör enkelflödesåtgärder - Gör att användare kan köra flödessteget **Ändra datavärde** på personer från databasen
 
 * Visa affärsmöjlighetsdata - Döljer affärsmöjlighetsinformationen på personinformationssidan
 
-_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Åtkomstmarknadsföringsaktiviteter {#access-marketing-activities}
 
@@ -215,7 +215,7 @@ Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 * Ta bort marknadsföringsresurs
 * Redigera kampanjbegränsningar
 * Redigera marknadsföringsmaterial
-* Exportera kampanjaktivitet&#42;
+* Exportera kampanjaktivitet &#42;
 * Importprogram
 * Listimport
 * Schemalägg batchkampanj
@@ -225,17 +225,17 @@ Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 * Administrera SEO
 * Standard SEO
 
-_&#42;För att undvika störningar för befintliga användare introduceras detta tillstånd i passivt läge och är synligt men inte tillgängligt just nu. Vi kommer att informera om hur det ska implementeras när det blir aktivt i mitten av 2024._
+_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
-## Målinriktning och personalisering {#targeting-and-personalization}
+## Målinriktning och Personalization {#targeting-and-personalization}
 
-* Administrera webbanpassning
+* Administrera Personalization för webben
 * CRE Campaign Editor
 * CRE Campaign Launcher
 * Webbkampanjredigerare
 * Web Campaign Launcher
 
-Administration av arbetsytan
+Workspace Administration
 
-* Administratörsåtkomst för en viss arbetsyta (endast om du har aktiverat Arbetsytor)
+* Administratörsåtkomst för en viss Workspace (endast om du har aktiverat Arbetsytor)
 * Flytta resurser mellan arbetsytor (endast om du har aktiverat arbetsytor)

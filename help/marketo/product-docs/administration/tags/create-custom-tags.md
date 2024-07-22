@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Taggar hjälper dig att organisera dina program medan kanaler hjälper dig att s
 
 >[!NOTE]
 >
->Checka ut [Taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för mer information.
+>Mer information finns i [Förstå taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Taggar hjälper dig att organisera dina program medan kanaler hjälper dig att s
 
 Så här skapar du en ny taggtyp:
 
-1. Gå till **[!UICONTROL Admin]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Admin]**.
 
    ![](assets/create-custom-tags-1.png)
 
@@ -43,7 +43,7 @@ Så här skapar du en ny taggtyp:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Ange önskat värde för taggtypen. Klicka **[!UICONTROL Add Another]** om du vill ange ytterligare värden.
+1. Ange önskat värde för taggtypen. Klicka på **[!UICONTROL Add Another]** om du vill ange ytterligare värden.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ Så här skapar du en ny taggtyp:
 
    >[!NOTE]
    >
-   >* Välj &quot;[!UICONTROL Required]&quot; om du vill att den här taggen ska läggas till när ett nytt program skapas.
-   >* Tar bort en programtyp från[!UICONTROL Applies to]&#39; kommer att ta bort taggen och dess värden från alla befintliga program av den typen. Om du vill bevara befintliga taggvärden och göra den här taggen valfri att flytta framåt för _alla_ som visas lämnar du kryssrutan Obligatorisk omarkerad.
+   >* Välj [!UICONTROL Required] om du vill att den här taggen ska läggas till när ett nytt program skapas.
+   >* Om du tar bort en programtyp från listan [!UICONTROL Applies to] tas taggen och dess värden bort från alla befintliga program av den typen. Om du vill bevara befintliga taggvärden och göra den här taggen valfri att flytta framåt för _alla_ programtyper som visas, låter du kryssrutan Obligatorisk vara avmarkerad.
 
    >[!TIP]
    >
-   >Om du vill göra en liknande tagg nödvändig för vissa programtyper men valfri för andra, måste du skapa två separata taggar, som båda gäller för olika programtyper med en med &quot;[!UICONTROL Required]&quot; markerad och den andra med &quot;[!UICONTROL Required]&quot; inte valt.
+   >Om du vill göra en liknande tagg nödvändig för vissa programtyper men valfri för andra, måste du ställa in två separata taggar, som båda gäller för olika programtyper där den ena har [!UICONTROL Required] och den andra med [!UICONTROL Required] inte har valts.
 
 1. Klicka på **[!UICONTROL Create]**.
 

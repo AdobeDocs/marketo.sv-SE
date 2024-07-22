@@ -26,11 +26,11 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Ange en **[!UICONTROL Name]** för kampanjmappen.
+1. Ange **[!UICONTROL Name]** som kampanjmapp.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Valfritt: Ange en **[!UICONTROL Description]** och klicka **[!UICONTROL Create]**.
+1. Valfritt: Ange en **[!UICONTROL Description]** och klicka på **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -42,7 +42,7 @@ Campaign-mappar hjälper dig att behålla en aktuell arbetsyta. Följ dessa enkl
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Nu när [skapa ett nytt program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), du ser kampanjmappen som ett alternativ.
+   När du nu [skapar ett nytt program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) visas kampanjmappen som ett alternativ.
 
 >[!MORELIKETHIS]
 >

@@ -6,14 +6,14 @@ exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Mall 15A {#template-15a}
 
-Högerklicka för att [ladda ned mall 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+Högerklicka för att [hämta mall 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -26,6 +26,6 @@ Den här mallen innehåller följande innehåll:
 * Fem karosserisektioner (valfritt)
 * Sidfot (valfritt)
 
-**Högerklicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan för att hämta den här mallen:**
 
 [Mall 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

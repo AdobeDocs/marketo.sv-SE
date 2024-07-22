@@ -22,7 +22,7 @@ Med det här alternativet kan Marketo Engage lägga till och ta bort medlemmar f
 >
 >**Administratörsbehörigheter krävs**
 
-1. I My Marketo klickar du på **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i My Marketo.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -30,11 +30,11 @@ Med det här alternativet kan Marketo Engage lägga till och ta bort medlemmar f
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klicka på under Synkroniseringsalternativ **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** under Synkroniseringsalternativ.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Välj **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** kryssruta och klicka **[!UICONTROL Save]**.
+1. Markera kryssrutan **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

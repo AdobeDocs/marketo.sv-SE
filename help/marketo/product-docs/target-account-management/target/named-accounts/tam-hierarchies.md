@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Företag kan ha flera divisioner och dotterbolag. Dessa företag organiserar sig
 
 Med TAM-hierarkier kan du snabbt få information om en hel hierarki eller enskilda konton på kontrollpanelen för namngivna konton.
 
-**Använder inte hierarki**
+**Använder inte hierarkin**
 
 ![](assets/before.png)
 
-**Använda hierarki**
+**Använder hierarki**
 
 ![](assets/after.png)
 
@@ -35,6 +35,6 @@ Med TAM-hierarkier kan du snabbt få information om en hel hierarki eller enskil
 >
 >Marketo-gränssnittet visar endast upp till 10 nivåer nedåt (det överordnade kontots underordnade och indirekt underordnade konton), men det finns ingen begränsning för hur många underordnade konton du kan skapa.
 
-Målinrikta och rapportera om hela hierarkier med [ett klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Måla och rapportera om hela hierarkier med [ett klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

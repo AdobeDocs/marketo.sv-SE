@@ -46,7 +46,7 @@ Dialogrutor och konversationsflöden har flera likheter, men de har två separat
  </tbody> 
 </table>
 
-## Fliken Stream Designer {#stream-designer-tab}
+## Stream Designer Tab {#stream-designer-tab}
 
 Stream Designer for Conversational Flows är nästan identisk med den för Dialogs. [Läs allt här](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
@@ -82,7 +82,7 @@ Anpassa konversationsutlösaren (kallas även Konversationer SDK) i den nedre de
 
 >[!TIP]
 >
->Se [Konversationer SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in action!
+>Se [Konversationer i SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in action!
 
 >[!MORELIKETHIS]
 >

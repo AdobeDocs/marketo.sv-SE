@@ -30,15 +30,15 @@ De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto t
 ## Inställningar för personpoäng {#person-score-settings}
 
 * **Stjärnor**: Stjärnor representerar totalt antal leads jämfört med andra leads.
-* **Lågor**: Lågor är brådskande - hur mycket en leads poäng har ändrats nyligen.
+* **Lågor**: Lågor är brådskande - hur mycket ett leadresultat har ändrats nyligen.
 
 Som standard använder Marketo Sales Insight fältet Lead Score för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
-1. I **Administratör** Marketo klickar du **Försäljningsinsikter**.
+1. Klicka på **Sales Insight** under **Admin** i Marketo.
 
    ![](assets/four.png)
 
-1. Klicka på under Inställningar för leadpoäng **Redigera**.
+1. Klicka på **Redigera** under Inställningar för poängsättning för leads.
 
    ![](assets/five.png)
 
@@ -50,23 +50,23 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    ![](assets/seven.png)
 
-1. Klicka **Spara**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
+1. Klicka på **Spara**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Så här gör du om du inte redan har dina anpassade poängfält [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Om du inte redan har dina anpassade poängfält gör du så här för att [skapa dem](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >[Stjärnor och flamman](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[Stjärnor och flamma](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Inställningar {#settings}
 
 ![](assets/nine.png)
 
-**Avbeställ inställningar:**
+**Inställningar för att avbryta prenumerationen:**
 
 Du kan välja bland följande inställningar för att avbryta prenumerationen för Ingen mall, Standardmeddelanden och operativa e-postmeddelanden
 
@@ -75,7 +75,7 @@ Du kan välja bland följande inställningar för att avbryta prenumerationen f�
 * Uppfyll inställningarna för att avbryta prenumerationen när fler än fem mottagare har
 * Ignorera inställningar för att avbryta prenumerationen
 
-**Möjlighet att låsa mallar:**
+**Aktivera möjligheten att låsa mallar:**
 
 När det här alternativet är aktiverat kan MSI-användare inte redigera mallar när de skickar e-post från Salesforce
 
@@ -83,7 +83,7 @@ När det här alternativet är aktiverat kan MSI-användare inte redigera mallar
 
 När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce). RSS-feed fungerar bara om funktionen &quot;Token Expiration&quot; är inaktiverad.
 
-**Giltighetstid för token:**
+**Giltig token:**
 
 Förfallotid för token styrs i Funktionshanteraren. Om du vill aktivera/inaktivera den kan du kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). När det här alternativet är aktiverat upphör alla Marketo-tokens att gälla inom 10 minuter. När funktionen är inaktiverad upphör inte Marketo-tokens att gälla.
 

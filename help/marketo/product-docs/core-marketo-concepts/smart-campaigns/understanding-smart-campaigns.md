@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om Marketo Engage är en bil är Smart Campaign motorn. Smarta kampanjer kan göra mer än du kan föreställa dig och det är enkelt att komma igång med att använda dem.
 
-Den smarta kampanjen har tre huvudområden: [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} och [Schema](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} -tabbar.
+Den smarta kampanjen har tre huvudområden: Flikarna [Smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flöde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} och [Schema](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Smart List {#smart-list}
 
-Den smarta listan är hur du definierar _som_ ni vill inrikta er på smarta kampanjer. Den har filter och utlösare.
+Den smarta listan är hur du definierar _vem_ du vill använda som mål med den smarta kampanjen. Den har filter och utlösare.
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ Det finns en enorm mängd saker som Smart Campaign kan göra. Gör det så komme
 
 >[!CAUTION]
 >
->Om du flyttar en smart kampanj från ett program till ett annat och kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, måste du uppdatera informationen manuellt för att återspegla det nya programmet, eftersom det **not** automatisk uppdatering.
+>Om du flyttar en smart kampanj från ett program till ett annat och kampanjens smarta lista eller flödessteg refererar till det ursprungliga programmet, måste du uppdatera informationen manuellt för att återspegla dess nya program, eftersom den **inte** uppdateras automatiskt.
 
 >[!MORELIKETHIS]
 >

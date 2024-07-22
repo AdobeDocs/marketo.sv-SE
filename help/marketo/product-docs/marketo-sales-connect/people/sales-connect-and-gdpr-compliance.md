@@ -6,14 +6,14 @@ exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1386'
 ht-degree: 1%
 
 ---
 
 # Efterlevnad av Sales Connect och GDPR {#sales-connect-and-gdpr-compliance}
 
-Den allmänna dataskyddsförordningen (GDPR) är EU-lagstiftning som trädde i kraft den 25 maj 2018.
+Den allmänna dataskyddsförordningen är EU-lagstiftning som trädde i kraft den 25 maj 2018.
 
 ## Översikt {#overview}
 
@@ -22,7 +22,7 @@ Syftet är att stärka de registrerades rättigheter inom Europeiska unionen (EU
 Den allmänna dataskyddsförordningen är uppbyggd kring sex huvudprinciper (som beskrivs i artikel 5 i lagstiftningen):
 
 1. Öppenhet när det gäller hur data ska användas och vad de ska användas till.
-1. Se till att de insamlade uppgifterna endast används för de ändamål som uttryckligen anges vid insamlingen.
+1. Se till att de insamlade uppgifterna endast används för de ändamål som uttryckligen anges vid tidpunkten för insamlingen.
 1. Begränsa datainsamlingen till vad som är nödvändigt för att uppfylla ändamålet för insamlingen.
 1. Säkerställa att data är korrekta.
 1. Lagra uppgifterna endast så länge som det är nödvändigt inom det avsedda ändamålet.
@@ -32,7 +32,7 @@ Dessutom finns det ett nytt krav på ansvarighet för att kunna visa hur regelef
 
 ## Till vem gäller det? {#to-whom-does-it-apply}
 
-Den allmänna dataskyddsförordningen gäller alla organisationer inom eller utanför EU som marknadsför varor eller tjänster till och/eller spårar beteenden hos registrerade inom EU och EES. Om ni gör affärer med registrerade i Europa som innefattar behandling av deras personuppgifter, gäller denna lagstiftning er. Påföljder för bristande efterlevnad är betydande, med stora böter för dem som bryter mot förordningen. Det högsta bötesbeloppet för en enskild överträdelse är 20 miljoner euro eller 4 % av den globala omsättningen, beroende på vilket belopp som är högst.
+Den allmänna dataskyddsförordningen gäller alla organisationer inom eller utanför EU som marknadsför varor eller tjänster till och/eller spårar beteenden hos registrerade inom EU och EES. Om ni gör affärer med registrerade i Europa som innefattar behandling av deras personuppgifter, gäller denna lagstiftning er. Påföljderna för bristande efterlevnad är betydande, med stora böter för dem som bryter mot förordningen. Det högsta bötesbeloppet för en enskild överträdelse är 20 miljoner euro eller 4 % av den globala årsomsättningen, beroende på vilket som är störst.
 
 ## Konsekvenser för marknadsföring {#implications-for-marketing}
 
@@ -42,7 +42,7 @@ Hur marknadsförarna tillgodoser dessa högre förväntningar när det gäller i
 
 Det finns två viktiga aspekter av den allmänna dataskyddsförordningen där marknadsförarna måste granska tidigare, nuvarande och framtida praxis. Det första är samtycke från individen att behandla deras personuppgifter, och det andra är ansvar, nämligen att kunna visa hur principerna i den allmänna dataskyddsförordningen följs.
 
-Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och marknadsföraren](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
+Vi tillhandahåller omfattande information om samtycke och ansvar inom Marketo-plattformen i vår e-bok, [GDPR och The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). I den här artikeln kommer vi dock att särskilt fokusera på de nya funktionerna i Marketo Sales Connect som kommer att hjälpa din organisation att följa GDPR-reglerna.
 
 ## GDPR-kompatibilitet inom Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -50,7 +50,7 @@ Marketo Sales Connect är en kraftfull applikation - som ingår i Marketo Engage
 
 ## Kompatibilitetskort {#compliance-card}
 
-Marketo Sales Connect innehåller ett efterlevnadskort i personinformationsvyn för att tillhandahålla viktig information om en kontakts auktoriseringstyp samt källtyp. På så sätt kan användarna enkelt lägga till och spåra information som är viktig för datasekretessen och hjälpa dem att fatta mer välgrundade beslut om kampanj-/utåtstrategin.
+Marketo Sales Connect innehåller ett kompatibilitetskort i personinformationsvyn för att tillhandahålla viktig information om en kontakts auktoriseringstyp samt deras Source-typ. På så sätt kan användarna enkelt lägga till och spåra information som är viktig för datasekretessen och hjälpa dem att fatta mer välgrundade beslut om kampanj-/utåtstrategin.
 
 ![](assets/1.png)
 
@@ -68,39 +68,39 @@ Det finns många alternativ att välja bland:
 * Offentligt intresse/offentlig myndighet
 * Övrigt
 
-Typ av kontaktkälla
+Kontakta Source Type
 
-I det nya efterlevnadskortet kan användarna spåra kontaktens källa. Källtypen definierar varifrån en kontakts information kom när den först överfördes till Marketo Sales Connect. Att förstå en kontakts källtyp hjälper också till med beslut om utåtriktad praxis, liksom att fastställa vilka andra system eller platser som personuppgifter lagras, så att varje engagemang överensstämmer med GDPR-lagstiftningen.
+I det nya efterlevnadskortet kan användarna spåra kontaktens källa. Source Type definierar varifrån en kontakts information kom när den först överfördes till Marketo Sales Connect. Att förstå en kontakts källtyp hjälper också till med beslut om utåtriktad praxis, liksom att fastställa vilka andra system eller platser som personuppgifter lagras, så att varje engagemang överensstämmer med GDPR-lagstiftningen.
 
 Återigen har användarna flera olika alternativ att välja mellan:
 
 * CRM-synkronisering
 * Importera
 * Manuell överföring
-* Kromtillägg
+* Chrome Extension
 * Övrigt
 
 Redigera efterlevnadskortet
 
-När persondetaljvyn är öppen klickar du på **Redigera** i efterlevnadskortet.
+När personinformationsvyn är öppen klickar du på **Redigera** i efterlevnadskortet.
 
 ![](assets/four.png)
 
-Du kommer att se två listrutor: Auktoriseringstyp och källtyp.
+Två listrutor visas: Authorization Type och Source Type.
 
 ![](assets/5.png)
 
-Om du väljer&quot;Godkännande&quot; som auktoriseringstyp, två obligatoriska fält: &quot;Datum för samtycke&quot; och &quot;syfte med bearbetning&quot; visas. Dessa två fält kan inte användas för andra alternativ.
+Om du väljer &quot;Godkännande&quot; som auktoriseringstyp visas två obligatoriska fält: &quot;Datum för samtycke&quot; och &quot;Syftet med bearbetningen&quot;. Dessa två fält kan inte användas för andra alternativ.
 
 ![](assets/6.png)
 
-Om du väljer &quot;Annat&quot; för antingen Auktoriseringstyp eller Källtyp kan du ange text som beskriver källtypen.
+Om du väljer &quot;Annan&quot; för antingen Auktoriseringstyp eller Source Type kan du ange text som beskriver Source Type.
 
 ![](assets/7.png)
 
-Massåtgärder** Marketo Sales Connect gör det även möjligt att uppdatera en kontakts behörighet och källtyper i grupp, vilket sparar värdefull tid i efterlevnadsprocessen.
+Med gruppåtgärder** Marketo Sales Connect kan du även uppdatera en kontakts behörighet och Source-typer i grupp, vilket sparar värdefull tid i efterlevnadsprocessen.
 
-När du väljer en eller flera kontakter på sidan Personer visas knapparna för auktorisering och Källa i den övre behållaren. Med de här knapparna kan du ange auktorisering eller källa för flera kontakter samtidigt.
+När du väljer en eller flera kontakter på sidan Personer visas knapparna för behörighet och Source i den övre behållaren. Med de här knapparna kan du ange auktorisering eller Source för flera kontakter samtidigt.
 
 ![](assets/eight.jpg)
 
@@ -112,11 +112,11 @@ När auktoriseringstypen har uppdaterats får du ett bekräftelsemeddelande och 
 
 ![](assets/10.png)
 
-På samma sätt kan källtypen också uppdateras gruppvis genom att du klickar på källmodalen.
+På samma sätt kan även Source Type uppdateras flera gånger genom att du klickar på spärrknappen för Source.
 
 ![](assets/11.png)
 
-När du har valt rätt källtyp för de valda kontakterna visas ett bekräftelsefönster som bekräftar att uppdateringen lyckades.
+När du har valt rätt Source Type för de valda kontakterna visas ett bekräftelsefönster som bekräftar att uppdateringen lyckades.
 
 ![](assets/12.png)
 
@@ -180,13 +180,13 @@ Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna
 
 Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerationen på organisationens databas. För att följa nya regler om skydd av data för dem som väljer att säga upp prenumerationen har följande funktioner inkluderats i Marketo Sales Connect:
 
-**Avbeställ länkar:** Länkar för att avbryta prenumerationen läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
-**Avbeställ synkronisering:** Användare kan synkronisera avanmälan till och från sina CRM (Salesforce) för att säkerställa att avanmälningarna är aktuella.\
-**Avbeställningshistorik:** Användare kan se tidigare avanmälan och avanmälan i persondetaljvyn.\
-**Avbeställ borttagning:** Om du väljer att avbryta prenumerationen i måste användaren ha administratörsbehörighet och visa att kontakten har gett nytt medgivande för att kunna kontakta dem.
+**Avanmäl länkar:** Avbeställningslänkar läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
+**Avbeställ synkronisering:** Användare kan synkronisera avbeställningar till och från sin CRM (Salesforce) för att se till att avanmälningarna är aktuella.\
+**Avanmälningshistorik:** Användare kan se tidigare avanmälningar och avanmälningar i persondetaljvyn.\
+**Ta bort prenumerationer:** Om du väljer att avbryta prenumerationen måste användaren ha administratörsbehörighet och bekräfta att kontakten har gett nytt samtycke för att kontakta dem.
 
 ## Framtida uppdateringar {#future-updates}
 
 Som en entusiastisk förespråkare för engagemangsekonomins styrka och kundfokus förstår Marketo vikten av att den registrerade får ta hand om integritetsskydd och dataskydd. Precis som med andra dataskyddslagar kräver GDPR-efterlevnad engagemang från både Marketo och våra kunder. Den här artikeln är avsedd att hjälpa er att använda Marketo på ett lämpligt sätt för att stödja er organisations GDPR-efterlevnad.
 
-Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att läggas upp på vårt Trust Center på [trust.marketo.com](https://trust.marketo.com).
+Vi kommer att fortsätta att noggrant följa GDPR-riktlinjer som utfärdats av tillsynsmyndigheter och tillhörande lagstiftning. Uppdateringar kommer att publiceras på vårt Trust Center på [trust.marketo.com](https://trust.marketo.com).

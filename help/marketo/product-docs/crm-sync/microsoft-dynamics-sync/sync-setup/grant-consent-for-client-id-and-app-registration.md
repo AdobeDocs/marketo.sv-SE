@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -71,18 +71,18 @@ Följ stegen nedan för att lära dig hur du beviljar nödvändigt medgivande/ti
 
 ## Bevilja samtycke för alla användare {#grant-consent-for-all-users}
 
-Som administratör kan du även godkänna ett programs delegerade behörigheter för alla användare i din klientorganisation. Administrativt samtycke förhindrar att dialogrutan för samtycke visas för varje användare i klienten och kan göras i Azure-portalen av användare med administratörsrollen. Läs vilka administratörsroller som kan [godkännande av delegerade behörigheter här](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Som administratör kan du även godkänna ett programs delegerade behörigheter för alla användare i din klientorganisation. Administrativt samtycke förhindrar att dialogrutan för samtycke visas för varje användare i klienten och kan göras i Azure-portalen av användare med administratörsrollen. Lär dig vilka administratörsroller som kan [ge tillstånd till delegerade behörigheter här](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Gå till programmets startsida på din Azure-portal.
 
-1. Under Hantera klickar du på **[!UICONTROL API Permissions]**.
+1. Klicka på **[!UICONTROL API Permissions]** under Hantera.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Klicka på **[!UICONTROL Grant admin consent]** (för klientorganisation).
+1. Klicka på knappen **[!UICONTROL Grant admin consent]** (för klientorganisation).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klicka **[!UICONTROL Yes]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Yes]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

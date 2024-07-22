@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Ta bort en profileringsdomän {#delete-a-branding-domain}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 

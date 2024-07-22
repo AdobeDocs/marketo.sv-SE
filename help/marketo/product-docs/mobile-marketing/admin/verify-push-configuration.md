@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
-1. Klicka på **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -31,11 +31,11 @@ Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka **Funktioner för mobilappar** och markera **Verifiera push-konfiguration**.
+1. Klicka på **Åtgärder för mobilappar** och välj **Verifiera push-konfiguration**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bekräfta att plattformarna lästes och klicka **Stäng**.
+1. Bekräfta att plattformarna lästes och klicka på **Stäng**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

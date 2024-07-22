@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om igen kan du skapa en anpassad layout som gör det enklare.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
@@ -23,7 +23,7 @@ Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om ig
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klicka på **[!UICONTROL Custom Layout Designer]** -fliken.
+1. Klicka på fliken **[!UICONTROL Custom Layout Designer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ Om du råkar leta efter en viss uppsättning fält i persondetaljen om och om ig
    >
    >Du har två kolumner att arbeta med.
 
-   Om du vill ta bort ett fält högerklickar du på det och klickar på **[!UICONTROL Delete]**.
+   Om du bestämmer dig för att du vill ta bort ett fält högerklickar du på fältet som du vill ta bort och klickar på **[!UICONTROL Delete]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

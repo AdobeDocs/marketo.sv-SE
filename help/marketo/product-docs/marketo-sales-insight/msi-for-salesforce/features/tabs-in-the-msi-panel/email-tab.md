@@ -26,7 +26,7 @@ Du kan klicka på knappen &quot;Kontrollera leveransstatus&quot; för att öppna
 <table> 
  <tbody>
   <tr>
-   <td><strong>Mejl från Marketo</strong></td>
+   <td><strong>E-post som skickas från Marketo</strong></td>
    <td>Skickat, levererat, studsat, mjukt studs</td>
   </tr>
   <tr>

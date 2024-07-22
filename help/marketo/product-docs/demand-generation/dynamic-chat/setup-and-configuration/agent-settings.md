@@ -2,10 +2,10 @@
 description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Konfigurera din kalender och ange tillgänglighet för möte/live-chatt.
 
 >[!PREREQUISITES]
 >
->Se till att dina agenter har fått rätt [behörigheter](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Kontrollera att dina agenter har beviljats rätt [behörigheter](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ Ange din tidszon och tid/dag i veckan som du vill ha för att ta emot mötesbokn
 
 >[!TIP]
 >
->Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+** till höger.
+>Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+**-tecknet till höger.
 
 ## Tillgänglighet för live-chatt {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Ange din tidszon och tid/veckodag som tillgänglig för att ta emot chattar live
 
 ![](assets/agent-settings-5.png)
 
-Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (om du har [konfigurera](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (om du har [konfigurerat det ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->The [tillgänglighet växla](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** vad du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Tillgängligheten växlar status tills du ändrar den manuellt eller tills nästa tidsblock i tillgängligheten nås.
+>[Tillgänglighetsväxlingen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** det du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Tillgängligheten växlar status tills du ändrar den manuellt eller tills nästa tidsblock i tillgängligheten nås.
 
 >[!TIP]
 >
->Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+** till höger.
+>Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+**-tecknet till höger.

@@ -24,7 +24,7 @@ Förhandsgranska landningssidan när du har lagt till dynamiskt innehåll för a
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Klicka på listrutan och välj en **Segment** för att förhandsgranska den.
+1. Klicka på listrutan och välj ett **segment** för att förhandsgranska det.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 

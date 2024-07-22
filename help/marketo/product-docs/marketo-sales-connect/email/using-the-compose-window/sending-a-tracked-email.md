@@ -26,7 +26,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar
 
    ![](assets/one.png)
 
-1. Ange namn eller e-postadress för en mottagare i **Till** fält.
+1. Ange namn eller e-postadress för en mottagare i fältet **Till**.
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar
 
    >[!NOTE]
    >
-   >Om någon som har varit en CC’d eller BCC’d öppnar e-postmeddelandet, spelas den öppningen in som en vy på personens anteckning i **Till** fält.
+   >Om någon som har varit CC’d eller BCC’d öppnar e-postmeddelandet, spelas den öppningen in som en vy på personens post i fältet **Till**.
 
 1. Lägg till en ämnesrad.
 
@@ -48,13 +48,13 @@ När du skickar ett e-postmeddelande med Marketo Sales Connect spåras visningar
 
    >[!NOTE]
    >
-   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi ska **automatiskt spara utkastet** när en ämnesrad och mottagare har lagts till.
+   >Du måste ange ämnesrad och mottagare för att kunna skicka e-postmeddelandet. Vi **sparar automatiskt utkastet** när en ämnesrad och mottagare har lagts till.
 
-1. Skriv e-postmeddelandet med redigeraren. Klicka **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), om du vill) när du är klar.
+1. Skriv e-postmeddelandet med redigeraren. Klicka på **Skicka** (eller [Schemalägg](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) om du vill) när du är klar.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Schemalägga ett e-postmeddelande](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Schemalägger ett e-postmeddelande](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Mallar](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

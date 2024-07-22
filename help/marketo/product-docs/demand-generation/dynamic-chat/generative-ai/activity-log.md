@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Se en lista över alla uppgifter och deras medföljande information, inklusive namn, ägare, typ och vem som redigerade dem och när.
 
-1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
+1. Klicka på **[!UICONTROL Assisted responses]** under Generativ AI.
 
    ![](assets/activity-log-1.png)
 
-1. Klicka på **[!UICONTROL Activity log]** -fliken.
+1. Klicka på fliken **[!UICONTROL Activity log]**.
 
    ![](assets/activity-log-2.png)
 

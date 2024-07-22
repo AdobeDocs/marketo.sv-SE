@@ -5,8 +5,8 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 13%
+source-wordcount: '823'
+ht-degree: 12%
 
 ---
 
@@ -56,7 +56,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Mark
     <tr>
       <td>E-post</td>
       <td>E-post</td>
-      <td>emailaddress1</td>
+      <td>e-postadress1</td>
     </tr>
     <tr>
       <td>Befattning</td>
@@ -66,7 +66,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Mark
     <tr>
       <td>Tel.</td>
       <td>Telefon, arbete</td>
-      <td>telephone1</td>
+      <td>telefon1</td>
     </tr>
     <tr>
       <td>Mobil</td>
@@ -104,7 +104,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Mark
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Personkälla</td>
+      <td>Person Source</td>
       <td>Leadkälla</td>
       <td>leadsourccode</td>
     </tr>
@@ -166,7 +166,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Mark
     <tr>
       <td>Microsoft hemtelefon</td>
       <td>Telefon, hem</td>
-      <td>telephone2</td>
+      <td>telefon2</td>
     </tr>
     <tr>
       <td>Microsoft föredragen kontaktmetod</td>
@@ -296,7 +296,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>E-post</td>
       <td>E-post</td>
-      <td>emailaddress1</td>
+      <td>e-postadress1</td>
     </tr>
     <tr>
       <td>Befattning</td>
@@ -306,7 +306,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Tel.</td>
       <td>Telefon, arbete</td>
-      <td>telephone1</td>
+      <td>telefon1</td>
     </tr>
     <tr>
       <td>Mobil</td>
@@ -376,7 +376,7 @@ Leadfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Microsoft hemtelefon</td>
       <td>Telefon, hem</td>
-      <td>telephone2</td>
+      <td>telefon2</td>
     </tr>
     <tr>
       <td>Microsoft föredragen kontaktmetod</td>
@@ -525,7 +525,7 @@ Kontaktfälten nedan synkroniseras för internt bruk.
     <tr>
       <td>Telefon</td>
       <td>Telefon</td>
-      <td>telephone1</td>
+      <td>telefon1</td>
     </tr>
     <tr>
       <td>Affärstyp</td>

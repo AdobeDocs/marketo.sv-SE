@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Följande funktioner finns i vårutgåvan 17. Se om det finns funktioner i Marketo Edition.
 
-Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Anteckning**: Om ett ämne har flera underrubriker placeras länkarna där.
+Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. **Obs!** Om ett ämne har flera underrubriker placeras länkarna där.
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på LinkedIn. Man kan fylla i blanketter för att uttrycka sitt intresse för en produkt eller tjänst, vilket gör det möjligt för företaget att samla in personuppgifterna och synka dem till Marketo, där automatiserade uppföljningsprocesser och leadhanteringsaktiviteter kan förekomma.
 
-Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya **Fyller i formuläret för LinkedIn Lead Gen** utlösare och filter.
+Marketo-integreringen med LinkedIn Lead Gen Forms hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Gen. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren och filtret **Fyll i LinkedIn Lead Gen Form** .
 
 ![](assets/release-notes-image.png)
 
@@ -49,11 +49,11 @@ Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna k
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av poängen så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-**[API:er för kontolista för ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API:er för ABM-kontolista](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 
-## Förbättringar av webbpersonalisering {#web-personalization-enhancements}
+## Förbättringar i Personalization {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
@@ -75,7 +75,7 @@ Ställ in animeringseffekterna för Dialog Web Campaign för att anpassa hur en 
 
 ![](assets/animationoptins.png)
 
-**[Dialogrutan Stäng anpassning av knapp](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Dialogrutan Stäng knappanpassning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Anpassa stängningsknappen för dialogrutor. Välj bland en rad alternativ som används i webbkampanjer i formatet Genomskinlig dialogruta. Markera ikonen, färgen och placeringen för knappen Stäng. Du kan också lägga till en egen knappbild.
 
@@ -89,7 +89,7 @@ Arkiv är en ny Web Campaign-status som gör att du kan arkivera webbkampanjer o
 
 **[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Webbanpassning finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
+Web Personalization finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
 ## Prediktiva förbättringar {#predictive-enhancements}
 

@@ -19,11 +19,11 @@ Personinformationssidan innehåller all information som Marketo känner till om 
 
 Det finns många sätt att öppna specifika personer. Några exempel är:
 
-* Från **Databas** kan du söka i Snabbsökning
-* Alla **Smart List** eller lista
-* **Medlemmar** flik i ett program
+* I **databasen** kan du söka i Snabbsökning
+* Valfri **smart lista** eller lista
+* Fliken **Medlemmar** i ett program
 * **Visa kampanjmedlemmar** i en smart kampanj
-* Några **rapporter**
+* Vissa **rapporter**
   <br> 
 
 1. Dubbelklicka på en person eller klicka en gång på ID:t till vänster.
@@ -60,7 +60,7 @@ Personinformation kategoriseras på följande flikar:
 
 >[!NOTE]
 >
->Du kan även se information om säljprojekt [infogat via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
+>Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 
@@ -80,7 +80,7 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 | Bransch | Inaktuell ort | Berört företag | Berört land | Ingående metropolitområde |
 | Riktnummer för inkommande telefon | Infört postnummer | Ingångsregion | Är anonym | Är kund |
 | Är partner | Befattning | Efternamn | Klassificering | Poäng |
-| Personkälla | Status | Telefon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
+| Person Source | Status | Telefon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
 | Marketo Social Facebook Photo URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Refererade registreringar från Marketo Social Facebook | Refererade Marketo Social Facebook-besök |
 | Marketo Social Genus | Marketo Social, senast refererad registrering | Marketo Social, senaste refererat besök | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
 | Marketo Social LinkedIn Photo URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Refererade registreringar från Marketo Social LinkedIn | Refererade Marketo Social LinkedIn-besök |
@@ -93,15 +93,15 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 
 >[!NOTE]
 >
->Vissa fält är _not_ redigerbar:
+>Vissa fält kan _inte_ redigeras:
 >
 >* Aktivitetslogg
 >* Företagsinformation
 >* Möjligheter för SFDC-kontakter
->* Vissa Marketo-specifika fält, t.ex. Skapad och Ursprunglig källtyp.
+>* Vissa Marketo-specifika fält, t.ex. Skapad och Ursprunglig Source-typ.
 >
 >Läs mer om [Systemhanterade fält](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Skapa en anpassad flik för personinformationssidan](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[Skapar en anpassad flik för personinformationssidan](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

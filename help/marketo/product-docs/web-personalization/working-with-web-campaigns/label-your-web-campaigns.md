@@ -17,13 +17,13 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
 ## Lägga till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
 
-1. Logga in på Webbanpassning och gå till Web Campaigns.
+1. Logga in på Web Personalization och gå till Web Campaigns.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen.
 
 1. Välj de kampanjer du vill tagga med en etikett.
 

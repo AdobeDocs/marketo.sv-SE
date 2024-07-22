@@ -6,7 +6,7 @@ exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Det är superenkelt att skicka ett Marketo-mejl till flera personer med Marketo Sales Insight. Kom så sätter vi igång.
 
-1. I Salesforce klickar du på **Leads** eller **Kontakter**.
+1. Klicka på **Leads** eller **Kontakter** i Salesforce.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-1.png)
 
-1. Klicka **Gå** för att visa alla öppna leads.
+1. Klicka på **Gå** om du vill visa alla öppna leads.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-2.png)
 
@@ -29,19 +29,19 @@ Det är superenkelt att skicka ett Marketo-mejl till flera personer med Marketo 
 
    >[!NOTE]
    >
-   >Om du använder Salesforce Lightning kommer knappen att säga **Skicka Marketo-e-post (blixt)**.
+   >Om du använder Salesforce Lightning står det **Skicka e-post från Marketo (blixt)** på knappen.
 
    >[!TIP]
    >
-   >Ser du inte knappen? Se till att du [lade till Marketo-knapparna i listvyn](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >Ser du inte knappen? Kontrollera att du har [lagt till Marketo-knappar i listvyn](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
-1. Skriv e-postmeddelandet nu. Klicka **Skicka med Marketo** när du är klar.
+1. Skriv e-postmeddelandet nu. Klicka på **Skicka med Marketo** när du är klar.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-4.png)
 
    >[!TIP]
    >
-   >Du kan [publicera e-post till Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) och välj bland dessa e-postmeddelanden.
+   >Du kan [publicera e-post till Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) och välja bland dessa e-postmeddelanden.
 
    >[!NOTE]
    >

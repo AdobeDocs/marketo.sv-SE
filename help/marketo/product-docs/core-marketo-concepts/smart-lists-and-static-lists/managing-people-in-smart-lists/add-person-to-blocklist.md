@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Genom att lägga till personer på Blockeringslista kan de inte ta emot din korrespondens.
 
-1. Skapa ett nytt [standardprogram](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} och kalla det&quot;Lägg till i Blockeringslista&quot;.
+1. Skapa ett nytt [standardprogram](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} och ge det namnet&quot;Lägg till i Blockeringslista&quot;.
 
 1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]**.
 
@@ -57,23 +57,23 @@ Genom att lägga till personer på Blockeringslista kan de inte ta emot din korr
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Klicka på **[!UICONTROL Flow]** -fliken. Dra och släpp **[!UICONTROL Change Data Value]** Flödesåtgärd.
+1. Klicka på fliken **[!UICONTROL Flow]**. Dra och släpp **[!UICONTROL Change Data Value]**-flödesåtgärden.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. I **[!UICONTROL Attribute]** nedrullningsbar markering **[!UICONTROL Block Listed]** och ange **[!UICONTROL New Value]** till **[!UICONTROL true]**.
+1. I listrutan **[!UICONTROL Attribute]** väljer du **[!UICONTROL Block Listed]** och anger **[!UICONTROL New Value]** till **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Klicka på **[!UICONTROL Schedule]** och markera **[!UICONTROL Run Once]**.
+1. Klicka på fliken **[!UICONTROL Schedule]** och välj **[!UICONTROL Run Once]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Välj **[!UICONTROL Run Now]** och klicka **[!UICONTROL Run]**.
+1. Markera **[!UICONTROL Run Now]** och klicka på **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Klicka **[!UICONTROL Run]** igen.
+1. Klicka på **[!UICONTROL Run]** igen.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Dessa personer kommer inte längre att få e-post.
 
 >[!TIP]
 >
->Skapa en [Utlös kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} använda **Ändra datavärde** med **Blocklistan är sann** för alla i framtiden som har attribut som kan blocklist.
+>Skapa en [utlösarkampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} med **Ändra datavärde** med **Blocklistan är true** för alla personer i framtiden som har attribut som kan blocklist.

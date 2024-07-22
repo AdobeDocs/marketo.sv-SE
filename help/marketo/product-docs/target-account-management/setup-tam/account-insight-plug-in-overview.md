@@ -6,24 +6,24 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Översikt över plugin-programmet Account Insight {#account-insight-plug-in-overview}
 
-Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och kontoinsikter till era säljteam, vilket gör att de kan ta kontakt med konton på ett mer effektivt sätt.
+Account Insight är en Chrome-plugin som ger er åtgärdbara TAM-resurser och kontoinsikter till era säljteam så att de kan ta kontakt med konton på ett effektivare sätt.
 
 >[!AVAILABILITY]
 >
 >* Account Insight ingår för alla kunder som har både TAM och Marketo Sales Insight. För kunder som bara har TAM är Account Insight tillgängligt som ett köpt tillägg. Varje kund är begränsad till 250 licenser för kontoinsikt. Kontakta din säljare för mer information. Det är inte tillgängligt för kunder som inte har TAM.
 >
->* Denna plug-in är inte kompatibel med [Autentisering av Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} just nu.
+>* Det här plugin-programmet är för närvarande inte kompatibelt med [Adobe-identitetsautentisering](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
->Plugin-programmet Account Insight fungerar inte i prenumerationer som har [Endast SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) aktiverat.
+>Plugin-programmet Account Insight fungerar inte i prenumerationer där [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enkel inloggning) är aktiverat.
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ Aktivitetsflödet visar senaste aktivitet och går tillbaka sju dagar.
 
 ![](assets/af1.png)
 
-Klicka på **Filter** listrutan för att filtrera efter olika aktivitetstyper.
+Klicka på listrutan **Filter** om du vill filtrera efter olika aktivitetstyper.
 
 ![](assets/af2.png)
 
@@ -85,4 +85,4 @@ Snygga grejer!
 
 >[!MORELIKETHIS]
 >
->[Ställ in kontoinsikter](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[Konfigurera kontoinsikt](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

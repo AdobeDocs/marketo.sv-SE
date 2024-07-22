@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Sales Connect använder kontakt- eller lead-ID (även kallat Salesforce-ID) för att hjälpa till att logga information korrekt till Salesforce. Det finns några sätt att koppla ditt Salesforce-ID till dina kontakter i Sales Connect.
 
-[Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Om du använder Skicka till säljkoppling skapas en kontakt i Försäljningsanslutning med all viktig kontaktinformation, inklusive lead/kontakts Salesforce-ID.
+[Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Med Push to Sales Connect skapas en kontakt i Sales Connect med all viktig kontaktinformation, inklusive lead/kontakts Salesforce ID.
 
-[Skicka e-post från Marketo, Lägg till i kampanj och Klicka för att ringa knappar i SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): När du använder någon av de här tre knapparna i Salesforce kommer vi att skicka kontakten till Sales Connect med Salesforce-ID:t.
+[Skicka e-post för Marketo-försäljning, Lägg till i kampanj och Klicka på samtalsknappar i SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): När du använder någon av dessa tre knappar i Salesforce kommer vi att skicka kontakten till Sales Connect med Salesforce-ID:t.
 
-[Importera CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Om du exporterar en lista med leads/kontakter från Salesforce och du inkluderar en kolumn med Salesforce-ID, kan du mappa fältet till Sales Connect vid import.
+[Importera CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Om du exporterar en lista med leads/kontakter från Salesforce och du inkluderar en kolumn med Salesforce-ID kan du mappa fältet till Sales Connect vid import.

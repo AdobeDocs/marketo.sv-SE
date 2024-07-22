@@ -20,7 +20,7 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Rummet läses in. Om du vill byta rum väljer du ett i listrutan Rummen. Om du vill uppdatera mallen klickar du på **Använd rum**.
+1. Rummet läses in. Om du vill byta rum väljer du ett i listrutan Rummen. Om du bara vill uppdatera mallen klickar du på **Använd rum**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,15 +28,15 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 >
 >Det är valfritt att ändra rummet och du behöver inte uppdatera mallen.
 
-1. Klicka **Förfina ert webbinarium nu**.
+1. Klicka på **Förfina webbinariet nu**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Välj inställningar för ljud/video och klicka på **Ange rum**.
+1. Välj dina inställningar för ljud/video och klicka på **Ange rum**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. När du är klar med ändringarna klickar du **Avsluta rummet**.
+1. När du är klar med ändringarna klickar du på **Avsluta rummet**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -62,13 +62,13 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    >[!TIP]
    >
-   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Klona** därifrån.
+   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Clone** därifrån.
 
 1. Ge det klonade programmet ett namn, ange Workspace och mål (om du vill att programmet ska vara någon annanstans) och klicka på **Spara**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
@@ -92,9 +92,9 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    >[!TIP]
    >
-   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Ta bort** därifrån.
+   >Du kan också högerklicka på Event Program (Händelseprogram) i trädet och välja **Delete** därifrån.
 
-1. Klicka **Ta bort**.
+1. Klicka på **Ta bort**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 

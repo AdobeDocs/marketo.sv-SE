@@ -4,7 +4,8 @@ title: Meddelanden
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+exl-id: b06da576-39a4-41db-8e29-302083baca36
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -15,11 +16,11 @@ ht-degree: 0%
 
 För att kunna ta emot webbläsarmeddelanden för live-chatt måste alla live-chattagenter aktivera webbläsarmeddelanden för Dynamic Chat när de uppmanas till det.
 
-Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka **Aktivera**.
+Live-chattagenter ser en banderoll högst upp på skärmen när de loggar in som visar&quot;Aktivera webbläsarmeddelanden för att ta emot live-chattmeddelanden&quot;. Klicka på **Aktivera**.
 
 ![](assets/live-chat-overview-4.png)
 
-Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka **Tillåt**.
+Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka på **Tillåt**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -27,7 +28,7 @@ Live-chattagenterna uppmanas sedan av webbläsaren att visa meddelanden. Klicka 
 
 ### Chrome för Windows
 
-Google beskriver stegen för att aktivera webbläsarmeddelanden för Windows i [den här artikeln](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+I Google beskrivs stegen för att aktivera webbläsarmeddelanden för Windows i [den här artikeln](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ### Chrome för Mac OS
 

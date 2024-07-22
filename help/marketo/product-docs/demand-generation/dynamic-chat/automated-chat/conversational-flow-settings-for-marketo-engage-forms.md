@@ -26,19 +26,19 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Klicka på **[!UICONTROL Form Settings]** sedan **[!UICONTROL Settings]**.
+1. Klicka på **[!UICONTROL Form Settings]** och sedan **[!UICONTROL Settings]** på formulärredigeringssidan.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Klicka på **[!UICONTROL Conversational Flow Settings]** skjutreglage som ska aktiveras.
+1. Klicka på skjutreglaget **[!UICONTROL Conversational Flow Settings]** för att aktivera.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Ett standardalternativ visas. Välj din inställning. I det här exemplet väljer vi **[!UICONTROL Use Conversational Flow]**.
+1. Ett standardalternativ visas. Välj din inställning. I detta exempel väljer vi **[!UICONTROL Use Conversational Flow]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Markera önskat **[!UICONTROL Conversational Flow]** och **[!UICONTROL Delivery Type]**.
+1. Markera önskad **[!UICONTROL Conversational Flow]** och **[!UICONTROL Delivery Type]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,7 +46,7 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
    >
    >[Läs mer om konversationsflöden](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **VALFRITT STEG**: Klicka **[!UICONTROL Add Choice]** för att rikta in sig på chattbesökare som uppfyller ett visst villkor. Du kan lägga till upp till nio alternativ för totalt tio.
+   **VALFRITT STEG**: Du kan klicka på **[!UICONTROL Add Choice]** om du vill rikta chattbesökare som uppfyller ett visst villkor. Du kan lägga till upp till nio alternativ för totalt tio.
 
    ![](assets/conversational-flow-settings-7.png)
 
@@ -54,7 +54,7 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
    >
    >Besökarens webbläsare måste vara en känd person som cookie innan formuläret skickas in för att bli berättigad till medlem i en statisk/smart lista.
 
-   **VALFRITT STEG**: Klicka på **+** signera i varje steg för att lägga till fler attribut, så att du kan begränsa målgruppen (attributen är de fält som du har valt för formuläret). I det här exemplet riktar vi oss till Adobe Technical Writers i Kalifornien.
+   **VALFRITT STEG**: Klicka på signaturen **+** i varje steg om du vill lägga till fler attribut, så att du kan begränsa målgruppen (attributen är de fält som du har valt för formuläret). I det här exemplet riktar vi oss till Adobe Technical Writers i Kalifornien.
 
    ![](assets/conversational-flow-settings-8.png)
 
@@ -66,6 +66,6 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
 
    ![](assets/conversational-flow-settings-9.png)
 
-1. Klicka **[!UICONTROL Finish]** när det är klart.
+1. Klicka på **[!UICONTROL Finish]** när du är klar.
 
    ![](assets/conversational-flow-settings-10.png)

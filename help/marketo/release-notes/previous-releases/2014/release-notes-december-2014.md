@@ -17,7 +17,7 @@ Följande funktioner ingår i december 2014-versionen. Kontrollera om det finns 
 
 ## Sales Insight-rapporter {#sales-insight-reports}
 
-The [E-postresultatrapport för Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) gör att du kan se e-poststatistik via e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
+Med [E-postresultatrapporten för försäljningsinsikter](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-postmått per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ The [E-postresultatrapport för Sales Insight](/help/marketo/product-docs/market
 
 ## Facebook Custom Auditions {#facebook-custom-audiences}
 
-När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-publik med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart Marketo-lista](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Förbättrad kloning över flera arbetsytor  {#improved-cloning-across-workspaces}
 
-[Klona ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) till en annan arbetsyta har aldrig varit enklare! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
+[Det har aldrig varit enklare att klona ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) till en annan arbetsyta! När du klickar på klona väljer du målarbetsytan. Nu behöver du inte längre klona till en mapp och sedan flytta mappen!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](
 
 ## Referera till smart lista {#reference-smart-list}
 
-[Smarta listor som delas med en annan arbetsyta kan refereras](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) när du skapar en smart lista eller ett smart flöde.
+[Smarta listor som delas med en annan arbetsyta kan refereras till](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) när du skapar en smart lista eller ett smart flöde.
 
 ## Förbättringar av listimport {#list-import-improvements}
 
-[Importera filer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) kodas i UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
+[Importera filer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) som är kodade med UTF-16, Shift-JIS eller EUC-JP. Vi har fortsatt stöd för UTF-8-kodade filer.
 
 ## Länkspårning i e-postskript {#link-tracking-in-email-scripting}
 
@@ -69,7 +69,7 @@ Fullständig information finns tillgänglig efter lanseringen på [https://exper
 
 ## Kompatibilitetsförbättringar för Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
-Vi har gjort flera smärre förbättringar av Munchkin för att se till att den fortsätter att läsas in snabbt och fungera som du vill i fall med andra JavaScript-skript på sidan.
+Vi har gjort flera smärre förbättringar av Munchkin för att se till att den fortsätter att läsas in snabbt och fungera som du vill i fall med andra JavaScript på sidan.
 
 Utbyggnaden kommer att stagnera i mitten av december och fortsätta under de kommande månaderna.
 

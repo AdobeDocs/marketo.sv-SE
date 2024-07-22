@@ -18,11 +18,11 @@ Du kan aktivera/inaktivera CAPTCHA per formulär.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Klicka **Redigera utkast** (Om formuläret redan har godkänts klickar du på Skapa utkast).
+1. Klicka på **Redigera utkast** (om formuläret redan har godkänts klickar du på Skapa utkast).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Klicka **Formulärinställningar** sedan **Inställningar**.
+1. Klicka på **Formulärinställningar** och sedan på **Inställningar**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
@@ -30,11 +30,11 @@ Du kan aktivera/inaktivera CAPTCHA per formulär.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

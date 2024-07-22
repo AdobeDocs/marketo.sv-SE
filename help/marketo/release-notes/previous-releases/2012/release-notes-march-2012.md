@@ -6,7 +6,7 @@ exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Lös mina token {#resolve-my-tokens}
 
-Mina token (programtoken) kommer att matchas när du förhandsgranskar ett e-postmeddelande, när du skickar ett testmeddelande och när du skickar ett lokalt e-postmeddelande via en enda flödesåtgärd. Du behöver inte längre skapa en smart kampanj i programmet för att testa dina Mina token!
+Mina token (programtoken) kommer att matchas när du förhandsgranskar ett e-postmeddelande, när du skickar ett testmeddelande och när du skickar ett lokalt e-postmeddelande via en enda flödesåtgärd. Du behöver inte längre skapa en smart kampanj i programmet för att testa dina My Tokens!
 
 ## Växla mellan förhandsgranskning och redigerare i e-post och landningssidor {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
 

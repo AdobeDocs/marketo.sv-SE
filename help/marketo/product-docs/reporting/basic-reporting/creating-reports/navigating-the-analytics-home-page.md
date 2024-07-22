@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Navigera på analysstartsidan {#navigating-the-analytics-home-page}
 
-1. Gå till **Analyser** område.
+1. Gå till området **Analyser**.
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. När du har kört rapporten klickar du på arbetsytan för att gå tillbaka till **Startsida för analyser**.
+1. När du har kört rapporten klickar du på arbetsytan för att gå tillbaka till **startsidan för analyser**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 

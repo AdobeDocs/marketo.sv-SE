@@ -6,7 +6,7 @@ exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Nedan finns de senaste versionerna för alla e-postklienter för Sales Connect.
    <td>senaste</td> 
   </tr> 
   <tr> 
-   <td>Krom</td> 
+   <td>Chrome</td> 
    <td>senaste</td> 
   </tr> 
   <tr> 
@@ -71,4 +71,4 @@ Nedan finns de senaste versionerna för alla e-postklienter för Sales Connect.
  </tbody> 
 </table>
 
-För bästa upplevelse **håll din webbläsare och e-postklient uppdaterad**!
+**Håll webbläsaren och e-postklienten uppdaterade** för att få bästa möjliga upplevelse!

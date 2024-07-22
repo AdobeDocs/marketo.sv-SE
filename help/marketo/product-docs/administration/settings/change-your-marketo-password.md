@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Ändra ditt Marketo-lösenord med dessa enkla steg.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/change-your-marketo-password-1.png)
 

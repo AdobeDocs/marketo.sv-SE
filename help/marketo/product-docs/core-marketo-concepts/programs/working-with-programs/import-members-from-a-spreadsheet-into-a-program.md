@@ -6,7 +6,7 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
 ## Importera din CSV-fil till Marketo {#import-your-csv-into-marketo}
 
-1. Gå till **[!UICONTROL Members]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Members]** i ditt program.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -45,9 +45,9 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
    >[!NOTE]
    >
-   >Om det finns fält som du inte vill importera väljer du **[!UICONTROL IGNORE]** i listrutan Marketo Field.
+   >Om det finns fält som du inte vill importera väljer du **[!UICONTROL IGNORE]** i listrutan Marketo-fält.
 
-1. Välj **[!UICONTROL Member Status]** i listan.
+1. Välj **[!UICONTROL Member Status]** för listan.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 

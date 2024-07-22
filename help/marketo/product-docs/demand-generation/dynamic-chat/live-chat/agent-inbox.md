@@ -24,7 +24,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 >[!IMPORTANT]
 >
->**Det här åsidosätter** den [live chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} som du har etablerat i Agentinställningar. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
+>**Detta åsidosätter** den [live-chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} som du upprättade i agentinställningarna. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 ## Live Chat-meddelanden {#live-chat-notifications}
 
-Läs mer om meddelanden i [Översikt över live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Läs mer om meddelanden i [Live Chat-översikten](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Konversationer {#conversations}
 
@@ -52,7 +52,7 @@ Till höger på skärmen Agent Inbox kan du se (uppifrån och ned) deras namn, b
 
 ## Avsluta en session {#end-a-session}
 
-Agenter kan avsluta en session manuellt genom att klicka på **Avsluta session** intill besökarinformationen.
+Agenter kan avsluta en session manuellt genom att klicka på knappen **Avsluta session** bredvid besökarinformationen.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,11 +62,11 @@ Agenter kan avsluta en session manuellt genom att klicka på **Avsluta session**
 >
 >Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-Kortkommandon från genererande AI [Svarsbibliotek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), är ett bra sätt att få hjälp direkt när du chattar med en besökare. Skriv bara ett snedstreck (`/`) i textrutan och väljer `ask` eller `search`.
+Kortkommandon, som drivs av det generativa AI-biblioteket [Response](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), är ett bra sätt att få hjälp direkt när du chattar med en besökare. Skriv bara ett snedstreck (`/`) i textrutan och välj `ask` eller `search`.
 
 ![](assets/agent-inbox-7.png)
 
-**Fråga** är till för att få hjälp med att svara på en fråga.
+**Fråga** är om du behöver hjälp med att svara på en fråga.
 
 1. Skriv eller välj `/ask` i textrutan. Skriv din fråga och tryck på Retur på tangentbordet.
 
@@ -76,7 +76,7 @@ Kortkommandon från genererande AI [Svarsbibliotek](/help/marketo/product-docs/d
 
    ![](assets/agent-inbox-9.png)
 
-**Sök** är till för att hjälpa dig att hitta sidor som hör till en viss text.
+**Sök** är till för att få hjälp med att hitta sidor som hör till en viss text.
 
 1. Skriv eller välj `/search` i textrutan.
 

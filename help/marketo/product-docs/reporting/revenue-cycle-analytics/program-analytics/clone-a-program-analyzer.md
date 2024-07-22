@@ -15,19 +15,19 @@ ht-degree: 0%
 
 När du har sparat en analyserare är det enkelt att klona den och skapa en ny. Gå sedan in och redigera den nya om det behövs några ändringar.
 
-1. Klicka på **Analyser** platta.
+1. Klicka på rutan **Analyser**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicka på **Program Analyzer** platta.
+1. Klicka på rutan **Programanalys**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Öppna listrutan Analyzer-åtgärder när den sparade analysen är öppen och välj **Klonanalyserare**.
+1. Öppna listrutan Analyzer-åtgärder när den sparade analysen är öppen och välj **Klonanalys**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Välj plats för den klonade analyseraren på **Klona till** och **Mapp** nedrullningsbara listor.
+1. Välj plats för den klonade analyseraren i listrutorna **Klona till** och **Mapp** .
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 

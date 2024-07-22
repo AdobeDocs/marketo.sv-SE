@@ -6,12 +6,12 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: April 2013 {#release-notes-april}
+# Versionsinformation: april 2013 {#release-notes-april}
 
 Följande funktioner finns i aprilversionen.
 
@@ -23,7 +23,7 @@ Anslut Marketo till ditt Box-konto för att enkelt kopiera filer till designstud
 
 ## Gmail Plugin {#gmail-plugin}
 
-Om du använder både Marketo Sales Insight och Gmail kan du installera vårt nya Gmail-plugin-program via Chrome Store. Med plugin-programmet kan du logga meddelanden med Marketo, läsa in Marketo e-postmallar och skicka meddelanden med Marketo spårningsfunktioner.
+Om du använder både Marketo Sales Insight och Gmail kan du installera vårt nya Gmail-plugin-program via Chrome store. Med plugin-programmet kan du logga meddelanden med Marketo, läsa in Marketo e-postmallar och skicka meddelanden med Marketo spårningsfunktioner.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -37,7 +37,7 @@ Funktionen för e-postanalys aktiveras i faser under april och maj när vi migre
 
 ## Program-API:er {#program-apis}
 
-Stöd för program i SOAP API-anropet, inklusive skrivskyddad åtkomst till programdata som: antal programmedlemskap, inköpt av, lyckade, inställningar, kanaler, taggar, tokens och kostnader. Mer information finns i dokumentationen för SOAP API.
+Stöd för program i SOAP API-anrop, inklusive skrivskyddad åtkomst till programdata som t.ex. antal programmedlemskap, inköpt av, lyckade, inställningar, kanaler, taggar, token och kostnader. Mer information finns i dokumentationen för SOAP API.
 
 ## ON24-förbättring {#on-enhancement}
 

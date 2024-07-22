@@ -6,7 +6,7 @@ exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -24,17 +24,17 @@ En segmentering måste godkännas innan den kan användas.
 >
 >Högst 20 segment kan godkännas åt gången.
 
-1. Gå till **Databas**.
+1. Gå till **databasen**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Klicka på Segmentering **Segmenteringsåtgärder** och sedan **Godkänn**.
+1. I segmenteringen klickar du på **Segmenteringsåtgärder** och sedan på **Godkänn**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Statusen ändras till Godkänn med ett snurrande hjul ( ![](assets/image2014-9-15-15-3a31-3a43.png)) medan godkännandet pågår.
+   >Status ändras till Godkännande med ett snurrhjul ( ![](assets/image2014-9-15-15-3a31-3a43.png)) medan godkännandet pågår.
 
    >[!CAUTION]
    >
@@ -47,13 +47,13 @@ En segmentering måste godkännas innan den kan användas.
    >
    >Antalet personer i varje segment visas inom hakparenteser bredvid segmentnamnet.
 
-1. The **Folk** i **Segment** visar nu den slutliga listan med personer för segmentet.
+1. Fliken **Personer** i **segmentet** visar nu den slutliga listan över personer för segmentet.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
 >[!CAUTION]
 >
->Det totala antalet segment som du kan skapa i en segmentering beror på antalet och typen av filter som används och även på hur komplex logiken i segmenten är. Du kan skapa upp till 100 segment med hjälp av standardfält, men med andra typer av filter kan det bli mer komplicerat och segmenteringen kanske inte kan godkännas. Några exempel är: anpassade fält, listmedlem, fält för huvudägare och intäktsfaser.
+>Det totala antalet segment som du kan skapa i en segmentering beror på antalet och typen av filter som används och även på hur komplex logiken i segmenten är. Du kan skapa upp till 100 segment med hjälp av standardfält, men med andra typer av filter kan det bli mer komplicerat och segmenteringen kanske inte kan godkännas. Några exempel är: anpassade fält, listmedlem, leadägarfält och intäktsfaser.
 >
 >Om du får ett felmeddelande under godkännandet och behöver hjälp med att minska komplexiteten i din segmentering kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 

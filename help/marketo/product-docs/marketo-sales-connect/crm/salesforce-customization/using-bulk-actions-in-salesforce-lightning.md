@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - produktdokumentation
+description: Använda massåtgärder i Salesforce Lightning - Marketo Docs - produktdokumentation
 title: Använda gruppåtgärder i Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Massutskick {#bulk-email}
 
-1. I Salesforce klickar du på **Leads** väljer du sedan en lista med önskade leads.
+1. Klicka på fliken **Leads** i Salesforce och välj sedan en lista med önskade leads.
 
    ![](assets/one-6.png)
 
@@ -33,36 +33,36 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
    >
    >Om du redan är med i listan måste du köra den igen genom att välja den i listrutan för att se till att MSC-gruppåtgärdsknapparna visas. Det här är Salesforce-beteende som inte kan ändras.
 
-1. Klicka på listrutan med pilar (längst till höger på skärmen) och välj **E-post med MSC**.
+1. Klicka på pilen i listrutan (längst till höger på skärmen) och välj **E-post med MSC**.
 
    ![](assets/two-6.png)
 
 1. Ett MSC-e-postmeddelande visas. Den innehåller följande funktioner:
 
-   a. Fältet &quot;Till&quot; visar &quot;Alla kvitton&quot; - motsvarar listan med leads som du har valt i Leadlistvyn\
+   a. Till-fältet visar &quot;Alla kvitton&quot; - motsvarar listan med leads som du har valt i Leadlistvyn\
    b. Den här listan visas i den vänstra panelen, med namnet&quot;Massdisposition&quot; - du kan lägga till/ta bort mottagare här\
-   c. Du kan välja en mall eller skapa ett eget e-postmeddelande\
-   d. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det vid ett senare tillfälle
+   c. Du kan välja en mall eller skapa en egen e-postadress\
+   d. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
 
    ![](assets/three-5.png)
 
 ## Lägg till i kampanj {#add-to-campaign}
 
-1. I Salesforce klickar du på **Leads** väljer du sedan en lista med önskade leads.
+1. Klicka på fliken **Leads** i Salesforce och välj sedan en lista med önskade leads.
 
    ![](assets/four-4.png)
 
-1. Klicka på listrutan med pilar (längst till höger på skärmen) och välj **Lägg till i MSC Campaign**.
+1. Klicka på pillistrutan (längst till höger på skärmen) och välj **Lägg till i MSC Campaign**.
 
    ![](assets/five-4.png)
 
-1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
+1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka på **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
 
    ![](assets/six-1.png)
 
 ## Skicka till Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. I Salesforce klickar du på **Leads** väljer du sedan en lista med önskade leads.
+1. Klicka på fliken **Leads** i Salesforce och välj sedan en lista med önskade leads.
 
    ![](assets/seven-2.png)
 
@@ -70,7 +70,7 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
    ![](assets/eight-2.png)
 
-1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på **Gå till grupp →** -knappen.
+1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Fortsätt till grupp →**.
 
    ![](assets/nine-2.png)
 
@@ -84,5 +84,5 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 >[!MORELIKETHIS]
 >
->* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Skickar e-postmeddelanden via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

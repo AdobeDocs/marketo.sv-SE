@@ -17,13 +17,13 @@ Om du någonsin vill skicka e-postmeddelanden med enbart text är det så här d
 
 >[!NOTE]
 >
->Eftersom öppningarna spåras av mottagaren som hämtar e-postbilderna (som innehåller en osynlig spårningspixel), öppnas **not** kan spåras för e-post med endast text.
+>Eftersom öppningar spåras av mottagaren som hämtar e-postbilderna (som innehåller en osynlig spårningspixel), kan öppningarna **inte** spåras för e-postmeddelanden med endast text.
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/one-1.png)
 
-1. Välj program och klicka på **Nytt** nedrullningsbar meny och välj **Ny lokal resurs**.
+1. Välj ditt program, klicka på listrutan **Ny** och välj **Ny lokal resurs**.
 
    ![](assets/two-1.png)
 
@@ -31,27 +31,27 @@ Om du någonsin vill skicka e-postmeddelanden med enbart text är det så här d
 
    ![](assets/three-1.png)
 
-1. Ange **Namn**, välj en mall och klicka på **Skapa**.
+1. Ange ett **namn**, markera en mall och klicka på **Skapa**.
 
    ![](assets/four-1.png)
 
-1. I e-postredigeraren klickar du på **E-postinställningar**.
+1. Klicka på **E-postinställningar** i e-postredigeraren.
 
    ![](assets/five.png)
 
-1. Kontrollera **Endast text** och klicka **Spara**.
+1. Markera **Endast text** och klicka på **Spara**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur man [Lägg till spårade länkar i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Länkar spåras inte automatiskt i e-postmeddelanden som bara innehåller text. Se hur du [lägger till spårade länkar i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Du kan även redigera ett befintligt e-postmeddelande och ändra den här inställningen. Glöm inte att godkänna utkastet.
 
-1. Avmarkera **Kopiera automatiskt från HTML** kryssrutan.
+1. Avmarkera kryssrutan **Kopiera automatiskt från HTML**.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Om du någonsin vill skicka e-postmeddelanden med enbart text är det så här d
 
    ![](assets/eight.png)
 
-1. Redigera texten och klicka **Spara**.
+1. Redigera texten och klicka på **Spara**.
 
    ![](assets/nine.png)
 

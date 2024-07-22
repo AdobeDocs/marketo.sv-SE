@@ -6,7 +6,7 @@ exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketo Target Account Management för samman sälj- och marknadsföringsteam f�
 
 Varför ska man använda Marketo Target Account Management?
 
-Marketo sammanför TAM och lead-hanteringen i en och samma lösning, vilket gör det enkelt för marknadsförarna att genomföra personaliserade kampanjer för både konton och leads i ett enda steg. Ni kan också dra nytta av att nå viktiga beslutsfattare och påverka avtal.
+Marketo sammanför TAM och lead-hanteringen i en och samma lösning, vilket gör det enkelt för marknadsförare att genomföra personaliserade kampanjer för både konton och leads i ett enda steg. Ni kan också dra nytta av att nå viktiga beslutsfattare och påverka avtal.
 
 Marketo TAM består av tre komponenter:
 
@@ -33,13 +33,13 @@ Marketo TAM består av tre komponenter:
 * Matchning av lead-till-konto
 * Namngivna kontolistor
 
-**2) Engagera**
+**2) Engage**
 
-* Kontobaserad personalisering
+* Kontobaserad Personalization
 * Cross-Channel Engagement
 * Kontospecifika arbetsflöden
 
-**3) Åtgärd**
+**3) Mät**
 
 * Insikter på konto- och listnivå
 * Resultat för kontoengagemang
@@ -47,15 +47,15 @@ Marketo TAM består av tre komponenter:
 
 Marketo kontobaserad marknadsföring erbjuder också olika verktyg för att personalisera upplevelsen av namngivna konton över olika kanaler.
 
-* Anpassning av e-post och landningssida
-* Webbanpassning
-* URL [Personalisering](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Annons [Personalisering](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Personligt](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
+* Personalization för e-post och landningssida
+* Web Personalization
+* URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Lägg till [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Personaliserat](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Återmarknadsföring
 
 Jag är inne! Hur kommer jag igång?
 
-Vi trodde aldrig att du skulle fråga! TAM finns som tillägg till din Marketo-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du kolla in den här artikeln: [Komma igång med TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+Vi trodde aldrig att du skulle fråga! TAM finns som tillägg till din Marketo-prenumeration, så kontakta din säljare för att få det implementerat. När du har fått den kan du checka ut den här artikeln: [Komma igång med TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >

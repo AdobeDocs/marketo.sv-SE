@@ -23,7 +23,7 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 >
 >Alla utgåvor av Marketo innehåller inte den här funktionen. Kontakta din kontoansvarige om du vill ha mer information.
 
-1. Klicka **Analyser**.
+1. Klicka på **Analys**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ Du kan se detaljerad program- och kanalstatistik i Program Analyzer. Du kan äve
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Visa specifik statistik för en kanal eller ett program (beroende på **Visa** klickar du på motsvarande bubbla.
+1. Klicka på motsvarande bubbla om du vill visa den specifika statistiken för en kanal eller ett program (beroende på vilken **vy** du väljer).
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå [skillnaden mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Många av de mätvärden du kan välja i programanalysen är tillgängliga med beräkningar med första beröringen (FT) och multitouch (MT). Det är viktigt att förstå skillnaden [mellan FT- och MT-attribuering](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Om du vill jämföra alla program i en enda kanal klickar du på kanalnamnet i popup-dialogrutan.
 

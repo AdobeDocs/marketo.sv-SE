@@ -19,19 +19,19 @@ I Design Studio kan du söka efter och duplicera en testgrupp för landningssido
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Ge den här klonade sidan ett nytt **Namn**. Klonade sidor visas längst ned i den aktuella mappen.
+1. Ge den här klonade sidan ett nytt **namn**. Klonade sidor visas längst ned i den aktuella mappen.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Skapa en ny testgrupp genom att klicka **Nytt** och plockning **Ny testgrupp**.
+1. Skapa nu en ny testgrupp genom att klicka på **Ny** och välja **Ny testgrupp**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Ange den nya testgruppen i dialogrutan Skapa nya landningssidor **Namn**.
+1. I dialogrutan Skapa nya landningssidor anger du den nya testgruppen **Namn**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Längst ned i dialogrutan väljer du de klonade sidorna i dialogrutan **Tillgängliga landningssidor** och klicka på pilen som pekar åt höger för att inkludera den i **Testade landningssidor**. Gör detta för alla landningssidor som du vill använda i den här gruppen.
+1. Längst ned i dialogrutan markerar du de klonade sidorna i listan **Tillgängliga landningssidor** och klickar på pilen till höger för att inkludera dem i **Testade landningssidor**. Gör detta för alla landningssidor som du vill använda i den här gruppen.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 

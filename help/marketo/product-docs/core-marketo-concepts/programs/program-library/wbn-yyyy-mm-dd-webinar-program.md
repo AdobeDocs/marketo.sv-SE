@@ -2,10 +2,10 @@
 description: WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Produktdokumentation
 title: WBN-YYYY-MM-DD-Webinar Program
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '591'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Det här är ett exempel på ett webbinarium med registreringshantering, tre inbjudningar via e-post, påminnelser till deltagande och uppföljningsmejl med ett Marketo Engage Event Program.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -31,7 +31,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    <td>01 - Inbjuden 
    <br/>02 - Väntelistat
    <br/>03 - Registrerad
-   <br/>04 - Ingen visning
+   <br/> 04 - Ingen visning
    <br/>05 - Attended - Success
    <br/>06 - Anmäld på begäran - lyckades</td>
    <td>Inkluderande</td>
@@ -41,7 +41,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -159,7 +159,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Alla kreativa resurser 
 <br/>(undermappar för e-post, landningssidor och Forms)</td>
   </tr>
   <tr> 
@@ -298,11 +298,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -325,7 +325,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen &quot;05 - Attended (Program Success)&quot; för att spåra lyckade försök! Gör så här _före_ dina e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen &quot;05 - Attended (Program Success)&quot; för att spåra lyckade försök! Gör detta _innan_ dina e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

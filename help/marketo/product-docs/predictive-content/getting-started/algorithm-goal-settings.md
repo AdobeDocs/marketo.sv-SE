@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Algoritmmålsinställningar gör att du kan ange slutmålet för algoritmen för artificiell intelligens för prediktivt innehåll som ska anpassas efter dina affärsmål.
 
-1. Klicka på ditt inloggningsnamn i Predictive Content och välj **Innehållsinställningar**.
+1. Klicka på ditt inloggningsnamn i Predictive Content och välj **Content Settings**.
 
    ![](assets/1.png)
 
-1. Under Innehållsinställningar väljer du **Algoritm**.
+1. Välj **Algoritm** under Innehållsinställningar.
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ Algoritmmålsinställningar gör att du kan ange slutmålet för algoritmen för
 
    ![](assets/three-new.png)
 
-   | **Klickningar** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
+   | **Klicka** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
    |---|---|
    | **Konverteringar** | Visa det innehåll som mest sannolikt får den som tittar på innehållet att skicka ett formulär |
 
-1. Klicka **Spara** när det är klart.
+1. Klicka på **Spara** när du är klar.
 
    ![](assets/four.png)

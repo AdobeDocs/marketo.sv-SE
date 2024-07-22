@@ -1,5 +1,5 @@
 ---
-description: Persondetaljvy - Marketo Docs - produktdokumentation
+description: Personinformationsvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 hide: true
 hidefromtoc: true
@@ -18,7 +18,7 @@ I persondetaljvyn finns en detaljerad profil för varje person på ditt Marketo-
 
 ## Åtkomst {#how-to-access}
 
-1. Om du vill öppna personinformationsvyn klickar du på **Folk** -fliken.
+1. Klicka på fliken **Personer** för att få åtkomst till vyn med persondetaljer.
 
    ![](assets/person-detail-view-1.png)
 
@@ -53,7 +53,7 @@ Innehåller all kontaktinformation för personen.
 
 * Lägg till eller ta bort anpassade fält som kan användas som dynamiska fält i mallar och kampanjer
 
-**Regelefterlevnad**
+**Efterlevnad**
 
 * Text
 
@@ -67,17 +67,17 @@ Se hur den här personen engagerar sig i er utåtriktade verksamhet.
 
 PICC
 
-**Marketo försäljningsverksamhet**
+**Marketo försäljningsaktivitet**
 
 * Se engagemangsaktiviteter från era säljkampanjer via e-post
 
-**Marknadsföring**
+**Marknadsföringsaktivitet**
 
 * Se hur er person engagerar sig i marknadsföringskampanjer
 
 ## Fliken Händelser {#history-tab}
 
-Visar din utdatahistorik. Inkluderar e-post, kampanjer och samtal.
+Visar din utåtriktade historik. Inkluderar e-post, kampanjer och samtal.
 
 PICC
 
@@ -103,9 +103,9 @@ Hantera uppgifter som är kopplade till den här personen.
 
 PICC
 
-Åtgärder du kan utföra:
+Åtgärder som du kan utföra:
 
 * Redigera eller ta bort en uppgift
 * Se förfallodatumet
-* Klicka på Typ för att starta Säljtelefonen om du ringer, E-posta om det är e-post, Länkad om e-post och Anpassad anteckning om det är anpassat.
+* Klicka på Typ för att starta Säljtelefonen om du ringer, E-postsammanställ om det är e-post, Länkat om det är e-post och Anpassad anteckning om det är lämpligt.
 * Markera en uppgift som slutförd

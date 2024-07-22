@@ -20,19 +20,19 @@ Skicka ett push-meddelande till personer som använder din mobilapp.
 >* [Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Skapa ett push-meddelande](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Välj en smart kampanj och klicka på **Smart List**.
+1. Välj din smarta kampanj och klicka på **Smart lista**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definiera din smarta lista och klicka sedan på **Flöde**.
+1. Definiera den smarta listan och klicka sedan på **Flöde**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Välj ett push-meddelande. Klicka **Schema**.
+1. Välj ett push-meddelande. Klicka på **Schema**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -40,11 +40,11 @@ Skicka ett push-meddelande till personer som använder din mobilapp.
    >
    >Push-meddelandet måste godkännas innan det visas i listrutan.
 
-1. Klicka **Kör en gång**.
+1. Klicka på **Kör en gång**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Välj datum och tid. Klicka **Spara**.
+1. Välj ett datum och en tid. Klicka på **Spara**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

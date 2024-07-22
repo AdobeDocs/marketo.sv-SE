@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ta bort mobilapp {#delete-mobile-app}
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Klicka **Funktioner för mobilappar** och markera **Ta bort app**.
+1. Klicka på **Åtgärder för mobilappar** och välj **Ta bort app**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Bekräfta genom att klicka **Ta bort**.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

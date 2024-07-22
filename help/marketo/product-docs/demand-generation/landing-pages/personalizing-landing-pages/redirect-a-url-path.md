@@ -19,15 +19,15 @@ Marketo gör det enkelt att dirigera om en URL-sökväg till en sida som du väl
 >
 >**Administratörsbehörigheter krävs**
 
-1. Under **Administratör**, klicka **Landningssidor**.
+1. Klicka på **Startsidor** under **Admin**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klicka på **Regler** tabbtangenten och sedan klicka **Nytt** och **Ny omdirigeringsregel**.
+1. Klicka på fliken **Regler** och sedan på **Nytt** och **Ny omdirigeringsregel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klicka på den första **Ursprunglig URL** och välja Marketo CNAME.
+1. Klicka på den första listrutan **Ursprunglig URL** och välj Marketo CNAME.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -35,18 +35,18 @@ Marketo gör det enkelt att dirigera om en URL-sökväg till en sida som du väl
    >
    >Kom ihåg att du bara kan omdirigera URL:er som börjar med din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Ange URL-sökvägen (eller den specifika sidan) som du vill omdirigera i den andra **Ursprunglig URL** till höger.
+1. Skriv URL-sökvägen (eller den specifika sidan) som du vill omdirigera i det andra fältet **Ursprunglig URL** till höger.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klicka **Använd icke-Marketo landningssida** skriver du den sida som du vill dirigera om besökare till i **Omdirigerings-URL** och klicka **Skapa**.
+1. Klicka på **Använd icke-Marketo-landningssida**, skriv den sida som du vill omdirigera besökare till i fältet **Omdirigerings-URL** och klicka på **Skapa**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Du kan [använda Marketo landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) som mål också.
+   Du kan också [använda Marketo landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) som mål.
 
 Grattis! URL-sökvägen har omdirigerats.
 
 >[!MORELIKETHIS]
 >
->[Omdirigera en Marketo-landningssida till en annan sida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+>[Dirigera om en Marketo-landningssida till en annan sida](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)

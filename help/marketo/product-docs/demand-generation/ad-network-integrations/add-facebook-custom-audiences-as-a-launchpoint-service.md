@@ -23,11 +23,11 @@ Med den här integreringen kan ni skicka målgruppsdata från statiska och smart
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Gå till **[!UICONTROL LaunchPoint]**, klicka **[!UICONTROL New]** och markera **[!UICONTROL New Service]**.
+1. Gå till **[!UICONTROL LaunchPoint]**, klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Ange en **[!UICONTROL Display Name]** för tjänsten och väljer **[!UICONTROL Facebook Custom Audiences]** från **[!UICONTROL Service]** nedrullningsbar meny.
+1. Ange en **[!UICONTROL Display Name]** för tjänsten och välj tjänsten **[!UICONTROL Facebook Custom Audiences]** i listrutan **[!UICONTROL Service]**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -45,9 +45,9 @@ Med den här integreringen kan ni skicka målgruppsdata från statiska och smart
 
    >[!NOTE]
    >
-   >Du _måste_ använda ett Facebook Business Manager-konto för att er anpassade målgruppsintegrering ska fungera. Mer information om hur du skapar ett Business Manager-konto finns i [Hjälp om facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >Du _måste_ använda ett Facebook Business Manager-konto för att din anpassade målgruppsintegrering ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att acceptera Marketo-appinstallationen i Facebook.
+1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att godkänna Marketo-appinstallationen i Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -63,7 +63,7 @@ Med den här integreringen kan ni skicka målgruppsdata från statiska och smart
 
    >[!CAUTION]
    >
-   >Innan du går, var noga med att [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} på ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
+   >Innan du går ska du [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} i ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
 
 >[!MORELIKETHIS]
 >

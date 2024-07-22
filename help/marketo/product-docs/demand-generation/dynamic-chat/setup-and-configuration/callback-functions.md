@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
+Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
 
 Här är några viktiga metadatavärden som du kan komma åt:
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
+Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
 
 Här är några viktiga metadatavärden som du kan komma åt:
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
+Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
 
 Här är några viktiga metadatavärden som du kan komma åt:
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-The `event` parameter är ett objekt med metadata som är relaterade till konversationen. Du kan komma åt dessa metadata via `event.data`.
+Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
 
 Här är några viktiga metadatavärden som du kan komma åt:
 

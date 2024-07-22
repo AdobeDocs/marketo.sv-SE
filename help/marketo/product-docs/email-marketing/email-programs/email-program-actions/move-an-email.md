@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/move-an-email-1.png)
 
@@ -23,7 +23,7 @@ Behöver du flytta ett e-postmeddelande från ett program till ett annat? Så h�
 
    ![](assets/move-an-email-2.png)
 
-1. Välj **Mål**, **Program** och valfritt **Mapp**. Välj **Flytta**.
+1. Välj **Mål**, **Program** och valfri **Mapp**. Välj **Flytta**.
 
    ![](assets/move-an-email-3.png)
 

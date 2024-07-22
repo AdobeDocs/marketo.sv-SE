@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Visade webbsidor, aktivitetsrapport för webbsida {#web-pages-viewed-web-page-activity-report}
 
-Från en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)kan du se de specifika sidor som användarna har sett i rapporten.
+Från en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) kan du se de specifika sidor som personer i rapporten har visat.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först  [konfigurera Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först [konfigurera Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. I [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)klickar du på siffran i kolumnen Sidvisning.
+1. Klicka på siffran i kolumnen Sidvisningar i [webbsidesaktivitetsrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md).
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ Från en [Aktivitetsrapport för webbsida](/help/marketo/product-docs/reporting/
 
    >[!MORELIKETHIS]
    >
-   >Skapa en  [Företagets webbaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) för att se vilka företag som besöker er webbplats.
+   >Skapa en [företagswebbaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) för att se vilka företag som besöker din webbplats.

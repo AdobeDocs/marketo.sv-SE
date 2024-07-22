@@ -16,7 +16,7 @@ Mappar i ett program kan användas för att ordna smarta kampanjer och resurser.
 
 ## Skapa en mapp {#create-a-folder}
 
-1. Gå till **[!UICONTROL Marketing Activities]** område.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -38,7 +38,7 @@ Det är okej att ändra sig.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Skriv ett nytt namn och tryck på **[!UICONTROL Enter]**.
+1. Ange ett nytt namn och tryck på **[!UICONTROL Enter]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -65,7 +65,7 @@ När du arkiverar en mapp:
 * Arkiverade mallar är inte tillgängliga när du skapar e-post eller landningssidor i Design Studio
 * Arkiverade sidor kan inte användas i testgrupper för landningssidor
 
-Funktioner som **not** ändras vid arkivering:
+Funktioner som **inte** ändras vid arkivering:
 
 * Global sökning hittar fortfarande resultat i arkiverade mappar
 * En resurs som används fortsätter att fungera även efter att den har arkiverats

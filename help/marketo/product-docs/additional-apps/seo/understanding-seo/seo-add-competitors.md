@@ -19,11 +19,11 @@ Genom att lägga till konkurrenter kan du spåra hur de fungerar för samma nyck
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klicka på **[!UICONTROL Competitors]** -fliken.
+1. Klicka på fliken **[!UICONTROL Competitors]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ Genom att lägga till konkurrenter kan du spåra hur de fungerar för samma nyck
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Skriv i **[!UICONTROL Name]** och **[!UICONTROL URL]** av er konkurrent.
+1. Skriv in **[!UICONTROL Name]** och **[!UICONTROL URL]** för din konkurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

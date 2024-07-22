@@ -19,29 +19,29 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 >
 >[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. När den smarta listan är markerad klickar du på **Smart List** -fliken.
+1. Markera den smarta listan och klicka på fliken **Smart lista**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Hitta **Medlem i intäktsmodell** filtrera och dra den till arbetsytan.
+1. Hitta filtret **Medlem i intäktsmodell** och dra det till arbetsytan.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Välj en **Modell**.
+1. Välj en **modell**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Då får ni alla tips i den modellen, oavsett fas. Vanligtvis vill du ha en specifik scen. Använd följande filter i stället.
 
-1. Hitta **Intäktsstadium** filtrera och dra den till arbetsytan.
+1. Leta reda på filtret **Inkomstscen** och dra det till arbetsytan.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Välj en **Scen**.
+1. Välj en **scen**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Gå till **Leads** för att visa resultatet.
+1. Gå till fliken **Leads** för att visa resultaten.
 
    ![](assets/2.png)
 

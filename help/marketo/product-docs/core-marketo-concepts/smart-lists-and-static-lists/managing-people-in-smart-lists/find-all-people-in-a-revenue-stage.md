@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Sök efter alla medlemmar i en viss intäktsfas {#find-all-members-of-a-specific-revenue-stage}
 
-1. I en smart lista klickar du på **[!UICONTROL Smart List]** -flik finns i **[!UICONTROL Revenue Stage]** och dra den till arbetsytan.
+1. I en smart lista klickar du på fliken **[!UICONTROL Smart List]**, letar upp filtret **[!UICONTROL Revenue Stage]** och drar det till arbetsytan.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.jpg)
 
-1. Gå till **[!UICONTROL People]** för att visa resultatet.
+1. Gå till fliken **[!UICONTROL People]** för att visa resultaten.
 
    ![](assets/peopleresults.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Nu när ni vet vilka människor som befinner sig i vilka intäktsfaser kan ni marknadsföra direkt till dem. Förutom att välja **[!UICONTROL Revenue Stage]** som ett smart listfilter kan du även välja det som ett if-filter i flödet.
 
-1. Klicka på **[!UICONTROL Add Choice]** och markera **[!UICONTROL Revenue Stage]** i listrutan.
+1. Klicka på **[!UICONTROL Add Choice]** i det önskade flödessteget och välj **[!UICONTROL Revenue Stage]** i listrutan.
 
    ![](assets/six.png)
 

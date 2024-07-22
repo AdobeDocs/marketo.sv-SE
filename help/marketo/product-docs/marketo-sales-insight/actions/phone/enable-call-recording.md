@@ -18,15 +18,15 @@ Som administratör kan du aktivera samtalsinspelning för dina Sales Insight Act
 
    ![](assets/enable-call-recording-1.png)
 
-1. Under Administratörsinställningar klickar du på **Dialer**.
+1. Klicka på **Dialer** under Administratörsinställningar.
 
    ![](assets/enable-call-recording-2.png)
 
-1. Välj **Aktivera samtalsinspelning** växla.
+1. Välj växlingsknappen **Aktivera samtalsinspelning**.
 
    ![](assets/enable-call-recording-3.png)
 
-1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning för sig själv klickar du på **Valfri inspelning för alla teammedlemmar**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **Spela in alla samtal**.
+1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning för sig själva klickar du på **Valfri inspelning för alla teammedlemmar**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **Spela in alla samtal**.
 
    ![](assets/enable-call-recording-4.png)
 

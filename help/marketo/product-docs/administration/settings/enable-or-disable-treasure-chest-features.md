@@ -19,7 +19,7 @@ Treasure Chest innehåller roliga experimentella funktioner som inte stöds full
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
@@ -27,11 +27,11 @@ Treasure Chest innehåller roliga experimentella funktioner som inte stöds full
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Klicka **[!UICONTROL Edit]** för den funktion som du vill aktivera eller inaktivera.
+1. Klicka på **[!UICONTROL Edit]** för den funktion som du vill aktivera eller inaktivera.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Kontrollera **[!UICONTROL Enabled]** om du vill aktivera eller avmarkera för att inaktivera, och klicka på **[!UICONTROL Save]**.
+1. Markera kryssrutan **[!UICONTROL Enabled]** om du vill aktivera eller avmarkera om du vill inaktivera och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

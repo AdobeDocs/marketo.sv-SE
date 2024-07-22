@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Med en Calendar File-token kan du lägga till en kalender (.ics)-länk till dina e-postmeddelanden och landningssidor från Marketo.
 
-1. Gå till **Mina token** -fliken.
+1. Gå till fliken **Mina token** i ditt program.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Dra en **Kalenderfil** till arbetsytan.
+1. Dra en **kalenderfil**-token till arbetsytan.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Ange **Tokennamn** och **Redigera**.
+1. Ange ett **tokennamn** och **Redigera**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
@@ -35,5 +35,5 @@ Uppdraget är slutfört! Se till att testa det.
 
 >[!MORELIKETHIS]
 >
->* [Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [Inkludera en ICS-fil för kalenderhändelse på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [Ta med en kalenderhändelse (.ics) i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Inkludera en ICS-fil för kalenderhändelse på en startsida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

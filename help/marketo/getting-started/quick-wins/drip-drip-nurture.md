@@ -6,37 +6,37 @@ exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
 # Drip, Drift, Struktur {#drip-drip-nurture}
 
-## Uppdrag: Ge de personer som deltog i ditt senaste mässor en chans {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Uppdrag: Ge de personer som deltog i ditt senaste mässa {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så här gör du!
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Konfigurera och lägg till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-## Steg 1: Skapa ett engagerande program {#step-create-an-engagement-program}
+## Steg 1: Skapa ett engagemangsprogram {#step-create-an-engagement-program}
 
-1. Gå till **[!UICONTROL Marketing Activities]** område.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Välj **Utbildning** klickar du på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Program]**.
+1. Välj mappen **Learning**, klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Program]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Ange **[!UICONTROL Name]** och markera **[!UICONTROL Engagement]** för **[!UICONTROL Program Type]**.
+1. Ange **[!UICONTROL Name]** och välj **[!UICONTROL Engagement]** som **[!UICONTROL Program Type]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Se till att **[!UICONTROL Channel]** fältet är **[!UICONTROL Nurture]** och klicka **[!UICONTROL Create]**.
+1. Kontrollera att fältet **[!UICONTROL Channel]** är **[!UICONTROL Nurture]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -44,7 +44,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 ## Steg 2: Skapa ett e-postmeddelande {#step-create-an-email}
 
-1. Välj engagemangsprogram, klicka **[!UICONTROL New]** och markera **[!UICONTROL New Local Asset]**.
+1. Välj ditt engagemangsprogram, klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
@@ -52,13 +52,13 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Ange **[!UICONTROL Name]** väljer du **[!UICONTROL Template]** du vill använda och klicka på **[!UICONTROL Create]**.
+1. Ange en **[!UICONTROL Name]**, markera den **[!UICONTROL Template]** som du vill använda och klicka på **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >Ser du inte e-postredigeraren? Webbläsaren har antagligen blockerat fönstret. Aktivera popup-fönster från `app.marketo.com` i webbläsaren och klicka **[!UICONTROL Edit Draft]** i den övre menyraden.
+   >Ser du inte e-postredigeraren? Webbläsaren har antagligen blockerat fönstret. Aktivera popup-fönster från `app.marketo.com` i webbläsaren och klicka på **[!UICONTROL Edit Draft]** i den övre menyraden.
 
 1. Ange ett ämne.
 
@@ -72,7 +72,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Under **[!UICONTROL Email Actions]**, klicka **[!UICONTROL Approve and Close]**.
+1. Klicka på **[!UICONTROL Approve and Close]** under **[!UICONTROL Email Actions]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -88,17 +88,17 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
 Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med hjälp av de e-postmeddelanden du skapat.
 
-1. Välj engagemangsprogram och klicka på **[!UICONTROL Streams]** -fliken.
+1. Välj ditt engagemangsprogram och klicka på fliken **[!UICONTROL Streams]**.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Klicka på **[!UICONTROL Add Content]** i flödet.
+1. Klicka på knappen **[!UICONTROL Add Content]** i strömmen.
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Du kan också använda **+** ikon.
+   >Du kan också använda ikonen **+**.
 
 1. Låt e-posttypen vara markerad. Hitta och välj de två e-postmeddelandena du skapade.
 
@@ -106,7 +106,7 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
 ## Steg 4: Aktivera ströminnehåll {#step-activate-stream-content}
 
-1. Aktivera allt innehåll samtidigt genom att klicka på strömmens kugghjulsikon och sedan klicka på **[!UICONTROL Activate all content]**.
+1. Aktivera allt innehåll på en gång genom att klicka på strömmens kugghjulsikon och sedan klicka på **[!UICONTROL Activate all content]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -116,13 +116,13 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
    Bra jobbat! Ett steg till så är engagemangsprogrammet klart.
 
-## Steg 5: Ange strömbrytaren {#step-set-the-stream-cadence}
+## Steg 5: Ange strömavslut {#step-set-the-stream-cadence}
 
 1. Klicka på **[!UICONTROL Set Stream Cadence]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Redigera inställningarna så att de matchar det schema du vill ha och klicka på **[!UICONTROL Save]**.
+1. Redigera inställningarna så att de matchar det schema som du vill ha och klicka på **[!UICONTROL Save]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
 ## Steg 6: Lägg till en testperson i ditt engagemangsprogram {#step-add-a-test-person-to-your-engagement-program}
 
-1. Gå till **[!UICONTROL Database]** område.
+1. Gå till området **[!UICONTROL Database]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -150,7 +150,7 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Välj **[!UICONTROL Program]** och **[!UICONTROL Stream]** och sedan klicka **[!UICONTROL Run Now]**.
+1. Markera **[!UICONTROL Program]** och **[!UICONTROL Stream]** och klicka sedan på **[!UICONTROL Run Now]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
@@ -160,12 +160,12 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
    >[!NOTE]
    >
-   >Läs mer om [Engagement Programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
+   >Läs mer om [Åtagandeprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
 ## Uppdraget är klart! {#mission-complete}
 
 <br> 
 
-[◄ 5: Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ 5: Importera en lista över människor](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Uppdrag 7: Anpassa ett e-postmeddelande ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Mission 7: Personalisera ett e-postmeddelande ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

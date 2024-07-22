@@ -18,7 +18,7 @@ Som marknadsförare har ni information som kan hjälpa försäljningen att sluta
 
 >[!NOTE]
 >
->När Marketo Sync User skapar uppgifter **Förfaller** är ett obligatoriskt fält för uppgiften som ska skapas i Veeva. Marketo anger fem dagar som standard om det inte finns något värde.
+>När Marketo Sync-användaren skapar uppgifter är **Förfaller** ett obligatoriskt fält för uppgiften som ska skapas i Veeva. Marketo anger fem dagar som standard om det inte finns något värde.
 
 Som standard ser flödessteget ut så här:
 
@@ -30,4 +30,4 @@ Anpassa alla fält för att skapa uppgiften som du vill.
 
 >[!TIP]
 >
->Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i ämnet och beskrivningen. Se [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} för mer information.
+>Du kan använda `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` och `{{system.tokens}}` i Ämne och Beskrivning. Mer information finns i [Token för flödessteg](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}.

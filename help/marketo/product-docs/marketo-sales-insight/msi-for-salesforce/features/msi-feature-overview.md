@@ -46,14 +46,14 @@ Visualforce-sidor:
 * Lead - Inkluderar alternativet att klicka på&quot;Gå till fullständig lista&quot;, du kommer att få en ny flik i Salesforce där MSI-panelen visas i en helsideslayout
 * Fullständig lista för lead - Innehåller inte alternativet Gå till fullständig lista
 * Lead Mobile - synlig i Salesforce-mobilapplikation
-* Lead Contact Bridge - Visar MSI-panelen för kontakten som du har lagt till i fältet för MSI-kontakt-ID
+* Leadkontakt Bridge - Visar MSI-panelen för den kontakt du har lagt till i fältet för MSI-kontakt-ID
 
 Fält:
 
 * Senaste intressanta stund
 * Senaste intressanta datum
 * Senaste intressanta tillfälle
-* Källa för senaste intressanta stund
+* Senaste intressanta stund Source
 * Typ av senaste intressanta stund
 * Senaste Marketo-aktivitet per försäljning
 * Senaste Marketo-engagemang från försäljning
@@ -78,7 +78,7 @@ Fält:
 * Senaste intressanta stund
 * Senaste intressanta datum
 * Senaste intressanta tillfälle
-* Källa för senaste intressanta stund
+* Senaste intressanta stund Source
 * Typ av senaste intressanta stund
 * Senaste Marketo-aktivitet per försäljning
 * Relativa poäng
@@ -107,7 +107,7 @@ Funktionsmakron:
 * Skicka e-post till Marketo
 * Lägg till/ta bort från bevakad lista
 
-Följande funktioner är **inte tillgängligt** på sidan Kontolayout:
+Följande funktioner är **inte tillgängliga** på sidan Kontolayout:
 
 * Stjärnor och flamman
 
@@ -130,7 +130,7 @@ Funktionsmakron:
 * Skicka e-post till Marketo
 * Lägg till/ta bort från bevakad lista
 
-Följande funktioner är **inte tillgängligt** på sidan för säljprojektslayout:
+Följande funktioner är **inte tillgängliga** på sidan för säljprojektslayout:
 
 * Stjärnor och flamman
 

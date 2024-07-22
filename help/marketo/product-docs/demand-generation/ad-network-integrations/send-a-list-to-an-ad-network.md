@@ -16,15 +16,15 @@ Lär dig skicka en statisk lista till LinkedIn, Facebook eller Google.
 
 ## Skicka en lista {#how-to-send-a-list}
 
-1. I Marketo Engage väljer du en lista och klickar på **[!UICONTROL List Actions]** och markera **[!UICONTROL Send to Ad Network]**.
+1. I Marketo Engage väljer du din lista, klickar på listrutan **[!UICONTROL List Actions]** och väljer **[!UICONTROL Send to Ad Network]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Välj mellan LinkedIn, Facebook eller Google (de andra alternativen är inte tillgängliga just nu). I det här exemplet väljer vi **[!UICONTROL LinkedIn]**. Klicka på **[!UICONTROL Next]**.
+1. Välj mellan LinkedIn, Facebook eller Google (de andra alternativen är inte tillgängliga just nu). I detta exempel väljer vi **[!UICONTROL LinkedIn]**. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Klicka på **[!UICONTROL Audience]** och välj önskad målgrupp.
+1. Klicka på listrutan **[!UICONTROL Audience]** och välj önskad målgrupp.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -38,18 +38,18 @@ Lär dig skicka en statisk lista till LinkedIn, Facebook eller Google.
 
    >[!NOTE]
    >
-   >Om du väljer&quot;Aktivera kontinuerlig målgruppssynkronisering&quot; håller Marketo listan uppdaterad i det valda annonsnätverket när listan ändras i din Marketo-instans. Vi lägger båda till _och_ ta bort personer från målgruppen om de läggs till/tas bort från den statiska listan.
+   >Om du väljer&quot;Aktivera kontinuerlig målgruppssynkronisering&quot; håller Marketo listan uppdaterad i det valda annonsnätverket när listan ändras i din Marketo-instans. Vi lägger båda till _och_ till att ta bort personer från målgruppen om de läggs till/tas bort från den statiska listan.
 
-1. Och det är allt! Klicka **[!UICONTROL OK]** för att avsluta.
+1. Och det är allt! Klicka på **[!UICONTROL OK]** för att avsluta.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
 ## Vanliga frågor och svar {#faq}
 
-**Kan en enda statisk lista synkroniseras med flera annonspubliker?**
+**Kan en enskild statisk lista synkroniseras med flera annonspubliker?**
 
 Nej, en lista kan bara synkroniseras till en enda målgrupp.
 
-**Om jag aktiverar kontinuerlig synkronisering med en befintlig annonspublik, kommer den befintliga publiken att ersättas?**
+**Om jag aktiverar kontinuerlig synkronisering med en befintlig annonspublik, ersätts den befintliga publiken?**
 
 Nej, den befintliga publiken läggs till, inte ersätts.

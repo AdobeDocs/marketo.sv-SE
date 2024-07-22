@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147304
 description: Dela en filterdefinition i marknadsföringskalendern - Marketo Docs - produktdokumentation
-title: Dela en filterdefinition i marknadsföringskalendern
+title: Dela en filterdefinition i Marketing Calendar
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Dela en filterdefinition i marknadsföringskalendern {#sharing-a-filter-definition-in-the-marketing-calendar}
+# Dela en filterdefinition i Marketing Calendar {#sharing-a-filter-definition-in-the-marketing-calendar}
 
 Filter kan delas mellan olika användare.
 
 >[!PREREQUISITES]
 >
 >* [Skapa ett filter i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
->* [Spara en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+>* [Sparar en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 >[!NOTE]
 >
-> Om du gör en ändring i ett sparat filter måste du dela det igen; redigeringarna återspeglas inte för andra användare förrän du gör det.
+> Om du gör en ändring i ett sparat filter måste du dela det igen. Ändringarna återspeglas inte för andra användare förrän du gör det.
 
 1. Välj det filter som du vill dela.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 
-1. Klicka på delningsikonen i det nedre högra hörnet.
+1. Klicka på delningsikonen längst ned till höger.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 

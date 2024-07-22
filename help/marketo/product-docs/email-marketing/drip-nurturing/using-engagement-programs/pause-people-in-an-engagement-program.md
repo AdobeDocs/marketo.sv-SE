@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Pausa personer i ett engagemangsprogram {#pause-people-in-an-engagement-program}
 
-När en person är medlem i ett engagemangsprogram får han/hon tillgång till innehållet tills han/hon har [allt innehåll har uttömts](people-who-have-exhausted-content.md). Du kan använda [Change Engagement Program Cadence](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) för att hindra att personer får material även om de inte har fyllt i.
+När en person är medlem i ett engagemangsprogram får han/hon innehåll tills han/hon [har fyllt allt innehåll](people-who-have-exhausted-content.md). Du kan använda flödessteget [Change Engagement Program Cadence](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) för att hindra personer från att ta emot innehåll, även om de inte har fyllt i innehåll än.
 
 1. Välj engagemangsprogrammet.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Välj **Pausad** som **Nytt värde** för att hindra personen från att ta emot innehåll.
+1. Välj **Pausad** som **Nytt värde** om du vill hindra personen från att ta emot innehåll.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 

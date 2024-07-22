@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du arbetar med internationella formulär vill du visa datum/tid i rätt format. Marketo gör detta automatiskt åt dig, allt du behöver göra är att ställa in formulärets språkområde och ta hand om resten.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -23,19 +23,19 @@ När du arbetar med internationella formulär vill du visa datum/tid i rätt for
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Under **Formulärinställningar**, klicka **Inställningar**.
+1. Klicka på **Inställningar** under **Formulärinställningar**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Välj **Språk** efter eget val.
+1. Välj **Språk**.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klicka **Godkänn och stäng** för att tillämpa och spara ändringar.
+1. Klicka på **Godkänn och stäng** för att tillämpa och spara ändringarna.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ När du arbetar med internationella formulär vill du visa datum/tid i rätt for
 
    >[!NOTE]
    >
-   >Kom ihåg [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Kom ihåg att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
    Så där! Användarna kan se datum och tid visas på rätt språk.
 

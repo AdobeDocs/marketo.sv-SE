@@ -6,16 +6,16 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Maj 2012 {#release-notes-may}
+# Versionsinformation: maj 2012 {#release-notes-may}
 
 ## E-postprestandarapport - omdesign {#email-performance-report-redesign}
 
-Obs! detta kommer att bli en stegvis utrullning, som börjar med majversionen
+Obs! Detta kommer att bli en stegvis utrullning som börjar med majversionen
 
 Vi har gjort så att e-postprestandarapporter för e-postmarknadsföring och Campaign körs snabbare. Vi har också förbättrat definitionerna av vissa mätvärden och konsoliderat värdena&quot;Skickat&quot; och&quot;Skickat lead&quot; till ett enda mätvärde,&quot;Skickat&quot;. Vi har slagit samman&quot;Levererade meddelanden&quot; och&quot;Levererade leads&quot; till&quot;Levererat&quot;.
 
@@ -27,19 +27,19 @@ Med de nya avancerade väntningsegenskaperna kan du konfigurera väntesteget i e
 
 Figur 1. Ange väntesteget som ska avslutas en arbetsdag
 
-## Dolda arkiverade resurser {#archived-assets-hidden}
+## Arkiverat Assets dolt {#archived-assets-hidden}
 
 Arkiverade resurser filtreras automatiskt från automatiska förslag, listrutor och rapporter, vilket gör det enklare att hitta det du letar efter!
 
 ![](assets/image2014-9-23-10-3a14-3a28.png)
 
-Figur 2. Exempel på det arkiverade e-postfiltret
+Figur 2. Exempel på arkiverat e-postfilter
 
 ## Ny incheckningsapp för evenemang för iPad {#new-event-check-in-app-for-ipad}
 
 Förenkla incheckningen av event med vår nya iPad-app! Appen Event Check-in synkroniseras med ditt Marketo-program så att du enkelt kan söka efter deltagare i en händelse och lägga till nya leads direkt.
 
-Kräver iOS 5.1 eller senare. Endast iPad.
+Kräver iOS 5.1 eller senare, endast iPad.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -51,11 +51,11 @@ Figur 4. Incheckning av händelse: Välj en händelse!
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
-Figur 5. Checka in dem
+Figur 5. Checka in
 
 ## Bekräftelse-URL för utökat webbinarium {#enhanced-webinar-confirmation-url}
 
-Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med hjälp av den nya `{{member.webinar URL}}` token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
+Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}`-token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -99,7 +99,7 @@ Figur 11. Microsoft Dynamics-konfiguration
 
 ## Marketo Sales Insight-förbättringar {#marketo-sales-insight-enhancements}
 
-**Avbeställ sidfotsalternativ**
+**Avsluta sidfotsalternativ**
 
 Konfigurera när och om sidfoten för att avbryta prenumerationen visas för e-postmeddelanden som skickas via Sales Insight.
 
@@ -117,7 +117,7 @@ Figur 13. Välj en mapp för dina e-postmeddelanden
 
 ## Få åtkomst till säljprojektsanalys från säljinsikter {#access-opportunity-analyzer-from-sales-insight}
 
-Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. OBS. Kräver licens för intäktscykelanalys.
+Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. Obs! Kräver licens för intäktscykelanalys.
 
 ## Anpassat fält för kontaktstatus {#custom-field-for-contact-status}
 

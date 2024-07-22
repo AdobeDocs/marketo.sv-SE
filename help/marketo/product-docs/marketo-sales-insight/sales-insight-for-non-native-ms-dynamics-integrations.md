@@ -17,10 +17,10 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 >[!PREREQUISITES]
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
->* Ladda ned [MSI-paket för anpassad synkronisering](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
->* En MS Dynamics-prenumeration med MSI-installation (vi stöder bara [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} just nu).
->* MARKETO REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
->* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
+>* Hämta [MSI-paket för anpassad synkronisering](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* En MS Dynamics-prenumeration med MSI-installationsprogrammet (vi stöder endast [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} just nu).
+>* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Läs [blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 
 ## Lyckad icke-inbyggd synkronisering för MSI kräver följande {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -53,7 +53,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 
 1. Synkronisera MS Dynamics-konton med Marketo.
 
-   Ett Marketo-företag måste uppdateras för MS Dynamics-kontot. The _externalCompanyId_ och _externalSalesPersonId_ fält är obligatoriska för att bekräfta företaget.
+   Ett Marketo-företag måste uppdateras för MS Dynamics-kontot. Fälten _externalCompanyId_ och _externalSalesPersonId_ är obligatoriska för företagets upsert.
 
    <table> 
     <colgroup> 
@@ -85,7 +85,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 
 1. Synkronisera MS Dynamics Leads/Contacts till Marketo.
 
-   Du måste infoga en Marketo Lead för MS Dynamics Lead/Contact. The _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ fält är obligatoriska för att lägga upp lead.
+   Du måste infoga en Marketo Lead för MS Dynamics Lead/Contact. Fälten _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ krävs för att ladda upp lead.
 
    <table> 
     <colgroup> 
@@ -107,12 +107,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Versalokänslig global unik identifierare för MS Dynamics-försäljning</td> 
-      <td>Identifierar det externa användarobjektet för MS Dynamics-försäljning som äger denna lead/kontakt.<br><br>Kopplar även lead till säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
+      <td>Identifierar det externa användarobjektet för MS Dynamics-försäljning som äger denna lead/kontakt.<br><br>Relaterar även leadet med säljaren i Marketo. Säljaren måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
       <td>Versalokänslig global unik identifierare för MS Dynamics-konto</td> 
-      <td>Identifierar det externa MS Dynamics-kontoobjektet som lead/kontakt tillhör.<br><br>Även relaterar lead-posten till ett företag i Marketo. MS Dynamics-kontot måste först synkroniseras korrekt.</td> 
+      <td>Identifierar det externa MS Dynamics-kontoobjektet som lead/kontakt tillhör.<br><br>Relaterar även lead-posten till ett företag i Marketo. MS Dynamics-kontot måste först synkroniseras korrekt.</td> 
      </tr> 
     </tbody> 
    </table>
@@ -122,7 +122,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 
 1. Synkronisera MS Dynamics-affärsmöjligheter med Marketo.
 
-   Du måste bekräfta en Marketo-möjlighet för MS Dynamics-säljprojektet. The _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ fält är obligatoriska för att bekräfta säljprojektet.
+   Du måste bekräfta en Marketo-möjlighet för MS Dynamics-säljprojektet. Fälten _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ krävs för att bekräfta affärsmöjligheten.
 
    <table> 
     <colgroup> 
@@ -144,7 +144,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      <tr> 
       <td>externalCompanyId</td> 
       <td>Versalokänslig global unik identifierare för MS Dynamics-konto</td> 
-      <td>Identifierar det externa MS Dynamics-kontoobjektet som affärsmöjligheten tillhör. <br><br>MS Dynamics-kontot måste först synkroniseras korrekt.</td> 
+      <td>Identifierar det externa MS Dynamics-kontoobjektet som affärsmöjligheten tillhör. <br><br>MS Dynamics-kontot måste synkroniseras korrekt först.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
@@ -159,7 +159,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 
 1. Synkronisera kontaktroller för MS Dynamics till Marketo.
 
-   Kontaktroller för MS Dynamics för ett MS Dynamics-säljprojekt kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger att _externalOpportunityId_, _roll_ och _leadId_ fält.
+   Kontaktroller för MS Dynamics för ett MS Dynamics-säljprojekt kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger fälten _externalOpportunityId_, _role_ och _leadId_.
 
    <table> 
     <colgroup> 
@@ -181,7 +181,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      <tr> 
       <td>leadId</td> 
       <td>Ej tillämpligt. Detta är ett Marketo lead-ID</td> 
-      <td>Detta är Marketo lead-ID för den synkroniserade MS Dynamics-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den skiftlägeskänsliga globala unika identifieraren för MS Dynamics som externalPersonId och fråga för Marketo Lead med Marketo REST API.</td> 
+      <td>Detta är Marketo lead-ID för den synkroniserade MS Dynamics-kontakten.<br><br>När kontakten har synkroniserats i Marketo kan du använda den skiftlägeskänsliga globala unika identifieraren för MS Dynamics-kontakt som externalPersonId och fråga för Marketo Lead med Marketo REST API.</td> 
      </tr> 
      <tr> 
       <td>roll</td> 
@@ -198,7 +198,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
 
    När MS Dynamics-objekten har synkroniserats korrekt till Marketo kan du dra nytta av MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
 
-   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till MS Dynamics med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo-lead med _externalPersonId_ som filterType och skickar MS Dynamics Lead GUID som filterValue.
+   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till MS Dynamics med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av _externalPersonId_ som filterType och skicka MS Dynamics Lead GUID som filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1,MS DynamicsLeadId2 |
    |---|
@@ -219,7 +219,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentType</td> 
-      <td>Etikett: Senaste intressanta stund<br>Namn: Last_Intressant_stund_Type__c</td> 
+      <td>Etikett: Senaste intressanta stund typ<br>Namn: Last_Intressant_stund_typ__c</td> 
       <td>Typ av det sista intressanta tillfället för leadet</td> 
      </tr> 
      <tr> 
@@ -234,8 +234,8 @@ Om ditt Adobe Marketo Engage-konto är anslutet till MS Dynamics via en anpassad
      </tr> 
      <tr> 
       <td>msiLastIntressantMomentSource</td> 
-      <td><p>Etikett: Källa för senaste intressanta stund</p><p>Namn: Last_Intressant_Moment_Source__c</p></td> 
-      <td>Källa till leadets sista intressanta tillfälle</td> 
+      <td><p>Etikett: Senaste intressanta stund Source</p><p>Namn: Last_Intressant_stund_Source__c</p></td> 
+      <td>Source för ledningens sista intressanta ögonblick</td> 
      </tr> 
      <tr> 
       <td>prioritet</td> 

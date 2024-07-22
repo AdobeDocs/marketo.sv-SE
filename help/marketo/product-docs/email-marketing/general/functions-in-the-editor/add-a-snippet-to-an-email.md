@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lägga till ett kodfragment i ett e-postmeddelande {#add-a-snippet-to-an-email}
 
-Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan använda i e-postmeddelanden och på landningssidor.
+Kodavsnitt är återanvändbara block med text och grafik som du kan använda i e-postmeddelanden och på landningssidor.
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan 
 
 >[!NOTE]
 >
->Du kan inte bädda in några [Marketo e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)i textutdrag, kommer det **not** arbeta i ett mejl. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
+>Du kan inte bädda in någon [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment. Den kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Leta upp e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
    ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan 
 
    ![](assets/two-2.png)
 
-1. Välj önskat fragment och klicka på **Spara**.
+1. Markera det fragment du vill använda och klicka på **Spara**.
 
    ![](assets/three-1.png)
 
@@ -43,6 +43,6 @@ Kodavsnitt är återanvändbara block med formaterad text och grafik som du kan 
 
    >[!NOTE]
    >
-   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [Ej utkast](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >Varje gång du uppdaterar och godkänner fragmentet visas ändringarna i e-postmeddelandet. E-postmeddelandet skrivs ut om du inte godkänner kodavsnittet med [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Det här är ett snabbt och enkelt sätt att återanvända dynamiskt innehåll.

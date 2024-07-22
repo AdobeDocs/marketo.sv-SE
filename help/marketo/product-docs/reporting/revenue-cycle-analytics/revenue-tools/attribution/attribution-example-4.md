@@ -6,7 +6,7 @@ exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 * 11 april | Michelle laddar ned e-bok (innehåll) - Klart
 * 15 april | John deltar (webbinarium) - Klart
-* 22 april | (möjlighet 1) skapad för $3 000
-* 24 april | (möjlighet 2) skapat för 5 000 USD
-* 25 april | John och Michelle är associerade med **båda** Optyer
-* 29 april | [Optisk 1] is Closed-Won
+* 22 april | (Möjlighet 1) har skapats för $3 000
+* 24 april | (Möjlighet 2) skapades för 5 000 USD
+* 25 april | John och Michelle är associerade med **båda** Optys
+* 29 april | [Opty 1] är Closed-Won
 
 | Programnamn | (Innehåll) | (webbinarium) |
 |---|---|---|
@@ -42,7 +42,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 >[!NOTE]
 >
->**Attributionsregler**
+>**Attribution Rules**
 >
 >1. Krediten delas jämnt
 >1. Du kan inte ge mer beröm än du har fått
@@ -52,6 +52,6 @@ Prova alla exempel så blir du ett attribueringsproffs!
 
 >[!MORELIKETHIS]
 >
->* [Attribut - exempel 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Attribut - exempel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attribut - exempel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attribution Example 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attribution Example 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attribution Example 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)

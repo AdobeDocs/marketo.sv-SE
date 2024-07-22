@@ -6,7 +6,7 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -54,12 +54,12 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 >
 >Du kan exportera den här rapporten till skrivbordet.
 
-1. Klicka **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
+1. Klicka på **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Bra jobbat! Du kan också se hur du jämför med dina konkurrenter när det gäller nyckelordsrankning.
+   Snyggt jobb! Du kan också se hur du jämför med dina konkurrenter när det gäller nyckelordsrankning.
 
    >[!NOTE]
    >
-   >[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Använda rapporten Konkurrenskraftiga KW-trender](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

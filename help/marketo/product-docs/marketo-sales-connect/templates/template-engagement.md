@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Följ stegen nedan för att se hur mallen fungerar.
 
-1. Navigera till **Analyser** sida.
+1. Navigera till sidan **Analyser**.
 
-1. Klicka på **Innehåll** och filtrera efter önskat datumintervall.
+1. Klicka på knappen **Innehåll** och filtrera efter det önskade datumintervallet.
 
 1. Baserat på det valda datumintervallet kan du högst upp på sidan se det totala antalet e-postmeddelanden och mallar som används i hela teamet.
 
    Under den är vyn uppdelad i tre avsnitt:
 
-   **Hemligt vapen** - en mall som ännu inte delas av hela teamet och som får massvis av engagemang
+   **Hemligt vapen** - En mall som ännu inte delats i hela teamet och som får massvis av engagemang
 
-   **Högsta engagemang** - En mall som redan delas av hela teamet och som gör att det tar slut
+   **Highest Engagement** - En mall som redan har delats i hela teamet och som gör det svårt att engagera
 
-   **Lägsta engagemang** - En mall som behöver anpassas till sin engagemangsgrad (den här mallen kan antingen delas eller delas utan)
+   **Lägsta engagemang** - En mall som behöver anpassas till sin engagemangsgrad (den här mallen kan antingen delas eller inte delas i hela teamet)
 
-   Rulla nedåt och se alla mallar som skapats i hela teamet baserat på deras visningsfrekvenser inom det valda datumintervallet. På en enskild mallnivå ser du: vem som skapade den, vare sig den delades eller inte, antalet e-postmeddelanden som användes med den samt spårningsdata (vyer, klick, svar).
+   Rulla nedåt och se alla mallar som skapats i hela teamet baserat på deras visningsfrekvenser inom det valda datumintervallet. På en enskild mallnivå kan du se vem som skapade den, oavsett om den delades, hur många e-postmeddelanden den användes med den och spårningsdata (vyer, klickningar, svar).

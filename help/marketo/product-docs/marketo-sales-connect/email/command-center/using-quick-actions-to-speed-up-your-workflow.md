@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37357306
 description: Snabba upp arbetsflödet med snabba åtgärder - Marketo Docs - Produktdokumentation
-title: Snabbare arbetsflöde med snabbåtgärder
+title: Snabba upp arbetsflödet med hjälp av snabbåtgärder
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Snabbare arbetsflöde med snabbåtgärder {#using-quick-actions-to-speed-up-your-workflow}
+# Snabba upp arbetsflödet med hjälp av snabbåtgärder {#using-quick-actions-to-speed-up-your-workflow}
 
 Det finns två typer av snabbåtgärdskolumner i e-postrutnätet. E-poståtgärder, som gör att du kan vidta åtgärder i e-postmeddelandet, och uppföljningsåtgärder, som gör att du kan vidta interaktionsåtgärder med bara några klick.
 
@@ -45,7 +45,7 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
  </tbody> 
 </table>
 
-**Utkast och schemalagd**
+**Utkast och schemalagt**
 
 <table> 
  <colgroup> 
@@ -87,7 +87,7 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-|  -funktion | Beskrivning |
+| Funktion | Beskrivning |
 |---|---|
 | Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
 | Ring | Öppnar säljtelefonen för att ringa ett samtal till e-postmottagaren. |

@@ -21,7 +21,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj program. Klicka på **[!UICONTROL View]** nedrullningsbar meny. Välj **[!UICONTROL Schedule]**.
+1. Välj program. Klicka på listrutan **[!UICONTROL View]**. Välj **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Här är grunderna som hjälper dig att navigera i programschemavyn.
 
 ## Ändra mellan lägen {#changing-between-modes}
 
-1. Klicka på **[!UICONTROL 3 Weeks]** eller **[!UICONTROL Month]** kommer att ändra de synliga datumen på skärmen.
+1. Om du klickar på **[!UICONTROL 3 Weeks]** eller **[!UICONTROL Month]** ändras de synliga datumen på skärmen.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Bra! Nu när du vet hur man visar programmet kan vi lära oss andra coola saker 
 
 >[!MORELIKETHIS]
 >
->[Skapa ett inlägg i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[Skapar ett inlägg i programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

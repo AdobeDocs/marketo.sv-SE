@@ -6,7 +6,7 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '344'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marknadsförare eller säljare vill ha ett nytt fält. Eller så kanske du har glömt en i det ursprungliga fältvalet. Eller så har du ändrat dina behov. I vilket fall som helst kan du använda Snabbsynkronisering för att synkronisera om specifika fält.
 
-I vanliga fall använder du Snabbsynkronisering för att lägga till ett nytt fält och uppdatera värdena. I vissa fall kanske du vill synkronisera ett befintligt fält. Du kan begränsa fältsynkroniseringen baserat på ett uppdaterat eller skapat datumintervall. Se [Avancerade synkroniseringsalternativ](#Advanced_Sync_Options) nedan för mer information.
+I vanliga fall använder du Snabbsynkronisering för att lägga till ett nytt fält och uppdatera värdena. I vissa fall kanske du vill synkronisera ett befintligt fält. Du kan begränsa fältsynkroniseringen baserat på ett uppdaterat eller skapat datumintervall. Mer information finns i [Avancerade synkroniseringsalternativ](#Advanced_Sync_Options) nedan.
 
 Snabbsynkronisering kan synkronisera null-värden. Om du till exempel använder värdena A och B och ändrar ett B-värde i Dynamics till null synkroniseras null-värdet till Marketo.
 
@@ -23,7 +23,7 @@ Snabbsynkronisering kan synkronisera null-värden. Om du till exempel använder 
 
 Så här använder du snabbsynkronisering för att synkronisera om nya fält.
 
-1. Klicka på Marketo Engage **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,11 +31,11 @@ Så här använder du snabbsynkronisering för att synkronisera om nya fält.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Om synkroniseringsinformation för fält klickar du på **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** i Fältsynkroniseringsinformation.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Markera fälten som ska snabbsynkroniseras och klicka på **[!UICONTROL Save]**.
+1. Markera de fält som ska snabbsynkroniseras och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 

@@ -21,9 +21,9 @@ Du kan skicka SMS-meddelanden till de personer som har valt att delta i era Vbö
 
 >[!AVAILABILITY]
 >
->Du måste ha ett aktivt Vibes-konto och en Adobe-licens för Vibes SMS. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas av [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Du måste ha ett aktivt Vibes-konto och en Adobe-licens för Vibes SMS. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas genom att [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
-1. I My Marketo går du till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]** i Min Marketo.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
@@ -31,22 +31,22 @@ Du kan skicka SMS-meddelanden till de personer som har valt att delta i era Vbö
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Klicka **[!UICONTROL New]** sedan **[!UICONTROL New Service]**.
+1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Service]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. Ange ett visningsnamn och välj **[!UICONTROL Vibes]**.
+1. Ange ett visningsnamn och välj **[!UICONTROL Vibes]** i listrutan.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. Under Inställningar anger du dina Vibes [!UICONTROL Username], [!UICONTROL Password]och [!UICONTROL Company Key] (som alla finns på ditt Vibes-konto). Klicka på **[!UICONTROL Create]**.
+1. Under Inställningar anger du dina vibes [!UICONTROL Username], [!UICONTROL Password] och [!UICONTROL Company Key] (som alla finns på ditt Vibes-konto). Klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   Den nya SMS-tjänsten visas nu i [!UICONTROL Installed Services] lista.
+   Den nya SMS-tjänsten visas nu i listan [!UICONTROL Installed Services].
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Vibes video demo](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
+>[Vibes - videodemo](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

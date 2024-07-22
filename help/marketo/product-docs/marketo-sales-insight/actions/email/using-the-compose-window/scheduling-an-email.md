@@ -32,7 +32,7 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 
    ![](assets/scheduling-an-email-4.png)
 
-1. Nu när du har valt schemalagt datum/tid klickar du på **Skicka** för att schemalägga e-postmeddelandet.
+1. När du har valt schemalagt datum/tid klickar du på **Skicka** för att schemalägga e-postmeddelandet.
 
    ![](assets/scheduling-an-email-5.png)
 

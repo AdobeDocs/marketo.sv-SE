@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Januari 2013 {#release-notes-january}
+# Versionsinformation: januari 2013 {#release-notes-january}
 
-Januariversionen utökar vårt sociala utbud med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner markerade med en &#42; finns endast i Select Edition.
+Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med en &#42; endast är tillgängliga i Select Edition.
 
 ## Referenserbjudanden {#referral-offers}
 
-A **Referenserbjudande** ger era leads en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan använda den på landningssidor, på din webbplats och till och med på Facebook.
+Ett **hänvisningserbjudande** ger dina leads en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan använda den på landningssidor, på din webbplats och till och med på Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -37,7 +37,7 @@ Du kan ändra standardspråk för ditt Marketo-användarkonto. Även om standard
 
 ## Felmeddelanden för flerspråkiga formulär {#multi-lingual-form-error-messages}
 
-När en lead fyller i ett Marketo-formulär skapas vissa valideringsmeddelanden automatiskt. Du kan välja ett annat visningsspråk för dessa felmeddelanden. Vi har nu stöd för engelska, tyska och franska.
+När en lead fyller i ett Marketo-formulär skapas vissa valideringsmeddelanden automatiskt. Du kan välja ett annat visningsspråk för dessa felmeddelanden. Vi stödjer nu engelska, tyska och franska.
 
 ![](assets/image2014-9-22-15-3a21-3a33.png)
 
@@ -45,7 +45,7 @@ Ett exempel på ett franskt formulär:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Välj ditt Sales Insight-språk (endast Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Välj försäljningsinsiktspråk (endast Salesforce) {#select-your-sales-insight-language-salesforce-only}
 
 Om du har angett språkinställningen för Salesforce till antingen franska eller tyska kommer Marketo Sales Insight att respektera den här inställningen. Hämta det senaste MSI-paketet för att få tillgång till den här funktionen (tillgänglig veckan efter 14 januari).
 

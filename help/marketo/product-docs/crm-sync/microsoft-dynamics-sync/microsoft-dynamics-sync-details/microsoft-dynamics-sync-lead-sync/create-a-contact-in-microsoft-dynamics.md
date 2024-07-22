@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
    ![](assets/one.png)
 
-1. Klicka **[!UICONTROL Person Actions]** och **[!DNL Microsoft]** och markera **[!UICONTROL Sync Person to Microsoft]**.
+1. Klicka på **[!UICONTROL Person Actions]** och **[!DNL Microsoft]** och välj **[!UICONTROL Sync Person to Microsoft]**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >När du använder[!UICONTROL Sync Person to Microsoft]&quot;flow action (endast i en Trigger Campaign), the lead/contact will be created in real-time in Dynamics.
+   >När flödesåtgärden [!UICONTROL Sync Person to Microsoft] används (endast i en utlösarkampanj) skapas lead/kontakt i realtid i Dynamics.
 
 1. Marketo kvalificerar denna lead-post i Dynamics till en kontakt som inte är kopplad till något konto i Dynamics.
 

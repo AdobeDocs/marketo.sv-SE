@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
 
 >[!PREREQUISITES]
 >
->Att söka efter och sammanfoga dubbletter innebär att [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Om du söker efter och sammanfogar dubbletter används [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
 
 ## Sök dubbletter {#find-duplicates}
 
-1. Gå till **[!UICONTROL Database]** område.
+1. Gå till området **[!UICONTROL Database]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
    >
    >Det kanske inte fungerar att sammanfoga personer i Marketo om du använder ett Salesforce-personkonto. Sammanfoga posterna i Salesforce om det är möjligt.
 
-1. Välj **[!UICONTROL Possible Duplicates]** System Smart List och klicka på **[!UICONTROL People]** -fliken.
+1. Välj den smarta listan för **[!UICONTROL Possible Duplicates]** och klicka på fliken **[!UICONTROL People]**.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >Du kan också [Sök efter duplicerade personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >Du kan också [söka efter dubbletter av personer med anpassad logik](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Sammanfoga personer manuellt {#merge-people-manually}
 
 >[!CAUTION]
 >
->När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kommer det att _not_ och associeras med den vinnande personen. Överför det anpassade objektet på nytt innan du utför sammanfogningen.
+>När du sammanfogar personer och den person som förlorar har ett anpassat Marketo-objekt, kopplas det _inte_ till den vinnande personen. Överför det anpassade objektet på nytt innan du utför sammanfogningen.
 
-1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka och sedan på **[!UICONTROL Merge People]**.
+1. Markera dubbletterna genom att hålla ned Ctrl/Cmd och klicka på **[!UICONTROL Merge People]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
    >
    >Du kan ha två eller flera dubbletter för samma person - markera alla samtidigt.
 
-1. Du ser värdena mellan posterna som _inte_ matcha. Välj det värde som du vill behålla för varje fält. Klicka **[!UICONTROL Merge]** när det är klart. Om du inte vill ha något av värdena kan du kontrollera **[!UICONTROL Custom]** och ange ett värde.
+1. Du kommer att se värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka på **[!UICONTROL Merge]** när du är klar. Om du inte vill ha något av värdena kan du kontrollera **[!UICONTROL Custom]** och ange ett värde.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -80,8 +80,8 @@ Om du har Salesforce-integrering finns det några noteringar om effekten av att 
 
 Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakter finns i följande Salesforce-dokument:
 
-* [Sammanfoga dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Sammanfoga dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Sammanfogar dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [Sammanfogar dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## Masssammanslagning {#bulk-merging}
 

@@ -6,14 +6,14 @@ exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
 source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
 
 # Ställ in organisationsmappning för Adobe {#set-up-adobe-organization-mapping}
 
-För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CDP Marketo-kontakten, [!DNL Dynamic Chat]måste du först ange dina Adobe IMS-inloggningsuppgifter i Marketo Engage.
+För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Marketo-kopplingen, [!DNL Dynamic Chat] osv. måste du först ange dina Adobe IMS-organisationsuppgifter i Marketo Engage.
 
 >[!NOTE]
 >
@@ -24,11 +24,11 @@ För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CD
 >
 >För dem som uppgraderar till Adobe Business Platform och Identity Management System fylls det Org ID som är kopplat till prenumerationen redan i och är ett skrivskyddat fält. Stegen i den här artikeln är därför inte tillämpliga.
 
-1. Klicka på i Marketo **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Under Integrering klickar du på **[!UICONTROL Adobe Organization Mapping]**.
+1. Klicka på **[!UICONTROL Adobe Organization Mapping]** under Integrering.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
@@ -36,7 +36,7 @@ För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CD
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs hur du hittar det [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) och klicka på **[!UICONTROL OK]**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) och klicka på **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -52,6 +52,6 @@ För att kunna synkronisera med Adobe-applikationer som Audience Manager, B2B CD
    >
    >Av säkerhetsskäl måste du vara organisationsadministratör för den Adobe-organisation som du vill mappa till. Annars misslyckas åtgärden. Dessutom måste Adobe-användaren och Marketo-användaren använda samma e-postadress när de loggar in.
 
-1. Om du är _not_ redan inloggad visas ett popup-fönster på en ny flik eller i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden validerar organisationsåtkomsten).
+1. Om du _inte_ redan är inloggad visas ett popup-fönster på en ny flik/i ett nytt fönster. Logga in på din Adobe-organisation (den här åtgärden validerar organisationsåtkomsten).
 
-Och det är allt! Nu kan du [dela målgruppsdata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} från Adobe Experience Cloud.
+Och det är allt! Du kan nu [dela målgruppsdata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} till, eller [synkronisera en målgrupp](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} från Adobe Experience Cloud.

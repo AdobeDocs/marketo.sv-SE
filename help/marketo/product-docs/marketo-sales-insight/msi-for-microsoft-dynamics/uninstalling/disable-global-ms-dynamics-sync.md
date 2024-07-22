@@ -6,7 +6,7 @@ exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Följ de här enkla stegen för att inaktivera MS Dynamics-synkroniseringen.
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Marketo.
 
    ![](assets/one.png)
 
-1. Under Integrering klickar du på **Microsoft Dynamics**.
+1. Klicka på **Microsoft Dynamics** under Integrering.
 
    ![](assets/two.png)
 
-1. Klicka **Inaktivera synkronisering**.
+1. Klicka på **Inaktivera synkronisering**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Om du inte ser knappen Inaktivera synkronisering i din instans kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Om du inte ser någon Inaktivera synkronisering-knapp i din instans kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).

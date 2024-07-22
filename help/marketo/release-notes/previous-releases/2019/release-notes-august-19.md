@@ -6,14 +6,14 @@ exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: 19 augusti {#release-notes-august}
 
-Följande funktioner finns i augusti 19. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner finns i augusti 19. Se om det finns funktioner i Marketo Edition.
 
 **_Kvartalsvisa releaser_**
 
@@ -21,14 +21,14 @@ Följande funktioner släpptes 16 augusti 2019.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Extensible Webinar Framework**: Spara tid med Marketo nya färdiga webbinarium (som introducerades i versionsinformationen för Winter 19) som smidigt överför data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
-* **API-uppdatering för smart kampanj**: Hantera livscykelfunktioner för smarta kampanjer när vi bygger ut CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
-* **Uppdatera API-ändring för e-posthuvuden**: API:t Uppdatera e-posthuvud kräver inte längre något e-postmeddelande för att ha en bifogad mall för att uppdatera rubrikfält, som ämnesraden.
+* **Utbyggbart webbinarium**: Spara tid med Marketo nya körklara webbinariramverk (som introducerades i versionsinformationen för Winter 19) som smidigt överför data från webbinarier till Marketo och vice versa. Event och Zoom finns nu i det nya ramverket.
+* **API-uppdatering för smarta kampanjer**: Hantera livscykelfunktioner för smarta kampanjer när vi tar bort CRUD-gränssnittet (skapa, läsa, uppdatera, ta bort).
+* **Uppdatera API-ändring för e-postmeddelandehuvuden**: API:t för uppdateringshuvud kräver inte längre något e-postmeddelande för att ha en bifogad mall för att uppdatera rubrikfält, som ämnesraden.
 
 **Account-Based Marketing** ![(stjärna)](assets/yellow-star.png)
 
-* **linkedIn-kontomatchning**, som tidigare fanns i betaversionen, finns nu i allmänhet att tillgå.
-* **AccountAI** omdöms officiellt som **Kontoprofilering**.
+* **LinkedIn Kontomatchning**, som tidigare fanns i betaversionen, är nu allmänt tillgänglig.
+* **AccountAI** har officiellt ändrats till **Kontoprofilering**.
 
 <br> 
 
@@ -38,7 +38,7 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 
 **Marketo Sales Connect** ![(stjärna)](assets/yellow-star.png)
 
-* **Förbättrad sidlayout för personer:** Hantera personer och grupper genom att lista importer och massåtgärder i den nya sidlayouten för personer.
+* **Förbättring av sidlayout för människor:** Hantera dina personer och grupper genom att visa import- och gruppåtgärder i den nya sidlayouten för personer.
 
 >[!AVAILABILITY]
 >
@@ -46,8 +46,8 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 
 >[!NOTE]
 >
->**Borttagning av TLS 1.0 och 1.1**: I linje med Adobe världsstandard för säkerhet kommer vi att ta bort stödet för TLS 1.0 och 1.1 från och med 13 december 2019. System som integreras med Marketo som inte är kompatibla med 1.2-protokollet kan förlora åtkomsten till Marketo Engage tjänster.
+>**Borttagning av TLS 1.0 och 1.1**: För att anpassa sig till Adobe säkerhetsstandard i världsklass kommer stödet för TLS 1.0 och 1.1 att upphöra från och med den 13 december 2019. System som integreras med Marketo som inte är kompatibla med 1.2-protokollet kan förlora åtkomsten till Marketo Engage tjänster.
 >
->**Kontrollera att alla klientsystem är kompatibla med TLS 1.2 före den 13 december 2019 för att behålla åtkomst till Marketo Engage**. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Kontrollera att alla klientsystem är TLS 1.2-kompatibla före den 13 december 2019** om du vill behålla åtkomsten till Marketo Engage. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Product Release Webinar_** [Följ oss](https://engage.marketo.com/August_19_Release_Webinar.html) den 28 augusti kl. 13.00 PT/4.00PM ET för ett live webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.
+**_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/August_19_Release_Webinar.html) den 28 augusti klockan 1:00 PT/4:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.

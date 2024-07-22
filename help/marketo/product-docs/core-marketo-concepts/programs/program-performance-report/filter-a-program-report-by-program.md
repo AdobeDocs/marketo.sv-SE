@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrera en programrapport per program {#filter-a-program-report-by-program}
 
-Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} om specifika program för att jämföra deras resultat.
+Fokusera din [programresultatrapport](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} på specifika program för att jämföra deras prestanda.
 
 1. Gå till **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
@@ -23,7 +23,7 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Klicka på **[!UICONTROL Setup]** tabb och dra över **[!UICONTROL Programs]**.
+1. Klicka på fliken **[!UICONTROL Setup]** och dra över **[!UICONTROL Programs]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ Fokusera på [rapport om programprestanda](/help/marketo/product-docs/core-marke
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Det är allt! Klicka på **[!UICONTROL Report]** flik att se _just_ de valda programmen i din rapport.
+1. Det är allt! Klicka på fliken **[!UICONTROL Report]** för att visa _just_ de valda programmen i rapporten.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 

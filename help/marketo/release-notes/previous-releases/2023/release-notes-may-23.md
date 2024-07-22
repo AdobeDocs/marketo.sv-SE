@@ -19,13 +19,13 @@ Här nedan hittar du alla funktioner som ingår i versionen från maj 23. Se om 
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner faller under standardversionscykeln och kommer att släppas den **12 maj 2023**, med en stegvis utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **12 maj 2023**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status för respektive funktion nedan.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Adobe Experience Cloud Interface**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar under en och samma användarsession.
+* **Adobe Experience Cloud-gränssnitt**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar i en enda användarsession.
 
 <table> 
   <tr> 
@@ -65,7 +65,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att ge marknadsförarna en inbyggd och smidig upplevelse när de ska skapa, hantera och leverera event i Marketo Engage. Anpassa webbinarier efter typ av händelse och lägg till presentatörer om det behövs. Få omfattande engagemangsinsikter genom Adobe Connect funktioner som live-omröstningar, chatt, frågor och svar, webblänksklickningar, dokumentnedladdningar med mera. Hämta webbinariets inspelning direkt i Marketo Engage och utvärdera resultatet med hjälp av omfattande instrumentpanelsmätningar.
 
-Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller du i [det här formuläret](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interaktiva webbinarier lanseras gradvis. Om du vill begära åtkomst tidigare fyller du i [det här formuläret](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -81,4 +81,4 @@ Interaktiva webbinarier lanseras gradvis. Om du vill ha åtkomst tidigare fyller
 
 ## Meddelanden {#announcements}
 
-* **_Product Release Webinar_**: [Mars och maj 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webbseminarium om produktreleaser_**: [Mars och maj 2023 om Marketo Engage ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

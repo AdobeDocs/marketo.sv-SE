@@ -19,7 +19,7 @@ Så här utbyts data:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-När du skapar en Marketo-händelse väljer du **Webbinarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Händelse med webbinarium** för att integrationen ska fungera. Se [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} för mer information.
+När du skapar Marketo-händelsen väljer du **Webbinarium** som kanaltyp. Du kan redigera den här kanalen i Admin och skapa en ny kanal. Om du skapar en ny kanal måste den vara av typen **Event med Webinar** för att integreringen ska fungera. Mer information finns i [Skapa en programkanal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Nästa steg är att [konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 

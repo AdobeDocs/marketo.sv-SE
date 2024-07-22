@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: Publicera landningssidor på Facebook - Marketo Docs - produktdokumentation
-title: Publicera landningssidor på Facebook
+description: Publish landningssidor till Facebook - Marketo Docs - produktdokumentation
+title: Publish landningssidor till Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Publicera landningssidor på Facebook {#publish-landing-pages-to-facebook}
+# Publish landningssidor till Facebook {#publish-landing-pages-to-facebook}
 
 Du kan publicera dina landningssidor på Facebook, möta din publik där de redan är ute och generera mer trafik till dina program.
 
@@ -29,7 +29,7 @@ Anta att du lanserar en ny bok och att du kan nå en del av publiken via e-post 
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Välj **Publicera till Facebook** från åtgärder på landningssidan.
+1. Välj **Publish till Facebook** från Åtgärder för landningssida.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ Anta att du lanserar en ny bok och att du kan nå en del av publiken via e-post 
    >
    >Du måste använda ett konto som har administratörsbehörighet för den Facebook-sida som du vill publicera din Marketo-landningssida på.
 
-1. Välj **Facebook Page** där du vill publicera landningssidan och ange det namn som Marketo landningssida ska visas där.
+1. Markera **Facebook-sidan** där du vill publicera landningssidan och ange det namn som Marketo startsida ska visas med.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Om du vill ersätta Marketo landningssidor som du tidigare har publicerat på Facebook väljer du **Ersätt befintlig flik** och välj den flik som ska ersättas i listrutan. Observera att detta inte ersätter flikar som inte finns i Marketo.
+   >Om du vill ersätta Marketo landningssidor som du tidigare har publicerat på Facebook väljer du **Ersätt befintlig flik** och väljer den flik som ska ersättas i listrutan. Observera att detta inte ersätter flikar som inte finns i Marketo.
 
 1. Leads kan nu besöka din landningssida direkt på din Facebook-sida. Klicka bara på fliknamnet under omslagsbilden.
 

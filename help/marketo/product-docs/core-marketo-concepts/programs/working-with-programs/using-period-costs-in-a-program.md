@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # Använda periodkostnader i ett program {#using-period-costs-in-a-program}
 
-A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} är det belopp du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
+En [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} är det belopp du spenderar på ett program. Den kan vara i en eller flera månader och används för att rapportera ROI.
 
 ## Lägg till en periodkostnad  {#add-a-period-cost}
 
-1. Gå till **[!UICONTROL Setup]** -fliken i ditt program.
+1. Gå till fliken **[!UICONTROL Setup]** i ditt program.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Dra och släpp **[!UICONTROL Period Cost]** på arbetsytan.
+1. Dra **[!UICONTROL Period Cost]** till arbetsytan.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -29,7 +29,7 @@ A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Ange en **[!UICONTROL Period Cost]** (utan decimaler eller kommatecken) Klicka på **[!UICONTROL Save]**.
+1. Ange **[!UICONTROL Period Cost]** (utan decimaler eller kommatecken). Klicka på **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -49,7 +49,7 @@ A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 1. Om du spenderar mer eller mindre pengar än vad som ursprungligen planerats kan du redigera periodkostnaden.
 
-1. Gå till **[!UICONTROL Setup]** -fliken i ditt program.
+1. Gå till fliken **[!UICONTROL Setup]** i ditt program.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -63,7 +63,7 @@ A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 ## Ta bort en periodkostnad {#delete-a-period-cost}
 
-1. Gå till **[!UICONTROL Setup]** -fliken i ditt program.
+1. Gå till fliken **[!UICONTROL Setup]** i ditt program.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
@@ -71,7 +71,7 @@ A [periodkostnad](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klicka **[!UICONTROL Delete]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

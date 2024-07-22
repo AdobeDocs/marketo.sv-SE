@@ -29,7 +29,7 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 
 ## Exportera objektmetadata {#export-object-metadata}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -45,6 +45,6 @@ Med den här funktionen kan du exportera alla objekt och deras metadata.
 >
 >Kontrollera att webbläsaren inte blockerar popup-fönster från Marketo.
 
-Data exporteras som en CSV-fil.
+Data exporteras som en CSV.
 
 ![](assets/export-all-object-metadata-4.png)

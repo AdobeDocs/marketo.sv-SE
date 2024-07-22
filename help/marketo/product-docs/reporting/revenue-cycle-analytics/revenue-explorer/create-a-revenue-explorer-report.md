@@ -21,13 +21,13 @@ Med rapporten Revenue Explorer (intäktsutforskaren) kan du följa avkastningen 
 
 >[!IMPORTANT]
 >
->Papperskorgen i intäktscykelutforskaren har tillfälligt dolts på grund av ett tekniskt problem. Vi arbetar för närvarande med en korrigering och dina filer är säkra. Kontakta [Stöd för Adobe](https://nation.marketo.com/t5/support/ct-p/Support) om det finns filer som du behöver återställa.
+>Papperskorgen i intäktscykelutforskaren har tillfälligt dolts på grund av ett tekniskt problem. Vi arbetar för närvarande med en korrigering och dina filer är säkra. Kontakta [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support) om det finns några filer som du behöver återställa.
 
-1. Gå till **Intäktsutforskaren** område.
+1. Gå till området **Intresseutforskaren**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klicka på **Skapa nytt** och sedan **Rapport**.
+1. Klicka på **Skapa ny** och välj sedan **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 

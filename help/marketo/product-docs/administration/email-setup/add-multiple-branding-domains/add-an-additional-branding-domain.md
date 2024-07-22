@@ -19,7 +19,7 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 >
 >Du måste [ersätta den generiska spårningslänken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) med en profilerad domän innan du lägger till ytterligare profilerade domäner.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
@@ -27,7 +27,7 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Klicka **[!UICONTROL Add]** om du vill lägga till ytterligare en varumärkesdomän.
+1. Klicka på **[!UICONTROL Add]** om du vill lägga till ytterligare en varumärkesdomän.
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
@@ -37,8 +37,8 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
 >[!NOTE]
 >
->Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som standard, och alla nya e-postmeddelanden som skapas kommer att vara standard i den primära domänen. Du kommer att kunna [skriva över detta per e-post](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Du kan välja att göra den här domänen till primär domän, och alla befintliga e-postmeddelanden som inte har skickats anges som &quot;Standard&quot; och alla nyligen skapade e-postmeddelanden blir som standard till den primära domänen. Du kan [skriva över detta per e-post](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >
->[Redigera din standardvarumärkesdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
+>[Redigera din standardprofileringsdomän](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)

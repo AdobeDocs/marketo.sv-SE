@@ -6,7 +6,7 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
@@ -29,11 +29,11 @@ Marketo Engage har en speciell användarroll för incheckningsappen för händel
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klicka på **[!UICONTROL Roles]** tabbtangenten och klicka sedan på **[!UICONTROL New Role]**.
+1. Klicka på fliken **[!UICONTROL Roles]** och sedan på **[!UICONTROL New Role]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Ange ett namn för den nya rollen och en valfri beskrivning. Kontrollera **[!UICONTROL Access Mobile Application]** och klicka **[!UICONTROL Create]**.
+1. Ange ett namn för den nya rollen och en valfri beskrivning. Markera rutan **[!UICONTROL Access Mobile Application]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,7 +41,7 @@ Marketo Engage har en speciell användarroll för incheckningsappen för händel
 
 ## Bjud in nya användare till incheckningsappen {#invite-new-users-for-the-check-in-app}
 
-1. Klicka på **[!UICONTROL Users]** -fliken.
+1. Klicka på fliken **[!UICONTROL Users]**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
@@ -49,7 +49,7 @@ Marketo Engage har en speciell användarroll för incheckningsappen för händel
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Ange information om den nya användaren. Markera kryssrutorna för alla lämpliga roller och den nya rollen med behörighet att komma åt mobilappen. Klicka **[!UICONTROL Invite]** när du är klar.
+1. Ange information om den nya användaren. Markera kryssrutorna för alla lämpliga roller och den nya rollen med behörighet att komma åt mobilappen. Klicka på **[!UICONTROL Invite]** när du är klar.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

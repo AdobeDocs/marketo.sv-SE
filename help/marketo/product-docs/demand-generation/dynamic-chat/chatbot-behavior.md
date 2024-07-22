@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -185,7 +185,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>V1 klickade på D1 men svarade inte</p>
         <p>V1-besök WP2</p>
       </td>
-      <td>D1 kommer att lösas på WP1<br/>
+      <td>D1 kommer att matchas på WP1<br/>
       D2 löses på WP2</td>
       <td>
         <p>Utlösarantalet för D1 ökas med 1</p>
@@ -200,7 +200,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>V1 klickar på D1 och slutför D1</p>
         <p>V1-besök WP2</p>
       </td>
-      <td>D1 kommer att lösas vid WP1 och efter slutförandet<br/>D2 löses på WP2</td>
+      <td>D1 kommer att matchas på WP1 och efter slutförandet <br/>D2 kommer att matchas på WP2</td>
       <td>
         <p>Utlösarantalet, antalet engagemang och antalet slutförda aktiviteter för D1 ökar med 1</p>
         <p>Utlösarantalet för D2 ökas med 1</p>
@@ -215,7 +215,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>V1-besök WP2</p>
         <p>V1-klick på D2 ger det första svaret</p>
       </td>
-      <td>D1 kommer att lösas vid WP1 och efter slutförandet<br/>D2 löses på WP2</td>
+      <td>D1 kommer att matchas på WP1 och efter slutförandet <br/>D2 kommer att matchas på WP2</td>
       <td>
         <p>Utlösarantalet, antalet engagemang och antalet slutförda aktiviteter för D1 ökar med 1</p>
         <p>Utlösar- och engagemangssiffran för D2 ökas med 1</p>
@@ -329,7 +329,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
         <p>D2 för WP1 med 2 prioriteter</p>
         <p>V1-besök WP1 för första gången</p>
         <p>V1 klickar på D1 och slutför D1</p>
-        <p>V1 uppdaterar WP1 och se D2<br/>V1 klickar på D2 och slutför D2</p>
+        <p>V1 uppdaterar WP1 och ser D2<br/>V1-klickningar på D2 och slutför D2</p>
         <p>Marknadsföraren har ändrat D1 och publicerat om</p>
         <p>V1 uppdaterar WP1</p>
       </td>

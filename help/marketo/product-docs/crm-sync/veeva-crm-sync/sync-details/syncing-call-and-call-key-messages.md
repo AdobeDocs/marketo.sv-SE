@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,14 @@ Anrop och anrop av nyckelmeddelandeobjekt i Veeva CRM synkroniseras som standard
 >
 >Marketo sparar samtalsdata upp till sex månader från datumet för samtalet.
 
-**Vilka utlösare/filter gäller meddelandet Ring upp och ringa upp nyckel?**
+**Vilka utlösare/filter är relaterade till meddelandet Ring upp och ringa upp nyckel?**
 
 Utlösare:
 
 * Tillagd till samtal
 * Borttagen från samtal
 * Tillagd till att anropa nyckelmeddelande
-* Borttagen från anropsnyckelmeddelande
+* Borttagen från meddelande om anropsnyckel
 * Uppdaterat samtal
 * Uppdaterat meddelande om samtalsnyckel
 
@@ -74,7 +74,7 @@ Följande fält för meddelandena Call and Call Key synkroniseras och kan använ
     <tr>
       <td>Utlysning</td>
       <td>Samtalstyp</td>
-      <td>Typ av samtal som underhålls av systemet baserat på typ och innehåll av samtalet. Detta fält används för rapportering. Giltiga värden är: Endast detalj, Detalj med exempel, Gruppdetalj, Gruppdetalj med Exempel, Endast exempel. Dessa värden bör inte ändras, men översättningarna för dessa plocklistor kan ändras. Deltagare har samma anropstyp som huvudanropet. För ett gruppsamtal med 3 proffs har alla fyra posterna anropstypen "Group Detail"</td>
+      <td>Typ av samtal som underhålls av systemet baserat på typ och innehåll av samtalet. Detta fält används för rapportering. Giltiga värden är: Endast detalj, Detalj med exempel, Gruppdetalj, Gruppdetalj med exempel, Endast exempel. Dessa värden bör inte ändras, men översättningarna för dessa plocklistor kan ändras. Deltagare har samma anropstyp som huvudanropet. För ett gruppsamtal med 3 proffs har alla fyra posterna anropstypen "Group Detail"</td>
       <td>Call_Type_vod__c</td>
       <td>Picklist</td>
     </tr>
@@ -118,7 +118,7 @@ Följande fält för meddelandena Call and Call Key synkroniseras och kan använ
       <td>Utlysning</td>
       <td>Uppslag till samtalet. Varje nyckelmeddelande är associerat med ett samtal.</td>
       <td>Call2_vod__c</td>
-      <td>Överordnad-detail(call)</td>
+      <td>Huvud-detalj(anrop)</td>
     </tr>
     <tr>
       <td>Anropa nyckelmeddelande</td>
@@ -150,7 +150,7 @@ Följande fält för meddelandena Call and Call Key synkroniseras och kan använ
     </tr>
     <tr>
       <td>Anropa nyckelmeddelande</td>
-      <td>Reaktion</a>
+      <td>Reaktion </a>
       </td>
       <td>Plocklista för reaktion på meddelandet. Redigera plocklistan för att ändra reaktionsvärdena.</td>
       <td>Reaction_vod__c</td>

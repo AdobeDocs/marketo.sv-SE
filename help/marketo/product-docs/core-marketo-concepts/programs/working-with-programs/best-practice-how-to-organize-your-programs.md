@@ -6,7 +6,7 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,9 @@ Du kan lägga till fler mappar när du vill. Tänk bara på att framtida generat
 
 ## Namngivningsschema {#naming-schemes}
 
-Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt språk för att kommunicera. För program bör du ge dem ett unikt namn. **Två program får inte ha samma namn**. Det bästa sättet är att använda följande format:
+Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt språk för att kommunicera. För program bör du ge dem ett unikt namn. **Två program kan inte ha samma namn**. Det bästa sättet är att använda följande format:
 
-[Förkortning av programtyp] [YYYY]-[MM]-[Valfri DD] [Kort beskrivning]
+[Förkortning av programtyp] [ÅÅÅ]-[MM]-[Valfri DD] [Kort beskrivning]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Namngivning är viktigt eftersom Marketo funktioner alla använder ett gemensamt
 >1. NL 2015-06 nyhetsbrev
 >1. WBN 2015-12-01 Webbseminarium här
 
-Programnamnen måste vara unika i prenumerationen, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  För lokala resurser i program är regeln att **behåll namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
+Programnamnen måste vara unika i din prenumeration, även i olika [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  För lokala resurser i program är regeln att **behålla namnet enkelt**. Ange bara&quot;Inbjudan&quot; till skillnad från&quot;2015 Juniwebbinariet Invitation&quot;. Eftersom dessa finns i ett program är det överordnade programmet automatiskt en del av namnet när du väljer det någon annanstans. Med andra ord behöver lokala resurser bara vara unika inom programmet. Du kan ha hundratals resurser som heter&quot;Bjud in&quot;, var och en i ett annat program och det kommer inte att försvåra dig.
 
 ## Tokens {#tokens}
 
@@ -97,7 +97,7 @@ En Event har vanligtvis många rörliga delar, bland annat: inbjudningar, landni
 
 ## Engagement Programs {#engagement-programs}
 
-Läs [allt om engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
+Lär dig [allt om engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Det bästa sättet att organisera engagemangsprogrammet är med mappar. Skapa en mapp för varje ström och placera sedan e-postmeddelandena eller programmen i den mappen. Inkludera en arkivmapp i varje ström när innehållet blir inaktuellt och du vill ta bort det.
 
 ## Verksamhetsprogram {#operational-programs}
 
@@ -121,4 +121,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Vi gick igenom grunderna här, men överväg ytterligare tjänster från [Marketo Engage experter](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} för att finjustera och förbereda dig för framgång.
+Som du ser finns det mycket kraft i Marketo. Grunderna har beskrivits här, men du bör överväga ytterligare tjänster från [Marketo Engage-experter](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} för att finjustera och konfigurera dig själv för att lyckas.

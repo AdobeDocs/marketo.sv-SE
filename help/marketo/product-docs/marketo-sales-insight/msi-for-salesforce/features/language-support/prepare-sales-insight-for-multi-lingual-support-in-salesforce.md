@@ -31,15 +31,15 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 
 ## Lägga till ett nytt språk för Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Logga in i Salesforce. Klicka på i listrutan under ditt namn i det övre högra hörnet. **Inställningar**.
+1. Logga in i Salesforce. Klicka på **Konfigurera** i listrutan under ditt namn i det övre högra hörnet.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Under **Mina personuppgifter**, klicka **Personlig information**.
+1. Klicka på **Personlig information** under **Min personliga information**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
@@ -47,15 +47,15 @@ Marketo Sales Insight lagras på språk. Om du vill att det ska fungera för mer
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. Salesforce-gränssnittet finns nu på det valda språket. Du kan klicka på **+** om du vill visa alla tillgängliga flikar.
+1. Salesforce-gränssnittet finns nu på det valda språket. Du kan klicka på ikonen **+** för att visa alla tillgängliga flikar.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Klicka **Konfigurera Marketo Sales Insight** (på det valda språket).
+1. Klicka på **Konfigurera Marketo Sales Insight** (på det valda språket).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Gå till Marketo. Hitta [Marketo Sales Insight **API-konfiguration** information](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Gå till Marketo. Leta reda på information om din [Marketo Sales Insight **API-konfiguration**](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -71,15 +71,15 @@ När du är klar med att anpassa din Salesforce-organisation gör du så här f�
 >
 >Följande skärmbilder är på franska med instruktioner på engelska.  Du ser samma skärmar med text på det språk du valde i föregående steg.
 
-1. Klicka under ditt namn **Inställningar**.
+1. Klicka på **Konfigurera** under ditt namn.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klicka **Personlig information** under **Mina personuppgifter**.
+1. Klicka på **Personlig information** under **Min personliga information**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 

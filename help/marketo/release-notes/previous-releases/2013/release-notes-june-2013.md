@@ -6,12 +6,12 @@ exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Juni 2013 {#release-notes-june}
+# Versionsinformation: juni 2013 {#release-notes-june}
 
 Följande funktioner finns i juniversionen.
 
@@ -23,7 +23,7 @@ Se Marketo Lead Management-gränssnittet på ditt språk - som nu stöder spansk
 
 ## Cobalt-användargränssnitt {#cobalt-user-interface}
 
-Under de närmaste månaderna kommer du att märka ett nytt tema som lanserats i olika delar av programmet; till exempel påverka modala fönster.
+Under de närmaste månaderna kommer du att märka att ett nytt tema har lanserats i olika delar av programmet, vilket till exempel påverkar modala fönster.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 

@@ -1,11 +1,11 @@
 ---
-description: Connect New Admin to Marketo - Marketo Docs - Product Documentation
+description: Anslut ny administratör till Marketo - Marketo Docs - produktdokumentation
 title: Anslut ny administratör till Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -54,23 +54,23 @@ Admin A (den administratör som ursprungligen var ansvarig för anslutningen) sk
 
 1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
 
-1. Klicka **Marketo**.
+1. Klicka på **Marketo**.
 
-1. Klicka **Användaråtkomst**.
+1. Klicka på **Användaråtkomst**.
 
 1. Sök efter den administratör som du vill skapa den nya Marketo-anslutningen för.
 
 1. Ta bort åtkomst.
 
-**Upprätta ny anslutning för Admin B**
+**Skapa ny anslutning för administratör B**
 
 Dessa steg ska följas av admin B (ny administratör)
 
 1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
 
-1. Klicka **Marketo**.
+1. Klicka på **Marketo**.
 
-1. Klicka **Koppla från**.
+1. Klicka på **Koppla från**.
 
 **Koppla från Marketo-integrering för admin A**
 
@@ -78,8 +78,8 @@ Dessa steg ska följas av admin A (ursprungligen ansluten admin).
 
 1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
 
-1. Klicka **Marketo**.
+1. Klicka på **Marketo**.
 
-1. Klicka **Koppla från**.
+1. Klicka på **Koppla från**.
 
 Nu när en ny administratör har upprättat en anslutning till Marketo och den ursprungliga administratören har kopplats från kan den ursprungligen anslutna administratören tas bort från Sales Connect/Actions-instansen.

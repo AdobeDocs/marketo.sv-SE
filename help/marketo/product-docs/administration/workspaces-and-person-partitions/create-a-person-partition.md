@@ -23,7 +23,7 @@ Skapa en ny personpartition enligt dessa steg.
 >
 >Förstå först med [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -31,11 +31,11 @@ Skapa en ny personpartition enligt dessa steg.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. Gå till **[!UICONTROL Person Partitions]** och klicka **[!UICONTROL New Person Partition]**.
+1. Gå till fliken **[!UICONTROL Person Partitions]** och klicka på **[!UICONTROL New Person Partition]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. Namnge partitionen genom att välja **[!UICONTROL Workspaces]** där den ska visas och klicka på **[!UICONTROL Create]**.
+1. Namnge partitionen, välj **[!UICONTROL Workspaces]** där den ska visas och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-person-partition-4.png)
 

@@ -27,10 +27,10 @@ Söker du efter webbadressen (URL:en) till en bild eller fil som du har överfö
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. The **[!UICONTROL URL]** visas på informationssidan.
+1. **[!UICONTROL URL]** visas på informationssidan.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[Ersätt en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

@@ -5,7 +5,7 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ I den här artikeln ska du anpassa fältbehörigheter med en veeva CRM-sidlayout
 
 Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
-1. Klicka på sidlayouten Konto (personkonto) i navigeringsfältet utan att trycka på Retur och klicka på **[!UICONTROL Page Layout]** under Kontakter.
+1. Klicka på sidlayouten Konto (personkonto) i navigeringsfältet utan att trycka på Retur och klicka **[!UICONTROL Page Layout]** under Kontakter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
@@ -40,7 +40,7 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
 
 1. Klicka och dra en ny **[!UICONTROL Section]** till sidlayouten.
 
-1. Ange&quot;Marketo&quot; som avsnittsnamn och klicka på **[!UICONTROL OK]**.
+1. Ange Marketo som avsnittsnamn och klicka på **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -80,7 +80,7 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på **[!UICONTROL Profiles]** länk.
+1. Skriv&quot;profiler&quot; i navigeringsfältet och klicka på länken **[!UICONTROL Profiles]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
@@ -88,17 +88,17 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. Välj standardanvändare, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **[!UICONTROL Save]**.
+1. Välj Standardanvändare, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
 ## Ange profilbehörigheter {#set-profile-permissions}
 
-1. Klicka **[!UICONTROL Edit]** för att ange säkerhetsbehörigheter.
+1. Klicka på **[!UICONTROL Edit]** för att ange säkerhetsbehörigheter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. Under Administrativa behörigheter ser du till att **[!UICONTROL API Enabled]** är markerat.
+1. Kontrollera att **[!UICONTROL API Enabled]** är markerat under Administrativa behörigheter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,19 +106,19 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Markera rutan Lösenordet upphör aldrig att gälla.
 
-1. Under avsnittet Allmänna användarbehörigheter ser du till att **[!UICONTROL Edit Events]** och **[!UICONTROL Edit Tasks]** är markerade.
+1. Kontrollera att **[!UICONTROL Edit Events]** och **[!UICONTROL Edit Tasks]** är markerade under avsnittet Allmänna användarbehörigheter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Under avsnittet Standardobjektbehörigheter ser du till att **[!UICONTROL Read]**, **[!UICONTROL Create]**, **[!UICONTROL Edit]** och **[!UICONTROL Delete]** behörigheter kontrolleras för konton och kontakter.
+1. Under avsnittet Standardobjektbehörigheter kontrollerar du att behörigheterna **[!UICONTROL Read]**, **[!UICONTROL Create]**, **[!UICONTROL Edit]** och **[!UICONTROL Delete]** är ikryssade för konton och kontakter.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Kontrollera att Läs-behörigheterna är ikryssade under avsnittet Anpassade objektbehörigheter **[!UICONTROL Call]**, **[!UICONTROL Call Key Message]** och andra anpassade objekt.
+1. Under avsnittet Anpassade objektbehörigheter kontrollerar du att Läs-behörigheterna har markerats för **[!UICONTROL Call]**, **[!UICONTROL Call Key Message]** och andra önskade anpassade objekt.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. När du är klar klickar du **[!UICONTROL Save]** längst ned på sidan.
+1. När du är klar klickar du på **[!UICONTROL Save]** längst ned på sidan.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -130,7 +130,7 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Det här steget förhindrar att fält som du inte behöver visas i Marketo, vilket gör att det blir rörigt och snabbar upp synkroniseringen.
 
-1. Gå till profildetaljsidan [!UICONTROL Field-Level Security] -avsnitt. Klicka **[!UICONTROL View]** om du vill redigera tillgängligheten för objekten Kontakt och Konto.
+1. Gå till avsnittet [!UICONTROL Field-Level Security] på profilinformationssidan. Klicka på **[!UICONTROL View]** om du vill redigera tillgängligheten för objekten Kontakt och Konto.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -138,11 +138,11 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Du kan konfigurera andra objekt efter organisationens behov.
 
-1. För varje objekt klickar du **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** för varje objekt.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-1. Leta reda på de onödiga fälten och se till att Läs- och Redigera-åtkomst är _avmarkerad_. Klicka **[!UICONTROL Save]** när det är klart.
+1. Leta reda på de onödiga fälten och se till att Läs- och Redigera-åtkomst är _avmarkerat_. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anp
    >
    >Redigera bara tillgängligheten för anpassade fält.
 
-1. När du är klar med inaktiveringen av alla onödiga fält kontrollerar du Läs åtkomst och Redigera åtkomst för följande objektfält. Klicka **[!UICONTROL Save]** när det är klart.
+1. När du är klar med inaktiveringen av alla onödiga fält kontrollerar du Läs åtkomst och Redigera åtkomst för följande objektfält. Klicka på **[!UICONTROL Save]** när du är klar.
 
 <table>
  <tbody>

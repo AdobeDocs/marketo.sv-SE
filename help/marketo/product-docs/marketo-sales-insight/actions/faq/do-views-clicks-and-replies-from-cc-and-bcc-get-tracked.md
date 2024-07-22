@@ -1,8 +1,8 @@
 ---
 description: Kommer vyer, klickningar och svar från mottagarna som listas i avsnittet CC och BCC i e-postmeddelandet att spåras? - Marketo Docs - produktdokumentation
 title: Kommer vyer, klickningar och svar från mottagarna som listas i avsnittet CC och BCC i e-postmeddelandet att spåras?
-exl-id: 83a76572-7fea-463b-b3fc-b6e9fe58c696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

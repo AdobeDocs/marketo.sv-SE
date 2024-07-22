@@ -19,7 +19,7 @@ Reservsidor är den sista försvarslinjen om landningssidan är offline eller in
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/set-a-fallback-page-1.png)
 
@@ -27,7 +27,7 @@ Reservsidor är den sista försvarslinjen om landningssidan är offline eller in
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Under **[!UICONTROL Landing Pages]** flik, klicka **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** på fliken **[!UICONTROL Landing Pages]**.
 
    ![](assets/set-a-fallback-page-3.png)
 

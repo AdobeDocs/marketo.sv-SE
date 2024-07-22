@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Fästa mallkategorier i dispositionsfönstret {#pinning-template-categories-in-the-compose-window}
 
-Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång till de mallar du använder mest.
+Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till dina mest använda mallar.
 
 1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Klicka på **+** -ikon bredvid Favoriter.
+1. Klicka på ikonen **+** bredvid Favoriter.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klicka på **Fäst en kategori** och välj önskad kategori.
+1. Klicka på listrutan **Fäst en kategori** och välj önskad kategori.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång
    >
    >Vi rekommenderar att du fäster kategorin&quot;Alla&quot; så att du snabbt kan söka i hela mallbiblioteket, eftersom du ofta behöver söka igenom alla mallar för att hitta det du söker efter. När du har markerat en fast kategori och klickar på sökikonen används sökningen som standard i den valda kategorin.
 
-1. Klicka **Spara ändringar** när du är klar (valfritt: upprepa steg 3 för att lägga till fler).
+1. Klicka på **Spara ändringar** när du är klar (valfritt: upprepa steg 3 om du vill lägga till fler).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ Favorit **upp till fem** särskilda mallkategorier för att snabbt få tillgång
 
    >[!NOTE]
    >
-   >**Favoriter** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**Favoriter** finns som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    Den valda kategorin är nu fäst.

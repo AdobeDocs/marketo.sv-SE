@@ -24,15 +24,15 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
 
   >[!TIP]
   >
-  >Var kreativ. Experimentera med olika fält för att få bättre filtreringsresultat.
+  >Var kreativ. Experimentera med olika fält för bättre filtreringsresultat.
 
-1. Välj [[!UICONTROL Send Alert]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} flödesåtgärd.
+1. Välj flödesåtgärd [[!UICONTROL Send Alert]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} i flödessteget.
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >Använda [Skicka aviseringsinformationstoken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} om du vill inkludera en länk till personen i CRM.
+   >[Använd token ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} för att skicka aviseringsinformation för att inkludera en länk till personen i CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
    >
    >Två personer med samma namn betyder inte heller automatiskt att de är samma person.
 
-1. Aktivera kampanjen i **[!UICONTROL Schedule]** -fliken.
+1. Aktivera kampanjen på fliken **[!UICONTROL Schedule]**.
 
    ![](assets/automate-an-alert-3.png)
 

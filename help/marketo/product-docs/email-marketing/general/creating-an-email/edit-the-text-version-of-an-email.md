@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas
 >
 >Det här är inte en artikel om att skapa ett e-postmeddelande med endast text. Mer information finns i [Skapa ett e-postmeddelande med endast text](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Klicka på knappen **Text** längst ned i e-postmeddelandet.
+1. Klicka på fliken **Text** längst ned i e-postmeddelandet i e-postredigeraren.
 
    ![](assets/one-5.png)
 
-1. Avmarkera **Kopiera automatiskt från HTML** för att göra ändringar.
+1. Avmarkera **Kopiera automatiskt från HTML** om du vill göra ändringar.
 
    ![](assets/two-5.png)
 

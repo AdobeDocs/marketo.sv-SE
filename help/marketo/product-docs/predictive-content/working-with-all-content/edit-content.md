@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Du kan göra vissa ändringar i listor på sidan Allt innehåll.
 
-1. På **Allt innehåll** för du pekaren över raden i titeln som du vill redigera och klickar på redigeringsikonen.
+1. På sidan **Allt innehåll** för du muspekaren över raden för titeln som du vill redigera och klickar på redigeringsikonen.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
-1. Gör ändringar i innehållstiteln och innehålls-URL:en (kryssrutan för frågeparametrar är valfri).
+1. Gör ändringar i innehållstiteln och innehålls-URL (kryssrutan för frågeparametrar är valfri).
 
    ![](assets/edit-content-2.png)
 
-1. Klicka på **Kategorier** fält för att lägga till/ta bort kategorier. Välj nya i listrutan. Du kan ta bort en markerad kategori genom att klicka på dess **X**.
+1. Klicka på fältet **Kategorier** för att lägga till/ta bort kategorier. Välj nya i listrutan. Du kan ta bort en markerad kategori genom att klicka på dess **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Kontrollera **Godkänn för prediktivt innehåll** om du vill godkänna eller avmarkera den ruta som du vill avgodkänna. Klicka **Spara** när det är klart.
+1. Markera rutan **Godkänn för prediktivt innehåll** om du vill godkänna eller avmarkera kryssrutan om du vill avgodkänna. Klicka på **Spara** när du är klar.
 
    ![](assets/edit-content-4.png)

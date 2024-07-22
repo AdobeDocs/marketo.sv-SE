@@ -19,7 +19,7 @@ Om du vill lägga till ett formulär på en av dina landningssidor måste det go
 
 Så här godkänner du ett befintligt formulär som är klart att användas.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Under **Formuläråtgärder**, klicka **Godkänn**.
+1. Klicka på **Godkänn** under **Formuläråtgärder**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Den är godkänd och klar att bli [läggs till på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Den är godkänd och klar att läggas till [på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -43,16 +43,16 @@ Så här godkänner du ett befintligt formulär som är klart att användas.
 
 ## Godkänn ett formulär från Redigeraren {#approve-a-form-from-the-editor}
 
-Om du gör ändringar i ett formulär kan du godkänna sidan direkt från redigeraren.
+Om du ändrar ett formulär kan du godkänna sidan direkt från redigeraren.
 
 >[!PREREQUISITES]
 >
 >[Redigera ett formulär](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

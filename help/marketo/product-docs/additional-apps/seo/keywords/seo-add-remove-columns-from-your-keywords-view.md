@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Du kan justera nyckelordsvyn så att de data som du är mest intresserad av visas.
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -23,7 +23,7 @@ Du kan justera nyckelordsvyn så att de data som du är mest intresserad av visa
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
-1. Klicka på kugghjulsikonen.
+1. Klicka på kugghjulet.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
@@ -37,4 +37,4 @@ Du kan justera nyckelordsvyn så att de data som du är mest intresserad av visa
 
    >[!MORELIKETHIS]
    >
-   >[Förstå nyckelord - sammanfattningsvy](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Nyckelord - sammanfattningsvy](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

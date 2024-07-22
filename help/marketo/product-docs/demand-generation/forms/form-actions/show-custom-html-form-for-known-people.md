@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om en besökare är cookie (en känd person som tidigare har angett en e-postadress), varför behöver du då bekymra dig om formuläret? Ge dem bara nedladdningsknappen. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -23,15 +23,15 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Under **Formulärinställningar**, klicka på **Inställningar**.
+1. Klicka på **Inställningar** under **Formulärinställningar**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Ange om **Känd besökare, visa**: till **Anpassad HTML**.
+1. Ange **Känd besökare, visa**: till **Anpassad HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera **Anpassad HTML** som kommer att visas för kända människor.
+1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera det **anpassade HTML** som ska visas för kända personer.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
    >
    >Endast de fyra variablerna ovan kan användas. Alla andra token fungerar inte här.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    >[!NOTE]
    >
-   >Kom ihåg [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+   >Kom ihåg att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
 
    Kakbit! Ta en titt på vad en person skulle se om de kom tillbaka till samma form:
 

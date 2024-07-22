@@ -19,14 +19,14 @@ Om du har en gammal utlösarkampanj som du behöver inaktivera gör du så här:
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Klicka på fliken Schema **[!UICONTROL Deactivate]**.
+1. Klicka på **[!UICONTROL Deactivate]** på fliken Schema.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. Bekräfta genom att klicka **[!UICONTROL Deactivate]**.
+1. Bekräfta genom att klicka på **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->Detta kommer att upphöra _new_ personer kommer in i flödet, men personer i väntesteg eller andra flödessteg fortsätter att gå igenom flödet tills det är klart.
+>Detta hindrar _nya_ personer från att gå in i flödet, men personer som väntar eller något annat flödessteg fortsätter att gå igenom flödet tills det är klart.

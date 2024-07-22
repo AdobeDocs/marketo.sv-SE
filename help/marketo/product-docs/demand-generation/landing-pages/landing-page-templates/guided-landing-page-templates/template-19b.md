@@ -6,14 +6,14 @@ exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Mall 19B {#template-19b}
 
-Högerklicka för att [ladda ned mall 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Högerklicka för att [hämta mall 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -26,6 +26,6 @@ Den här mallen innehåller följande innehåll:
 * Fem karosserisektioner (valfritt)
 * Sidfot (valfritt)
 
-**Högerklicka nedan om du vill hämta den här mallen:**
+**Högerklicka nedan för att hämta den här mallen:**
 
 [Mall 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

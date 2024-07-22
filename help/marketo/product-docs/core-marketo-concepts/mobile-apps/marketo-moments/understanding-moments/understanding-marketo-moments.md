@@ -6,7 +6,7 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och s
 
 >[!NOTE]
 >
->_Få tillgång till mobilappar_ behörighet krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Åtkomst till mobilappar_ krävs. Kontakta din Marketo-administratör för att [uppdatera din roll](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Strömmar {#streams}
 
@@ -33,10 +33,10 @@ Här är de olika strömmarna i ögonblicket.
 >
 >**Definition**
 >
->* [!UICONTROL Moments]: Allt som precis har gått, eller är på väg att springa, hamnar här.
->* [!UICONTROL Favorites]: Allt du gör med en favorit hamnar här inne.
->* [!UICONTROL Later]: Allt som sker senare än så här kommer in här.
->* [!UICONTROL Done]: Allt som har körts färdigt eller du har markerat som gjort hamnar här.
+>* [!UICONTROL Moments]: Allt som precis har körts, eller är på väg att köras, hamnar här.
+>* [!UICONTROL Favorites]: Allt du gör med en favorit hamnar här.
+>* [!UICONTROL Later]: Allt som äger rum senare än det här ögonblicket anges här.
+>* [!UICONTROL Done]: Allt som har körts eller du har markerat som gjort hamnar här.
 
 Okej, nu när vi har det ur vägen kan vi ta en titt på Marketo Moments på en telefon!
 
@@ -48,7 +48,7 @@ Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt 
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Hallå - det här mejlet skickas nu! Och här är statistik också. Dela med dig.
+**[!UICONTROL Heart-beat]** - Hej! Det här e-postmeddelandet levereras nu! Och här är statistik också. Dela med dig.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -58,7 +58,7 @@ Marketo Moments ger dig tre olika kort som du kan använda för att följa ditt 
 
 ## Momentström {#moments-stream}
 
-När du först öppnar appen eller trycker **[!UICONTROL Moments]** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
+När du först öppnar appen eller trycker på **[!UICONTROL Moments]** på menyn visas relevanta kort först. Var och en innehåller information om det specifika marknadsföringsinitiativet och dess övergripande resultat.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Bra! Nu kan du få något att hända genom att trycka på:
 >
 >**Definition**
 >
->* [!UICONTROL Favorite]: Det är enkelt att lägga märke till de saker som kommer i rätt tid och som är viktigast om du gör dem till favoriter.
+>* [!UICONTROL Favorite]: Det är enkelt att vara uppmärksam på de saker som är mest aktuella och viktiga om du gör dem till favoriter.
 >* [!UICONTROL Done]: Klart tar bort det från vyn Marketo Moments (men lämnar det i Marketo, säkert och ljudformat).
 >* [!UICONTROL Share]: Skicka en bild för att motivera eller gratulera ditt team.
->* [!UICONTROL Send Sample] (Endast e-post): Använd detta om du vill att andra ska kunna se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
->* [!UICONTROL Preview Email] (Endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
+>* [!UICONTROL Send Sample] (endast e-post): Använd detta om du vill att andra ska kunna se hur dina e-postmeddelanden ser ut innan du skickar ut dem.
+>* [!UICONTROL Preview Email] (endast e-post): Det är alltid en bra idé att checka ut dina e-postmeddelanden i förväg.
 
 ## Senare stunder {#later-moments}
 
@@ -134,7 +134,7 @@ Smarta kampanjkort är en enda kampanjserie. Ett nytt kort visas varje gång den
 
 ## Bekräfta eller avbryta en åtgärd {#confirm-or-cancel-an-action}
 
-Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ändrar dig, bara tryck **[!UICONTROL Never Mind]**.
+Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du ångrar dig kan du bara trycka på **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,13 +143,13 @@ Under alla steg på vägen kan du bekräfta eller avbryta en åtgärd. Om du än
 Marketo Moments har stöd för följande operativsystemversioner:
 
 * [!DNL Apple] iOS 8.0 och senare.
-* [!DNL Android] version 4.1 och senare (Jellybean and up).
+* [!DNL Android] version 4.1 och senare (Jellybean och up).
 
 Vill du lära dig mer?
 
 >[!MORELIKETHIS]
 >
->* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Om e-postprogramkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Förstå smarta kampanjkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Förstå analyskort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Om smarta kampanjkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

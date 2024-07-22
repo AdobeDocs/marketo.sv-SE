@@ -7,7 +7,7 @@ exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
 
    ![](assets/import-contacts-via-csv-1.png)
 
-1. Klicka **Gruppåtgärder** och markera **Importera CSV**.
+1. Klicka på **Gruppera åtgärder** och välj **Importera CSV**.
 
    ![](assets/import-contacts-via-csv-2.png)
 
-1. Klicka **Bläddra**.
+1. Klicka på **Bläddra**.
 
    ![](assets/import-contacts-via-csv-3.png)
 
@@ -34,10 +34,10 @@ Det är viktigt att ha kontakter på personsidan eftersom det är där vi går f
    >
    >Grupper är begränsade till 1 000 kontakter.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/import-contacts-via-csv-4.png)
 
-1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka **Nästa** när det är klart.
+1. Mappa kolumnerna i CSV-filen till deras respektive fält i Sales Connect. Klicka på **Nästa** när du är klar.
 
    ![](assets/import-contacts-via-csv-5.png)

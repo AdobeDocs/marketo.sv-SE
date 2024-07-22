@@ -6,14 +6,14 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # SFDC-synkronisering: Leadkö {#sfdc-sync-lead-queue}
 
-Med Marketo Engage kan du lägga till personer i [Salesforce-ledköer](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} för att hjälpa till med leaddistributionen. Här är detaljerna.
+I Marketo Engage kan du lägga till personer i [Salesforce-ledsköer](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} för att hjälpa till med leaddistributionen. Här är detaljerna.
 
 ## Hur tilldelar man en person till en kö i Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 

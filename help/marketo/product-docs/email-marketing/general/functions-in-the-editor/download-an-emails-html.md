@@ -15,7 +15,7 @@ ht-degree: 0%
 
 För säkerhetskopiering och andra syften kan du ladda ned HTML i ett e-postmeddelande från Marketo.
 
-1. Leta reda på e-postmeddelandet och markera det. I **E-poståtgärder** nedrullningsbar klickning **Hämta HTML**.
+1. Leta reda på e-postmeddelandet och markera det. I listrutan **E-poståtgärder** klickar du på **Hämta HTML**.
 
    ![](assets/one-4.png)
 

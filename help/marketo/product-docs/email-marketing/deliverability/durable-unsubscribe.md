@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo har förbättrat beteendet för att avbryta prenumerationen så att den blir&quot;hållbar&quot;. Vi har lagt till en huvudstatus för e-post, som är skild från flaggan för att avbryta prenumerationen som visas på personinformationsposten.
 
-Om flaggan för att avbryta prenumerationen är inställd på false uppdateras huvudens e-poststatus och ändringen sprids till andra personer med samma e-postadress. Om en person tas bort och återskapas, eller om en ny post skapas med samma e-postadress, kommer flaggan för att avbryta prenumerationen att **not** skrivas över.
+Om flaggan för att avbryta prenumerationen är inställd på false uppdateras huvudens e-poststatus och ändringen sprids till andra personer med samma e-postadress. Om en person tas bort och återskapas, eller om en ny post skapas med samma e-postadress, skrivs flaggan för att avbryta prenumerationen **inte** över.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Om flaggan för att avbryta prenumerationen är inställd på false uppdateras h
 
 Det finns flera sätt att återprenumerera på en person.
 
-I Salesforce **clear** e-postavanmälningsfältet på lead/kontakts post. Detta synkroniseras med Marketo.
+I Salesforce **rensar** fältet E-posta avanmälan i lead/kontakts post. Detta synkroniseras med Marketo.
 
 ![](assets/one.png)
 
-I MARKETO **clear** i rutan för att avbryta prenumerationen på fliken Info i personens post.
+I Marketo **tar du bort** den avbrutna prenumerationsrutan på fliken Info för personens post.
 
 ![](assets/two.png)
 
-Kör en **Ändra datavärde** som visas nedan på en eller flera personer.
+Kör ett flödessteg för **Ändra datavärde** så som visas nedan på en eller flera personer.
 
 ![](assets/three.png)
 
@@ -55,4 +55,4 @@ På samma sätt som ett avbrutet abonnemang skulle leda till att alla personer m
 
 >[!MORELIKETHIS]
 >
->[Så här säger du upp prenumerationen](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[Om att avbryta prenumerationen](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

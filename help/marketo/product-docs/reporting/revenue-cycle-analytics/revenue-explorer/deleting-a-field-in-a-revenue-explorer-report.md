@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ibland kan du dra fel fält till rapporten. Så här tar du bort den:
 
-1. Dra fältet som du vill ta bort till **papperskorg** ikonen längst ned till höger i rapporten.
+1. Dra fältet som du vill ta bort till ikonen **papperskorgen** längst ned till höger i rapporten.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ Ibland kan du dra fel fält till rapporten. Så här tar du bort den:
 
 >[!MORELIKETHIS]
 >
->[Spara en rapport i skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Sparar en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

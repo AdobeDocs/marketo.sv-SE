@@ -65,7 +65,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
   </tr> 
   <tr> 
    <td>E-poststatus</td> 
-   <td>Status som e-postmeddelandet är i. Statusen är: Utkast, schemalagd, Pågår, Skräppost, Begränsad, Misslyckad, Skickat. Skickade e-postmeddelanden visar en aktivitetsström som visar hur många visningar, klickningar och svar som har gjorts i det e-postmeddelandet.</td> 
+   <td>Status som e-postmeddelandet är i. Status: Utkast, Schemalagd, Pågår, Skräppost, Avbruten, Misslyckad, Skickad. Skickade e-postmeddelanden visar en aktivitetsström som visar hur många visningar, klickningar och svar som har gjorts i det e-postmeddelandet.</td> 
   </tr> 
   <tr> 
    <td>Skapad den</td> 
@@ -84,7 +84,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
    <td>E-postmottagarens senaste engagemang (t.ex. visa, klicka eller svara).</td> 
   </tr> 
   <tr> 
-   <td>Skickat den</td> 
+   <td>Skickat</td> 
    <td>Det datum då e-postmeddelandet skickades.</td> 
   </tr> 
   <tr> 
@@ -101,7 +101,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
   </tr> 
   <tr> 
    <td>E-poståtgärd</td> 
-   <td>Snabbåtgärdsknappar som kan användas för att utföra åtgärder i e-postmeddelandet. Beroende på status för e-postmeddelandet kan följande åtgärder vara tillgängliga: Arkivera, Slutförd, Ta bort, Försök skicka igen, Avarkivera.</td> 
+   <td>Snabbåtgärdsknappar som kan användas för att utföra åtgärder i e-postmeddelandet. Beroende på status för e-postmeddelandet kan följande åtgärder vara tillgängliga: Arkiv, Slutfört, Ta bort, Försök skicka igen, Avarkivera.</td> 
   </tr> 
   <tr> 
    <td>Typ av aktivitet</td> 
@@ -122,11 +122,11 @@ Du kan konfigurera layouten genom att följa dessa steg.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Välj **E-post** -avsnitt.
+1. Markera avsnittet **E-post**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Klicka på konfigurationsknappen. Du kan bland annat: välja hur många rader du vill ha, välja vilka fält som ska visas och markera om du vill att gruppmeddelanden ska samlas i ett enda objekt i rutnätet (eller om du vill att alla e-postmeddelanden som är en del av ett e-postrutnät ska visas som ett enda objekt).
+1. Klicka på knappen Konfiguration. Dina alternativ är bland annat: välja hur många rader du vill ha, välja vilka fält du vill ska visas och välja om du vill att gruppmeddelanden ska samlas i ett enda objekt i rutnätet (eller om du vill att alla e-postmeddelanden som är en del av ett e-postrutnät ska visas som ett enda objekt).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

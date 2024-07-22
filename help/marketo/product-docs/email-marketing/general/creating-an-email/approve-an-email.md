@@ -17,7 +17,7 @@ E-postmeddelanden börjar i utkastläge. De är vanligtvis inte tillgängliga i 
 
 ## Godkänn den med menyn E-poståtgärder {#approve-it-using-the-email-actions-menu}
 
-1. Sök efter och välj e-post, klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn**.
+1. Sök efter och välj e-post, klicka på listrutan **E-poståtgärder** och välj **Godkänn**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ E-postmeddelanden börjar i utkastläge. De är vanligtvis inte tillgängliga i 
 
 ## Godkänn din e-postadress i e-postredigeraren {#approve-your-email-in-the-email-editor}
 
-1. Klicka på **E-poståtgärder** nedrullningsbar meny och välj **Godkänn och stäng**.
+1. Klicka på listrutan **E-poståtgärder** i e-postmeddelandet och välj **Godkänn och stäng**.
 
    ![](assets/three.png)
 

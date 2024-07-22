@@ -1,8 +1,8 @@
 ---
 description: Fliken Inställningar - Marketo Docs - produktdokumentation
 title: Fliken Inställningar
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -15,9 +15,9 @@ Fliken Inställningar är startsida för alla kampanjinställningar, inklusive s
 
 Den innehåller följande tre avsnitt.
 
-* **Kvalificeringsregler**: Avgör hur många gånger varje person kan gå igenom det smarta kampanjflödet.
+* **Kvalificeringsregler**: Avgör hur många gånger varje person kan köra via det smarta kampanjflödet.
 
-* **Enskilda körningar**: Kan användas för att schemalägga enstaka körningar, antingen direkt eller i framtiden.
+* **Enskilda körningar**: Kan användas för att schemalägga enstaka körningar antingen direkt eller i framtiden.
 
 * **Återkommande**: Används för att schemalägga en upprepning varje dag, vecka eller månad.
 

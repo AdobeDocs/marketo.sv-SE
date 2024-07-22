@@ -16,7 +16,7 @@ Använd Campaign Inspector för att visa/söka efter alla smarta kampanjer på e
 
 ## Aktivera Campaign Inspector {#enable-campaign-inspector}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
@@ -24,11 +24,11 @@ Använd Campaign Inspector för att visa/söka efter alla smarta kampanjer på e
 
    ![](assets/campaign-inspector-2.png)
 
-1. Klicka **[!UICONTROL Edit]** bredvid Campaign Inspector.
+1. Klicka på **[!UICONTROL Edit]** bredvid Campaign Inspector.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Välj **[!UICONTROL Enabled]** kryssruta och klicka **[!UICONTROL Save]**.
+1. Markera kryssrutan **[!UICONTROL Enabled]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ När du har aktiverat fliken Campaign Inspector finns den bredvid fliken Marketi
 
 ![](assets/campaign-inspector-5.png)
 
-Klicka på **[!UICONTROL Active Campaigns]** listruta för att filtrera efter olika typer av kampanjer.
+Klicka på listrutan **[!UICONTROL Active Campaigns]** om du vill filtrera efter olika typer av kampanjer.
 
 ![](assets/campaign-inspector-6.png)
 

@@ -2,7 +2,8 @@
 description: Lär dig hur du skapar och implementerar mallar i interaktiva webbinarier.
 title: Mallar för interaktiva webbinarier
 feature: Interactive Webinars
-source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 1%
@@ -15,7 +16,7 @@ Skapa lättanvända mallar i interaktiva webbinarier för att producera innehål
 
 ## Skapa en mall {#create-a-template}
 
-1. Klicka på Marketo Engage **[!UICONTROL Design Studio]**.
+1. Klicka på **[!UICONTROL Design Studio]** i Marketo Engage.
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
@@ -27,11 +28,11 @@ Skapa lättanvända mallar i interaktiva webbinarier för att producera innehål
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
-1. En ny flik öppnas. Klicka **Skapa nytt**.
+1. En ny flik öppnas. Klicka på **Skapa ny**.
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. Välj önskad mall på fliken Standardmallar och klicka på **Nästa**.
+1. Välj önskad mall på fliken Standardmallar och klicka sedan på **Nästa**.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
@@ -39,11 +40,11 @@ Skapa lättanvända mallar i interaktiva webbinarier för att producera innehål
    >
    >Organisationsmallar är mallar som du eller ditt team redan har skapat.
 
-1. Ange namn och beskrivning. Klicka **Spara och öppna**.
+1. Ange namn och beskrivning. Klicka på **Spara och öppna**.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. En ny flik öppnas. Om du vill redigera/spara mallen måste du ange ett rum. Eftersom detta inte är ett verkligt webbinarium behöver du inte göra några ljud-/videobildval. Klicka **Ange rum**.
+1. En ny flik öppnas. Om du vill redigera/spara mallen måste du ange ett rum. Eftersom detta inte är ett verkligt webbinarium behöver du inte göra några ljud-/videobildval. Klicka på **Ange rum**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
@@ -51,11 +52,11 @@ Skapa lättanvända mallar i interaktiva webbinarier för att producera innehål
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
-1. Välj **Avsluta session för alla**.
+1. Välj **Avsluta session för alla** på menyn Avsluta överst till höger.
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. Klicka **Avsluta nu**.
+1. Klicka på **Avsluta nu**.
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -65,7 +66,7 @@ Mallen sparas automatiskt.
 
 Följ stegen nedan för att redigera en befintlig mall.
 
-1. Klicka på Marketo Engage **[!UICONTROL Design Studio]**.
+1. Klicka på **[!UICONTROL Design Studio]** i Marketo Engage.
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
@@ -81,7 +82,7 @@ Följ stegen nedan för att redigera en befintlig mall.
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
-1. En ny flik öppnas. Om du vill redigera mallen måste du ange ett rum. Eftersom detta inte är ett verkligt webbinarium behöver du inte göra några ljud-/videobildval. Klicka **Ange rum**.
+1. En ny flik öppnas. Om du vill redigera mallen måste du ange ett rum. Eftersom detta inte är ett verkligt webbinarium behöver du inte göra några ljud-/videobildval. Klicka på **Ange rum**.
 
    ![](assets/templates-for-interactive-webinars-15.png)
 
@@ -89,11 +90,11 @@ Följ stegen nedan för att redigera en befintlig mall.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. Välj **Avsluta session för alla**.
+1. Välj **Avsluta session för alla** på menyn Avsluta överst till höger.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. Klicka **Avsluta nu**.
+1. Klicka på **Avsluta nu**.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

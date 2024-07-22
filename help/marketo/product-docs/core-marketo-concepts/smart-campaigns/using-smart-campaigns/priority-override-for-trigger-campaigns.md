@@ -5,7 +5,7 @@ exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 
 >[!NOTE]
 >
->Den här funktionen är endast tillgänglig för utlösarkampanjer och för användare som har tilldelats [Behörighet för att redigera utlösarkampanjprioritet](#grant-priority-override-access).
+>Den här funktionen är bara tillgänglig för utlösarkampanjer och för användare som har beviljats behörigheten [&quot;Redigera utlösarkampanjprioritet&quot; ](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -28,11 +28,11 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 >
 >Endast administratörer eller användare med administratörsansvar bör ha åtkomst till åsidosättande av kampanjprioritet.
 
-1. I [!UICONTROL Admin] område, klicka **[!UICONTROL Users & Roles]**.
+1. Klicka på **[!UICONTROL Users & Roles]** i området [!UICONTROL Admin].
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. Klicka på **[!UICONTROL Roles]** väljer du den användare som du vill ge åtkomst till och klickar sedan på **[!UICONTROL Edit Role]**.
+1. Klicka på fliken **[!UICONTROL Roles]**, markera den användare som du vill ge åtkomst till och klicka sedan på **[!UICONTROL Edit Role]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
@@ -46,7 +46,7 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Klicka på **[!UICONTROL Override Campaign Priority]** skjutreglage som ska aktiveras. Välj en ny prioritetsnivå och klicka på **[!UICONTROL Confirm]**.
+1. Klicka på skjutreglaget **[!UICONTROL Override Campaign Priority]** för att aktivera. Välj en ny prioritetsnivå och klicka på **[!UICONTROL Confirm]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 

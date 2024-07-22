@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Du kan byta namn på ett anpassat fält i Marketo, men det finns en hake: du måste ta bort all användning i systemet innan du gör det. Detta inkluderar formulär, smarta listor och smarta kampanjer.
+>Du kan byta namn på ett anpassat fält i Marketo, men det finns en catch: du måste ta bort all användning i systemet innan du gör det. Detta inkluderar formulär, smarta listor och smarta kampanjer.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klicka på **[!UICONTROL Used By]** om du vill söka efter resurser som refererar till det här fältet.
+   >Klicka på länken **[!UICONTROL Used By]** för att hitta resurser som refererar till det här fältet.
 
-1. Byt namn på fältet och klicka **[!UICONTROL Save]**.
+1. Byt namn på fältet och klicka på **[!UICONTROL Save]**.
 
    ![](assets/rename-a-field-4.png)
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Du kan lägga till personer i en lista med [Importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i flödessteget Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>Du kan lägga till personer i en lista med hjälp av [Importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) eller [Lägg till i listflödessteget](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Med det här filtret kan du hämta medlemmar från en annan lista genom att referera till den i reglerna för smarta listor. Så här gör du.
 
-1. Välj en smart lista och klicka på **[!UICONTROL Smart List]** -fliken.
+1. Välj en smart lista och klicka på fliken **[!UICONTROL Smart List]**.
 
    ![](assets/smartlist-sltab.png)
 
-1. På den högra filterpanelen söker du efter och drar **[!UICONTROL Member of List]** filter på arbetsytan.
+1. På den högra filterpanelen söker du efter och drar filtret **[!UICONTROL Member of List]** till arbetsytan.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
@@ -31,4 +31,4 @@ Med det här filtret kan du hämta medlemmar från en annan lista genom att refe
 
    ![](assets/memberoflist.png)
 
-   Klar! I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.
+   Klart! I det här exemplet kommer den smarta listan nu endast att rikta sig till medlemmar i den listan och utvärdera dem baserat på andra regler som du inkluderar.

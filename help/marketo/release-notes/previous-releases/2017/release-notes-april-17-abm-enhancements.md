@@ -6,14 +6,14 @@ exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Förbättringar av ABM i april 17 {#release-notes-april-abm-enhancements}
+# Versionsinformation: 17 april-förbättringar av ABM {#release-notes-april-abm-enhancements}
 
-Följande funktioner ingår i den förbättrade versionen från april 2017 av ABM. Se om det finns funktioner i din Marketo-utgåva.
+Följande funktioner ingår i den förbättrade versionen från april 17. Se om det finns funktioner i Marketo Edition.
 
 ## Synkronisering av CRM-mappade standardfält {#synching-of-crm-mapped-standard-fields}
 

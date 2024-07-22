@@ -17,21 +17,21 @@ Om du vill få automatiska uppdateringar av en grundläggande rapport eller dela
 
 >[!NOTE]
 >
->Information om rapportprenumerationer för Intäktscykel Explorer finns i [Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Information om rapportprenumerationer i Intäktscykelutforskaren finns i [Prenumerera på en Intäktsutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Välj rapporten från navigeringsträdet och klicka på **Prenumerationer** -fliken.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Prenumerationer**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Du kan även prenumerera på rapporter från **Analyser** -fliken.
+   >Du kan också prenumerera på rapporter från fliken **Analytics**.
 
-1. Klicka **Ny rapportprenumeration**.
+1. Klicka på **Ny rapportprenumeration**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +49,4 @@ Om du vill få automatiska uppdateringar av en grundläggande rapport eller dela
 
    >[!MORELIKETHIS]
    >
-   >Lär dig hur [hantera alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
+   >Lär dig hur du [hanterar alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.

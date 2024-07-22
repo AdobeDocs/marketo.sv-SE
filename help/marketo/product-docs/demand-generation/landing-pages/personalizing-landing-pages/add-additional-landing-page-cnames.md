@@ -21,19 +21,19 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 >[!TIP]
 >
->**Samma toppnivådomän - bra! Cookies delas**.<br/> **go**.mincompany.com > **info**.mincompany.com
+>**Samma toppnivådomän - bra! Cookies delas**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**Olika toppnivådomäner - Felaktiga! Cookies är _not_ delad**.<br/> gå.**mycompany**.com > go.**mynewcompany**.com
+>**Olika toppnivådomäner - Felaktiga! Cookies är _inte_ delade**.<br/> kör.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **Administratör** område.
+1. Gå till området **Admin**.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Klicka **Mitt konto**.
+1. Klicka på **Mitt konto**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
 ## Skicka begäran till IT {#send-request-to-it}
 
-1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfri CNAME och [Munchkin-ID] med texten från föregående steg).
+1. Be din IT-avdelning att installera följande CNAME: (Ersätt ordet [CNAME] med valfritt CNAME och [Munchkin ID] med texten från föregående steg).
 
-   [CNAME].YourCompany.com > [Munchkin-ID].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Lägg till en ny CNAME {#add-a-new-cname}
 
-1. När IT-avdelningen har skapat CNAME går du till **Administratör** område.
+1. Gå till **Admin** när IT-avdelningen har skapat CNAME.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Klicka **Landningssidor**.
+1. Klicka på **Landningssidor**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klicka **Nytt** välj **Nytt domänalias**.
+1. Klicka på **Nytt** och välj sedan **Nytt domänalias**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Ange **Domänalias.** The **Standardsida** visas om besökaren inte anger en URL. Ange vart de ska gå i så fall.
+1. Ange ditt **domänalias.** **Standardsidan** visas om besökaren inte anger en URL. Ange vart de ska gå i så fall.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Ange **Standardsida** och klicka **Skapa**.
+1. Ange din **standardsida** och klicka på **Skapa**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

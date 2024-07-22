@@ -6,7 +6,7 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicka **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -31,7 +31,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/location-drag-hand.jpg)
 
-1. Välj ett land att lägga till i listrutan. Välj **Amerikas förenta stater**.
+1. Välj ett land att lägga till i listrutan. Välj **USA**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -49,7 +49,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    Du har nu skapat ett grundläggande segment för alla potentiella kunder som besöker din webbplats från USA och finanssektorn.
 
-1. Klicka **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att gå till sidan Campaigns.
+1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att gå till sidan Kampanjer.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

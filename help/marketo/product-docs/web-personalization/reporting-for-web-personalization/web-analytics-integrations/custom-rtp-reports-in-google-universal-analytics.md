@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504218
-description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs - Produktdokumentation
+description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs - produktdokumentation
 title: Anpassade RTP-rapporter i Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -26,27 +26,27 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. Logga in på Google Analytics.
 
-1. Klicka på **Anpassning** i den övre menyn.
+1. Klicka på **Anpassning** på den översta menyn.
 
-1. Klicka **+Ny anpassad rapport**.
+1. Klicka på **+Ny anpassad rapport**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
-1. Namnge rapporten **RTP B2B-rapport**.
+1. Namnge rapporten **RTP B2B Report**.
 
-1. Namnge den första fliken **Bransch**.
+1. Ge den första fliken namnet **Bransch**.
 
 >[!NOTE]
 >
->Du kommer att **Duplicera den här fliken** och skapa andra liknande - steg 5)
+>Du **Duplicerar den här fliken** och skapar ytterligare liknande flikar - steg 5)
 
-1. Välj **Utforskaren** rapporttyp.
+1. Välj rapporttypen **Utforskaren**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. I **Måttgrupper** väljer du de mätvärden som är relevanta för ditt företag.
+1. I avsnittet **Måttgrupper** väljer du de mått som är relevanta för ditt företag.
 
    a. Vi rekommenderar följande:
 
@@ -62,7 +62,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. I **Dimension - nedladdningar** anger de relevanta måtten för varje flik enligt nedan.
+1. I avsnittet **Detaljerade Dimensioner** anger du de relevanta dimensionerna för varje flik enligt nedan.
 
 <table> 
  <thead> 
@@ -103,21 +103,21 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. Ange inga filter och ställ in den här rapporten som tillgänglig för **Alla webbplatsdata** (eller ändra om det är relevant för det specifika Analytics-kontot).
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-engagemangsrapport {#rtp-engagement-report}
 
-1. Namnge rapporten **RTP-engagemangsrapport**.
+1. Namnge rapporten **RTP Engagement Report**.
 
-1. Ange det första fliknamnet till **Alla engagemang**.
+1. Ange det första fliknamnet som **All Engagement**.
 
 >[!NOTE]
 >
 >Du kommer att duplicera den här fliken och skapa andra liknande - steg 5)
 
-1. Välj **Utforskaren** rapporttyp.
+1. Välj rapporttypen **Utforskaren**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -127,15 +127,15 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. Duplicera den här fliken fyra gånger och namnge dem:
 
-   1. **Alla engagemang**
-   1. **Engagemang per bransch**
+   1. **All engagemang**
+   1. **Engagement by Industry**
    1. **Engagemang per grupp**
    1. **Engagemang efter kategori**
-   1. **Åtagande av ABM**
+   1. **Engagemang av ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. I **Dimension - nedladdningar** anger du de relevanta måtten för varje flik enligt nedan:
+1. I avsnittet **Detaljerade Dimensioner** anger du de relevanta dimensionerna för varje flik enligt nedan:
 
 <table> 
  <thead> 
@@ -197,7 +197,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
     </div></th> 
    <th colspan="1"> 
     <div>
-      Kommentarer 
+      Kommentar 
     </div></th> 
   </tr> 
  </thead> 
@@ -219,11 +219,11 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
  </tbody> 
 </table>
 
-1. Ange att den här rapporten ska vara tillgänglig för **Alla webbplatsdata** (eller ändra vid behov).
+1. Ange att den här rapporten ska vara tillgänglig för **alla webbplatsdata** (eller ändra om det behövs).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

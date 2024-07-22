@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >**Administratörsbehörigheter krävs**
 
-Du kan skapa egna [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för dina program och tilldela värden till taggen.
+Du kan skapa anpassade [taggar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) för dina program och tilldela värden till taggen.
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ Du kan skapa egna [taggar](/help/marketo/product-docs/core-marketo-concepts/prog
 >
 >Programtagg: Målgrupp
 >
->Programtaggvärde: SMB, Enterprise, Mid Market
+>Programmärkesvärde: SMB, Enterprise, Mid Market
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
@@ -51,7 +51,7 @@ Du kan skapa egna [taggar](/help/marketo/product-docs/core-marketo-concepts/prog
    >
    >Du kan välja flera programtyper. När ett nytt program skapas blir den här taggtypen tillgänglig.
 
-1. Kontrollera **[!UICONTROL Required]** och klicka **[!UICONTROL Create]**.
+1. Markera **[!UICONTROL Required]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 

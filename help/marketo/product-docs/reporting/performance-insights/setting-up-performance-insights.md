@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Följ stegen nedan för att konfigurera MPI.
 
 ## Inställningar för affärsmöjlighet {#opportunity-setup}
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicka **Analys av intäktscykler**.
+1. Klicka på **Intäktscykelanalys**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Om du inte har RCA måste du välja **Programanalys** för steg 2.
+   >Om du inte har någon RCA måste du välja **Programanalys** för steg 2.
 
-1. Klicka på under Attribution **Redigera**.
+1. Klicka på **Redigera** under Attribution.
 
    ![](assets/three-1.png)
 
@@ -56,7 +56,7 @@ Följ stegen nedan för att konfigurera MPI.
 
 Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt eller med program-API:t. I det här exemplet gör vi det manuellt.
 
-1. Klicka **Marknadsföringsaktiviteter**.
+1. Klicka på **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
@@ -64,15 +64,15 @@ Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt el
 
    ![](assets/select-program.png)
 
-1. Klicka på **Inställningar** -fliken.
+1. Klicka på fliken **Inställningar**.
 
    ![](assets/setup-tab.png)
 
-1. Dra **Periodkostnad** på arbetsytan.
+1. Dra **Periodkostnad** till arbetsytan.
 
    ![](assets/period-cost.png)
 
-1. Ställ in programmånaden för minst 12 månader sedan och klicka på **OK**.
+1. Ange programmånaden för minst 12 månader sedan och klicka på **OK**.
 
    ![](assets/set-period.png)
 
@@ -82,15 +82,15 @@ Uppdatera programkostnaderna i minst 12 månader. Du kan göra detta manuellt el
 
 Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i analysen. Ange analysbeteende (normal, inkluderande, operativ).
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/admin.png)
 
-1. Klicka **Taggar**.
+1. Klicka på **Taggar**.
 
    ![](assets/tags.png)
 
-1. Klicka på **+** för att expandera kanallistan.
+1. Klicka på **+** för att utöka kanallistan.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i an
 
    ![](assets/channel-click.png)
 
-1. Klicka på **Analysbeteende** och välj önskat beteende.
+1. Klicka på listrutan **Analysbeteende** och välj önskat beteende.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Granska sedan analysbeteendet för att ange om en viss kanal ska inkluderas i an
 
    ![](assets/success.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/save.png)
 

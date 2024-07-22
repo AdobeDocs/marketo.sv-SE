@@ -6,7 +6,7 @@ exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På så sätt kan du hålla reda på alla punkter på dagordningen som inte kommer från Marketo och som påverkar programmet.
 
-1. Gå till **[!UICONTROL Admin]** och klicka **[!UICONTROL Tags]**.
+1. Gå till avsnittet **[!UICONTROL Admin]** och klicka på **[!UICONTROL Tags]**.
 
    ![](assets/admintags.png)
 
@@ -23,7 +23,7 @@ Du kan skapa anpassade anmälningstyper som ska användas i programschemavy. På
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL Entry Type]**.
+1. Klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL Entry Type]**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 

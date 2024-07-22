@@ -5,7 +5,7 @@ exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -36,13 +36,13 @@ Vi tilldelar automatiskt en källa till varje kontakt som matas in i databasen. 
 
 ## Behörighet {#authorization}
 
-I enlighet med [GDPR](https://eugdpr.org/)använder du behörigheten för att ange hur du fick behörighet att interagera med dessa kontakter.
+I enlighet med [GDPR](https://eugdpr.org/) ska du använda behörigheten för att ange hur du har fått behörighet att interagera med dessa kontakter.
 
 ![](assets/bulk-actions-on-people-4.png)
 
 ## Avbeställ {#unsubscribe}
 
-Avbeställ massutskick av kontakter som inte längre vill få meddelanden från dig.
+Avbeställ massutskick av kontakter som inte längre vill få korrespondens från dig.
 
 ![](assets/bulk-actions-on-people-5.png)
 

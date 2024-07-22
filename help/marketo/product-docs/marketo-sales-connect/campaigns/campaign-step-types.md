@@ -23,7 +23,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 ![](assets/email.png)
 
-| **Använda en mall** | Välj en av dina befintliga mallar |
+| **Använd en mall** | Välj en av dina befintliga mallar |
 |---|---|
 | **Spara som mall** | Spara e-postmeddelandet som du just komponerade som en ny mall |
 | **Lägg till innehåll** | Överför en fil till vår server och få en URL (som pekar på innehållet) som kan spåras i ditt e-postmeddelande |
@@ -31,7 +31,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 >[!TIP]
 >
->Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Lär dig mer om dina [sändningsalternativ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Utlysning {#call}
 

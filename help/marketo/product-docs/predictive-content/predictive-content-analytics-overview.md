@@ -21,11 +21,11 @@ Använd innehållsanalys för att få ytterligare insikter i ert befintliga inne
 
 ## Översikt {#overview}
 
-På sidan Sammanfattning klickar du på **Analyser**.
+Klicka på **Analys** på sammanfattningssidan.
 
 ![](assets/one.png)
 
-Analyserna omfattar flera avsnitt: Top Content by Views, Top Content by Conversion Rate, Trending Content, Suggested Content, and Content.
+Analyserna omfattar flera avsnitt: Övre innehåll efter vy, Övre innehåll efter konverteringsgrad, Trending Content, Suggested Content och Content.
 
 ![](assets/new-2.png)
 
@@ -61,11 +61,11 @@ Visar det översta konverteringsinnehållet efter konverteringsgrad för det val
 >
 >**Definition**
 >
->**Konverteringsgrad**: En procentandel som beräknas genom direktkonverteringar dividerat med klick.
+>**Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick.
 
 ## Trendinnehåll {#trending-content}
 
-Visar hur populärare en del av innehållet har blivit genom att titta på den senaste tvåveckorsökningen av visningar jämfört med samma föregående period.
+Visar en ökning av populariteten för en del av innehållet genom att titta på den senaste tvåveckorsökningen av visningar jämfört med samma föregående period.
 
 ![](assets/new-8.png)
 
@@ -81,13 +81,13 @@ Hovra över en bild i Föreslaget innehåll för att visa tillgängliga alternat
 
 >[!NOTE]
 >
->Ser du ikonerna längst ned? Vänster till höger: Visa innehåll, Exportera till CSV, Godkänn innehåll.
+>Ser du ikonerna längst ned? Vänster till höger är de: Visa innehåll, Exportera till CSV och Godkänn innehåll.
 
 ## Innehåll {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Sök efter önskat innehåll och klicka på det för att se ytterligare information, bland annat: de besökare som tittar på den, nya eller anonyma, de platser besökarna kom ifrån när de tittade på innehållet och de branscher de kom ifrån.
+Sök efter önskat innehåll och klicka på det för att se ytterligare information, bland annat: besökarna som tittar på det, ny kontra att återvända, kända och anonyma, de viktigaste platserna som besökarna kom från när de tittade på innehållet och de ledande branscherna de kommer från.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 

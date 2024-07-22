@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar till användarna när du bjuder in dem att konfigurera MSI i Outlook.
 
-1. I Min Marketo klickar du på **Administratör** och sedan **Försäljningsinsikter**.
+1. I My Marketo klickar du på **Admin** och sedan på **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klicka på **E-posttillägg** -fliken.
+1. Klicka på fliken **E-posttillägg**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klicka **Ange kontakt för plugin-program**.
+1. Klicka på **Ange kontakt för plugin-program**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Du kan ange vilka kontakter som ska visas i det e-postmeddelande som du skickar 
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

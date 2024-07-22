@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # E-postrapport, kampanjprestanda i flera arbetsytor {#report-email-campaign-performance-across-workspaces}
 
-Aktivera Global Reporting om du vill inkludera data från alla dina Marketo [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i [E-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) och [E-postlänksprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporter.
+Aktivera Global rapportering om du vill inkludera data från alla dina Marketo [arbetsytor](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) i dina [e-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)- och [e-postlänksprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) -rapporter.
 
-1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
+1. Gå till **Analytics** (eller **Marketing Activity**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,7 +23,7 @@ Aktivera Global Reporting om du vill inkludera data från alla dina Marketo [arb
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klicka på **Inställningar** och dubbelklicka **Global rapportering**.
+1. Klicka på fliken **Inställningar** och dubbelklicka på **Global rapportering**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -31,10 +31,10 @@ Aktivera Global Reporting om du vill inkludera data från alla dina Marketo [arb
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Det är allt! Klicka på **Rapport** om du vill visa data från alla arbetsytor.
+1. Det är allt! Klicka på fliken **Rapport** om du vill visa data från alla dina arbetsytor.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[Filtrera resurser i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[Filtrera Assets i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

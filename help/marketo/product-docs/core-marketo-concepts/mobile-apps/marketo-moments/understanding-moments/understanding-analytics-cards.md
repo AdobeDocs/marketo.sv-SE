@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ I det här exemplet visar rött att värdet har minskat över det valda datumint
 
 ## Förvärvade leads {#acquired-leads}
 
-The **Förvärvade leads** visas en trendrapport som visar antalet nya leads per månad.
+Kortet **Inhämtade leads** visar en trendrapport som visar antalet nya leads per månad.
 
 >[!NOTE]
 >
@@ -51,18 +51,18 @@ The **Förvärvade leads** visas en trendrapport som visar antalet nya leads per
 
 ## Nya leads {#new-leads}
 
-The **[!UICONTROL New Leads]** ett kort som visar en trending month over-month-rapport över det totala antalet nya leads i din instans under de senaste sex månaderna.
+Kortet **[!UICONTROL New Leads]** visar en trendrapport som visar antalet nya leads i din instans under de senaste sex månaderna.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Avbeställ {#unsubscribes}
 
-The **[!UICONTROL Unsubscribes]** ett månadsbaserat prenumerationskort med en månadsvis trendrapport över din uppsägningsfrekvens under de senaste sex månaderna.
+På kortet **[!UICONTROL Unsubscribes]** visas en månadsvis trendrapport över din uppsägningsfrekvens under de senaste sex månaderna.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
->* [Förstå Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Förstå Marketo-stunder](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Om händelsekort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Om e-postprogramkort](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

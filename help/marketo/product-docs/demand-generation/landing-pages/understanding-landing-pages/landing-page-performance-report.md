@@ -19,8 +19,8 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 >
 >Om antalet siffror i din smarta lista och landningssidans prestandarapport är olika beror det troligen på att Smarta listor bara filtrerar data på personer, medan Landing Page Performance Reports innehåller sociala (Facebook, Google Ads, etc.) och anonyma aktiviteter, utöver persondata.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj prestanda för landningssidan [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Ange tidsram för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken Rapport.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [för landningssidans prestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken Rapport.
 1. Så ja! Utforska rapporten och utvärdera hur bra era landningssidor fungerar.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
@@ -29,9 +29,9 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 
    >[!TIP]
    >
-   >Hitta sidorna med den högsta konverteringsprocenten! [Sortera rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och välj Sortera fallande.
+   >Hitta sidorna med den högsta konverteringsprocenten! [Sortera din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i den kolumnen och välj Sortera fallande.
 
-   AB-ikonen i rapporten anger att statistiken är summan för alla sidor i den [testgrupp för landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   AB-ikonen i rapporten anger att statistiken är den totala för alla sidor i [testgruppen för landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Bläddra till höger för att se antalet besök som kommer från olika plattformar för sociala medier.
 
@@ -39,8 +39,8 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 
 >[!NOTE]
 >
->Aktivitet som genereras av [social knapp med analys](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) finns inte här. Om du vill se den här statistiken läser du [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+>Aktivitet som har genererats av den sociala knappen [med analyser](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) inkluderas inte här. Den här statusen finns i [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
->[Filtrera rapport över landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) av lokala eller globala resurser.
+>[Filtrera landningssidans resultatrapport](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) efter lokala eller globala resurser.

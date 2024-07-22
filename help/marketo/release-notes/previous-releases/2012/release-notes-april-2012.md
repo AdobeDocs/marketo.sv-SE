@@ -6,16 +6,16 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: April 2012 {#release-notes-april}
+# Versionsinformation: april 2012 {#release-notes-april}
 
 ## Segmenteringsfilter och utlösare {#segmentation-filters-and-triggers}
 
-Målgruppsanpassar ni samma grupp av leads konsekvent? Om så är fallet, använd segmentering i era smarta listor för riktade leads. Med segmentering segmenteras hela din lead-databas alltid och kan återanvändas i alla program för att vara konsekvent. Segmenteringsresultaten hämtas snabbt eftersom de inte kräver att den smarta listan ska köras när begäran görs.
+Målgruppsanpassar ni samma grupp av leads på ett konsekvent sätt? Om så är fallet, använd segmentering i era smarta listor för riktade leads. Med segmentering segmenteras hela din lead-databas alltid och kan återanvändas i alla program för att vara konsekvent. Segmenteringsresultaten hämtas snabbt eftersom de inte kräver att den smarta listan ska köras när begäran görs.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
@@ -34,7 +34,7 @@ Vi har förenklat bekräftelse-URL:en genom att skapa en medlemstoken som visar 
 
 Spara tid och bli effektivare när du importerar bilder och filer till Marketo! Om du använder Firefox eller Google Chrome kan du markera flera filer och överföra alla samtidigt. Även om det inte finns någon gräns för hur många filer du kan överföra är den enskilda storleksgränsen per fil 50 MB.
 
-Obs! Den här funktionen stöds inte i Internet Explorer eftersom webbläsaren är begränsad.
+Obs! Den här funktionen stöds för närvarande inte i Internet Explorer på grund av webbläsarens begränsningar.
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 
@@ -42,7 +42,7 @@ Obs! Den här funktionen stöds inte i Internet Explorer eftersom webbläsaren �
 
 ## Flytta text i ett e-postmeddelande {#move-text-in-an-email}
 
-Du kan ordna om textblock i ett e-postmeddelande. Markera ett textblock i textredigeraren, När du klickar på redigeringsikonen visas alternativet att flytta blocket uppåt eller nedåt.
+Du kan ändra ordning på textblock i ett e-postmeddelande. Markera ett textblock i textredigeraren. När du klickar på redigeringsikonen visas alternativet att flytta blocket uppåt eller nedåt.
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 
@@ -52,8 +52,8 @@ Om du inte synkroniserar din prenumeration med Salesforce kommer du att märka a
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-**Förbättrade Gate-stadier i intäktscykelmodelleraren**
+**Förbättrade Gate-stadier i intäktscykeln Modeler**
 
-Tillåter användare att definiera en ordning för sina övergångsregler.
+Låter användarna definiera en ordning för sina övergångsregler.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)

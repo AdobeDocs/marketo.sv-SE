@@ -24,29 +24,29 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick? {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, helst en som ditt säljteam tycker är intressant om det utlöses.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, helst en som ditt säljteam tycker är intressant om den aktiveras.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Dra över **Intressanta ögonblick** flödessteg.
+1. Dra över flödessteget **Intressanta stunder**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. Välj en **type** (E-post, Milstolpe eller Webb).
+1. Välj en **typ** (e-post, milstolpe eller webb).
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Skriv ett meddelande till ditt säljteam i **Beskrivning** fält som förklarar varför den här åtgärden är viktig.
+1. Skriv ett meddelande till ditt säljteam i fältet **Beskrivning** som förklarar varför den här åtgärden är viktig.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >Marketo lägger också till datumet det inträffade och hur det intressanta ögonblicket lades till (dvs lead action > flow step, SOAP API).
+   >Marketo lägger också till datumet som infaller och hur den intressanta stunden lades till (dvs lead-åtgärd > flödessteg, SOAP API).
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+Intressanta stunder visas i aktivitetsloggen för en [lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

@@ -24,7 +24,7 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Under Integrering klickar du på **Salesforce** och sedan **[!UICONTROL Sync Errors]** -fliken.
+1. Under Integrering klickar du på **Salesforce** och sedan på fliken **[!UICONTROL Sync Errors]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
 | Fält | Beskrivning |
 |---|---|
-| Misslyckades | Postnivå _eller_ Jobbnivå |
+| Misslyckades | Postnivå _eller_ jobbnivå |
 | Datum/tid för felet | Felinformation |
 | Feltyp | SFDC-returmeddelande |
 
@@ -48,7 +48,7 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Välj datum- och tidsintervall och filtrera sedan efter feltyp (jobbnivå eller postnivå). Klicka **[!UICONTROL Apply]** när det är klart.
+1. Välj datum- och tidsintervall och filtrera sedan efter feltyp (jobbnivå eller postnivå). Klicka på **[!UICONTROL Apply]** när du är klar.
 
    ![](assets/salesforce-sync-errors-4.png)
 

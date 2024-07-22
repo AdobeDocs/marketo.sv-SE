@@ -6,14 +6,14 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # SEO - Använd KW-trendrapport för konkurrent {#seo-use-the-competitor-kw-trends-report}
 
-I den här rapporten kan du se hur du och dina konkurrenter rangordnas efter nyckelord.
+I den här rapporten kan du se hur du och dina konkurrenter rangordnas efter nyckelord över tid.
 
 ## Hitta rapporter {#find-reports}
 
@@ -35,7 +35,7 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 |---|---|
 | [!UICONTROL Keywords] | Antalet nyckelord som du spårar. |
 | [!UICONTROL Ranking URLs] | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
-| [!UICONTROL % in rank] | Procentandelen nyckelord som rankas i det intervall som du har angett. |
+| [!UICONTROL % in rank] | Procentandel av nyckelordsrankningen i det intervall som du har angett. |
 | [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar med dessa nyckelord som gjordes under det angivna intervallet (under de senaste 30 dagarna, vid sökning i Google US) |
 
 ## Filtrera data {#filtering-data}
@@ -44,7 +44,7 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Klicka på **[!UICONTROL Rank]** i listrutan för att välja vilket rangintervall du vill visa nyckelord för.
+1. Klicka på listrutan **[!UICONTROL Rank]** för att välja vilket rangintervall du vill visa nyckelord för.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
@@ -54,6 +54,6 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
 >
 >Du kan exportera den här rapporten till skrivbordet.
 
-1. Klicka **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
+1. Klicka på **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

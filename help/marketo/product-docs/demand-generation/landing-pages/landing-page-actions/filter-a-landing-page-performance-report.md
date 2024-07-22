@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrera en rapport om landningssidans prestanda {#filter-a-landing-page-performance-report}
 
-Fokusera på [rapport om landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på dem i Design Studio (globala resurser) eller på dem som har arkiverats.
+Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på dem i Design Studio (globala resurser) eller på dem som har arkiverats.
 
-1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
+1. Gå till **Analytics** (eller **Marketing Activities**).
 
    ![](assets/analyticstile.png)
 
@@ -23,11 +23,11 @@ Fokusera på [rapport om landningssidans prestanda](/help/marketo/product-docs/d
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Klicka på **Inställningar** och dra i ett filter.
+1. Klicka på fliken **Inställningar** och dra i ett filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Design Studio Landing Pages:** Globala resurser som hanteras i Design Studio.
+   * **Startsidor för Design Studio:** Globala resurser som hanteras i Design Studio.
    * **Landningssidor för marknadsföringsaktiviteter:** Lokala resurser i program på fliken Marknadsföringsaktiviteter.
    * **Arkiverade landningssidor:** Inaktiva, indragna landningssidor.
 
@@ -39,6 +39,6 @@ Fokusera på [rapport om landningssidans prestanda](/help/marketo/product-docs/d
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Du är klar! Klicka på **Rapport** för att se din filtrerade rapport.
+1. Du är klar! Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

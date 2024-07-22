@@ -6,7 +6,7 @@ exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
 ## Skapa en ny instrumentpanel {#creating-a-new-dashboard}
 
-1. Klicka **Intäktsutforskaren**.
+1. Klicka på **Intresseutforskaren**.
 
    ![](assets/one.png)
 
-1. Klicka **Skapa nytt** sedan **Kontrollpanel**.
+1. Klicka på **Skapa ny** och sedan på **Instrumentpanel**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    >[!NOTE]
    >
-   >Du kan anpassa kontrollpanelens utseende ytterligare genom att klicka på **Teman** och välja din favorit.
+   >Du kan anpassa instrumentpanelens utseende ytterligare genom att klicka på **Teman** och välja din favorit.
 
-1. Klicka på **Infoga** ikon och markera **Fil**.
+1. Klicka på ikonen **Infoga** i den första delen av kontrollpanelen och välj **Arkiv**.
 
    ![](assets/four.png)
 
-1. Dubbelklicka **Intäktsutforskaren**.
+1. Dubbelklicka på **Intresseutforskaren**.
 
    ![](assets/five.png)
 
-1. Dubbelklicka **Alla rapporter och kontrollpaneler**.
+1. Dubbelklicka på **Alla rapporter och instrumentpaneler**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/seven.png)
 
-1. Välj rapporten och klicka på **Välj**.
+1. Välj din rapport och klicka på **Välj**.
 
    ![](assets/eight.png)
 
@@ -61,31 +61,31 @@ En kontrollpanel är en kombination av rapporter från Intresseutforskaren för 
 
    ![](assets/ten.png)
 
-1. Om du vill spara klickar du på ikonen Spara, anger ett filnamn, dubbelklickar på mappen Intresseutforskaren tills du kommer till önskad mapp för instrumentpanelen och klickar på **Spara**.
+1. Om du vill spara klickar du på ikonen Spara, anger ett filnamn, dubbelklickar på mappen Intäktsutforskaren tills du kommer till önskad mapp för instrumentpanelen och klickar på **Spara**.
 
    ![](assets/eleven.png)
 
 ## Redigera en kontrollpanel {#editing-a-dashboard}
 
-1. Klicka **Intäktsutforskaren**.
+1. Klicka på **Intresseutforskaren**.
 
    ![](assets/one.png)
 
-1. Dubbelklicka på **Intäktsutforskaren** mapp. Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 
-1. Markera den kontrollpanel som du vill redigera och klicka sedan på **Redigera**.
+1. Markera den instrumentpanel som du vill redigera och klicka sedan på **Redigera**.
 
    ![](assets/fourteen.png)
 
 ## Ta bort en instrumentpanel {#deleting-a-dashboard}
 
-1. Klicka **Intäktsutforskaren**.
+1. Klicka på **Intresseutforskaren**.
 
    ![](assets/one.png)
 
-1. Dubbelklicka på **Intäktsutforskaren** mapp. Navigera till den plats där kontrollpanelen finns.
+1. Dubbelklicka på mappen **Intresseutforskaren**. Navigera till den plats där kontrollpanelen finns.
 
    ![](assets/thirteen.png)
 

@@ -6,7 +6,7 @@ exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Skillnaden mellan en statisk och smart lista är avgörande för att förstå.
 | Typ | Logic |
 |---|---|
 | Smart List | Baserat på **definierade regler** |
-| Statisk lista | Baserat på **lägga till/ta bort varje person** |
+| Statisk lista | Baserat på **att lägga till/ta bort varje person** |
 
 >[!CAUTION]
 >
->Ett av de vanligaste felen är att man kan ta bort en person från en lista genom att helt enkelt ta bort personen. **Det här är fel**. Om du tar bort personen tas de bort från **hela databasen**, inte bara listan.
+>Ett av de vanligaste felen är att man kan ta bort en person från en lista genom att helt enkelt ta bort personen. **Det här är fel**. Om du tar bort personen tas de bort från **hela databasen**, inte bara från listan.
 
 ## Sätt att lägga till/ta bort personer från en lista {#ways-to-add-remove-people-from-a-list}
 
-1. Steg för smart kampanjflöde ([Lägg till i listan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. Flödessteg för smart kampanj ([Lägg till i lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Ta bort från lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
 1. [Steg för ett åtgärdsflöde](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Dra personer till en lista i trädet

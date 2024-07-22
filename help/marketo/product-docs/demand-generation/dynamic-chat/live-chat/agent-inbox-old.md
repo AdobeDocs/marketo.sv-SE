@@ -25,7 +25,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 >[!IMPORTANT]
 >
->**Det här åsidosätter** den [live chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} som du har etablerat i Agentinställningar. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
+>**Detta åsidosätter** den [live-chatttillgänglighet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} som du upprättade i agentinställningarna. Statusen kvarstår tills du antingen byter tillbaka den eller till nästa tidsblock i tillgängligheten.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 
 ## Live Chat-meddelanden {#live-chat-notifications}
 
-Läs mer om meddelanden i [Översikt över live-chatt](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Läs mer om meddelanden i [Live Chat-översikten](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Konversationer {#conversations}
 
@@ -53,7 +53,7 @@ Till höger på skärmen Agent Inbox kan du se (uppifrån och ned) deras namn, b
 
 ## Avsluta en session {#end-a-session}
 
-Agenter kan avsluta en session manuellt genom att klicka på **Avsluta session** intill besökarinformationen.
+Agenter kan avsluta en session manuellt genom att klicka på knappen **Avsluta session** bredvid besökarinformationen.
 
 ![](assets/agent-inbox-6.png)
 

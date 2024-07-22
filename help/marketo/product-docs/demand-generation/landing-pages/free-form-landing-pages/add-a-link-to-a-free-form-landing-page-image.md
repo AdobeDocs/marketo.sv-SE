@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Lägga till en bild på en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Lägg till en bild på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >Detta gäller endast landningssidor med fri form.
 
-1. Markera den bild du lade till på landningssidan och utöka **Egenskapssida.**
+1. Markera bilden som du lade till på landningssidan och expandera **egenskapssidan.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Skriv din mailto-länk i dialogrutan **Länk-URL.**
+1. Skriv din mailto-länk i **länkens URL.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

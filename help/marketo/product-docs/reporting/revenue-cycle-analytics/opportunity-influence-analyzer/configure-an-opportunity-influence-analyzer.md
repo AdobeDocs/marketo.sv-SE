@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Konfigurera en analys av affärsmöjlighet {#configure-an-opportunity-influence-analyzer}
 
-En gång [skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)kan du konfigurera typerna av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
+När du har [skapat en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) kan du konfigurera de typer av [intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) som ingår.
 
 >[!PREREQUISITES]
 >
 >[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Klicka **Analyser**.
+1. Klicka på **Analys**.
 
    ![](assets/login-to-analytics.png)
 
@@ -27,7 +27,7 @@ En gång [skapa en analys av affärsmöjlighet](/help/marketo/product-docs/repor
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer i **Inställningar** eller genom att minska antalet intressanta stunder.
+   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på panelen **Inställningar** eller genom att minska typerna av intressanta stunder.
 
 1. Om du vill konfigurera vilka typer av intressanta stunder som ska inkluderas går du till fliken Inställningar och drar i filtret Intressanta stunder.
 
@@ -41,7 +41,7 @@ En gång [skapa en analys av affärsmöjlighet](/help/marketo/product-docs/repor
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Klicka på varje typ av intressanta ögonblick som du vill ha. Klicka sedan på **Spara**.
+1. Klicka på varje typ av intressant ögonblick du vill ha. Klicka sedan på **Spara**.
 
 1. Klicka på huvudfliken om du vill se historiken för affärsmöjligheten med bara de valda typerna av intressanta ögonblick.
 
@@ -49,4 +49,4 @@ En gång [skapa en analys av affärsmöjlighet](/help/marketo/product-docs/repor
 
 >[!MORELIKETHIS]
 >
->[Berätta för marknadsföringsberättelsen med en analys av säljprojektspåverkan](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

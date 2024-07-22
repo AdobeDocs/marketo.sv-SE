@@ -6,7 +6,7 @@ exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >I den här artikeln beskrivs hur du använder den gamla Google Standard Analytics, men vi rekommenderar att du går över till Universal Analytics.
 >
->Om du inte redan använder [analytics.js tracking code](https://developers.google.com/analytics/devguides/collection/analyticsjs/)rekommenderar Google att du taggar om webbplatsen för att använda den. Följande har tagits bort av Google:
+>Om du inte redan använder [analytics.js-spårningskoden](https://developers.google.com/analytics/devguides/collection/analyticsjs/) rekommenderar Google att du taggar om webbplatsen för att använda den. Följande har tagits bort av Google:
 >
 >* ga.js
 >* urchin.js
@@ -28,11 +28,11 @@ ht-degree: 0%
 >* Egna variabler
 >* Användardefinierade variabler
 >
->Se hur ni kan integrera [Webbpersonalisering med Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>Se hur du integrerar [Web Personalization med Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduktion {#introduction}
 
-Analysera webbanalysen från en ny vinkel med hjälp av direkt dataflöde från Marketo Real-Time Personalization (RTP) till Google Analytics (GA). Mät era webbbesök i GA enligt organisationer, branscher och RTP-kampanjer. Se mätvärden som olika branscher eller RTP-segment i GA och hur de fungerar och genererar leads utifrån olika trafikkällor (sociala, betalda, organiska), analysera klickfrekvenser på kampanjer och mäta vilken effekt personaliseringskampanjer har på er webbplats. Utnyttja den här möjligheten för att få ut maximalt av ditt RTP-konto
+Analysera webbanalysen från en ny vinkel med hjälp av direkt dataflöde från Marketo Real-Time Personalization (RTP) till Google Analytics-kontot (GA). Mät era webbbesök i GA enligt organisationer, branscher och RTP-kampanjer. Se mätvärden som olika branscher eller RTP-segment i GA och hur de fungerar och genererar leads utifrån olika trafikkällor (sociala, betalda, organiska), analysera klickfrekvenser på kampanjer och mäta vilken effekt personaliseringskampanjer har på er webbplats. Utnyttja den här möjligheten för att utnyttja RTP-kontot maximalt
 
 **RTP Audience Analytics**
 
@@ -40,7 +40,7 @@ Med integreringen får du en ny dimension på ditt GA-konto. RTP förbättrar au
 
 1. Organisationer och branscher
 1. Anpassade segment i RTP
-1. Account-Based Marketing
+1. Account-Based Marketing-listor
 
 Fokusera på B2B-utsikterna. Analysera kanalerna utifrån riktade branscher och segment.
 
@@ -64,32 +64,32 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 ## Konfigurera RTP med Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Lägg till e-postadressen rtp.ga2@gmail.com som en Läs och analysera-användare på ditt GA-konto. Mer information finns i [här](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Lägg till e-postadressen rtp.ga2@gmail.com som en Läs och analysera-användare på ditt GA-konto. Mer information finns [här](https://support.google.com/analytics/answer/2884495?hl=en).
 
 1. I ditt RTP-konto. Gå till **Kontoinställningar**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Kontoinställningar**, **Domän** och **Analyser**.
+1. Under **Kontoinställningar**, **Domän** och **Analytics**.
 
 1. Klicka på **Google Analytics**.
 
-1. Aktivera relevant **Anpassade variabler** och **Händelser** att lägga till dessa data från RTP till Google Analytics.
+1. Aktivera de relevanta **anpassade variablerna** och **händelserna** om du vill lägga till dessa data från RTP till Google Analytics.
 
-1. Ange **Plats** talet för att skicka anpassade variabeldata (standard är 1,2).
+1. Ange **kortplats** för att skicka anpassade variabeldata (standard är 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 >[!NOTE]
 >
->För att kunna skicka segmentdata till GA, under [Redigera segmentsida](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Markera kryssrutan i RTP-plattformen **Skicka händelse till Google Analytics på segmentmatchning**.
+>För att kunna skicka segmentdata till GA markerar du kryssrutan **Skicka händelse till Google Analytics på segmentmatchning** på sidan [Redigera segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) på RTP-plattformen.
 
 ## Konfigurera Google Analytics-rapporter med RTP-data {#setting-up-google-analytics-reports-with-rtp-data}
 
 I Google Analytics kan du använda kontrollpaneler, GA-segmentering och rapportering för att visa dina RTP-data:
 
-* [Kontrollpaneler](https://support.google.com/analytics/answer/1068216?hl=en) ger en översikt över webbplatsens prestanda.
+* [Kontrollpanelerna](https://support.google.com/analytics/answer/1068216?hl=en) ger en översikt över webbplatsens prestanda.
 * Ett GA-segment är avsett att filtrera besökare i GA-gränssnittet och visa trafiken per segment. Se hur du skapar ett segment [här](https://support.google.com/analytics/answer/3124493?hl=en).
-* Skapar [skräddarsydda rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.
+* Skapar [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.

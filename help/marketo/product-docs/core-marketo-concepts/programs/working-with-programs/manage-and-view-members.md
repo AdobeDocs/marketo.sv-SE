@@ -17,13 +17,13 @@ Du kan hantera och visa dina medlemmar i dina program på fliken Medlemmar.
 
 >[!NOTE]
 >
->Gå djupare in [programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Mer information om [programmedlemskap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Sök efter en medlem {#search-for-a-member}
 
 Längst ned i avsnittet Medlemmar använder du sökfältet för att söka efter programmedlemmar efter namn, e-postadress, befattning eller företag.
 
-1. Klicka på **[!UICONTROL Members]** -fliken i ditt program.
+1. Klicka på fliken **[!UICONTROL Members]** i programmet.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,11 +49,11 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 ## Välj vilka kolumner som ska visas i rutnätet {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klicka på **[!UICONTROL View]** nedrullningsbar meny och välj **[!UICONTROL Create View]**.
+1. Klicka på listrutan **[!UICONTROL View]** och välj **[!UICONTROL Create View]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka **[!UICONTROL Add]** och **[!UICONTROL Remove]** om du vill flytta kolumner och skapa en vy.
+1. Namnge din anpassade vy. Välj kolumnrubriker. Klicka på **[!UICONTROL Add]** och **[!UICONTROL Remove]** för att flytta kolumner och skapa en vy.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 ## Filtrera medlemsstödrastret  {#filter-the-members-grid}
 
-1. Klicka på **[!UICONTROL Filter]** och välj ett förloppssteg att sortera efter.
+1. Klicka på listrutan **[!UICONTROL Filter]** och välj ett förloppssteg att sortera efter.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Högerklicka på kolumnrubriken om du vill sortera i bokstavsordning, antingen s
 
 Du kan ändra status för dina personer inuti medlemsrutnätet.
 
-1. Håll ned **[!UICONTROL Ctrl/Cmd]** och välja personer.
+1. Håll ned **[!UICONTROL Ctrl/Cmd]** och välj personer.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klicka på **[!UICONTROL Change Status]** och välj en status.
+1. Klicka på listrutan **[!UICONTROL Change Status]** och välj en status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

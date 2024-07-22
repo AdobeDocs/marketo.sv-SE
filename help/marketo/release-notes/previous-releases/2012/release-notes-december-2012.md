@@ -6,24 +6,24 @@ exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: December 2012 {#release-notes-december}
+# Versionsinformation: december 2012 {#release-notes-december}
 
-Decemberversionen innehåller de mycket förväntade **Vidarebefordra till vän** och flera andra godbitar! Observera att funktioner markerade med en asterisk (&#42;) finns endast i Select Edition och i RCA (Revenue Cycle Analytics).
+Decemberversionen innehåller den mycket förväntade funktionen **Forward to Friend** samt flera andra godbitar! Observera att funktioner som är markerade med en asterisk (&#42;) bara är tillgängliga i Select Edition och i RCA (Revenue Cycle Analytics).
 
 ## Vidarebefordra till vän {#forward-to-friend}
 
-Möjliggör delning av innehåll med andra genom att inkludera en **Vidarebefordra till vän** länk i dina e-postmeddelanden. Genom att lägga till nya filter och utlösare kan du identifiera påverkarna genom att identifiera de användare som har vidarebefordrat ett e-postmeddelande samt de som har tagit emot de vidarebefordrade e-postmeddelandena.
+Aktivera delning av innehåll med andra genom att ta med en **länk för vidarebefordran till vän** i dina e-postmeddelanden. Genom att lägga till nya filter och utlösare kan du identifiera påverkarna genom att identifiera de användare som har vidarebefordrat ett e-postmeddelande samt de som har tagit emot de vidarebefordrade e-postmeddelandena.
 
-Ta med en **Vidarebefordra till vän** inbjudan i ditt e-postmeddelande, öppna den i redigeraren och infoga `{{system.forwardToFriendLink}}` token.
+Om du vill inkludera en **Forward to Friend**-inbjudan i ditt e-postmeddelande öppnar du den i redigeraren och infogar `{{system.forwardToFriendLink}}`-token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Använd motsvarande utlösare och filter för att identifiera användare som använde **Vidarebefordra till vän** och de som fick e-postmeddelandet.
+Använd motsvarande utlösare och filter för att identifiera användare som använde länken **Vidarebefordra till vän** och de som fick e-postmeddelandet.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -47,20 +47,20 @@ Med Marketo BrightTALK-adaptern kan du hämta närvaroinformation från en live-
 
 Sales Insight är nu tillgängligt för Microsoft Dynamics-kunder!
 
-## Dynamics-affärsmöjlighet, synkronisering {#dynamics-opportunity-sync}
+## Synkronisering av Dynamics-affärsmöjlighet {#dynamics-opportunity-sync}
 
 Synkronisera affärsmöjlighetsdata mellan Marketo och Microsoft Dynamics.
 
-## Rapport om marknadsföringspåverkade affärsmöjligheter&#42; {#marketing-influenced-opportunities-report}
+## Rapport om marknadsföringspåverkade affärsmöjligheter &#42; {#marketing-influenced-opportunities-report}
 
-Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **Intäktsutforskaren** kan du nu skapa anpassade rapporter med den nya gula punkten&quot;Marknadsföringspåverkad möjlighet&quot; i säljprojektsanalysen. Du kan också använda följande två rapporter i standardmappen:
+Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **intäktsutforskaren** kan du nu skapa anpassade rapporter med den nya gula punkten Marknadsföringspåverkad möjlighet i säljprojektsanalys. Du kan också använda följande två rapporter i standardmappen:
 
 * Marknadsföringspåverkan på skapade affärsmöjligheter
 * Marknadsföringspåverkan på stängda affärsmöjligheter
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Anpassade fält för affärsmöjlighet i analys av programsäljprojekt&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Anpassade fält för affärsmöjlighet i programsäljprojektsanalys&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Lägg till anpassade affärsmöjlighetsfält för att berika dina rapporter om analys av affärsmöjligheter i Intäktsutforskaren.
 
@@ -70,6 +70,6 @@ Lägg till anpassade affärsmöjlighetsfält för att berika dina rapporter om a
 
 Har du någonsin undrat vilka kampanjer som använder en specifik flödesåtgärd, som Change Score eller Request Campaign? Eller var används ett visst filter? Med den nya Campaign Inspector (som finns i The Treasure Chest) kan ni identifiera dessa kampanjer samt aktiva kampanjer och kampanjer med fel.
 
-Gå till **Administratör** > **Treasure Chest** för att aktivera **Campaign Inspector**.
+Gå till **Admin** > **Resursschema** om du vill aktivera **kampanjkontrollen**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

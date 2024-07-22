@@ -26,7 +26,7 @@ Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i
 
    ![](assets/designstudio-1.png)
 
-1. Klicka på **Fragment** och sedan **Redigera utkast**.
+1. Klicka på ditt **kodfragment** och sedan på **Redigera utkast**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
@@ -34,13 +34,13 @@ Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Retur **Segmentering** och klicka på **Spara**.
+1. Ange **Segmentering** och klicka på **Spara**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Använd dynamiskt innehåll {#apply-dynamic-content}
 
-1. Klicka på en **Segment** och sedan redigera innehållet. Upprepa för varje segment
+1. Klicka på ett **segment** och redigera sedan innehållet. Upprepa för varje segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -52,5 +52,5 @@ Var inte det enkelt? Nu kan du börja använda de här fragmenten på e-postmedd
 
 >[!MORELIKETHIS]
 >
->* [Lägga till ett kodfragment i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Lägga till ett kodfragment på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+>* [Lägg till ett fragment i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+>* [Lägg till ett fragment på en landningssida](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

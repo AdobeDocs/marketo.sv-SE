@@ -2,10 +2,10 @@
 description: Säkerhetsinställningar - Marketo Docs - produktdokumentation
 title: Skyddsinställningar
 feature: Dynamic Chat
-exl-id: 9d5818ab-d8ab-435e-901e-250334fe2ebf
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ I Skyddsinställningar kan du lägga till domäner till blockerade domäner elle
 
 Om det finns besökare med e-postdomäner som du inte vill att dina agenter ska interagera med (t.ex. en konkurrent) lägger du till deras e-postdomän i blockeringslista.
 
-1. Välj **Aktivera validering** för att aktivera blockeringslista. Ange upp till 50 domäner och klicka på **Spara**.
+1. Markera skjutreglaget **Aktivera validering** för att aktivera blockeringslista. Ange upp till 50 domäner och klicka på **Spara**.
 
    ![](assets/security-settings-2.png)
 
@@ -28,6 +28,6 @@ Om det finns besökare med e-postdomäner som du inte vill att dina agenter ska 
 
 Genom att lägga till tillåtna domäner ser du till att tredje part inte kan skrapa javascript från din webbplats och lägga till det i sina egna.
 
-1. Välj **Aktivera validering** för att aktivera tillåtelselista. Ange tillåtna domäner och klicka på **Spara**.
+1. Markera skjutreglaget **Aktivera validering** för att aktivera tillåtelselista. Ange tillåtna domäner och klicka på **Spara**.
 
    ![](assets/security-settings-3.png)

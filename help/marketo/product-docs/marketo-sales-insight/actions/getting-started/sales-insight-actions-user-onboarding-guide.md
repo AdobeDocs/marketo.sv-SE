@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Nya användare måste följa stegen nedan.
 
-1. I välkomstmeddelandet klickar du på **Kom igång**.
+1. Klicka på **Kom igång** i välkomstmeddelandet.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Klicka **Aktivera konto med Salesforce**.
+1. Klicka på **Aktivera konto med Salesforce**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,15 +39,15 @@ Nya användare måste följa stegen nedan.
 >
 >E-post-ID:t för din Salesforce och e-postadressen för ditt försäljningskonto måste vara samma.
 
-1. Klicka **Tillåt**.
+1. Klicka på **Tillåt**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Klicka **Starta**.
+1. Klicka på **Start**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
@@ -63,7 +63,7 @@ Nya användare måste följa stegen nedan.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. Klicka **Fortsätt**.
+1. Klicka på **Fortsätt**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,15 +75,15 @@ Nya användare måste följa stegen nedan.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Ange din egen signatur och klicka **Spara** (om du vill göra detta senare via din profilsida klickar du på **Hoppa över**).
+1. Ange din anpassade signatur och klicka på **Spara** (om du vill göra det senare via din profilsida klickar du på **Hoppa över**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Du ser ett alternativ för att visa en snabbtitt på Marketo säljåtgärder. Klicka **Nästa** för att visa, eller **Inte nu** för att spara senare.
+1. Du ser ett alternativ för att visa en snabbtitt på Marketo säljåtgärder. Klicka på **Nästa** för att visa eller **Inte nu** för att spara senare.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
@@ -91,6 +91,6 @@ Nya användare måste följa stegen nedan.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. I Salesforce (Classic eller Lightning) kan du navigera till valfri lead, kontakt, konto eller affärsmöjlighet. Alla säljåtgärder är tillgängliga via listrutan på MSI-panelen.
+1. I Salesforce (Classic eller Lightning) kan du navigera till valfri lead, kontakt, konto eller affärsmöjlighet. Alla dina säljåtgärder är tillgängliga via listrutan på MSI-panelen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

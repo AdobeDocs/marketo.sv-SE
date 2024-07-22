@@ -1,5 +1,5 @@
 ---
-description: Avbeställ Marketo - Marketo Docs - produktdokumentation
+description: Marketo Unsubscribe Check - Marketo Docs - produktdokumentation
 title: Avbeställ Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
@@ -24,11 +24,11 @@ Marketo Unsubscribe Check (Avbeställ kontroll) använder teamets anslutning til
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Under Administratörsinställningar klickar du på **Avbeställ**.
+1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Klicka på **Integreringar** -fliken. Aktivera kontrollen genom att klicka på skjutreglaget i avsnittet Avsluta prenumeration på Marketo.
+1. Klicka på fliken **Integrationer**. Aktivera kontrollen genom att klicka på skjutreglaget i avsnittet Avsluta prenumeration på Marketo.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

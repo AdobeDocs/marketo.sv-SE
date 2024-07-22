@@ -17,11 +17,11 @@ ht-degree: 1%
 >
 >**Administratörsbehörigheter krävs**
 
-Du kan [ta bort en programkanal](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) om det inte används av något program.  Men när den väl har använts måste den finnas kvar.  Du kan dock dölja den om du inte längre behöver den.
+Du kan [ta bort en programkanal](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) om den inte används av några program.  Men när den väl har använts måste den finnas kvar.  Du kan dock dölja den om du inte längre behöver den.
 
 ## Dölj en programkanal {#hide-a-program-channel}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
@@ -29,11 +29,11 @@ Du kan [ta bort en programkanal](/help/marketo/product-docs/administration/tags/
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Klicka på **[!UICONTROL Channel]** och väljer **[!UICONTROL Channel]** att dölja.
+1. Klicka på listrutan **[!UICONTROL Channel]** och välj den **[!UICONTROL Channel]** som du vill dölja.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Under **[!UICONTROL Tag Actions]**, klicka på **[!UICONTROL Hide]**.
+1. Klicka på **[!UICONTROL Hide]** under **[!UICONTROL Tag Actions]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

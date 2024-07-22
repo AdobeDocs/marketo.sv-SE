@@ -19,7 +19,7 @@ En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna de
 >
 >Exempel på smarta kampanjer att begära:
 >
->1. **Långsiktig vårdnad** - när de inte har någon budget i år och du bara vill stanna på radarn
+>1. **Långsiktig vårdnadshavare** - när de inte har någon budget i år och du bara vill stanna kvar på radarn
 >1. **Aktiv försäljningscykel** - när säljaren inte vill ha några meddelanden till personen förutom sina egna. (använd den flagga som anger att marknadsföringen har pausats för att tillfälligt avbryta prenumerationen)
 >
 >Var kreativ. Vad vill säljaren automatisera? Fråga dem bara och vrida upp den!
@@ -28,17 +28,17 @@ En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna de
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Sök och dra **[!UICONTROL Campaign is Requested]** till arbetsytan.
+1. Hitta och dra **[!UICONTROL Campaign is Requested]**-utlösaren till arbetsytan.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Källalternativen anger vilken typ av begäran som kommer att utföras. För Salesforce-funktionaliteten måste du välja **[!UICONTROL Sales Insight]**.
+1. Källalternativen anger vilken typ av begäran som kommer att utföras. Välj **[!UICONTROL Sales Insight]** för Salesforce-funktioner.
 
    >[!TIP]
    >
    >Källoperatorerna är av säkerhetsskäl. Du kan begränsa kampanjen till förfrågningar som bara görs av specifika källor, som andra smarta kampanjer eller utvecklare. Välj **[!UICONTROL Is Any]** i den första rutan om du vill tillåta begäranden från alla källor.
    >
-   >_Kom ihåg_ genom att välja Sales Insight visas det magiskt i kartongen för försäljning. Överdriv det inte. För många kommer att ignoreras av dem.
+   >_Kom ihåg_. Genom att välja Sales Insight visas det magiskt i kartongen för försäljning. Överdriv det inte. För många kommer att ignoreras av dem.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

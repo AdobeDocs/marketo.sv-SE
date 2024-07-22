@@ -17,7 +17,7 @@ Det finns två sätt att ändra storlek på både fältetikettens bredd och sjä
 
 ## Dra och släpp bredden {#drag-and-drop-the-width}
 
-1. I [formulärredigerare](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)markerar du det fält som du vill ändra storlek på.
+1. Markera fältet som du vill ändra storlek på i [formulärredigeraren](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md).
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -35,4 +35,4 @@ Det finns två sätt att ändra storlek på både fältetikettens bredd och sjä
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-Bra jobbat! Ganska lätt, eller hur?
+Snyggt jobb! Ganska lätt, eller hur?

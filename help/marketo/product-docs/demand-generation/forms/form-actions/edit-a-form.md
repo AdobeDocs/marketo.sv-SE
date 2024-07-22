@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill göra några ändringar i ett befintligt formulär gör du så här för att få igång processen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 

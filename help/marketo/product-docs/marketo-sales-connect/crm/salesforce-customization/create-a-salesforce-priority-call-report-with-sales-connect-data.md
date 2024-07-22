@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352470
-description: Skapa en anropsrapport för Salesforce-prioritet med Sales Connect Data - Marketo Docs - produktdokumentation
-title: Skapa en anropsrapport för Salesforce-prioritet med Sales Connect-data
+description: Skapa en anropsrapport för Salesforce-prioritet med Sales Connect-data - Marketo Docs - produktdokumentation
+title: Skapa en Salesforce-samtalsrapport med Sales Connect-data
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa en anropsrapport för Salesforce-prioritet med Sales Connect-data {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Skapa en Salesforce-samtalsrapport med Sales Connect-data {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Lär dig hur du skapar en Salesforce-rapport/samtalslista med hjälp av e-postinteraktionsdata för Sales Connect för att fokusera på de personer eller möjligheter som finns.
 

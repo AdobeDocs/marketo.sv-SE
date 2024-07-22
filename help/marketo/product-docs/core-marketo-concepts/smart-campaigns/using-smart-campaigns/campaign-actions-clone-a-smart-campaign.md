@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Kloningskampanjer kan spara tid åt er. Du behöver inte skapa allt från början - kloningen skapar en identisk kampanj med exakt samma smarta listfilter och flödessteg.
 
-1. Välj den kampanj som du vill klona. I **[!UICONTROL Campaign Actions]** nedrullningsbar meny, välja **[!UICONTROL Clone]**.
+1. Välj den kampanj som du vill klona. Välj **[!UICONTROL Clone]** i listrutan **[!UICONTROL Campaign Actions]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
-1. Välj lämplig **[!UICONTROL Clone To]** alternativ. I det här exemplet väljer vi **[!UICONTROL Programs]**.
+1. Välj lämpligt **[!UICONTROL Clone To]**-alternativ. I det här exemplet väljer vi **[!UICONTROL Programs]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
-1. Välj en **[!UICONTROL Program]**. Ange en **[!UICONTROL Campaign Name]** och klicka **[!UICONTROL Clone]**.
+1. Välj en **[!UICONTROL Program]**. Ange en **[!UICONTROL Campaign Name]** och klicka på **[!UICONTROL Clone]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 

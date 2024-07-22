@@ -31,11 +31,11 @@ Det är ganska enkelt att exportera en fullständig lista över användare och a
 
    >[!TIP]
    >
-   >Om du vill exportera roller går du till **[!UICONTROL Roles]** först och sedan exportera.
+   >Om du vill exportera roller går du först till fliken **[!UICONTROL Roles]** och exporterar sedan.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Klicka på **[!UICONTROL Export]** ikon.
+1. Klicka på ikonen **[!UICONTROL Export]**.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

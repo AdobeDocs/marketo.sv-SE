@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj i zonen {#create-a-new-in-zone-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en in-zone-ersättning, en [widgetfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på webbplatsen, en in zone-ersättning, en [widget-funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering. En In Zone-webbkampanj ersätter ett element på din webbplats baserat på Zone-id med innehåll eller grafiska banners.
 
 ## Skapa en webbkampanj i zonen {#create-an-in-zone-web-campaign}
 
@@ -25,7 +25,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Välj **I zon** kampanjtyp. Anpassa och lägga till en **Zon-id.** Ställ in kampanjen på **Fäst** och lägg in din kreativitet i redigeraren. Lägg till URL-adressen till sidan som ska förhandsgranskas och klicka på **Förhandsgranska** för att se hur kampanjen kommer att reagera på er webbplats.
+1. Välj kampanjtypen **I zon**. Anpassa och lägg till ett **zon-ID.** Ställ in kampanjen på **Sticky** och lägg till din kreativitet i redigeraren. Lägg till sidans URL för att förhandsgranska och klicka på **Förhandsgranska** för att se hur kampanjen kommer att reagera på webbplatsen.
 
    ![](assets/new-3-1.png)
 
@@ -33,9 +33,9 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    >
    >**Vad är ett zon-ID?**
    >
-   >Ett zon-ID är där du vill att webbkampanjen In Zone ska placeras på plats. Om du vill hitta ett &quot;zon-ID&quot; går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet&quot;Inspect Element&quot;, vilket kan variera i andra webbläsare.
+   >Ett zon-ID är där du vill att webbkampanjen In Zone ska placeras på plats. Om du vill hitta ett &quot;zon-ID&quot; går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet&quot;Inspect Element&quot;, vilket i andra webbläsare kan variera.
    >
-   >Sedan vill du hitta det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du t.ex. högerklickar i Chrome visas den markerade texten `<div id="featured-slider">` &quot;featured-slider&quot; är det du ska skriva i avsnittet &quot;zone id&quot;. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
+   >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du till exempel högerklickar i Chrome och den markerade texten säger `<div id="featured-slider">` är &quot;featured-slider&quot; det som du bör skriva i &quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
 
 <table> 
  <thead> 
@@ -54,7 +54,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    <td colspan="1" rowspan="1">Kryssrutan Fäst är markerad som standard för In Zone-kampanjen och behåller In Zone-kampanjen i sin Zon-id-position under besökarens session på webbplatsen. Vi rekommenderar att alltid ha en In Zone inställd på Sticky.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Tona</strong> </p></td> 
+   <td colspan="1" rowspan="1"><p><strong> Toning</strong> </p></td> 
    <td colspan="1" rowspan="1">Om du markerar kryssrutan Använd effekt och toning tonas zonens id-område ut på webbplatsen. Om In Zone är en grafisk banderoll läses sidan först in och sedan aktiveras kampanjen med en toningseffekt.</td> 
   </tr> 
   <tr> 
@@ -70,8 +70,8 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    <td colspan="1">Förhandsgranska kampanjer innan de lanseras. <br> 
     <ul> 
      <li> URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
-     <li>Enhet - Förhandsgranska hur kampanjen kommer att visas per enhet: Stationär dator, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.</li> 
-     <li> Förhandsgranska - klicka <strong>Förhandsgranska</strong> om du vill öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar.</li> 
+     <li>Enhet - Förhandsgranska hur kampanjen kommer att se ut på olika enheter: Stationär dator, Mobilt stående, Mobilt liggande, Stående surfplatta, Stående liggande.</li> 
+     <li> Förhandsgranska - Klicka på <strong>Förhandsgranska</strong> för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar.</li> 
      <li> Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li> 
     </ul></td> 
   </tr> 
@@ -80,25 +80,25 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!TIP]
 >
->Snabba upp och förenkla processen för att skapa kampanjer med våra [inbyggda mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller av [spara befintlig kampanj](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
+>Snabba upp och förenkla processen för att skapa kampanjer genom att använda våra [inbyggda mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
 
 >[!NOTE]
 >
->**Vill du testa webbkampanjer?** En eller flera webbkampanjer kan [A/B-testad för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du testa dina webbkampanjer?** En eller flera webbkampanjer kan [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-Från **Webbkampanjer** sida, klicka **Redigera** på Campaign.
+På sidan **Webbkampanjer** klickar du på **Redigera** i kampanjen.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Om du vill göra det enklare att hitta den kampanj du vill ha använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta kampanjen.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. På webbkampanjsidan klickar du på **Förhandsgranska** på den webbkampanj du vill se.
+1. Klicka på **Förhandsgranska** på webbkampanjsidan som du vill visa.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. På webbkampanjsidan klickar du på **Ta bort** på den kampanj du vill ta bort.
+1. Klicka på **Ta bort** på den kampanj du vill ta bort på sidan Webbkampanjer.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -117,4 +117,4 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 >[!MORELIKETHIS]
 >
 >* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
->* [Skapa en ny webbkampanj för dialog](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Skapa en ny webbkampanj för dialogrutor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

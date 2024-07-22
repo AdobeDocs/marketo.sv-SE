@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo Engage behöver URL:en för organisationstjänsten för att kunna synkro
 
    ![](assets/three.png)
 
-1. URL:en till organisationstjänsten finns under **[!UICONTROL Service Endpoints]**.
+1. URL:en för organisationstjänsten finns under **[!UICONTROL Service Endpoints]**.
 
    ![](assets/four.png)
 

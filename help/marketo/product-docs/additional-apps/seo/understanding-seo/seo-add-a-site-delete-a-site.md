@@ -33,7 +33,7 @@ För att Marketo ska kunna hämta data (inkommande länkar och rekommendationer)
 
    ![](assets/two.png)
 
-1. Ange **[!UICONTROL Name],[!UICONTROL Website URL]** och klicka **[!UICONTROL Save]**.
+1. Ange **[!UICONTROL Name],[!UICONTROL Website URL]** och klicka på **[!UICONTROL Save]**.
 
    >[!TIP]
    >
@@ -67,4 +67,4 @@ Om du spårar mer än en plats kan du även ta bort en plats som du inte längre
 
    >[!NOTE]
    >
-   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en, kan du utföra en återställning genom att markera platsen och klicka på **[!UICONTROL Reset]**. Om du återställer en plats återställs _ta bort alla webbplatsdata_ och återskapa webbplatsen.
+   >Du kan bara ta bort en plats om du har fler än en. Om du bara har en kan du utföra en återställning genom att markera platsen och klicka på **[!UICONTROL Reset]**. Om du återställer en plats _tas alla webbplatsdata bort_ och platsen återskapas.

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Påminnelseuppgifter är ett bra sätt att hålla sig à jour med kundengagemang och engagemang hos potentiella kunder. Följ de här stegen för att skapa en uppgift.
 
-1. Klicka **Kommandocentral**.
+1. Klicka på **Kommandocentral**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Aktiviteter öppnas som standard. Klicka **Lägg till uppgift**.
+1. Aktiviteter öppnas som standard. Klicka på **Lägg till uppgift**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ Påminnelseuppgifter är ett bra sätt att hålla sig à jour med kundengagemang
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Lägg till information om den uppgift som du vill ska vara tillgänglig när du slutför uppgiften, t.ex. samtalsanteckningar, en mall för InMail-meddelanden eller anteckningar om personen. Klicka **Skapa** när det är klart.
+1. Lägg till information om den uppgift som du vill ska vara tillgänglig när du slutför uppgiften, t.ex. samtalsanteckningar, en mall för InMail-meddelanden eller anteckningar om personen. Klicka på **Skapa** när du är klar.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Arbetsytor kan vara komplicerade att konfigurera. Kontakt [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att ta reda på om de är rätt för dig.
+>Arbetsytor kan vara komplicerade att konfigurera. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) för att ta reda på om de passar dig.
 
 Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser som program, landningssidor, e-post med mera. De kan användas av flera personer. Varje användare har tillgång till en eller flera arbetsytor.
 
@@ -28,13 +28,13 @@ Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresur
 >En del orsaker till att du använder en arbetsyta:
 >
 >* Geografi: Marknadsföringsavdelningar i Europa, Asien och Nordamerika får båda en arbetsyta
->* Affärsenhet: [!DNL Quicken], [!DNL Quickbooks] och [!DNL TurboTax] där du får en arbetsyta
+>* Affärsenhet: [!DNL Quicken], [!DNL Quickbooks] och [!DNL TurboTax] får båda en arbetsyta
 >
 >I båda fallen beror separationen på att marknadsföringsresurserna är helt olika. Om de delar marknadsföringsresurser kanske inte arbetsytorna är rätt verktyg för dig.
 
 >[!NOTE]
 >
->Lär dig hur du skapar [skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Lär dig hur du skapar [en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Dela mellan arbetsytor {#sharing-across-workspaces}
 
@@ -64,7 +64,7 @@ Så här delar du resurser mellan arbetsytor. Det fungerar på samma sätt för 
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Markera arbetsytan/arbetsytorna som du vill dela mappen med och klicka på **[!UICONTROL Save]**. I dialogrutan Dela mapp visas endast arbetsytor som du har behörighet att visa.
+1. Markera den eller de arbetsytor som du vill dela mappen med och klicka på **[!UICONTROL Save]**. I dialogrutan Dela mapp visas endast arbetsytor som du har behörighet att visa.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -99,7 +99,7 @@ För resurser som inte är mallar är det bäst att klona dem som lokala resurse
 >
 >När du klonar resurser som har mallar måste de mallarna delas med målarbetsytan.
 
-## Flytta resurser till andra arbetsytor {#moving-assets-to-other-workspaces}
+## Flytta Assets till andra arbetsytor {#moving-assets-to-other-workspaces}
 
 Om du vill flytta resurser till en ny arbetsyta placerar du dem i en mapp och drar mappen till den andra arbetsytan.
 
@@ -109,9 +109,9 @@ Om du vill flytta resurser till en ny arbetsyta placerar du dem i en mapp och dr
 
 ## Personpartitioner {#person-partitions}
 
-Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du känner att du har ett affärsärende som kan göra det nödvändigt att ha dubblettposter med samma e-postadress, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Personpartitioner fungerar som separata databaser. Varje partition har sina egna personer som inte avduplicerar eller blandar med andra partitioner. Om du tror att du har ett affärsfall som kan göra det nödvändigt att ha dubblettposter med samma e-postadress kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Du kan tilldela personpartitioner till  [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
+Du kan tilldela personpartitioner till [arbetsytor](create-a-new-workspace.md) i följande konfigurationer:
 
 * en arbetsyta till en personpartition (1:1)
 * en arbetsyta för många personpartitioner (1:x)
@@ -130,4 +130,4 @@ Du kan tilldela personpartitioner till  [arbetsytor](create-a-new-workspace.md) 
 
 >[!NOTE]
 >
->Lär dig hur [skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Lär dig hur du [skapar en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

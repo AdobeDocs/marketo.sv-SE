@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll för att verifiera det.
 
-1. Välj e-post och klicka **Förhandsgranska e-post**.
+1. Markera e-postmeddelandet och klicka på **Förhandsgranska e-post**.
 
    ![](assets/one-3.png)
 
@@ -33,7 +33,7 @@ Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll fö
 
 Du kan också förhandsgranska dynamiskt innehåll direkt i e-postredigeraren.
 
-1. Under **Innehåll** klickar du på **Dynamisk** -fliken.
+1. Klicka på fliken **Dynamisk** under **Innehåll**.
 
    ![](assets/five-1.png)
 

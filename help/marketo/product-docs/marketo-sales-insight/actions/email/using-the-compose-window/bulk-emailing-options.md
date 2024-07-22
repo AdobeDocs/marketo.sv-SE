@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Alternativ för massutskick {#bulk-emailing-options}
 
-Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. Marketo Sales erbjuder två sätt att skicka e-post i grupp: **Gruppera e-postmeddelanden** och **Markera och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
+Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. Marketo Sales erbjuder två sätt att skicka e-postmeddelanden i grupp: **Gruppmeddelanden** och **Markera och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
 
 **Gruppera e-post jämfört med Markera och skicka**
 
@@ -27,7 +27,7 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Skicka typ</th> 
+   <th>Typ av överföring</th> 
    <th>Max antal e-postmeddelanden</th> 
    <th>Initierad sändning av</th> 
    <th>Massredigera e-postmeddelanden</th> 
@@ -36,7 +36,7 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
   </tr> 
   <tr> 
    <td>Gruppe-post</td> 
-   <td>1,000</td> 
+   <td>1 000</td> 
    <td>Markera en grupp och klicka på knappen "Gruppera åtgärder" eller skriv gruppnamnet i fältet Till.</td> 
    <td>Ja</td> 
    <td>Nej</td> 
@@ -53,7 +53,7 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
  </tbody> 
 </table>
 
-**Använda gruppe-post**
+**Använder gruppe-post**
 
 Du kan förhandsgranska varje e-postmeddelande i listan för att se om de dynamiska fälten fylls i korrekt och du kan redigera mallen som du vill skicka ut gruppvis. Du kan dock inte göra unika redigeringar per användare.
 
@@ -64,4 +64,4 @@ Som standard redigeras alla mottagare. Men du kan också välja varje enskild e-
 >[!MORELIKETHIS]
 >
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Skickar e-postmeddelanden via gruppe-post](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

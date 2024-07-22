@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Förutom att konfigurera SMTP-servern kan du [mejlidentitet måste verifieras](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
+>* Förutom att konfigurera SMTP-servern måste din [e-postidentitet verifieras](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
 >* Vi rekommenderar att du samarbetar med IT-teamet eller SMTP-serverleverantören för att få rätt serverautentiseringsuppgifter för din SMTP-server.
 >* Du kan inte ansluta Gmail- och Exchange-servern med autentiseringsuppgifterna för SMTP-servern. Använd vår e-postanslutningstjänst för att integrera med dessa leverantörer.
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Klicka på **Teamleveranskanal** -fliken.
+1. Klicka på fliken **Team Delivery Channel**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Ange dina autentiseringsuppgifter för SMTP-servern och klicka på **Anslut**.
+1. Ange autentiseringsuppgifterna för SMTP-servern och klicka på **Anslut**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 

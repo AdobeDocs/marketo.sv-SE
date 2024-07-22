@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # SEO - Exportera problem till CSV {#seo-export-issues-to-csv}
 
-Du kan exportera dina [sidproblem](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) data till en CSV-fil om du vill dela informationen med personer utanför Marketo. Så här gör du.
+Du kan exportera dina [sidutgivningsdata](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) till en CSV-fil om du vill dela informationen med personer utanför Marketo. Så här gör du.
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -23,7 +23,7 @@ Du kan exportera dina [sidproblem](/help/marketo/product-docs/additional-apps/se
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Det här är [Detaljnivå för sida ned](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** är en lista med alla problem som gäller den aktuella sidan.
+   Det här är [detaljnivån för ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** är en lista över alla problem med den aktuella sidan.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 

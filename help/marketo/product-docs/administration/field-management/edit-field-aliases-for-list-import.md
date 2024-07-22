@@ -19,7 +19,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
@@ -27,11 +27,11 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
-1. Sök efter och markera fältet som du vill lägga till ett alias i.
+1. Sök efter och markera det fält som du vill lägga till ett alias i.
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. I **[!UICONTROL Field Actions]** nedrullningsbar meny, klicka **[!UICONTROL Edit Import Aliases]**.
+1. Klicka på **[!UICONTROL Edit Import Aliases]** i listrutan **[!UICONTROL Field Actions]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
@@ -41,7 +41,7 @@ När du importerar en lista med okända rubriker kan du skapa fältalias som gö
 
 >[!TIP]
 >
->Klicka **[!UICONTROL Add Another]** och ange fler alias om du behöver dem.
+>Klicka på **[!UICONTROL Add Another]** och ange fler alias om du behöver dem.
 
 Titta på det där! Om du importerar ett kalkylblad med en kolumn som heter &quot;DOB&quot;, kommer Marketo automatiskt att identifiera det som &quot;Födelsedatum&quot; och importera data till rätt fält.
 

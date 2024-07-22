@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske till exempel vill att besökarna bara ska ange telefonnummer i ett visst format.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,19 +23,19 @@ Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske 
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Markera fältet och kontrollera att **Fälttyp** är inställd på **Text**.
+1. Markera fältet och kontrollera att **fälttypen** är inställd på **Text**.
 
    >[!NOTE]
    >
-   >Indatamaskering fungerar bara med **Textfälttyper**.
+   >Indatamaskering fungerar bara med **textfälttyper**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klicka på **Maskinindata** länk.
+1. Klicka på länken **Maskinindata**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Ange indatamask och klicka **Spara**.
+1. Ange indatamask och klicka på **Spara**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ Du kan begränsa indata från besökaren med hjälp av en indatamask. Du kanske 
    >
    >Var uppmärksam på maskeringsreglerna. Du kan begränsa inmatningen till siffror, bokstäver, både och/eller till och med begränsa antalet tecken som anges.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

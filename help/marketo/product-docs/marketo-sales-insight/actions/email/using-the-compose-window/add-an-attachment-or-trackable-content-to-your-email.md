@@ -38,7 +38,7 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
 
    Den bifogade filen visas längst ned i e-postmeddelandet.
 
@@ -58,13 +58,13 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Markera det innehåll du vill lägga till och klicka på **Innehållet spåras** och klicka **Infoga**.
+1. Markera det innehåll som du vill lägga till, klicka på **Innehållet är spårat** och klicka på **Infoga**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
 
    Innehållet visas som en länk i ditt e-postmeddelande. Mottagaren kan klicka på länken för att hämta innehållet.
 
@@ -82,7 +82,7 @@ När en lead klickar på spårbart innehåll i ditt e-postmeddelande öppnas en 
 
 ![](assets/add-an-attachment-or-trackable-content-11.png)
 
-I Content Viewer kan leads göra följande saker.
+I Content Viewer-leads kan du göra följande saker.
 
 * Ladda ned dokumentet
 
@@ -96,9 +96,9 @@ I Content Viewer kan leads göra följande saker.
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Spårbara innehållshändelser i Live-feed**
+**Händelser för spårbart innehåll i Live-feed**
 
-När en lead klickar på länken till vårt dokument visas en klickningshändelse. Du kan klicka på den länken för att visa innehållet. Så länge du är inloggad på ditt åtgärdskonto i webbläsaren räknas inte dessa klickningar som händelser.
+När en lead klickar på länken till vårt dokument visas en klickhändelse. Du kan klicka på den länken för att visa innehållet. Så länge du är inloggad på ditt åtgärdskonto i webbläsaren räknas inte dessa klickningar som händelser.
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 

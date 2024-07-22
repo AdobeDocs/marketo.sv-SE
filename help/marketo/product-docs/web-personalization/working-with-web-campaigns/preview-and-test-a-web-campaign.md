@@ -6,7 +6,7 @@ exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klicka **Skapa ny webbkampanj** eller ikonen för att redigera en befintlig kampanj.
+1. Klicka på **Skapa ny webbkampanj** eller ikonen om du vill redigera en befintlig kampanj.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,11 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    >[!TIP]
    >
-   >Klicka **Dela** om du vill öppna ett e-postmeddelande med en fast URL för kampanjens förhandsgranskning.
+   >Klicka på **Dela** om du vill öppna ett e-postmeddelande med en fast URL för kampanjens förhandsgranskning.
 
    >[!NOTE]
    >
-   >Du kan också installera ett webbläsarplugin-program (antingen [Krom](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) för att få den bästa upplevelsen när ni förhandsgranskar kampanjen. Se avsnittet nedan.
+   >Du kan också installera ett webbläsarplugin-program (antingen [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) eller [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) för att få bästa möjliga resultat när du förhandsgranskar kampanjen. Se avsnittet nedan.
 
 ## Förhandsgranska en webbkampanj på sidan Skapa med plugin-programmet för webbläsare {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -49,11 +49,11 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
    ![](assets/4-1.png)
 
-1. Ett nytt fönster/en ny flik öppnas. Klicka **Lägg till i Chrome**.
+1. Ett nytt fönster/en ny flik öppnas. Klicka på **Lägg till i Chrome**.
 
    ![](assets/five.png)
 
-1. Klicka **Lägg till tillägg**.
+1. Klicka på **Lägg till tillägg**.
 
    ![](assets/six.png)
 
@@ -67,7 +67,7 @@ I den här artikeln visas olika sätt att förhandsgranska en webbkampanj och ä
 
 ## Förhandsgranska en webbkampanj på sidan Webbkampanjer {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. När du tittar på listan med webbkampanjer väljer du bara en kampanj och klickar på **Förhandsgranska** ikon.
+1. När du tittar på listan över dina webbkampanjer väljer du bara en kampanj och klickar på ikonen **Förhandsgranska** .
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -81,13 +81,13 @@ Skapa ett sandlådesegment och en kampanj.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klicka **Skapa nytt**.
+1. Klicka på **Skapa ny**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Namnge segmentet.
 
-1. Under Beteende drar du Inkludera sidor till arbetsytan. Lägg till värdet &#42;sandbox=1&#42;. Klicka **Spara och definiera kampanj**.
+1. Under Beteende drar du Inkludera sidor till arbetsytan. Lägg till värdet &#42;sandbox=1&#42;. Klicka på **Spara och definiera kampanj**.
 
    ![](assets/segment.png)
 
@@ -95,7 +95,7 @@ Skapa ett sandlådesegment och en kampanj.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Slutför kampanjkreativiteten och klicka **Starta**.
+1. Slutför kampanjkreativiteten och klicka på **Starta**.
 
    ![](assets/click-launch.jpg)
 
@@ -109,4 +109,4 @@ Skapa ett sandlådesegment och en kampanj.
 
 >[!NOTE]
 >
->Omdirigeringskampanjer kan inte förhandsgranskas. Det enda sättet att testa dem är att använda ett sandlådesegment (som har specifika sidor som mål - &#42;sandbox=redirect&#42;)
+>Omdirigeringskampanjer kan inte förhandsgranskas. Det enda sättet att testa dem är genom att använda ett sandlådesegment (som har specifika sidor som mål - &#42;sandbox=redirect&#42;)

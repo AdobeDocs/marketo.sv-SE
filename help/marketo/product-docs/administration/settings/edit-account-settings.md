@@ -19,7 +19,7 @@ Behöver du ändra kontots e-postadress, namn eller telefonnummer? Läs mer neda
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-account-settings-1.png)
 
@@ -31,6 +31,6 @@ Behöver du ändra kontots e-postadress, namn eller telefonnummer? Läs mer neda
 
    ![](assets/edit-account-settings-3.png)
 
-1. Redigera och klicka **[!UICONTROL Save]**.
+1. Gör dina ändringar och klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-account-settings-4.png)

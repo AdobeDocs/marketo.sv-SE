@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Skapa ett fragment {#create-a-snippet}
 
-Kodavsnitt kan användas som dynamiska innehållsblock på **e-post** och **landningssidor**.
+Fragment kan användas som dynamiska innehållsblock på **e-post**- och **landningssidor**.
 
 1. Gå till **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Klicka **Nytt** och sedan **Nytt fragment**.
+1. Klicka på **Nytt** och sedan på **Nytt fragment**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,9 +27,9 @@ Kodavsnitt kan användas som dynamiska innehållsblock på **e-post** och **land
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du [lägga till innehåll i det nya fragmentet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bra jobbat! Förenkla arbetet genom att skapa utdrag för dynamiskt innehåll. Nu kan du fortsätta och [lägga till innehåll i det nya fragmentet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Lägga till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Lägg till innehåll i ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Förstå dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

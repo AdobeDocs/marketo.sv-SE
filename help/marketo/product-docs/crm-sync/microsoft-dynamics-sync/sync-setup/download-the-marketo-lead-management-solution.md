@@ -6,7 +6,7 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Du måste hämta och installera en Marketo Engage-lösning i ditt Microsoft Dyna
 
 >[!CAUTION]
 >
->Du måste ladda ned den senaste Marketo-lösningen _före_ utför alla uppgraderingar.
+>Du måste ladda ned den senaste Marketo-lösningen _innan_ utför en uppgradering.
 
 >[!NOTE]
 >
 >Marketo stöder endast SSL-certifikat som för närvarande är kompatibla med Java 7.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

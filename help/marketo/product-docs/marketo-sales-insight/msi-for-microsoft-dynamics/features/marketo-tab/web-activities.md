@@ -19,4 +19,4 @@ Granska de senaste webbaktiviteterna för ditt lead och ange antal besökssidor 
 
 ## Anonyma webbaktiviteter {#anonymous-web-activities}
 
-Fliken Anonyma webbaktiviteter visar alla **anonym** webbaktiviteter för besökare på webbsidor. Granska de senaste webbaktiviteterna och se hur många besökare sidorna har.
+På fliken Anonyma webbaktiviteter visas alla **anonyma** webbsidesbesökares aktiviteter. Granska de senaste webbaktiviteterna och se hur många besökare sidorna har.

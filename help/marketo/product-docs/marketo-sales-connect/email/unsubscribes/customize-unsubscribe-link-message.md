@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 ## Anpassa meddelanden för dig själv {#customize-messaging-for-yourself}
 
-1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
 
    ![](assets/one.png)
 
-1. Under Mitt konto väljer du **Avbeställ**.
+1. Välj **Avbeställ** under Mitt konto.
 
    ![](assets/two-1.png)
 
@@ -39,26 +39,26 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
    >[!NOTE]
    >
-   >Det spelar ingen roll vilken URL-adress det är som hyperlänkas. När e-postmeddelandet skickas konverteras hyperlänken till länken för att avbryta prenumerationen.
+   >Det spelar ingen roll vilken URL:en är som hyperlänkas. När e-postmeddelandet skickas konverteras hyperlänken till länken för att avbryta prenumerationen.
 
-1. Klicka **OK**.
+1. Klicka på **OK**.
 
    ![](assets/five.png)
 
 ## Ange avbeställningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
 
-1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
 
    ![](assets/six.png)
 
-1. Under Administratörsinställningar väljer du **Avbeställ**.
+1. Välj **Avsluta prenumeration** under Administratörsinställningar.
 
    ![](assets/eight.png)
 
-1. Anpassa meddelanden och klicka **Spara** när det är klart.
+1. Anpassa meddelandet och klicka på **Spara** när du är klar.
 
    ![](assets/seven.png)
 
-1. Välj **Jag ställer in standardmeddelandet för mitt team** om meddelandet ska gälla alla användare.
+1. Välj **Jag ställer in standardmeddelandet för mitt team** så att meddelandet gäller för alla användare.
 
    ![](assets/eleven.png)

@@ -6,14 +6,14 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
 
 # Översikt över kommandocentralen {#command-center-overview}
 
-Kommentarscentret är en enhetlig vy som hjälper dig att komma på nästa steg, samtidigt som du ser till att inget faller igenom sprickorna.
+Kommentarscentret är en enhetlig vy som hjälper dig att komma på nästa steg, samtidigt som inget faller igenom sprickorna.
 
 ## Hantera e-postmeddelanden {#manage-emails}
 
@@ -36,14 +36,14 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
    <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Beskrivning</span> </strong></p></td> 
   </tr> 
   <tr> 
-   <td title="Bakgrundsfärg: Blå"><strong title="">Skickat</strong></td> 
-   <td title="Bakgrundsfärg: Blå">Levererat</td> 
-   <td title="Bakgrundsfärg: Blå">E-postmeddelanden som har levererats till mottagaren.</td> 
+   <td title="Bakgrundsfärg : Blå"><strong title="">Skickat</strong></td> 
+   <td title="Bakgrundsfärg : Blå">Levererat</td> 
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har levererats till mottagaren.</td> 
   </tr> 
   <tr> 
-   <td title="Bakgrundsfärg: Blå"><br></td> 
-   <td title="Bakgrundsfärg: Blå">Arkiverad</td> 
-   <td title="Bakgrundsfärg: Blå">E-postmeddelanden som har arkiverats av användaren för att inaktivera spårning av e-postmeddelanden.</td> 
+   <td title="Bakgrundsfärg : Blå"><br></td> 
+   <td title="Bakgrundsfärg : Blå">Arkiverad</td> 
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har arkiverats av användaren för att inaktivera spårning av e-postmeddelanden.</td> 
   </tr> 
   <tr> 
    <td title="Bakgrundsfärg: Grå"><strong title="">Väntande</strong></td> 
@@ -53,7 +53,7 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
   <tr> 
    <td title="Bakgrundsfärg: Grå"><br></td> 
    <td title="Bakgrundsfärg: Grå">Utkast</td> 
-   <td title="Bakgrundsfärg: Grå"><p>E-postmeddelanden som har sparats som ett utkast.<br><strong>Obs!</strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-post och gruppmeddelanden) sparas inte som utkast.</p></td> 
+   <td title="Bakgrundsfärg: Grå"><p>E-postmeddelanden som har sparats som ett utkast.<br><strong>Obs!</strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-postmeddelanden och gruppmeddelanden) sparas inte som utkast.</p></td> 
   </tr> 
   <tr> 
    <td title="Bakgrundsfärg: Grå"><br></td> 
@@ -61,19 +61,19 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
    <td title="Bakgrundsfärg: Grå">Det här är ett mellanläge som e-postmeddelanden går in i när de är i sändningsrörelsen. E-postmeddelanden får bara vara under utveckling en stund.</td> 
   </tr> 
   <tr> 
-   <td title="Bakgrundsfärg: Blå"><strong title="">Olevererad</strong></td> 
-   <td title="Bakgrundsfärg: Blå">Misslyckades</td> 
-   <td title="Bakgrundsfärg: Blå">E-postmeddelanden som inte har levererats.</td> 
+   <td title="Bakgrundsfärg : Blå"><strong title="">Olevererad</strong></td> 
+   <td title="Bakgrundsfärg : Blå">Misslyckades</td> 
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som inte har levererats.</td> 
   </tr> 
   <tr> 
-   <td title="Bakgrundsfärg: Blå"><br></td> 
-   <td title="Bakgrundsfärg: Blå">Studsade</td> 
-   <td title="Bakgrundsfärg: Blå"><p>E-postmeddelanden som har avvisats från mottagarnas e-postserver. <br><strong>Obs!</strong> Detta upptäcks endast om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</p></td> 
+   <td title="Bakgrundsfärg : Blå"><br></td> 
+   <td title="Bakgrundsfärg : Blå">Studsade</td> 
+   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har avvisats från mottagarnas e-postserver. <br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td> 
   </tr> 
   <tr> 
-   <td title="Bakgrundsfärg: Blå"><br></td> 
-   <td title="Bakgrundsfärg: Blå">Spam</td> 
-   <td title="Bakgrundsfärg: Blå"><p>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br><strong>Obs!</strong> Detta upptäcks endast om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</p></td> 
+   <td title="Bakgrundsfärg : Blå"><br></td> 
+   <td title="Bakgrundsfärg : Blå">Spam</td> 
+   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -90,10 +90,10 @@ När ni väl har börjat engagera era prospects via dispositionsfönstret eller 
 
 Om du till exempel lägger till 100 personer i en kampanj i MSC kanske du vill rikta om dem som visade och klickade på ditt e-postmeddelande, men inte svarade på det. För att göra detta kan du använda Campaign-filtret tillsammans med filtren Visa och klicka på status Activity (Aktivitet) för att identifiera en lista över personer som ska återställas.
 
-Bonus: Om du sparar din avancerade sökning kommer den att fungera som en dynamisk lista och lägga till e-postmeddelanden som uppfyller engagemangskriterierna när mottagaren visar eller klickar på ditt e-postmeddelande.
+Bonus: Om du sparar din avancerade sökning fungerar den som en dynamisk lista och lägger till e-postmeddelanden som uppfyller engagemangskriterierna när mottagaren visar eller klickar på ditt e-postmeddelande.
 
 >[!MORELIKETHIS]
 >
 >* [Uppgifter](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [Översikt över avancerad sökning](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Avancerad sökning - översikt](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

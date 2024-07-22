@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Så här installerar du Sales Connect-knappar i Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
-Installera enkelt samtal med Marketo Sales Connect, Send Marketo Sales Email och Add to Campaign. Du måste ha administratörsbehörighet i Salesforce för att kunna installera dessa fält.
+Installera enkelt samtal med Marketo Sales Connect, Send Marketo Sales Email och Add to Campaign. Du måste ha administratörsbehörighet i Salesforce för att kunna installera de här fälten.
 
 1. Logga in på [Salesforce.com.](https://salesforce.com)
-1. Klicka **Anpassa**.
-1. Klicka **Leads**.
-1. Klicka **Sidlayouter**.
-1. Klicka **Redigera** bredvid Leadlayouten vill du lägga till knapparna i.
-1. Klicka **Knappar**.
+1. Klicka på **Anpassa**.
+1. Klicka på **Leads**.
+1. Klicka på **Sidlayouter**.
+1. Klicka på **Redigera** intill den leadlayout som du vill lägga till knapparna i.
+1. Klicka på **Knappar**.
 1. Dra och släpp Sales Connect-knapparna till delen Lead Details (Leadinformation).
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    >[!NOTE]
    >
-   >Du kan upprepa de här stegen för att installera dem i kontaktlayouten. Se till att du väljer **Kontakter** för steg 3.
+   >Du kan upprepa de här stegen för att installera dem i kontaktlayouten. Var noga med att välja **Kontakter** för steg 3.

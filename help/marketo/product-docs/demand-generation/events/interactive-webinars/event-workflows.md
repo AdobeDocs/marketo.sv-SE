@@ -22,19 +22,19 @@ När webbinariet är klart går du till fliken Kontrollpanel för att se de samm
 
 ## Manuell synkronisering {#manual-sync}
 
-Med interaktiva webbinarier kan du få tillgång till dina interaktionsdata från Adobe Connect om du inte har fått dem automatiskt inom två timmar efter att webbinariet har slutförts. Knappen Synkronisera nu visas på sidan Översikt. Klicka **Synkronisera nu** utlöser en pull från Adobe Connect för att fylla i data i Marketo Engage. När synkroniseringen har utförts försvinner knappen och fliken Kontrollpanel fylls i.
+Med interaktiva webbinarier kan du få tillgång till dina interaktionsdata från Adobe Connect om du inte har fått dem automatiskt inom två timmar efter att webbinariet har slutförts. Knappen Synkronisera nu visas på sidan Översikt. Om du klickar på **Synkronisera nu** aktiveras en pull från Adobe Connect för att fylla i data i Marketo Engage. När synkroniseringen har utförts försvinner knappen och fliken Kontrollpanel fylls i.
 
 ## Kontrollpanelwidgetar {#dashboard-widgets}
 
 Kontrollpanelen består av fyra widgetar.
 
-**Status för händelseprogram**: Visar de olika programstatusarna för den händelsen och det antal medlemmar i programmet som för närvarande har det aktuella programstatusvärdet.
+**Händelseprogramstatus**: Visar de olika programstatusarna för den händelsen och antalet medlemmar i programmet som för närvarande har det här programstatusvärdet.
 
-**Närvaro**: Markerar närvarotiden för olika medlemmar som har deltagit i webbinariet i procent jämfört med den totala längden för webbinariet.
+**Närvaro**: Framhäver närvarotiden för olika medlemmar som har deltagit i webbinariet i procent jämfört med den totala längden för webbinariet.
 
-**Avsökningsprestanda**: Visar olika omröstningar som utlösts under det webbinarium som drivs av Adobe Connect och distributionen av de medlemmar som har deltagit i och svarat på omröstningen för var och en av svaren.
+**Avsökningsprestanda**: Visar olika avsökningar som har startats under det webbinarium som drivs av Adobe Connect och distributionen av medlemmar som har deltagit i och svarat på avsökningen för var och en av svaren.
 
-**Klicka och hämta filer**: Visar antalet nedladdningar av filer och webblänkar som klickats under webbinariet som drivs av Adobe Connect av olika medlemmar som har deltagit i webbinariet och vidtagit just den åtgärden.
+**Klicknings- och filhämtningsaktivitet**: Anger antalet nedladdningar av filer och webblänkar som klickats under det webbinarium som drivs av Adobe Connect av olika medlemmar som har deltagit i webbinariet och vidtagit den specifika åtgärden.
 
 ## Inspelning av webbinarium {#webinar-recording}
 
@@ -44,7 +44,7 @@ Gå till fliken Översikt om du vill visa det inspelade webbinariet, få länken
 
 >[!NOTE]
 >
->* Interaktiva webbinarier registreras inte automatiskt. När webbinariet har startats klickar du på listrutan bredvid webbinariets namn och väljer **Spela in session**.
+>* Interaktiva webbinarier registreras inte automatiskt. När webbinariet har startats klickar du på listrutan bredvid namnet på webbinariet och väljer **Spela in session**.
 >* Om sessionen spelas in måste värden avsluta inspelningen manuellt eller välja &quot;Avsluta session för alla&quot; för att stoppa inspelningen. I annat fall stoppas inspelningen automatiskt inom 10 minuter från den sista deltagaren i rummet.
 >* Inspelningen hämtas i MP4-format.
 >* När du delar inspelningen kan den visas av alla som har länken, så se till att den delas med den avsedda publiken.
@@ -57,22 +57,22 @@ Använd interaktiva webbinarier-relaterade triggers och filter för att hitta sp
 
 Varje utlösare/filter har ytterligare begränsningar, vilket gör att du kan fånga en fokuserad delmängd av gruppen.
 
-**Frågar frågor under evenemanget** (Filterversion: Har ställt frågor under händelse)
+**Frågar frågor under händelse** (Filterversion: Har ställt frågor under händelse)
 
 ![](assets/event-workflows-4.png)
 
-**Deltagarhändelse** (Filterversion: Har övervakat händelse)
+**Deltar i händelse** (Filterversion: Har övervakad händelse)
 
 ![](assets/event-workflows-5.png)
 
-**Klicka på en länk** (Filterversion: Klicka på en länk)
+**Klicka på en länk** (filterversion: klickad på en länk)
 
 ![](assets/event-workflows-6.png)
 
-**Hämtar en resurs** (Filterversion: Hämtade en resurs)
+**Hämtar en resurs** (filterversion: Hämtade en resurs)
 
 ![](assets/event-workflows-7.png)
 
-**Svar på en omröstning** (Filterversion: svarar på en omröstning)
+**Svar på en omröstning** (filterversion: Svarat på en omröstning)
 
 ![](assets/event-workflows-8.png)

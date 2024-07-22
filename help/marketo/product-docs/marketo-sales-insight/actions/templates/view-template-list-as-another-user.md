@@ -20,11 +20,11 @@ Som administratör kan du visa mallar som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka **Mallar**.
+1. Klicka på **Mallar**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Klicka på **Visa som** och välj önskad användare.
+1. Klicka på listrutan **Visa som** och välj önskad användare.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ Som administratör kan du visa mallar som alla användare.
 
    >[!NOTE]
    >
-   >Du kan också använda filter eller sökfunktionen tillsammans med _Visa som_ för att se vad som är mest relevant för dig.
+   >Du kan också använda filter eller sökfunktionen tillsammans med _Visa som_ för att visa vad som är mest relevant för dig.

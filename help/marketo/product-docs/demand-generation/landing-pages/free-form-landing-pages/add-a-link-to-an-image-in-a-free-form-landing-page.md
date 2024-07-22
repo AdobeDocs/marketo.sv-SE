@@ -17,21 +17,21 @@ Vill du göra en bild på landningssidan till en länk till en annan sida/plats?
 
 >[!PREREQUISITES]
 >
->[Lägga till en bild på en landningssida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Lägg till en bild på en startsida med valfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Klicka på bilden som du vill lägga till en länk till.
 
    ![](assets/click-on-image.png)
 
-1. Expandera **Egenskapssida**.
+1. Expandera **egenskapssidan**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopiera eller skriv in länken i **linkUrl** box.
+1. Kopiera eller skriv in länken i rutan **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Nu kan du [förhandsgranska sidan](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) för att se hur det fungerar.
+   Grattis! Du har nu lagt till en länk till en bild på landningssidan. Du kan nu [förhandsgranska sidan](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) och se hur den fungerar.
 
 >[!TIP]
 >

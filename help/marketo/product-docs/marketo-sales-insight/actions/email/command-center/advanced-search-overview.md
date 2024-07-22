@@ -16,11 +16,11 @@ Genom att använda den avancerade sökningen för att rikta dig till potentiella
 
 ## Använda avancerad sökning {#how-to-access-advanced-search}
 
-1. Klicka på **Kommandocentral**.
+1. Klicka på **Kommandocentral** i webbprogrammet.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Klicka **E-post**.
+1. Klicka på **E-post**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -127,7 +127,7 @@ Filtrerar efter e-postmeddelanden som aldrig levererats.
  </tr>
  <tr>
   <td><strong>Misslyckades</strong></td>
-  <td>När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är: e-postmeddelanden skickas till kontakter som inte längre är prenumererade/blockerade eller om det uppstod ett problem med att fylla i de dynamiska fälten).</td>
+  <td>När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är bland annat: e-postmeddelanden skickas till kontakter som avbrutit prenumerationen/blockerats, eller om det uppstod ett problem med att fylla i de dynamiska fälten).</td>
  </tr>
  <tr>
   <td><strong>Studsade</strong></td>
@@ -147,7 +147,7 @@ Så här skapar du en sparad sökning.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Ge sökningen ett namn och klicka **Spara**.
+1. Ge sökningen ett namn och klicka på **Spara**.
 
    ![](assets/advanced-search-overview-14.png)
 

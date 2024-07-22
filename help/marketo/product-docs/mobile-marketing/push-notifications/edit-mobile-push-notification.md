@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Redigera mobilpush-meddelanden {#edit-mobile-push-notification}
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Läs mer om [konfigurera push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) här.
+>Läs mer om att [konfigurera push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) här.

@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Marketo tillhandahåller sex layouter för att skapa meddelanden i appen.
 
 De tre popup-layouterna innehåller alla förinställda designelement, inklusive en bild, text, knappar och en bakgrund.
 
-Den första popup-layouten är standardvalet av en bra anledning: Det passar de flesta användningsområden. Det fungerar bra med bilder med låg upplösning. Layouten använder standardteckensnitten för din plattform (Helvetica för Apple, Roboto för Android), så den ser alltid bra ut på en telefon eller surfplatta. Du kan överföra och montera huvud- och bakgrundsbilderna, skriva egen huvud- och stödtext samt konfigurera huvud- och stängningsknapparna. Texten är begränsad till tre rader vid 24 pixlar. Större textstorlekar minskar antalet rader.
+Den första popup-layouten är standardvalet av en bra anledning: Den passar de flesta användningsområden. Det fungerar bra med bilder med låg upplösning. Layouten använder standardteckensnitten för din plattform (Helvetica för Apple, Roboto för Android), så den ser alltid bra ut på en telefon eller surfplatta. Du kan överföra och montera huvud- och bakgrundsbilderna, skriva egen huvud- och stödtext samt konfigurera huvud- och stängningsknapparna. Texten är begränsad till tre rader vid 24 pixlar. Större textstorlekar minskar antalet rader.
 
 ![](assets/image2016-5-9-13-3a3-3a48.png)
 
@@ -58,7 +58,7 @@ Den tredje helskärmslayouten är densamma som den andra, förutom den andra kna
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu när du känner till mallarna är det dags att välja en när du [skapa dina bilder för meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Nu när du känner till mallarna är det dags att välja en när du [skapar dina bilder i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >

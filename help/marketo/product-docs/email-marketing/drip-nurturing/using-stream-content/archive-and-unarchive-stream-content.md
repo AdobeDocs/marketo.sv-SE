@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Arkivera och arkivera ströminnehåll {#archive-and-unarchive-stream-content}
 
-Om du inte längre vill använda något innehåll i en ström kan du antingen [ta bort](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) eller arkivera det. Så här arkiverar du innehåll.
+Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) den eller arkivera den. Så här arkiverar du innehåll.
 
 >[!TIP]
 >
->Borttagning förstör all tillhörande historik. arkivering bevarar den.
+>Om du tar bort förstörs all tillhörande historik. Om du arkiverar bevaras den.
 
 ## Arkivera ströminnehåll {#archive-stream-content}
 
-1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan under kugghjulsikonen **Arkiv**.
+1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan på **Arkiv** under kugghjulsikonen.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,7 +33,7 @@ Om du inte längre vill använda något innehåll i en ström kan du antingen [t
 
 ## Oarkiverat ströminnehåll {#unarchive-stream-content}
 
-1. Välj engagemangsprogram och gå till **Strömmar** -fliken.
+1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 

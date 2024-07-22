@@ -17,11 +17,11 @@ Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den h�
 
 >[!CAUTION]
 >
->För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
+>Undvik att _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det startade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande [klonar du det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
 ## Välj e-postprogram {#select-your-email-program}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för när
 
 ## Vy för e-postprogram {#email-program-view}
 
-Om du inte lade till ett A/B-test kan du även göra det *eller* Om testet är över ska följande visas:
+Om du inte lade till ett A/B-test *eller* om testet är över ska följande visas:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -52,4 +52,4 @@ Om du inte lade till ett A/B-test kan du även göra det *eller* Om testet är �
 >[!MORELIKETHIS]
 >
 >* [Använd kontrollpanelen för e-postprogram - A/B-testvy](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Använda kontrollpanelen för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Använd kontrollpanelen för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

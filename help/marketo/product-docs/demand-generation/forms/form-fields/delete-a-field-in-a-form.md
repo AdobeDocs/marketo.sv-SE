@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om det finns ett fält som du inte längre behöver i formuläret kan det enkelt tas bort. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,18 +23,18 @@ Om det finns ett fält som du inte längre behöver i formuläret kan det enkelt
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Markera fältet och klicka på **delete** ikon.
+1. Markera fältet och klicka på ikonen **ta bort** .
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->Glöm inte att [godkänna utkastet till landningssida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
+>Glöm inte att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.

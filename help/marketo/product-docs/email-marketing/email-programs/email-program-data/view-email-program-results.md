@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Precis som på fliken Resultat i smarta kampanjer kan du se samma information i e-postprogram.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Precis som på fliken Resultat i smarta kampanjer kan du se samma information i 
    >
    >Om e-postprogrammet redan har körts dirigeras du direkt till kontrollpanelen för e-postprogrammet.
 
-1. Under **Visa**, markera **Kontrollpanelen**.
+1. Under **Visa** väljer du **Kontrollpanelen**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Under **Målgrupp** platta, klicka **Visa resultat**.
+1. Klicka på **Visa resultat** under rutan **Målgrupp**.
 
    ![](assets/audiencetile.jpg)
 

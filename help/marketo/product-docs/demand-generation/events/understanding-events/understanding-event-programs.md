@@ -30,10 +30,10 @@ Ett eventprogram är en typ av program som kan användas för att automatisera o
 >* Varumärken
 >* Möten
 
-Händelser kan automatiskt ansluta till [webbinarier](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) samt synkronisera med en [iPad incheckningsapp](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Händelser kan automatiskt ansluta till din [webbinarileverantör](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) samt synkronisera med en [iPad-incheckningsapp](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [LaunchPoint-händelsepartners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

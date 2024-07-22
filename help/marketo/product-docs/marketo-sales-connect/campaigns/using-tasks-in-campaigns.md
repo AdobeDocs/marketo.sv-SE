@@ -6,7 +6,7 @@ exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om de
 
 Uppgifter kopplas alltid till varje enskild person i kampanjen. Det innebär att ni måste gå till varje person och avsluta uppgiften för att deras enskilda kampanj ska kunna fortsätta.
 
-Du kan hantera dina uppgifter i: på fliken Uppgifter i din kampanj i Campaign 2.0, direkt från ditt kommandocentral eller från aktivitetsavsnittet i Live Feed. Dessutom kan du hantera dina uppgifter från Salesforce.
+Du kan hantera dina uppgifter i: fliken Åtgärder i din kampanj i Campaign 2.0, direkt från ditt kommandocentral eller från aktivitetsavsnittet i Live Feed. Dessutom kan du hantera dina uppgifter från Salesforce.

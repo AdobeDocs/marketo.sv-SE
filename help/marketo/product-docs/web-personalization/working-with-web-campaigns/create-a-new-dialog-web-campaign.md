@@ -6,7 +6,7 @@ exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Skapa en webbkampanj för att personalisera ert webbinnehåll i realtid och leverera rätt budskap till rätt användare vid rätt tidpunkt.
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. Reaktionen kan vara en dialogruta på din webbplats, och [in-zon-ersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [widgetfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. Svaret kan vara en dialogruta på webbplatsen, en [i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en [widgetfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering.
 
 1. Gå till **Webbkampanjer**.
 
@@ -27,7 +27,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Välj **Dialog** webbkampanjtyp. Designa och lägg till din kreativitet i redigeraren. Klicka **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på er webbplats.
+1. Välj webbkampanjtypen **Dialog**. Designa och lägg till din kreativitet i redigeraren. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
 
    ![](assets/new-3.png)
 
@@ -55,7 +55,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animera in/ut</strong></td> 
-   <td colspan="1">Ange vid dialoginträde och/eller -avslutning. Välj effekt (släpp, blinda, glid, tona, ingen effekt), varaktighet (i sekunder) och riktning (upp, ned, vänster, höger).</td> 
+   <td colspan="1">Ange vid dialogrutans inmatning och/eller avslutning. Välj effekt (släpp, blinda, glid, tona, ingen effekt), varaktighet (i sekunder) och riktning (upp, ned, vänster, höger).</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td> 
@@ -86,7 +86,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
    <td colspan="1">Antalet sekunder som dialogrutan aktiveras innan den tonas ut.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Sidhuvudsfärg</strong></td> 
+   <td colspan="1"><strong>Huvudfärg</strong></td> 
    <td colspan="1">Ställ in den önskade färgen på dialogrutans rubrikfält. Färgen kan väljas från ett färgdiagram eller anges som en hexadecimal färgkod. </td> 
   </tr> 
   <tr> 
@@ -115,11 +115,11 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Förhandsgranska på plats</strong></td> 
-   <td colspan="1">Förhandsgranska kampanjer innan de lanseras.<br> 
+   <td colspan="1">Förhandsgranska kampanjer innan de startas.<br> 
     <ul> 
      <li>URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
-     <li>Enhet - Förhandsgranska hur kampanjen kommer att visas per enhet: Stationär dator, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.<br></li> 
-     <li>Förhandsgranska - klicka <strong>Förhandsgranska </strong>om du vill öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar. </li> 
+     <li>Enhet - Förhandsgranska hur kampanjen kommer att se ut på olika enheter: Stationär dator, Mobilt stående, Mobilt liggande, Stående surfplatta, Stående liggande.<br></li> 
+     <li>Förhandsgranska - Klicka på <strong>Förhandsgranska </strong> för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar. </li> 
      <li>Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li> 
     </ul></td> 
   </tr> 
@@ -128,21 +128,21 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
 >[!TIP]
 >
->Snabba upp och förenkla processen för att skapa kampanjer med våra [inbyggda mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller av [spara befintlig kampanj](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
+>Snabba upp och förenkla processen för att skapa kampanjer genom att använda våra [inbyggda mallar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) eller genom att [spara din befintliga kampanj](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) som en mall för återanvändning.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-1. Från **Webbkampanjer** sida, klicka **Redigera** på webbkampanjen.
+1. På sidan **Webbkampanjer** klickar du på **Redigera** i webbkampanjen.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. Från **Webbkampanjer** sida, klicka **Förhandsgranska** på den webbkampanj du vill se.
+1. På sidan **Webbkampanjer** klickar du på **Förhandsgranska** på den webbkampanj som du vill visa.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Från **Webbkampanjer** sida, klicka **Ta bort** på webbkampanjen som du vill ta bort.
+1. På sidan **Webbkampanjer** klickar du på **Ta bort** på den webbkampanj som du vill ta bort.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -161,4 +161,4 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 >[!MORELIKETHIS]
 >
 >* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Skapa en RTP-widgetkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Skapa en Widget-kampanj för RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

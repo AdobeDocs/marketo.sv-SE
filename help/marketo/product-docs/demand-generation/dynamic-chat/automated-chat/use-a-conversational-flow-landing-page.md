@@ -17,7 +17,7 @@ Genom att bädda in ett konversationsflöde i Dynamic Chat direkt på en landnin
 
 >[!PREREQUISITES]
 >
->Skapa en enkel [Konversationsflöde](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) som bara innehåller **Mötesbokning** kort.
+>Skapa ett enkelt [konversationsflöde](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) som bara innehåller ett **mötesbokningskort**.
 
 ## Guidade landningssidor {#guided-landing-pages}
 
@@ -27,7 +27,7 @@ Bädda in följande kod i mallen för guidad landningssida: `<div class="mktoCon
 
 Klicka på listrutan Konversationsflöde och välj den CF som du skapade i steg 1.
 
-Behåll alltid leveranstyp som **Textbunden**. Klicka **Infoga**.
+Behåll alltid leveranstypen som **textbunden**. Klicka på **Infoga**.
 
 Det konversationsflöde du just angav visas som ett element till höger.
 

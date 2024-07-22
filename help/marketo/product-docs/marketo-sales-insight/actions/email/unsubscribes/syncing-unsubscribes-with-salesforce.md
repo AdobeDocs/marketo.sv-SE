@@ -17,16 +17,16 @@ Om du vill synkronisera avanmälan med ett avanmälningsfält i Salesforce kan d
 ## Krav för att avbryta prenumerationen på Synkronisera med Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Synkronisering av avbruten prenumeration måste vara aktiverat (för nightly sync)
-* Fältet Avanmäl dig måste vara installerat i Salesforce
+* Fältet för avanmälan måste vara installerat i Salesforce
 * Personposter i Marketo försäljning måste ha ett Salesforce-ID
 
 **Push Unsubscribe**
 
-När en avanmälan samlas in i Marketo Sales skickar vi den till Salesforce i realtid och uppdaterar något av de avanmälningsfält som du har valt att synkronisera med. Om du har inaktiverat Salesforce-synkroniseringen kommer vi fortfarande att pusha över avbeställningen till avanmälan via e-post.
+När en avanmälan samlas in i Marketo Sales skickar vi den till Salesforce i realtid och uppdaterar något av avanmälningsfälten som du har valt att synkronisera med. Om du har inaktiverat Salesforce-synkroniseringen kommer vi fortfarande att pusha över avbeställningen till avanmälan via e-post.
 
 **Avbeställ synkronisering**
 
-När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avbeställningar i Marketo Sales med fältet Avanmäl i Salesforce.
+När du har aktiverat synkroniseringen för att avbryta prenumerationen (steg 3 nedan) aktiveras synkroniseringen varje natt. Synkroniseringen sker en gång om dagen runt kl. 20.00 PST. Den synkroniserar alla avbeställningar i Marketo Sales med fältet Avanmäl dig i Salesforce.
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Klicka på **Integreringar** -fliken. Aktivera nattsynkronisering under Synkronisera med Salesforce.
+1. Klicka på fliken **Integrationer**. Aktivera nattsynkronisering under Synkronisera med Salesforce.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -54,8 +54,8 @@ Användare kan bestämma sig för om de vill synkronisera sin avanmälan med sta
 
    | Fält | Beskrivning |
    |---|---|
-   | **Synkronisera med Salesforce-alternativfält** | Markerat som standard uppdaterar bara Salesforce-alternativfältet. |
-   | **Synkronisera med fältet för Marketo-avanmälan** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [Marketo förs.avanmäl dig.](#msoo) |
+   | **Synkronisera med Salesforce-fältet för avanmälan** | Markerat som standard uppdaterar bara Salesforce-alternativfältet. |
+   | **Synkronisera med fältet för avanmälan för Marketo-försäljning** | Om du vill avgränsa försäljning och marknadsföring väljer du det här alternativet för att uppdatera ytterligare [avanmälningsfält för Marketo.](#msoo) |
 
 ## Installera avanmälningsfältet i sidlayouten {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -91,12 +91,12 @@ Avanmäl dig via e-post är ett standardfält i Salesforce som kan installeras f
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat paketet Marketo Sales Insight [från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Insight-paketet [ från AppExchangen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-När du har installerat Marketo Sales Insight-paketet från AppExchange till Salesforce visas fältet Marketo Sales Opt Out som du har tillgång till.
+När du har installerat Marketo Sales Insight-paketet från AppExchangen till Salesforce visas fältet Marketo Sales Opt Out som är tillgängligt för dig.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ställa in utlösare och filter för en smart kampanj för mobilappar.
 
-För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd, som att trycka på ett push-meddelande, som _inte_ inträffar.
+För de flesta aktiviteter finns det en utlösare, ett filter och ett inaktivitetsfilter. Använd inaktivitetsfilter för att spåra en åtgärd, som att trycka på ett push-meddelande, som _inte_ inträffade.
 
 * Mobilappen är/har installerats
 * Mobilappen har öppnats/öppnats
@@ -39,7 +39,7 @@ Använd begränsningar med utlösare och filter för att ytterligare sortera dat
 
 Alla utlösare och filter, förutom för Skickat push-meddelande, innehåller följande två standardbegränsningar:
 
-* Enhetstyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android-smarttelefon, Android-surfplatta, Okänd (det här är en förinställningslista)
+* Enhetstyp - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android smartphone, Android tablet, Unknown (det här är en förinställningslista)
 
 * Plattform - iPhone eller Android
 
@@ -47,7 +47,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Appversion - Ett sätt att rikta sig till personer som inte har den senaste versionen. Om den senaste programversionen till exempel är 2.0 kan du använda den för att hitta personer som INTE finns i programversion 2.0
 
-* Installationskälla - För närvarande är det enda alternativet API
+* Installera Source - För närvarande är det enda alternativet API
 
 * Språk - Inställningen på enheten
 
@@ -57,7 +57,7 @@ Vissa utlösare och filter har ytterligare begränsningar, till exempel:
 
 * Sessionslängd (sekunder) - Sessionstid när programmet är i förgrunden
 
-* Är push-aktiverad - **True** innebär att push-meddelanden kan skickas. **Falskt** innebär att de inte kan det, till exempel kan personen ha avanmält sig från att ta emot push-meddelanden
+* Är push-aktiverad - **True** betyder att push-meddelanden kan skickas. **Falskt** betyder att de inte kan det. Personen kan till exempel ha avanmält sig från att ta emot push-meddelanden
 
 ## Utlösare och filter {#triggers-and-filters}
 
@@ -69,7 +69,7 @@ Använd det här filtret för att ta reda på alla som har installerat din app. 
 >
 >Filtret hittar både aktuella och tidigare installationer eftersom Marketo inte spårar programavinstallationer.
 
-**Begränsningar** - Enhetstyp, plattform, mobilapp, mobilappsversion, enhetstyp, installationskälla, är aktiverad och språkinställning
+**Begränsningar** - Enhetstyp, plattform, mobilapp, mobilappsversion, enhetstyp, installera Source, är aktiverad och nationell inställning
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ Mobilappen är/har installerats
 
 * NOT Mobile App was Installed - inactivity filter
 
-**Begränsningar** - Enhetstyp, plattform, appversion, språk och installationskälla
+**Begränsningar** - Enhetstyp, plattform, appversion, språkområde och installera Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -129,7 +129,7 @@ Med åtgärdsbegränsningarna kan du använda utlösaren och filtren för att sp
 >
 >**Exempel**
 >
->Under åtgärdstypen för *Shopping*, här är en mycket specifik åtgärd med andra begränsningar som definierar den:
+>Under åtgärdstypen för *Shopping* finns det en mycket specifik åtgärd, med de andra begränsningarna som definierar den:
 >
 >* Köpte en skjorta
 >   * Det var rött
@@ -152,7 +152,7 @@ Så här ser filtret ut i Marketo:
 >| Åtgärdsinformation | Färg | Färg |
 >| Åtgärdsmått | Pris | Pris |
 
-**Har/haft en mobilappssession**
+**Har/har haft en mobilappssession**
 
 * Har mobilappssession - utlösare
 
@@ -172,7 +172,7 @@ Tryck/tryck på push-meddelande
 
 * Ej aktiverat push-meddelande - inaktivitetsfilter
 
-**Begränsningar** - Enhetstyp, plattform, mobilappsversion, push-meddelanden och plattformsversion
+**Begränsningar** - Enhetstyp, plattform, mobilappsversion, push-meddelande och plattformsversion
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,17 +180,17 @@ Tryck/tryck på push-meddelande
 >
 >Använd inaktivitetsfiltret Ej påsatt push-meddelande för att hitta personer som inte tryckte på ett push-meddelande som nyligen skickats till dem, så att du kan följa upp via e-post.
 
-**Har skickat push-meddelande** Den här aktiviteten är bara tillgänglig som ett filter.
+**Har skickats push-meddelande** Den här aktiviteten är bara tillgänglig som ett filter.
 
 * Skickades push-meddelande - filter
 
 * EJ skickat push-meddelande - inaktivitetsfilter
 
-**Begränsningar** - Push-meddelanden och mobilapp
+**Begränsningar** - push-meddelanden och mobilapp
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Lägga till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Lägg till en begränsning i ett smart listfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
 >* [Använd inaktivitetsfilter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

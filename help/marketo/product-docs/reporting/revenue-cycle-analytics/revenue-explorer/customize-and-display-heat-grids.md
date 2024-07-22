@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Ett värmerutnät representerar dina data i ett färgat rutnät så att du enklare och snabbare kan identifiera bra och dåliga mönster.
 
-1. Klicka på diagramsymbolen i rapporten och klicka sedan på **Värmestödraster**.
+1. Klicka på diagramsymbolen i rapporten och sedan på **Värmestödraster**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Gör ändringar i **Värmestödraster**, går till **Egenskaper** område.
+1. Gå till området **Egenskaper** om du vill göra ändringar i det **värmea stödrastret**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Häftig! Nu har du **Värmestödraster**!
+   Häftig! Du har nu ditt **värmerutnät**!

@@ -21,7 +21,7 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
 ## Blockera fältuppdateringar från otillförlitliga källor {#blocking-field-updates-from-untrusted-sources}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
@@ -29,26 +29,26 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Hitta det fält du vill använda, markera det och sedan under **[!UICONTROL Field Actions]**, klicka **[!UICONTROL Block Field Updates]**.
+1. Hitta det fält du vill använda, markera det och klicka sedan på **[!UICONTROL Block Field Updates]** under **[!UICONTROL Field Actions]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Kontrollera **[!UICONTROL List Import untrusted source]** och klicka **[!UICONTROL Apply]**.
+1. Markera **[!UICONTROL List Import untrusted source]** och klicka på **[!UICONTROL Apply]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->Du kan skydda fält från alla listor (tillförlitliga och ej tillförlitliga) genom att även kontrollera **[!UICONTROL List Import trusted source]**.
+>Du kan skydda fält från alla listor, betrodda och ej tillförlitliga, genom att även kontrollera **[!UICONTROL List Import trusted source]**.
 
 Upprepa stegen ovan för andra fält som du vill skydda från ej tillförlitliga listor.
 
 ## Köra en ej betrodd listimport {#running-an-untrusted-list-import}
 
-1. Se till att du väljer **[!UICONTROL Untrusted]** om du vill att alla fält som du skapade i föregående steg ska vara säkra.
+1. När du kör listimporten ska du markera **[!UICONTROL Untrusted]** om du vill att alla fält som du konfigurerade i föregående steg ska vara säkra.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Detaljerade anvisningar om hur du importerar listor finns i [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Detaljerade instruktioner om hur du importerar listor finns i [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Snyggt jobbat! Nu vet du hur du kan skydda nyckelfält från otillförlitliga listor.

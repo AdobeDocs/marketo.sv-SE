@@ -6,7 +6,7 @@ exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Snabbdiagram är miniatyrbilder som du anpassar och sparar, vilket ger en snabb 
 
 ## Skapa ett nytt snabbdiagram {#create-a-new-quick-chart}
 
-Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: **nya affärsmöjligheter (första beröring), typ av affärsmöjlighet = ny affärsverksamhet, aktuellt år till dato**.
+Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: **nya affärsmöjligheter (första beröringen), typ av affärsmöjlighet = ny affärsverksamhet, aktuellt års-till-datum**.
 
 1. Klicka på datumfiltret och välj **Aktuellt år (hittills i år)**.
 
@@ -35,7 +35,7 @@ Snabbdiagram härleds från data som du anger. I det här exemplet väljer vi: *
 
    ![](assets/4-2.png)
 
-1. Ge snabbdiagrammet ett namn och klicka **Spara**.
+1. Ge snabbdiagrammet ett namn och klicka på **Spara**.
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 ## Visa befintliga snabbdiagram {#view-existing-quick-charts}
 
-1. Om du vill visa dina befintliga snabbdiagram klickar du bara på **Snabbdiagram** ikon.
+1. Om du vill visa dina befintliga snabbdiagram klickar du bara på ikonen **Snabbdiagram** .
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ Ditt snabbdiagram är nu tillsammans med de andra.
 
 Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 
-1. Klicka på **Snabbdiagram** ikon.
+1. Klicka på ikonen **Snabbdiagram** .
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ Följ de här enkla stegen om du vill ta bort ett snabbdiagram.
 
    ![](assets/9-2.png)
 
-1. Klicka **Ta bort**.
+1. Klicka på **Ta bort**.
 
    ![](assets/10-1.png)

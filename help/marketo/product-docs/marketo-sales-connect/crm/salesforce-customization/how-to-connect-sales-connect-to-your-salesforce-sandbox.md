@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det, [se till att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
+>Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-2.png)
 
-1. Klicka på under Integreringar **CRM**.
+1. Klicka på **CRM** under Integrationer.
 
    ![](assets/two-2.png)
 
-1. Klicka på i Salesforce-kortet **Mer info**.
+1. Klicka på **Mer information** på Salesforce-kortet.
 
    ![](assets/three-2.png)
 
-1. Klicka på längst ned på sidan **Anslut till sandlåda**.
+1. Klicka på **Anslut till sandlåda** längst ned på sidan.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Installera anpassningar i din Salesforce-sandlåda](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Så här installerar du anpassningar i din Salesforce-sandlåda](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

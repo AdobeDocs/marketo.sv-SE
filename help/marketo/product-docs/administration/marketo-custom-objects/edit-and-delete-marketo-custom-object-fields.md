@@ -21,11 +21,11 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. I [!UICONTROL Fields] flik, klicka **[!UICONTROL Field Actions]** och **[!UICONTROL Edit Field]**.
+1. Klicka på **[!UICONTROL Field Actions]** och **[!UICONTROL Edit Field]** på fliken [!UICONTROL Fields].
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Gör ändringarna och klicka **[!UICONTROL Save]**.
+1. Gör ändringarna och klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -41,7 +41,7 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
 Om du inte behöver ett fält i ett anpassat objekt längre kan du ta bort det.
 
-1. Klicka på fliken Fält **[!UICONTROL Field Actions]** och **[!UICONTROL Delete Field]**.
+1. Klicka på **[!UICONTROL Field Actions]** och **[!UICONTROL Delete Field]** på fliken Fält.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 

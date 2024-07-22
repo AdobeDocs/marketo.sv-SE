@@ -26,7 +26,7 @@ Synkroniseringsstegen återspeglar push- eller pull-åtgärder för varje objekt
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Under [!UICONTROL Integration], klicka **Salesforce** och sedan **[!UICONTROL Sync Status]** -fliken.
+1. Klicka på **Salesforce** under [!UICONTROL Integration] och sedan på fliken **[!UICONTROL Sync Status]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,7 +40,7 @@ Statistik sorteras som standard efter den senast startade. Du kan sortera efter 
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Välj datum- och tidsintervall och klicka sedan på listrutorna för att filtrera efter [!UICONTROL Object Type], [!UICONTROL Operation Type]och/eller [!UICONTROL Status Type].
+1. Välj datum- och tidsintervall och klicka sedan på listrutorna för att filtrera efter [!UICONTROL Object Type], [!UICONTROL Operation Type] och/eller [!UICONTROL Status Type].
 
    ![](assets/salesforce-sync-status-5.png)
 

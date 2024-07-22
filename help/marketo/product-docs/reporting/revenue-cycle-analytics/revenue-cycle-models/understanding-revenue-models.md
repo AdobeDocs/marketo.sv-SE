@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Som standard startar en ny modell dig med sex intäktsfaser. Den här modellen �
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observera att de alla är på grön bakgrund. Detta kallas för **Lyckad sökväg**. Lär dig mer om framgångens väg [här](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Observera att de alla är på grön bakgrund. Detta kallas **Success Path**. Läs mer om framgångssökvägen [här](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Steg** är milstolparna i ett framsteg i vägen mot deras mål.
+**Steg** är milstolparna i en leads som går mot deras mål.
 
-**Övergångar** visas som pilar och styr hur leads rör sig mellan faser.
+**Övergångar** visas som pilar och de styr hur leads rör sig mellan faser.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Det här ser ut som en låda och är det mest grundläggande av faser. Analysern
 
 ## SLA-scen {#sla-stage}
 
-Det här är en förkortning av **Servicenivåavtal** stage. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
+Detta är en förkortning av **servicenivåavtalet**. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
 
 >[!NOTE]
 >
@@ -97,11 +97,11 @@ Lost är en bra en att lägga till, men lägg märke till att den inte är på d
 >
 >* [Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Använda intäktsmodelllagerfaser](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Använder lagerfaser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Använda intäktsmodellens gatustadier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Använder Gate-steg för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Använda SLA-faser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Använda SLA-faser i inkomstmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Rapport om din intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

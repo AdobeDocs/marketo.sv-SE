@@ -22,9 +22,9 @@ ht-degree: 3%
 
 ## Populära artiklar
 
-* [Förstå [!DNL Salesforce] Synkronisera](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Förstå  [!DNL Salesforce] synkroniseringen](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Förstå [!DNL Microsoft Dynamics] Synkronisera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Förstå  [!DNL Microsoft Dynamics] synkroniseringen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Om smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

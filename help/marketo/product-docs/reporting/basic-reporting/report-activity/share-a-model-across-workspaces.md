@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. Så här gör du.
 
-1. Gå till **Analyser** -avsnitt.
+1. Gå till avsnittet **Analyser**.
 
    ![](assets/analytics.png)
 
-1. Högerklicka på **Mina modeller** mapp och klicka på **Ny mapp**.
+1. Högerklicka på mappen **Mina modeller** och klicka på **Ny mapp**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,7 +27,7 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Dra modellerna som du vill dela till **Dela mapp**.
+1. Dra modellerna som du vill dela till mappen **Dela**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -39,7 +39,7 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
    >
    >Genom att dela en modell med en annan arbetsyta kan dessa användare köra rapporter baserade på modellen.
 
-1. Välj de arbetsytor som du vill dela mappen med och klicka på **Spara**.
+1. Markera de arbetsytor som du vill dela mappen med och klicka på **Spara**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

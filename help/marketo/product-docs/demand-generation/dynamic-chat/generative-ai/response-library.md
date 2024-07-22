@@ -16,11 +16,11 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 ## Lägg till en fråga manuellt {#manually-add-a-question}
 
-1. Under Generative AI klickar du på **[!UICONTROL Assisted responses]**.
+1. Klicka på **[!UICONTROL Assisted responses]** under Generativ AI.
 
    ![](assets/response-library-1.png)
 
-1. Klicka på **[!UICONTROL Response library]** -fliken.
+1. Klicka på fliken **[!UICONTROL Response library]**.
 
    ![](assets/response-library-2.png)
 
@@ -28,11 +28,11 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
    ![](assets/response-library-3.png)
 
-1. Ange fråga och svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka **[!UICONTROL Save]** när det är klart.
+1. Ange fråga och svar. Tilldela ett ämne och lägg till en valfri URL som användare kan dela med besökare. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/response-library-4.png)
 
-1. Klicka på Uppdatera så visas den nya frågan högst upp med statusen &quot;[!UICONTROL Processing].&quot;
+1. Klicka på Uppdatera så visas den nya frågan högst upp med statusen [!UICONTROL Processing].
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 >[!NOTE]
 >
->Alla genererade frågor och svar tilldelas &quot;[!UICONTROL need review]som standard. Endast &quot;[!UICONTROL approved]&quot;frågor och svar blir tillgängliga för chattbesökare.
+>Alla genererade frågor och svar tilldelas som standard statusen [!UICONTROL need review]. Endast [!UICONTROL approved] frågor och svar är tillgängliga för chattbesökare.
 
-1. I **[!UICONTROL Response library]** klickar du på önskad fråga.
+1. Klicka på önskad fråga i **[!UICONTROL Response library]**.
 
    ![](assets/response-library-7.png)
 
-1. Redigera och klicka **[!UICONTROL Save]**.
+1. Gör dina ändringar och klicka på **[!UICONTROL Save]**.
 
    ![](assets/response-library-8.png)
 
@@ -85,11 +85,11 @@ Instruktioner om hur du gör satsvisa redigeringar i den hämtade Excel-filen fi
 </tbody>
 </table>
 
-1. När du är klar med redigeringarna går du tillbaka till **[!UICONTROL Response library]** och klicka **[!UICONTROL Upload responses]**.
+1. När du är klar med redigeringarna i filen går du tillbaka till fliken **[!UICONTROL Response library]** och klickar på **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
-1. Ange det relevanta aktivitetsnamnet. Dra och släpp filen eller bläddra efter den på enheten och markera den. Klicka **[!UICONTROL Save]** när det är klart.
+1. Ange det relevanta aktivitetsnamnet. Dra och släpp filen eller bläddra efter den på enheten och markera den. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/response-library-10.png)
 

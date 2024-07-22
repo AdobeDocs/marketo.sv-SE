@@ -6,8 +6,8 @@ exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 1%
+source-wordcount: '737'
+ht-degree: 0%
 
 ---
 
@@ -35,11 +35,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. I [!UICONTROL Build] till vänster klickar du på **[!UICONTROL Customize]** och markera **[!UICONTROL Leads]**. Klicka på **[!UICONTROL Fields]**.
+1. Klicka på **[!UICONTROL Customize]** på menyn [!UICONTROL Build] till vänster och välj **[!UICONTROL Leads]**. Klicka på **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klicka **[!UICONTROL New]** i delen Anpassade fält och relationer längst ned på sidan.
+1. Klicka på **[!UICONTROL New]** i avsnittet Anpassade fält och relationer längst ned på sidan.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -51,7 +51,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Ange [!UICONTROL Field Label], [!UICONTROL Length]och [!UICONTROL Field Name] för fältet enligt tabellen nedan.
+1. Ange [!UICONTROL Field Label], [!UICONTROL Length] och [!UICONTROL Field Name] för fältet, vilket visas i tabellen nedan.
 
 <table> 
  <thead> 
@@ -78,7 +78,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
   <tr> 
    <td>Poäng</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>Antal</td> 
+   <td>Nummer</td> 
    <td>Längd 10<br>Decimaler 0 </td> 
   </tr> 
   <tr> 
@@ -110,14 +110,14 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Ange åtkomstinställningar och klicka på **[!UICONTROL Next]**:
+1. Ange åtkomstinställningarna och klicka på **[!UICONTROL Next]**:
 
    * Ange alla roller till **[!UICONTROL Visible]** och **[!UICONTROL Read-Only]**
 
-   * Rensa **[!UICONTROL Read-Only]** kryssrutan för din synkroniseringsanvändares profil:
+   * Avmarkera kryssrutan **[!UICONTROL Read-Only]** för din synkroniseringsanvändares profil:
 
-      * Om du har en användare med profilen för en _Systemadministratör_ som synkroniseringsanvändare, rensa **[!UICONTROL Read-Only]** kryssrutan för systemadministratörsprofilen (som visas nedan)
-      * Om du skapade en _egen profil_ för synkroniseringsanvändaren, rensa **[!UICONTROL Read-Only]** kryssruta för den anpassade profilen
+      * Om du har en användare med profilen för en _systemadministratör_ som synkroniseringsanvändare, avmarkerar du kryssrutan **[!UICONTROL Read-Only]** för systemadministratörsprofilen (se nedan)
+      * Om du har skapat en _anpassad profil_ för synkroniseringsanvändaren avmarkerar du kryssrutan **[!UICONTROL Read-Only]** för den anpassade profilen
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klicka **[!UICONTROL Save & New]** för att gå tillbaka och skapa de två andra anpassade fälten. Klicka **[!UICONTROL Save]** med dig, med alla tre.
+1. Klicka på **[!UICONTROL Save & New]** om du vill gå tillbaka och skapa de två andra anpassade fälten. Klicka på **[!UICONTROL Save]** när du är klar med alla tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klicka på på menyn Skapa till vänster **[!UICONTROL Customize]** och välj Kontakter. Klicka på Fält.
+1. Klicka på **[!UICONTROL Customize]** på menyn Skapa till vänster och välj Kontakter. Klicka på Fält.
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
@@ -158,7 +158,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
   <tr> 
    <td>ID för förvärvsprogram</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Antal</td> 
+   <td>Nummer</td> 
    <td>Längd 18<br>Decimaler 0 </td> 
   </tr> 
   <tr> 
@@ -180,13 +180,13 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
    <td>Längd 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprunglig källinformation</td> 
+   <td>Ursprunglig Source-information</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Text</td> 
    <td>Längd 255</td> 
   </tr> 
   <tr> 
-   <td>Ursprunglig källtyp</td> 
+   <td>Ursprunglig Source-typ</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Text</td> 
    <td>Längd 255</td> 
@@ -244,11 +244,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
-1. Klicka på i det övre högra hörnet **[!UICONTROL Setup]**.
+1. Klicka på **[!UICONTROL Setup]** i det övre högra hörnet.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt; klicka **[!UICONTROL Fields]** under Leads.
+1. Skriv&quot;Fält&quot; i navigeringssökningen utan att trycka på Retur. Fält visas under olika objekt. Klicka **[!UICONTROL Fields]** under Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
@@ -266,7 +266,7 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
 
-1. Klicka **[!UICONTROL Save]** när det är klart.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
 >[!MORELIKETHIS]
 >

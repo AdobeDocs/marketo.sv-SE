@@ -2,10 +2,10 @@
 description: EM-YYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
 title: EM-YYY-MM-DD-Single Email Send
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 I det här exemplet skickas ett enda e-postmeddelande med ett e-postprogram för Marketo Engage. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -36,7 +36,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -69,7 +69,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Alla kreativa resurser 
 <br/>(undermappar för e-post- och landningssidor)  </td>
   </tr>
   <tr> 
@@ -122,11 +122,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -144,4 +144,4 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;10-engagerad&quot; för att spåra framgångar! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;10-engagerad&quot; för att spåra framgångar! Gör detta _innan_ ditt formulär är live och e-postmeddelanden skickas.

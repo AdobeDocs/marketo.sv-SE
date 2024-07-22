@@ -4,7 +4,8 @@ title: Marketo Engage Community
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Marketo Engage Community {#marketo-engage-community}
 
-The [Adobe Marketo Engage Community](https://nation.marketo.com/) (även känt som Marketing Nation) är stället där du kan lära dig mer om din Marketo Engage-instans från andra användare och Marketo anställda. Innan du börjar, ta dig en stund till att lära dig mer om [Gemenskapens riktlinjer](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+[Adobe Marketo Engage Community](https://nation.marketo.com/) (kallas även Marketing Nation) är den plats där du kan lära dig mer om din Marketo Engage-instans från både andra användare och Marketo-anställda. Innan du går in bör du bekanta dig med [gemenskapens riktlinjer](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registrera ditt användarnamn {#register-your-username}
 
@@ -33,7 +34,7 @@ SCREENSHOT
 
 ## Konfigurera din profil {#set-up-your-profile}
 
-När du är inloggad på Marketing Nation klickar du på din standardavatarikon och väljer **[!UICONTROL My settings]** om du vill uppdatera dina inställningar, ändra avatarfotot, kontrollera taggning och mycket mer.
+När du är inloggad på Marketing Nation klickar du på din standardavatarikon och väljer **[!UICONTROL My settings]** för att uppdatera dina inställningar, ändra avatarfotot, kontrollera taggning med mera.
 
 SCREENSHOT
 
@@ -85,7 +86,7 @@ SCREENSHOT
 
 Följ stegen nedan för att sammanfoga historik för flera communityprofiler. Vi rekommenderar att du skriver över den gemenskapsprofil som har mindre communityaktivitet på den eftersom överskrivna profildata inte kan hämtas.
 
-Skicka e-post till `ccare@marketo.com` för att begära att data från dina olika communityprofiler sammanfogas med profilen som är kopplad till din primära produktionsprenumeration. När profilerna sammanfogas förlorar du den historiska aktiviteten för den överskrivna profil du väljer.
+Skicka ett e-postmeddelande till `ccare@marketo.com` för att begära att data från dina olika communityprofiler sammanfogas med profilen som är kopplad till din primära produktionsprenumeration. När profilerna sammanfogas förlorar du den historiska aktiviteten för den överskrivna profil du väljer.
 
 Ange följande uppgifter i din begäran:
 

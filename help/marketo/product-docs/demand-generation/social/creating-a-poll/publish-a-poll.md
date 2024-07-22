@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359770
-description: Publicera en omröstning - Marketo Docs - produktdokumentation
-title: Publicera en omröstning
+description: Publish a Poll - Marketo Docs - produktdokumentation
+title: Publish a Poll
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Publicera en omröstning {#publish-a-poll}
+# Publish a Poll {#publish-a-poll}
 
-Efter [skapa en omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)kan du publicera den på dina Marketo landningssidor, på Facebook och på din webbplats.
+När du har [skapat en omröstning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) kan du publicera den på Marketo landningssidor, på Facebook och på din webbplats.
 
 1. Navigera till landningssidan och öppna den för redigering.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Dra över **Omröstning** från paletten till höger.
+1. Dra över **Plocka** från paletten till höger.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
@@ -31,7 +31,7 @@ Efter [skapa en omröstning](/help/marketo/product-docs/demand-generation/social
 >
 >Du måste godkänna din omröstning för att kunna göra den tillgänglig här.
 
-Grattis! Godkänn landningssidan och din omröstning är live. Du kan också [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägg omröstningarna på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Grattis! Godkänn landningssidan och din omröstning är live. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [göra en omröstning på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

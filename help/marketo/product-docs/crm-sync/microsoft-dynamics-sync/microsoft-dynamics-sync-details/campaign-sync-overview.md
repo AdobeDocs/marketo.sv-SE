@@ -25,14 +25,14 @@ Följande flödesåtgärder är tillgängliga:
 
 >[!NOTE]
 >
->**[!UICONTROL Remove from Microsoft Campaign]** tar endast bort personer som har lagts till med flödesåtgärder i Marketo.
+>**[!UICONTROL Remove from Microsoft Campaign]** tar bara bort personer som har lagts till med flödesåtgärder i Marketo.
 
 Det finns också två utlösare:
 
 * [!UICONTROL Added to Microsoft Campaign]
 * [!UICONTROL Removed from Microsoft Campaign]
 
-Utlösarna körs baserat på åtgärder från Marketo Flow Action[!UICONTROL Add to Microsoft Campaign]och &quot;[!UICONTROL Removed from Microsoft Campaign].&quot;
+Utlösarna körs baserat på åtgärder från Marketo Flow Action [!UICONTROL Add to Microsoft Campaign] och [!UICONTROL Removed from Microsoft Campaign].
 
 >[!NOTE]
 >

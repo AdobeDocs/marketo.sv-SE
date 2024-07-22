@@ -6,7 +6,7 @@ exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Finns det några skillnader mellan nyckeltal med e-postinsikter och andra e-postrapporter från Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-Ja. E-postinsikter korrelerar interaktionsstatistik med deras motsvarande leveransmått för samma e-post som skickas när interaktionsstatistik beräknas (Öppna frekvens, Klickfrekvens-till-Öppet, Avbeställningsfrekvens). I e-postinsikter, till exempel, när vi tittar på ett tidsseriediagram över den senaste veckan med dagliga uppdelningar av Klicka-till-öppna-hastighet, visar vi nu det verkliga korrelerade förhållandet mellan öppna/klicka/avprenumerera-händelser baserat på motsvarande leveransmått. Detta är i motsats till beteendet i Intresseutforskaren, som helt enkelt sammanfattar allt. Insikter om e-post ger en mer korrekt bild av engagemangsgraden.
+Ja. E-postinsikter korrelerar interaktionsstatistik med deras motsvarande leveransmått för samma e-post som skickas när interaktionsstatistik beräknas (Öppna frekvens, Klickfrekvens-till-Öppet, Avbeställningsfrekvens). I e-postinsikter, till exempel, när vi tittar på ett tidsseriediagram över den senaste veckan med dagliga uppdelningar av Klicka-till-öppna-hastighet, visar vi nu det verkliga korrelerade förhållandet mellan öppna/klicka/avprenumerera-händelser baserat på motsvarande leveransmått. Detta är i motsats till beteendet i Intresseutforskaren, som helt enkelt sammanfattar allt. Med e-postinsikter får du en mer korrekt bild av engagemangsgraden.
 
 ## Varför stöder e-postinsikter endast 10 anpassade Dimensioner? {#why-does-email-insights-only-support-custom-dimensions}
 
@@ -23,7 +23,7 @@ I många fall räcker det inte med att utöka standardsystemdimensionerna med yt
 
 ## Varför kan jag inte återanvända anpassade Dimensioner när de har tilldelats? {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-När en viss anpassad Dimension har tilldelats, kommer mappning att orsaka ett fel när tidigare data blandas med en ny innebörd. På grund av detta kan det hända att anpassade Dimensioner inte återanvänds. Detta beteende överensstämmer med andra mätverktyg, som Google Analytics.
+När en viss anpassad Dimension har tilldelats, kommer mappning av den att orsaka ett fel när tidigare data blandas med en ny innebörd. På grund av detta kan det hända att anpassade Dimensioner inte återanvänds. Detta beteende överensstämmer med andra mätverktyg, som Google Analytics.
 
 ## Har e-postinsikter stöd för e-postmeddelanden från Marketo Sales Insight? {#does-email-insights-support-marketo-sales-insight-emails}
 

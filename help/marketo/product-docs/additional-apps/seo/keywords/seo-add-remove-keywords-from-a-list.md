@@ -17,7 +17,7 @@ Du kan hålla alla nyckelord på ett trevligt och organiserat sätt med hjälp a
 
 ## Lägg till i en lista {#add-to-a-list}
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -41,7 +41,7 @@ Hej! Markera listan om du vill se de nya nyckelorden.
 
 Du kan också ta bort nyckelord från en lista.
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 

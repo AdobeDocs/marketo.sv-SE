@@ -6,7 +6,7 @@ exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Engagemangsprogram är utformade för att marknadsföra innehåll till nya männ
 
 >[!NOTE]
 >
->Det finns en gräns på 100 **aktiv** engagemangsprogram per prenumeration.
+>Det finns en gräns på 100 **aktiva** engagemangsprogram per prenumeration.
 
 ## Engagement Program {#engagement-program}
 
-An **engagemangsprogram** är en typ av program som enkelt kan åstadkomma komplexa uppfödningar.
+Ett **engagemangsprogram** är en typ av program som enkelt kan utföra komplex vårdsarbete.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[Skapa ett engagerande program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[Skapa ett engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Strömma {#stream}
 
-A **stream** är en pool med prioriterat innehåll som engagemangsprogrammet kommer att använda för att vårda människor.
+En **ström** är en pool med prioriterat innehåll som engagemangsprogrammet använder för att vårda människor.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,7 +42,7 @@ A **stream** är en pool med prioriterat innehåll som engagemangsprogrammet kom
 
 ## Innehåll {#content}
 
-Det finns två typer av **innehåll** ni kan lägga till i engagemangsprogramströmmar - e-post och program. E-post skickas till folk vid sändning.
+Det finns två typer av **innehåll** som du kan lägga till i engagemangsprogramströmmar - e-post och program. E-post skickas till folk vid sändning.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -56,11 +56,11 @@ Det finns två typer av **innehåll** ni kan lägga till i engagemangsprogramstr
 
 ## Kast {#cast}
 
-A **cast** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
+En **cast** är händelsen att skicka e-postmeddelanden från ett engagemangsprogram.
 
 >[!NOTE]
 >
->Partnerskapsprogram är inte utformade för att användas med operativa e-postmeddelanden.
+>Partnerskapsprogram är inte utformade för att användas med driftsmeddelanden.
 
 ## Stream Cadence {#stream-cadence}
 
@@ -74,13 +74,13 @@ Du bestämmer när en sändning ska ske genom att konfigurera **strömcadence**.
 
 ## Person Cadence {#person-cadence}
 
-A **personfrånvaro** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda **Change Engagement Program Cadence** flödessteg om du vill ändra det till Pausat eller Normal.
+En **person-cadence** är en status som definierar dess förmåga att ta emot innehåll från ett engagemangsprogram. Du kan använda flödessteget **Ändra programstängning** om du vill ändra det till Pausad eller Normal.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Utmattad {#exhausted}
 
-När en person har fått allt innehåll i en ström ringer vi personen **Utmattad**.
+När en person har tagit emot varje del av innehållet i en ström anropar vi personen **Utlastad**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
@@ -94,4 +94,4 @@ Content Engagement Level är en poängnivå på 0 till 100 poäng som Marketo ko
 
 >[!MORELIKETHIS]
 >
->[Så här fungerar engagemanget](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[Förstå engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

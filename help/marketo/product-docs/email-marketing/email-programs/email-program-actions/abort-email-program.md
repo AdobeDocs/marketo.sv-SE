@@ -19,11 +19,11 @@ Oj då! Bromsa! Det här e-postprogrammet bör inte gå ut.
 >
 >Den här artikeln är avsedd att hjälpa dig att förhindra att e-postmeddelanden skickas innan de skickas. Det finns inget sätt att återkalla skickade e-postmeddelanden.
 
-1. I ett e-postprogram klickar du på **Avbryt program**.
+1. Klicka på **Avbryt program** i ett e-postprogram.
 
    ![](assets/dashboardleads.jpg)
 
-1. Klicka **Avbryt** för fullständig bekräftelse.
+1. Klicka på **Avbryt** om du vill ha fullständig bekräftelse.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

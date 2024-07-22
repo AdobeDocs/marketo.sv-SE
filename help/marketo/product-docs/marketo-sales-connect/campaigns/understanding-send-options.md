@@ -28,7 +28,7 @@ Skicka det här e-postmeddelandet vid följande tidpunkt
 * När ni får igång er kampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny sändningstid när du stänger av din kampanj.
 
-Skapa en uppgift; Jag skickar det här e-postmeddelandet själv
+Skapa en uppgift. Jag skickar det här e-postmeddelandet själv
 
 * Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer vi att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar Campaign. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
@@ -48,7 +48,7 @@ Skicka det här e-postmeddelandet vid följande tidpunkt
 * När ni får igång er kampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny sändningstid när du stänger av din kampanj.
 
-Skapa en uppgift; Jag skickar det här e-postmeddelandet själv
+Skapa en uppgift. Jag skickar det här e-postmeddelandet själv
 
 * Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer Tout att ställa de här uppgifterna i kö när du startar Campaign i kommandocentralen och liveflödet. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.

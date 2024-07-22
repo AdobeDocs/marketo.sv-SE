@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ändra formuläretikettposition {#change-form-label-position}
 
-När [skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)kan du enkelt ändra placeringen av formulärfältsetiketterna. Så här gör du.
+När du [skapar ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) kan du enkelt ändra placeringen av formulärfältsetiketterna. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,20 +27,20 @@ När [skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/cr
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Välj **Etikettposition** du vill ha.
+1. Välj den **etikettposition** du vill ha.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    Du har för närvarande två alternativ:
 
    * Vänster (standard)
-   * Ovanför
+   * Över
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    >[!NOTE]
    >
@@ -56,4 +56,4 @@ Bra gjort! Se hur enkelt det var att ändra etikettplaceringen i ett formulär. 
 
 >[!MORELIKETHIS]
 >
->[Ändra teckensnittsfamilj för formulär](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Ändra formulärteckensnittsfamiljen](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

@@ -27,7 +27,7 @@ Med en Calendar File-token kan du lägga till en kalender (.ics)-länk i dina Ma
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/three-5.png)
 

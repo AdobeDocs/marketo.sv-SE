@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360253
 description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdokumentation
-title: Redigera meddelandet"Visa som webbsida"
+title: Redigera meddelandet Visa som webbsida
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Redigera meddelandet&quot;Visa som webbsida&quot; {#edit-the-view-as-web-page-message}
+# Redigera meddelandet Visa som webbsida {#edit-the-view-as-web-page-message}
 
-Om du behöver redigera[Visa som en webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;text, så här.
+Så här gör du om du behöver redigera texten [Visa som en webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md).
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-## Redigera meddelandet&quot;Visa som webbsida&quot; {#edit-the-view-as-web-page-message-1}
+## Redigera meddelandet Visa som webbsida {#edit-the-view-as-web-page-message-1}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
@@ -35,9 +35,9 @@ Om du behöver redigera[Visa som en webbsida](/help/marketo/product-docs/email-m
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Den andra delen `##MKT_TOK##` är [!UICONTROL munchkin] den personens kaka. Den ser till att de kodas korrekt när de klickar på länken.
+   >Den andra delen `##MKT_TOK##` är den personens [!UICONTROL munchkin]-cookie. Den ser till att de kodas korrekt när de klickar på länken.
 
-1. Redigera **[!UICONTROL View as Web Page HTML]** och **[!UICONTROL View as Web Page Text]** versioner som du vill ha och klicka på **[!UICONTROL Save Changes]**.
+1. Redigera versionerna **[!UICONTROL View as Web Page HTML]** och **[!UICONTROL View as Web Page Text]** efter dina önskemål och klicka på **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,7 +52,7 @@ Där har du den. Skicka testmejl för att säkerställa formatering.
 
 ## Standardtexten &quot;Visa som webbsida&quot; {#default-view-as-web-page-text}
 
-Om du någon gång behöver återgå till standardsystemet[!UICONTROL View as Web Page]&quot;, kopiera/klistra in följande:
+Om du någon gång behöver återställa standardsystemet [!UICONTROL View as Web Page] kopierar/klistrar du in följande:
 
 **[!UICONTROL View as Web Page HTML]**:
 

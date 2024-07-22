@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Skapa en ny mall {#create-a-new-template}
 
-1. Navigera till **Mallar** och klicka **Skapa mall**.
+1. Navigera till fliken **Mallar** och klicka på **Skapa mall**.
 
-1. Välj en **Kategori** och **Namn** för din e-postmall och klicka sedan på **Skapa**.
+1. Välj en **kategori** och **namn** för din e-postmall och klicka sedan på **Skapa**.
 
 1. Skapa en ämnesrad för e-postmeddelandet i mallredigeraren och skriv önskat meddelande. Använda redigeringsverktygen (teckensnitt, textstorlek osv.) för att anpassa utseendet.
 
-1. Klicka **Spara** för att slutföra ändringarna.
+1. Klicka på **Spara** för att slutföra ändringarna.
 
 >[!TIP]
 >

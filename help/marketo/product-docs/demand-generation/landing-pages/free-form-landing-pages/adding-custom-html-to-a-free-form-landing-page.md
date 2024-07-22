@@ -19,11 +19,11 @@ Du kan lägga till egna skript, CSS eller andra HTML på landningssidor.
 >
 >Marketo Support har inte konfigurerats för att hjälpa till med felsökning av anpassade HTML. Kontakta en webbutvecklare om du behöver hjälp med HTML.
 
-1. Välj landningssida och klicka på **Redigera utkast**.
+1. Markera landningssidan och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. I landningssidans redigerare drar du i **HTML** -element.
+1. Dra i elementet **HTML** i landningssidans redigerare.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
@@ -39,4 +39,4 @@ Snyggt! Skriv eventuella skript eller CSS där.
 
 >[!CAUTION]
 >
->Om det anpassade HTML inte är en rendering (till exempel en osynlig JavaScript-funktion eller CSS) placerar du elementet på en minnesvärd plats, som i det övre vänstra hörnet. Elementets kontur syns bara när du klickar i dess område.
+>Om det anpassade HTML inte återges (till exempel en osynlig JavaScript-funktion eller CSS) placerar du elementet på en minnesvärd plats, som i det övre vänstra hörnet. Elementets kontur syns bara när du klickar i dess område.

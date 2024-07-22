@@ -23,11 +23,11 @@ Följ de här stegen för att skapa en analysrapport för programmedlemskap som 
 
    ![](assets/one.png)
 
-1. Klicka **Skapa nytt** sedan **Rapport**.
+1. Klicka på **Skapa ny** och sedan på **Rapport**.
 
    ![](assets/two.png)
 
-1. Välj **Analys av programmedlemskap** och klicka **OK**.
+1. Välj **Analys av programmedlemskap** och klicka på **OK**.
 
    ![](assets/three.png)
 
@@ -53,7 +53,7 @@ Du kan snabbt lägga till ett lead-attribut som _Fullständigt namn_ för att se
 >
 >Det finns många lead-/företagsattribut att välja bland. Kolla in dem!
 
-1. Sök och dubbelklicka på **Fullständigt namn** gul punkt.
+1. Sök efter och dubbelklicka på den gula punkten **Fullständigt namn** .
 
    ![](assets/eight.png)
 

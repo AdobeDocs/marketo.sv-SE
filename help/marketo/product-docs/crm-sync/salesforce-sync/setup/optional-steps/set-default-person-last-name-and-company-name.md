@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kontakter. Ofullständiga poster synkroniseras inte till Salesforce. Om du vill synkronisera partiella poster måste du ange standardvärden för Marketo som ska användas med Salesforce.
 
-1. Gå till **[!UICONTROL Admin]** och klicka **[!DNL Salesforce]**.
+1. Gå till **[!UICONTROL Admin]** och klicka på **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
@@ -23,7 +23,7 @@ Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kon
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Ange en **[!UICONTROL Default person last name]** och **[!UICONTROL Default person company]** och sedan klicka **[!UICONTROL Save]**.
+1. Ange en **[!UICONTROL Default person last name]** och en **[!UICONTROL Default person company]** och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/sync-options-hands.png)
 

@@ -6,7 +6,7 @@ exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [Lägg till GoToWebinar som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Ange lämplig [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
+>* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)för att spåra engagemang
 
 Skapa först ditt webbinarium i GoToWebinar. Vissa inställningar när du skapar GoToWebinar används av Marketo och vissa används bara av GoToWebinar.
 
@@ -27,7 +27,7 @@ Nedan finns en lista över de inställningar som används av Marketo.
 
 ## Titel och beskrivning {#title-and-description}
 
-**Namn på webbinarium** - ange namnet på webbinariet. Det här namnet kan visas i Marketo.
+**Namn på webbinarium** - ange namnet på webbinariet. Namnet kan visas i Marketo.
 
 **Beskrivning** (valfritt) - ange beskrivningen för webbinariet. Beskrivningen kan visas i Marketo.
 
@@ -35,7 +35,7 @@ Nedan finns en lista över de inställningar som används av Marketo.
 
 ## Datum och tid {#date-time}
 
-Ange följande information för ditt webbinarium så hämtas det till Marketo via adaptern. Om du ändrar något i den här informationen måste du klicka på länken **Uppdatera från webbseminarieleverantör**&quot; under **Händelseåtgärder** för att Marketo ska kunna se ändringarna.
+Ange följande information för ditt webbinarium så hämtas det till Marketo via adaptern. Om du ändrar den här informationen måste du klicka på länken **Uppdatera från webbinariet-leverantör** under **Händelseåtgärder** för att Marketo ska kunna se ändringarna.
 
 **Startdatum** - ange startdatum. Detta kommer att kunna visas i Marketo.
 
@@ -45,7 +45,7 @@ Ange följande information för ditt webbinarium så hämtas det till Marketo vi
 
 **Tidszon** - välj den tillämpliga tidszonen. Den kan visas i Marketo.
 
-**Typ -** ange till **En session**.
+**Typ -** inställd på **En session**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
@@ -55,11 +55,11 @@ Ange följande information för ditt webbinarium så hämtas det till Marketo vi
 
 >[!TIP]
 >
->Om du behöver mer GoToWebinar-hjälp kan du besöka deras [Hjälpwebbplats](https://support.logmeininc.com/gotowebinar).
+>Om du behöver ytterligare hjälp med GoToWebinar går du till deras [hjälpwebbplats](https://support.logmeininc.com/gotowebinar).
 
 Nu ska vi hoppa in i Marketo!
 
-1. Välj en händelse. Klicka **Händelseåtgärder** och välja **Händelseinställningar**.
+1. Välj en händelse. Klicka på **Händelseåtgärder** och välj **Händelseinställningar**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
@@ -67,7 +67,7 @@ Nu ska vi hoppa in i Marketo!
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Välj **GoToWebinar** från **Evenemangspartner** Lista.
+1. Välj **GoToWebinar** i listan **Event Partner** .
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,23 +79,23 @@ Nu ska vi hoppa in i Marketo!
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Underbar! Nu synkroniseras och schemaläggs evenemanget av **GoToWebinar**.
+1. Underbar! Händelsen synkroniseras och schemaläggs av **GoToWebinar**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
    >[!NOTE]
    >
-   >De fält som Marketo skickar är: Förnamn, efternamn, e-postadress. Dessa fält är obligatoriska och får inte vara tomma.
+   >De fält som Marketo skickar är: Förnamn, Efternamn, E-postadress. Dessa fält är obligatoriska och får inte vara tomma.
 
    >[!TIP]
    >
-   >Om du vill fylla i bekräftelsemeddelandet med den här unika URL-adressen använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
+   >Om du vill fylla i bekräftelsemeddelandet med den här unika URL:en använder du följande token i e-postmeddelandet: `{{member.webinar url}}`. När bekräftelse-URL:en skickas, tolkas denna token automatiskt till personens unika bekräftelse-URL.
    >
-   >Ange bekräftelsemeddelandet som **Operativ** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
+   >Ange bekräftelsemeddelandet som **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
    ![](assets/goto-webinar.png)
 
@@ -105,7 +105,7 @@ Nu ska vi hoppa in i Marketo!
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbseminarieleverantör** på menyn Händelseåtgärder i **Sammanfattning** -fliken för din aktivitet.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken **Sammanfattning** i din händelse.
 
 Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
 

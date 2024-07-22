@@ -23,7 +23,7 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj en lista eller smart lista med personer i den och gå sedan till **[!UICONTROL People]** -fliken.
+1. Välj en lista eller Smart List med personer i den och gå sedan till fliken **[!UICONTROL People]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -37,13 +37,13 @@ Om du vill köra ett enda steg för ett enda flöde kan du använda ett enda fl�
 
    >[!NOTE]
    >
-   >Om resultatet sträcker sig över flera sidor klickar du på **[!UICONTROL Select All]** kommer att markera alla personer på alla sidor.
+   >Om resultatet sträcker sig över flera sidor, kan du klicka på **[!UICONTROL Select All]** för att markera alla personer på alla sidor.
 
-1. Under **[!UICONTROL Person Actions]** väljer du ett flödessteg. I det här exemplet använder vi [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Välj önskat flödessteg under **[!UICONTROL Person Actions]**. I det här exemplet använder vi [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. Söka efter och markera en **[!UICONTROL Attribute]**. I det här exemplet ska vi ta alla som har delstat&quot;Kalifornien&quot; och ändra det till&quot;Kalifornien&quot;.
+1. Sök efter och välj en **[!UICONTROL Attribute]**. I det här exemplet ska vi ta alla som har delstat&quot;Kalifornien&quot; och ändra det till&quot;Kalifornien&quot;.
 
    ![](assets/runaction-hands.png)
 

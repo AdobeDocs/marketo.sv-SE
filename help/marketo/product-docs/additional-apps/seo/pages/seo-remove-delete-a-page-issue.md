@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Alla sidproblem kan inte vara användbara för dig. Så här tar du bort en sådan.
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. I [!UICONTROL Pages] avsnitt, klicka **[!UICONTROL Issues]**.
+1. Klicka på **[!UICONTROL Issues]** i avsnittet [!UICONTROL Pages].
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
@@ -27,7 +27,7 @@ Alla sidproblem kan inte vara användbara för dig. Så här tar du bort en såd
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Klicka **[!UICONTROL Delete]** kommer permanent att ta bort det här sidproblemet.
+1. Om du klickar på **[!UICONTROL Delete]** tas det här sidproblemet bort permanent.
 
    >[!CAUTION]
    >

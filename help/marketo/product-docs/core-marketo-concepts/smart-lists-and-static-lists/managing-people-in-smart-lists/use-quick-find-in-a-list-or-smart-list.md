@@ -19,13 +19,13 @@ Hitta en person från resultaten av en lista eller Smart lista med hjälp av sna
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera den smarta lista som du vill söka efter och klicka sedan på **[!UICONTROL People]** -fliken.
+1. Markera den smarta lista som du vill söka efter och klicka sedan på fliken **[!UICONTROL People]**.
 
    ![](assets/smartlistpeople.png)
 
 ## Sök efter personer med personlig information {#find-people-using-personal-info}
 
-1. I **[!UICONTROL Quick Find]** skriver du ett nyckelord (**personnamn**, **e-postadress**, eller **befattning**).
+1. I rutan **[!UICONTROL Quick Find]** längst ned på skärmen skriver du ett nyckelord (**personligt namn**, **e-postadress** eller **jobbtitel**).
 
    ![](assets/searchpeople.png)
 

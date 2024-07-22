@@ -21,7 +21,7 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
 * Slutleverans
 * Format
 
-1. Välj **Databas** (vi använder det i det här exemplet, men marknadsföringsaktiviteterna fungerar på exakt samma sätt).
+1. Välj **Databas** (vi använder den i det här exemplet, men marknadsföringsaktiviteterna fungerar på exakt samma sätt).
 
    ![](assets/db-1.png)
 
@@ -33,11 +33,11 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klicka på **Frekvens** för att välja eller ändra inställningen.
+1. Klicka på kolumnen **Frekvens** för att välja eller ändra inställningen.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Öppna **Kolumner** och använd väljaren för att lägga till eller ta bort kolumner från rapporten. Rapportkolumner innehåller alla tillgängliga kolumner och Marketo-kolumner visar bara de kolumner som du har valt att visa i rapporten. Klicka **Spara**.
+1. Öppna kolumnen **Kolumner** och använd väljaren för att lägga till eller ta bort kolumner från rapporten. Rapportkolumner innehåller alla tillgängliga kolumner och Marketo-kolumner visar bara de kolumner som du har valt att visa i rapporten. Klicka på **Spara**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ Du kan redigera de här kolumnerna direkt på fliken Prenumerationer, som visas 
    >
    >Kolumnerna under Marketo Columns är rapportkolumnerna, inte de som används på rapportfliken Prenumerationer.
 
-1. Klicka på **Slutdatum** för att redigera slutdatumet. Välj **Aldrig** eller **Datum**. Ange ett datum eller välj det i kalendern. Klicka **Godkänn**.
+1. Klicka på kolumnen **Slutdatum** om du vill redigera slutdatumet. Välj **Aldrig** eller **Datum**. Ange ett datum eller välj det i kalendern. Klicka på **Godkänn**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Sista pusselbiten är formatet. Klicka på **Format** och markera den du vill använda. CSV är standard.
+1. Sista pusselbiten är formatet. Klicka på kolumnen **Format** och markera den du vill använda. CSV är standard.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

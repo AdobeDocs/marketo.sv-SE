@@ -47,7 +47,7 @@ Det gör du inte. Det är enkelt att komma igång i Marketo Engage, och det komm
 
 ## Måste jag göra någon konfiguration? {#do-i-need-to-do-any-setup}
 
-Ja, det finns ett par steg du måste utföra (eller vi rekommenderar starkt att du gör det) och [finns här](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Ja, det finns en handfull steg som du måste utföra (eller så rekommenderar vi dig varmt) och [de finns här](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Måste jag vänta tills installationen är klar? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -55,11 +55,11 @@ Nepp! Vi har gjort en massa enkla självstudiekurser. [Kom igång här](/help/ma
 
 ## Finns det en lista över saker som täcker gränser, som hur många e-postmeddelanden jag kan skicka på en vecka? {#list-of-limits}
 
-Det finns. Statiska gränser (och andra parametrar) anges [i den här artikeln](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Det finns. Statiska gränser (och andra parametrar) beskrivs [i den här artikeln](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hur länge håller Marketo fast vid mina data? {#data-retention-policy}
 
-Granska [det här blogginlägget Marketing Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} för mer information.
+Granska [det här blogginlägget för Marketing Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} för mer information.
 
 <br>
 

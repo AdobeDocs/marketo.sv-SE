@@ -17,13 +17,13 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. På **Webbkampanjer** sida, klicka **Redigera** på den kampanj du vill redigera.
+1. På sidan **Webbkampanjer** klickar du på **Redigera** för den kampanj du vill redigera.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Om du vill göra det enklare att hitta webbkampanjen använder du [filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Använd [filterfunktionen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md) för att göra det enklare att hitta den webbkampanj du vill ha.
 
 >[!MORELIKETHIS]
 >

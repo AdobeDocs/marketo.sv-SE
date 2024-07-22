@@ -17,23 +17,23 @@ En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera p
 
 >[!IMPORTANT]
 >
->Den här artikeln är avsedd för användare med en aktiv Everest-prenumeration just nu. Om du använder Inbox Tracker av Bird (tidigare MessageBird), dina självstudiekurser [finns här](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Den här artikeln är avsedd för användare med en aktiv Everest-prenumeration just nu. Om du använder Inbox Tracker från Bird (tidigare MessageBird) hittar du dina självstudiekurser [här](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importera en dirigerad lista {#import-a-seed-list}
 
-1. I My Marketo väljer du **Leveransverktyg**.
+1. I My Marketo väljer du **Deliverability Tools**.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Programmet Everest öppnas. Klicka på **Under flygning** och markera **Inkorgsplacering**.
+1. Programmet Everest öppnas. Klicka på **Under flygning** i det vänstra navigeringsfältet och välj **Placering av inkorgen**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klicka på **Hantera startlista** -fliken.
+1. Klicka på fliken **Hantera dirigeringslista**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klicka på listrutan Åtgärder och välj **Ladda ned en per rad**.
+1. Klicka på listrutan Åtgärder och välj **Hämta en per rad**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ En lista med dirigerade e-postkonton är en lista över e-postkonton hos flera p
    >
    >Använd optimeringsfunktionen för dirigerad lista (längst upp på sidan) om du vill att Everest ska optimera listan åt dig.
 
-1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) i din Marketo-instans som en statisk lista.
+1. Efter exporten visas listan som en TXT-fil i webbläsarens nedladdningsmapp. Hämta den och [importera](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) den till din Marketo-instans som en statisk lista.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

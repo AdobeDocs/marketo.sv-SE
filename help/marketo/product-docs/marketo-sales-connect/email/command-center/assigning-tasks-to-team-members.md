@@ -19,11 +19,11 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 >
 >Du kan bara tilldela uppgifter för delade kontakter.
 
-1. Klicka på **Kommandocentral**.
+1. Klicka på **Kommandocentralen**.
 
    ![](assets/one-1.png)
 
-1. Klicka **Lägg till uppgift**.
+1. Klicka på **Lägg till uppgift**.
 
    ![](assets/two-1.png)
 

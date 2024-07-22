@@ -26,28 +26,28 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 >* **Förbered ditt prediktiva innehåll**
 >
 >   * [Redigera prediktivt innehåll för e-postmeddelanden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} eller
->   * [Redigera prediktivt innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
+>   * [Redigera förebyggande innehåll för multimedia](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} eller
 >   * [Redigera prediktivt innehåll för rekommendationsfältet](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Godkänn en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Godkänn en titel för förebyggande innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
 
-1. Om du vill aktivera en enskild titel klickar du på den för att öppna redigeraren. Klicka på Multimedia och kontrollera sedan **Aktiverat för prediktivt innehåll i multimedia** och klicka **Spara**.
+1. Om du vill aktivera en enskild titel klickar du på den för att öppna redigeraren. Klicka på Multimedia, markera kryssrutan **Aktiverad för prediktivt innehåll i Multimedia** och klicka på **Spara**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. För flera innehållsdelar finns på **Prediktivt innehåll** markerar du rutorna intill rubriken/rubrikerna.
+1. Om det finns flera innehållsdelar på sidan **Prediktivt innehåll** markerar du rutorna bredvid rubriken/rubrikerna.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicka på **Innehållsåtgärder** nedrullningsbar meny och välj **Aktivera för multimedia för webben**.
+1. Klicka på listrutan **Innehållsåtgärder** och välj **Aktivera för multimedia för webben**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen till mallen för multimedierekommendationer [på webbplatsen Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen Marketo Developers ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 

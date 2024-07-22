@@ -2,8 +2,8 @@
 description: Routning - Marketo Docs - produktdokumentation
 title: Routning
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -20,25 +20,25 @@ Anpassad regel: Du kan välja särskilda agenter för att få möten baserat på
 
 >[!NOTE]
 >
->Kontodirigering har högsta prioritet. När en besökare når punkten i konversationen för att antingen boka ett möte eller starta en live-chatt, [Kontodirigering](#account-routing) kontrolleras först innan andra routningsalternativ beaktas.
+>Kontodirigering har högsta prioritet. När en besökare når punkten i konversationen för att antingen boka ett möte eller initiera en live-chatt, kontrolleras [Kontoroutning](#account-routing) först innan andra routningsalternativ övervägs.
 
 ## Skapa en anpassad regel {#create-a-custom-rule}
 
 I det här exemplet skickar vi alla möten från de härledda delstaterna CA, OR och WA till agent John.
 
-1. Under Konfiguration klickar du på **Routningsregler**.
+1. Klicka på **Routningsregler** under Konfiguration.
 
    ![](assets/routing-1.png)
 
-1. Klicka på **Anpassade regler** -fliken.
+1. Klicka på fliken **Anpassade regler**.
 
    ![](assets/routing-2.png)
 
-1. Klicka **Skapa regel**.
+1. Klicka på **Skapa regel**.
 
    ![](assets/routing-3.png)
 
-1. Ge din regel ett namn. Du kan också lägga till en beskrivning och ange dess prioritetsnivå. Klicka **Nästa**.
+1. Ge din regel ett namn. Du kan också lägga till en beskrivning och ange dess prioritetsnivå. Klicka på **Nästa**.
 
    ![](assets/routing-4.png)
 
@@ -54,7 +54,7 @@ I det här exemplet skickar vi alla möten från de härledda delstaterna CA, OR
 
    ![](assets/routing-7.png)
 
-1. När alla önskade värden är markerade klickar du på **Spara**.
+1. När alla dina önskade värden är markerade klickar du på **Spara**.
 
    ![](assets/routing-8.png)
 
@@ -68,13 +68,13 @@ Identifiera och överför ditt målkonto och respektive säljare och skicka bes�
 
 I det här exemplet dirigerar vi alla anställda från Lego direkt till agent Steven.
 
-1. Klicka på fliken Kontoroutning **+ Lägg till konto**.
+1. Klicka på **+ Lägg till konto** på fliken Kontoroutning.
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >Du kan skapa flera konton samtidigt genom att klicka på **Ladda upp kontolista** och ladda upp en CSV-fil.
+   >Du kan skapa flera konton samtidigt genom att klicka på **Överför kontolista** och överföra en CSV-fil.
 
 1. Ange företagets namn, domän och välj önskad agent.
 

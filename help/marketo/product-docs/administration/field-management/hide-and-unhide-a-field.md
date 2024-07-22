@@ -21,7 +21,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -29,7 +29,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Sök efter fältet, markera det och sedan under **[!UICONTROL Field Actions]** klicka **[!UICONTROL Hide Field]**.
+1. Leta reda på fältet, markera det och klicka sedan under **[!UICONTROL Field Actions]** på **[!UICONTROL Hide Field]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
    >* Du kan inte dölja standardfält (systemfält).
    >* Du kan inte dölja informationsfält för affärsmöjlighet.
 
-1. Klicka **[!UICONTROL Hide]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Hide]**.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,7 +49,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
 
 ## Visa ett fält {#unhide-a-field}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
@@ -57,7 +57,7 @@ Om du inte längre använder ett fält i Marketo Engage kan du dölja det från 
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Sök och markera fältet. I [!UICONTROL Field Actions] nedrullningsbar meny, klicka **[!UICONTROL Unhide Field]**.
+1. Sök och markera fältet. Klicka på **[!UICONTROL Unhide Field]** i listrutan [!UICONTROL Field Actions].
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

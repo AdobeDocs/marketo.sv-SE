@@ -17,7 +17,7 @@ I programfokusläget kan du snabbt ändra kalenderposterna. Så här gör du.
 
 ## Aktivera programfokus {#enable-program-focus}
 
-1. Klicka på **[!UICONTROL Calendar]** platta.
+1. Klicka på rutan **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
@@ -67,4 +67,4 @@ Så ja! Som du ser finns det många saker du kan göra direkt i marknadsförings
 
 >[!MORELIKETHIS]
 >
->[Radera transaktioner direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Ta bort poster direkt i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

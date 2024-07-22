@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720796
-description: Återannonsering med data för webbanpassning - Marketo Docs - produktdokumentation
-title: Återannonsering med webbpersonaliseringsdata
+description: Återannonsering med Web Personalization Data - Marketo Docs - produktdokumentation
+title: Återannonsering med Web Personalization Data
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# Återannonsering med webbpersonaliseringsdata {#retargeting-with-web-personalization-data}
+# Återannonsering med Web Personalization Data {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->Omdirigering av webbplatser ingår nu i panelen Webbanpassning. Om du bara har köpt återmarknadsföring visas den här rutan och du får tillgång till webbpersonaliseringsprodukten med **endast** Funktioner för återmarknadsföring har aktiverats. Detta ger dig tillgång till kontoinställningar, sidan Återmarknadsföring, segment och ytterligare spårningssidor.
+>Omdirigering av webbplatser faller nu under Web Personalization. Om du bara har köpt återmarknadsföring visas den här rutan och du får tillgång till Personalization-produkten på webben med funktionen **endast** återmarknadsföring aktiverad. Detta ger dig tillgång till kontoinställningar, sidan för omdirigering, segment och ytterligare spårningssidor.
 
 Återmarknadsföring riktar sig till potentiella kunder som tidigare har besökt er webbplats med webbannonsering baserat på vem de är och vad de gjorde. Personaliserad återmarknadsföring riktar sig till specifika målgrupper med relevanta annonser baserade på bransch, namngivna konton och kända persondata.
 
-Webbpersonalisering lägger för närvarande till data på följande återmarknadsföringsplattformar:
+Web Personalization lägger för närvarande till data till följande återmarknadsföringsplattformar:
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-Webbpersonalisering skickar följande data till återmarknadsföringsplattformarna för att skapa målgrupper och köra återmarknadsföringskampanjer:
+Personalization skickar följande data till marknadsföringsplattformarna för att skapa målgrupper och köra reklamkampanjer:
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Webbpersonlighetsdata</th> 
+   <th colspan="1">Web Personalization Data</th> 
   </tr> 
   <tr> 
    <th><p>Bransch</p></th> 
@@ -68,15 +68,15 @@ Webbpersonalisering skickar följande data till återmarknadsföringsplattformar
    >
    >Du måste implementera Google Retargeting Tag på din webbplats.
    >
-   >Om du redan har konfigurerat integreringen med Webbanpassning och Google Analytics behöver du inte redigera den här delen eftersom den är samma konfiguration under Kontoinställningar.
+   >Om du redan har konfigurerat integreringen med Web Personalization och Google Analytics behöver du inte redigera den här delen eftersom den är samma konfiguration under Kontoinställningar.
 
    ![](assets/two.png)
 
-1. Aktivera konfigurationen för Facebook. Klicka på och expandera Facebook-dragspelet, klicka på **På** för att skicka respektive händelse och data till Facebook Audience Manager. Klicka **Spara**.
+1. Aktivera konfigurationen för Facebook. Klicka på och expandera Facebook-dragspelspanelen och klicka **På** för att skicka respektive händelse och data till Facebook Audience Manager. Klicka på **Spara**.
 
    >[!NOTE]
    >
-   >Du måste ha [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)har installerat din webbplats för att den här funktionen ska fungera.
+   >Du måste ha [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installerat på din webbplats för att den här funktionen ska fungera.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Med en segmenterad publik kan ni välja ett befintligt segment som målgrupp fö
 >
 >Det finns ingen anledning att skapa en segmenterad målgrupp för branschdata eller andra data som redan skickats in i domänkonfigurationen. Det är bäst att använda segmenterade målgrupper för segment baserat på kända persondata.
 
-1. Klicka **Skapa segmenterad publik**.
+1. Klicka på **Skapa segmenterad publik**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Med en segmenterad publik kan ni välja ett befintligt segment som målgrupp fö
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
-   Du har nu slutfört konfigurationen av återmarknadsföring i webbpersonalisering, loggat in på era återmarknadsföringsplattformar och skapat era målgrupper baserat på dessa data och ställt in era återannonskampanjer.
+   Du har nu slutfört konfigurationen av återmarknadsföring i Web Personalization, loggat in på era återmarknadsföringsplattformar och skapat era målgrupper baserat på dessa data och konfigurerat era återmarknadsföringskampanjer.

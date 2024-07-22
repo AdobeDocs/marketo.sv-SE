@@ -6,7 +6,7 @@ exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
 1. Gå till **Kontoinställningar**.
 
-   a. Om du redan har fått din JavaScript-tagg från Support fortsätter du till steg 3.
+   a. Om du redan har fått din JavaScript-tagg från supporten fortsätter du till steg 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
@@ -25,11 +25,11 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen:
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Kopiera JavaScript-taggen RTP.
+1. Kopiera RTP JavaScript-taggen.
 
 1. Logga in på ditt WordPress-konto som administratör
 
-   a. Under **Utseende**, gå till **Eget JavaScript**.
+   a. Gå till **Anpassad JavaScript** under **Utseende**.
 b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
    >
    >Infoga bara själva skriptet.
 
-1. Klicka **Uppdatera**.
+1. Klicka på **Uppdatera**.

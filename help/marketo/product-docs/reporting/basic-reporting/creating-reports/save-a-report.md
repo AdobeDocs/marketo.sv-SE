@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ibland kan du behöva spara en standardrapport för att kunna visa den igen senare. Så här kan du göra:
 
-1. Gå till **Analyser** område.
+1. Gå till området **Analyser**.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -23,15 +23,15 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Klicka **Rapportåtgärder** och markera **Spara som**.
+1. Klicka på **Rapportera åtgärder** och välj **Spara som**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Spara i** en plats och välj en **Mapp**.
+1. **Spara till** en plats och välj en **mapp**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Namn** rapporten och klicka på **Spara**.
+1. **Namnge** rapporten och klicka på **Spara**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -41,4 +41,4 @@ Ibland kan du behöva spara en standardrapport för att kunna visa den igen sena
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [klona en rapport för att gruppera rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Lär dig hur du [klonar en rapport för att gruppera rapporter](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

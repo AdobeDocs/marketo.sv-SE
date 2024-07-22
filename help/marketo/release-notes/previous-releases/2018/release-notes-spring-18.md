@@ -31,13 +31,13 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 **ToutApp**
 
-* **Kompatibilitetskort**: Säkerställ GDPR-efterlevnaden genom att hämta in källan till säljkontakter och detaljer om kundens samtycke för att ta emot kommunikation.
-* **Uppdatering av lösenordsprincip**: Skydda dina data med striktare krav på att lösenord ska skapas, återställas och upphöra att gälla (uppfyller SOC II - Type 1-kompatibilitetskrav).
-* **Effektivare kontoinställning**: Konfigurera och anslut ditt konto till Gmail, Outlook och andra system snabbare.
+* **Kompatibilitetskort**: Kontrollera GDPR-kompatibiliteten genom att hämta källan för försäljningskontakter och information om kundgodkännande för att ta emot kommunikation.
+* **Uppdatering av lösenordsprincip**: Skydda dina data med striktare krav för att skapa, återställa och förfalla lösenord (uppfyller SOC II - Type 1-kompatibilitetskrav).
+* **Effektiv kontokonfiguration**: Konfigurera och anslut ditt konto till Gmail, Outlook och andra system snabbare.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/)
+[Marketo Sky Öppna Beta](https://help.marketo.com/)
 
 Gå med i den öppna betaversionen av Marketo Skyn och få tillgång till över 100 nya produktivitetshöjande funktioner, bland annat:
 
@@ -49,7 +49,7 @@ Gå med i den öppna betaversionen av Marketo Skyn och få tillgång till över 
 
 [Prestandainsikter](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Jämförelse av års-över-år-period**
+**Jämförelse mellan år och över år**
 
 Få mer relevanta insikter genom att jämföra resultaten med samma period föregående år.
 

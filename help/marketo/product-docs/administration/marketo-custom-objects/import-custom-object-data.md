@@ -7,15 +7,15 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Importera anpassade objektdata {#import-custom-object-data}
 
-Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag finns mer information i [Använda anpassade objekt med företag](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) för mer information.
+Det är enkelt att importera anpassade objektdata till databasen. Om du använder anpassade objekt med företag kan du läsa [Använda anpassade objekt med företag](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) för mer information.
 
-1. I My Marketo går du till **[!UICONTROL Database]**.
+1. Gå till **[!UICONTROL Database]** i Min Marketo.
 
    ![](assets/import-custom-object-data-1.png)
 
@@ -23,11 +23,11 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    ![](assets/import-custom-object-data-2.png)
 
-1. Klicka **[!UICONTROL Browse]** för att hitta datafilen. Markera filformatet (kommaseparerade värden i det här exemplet).
+1. Klicka på **[!UICONTROL Browse]** för att leta upp datafilen. Markera filformatet (kommaseparerade värden i det här exemplet).
 
    ![](assets/import-custom-object-data-3.png)
 
-1. Välj [!UICONTROL custom object].
+1. Välj din [!UICONTROL custom object].
 
    ![](assets/import-custom-object-data-4.png)
 
@@ -37,7 +37,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    >[!NOTE]
    >
-   >Använd Dedupe-fält som unika identifierare när du skapar eller uppdaterar anpassade objektposter. I det här exemplet används fältet för borttagning av dubbletter i **bil** anpassat objekt - vin (fordons-ID-nummer). Om du bara uppdaterar anpassade objektposter kan du välja [!UICONTROL Marketo Guid] som [!UICONTROL Dedupe Mode].
+   >Använd Dedupe-fält som unika identifierare när du skapar eller uppdaterar anpassade objektposter. I det här exemplet används dedupliceringsfältet för det anpassade objektet **car** - vin (fordons-ID-nummer). Om du bara uppdaterar anpassade objektposter kan du välja [!UICONTROL Marketo Guid] som [!UICONTROL Dedupe Mode].
 
 1. Mappa varje kolumn till ett Marketo-fält och välj den i listrutan.
 
@@ -61,7 +61,7 @@ Det är enkelt att importera anpassade objektdata till databasen. Om du använde
 
    >[!TIP]
    >
-   >Ange din e-postadress i dialogrutan **[!UICONTROL Send Alert To]** och Marketo skickar ett e-postmeddelande till dig när importen är klar!
+   >Ange din e-postadress i fältet **[!UICONTROL Send Alert To]** så mejlar Marketo dig när importen är klar!
 
 1. I skärmens övre högra hörn visas ett meddelande när importen körs och det slutliga resultatet när den är klar.
 

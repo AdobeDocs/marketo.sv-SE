@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Deklarera en tävling {#champion-challenger-declare-a-champion}
+# Champion/Challenger: Deklarera en mästare {#champion-challenger-declare-a-champion}
 
 När du är klar kan du deklarera en kampanj för ditt e-posttest.
 
@@ -19,31 +19,31 @@ När du är klar kan du deklarera en kampanj för ditt e-posttest.
 >
 >[Champion/Challenger: Godkänn ditt e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sök och högerklicka på ditt e-posttest och klicka sedan på **Deklarera Champion**.
+1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Deklarera kampanj**.
 
    ![](assets/champion4.jpg)
 
-1. Välj **Vinnare** efter eget val.
+1. Välj önskad **vinnare**.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Ange **Deklarera datum**.
+1. Ange **Deklarationsdatum**.
 
    >[!NOTE]
    >
-   >Tills **Deklarera datum** kommer Marketo att fortsätta att skicka ut den eller de gamla förkämparna. När datum/tid är nådd skickas bara den nya segraren.
+   >Till och med **Deklarera datum** kommer Marketo att fortsätta skicka den eller de gamla utmanarna. När datum/tid är nådd skickas bara den nya segraren.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observera att standardinställningen **Deklarera datum** är i morgon, inte i dag.
+   >Observera att standardvärdet för **Deklarationsdatum** är i morgon, inte i dag.
 
-1. Välj en tid och klicka **Spara**.
+1. Välj en tid och klicka på **Spara**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

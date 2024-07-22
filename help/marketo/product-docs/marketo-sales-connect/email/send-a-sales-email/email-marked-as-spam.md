@@ -6,7 +6,7 @@ exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 
 **Kontrollera dina inställningar**
 
-* Anpassad domänspårning: På så sätt kan du visa alla spårningslänkar som du vill.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
-* Leveranskanal för e-post: Som standard skickar dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka här](https://nation.marketo.com/docs/DOC-5080) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
+* Anpassad domänspårning: Det gör att du kan visa alla spårningslänkar som vanligt.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
+* Leveranskanal för e-post: Som standard skickas dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka här](https://nation.marketo.com/docs/DOC-5080) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
 
-**Kontrollera dina e-postbeteenden**
+**Kontrollera e-postbeteenden**
 
 * Håll e-postmeddelandena korta och informella och klistra in mallarna som ett e-postmeddelande som du har skrivit tidigare.
 

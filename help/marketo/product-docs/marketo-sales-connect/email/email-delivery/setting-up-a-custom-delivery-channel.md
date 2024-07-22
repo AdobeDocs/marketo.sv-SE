@@ -6,7 +6,7 @@ exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -19,25 +19,25 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
 
 >[!NOTE]
 >
->* Förutom att konfigurera SMTP-servern kan du [mejlidentitet måste verifieras](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
+>* Förutom att konfigurera SMTP-servern måste din [e-postidentitet verifieras](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) innan du kan skicka e-post.
 >* Vi rekommenderar att du samarbetar med IT-teamet eller SMTP-serverleverantören för att få rätt serverautentiseringsuppgifter för din SMTP-server.
 >* Du kan inte ansluta Gmail- och Exchange-servern med autentiseringsuppgifterna för SMTP-servern. Använd vår e-postanslutningstjänst för att integrera med dessa leverantörer.
 
 ## Anpassad SMTP {#custom-smtp}
 
-1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Under Mitt konto klickar du på **E-postinställningar**.
+1. Klicka på **E-postinställningar** under Mitt konto.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Klicka **Anpassad leveranskanal**.
+1. Klicka på **Anpassad leveranskanal**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. Ange dina autentiseringsuppgifter för SMTP-servern och klicka på **Anslut**.
+1. Ange autentiseringsuppgifterna för SMTP-servern och klicka på **Anslut**.
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -45,7 +45,7 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
    >
    >Om det här är din enda leveranskanal tilldelas den automatiskt till alla dina e-postidentiteter, och du gör det här. Om detta inte är den enda leveranskanalen, fortsätt till steg 5.
 
-1. Klicka på Fortsätt i e-postinställningarna **Adress och signatur**.
+1. Klicka på **Adress och signatur** medan du fortfarande är i e-postinställningarna.
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
@@ -53,11 +53,11 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klicka på Leveranskort **Redigera**.
+1. Klicka på **Redigera** i leveranskortet.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Klicka på listrutan Kanal och välj den anpassade leveranskanal som du just lade till. Klicka **Spara**.
+1. Klicka på listrutan Kanal och välj den anpassade leveranskanal som du just lade till. Klicka på **Spara**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -71,19 +71,19 @@ Användare kan konfigurera en anpassad SMTP-server för egen användning, eller 
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på [webbprogram](https://toutapp.com/login), klicka på kugghjulsikonen längst upp till höger och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Klicka **Teamleveranskanal**.
+1. Klicka på **Team Delivery Channel**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. Ange dina autentiseringsuppgifter för SMTP-servern och klicka på **Anslut**.
+1. Ange autentiseringsuppgifterna för SMTP-servern och klicka på **Anslut**.
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 

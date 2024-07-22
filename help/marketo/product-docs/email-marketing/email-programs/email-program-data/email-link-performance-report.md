@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i dina e-postmeddelanden fungerar.
 
-1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och markera **E-postlänkens prestanda** som rapporttyp.
+1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **Resultat av e-postlänk** som rapporttyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Klicka **Inställningar**.
+1. Klicka på **Konfigurera**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -27,11 +27,11 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Ange en lämplig tidsram för rapporten. Klicka **Spara**.
+1. Ange en lämplig tidsram för rapporten. Klicka på **Spara**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Klicka **Rapport**.
+1. Klicka på **Rapport**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Tillgängliga kolumner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om prestanda för e-postlänkar:
+[Kolumner som är tillgängliga](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postlänkens prestanda inkluderar:
 
 <table> 
  <thead> 
@@ -74,13 +74,13 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
 >[!NOTE]
 >
->Den här rapporten visar &quot;felformaterad länk&quot; när ogiltiga/tomma länkar läggs till i ett e-postmeddelande. Om det här meddelandet visas [kontrollera HTML-källan](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) i e-postredigeraren för tomma länkar eller variabler som inte fyller i en fullständig länk.
+>Den här rapporten visar &quot;felformaterad länk&quot; när ogiltiga/tomma länkar läggs till i ett e-postmeddelande. Om det här meddelandet visas [söker du efter tomma länkar eller variabler som inte innehåller en fullständig länk i HTML-källan](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) i e-postredigeraren.
 
 >[!TIP]
 >
->Om du vill veta exakt vad en enskild person gjorde kan du öppna [Aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) i [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) från fliken Medlemmar i programmet.
+>Om du vill veta exakt vad en enskild person gjorde kan du öppna [aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) på sidan [Personinformation](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) på fliken Medlemmar i programmet.
 
 >[!MORELIKETHIS]
 >
->* [Rapport om e-postprestanda](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
->* [Filtrera resurser i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>* [Resultatrapport för e-post](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Filtrera Assets i en e-postrapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

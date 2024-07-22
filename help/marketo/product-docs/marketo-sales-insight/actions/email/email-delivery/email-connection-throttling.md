@@ -27,17 +27,17 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 * Det är bara e-postmeddelanden som skickas via Gmail eller Exchange som stryper för en anpassad leveranskanal
 * Begränsningen för e-postanslutning placerar varje enskild användare i e-postmeddelanden separat eftersom varje användare har sin egen anslutning till sin e-postleverantör
 
-**Konfigurera inställningarna för begränsning av e-postanslutning**
+**Konfigurerar inställningarna för begränsning av e-postanslutning**
 
 1. Klicka på kugghjulsikonen och välj **Inställningar**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Klicka på knappen **Aktivera e-postbegränsning** skjutreglage.
+1. Klicka på skjutreglaget **Aktivera e-postbegränsning** på kortet för e-postanslutningsbegränsning till höger.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,7 +49,7 @@ När gränserna genomgående överskrids kan detta ibland ses som misstänkt bet
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/email-connection-throttling-6.png)
 
@@ -82,5 +82,5 @@ Begränsningar anges av organisationens IT-avdelning när servern hanteras av or
 >[!MORELIKETHIS]
 >
 >* [Översikt över leveranskanalen](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Email Connection för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

@@ -6,20 +6,20 @@ exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '144'
 ht-degree: 2%
 
 ---
 
 # Aktivera kommunikationsgränser {#enable-communication-limits}
 
-Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange kommunikationsgränser kan du förhindra att organisationen skickar för många e-postmeddelanden.
+Det är mycket viktigt att inte överkommunicera med era medarbetare. Genom att ange kommunikationsgränser kan du förhindra att organisationen skickar för många e-postmeddelanden.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/enable-communication-limits-1.png)
 
@@ -35,15 +35,15 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
    >
    >[!UICONTROL Per Day] baseras på kalenderdagen i prenumerationstidszonen (midnatt-midnatt).
 
-1. Klicka på **[!UICONTROL Per Day]** och välj önskad gräns. I det här exemplet väljer vi 1.
+1. Klicka på listrutan **[!UICONTROL Per Day]** och välj önskad gräns. I det här exemplet väljer vi 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Du kan också välja **[!UICONTROL Custom]** om inget av de förinställda alternativen fungerar för dig.
+   >Du kan också välja **[!UICONTROL Custom]** om inget av förinställningsalternativen fungerar för dig.
 
-1. Klicka på **[!UICONTROL Per 7 Days]** och välj önskad gräns. I det här exemplet väljer vi 5.
+1. Klicka på listrutan **[!UICONTROL Per 7 Days]** och välj önskad gräns. I det här exemplet väljer vi 5.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -53,7 +53,7 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
 
    >[!NOTE]
    >
-   >Läs mer om vad [e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) är.
+   >Läs mer om vad [fungerande e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) är.
 
 1. Klicka på **[!UICONTROL Save]**.
 
@@ -63,7 +63,7 @@ Det är viktigt att inte överkommunicera med era medarbetare. Genom att ange ko
    >
    >**Exempel**
    >
-   >Inställningarna ovan innebär att personer inte får mer än **1 e-post per dag** eller mer än **5 i en sjudagarsperiod**.
+   >Inställningarna ovan innebär att personer inte får mer än **1 e-post per dag** eller mer än **5 under en sjudagarsperiod**.
 
    >[!NOTE]
    >

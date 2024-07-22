@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Skapa en dubblett av rapporten för att anpassa den ytterligare utan att ändra originalet.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Välj rapport. Välj **Rapportåtgärder** > **Klona en rapport**.
+1. Välj din rapport. Välj **Rapportera åtgärder** > **Klona en rapport**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -27,7 +27,7 @@ Skapa en dubblett av rapporten för att anpassa den ytterligare utan att ändra 
    >
    >Du kan också klona en rapport genom att högerklicka på den i trädet.
 
-1. Ge rapporten ett namn.
+1. Namnge din rapportklon.
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 

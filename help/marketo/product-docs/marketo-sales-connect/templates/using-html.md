@@ -15,12 +15,12 @@ ht-degree: 0%
 
 1. Kopiera källkoden från dina e-postmeddelanden i det verktyg du använder för att skapa e-postmeddelanden i HTML (t.ex. Marketo e-postredigerare).
 
-1. Klicka på **Källa** i mallredigeraren.
+1. Klicka på knappen **Source** i mallredigeraren.
 
 1. Klistra in källkoden där.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 >[!NOTE]
 >
->Om du får felmeddelandet &quot;Error - to remove the style/java/html tags&quot; betyder det att du har en formatering som vi inte stöder. Du bör söka efter ordstilen i källkoden och ta bort allt från `<style>` via `</style>`.
+>Om du får felmeddelandet &quot;Error - to remove the style/java/html tags&quot; betyder det att du har en formatering som vi inte stöder. Du bör söka efter ordformatet i Source-koden och ta bort allt från `<style>` till `</style>`.

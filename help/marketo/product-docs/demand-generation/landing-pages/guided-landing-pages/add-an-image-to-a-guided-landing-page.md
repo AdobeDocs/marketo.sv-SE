@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Till skillnad från landningssidor med frihandslingor har stödda landningssidor fördefinierade, låsta utrymmen där du lägger till bilder.
 
-1. Välj en guidad landningssida. Klicka **Redigera utkast**.
+1. Välj en guidad landningssida. Klicka på **Redigera utkast**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -31,10 +31,10 @@ Till skillnad från landningssidor med frihandslingor har stödda landningssidor
 
    >[!NOTE]
    >
-   >Hur bildens storlek ändras beror på mallen. Läs mer om [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Hur bildens storlek ändras beror på mallen. Läs mer om [guidade sidmallar för landning](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
-   >Det går för närvarande inte att ange en länk för en bild i redigeraren. Använd ett RTF-element i stället.
+   >Det går inte att ange en länk för en bild i redigeraren. Använd ett RTF-element i stället.

@@ -15,30 +15,30 @@ ht-degree: 0%
 
 I appar för sociala knappar, videodelning och omröstningar kan du välja vad som ska hända när en person delar ditt innehåll i sitt sociala nätverk.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. I redigeraren för sociala appar går du till **Appinställningar** och sedan **Avancerade alternativ**.
+1. Gå till **Appinställningar** i redigeraren för sociala appar och sedan till **Avancerade alternativ**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. För **Efter delning** väljer du det beteende du vill använda.
+1. För **Efter delning** väljer du önskat beteende.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
    * **Bekräftelsemeddelande:** Visa en bekräftelse när personen har delat.
-   * **E-posthämtning:** När personen har delat, begär han/hon sin e-postadress.
+   * **E-posthämtning:** Begär sin e-postadress när personen har delat.
 
    >[!NOTE]
    >
-   >Om du väljer **E-postregistrering** visas begäran endast om personen inte redan har lämnat sin information.
+   >Om du väljer **E-posthämtning** visas begäran endast om personen inte redan har angett sin information.
 
-1. Om du valde **Bekräftelsemeddelande:** Gå till **Dela flöde** och sedan **Bekräftelsemeddelande**.
+1. Om du väljer **Bekräftelsemeddelande:** Gå till **Dela flöde** och sedan till **Bekräftelsemeddelande**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ I appar för sociala knappar, videodelning och omröstningar kan du välja vad s
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Om du valde **E-postregistrering** (i stället för bekräftelse): Gå till **Dela flöde** och sedan **E-postregistrering**.
+1. Om du valde **E-posthämtning** (i stället för bekräftelse): Gå till **Dela flöde** och sedan **E-posthämtning**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Välj om en marknadsföringsprompt ska inkluderas och om kryssrutan är markerad som standard (**Avanmäl dig**) eller inte (**Anmäl dig**).
+1. Välj om du vill ta med en marknadsföringsfråga och om kryssrutan är markerad som standard (**Avanmäl dig**) eller inte (**Anmäl dig**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

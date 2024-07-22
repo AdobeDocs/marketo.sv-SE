@@ -5,7 +5,7 @@ exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ När du installerar plugin-programmet Sales Insight i Dynamics läggs de bästa 
 
 1. Klicka på kugghjulsikonen i Dynamics och välj **Avancerade inställningar** i listrutan.
 
-1. Klicka på längst upp till vänster på skärmen **Inställningar**. Under Anpassning väljer du **Anpassningar**.
+1. Klicka på **Inställningar** i skärmens övre vänstra hörn. Välj **Anpassningar** under Anpassning.
 
-1. Klicka **Anpassa systemet**.
+1. Klicka på **Anpassa systemet**.
 
-1. Klicka i trädet till vänster på **Klienttillägg** och dubbelklicka **Webbplatskarta**.
+1. Klicka på **Klienttillägg** i trädet till vänster och dubbelklicka på **Platskarta**.
 
-1. Klicka på högerpilen för att gå till nästa sida. Under Försäljning hittar du Marketo. Om du inte gör det kontrollerar du att du har importerat paketet korrekt.
+1. Klicka på högerpilen för att gå till nästa sida. Under Försäljning hittar du Marketo. Om du inte gör det måste du kontrollera att du har importerat paketet korrekt.
 
    >[!NOTE]
    >
    >Under Marketo bör du ha: Bästa val, Min e-post, Webbaktivitet och anonym webbaktivitet. Om någon av dessa instrumentpaneler saknas klickar du på plustecknet ovanför Försäljning och lägger till dem som ett delområde.
 
-1. Klicka på en kontrollpanel för att markera den. I kolumnen till höger anger du respektive information nedan för var och en av dem. Du kan ignorera alla kategorier som inte finns med i listan.
+1. Klicka på en kontrollpanel för att markera den. I kolumnen till höger anger du respektive information nedan för var och en. Du kan ignorera alla kategorier som inte finns med i listan.
 
    **Bästa val**</br>
 URL: MainviewBestbets.html</br>
@@ -39,7 +39,7 @@ Titel: Bästa val
    **Min e-postadress**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 Ikon: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID: marketo_myemail</br>
+ID: marketo_myemail </br>
 Titel: Min e-postadress
 
    **Webbaktivitet**</br>
@@ -54,4 +54,4 @@ Ikon: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
 ID: marketo_anonymous_webactivity</br>
 Titel: Anonym webbaktivitet
 
-1. Klicka **Spara** när det är klart.
+1. Klicka på **Spara** när du är klar.

@@ -20,9 +20,9 @@ Se till att du är korrekt konfigurerad i Marketing Nation Community.
 
 * [**Konfigurera din profil**](https://nation.marketo.com/){target="_blank"}.
 
-* Läs upp [**Riktlinjer för marknadsföringscommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* Läs upp [**Marketing Community guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Lär dig hur [**skicka in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (och bekräfta att du är [**konfigurera som auktoriserad supportkontakt**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Lär dig hur du [**skickar in ett supportärende**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (och bekräfta att du [**har konfigurerats som en auktoriserad supportkontakt**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Sammanfoga din profil för marknadsföringsnation {#merge-your-marketing-nation-profile}
 
@@ -30,7 +30,7 @@ Om du redan har en Marketing Nation-profil hos ett tidigare företag följer du 
 
 1. Skapa en användarprofil/användarprofil med din e-postadress som har tillgång till din nuvarande Marketo Engage-prenumeration.
 
-1. [När du har skapat din profil](https://nation.marketo.com/){target="_blank"} med din nya företagsinformation, skicka en förfrågan till `ccare@marketo.com` för att få data från din gamla community-profil sammanfogade med din nya.
+1. [När du har skapat din profil](https://nation.marketo.com/){target="_blank"} med din nya företagsinformation skickar du en begäran till `ccare@marketo.com` om att data från din gamla community-profil ska sammanfogas med din nya.
 
 1. Ange följande uppgifter i din begäran:
 
@@ -44,7 +44,7 @@ Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När
 
 Adobe, med synpunkter från Marketo Champions, har sammanställt flera checklistor för instansgranskning som ärvts av Marketo Engage för att hjälpa dig att komma igång. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
 
-Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) i kalkylbladsformat.
+Du kan även [hämta checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) i kalkylbladsformulär.
 
 * [Administratörsavsnittet](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
@@ -54,16 +54,16 @@ Du kan också [ladda ned checklistor](/help/marketo/getting-started/inheriting-a
 
 * [Marknadsföringsaktiviteter](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Dokumentera dina ärvda instansinställningar](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [Dokumentera din ärvda instansinställning](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Sätt att få hjälp {#ways-to-get-help}
 
 Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via länkarna nedan.
 
-* Om du behöver teknisk hjälp med något som inte fungerar som det ska kontaktar du **[Marketo Engage kundsupport](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* Kontakta **[Marketo Engage kundsupport](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}** om du behöver teknisk hjälp med något som inte fungerar som det ska.
 
 * Kommunicera med och lär av andra Marketo Engage-användare i **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
-* Om du behöver hjälp med att få ut det mesta av din instans av Marketo Engage kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Titta **[videor med kurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** på olika aspekter av Marketo Engage.
+* Titta på **[kursvideor](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** om olika aspekter av Marketo Engage.

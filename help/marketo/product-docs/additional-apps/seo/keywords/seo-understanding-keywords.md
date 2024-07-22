@@ -6,16 +6,16 @@ exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # SEO - Förstå [!UICONTROL Keywords] {#seo-understanding-keywords}
 
-[!UICONTROL Keywords] är ryggraden i er SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
+[!UICONTROL Keywords] är ryggraden i din SEO-strategi. Målet är att vara på första sidan, så nära första sidan som möjligt för nyckelord som är relevanta för ditt företag.
 
-The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är när det gäller att uppnå detta och hur du ställer upp [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+Avsnittet [!UICONTROL Keywords] visar hur framgångsrik din webbplats är när det gäller att uppnå detta och hur du anpassar dig till [din tävling](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Keywords] - Sammanfattningsvy {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är n
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">Rankning och trend</span></td> 
-   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rankning uppåt</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rangordning nedåt</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rangordna samma</p></td> 
+   <td colspan="1" rowspan="1"><p>Platsens rangordning för det här nyckelordet. Pilar visar hur din nyckelordsrankning går från föregående vecka </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = rankning uppåt</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = rangordning nedåt</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= rangordna samma</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">Konkurrensnivå</span></td> 
@@ -56,13 +56,13 @@ The [!UICONTROL Keywords] -avsnittet visar hur framgångsrik din webbplats är n
 >
 >Data visas bara för nyckelord rankade 1-100.
 
-## [!UICONTROL Keywords] - Konkurrentvy {#keywords-competitor-view}
+## [!UICONTROL Keywords] - konkurrentvy {#keywords-competitor-view}
 
 Du kan också se hur konkurrenterna presterar med samma mätvärden genom att klicka på listrutan och välja konkurrenter.
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-Bra! Nu när du förstår [!UICONTROL Keywords] -avsnittet, vi ska lära oss mer om sidor och inkommande länkar.
+Bra! Nu när du förstår avsnittet [!UICONTROL Keywords] kan vi lära oss mer om sidor och inkommande länkar.
 
 >[!MORELIKETHIS]
 >

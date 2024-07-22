@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360321
-description: Ändra namnet på en arbetsyta - Marketo Docs - produktdokumentation
-title: Ändra namnet på en arbetsyta
+description: Ändra namnet på en Workspace - Marketo Docs - produktdokumentation
+title: Ändra namnet på en Workspace
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Ändra namnet på en arbetsyta {#change-the-name-of-a-workspace}
+# Ändra namnet på en Workspace {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Skapa en ny arbetsyta](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[Skapa en ny Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 
@@ -27,7 +27,7 @@ Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 >
 >Förstå först med [Arbetsytor och personpartitioner](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
@@ -35,11 +35,11 @@ Användare kan ändra namnet på en arbetsyta. Det är ganska enkelt.
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. Markera arbetsytan och klicka på **[!UICONTROL Edit Workspace]**.
+1. Markera Workspace och klicka på **[!UICONTROL Edit Workspace]**.
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. Ange ett nytt **[!UICONTROL Name]** för arbetsytan och klicka **[!UICONTROL Save]**.
+1. Ange en ny **[!UICONTROL Name]** för din Workspace och klicka på **[!UICONTROL Save]**.
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

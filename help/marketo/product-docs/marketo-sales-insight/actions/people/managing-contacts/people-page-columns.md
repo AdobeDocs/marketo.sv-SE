@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
 
    ![](assets/people-page-columns-1.png)
 
-1. Bläddra igenom och markera önskade kolumner (du kan också klicka **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
+1. Bläddra igenom och markera önskade kolumner (du kan också klicka på **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
 
    ![](assets/people-page-columns-2.png)
 
@@ -120,7 +120,7 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
   </tr> 
   <tr> 
    <td>Källa</td> 
-   <td>Källa där personen skapades</td> 
+   <td>Source där personen skapades</td> 
   </tr> 
   <tr> 
    <td>Grupper (standard)</td> 

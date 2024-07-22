@@ -19,14 +19,14 @@ Söker du webbkampanjer som använder ett specifikt segment?
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Sök efter en **Segment**. Välj **Segmentnamn**. Klicka på **Associerade kampanjer** för att visa de kampanjer som är kopplade till det specifika segmentet.
+1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **Associerade kampanjer** på den högra panelen för att visa de kampanjer som är associerade med det specifika segmentet.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visa **Kampanjer** associeras med det valda segmentet.
+1. Visa de **kampanjer** som är associerade med det valda segmentet.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->Läs mer om [segment](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) och hur [skapa ett bassegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>Läs mer om [segment](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) och hur du [skapar ett enkelt segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).

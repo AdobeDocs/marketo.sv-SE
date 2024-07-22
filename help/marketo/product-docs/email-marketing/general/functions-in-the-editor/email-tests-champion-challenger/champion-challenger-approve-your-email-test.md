@@ -19,25 +19,25 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 >
 >[Champion/Challenger: Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sök och högerklicka på **E-posttest** och sedan klicka **Godkänn test**.
+1. Sök och högerklicka på **E-posttestet** och klicka sedan på **Godkänn test**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >När en **Hela e-postmeddelandet** ska du godkänna utmanarens e-post först.
+   >Godkänn utmanarens e-postadress först när du godkänner ett **hele-posttest**.
 
    >[!NOTE]
    >
-   >Om du vill skicka ut testet väljer du det e-postmeddelande du lade till testet i **Skicka e-post** flödessteg i utlösarkampanjen. Du kan också infoga e-postmeddelandet i en ström av ett engagemangsprogram. Mejl från Champion/Challenger fungerar inte i gruppkampanjer.
+   >Om du vill skicka ut testet väljer du det e-postmeddelande du lade till testet i flödessteget **Skicka e-post** i utlösarkampanjen. Du kan också infoga e-postmeddelandet i en ström av ett engagemangsprogram. Mejl från Champion/Challenger fungerar inte i gruppkampanjer.
 
    Var inte det enkelt? När du har fått ett antal rapporter vill du anmäla dig som mästare.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger: Deklarera en tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Deklarera en Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
    >* [Champion/Challenger: Ignorera ett e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

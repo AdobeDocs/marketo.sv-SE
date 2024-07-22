@@ -6,7 +6,7 @@ exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
-Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] eller [!DNL Android] -användare, med behörighet att komma åt mobilprogrammet.
+Marketo har en särskild användarroll för incheckningsappen för händelser. [Skapa en ny Marketo-roll](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) för [!DNL iPad]- eller [!DNL Android]-användare med behörighet att komma åt mobilprogrammet.
 
 ## Bjud in nya användare på surfplattan till evenemanget {#invite-new-tablet-users-to-the-event}
 
-[Bjud in nya surfplatteanvändare till evenemanget](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) och tilldela dem den nya rollen.
+[Bjud in nya surfplatteanvändare till händelsen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) och tilldela dem den nya rollen.
 
 ## Skapa ett nytt Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Skapa ett nytt Marketo-eventprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) för att fånga upp personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
+[Skapa ett nytt händelseprogram för Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) för att fånga statusen för dina anställda när de går igenom olika faser och få korrekta mått på avkastningen för dina marknadsföringssatsningar.
 
 ## Ange händelsedatum {#specify-the-event-dates}
 
@@ -45,33 +45,33 @@ Det går snabbt att ställa in dina händelsedatum.
 
    >[!CAUTION]
    >
-   >Om datumet för händelsen infaller mer än en vecka före eller efter det aktuella datumet visas inte händelsen i appen. **Tips**: Om du vill testa det anger du datum tillfälligt inom en vecka från idag. Kom ihåg att returnera händelsen till rätt datum efter att du har testat den.
+   >Om datumet för händelsen infaller mer än en vecka före eller efter det aktuella datumet visas inte händelsen i appen. **Tips**: Om du vill testa det anger du datumen tillfälligt inom en vecka från idag. Kom ihåg att returnera händelsen till rätt datum efter att du har testat den.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
-Nu när du vet _när_&#x200B;är det dags att lägga till *som*.
+Nu när du känner till _when_ är det dags att lägga till *who*.
 
-1. Om du redan har en lista över personer klickar du på **[!UICONTROL Database]** platta.
+1. Om du redan har en lista över personer klickar du på panelen **[!UICONTROL Database]** i Min Marketo.
 
    ![](assets/db.png)
 
-1. Välj en lista med personer och klicka på **[!UICONTROL People]** -fliken.
+1. Välj en lista med personer och klicka på fliken **[!UICONTROL People]**.
 
    ![](assets/four.png)
 
-1. Välj personer för din aktivitet i listan. Använd **[!UICONTROL Ctrl]** (eller **[!UICONTROL Command]** på en Mac) för att klicka på flera personer, eller **[!UICONTROL Select All]** för att markera alla.
+1. Välj personer för din aktivitet i listan. Använd **[!UICONTROL Ctrl]** (eller **[!UICONTROL Command]** på en Mac) om du vill klicka på flera personer, eller **[!UICONTROL Select All]** om du vill markera alla.
 
    ![](assets/five.png)
 
-1. Klicka **[!UICONTROL Person Actions]**, hovra över **[!UICONTROL Programs]** och markera **[!UICONTROL Change Program Status]**.
+1. Klicka på **[!UICONTROL Person Actions]**, hovra över **[!UICONTROL Programs]** och välj **[!UICONTROL Change Program Status]**.
 
    ![](assets/six.png)
 
-1. Klicka på **[!UICONTROL Program]** nedrullningsbar lista och välj aktiviteten.
+1. Klicka på listrutan **[!UICONTROL Program]** och välj aktiviteten.
 
    ![](assets/seven.png)
 
-1. Klicka på **[!UICONTROL New Status]** nedrullningsbar meny och välj **[!UICONTROL Roadshow]>[!UICONTROL Registered]**. Klicka på **[!UICONTROL Run Now]**.
+1. Klicka på listrutan **[!UICONTROL New Status]** och välj **[!UICONTROL Roadshow]>[!UICONTROL Registered]**. Klicka på **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

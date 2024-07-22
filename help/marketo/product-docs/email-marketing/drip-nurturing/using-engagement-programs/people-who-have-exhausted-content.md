@@ -15,9 +15,9 @@ ht-degree: 0%
 
 När en person har fått allt innehåll i en ström har den uttömt alla möjligheter och väntar tills fler läggs till. Du kan hitta personer som är &quot;utmattade&quot; på flera sätt.
 
-## Medlem i Engagement Program-filtret {#member-of-engagement-program-filter}
+## Medlem i Engagement Program-filter {#member-of-engagement-program-filter}
 
-1. Skapa en ny smart lista och sök och dra i **Medlem i Engagement Program** filter.
+1. Skapa en ny smart lista och sök och dra sedan i filtret **Medlem i engagemangsprogrammet**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,7 +25,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Under **Lägg till begränsning**, markera **Utfyllt innehåll**.
+1. Välj **Utfyllt innehåll** under **Lägg till begränsning**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
@@ -37,15 +37,15 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Fliken Medlemmar {#members-tab}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma.png)
 
-1. Välj engagemangsprogram och gå till **Medlemmar** -fliken.
+1. Välj ditt engagemangsprogram och gå till fliken **Medlemmar**.
 
    ![](assets/memberstab.jpg)
 
-1. Lägg märke till den anropade kolumnen **Utfyllt innehåll**.
+1. Observera kolumnen **Utfyllt innehåll**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Strömma {#stream}
 
-1. Du kan också se det totala antalet personer som har slut på innehåll på fliken Streams i själva strömmen.
+1. Du kan också se det totala antalet personer som har slut på innehåll på fliken Direktuppspelning i själva strömmen.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

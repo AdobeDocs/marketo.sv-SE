@@ -37,7 +37,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    >[!TIP]
    >
-   >Eftersom intäktsmodelleraren konfigurerar dig för rapportering bör övergångarna alltid innehålla utlösare. På så sätt återspeglar dina rapporter hur snabbt modellen/scenflödet är. Filter kan läggas till med utlösarna för ytterligare begränsningar.
+   >Eftersom intäktsmodelleraren konfigurerar dig för rapportering rekommenderar vi att övergångarna alltid innehåller utlösare. På så sätt återspeglar dina rapporter hur snabbt modellen/scenflödet är. Filter kan läggas till med utlösarna för ytterligare begränsningar.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/five-2.png)
 
-1. Klicka på **Modeler**.
+1. Klicka på **Modeler** om du vill gå tillbaka till din modell.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/seven.png)
 
-1. När du har konfigurerat regler för alla övergångar klickar du på **Validera** för att verifiera.
+1. När du har konfigurerat regler för alla dina övergångar klickar du på **Validera** för att verifiera.
 
    ![](assets/eight.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med Marketo kan ni bädda in våra formulär på er egen webbplats. Så här får du åtkomst till inbäddningskoden.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,17 +23,17 @@ Med Marketo kan ni bädda in våra formulär på er egen webbplats. Så här få
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Under **Formuläråtgärder**, klicka **Bädda in kod**.
+1. Klicka på **Bädda in kod** under **Formuläråtgärder**.
 
    >[!NOTE]
    >
-   >Formuläret måste godkännas för **Bädda in kod** objekt som ska vara synligt/användbart.
+   >Formuläret måste godkännas för att objektet **Bädda in kod** ska vara synligt/användbart.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >**[Formulärförifyllning](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** fungerar inte när du använder formulärinbäddningskoden på dina egna sidor _eller_ en landningssida för Marketo. Förifyll formulär är endast avsett att fungera när formuläret används på en Marketo-landningssida via alternativet Infoga element.
+   >**[Formulärförifyllning](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** fungerar inte när du använder formulärinbäddningskoden på dina egna sidor _eller_ en Marketo-landningssida. Förifyll formulär är endast avsett att fungera när formuläret används på en Marketo-landningssida via alternativet Infoga element.
 
 1. Markera/kopiera inbäddningskoden och klicka sedan på **Stäng**.
 
@@ -47,6 +47,6 @@ Ge nu bara inbäddningskoden till webbutvecklaren och låt dem lägga till den p
 
 >[!NOTE]
 >
->Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem [Forms 2.0 - utvecklarsida](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem på sidan [Forms 2.0-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-Snyggt jobb! Vill du ha [bädda in kod för att inkludera ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!
+Snyggt jobb! Vill du att inbäddningskoden [ska innehålla ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!

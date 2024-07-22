@@ -17,28 +17,28 @@ Ibland kan du behöva koppla från ditt Salesforce-konto från ditt Sales Connec
 
 ## Koppla från Salesforce som administratör {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-1.png)
 
-1. Under Administratörsinställningar klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar.
 
    ![](assets/six-1.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
+1. Klicka på **Koppla från** på fliken Anslutningar och anpassningar.
 
    ![](assets/seven-1.png)
 
 ## Koppla från Salesforce som icke-administratör {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Inställningar**.
+1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
 
    ![](assets/one-1.png)
 
-1. Under Mitt konto väljer du **Salesforce**.
+1. Välj **Salesforce** under Mitt konto.
 
    ![](assets/two-1.png)
 
-1. Klicka på fliken Anslutningar och anpassningar **Koppla från**.
+1. Klicka på **Koppla från** på fliken Anslutningar och anpassningar.
 
    ![](assets/3333.png)

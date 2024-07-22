@@ -6,12 +6,12 @@ exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Oktober 2012 {#release-notes-october}
+# Versionsinformation: oktober 2012 {#release-notes-october}
 
 Oktober-versionen innehåller fler spännande nya funktioner! Sociala funktioner är tillgängliga som tillägg eller som en del av utvalda paket.
 
@@ -29,7 +29,7 @@ Ett program kan importeras från en Marketo-prenumeration till en annan. Du kan 
 
 ## Meddelanden {#notifications}
 
-Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i din Marketo-prenumeration. Systemet meddelar dig till exempel automatiskt när en kampanj misslyckas eller när CRM-synkroniseringen behöver åtgärdas. Meddelanden finns på fliken My Marketo. Dessutom kan du prenumerera på ett meddelande så att du kan få det i realtid via e-post.
+Med meddelanden håller du dig uppdaterad om systemhändelser som inträffar i din Marketo-prenumeration. Systemet meddelar dig till exempel automatiskt när en kampanj misslyckas eller när CRM-synkroniseringen behöver åtgärdas. Meddelanden finns på fliken My Marketo (Mina). Dessutom kan du prenumerera på ett meddelande så att du kan få det i realtid via e-post.
 
 ![](assets/image2014-9-23-10-3a46-3a53.png)
 
@@ -47,7 +47,7 @@ Ta reda på vilka som har delat ert innehåll och rösträtt i era omröstningar
 
 ## Sociala profiler {#social-profiles}
 
-Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta omfattar handtag för Facebook, LinkedIn och Twitter, hur många vänner de har, med mera.
+Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta omfattar handtag för Facebook, LinkedIn och Twitter, hur många vänner de har med mera.
 
 ## Prenumerationer på rapporter om intäktsutforskaren {#revenue-explorer-report-subscriptions}
 

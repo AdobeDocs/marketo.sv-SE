@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096583
-description: "Nästa generation [!DNL Munchkin] Spåra vanliga frågor - Marketo Docs - produktdokumentation"
-title: "Nästa generation [!DNL Munchkin] Vanliga frågor om spårning"
+description: "Nästa generations [!DNL Munchkin] Frågor och svar om spårning - Marketo Docs - produktdokumentation"
+title: "Nästa generation  [!DNL Munchkin] Vanliga frågor om spårning"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
 
-# Nästa generation [!DNL Munchkin] Vanliga frågor om spårning {#next-generation-munchkin-tracking-faq}
+# Vanliga frågor och svar om nästa generations [!DNL Munchkin]-spårning {#next-generation-munchkin-tracking-faq}
 
 Vi är glada över att kunna meddela att vi snart kommer att påbörja en fasad lansering av nästa generations webbspårningsteknik.
 
@@ -19,35 +19,35 @@ Här är det viktigaste att veta:
 
 * Vi tar bort filtret&quot;Är anonym&quot; med vår Q1-version (redan klar)
 * Vi ökar antalet webbhändelser (Besök webbsida, Klickad länk på webbsida) som kan importeras
-* Dina [!DNL Munchkin] så ingen uppdatering krävs
+* Din [!DNL Munchkin]-kod ändras inte, så det krävs inga uppdateringar på webbplatsen
 
-## När kommer min Marketo-prenumeration att vara aktiverad [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## När kommer min Marketo-prenumeration att vara på [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Vi har inget exakt datum än, men kom tillbaka hit för att få uppdateringar.
 
-## Måste jag göra några ändringar i [!DNL Munchkin] spårar du på min webbplats? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Måste jag göra några ändringar i min [!DNL Munchkin]-spårning på min webbplats? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nej. The [!DNL Munchkin] spårningskoden förblir densamma. Inga ändringar behöver göras på webbplatsen.
+Nej. Spårningskoden [!DNL Munchkin] är fortfarande densamma. Inga ändringar behöver göras på webbplatsen.
 
 >[!NOTE]
 >
->Den här ändringen påverkar inte webbpersonalisering (anpassning i realtid). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
+>Den här ändringen påverkar inte Web Personalization (Real-Time Personalization). Det fortsätter att identifiera anonyma och kända webbbesökare och personalisera innehåll i realtid för dessa besökare.
 
 ## Varför tog Marketo bort filtret&quot;Är anonym&quot; från smarta listor? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 Vi ändrade hur anonyma människor interagerar med smarta kampanjer. Förut gick de igenom en smart kampanj, precis som kända människor. Filtret &quot;Är anonym&quot; användes för att ange att bara kända eller bara anonyma personer flödar genom kampanjen.
 
-Med [!DNL Munchkin] V2 kommer vi att fortsätta att spåra all anonym verksamhet. Du kan dock inte längre använda filter på anonyma personer. Vid konverteringen (när personen blir känd i Marketo) läggs alla aktiviteter som inträffade när personen var anonym till i personaktivitetsloggen och i nuläget flödar de genom de kampanjer personen är berättigad till.
+Med [!DNL Munchkin] V2 fortsätter vi att spåra alla anonyma aktiviteter, men du kan inte längre använda filter på anonyma personer. Vid konverteringen (när personen blir känd i Marketo) läggs alla aktiviteter som inträffade när personen var anonym till i personaktivitetsloggen och i nuläget flödar de genom de kampanjer personen är berättigad till.
 
 Om du redan använder det här filtret i en smart lista (till exempel i en smart kampanj eller en rapport) tas det inte automatiskt bort från den smarta listan. Mer information finns nedan.
 
 >[!NOTE]
 >
->**Utlösare**: Besök webbsidan, webbsidan är prissättningssida\
->**Flöde**: Ändra bakgrundsmusik +10 och intressant stund
->**Webb**: Visad prissida
+>**Utlösare**: Besök webbsidan, webbsidan prissätter sidan\
+>**Flöde**: Ändra poäng +10 och intressant ögonblick
+>**Webb**: Sidan med priser visas
 >
->Med [!DNL Munchkin] V2, om en anonym person besöker prissidan, så deltar hon inte i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
+>Om en anonym person besöker prissidan med [!DNL Munchkin] V2 kommer han/hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >
 >* Få 10 poäng
 >
@@ -68,15 +68,15 @@ Om du har gamla smarta kampanjer med en smart lista som innehåller filtret&quot
 
 Innan vi gjorde den här ändringen skickade vi ut flera meddelanden varje vecka till din inkorg med en lista över smarta listor, smarta kampanjer och rapporter som använder filtret&quot;Är anonym&quot;. Dessa kan hjälpa dig att identifiera var du använder det här filtret.
 
-Granska dem och identifiera var ni har inställningen &quot;Är anonym&quot; till True, eftersom det är de kampanjer som påverkas. Oftast använder kunderna den här inställningen för någon form av poängsättning. Se exemplet ovan för att förstå hur dessa kampanjer kommer att fungera nu.
+Granska dem och identifiera var ni har &quot;Is Anonymous&quot; satt till True, eftersom det är de kampanjer som påverkas. Oftast använder kunderna den här inställningen för någon form av poängsättning. Se exemplet ovan för att förstå hur dessa kampanjer kommer att fungera nu.
 
 ## Jag vill ha mer detaljerad dokumentation. Var kan jag hitta den? {#id-like-more-detailed-documentation-where-can-i-find-it}
 
 Kolla in länkarna:
 
-[Översikt över anonyma leaduppgraderingar](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[Anonyma leaduppgraderingar - översikt](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Anonyma leaduppgraderingar - ändringar i Marketo användargränssnitt](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[Anonyma leaduppgraderingar - ändringar i Marketo-gränssnittet](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
 [Anonyma leaduppgraderingar - kundåtgärd krävs](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
@@ -90,4 +90,4 @@ Kolla in länkarna:
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Var vänlig och kontakta [community](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. De kommer gärna att besvara dina frågor.
+Kontakta oss på [communityn](https://nation.marketo.com/){target="_blank"}. Du kan också kontakta [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. De kommer gärna att besvara dina frågor.

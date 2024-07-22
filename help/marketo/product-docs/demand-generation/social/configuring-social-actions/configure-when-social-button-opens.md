@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Konfigurera när knappen för sociala medier öppnas {#configure-when-social-button-opens}
 
-När du skapar en [social knapp](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)kan du konfigurera när knappen visar delningsmeddelandet.
+När du skapar en [social knapp](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) kan du konfigurera när knappen visar delningsuppmaningen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/ma-3.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. I redigeraren för sociala appar går du till **Appinställningar** > **Avancerade alternativ**.
+1. Gå till **Appinställningar** > **Avancerade alternativ** i redigeraren för sociala appar.
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
@@ -33,8 +33,8 @@ När du skapar en [social knapp](/help/marketo/product-docs/demand-generation/la
 
    * **Vid klickning:** När en person klickar på den sociala knappen.
    * **Vid sidinläsning:** Så snart landningssidan som innehåller den sociala knappen läses in i en persons webbläsare.
-   * **Vid muspekaren:** När en person hovrar över knappen för sociala medier.
+   * **Vid mouseOver:** När en person hovrar över den sociala knappen.
 
    >[!MORELIKETHIS]
    >
-   >När personen har delat kan du begära dennes e-postadress eller skicka ett bekräftelsemeddelande. Lär dig hur [konfigurera meddelanden efter delning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >När personen har delat kan du begära dennes e-postadress eller skicka ett bekräftelsemeddelande. Lär dig hur du [konfigurerar uppmaningar efter delning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

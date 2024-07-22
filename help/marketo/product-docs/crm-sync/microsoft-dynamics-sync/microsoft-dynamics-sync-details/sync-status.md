@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
 ## Fliken Synkroniseringsstatus {#sync-status-tab}
 
-1. Klicka **[!UICONTROL Admin]** sedan **[!UICONTROL Microsoft Dynamics]**.
+1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klicka på **[!UICONTROL Sync Status]** -fliken.
+1. Klicka på fliken **[!UICONTROL Sync Status]**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klicka på **[!UICONTROL View]** nedrullningsbar meny och välj **[!UICONTROL Last Hour]** för att visa genomströmningsinformation.
+1. Klicka på listrutan **[!UICONTROL View]** och välj **[!UICONTROL Last Hour]** för att visa genomströmningsinformation.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

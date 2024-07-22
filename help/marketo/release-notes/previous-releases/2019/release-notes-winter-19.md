@@ -19,65 +19,65 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 >[!NOTE]
 >
->Facebook behöver nu ett Business Manager-konto för att kunna utnyttja er anpassade målgruppsintegrering. Din Facebook LaunchPoint-tjänst *måste* associeras med ett Business Manager-konto eller **integreringen inte längre fungerar efter 14 januari 2019**. Om du vill konfigurera ett Business Manager-konto går du till [Hjälp om facebook](https://www.facebook.com/business/help/1710077379203657).
+>Facebook behöver nu ett Business Manager-konto för att kunna utnyttja er anpassade målgruppsintegrering. Facebook LaunchPoint-tjänsten *måste* vara associerad med ett Business Manager-konto, annars kommer integreringen inte längre att fungera efter 14 januari 2019 **.** Mer information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) före **31 januari 2019** för att säkerställa att integreringen fortsätter att fungera.
+>Microsoft uppmanar alla onlinekunder att uppgradera till den senaste versionen av Microsoft Dynamics. Om du integrerar din Marketo-instans med Dynamics Online måste du [uppgradera till den senaste versionen av Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) före den 31 januari 2019 **för att se till att din integrering fortsätter att fungera.**
 
 >[!NOTE]
 >
->Marketo uppgraderar OAuth-versionen för GoToWebinar från 1.0 till 2.0. Stödet för OAuth 1.0 kommer att upphöra i januari 2019. Om du använder GoToWebinar måste du autentisera dina inloggningar på nytt via LaunchPoint (i administrationsområdet) med **31 januari 2019** för att säkerställa att integreringen fortsätter att fungera. Mer information finns i [Community-sida](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
+>Marketo uppgraderar OAuth-versionen för GoToWebinar från 1.0 till 2.0. Stödet för OAuth 1.0 kommer att upphöra i januari 2019. Om du använder GoToWebinar måste du autentisera dina inloggningar via LaunchPoint (i administrationsområdet) senast den **31 januari 2019** för att integreringen ska fortsätta. Mer information finns på vår [communitysida](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
 ## Förbättringar av kärnplattformen {#core-platform-enhancements}
 
-**[Email CC for Marketo e-mail](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
+**[E-post för CC för Marketo-e-post](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas via Marketo.
 
 **API**
 
-* **Stöd för flera domäner för resurs-API:** Godkännande och kloning av resurser ger samma resultat i API:t och användargränssnittet.
-* **Stöd för e-post-CC för resurs-API**: Användare som klonar, godkänner och bearbetar e-postmeddelanden via API:t behåller pariteten med gränssnittsinställningarna.
+* **Stöd för domäner med flera varumärken för resurs-API:** Godkännande och kloning av resurser ger samma resultat i API:t och användargränssnittet.
+* **Stöd för e-post i CC för resurs-API**: Användare som klonar, godkänner och bearbetar e-post via API:t behåller pariteten med gränssnittsinställningarna.
 
-**[Munchkin v155 (beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
-* **Läge med endast API**: Användarna kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbappar uttryckligen anropar när de vill spela in en webbsida, istället för att förlita sig på Marketo automatiska spårning.
-* **Hantering av avanmälan**: Hantera enkelt avanmälningar genom att matcha avanmälningsdomänen med Munchkins cookie-domän för spårning.
-* **Domännivåbestämningsparameter**: Domäner med två bokstäver (dvs. &quot; [website.io](https://website.io)&quot;) spåras automatiskt i Marketo utan ytterligare installationskrav.
+* **Läge endast för API**: Användare kan nu bestämma när och hur de ska spåra medlemmar i sina databaser genom att tillåta att enkelsidiga webbprogram anropar när de vill spela in en webbsida, istället för att förlita sig på Marketo automatiska spårning.
+* **Avanmälningshantering**: Hantera enkelt avanmälningar genom att matcha avanmälningsdomänen med Munchkins spårningscookie-domän.
+* **Domännivåbestämningsparameter**: Domäner med två bokstäver (d.v.s. [website.io](https://website.io)) spåras automatiskt i Marketo utan ytterligare konfigurationskrav.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Anpassad profil för Salesforce**: Sales Engage har nu stöd för ett obegränsat antal anpassade profiler.
+* **Anpassad Salesforce-profil**: Försäljningsengagemanget har nu stöd för ett obegränsat antal anpassade profiler.
 
-* **Salesforce-anpassning**: Genom att ta bort icke-kritiska anpassade aktivitetsfält kan användarna konfigurera Sales Engage i CRM-plattformen mer effektivt.
-* **E-posttjänst**: Få bättre levererbarhet och förbättrad svarsspårning, funktioner för schemalagd e-post och massutskick genom att ansluta till Microsoft Outlook (antingen via Office365 eller på plats via fliken E-postanslutning).
+* **Salesforce-anpassning**: Genom att ta bort icke-kritiska anpassade aktivitetsfält kan användare konfigurera försäljningsengagemanget på CRM-plattformen mer effektivt.
+* **E-posttjänst**: Få bättre levererbarhet plus förbättrad svarsuppföljning, funktioner för schemalagd e-post och massutskick av e-post genom att ansluta till Microsoft Outlook (antingen via Office365 eller via fliken E-postanslutning).
 * **Nya administratörsinställningar**: Två administratörssidor har lagts till för att optimera försäljningsengagemangsinstansen
 
-   * _Teamhantering_ har stöd för en smidig process för kontokonfiguration genom att administratörer kan redigera prenumerationer och team.
-   * _Administratörsinställningar för Salesforce_ hjälper team att konfigurera sin SFDC-synkronisering snabbare och enklare än någonsin.
+   * _Teamhantering_ stöder en smidig kontokonfigurationsprocess genom att tillåta administratörer att redigera prenumerationer och team.
+   * _Salesforce Admin Settings_ hjälper team att konfigurera sin SFDC-synkronisering snabbare och enklare än någonsin.
 
 * **OWA-plugin för Windows**: Med ett enda tillägg stöds alla Windows Office365-klienter i Sales Engage, vilket ger möjlighet att använda Live Feed i Outlook. Det nya plugin-programmet finns i Microsoft Store.
-* **Verksamhetspublicering**: Synkronisera säljengagemanget med Marketo kärnplattform för att utnyttja marknadsföringsinsikter i realtid.
+* **Activity Pusher**: Synkronisera Sales Engage med Marketo huvudplattform för att utnyttja marknadsföringsinsikter i realtid.
 
 ## Marketo Sky {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Skyar släpps oftare. Följande funktioner och förbättringar förväntas släppas under det sista kvartalet/början av första kvartalet. Mer information och uppdateringar finns i [Sky-dokumentation](https://help.marketo.com/).
+>Marketo Skyar släpps oftare. Följande funktioner och förbättringar förväntas släppas under det sista kvartalet/början av första kvartalet. Mer information och uppdateringar finns i [Sky-dokumentationen](https://help.marketo.com/).
 
 * **Valfri standardupplevelse**: Marketo-användare kan ange Marketo Sky som standardupplevelse om de har fått åtkomst av en administratör.
 
-* **Omdesignat min Marketo**: Anpassa upplevelsen genom att lägga till widgetar som ger viktig information, meddelanden och länkar till de områden du besöker mest.
+* **Förnyad Min Marketo**: Anpassa din upplevelse genom att lägga till widgetar som ger viktig information, meddelanden och länkar till de områden du besöker mest.
 
-* **Design Studio - listvyer och detaljsidor**: Få bättre ordning och precision med filterbara och sökbara listvyer av mejl, landningssidor och formulär. På tillgångsinformationssidor finns viktig information om varje resurs, inklusive vilka program resursen används av, antalet utdrag som används och mycket annat.
+* **Design Studio - listvyer och detaljsidor**: Få bättre ordning och precision med filterbara och sökbara listvyer av e-postmeddelanden, landningssidor och formulär. På tillgångsinformationssidor finns viktig information om varje resurs, inklusive vilka program resursen används av, antalet utdrag som används och mycket annat.
 
 * **Global sökning**: Marketo erbjuder nu en snabbare och robustare global sökfunktion på hela plattformen. Sökfrågor körs nu på alla tillgängliga arbetsytor och kan söka efter resurser (både aktiva och arkiverade), etiketter, kampanjer och program. Sökresultaten tillhandahålls via en övertäckning och varje resultat innehåller filplatshistoriken som anger var resursen finns.
 
 * **Förbättrat användargränssnitt**: Nya ikoner, moduler och knappar, tillsammans med en ny färgpalett som speglar vår varumärkesuppdatering och gör Marketo Skyn ännu mer enastående och funktionell.
 
-* **Förbättringar av e-postprogrammets användbarhet**: Vi fortsätter att gå mot en paritet i e-postprogrammens funktionalitet mellan vår klassiska Marketo Lead Management-plattform och den nya Marketo Skyn.
-* **Event-With-Webinar-program**: Event-With-Webinar-program är nu tillgängliga i Marketo Sky (Obs! Endast GoToWebinar stöds i den här versionen med ytterligare integreringar över tid).
+* **Förbättringar av e-postprogrammets användbarhet**: Vi fortsätter att gå mot en paritet i e-postprogrammets funktionalitet mellan vår klassiska Marketo Lead Management-plattform och den nya Marketo Skyn.
+* **Event-With-Webinar-program**: Event-With-Webinar-program är nu tillgängliga i Marketo Skyn (Obs! Endast GoToWebinar stöds i den här versionen, med fler integreringar över tid).
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -89,13 +89,13 @@ Anpassa era ABM-kampanjer för specifika personer i namngivna konton. Funktionen
 
 **Bizible**
 
-* **Anpassade beräknade fält**: Använd valfritt Bizible-attribut för att skapa anpassade fält som kan användas för instrumentpanelsrapportering och segmentering.
+* **Anpassade beräknade fält**: Använd ett Bizible-attribut för att skapa anpassade fält som kan användas för instrumentpanelsrapportering och segmentering.
 
-* **SOC II Type II-certifiering**: Ny certifiering av säkerhet och integritet bygger på typ I-ackreditering från tidigare i år.
+* **SOC II Type II-certifiering**: Ny säkerhets- och sekretesscertifiering bygger på Type I-ackreditering från tidigare i år.
 
-## Webbanpassning {#web-personalization}
+## Web Personalization {#web-personalization}
 
-**[Lägg till underdomäner i kontoinställningar](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Lägg till underdomäner i kontoinställningarna](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 För att hantera domäner och underdomäner effektivare kan användare nu lägga till underdomäner i sina RTP-kontoinställningar.
 
@@ -103,18 +103,18 @@ För att hantera domäner och underdomäner effektivare kan användare nu lägga
 
 **Uppdaterat MME Software Development Kit (SDK) för Android**
 
-Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalbart ramverk som innehåller större flexibilitet och nya ingenjörsfunktioner. Apputvecklare för Android kan nu använda Google direkt [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) med denna nya SDK.
+Vi har uppdaterat vårt SDK för Android till ett modernare, stabilare och skalbart ramverk som innehåller större flexibilitet och nya tekniska funktioner. Android apputvecklare kan nu direkt använda Google [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) med denna nya SDK.
 
 * [Utvecklarinstruktioner]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >
->Apputvecklare **måste** uppdatering till den nya versionen före 31 mars 2019. Om du inte uppdaterar din SDK senast 31 mars 2019 kommer nya användare som hämtar din app efter detta datum inte att kunna få push-meddelanden förrän du uppdaterar till den senaste versionen av SDK. SDK-uppdateringen kräver inte att dina nuvarande mobilappsanvändare hämtar en ny version av din app.
+>Programutvecklare **måste** uppdatera till den nya versionen före den 31 mars 2019. Om du inte uppdaterar din SDK senast 31 mars 2019 kommer nya användare som hämtar din app efter detta datum inte att kunna få push-meddelanden förrän du uppdaterar till den senaste versionen av SDK. SDK-uppdateringen kräver inte att dina nuvarande mobilappsanvändare hämtar en ny version av din app.
 
 ## Ytterligare uppdateringar {#additional-updates}
 
-**Extensible Webinar Platform**
+**Plattform för utbyggbart webbinarium**
 
 Förutom vår produktrelease arbetar vårt partnerteam på ett nytt ramverk som gör det möjligt för webbinarier-leverantörer att bygga och underhålla sina egna integreringar med Marketo, vilket ger större flexibilitet när det gäller att uppdatera och förbättra sina lösningar och samtidigt ger marknadsförarna möjlighet att få ut så mycket som möjligt av de integreringar de valt.
 
-Vi planerar att lansera vår nya plattform med leverantörer från fall till fall. Mer information finns i [programinformation](https://www.marketo.com/why-marketo/partners/technology/) eller kontakta din Marketo-kontakt.
+Vi planerar att lansera vår nya plattform med leverantörer från fall till fall. Mer information finns i vår [programinformation](https://www.marketo.com/why-marketo/partners/technology/) eller kontakta din Marketo-kontakt.

@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Anpassa videodelningsflöde {#customize-video-share-flow}
 
-När du [skapa en videodelning](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)kan du anpassa när och var delningsfrågan visas.
+När du [skapar en videoresurs](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) kan du anpassa när och var delningsfrågan visas.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Gå till **Appinställningar** > **Avancerade alternativ**.
+1. Gå till **Appinställningar** > **Avancerade alternativ** i videouppdelningsredigeraren.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ När du [skapa en videodelning](/help/marketo/product-docs/demand-generation/lan
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [konfigurera vad som ska hända efter videodelning](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Nästa steg är att [konfigurera vad som ska hända efter videodelningen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

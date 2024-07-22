@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys 
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
+>Marketo Sales Insight Actions är ett webbaserat program som integreras med Salesforce-användargränssnittet via [Marketo Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
 >[!AVAILABILITY]
 >
 >Den här funktionen introduceras för närvarande för alla Sales Insight-användare. Om du vill bli prioriterad i utrullningen skickar du ett e-postmeddelande till `sales-insights(at)adobe(dot)com`.
 
-En videoöversikt över Sales Insight Actions finns här: [klicka här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Om du vill se en videoöversikt över Sales Insight-åtgärder [klickar du här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ Följande åtgärder är tillgängliga i listrutan Välj åtgärder i det övre 
 
 * Skicka e-postmeddelande
    * E-postmeddelanden med försäljningsmeddelanden har vy, klickning och svarsspårning (när leveranskanalen är inställd)
-   * Inkluderar anpassning av e-post, anpassad signatur och bilagor
+   * Inkluderar e-post-Personalization, anpassad signatur och bilagor
    * Malldelning och rapporter
    * Teamdelning, gruppmeddelanden och CC/BCC-funktioner
    * E-postaktiviteten för försäljning loggas i Marketo personpost
@@ -84,7 +84,7 @@ Följande åtgärder är tillgängliga i den övre navigeringen:
 
 * Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga gruppmeddelanden med vy, klickning och svarsuppföljning till alla kontakter som är kopplade till ett konto/en affärsmöjlighet
    * E-postmeddelanden med försäljningsmeddelanden har vy, klickning och svarsspårning (när leveranskanalen är inställd)
-   * Inkluderar anpassning av e-post, anpassad signatur och bilagor
+   * Inkluderar e-post-Personalization, anpassad signatur och bilagor
    * Malldelning och rapporter
    * Teamdelning, gruppmeddelanden och CC/BCC-funktioner
    * E-postaktiviteten för försäljning loggas i Marketo personpost
@@ -103,7 +103,7 @@ Följande data är tillgängliga på flikarna:
 * Instrumentpanel för insikter
    * Hastighetsstödrastret för engagemang kommer att innehålla aktiviteter från säljmeddelanden, säljkampanjer och försäljningskampanjåtgärder
    * Kommande försäljningskampanjer - När en kontakt från kontot/affärsmöjligheten är en del av en pågående kampanj är den här informationen tillgänglig på fliken för kommande försäljningskampanjer
-   * Kommande uppgifter - När det finns en kommande uppgift som gäller en kontakt från kontot/affärsmöjligheten är den här informationen tillgänglig på fliken Kommande uppgifter
+   * Kommande aktiviteter - När det finns en kommande aktivitet som gäller en kontakt från kontot/affärsmöjligheten är den här informationen tillgänglig på fliken Kommande aktiviteter
 
 * Fliken E-post
    * Alla e-postmeddelanden som skickas till kontakter från kontot/affärsmöjligheten loggas här. Aktiviteterna loggas även i Marketo personpost
@@ -177,14 +177,14 @@ Försäljningsaktiviteter som ingår i Marketo:
 * Klicka på E-post för försäljning - Lead klickade på en länk i ett e-postmeddelande
 * Svara e-post - Lead svarade på ett e-postmeddelande
 * Ta emot försäljningssamtal - Lead tog emot ett samtal från en säljare med hjälp av försäljningsnumret.
-* Lägg till i försäljningskampanj - Lead har lagts till i en försäljningskampanj som skapats
+* Lägg till i försäljningskampanj - Lead lades till i en försäljningskampanj som skapats
 * Borttagen från försäljningskampanj - Lead har tagits bort från en försäljningskampanj som skapats
 
 Filter och utlösare är:
 
 * Skicka e-postmeddelande
-* Öppen e-postadress
-* Klicka på E-postadress för försäljning
+* Öppen e-postadress för försäljning
+* Klicka på E-postadress
 * Svar på e-postadress
 * Mottaget försäljningssamtal
 * Tillagd i försäljningskampanj

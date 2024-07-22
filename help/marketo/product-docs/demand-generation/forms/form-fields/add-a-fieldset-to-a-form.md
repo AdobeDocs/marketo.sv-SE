@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fältuppsättningar är coola. De grupperar en massa fält tillsammans. Du kan styra ett helt block samtidigt!
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ Fältuppsättningar är coola. De grupperar en massa fält tillsammans. Du kan s
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Klicka på **+** signera och välja **Fieldset**.
+1. Klicka på **+** och välj **Fältuppsättning**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Välj **fältuppsättning** och ange **Etikett**.
+1. Markera **fältuppsättningen** och ange en **etikett**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Dra fälten till **fältuppsättning**.
+1. Dra fälten du vill ha till **fältuppsättningen**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,4 +43,4 @@ Där har du den!
 
 >[!TIP]
 >
->Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Läs mer om [regler för synlighet](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Du kan dynamiskt dölja/visa hela fältuppsättningen beroende på ett annat fält. Läs mer om [synlighetsregler](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

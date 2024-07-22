@@ -6,7 +6,7 @@ exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 >[!NOTE]
 >
->Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poäng från leads till kontouppgifter. Vi tar till exempel två av de ovanstående exemplen (_Räntepoäng för kontoprodukt_ och _Resultat för webbengagemang för konto_).
+>Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poäng från leads till kontouppgifter. Vi kommer till exempel att ta två av de ovanstående exemplen (_Intressepoäng för kontoprodukt_ och _Resultat för webbengagemang_).
 >
 >Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.\
 >Tilldela sedan dessa lead scores till respektive kontopoäng:\
@@ -57,15 +57,15 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 När du har konfigurerat lead-poängen fortsätter du genom att följa stegen nedan.
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/account-score-1.png)
 
-1. Klicka **Hantering av målkonto**.
+1. Klicka på **Hantering av målkonto**.
 
    ![](assets/account-score-2.png)
 
-1. Klicka på Betygsfält **Redigera**.
+1. Klicka på **Redigera** i bedömningsfält.
 
    ![](assets/account-score-3.png)
 
@@ -73,14 +73,14 @@ När du har konfigurerat lead-poängen fortsätter du genom att följa stegen ne
    >
    >Du kan välja upp till **fem** fält för att beräkna kontouppsättningen.
 
-1. Ange namnet på kontouppsättningen och klicka på **Välj personpoäng** och välj motsvarande poäng.
+1. Ange namnet på kontouppsättningen, klicka på listrutan **Välj personpoäng** och välj motsvarande poäng.
 
    ![](assets/account-score-4.png)
 
-1. Klicka **+Lägg till** för att lägga till fler bakgrundsmusik.
+1. Klicka på **+Lägg till** för att lägga till fler bakgrundsmusik.
 
    ![](assets/account-score-5.png)
 
-1. Lägg till alla önskade bakgrundsmusik. Klicka **Spara** när det är klart.
+1. Lägg till alla önskade bakgrundsmusik. Klicka på **Spara** när du är klar.
 
    ![](assets/account-score-6.png)

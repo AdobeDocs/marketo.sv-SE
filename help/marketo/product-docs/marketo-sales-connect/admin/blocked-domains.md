@@ -23,7 +23,7 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 
    ![](assets/one-3.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/two-3.png)
 
@@ -33,4 +33,4 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 
    >[!NOTE]
    >
-   >E-postmeddelanden som ingår i en [Gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) skicka som misslyckas på grund av att de skickas till en blockerad e-postdomän kommer att misslyckas utan att något märks och inte visas i den misslyckade e-postmappen.
+   >E-postmeddelanden som är en del av en [gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) som inte kan skickas till en blockerad e-postdomän kommer inte att visas i bakgrunden och inte i den misslyckade e-postmappen.

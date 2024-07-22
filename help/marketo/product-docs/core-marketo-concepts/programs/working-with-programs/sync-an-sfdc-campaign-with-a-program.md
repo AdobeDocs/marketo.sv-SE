@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Synkronisera en SFDC-kampanj med ett program {#sync-an-sfdc-campaign-with-a-program}
 
-Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampanjer för att behålla samma lista över människor i båda systemen, inklusive deras status. Kom så börjar vi!
+Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampanjer för att behålla samma lista över personer i båda systemen, inklusive deras status. Kom så börjar vi!
 
 >[!PREREQUISITES]
 >
->Du måste [enable [!DNL Salesforce] kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} först.
+>Du måste [aktivera [!DNL Salesforce] kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} först.
 
 >[!CAUTION]
 >
@@ -31,15 +31,15 @@ Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampan
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klicka **[!UICONTROL Program Actions]** väljer **[!UICONTROL Salesforce Campaign Sync]**.
+1. Klicka på **[!UICONTROL Program Actions]** och välj sedan **[!UICONTROL Salesforce Campaign Sync]**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Välj **[!UICONTROL Create New]** eller välja en befintlig [!DNL Salesforce] kampanj.
+1. Välj **[!UICONTROL Create New]** eller välj en befintlig [!DNL Salesforce]-kampanj.
 
    >[!TIP]
    >
-   >Om du väljer en befintlig [!DNL Salesforce] kampanj, se till att [matchar programstatusvärdena för [!DNL Salesforce] kampanj och Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Om du väljer en befintlig [!DNL Salesforce]-kampanj måste du [matcha programstatusvärdena för  [!DNL Salesforce] kampanjen och Marketo-programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Ange ett namn för den nya kampanjen och klicka på **[!UICONTROL Save]**.
 

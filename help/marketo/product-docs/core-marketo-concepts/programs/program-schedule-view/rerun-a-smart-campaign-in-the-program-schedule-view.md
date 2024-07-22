@@ -33,6 +33,6 @@ Du kan enkelt skapa nya körningar av en befintlig Smart Campaign direkt från p
 
    >[!TIP]
    >
-   >Du kan också göra det här via [programfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Du kan även göra detta från [programfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! På samma sätt har du schemalagt en ny körning för den smarta kampanjen. Om Smart Campaign innehöll e-poststeg för att skicka dem ser du även dem!

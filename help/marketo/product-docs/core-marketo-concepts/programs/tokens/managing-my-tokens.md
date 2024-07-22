@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Hantera mina token {#managing-my-tokens}
 
-Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (egna tokens) i flödessteg, webbhooks, e-post och landningssidor. Så här skapar du dem.
+Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (anpassade token) i flödessteg, webbhocker, e-post och landningssidor. Så här skapar du dem.
 
 >[!TIP]
 >
->Läs mer om vilka variabler som redan är tillgängliga i [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>Läs mer om vilka tokens som redan är tillgängliga i [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Skapa en Min token {#create-a-my-token}
 
@@ -29,7 +29,7 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Välj en **[!UICONTROL My Token]** typ. Dra och släpp det på arbetsytan.
+1. Välj en **[!UICONTROL My Token]**-typ. Dra och släpp det på arbetsytan.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina to
 
 ## Redigera en Min token {#edit-a-my-token}
 
-1. Dubbelklicka på **[!UICONTROL My Token]** och gör ändringarna. Klicka **Spara**.
+1. Dubbelklicka på **[!UICONTROL My Token]** och gör ändringarna. Klicka på **Spara**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 

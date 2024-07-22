@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optimera synkroniseringsprestanda genom att endast inkludera fält som du behöver. Så här kan du dölja ett fält för Marketo Engage.
 
-1. Klicka på namnmenyn och välj **[!UICONTROL Setup]**.
+1. Klicka på din namnmeny och välj **[!UICONTROL Setup]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
@@ -31,7 +31,7 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Under **[!UICONTROL Field-Level Security]** avsnitt, klicka **[!UICONTROL View]** bredvid objektet som innehåller målfältet.
+1. Under avsnittet **[!UICONTROL Field-Level Security]** klickar du på **[!UICONTROL View]** bredvid objektet som innehåller målfältet.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -39,7 +39,7 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Avmarkera **[!UICONTROL Visible]** intill det fält som du vill dölja. Klicka på **[!UICONTROL Save]**.
+1. Avmarkera kryssrutan **[!UICONTROL Visible]** bredvid fältet som du vill dölja. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    >[!MORELIKETHIS]
    >
-   >[Dölja och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}
+   >[Dölj och visa ett fält](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

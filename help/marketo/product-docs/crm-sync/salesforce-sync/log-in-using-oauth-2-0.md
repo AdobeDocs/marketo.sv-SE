@@ -5,8 +5,8 @@ exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 1%
+source-wordcount: '501'
+ht-degree: 0%
 
 ---
 
@@ -20,15 +20,15 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
 ## Konfigurera ansluten app {#set-up-connected-app}
 
-1. Navigera till Appar, App Manager och klicka på under Konfigurera i plattformsverktygen i Salesforce. **[!UICONTROL New Connected App]**.
+1. Gå till Appar, App Manager och klicka på **[!UICONTROL New Connected App]** under Konfigurera i Salesforce, under Plattformsverktyg.
 
    ![](assets/setting-up-oauth-2-1.png)
 
-1. Fyll i detaljerna och klicka **[!UICONTROL Save]**.
+1. Fyll i informationen och klicka på **[!UICONTROL Save]**.
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. Klicka på **[!UICONTROL Enable OAuth Settings]** kryssrutan. Ange URL för återanrop `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Markera alla tillgängliga OAuth-scope och klicka på **[!UICONTROL Add]**.
+1. Klicka i kryssrutan **[!UICONTROL Enable OAuth Settings]**. Ange `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` för återanrops-URL. Markera alla tillgängliga OAuth-scope och klicka på **[!UICONTROL Add]**.
 
    ![](assets/setting-up-oauth-2-3.png)
 
@@ -46,7 +46,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
 >[!CAUTION]
 >
->Rulla nedåt medan du fortfarande är på sidan New Connected App (Ny ansluten app) och se till att kryssrutan&quot;Require Proof Key for Code Exchange (PKCE)&quot; är markerad _NOT_ markerat eftersom det skulle störa konfigurationen.
+>Rulla nedåt medan du fortfarande är på sidan Ny ansluten app och kontrollera att kryssrutan Kräv korrekturnyckel för kodutbyte (PKCE) är _INTE_ markerad, eftersom det skulle störa installationen.
 
 ## Konfigurera Marketo {#set-up-marketo}
 
@@ -62,7 +62,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >
 Se till att du döljer alla fält som du inte behöver i Marketo för synkroniseringsanvändaren innan du klickar på **[!UICONTROL Sync Fields]**. När du klickar på Synkronisera fält skapas alla fält som användaren kan se i SFDC permanent i Marketo och kan inte tas bort.
 
-1. I avsnittet Marketo Admin klickar du på **[!UICONTROL CRM]** sedan **[!UICONTROL Sync with Salesforce]**.
+1. Klicka på **[!UICONTROL CRM]** och sedan på **[!UICONTROL Sync with Salesforce]** i avsnittet Marketo Admin.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -70,7 +70,7 @@ Se till att du döljer alla fält som du inte behöver i Marketo för synkronise
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. På Marketo Salesforce-synkroniseringssidan klickar du på **[!UICONTROL Login with Salesforce]** -knappen.
+1. Klicka på knappen **[!UICONTROL Login with Salesforce]** på synkroniseringssidan för Marketo Salesforce.
 
    ![](assets/setting-up-oauth-2-9.png)
 
@@ -82,7 +82,7 @@ Se till att du döljer alla fält som du inte behöver i Marketo för synkronise
 
    ![](assets/setting-up-oauth-2-10.png)
 
-1. Ange verifieringskoden som du fick via e-post (skickas av Salesforce) och klicka på **[!UICONTROL Verify]**.
+1. Ange verifieringskoden som du fick via e-post (skickad av Salesforce) och klicka på **[!UICONTROL Verify]**.
 
    ![](assets/setting-up-oauth-2-11.png)
 

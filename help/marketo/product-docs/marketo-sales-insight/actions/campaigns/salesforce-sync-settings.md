@@ -5,7 +5,7 @@ exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
 source-git-commit: 350490c93d8f2bcc278f9f3e82018a1db91a1146
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 >
 >Salesforce- och Sales Insight-åtgärder måste vara kopplade.
 
-1. I Sales Insight Actions klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Åtgärder för säljinsikter och välj **Inställningar**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör) klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-2.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/salesforce-sync-settings-3.png)
 
@@ -36,7 +36,7 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. Klicka på **Salesforce API** -fliken. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka **Spara** när det är klart.
+1. Klicka på fliken **Salesforce API**. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
 
    ![](assets/salesforce-sync-settings-5.png)
 
@@ -50,19 +50,19 @@ När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia a
 
 **Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
 
-1. I Marketo Sales klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Marketo Sales och välj **Settings**.
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör) klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-7.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/salesforce-sync-settings-8.png)
 
-1. Klicka på **E-post till Salesforce (BCC)** och klicka **Aktivera**.
+1. Klicka på fliken **E-post till Salesforce (BCC)** och klicka på **Aktivera**.
 
    ![](assets/salesforce-sync-settings-9.png)
 
@@ -75,9 +75,9 @@ Om din e-postadress till Salesforce inte kommer in av någon anledning, följer 
 1. Välj **Min e-post till Salesforce**.
 1. På den här sidan visas ett fält med namnet&quot;E-post till Salesforce-adress&quot;. Om inget fylls i bredvid det bläddrar du nedåt till&quot;Mina godkända e-postadresser&quot;.
 1. Ange den eller de e-postadresser som du vill ska kopieras.
-1. Klicka **Spara ändringar**.
+1. Klicka på **Spara ändringar**.
 
-**Det går inte att hitta min e-post till Salesforce i Mina inställningar**
+**Kan inte hitta min e-post till Salesforce i Mina inställningar**
 
 Om du inte ser Min e-post till Salesforce under dina inställningar har administratören kanske inte aktiverat den. Det här kan hända om ditt team inte har använt Salesforce tidigare, eller om ditt team aldrig har använt den BCC-adress som Salesforce erbjuder.
 
@@ -85,24 +85,24 @@ Om du inte ser Min e-post till Salesforce under dina inställningar har administ
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka **Inställningar**.
-1. Klicka **E-postadministration**.
-1. Klicka **E-post till Salesforce**.
-1. Klicka **Redigera**.
+1. Klicka på **Konfigurera**.
+1. Klicka på **E-postadministration**.
+1. Klicka på **Skicka e-post till Salesforce**.
+1. Klicka på **Redigera**.
 1. Markera rutan bredvid&quot;Aktiv&quot;.
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 ## Synkronisera uppgifter/påminnelser för försäljningsinsikter till Salesforce-uppgifter {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. I Sales Insight Actions klickar du på kugghjulsikonen och väljer **Inställningar**.
+1. Klicka på kugghjulsikonen i Åtgärder för säljinsikter och välj **Inställningar**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör) klickar du på **Salesforce**.
+1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-11.png)
 
-1. Klicka på **Synkronisera inställningar** -fliken.
+1. Klicka på fliken **Synkronisera inställningar**.
 
    ![](assets/salesforce-sync-settings-12.png)
 

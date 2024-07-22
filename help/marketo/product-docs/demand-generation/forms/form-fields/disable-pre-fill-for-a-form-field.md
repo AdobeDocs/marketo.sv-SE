@@ -17,13 +17,13 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
 
 >[!NOTE]
 >
->**Formulär - förifyll** är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
+>**Formulärförifyllning** är aktiverat som standard. Inställningarna för förifyllning på landningssidnivå och förifyllning på administratörsnivå trumpar inställningen för formulärnivå:
 >
 >Form > Landing Page > Admin
 
 ## Inaktivera förifyllning {#how-to-disable-pre-fill}
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Förifyll formulär fungerar inte när du bäddar in ett formulär på dina egna sidor. Det fungerar bara på Marketo landningssidor.
 
-1. Markera ett av fälten och ange **Formulär - förifyll** till **Handikappade**.
+1. Markera ett av fälten och ange **Formulärförifyllning** till **Inaktiverad**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,16 +43,16 @@ När en webbbesökare är känd (kodad) kommer Marketo-formulär att förifylla 
    >
    >Du kan även inaktivera förifyllnad av formulär på landningssidnivå eller på adminnivå.
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## Känsliga fält {#sensitive-fields}
 
-När du [markera ett fält som känsligt](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), som förhindrar att dess värden fylls i i i förväg, visas i alternativet Förifyll.
+När du [markerar ett fält som känsligt](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) och förhindrar att dess värden fylls i i formulär i förväg, visas detta i alternativet Förifyll.
 
 ![](assets/disable-pre-fill.png)

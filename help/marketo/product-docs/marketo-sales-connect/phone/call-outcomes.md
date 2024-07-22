@@ -5,7 +5,7 @@ exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 
    ![](assets/call-outcomes-1.png)
 
-1. Under Administratörsinställningar väljer du **Dialer**.
+1. Välj **Dialer** under Administratörsinställningar.
 
    ![](assets/call-outcomes-2.png)
 
-1. Välj **Aktivera samtalsutfall**.
+1. Välj **Aktivera samtalsresultat**.
 
    ![](assets/call-outcomes-3.png)
 
-1. Välj önskat behov av samtalsresultat.
+1. Välj önskat behov av samtalsutfall.
 
    ![](assets/call-outcomes-4.png)
 
@@ -46,11 +46,11 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 
    ![](assets/call-outcomes-5.png)
 
-1. Under Administratörsinställningar väljer du **Dialer**.
+1. Välj **Dialer** under Administratörsinställningar.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicka **Hantera samtalsutfall**.
+1. Klicka på **Hantera samtalsresultat**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -70,7 +70,7 @@ När samtalsresultaten har aktiverats. Användarna kan välja ett när de ringer
 
    ![](assets/call-outcomes-10.png)
 
-1. Ange samtalsinformationen i telefonsvararen och klicka på **Utlysning**.
+1. Ange samtalsinformationen i telefonsvararen och klicka på **Ring**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -89,4 +89,4 @@ När samtalsresultaten har aktiverats. Användarna kan välja ett när de ringer
 >[!MORELIKETHIS]
 >
 >* [Logga samtalsorsaker och samtalsresultat till Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Samtalsorsaker](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Anropa orsaker](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

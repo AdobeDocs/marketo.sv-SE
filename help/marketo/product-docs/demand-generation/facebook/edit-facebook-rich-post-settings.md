@@ -19,13 +19,13 @@ Anpassa inlägg när andra delar dig på Facebook.
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-Marketo [sociala appar](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) låta era leads dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter, osv. Med facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från landningssidan som ska ingå i Facebook-inlägg.
+Marketo [sociala appar](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från landningssidan som ska ingå i Facebook-inlägg.
 
 ## Välj alternativ för Rich Post {#select-rich-post-options}
 
 Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg som genereras av delningar från din landningssida.
 
-1. Välj **Facebook-meddelande** i redigeraren för **YouTube** video eller social knapp.
+1. Välj **Facebook-meddelande** i redigeraren för **YouTube**-videon eller den sociala knappen.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg s
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Lägg till dynamiskt innehåll: Din sociala app kan använda landningssidans `<TITLE>`, `<CAPTION>`och `<DESCRIPTION>` -taggar för att fylla i ditt inlägg.
+   * Lägg till dynamiskt innehåll: Din sociala app kan använda din startsidas `<TITLE>` -, `<CAPTION>` - och `<DESCRIPTION>` -taggar för att fylla i ditt inlägg.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg s
 
 Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna från din landningssida kan du lägga till Facebook OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
 
-1. Öppna landningssidan som innehåller **YouTube video** eller social knapp.
+1. Öppna landningssidan som innehåller din **YouTube-video** eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   The **Landing Page Designer** öppnas i ett nytt fönster.
+   **Startsidan för Designer** öppnas i ett nytt fönster.
 
-1. Välj **Åtgärder för landningssida** > **Redigera metadatataggar för sidor**.
+1. Välj **Åtgärder för landningssida** > **Redigera sidmetataggar**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

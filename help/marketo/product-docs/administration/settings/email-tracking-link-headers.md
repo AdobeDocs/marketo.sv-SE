@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Följ stegen nedan för att anpassa länkrubrikerna för e-postspårning.
 
-1. I Marketo klickar du på **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/email-tracking-link-headers-1.png)
 

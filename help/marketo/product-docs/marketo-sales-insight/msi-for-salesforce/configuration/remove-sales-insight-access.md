@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
  </tbody> 
 </table>
 
-* Åtkomst till Apex-klass: 159 Apex-klasser som börjar med &quot;mkto_si&quot;
+* Apex-klassåtkomst: 159 Apex-klasser som börjar med &quot;mkto_si&quot;
 * Visualforce-sidåtkomst: 64 Visualforce-sidor som börjar med &quot;mkto_si&quot;
 * Definitioner av anpassade inställningar: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
@@ -77,13 +77,13 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
 
 1. Logga in på ditt Salesforce-konto.
 
-1. Klicka **Inställningar**.
+1. Klicka på **Konfigurera**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Under Administratör klickar du på **Hantera användare** sedan **Profiler**.
+1. Under Administratör klickar du på **Hantera användare** och sedan på **Profiler**.
 
-1. Klicka på profilen som du vill uppdatera och klicka sedan på **Redigera**.
+1. Klicka på den profil som du vill uppdatera och **Redigera**.
 
 1. Bläddra nedåt till&quot;Anpassade flikinställningar&quot; under Flikinställningar.
 
@@ -109,27 +109,27 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
    * Värden
    * WebActivityCache
 
-1. Bläddra ned till avsnittet&quot;Aktivera Apex-klassåtkomst&quot;. Klicka **Redigera**.
+1. Bläddra ned till avsnittet&quot;Aktivera Apex-klassåtkomst&quot;. Klicka på **Redigera**.
 
 1. I avsnittet Aktiverade Apex-klasser väljer du alla klasser som börjar med mkto_si. Detta bör innehålla upp till 159 klasser.
 
-1. Klicka **Ta bort** sedan **Spara**.
+1. Klicka på **Ta bort** och sedan på **Spara**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Bläddra ned till avsnittet Aktiverad Visualforce-sidåtkomst. Klicka **Redigera**.
+1. Bläddra ned till avsnittet Aktiverad Visualforce-sidåtkomst. Klicka på **Redigera**.
 
 1. I avsnittet &quot;Aktiverade Visualforce-sidor&quot; väljer du alla sidor som börjar med &quot;mkto_si&quot;. Detta bör innehålla upp till 64 sidor.
 
-1. Klicka **Ta bort** sedan **Spara**.
+1. Klicka på **Ta bort** och sedan på **Spara**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Bläddra ned till avsnittet Aktivera åtkomst till anpassade inställningsdefinitioner. Klicka **Redigera**.
+1. Bläddra ned till avsnittet Aktivera åtkomst till anpassade inställningsdefinitioner. Klicka på **Redigera**.
 
 1. Välj&quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; och&quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Klicka **Ta bort** sedan **Spara**.
+1. Klicka på **Ta bort** och sedan på **Spara**.
 
    ![](assets/remove-sales-insight-access-6.png)
 

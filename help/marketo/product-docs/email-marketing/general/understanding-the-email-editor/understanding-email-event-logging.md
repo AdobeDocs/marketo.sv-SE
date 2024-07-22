@@ -6,7 +6,7 @@ exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ När du skickar e-post loggar Marketo olika datapunkter till personens aktivitet
 
 >[!CAUTION]
 >
->Om samma e-postadress skickas till samma person två gånger från samma kampanj **Öppnad** -händelsen loggas högst 1 gång.
+>Om samma e-post skickas till samma person två gånger från samma kampanj loggas händelsen **Öppnad** högst en gång.

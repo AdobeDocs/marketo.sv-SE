@@ -16,16 +16,16 @@ Alla nya Adobe Marketo Engage-prenumerationer (31 juli 2023 eller senare) är in
 
 >[!NOTE]
 >
->Marketo Support kan inte tillhandahålla några uppdateringar om Adobe IMS-migrering. Adobe Account Team kommer att nå ut med den beräknade tidslinjen de närmaste månaderna. Mer information finns på [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}och [Vanliga frågor](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo Support kan inte tillhandahålla några uppdateringar om Adobe IMS-migrering. Adobe Account Team kommer att nå ut med den beräknade tidslinjen de närmaste månaderna. Mer information finns i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} och i [Vanliga frågor](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 För prenumerationer som är kopplade till Adobe identitet används Adobe Admin Console för användarhantering. Identitetsrelaterade begrepp, som enkel inloggning, hanteras också i Admin Console.
 
 * Mer information om [Adobe Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html){target="_blank"}.
-* Mer information om [konfigurera din Adobe-organisation för din Marketo-prenumeration](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* Mer information om hur du konfigurerar din Adobe-organisation för din Marketo-prenumeration ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} finns.[
 
 >[!NOTE]
 >
->Om du vill implementera enkel inloggning och din prenumeration har registrerats på Adobe Identity utan enkel inloggning (SSO) implementerad i Adobe Org skickar du en biljett till [Marketo Support](https://nation.marketo.com/){target="_blank"} och ange ämnet som&quot;Marketo on Admin Console, implementera enkel inloggning&quot;.
+>Om du vill implementera enkel inloggning och din prenumeration har registrerats på Adobe Identity utan enkel inloggning (SSO) implementerad i Adobe Org, skickar du en biljett till [Marketo Support](https://nation.marketo.com/){target="_blank"} och anger ämnet som&quot;Marketo på Admin Console, implementera enkel inloggning&quot;.
 
 ## Profilnivåer {#profile-levels}
 
@@ -47,7 +47,7 @@ Adobe Marketo Engage prenumerationer på Adobe Identity Management System har st
  </tr>
  <tr>
   <td><strong>Marketo Engage Admin</strong></td>
-  <td>En person som har beviljats tillträde till Marketo Engage med administrativ behörighet. Beviljad roll i Marketo Engage, inte Adobe Admin Console (visas bara som"Admin" i dialogrutan <b>Redigera användare</b> modal).</td>
+  <td>En person som har beviljats tillträde till Marketo Engage med administrativ behörighet. Beviljad roll i Marketo Engage, inte Adobe Admin Console (visas bara som"Admin" i <b>Redigera användare</b> modal).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage användare</strong></td>

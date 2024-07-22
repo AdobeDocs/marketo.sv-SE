@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Ni kan snabbt se medlemmar i ett engagemangsprogram. Så här gör du.
 
-1. I engagemangsprogrammet högerklickar du och väljer **Visa medlemmar**.
+1. Högerklicka och välj **Visa medlemmar** i ditt engagemangsprogram.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >The  [Utfyllt innehåll](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) kolumnvärdet uppdateras efter varje skiftning.
+   >Kolumnvärdet [Utfyllt innehåll](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) uppdateras efter varje skiftning.
 
 1. Nu kan du se alla medlemmar i programmet.
 

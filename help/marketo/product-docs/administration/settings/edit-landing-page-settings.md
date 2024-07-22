@@ -19,7 +19,7 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
@@ -27,7 +27,7 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. I **[!UICONTROL Landing Pages]** avsnitt, klicka **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** i avsnittet **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,19 +37,19 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
    | Villkor | Definition |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. Till exempel i `https://go.yourCompany.com`, ordet&quot;go&quot; är CNAME. Du kan ha flera, men de flesta använder bara den. |
+   | [!UICONTROL Domain name for landing pages] | Det här är din CNAME. En CNAME är den första delen av den URL som du ger personer för landningssidor. I `https://go.yourCompany.com` är till exempel ordet&quot;go&quot; CNAME. Du kan ha flera, men de flesta använder bara den. |
    | [!UICONTROL Fallback page] | Det är här du ska gå om landningssidan inte finns eller är nere. Läs mer om [reservsidor](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] | Ange företagets webbplats-URL. |
 
-1. Kontrollera **[!UICONTROL Form Prefill]** kryssrutan för att tillåta formulär att förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
+1. Markera kryssrutan **[!UICONTROL Form Prefill]** om du vill att formulär ska kunna förifylla information för kända (cookifyllda) personer. Avmarkera för att blockera.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Om du vill ha förifyllningen `<script>` -tagg som ska visas i slutet av `<head>` -taggen i koden kontrollerar du **[!UICONTROL Inject Prefill Script at End of Head]** box. Låt alternativet vara avmarkerat om du vill att det ska visas i början.
+   >Om du vill att förifyllningstaggen `<script>` ska visas i slutet av taggen `<head>` i koden markerar du rutan **[!UICONTROL Inject Prefill Script at End of Head]**. Låt alternativet vara avmarkerat om du vill att det ska visas i början.
    >
-   >Kontrollera **[!UICONTROL Remove default favicon links]** för att förhindra att Marketo infogar några favoritikonlänkar i koden.
+   >Markera **[!UICONTROL Remove default favicon links]** om du inte vill att Marketo ska kunna infoga favoritikonlänkar i koden.
 
 1. När du har gjort dina val klickar du på **[!UICONTROL Save]**.
 

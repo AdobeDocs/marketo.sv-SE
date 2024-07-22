@@ -22,6 +22,6 @@ Det är när en post är sann och en är falsk som det blir svårt.
 | Om synkroniseringsfiltret för den förlorade posten är: | och synkroniseringsfiltret för den vinnande posten är: | Detta är resultatet i Marketo |
 |---|---|---|
 | True | True | Den vinnande posten fortsätter att synkroniseras med Marketo |
-| Falskt | Falskt | Det vinnande resultatet fortsätter _not_ synka med Marketo |
+| Falskt | Falskt | Den vinnande posten fortsätter att _inte_ synkroniseras med Marketo |
 | Falskt | True | Den vinnande posten synkroniseras med Marketo |
 | True | Falskt | Den vinnande posten synkroniseras inte med Marketo |

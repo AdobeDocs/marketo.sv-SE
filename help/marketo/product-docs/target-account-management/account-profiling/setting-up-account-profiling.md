@@ -17,36 +17,36 @@ Följ de här stegen för att börja använda kontoprofilering.
 
 >[!CAUTION]
 >
->Följande fält måste **not** döljas för att kontoprofileringen ska fungera korrekt.
+>Följande fält får **inte** vara dolda för att kontoprofilering ska fungera korrekt.
 >
 >* Webbplats
 >* Företag
 >* E-post
 >* Land
 >
->Lär dig hur [visa ett fält här](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Lär dig hur du [visar ett fält här](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Öppna i Min Marketo **Hantering av målkonto**.
+1. Öppna **Hantering av målkonto** i Min Marketo.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Klicka på **Kontoprofilering** -fliken.
+1. Klicka på fliken **Kontoprofilering**.
 
    ![](assets/two-1.png)
 
-1. Fliken Modell öppnas som standard. Klicka **Kom igång**.
+1. Fliken Modell öppnas som standard. Klicka på **Kom igång**.
 
    ![](assets/three.png)
 
-1. Ge modellen ett namn och välj listtyp/lista med personer som ska fungera som bas för Ideal Customer Profile (ICP). Klicka **Skapa modell** när det är klart.
+1. Ge modellen ett namn och välj listtyp/lista med personer som ska fungera som bas för Ideal Customer Profile (ICP). Klicka på **Skapa modell** när du är klar.
 
    ![](assets/setting-up-account-profiling-4.png)
 
-1. Modellen börjar byggas. Det kan ta en stund, men oroa dig inte. Du meddelas när det är klart.
+1. Modellen börjar byggas. Det kan ta en stund, men oroa dig inte. Du får ett meddelande när det är klart.
 
    ![](assets/five.png)
 
-1. Klicka på **Se modellresultat**.
+1. Om du vill visa resultatet av modellen klickar du på **Se modellresultat**.
 
    ![](assets/six.png)
 
@@ -56,4 +56,4 @@ Följ de här stegen för att börja använda kontoprofilering.
 
    >[!TIP]
    >
-   >Nu när din modell har skapats [lära sig att trimma](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Nu när din modell har skapats kan du [lära dig att justera den](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

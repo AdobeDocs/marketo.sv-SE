@@ -19,13 +19,13 @@ Ett icke godkänt kodfragment kan inte användas i e-postmeddelanden eller på l
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Gå till fragmentet och kontrollera att det inte är det **Används av** alla tillgångar.
+1. Gå till fragmentet och kontrollera att det inte **används av** några resurser.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Om fragmentet används av andra resurser tar du bort de associationerna innan du fortsätter.
 
-1. I **Fragmentåtgärder**, klicka på **Ogodkänd**.
+1. Klicka på **Avgodkänn** i **Utdragsåtgärder**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 

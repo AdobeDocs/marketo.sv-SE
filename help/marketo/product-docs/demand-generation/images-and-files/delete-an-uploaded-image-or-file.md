@@ -27,7 +27,7 @@ Det går snabbt och enkelt att ta bort bilder eller filer.
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Sök efter och markera bilden/filen. Klicka på **[!UICONTROL Image and file actions]** nedrullningsbar meny och välj **[!UICONTROL Delete]**.
+1. Sök efter och markera bilden/filen. Klicka på listrutan **[!UICONTROL Image and file actions]** och välj **[!UICONTROL Delete]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
@@ -37,10 +37,10 @@ Det går snabbt och enkelt att ta bort bilder eller filer.
 
    >[!NOTE]
    >
-   >Resurser tas inte bort om de används.
+   >Assets tar inte bort om de används.
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Ersätt en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [Sök efter överförda bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
 >* [Hitta URL-adressen till en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # Inställningar för TAM-rapport {#tam-report-setup}
 
-TAM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till kontoteamet varje vecka.
+TAM:s försäljningsrapport är en personlig e-postadress som skickas till kontoteamet varje vecka.
 
 ## Rapportinställningar {#report-setup}
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicka **Hantering av målkonto**.
+1. Klicka på **Hantering av målkonto**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicka på under Veckorapport **Redigera**.
+1. Klicka på **Redigera** under Veckorapport.
 
    ![](assets/three-3.png)
 
-1. Klicka på **Dag** och välj den dag i veckan som du vill att mottagarna ska få e-postmeddelandet.
+1. Klicka på listrutan **Dag** och välj den dag i veckan som du vill att mottagarna ska få e-postmeddelandet.
 
    ![](assets/four-4.png)
 
-1. Klicka på knappen **Sortera efter** och gör en markering.
+1. Om du vill fastställa layouten för e-postmeddelandet klickar du på listrutan **Sortera efter** och gör ett val.
 
    ![](assets/five-3.png)
 
-1. Kontrollera **Användare** markerar du kryssrutan och klickar sedan på listrutan och väljer vem du vill få e-postmeddelandet.
+1. Markera kryssrutan **Användare**, klicka sedan på listrutan och välj vem du vill ska få e-postmeddelandet.
 
    ![](assets/six-2.png)
 
@@ -45,7 +45,7 @@ TAM:s försäljningsrapport är ett personligt e-postmeddelande som skickas till
    >
    >Meddelanden skickas endast till kontoägare eller teammedlemmar.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/seven-2.png)
 
@@ -53,17 +53,17 @@ Och det är allt!
 
 ## Så här säger du upp prenumerationen {#how-to-unsubscribe}
 
-Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka **Avbeställ** längst ned i e-postmeddelandet.
+Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka på **Avbeställ** längst ned i e-postmeddelandet.
 
 ![](assets/eight-1.png)
 
 ## Så här återprenumererar du {#how-to-resubscribe}
 
-1. Klicka **Administratör**.
+1. Klicka på **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klicka **Hantering av målkonto**.
+1. Klicka på **Hantering av målkonto**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +71,10 @@ Varje rapport har möjligheten att avanmäla sig. Det gör du genom att klicka *
 
    ![](assets/nine.png)
 
-1. Klicka på **Användare** nedrullningsbar meny.
+1. Klicka på listrutan **Användare**.
 
    ![](assets/ten.png)
 
-1. Välj den användare som du vill ska få e-post igen och klicka på **Återprenumeration**.
+1. Välj den användare som du vill ta emot e-postmeddelanden till igen och klicka på **Prenumerera igen**.
 
    ![](assets/eleven.png)

@@ -6,7 +6,7 @@ exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---
@@ -27,11 +27,11 @@ I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayou
 
 Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
-1. Skriv &quot;[!UICONTROL page layouts]&quot; i navigeringsfältet utan att trycka på **[!UICONTROL Enter]** och klicka **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
+1. Skriv [!UICONTROL page layouts] i navigeringsfältet utan att trycka på **[!UICONTROL Enter]** och klicka **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klicka **[!UICONTROL Edit]** bredvid Leadlayout.
+1. Klicka på **[!UICONTROL Edit]** bredvid Leadlayout.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
@@ -39,11 +39,11 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Ange&quot;Marketo&quot; för **[!UICONTROL Section Name]** och klicka **[!UICONTROL OK]**.
+1. Ange Marketo för **[!UICONTROL Section Name]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klicka och dra fältet **[!UICONTROL Acquisition Date]** till **Marketo** -avsnitt.
+1. Klicka och dra fältet **[!UICONTROL Acquisition Date]** till avsnittet **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -63,8 +63,8 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    * Ursprunglig referens
    * Ursprunglig sökmotor
    * Ursprunglig sökfras
-   * Ursprunglig källinformation
-   * Ursprunglig källtyp
+   * Ursprunglig Source-information
+   * Ursprunglig Source-typ
 
    >[!NOTE]
    >
@@ -74,7 +74,7 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
    >
    >Skapa två kolumner för fälten genom att dra nedåt till höger på sidan. Du kan flytta fält från den ena sidan till den andra om du vill balansera kolumnlängden.
 
-1. Klicka **[!UICONTROL Save]** när fält har lagts till.
+1. Klicka på **[!UICONTROL Save]** när du är klar med att lägga till fält.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
@@ -82,13 +82,13 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Kom ihåg att klicka **[!UICONTROL Save]** när du är klar med **[!UICONTROL Contact Page Layout]**.
+1. Kom ihåg att klicka på **[!UICONTROL Save]** när du är klar med **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Se till att **[!UICONTROL All-Day Event]** fältet har lagts till i **[!UICONTROL Event Page Layout]**.
+   >Kontrollera att fältet **[!UICONTROL All-Day Event]** har lagts till i **[!UICONTROL Event Page Layout]**.
 
 ## Skapa synkroniserad användare {#create-sync-user}
 
@@ -106,7 +106,7 @@ Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Dett
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Fyll i de obligatoriska fälten, välj **[!UICONTROL User License: Salesforce]**, ange **[!UICONTROL Profile: System Administrator]**, kontrollera **[!UICONTROL Marketing User]** och klicka **[!UICONTROL Save]**.
+1. Fyll i de obligatoriska fälten, markera **[!UICONTROL User License: Salesforce]**, ange **[!UICONTROL Profile: System Administrator]**, kontrollera **[!UICONTROL Marketing User]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 

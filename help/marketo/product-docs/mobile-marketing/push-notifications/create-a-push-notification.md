@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Skapa ett push-meddelande {#create-a-push-notification}
 
-Det är enkelt att skapa ett push-meddelande. Innan du börjar måste du dock ha Marketo Admin och Mobile Apps Developer konfigurerat några saker som du behöver medan du gör det. Se [Förstå push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) för mer information.
+Det är enkelt att skapa ett push-meddelande. Innan du börjar måste du dock ha Marketo Admin och Mobile Apps Developer konfigurerat några saker som du behöver medan du gör det. Mer information finns i [Förstå push-meddelanden](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
 
-1. Gå till **Marknadsföringsaktiviteter** område.
+1. Gå till området **Marknadsföringsaktiviteter**.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +23,16 @@ Det är enkelt att skapa ett push-meddelande. Innan du börjar måste du dock ha
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Under **Nytt**, klicka **Ny lokal resurs**.
+1. Klicka på **Ny lokal resurs** under **Ny**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Välj **Push-meddelande**.
+1. Välj **Push Notification**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Ange **Namn på push-meddelande** och klicka **Skapa**.
+1. Ange ett **push-meddelandenamn** och klicka på **Skapa**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Söt! Nu när push-meddelandet har skapats kan vi gå vidare och [klär upp den](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Söt! Nu när push-meddelandet har skapats kan vi [fixa till det](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

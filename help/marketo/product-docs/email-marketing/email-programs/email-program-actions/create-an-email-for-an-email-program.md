@@ -18,17 +18,17 @@ ht-degree: 0%
 >* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämma vilket e-postmeddelande du ska skicka. Du kan [välj ett befintligt e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller skapa en helt ny. Så här skapar du ett nytt e-postmeddelande.
+När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämma vilket e-postmeddelande du ska skicka. Du kan [välja ett befintligt e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller skapa ett från början. Så här skapar du ett nytt e-postmeddelande.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/one.png)
 
-1. Välj e-postprogram. Under **E-post** platta, klicka **Ny e-post**.
+1. Välj e-postprogram. Klicka på **Ny e-post** under rutan **E-post**.
 
    ![](assets/newemaildashboard.png)
 
-1. Ange **Namn**, välj önskad mall och klicka på **Skapa**.
+1. Ange ett **namn**, markera önskad mall och klicka på **Skapa**.
 
    ![](assets/three.png)
 
@@ -38,10 +38,10 @@ När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämm
 
    >[!NOTE]
    >
-   >Lär dig hur [redigera element i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >Lär dig [redigera element i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
 
 1. Glöm inte att godkänna e-postmeddelandet.
 
    ![](assets/five.png)
 
-Bra! Nu när vi har skapat ett e-postmeddelande som vi vill skicka kan vi  [lägga till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) eller hoppa direkt till [schemalägga ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Bra! Nu när vi har skapat ett e-postmeddelande som vi vill skicka kan vi [lägga till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) eller hoppa direkt till [schemalägga ditt e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

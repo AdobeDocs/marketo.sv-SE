@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Använd kolumner för att sortera data i rapporten och göra de viktigaste siffrorna enkla att hitta.
 
-1. Gå till **Analyser** (eller **Marknadsföringsaktiviteter**).
+1. Gå till **Analytics** (eller **Marketing Activities**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj rapporten från navigeringsträdet och klicka på **Rapport** -fliken.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
 
    ![](assets/reports2.jpg)
 

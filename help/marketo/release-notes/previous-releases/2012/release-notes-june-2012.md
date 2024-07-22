@@ -6,20 +6,20 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Juni 2012 {#release-notes-june}
+# Versionsinformation: juni 2012 {#release-notes-june}
 
 ## Förbättringar av Marketo Lead Management {#marketo-lead-management-enhancements}
 
 ### Byt namn {#rename}
 
-Du kan byta namn på smarta listor, statiska listor och kampanjer. Om du använder dessa resurser i filter, utlösare eller flöden uppdateras även namnet automatiskt där. Du har alltid kunnat byta namn på dina e-postmeddelanden, formulär och mappar.
+Du kan byta namn på smarta listor, statiska listor och kampanjer. Om du använder dessa resurser i filter, utlösare eller flöden uppdateras även namnet automatiskt där. Du har alltid kunnat byta namn på e-post, formulär och mappar.
 
-Och som bonus förbättrade vi arbetet med att ange och visa beskrivningstext för resurser.
+Och som bonus har vi förbättrat möjligheten att ange och visa beskrivningstext för resurser.
 
 ![](assets/image2014-9-23-10-3a23-3a10.png)
 
@@ -41,7 +41,7 @@ På de befintliga sammanfattningssidorna för program och kampanj har vi även l
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Används av för resurser {#used-by-for-assets}
+## Används av för Assets {#used-by-for-assets}
 
 Vi har lagt till en ny flik i resurssammanfattningssidorna, som anropas av!
 
@@ -65,7 +65,7 @@ När du schemalägger en kampanj kan du klicka på länken för att se en lista 
 
 ## Vänta steg - Leadtoken och Min token {#wait-step-lead-token-and-my-token}
 
-I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kanske vill använda `{{lead.Birthday}}` för att skicka e-post på sin födelsedag, eller använda `{{my.Event Date}}` för att skicka en påminnelse till det sista webbinariet.
+I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på sin födelsedag eller använda `{{my.Event Date}}` för att skicka en slutgiltig påminnelse för webbinariet.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -75,13 +75,13 @@ Byt vy från en lista med bilder till en miniatyrbildsvy!
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Obs! Från och med den här versionen kommer den tidigare sorteringen i stödraster för smarta listor inte att gälla för nästa smarta lista som du visar. Om du t.ex. sorterar en smart lista efter företagsnamn sorteras inte nästa smarta lista som visas i det här fältet automatiskt.
+Obs! Från och med den här versionen gäller inte den tidigare sorteringen i stödraster för smarta listor för nästa smarta lista som du visar. Om du t.ex. sorterar en smart lista efter företagsnamn sorteras inte nästa smarta lista som visas i det här fältet automatiskt.
 
 Påminnelse: Uppgradering av e-postprestandarapport pågår!
 
 ## Förbättringar i Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nya mätvärden i analys av affärsmöjligheter i programmet  {#new-metrics-in-program-opportunity-analysis}
+### Nya mått i analys av affärsmöjligheter i programmet  {#new-metrics-in-program-opportunity-analysis}
 
 Ni kan nu få insikter om det genomsnittliga antalet marknadsföringsåtgärder innan ni skapar eller stänger nya möjligheter, samt om det genomsnittliga värdet av en marknadsföringskontakt.
 

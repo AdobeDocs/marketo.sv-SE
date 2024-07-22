@@ -51,7 +51,7 @@ Administratörer kan stoppa kampanjer för användarnas räkning.
    * Användare kan dela grupper med alla
    * Användare kan dela grupper med endast de team de tillhör
    * Användarna kommer att ha synlighet för alla personer i din åtgärdsdatabas
-   * När en användare tas bort överför deras delade kontakter ägarskap till den Överordnad administratören som tog bort användaren
+   * När en användare tas bort överför deras delade kontakter ägarskapet till huvudadministratören som tog bort användaren
 
 * Teamhanteringssida:
 
@@ -62,4 +62,4 @@ Administratörer kan stoppa kampanjer för användarnas räkning.
    * Användare kan dela mallar med alla
    * Användare kan dela mallar i kategorier som deras administratörer tillåter dem att
    * När en användare tas bort från ett team delas inte deras mallar med det teamet
-   * När en användare tas bort från ett team överför deras mallar ägarskapet till den Överordnad administratören som tog bort användaren
+   * När en användare tas bort från ett team överför deras mallar ägarskapet till huvudadministratören som tog bort användaren

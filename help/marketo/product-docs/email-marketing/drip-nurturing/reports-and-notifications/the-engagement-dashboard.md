@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359685
-description: Engagement Dashboard - Marketo Docs - produktdokumentation
+description: The Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Engagement Dashboard är det enklaste sättet att se hur innehållet i ert engag
 
 ## Visa instrumentpanelen för engagemang {#view-the-engagement-dashboard}
 
-Välj engagemangsprogram och klicka **Visa** > **Kontrollpanel**.
+Välj ditt engagemangsprogram och klicka på **Visa** > **Kontrollpanel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Kolla in [prestandarapport för avtalsström](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för mer detaljerad statistik.
+>Mer detaljerad statistik finns i [rapporten om engagemangsströmmens prestanda](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
 
 ## Förstå utgiftswidgeten {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Med den här widgeten kan du förutse när leads har fyllt allt innehåll. Utmat
 
 >[!NOTE]
 >
->Du måste gå till fliken Inställningar och kontrollera att meddelanden om utökat innehåll är **På** om du vill se diagrammet ovan. Om de är avaktiverade ser diagrammet annorlunda ut.
+>Du måste gå till fliken Inställningar och kontrollera att meddelanden om utfyllt innehåll är **På** för att se diagrammet ovan. Om de är av ser diagrammet annorlunda ut.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Om du vill ändra sorteringen klickar du på kugghjulsikonen och väljer sedan s
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Nyaste_ och _Äldsta_ baseras på tidpunkten för det senaste godkännandet.
+_Nyaste_ och _Äldsta_ baseras på tiden för senaste godkännande.
 
 >[!NOTE]
 >
->Läs mer i [Skapa ett engagerande program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Djupdykning.
+>Mer information finns i [Skapa ett engagemangsprogram](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) på djupet.

@@ -18,11 +18,11 @@ ht-degree: 0%
 >* [Skapa ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definiera en publik med en smart lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) eller [Definiera en publik genom att importera en lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [Skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Välj en befintlig e-postadress](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller [Skapa en e-postadress för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du berätta för ditt program *när* för att skicka e-postmeddelandet. Så här gör du.
+När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du tala om för ditt program *när* ska skicka e-postmeddelandet. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Under **Schema** titel, ange datumet.
+1. Ange datumet under rutan **Schema**.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Du kan också välja att använda [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Startpunkt](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funktioner.
+1. Du kan också välja att använda funktionerna [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Huvudstart](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
@@ -47,4 +47,4 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 >[!MORELIKETHIS]
 >
 >* [Schemalägg e-postprogram med mottagartidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Startsida för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

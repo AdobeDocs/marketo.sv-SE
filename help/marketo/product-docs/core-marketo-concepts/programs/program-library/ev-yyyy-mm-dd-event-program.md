@@ -2,10 +2,10 @@
 description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Produktdokumentation
 title: EV-YYYY-MM-DD-Event-programmet
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Det här är ett exempel på ett eventprogram med en registreringssida, tre inbjudningsmejl och uppföljningsmejl som använder ett Marketo Engage Event Program. Passar för alla evenemang där du behöver registrera dig, inklusive reklamutskick, luncher, middagar eller presentationer vid mässor.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -39,7 +39,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -151,7 +151,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
   <tr> 
    <td>Mapp</td> 
    <td> </td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Alla kreativa resurser 
 <br/>(undermappar för e-post- och landningssidor)</td>
   </tr>
   <tr> 
@@ -305,11 +305,11 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 * **Landningssidmall med samma namn**
    * Kopiera ursprunglig mall
-   * Använd målmall - _Rekommenderas_
+   * Använd målmall - _Rekommenderad_
 
 * **Bilder med samma namn**
    * Behåll båda filerna
-   * Ersätt artikel i den här prenumerationen - _Rekommenderas_
+   * Ersätt objekt i den här prenumerationen - _Rekommenderas_
 
 * **E-postmallar med samma namn**
    * Behåll båda mallarna
@@ -330,7 +330,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
 
 >[!TIP]
 >
->Glöm inte att aktivera kampanjen&quot;06-Attended (Program Success)&quot; för att spåra lyckade försök! Gör så här _före_ formuläret är live och e-postmeddelanden skickas.
+>Glöm inte att aktivera kampanjen&quot;06-Attended (Program Success)&quot; för att spåra lyckade försök! Gör detta _innan_ ditt formulär är live och e-postmeddelanden skickas.
 
 >[!IMPORTANT]
 >

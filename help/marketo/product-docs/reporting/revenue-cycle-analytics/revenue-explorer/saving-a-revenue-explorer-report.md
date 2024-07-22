@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Spara en rapport i skatteutforskaren {#saving-a-revenue-explorer-report}
 
-Rapporterna i Intresseutforskaren kan sparas i den fil du vill.
+Rapporterna i Intresseutforskaren kan sparas i den fil som du väljer.
 
 1. Klicka på ikonen Spara.
 
@@ -33,4 +33,4 @@ Rapporterna i Intresseutforskaren kan sparas i den fil du vill.
 
 >[!MORELIKETHIS]
 >
->[Prenumerera på en rapport om skatteutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Prenumerera på en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera informationen som visas i kalendern.
 
-1. Klicka på **[!UICONTROL Calendar]** platta.
+1. Klicka på rutan **[!UICONTROL Calendar]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicka på **[!UICONTROL Entry Type]** nedrullningsbar meny.
+1. Klicka på listrutan **[!UICONTROL Entry Type]**.
 
    >[!NOTE]
    >
@@ -33,7 +33,7 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
    >[!TIP]
    >
-   >Beskrivningar av standardposttyperna finns i [Inmatningstyper för programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Mer information om standardposttyperna finns i [Posttyper för programschemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Välj de programtaggar som intresserar dig.
 
@@ -47,4 +47,4 @@ Använd anmälningstyper, programtaggar eller arbetsytor för att filtrera infor
 
    >[!NOTE]
    >
-   >[Spara en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Sparar en filterdefinition i marknadsföringskalendern](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

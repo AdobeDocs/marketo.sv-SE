@@ -23,31 +23,32 @@ Var och en av dessa funktioner kan nås från:
 **Sidlayout med en åtgärd**
 
 * Panelen Lead-layout: En åtgärd och kan styras av användarprofilen
-* Panelen Kontaktlayout: En åtgärd och kan styras av användarprofilen
-* Knappen Lead-layout: En åtgärd och kan inte styras av användarprofilen
+* Kontaktlayoutpanelen: En åtgärd och kan styras av användarprofilen
+* Knapp för leadlayout: En åtgärd och kan inte styras av användarprofilen
 * Kontaktlayoutsknapp: En åtgärd och kan inte styras av användarprofilen
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
 **Sidlayout med gruppåtgärd**
 
-Panelen Kontolayout: Gruppåtgärd och kan styras av panelen för användarprofilslayout: Gruppåtgärd och kan styras av användarprofil
+Panelen Kontolayout: Gruppåtgärd och kan styras av användarprofil
+Panelen för säljprojektslayout: gruppåtgärd och kan styras av användarprofil
 
 ![](assets/-.png)
 
 **Fliken Bästa val**
 
-* Fliken Best Bets Bulk Actions: Gruppåtgärd och kan styras av användarprofil
+* Fliken Bästa val - gruppåtgärder: Gruppåtgärd och kan styras av användarprofil
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-* Fliken Best Bets In-line Actions: En åtgärd och kan styras av användarprofilen
+* Best Bets In-line Actions tab: Single action &amp; can be controls by user profile
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-**Listvy med gruppåtgärd**
+**Listvy med massåtgärd**
 
-* Leadlistvy: Massåtgärd och kan inte styras av användarprofilen
-* Visa kontaktlista: Massåtgärd och kan inte styras av användarprofilen
+* Leadlistvy: Massåtgärd och kan inte styras av användarprofil
+* Kontaktlistvy: Massåtgärd och kan inte styras av användarprofil
 
-   ![](assets/-.png)
+  ![](assets/-.png)

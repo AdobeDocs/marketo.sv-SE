@@ -18,7 +18,7 @@ Så här exporterar du alla roller och deras behörigheter.
 >
 >Administratörsbehörigheter krävs
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -26,7 +26,7 @@ Så här exporterar du alla roller och deras behörigheter.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Klicka på **[!UICONTROL Roles]** -fliken.
+1. Klicka på fliken **[!UICONTROL Roles]**.
 
    ![](assets/export-roles-and-permissions-3.png)
 

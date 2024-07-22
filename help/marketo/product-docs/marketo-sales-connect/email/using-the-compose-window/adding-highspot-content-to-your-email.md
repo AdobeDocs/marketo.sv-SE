@@ -23,7 +23,7 @@ Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales
 
    ![](assets/two-5.png)
 
-1. Klicka på den punkt i e-postmeddelandet där du vill infoga det markerade innehållet. Klicka på pilen i listrutan (bredvid ikonen för bifogade filer) och välj **Högdager**.
+1. Klicka på den punkt i e-postmeddelandet där du vill infoga det markerade innehållet. Klicka på pilen i listrutan (bredvid ikonen för bifogad fil) och välj **Högdager**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales
 
    ![](assets/four-5.png)
 
-1. Välj önskat innehåll och klicka på **Lägg till innehåll** -knappen.
+1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll** .
 
    ![](assets/five-3.png)
 

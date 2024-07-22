@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analyser** och markera **Nytt** > **Ny rapportprenumeration**.
+1. Gå till **Analytics** och välj **New** > **New Report Subscription**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
    >
    >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. För **Rapportkälla**, markera **Intäktsutforskaren**.
+1. För **Rapportera Source** väljer du **Intresseutforskaren**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,4 +45,4 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
 
 >[!MORELIKETHIS]
 >
->Lär dig hur [hantera alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.
+>Lär dig hur du [hanterar alla rapportprenumerationer](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) på ett och samma ställe.

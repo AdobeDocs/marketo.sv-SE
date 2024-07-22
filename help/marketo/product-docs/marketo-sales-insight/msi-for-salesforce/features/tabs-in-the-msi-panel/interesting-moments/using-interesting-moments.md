@@ -17,7 +17,7 @@ Intressanta ögonblick är nyckeln till att kommunicera med säljarna via appen 
 
 >[!AVAILABILITY]
 >
->Dessa finns för Marketo Sales Insight och [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) endast kunder.
+>Dessa är endast tillgängliga för Marketo Sales Insight- och [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)-kunder.
 
 ## Vad är ett intressant ögonblick? {#what-is-an-interesting-moment}
 
@@ -29,29 +29,29 @@ Det är upp till dig! Du bestämmer själv vilken information som är relevant f
 
 ## Hur skapar jag ett intressant ögonblick?  {#how-do-i-create-an-interesting-moment}
 
-1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om det utlöses.
+1. Välj en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), helst en som ditt säljteam tycker är intressant om den aktiveras.
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Dra över **Intressanta ögonblick** flödessteg.
+1. Dra över flödessteget **Intressanta stunder**.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Välj en **type** (E-post, Milstolpe eller Webb).
+1. Välj en **typ** (e-post, milstolpe eller webb).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Skriv ett meddelande till ditt säljteam i **Beskrivning** fält som förklarar varför den här åtgärden är viktig.
+1. Skriv ett meddelande till ditt säljteam i fältet **Beskrivning** som förklarar varför den här åtgärden är viktig.
 
    ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
-   >Marketo lägger också till datumet det inträffade och hur det intressanta ögonblicket lades till (dvs lead action > flow step, SOAP API).
+   >Marketo lägger också till datumet som infaller och hur den intressanta stunden lades till (dvs lead-åtgärd > flödessteg, SOAP API).
 
 ## Hur kan det här bli ännu intressantare?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem det skickades av. Kontrollera vilka variabler som är tillgängliga för användning i [Token för intressanta ögonblick](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) ordlista.
+Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifik information, som ämnesraden i det e-postmeddelande som leadet öppnade eller vem som skickade det. Ta reda på vilka tokens som är tillgängliga för användning i ordlistan [Tokens för intressanta stunder](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md).
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Lägg till dem i beskrivningsfältet för att ge säljteamet mer specifi
 
 ## Hur ser ett intressant ögonblick ut i Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Intressanta stunder visas i en [Lead-aktivitetsloggen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Intressanta stunder visas i aktivitetsloggen för en [lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/using-interesting-moments-5.png)
 
 ## Hur ser ett intressant ögonblick ut i Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-När du har [installerade Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
+När du har [installerat Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) visas intressanta stunder på lead-, kontakt-, konto- eller affärsmöjlighetssidorna. De visas också på kontrollpanelen Sales Insight i Lead Feed, Best Bets och Watch List.
 
 ![](assets/using-interesting-moments-6.png)
 
@@ -85,7 +85,7 @@ Du kan prenumerera på ett intressant tillfälle genom att klicka på prenumerat
 
 1. Välj vilken eller vilka e-postadresser du vill skicka aviseringarna till (dig själv/teammedlemmar)
 
-1. Klicka **Prenumerera**.
+1. Klicka på **Prenumerera**.
 
 >[!NOTE]
 >

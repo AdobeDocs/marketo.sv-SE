@@ -23,7 +23,7 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 >
 >[Skapa en personpartition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
@@ -31,11 +31,11 @@ En personpartition är som att ha en andra (eller tredje) databas. En partition 
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Under **[!UICONTROL Person Partitions]** väljer du den personpartition som du vill redigera och klickar på **[!UICONTROL Edit Person Partition]**.
+1. Under fliken **[!UICONTROL Person Partitions]** väljer du den personpartition som du vill redigera och klickar på **[!UICONTROL Edit Person Partition]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Ange personpartitionen **[!UICONTROL Name]**, **[!UICONTROL Workspaces]** tillhör och klickar på **[!UICONTROL Save]**.
+1. Ange personpartitionen **[!UICONTROL Name]**, den **[!UICONTROL Workspaces]** de tillhör och klicka på **[!UICONTROL Save]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

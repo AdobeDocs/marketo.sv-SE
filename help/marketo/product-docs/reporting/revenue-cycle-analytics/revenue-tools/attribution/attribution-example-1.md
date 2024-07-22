@@ -6,7 +6,7 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -16,16 +16,16 @@ ht-degree: 0%
 Läs följande scenario och försök fastställa vilka tal som ska finnas i rutnätet.
 
 * 11 april | Fred förvärvas av (Tradeshow)
-* 15 april | Marknadsdeltagare (webbinarium) - lyckade
+* 15 april | Margo Attends (Webinar) - success
 * 22 april | Fred är associerad (roll) med affärsmöjligheten
-* 22 april | Affärsmöjlighet skapas för $3 000
+* 22 april | Affärsmöjligheten har skapats för $3 000
 
 | Programnamn | (Varumärke) | (webbinarium) |
 |---|---|---|
 | (FT) Opty skapad | `<pre>1</pre>` | `<pre>0</pre>` |
 | (FT) Pipeline skapad | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (FT) Opty Won | `<pre>0</pre>` | `<pre>0</pre>` |
-| (FT) Vinstintäkter | `<pre>0</pre>` | `<pre>0</pre>` |
+| (FT) Intäkter, vinst | `<pre>0</pre>` | `<pre>0</pre>` |
 
 **Visa svar**
 
@@ -39,7 +39,7 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 >[!NOTE]
 >
->**Attributionsregler**
+>**Attribution Rules**
 >
 >1. Krediten delas jämnt
 >1. Du kan inte ge mer beröm än du har fått
@@ -49,6 +49,6 @@ Prova alla exempel så blir du ett attribueringsproffs!
 
 >[!MORELIKETHIS]
 >
->* [Attribut - exempel 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attribut - exempel 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Attribut - exempel 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Attribution Example 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attribution Example 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attribution Example 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

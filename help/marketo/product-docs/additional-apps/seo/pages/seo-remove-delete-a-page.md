@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO - Ta bort/ta bort en sida {#seo-remove-delete-a-page}
 
-Vill du ta bort en sida? Ingen svettning, så här är det.
+Vill du ta bort en sida? Ingen svettning, så här.
 
-1. Gå till **[!UICONTROL Pages]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. På [!UICONTROL Pages] tabbtangenten, hovra över sidan som du vill ta bort, klicka **[!UICONTROL Delete]** och sedan klicka **[!UICONTROL Remove]**.
+1. Håll markören över sidan som du vill ta bort på fliken [!UICONTROL Pages], klicka på **[!UICONTROL Delete]** och sedan på **[!UICONTROL Remove]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

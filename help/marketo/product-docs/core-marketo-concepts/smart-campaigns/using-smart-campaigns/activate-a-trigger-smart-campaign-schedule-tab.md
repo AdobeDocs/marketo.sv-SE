@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Att aktivera en utlösare för Smart Campaign är som att aktivera den. Så här gör du.
 
-1. I Smart Campaigns **[!UICONTROL Schedule]** flik, klicka **[!UICONTROL Activate]**.
+1. Klicka på **[!UICONTROL Activate]** på fliken **[!UICONTROL Schedule]** i den smarta kampanjen.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,7 +23,7 @@ Att aktivera en utlösare för Smart Campaign är som att aktivera den. Så här
    >
    >Granska den smarta kampanjen innan du aktiverar.
 
-1. Klicka **[!UICONTROL Activate]** igen.
+1. Klicka på **[!UICONTROL Activate]** igen.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 

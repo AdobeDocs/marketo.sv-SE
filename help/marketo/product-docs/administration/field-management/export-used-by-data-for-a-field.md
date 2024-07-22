@@ -19,7 +19,7 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
@@ -31,11 +31,11 @@ Som administratör kan du exportera relaterade resurser i ett fält så att du k
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Klicka på **[!UICONTROL Field Actions]** nedrullningsbar meny och välj **[!UICONTROL Export Used By]**.
+1. Klicka på listrutan **[!UICONTROL Field Actions]** och välj **[!UICONTROL Export Used By]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. An [!DNL Excel] filen exporteras. Öppna den för att visa dess innehåll.
+1. En [!DNL Excel]-fil exporteras. Öppna den för att visa dess innehåll.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

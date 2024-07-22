@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har schemalagt en körning för en av dina gruppkampanjer och vill avbryta den, så här gör du.
 
-1. Välj kampanjen och gå till **[!UICONTROL Schedule]** -fliken.
+1. Markera kampanjen och gå till fliken **[!UICONTROL Schedule]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 

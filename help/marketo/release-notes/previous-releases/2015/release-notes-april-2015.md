@@ -6,12 +6,12 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: April 2015 {#release-notes-april}
+# Versionsinformation: april 2015 {#release-notes-april}
 
 Följande funktioner ingår i aprilversionen 2015. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
@@ -23,7 +23,7 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om det finns funk
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [Startsida för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
+Den nya [startsidan för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -41,7 +41,7 @@ Med Marketo Mobile Engagement är det enkelt att leverera övertygande mobiluppl
 
 [Integrering av linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. The [integrering med annonsnätverk](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i LinkedIn målgruppssegment kan sedan hanteras med en rad relevanta annonser.
+Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsnätverksintegrationen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i LinkedIn målgruppssegment kan sedan hanteras med en rad relevanta annonser.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

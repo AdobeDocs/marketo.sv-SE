@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695874
-description: "Connect [!DNL BrightTALK] till Marketo - Marketo Docs - produktdokumentation"
-title: "Connect [!DNL BrightTALK] till Marketo"
+description: "Anslut [!DNL BrightTALK] till Marketo - Marketo Docs - produktdokumentation"
+title: "Anslut [!DNL BrightTALK] till Marketo"
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '274'
+ht-degree: 0%
 
 ---
 
 # Anslut [!DNL BrightTALK] till Marketo {#connect-brighttalk-to-marketo}
 
-Lär dig koppla samman [!DNL BrightTALK] till er Marketo-instans. För att kunna göra detta måste du vara administratör för båda.
+Lär dig hur du ansluter din [!DNL BrightTALK]-kanal till din Marketo-instans. För att kunna göra detta måste du vara administratör för båda.
 
 >[!NOTE]
 >
@@ -21,62 +21,62 @@ Lär dig koppla samman [!DNL BrightTALK] till er Marketo-instans. För att kunna
 
 ## Steg i [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Logga in på [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} och klicka **[!UICONTROL Connect Now]**.
-1. Under [!UICONTROL Advanced Marketo Connector], klicka **[!UICONTROL Connect]**.
-1. Du kommer till skärmen för inloggningsuppgifter och frågar efter: Klient-ID, Klienthemlighet, Identitetstjänstens URL och URL för återställningstjänst. Logga in på Marketo för att få den här informationen.
+1. Logga in på [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} och klicka på **[!UICONTROL Connect Now]**.
+1. Klicka på **[!UICONTROL Connect]** under [!UICONTROL Advanced Marketo Connector].
+1. Du kommer till inloggningsskärmen och frågar efter: Klient-ID, Klienthemlighet, URL för identitetstjänst och URL för återställningstjänst. Logga in på Marketo för att få den här informationen.
 
 ## Steg i Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
->Nu måste du skapa en [!DNL API Only User Role] och [!DNL API User] för att begränsa vilka behörigheter [!DNL BrightTALK] kommer att finnas i din Marketo-instans. Eftersom vi redan har artiklar för de stegen länkar vi dig till dem.
+>Nu måste du konfigurera [!DNL API Only User Role] och [!DNL API User] för att kunna begränsa vilka behörigheter [!DNL BrightTALK] har i din Marketo-instans. Eftersom vi redan har artiklar för de stegen länkar vi dig till dem.
 
-1. Skapa en [Användarroll endast för API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
+1. Skapa en [API-roll endast för användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}, med [!DNL BrightTALK] API-roll som du skapade under steg 4.
+1. [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} med API-rollen [!DNL BrightTALK] som du skapade under steg 4.
 
-1. Gå tillbaka till **[!UICONTROL Admin]** område.
+1. Gå tillbaka till området **[!UICONTROL Admin]**.
 
    ![](assets/connect-brighttalk-to-marketo-1.png)
 
-1. Under **[!UICONTROL Integration]**, klicka **[!UICONTROL LaunchPoint]**.
+1. Klicka på **[!UICONTROL LaunchPoint]** under **[!UICONTROL Integration]**.
 
    ![](assets/connect-brighttalk-to-marketo-2.png)
 
-1. Klicka på **[!UICONTROL New]** nedrullningsbar meny och välj **[!UICONTROL New Service]**.
+1. Klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Service]**.
 
    ![](assets/connect-brighttalk-to-marketo-3.png)
 
-1. Ange **[!UICONTROL Display Name]** efter eget val. Klicka på **[!UICONTROL Service]** nedrullningsbar meny och välj **[!UICONTROL Custom]** (do _not_ välj [!DNL BrightTALK]).
+1. Ange ett **[!UICONTROL Display Name]** som du vill använda. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]** (markera _inte_ [!DNL BrightTALK]).
 
    ![](assets/connect-brighttalk-to-marketo-4.png)
 
    >[!CAUTION]
    >
-   >Kom ihåg att inte markera [!DNL BrightTALK] i listrutan. Det är ett fält som vi håller på att ta bort, och om du väljer det kan det skapa betydande problem med din [!DNL Marketo/BrightTALK] integrering.
+   >Kom ihåg att inte markera [!DNL BrightTALK] i listrutan. Det är ett fält som vi håller på att ta bort och om du väljer det kan det skapa betydande problem med din [!DNL Marketo/BrightTALK]-integrering.
 
-1. Ange [!UICONTROL Description] efter eget val. Klicka på **[!UICONTROL API Only User]** och väljer [!DNL BrightTALK API User] du skapade under steg 5. Klicka på **[!UICONTROL Create]**.
+1. Ange ett [!UICONTROL Description] som du vill använda. Klicka på listrutan **[!UICONTROL API Only User]** och välj [!DNL BrightTALK API User] som du skapade under steg 5. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
-1. Klicka **[!UICONTROL View Details]** för den anpassade tjänst du just skapade.
+1. Klicka på **[!UICONTROL View Details]** för den anpassade tjänst du just skapade.
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. Kopiera (och spara) **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]**. Klicka på **[!UICONTROL Close]**.
+1. Kopiera och spara **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]**. Klicka på **[!UICONTROL Close]**.
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
-1. Under **[!UICONTROL Integration]** väljer du **[!UICONTROL Web Services]**.
+1. Välj **[!UICONTROL Web Services]** under **[!UICONTROL Integration]**.
 
    ![](assets/connect-brighttalk-to-marketo-8.png)
 
-1. Under **[!UICONTROL Rest API]**, kopiera (och spara) **[!UICONTROL Endpoint]** och **[!UICONTROL Identity]**.
+1. Under **[!UICONTROL Rest API]** kopierar (och sparar) du **[!UICONTROL Endpoint]** och **[!UICONTROL Identity]**.
 
    ![](assets/connect-brighttalk-to-marketo-9.png)
 
 ## Ytterligare steg i [!DNL BrightTALK] {#additional-steps-in-brighttalk}
 
-1. Återgå till [!DNL BrightTALK] konfigurationsskärmen för anslutare från steg 3 och ange de inloggningsuppgifter som du sparade från steg 12 och 14.
+1. Gå tillbaka till konfigurationsskärmen för [!DNL BrightTALK]-anslutningen från steg 3 och ange de autentiseringsuppgifter som du sparade från steg 12 och 14.
 
-När inloggningsuppgifterna har autentiserats har du anslutit [!DNL BrightTALK] till Marketo. Nästa steg är att bestämma [vilka datafält du vill synkronisera](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.
+När autentiseringsuppgifterna har autentiserats har du anslutit [!DNL BrightTALK] officiellt till Marketo. Nästa steg är att ta reda på [vilka datafält du vill synkronisera](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.

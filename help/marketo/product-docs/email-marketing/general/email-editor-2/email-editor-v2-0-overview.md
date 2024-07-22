@@ -17,11 +17,11 @@ När du bestämmer dig för att aktivera e-postredigeraren v2.0 kommer du att m�
 
 **Väljare för e-postmall**
 
-När du skapar ett nytt e-postmeddelande visas [Väljare för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+När du skapar ett nytt e-postmeddelande visas väljaren [E-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**E-postredigerare**
+**E-postredigeraren**
 
 När du börjar redigera din e-post kommer du att märka att redigeraren ser helt ny ut.
 
@@ -29,19 +29,19 @@ När du börjar redigera din e-post kommer du att märka att redigeraren ser hel
 
 **Moduler**
 
-Sådana saker till höger om redigeraren kallas moduler. Lär dig hur [lägg till moduler i ditt e-postmeddelande](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Sådana saker till höger om redigeraren kallas moduler. Lär dig hur du [lägger till moduler i e-postmeddelandet](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **Textversion**
 
-Växlingen mellan HTML-versionen och Textversionen av ditt e-postmeddelande finns nu på en praktisk flik längst ned. Lär dig hur [redigera textversionen av ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Växlingen mellan HTML-versionen och Textversionen av ditt e-postmeddelande finns nu på en praktisk flik längst ned. Lär dig hur du [redigerar textversionen av ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
 **E-posthuvud**
 
-Vill du ha mer designutrymme? E-postrubriken kan döljas när du är klar [redigera den](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
+Vill du ha mer designutrymme? E-postrubriken kan döljas när du är klar med [redigeringen](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicka bara på den här ikonen..
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -59,7 +59,7 @@ Som standard visar e-postmeddelandet hur det skulle se ut på en dator, vilket v
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Om du vill se en större förhandsvisning klickar du på **Förhandsgranska** i det övre högra hörnet av e-postmeddelandet.
+Om du vill ha en större förhandsgranskning klickar du på **Förhandsgranska** i det övre högra hörnet av e-postmeddelandet.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,7 +67,7 @@ Standardvyn där är skrivbordet..
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...men du kan också se hur det kommer att se ut på en mobil enhet. Du kan också förhandsgranska textversionen! Klicka bara **Redigera utkast** i det övre högra hörnet för att fortsätta redigera.
+...men du kan också se hur det kommer att se ut på en mobil enhet. Du kan också förhandsgranska textversionen! Klicka bara på **Redigera utkast** i det övre högra hörnet för att fortsätta redigera.
 
 ![](assets/email-editor-v2-overview-11.png)
 
@@ -83,9 +83,9 @@ Under **E-poståtgärder** kommer du att märka några nya funktioner. **Överf�
 
 >[!NOTE]
 >
->**[Hämta bilder från webben](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar precis som i Design Studio.
+>**[Hämta bilder från webben](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar på samma sätt som i Design Studio.
 
-**Inaktivera Open Tracking** Under **E-postinställningar** kan du inaktivera öppningsspårning om det behövs.
+**Inaktivera Open Tracking** under **E-postinställningar** kan du inaktivera Open Tracking om det behövs.
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -103,7 +103,7 @@ Massor av nya bra funktioner! Ha det så roligt!
 
 >[!NOTE]
 >
->Om du vill ta bort ännu mer kan du kolla in det här [video](https://nation.marketo.com/videos/1463).
+>Om du vill ta bort ännu mer kan du titta på den här [videon](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

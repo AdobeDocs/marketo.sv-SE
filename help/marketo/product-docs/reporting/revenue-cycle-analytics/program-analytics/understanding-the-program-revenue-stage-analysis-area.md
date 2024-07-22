@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I det här analysområdet kan du analysera effektiviteten i enskilda program eller se summerade resultat per kanal. Här får du insikt i hur många av de nya namnen som har genererats har nått vissa framgångar inom modellen för intäktscykler.
 
-**Exempel på affärsfrågor som du kan svara på i det här analysområdet inkluderar**:
+**Exempel på affärsfrågor som du kan besvara med det här analysområdet är**:
 
 Hur många nya namn från ett visst program har någonsin nått en viss fas i min modell?
 
@@ -29,7 +29,7 @@ Hur många dagar tar det att få leads till sin nuvarande fas?
 
 ![](assets/three-3.png)
 
-**Dimensioner och åtgärder för analys av programintäkter**
+**Dimensioner och mått för programintäktsfasanalys**
 
 Dimensioner och mått är indelade i funktionalitet och representeras av gula eller blå punkter i systemet: gult för mått och blått för mått. Använd mått och mått för analys av programintäkter för att besvara specifika frågor i rapporten.
 
@@ -69,7 +69,7 @@ Om du vill visa tillgängliga dimensioner eller mått inom en kategori klickar d
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Scentyp</p></td> 
-   <td colspan="1" rowspan="1"><p>Beskriver vilken typ. Inventering, SLA eller Gate varje fas är</p></td> 
+   <td colspan="1" rowspan="1"><p>Beskriver vilken typ; Inventering, SLA eller Gate som varje fas är</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,11 +146,11 @@ Om du vill visa tillgängliga dimensioner eller mått inom en kategori klickar d
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nya namn (någonsin)</p></td> 
-   <td colspan="1" rowspan="1"><p>Beskriver vilken typ. Inventering, SLA eller Gate varje fas är</p></td> 
+   <td colspan="1" rowspan="1"><p>Beskriver vilken typ; Inventering, SLA eller Gate som varje fas är</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Skapa en rapport för intäktsutforskaren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Skapa en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

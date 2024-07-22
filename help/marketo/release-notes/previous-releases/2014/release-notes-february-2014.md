@@ -6,30 +6,30 @@ exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Februari 2014 {#release-notes-february}
+# Versionsinformation: februari 2014 {#release-notes-february}
 
 Följande funktioner ingår i februari 2014-versionen. Kontrollera om det finns funktioner i Marketo Edition. Kom tillbaka efter releasen och hitta länkar till detaljerade kunskapsbasartiklar för varje funktion!
 
 ## Villkor för deltagande som vinnande {#engagement-score-as-winning-criteria}
 
-[Använd poängen för engagemang](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) för att fastställa vinnande variant i A/B-delningsprovet eller Champion/Challenger-testet. Testet måste köras i minst 24 timmar för att ge ett lämpligt engagemangsmoment.
+[Använd engagemangspoängen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) för att fastställa den vinnande varianten i A/B-delningstestet eller Champion/Challenger-testet. Testet måste köras i minst 24 timmar för att ge ett lämpligt engagemangsmoment.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## Fliken Resultat av e-postprogram {#email-program-results-tab}
 
-[Visa resultaten](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) och aktiviteter som loggats för e-postprogrammet.
+[Visa resultat](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) och aktiviteter som loggats för e-postprogrammet.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## Personer/leads blockerade från e-post {#people-leads-blocked-from-mailing}
 
-[Klicka på personer/leads som blockerats från att skicka](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) nummer för att se vem som inte får e-postmeddelandet på grund av att han eller hon har avbeställt tjänsten, är svartlistad, har en ogiltig eller tom e-postadress eller är avstängd från marknadsföring.
+[Klicka på personer/leads som blockerats från att skicka](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)-numret för att se vilka som inte får e-postmeddelandet på grund av att de är avbrutna, svarta listade, har en ogiltig eller tom e-postadress eller att marknadsföringen är inaktiverad.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
@@ -37,9 +37,9 @@ Följande funktioner ingår i februari 2014-versionen. Kontrollera om det finns 
 
 [Exportera e-postmått till Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inklusive AB Test-variantdata.
 
-## [!UICONTROL Engagement Score] in [!UICONTROL Engagement Stream Performance] Rapport {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score] i [!UICONTROL Engagement Stream Performance]-rapport {#engagement-score-in-engagement-stream-performance-report}
 
-Vi lade till engagemangsrapporten i [[!UICONTROL Engagement Stream Performance] Rapport](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för att hjälpa er att se hur effektivt innehållet i ert engagemangsprogram är.
+Vi lade till engagemangsresultatet i [[!UICONTROL Engagement Stream Performance] Report](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) för att hjälpa dig att se hur effektivt innehållet i engagemangsprogrammet är.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -49,7 +49,7 @@ Vi lade till engagemangsrapporten i [[!UICONTROL Engagement Stream Performance] 
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
-## Uppdatera till Klicka på länkfilter och utlösare {#update-to-clicks-link-filters-and-trigger}
+## Uppdatera till Klicka på Länkfilter och Utlösare {#update-to-clicks-link-filters-and-trigger}
 
 Följande filter- och utlösarnamn har uppdaterats:
 
@@ -61,6 +61,6 @@ Följande filter- och utlösarnamn har uppdaterats:
 
 ## Forms 2.0-förbättringar {#forms-enhancements}
 
-Vi har gett Forms 2.0 flera&quot;livskvalitetsuppdateringar&quot; i den här versionen. Förutom att möjliggöra progressiv profilering i inbäddade formulär har vi gjort arbetsflödes- och användargränssnittsändringar som gör det enklare att använda de mer avancerade funktionerna i redigeraren. [inklusive reglerna för synlighet](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), avancerade tacksidor och dolda fält.
+Vi har gett Forms 2.0 flera&quot;livskvalitetsuppdateringar&quot; i den här versionen. Förutom att aktivera progressiv profilering i inbäddade formulär har vi gjort arbetsflödes- och användargränssnittsändringar som gör det enklare att använda den mer avancerade funktionen i redigeraren, [inklusive synlighetsreglerna](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), avancerade tacksidor och dolda fält.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

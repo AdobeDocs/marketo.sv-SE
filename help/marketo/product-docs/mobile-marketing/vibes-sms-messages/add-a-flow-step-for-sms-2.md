@@ -40,11 +40,11 @@ Marketo Engage har tre flödessteg som du kan använda i SMS-smarta kampanjer:
 >* Marketo dedupes per telefonnummer. Om flera personer har samma telefonnummer får bara en person meddelandet om de bara är medlemmar i en prenumerationslista för Adobe. Deduping görs på prenumerationslistenivån för Vibes, inte på programnivån för Marketo.
 >* Marketo skickar inte till personer som är blocklist eller har avbrutit sin marknadsföring.
 
-Allmän information om hur du ställer in flödessteg finns i [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Allmän information om hur du ställer in flödessteg finns i [Lägga till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Här är grunderna för hur du använder SMS.
 
-1. I Min Marketo klickar du på **Marknadsföringsaktiviteter**.
+1. Klicka på **Marknadsföringsaktiviteter** i Min Marketo.
 
    ![](assets/add-a-flow-step-for-sms-1.png)
 
@@ -56,7 +56,7 @@ Här är grunderna för hur du använder SMS.
 
    SCREENSHOT
 
-1. I **Flöde** dra över flödessteget (t.ex. **Skicka SMS-meddelande**). Välj SMS-meddelande och Vibes-lista i listrutorna.
+1. Dra över flödessteget på fliken **Flöde** (t.ex. **Skicka SMS-meddelande**). Välj SMS-meddelande och Vibes-lista i listrutorna.
 
    ![](assets/send-sms-message-hands.jpg)
 
@@ -64,4 +64,4 @@ Här är grunderna för hur du använder SMS.
    >
    >Väljaren Vibes-lista fungerar som ett ytterligare filter för den målgrupp som redan identifierats i den smarta listan så att den endast riktar sig till de leads som tillhör den listan.
    >
-   >The **Prenumerera på Vibes List** och **Avbeställ utskick om Vibes List** flöden har olika krav. För **Prenumerera** måste du välja listan Vibes och värvningskampanjen Vibes. För **Avbeställ**, är det bara listan Vibes som krävs.
+   >Flödena **Prenumerera på Vibes List** och **Avsluta prenumerationen på Vibes List** har olika krav. För **prenumerationen** måste du välja listan Vibes och värvningskampanjen Vibes. För **Unsubscribe** krävs bara listan Vibes.

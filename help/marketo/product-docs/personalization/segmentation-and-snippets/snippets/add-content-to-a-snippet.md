@@ -21,13 +21,13 @@ Du kan lägga till variabler, bilder, filer eller RTF-text i ett fragment.
 
 >[!NOTE]
 >
->Du kan inte bädda in några [Marketo e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i textutdrag, kommer det **not** arbeta i ett mejl. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
+>Du kan inte bädda in någon [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment. Den kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
 1. Gå till **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Välj **Fragment** och klicka **Redigera utkast**.
+1. Markera **fragmentet** och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
 ## Lägg till token {#add-token}
 
-1. Dra och släpp **Token** -element.
+1. Dra och släpp **Token**-elementet.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Retur **Token** och klicka **Infoga**.
+1. Ange **token** och klicka på **Infoga**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Lägg till bild/fil {#add-image-file}
 
-1. Dra och släpp **Bild/fil** -element.
+1. Dra och släpp elementet **Bild/fil**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Välj **Bild** som ska användas och klicka **Infoga**.
+1. Markera den **bild** som ska användas och klicka på **Infoga**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Anpassa texten med formateringsverktygen.
 
-1. För E-post klickar du på **Textversion** -fliken.
+1. För E-post klickar du på fliken **Textversion**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Klicka **Kopiera från HTML**.
+1. Klicka på **Kopiera från HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
@@ -87,5 +87,5 @@ Häftig! Nu kan du skapa olika typer av innehåll för fragmentet.
 
 >[!MORELIKETHIS]
 >
->* [Förhandsgranska ett kodavsnitt](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Förhandsgranska ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
 >* [Godkänn ett fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

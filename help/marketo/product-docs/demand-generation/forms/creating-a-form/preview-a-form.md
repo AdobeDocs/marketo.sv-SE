@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Innan du publicerar kan du se formuläret i den här snabba och enkla formulärförhandsgranskningen.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Innan du publicerar kan du se formuläret i den här snabba och enkla formulärf
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Under **Formuläråtgärder**, klicka **Förhandsgranska**.
+1. Klicka på **Förhandsgranska** under **Formuläråtgärder**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. Formulärredigeraren öppnas i **förhandsgranska** läge.
+1. Formulärredigeraren öppnas i **förhandsgranskningsläget**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klicka **Redigera utkast** för att gå tillbaka till **redigera** läge.
+1. Klicka på **Redigera utkast** för att gå tillbaka till **redigeringsläget**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Växla enkelt tillbaka genom att klicka **Förhandsgranska utkast**.
+1. Växla enkelt tillbaka genom att klicka på **Förhandsgranska utkast**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

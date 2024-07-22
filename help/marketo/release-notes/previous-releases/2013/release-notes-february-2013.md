@@ -6,12 +6,12 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation: Februari 2013 {#release-notes-february}
+# Versionsinformation: februari 2013 {#release-notes-february}
 
 Februariversionen innehåller en efterfrågad funktion, stöd för Apple Safari och andra små förbättringar.
 
@@ -23,7 +23,7 @@ De senaste versionerna av Apple Safari för Mac och Windows stöds fullt ut för
 
 Webhooks har förbättrats så att tokens i URL/nyttolast kan undvikas och Marketo lead-fält kan också uppdateras genom att XML/JSON-svar från tredjepartssystem analyseras (ej tillgängligt i Spark SMB Edition).
 
-## SOAP API-slutpunkt har uppdaterats {#updated-soap-api-endpoint}
+## Uppdaterad SOAP API-slutpunkt {#updated-soap-api-endpoint}
 
 Den önskade SOAP API-slutpunkten har uppdaterats, vilket visas i Admin -> SOAP API. Uppdatera dina samtal för att använda den nya slutpunkten. API-anrop till den gamla slutpunkten är inaktuella, men kommer att fortsätta att fungera. (SOAP API är inte tillgängligt i Spark SMB Edition)
 
@@ -33,4 +33,4 @@ Facebook-flikar som publiceras från Marketo upptäcker mobila enheter och dirig
 
 ## Kommer snart: Stöd för flera modeller {#coming-soon-support-for-multiple-models}
 
-Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka några ändringar, bland annat [Smarta listfilter och Lägg till alternativ i Flödessteg](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) för att stödja valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.
+Vi lägger grunden för att stödja flera olika intäktscykelmodeller, som vi röstade på bästis för RCA i gemenskapen, i en framtida release. I den här versionen kommer du att märka några ändringar, bland annat [Smart List-filter och Lägg till alternativ i Flödessteg](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), som stöder valet av modell och scen. Vi flyttar även fälten Leadintäktsstadium och Leadintäktscykelmodell från fliken Smart List Lead grid.

@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Lär dig använda [Flödessteg för intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Lär dig använda flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tillgängliga token {#available-tokens}
 
-Checka ut [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om du vill se alla variabler du kan lägga in i en intressant stund.
+Kolla in [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om du vill se alla token som du kan sätta in i en intressant stund.
 
 ## Utlösartoken {#trigger-tokens}
 
 Beroende på vilken utlösare som används i en smart kampanj blir ytterligare utlösartoken tillgängliga.
 
-* `{{trigger.Trigger Name}}` som alltid är själva utlösaren. Till exempel: Klicka på Länk i E-post.
-* `{{trigger.Name}}` är namnet på den tillgång som utlöste kampanjen. Exempel: Klicka på Länk på webbsida är själva URL:en, ämne för Salesforce-utlösare osv.
+* `{{trigger.Trigger Name}}` som alltid är den faktiska utlösaren. Till exempel: Klicka på Länk i E-post.
+* `{{trigger.Name}}` är namnet på resursen som utlöste kampanjen. Exempel: Klicka på Länk på webbsida är själva URL:en, ämne för Salesforce-utlösare osv.
 * Ytterligare utlösare är tillgängliga baserat på begränsningar, som listas nedan.
 
 ### E-postutlösare {#email-triggers}
@@ -1055,9 +1055,9 @@ Beroende på vilken utlösare som används i en smart kampanj blir ytterligare u
 
 >[!NOTE]
 >
->Om den inte har någon kontroll ![(tick)](assets/check.png) då returneras en tom sträng (ingenting) i det intressanta ögonblicket.
+>Om den inte har en kontroll ![(tick)](assets/check.png) returnerar den en tom sträng (ingenting) i den intressanta stunden.
 
-&#42;Utlösaren **Besök webbsida** har några ytterligare tokens:
+&#42;Utlösaren **Besökswebbsidan** har ytterligare tokens:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

@@ -19,11 +19,11 @@ Du kan ändra en URL för en landningssida. Det kan göra det enklare att komma 
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. Klicka på **Åtgärder för landningssida** nedrullningsbar meny, rulla till **URL-verktyg** och markera **URL-inställningar**.
+1. Klicka på listrutan **Åtgärder för landningssida**, bläddra till **URL-verktyg** och välj **URL-inställningar**.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Ange **Ny URL**, väljer att ta bort eller omdirigera den gamla URL:en och klickar på **Spara**.
+1. Ange den **nya URL:en**, välj att ta bort eller omdirigera den gamla URL:en och klicka sedan på **Spara**.
 
    ![](assets/change-the-landing-page-url-3.png)
 

@@ -16,21 +16,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->När du etablerar Sales Insight Actions skickar Marketo automatiskt dina inloggningsuppgifter till Actions och kopplar instansen till Marketo. Detta steg är obligatoriskt **bara om du inte ser anslutningen upprättad** när din Sales Connect-instans har etablerats. Om anslutningen upprättas visas dina inloggningsuppgifter på sidan Marketo Admin Settings och ett alternativ för att koppla från.
+>När du etablerar Sales Insight Actions skickar Marketo automatiskt dina inloggningsuppgifter till Actions och kopplar instansen till Marketo. Det här steget krävs **endast om du inte ser anslutningen som upprättats** efter att din Sales Connect-instans har etablerats. Om anslutningen upprättas visas dina inloggningsuppgifter på sidan Marketo Admin Settings och ett alternativ för att koppla från.
 
 ## Hämta autentiseringsuppgifter innan du ansluter säljaren till Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Du måste hämta en uppsättning inloggningsuppgifter från Marketo. Dessa autentiseringsuppgifter används senare av Sales Connect Admin för att ansluta Marketo till Sales Connect.
 
-1. I Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Marketo.
 
 PICC
 
-1. Klicka på **Sales Connect**.
+1. Klicka på **Sales Connect** i trädet.
 
 PICC
 
-1. Välj och skicka följande Marketo-autentiseringsuppgifter till din Sales Connect-administratör: Munchkin-ID, klient-ID, klienthemlighet.
+1. Välj och skicka följande Marketo-autentiseringsuppgifter till din Sales Connect-administratör: Munchkin-ID, Klient-ID, Klienthemlighet.
 
 PICC
 
@@ -40,7 +40,7 @@ PICC
 
 ## Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
 
 PICC
 
@@ -48,6 +48,6 @@ PICC
 
 PICC
 
-1. Ange inloggningsuppgifterna för Marketo från Marketo Admin och klicka på **Anslut**.
+1. Ange de Marketo-autentiseringsuppgifter som tillhandahålls av Marketo Admin och klicka på **Anslut**.
 
 PICC

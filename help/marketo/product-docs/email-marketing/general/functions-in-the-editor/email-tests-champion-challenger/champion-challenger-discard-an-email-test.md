@@ -19,15 +19,15 @@ Om du vid något tillfälle bestämmer dig för att du inte vill fortsätta att 
 >
 >[Champion/Challenger: Godkänn ditt e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sök och högerklicka på ditt e-posttest och klicka sedan på **Ignorera test**.
+1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Ignorera test**.
 
    ![](assets/champion5.jpg)
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 

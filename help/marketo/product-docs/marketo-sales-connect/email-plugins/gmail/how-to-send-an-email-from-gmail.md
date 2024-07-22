@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Om du använder funktionen &quot;Ångra skicka&quot; i Gmail kommer e-postmeddelandet inte att skickas när du använder Gmail-tillägget, men du kan fortfarande se en aktivitet i webbprogrammet samt i Salesforce om du loggar aktiviteter till Salesforce.
 
-1. I Gmail klickar du på **Disponera**.
+1. Klicka på **Disponera** i Gmail.
 
 1. Ange mottagarens e-postadress.
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Välj en e-postmall eller skriv ett nytt meddelande.
 
-1. När e-postmeddelandet är klart att skickas klickar du på **Skicka och anslut** -knappen. Om du klickar på knappen i stället för på den vanliga skicka-knappen skickas din e-post med spårning aktiverat. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.
+1. När e-postmeddelandet är klart att skickas klickar du på knappen **Skicka och anslut** . Om du klickar på knappen i stället för på den vanliga skicka-knappen skickas din e-post med spårning aktiverat. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.

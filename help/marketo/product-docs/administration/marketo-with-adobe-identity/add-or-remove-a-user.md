@@ -5,7 +5,7 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Klicka **Marketo Engage**.
+1. Klicka på **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Klicka på **[!UICONTROL Users]** -fliken.
+1. Klicka på fliken **[!UICONTROL Users]**.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Klicka på **[!UICONTROL Add User]** -knappen.
+1. Klicka på knappen **[!UICONTROL Add User]**.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Klicka på **+** och välj önskad produktprofil.
+1. Klicka på ikonen **+** och välj önskad produktprofil.
 
    ![](assets/add-or-remove-a-user-7.png)
 
    >[!IMPORTANT]
    >
-   >En användare _måste_ läggas till i en produktprofil för att få tillgång till Marketo Engage.
+   >En användare _måste_ läggas till i en produktprofil för att få åtkomst till Marketo Engage.
 
 1. Klicka på **[!UICONTROL Save]**.
 
@@ -54,7 +54,7 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
 >[!NOTE]
 >
->När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, så görs det i Marketo Engage, [enligt beskrivning här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, så görs det i Marketo Engage, [ enligt beskrivningen här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Ta bort en användare {#remove-a-user}
 
@@ -62,7 +62,7 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Klicka **Marketo Engage**.
+1. Klicka på **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -70,15 +70,15 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Klicka på **[!UICONTROL Users]** -fliken.
+1. Klicka på fliken **[!UICONTROL Users]**.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Markera den användare som du vill ta bort och klicka på **[!UICONTROL Remove]** -knappen.
+1. Markera den användare som du vill ta bort och klicka på knappen **[!UICONTROL Remove]**.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Klicka **[!UICONTROL Remove User]** för att bekräfta.
+1. Bekräfta genom att klicka på **[!UICONTROL Remove User]**.
 
    ![](assets/add-or-remove-a-user-14.png)
 

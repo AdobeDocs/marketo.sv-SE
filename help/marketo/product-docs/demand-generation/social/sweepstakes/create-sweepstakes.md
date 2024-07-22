@@ -5,7 +5,7 @@ title: Skapa Lotterier
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 >
 >Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
-1. Välj **Nytt** > **Ny lokal resurs**.
+1. Välj **Ny** > **Ny lokal resurs** i programmet.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Klicka på i galleriet med lokala resurser **Lotteriet**.
+1. Klicka på **Lotteriet** i det lokala tillgångsgalleriet.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +32,11 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
    >[!TIP]
    >
-   >Du kan spara tid med **Klona från** om du vill kopiera alla inställningar från en befintlig utlottning.
+   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig utlottning.
 
    Redaktören öppnas i ett nytt fönster. Standardinställningarna är bra, men du måste ändå konfigurera några detaljer. Vi visar hur man gör i nästa steg.
 
-1. Klicka **Information om Lotteriet**.
+1. Klicka på **Lotteriinformation**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >För daglig- och veckoritning är start- och sluttiderna fasta till 12 respektive 11:59. Om du vill rita en gång kan du välja egna start- och sluttider.
 
-1. Klicka **Avancerade alternativ**.
+1. Klicka på **Avancerade alternativ**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -60,19 +60,19 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
 
    >[!NOTE]
    >
-   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se [Lägg till din integritetspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >På den här skärmen kan du även lägga till en integritetspolicylänk. Se [Lägg till din sekretesspolicy i en social app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klicka **Slutför**.
+1. Klicka på **Slutför**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Om du vill ändra något av standardvärdena i dina utlottningar klickar du på **Bakåt**. Om du vill spara ditt arbete för senare bruk utan att godkänna klickar du på **Stäng**.
+   >Klicka på **Tillbaka** om du vill ändra något av standardvärdena i dina utlottningar. Om du vill spara ditt arbete för senare bruk utan godkännande klickar du på **Stäng**.
 
 Om det finns några problem i lotteriet uppmanas du att åtgärda dem innan lotteriet godkänns.
 
@@ -80,4 +80,4 @@ Grattis! Du har skapat en utlottning.
 
 >[!MORELIKETHIS]
 >
->Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med [anpassa dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>Nästa steg är att [publicera dina utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), men du kan ändra utseendet och inställningarna för dina utlottningar. Börja med att [anpassa dina utlottningsformat](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

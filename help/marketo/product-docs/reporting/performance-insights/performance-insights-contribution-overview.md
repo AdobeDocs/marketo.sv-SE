@@ -23,7 +23,7 @@ Välj det mätvärde som du vill visa prestandan efter. I det här exemplet titt
 
 >[!NOTE]
 >
->Läs mer om [Första beröring och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Lär dig mer om [First Touch och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).
 
@@ -33,7 +33,7 @@ Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi p
 >
 >Vi har tillfälligt tagit bort markeringen&quot;Föregående år&quot;. Du kan fortfarande välja att visa hela föregående års prestandadata genom att använda alternativet Anpassat intervall.
 
-Mätvärdena presenteras i två diagram: ring och bar.
+Mätvärdena presenteras via två diagram: ring och bar.
 
 ![](assets/four.png)
 
@@ -47,7 +47,7 @@ I stapeldiagrammet visas programprestanda i alla kanaler (tio program i taget) f
 
 >[!TIP]
 >
->Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar igenom grupperna väljer du **Anpassa Y-axeln efter behov** kryssrutan.
+>Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **Skala Y-axeln så att den passar**.
 
 För musen över ett fält för mer information.
 
@@ -63,7 +63,7 @@ Datarutnätet nedan fungerar som ett kalkylblad och visar alla tillgängliga må
 
 | **Vunna affärsmöjligheter** | Andelen kredit (i numeriskt värde) som programmet fick för att påverka den vunna affärsmöjligheten |
 |---|---|
-| **Vinst på intäkt** | Andelen kredit (i penningvärde) som programmet fick för att påverka den vunna affärsmöjligheten |
+| **Vunnen intäkt** | Andelen kredit (i penningvärde) som programmet fick för att påverka den vunna affärsmöjligheten |
 | **Kostnad** | Total kostnad för programmet |
 | **Kostnad per affärsmöjlighet vunnen** | Förhållandet mellan kostnaden för programmet och den andel kredit (i numeriskt värde) som programmet fått för att påverka skapandet av nya möjligheter |
 | **Intäkter vunna till kostnadskvot** | Förhållandet mellan andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet |

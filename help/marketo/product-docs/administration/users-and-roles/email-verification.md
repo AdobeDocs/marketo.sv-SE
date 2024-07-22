@@ -24,7 +24,7 @@ När en administratör bjuder in en användare verifieras den användaren automa
 
 >[!IMPORTANT]
 >
->Undantaget ovan är _i en prenumeration som bara hanterar enkel inloggning_, får administratörer en ny användarinbjudan, men andra användare kommer inte att göra det. Användare som inte är administratörer måste fortfarande gå igenom e-postverifieringsprocessen för att säkerställa att deras register migreras. Användarna kan skicka länken för e-postverifiering via **Administratör** > **Mitt konto** > **Kontoinställningar** och klicka **Skicka verifiering igen**.
+>Undantaget ovan är _i en prenumeration som endast är avsedd för enkel inloggning_. Administratörer får en ny användarinbjudan, men icke-administratörsanvändare kommer inte att göra det. Användare som inte är administratörer måste fortfarande gå igenom e-postverifieringsprocessen för att säkerställa att deras register migreras. Användarna kan skicka verifieringslänken via e-post genom att gå till **Admin** > **Mitt konto** > **Kontoinställningar** och klicka på **Skicka verifiering igen**.
 
 ![](assets/email-verification-1.png)
 
@@ -32,13 +32,13 @@ När en administratör bjuder in en användare verifieras den användaren automa
 
 Användarna får e-postmeddelandet nedan när e-postverifiering aktiveras för en prenumeration, eller om det aktiveras av en administratör/användare.
 
-En aktiv användarsession krävs för e-postverifiering. Användaren måste först logga in på sin Marketo-prenumeration med sin identitetsleverantörs-URL (IdP). När en session har upprättats skulle de _sedan_ klicka på **Verifiera e-postadress** i mejlet.
+En aktiv användarsession krävs för e-postverifiering. Användaren måste först logga in på sin Marketo-prenumeration med sin identitetsleverantörs-URL (IdP). När en session har etablerats klickar de _sedan_ på länken **Verifiera e-postadress** i e-postmeddelandet.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **[!UICONTROL Verify Email]** -knappen.
+>Om du vill skicka ett bekräftelsemeddelande till en overifierad användare igen markerar du användarens post och klickar på knappen **[!UICONTROL Verify Email]**.
 
 ## Ändra en e-postadress {#changing-an-email-address}
 
@@ -50,7 +50,7 @@ När en användares e-postadress ändras blir den inte verifierad. Ett e-postmed
 
 ## Användare och roller {#users-and-roles}
 
-I **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** visas verifieringsstatusen för varje användare i kolumnen E-poststatus.
+I kolumnen **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** visar e-poststatus verifieringsstatusen för varje användare.
 
 ![](assets/email-verification-5.png)
 

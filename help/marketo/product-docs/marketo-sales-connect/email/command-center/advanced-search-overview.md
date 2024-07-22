@@ -17,11 +17,11 @@ Genom att använda den avancerade sökningen för att rikta dig till potentiella
 
 ## Använda avancerad sökning {#how-to-access-advanced-search}
 
-1. Klicka **Kommandocentral**.
+1. Klicka på **Kommandocentral**.
 
    ![](assets/one.png)
 
-1. Klicka **E-post**.
+1. Klicka på **E-post**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Genom att använda den avancerade sökningen för att rikta dig till potentiella
 
    ![](assets/three.png)
 
-1. Klicka **Avancerad sökning**.
+1. Klicka på **Avancerad sökning**.
 
    ![](assets/four.png)
 
@@ -50,7 +50,7 @@ Filtrera efter e-postmottagare/avsändare i avsnittet Vem.
 | Nedrullningsbar meny | Beskrivning |
 |---|---|
 | **Visa som** | Filtrera efter en specifik avsändare i din Sales Connect-instans (det här alternativet är endast tillgängligt för administratörer). |
-| **Per grupp** | Filtrera e-postmeddelanden efter en viss grupp mottagare. |
+| **Efter grupp** | Filtrera e-postmeddelanden efter en viss grupp mottagare. |
 | **Per person** | Filtrera efter en viss mottagare. |
 
 **När**
@@ -97,9 +97,9 @@ Filtrerar efter e-postmeddelanden som aldrig levererats.
 
 | Status | Beskrivning |
 |---|---|
-| **Misslyckades** | När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är: e-postmeddelanden skickas till kontakter som inte längre är prenumererade/blockerade eller om det uppstod ett problem med att fylla i de dynamiska fälten). |
-| **Studsade** | Ett e-postmeddelande markeras som studsat när det avvisas av mottagarens server. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
-| **Spam** | När e-postmeddelandet har markerats som skräppost (vanlig term för oombedd e-post) av mottagaren. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
+| **Misslyckades** | När ett e-postmeddelande inte kan skickas från Sales Connect (vanliga orsaker är bland annat: e-postmeddelanden skickas till kontakter som avbrutit prenumerationen/blockerats, eller om det uppstod ett problem med att fylla i de dynamiska fälten). |
+| **Avrundad** | Ett e-postmeddelande markeras som studsat när det avvisas av mottagarens server. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
+| **Skräppost** | När e-postmeddelandet har markerats som skräppost (vanlig term för oombedd e-post) av mottagaren. Endast e-postmeddelanden som skickades via Sales Connect-servrar visas här. |
 
 ## Sparade sökningar {#saved-searches}
 
@@ -109,7 +109,7 @@ Så här skapar du en sparad sökning.
 
    ![](assets/save-search-1.png)
 
-1. Ge sökningen ett namn och klicka **Spara**.
+1. Ge sökningen ett namn och klicka på **Spara**.
 
    ![](assets/save-search-2.png)
 

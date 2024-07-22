@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 17%
+source-wordcount: '395'
+ht-degree: 11%
 
 ---
 
@@ -32,7 +32,7 @@ Sales Dialer gör det enkelt för er att kommunicera internationellt. För kunde
   </tr> 
   <tr> 
    <td colspan="1">Österrike</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436988, 4366 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -136,25 +136,25 @@ Sales Dialer gör det enkelt för er att kommunicera internationellt. För kunde
   </tr> 
   <tr> 
    <td>USA</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Vanliga frågor om internationella samtal {#international-calling-faq}
 
-**Varför stöder inte Sales Insight Actions internationella samtal till alla länder?**
+**Varför stöder inte Sales Insight-åtgärder internationella samtal för alla länder?**
 
 Idag erbjuder vi utlandssamtal med Sales Dialer utan extra kostnad. Vi vill göra det enkelt för er att kommunicera med era egna presumtiva kunder och kunder, och därför har vi lanserat stöd för internationella telefonsamtal med standardtaxa. Vi erbjuder täckning till 34 länder utanför USA och Kanada för regioner i Europa, Asien och andra viktiga destinationer. Vi kommer att fortsätta att utöka baserat på kundernas feedback.
 
-**Om jag befinner mig utanför USA, vilka länder kan jag ringa från och till?**
+**Vilka länder kan jag ringa från och till om jag befinner mig utanför USA?**
 
 Här är en lista över länder som vi för närvarande inte stöder samtal från och till. Om det land du ringer från stöds, kan du ringa vilket annat internationellt land som helst som vi stöder.
 
-**Finns det specifika typer av nummer som jag inte kan ringa till en återförsäljare?**
+**Finns det specifika typer av nummer som jag inte kan anropa med Sales Dialer?**
 
 Ja. Vi stöder inte samtal till telefonnummer för premiumpriser (till exempel 900 siffror i USA och +449 i Storbritannien). I allmänhet stöder vi inte att vi ringer telefonnummer för delade kostnader samt ett litet antal andra premiumvägar.
 
 **Kan jag använda lokal närvaro vid internationella samtal?**
 
-Nej. [Lokal närvaro](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) finns endast för amerikanska tal.
+Nej. [Lokal närvaro](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) är endast tillgänglig för amerikanska tal.

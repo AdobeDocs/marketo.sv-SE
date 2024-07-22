@@ -2,10 +2,10 @@
 description: OP-Scoring-Behavior - Marketo Docs - produktdokumentation
 title: OP-Scoring-Beteende
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '347'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Det här exemplet är ett avancerat (tokeniserat) operativt program för beteendebedömning med ett Marketo Engage-standardprogram. Visa och redigera poängvärdena på fliken Mina token. Kräver ett anpassat poängfält med namnet&quot;Beteendepoäng&quot;.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -52,7 +52,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -250,7 +250,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

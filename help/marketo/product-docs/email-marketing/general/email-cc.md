@@ -6,7 +6,7 @@ exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -15,41 +15,41 @@ ht-degree: 0%
 
 Med Email CC kan angivna e-postmeddelanden skickas via Marketo till CC-mottagare.
 
-Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Därför kan alla aktiviteter (öppningar, klickningar osv.) loggas i aktivitetsloggen för Marketo-personen på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsning osv.) _annat än &quot;mjuk studs&quot;_ kommer **not** registrera eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarnas. Marketo kommer endast att kunna CC för upp till 100 000 personer åt gången. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
+Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Därför kan alla aktiviteter (öppningar, klickningar osv.) loggas i aktivitetsloggen för Marketo-personen på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsning osv.) _annan än &quot;mjuk studsa&quot;_ registrerar **inte** eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarna. Marketo kommer endast att kunna CC för upp till 100 000 personer åt gången. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
 
 >[!NOTE]
 >
 >Email CC var inte utformat för att användas med A/B-tester. Du kan använda det i alla fall om du vill, men eftersom det tekniskt inte stöds, kan Marketo Support inte hjälpa till med felsökningen.
 
-## Konfigurera e-post-CC {#set-up-email-cc}
+## Konfigurera e-post CC {#set-up-email-cc}
 
-1. I Min Marketo klickar du på **Administratör**.
+1. Klicka på **Admin** i Min Marketo.
 
    ![](assets/one.png)
 
-1. Välj **E-post**.
+1. Välj **E-post** i trädet.
 
    ![](assets/two.png)
 
-1. Klicka **Redigera inställningar för e-postkopia**.
+1. Klicka på **Redigera e-post-CC-inställningar**.
 
    ![](assets/three.png)
 
-1. Välj upp till 25 Marketo lead- eller företagsfält (av typen &quot;E-post&quot;) som ska vara tillgängliga som CC-adresser i e-postmeddelanden. Klicka **Spara** när det är klart.
+1. Välj upp till 25 Marketo lead- eller företagsfält (av typen &quot;E-post&quot;) som ska vara tillgängliga som CC-adresser i e-postmeddelanden. Klicka på **Spara** när du är klar.
 
    ![](assets/four.png)
 
 ## Använda Email CC {#using-email-cc}
 
-1. Välj e-post och klicka **Redigera utkast**.
+1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
 
    ![](assets/five.png)
 
-1. Klicka **E-postinställningar**.
+1. Klicka på **E-postinställningar**.
 
    ![](assets/six.png)
 
-1. Välj upp till fem fält som du vill använda för CC-användare. I det här exemplet vill vi bara ha Lead Owner CC&#39;d. Klicka **Spara** när det är klart.
+1. Välj upp till fem fält som du vill använda för CC-användare. I det här exemplet vill vi bara ha Lead Owner CC&#39;d. Klicka på **Spara** när du är klar.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oav
 
    ![](assets/eight.png)
 
-   Om e-postmeddelandet har godkänts men Marketo Admin inaktiverar ett eller flera av CC-fälten innan e-postmeddelandet skickas, **de personerna inte får något e-postmeddelande**. I så fall kommer e-postsammanfattningsvyn att visa alla fält som inaktiverats efter godkännande men som skickats i förväg:
+   Om e-postmeddelandet har godkänts, men Marketo Admin inaktiverar ett eller flera av CC-fälten innan e-postmeddelandet skickas, **får de personerna inget e-postmeddelande**. I så fall kommer e-postsammanfattningsvyn att visa alla fält som inaktiverats efter godkännande men som skickats i förväg:
 
    ![](assets/removal.png)
 
@@ -77,8 +77,8 @@ Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oav
 
 >[!TIP]
 >
->Du kan välja att [inaktivera vissa eller alla spårningslänkar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) i ett mejl.
+>Du kan välja att [inaktivera vissa eller alla spårningslänkar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) i ett e-postmeddelande.
 
 * När en e-postkampanj har körts innehåller aktiviteten Skicka e-post en lista med alla CC-adresser som har inkluderats för varje mottagare av e-postmeddelandet. Om några CC-adresser hoppades över på grund av att prenumerationen avbrutits, kommer även den att registreras i aktiviteten.
 * Avbeställ länkarna och sidorna fungerar normalt i e-postmeddelanden från CC. Detta gör att CC-mottagare kan avbeställa prenumerationen om de vill (och följa reglerna för skräppostskydd), och en post för den här åtgärden lagras i Marketo-databasen.
-* Personer som är listade som avbeställda i din Marketo-databas kommer att **not** ta emot e-postmeddelanden via CC.
+* Personer som är listade som avbeställda i din Marketo-databas **får inte** e-postmeddelanden via CC.

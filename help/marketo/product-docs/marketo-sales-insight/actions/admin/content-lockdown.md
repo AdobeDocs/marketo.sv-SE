@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Låsning av innehåll {#content-lockdown}
 
-Genom att aktivera låsning av innehåll kan du hindra användare som inte är administratörer från att redigera mallar och/eller kampanjer. Användarna kan inte: dela, klona, redigera eller ta bort innehåll. De har inte heller möjlighet att arkivera mallar.
+Genom att aktivera låsning av innehåll kan du hindra användare som inte är administratörer från att redigera mallar och/eller kampanjer. Användarna kan inte dela, klona, redigera eller ta bort innehåll. De har inte heller möjlighet att arkivera mallar.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Genom att aktivera låsning av innehåll kan du hindra användare som inte är a
 
    ![](assets/content-lockdown-1.png)
 
-1. Under Administratörsinställningar klickar du på **Allmänt**.
+1. Klicka på **Allmänt** under Administratörsinställningar.
 
    ![](assets/content-lockdown-2.png)
 

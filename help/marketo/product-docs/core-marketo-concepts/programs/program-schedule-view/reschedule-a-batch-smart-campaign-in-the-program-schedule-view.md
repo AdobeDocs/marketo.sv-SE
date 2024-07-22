@@ -23,10 +23,10 @@ Vill du schemalägga om en gruppkampanj? Dra och släpp dem i framtiden i progra
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Bra! Den smarta kampanjen har planerats om. Tiden kan också ändras från **[!UICONTROL Date]** i anmälningsinformationen.
+1. Bra! Den smarta kampanjen har planerats om. Tiden kan också ändras från listrutan **[!UICONTROL Date]** i informationen om posten.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Schemalägga om ett helt program från schemaläggningsvyn](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[Schemalägger om ett helt program från schemavy](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

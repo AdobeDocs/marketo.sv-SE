@@ -19,11 +19,11 @@ Lär dig hur du söker efter en bild eller fil.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klicka **[!UICONTROL Images and Files]** för en fullständig lista över alla överförda filer.
+1. Klicka på **[!UICONTROL Images and Files]** om du vill se en fullständig lista över alla överförda filer.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. I sökrutan skriver du det ord som filen börjar med och trycker på **Retur**.
+1. Skriv ordet som filen börjar med i sökrutan och tryck på **Retur**.
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
@@ -33,5 +33,5 @@ Lär dig hur du söker efter en bild eller fil.
 
 >[!MORELIKETHIS]
 >
->* [Ersätta en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Ersätt en överförd bild eller fil](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [Ordna dina bilder och filer med hjälp av mappar](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

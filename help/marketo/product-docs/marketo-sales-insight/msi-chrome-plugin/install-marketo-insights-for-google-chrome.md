@@ -6,7 +6,7 @@ exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Följ de här stegen för att börja använda det kraftfulla Chrome-tillägget. 
 
    ![](assets/two.png)
 
-1. Ange **Registreringskod**, **E-postadress**, **Förnamn** och **Efternamn**. Klicka **Verifiera och spara**.
+1. Ange din **Reg-kod**, **E-postadress**, **Förnamn** och **Efternamn**. Klicka på **Verifiera och spara**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Var noga med att använda **primärt e-postkonto** vid registrering, eftersom vi inte stöder användning av alias för det här plugin-programmet.
+   >Var noga med att använda ditt **primära e-postkonto** vid registrering, eftersom vi inte stöder användning av alias för det här plugin-programmet.
 
    >[!NOTE]
    >
-   >Registreringskoden finns i e-postmeddelandet som skickas efter en Marketo-administratör [utfärdar en Marketo-licens för e-posttillägg](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Den upphör att gälla efter 14 dagar**.
+   >Registreringskoden finns i e-postmeddelandet som skickas när en Marketo-administratör [utfärdar en Marketo-tilläggslicens](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Den upphör att gälla efter 14 dagar**.
 
-1. Klicka **Tillåt** för att ge åtkomst offline.
+1. Klicka på **Tillåt** om du vill tillåta offlineåtkomst.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

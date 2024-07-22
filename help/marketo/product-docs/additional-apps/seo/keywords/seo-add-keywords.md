@@ -6,7 +6,7 @@ exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Nyckelord är fraser som användare skriver i sökmotorer. Lägg till de nyckelo
 >
 >Om du har många nyckelord kan du [importera dem med en CSV-fil](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Gå till **[!UICONTROL Keywords]** -avsnitt.
+1. Gå till avsnittet **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Ange de nyckelord du vill använda som mål och klicka på **[!UICONTROL Save]**.
+1. Ange de nyckelord som du vill använda som mål och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Lägg till RTF på landningssidan {#add-rich-text-to-your-landing-page}
 
-1. Välj landningssida och klicka på **Redigera utkast**.
+1. Markera landningssidan och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över **RTF** -element.
+1. Dra över elementet **RTF**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Ange önskad text och klicka **Spara**.
+1. Ange önskad text och klicka på **Spara**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 >
 >Saker som Förnamn kommer från personposten. Andra variabler kommer från fliken Mina token i programmet.
 
-1. Välj landningssida och klicka på **Redigera utkast**.
+1. Markera landningssidan och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Ange **Standardvärde** och klicka **Infoga**.
+1. Ange ett **standardvärde** och klicka på **Infoga**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

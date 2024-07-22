@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
 
    ![](assets/call-reasons-1.png)
 
-1. Under Administratörsinställningar väljer du **Dialer**.
+1. Välj **Dialer** under Administratörsinställningar.
 
    ![](assets/call-reasons-2.png)
 
@@ -46,15 +46,15 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
 
    ![](assets/call-reasons-5.png)
 
-1. Under Administratörsinställningar väljer du **Dialer**.
+1. Välj **Dialer** under Administratörsinställningar.
 
    ![](assets/call-reasons-6.png)
 
-1. Klicka **Hantera samtalsorsaker**.
+1. Klicka på **Hantera samtalsorsaker**.
 
    ![](assets/call-reasons-7.png)
 
-1. Ange det önskade namnet på samtalsorsaken i textfältet och klicka på **Lägg till**.
+1. Ange det önskade anropsorsaksnamnet i textfältet och klicka på **Lägg till**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ När samtalsortimenten har aktiverats. Användarna kan välja ett när de ringer
 
    ![](assets/call-reasons-9.png)
 
-1. Ange samtalsinformationen i telefonsvararen och klicka på **Utlysning**.
+1. Ange samtalsinformationen i telefonsvararen och klicka på **Ring**.
 
    ![](assets/call-reasons-10.png)
 

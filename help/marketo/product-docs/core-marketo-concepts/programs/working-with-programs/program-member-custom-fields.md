@@ -17,7 +17,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
 
 ## Skapa ett anpassat fält för en programmedlem {#create-a-program-member-custom-field}
 
-1. Klicka på i Marketo **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/one.png)
 
@@ -37,7 +37,7 @@ Med anpassade fält för programmedlemmar kan du samla in programspecifika data 
    >
    >Anpassade fält för person och programmedlem kan inte ha samma namn.
 
-1. Fyll i återstående fält och klicka **[!UICONTROL Create]**.
+1. Fyll i återstående fält och klicka på **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 
@@ -64,11 +64,11 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 
 * Anpassade fält för programmedlemmar är endast tillgängliga i lokala resurser. De stöds inte i Design Studio eftersom det inte finns något sätt att knyta dem till ett specifikt program.
 * Du kan inte klona/flytta ett formulär (eller en landningssida med ett formulär) som innehåller anpassade fält för programmedlem till Design Studio.
-* [Du kan synkronisera](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} Anpassade fält för programmedlemmar med anpassade fält för kampanjmedlemmar.
+* [Du kan synkronisera](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} anpassade fält för programmedlemmar med anpassade fält för kampanjmedlemmar.
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Importera och exportera via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
+* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har någon, kommer förlorarens värde att användas.
 * Ändringstypen tillåts inte i fält för programmedlemsinformation.
 * Begränsningen &quot;contains&quot; Smart List stöds inte för anpassade fält för programmedlem.
@@ -77,4 +77,4 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 >
 >* [Skapa ett anpassat fält i Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [Synkronisering av anpassat fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}
+>* [Synkronisering av anpassade fält för programmedlem](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

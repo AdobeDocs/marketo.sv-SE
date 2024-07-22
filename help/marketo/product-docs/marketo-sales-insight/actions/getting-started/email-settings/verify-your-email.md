@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
    ![](assets/verify-your-email-1.png)
 
-1. Under Mitt konto klickar du på **E-postinställningar**.
+1. Klicka på **E-postinställningar** under Mitt konto.
 
    ![](assets/verify-your-email-2.png)
 
@@ -26,7 +26,7 @@ Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klicka **Skicka igen**.
+1. Klicka på **Skicka om**.
 
    ![](assets/verify-your-email-4.png)
 
@@ -36,4 +36,4 @@ Om du har en e-postidentitet som inte har verifierats följer du stegen nedan.
 
 >[!NOTE]
 >
->Om du inte får bekräftelsemeddelandet kontrollerar du din skräppostmapp. Om den inte är där, kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Om du inte får bekräftelsemeddelandet kontrollerar du din skräppostmapp. Kontakta [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om den inte finns där.

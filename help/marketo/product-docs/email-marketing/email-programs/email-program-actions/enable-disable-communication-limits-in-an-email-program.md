@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogram {#enable-disable-communication-limits-in-an-email-program}
 
-När du kör ett e-postprogram kan du välja att ignorera eller respektera [kommunikationsgränser på administratörsnivå](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Så här gör du.
+När du kör ett e-postprogram kan du välja att ignorera eller respektera kommunikationsgränserna [på administratörsnivå](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Så här gör du.
 
 >[!NOTE]
 >
->Kommunikationsgränserna är [anges i avsnittet Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) och hjälper dig att undvika att skicka för många e-postmeddelanden till en person.
+>Kommunikationsbegränsningar anges [i administratörsavsnittet](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) och hjälper dig att undvika att skicka för många e-postmeddelanden till en person.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ När du kör ett e-postprogram kan du välja att ignorera eller respektera [komm
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Under **Inställningar** dubbelklicka på radobjektet för kommunikationsbegränsning.
+1. Dubbelklicka på radobjektet för kommunikationsbegränsning på fliken **Inställningar**.
 
    ![](assets/blockoperational.png)
 
-1. Som standard blockeras icke-operativa e-postmeddelanden om kommunikationsgränserna nås, men om du vill kringgå dem avmarkerar du kryssrutan och klickar på **Spara**.
+1. Som standard blockeras icke-fungerande e-postmeddelanden om kommunikationsgränserna nås, men om du vill kringgå dem avmarkerar du kryssrutan och klickar på **Spara**.
 
    ![](assets/ifaperson.jpg)
 
-   Leder **Blockera icke-fungerande e-postmeddelanden** Om du markerar alternativet kommer e-postmeddelandet inte att skickas till någon som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.
+   Om du låter **Blockera icke-fungerande e-postmeddelanden** vara markerat kan du inte skicka e-postmeddelandet till någon som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.

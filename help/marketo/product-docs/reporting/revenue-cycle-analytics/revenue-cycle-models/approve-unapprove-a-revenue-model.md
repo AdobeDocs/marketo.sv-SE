@@ -17,11 +17,11 @@ Du får bara ha en godkänd modell åt gången.
 
 >[!CAUTION]
 >
->[Enskilda etapper måste godkännas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) och personer som lagts till innan du godkänner en hel modell.
+>[Enskilda faser måste godkännas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) och personer läggas till innan du godkänner en hel modell.
 
 ## Godkänn {#approve}
 
-1. Gå till **Analyser** område.
+1. Gå till området **Analyser**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Du får bara ha en godkänd modell åt gången.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Från **Modellåtgärder** meny, välja **Godkänn modell**.
+1. Välj **Godkänn modell** på menyn **Modellåtgärder**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. En dialogruta visas där du kan bekräfta ditt val. Klicka **Godkänn**.
+1. En dialogruta visas där du kan bekräfta ditt val. Klicka på **Godkänn**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Din modell är nu levande!
 >
 >Om du inte godkänner din modell tas alla dina personer bort från modellen och deras historik i modellen tas bort!
 
-1. Gå till **Analyser** område.
+1. Gå till området **Analyser**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Din modell är nu levande!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klicka på **Modellåtgärder** meny och välj **Ogodkänd modell**.
+1. Klicka på menyn **Modellåtgärder** och välj **Ogodkänd modell**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Klicka på **Ogodkänd modell**.
+1. Klicka på **Ta bort godkännande av modell** i den dialogruta som visas.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

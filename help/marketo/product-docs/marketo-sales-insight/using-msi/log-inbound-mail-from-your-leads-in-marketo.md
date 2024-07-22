@@ -23,7 +23,7 @@ Du kan logga svar från dina leads direkt i Outlook med Marketo e-posttillägg.
 
 >[!TIP]
 >
->Du kan även högerklicka på ett meddelande och klicka på **Logga med Marketo**.
+>Du kan också högerklicka på ett meddelande och klicka på **Logga med Marketo**.
 
 Du bör se en bekräftelse.
 
@@ -43,5 +43,5 @@ Logga dina leads svar och lägg till dem i deras historik i Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Skicka och spåra ett e-postmeddelande med Marketo e-posttillägg för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Skicka och spåra ett e-postmeddelande med Marketo-tillägget för e-post för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Skicka och spåra från Outlook med en Marketo-mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Med det här alternativet kan Marketo Engage synkronisera sitt programmedlemskap och status med Salesforce-kampanjer och vice versa.
 
-1. Gå till **[!UICONTROL Admin]** och klicka **[!DNL Salesforce]**.
+1. Gå till **[!UICONTROL Admin]** och klicka på **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,7 +27,7 @@ Med det här alternativet kan Marketo Engage synkronisera sitt programmedlemskap
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Kontrollera **[!UICONTROL Enable Salesforce Campaign Sync]** och klicka **[!UICONTROL Save]**.
+1. Markera **[!UICONTROL Enable Salesforce Campaign Sync]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

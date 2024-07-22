@@ -15,15 +15,15 @@ ht-degree: 1%
 
 När du skapar en social app kan du lägga till en länk till företagets sekretesspolicy.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Välj programmet och klicka på **Redigera utkast**.
+1. Markera appen och klicka på **Redigera utkast**.
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. I redigeraren för sociala appar går du till **Appinställningar** > **Avancerade alternativ**.
+1. Gå till **Appinställningar** > **Avancerade alternativ** i redigeraren för sociala appar.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +33,10 @@ När du skapar en social app kan du lägga till en länk till företagets sekret
 
    >[!NOTE]
    >
-   >På den här skärmen kan du även lägga till en länk till reglerna (villkoren) i ditt erbjudande. Se [Skapa ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >På den här skärmen kan du även lägga till en länk till reglerna (villkoren) i ditt erbjudande. Se [Skapa ett referenserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. Sekretesspolicylänken (och regellänken) visas längst ned i delningsmeddelanden. Exempel:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Nu kan du [konfigurera social registrering och delningsflöde](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) av appen.
+Sedan kan du [konfigurera social registrering och delningsflöde](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) för din app.

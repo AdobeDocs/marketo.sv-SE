@@ -17,11 +17,11 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Skapa en grupp {#create-a-group}
 
-1. Klicka på **+** bredvid Grupper.
+1. Klicka på **+** bredvid Grupper på sidan Personer.
 
    ![](assets/one-4.png)
 
-1. Namnge gruppen och klicka **Skapa**.
+1. Namnge gruppen och klicka på **Skapa**.
 
    ![](assets/two-3.png)
 
@@ -33,15 +33,15 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Klicka **Gruppåtgärder** och markera **Skapa kontakt**.
+1. Klicka på **Gruppera åtgärder** och välj **Skapa kontakt**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [dessa steg](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Fyll i kontaktinformationen och klicka **Skapa** (eller **Skapa och lägg till ny** för att lägga till en till).
+1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
 
    ![](assets/five-3.png)
 
@@ -65,7 +65,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eight.png)
 
-1. Klicka **Dela**.
+1. Klicka på **Dela**.
 
    ![](assets/nine.png)
 
@@ -81,7 +81,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Klicka på **X** intill teamet som du delade gruppen med och klicka sedan ut ur modalen.
+1. Klicka på **X** bredvid det team du delade gruppen med och klicka sedan utanför det modala.
 
    ![](assets/twelve.png)
 
@@ -111,6 +111,6 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/sixteen.png)
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/seventeen.png)

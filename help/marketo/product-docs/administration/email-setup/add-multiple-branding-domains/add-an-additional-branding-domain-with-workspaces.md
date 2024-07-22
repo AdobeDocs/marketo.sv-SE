@@ -21,7 +21,7 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
 >
 >Du måste först [ersätta den generiska spårningslänken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) med en branding-domän innan du lägger till ytterligare branding-domäner.
 
-1. Gå till **[!UICONTROL Admin]** område.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
@@ -29,7 +29,7 @@ Om du har arbetsytor kan du lägga till ytterligare profildomäner.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. Klicka **[!UICONTROL Add]** om du vill lägga till ytterligare en varumärkesdomän.
+1. Klicka på **[!UICONTROL Add]** om du vill lägga till ytterligare en varumärkesdomän.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 

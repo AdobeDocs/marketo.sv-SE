@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ Om du vill ange en plats för loggfilerna kan du ange filsökvägen på kommando
 >
 >Om du avinstallerar plugin-programmet från en fjärrdator stängs Outlook på användarens dator.
 
-Se [Microsoft kompletta lista över switchar](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) om du vill prova olika loggningsnivåer eller användargränssnittsnivåer.
+Se [Microsoft fullständiga lista över växlar](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) om du vill testa olika loggningsnivåer eller användargränssnittsnivåer.

@@ -6,25 +6,25 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # Uppdatera persondata {#update-person-data}
 
-## Uppdrag: Uppdatera en persons kontaktinformation eller andra data {#mission-update-a-persons-contact-info-or-other-data}
+## Uppgift: Uppdatera en persons kontaktinformation eller andra uppgifter {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Konfigurera och lägga till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Konfigurera och lägg till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste varumärke. Så här uppdaterar du persondata.
 
 ## Hitta den person du behöver uppdatera {#find-the-person-you-need-to-update}
 
-1. Gå till **[!UICONTROL Database]**.
+1. Gå till din **[!UICONTROL Database]**.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,11 +42,11 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
    >[!TIP]
    >
-   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Det finns många sätt att uppdatera persondata i Marketo. Se [Importera en lista med personer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [Ändra datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Uppdatera persondata {#update-the-person-data}
 
-1. Ange den nya informationen som du fick och stäng sedan fliken.
+1. Skriv in den nya informationen som du fick och stäng sedan fliken.
 
 ![](assets/update-person-data-4.png)
 
@@ -60,6 +60,6 @@ Snyggt jobb! Du har uppdaterat dina persondata.
 
 <br> 
 
-[◄ 8: Meddela säljaren](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ 8: Varning säljaren](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Uppdrag 10: Omdirigera en landningssida ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10: Omdirigera en landningssida ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

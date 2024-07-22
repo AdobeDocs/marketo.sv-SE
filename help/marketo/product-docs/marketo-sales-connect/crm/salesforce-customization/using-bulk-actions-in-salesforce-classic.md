@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -25,49 +25,49 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 ## Massutskick {#bulk-email}
 
-1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
+1. I Salesforce klickar du på fliken **Leads** och sedan på knappen **Gå** .
 
    ![](assets/one-5.png)
 
-1. Välj önskade leads och klicka på **E-post med MSC (Classic)** -knappen.
+1. Välj önskade leads och klicka på knappen **E-post med MSC (klassisk)** .
 
    ![](assets/two-5.png)
 
 1. Ett MSC-e-postmeddelande visas. Den innehåller följande funktioner:
 
-   a. Fältet &quot;Till&quot; visar &quot;Alla kvitton&quot; - motsvarar listan med leads som du har valt i Leadlistvyn\
+   a. Till-fältet visar &quot;Alla kvitton&quot; - motsvarar listan med leads som du har valt i Leadlistvyn\
    b. Den här listan visas i den vänstra panelen, med namnet&quot;Massdisposition&quot; - du kan lägga till/ta bort mottagare här\
-   c. Du kan välja en mall eller skapa ett eget e-postmeddelande\
-   d. Du kan förhandsgranska dynamiska fält som ska fyllas i i e-postmeddelandet\
-   e. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det vid ett senare tillfälle
+   c. Du kan välja en mall eller skapa en egen e-postadress\
+   d. Du kan förhandsgranska dynamiska fält som ska fyllas i i ditt e-postmeddelande\
+   e. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
 
    ![](assets/three-4.png)
 
 ## Lägg till i kampanj {#add-to-campaign}
 
-1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
+1. I Salesforce klickar du på fliken **Leads** och sedan på knappen **Gå** .
 
    ![](assets/four-3.png)
 
-1. Välj önskade leads och klicka på **Lägg till i MSC Campaign (Classic)** -knappen.
+1. Välj önskade leads och klicka på knappen **Lägg till i MSC Campaign (Classic)** .
 
    ![](assets/five-3.png)
 
-1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
+1. Popup-fönstret Lägg till personer i din kampanj visas. Klicka på **Nästa** och gå igenom det typiska kampanjflödet för att utlösa en MSC-kampanj.
 
    ![](assets/six.png)
 
 ## Skicka till Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. I Salesforce klickar du på **Leads** -fliken och sedan **Gå** -knappen.
+1. I Salesforce klickar du på fliken **Leads** och sedan på knappen **Gå** .
 
    ![](assets/seven-1.png)
 
-1. Välj önskade leads och klicka på **Skicka till MSC (klassisk)** -knappen.
+1. Välj önskade leads och klicka på knappen **Skicka till MSC (klassisk)**.
 
    ![](assets/eight-1.png)
 
-1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på **Gå till grupp →** -knappen.
+1. En ny flik med namnet&quot;Salesforce Bridge&quot; öppnas. Klicka på knappen **Fortsätt till grupp →**.
 
    ![](assets/nine-1.png)
 
@@ -81,5 +81,5 @@ Lär dig hur du utför satsvisa åtgärder, som att lägga till leads till en ka
 
 >[!MORELIKETHIS]
 >
->* [Skicka e-post via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Skickar e-postmeddelanden via gruppe-post](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Disponera massutskick med Markera och skicka](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

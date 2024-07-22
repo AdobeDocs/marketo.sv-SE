@@ -19,7 +19,7 @@ Microsoft Dynamics-standardprefixet för anpassade fält måste vara _new_ för 
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Klicka **Utgivare**.
+1. Klicka på **Utgivare**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,7 +27,7 @@ Microsoft Dynamics-standardprefixet för anpassade fält måste vara _new_ för 
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Ändra prefixet till **new**. Klicka **Spara och stäng**.
+1. Ändra prefixet till **new**. Klicka på **Spara och stäng**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -35,7 +35,7 @@ Microsoft Dynamics-standardprefixet för anpassade fält måste vara _new_ för 
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Klicka **Publicera alla anpassningar**.
+1. Klicka på **Publish Alla anpassningar**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

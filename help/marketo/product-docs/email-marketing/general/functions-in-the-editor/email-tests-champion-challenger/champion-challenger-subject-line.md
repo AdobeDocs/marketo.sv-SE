@@ -17,17 +17,17 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
 >[!PREREQUISITES]
 >
->[Lägg till en e-postkampanj/kanal](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Subject line** i **Testtyp** nedrullningsbar meny.
+1. Välj **Ämnesrad** i listrutan **Testtyp** i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >I ett ämnesprov anges den första ämnesraden som **Champion**. Efterföljande ämnesrader kallas **Utmanare**.
+   >I ett ämnestest anges den första ämnesraden som **Champion**. Efterföljande ämnesrader kallas **Utmaningar**.
 
-1. Ange ämnesrad(er) för **Utmanare**.
+1. Ange ämnesrad(er) för **Utmaningar**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
    För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat.
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
@@ -55,4 +55,4 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Definiera tävlingskriterier](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger: Definiera Champion-villkor](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

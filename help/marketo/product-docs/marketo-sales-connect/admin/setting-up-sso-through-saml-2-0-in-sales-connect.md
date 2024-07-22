@@ -6,7 +6,7 @@ exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ Vi stöder enkel inloggning via SAML 2.0-specifikationen. Men vi har för närva
 
 >[!NOTE]
 >
->Detta gäller endast **Marketo Sales Connect** -användare. Om du inte har Sales Connect men vill veta mer kontaktar du kontoteamet (din Account Manager) på Adobe.
+>Detta gäller endast för **Marketo Sales Connect**-användare. Om du inte har Sales Connect men vill veta mer kontaktar du kontoteamet (din Account Manager) på Adobe.
 
 ## Krav {#requirements}
 
 * SSO-konto
-* Marketo Sales Connect-prenumeration
+* Marketo Sales connect subscription
 * Metadata.xml från SSO-konto (Issue URL, endpoint for validation och a public key)
 
 ## Inställningar {#setup}
@@ -31,6 +31,6 @@ Metadata.xml från teamets SSO-instans ska innehålla utfärdarens URL, valideri
 
 Vi behöver också SSO-platsen för ditt företags SSO-konto som en unik domän. Vi behöver till exempel en unik underdomän som `toutapp.pingidentity.com` eller liknande. Utan den här typen av unik identifierare kan vi inte konfigurera SAML från kontrollpanelen.
 
-One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning på [webbprogram](https://toutapp.com/login).
+One Login och Okta tillhandahåller inte alltid unika identifierare när en URL tilldelas. Om du använder Okta eller One Login betyder det att vi inte kan konfigurera en inloggning från kontrollpanelsknappen. Vi kommer fortfarande att kunna konfigurera det med knappen för enkel inloggning i [webbprogrammet](https://toutapp.com/login).
 
 När vi har fått den informationen kommer vi att arbeta tillsammans med vårt tekniker för att göra detta för din prenumeration.

@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: Definiera villkor för tävling](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[Champion/Challenger: Definiera Champion-villkor](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Vi schemalägger rapporten att skicka en gång i veckan på fredag kl. 9.00.
 
@@ -31,7 +31,7 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Klicka **Nästa**.
+1. Klicka på **Nästa**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
@@ -39,7 +39,7 @@ Marketo skickar rapporter om hur e-posttestet går. Så här schemalägger du de
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
-   Rapporten kommer att innehålla användbara detaljer, som: testtyp, vinnarvillkor, antal e-postöppningar med mera. Det finns också en direktlänk till själva testet, där du kan förklara vinnaren! Häftiga saker.
+   Rapporten innehåller bland annat information om testtyp, vinnarkriterier och antalet e-postöppningar. Det finns också en direktlänk till själva testet, där du kan förklara vinnaren! Häftiga saker.
 
    >[!MORELIKETHIS]
    >

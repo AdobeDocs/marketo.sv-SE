@@ -2,10 +2,10 @@
 description: OP-Deliverability Management - Marketo Docs - produktdokumentation
 title: OP-Deliverability Management
 feature: Programs
-exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Det här är ett exempel på arbetsflöden för hantering av bästa praxis för 
 >
 >Kräver det anpassade strängfältet&quot;Orsak till pausad marknadsföring&quot; för import. [Läs mer](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} sida.
+Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Kanalsammanfattning {#channel-summary}
 
@@ -56,7 +56,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
  </tbody> 
 </table>
 
-## Programmet innehåller följande resurser {#program-contains-the-following-assets}
+## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -107,7 +107,7 @@ Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du k
    * Ignorera
 
 * **Landningssidmall med samma namn**
-   * Kopiera ursprunglig mall - _Rekommenderas_
+   * Kopiera ursprunglig mall - _Rekommenderad_
    * Använd målmall
 
 * **Bilder med samma namn**

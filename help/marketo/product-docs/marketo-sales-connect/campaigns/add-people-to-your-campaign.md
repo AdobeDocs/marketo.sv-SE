@@ -23,6 +23,6 @@ Du kan göra detta på fliken Kampanjer i webbprogrammet.
 
 Knappen Lägg till i kampanj finns på sidorna Konversationer och Personer i webbprogrammet.
 
-Om du följer upp en potentiell kund eller kund från din Gmail- eller Outlook-inkorg kan du lägga till dem i en Campaign via dispositionsfönstret när du följer upp dem (om det första steget i Campaign är ett e-postmeddelande).
+Om du följer upp en potentiell kund eller kund från din Gmail- eller Outlook-inkorg kan du lägga till dem i en kampanj via dispositionsfönstret när du följer upp dem (om det första steget i Campaign är ett e-postmeddelande).
 
 Svara bara på deras mejl och välj en kampanj från vårt plugin-program.

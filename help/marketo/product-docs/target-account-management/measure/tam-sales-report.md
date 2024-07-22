@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # TAM-försäljningsrapport {#tam-sales-report}
 
-Ta emot ett e-postmeddelande varje vecka som innehåller de viktigaste kontona och deras vecktrender.
+Ta emot ett e-postmeddelande varje vecka som innehåller dina viktigaste konton och deras vecktrender.
 
 >[!NOTE]
 >
->Lär dig hur du ställer in den här rapporten [här](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Lär dig hur du konfigurerar rapporten [här](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Rapporten delar:
 

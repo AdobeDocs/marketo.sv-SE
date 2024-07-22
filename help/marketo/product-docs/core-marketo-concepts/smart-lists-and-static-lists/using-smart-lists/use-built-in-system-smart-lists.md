@@ -19,11 +19,11 @@ Marketo Engage har några mycket användbara inbyggda smarta listor. Vi kollar d
 
    ![](assets/db.png)
 
-1. Öppna **[!UICONTROL System Smart Lists]** för att visa samlingen.
+1. Öppna mappen **[!UICONTROL System Smart Lists]** för att visa samlingen.
 
    ![](assets/two.png)
 
-1. Så här ser du ett exempel: Välj **[!UICONTROL All People]** och klickar sedan på **[!UICONTROL People]** -fliken.
+1. Så här ser du ett exempel: Välj **[!UICONTROL All People]** och klicka sedan på fliken **[!UICONTROL People]**.
 
    ![](assets/three.png)
 

@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 >[!PREREQUISITES]
 >
->Du måste ha det senaste MSI SFDC-paketet och [konfiguration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Du måste ha det senaste MSI SFDC-paketet och [konfigurationen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Kontaktlayout {#contact-layout}
 
-**Hastighetsrutnät för engagemang**
+**Hastighetsstödraster för engagemang**
 
 * Detta smarta rutnät innehåller intressanta ögonblick, e-post och webbaktivitet de senaste 90 dagarna
 * Användaren kan välja aktiviteten &quot;Visa konto&quot;, vilket lagrar alla intressanta ögonblick på kontonivå, e-post och webbaktivitet i kontaktvyn
 * Användaren kan markera en viss vecka för att se aktiviteter inom den veckan
 * Standardvy: Aktuell vecka har valts
 
-**Översikt och detaljgranskning av engagemang**
+**Fördjupning av engagemang och sammanfattning**
 
 * Granska aktivitetskort för intressanta ögonblick, e-post och webbaktivitet
 * Intressanta ögonblick Aktivitetskort - inkluderar prenumerationsalternativ
@@ -41,12 +41,12 @@ Läs mer om de funktioner som finns på kontrollpanelen för försäljningsinsik
 
 **Kommande e-postkampanjer och evenemang**
 
-Fliken E-postkampanjer:
+fliken E-postkampanjer:
 
 * Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
-* Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
+* Aktivitetsinformationskortet i det här avsnittet har ett alternativ för förhandsgranskning. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
 ![](assets/insights-dashboard-feature-overview-2.png)
@@ -64,14 +64,14 @@ Fliken Händelse:
 
 ## Leadlayout {#lead-layout}
 
-**Hastighetsrutnät för engagemang**
+**Hastighetsstödraster för engagemang**
 
 * Detta smarta rutnät innehåller intressanta ögonblick, e-post och webbaktivitet de senaste 90 dagarna
 * Användaren kan markera en viss vecka för att se aktiviteter inom den veckan
 * Standardvy: Aktuell vecka har valts
 * Funktionen Visa kontoaktivitet är inte tillgänglig för leads eftersom den inte är en del av något konto i Salesforce förrän den konverteras till en kontakt
 
-**Översikt och detaljgranskning av engagemang**
+**Fördjupning av engagemang och sammanfattning**
 
 * Detaljerade aktivitetskort för intressanta ögonblick, e-post och webbaktivitet
 * Intressanta ögonblick Aktivitetskort - inkluderar prenumerationsalternativ
@@ -82,12 +82,12 @@ Fliken Händelse:
 
 **Kommande e-postkampanjer och evenemang:**
 
-Fliken E-postkampanjer:
+fliken E-postkampanjer:
 
 * Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
-* Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
+* Aktivitetsinformationskortet i det här avsnittet har ett alternativ för förhandsgranskning. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
 ![](assets/insights-dashboard-feature-overview-4.png)
@@ -105,13 +105,13 @@ Fliken Händelse:
 
 ## Kontolayout {#account-layout}
 
-**Hastighetsrutnät för engagemang**
+**Hastighetsstödraster för engagemang**
 
 * Detta smarta rutnät innehåller Intressanta stunder, e-post och webbaktivitet de senaste 90 dagarna för alla kontakter i kontot
 * Användaren kan markera en viss vecka för att se aktiviteter inom den veckan
 * Standardvy: Aktuell vecka har valts
 
-**Översikt och detaljgranskning av engagemang**
+**Fördjupning av engagemang och sammanfattning**
 
 * Detaljerade aktivitetskort för intressanta ögonblick, e-post och webbaktivitet, inklusive kontaktnamn
 * Intressanta ögonblick Aktivitetskort - inkluderar prenumerationsalternativ
@@ -122,12 +122,12 @@ Fliken Händelse:
 
 **Kommande e-postkampanjer och evenemang**
 
-Fliken E-postkampanjer:
+fliken E-postkampanjer:
 
 * Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
-* Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
+* Aktivitetsinformationskortet i det här avsnittet har ett alternativ för förhandsgranskning. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
 Fliken Händelse:
@@ -141,13 +141,13 @@ Fliken Händelse:
 
 ## Affärsmöjlighet {#opportunity-layout}
 
-**Hastighetsrutnät för engagemang**
+**Hastighetsstödraster för engagemang**
 
 * Detta smarta rutnät innehåller Intressanta ögonblick, e-post och webbaktivitet de senaste 90 dagarna för alla kontakter i affärsmöjligheten
 * Användaren kan markera en viss vecka för att se aktiviteter inom den veckan
 * Standardvy: Aktuell vecka har valts
 
-**Översikt och detaljgranskning av engagemang**
+**Fördjupning av engagemang och sammanfattning**
 
 * Detaljerade aktivitetskort för intressanta ögonblick, e-post och webbaktivitet, inklusive kontaktnamn
 * Intressanta ögonblick Aktivitetskort - inkluderar prenumerationsalternativ
@@ -161,7 +161,7 @@ Fliken Händelse:
 * Inkluderar kampanjer som ingår i e-postprogram eller standardprogram som är schemalagda inom de kommande 90 dagarna
 * Inte specifikt för kontakten/leadet (dvs. listan över kampanjer är en allmän lista över alla e-postkampanjer som är schemalagda i Marketo-instansen). Listan över kampanjer för alla lead-, kontakt-, konto- och affärsmöjlighetspaneler blir densamma
 * Om kampanjen upprepas mer än tre gånger under de kommande 90 dagarna visas bara de tre efterföljande omgångarna vid en given tidpunkt (liknande beteendet i Marketo)
-* Aktivitetsinformationskortet i det här avsnittet har ett förhandsvisningsalternativ. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
+* Aktivitetsinformationskortet i det här avsnittet har ett alternativ för förhandsgranskning. Om flödet innehåller flera skicka-e-poststeg är alla e-postmeddelanden tillgängliga för förhandsgranskning. Om det finns flera&quot;e-postalternativ&quot; i skicka-e-postflödessteget är standardalternativet tillgängligt för förhandsgranskning
 * Filtren innehåller &quot;Sök&quot; och &quot;Datumintervall&quot;
 
 Fliken Händelse:

@@ -35,7 +35,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
    >
    >För stor textstorlek kan medföra att innehållet flyttas förbi de maximala tre synliga textraderna.
 
-1. Välj en valfri teckenstil för betoning: **Fet**, _Kursiv_ eller Understruken.
+1. Välj en valfri typstil för betoning: **Fet**, _Kursiv_ eller Understruken.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -81,7 +81,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    Ändringar som du gör i token som används i ett godkänt meddelandeprogram i appen börjar inte gälla i meddelandet i appen förrän programmet pausas och sedan återupptas.
 
-Du är guld. Nästa steg är att [konfigurera meddelandeknappen i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Du är guld. Därefter måste du [konfigurera meddelandeknappen i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

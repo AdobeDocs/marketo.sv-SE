@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Gör ett formulärfält obligatoriskt {#make-a-form-field-required}
 
-När [lägga till fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) du kanske vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
+När du [lägger till fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -27,16 +27,16 @@ När [lägga till fält i ett formulär](/help/marketo/product-docs/demand-gener
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Snyggt gjort! Klicka **Slutför**.
+1. Snyggt gjort! Klicka på **Slutför**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klicka **Godkänn och stäng**.
+1. Klicka på **Godkänn och stäng**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Glöm inte att [godkänna landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) det här formuläret lever vidare för att ändringarna ska bli verklighet.
+>Glöm inte att [godkänna alla landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret lever på så att ändringarna kan publiceras.
 
-Behöver du [ändra ordning på fälten som du har lagt till i formuläret](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Behöver du [ändra ordning på de fält som du har lagt till i formuläret](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

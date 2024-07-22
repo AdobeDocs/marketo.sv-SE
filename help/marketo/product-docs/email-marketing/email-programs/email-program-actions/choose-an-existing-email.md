@@ -20,11 +20,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->För korrekt rapportering bör du undvika _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det lanserade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande ber vi dig [klona den](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} istället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
+>Undvik att _återanvända_ ett e-postmeddelande från ett e-postprogram, antingen genom att referera till det i en Smart Campaign eller genom att flytta resursen från det startade e-postprogrammet till ett nytt. Om du gör det sammanställs alla data i varje rapportkontrollpanel som är kopplad till det e-postmeddelandet. Om du behöver återanvända ett e-postmeddelande [klonar du det](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} i stället, eftersom det kopierar e-postmeddelandet men skapar ett nytt med ett nytt e-post-ID.
 
-En gång har du [skapade ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat er målgrupp, vill ni bestämma vilka e-postmeddelanden ni ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) från början eller välj en som redan finns. Så här väljer du en som redan finns.
+När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat din målgrupp, vill du bestämma vilken e-postadress du ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) från grunden eller välja ett som redan finns. Så här väljer du en som redan finns.
 
-1. Gå till **Marknadsföringsaktiviteter**.
+1. Gå till **marknadsföringsaktiviteter**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,13 +32,13 @@ En gång har du [skapade ett e-postprogram](/help/marketo/product-docs/email-mar
 
    ![](assets/selectemailprogram.jpg)
 
-1. Under **E-post** markerar du den som du vill skicka.
+1. Under rutan **E-post** markerar du den som du vill skicka.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >Endast lokala e-postmeddelanden kan väljas. Behöver du flytta ett e-postmeddelande från ett program till ett annat? [Läs mer här](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >Endast lokala e-postmeddelanden kan väljas. Behöver du flytta ett e-postmeddelande från ett program till ett annat? [Lär dig mer här](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    Söt!
 

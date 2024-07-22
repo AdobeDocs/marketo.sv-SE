@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan gruppera dina personrapporter efter alla segment som du har definierat i dina segmenteringar.
 
-1. Gå till **Marknadsföringsaktiviteter** (eller **Analyser**).
+1. Gå till avsnittet **Marknadsföringsaktiviteter** (eller **Analyser**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,7 +23,7 @@ Du kan gruppera dina personrapporter efter alla segment som du har definierat i 
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Klicka på **Inställningar** och dubbelklicka **Gruppera personer efter**.
+1. Klicka på fliken **Inställningar** och dubbelklicka på **Gruppera människor efter**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
@@ -31,11 +31,11 @@ Du kan gruppera dina personrapporter efter alla segment som du har definierat i 
    >
    >Du kan också [gruppera dina personrapporter efter person- eller företagsattribut](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. I **Gruppera personer efter** börjar du skriva Segmentering i textrutan. När **Segmenteringar** visas väljer du en i listan under rubriken.
+1. I dialogrutan **Gruppera personer efter** börjar du skriva Segmentering i textrutan. När rubriken **Segmenteringar** visas väljer du en i listan under rubriken.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Klicka på **Rapport** om du vill visa rapporten grupperad efter det valda segmentet.
+1. Klicka på fliken **Rapport** om du vill visa rapporten grupperad efter det valda segmentet.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 

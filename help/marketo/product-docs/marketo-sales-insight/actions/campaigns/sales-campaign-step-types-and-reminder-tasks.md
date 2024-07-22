@@ -5,7 +5,7 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Använda en mall** | Välj en av dina befintliga mallar |
+| **Använd en mall** | Välj en av dina befintliga mallar |
 |---|---|
 | **Spara som mall** | Spara e-postmeddelandet som du just komponerade som en ny mall |
 | **Lägg till innehåll** | Överför en fil till vår server och få en URL (som pekar på innehållet) som kan spåras i ditt e-postmeddelande |
@@ -32,7 +32,7 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 >[!TIP]
 >
->Läs mer om [sändningsalternativ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Lär dig mer om dina [sändningsalternativ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Utlysning {#call}
 
@@ -66,4 +66,4 @@ Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om de
 
 >[!MORELIKETHIS]
 >
->[Skapa en försäljningskampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Skapa en säljkampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

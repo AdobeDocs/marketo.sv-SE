@@ -6,7 +6,7 @@ exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!PREREQUISITES]
 >
->Administratören måste ha [har utfärdat en Marketo-licens för e-posttillägg](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Administratören måste ha [utfärdat en Marketo e-posttilläggslicens](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
@@ -25,22 +25,22 @@ Många gånger har säljarna inte administratörsbehörighet på sina bärbara d
 
 >[!IMPORTANT]
 >
->Microsoft har släppt en [ny version av Outlook för Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft har släppt en [ny version av Outlook för Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Den nya versionen stöder inte det befintliga MSI Outlook-plugin-programmet. MSI Outlook-pluginprogrammet fortsätter att fungera för Windows-datorer som kör den klassiska versionen av Outlook. [Klicka här](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} om du vill veta mer om nya Outlook för Windows för organisationer.
 
-1. I Min Marketo klickar du på **Administratör** och sedan **Försäljningsinsikter**.
+1. I My Marketo klickar du på **Admin** och sedan på **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Klicka på **E-posttillägg** -fliken.
+1. Klicka på fliken **E-posttillägg**.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. Klicka **Visa företagsnyckel**.
+1. Klicka på **Visa företagsnyckel**.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande tillsammans med [den här länken](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)och skicka det till din IT-avdelning för fjärrinstallation.
+1. Kopiera licensnyckeln för Outlook Enterprise och klistra in den i ett e-postmeddelande, tillsammans med [den här länken](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), och skicka den till din IT-avdelning för fjärrinstallation.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Det är allt! Sedan går säljarna igenom [registreringsprocess](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   Det är allt! Sedan går säljaren igenom registreringsprocessen [1.](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)

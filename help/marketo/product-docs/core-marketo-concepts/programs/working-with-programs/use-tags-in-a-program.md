@@ -21,7 +21,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Använda en tagg i ett program {#use-a-tag-in-a-program}
 
-1. Välj program. Klicka **Inställningar**.
+1. Välj program. Klicka på **Konfigurera**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Redigera en tagg {#edit-a-tag}
 
-1. Gå till **Inställningar** -fliken. Högerklicka på taggen. Välj **Redigera**.
+1. Gå till fliken **Inställningar**. Högerklicka på taggen. Välj **Redigera**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Ta bort en tagg  {#delete-a-tag}
 
-1. Gå till **Inställningar** -fliken. Högerklicka på taggen och välj **Ta bort**.
+1. Gå till fliken **Inställningar**. Högerklicka på taggen och välj **Ta bort**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Klicka **Ta bort** för att bekräfta.
+1. Bekräfta genom att klicka på **Ta bort**.
 
    ![](assets/use-tags-in-a-program-11.png)
 
