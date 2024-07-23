@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - produktdokumentation
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 
 ## Saker att känna till om sandlådor {#things-to-know-about-sandboxes}
 
-* När Adobe Account Team har konfigurerat din sandlåda och skickar inbjudan måste du använda en annan e-postadress för att logga in än din Marketo-produktionsinstans.
 * Om du vill lägga till användare är processen densamma som att [lägga till användare i produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
 * Din Marketo-sandlåda börjar bli tom, men har samma funktioner som din produktionsinstans.
 * Om du skapar ett program i sandlådan och vill flytta det till produktion kan du utföra en [programimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
