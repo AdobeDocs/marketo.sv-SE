@@ -4,104 +4,117 @@ title: Anpassning av interaktiva webbinarier
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
 
 # Anpassning av interaktiva webbinarier {#interactive-webinars-customization}
 
-Att anpassa interaktiva webbinarier är avgörande för att skapa en mer engagerande och effektiv upplevelse för deltagarna.
+Att anpassa webbinarierna är avgörande för att skapa en mer engagerande och effektiv upplevelse för deltagarna.
 
-Interaktiva webbinarier erbjuder många anpassningsalternativ för att anpassa webbinariet efter dina behov. Värdar kan anpassa utseendet på olika skärmar så att de passar organisationens varumärke.
+Interaktiva webbinarier erbjuder flera anpassningsalternativ för att skräddarsy webbinariet efter dina behov. Anpassa utseendet på olika skärmar så att det passar er organisations varumärke.
 
-Du kan anpassa följande alternativ för din organisation:
-* Varumärkesfärger för rummet.
-* Anpassad bakgrund som representerar din organisation på skärmarna för inträde, avslut och väntan.
+Du kan anpassa följande alternativ:
+
+* Varumärkesfärger för rummet
+* Anpassad bakgrund som representerar din organisation på skärmar för inträde, avslut och väntetider
 * Logotyp
 * Virtuella videobakgrunder
 
-Följ de här stegen för att anpassa de interaktiva webbinarierna.
+## Anpassa interaktiva webbinarier {#customize-interactive-webinar-screens}
 
-1. Välj fliken Design Studio i den övre menyraden.
-1. Välj Interaktiva webbinarier > Anpassa webbinarier i den vänstra navigeringspanelen.
+1. Klicka på **Design Studio**.
+
+1. Klicka på **Interaktiva webbinarier** och välj **Anpassa webbinarier**.
+
 1. Anpassa rumsgränssnittet, snabbskärmar eller virtuella videobakgrunder från menyraden.
 
-Anpassa rumsgränssnittet
+### Anpassa rummets gränssnitt {#customize-the-room-interface}
 
 Du kan anpassa utseendet på sessionsrummet genom att ändra logotyp, klickbar omdirigeringslänk och färger. Ändringarna återspeglas i alla evenemang och rum i organisationen.
 
 Om du vill anpassa utseendet på ett rum väljer du fliken för rumsgränssnittet på menyraden.
 
-Följ de här stegen för att anpassa rumsgränssnittet.
-
 1. Anpassa följande inställningar från den högra panelen:
 
 SCREENSHOT
 
-Egen logotyp: Välj Ladda upp logotyp och bläddra i bilden från din enhet. Bildstorleken får inte överstiga 50 x 31 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png.
+**Egen logotyp**: Välj Överför logotyp och bläddra i bilden från enheten. Bildstorleken får inte överstiga 50 x 31 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png. Du kan ändra eller ta bort din logotyp.
 
-Markera ändring   för att ändra och ta bort   för att ta bort logotypen.
-Länk för omdirigering: Lägg till en URL för att dirigera om deltagarna när de har klickat på logotypen.
-Alternativ text: Lägg till en alternativ text för deltagare med tillgänglighetsfunktioner.
-Färger: Välj färger för rumsfältet, rumsikoner, rumsbakgrund, rutfält och ikoner för rutor för att ändra färgen för olika avsnitt.
+**Länk för omdirigering**: Lägg till en URL för att omdirigera dina deltagare när de har klickat på logotypen.
+
+**Alternativ text**: Lägg till en alternativ text för deltagare med tillgänglighetsfunktioner.
+
+**Färger**: Välj färger för rumsfältet, rumsikoner, rumsbakgrund, rutfält och rutor/ikoner för att ändra färg för olika avsnitt.
+
 Du kan också ange HEX-färgkoden med alternativet HEX.
-Välj Visa mallar om du vill ändra temat för rummet.
+
+Välj **[!UICONTROL View templates]** om du vill ändra rummets tema.
+
 När du har gjort ändringarna kan du kontrollera logotypen och färgerna i förhandsvisningen.
 
-1. Välj Använd om du vill spara ändringarna.
+1. Välj **[!UICONTROL Apply]** om du vill spara ändringarna.
 
-Välj Återställ till standard om du vill återställa standardinställningarna för basversionen.
+>[!NOTE]
+>
+>Klicka på **[!UICONTROL Reset to default]** om du vill återställa standardinställningarna.
 
-Anpassa mellanskärmar
+### Anpassa mellanskärmar {#customize-intermediate-screens}
 
-Ändra bakgrundsbilden för att ändra vyn och känslan för in- och utmatningsskärmarna samt för att avsluta och vänta. Ändringarna återspeglas i alla evenemang och rum i organisationen.
+Ändra bakgrundsbilden för att ändra utseendet på ingångs-, avslutnings- och vänteskärmarna. Ändringarna återspeglas i alla evenemang och rum i organisationen.
 
 Om du vill anpassa utseendet på ett rum väljer du fliken Mellanskärmar på menyraden.
 
-Följ de här stegen för att anpassa olika mellanskärmar.
+1. Anpassa bakgrundsbilden från den högra panelen genom att välja **Överför bild** och bläddra efter en logotyp i en bild. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png. Du kan ändra eller ta bort logotypen om du vill.
 
-1. I den högra panelen anpassar du bakgrundsbilden genom att välja Överför bild och bläddra efter en bild som logotyp. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png.
-
-Markera ändring   för att ändra och ta bort   för att ta bort logotypen.
-När du har gjort ändringarna kan du kontrollera bakgrunden och förhandsvisningen.
+Visa bakgrunden i förhandsvisningen när du har gjort ändringarna.
 
 SCREENSHOT
 
-Obs! Den överförda bilden används på skärmarna Inmatning, Avsluta och Väntar.
+>[!NOTE]
+>
+>Den överförda bilden används på skärmarna Inmatning, Avsluta och Väntar.
 
-1. Välj Använd om du vill spara ändringarna.
+1. Välj **[!UICONTROL Apply]** om du vill spara ändringarna.
 
-Välj Återställ till standard om du vill återställa standardinställningarna för basversionen.
+>[!NOTE]
+>
+>Klicka på **[!UICONTROL Reset to default]** om du vill återställa standardinställningarna.
 
-Anpassa virtuella videobakgrunder
+### Anpassa virtuella videobakgrunder {#Customize-virtual-video-backgrounds}
 
 Använd organisationsdefinierade bakgrunder under evenemanget för att visa organisationens logotyp eller varumärkeskopia i bakgrunden av videomatningen från kameran. Om du vill lägga till organisationens virtuella bakgrunder väljer du fliken Virtuella videobakgrunder på menyraden. Du kan välja att endast visa anpassade bakgrunder, Adobe Connect-bakgrunder eller båda.
 
-Anpassade bakgrunder
+**Anpassade bakgrunder**
 
 Använd växlingsknappen för att tillåta anpassade bakgrunder i dina händelser och rum.
 
-1. Välj Överför bakgrund om du vill överföra en anpassad bakgrund. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png.
+1. Välj **Överför bakgrund** om du vill överföra en anpassad bakgrund. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png.
 
 SCREENSHOT
 
 Håll pekaren över den anpassade bakgrundsbilden för att ta bort den från videobakgrunder.
 
-När du har gjort ändringarna kan du kontrollera bakgrunden i förhandsvisningen.
+Visa bakgrunden i förhandsvisningen när du har gjort ändringarna.
 
-Du kan använda skjutreglaget på förhandsgranskningsskärmen för att zooma in eller ut och testa hur den virtuella bakgrunden skulle se ut om användaren var nära eller långt från kameran. Om det finns text i bakgrunden är det bra att veta om den skulle bli täckt och inte synlig.
+Du kan använda skjutreglaget på förhandsgranskningsskärmen för att zooma in eller ut och testa hur den virtuella bakgrunden skulle se ut om användaren var nära eller långt från kameran. Om det finns någon text i bakgrunden är det här en garanti för att den inte visas.
 
-1. Välj Använd om du vill spara ändringarna eller välj Återställ till standard om du vill återställa standardinställningarna.
+1. Välj **Använd** om du vill spara ändringarna.
 
-Adobe Connect bakgrunder
+>[!NOTE]
+>
+>Klicka på **[!UICONTROL Reset to default]** om du vill återställa standardinställningarna.
 
-Adobe Connect har nio standardbakgrunder som är klara att användas. Du kan visualisera deras utseende i Förhandsgranska.
+**Adobe Connect bakgrunder**
+
+Adobe Connect har nio standardbakgrunder som är klara att användas. Du kan se deras utseende i Förhandsgranska.
 
 Använd växlingsknappen för att kontrollera tillgängligheten för dessa standardbakgrunder i dina händelser och rum.
 
 SCREENSHOT
 
-Välj Använd om du vill spara ändringarna eller välj Återställ till standard om du vill återställa standardinställningarna.
+Välj **Använd** om du vill spara ändringarna eller välj **Återställ till standard** om du vill återställa standardinställningarna.

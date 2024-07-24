@@ -4,9 +4,10 @@ title: Instrumentpanel för engagemang
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1754'
+source-wordcount: '1716'
 ht-degree: 0%
 
 ---
@@ -17,9 +18,9 @@ Interaktiva webbinarier med Adobe Connect använder olika poder för att engager
 
 Se en samlad översikt över deltagaraktiviteter, interaktioner och engagemang under en händelse. Som värd kan du visa prestanda för live- och on-demand-händelser och hämta olika rapporter efter sessionen. Dessutom används rapporter från efterföljande webbinarier som genererats från kontrollpanelen för att utvärdera sessionens effektivitet, informera om framtida innehåll och förbättra den övergripande webbinaristrategin.
 
-Kontrollpanelen håller reda på olika mätvärden, inklusive omröstningssvar, chattaktiviteter och videointeraktioner, och ger värdefulla insikter om deltagarnas preferenser och beteenden. Det ger en omfattande översikt över deltagarnas aktivitet och engagemang, vilket gör det möjligt för värdarna att övervaka närvaro, deltagande och interaktioner i realtid.
+Kontrollpanelen håller reda på olika mätvärden, inklusive omröstningssvar, chattaktiviteter och videointeraktioner, och ger värdefulla insikter om deltagarnas preferenser och beteenden. Det ger en omfattande översikt över deltagarnas aktivitet och engagemangsnivåer, vilket gör det möjligt för värdarna att övervaka närvaro, deltagande och interaktioner i realtid.
 
-Visa engagemanget för följande typer av sessioner i ett interaktivt webbinarium.
+Visa engagemang för följande typer av sessioner i ett interaktivt webbinarium.
 
 * **Live-session**: En onlinesession i realtid där deltagare aktivt kan interagera med varandra.
 * **On-demand-session**: Inspelningen av live-händelsen är tillgänglig som en egen händelse. Nya inbjudna kan registrera sig och se inspelningen. Efter registreringen får de en länk för att ansluta till en händelse, som tar dem till inspelningen av händelsen när den är slut. Deltagare som är registrerade för live-evenemanget kan också visa inspelningen med samma länk.
@@ -102,15 +103,15 @@ SCREENSHOT
 
 ### Engagemang {#engagement}
 
-Det här gränssnittet ger en översikt över den aktiva sessionens prestanda för en händelse. Översikten innehåller nyckeltal, engagemang över tid och deltagarinteraktioner. Det hjälper organisatörerna att utvärdera eventets framgång och identifiera områden som kan förbättras.
+Innehåller en översikt över hur en händelse fungerar i livesessionen. Översikten innehåller nyckeltal, engagemang över tid och deltagarinteraktioner. Det hjälper organisatörerna att utvärdera eventets framgång och identifiera områden som kan förbättras.
 
-I den vänstra panelen väljer du Engagement för att visa livesessionens prestanda. Välj Sammanfattning av engagemang (PDF) om du vill hämta prestandasammanfattningen för livesessionen. Översikten delas in i olika avsnitt.
+Välj **[!UICONTROL Engagement]** i den vänstra panelen för att visa livesessionens prestanda. **[!UICONTROL Click Engagement summary (PDF)]** om du vill hämta prestandasammanfattningen för livesessionen. Översikten innehåller data i olika avsnitt.
 
 SCREENSHOT
 
 **Nyckeltal**
 
-Visa antalet registreringar, deltagare och engagemang i livesessionen från nyckeltal.
+Visa antalet registreringar, deltagare och engagemang i livesessionen.
 
 SCREENSHOT
 
@@ -141,7 +142,7 @@ SCREENSHOT
 
 **Engagemang över tid**
 
-Lär dig om det genomsnittliga engagemanget över tiden under livesessionen från engagemangsdiagrammen. Värdar kan övervaka hur engagemangsnivåerna varierar, vilket gör att de kan identifiera kritiska ögonblick av hög eller låg interaktion. Se hur mycket av det genomsnittliga engagemangsmomentet som deltagarna fick i olika layouter.
+Lär dig om det genomsnittliga engagemanget över tiden under livesessionen från engagemangsdiagrammen. Värdar kan övervaka hur engagemangsnivåerna varierar, vilket gör att de kan identifiera kritiska ögonblick av hög eller låg interaktion. Se hur mycket av det genomsnittliga engagemanget som deltagarna fick i olika layouter.
 
 SCREENSHOT
 
@@ -151,7 +152,7 @@ Visa följande information genom att hålla pekaren över diagrammet:
 * Genomsnittlig engagemangspoäng vid den tidpunkten.
 * Antal deltagare som deltog vid den tidpunkten.
 * Layout för engagemanget vid den tidpunkten.
-* Välj Visa direkt i inspelningen för att visa det ögonblick i inspelningen där engagemanget var högt eller lågt.
+* Välj **[!UICONTROL View instant in recording]** om du vill visa instansen i inspelningen där engagemanget var högt eller lågt.
 * Genomsnittligt engagemangsmoment (%) över tid i sessionen
 * Närvaro över tiden under sessionen
 * Engagemang i olika webbinarier visas när olika layouter användes i rummet under eventet. Det hjälper till att korrelera ökat och minskat engagemang i olika layouter.
@@ -162,28 +163,28 @@ Du kan visa deltagarnas interaktioner från olika fönster. Här finns informati
 
 SCREENSHOT
 
-Välj Gå till interaktioner om du vill visa svar från undersökningar, mätvärden för QnA och deltagarnas reaktioner under sessionen. Se hur deltagarna är engagerade i olika delar av interaktionsrapporter och ladda ned interaktionsrapporter från avsnittet nedan.
+Välj **[!UICONTROL Go to interactions]** om du vill visa svar från undersökningar, mått för QnA och deltagarnas reaktioner under sessionen. Se hur deltagarna är engagerade i olika delar av interaktionsrapporter och ladda ned interaktionsrapporter från avsnittet nedan.
 
 ### Interaktioner {#interactions}
 
-Se hur deltagarna interagerar och deltar i sessionen via Interactions. Spåra svar på enkäter, QnA-statistik, reaktioner från deltagare och ta bort länkar och filer från olika platser. Värdar kan också hämta interaktionsrapporter för dessa poder för bättre analys. Genom att analysera dessa interaktioner kan du identifiera trender och anpassa deras strategier för att uppmuntra en mer interaktiv och engagerande miljö.
+Se hur deltagarna interagerar och deltar i sessionen via Interactions. Spåra svar på enkäter, QnA-statistik, reaktioner från deltagare och ta bort länkar och filer från olika platser. Värdar kan också hämta interaktionsrapporter för dessa poder för bättre analys. Genom att analysera dessa interaktioner kan ni identifiera trender och anpassa deras strategier för att uppmuntra en mer interaktiv och engagerande miljö.
 
-I den vänstra panelen väljer du Interaktioner för att visa hur deltagarna är engagerade i olika bildrutor.
+Välj **[!UICONTROL Interactions]** i den vänstra panelen för att visa hur deltagarna är engagerade i olika grupper.
 
 SCREENSHOT
 
-Välj fliken Omröstningar på menyraden för att visa frågor och svar som lagts till i omröstningen. På den här fliken visas följande information:
+Välj fliken **[!UICONTROL Polls]** på menyraden för att visa frågor och svar som lagts till i omröstningen. På den här fliken visas följande information:
 
-* Välj Avfrågningsrapport (CSV) om du vill hämta rapporten för interaktioner i avsökningsrutan.
+* Välj **[!UICONTROL Poll report (CSV)]** om du vill hämta rapporten för interaktioner i omröstningsfönstret.
 * Fråga och typ.
 * Antal svar och den period under vilken avsökningen var öppen och engagerad.
-* Välj Visa alla `<number>` svar om du vill visa dem i ett dialogfönster.
+* Välj **Visa alla `<number>` svar** om du vill visa dem i ett dialogfönster.
 
-Välj fliken Andra interaktioner på menyraden om du vill visa engagemang i andra fönster och hämta deras rapporter.
+Välj fliken **[!UICONTROL Other interactions]** på menyraden för att visa engagemang i andra fönster och hämta deras rapporter.
 
 SCREENSHOT
 
-Välj Hämta interaktionsrapporter i den övre högra listrutan för att hämta rapporter om olika poder. Ladda ned QnA-rapporten, länkarna och filerna och rapporten Reactions härifrån för bättre spårning.
+Välj **[!UICONTROL Download interaction reports]** i listrutan om du vill hämta rapporter om olika poder. Ladda ned QnA-rapporten, länkarna och filerna och rapporten Reactions härifrån för bättre spårning.
 
 Interaktionsinformationen mellan olika platser är tillgänglig i olika avsnitt.
 
@@ -219,7 +220,7 @@ Visa länkar som lagts till i webblänksområdet under sessionen och antalet kli
 
 SCREENSHOT
 
-Visa följande information från diagrammet:
+Visa följande information i diagrammet:
 
 * Länkar som läggs till i webblänken.
 * Antal deltagare som klickat på minst en länk.
@@ -232,30 +233,30 @@ Visa de filer som lagts till i filrutan under sessionen och antalet unika hämtn
 
 SCREENSHOT
 
-Visa följande information från diagrammet:
+Visa följande information i diagrammet:
 
-* Namn på filer som läggs till i fillistan.
+* Namnet på filerna som läggs till i fillistan.
 * Antal deltagare som hämtade minst en fil.
 * Trend för unika nedladdningar för varje fil som läggs till i webblänksrutan.
 
 ### On-demand-aktivitet {#on-demand-activity}
 
-Välj On-demand-aktivitet i den vänstra panelen för att visa sammanfattningen av inspelningar. Du kan även hämta en rapport för on-demand-aktivitet.
+Välj **[!UICONTROL On-demand activity]** i den vänstra panelen för att visa sammanfattningen av inspelningar. Du kan även hämta en rapport för on-demand-aktivitet.
 
 SCREENSHOT
 
 Visa följande mått i on-demand-aktivitet:
 
-* Välj On-demand-rapport (CSV) om du vill hämta on-demand-statistik.
+* Klicka på **[!UICONTROL On-demand report (CSV)]** om du vill hämta on-demand-statistik.
 * Antal unika visningsprogram tills instrumentpanelen senast uppdaterades.
 * Antal tittare som visade inspelningen men inte kunde delta i webbinariet.
 * Antal tittare som deltog i webbinariet och visade inspelningen. De kommer troligtvis att vara de främsta framtidsplanerna.
-* Antal visningsprogram som har registrerats för on-demand-sessioner.
+* Antal visningsprogram som har registrerats för on-demand-sessionen.
 * Genomsnittlig inspelningstid i minuter.
 
 ### Deltagaraktivitet {#participant-activity}
 
-I den vänstra panelen väljer du Deltagaraktivitet för att visa konsoliderad information om varje deltagares engagemang. Visa hur det här engagemanget klassificeras på nivåer från nivån för deltagarengagemang. Välj rapporten för användaraktivitet (CSV) om du vill hämta rapporten för bättre spårning.
+Välj **[!UICONTROL Participant activity]** i den vänstra panelen om du vill visa konsoliderad information om varje deltagares engagemang. Visa hur det här engagemanget klassificeras på nivåer från nivån för deltagarengagemang. Klicka på **[!UICONTROL User activity report (CSV)]** om du vill hämta rapporten för bättre spårning.
 
 SCREENSHOT
 
@@ -272,23 +273,26 @@ Visa följande information från tabellen:
 
 Ladda ned rapporter om olika aktiviteter och poder från ett centralt nav som värd.
 
-1. Välj Hämta rapporter i den vänstra panelen.
-1. Välj Hämta alla (.zip) om du vill hämta rapporter för alla aktiviteter och pods alla samtidigt.
+1. Välj **[!UICONTROL Download reports]** i den vänstra panelen.
+
+1. Välj **[!UICONTROL Download all (.zip)]** om du vill hämta rapporter för alla aktiviteter och pods alla samtidigt.
 
 SCREENSHOT
 
-Välj en ikon bredvid varje rapport om du vill hämta dem individuellt.
+>[!NOTE]
+>
+>Klicka på nedladdningsikonen bredvid varje rapport för att ladda ned dem separat.
 
 ## Deltagarens engagemangsnivå {#participant-engagement-level}
 
-Organisationer använder Adobe Connect för att ta fram skräddarsydda, varumärkesanpassade och engagerande webbinarier. Interaktiva verktyg som omröstningar, chatt, frågor och svar och reaktioner hjälper till att engagera deltagarna och samla in mer än bara registrerings- och närvarodata. När deltagarna har interagerat med dessa interaktiva funktioner används engagemangsdata för att klassificera deltagarna i tre engagemangsnivåer: hög, medel och låg. Marknadsförarna kan använda engagemangsnivån för att uppdatera målgruppssegment, uppdatera lead-poäng och varna försäljningen.
+Organisationer använder Adobe Connect för att ta fram skräddarsydda, varumärkesanpassade och engagerande webbinarier. Interaktiva verktyg som omröstningar, chatt, frågor och svar och reaktioner hjälper till att engagera deltagarna och samla in mer än bara registrerings- och närvarodata. När deltagarna har interagerat med dessa interaktiva funktioner används engagemangsdata för att klassificera deltagarna i tre engagemangsnivåer: hög, medel och låg. Ni kan använda engagemangsnivån för att uppdatera målgruppssegment, uppdatera personpoäng och avisera försäljningen.
 
-Förstå kriteriet för att klassificera engagemangsnivån för varje deltagare:
+Förstå kriterierna för att klassificera engagemangsnivån för varje deltagare:
 
 <table><thead>
   <tr>
     <th>Engagemangsnivå</th>
-    <th>Klassificeringskriterium</th>
+    <th>Klassificeringskriterier</th>
   </tr></thead>
 <tbody>
   <tr>

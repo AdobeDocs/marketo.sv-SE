@@ -4,34 +4,47 @@ title: Rumshantering
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
 
 # Rumshantering {#room-management}
 
-Interaktiva webbinarium som drivs av Adobe Connect är utformade för att underlätta engagerande och samarbetsinriktade online-event. Dessa webbinarier lagrar en mängd innehåll och inspelningar i webbinarier som skapats av behöriga medlemmar i organisationen. Som medlem med rätt att skapa ett rum kan du komma åt och hantera dem från en central plats.
-
-Följ de här stegen för att hantera och komma åt de rum eller inspelningar du har skapat.
-
-1. Välj fliken Design Studio i den övre menyraden.
-1. Välj Interaktiva webbinarier > Hantera rum i den vänstra navigeringspanelen.
-1. Få åtkomst till och hantera rum eller inspelningar från den övre menyraden.
+Interaktiva webbinarium med Adobe Connect i botten är utformade för att underlätta engagerande och samarbetsinriktade online-event. Dessa webbinarier lagrar en mängd innehåll och inspelningar i webbinarier som skapats av behöriga medlemmar i organisationen. Som medlem med rätt att skapa ett rum kan du komma åt och hantera dem från en central plats.
 
 ## Hantera och få tillgång till rum {#manage-and-access-rooms}
+
+1. Välj fliken Design Studio i den övre menyraden.
+
+1. Välj Interaktiva webbinarier > Hantera rum i den vänstra navigeringspanelen.
+
+1. Få åtkomst till och hantera rum eller inspelningar från den övre menyraden.
+
+NYTT RUBRIK
 
 Ett interaktivt webbinarium är ett virtuellt rum som är utformat för att vara värd för live-engagerande online-event där deltagarna aktivt kan interagera med presentatören och andra deltagare. I de här rummen hittar du det överförda innehållet och inspelningarna från webbinarier.
 
 Om du vill visa en lista över alla dina rum väljer du Rum på den övre menyraden. Du kan hitta alla rum som du har skapat tillsammans med det överförda innehållet (här beskrivs hur du överför innehåll) och inspelningar (här finns en länk där inspelningarna förklaras) i dessa rum. Du kan också visa antalet inspelningar, filstorleken i rummet och det senaste åtkomstdatumet för respektive rum.
 
-TABELL
-
-* Inspelningar: Visa antalet inspelningar som är tillgängliga i ett rum.
-* Filstorlek i rummet: Visa den kombinerade filstorleken för innehåll och inspelningar som är tillgängliga i ett rum.
-* Senast använd: Visar datumet då rummet senast användes. Du kan sortera informationen baserat på tidslinjen.
+<table><tbody>
+  <tr>
+    <td><b>Inspelningar</td>
+    <td>Visa antalet inspelningar som är tillgängliga i ett rum.</td>
+  </tr>
+  <tr>
+    <td><b>Filstorlek i rummet</td>
+    <td>Visa den kombinerade filstorleken för innehåll och inspelningar som är tillgängliga i ett rum.</td>
+  </tr>
+  <tr>
+    <td><b>Senast använd den</td>
+    <td>Visar datumet då rummet senast användes. Du kan sortera informationen baserat på tidslinjen.</td>
+  </tr>
+</tbody>
+</table>
 
 SCREENSHOT
 
@@ -94,7 +107,7 @@ Du kan utföra följande åtgärder från det här centrala navet:
 
 Inspelningar är ovärderliga resurser som fångar in själva kärnan i diskussioner, presentationer och frågor och svar. De gör det möjligt för deltagarna att på egen hand ta del av viktiga insikter, missade detaljer eller komplexa koncept.
 
-När du har valt Inspelningar i det övre fältet navigeras du till Mina inspelningar, där du kan visa en lista över alla inspelningar som du har överfört.
+Klicka på fliken Inspelningar för att visa en lista över alla inspelningar som du har överfört.
 
 Under Min inspelning hittar du alla inspelningar som är tillgängliga i det rum du har skapat. Du kan också visa deras respektive storlek, datum och tid samt varaktighet för inspelningar.
 

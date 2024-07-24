@@ -4,9 +4,9 @@ short-description: Vill du bara komma igång med Adobe Marketo Engage? Lär dig 
 title: Installationssteg
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1684'
+source-wordcount: '1681'
 ht-degree: 0%
 
 ---
@@ -187,13 +187,13 @@ include:mktomail.com
 
 `b.` För DKIM skapar du DNS-resursposter för varje domän som vi vill konfigurera. Nedan visas värdposter och TXT-värden för varje domän som vi ska signera för:
 
-**`[DKIMDomain1]`**: Värdposten är **`[HostRecord1]`** och TXT-värdet är **[TXTValue1]**.
+**`[DKIMDomain1]`**: Värdposten är **`[HostRecord1]`** och TXT-värdet är **`[TXTValue1]`**.
 
 **`[DKIMDomain2]`**: Värdposten är **`[HostRecord2]`** och TXT-värdet är **`[TXTValue2]`**.
 
 `[`Kopiera **HostRecord** och **TXTValue** för varje **DKIMDomain** som du har konfigurerat efter att ha följt [instruktionerna här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Glöm inte att verifiera varje domän i **Admin > E-post > DKIM** när din IT-personal har slutfört det här steget.`]`
 
-`5)` Vi måste se till att det finns en giltig MX-post för våra FROM-domäner **[FromDomain1]**, **[FromDomain2]** osv. Kan du bekräfta? Om inte, konfigurera så att du mappar till företagets domänpost för MX. Detta säkerställer att vi kan behandla svar/autosvarare på våra Marketo-utskick.
+`5)` Vi måste se till att det finns en giltig MX-post för våra FROM-domäner **`[FromDomain1]`**, **`[FromDomain2]`** osv. Kan du bekräfta? Om inte, konfigurera så att du mappar till företagets domänpost för MX. Detta säkerställer att vi kan behandla svar/autosvarare på våra Marketo-utskick.
 
 Meddela mig när du har utfört dessa steg så att jag kan slutföra installationsprocessen med Marketo.
 
