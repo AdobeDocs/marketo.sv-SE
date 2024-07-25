@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1716'
+source-wordcount: '1699'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Visa engagemang för följande typer av sessioner i ett interaktivt webbinarium.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-1.png)
 
 1. Välj önskad händelse.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-2.png)
 
 1. Klicka på **[!UICONTROL View Engagement Dashboard]** i översikten.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Du kan visa följande information på instrumentpanelen för engagemang.
 
 Det här gränssnittet ger en samlad vy över händelsens prestanda för live- och on-demand-sessioner. Välj Sammanfattning av händelser i den vänstra panelen för att visa de totala måtten.
 
-SCREENSHOT
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Innehåller en översikt över hur en händelse fungerar i livesessionen. Övers
 
 Välj **[!UICONTROL Engagement]** i den vänstra panelen för att visa livesessionens prestanda. **[!UICONTROL Click Engagement summary (PDF)]** om du vill hämta prestandasammanfattningen för livesessionen. Översikten innehåller data i olika avsnitt.
 
-SCREENSHOT
+![](assets/engagement-dashboard-5.png)
 
 **Nyckeltal**
 
 Visa antalet registreringar, deltagare och engagemang i livesessionen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ SCREENSHOT
 
 Lär dig om det genomsnittliga engagemanget över tiden under livesessionen från engagemangsdiagrammen. Värdar kan övervaka hur engagemangsnivåerna varierar, vilket gör att de kan identifiera kritiska ögonblick av hög eller låg interaktion. Se hur mycket av det genomsnittliga engagemanget som deltagarna fick i olika layouter.
 
-SCREENSHOT
+![](assets/engagement-dashboard-7.png)
 
 Visa följande information genom att hålla pekaren över diagrammet:
 
@@ -161,7 +161,7 @@ Visa följande information genom att hålla pekaren över diagrammet:
 
 Du kan visa deltagarnas interaktioner från olika fönster. Här finns information som besvarade frågor, frågor och svar, Interagera med chatt, Klickade på minst en länk och Hämtade minst en fil.
 
-SCREENSHOT
+![](assets/engagement-dashboard-8.png)
 
 Välj **[!UICONTROL Go to interactions]** om du vill visa svar från undersökningar, mått för QnA och deltagarnas reaktioner under sessionen. Se hur deltagarna är engagerade i olika delar av interaktionsrapporter och ladda ned interaktionsrapporter från avsnittet nedan.
 
@@ -171,7 +171,7 @@ Se hur deltagarna interagerar och deltar i sessionen via Interactions. Spåra sv
 
 Välj **[!UICONTROL Interactions]** i den vänstra panelen för att visa hur deltagarna är engagerade i olika grupper.
 
-SCREENSHOT
+![](assets/engagement-dashboard-9.png)
 
 Välj fliken **[!UICONTROL Polls]** på menyraden för att visa frågor och svar som lagts till i omröstningen. På den här fliken visas följande information:
 
@@ -182,7 +182,7 @@ Välj fliken **[!UICONTROL Polls]** på menyraden för att visa frågor och svar
 
 Välj fliken **[!UICONTROL Other interactions]** på menyraden för att visa engagemang i andra fönster och hämta deras rapporter.
 
-SCREENSHOT
+![](assets/engagement-dashboard-10.png)
 
 Välj **[!UICONTROL Download interaction reports]** i listrutan om du vill hämta rapporter om olika poder. Ladda ned QnA-rapporten, länkarna och filerna och rapporten Reactions härifrån för bättre spårning.
 
@@ -192,7 +192,7 @@ Interaktionsinformationen mellan olika platser är tillgänglig i olika avsnitt.
 
 Visa följande attribut i rutan Frågor och svar.
 
-SCREENSHOT
+![](assets/engagement-dashboard-11.png)
 
 * Totalt antal frågor.
 * Antal obesvarade frågor.
@@ -204,7 +204,7 @@ SCREENSHOT
 
 Se deltagarnas reaktioner här, som att hålla med, hålla med, applådera och skratta under sessionen.
 
-SCREENSHOT
+![](assets/engagement-dashboard-12.png)
 
 Visa följande information i svarsdiagrammet:
 
@@ -218,7 +218,7 @@ Visa följande information i svarsdiagrammet:
 
 Visa länkar som lagts till i webblänksområdet under sessionen och antalet klick på den delade länken. Med webblänksrutan kan du lägga till länkar från källor utanför webbinariet för att skapa engagemang.
 
-SCREENSHOT
+![](assets/engagement-dashboard-13.png)
 
 Visa följande information i diagrammet:
 
@@ -231,7 +231,7 @@ Visa följande information i diagrammet:
 
 Visa de filer som lagts till i filrutan under sessionen och antalet unika hämtningar. Med filrutan kan du lägga till filer och tillhandahålla resurser för att skapa engagemang.
 
-SCREENSHOT
+![](assets/engagement-dashboard-14.png)
 
 Visa följande information i diagrammet:
 
@@ -243,7 +243,7 @@ Visa följande information i diagrammet:
 
 Välj **[!UICONTROL On-demand activity]** i den vänstra panelen för att visa sammanfattningen av inspelningar. Du kan även hämta en rapport för on-demand-aktivitet.
 
-SCREENSHOT
+![](assets/engagement-dashboard-15.png)
 
 Visa följande mått i on-demand-aktivitet:
 
@@ -258,7 +258,7 @@ Visa följande mått i on-demand-aktivitet:
 
 Välj **[!UICONTROL Participant activity]** i den vänstra panelen om du vill visa konsoliderad information om varje deltagares engagemang. Visa hur det här engagemanget klassificeras på nivåer från nivån för deltagarengagemang. Klicka på **[!UICONTROL User activity report (CSV)]** om du vill hämta rapporten för bättre spårning.
 
-SCREENSHOT
+![](assets/engagement-dashboard-16.png)
 
 Visa följande information från tabellen:
 
@@ -277,7 +277,7 @@ Ladda ned rapporter om olika aktiviteter och poder från ett centralt nav som v�
 
 1. Välj **[!UICONTROL Download all (.zip)]** om du vill hämta rapporter för alla aktiviteter och pods alla samtidigt.
 
-SCREENSHOT
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
