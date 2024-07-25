@@ -4,7 +4,7 @@ description: E-post markerad som skräppost - Marketo Docs - produktdokumentatio
 title: E-post markerad som skräppost
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 **Kontrollera dina inställningar**
 
 * Anpassad domänspårning: Det gör att du kan visa alla spårningslänkar som vanligt.&quot;din domän i stället för go.toutapp. En del e-postsäkerhet kommer att se att e-postmeddelandet kommer från din domän, men länken dirigeras om till go.toutapp. Genom att implementera spårning av anpassade domänlänkar kommer dina e-postmeddelanden att se legitima ut och ha större sannolikhet att hitta mottagarens inkorg.
-* Leveranskanal för e-post: Som standard skickas dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka här](https://nation.marketo.com/docs/DOC-5080) om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
+* Leveranskanal för e-post: Som standard skickas dina e-postmeddelanden via ToutApp-servrar. Genom att konfigurera en egen Gmail eller anpassad SMTP kan du ge dina e-postmeddelanden den bästa möjligheten att hamna i mottagarens inkorg. [Klicka här](https://nation.marketo.com/docs/DOC-5080){target="_blank"} om du vill läsa mer om hur du väljer rätt leveranskanal för dina behov.
 
 **Kontrollera e-postbeteenden**
 
@@ -28,4 +28,4 @@ Som företag arbetar vi hårt för att säkerställa att våra leveransnivåer f
 
 * Kontrollera att du har en komplett e-postsignatur med en fysisk adress.
 
-* Läs upp och kontrollera att du följer [CAN-SPAM-lagar](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Läs upp och kontrollera att du följer [CAN-SPAM-lagar](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}.
