@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
 workflow-type: tm+mt
-source-wordcount: '1699'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Visa engagemang för följande typer av sessioner i ett interaktivt webbinarium.
 
    ![](assets/engagement-dashboard-1.png)
 
-1. Välj önskad händelse.
+1. Välj önskad slutförd händelse.
 
    ![](assets/engagement-dashboard-2.png)
 
