@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Om du vill visa en lista över alla dina rum väljer du **[!UICONTROL Rooms]** p
 </tbody>
 </table>
 
-SCREENSHOT
+![](assets/room-management-3.png)
 
 Du kan utföra följande åtgärder från det här centrala gränssnittet:
 
@@ -82,7 +82,7 @@ På fliken Innehåll kan du visa de överförda filerna, deras typ, storlek, sen
 </tbody>
 </table>
 
-SCREENSHOT
+![](assets/room-management-4.png)
 
 Du kan utföra följande åtgärder på fliken Innehåll:
 
@@ -96,14 +96,14 @@ Du kan utföra följande åtgärder på fliken Innehåll:
 
 På fliken Inspelningar kan du visa alla inspelningar som är tillgängliga i det här rummet. Varje inspelning visas med information om till exempel storlek, datum och tid för inspelningen samt varaktighet.
 
-SCREENSHOT
+![](assets/room-management-5.png)
 
 Du kan utföra följande åtgärder från det här centrala navet:
 
 * Klicka på knappen **[!UICONTROL Launch room]** för att starta och öppna rummet.
 * Använd sökfältet för att hitta den inspelning du söker efter.
 * Klicka på ikonen Hämta fil för att hämta en fil på enheten. Markera två eller flera filer som ska hämtas samtidigt.
-* Klicka på ikonen Kopiera inspelning för att kopiera inspelnings-URL:en.
+* Klicka på ikonen Kopiera inspelningslänk för att kopiera inspelnings-URL:en.
 * Klicka på ikonen Redigera inspelning för att göra ändringar i inspelningen.
 * Klicka på ikonen Ta bort för att ta bort inspelningen. När en inspelning tas bort kan den inte hämtas.
 * Välj en inspelning för att spela upp den på enheten.
@@ -112,18 +112,17 @@ Du kan utföra följande åtgärder från det här centrala navet:
 
 Inspelningar är ovärderliga resurser som fångar in själva kärnan i diskussioner, presentationer och frågor och svar. De gör det möjligt för deltagarna att på egen hand ta del av viktiga insikter, missade detaljer eller komplexa koncept.
 
-Klicka på fliken **Inspelningar** för att visa en lista över alla inspelningar som du har överfört.
+Klicka på fliken **[!UICONTROL Recordings]** för att visa en lista över alla inspelningar du har överfört.
 
-Under Min inspelning hittar du alla inspelningar som är tillgängliga i det rum du har skapat. Du kan också visa deras respektive storlek, datum och tid samt varaktighet för inspelningar.
+Under **[!UICONTROL My recordings]** hittar du alla inspelningar som är tillgängliga i rummet som du skapade. Du kan också visa deras respektive storlek, datum och tid samt varaktighet för inspelningar.
 
-SCREENSHOT
+![](assets/room-management-6.png)
 
 Du kan utföra följande åtgärder från det här centrala navet:
 
 * Använd sökfältet för att hitta den inspelning du söker efter. Du kan också söka på en tidslinje genom att välja ett datumintervall.
-* Välj länken Kopiera kodning   för att kopiera inspelnings-URL:en.
-* Redigera inspelningen. (lägg till en länk för att redigera inspelningen på ordet&quot;redigera&quot;)
-* Välj Redigera inspelning för att göra ändringar i inspelningen. (lägg till en länk för att redigera inspelningen på ordet&quot;redigera&quot;)
-* Markera Visa länkad sida   om du vill visa information om det rum där den valda inspelningen är tillgänglig.
-* Använd Ta bort rum för att ta bort inspelningen. När en inspelning har tagits bort går det inte att hämta den.
+* Klicka på ikonen Kopiera inspelningslänk för att kopiera inspelnings-URL:en.
+* Klicka på ikonen Redigera inspelning för att göra ändringar i inspelningen.
+* Klicka på ikonen Visa länkad sida för att visa information om det rum där den valda inspelningen är tillgänglig.
+* Klicka på ikonen Ta bort för att ta bort inspelningen. När en inspelning tas bort kan den inte hämtas.
 * Välj en inspelning för att spela upp den på enheten.
