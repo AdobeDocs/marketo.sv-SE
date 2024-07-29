@@ -4,9 +4,9 @@ description: Om systemhanterade fält - Marketo Docs - produktdokumentation
 title: Förstå systemhanterade fält
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -17,53 +17,183 @@ Du kan ha lagt märke till att [personinformationssidan](/help/marketo/product-d
 
 ## Fälttyper {#field-types}
 
-| **Fältnamn** | **Definition** |
-|---|---|
-| Ursprunglig Source-typ | Den plats där en person eller en besökare på webbplatsen först upptäcktes (Exempel: Listimport, Webbsidesbesök) |
-| Ursprunglig Source-information | Specifikationer om den platsen (Exempel: listans namn, webbsidans URL) |
-| Ursprunglig sökmotor | Om tillämpligt, sökmotorn som refererade personen till den ursprungliga källan |
-| Ursprunglig sökfras | Om tillämpligt, det sökord som refererade personen till den ursprungliga inmatningskällan |
-| Ursprunglig referens | URL som var värd för den ursprungliga inmatningskällan |
-| Registrera Source Type | Den plats där en aktivitet först blev en person (Exempel: Listimport, Webbsidesbesök) |
-| Registrera Source Info | Specifikationer om den platsen (Exempel: listans namn, webbsidans URL) |
-| Anonym IP | Anger en persons IP-adress |
-| Berört företag | Marketo bästa gissning (baserat på IP) för personens företag |
-| Inaktuell ort | Marketo bästa gissning (baserat på IP) för personens ort |
-| Ingångsregion | Marketo bästa gissning (baserat på IP) för personens stat eller region |
-| Infört postnummer | Marketo bästa gissning (baserat på IP) för personens postnummer |
-| Berört land | Marketo bästa gissning (baserat på IP) för personens land |
-| Ingående metropolitområde | Marketo bästa gissning (baserat på IP) för personens storstadsområde |
-| Riktnummer för inkommande telefon | Marketo bästa gissning (baserat på IP) för personens riktnummer |
+<table><thead>
+  <tr>
+    <th>Fältnamn</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Ursprunglig Source-typ</td>
+    <td>Den plats där en person eller en besökare på webbplatsen först upptäcktes (Exempel: Listimport, Webbsidesbesök)</td>
+  </tr>
+  <tr>
+    <td>Ursprunglig Source-information</td>
+    <td>Specifikationer om den platsen (Exempel: listans namn, webbsidans URL)</td>
+  </tr>
+  <tr>
+    <td>Ursprunglig sökmotor</td>
+    <td>Om tillämpligt, sökmotorn som refererade personen till den ursprungliga källan</td>
+  </tr>
+  <tr>
+    <td>Ursprunglig sökfras</td>
+    <td>Om tillämpligt, det sökord som refererade personen till den ursprungliga inmatningskällan</td>
+  </tr>
+  <tr>
+    <td>Ursprunglig referens</td>
+    <td>URL som var värd för den ursprungliga inmatningskällan</td>
+  </tr>
+  <tr>
+    <td>Registrera Source Type</td>
+    <td>Den plats där en aktivitet först blev en person (Exempel: Listimport, Webbsidesbesök)</td>
+  </tr>
+  <tr>
+    <td>Registrera Source Info</td>
+    <td>Specifikationer om den platsen (Exempel: listans namn, webbsidans URL)</td>
+  </tr>
+  <tr>
+    <td>Anonym IP</td>
+    <td>Anger en persons IP-adress</td>
+  </tr>
+  <tr>
+    <td>Berört företag</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens företag</td>
+  </tr>
+  <tr>
+    <td>Inaktuell ort</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens ort</td>
+  </tr>
+  <tr>
+    <td>Ingångsregion</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens stat eller region</td>
+  </tr>
+  <tr>
+    <td>Infört postnummer</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens postnummer</td>
+  </tr>
+  <tr>
+    <td>Berört land</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens land</td>
+  </tr>
+  <tr>
+    <td>Ingående metropolitområde</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens storstadsområde</td>
+  </tr>
+  <tr>
+    <td>Riktnummer för inkommande telefon</td>
+    <td>Marketo bästa gissning (baserat på IP) för personens riktnummer</td>
+  </tr>
+</tbody></table>
 
 ## Möjliga värden för Source-typen Original och Registration {#possible-values-for-original-and-registration-source-type}
 
 Nedan finns några möjliga värden och vad de betyder.
 
-| **Ursprunglig Source-typ** | **Definition** |
-|---|---|
-| Salesforce.com | Personen upptäcktes från en [!DNL Webhook]-synkronisering |
-| Webbsidesbesök | En person upptäcktes från en webbsida |
-| Fylla i webbformulär | En person upptäcktes när ett formulär fylldes i |
-| Listimport | Personen upptäcktes från en listimport |
-| Ny person | Personen har angetts manuellt i databasen |
-| Klicka på webblänk | Personen upptäcktes efter att ha klickat på en länk |
-| E-postadress | Personen fick ett e-postmeddelande via [!DNL Sales Insight] e-posttillägg |
-| Person | Personen synkroniserades från [!DNL Salesforce] som en person |
-| Kontakt | Personen synkroniserades från [!DNL Webhook] som en kontakt |
-| API för [!DNL Munchkin] | Personen upptäcktes av Marketo Engage [!DNL Munchkin] API |
-| Social app | Personen upptäcktes av en social widget |
-| Webbtjänstens API | Personen upptäcktes av ett webbtjänste-API |
-| Evenemangspartner | Personen upptäcktes via en synkroniserad webbinatjänst |
-| Associera lead | Person som har slagits samman via Associate Lead API-anrop |
+<table><thead>
+  <tr>
+    <th>Ursprunglig Source-typ</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Personen upptäcktes från Salesforce-synkroniseringen</td>
+  </tr>
+  <tr>
+    <td>Webbsidesbesök</td>
+    <td>En person upptäcktes från en webbsida</td>
+  </tr>
+  <tr>
+    <td>Fylla i webbformulär</td>
+    <td>En person upptäcktes när ett formulär fylldes i</td>
+  </tr>
+  <tr>
+    <td>Listimport</td>
+    <td>Personen upptäcktes från en listimport</td>
+  </tr>
+  <tr>
+    <td>Ny person</td>
+    <td>Personen har angetts manuellt i databasen</td>
+  </tr>
+  <tr>
+    <td>Klicka på webblänk</td>
+    <td>Personen upptäcktes efter att ha klickat på en länk</td>
+  </tr>
+  <tr>
+    <td>E-postadress</td>
+    <td>Personen fick ett e-postmeddelande via e-posttillägget Sales Insight</td>
+  </tr>
+  <tr>
+    <td>Person</td>
+    <td>Personen synkroniserades från Salesforce som en person</td>
+  </tr>
+  <tr>
+    <td>Kontakt</td>
+    <td>Personen synkroniserades från Webkrok som en kontakt</td>
+  </tr>
+  <tr>
+    <td>Munchkin API</td>
+    <td>Personen upptäcktes av Marketo Engage Munchkins API</td>
+  </tr>
+  <tr>
+    <td>Social app</td>
+    <td>Personen upptäcktes av en social widget</td>
+  </tr>
+  <tr>
+    <td>Webbtjänstens API</td>
+    <td>Personen upptäcktes av ett webbtjänste-API</td>
+  </tr>
+  <tr>
+    <td>Evenemangspartner</td>
+    <td>Personen upptäcktes via en synkroniserad webbinatjänst</td>
+  </tr>
+  <tr>
+    <td>Associera lead</td>
+    <td>Person som har slagits samman via Associate Lead API-anrop</td>
+  </tr>
+</tbody></table>
 
-| **Registrera Source Type** | **Definition** |
-|---|---|
-| Listimport | Bli en person genom en listimport |
-| Salesforce.com | Blev en person via en [!DNL Webhook]-synkronisering |
-| Fylla i webbformulär | Bli en person efter att ha fyllt i ett formulär |
-| E-postadress | Personen fick ett e-postmeddelande via [!DNL Webhook] e-posttillägg |
-| Webbtjänstens API | Personen skapades via SOAP/REST API |
-| Ny person | Personen har angetts manuellt i databasen |
-| API för [!DNL Munchkin] | Bli en person via Marketo [!DNL Munchkin] API |
-| Social app | Bli en person via en social widget |
-| Evenemangspartner | Bli en person via en länkad webbinatjänst |
+<table><thead>
+  <tr>
+    <th>Registrera Source Type</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Listimport</td>
+    <td>Bli en person genom en listimport</td>
+  </tr>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Bli en person via Salesforce-synkronisering</td>
+  </tr>
+  <tr>
+    <td>Fylla i webbformulär</td>
+    <td>Bli en person efter att ha fyllt i ett formulär</td>
+  </tr>
+  <tr>
+    <td>E-postadress</td>
+    <td>Personen fick ett e-postmeddelande via e-posttillägget Sales Insight</td>
+  </tr>
+  <tr>
+    <td>Webbtjänstens API</td>
+    <td>Personen skapades via SOAP/REST API</td>
+  </tr>
+  <tr>
+    <td>Ny person</td>
+    <td>Personen har angetts manuellt i databasen</td>
+  </tr>
+  <tr>
+    <td>Munchkin API</td>
+    <td>Bli en person med Marketo Munchkins API</td>
+  </tr>
+  <tr>
+    <td>Social app</td>
+    <td>Bli en person via en social widget</td>
+  </tr>
+  <tr>
+    <td>Evenemangspartner</td>
+    <td>Bli en person via en länkad webbinatjänst</td>
+  </tr>
+</tbody>
+</table>
