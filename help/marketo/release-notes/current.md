@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 1%
+source-wordcount: '523'
+ht-degree: 2%
 
 ---
 
@@ -76,6 +76,16 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 ## Meddelanden {#announcements}
 
 * **Ny dokumentationswebbplats för utvecklare**: Som en del av vårt fortsatta arbete med att förbättra användarupplevelsen för Marketo Engage migrerar vi all utvecklardokumentation till Adobe Experience League och Adobe Developer webbplats i juli 2024. [Läs mer](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Borttagning av sociala funktioner**: Onsdagen den 31 juli 2024 börjar Marketo Engage ta bort följande sociala funktioner i produkten:
+
+   * Omröstningar
+   * Knappen Socialt
+   * Värvningserbjudande
+   * Videodelning
+   * Dragningar
+
+Användare kommer inte längre att kunna skapa, klona eller bädda in någon av dessa sociala funktioner i Marketo Engage. Befintliga sociala resurser kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Åtkomsttoken i borttagning av frågeparametrar**: Stöd för autentisering med åtkomsttoken i en frågeparameter i ett Marketo Engage REST API-anrop kommer att tas bort i en framtida version (TBD för specifikt datum). Befintliga integreringar ska migreras till användning av auktoriseringshuvudet [som beskrivs här](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Ny utveckling bör endast använda auktoriseringshuvudet för autentisering med Marketo Engage.
 
