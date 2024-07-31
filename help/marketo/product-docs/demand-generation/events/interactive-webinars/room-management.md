@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
 # Rumshantering {#room-management}
 
-Interaktiva webbinarium med Adobe Connect i botten är utformade för att underlätta engagerande och samarbetsinriktade online-event. Dessa webbinarier lagrar en mängd innehåll och inspelningar i webbinarier som skapats av behöriga medlemmar i organisationen. Som medlem med rätt att skapa ett rum kan du komma åt och hantera dem från en central plats.
+Interaktiva webbinarium med Adobe Connect i botten är utformade för att underlätta engagerande och samarbetsinriktade online-event. Dessa webbinarier lagrar innehåll och inspelningar som skapats och använts under webbinariet. Som medlem med rätt att skapa ett rum kan du komma åt och hantera dem från en central plats.
+
+>[!NOTE]
+>
+>Du kan bara komma åt de rum du har skapat för ett webbinarium och inte rum för andra medlemmar i organisationen.
 
 ## Hantera och få tillgång till rum och inspelningar {#manage-and-access-rooms-and-recordings}
 

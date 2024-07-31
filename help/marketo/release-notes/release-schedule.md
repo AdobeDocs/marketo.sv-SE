@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: Versionsschema – Marketo Docs – produktdokumentation
-title: Releaschema
+title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: aa04752e471a6bc5fbb78f1e5cdfae199e3134be
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 8%
 
 ---
 
-# Releaschema {#release-schedule}
+# Versionsschema {#release-schedule}
 
 **Utgåva**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
@@ -50,12 +50,12 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">24 juni</a></td>
    <td>7 juni 2024</td>
-   <td>Pågår</td>
+   <td>Levererat</td>
   </tr>
   <tr> 
    <td>24 juli</td>
    <td>26 juli 2024</td>
-   <td>Vid schema</td>
+   <td>Pågår</td>
   </tr>
   <tr> 
    <td>24 oktober</td>

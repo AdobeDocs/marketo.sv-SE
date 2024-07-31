@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ Du kan anpassa följande alternativ:
 * Logotyp
 * Virtuella videobakgrunder
 
+## Bevilja behörigheter {#grant-permissions}
+
+Innan någon användare i organisationen kan anpassa dina interaktiva webbinarier måste Marketo Engage-administratören först lägga till åtkomst till den eller de roller som du vill ha.
+
+1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Klicka på **[!UICONTROL Users & Roles]** och sedan på fliken **[!UICONTROL Roles]**.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Dubbelklicka på den roll du vill lägga till behörigheterna i.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Klicka för att öppna **[!UICONTROL Access Design Studio]**.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Markera kryssrutan **[!UICONTROL Access Interactive Webinars Customization]**.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Anpassa interaktiva webbinarier {#customize-interactive-webinar-screens}
 
 1. Gå till **Design Studio**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Klicka på **Interaktiva webbinarier** och välj **Anpassa webbinarier**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Du kan anpassa rumsgränssnittet, snabbskärmar eller virtuella videobakgrunder.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### Anpassa rummets gränssnitt {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ Om du vill anpassa utseendet på ett rum väljer du fliken för rumsgränssnitte
 
 1. Anpassa följande inställningar från den högra panelen:
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Egen logotyp**: Välj Överför logotyp och bläddra i bilden från enheten. Bildstorleken får inte överstiga 50 x 31 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png. Du kan ändra eller ta bort din logotyp.
 
@@ -65,7 +89,7 @@ Om du vill anpassa utseendet på ett rum väljer du fliken för rumsgränssnitte
 
 1. Välj **[!UICONTROL Apply]** om du vill spara ändringarna. Klicka på **[!UICONTROL Reset to default]** om du vill återställa standardinställningarna.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Anpassa mellanskärmar {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ Om du vill anpassa utseendet på ett rum väljer du fliken Mellanskärmar på me
 
 1. Anpassa bakgrundsbilden från den högra panelen genom att välja **Överför bild** och bläddra efter en logotyp i en bild. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png. Du kan ändra eller ta bort logotypen om du vill.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ Använd organisationsdefinierade bakgrunder under evenemanget för att visa orga
 
 1. Klicka på växlingsknappen för att tillåta anpassade bakgrunder i dina händelser och rum.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Välj **Överför bakgrund** om du vill överföra en anpassad bakgrund. Bildstorleken får inte överstiga 1 920 x 1 080 pixlar och kan vara i olika filformat: .svg, .gif, .jpg och .png.
 
@@ -109,6 +133,6 @@ Adobe Connect har nio standardbakgrunder som är klara att användas. Du kan se 
 
 Använd växlingsknappen för att kontrollera tillgängligheten för dessa standardbakgrunder i dina händelser och rum.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 Välj **Använd** om du vill spara ändringarna eller **Återställ till standard** om du vill återställa standardinställningarna.
