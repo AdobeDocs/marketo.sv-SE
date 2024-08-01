@@ -3,9 +3,9 @@ description: Versionsinformation - mars 2024 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
     <tr> 
    <td><strong>API-aktivitetsmetadata</strong>: 
    Metadata som User Agent, Platform och Device ingår nu i webb- och e-postaktiviteter, vilket ger enhetliga insikter i dessa aktiviteter via Marketo REST API.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>

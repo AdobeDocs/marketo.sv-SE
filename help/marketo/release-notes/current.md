@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr> 
    <td><strong>Engagement Dashboard för interaktiva webbinarier</strong>: Skaffa en sammanställd vy för webbinariets prestanda samt en heltäckande bild av engagemanget för varje deltagare under webbinariet så att ni kan bestämma vilka som leder till mål med hjälp av Marketo Engage verktyg för samordning.</td> 
-    <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+    <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Instrumentpanel för engagemang</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr> 
    <td><strong>Rumshantering för interaktiva webbinarier</strong>: Få tillgång till enskilda rum som har skapats (och gör ändringar om det behövs) samt få tillgång till innehållet och inspelningen (och rensa dem om det behövs för att optimera lagringen).</td> 
-    <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+    <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Rumshantering</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr> 
    <td><strong>Anpassning av webbinarium för interaktiva webbinarier</strong>: Skapa en enhetlig varumärkesupplevelse som godkänts av organisationen genom att använda ett gemensamt rumsgränssnitt, mellanskärmar (t.ex. bakgrunder för deltagande på skärmen) samt anpassade videobakgrunder, så att webbinaristrategi enklare kan anpassas efter varumärkesstrategin.</td> 
-    <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+    <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Anpassning av interaktiva webbinarier</a></td>
   </tr>
   <tr> 
    <td> </td> 

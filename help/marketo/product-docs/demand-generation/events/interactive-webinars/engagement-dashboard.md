@@ -1,11 +1,9 @@
 ---
 description: Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanel för engagemang
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
