@@ -4,9 +4,9 @@ description: Skicka hänvisningserbjudande - e-post om uppfyllande av krav - Mar
 title: Skicka e-post om uppfyllelse av hänvisningserbjudande
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Belöna era kunder med kuponger och rabattkoder med hjälp av e-postmeddelandet 
 
 >[!IMPORTANT]
 >
->Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Den 31 juli 2024 började vi ta bort den här funktionen. Nya resurser kan inte längre skapas. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

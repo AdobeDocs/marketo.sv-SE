@@ -4,9 +4,9 @@ description: Hantera data i sociala profiler - Marketo Docs - produktdokumentati
 title: Hantera data för social profil
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ När någon interagerar med en Marketo [social app](/help/marketo/product-docs/d
 
 >[!IMPORTANT]
 >
->Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Den 31 juli 2024 började vi ta bort den här funktionen. Nya resurser kan inte längre skapas. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Social formulärfyllning och sociala appar samlar in lite olika fältuppsättningar. Se respektive avsnitt nedan.
 

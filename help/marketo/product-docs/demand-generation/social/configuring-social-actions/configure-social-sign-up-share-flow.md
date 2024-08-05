@@ -4,9 +4,9 @@ description: Konfigurera Socialt registreringsflöde/Dela flöde - Marketo Docs 
 title: Konfigurera flöde för social registrering/delning
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ När du skapar en social app kan du konfigurera de val av sociala nätverk och u
 
 >[!IMPORTANT]
 >
->Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Den 31 juli 2024 började vi ta bort den här funktionen. Nya resurser kan inte längre skapas. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Välj nätverk för delning {#select-networks-for-sharing}
 

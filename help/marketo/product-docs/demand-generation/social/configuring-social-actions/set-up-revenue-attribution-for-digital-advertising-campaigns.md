@@ -4,9 +4,9 @@ description: Ställ in intäktsattribuering för digitala Advertising-kampanjer 
 title: Ställ in intäktsattribuering för digitala Advertising-kampanjer
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Så här skapar du intäktsattribuering för digitala annonskanaler och kampanje
 
 >[!IMPORTANT]
 >
->Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Den 31 juli 2024 började vi ta bort den här funktionen. Nya resurser kan inte längre skapas. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 När du har konfigurerat ditt första annonseringsprogram i Marketo kan du klona och uppdatera det för andra kanaler. Du kan till exempel klona ett LinkedIn-program till ett Facebook.
 

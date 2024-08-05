@@ -4,9 +4,9 @@ description: Granska offerter i omröstning - Marketo Docs - produktdokumentatio
 title: Granska rösterna i omröstningen
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vem röstade på vad i din omröstning? Låt oss ta reda på det.
 
 >[!IMPORTANT]
 >
->Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Den 31 juli 2024 började vi ta bort den här funktionen. Nya resurser kan inte längre skapas. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. I **Marknadsföringsaktiviteter** väljer du omröstningen och klickar på fliken **Deltagare** .
 
