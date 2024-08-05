@@ -4,9 +4,9 @@ description: Distribuera sociala medier på din webbplats - Marketo Docs - produ
 title: Distribuera sociala medier på din webbplats
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Bädda in sociala appar på icke-Marketo-sidor.
 
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Kontakta din säljare om du vill ha mer information.
+>Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 Ni kan distribuera sociala appar på er egen webbplats för att engagera er målgrupp och föra in alla i den större konversationen i sociala nätverk. När man delar kampanjer och innehåll med sina vänner i sociala nätverk genererar man mer trafik på er webbplats.
 

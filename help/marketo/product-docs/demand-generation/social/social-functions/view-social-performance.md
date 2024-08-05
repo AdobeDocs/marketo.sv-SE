@@ -4,9 +4,9 @@ description: Visa sociala prestanda - Marketo Docs - produktdokumentation
 title: Visa sociala prestanda
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Visa sociala prestanda {#view-social-performance}
 
 Se de sociala aktiviteter som genereras av era sociala appar. Via den sociala instrumentpanelen får ni insikt i de olika sociala interaktioner som genereras av era sociala appar, och ni kan spåra resultatet för en social app.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -58,7 +62,7 @@ Se de sociala aktiviteter som genereras av era sociala appar. Via den sociala in
    * **Totalt antal profiler**: Det totala antalet potentiella kunder som har loggat in på sociala nätverk från din sociala app.
    * **Påverkar**: Antalet potentiella kunder som har genererat minst ett resultatklick från en appresurs.
    * **Social Reach**: Summan av alla potentiella kunders anslutningar. För potentiella kunder som delar till sociala nätverk är det här antalet vänner de har när de delar från din sociala app. För e-postdelning är detta antalet mottagare av e-postmeddelandet som de genererar från din app.
-   * **Social Impressions**: Det totala antalet gånger som din sociala app har visats i flöden för potentiella kunders anslutningar.
+   * **Social Impressions**: Det totala antalet gånger som din sociala app har visats i feeds för potentiella kunder.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 

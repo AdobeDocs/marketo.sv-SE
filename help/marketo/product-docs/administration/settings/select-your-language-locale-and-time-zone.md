@@ -4,7 +4,7 @@ description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentat
 title: Välj språk, språk och tidszon
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Om du gör det kan du komma åt inställningarna som beskrivs nedan i din [Adobe-kontoprofil](https://account.adobe.com/profile).
+>Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det kan du komma åt inställningarna som beskrivs nedan i din [Adobe-kontoprofil](https://account.adobe.com/profile){target="_blank"}.
 
 ## Språk som stöds {#supported-languages}
 

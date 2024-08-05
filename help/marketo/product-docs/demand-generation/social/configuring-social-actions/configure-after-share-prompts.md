@@ -4,9 +4,9 @@ description: Konfigurera efterdelningsfrågor - Marketo Docs - produktdokumentat
 title: Konfigurera efterdelningsfrågor
 exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Konfigurera efterdelningsfrågor {#configure-after-share-prompts}
 
 I appar för sociala knappar, videodelning och omröstningar kan du välja vad som ska hända när en person delar ditt innehåll i sitt sociala nätverk.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Gå till **marknadsföringsaktiviteter**.
 

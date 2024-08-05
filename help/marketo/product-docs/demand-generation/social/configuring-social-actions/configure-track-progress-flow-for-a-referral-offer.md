@@ -4,9 +4,9 @@ description: Konfigurera spårningsförlopp för ett referenserbjudande - Market
 title: Konfigurera förloppsflöde för spår för ett referenserbjudande
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Konfigurera förloppsflöde för spår för ett referenserbjudande {#configure-track-progress-flow-for-a-referral-offer}
 
 När du [skapar ett hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du konfigurera de uppmaningar som visar deltagarnas framsteg mot belöningen.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Gå till **marknadsföringsaktiviteter**.
 

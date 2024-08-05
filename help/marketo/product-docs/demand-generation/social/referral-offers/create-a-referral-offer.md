@@ -4,9 +4,9 @@ description: Skapa ett hänvisningserbjudande - Marketo Docs - produktdokumentat
 title: Skapa ett hänvisningserbjudande
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Skapa ett hänvisningserbjudande {#create-a-referral-offer}
 
 Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. Skapa mål och belöningar för lyckade hänvisningar. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ Hänvisningserbjudanden ger människor en anledning att hänvisa sina vänner. S
    >
    >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från ett befintligt hänvisningserbjudande.
 
-   Anvisningserbjudanderedigeraren öppnas i ett nytt fönster. Standardinställningarna är alla bra, men du måste lägga till en länk till reglerna för ditt erbjudande (villkor). Länken visas längst ned på delningsmeddelandeskärmar. Vi visar hur du gör i nästa steg.
+   Anvisningserbjudanderedigeraren öppnas i ett nytt fönster. Standardinställningarna är alla bra, men du måste lägga till en länk till reglerna för ditt erbjudande (villkor). Länken visas längst ned på delningsmeddelandeskärmar. Vi visar dig hur i nästa steg.
 
 1. Klicka på **Avancerade alternativ**.
 

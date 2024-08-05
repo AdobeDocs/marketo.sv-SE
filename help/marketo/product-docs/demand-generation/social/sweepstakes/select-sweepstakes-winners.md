@@ -3,9 +3,9 @@ unique-page-id: 2359805
 description: Select Sweepstakes Winners - Marketo Docs - produktdokumentation
 title: Välj Lotterivinnare
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Välj Lotterivinnare {#select-sweepstakes-winners}
 
 När du [publicerar utlottningar](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md) måste du välja vinnare för varje teckning. När du gör det skickas ditt [e-postmeddelande](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatiskt till dem.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

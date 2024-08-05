@@ -3,9 +3,9 @@ unique-page-id: 2359795
 description: Create Sweepstakes - Marketo Docs - produktdokumentation
 title: Skapa Lotterier
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Skapa Lotterier {#create-sweepstakes}
 
 En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar för sina vänner om dig. Du kan släppa det på landningssidor, på din webbplats och till och med på Facebook.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -34,7 +38,7 @@ En utlottning ger folk en chans att vinna ett pris i utbyte mot att de berättar
    >
    >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig utlottning.
 
-   Redaktören öppnas i ett nytt fönster. Standardinställningarna är bra, men du måste ändå konfigurera några detaljer. Vi visar hur man gör i nästa steg.
+   Redaktören öppnas i ett nytt fönster. Standardinställningarna är bra, men du måste ändå konfigurera några detaljer. Vi visar dig hur i nästa steg.
 
 1. Klicka på **Lotteriinformation**.
 

@@ -4,9 +4,9 @@ description: Anpassa knapp för sociala appar - Marketo Docs - produktdokumentat
 title: Knappen Anpassa social app
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Knappen Anpassa social app {#customize-social-app-button}
 
 När du skapar en [social knapp](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) eller ett [hänvisningserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) kan du anpassa knapparnas utseende.
+
+>[!IMPORTANT]
+>
+>Den 31 juli 2024 började vi ta bort den här funktionen. Du kommer inte att kunna skapa nya resurser. Befintliga tillgångar kommer att fortsätta att fungera fram till 31 januari 2025. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Gå till **marknadsföringsaktiviteter**.
 
