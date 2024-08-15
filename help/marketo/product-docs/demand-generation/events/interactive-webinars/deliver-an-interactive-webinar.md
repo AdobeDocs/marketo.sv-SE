@@ -2,7 +2,7 @@
 description: Leverera ett interaktivt webbinarium - Marketo Docs - produktdokumentation
 title: Leverera ett interaktivt webbinarium
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Ditt interaktiva webbinarium är klart att användas. Lär dig allt du behöver 
 
 1. Om du är en medvärd eller presentatör klickar du på den personliga länken i det e-postmeddelande du fick för webbinariet.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Välj dina inställningar för ljud/video och klicka på **Ange rum**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Välj den layout som ska visas för tidiga medlemmar.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Ditt interaktiva webbinarium är klart att användas. Lär dig allt du behöver 
 
 1. Du kan spela in sessionen om det behövs. Välj **Spela in session** på rumsmenyn. Inspelningen kan stoppas senare från samma meny.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Sessionen börjar vid den angivna tidpunkten.
 
 1. Klicka på rummets namn. I listrutan väljer du **Värd- och presentatörsområdet** om du vill chatta eller dela anteckningar med presentationsteamets backstage. Värd- och presentatörsområdet öppnas på skärmens högra sida. Det är bara värdar, kollegor och presentatörer som kan se den här delen av skärmen.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. När sessionen är klar klickar du på den röda pilen och väljer **Avsluta session för alla**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ Deltagare kan gå med i webbinariet genom att klicka på den personliga länken 
 
 1. Deltagare som startar händelselänken mer än 15 minuter innan den schemalagda starten ser en startsida som informerar dem om att de väntar på att evenemanget ska starta.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Deltagarna måste välja sina ljudinställningar och sedan klicka på Enter room. Deltagare som går med i ett Adobe Connect-rum för första gången ser också en webbläsarpopup för mikrofontillstånd. Adobe Connect behöver den här åtkomsten för att deltagarna ska kunna använda mikrofonen senare i rummet.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Diskussioner i Chatt-rutorna spelas alltid in. Om chattdiskussioner tillför vä
 
 Diskussionen i panelen Chatt spelas inte in. På chattpanelen frigörs också den egendom som skulle ha varit upptagen av chattrutan i layouten. Om chattdiskussionerna inte ska ge tittarna något mervärde använder du chattpanelen i stället för chattrutorna när du designar rummet.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 Läs mer om [chattpanelen](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -115,7 +113,7 @@ Så här använder du läget Förbered:
 
 1. Klicka på skiftnyckelsikonen längst ned på panelen Layouter.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. På panelen Layouter väljer du den layout som du vill justera. Flytta, dölj eller visa rutor efter behov. Du kan även uppdatera innehållet i rutor som att överföra en ny version av presentationen i en delningsruta.
 
