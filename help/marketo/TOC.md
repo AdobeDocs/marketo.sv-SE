@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
+source-wordcount: '9348'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,10 @@ ht-degree: 0%
       + [Ny instansmetodpraxis: Analyschecklista](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Nya instansmetodtips: Dokumentera dina inställningar](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Saker att känna till {#things-to-know}
-      + [Marketo Engage - ordlista](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage ordlista](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Ikonordlista](getting-started/things-to-know/icon-glossary.md)
       + [Klassisk ikon - ordlista](getting-started/things-to-know/classic-icon-glossary.md)
-      + [Help Center](getting-started/things-to-know/help-center.md)
+      + [Hjälpcenter](getting-started/things-to-know/help-center.md)
       + [Marketing Nation Community](getting-started/things-to-know/community.md)
    + Snabbvinster {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
@@ -658,7 +658,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat verksamhet](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analyser](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Konfigurera och konfigurera {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -726,6 +726,7 @@ ht-degree: 0%
             + [Skapa ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Lägg till ett webbinarium](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Designa interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Leverera ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Mallar](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Anpassning](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Rumshantering](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1814,7 +1815,7 @@ ht-degree: 0%
             + [Förstå intäktsmodeller](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Använda intäktsmodellens Gate-stadier](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Använda intäktsmodelllagerfaser](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Använda SLA-faser för intäktsmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Använda intäktsmodellen för SLA-scener](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Använda intäktsmodellövergångar](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Använda sökvägsanalysen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Intäktsutforskaren {#revenue-explorer}
@@ -1964,7 +1965,7 @@ ht-degree: 0%
          + [Använda Personalization RTF-redigeraren](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Visa webbkampanjer från en viss etikett](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Versionsinformation {#release-notes}
-   + [Releaschema](release-notes/release-schedule.md)
+   + [Versionsschema](release-notes/release-schedule.md)
    + [Aktuell version](release-notes/current.md)
    + [Dynamic Chat](release-notes/dynamic-chat.md)
    + Tidigare versioner {#previous-releases}
