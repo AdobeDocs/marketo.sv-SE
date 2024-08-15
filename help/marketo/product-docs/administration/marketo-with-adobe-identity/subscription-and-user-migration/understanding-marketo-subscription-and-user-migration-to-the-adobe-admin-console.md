@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe förbättrar hur du hanterar dina Adobe Marketo Engage-prenumerationer och
 
 >[!TIP]
 >
->Lär dig hur du kan använda Adobe Admin Console för att hantera dina Adobe-berättiganden i hela organisationen med [Enterprise and Teams Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+>Lär dig hur du kan använda Adobe Admin Console för att hantera dina Adobe-berättiganden i hela organisationen med [Enterprise and Teams Admin Guide](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}.
 
 ## Vad är Changing? {#what-is-changing}
 
@@ -27,6 +27,10 @@ Som en del av migreringen kommer din prenumeration och användarhantering att g�
 * **Produktadministratörer hanterar användare och deras åtkomst på Adobe Admin Console**. Lägg till och ta bort användare för alla Adobe-prenumerationer. Adobe Admin Console stöder inte användarbaserad förfallotid för åtkomst. Användare som har åtkomst till Marketo Engage som är schemalagd att upphöra efter migreringen kommer fortfarande att migreras och beviljas åtkomst som inte upphör att gälla. Efter migreringen måste de tas bort manuellt (eller före) det önskade förfallodatumet.
 
 * **Användare loggar in med Adobe-identitet**. Adobe migrerar befintliga användare till Adobe Admin Console. Användare loggar in på sina Marketo-prenumerationer med sin nya Adobe Identity - antingen Adobe ID eller Adobe Federated ID (SSO).
+
+* **URL:er ser annorlunda ut efter migrering**. ID-numren för dina resurser ändras dock inte. Och tidigare sparade bokmärken bör ändå ta dig till rätt plats. Tala med IT-teamet och se till att de lägger till domänen nedan (inklusive asterisken) för att tillåta alla Marketo Engage-resurser och webbsocketar:
+
+_*.experience.adobe.com_
 
 ## Vad ändras inte? {#what-is-not-changing}
 
@@ -116,6 +120,7 @@ Om du vill ha ytterligare support för din prenumeration eller din användarmigr
 
 >[!MORELIKETHIS]
 >
->* [Migrerar till Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Migrerar till Adobe-identitetsöversikt](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Användarinloggning med Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management - frågor och svar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [Migrerar till Adobe Identity Management-självstudiekurs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
