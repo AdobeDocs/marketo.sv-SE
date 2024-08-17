@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Som en del av migreringen kommer din prenumeration och användarhantering att g�
 
 * **Användare loggar in med Adobe-identitet**. Adobe migrerar befintliga användare till Adobe Admin Console. Användare loggar in på sina Marketo-prenumerationer med sin nya Adobe Identity - antingen Adobe ID eller Adobe Federated ID (SSO).
 
-* **URL:er ser annorlunda ut efter migrering**. ID-numren för dina resurser ändras dock inte. Och tidigare sparade bokmärken bör ändå ta dig till rätt plats. Tala med IT-teamet och se till att de lägger till domänen nedan (inklusive asterisken) för att tillåta alla Marketo Engage-resurser och webbsocketar:
+* **URL:er ser annorlunda ut efter migrering**. Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Du måste samarbeta med IT-teamet för att kunna tillåtslista alla Adobe-domäner som listas [ högst upp i den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
-_*.experience.adobe.com_
+ID-numren för dina resurser ändras inte. Och tidigare länkar och bokmärken till Marketo Engage-resurser på engage-xx.marketo.com _kommer_ att fortsätta fungera. Du måste dock först logga in på Marketo Engage-instansen för den URL som du navigerar till. Om du till exempel vill navigera till ett bokmärke för en Smart Campaign-instans med Munchkin ID 123-ABC-456 måste du först logga in på Marketo Engage-instansen med Munchkin ID 123-ABC-456.
 
 ## Vad ändras inte? {#what-is-not-changing}
 

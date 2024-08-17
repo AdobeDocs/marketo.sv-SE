@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Manag
 
 **Efter migreringen, kommer URL:er i Marketo Engage att vara desamma?**
 
-Nej. URL:er ser annorlunda ut efter migrering. ID-numren för dina resurser ändras dock inte. Och tidigare sparade bokmärken bör ändå ta dig till rätt plats.
+Nej. URL:er ser annorlunda ut efter migrering.
 
 **Behöver vi göra något för att förbereda oss för URL-ändringen?**
 
-Ja. Tala med IT-teamet och se till att de lägger till domänen nedan (inklusive asterisken) för att tillåta alla Marketo Engage-resurser och webbsocketar:
+Ja. Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Du måste samarbeta med IT-teamet för att kunna tillåtslista alla Adobe-domäner som listas [ högst upp i den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
-_*.experience.adobe.com_
+Tidigare länkar och bokmärken till Marketo Engage-resurser på engage-xx.marketo.com _kommer_ att fortsätta fungera. Du måste dock först logga in på Marketo Engage-instansen för den URL som du navigerar till. Om du till exempel vill navigera till ett bokmärke för en Smart Campaign-instans med Munchkin ID 123-ABC-456 måste du först logga in på Marketo Engage-instansen med Munchkin ID 123-ABC-456.
 
 **Vad är skillnaden mellan en produktadministratör för Adobe och en Marketo Engage-administratör?**
 
@@ -70,7 +70,7 @@ Alla Adobe-system eller produktadministratörer som har tillgång till din organ
 
 **Var kan jag läsa mer om Adobe Admin Console?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}.
 
 **Går jag fortfarande till avsnittet Administratör i Marketo för att göra ändringar i användarkontot för mitt konto?**
 
