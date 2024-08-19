@@ -4,7 +4,7 @@ title: Kom igång med interaktiva webbinarier
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Kom igång med interaktiva webbinarier {#get-started-with-interactive-webinars}
 
 Du har läst översikten [Interaktiva webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} och är redo att dyka in. Kom igång genom att följa stegen nedan.
+
+<p>
 
 **Steg ett**: [Lägg till användare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} - Lär dig hur du lägger till (och senare tar bort, om du vill) användare för åtkomst till interaktiva webbinarier.
 
@@ -26,6 +28,8 @@ Du har läst översikten [Interaktiva webbinarier](/help/marketo/product-docs/de
 **Steg fem**: [Befordra ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} - Lär dig värdefulla tips om hur du befordrar ditt kommande evenemang.
 
 **Steg sex**: [Leverera ditt interaktiva webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - allt du behöver veta om hur du presenterar ditt webbinarium.
+
+<p>
 
 Så ja! När webbinariet är över kan du se hur det gick med [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}.
 
