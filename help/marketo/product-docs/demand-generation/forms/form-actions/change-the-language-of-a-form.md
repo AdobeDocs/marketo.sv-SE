@@ -4,9 +4,9 @@ description: Ändra språk för ett formulär - Marketo Docs - produktdokumentat
 title: Ändra språket i ett formulär
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Ändra språket i ett formulär {#change-the-language-of-a-form}
 
 Lär dig hur du ändrar formulärets språk.
+
+>[!IMPORTANT]
+>
+>Följ stegen i den här artikeln för att ändra språket i Marketo standardfält, samt formuleringen som används i etiketten Skicka-knapp. Det översätter inte [anpassade fält](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Gå till **marknadsföringsaktiviteter**.
 
@@ -45,11 +49,11 @@ Lär dig hur du ändrar formulärets språk.
 
    >[!NOTE]
    >
-   >Formuläret ska vara godkänt för användning på landningssidor.
+   >Formuläret måste godkännas för användning på landningssidor.
 
    >[!TIP]
    >
-   >Kom ihåg att [godkänna utkastet till landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som skapades av formulärändringarna.
+   >Kom ihåg att [godkänna landningssidans](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)-utkast som skapas av formulärändringarna.
 
 Formuläret återspeglar nu det språk du valt.
 
