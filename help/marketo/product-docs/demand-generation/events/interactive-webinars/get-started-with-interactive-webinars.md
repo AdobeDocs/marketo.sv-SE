@@ -2,9 +2,9 @@
 description: Kom igång med interaktiva webbinarier - Marketo Docs - produktdokumentation
 title: Kom igång med interaktiva webbinarier
 feature: Interactive Webinars
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Du har läst översikten [Interaktiva webbinarier](/help/marketo/product-docs/de
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-<p>
+## Vad du ska göra {#what-to-do}
 
 **Steg ett**: [Lägg till användare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} - Lär dig hur du lägger till (och senare tar bort, om du vill) användare för åtkomst till interaktiva webbinarier.
 
@@ -29,9 +29,11 @@ Du har läst översikten [Interaktiva webbinarier](/help/marketo/product-docs/de
 
 **Steg sex**: [Leverera ditt interaktiva webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - allt du behöver veta om hur du presenterar ditt webbinarium.
 
-<br>
+Så ja!
 
-Så ja! När webbinariet är över kan du se hur det gick med den användbara kontrollpanelen i översiktsfönstret för evenemanget. Du kan se hur din målgrupp är engagerad i [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Du kan dra nytta av webbinariets engagemang för att nå målgruppen på ett personaliserat sätt med smarta filter och utlösare i [händelsearbetsflöden](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Och lär dig att spåra dina On-Demand-prestanda via [On-Demand-webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+## Ytterligare dokumentation {#additional-documentation}
+
+När webbinariet är över kan du se hur det gick med den användbara kontrollpanelen i översiktsfönstret för evenemanget. Du kan se hur din målgrupp är engagerad i [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Du kan dra nytta av webbinariets engagemang för att nå målgruppen på ett personaliserat sätt med smarta filter och utlösare i [händelsearbetsflöden](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Och lär dig att spåra dina On-Demand-prestanda via [On-Demand-webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Vi har fler hjälpartiklar om det här avsnittet, bland annat [Bästa praxis för interaktiva webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, hur du [anpassar dina webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} så att de passar dina behov/din profilering, skapar mallar för hela organisationen med hjälp av [Mallar för interaktiva webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} och hur du hanterar rum och inspelningar i [Rumshantering](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
 
