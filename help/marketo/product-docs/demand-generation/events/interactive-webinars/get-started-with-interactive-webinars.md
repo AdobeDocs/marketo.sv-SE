@@ -2,9 +2,9 @@
 description: Kom igång med interaktiva webbinarier - Marketo Docs - produktdokumentation
 title: Kom igång med interaktiva webbinarier
 feature: Interactive Webinars
-source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
+source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,10 @@ Så ja!
 
 ## Ytterligare dokumentation {#additional-documentation}
 
-När webbinariet är över kan du se hur det gick med den användbara kontrollpanelen i översiktsfönstret för evenemanget. Du kan se hur din målgrupp är engagerad i [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Du kan dra nytta av webbinariets engagemang för att nå målgruppen på ett personaliserat sätt med smarta filter och utlösare i [händelsearbetsflöden](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Och lär dig att spåra dina On-Demand-prestanda via [On-Demand-webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+När webbinariet är över kan du se hur det gick med den användbara kontrollpanelen i översiktsfönstret för evenemanget. Du kan se hur din målgrupp är engagerad i [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Utnyttja webbinariets engagemang för att nå målgruppen på ett personaliserat sätt med hjälp av smarta filter och utlösare i [Event Workflows](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Och lär dig att spåra dina On-Demand-prestanda via [On-Demand-webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Vi har fler hjälpartiklar om det här avsnittet, bland annat [Bästa praxis för interaktiva webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, hur du [anpassar dina webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} så att de passar dina behov/din profilering, skapar mallar för hela organisationen med hjälp av [Mallar för interaktiva webbinarier](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} och hur du hanterar rum och inspelningar i [Rumshantering](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
+
+ 
 
 Använd interaktiva webbinarier (från Adobe Connect)!
