@@ -2,19 +2,17 @@
 description: Marketo Engage Support Migration - Marketo Docs - produktdokumentation
 title: Marketo Engage Support Migration
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage Support Migration {#marketo-engage-support-migration}
 
-Läs mer om de kommande förändringarna av Adobe Marketo Engage supportupplevelse. Ändringarna har utformats för att förbättra användarupplevelsen och effektivisera de administrativa uppgifterna.
+Läs mer om de kommande förändringarna av Adobe Marketo Engage supportprocess. Uppdateringarna är utformade för att effektivisera administrativa uppgifter och förbättra den övergripande upplevelsen.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ Den andra uppdateringen kommer att förbättra ditt sätt att skicka supportäre
 
 ## Hur vet jag när supportmigreringen är klar? {#support-migration-has-been-completed}
 
-Supportmigreringen sker när din användarmigrering är klar för alla prenumerationer. Om du har lagts till som en PSA som en del av supportmigreringen får du ett e-postmeddelande när migreringen av användare är klar, vilket anger att du har lagts till som supportadministratör för att kontakta support för dessa specifika prenumerationer. Detta kommer att utlösa en automatisk omdirigering från Marketing Nation till Adobe Experience League för alla inskickade ärenden. Fortsätt att skicka supportärenden via Marketing Nation tills den automatiska omdirigeringen aktiveras.
+Supportmigreringen sker när din användarmigrering är klar för alla prenumerationer. Om du har lagts till som en PSA som en del av supportmigreringen får du ett e-postmeddelande när migreringen av användare är klar, vilket anger att du har lagts till som supportadministratör för att kontakta Adobe Support för dessa specifika prenumerationer. Detta kommer att utlösa en automatisk omdirigering från Marketing Nation till Adobe Experience League för alla inskickade ärenden. Fortsätt att skicka supportärenden via Marketing Nation tills den automatiska omdirigeringen aktiveras.
 
 ## Ytterligare resurser {#additional-resources}
 
