@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Detta innebär troligtvis att du inte har lagts till som Dynamic Chat i Adobe Ad
 
 **Hur får jag åtkomst till utskriften för en engagerad konversation?**
 
-Dynamic Chat-transkript kan nås för alla kända leads som har interagerat med en Dynamic Chat-dialog via aktiviteten&quot;Engaged with Dialog&quot; i Marketo Engage.
+Dynamic Chat-transkript kan nås för alla kända leads som har interagerat med en Dynamic Chat-dialog via aktiviteten&quot;Engaged with Dialog&quot; i Marketo Engage, och vars konversationsstatus är antingen&quot;Completed&quot; eller&quot;Dropped&quot;.
 
 **När en besökare har anslutit till en dialogruta, kan de då starta om konversationen eller gå tillbaka till en tidigare fråga?**
 
