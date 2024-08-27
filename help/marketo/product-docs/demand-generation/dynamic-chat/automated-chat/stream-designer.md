@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1204'
+source-wordcount: '1225'
 ht-degree: 0%
 
 ---
@@ -119,7 +119,11 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    >[!TIP]
    >
-   >Du kan anpassa upplevelsen för kända chattbesökare genom att använda tokens (till exempel: Hej `{{lead.leadFirstName:""}}`). Klicka bara på klammerparentesen till höger och gör ditt val. Lägg till ett standardvärde mellan citattecknen om du vill att anonyma besökare ska se något generiskt (t.ex. Hello `{{lead.leadFirstName:"there"}}`).
+   >Ni kan anpassa upplevelsen för chattbesökare!
+   >
+   >* Klicka på ikonen Infoga HTML `</>` för att infoga din egen HTML för att få önskat utseende och känsla för konversationen.
+   >
+   >* Använd tokens för kända chattbesökare för att anpassa deras upplevelse (till exempel: Hej `{{lead.leadFirstName:""}}`). Klicka på klammerparentesen `{}` och gör ditt val. Lägg till ett standardvärde mellan citattecknen om du vill att anonyma besökare ska se något generiskt (t.ex. Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >

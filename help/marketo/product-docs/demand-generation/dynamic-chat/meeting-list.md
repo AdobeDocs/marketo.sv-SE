@@ -3,9 +3,9 @@ description: Möteslista - Marketo Docs - produktdokumentation
 title: Möteslista
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,3 +19,10 @@ Här ser du alla avtalade tider som har schemalagts av webbplatsbesökare via ol
 >[!NOTE]
 >
 >När ett möte bokas i en agentkalender får agenten ett e-postmeddelande om bokningen, inklusive detaljerad information om besökarens Dynamic Chat-engagemang.
+
+## Misslyckade åtgärdsmeddelanden {#failed-action-notifications}
+
+När en åtgärd som en mötesbokning eller en live-chatt misslyckas meddelas användarna via e-post.
+
+![](assets/meeting-list-2.png)
+

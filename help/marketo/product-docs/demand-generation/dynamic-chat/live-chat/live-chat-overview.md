@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -104,6 +104,12 @@ När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp p
 >
 >* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Misslyckade åtgärdsmeddelanden {#failed-action-notifications}
+
+När en åtgärd som en mötesbokning eller en live-chatt misslyckas meddelas användarna via e-post.
+
+![](assets/live-chat-overview-6.png)
 
 ### Saker att notera {#things-to-note}
 

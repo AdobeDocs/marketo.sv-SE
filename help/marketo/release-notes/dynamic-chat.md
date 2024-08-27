@@ -1,22 +1,84 @@
 ---
 description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokumentation
-title: Versionsinformation för Dynamic Chat
+title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
-ht-degree: 0%
+source-wordcount: '1869'
+ht-degree: 1%
 
 ---
 
-# Versionsinformation för Dynamic Chat {#dynamic-chat-release}
+# Dynamic Chat versionsinformation {#dynamic-chat-release}
 
 Adobe Dynamic Chat-releaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar metod för driftsättning av funktioner. Ibland finns det flera releaser på en månad, så var vänlig och kika regelbundet efter den senaste informationen.
 
 Standardsidan för versionsinformation för Marketo Engage [finns här](/help/marketo/release-notes/current.md){target="_blank"}.
 
-## Juniversion 2024 {#june-release}
+## Version från augusti 2024 {#august-release}
+
+**Releasedatum: 23 augusti 2024**
+
+### Anpassa format för konversationsmeddelanden {#custom-format-conversation-messages}
+
+Strömdesigners har nu stöd för [infogning av HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} för att anpassa konversationernas utseende och känsla.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### Chatbot rullar längst ned {#chatbot-scroll-to-bottom}
+
+En ikon har lagts till i chattbot så att webbbesökare kan gå direkt till det sista meddelandet. Detta hjälper besökare att bläddra igenom texten för att snabbt komma tillbaka till konversationen.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Meddelanden om kärnpuls {#core-pulse-notifications}
+
+Användarna får nu ett [e-postmeddelande](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} när en mötesbokning eller live-chatt misslyckas.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Stöd för flera samtal {#support-for-multiple-conversations}
+
+Chatbot stöder nu flera konversationer. Besökare på webbplatser kan engagera sig i olika konversationer på olika sidor samtidigt, med möjlighet att växla mellan dem.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Standardsortering av innehåll {#default-sorting-for-content}
+
+Som standard sorteras dina konversationsloggar, obesvarade frågor och frågagenereringstabeller efter skapandedatum (från senaste till äldsta).
+
+### Leadupplösning i realtid {#real-time-lead-resolution}
+
+Under en konversation med ett anonymt lead och ett e-post-ID anges, löser vi om det finns en känd lead-post med det e-post-ID:t och använder posten för personalisering i realtid. Om vi hittar flera poster sammanfogar vi dem i realtid. Detta beteende implementeras för både dialogrutor och konversationsflöden.
+
+### Synkronisera leads utan cookies från Marketo Engage {#syncing-leads-without-cookies}
+
+Tidigare synkroniserades endast kända leads med ett eller flera cookie-ID från Marketo Engage när Marketo Engage-synkroniseringen aktiverades. Alla kända leads (cookie-ID finns eller inte) synkroniseras nu till Dynamic Chat och kan användas för personalisering av konversationer.
+
+### Skicka ytterligare besöksdata till konversationsflöden {#pass-additional-visitor-data}
+
+Om du hämtar besöksinformation via andra kanaler, som formulär eller inloggning, kan du nu skicka informationen direkt till Dynamic Chat.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Uppdaterade härledda data {#refreshed-inferred-data}
+
+De flesta samtal på en webbplats pågår med anonyma besökare. Du kan fortfarande rikta in dem på slutna data, som är beroende av besökarnas IP-adresser. Vi har uppdaterat vår databas över IP-adresser och härledda data som nu stöder fyra gånger fler IP-adresser.
+
+### Ljud har lagts till i agentwebbläsarmeddelanden {#sound-added-to-agent-browser-notification}
+
+När en live-chatt tilldelas till en agent får de ett webbläsarmeddelande. Men ibland ser de inte dem. Vi har lagt till ett meddelandeljud för att förhindra att missade meddelanden går framåt.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Möjlighet att uppdatera lead-profilen under live-chatt {#update-lead-profile-during-live-chat}
+
+Under en live-chatt vill agenter samla in information om besökaren och uppdatera respektive profil. Det finns nu ett alternativ för att uppdatera attributvärden för lead- och företagsobjekt.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
+
+## Version från juni 2024 {#june-release}
 
 **Releasedatum: 6 juni 2024**
 
@@ -36,7 +98,7 @@ På sidan Användningsbegränsningar visas viktig information, t.ex. paketinform
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
-## Version maj 2024 {#may-release}
+## Version från maj 2024 {#may-release}
 
 **Releasedatum: 15 maj 2024**
 
@@ -74,7 +136,7 @@ Knuffa webbbesökarna med en uppmaning att agera för att få konversationer att
 
 <p>
 
-## April 2024-utgåvan {#april-release}
+## Version från april 2024 {#april-release}
 
 **Releasedatum: 23 april 2024**
 
@@ -193,7 +255,7 @@ Du frågade och vi levererade. Nu kan ni se data om engagemang i Dynamic Chat i 
 
 Med villkorlig förgreningslogik kan du skapa förgreningar i Dialog-flöden baserat på olika villkor. Nu kan du presentera olika innehåll för olika personer i samma dialogruta baserat på lead- och företagsattribut i Marketo Engage.
 
-## Januari 2024-versionen {#january-release}
+## Version från januari 2024 {#january-release}
 
 **Releasedatum: 24 januari 2024**
 
