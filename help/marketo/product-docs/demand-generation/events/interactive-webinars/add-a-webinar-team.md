@@ -3,9 +3,9 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
    >[!NOTE]
    >
-   >Om du väljer **Intern användare av interaktivt webbinarium** behöver du bara klicka på listrutan **Tillgängliga värdar** och välja i listan över personer som har lagts till som användare av interaktiva webbinarier i Marketo Engage.
+   >Om du väljer **Intern användare av interaktivt webbinarium** behöver du bara klicka på listrutan **Tillgängliga värdar** och välja i listan över personer som har lagts till som användare av interaktiva webbinarier i Marketo Engage. Befintliga värdar kommer inte att se sig själva i den här listrutan, eftersom de redan är värdar.
 
 1. Ange medvärdarens förnamn, efternamn och e-postadress. Klicka på **Lägg till**.
 
