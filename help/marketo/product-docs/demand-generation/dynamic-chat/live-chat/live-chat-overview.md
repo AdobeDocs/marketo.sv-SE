@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -94,7 +94,7 @@ Om agenter inte får webbläsarmeddelanden även efter att de har tillåtit det 
 
 ### När en live-chatt dirigeras till en agent {#when-a-live-chat-is-routed-to-an-agent}
 
-När en live-chatt dirigeras till en agent ser de en blå banderoll högst upp på skärmen och ber dem att godkänna.
+När en live-chatt dirigeras till en agent visas en blå banderoll högst upp på skärmen som ber dem att acceptera, liksom ett meddelandeljud som förhindrar missade meddelanden.
 
 ![](assets/live-chat-overview-3.png)
 

@@ -3,9 +3,9 @@ description: Chatbot Behavior - Marketo Docs - produktdokumentation
 title: Chatbot-beteende
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -406,3 +406,7 @@ Här följer olika möjliga scenarier som överträffar Chatbot förväntade bet
     </tr>
   </tbody>
 </table>
+
+## Leadupplösning i realtid {#real-time-lead-resolution}
+
+Under en konversation med ett anonymt lead och ett e-post-ID anges, löser vi om det finns en känd lead-post med det e-post-ID:t och använder posten för personalisering i realtid. Om vi hittar flera poster sammanfogar vi dem i realtid. Detta beteende implementeras för både dialogrutor och konversationsflöden.

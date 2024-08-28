@@ -3,7 +3,7 @@ description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokum
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 1%
@@ -68,7 +68,7 @@ De flesta samtal på en webbplats pågår med anonyma besökare. Du kan fortfara
 
 ### Ljud har lagts till i agentwebbläsarmeddelanden {#sound-added-to-agent-browser-notification}
 
-När en live-chatt tilldelas till en agent får de ett webbläsarmeddelande. Men ibland ser de inte dem. Vi har lagt till ett meddelandeljud för att förhindra att missade meddelanden går framåt.
+När en live-chatt tilldelas till en agent får de ett webbläsarmeddelande. Men ibland ser de inte dem. Vi har lagt till ett [meddelandeljud](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} för att förhindra att missade meddelanden går framåt.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
