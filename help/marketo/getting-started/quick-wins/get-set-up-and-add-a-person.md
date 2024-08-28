@@ -4,9 +4,9 @@ description: Konfigurera och lägg till en person - Marketo Docs - produktdokume
 title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Det finns några saker att göra innan du börjar uppdraget.
 
-## Steg 1: Logga in på Marketo {#step-log-in-to-marketo}
+## Steg 1: Logga in i Marketo Engage {#step-log-in-to-marketo}
 
-1. [Logga in på Marketo](https://app.marketo.com){target="_blank"} med de inloggningsuppgifter som du fick via e-post.
+1. [Logga in på Marketo Engage](https://app.marketo.com){target="_blank"} med de inloggningsuppgifter som du fick via e-post.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ Lägg till dig själv som person i Marketo så att du kan skicka ut testmeddelan
 
    >[!CAUTION]
    >
-   >Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
+   >* Kontrollera att e-postadresser endast innehåller ASCII-tecken.
+   >
+   >* Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
 
 1. Om du vill visa dina personer öppnar du [!UICONTROL System Smart Lists] på den vänstra menyn och klickar sedan på **[!UICONTROL All People]**.
 

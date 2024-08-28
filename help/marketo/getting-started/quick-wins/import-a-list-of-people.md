@@ -4,9 +4,9 @@ description: Importera en lista med människor - Marketo Docs - produktdokumenta
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,9 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    >[!CAUTION]
    >
-   >Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
+   >* Kontrollera att e-postadresser endast innehåller ASCII-tecken.
+   >
+   >* Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 

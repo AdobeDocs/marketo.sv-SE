@@ -4,9 +4,9 @@ description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,12 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 1. Skriv in den nya informationen som du fick och stäng sedan fliken.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Kontrollera att e-postadresser endast innehåller ASCII-tecken.
+>
+>* Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
 
 >[!NOTE]
 >
