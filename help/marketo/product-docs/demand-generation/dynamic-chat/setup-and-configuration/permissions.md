@@ -3,9 +3,9 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
 
    ![](assets/permissions-4.png)
 
-1. Tillgängliga behörighetsobjekt visas till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. I det här exemplet finns det bara en tillgänglig, så vi lägger till den. Klicka på **+**-tecknet.
+1. Tillgängliga behörighetsobjekt visas till vänster. Du kan välja att lägga till behörigheter en i taget eller alla på en gång. Klicka på **+**-tecknet.
 
    ![](assets/permissions-5.png)
 
@@ -99,7 +99,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
     <td><li>Hantera alla möten</li>
   </tr>
   <tr>
-    <td>Analyser</td>
+    <td>Analytics </td>
     <td><li>Visa globala prestandarapporter</li>
     <li>Visa chattrapporter live</li>
     <li>Visa mötesrapporter</li>
