@@ -4,9 +4,9 @@ description: Använda ett universellt ID för prenumerationsinloggning - Marketo
 title: Använda ett universellt ID för prenumerationsinloggning
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Med ett universellt ID för flera prenumerationer kan bara du ändra lösenordet
 ## Växla mellan prenumerationer {#switching-between-subscriptions}
 
 Med ett universellt ID kan du se den prenumeration du är inloggad på och välja andra prenumerationer som du har inloggningsåtkomst till. I de flesta fall kan du växla mellan dem utan att behöva logga ut och in igen.
+
+Om både [enkel inloggning](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) och universellt ID är aktiverade måste du ha behörigheten&quot;Åsidosätt enkel inloggning&quot; för att kunna växla mellan prenumerationer.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 

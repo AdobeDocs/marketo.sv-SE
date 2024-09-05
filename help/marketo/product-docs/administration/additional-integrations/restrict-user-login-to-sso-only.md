@@ -4,9 +4,9 @@ description: Begränsa användarinloggning till enbart enkel inloggning - Market
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Om du [använder enkel inloggning](/help/marketo/product-docs/administration/add
 
 >[!TIP]
 >
->Om du väljer **[!UICONTROL Require SSO]** kan du utesluta en [användarroll](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från den här begränsningen genom att markera alternativet **[!UICONTROL Bypass Single Sign-On]** när du konfigurerar rollen. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen.
+>Om du väljer **[!UICONTROL Require SSO]** kan du utesluta en [användarroll](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) från den här begränsningen genom att markera alternativet **[!UICONTROL Bypass Single Sign-On]** när du konfigurerar rollen. Detta gör att användarna kan logga in normalt. Administratörsanvändare kan till exempel fortfarande behöva logga in på Marketo via inloggningsskärmen. Om både enkel inloggning och ett universellt ID är aktiverat måste du ha behörigheten Åsidosätt enkel inloggning för att kunna växla mellan prenumerationer.
 
 >[!CAUTION]
 >
