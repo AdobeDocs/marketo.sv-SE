@@ -3,9 +3,9 @@ description: Massåtgärder för människor - Marketo Docs - produktdokumentatio
 title: Massåtgärder för personer
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,3 @@ I enlighet med [GDPR](https://eugdpr.org/) ska du använda behörigheten för at
 Avbeställ massutskick av kontakter som inte längre vill få korrespondens från dig.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## Ta bort {#delete}
-
-Ta bort flera kontakter samtidigt. Fullständiga steg finns [här](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
-
-![](assets/bulk-actions-on-people-6.png)

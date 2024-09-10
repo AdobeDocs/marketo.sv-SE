@@ -3,9 +3,9 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -66,10 +66,6 @@ Lär dig hur du hanterar dina grupper i Sales Insight Actions.
 1. Klicka på **Gruppera åtgärder** och välj **Skapa kontakt och lägg till i grupp**.
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
 

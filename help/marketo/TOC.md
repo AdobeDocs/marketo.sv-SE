@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1460,7 +1460,6 @@ ht-degree: 0%
             + [Hur korrigerar jag&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hur förhindrar jag självvisningar?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hur fungerar platsspårning?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [Hur hanterar Sales Insight-åtgärder borttagning av dubbletter via e-post?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Jag har låst ut mitt konto. Vad ska jag göra?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Är Sales Insight-åtgärder kompatibla med Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Vilka webbläsare stöder Sales Insight-åtgärder?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 0%
             + [Försäljningsåtgärder och GDPR-efterlevnad](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Hantera kontakter {#managing-contacts}
                + [Massåtgärder för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [Skapa och ta bort kontakter](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefon {#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 0%
          + [Versionsinformation: 24 mars](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [Versionsinformation: 24 april](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Versionsinformation: 24 juni](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [Versionsinformation: 24 juli](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023 {#2023}
          + [Versionsinformation: 23 januari](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Versionsinformation: 23 mars](release-notes/previous-releases/2023/release-notes-mar-23.md)
