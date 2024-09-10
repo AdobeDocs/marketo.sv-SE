@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
 workflow-type: tm+mt
-source-wordcount: '9353'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -1488,7 +1488,6 @@ ht-degree: 0%
             + Hantera kontakter {#managing-contacts}
                + [Massåtgärder för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Skapa och ta bort kontakter](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [Importera kontakter via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Hantera grupper](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Sidkolumner för personer](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefon {#phone}
