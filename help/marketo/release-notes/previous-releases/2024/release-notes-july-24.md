@@ -2,9 +2,9 @@
 description: Versionsinformation - juli 2024 - Marketo Docs - produktdokumentation
 title: Versionsinformation - juli 2024
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -65,8 +65,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr> 
    <td><strong>Marketo REST API-ändring</strong>: Vi introducerar en mindre ändring i <a href="https://developers.marketo.com/rest-api/user-management/">API:t för användarhantering</a>. Både slutpunkterna <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Bläddra bland användare</a> och <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Ta bort användare</a> har nu stöd för <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">målkontohanteringsanvändare</a>.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
