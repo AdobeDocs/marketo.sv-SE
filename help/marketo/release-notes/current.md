@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '303'
 ht-degree: 3%
 
 ---
@@ -71,3 +71,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
  </tbody> 
 </table>
 <br/>
+
+## Meddelanden {#announcements}
+
+Den 17 september 2024 börjar [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att rulla ut till Marketo Engage-instanser som har inställningen &quot;Munchkin Beta&quot; aktiverad i **Admin** > **skattetest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
