@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 3%
+source-wordcount: '363'
+ht-degree: 2%
 
 ---
 
@@ -74,4 +74,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-Den 17 september 2024 börjar [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att rulla ut till Marketo Engage-instanser som har inställningen &quot;Munchkin Beta&quot; aktiverad i **Admin** > **skattetest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
+* **Ny Munchkin-version**: 17 september 2024 kommer [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att börja rulla ut till Marketo Engage-instanser som har inställningen Munchkin Beta aktiverad i **Admin** > **Resurstest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
+
+* **QR-kodborttagning**: Den 4 oktober 2024 kommer QR-kodfunktionen som används i push-meddelanden och meddelanderesurser i appen att bli inaktuell. Detta inkluderar användning av QR-koder för en ny testenhet samt skapande av nya resurser med QR-koder. Genom att ta bort funktioner med lägre användning kan vi omfördela deras resurser till det övergripande underhållet av Marketo Engage.
