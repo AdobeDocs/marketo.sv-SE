@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -1748,6 +1748,7 @@ ht-degree: 0%
             + [Rapport om personer efter status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Prestandarapport för människor](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Översikt över rapporttyp](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Aktivitetsrapport för webbsida](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Visade webbsidor, aktivitetsrapport för webbsida](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-postinsikter {#email-insights}
