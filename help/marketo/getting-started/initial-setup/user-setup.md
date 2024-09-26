@@ -1,5 +1,5 @@
 ---
-description: Innan du kommer till den nya instansen av Marketo Engage måste du slutföra några grundläggande steg för att kunna använda produkten. Dessa steg omfattar konfiguration av användarkonton, konfiguration av supportadministratörer och prenumeration på pågående systemuppdateringar.
+description: Innan du dyker in i din nya instans Marketo Engage måste du slutföra några grundläggande steg för kontinuerlig användning. Dessa steg omfattar konfiguration av användarkonton, konfiguration av supportadministratörer och prenumeration av pågående systemuppdateringar.
 short-description: När du är klar med de första konfigurationsstegen får du lära dig hur du skapar grundläggande element för att säkerställa smidig kontinuerlig användning.
 title: Checklista för användarinställningar
 feature: Getting Started
@@ -7,7 +7,7 @@ exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

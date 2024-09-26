@@ -1,7 +1,7 @@
 ---
-description: Marketo Engage-ordlista - Marketo Docs - produktdokumentation
-short-description: Lär dig Marketo Engage termer och deras definitioner så att du snabbt kommer igång.
-title: Marketo Engage - ordlista
+description: Marketo Engage-ordlista - Marketo Docs - Produktdokumentation
+short-description: Lär dig termer för Marketo Engage och deras definitioner så att du snabbt kommer igång.
+title: Marketo Engage ordlista
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Marketo Engage - ordlista {#marketo-engage-glossary}
+# Marketo Engage ordlista {#marketo-engage-glossary}
 
 Nedan finns definitioner för många av termerna som du kan stöta på när du använder Marketo Engage. [Skicka oss ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com) om du vill begära att en term läggs till.
 
@@ -29,7 +29,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
-   <td colspan="1">Termen kan ha olika innebörd:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-In <strong>TAM</strong>, a <strong>Named Account</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I TAM är ett CRM-konto mappat från din länkade <strong>CRM</strong> (konto i <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> eller <strong>API</strong>).<br>-I CRM är konton det företag/det företag som leads och kontakter är kopplade till.</td> 
+   <td colspan="1">Termen kan ha olika innebörd:<br>-Din Marketo-instans kan kallas ditt Marketo-konto.<br>-In <strong>TAM</strong>, a <strong>Named Account</strong> är ett konto som användaren har fastställt är ett målkonto som han/hon vill köra.<br>-I TAM är ett CRM-konto ett konto som har mappats från din länkade <strong>CRM</strong> (konto i <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> eller <strong>API</strong>).<br>-I CRM är konton det företag/det företag som leads och kontakter är kopplade till.</td> 
   </tr> 
   <tr> 
    <td><strong>Kontolista</strong></td> 
@@ -244,7 +244,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td colspan="1">En programtyp i Marketo. Ett generiskt program som du kommer att använda när ett e-postmeddelande, evenemang eller engagemangsprogram inte är relevant. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Leverans</strong></td> 
+   <td colspan="1"><strong>Levererbarhetsstrategi</strong></td> 
    <td colspan="1">Möjligheten för ett e-postmeddelande att nå den avsedda mottagarens inkorg, vilket kan påverkas av <strong>spam</strong> och klientfilter. Annat än"Levererat", vilket bara anger att e-postmeddelandet har skickats till mottagarservern.</td> 
   </tr> 
   <tr> 
@@ -444,7 +444,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Känd person</strong></a></td> 
-   <td><p>Persondata i Marketo <strong>databas</strong> betraktas som kända persondata. Det finns flera olika sätt för någon att ange din databas, bland annat: CRM-synkronisering, ifyllning av ett formulär, import/manuell ifyllning av listor, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare <strong>cookies</strong> (och är anonyma) via Marketo <strong>Munchkin</strong> webbspårning och mappas sedan till motsvarande kända personpost när identifierbara åtgärder inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketo-associerade lead-API:er i båda <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> och <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Persondata i Marketo <strong>databas</strong> betraktas som kända persondata. Det finns flera olika sätt för någon att ange din databas, bland annat: CRM-synkronisering, ifyllning av ett formulär, import/manuell ifyllning av listor, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare <strong>cookies</strong> (och är anonyma) via Marketo <strong>Munchkin</strong> webbspårning och mappas sedan till motsvarande kända personpost när en identifierbar åtgärd inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketo-associerade lead-API:er i både <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> och <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">6} Resterande API </a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -881,7 +881,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td>En tilläggsfunktion som hjälper Marketo-användare att rikta in sig på kända och anonyma besökare (via Facebook och Google) med relevanta annonser baserade på bransch, namngivna konton och kända data.</td> 
   </tr> 
   <tr> 
-   <td><strong>Vad du ser är vad du får (WYSIWYG)</strong></td> 
+   <td><strong>What You See Is What You Get (WYSIWYG)</strong></td> 
    <td>En vanlig term som refererar till ett program eller en redigerare som gör att du kan se slutresultatet av ditt <strong>innehåll</strong> när du skapar det. Marketo har en WYSIWYG-editor.</td> 
   </tr> 
   <tr> 

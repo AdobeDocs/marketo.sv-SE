@@ -1,13 +1,13 @@
 ---
-description: Installationssteg - Marketo Docs - produktdokumentation
-short-description: Vill du bara komma igång med Adobe Marketo Engage? Lär dig vilka steg du måste slutföra innan du går in.
+description: Konfigurationssteg – Marketo Docs – Produktdokumentation
+short-description: Har du just kommit igång med Adobe Marketo Engage? Lär dig vilka steg du måste slutföra innan du dyker in i det.
 title: Installationssteg
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1681'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -140,7 +140,7 @@ Bästa IT-administratör!
 
 Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera med våra medarbetare. För att e-postleveransen ska bli så bra som möjligt måste vi göra följande ändringar:
 
-`1)` Lägg till en DNS-post (CNAME) för **[LandingPageCNAME]** för våra landningssidor.**[CompanyDomain]**.com, som pekar på **[Munchkin ID]**.mktoweb.com.
+`1)` Lägg till en DNS-post (CNAME) för **[LandingPageCNAME]** för våra landningssidor.**[CompanyDomain]**.com, pekar på **[Munchkin ID]**.mktoweb.com.
 
 `2)` Lägg till en DNS-post (CNAME) för **[EmailTrackingCNAME]** för våra spårningslänkar i e-post.**[CompanyDomain]**.com, pekar på **[MktoTrackingLink]**.
 

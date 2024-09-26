@@ -1,5 +1,5 @@
 ---
-description: Aktuell versionsinformation – Marketo Docs – produktdokumentation
+description: Aktuell versionsinformation – Marketo Docs – Produktdokumentation
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information

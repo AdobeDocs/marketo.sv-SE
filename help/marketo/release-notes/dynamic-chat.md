@@ -1,5 +1,5 @@
 ---
-description: Versionsinformation för Dynamic Chat - Marketo Docs - produktdokumentation
+description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokumentation
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
