@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
+source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '420'
 ht-degree: 2%
 
 ---
@@ -74,6 +74,10 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Ny Munchkin-version**: 17 september 2024 kommer [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att börja rulla ut till Marketo Engage-instanser som har inställningen Munchkin Beta aktiverad i **Admin** > **Resurstest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
-
 * **QR-kodborttagning**: Den 4 oktober 2024 kommer QR-kodfunktionen som används i push-meddelanden och meddelanderesurser i appen att bli inaktuell. Detta inkluderar användning av QR-koder för en ny testenhet samt skapande av nya resurser med QR-koder. Genom att ta bort funktioner med lägre användning kan vi omfördela deras resurser till det övergripande underhållet av Marketo Engage.
+
+* **Munchkin-ändringar**
+
+   * **Ny version**: Den 17 september 2024 börjar [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att rulla ut till Marketo Engage-instanser där inställningen Munchkin Beta är aktiverad i **Admin** > **Resurs Chest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
+
+   * **Tecken från URL Borttagen**: Aktiviteterna Besök webbsida och Klicklänk som skapas av Munchkin JS tar nu bort kontrolltecken som inte är URL-kodade från alla URL-fält. Den här ändringen är avsedd att förhindra fel som beror på spridning av dessa typer av tecken till system som saknar stöd för dem, och som inte kan användas i Marketo Engage.
