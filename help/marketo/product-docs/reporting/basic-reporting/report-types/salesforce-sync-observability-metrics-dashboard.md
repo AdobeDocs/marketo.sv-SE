@@ -4,14 +4,14 @@ title: Salesforce Sync Observability Metrics Dashboard
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-# Salesforce Sync Observability Metrics Dashboard {#salesforce-sync-observability-metrics-dashboard}
+# Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
 
 Granska dina synkroniseringsprestandaströmmar och synkronisera eftersläpningar med den här instrumentpanelen.
 

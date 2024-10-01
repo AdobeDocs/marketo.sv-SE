@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 2%
@@ -32,7 +32,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Förbättrade registreringsdata på Engagement Dashboard för interaktiva webbinarier</strong>: Nu kan du se vilka företag som har haft störst närvaro och få företaget, titeln och branschen uppdaterad på en ledande nivå i rapporter som är tillgängliga på Engagement Dashboard.</td> 
+   <td><strong>Förbättrade registreringsdata på Engagement Dashboard för interaktiva webbinarier</strong>: nu kan du se vilka företag som har haft störst närvaro och få företaget, titeln och branschen uppdaterad på en ledande nivå i rapporter som är tillgängliga på Engagement Dashboard.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
