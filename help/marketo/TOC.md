@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 0%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 0%
          + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Logga in med OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Använda personkonton](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 0%
             + [Rapport om personer efter status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Prestandarapport för människor](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Översikt över rapporttyp](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Aktivitetsrapport för webbsida](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Visade webbsidor, aktivitetsrapport för webbsida](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-postinsikter {#email-insights}
