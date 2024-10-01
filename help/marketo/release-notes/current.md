@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '513'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,34 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr> 
    <td><strong>Knappen Mitt konto i navigeringsfältet</strong>: För dem som har migrerat till Adobe Identity Management System kan du konfigurera din tidszon och få åtkomst till prenumerationsinformation genom att klicka på knappen Mitt konto i det vänstra navigeringsfältet.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce Sync Backlog Metrics</strong>: Du kan nu övervaka synkroniseringsgenomströmning och trender för eftersläpning för att planera och schemalägga CRM-uppdateringar för en optimal synkroniseringsupplevelse.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Förbättringar av e-postprestandarapport</strong>: Flera förbättringar har gjorts av e-postrapporteringsstatistik och aktivitetsspårning, vilket ger ytterligare insikter och förbättrar noggrannheten.
+   <ul>
+   <li>Filtrera borttagna och sammanfogade personer från mätvärden för e-postprestanda</li>
+   <li>E-postmeddelanden som nu klassificerats som <i>avbrutna</i> efter att ha väntat i tre dagar på svarsaktivitet</li>
+   <li>E-post för konto öppnas på kampanjnivå</li>
+   <li>Förbättrad spårning av e-postaktivitet genom förbättring av spårning av pixelplats</li>
+   </td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
