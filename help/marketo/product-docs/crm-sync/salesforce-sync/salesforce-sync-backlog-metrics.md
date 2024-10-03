@@ -4,7 +4,7 @@ title: Salesforce Sync Backlog Metrics
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Oavsett om uppdateringen görs på Marketo Engage eller CRM-sidan kommer den att
 
 När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändras) ändras många poster, vilket ger nya SysModStamps. Ett stort antal personregisteruppdateringar måste sedan synkroniseras igen mellan Marketo Engage och CRM, vilket ibland skapar en tillfällig eftersläpning.
 
-## Bästa tillvägagångssätt för hantering av eftersläpningar i synkronisering {#best-practices-for-managing-sync-backlogs}
+## Bästa tillvägagångssätt för hantering av eftersläpningar i synkronisering {#best-practices}
 
 **Fält under synkronisering**: Kontrollera att endast de fält som är under synkronisering är de som behöver synkroniseras. Ändringar av fält ökar synkroniseringens eftersläpning och fält med lägre prioritet kan stoppa eller göra att viktigare fält under synkronisering blir långsammare. Gå till [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ta bort fält som är synkroniserade.
 
@@ -105,4 +105,4 @@ När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändr
 
 **Schemalägg massuppdateringar under icke-kritiska timmar**: Granska dina datasynkroniseringsmönster för att identifiera icke-kritiska perioder. Se om det går att schemalägga större uppdateringar under dessa icke-kritiska perioder.
 
-Om du följer alla de bästa metoderna ovan och fortfarande har betydande eftersläpningar kontaktar du [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Om du följer alla ovanstående metodtips och fortfarande har betydande eftersläpningar kontaktar du [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

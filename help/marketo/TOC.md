@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 0%
          + Om e-postredigeraren {#understanding-the-email-editor}
             + [E-posthändelseloggning](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Använda RTF-redigeraren](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Beta nya e-postredigerare {#beta-new-email-editor}
+            + [Skapa ett e-postmeddelande](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [Skapa en e-postmall](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [Så här kommer du åt e-post](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [Åtkomst till en e-postmall](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + Skapar e-post {#creating-an-email}
             + [Godkänn ett e-postmeddelande](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Skapa ett e-postmeddelande med endast text](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 0%
             + [Email Connection för Gmail-användare](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail hämtar inte in Sales Connect-signatur](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Lägga till en mall](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [Installera ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [Installera e-postplugin-programmet Sales Connect för Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [Skicka ett e-postmeddelande från Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Avinstallera Sales Connect från Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [Förhindrar att den sekundära Gmail-adressen integreras med Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 0%
                + [Så här avinstallerar du Sales Connect från Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365-tillägg {#office-365-add-in}
                + [Lägg till e-post i Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Installera Sales Connect för Office365 Mac OS, Windows och Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Installera e-postplugin-programmet Sales Connect för Outlook (Online, Mac och Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + E-post {#email}
          + Kommandocentral {#command-center}
             + [Översikt över kommandocentralen](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
