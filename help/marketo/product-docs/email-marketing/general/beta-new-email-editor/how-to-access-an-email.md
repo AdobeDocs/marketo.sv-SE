@@ -4,13 +4,39 @@ title: Så här kommer du åt e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 88a553f7b1e0bde24e62502c2daf7fd04f58087d
+source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
 workflow-type: tm+mt
-source-wordcount: '21'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Så här kommer du åt e-post {#how-to-access-an-email}
 
-Kommer snart
+Introduktionstext här.
+
+1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
+
+   SCREENSHOT
+
+LISTA VARJE STEG TILLS DU GET TILL MARKETO?
+
+1. I My Marketo väljer du Design Studio.
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
