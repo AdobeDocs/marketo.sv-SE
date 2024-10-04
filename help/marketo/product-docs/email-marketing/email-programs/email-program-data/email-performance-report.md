@@ -4,9 +4,9 @@ description: E-postprestandarapport - Marketo Docs - produktdokumentation
 title: Rapport om e-postprestanda
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,41 @@ Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, 
 
    [Välj rapportkolumner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en e-postrapport innehåller:
 
-   | Kolumn | Beskrivning |
-   |---|---|
-   | Hård studsad | E-postmeddelandet avvisades på grund av ett permanent villkor, t.ex. en e-postadress som inte finns. |
-   | Mjuk studsad | E-postmeddelandet avvisades på grund av ett tillfälligt villkor, t.ex. att en server är nere eller en fullständig inkorg. |
-   | Väntande | Det här antalet beräknas genom att subtrahera antalet e-postmeddelanden som levererats, studsat och Mjuk studsade från det totala antalet skickade. |
-   | Klickad länk | Antal e-postmottagare som klickat på en länk i e-postmeddelandet. |
-   | Avprenumererad | Antal e-postmottagare som klickat på länken **Avsluta prenumeration** i e-postmeddelandet och fyllt i formuläret. |
+   <table><thead>
+<tr>
+    <th>Kolumn</th>
+    <th>Beskrivning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Hård studsad</td>
+    <td>E-postmeddelandet avvisades på grund av ett permanent villkor, t.ex. en e-postadress som inte finns.</td>
+  </tr>
+  <tr>
+    <td>Mjuk studsad</td>
+    <td>E-postmeddelandet avvisades på grund av ett tillfälligt villkor, t.ex. att en server är nere eller en fullständig inkorg.</td>
+  </tr>
+  <tr>
+    <td>Väntande</td>
+    <td>Det här antalet beräknas genom att subtrahera antalet e-postmeddelanden som levererats, studsat och Mjuk studsade från det totala antalet skickade.</td>
+  </tr>
+  <tr>
+    <td>Klickad länk</td>
+    <td>Antal e-postmottagare som klickat på en länk i e-postmeddelandet.</td>
+  </tr>
+  <tr>
+    <td>Avprenumererad</td>
+    <td>Antal e-postmottagare som klickat på länken Avbeställ i e-postmeddelandet och fyllt i formuläret.</td>
+  </tr>
+  <tr>
+    <td>Avbruten</td>
+    <td>Antal e-postmeddelanden som inte kunde levereras och ingen studshändelse togs emot. Ett e-postmeddelande sägs automatiskt vara avbrutet om inget svar tas emot inom tre dagar från e-postmeddelandet.</td>
+  </tr>
+</tbody></table>
 
-   >[!NOTE]
-   >
-   >Om du klickar på länken för att avbryta prenumerationen och e-postadresserna i ett e-postmeddelande registreras det inte under Länkar som du klickat på i rapporten.
+>[!NOTE]
+>
+>Om du klickar på länken för att avbryta prenumerationen och e-postadresserna i ett e-postmeddelande registreras det inte under Länkar som du klickat på i rapporten.
 
 I allmänhet försöker vi använda sunt förnuft för att registrera denna statistik. Om någon till exempel klickade på en länk i ett e-postmeddelande så öppnades e-postmeddelandet tydligt först. Vi följer dessa specifika regler för e-postprestandarapporten:
 
@@ -57,9 +81,13 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 
 * **Regel 4**: Om e-postmeddelandet är _Öppnad_ ignoreras studenterna. Om e-postmeddelandet inte har öppnats har _Hård studsning_ högre prioritet än _Mjuk studsad_ och _Levererad_.
 
+* **Regel 5**: Om ingen e-postaktivitet tas emot tre dagar efter att den skickades, betraktas den som _Avbruten_.
+
 >[!NOTE]
 >
->Flera utskick från samma kampanj till samma person räknas bara en gång.
+>* Flera utskick från samma kampanj till samma person räknas bara en gång.
+>
+>* Flera utskick från olika kampanjer till samma person räknas separat.
 
 >[!MORELIKETHIS]
 >
