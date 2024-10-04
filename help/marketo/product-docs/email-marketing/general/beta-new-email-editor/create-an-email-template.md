@@ -4,9 +4,9 @@ title: Skapa en e-postmall
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -39,13 +39,21 @@ LISTA VARJE STEG TILLS DU GET TILL MARKETO?
 
 ## Utforma en mall {#design-your-template}
 
-På designskärmen kan du välja några alternativ. Designa från grunden, importera en egen HTML eller välj en sparad mall (ett av våra exempel eller ett av dina egna).
+Du kan välja bland ett par alternativ på mallsidan Design. Designa från grunden, importera egna HTML eller välj en befintlig mall (ett av våra exempel eller ett som du redan sparat).
 
 >[!BEGINTABS]
 
 >[!TAB Skapa från grunden]
 
-1. Välj **Design från grunden**.
+Definiera innehållet genom att lägga till och flytta strukturella element med enkla dra och släpp-åtgärder.
+
+## Designa från grunden {#design-from-scratch}
+
+1. Välj **Designa från grunden** på mallsidan.
+
+   SCREENSHOT
+
+1. text.
 
    SCREENSHOT
 
@@ -55,13 +63,39 @@ På designskärmen kan du välja några alternativ. Designa från grunden, impor
 
 >[!TAB Importera HTML]
 
-1. Välj Importera HTML.
+Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Innehållet kan vara
+
+* En HTML-fil med en infogad formatmall
+
+* En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
+
+>[!NOTE]
+>
+>ZIP-filstrukturen har inga begränsningar. Referenserna måste dock vara relativa och passa in i trädstrukturen i ZIP-mappen.
+
+## Importera HTML {#import-your-html}
+
+1. Välj **Importera HTML** på mallsidan.
 
    SCREENSHOT
 
-1. Text.
+1. Dra och släpp HTML- eller ZIP-filen och klicka på **Importera**.
 
    SCREENSHOT
+
+   >[!CAUTION]
+   >
+   >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+I TESTKONTO: INSTÄLLNINGAR/FORMAT/KONVERTERARE HTML
 
 >[!TAB Exempelmallar]
 

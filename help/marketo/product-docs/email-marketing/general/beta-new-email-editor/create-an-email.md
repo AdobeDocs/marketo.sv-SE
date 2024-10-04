@@ -4,9 +4,9 @@ title: Skapa ett e-postmeddelande
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Introduktionstext här.
 
    SCREENSHOT??
 
-LISTA VARJE STEG TILLS DU GET TILL MARKETO??
+   LISTA VARJE STEG TILLS DU GET TILL MARKETO??
 
 1. I Min Marketo väljer du **Design Studio**.
 
@@ -37,4 +37,104 @@ LISTA VARJE STEG TILLS DU GET TILL MARKETO??
 
    ![](assets/create-an-email-4.png)
 
-Ditt e-postmeddelande skapas. Nu är det dags att designa det. LÄNK
+## Designa din e-post {#design-your-email}
+
+1. Klicka på **+ Lägg till e-postinnehåll** i det e-postmeddelande du just skapade.
+
+   SCREENSHOT
+
+1. Sidan Skapa din e-post visas. Du kan välja mellan några alternativ:
+
+* [Designa från grunden](#design-from-scratch)
+
+* [Importera din egen HTML](#import-html)
+
+* [Välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett du redan har sparat)
+
+### Designa från grunden {#design-from-scratch}
+
+Brief intro
+
+1. Text
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
+
+1. Text
+
+   SCREENSHOT
+
+### Importera HTML {#import-html}
+
+Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Innehållet kan vara
+
+* En HTML-fil med en infogad formatmall
+
+* En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
+
+>[!NOTE]
+>
+>ZIP-filstrukturen har inga begränsningar. Referenserna måste dock vara relativa och passa in i trädstrukturen i ZIP-mappen.
+
+1. Välj **Importera HTML** på mallsidan.
+
+   SCREENSHOT
+
+1. Dra och släpp HTML- eller ZIP-filen och klicka på **Importera**.
+
+   SCREENSHOT
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+### Välj en mall {#choose-a-template}
+
+Det finns två typer av mallar att välja mellan.
+
+* Exempelmallar: Marketo Engage har fyra färdiga e-postmallar.
+
+* Sparade mallar: Det här är mallar som du har skapat från grunden med hjälp av menyn Mallar eller ett e-postmeddelande som du har skapat och valt att spara som en mall.
+
+>[!BEGINTABS]
+
+>[!TAB Exempelmallar]
+
+Välj en av fyra färdiga mallar för att snabbt komma igång med e-postdesignen.
+
+1. Välj Exempelmallar på sidan Skapa din e-post.
+
+   SCREENSHOT
+
+1. Välj önskad mall.
+
+   SCREENSHOT
+
+1. En förhandsgranskning visas. Bekräfta ditt val genom att klicka på **Använd den här mallen**.
+
+   SCREENSHOT
+
+>[!TAB Sparade mallar]
+
+Välj någon av de mallar du skapat tidigare.
+
+1. Välj Sparade mallar på sidan Skapa din e-post.
+
+   SCREENSHOT
+
+1. Välj önskad mall.
+
+   SCREENSHOT
+
+1. En förhandsgranskning visas. Bekräfta ditt val genom att klicka på **Använd den här mallen**.
+
+   SCREENSHOT
+
+>[!ENDTABS]
