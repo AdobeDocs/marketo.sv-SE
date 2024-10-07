@@ -4,9 +4,9 @@ title: Skapa en e-postmall
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Skapa en e-postmall {#create-an-email-template}
 
 Introduktionstext här.
+
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
 
 1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
@@ -118,3 +122,7 @@ I TESTKONTO: INSTÄLLNINGAR/FORMAT/KONVERTERARE HTML
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Åtkomst till en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

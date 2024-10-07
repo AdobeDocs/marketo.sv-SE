@@ -4,7 +4,7 @@ title: Temporärt dokument
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 0%
@@ -39,6 +39,7 @@ Infoga anpassningsfält för att anpassa innehållet utifrån profilattribut, m�
 Klicka på Aktivera villkorsinnehåll för att lägga till dynamiskt innehåll och anpassa innehållet till målprofilerna baserat på villkorliga regler.
 Klicka på fliken Länkar i den vänstra rutan för att visa alla URL:er för innehållet som ska spåras. Du kan ändra deras spårningstyp eller etikett och lägga till taggar om det behövs.
 Om det behövs kan du anpassa e-postmeddelandet ytterligare genom att klicka på Växla till kodredigerare på den avancerade menyn. På så sätt kan du redigera e-postkällkoden, till exempel för att lägga till spårningstaggar eller anpassade HTML-taggar.
+
 FÖRSIKTIGHET
 Du kan inte återgå till den visuella designern för det här e-postmeddelandet efter att du har växlat till kodredigeraren.
 

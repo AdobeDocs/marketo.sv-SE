@@ -4,9 +4,9 @@ title: Åtkomst till en e-postmall
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,15 @@ ht-degree: 0%
 
 Introduktionstext här.
 
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
+
 1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
    SCREENSHOT
 
-LISTA VARJE STEG TILLS DU GET TILL MARKETO?
+   LISTA VARJE STEG TILLS DU GET TILL MARKETO?
 
 1. I My Marketo väljer du Design Studio.
 
@@ -40,3 +44,7 @@ LISTA VARJE STEG TILLS DU GET TILL MARKETO?
 1. Text
 
    SCREENSHOT
+
+>[!MORELIKETHIS]
+>
+>[Skapa en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}

@@ -4,9 +4,9 @@ title: Skapa ett e-postmeddelande
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Skapa ett e-postmeddelande {#create-an-email}
 
 Introduktionstext här.
+
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
 
 1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
@@ -36,6 +40,8 @@ Introduktionstext här.
 1. Ange ett e-postnamn och en ämnesrad. Klicka på **Skapa**.
 
    ![](assets/create-an-email-4.png)
+
+Så där ja. Nu är det dags att designa e-postmeddelanden.
 
 ## Designa din e-post {#design-your-email}
 
@@ -138,3 +144,7 @@ Välj någon av de mallar du skapat tidigare.
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Åtkomst till ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}

@@ -4,10 +4,10 @@ title: Översikt
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -15,14 +15,18 @@ ht-degree: 5%
 
 Introduktionstext här.
 
-VIKTIG TAGG: Beta-dokument, sprid inte
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
 
-LÄNKA TILL ALLA DOKUMENT
+**Tillgängliga artiklar**
 
-* [Skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}
+* [Skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: Lär dig hur du skapar och utformar ett e-postmeddelande i den nya redigeraren.
 
-* [Åtkomst till ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+* [Så här kommer du åt ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Lär dig hur du kommer åt dina nya redigeringsmeddelanden från Marketo Engage.
 
-* [Skapa en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}
+* [Skapa en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Lär dig hur du skapar och utformar en e-postmall i den nya redigeraren.
 
-* [Åtkomst till en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
+* [Så här kommer du åt en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}: Lär dig hur du kommer åt dina nya redigeringsmeddelanden från Marketo Engage.
+
+^^^ ÄR DET SENASTE DOKUMENTET NÖDVÄNDIGT?
