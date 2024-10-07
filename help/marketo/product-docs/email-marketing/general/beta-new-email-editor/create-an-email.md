@@ -4,9 +4,9 @@ title: Skapa ett e-postmeddelande
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Introduktionstext här.
 >
 >Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
 
-1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT??
-
-   LISTA VARJE STEG TILLS DU GET TILL MARKETO??
+1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. I Min Marketo väljer du **Design Studio**.
 
