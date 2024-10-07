@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 0%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 0%
             + [Filtrera en kampanjaktivitetsrapport](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrera Assets i en kampanjrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrera Assets i en e-postrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Filtrera borttagna/sammanfogade poster i en e-postrapport](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [Gruppera personrapporter efter attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [E-postrapport, kampanjprestanda i flera arbetsytor](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Dela en modell över arbetsytor](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
