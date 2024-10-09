@@ -3,9 +3,9 @@ description: Administratörsinstallation - Marketo Docs - produktdokumentation
 title: Administratörsinställningar
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,11 @@ När systemadministratören har öppnat Admin Console är det dags att skapa en 
 
    ![](assets/admin-setup-5.png)
 
-1. Ge din produktprofil ett namn (visningsnamn och beskrivning är valfria) och klicka på **[!UICONTROL Save]**.
+1. Ge din produktprofil ett namn (visningsnamn och beskrivning är valfria) och klicka på **[!UICONTROL Next]**.
 
    ![](assets/admin-setup-6.png)
+
+1. Inga tjänster behöver väljas. Klicka på **[!UICONTROL Save]**.
 
 >[!NOTE]
 >

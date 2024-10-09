@@ -4,20 +4,20 @@ description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentat
 title: Välj språk, språk och tidszon
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Välj språk, språk och tidszon {#select-your-language-locale-and-time-zone}
 
-Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ändrar du Marketo Engage-instansens språk, språk och tidszon.
+Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ändrar du Marketo Engage prenumerations språk, språk och tidszon.
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det kan du komma åt inställningarna som beskrivs nedan i din [Adobe-kontoprofil](https://account.adobe.com/profile){target="_blank"}.
+>Om din Marketo Engage-prenumeration har migrerats till [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} gäller endast [tidszonen](#change-your-time-zone) i den här artikeln för dig. Om du vill ändra språk och/eller språkområde måste du komma åt dessa inställningar i din [Adobe-kontoprofil](https://account.adobe.com/profile){target="_blank"}.
 
 ## Språk som stöds {#supported-languages}
 
@@ -29,6 +29,8 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 * Spanska
 
 ## Ändra användarspråk, nationella inställningar och tidszon {#change-user-language-locale-and-time-zone}
+
+Följ de här stegen för att gå till rätt område och välj sedan vilken inställning du vill ändra.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -42,7 +44,9 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Ändra din **[!UICONTROL Language]**.
+### Ändra ditt språk {#change-your-language}
+
+1. Klicka på listrutan **[!UICONTROL Language]** och gör ditt val.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,18 +54,22 @@ Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ä
    >
    >Du kan också ändra enbart ditt språk genom att klicka på listrutan för språk högst upp på inloggningssidan.
 
-1. Ändra din **[!UICONTROL Locale]**.
+### Ändra språkområde {#change-your-locale}
+
+1. Klicka på listrutan **[!UICONTROL Locale]** och gör ditt val.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Ändra din **[!UICONTROL Time Zone]**.
+### Ändra din tidszon {#change-your-time-zone}
+
+1. Klicka på listrutan **[!UICONTROL Time zone]** och gör ditt val.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Klicka på **[!UICONTROL Save]**.
+## Spara {#save}
+
+1. När du har ändrat inställningarna klickar du bara på **[!UICONTROL Save]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-Snyggt jobb! Webbläsaren uppdateras och du bör se ändringarna återspeglas.
-
-![](assets/select-your-language-locale-and-time-zone-8.png)
+Så ja! Webbläsaren uppdateras och du bör se ändringarna återspeglas.
