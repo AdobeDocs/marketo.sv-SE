@@ -3,9 +3,9 @@ description: Migrera till Adobe Identity - Marketo Docs - produktdokumentation
 title: Migrerar till Adobe-identitet
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ Verktyget Marketo Self-Service User Migration Console består av två flikar.
 
 * **Fliken Migreringsstatus**
 * **Fliken Användarmigrering**
+
+Det krävs tre huvudsteg för att slutföra en migrering till självbetjäning.
+
+1. Migrera alla önskade berättigade e-postadressverifierade användare (fliken Användarmigrering)
+1. Hoppa över alla icke berättigade användare och alla oönskade berättigade användare (fliken Användarmigrering)
+1. När steg 1 och 2 är klart slutför du migreringsbekräftelsen (fliken Migreringsstatus)
 
 ### Fliken Migreringsstatus {#migration-status-tab}
 

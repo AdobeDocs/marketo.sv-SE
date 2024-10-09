@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe Identity Management System består av tre komponenter.
 
 **När kommer befintliga Marketo Engage-prenumerationer att integreras med IMS?**
 
-Befintliga Marketo-prenumerationer kommer att migreras till Adobe Identity Management System senare i år. Marketo Support kommer inte att kunna tillhandahålla några uppdateringar om migrering av Adobe IMS. Adobe Account Team kommer att nå ut med den beräknade tidslinjen de närmaste månaderna.
+Befintliga prenumerationer på Marketo Engage migreras för närvarande till Adobe IMS vid alla försäljningsevenemang, inklusive förnyelser, avtalsevenemang och/eller tillägg. Migreringar utanför ett försäljningsevenemang stöds nu från och med oktober 2024.
 
 **Efter migreringen, kommer URL:er i Marketo Engage att vara desamma?**
 
@@ -50,7 +50,13 @@ Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja alla befintliga API
 
 **Vem kontaktar vi om vi är integrerade med IMS?**
 
-Du följer standardproceduren för att kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Migrering före användare: supportärenden för filer i [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) eller e-post `customercare@marketo.com`.
+
+* Migrering efter användare: supportärenden för filer i [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) eller e-post `customercare@marketo.com`.
+
+* Slutförande av migrering efter support: Produktsupportadministratörer kan arkivera ärenden via supportportalen för Experience League.
+
+Om du har Ultimate Success har du tillgång till tjänsten Admin Console Migration White Glove. Kontakta kontoteamet (din kontoansvarige) på Adobe om du behöver hjälp.
 
 **Om jag använder en Adobe-identitet för att få åtkomst till andra Adobe-program, kan jag använda den för att få åtkomst till Marketo?**
 
@@ -106,13 +112,13 @@ Följande produktkort stöds: Marketo Engage, Marketo Measure, Marketo Dynamic C
 
 **Vad händer om min användarinloggning inte matchar min e-postadress när jag migreras till en Adobe-identitet?**
 
-Nuvarande Marketo-användare med andra inloggningar än sin e-postadress kommer inte längre att logga in med dessa inloggningsuppgifter när de har migrerats till en Adobe-identitet. Adobe-identiteter autentiseras alltid med en användares e-postadress.
+Användare av Marketo Engage som har andra inloggningar än sin e-postadress loggar inte längre in med de inloggningsuppgifterna när de väl har migrerats till en Adobe-identitet. Adobe-identiteter autentiseras alltid med en användares e-postadress. Du kan uppdatera en e-postadress för en Adobe-identitet på [account.adobe.com](https://account.adobe.com){target="_blank"}.
 
 **Vad händer efter migreringen av Adobe-identitet om min prenumeration använder inställningar för IP-begränsning?**
 
 När prenumerationer placeras på Adobe Identity migreras inte IP-restriktionsinställningarna till Adobe Admin Console. Marketo inställningar för IP-begränsningar innefattar att endast tillåta åtkomst från specifika IP-adresser och blockera specifika IP-adresser från åtkomst. För närvarande stöder inte Adobe Identity Management-systemet IP-begränsningsfunktioner.
 
-Från och med 2024 kommer Adobe Identity Management System att släppa en funktion som bara tillåter specifika IP-adresser, vilket stöder en övergång för Marketo-användare som för närvarande använder den här funktionen. De som för närvarande använder den här funktionen migreras inte förrän funktionen släpps. När funktionen har levererats meddelas användarna om att migreringen schemaläggs. Mer information om funktionen finns när den blir tillgänglig.
+I början av 2025 kommer Adobe Identity Management System att släppa en funktion som bara tillåter specifika IP-adresser, vilket stöder en övergång för Marketo-användare som för närvarande använder den här funktionen. De som för närvarande använder den här funktionen migreras inte förrän funktionen släpps. När funktionen har levererats meddelas användarna om att migreringen schemaläggs. Mer information om funktionen finns när den blir tillgänglig.
 
 Användare som för närvarande använder IP-begränsningen, som blockerar specifika adresser från åtkomst, kommer inte längre att kunna använda den här funktionen efter att de har migrerats till Adobe Identity, eftersom den inte stöds av Adobe Identity Management System.
 
@@ -123,3 +129,9 @@ När prenumerationer placeras på Adobe Identity, ställs enkel inloggning (SSO)
 **Jag har fler än en prenumeration, men inte alla har enkel inloggning aktiverad. Vad händer efter migrering av Adobe-identitet?**
 
 När prenumerationer placeras på Adobe Identity, ställs enkel inloggning (SSO) in på organisationsnivå i Adobe. Detta innebär att enkel inloggning gäller för alla produktinstanser i Adobe Org. När enkel inloggning har konfigurerats gäller den alla Marketo-instanser i den Adobe-organisationen. Tidigare hade Marketo stöd för den här inställningen på förekomstnivå. Detta stöds inte av Adobe Identity Management System.
+
+**Jag måste nu navigera till Experience Cloud för att komma åt Marketo Engage. Finns det ett sätt att effektivisera det här flödet?**
+
+Ja. Du kan skapa ett webbläsarbokmärke för länken som startas efter att du har klickat på knappen **Starta** på Marketo Engage-instansens startsida, så att du kan gå förbi den sidan.
+
+![](assets/faq-1.png)
