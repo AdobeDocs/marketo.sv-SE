@@ -3,9 +3,9 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Lägg till ett webbinarium {#add-a-webinar-team}
 
 Ett webbinarium i Interactive Webinars består av alla roller som bidrar till att det webbinarium som finns i Adobe Connect kan levereras utan problem. Detta omfattar både presentatörer och andra.
+
+>[!IMPORTANT]
+>
+>Vi rekommenderar att du [utformar ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _innan_ lägger till presentatörer eller värdar.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
 >[!PREREQUISITES]
 >
->[Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Designa ditt interaktiva webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Lägg till en medvärd {#add-a-co-host}
 
@@ -70,4 +76,4 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
 >[!MORELIKETHIS]
 >
->[Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

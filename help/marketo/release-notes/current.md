@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 2%
@@ -81,8 +81,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <li>E-post för konto öppnas på kampanjnivå</li>
    <li>Förbättrad spårning av e-postaktivitet genom förbättring av spårning av pixelplats</li>
    </td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport om e-postprestanda</a></td>
   </tr>
  </tbody> 
 </table>

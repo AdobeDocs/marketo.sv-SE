@@ -3,9 +3,9 @@ description: Best Practices for Interactive Webinars - Marketo Docs - Product Do
 title: Best Practices for Interactive Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Undvik schemaläggning av sessioner med bakåt. Kontrollera att du har minst 30 minuters förberedelsetid innan du startar webbinariet. Detta gör att du kan ladda upp alla sista minuten-presentationsändringar, justera mikrofonen och kameran och få nya presentatörer som är bekväma med gränssnittet.
 
-* Tilldela roller till dina teammedlemmar. Lägg till dem som värdar och presentatörer. Värdar och presentatörer kan gå in i rummet före deltagarna.
+* Tilldela roller till dina teammedlemmar. Lägg till dem som värdar och presentatörer. Värdar och presentatörer kan gå in i rummet före deltagarna. Men var noga med att [designa ditt interaktiva webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _innan_ du lägger till Co-hosts och Presenters.
 
 ### Befordra din aktivitet {#promoting-your-event}
 
