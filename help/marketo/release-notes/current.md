@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 2%
 
 ---
@@ -54,8 +54,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr> 
    <td><strong>Smart lista "Ange som påverkar" antal</strong>: Se hur många som påverkas när du redigerar kvalificeringsreglerna för en smart kampanj.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr> 
    <td><strong>Knappen Mitt konto i navigeringsfältet</strong>: För dem som har migrerat till Adobe Identity Management System kan du konfigurera din tidszon och få åtkomst till prenumerationsinformation genom att klicka på knappen Mitt konto i det vänstra navigeringsfältet.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 

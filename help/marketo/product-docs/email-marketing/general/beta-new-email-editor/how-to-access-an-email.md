@@ -4,30 +4,22 @@ title: Så här kommer du åt e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # Så här kommer du åt e-post {#how-to-access-an-email}
 
-Introduktionstext här.
+När du har skapat ett e-postmeddelande i den nya redigeraren kan du referera till det i Smarta kampanjer eller Smarta listor.
 
 >[!IMPORTANT]
 >
 >Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
 
-1. Logga in på [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT
-
-   LISTA VARJE STEG TILLS DU GET TILL MARKETO?
-
-1. I My Marketo väljer du Design Studio.
-
-   SCREENSHOT
+1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Text
 

@@ -4,10 +4,10 @@ title: Översikt
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -25,8 +25,6 @@ Introduktionstext här.
 
 * [Så här kommer du åt ett e-postmeddelande](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Lär dig hur du kommer åt dina nya redigeringsmeddelanden från Marketo Engage.
 
+^^^-TILLÄGG I HUVUDDOKUMENTET KAN VARA BÄTTRE
+
 * [Skapa en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Lär dig hur du skapar och utformar en e-postmall i den nya redigeraren.
-
-* [Så här kommer du åt en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}: Lär dig hur du kommer åt dina nya redigeringsmeddelanden från Marketo Engage.
-
-^^^ ÄR DET SENASTE DOKUMENTET NÖDVÄNDIGT?

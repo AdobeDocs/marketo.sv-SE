@@ -4,9 +4,9 @@ title: Skapa en e-postmall
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Introduktionstext här.
 >[!IMPORTANT]
 >
 >Den här artikeln är endast avsedd för medlemmar av den nya e-postredigeraren i Marketo Engage som har en sluten betaversion. Sprid inte information.
+
+>[!NOTE]
+>
+>E-postmallar i den nya e-postredigeraren kan bara användas för att skapa e-postmeddelanden i den nya e-postredigeraren. Det går inte att referera till dem i den gamla e-postredigeraren.
 
 1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -79,17 +83,19 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Inneh�
 
    SCREENSHOT
 
+   >[!NOTE]
+   >
+   >När HTML-innehållet har överförts är ditt innehåll i kompatibilitetsläge. I det här läget kan du bara anpassa texten, lägga till länkar eller inkludera resurser i innehållet.
+
+1. Om du vill använda Designer-komponenterna för e-post går du till konverterarfliken HTML och klickar på Konvertera.
+
+   SCREENSHOT
+
    >[!CAUTION]
    >
    >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Du kan nu anpassa den importerade filen efter behov med den visuella e-postredigeraren.
 
 ### Välj en mall {#choose-a-template}
 
@@ -124,7 +130,3 @@ Välj en av fyra färdiga mallar för att snabbt komma igång med designen av e-
    SCREENSHOT
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[Åtkomst till en e-postmall](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
