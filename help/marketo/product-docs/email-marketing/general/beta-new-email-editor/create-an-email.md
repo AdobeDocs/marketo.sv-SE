@@ -4,9 +4,9 @@ title: Skapa ett e-postmeddelande
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ SCREENSHOT
 
 ## Referera till ett e-postmeddelande {#reference-an-email}
 
-När du har skapat ett e-postmeddelande i den nya redigeraren kan du referera till det i Smarta kampanjer eller Smarta listor på samma sätt som du gör med andra e-postmeddelanden.
+När du har skapat ett e-postmeddelande i den nya redigeraren kan du referera till det i Smarta kampanjer och/eller Smarta listor på samma sätt som du gör med andra e-postmeddelanden.
 
 * Referera den i en smart lista genom att [följa de vanliga stegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
