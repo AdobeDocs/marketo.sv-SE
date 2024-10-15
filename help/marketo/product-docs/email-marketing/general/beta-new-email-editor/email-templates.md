@@ -1,0 +1,354 @@
+---
+description: E-postmallar - Marketo Docs - produktdokumentation
+title: E-postmallar
+hide: true
+hidefromtoc: true
+feature: Email Editor
+source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+workflow-type: tm+mt
+source-wordcount: '1411'
+ht-degree: 0%
+
+---
+
+# E-postmallar {#email-templates}
+
+Introduktionstext här.
+
+>[!IMPORTANT]
+>
+>Den här artikeln är endast avsedd för medlemmar av den nya betaversionen av e-postredigeraren i Marketo Engage. Sprid inte information.
+
+>[!NOTE]
+>
+>E-postmallar i den nya e-postredigeraren kan bara användas för att skapa e-postmeddelanden i den nya e-postredigeraren. Det går inte att referera till dem i den gamla e-postredigeraren.
+
+## Skapa en e-postmall {#create-an-email-template}
+
+1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. I Min Marketo väljer du **Design Studio**.
+
+   ![](assets/create-an-email-template-1.png)
+
+1. Välj **E-postmallar (ny redigerare)** i trädet.
+
+   ![](assets/create-an-email-template-2.png)
+
+1. Klicka på knappen **Skapa mall**.
+
+   ![](assets/create-an-email-template-3.png)
+
+1. Ange ett mallnamn och en valfri beskrivning. Klicka på **Skapa**.
+
+   ![](assets/create-an-email-template-4.png)
+
+## Utforma en mall {#design-your-template}
+
+På sidan _Designa mallen_ kan du välja bland ett par alternativ. [Designa från grunden](#design-from-scratch), [importera din egen HTML](#import-html) eller [välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett som du redan har sparat). 
+
+### Designa från grunden {#design-from-scratch}
+
+Definiera innehållet genom att lägga till och flytta strukturella element med enkla dra och släpp-åtgärder.
+
+1. På sidan _Designa mallen_ väljer du **Designa från grunden**.
+
+   SCREENSHOT
+
+1. Lägg till [struktur och innehåll](#add-structure-and-content).
+
+### Importera HTML {#import-your-html}
+
+Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Innehållet kan vara
+
+* En HTML-fil med en infogad formatmall
+
+* En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
+
+>[!NOTE]
+>
+>ZIP-filstrukturen har inga begränsningar. Referenserna måste dock vara relativa och passa in i trädstrukturen i ZIP-mappen.
+
+1. På sidan _Designa mallen_ väljer du **Importera HTML**.
+
+   SCREENSHOT
+
+1. Dra och släpp HTML- eller ZIP-filen och klicka på **Importera**.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >När HTML-innehållet har överförts är ditt innehåll i kompatibilitetsläge. I det här läget kan du bara anpassa texten, lägga till länkar eller lägga till resurser i innehållet.
+
+1. Om du vill använda Designer-innehållskomponenterna för e-post klickar du på fliken **HTML-konverterare** och sedan på **Konvertera**.
+
+   SCREENSHOT
+
+   >[!CAUTION]
+   >
+   >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
+
+Du kan nu anpassa den importerade filen efter behov med den visuella e-postredigeraren.
+
+### Välj en mall {#choose-a-template}
+
+Det finns två typer av mallar att välja mellan.
+
+* Exempelmallar: Marketo Engage har fyra färdiga e-postmallar.
+
+* Sparade mallar: Det här är mallar som du har skapat från grunden med hjälp av menyn Mallar eller ett e-postmeddelande som du har skapat och valt att spara som en mall.
+
+>[!BEGINTABS]
+
+>[!TAB Exempelmallar]
+
+Välj en av fyra färdiga mallar för att snabbt komma igång med designen av e-postmallar.
+
+1. Välj Exempelmallar.
+
+   SCREENSHOT
+
+1. Text.
+
+   SCREENSHOT
+
+>[!TAB Sparade mallar]
+
+1. Välj Sparade mallar.
+
+   SCREENSHOT
+
+1. Text.
+
+   SCREENSHOT
+
+>[!ENDTABS]
+
+## Lägga till struktur och innehåll {#add-structure-and-content}
+
+1. Om du vill börja skapa eller ändra innehåll drar och släpper du ett objekt från Strukturer på arbetsytan. Redigera inställningarna i rutan till höger.
+
+   >[!TIP]
+   >
+   >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >Varje kolumnstorlek får inte vara mindre än 10 % av strukturkomponentens totala bredd. Endast tomma kolumner kan tas bort.
+
+1. I avsnittet Innehåll drar du över önskade objekt och släpper dem i en eller flera strukturkomponenter.
+
+   SCREENSHOT
+
+1. Varje komponent kan anpassas via flikarna Inställningar eller Format. Ändra teckensnitt, textstil, marginal med mera.
+
+SCREENSHOT
+
+### Lägg till Assets {#add-assets}
+
+```
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+```
+
+```
+Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+```
+
+1. Om du vill komma åt dina bilder klickar du på ikonen Resursväljare.
+
+   SCREENSHOT
+
+1. Dra och släpp den önskade bilden i en strukturkomponent.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >Om du vill ersätta en befintlig bild markerar du den och klickar sedan på **Välj en resurs** på fliken Inställningar till höger.
+
+Klicka på Aktivera villkorsinnehåll för att lägga till dynamiskt innehåll och anpassa innehållet till målprofilerna baserat på villkorliga regler.
+
+
+
+Om det behövs kan du anpassa e-postmeddelandet ytterligare genom att klicka på Växla till kodredigerare på den avancerade menyn. På så sätt kan du redigera e-postkällkoden, till exempel för att lägga till spårningstaggar eller anpassade HTML-taggar.
+
+FÖRSIKTIGHET
+Du kan inte återgå till den visuella designern för det här e-postmeddelandet efter att du har växlat till kodredigeraren.
+
+När innehållet är klart klickar du på knappen Simulera innehåll för att kontrollera återgivningen. Du kan välja skrivbordsvy eller mobilvy.
+
+När du är klar klickar du på Spara
+
+### Lager, inställningar och format {#layers-settings-styles}
+
+```
+ARE THEY CALLED LAYERS OR COMPONENTS
+```
+
+Öppna navigeringsträdet för att komma åt specifika strukturer och deras kolumner/komponenter för mer detaljerad redigering.
+
+1. Klicka på ikonen Navigeringsträd om du vill komma åt filen.
+
+SCREENSHOT
+
+
+
+
+### Anpassa innehåll {#personalize-content}
+
+Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikonen ser annorlunda ut.
+
+1. Markera textkomponenten och klicka på ikonen **Lägg till anpassning** .
+
+   SCREENSHOT
+
+1. Klicka på önskad [tokentyp](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+
+   SCREENSHOT
+
+1. Klicka på + eller ... för att lägga till en token i det tomma utrymmet.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >&quot;Reservtext&quot; är den nya redigerartermen för standardvärde. Exempel: ``{{lead.First Name:default=Friend}}``
+
+1. Klicka på **Spara** när du är klar.
+
+### Redigera URL-spårning {#edit-url-tracking}
+
+Ibland vill du inte aktivera URL:en för Marketo-spårning för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
+
+1. Klicka på ikonen Länkar för att visa alla URL:er i e-postmeddelandet.
+
+   SCREENSHOT
+
+1. Klicka på pennikonen om du vill redigera spårning för länkarna.
+
+   SCREENSHOT
+
+   ```
+   LABEL?
+   
+   TAGS?
+   ```
+
+   <table><tbody>
+     <tr>
+       <td><b>Spåra utan mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Spåra med mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Spåra inte</b></td>
+       <td>definition</td>
+     </tr>
+   </tbody>
+   </table>
+
+1. Klicka på **Spara** när du är klar.
+
+### Visningsalternativ {#view-options}
+
+Utnyttja de alternativ för visning och innehållsvalidering som finns i den visuella e-postredigeraren.
+
+* Zooma in/ut i innehållet med förinställda zoomalternativ.
+
+* Visa innehållet på datorer, mobiler eller i textformat/oformaterad text.
+
+   * Klicka på ikonen för live-vyn (ögat) om du vill förhandsgranska innehåll på olika enheter.
+
+   * Välj en av de färdiga enheterna eller ange anpassade dimensioner för att förhandsgranska innehållet.
+
+### Fler alternativ {#more-options}
+
+Från alternativen för **Mer** i innehållsredigeraren kan du utföra följande åtgärder:
+
+SCREENSHOT
+
+* **Återställ mall**: Välj det här alternativet om du vill rensa den visuella e-postdesignerns arbetsyta till en tom plats och starta om skapandet av innehåll.
+
+* **Ändra din design**: Återgå till sidan _Designa din mall_. Härifrån kan du utföra vilken åtgärd som helst som beskrivs i avsnittet [Utforma din mall](#design-your-template).
+
+* **Exportera HTML**: Hämta innehåll på den visuella arbetsytan till ditt lokala system i HTML-format som paketerats som en zip-fil.
+
+## Visa mallinformation {#view-template-details}
+
+Klicka på namnet på en e-postmall på listsidan _E-postmallar_ för att visa informationen om mallen.
+
+SCREENSHOT
+
+Grundläggande information som namn och beskrivning kan redigeras. Klicka utanför fältet som du redigerade för att spara ändringarna.
+
+Klicka på **Mer** om du snabbt vill ta bort eller duplicera mallen.
+
+Om det finns aktiva varningar (fel/varningar för e-postmallen) klickar du på Varningar för att visa informationen.
+
+>[!NOTE]
+>
+>Dessa aviseringar förhindrar inte att e-postmallen används för att skapa e-postmeddelanden, men informationen ger synlighet om vad som kanske inte fungerar och vilka uppdateringar som krävs innan e-postmeddelandet kan användas för leverans.
+
+## Visa e-postmall som används av referenser {#email-template-used-by-references}
+
+Klicka på fliken **Används av** i e-postmallssammanfattningen för att visa information om var e-postmallen har använts i Marketo Engage.
+
+SCREENSHOT
+
+## Redigera e-postmallar {#edit-email-templates}
+
+Den här åtgärden kan utföras från:
+
+* Fliken Information - Klicka på **Redigera e-postmall**.
+
+* Listsidan _E-postmallar_ - Klicka på ikonen Fler åtgärder (tre punkter) för den e-postmall du vill använda och välj Redigera.
+
+```
+THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+```
+
+Den här åtgärden tar dig till sidan _Designa din mall_ eller den visuella innehållets redigeringssida baserat på den senast sparade statusen för e-postmallen. Härifrån kan du redigera e-postmallens innehåll efter behov. Mer information om redigeringsalternativen finns i Skapa e-postmallar.
+
+## Duplicera e-postmallar {#duplicate-email-templates}
+
+Det finns två sätt att duplicera en e-postmall:
+
+* Klicka på **Mer** och välj **Duplicera** i informationen om e-postmallen till höger.
+
+SCREENSHOT
+
+* Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Duplicera**.
+
+Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **Duplicera** när du är klar.
+
+Den duplicerade e-postmallen visas sedan på listsidan _E-postmallar_ .
+
+## Ta bort e-postmallar {#delete-email-templates}
+
+Det finns två sätt att ta bort en e-postmall.
+
+>[!CAUTION]
+>
+>Det går inte att ångra borttagning av en e-postmall.
+
+* Klicka på **Mer** och välj **Ta bort** i informationen om e-postmallen till höger.
+
+SCREENSHOT
+
+* Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Ta bort**.
+
+## Massåtgärder {#bulk-actions}
+
+På listsidan _E-postmallar_ väljer du flera mallar genom att markera kryssrutorna till vänster. En banderoll visas längst ned.
+
+**Ta bort**: Du kan ta bort högst 20 mallar samtidigt. I en bekräftelsedialogruta kan du avbryta åtgärden eller bekräfta borttagningen.
+
+>[!MORELIKETHIS]
+>
+>[Skapa e-post](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya redigeraren.
