@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 0%
             + [E-posthändelseloggning](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Använda RTF-redigeraren](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta nya e-postredigerare {#beta-new-email-editor}
-            + [Skapa ett e-postmeddelande](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [Skapa en e-postmall](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [Så här kommer du åt e-post](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [Åtkomst till en e-postmall](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [Ny översikt över e-postredigeraren (beta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [Framtagning av e-post](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [E-postmallar](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + Skapar e-post {#creating-an-email}
             + [Godkänn ett e-postmeddelande](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Skapa ett e-postmeddelande med endast text](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
