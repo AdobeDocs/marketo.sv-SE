@@ -4,9 +4,9 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1655'
+source-wordcount: '1711'
 ht-degree: 0%
 
 ---
@@ -149,8 +149,6 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 1. Varje komponent kan anpassas via flikarna Inställningar eller Format. Ändra teckensnitt, textstil, marginal med mera.
 
-SCREENSHOT
-
 ### Lägg till Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
 ### Anpassa innehåll {#personalize-content}
 
-Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikonen ser annorlunda ut.
+Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikonen ser annorlunda ut. Exemplet nedan visar hur du lägger till en token för förnamn med reservtext.
 
-1. Markera textkomponenten och klicka på ikonen **Lägg till anpassning** .
+1. Markera textkomponenten. Placera markören där du vill att token ska visas och klicka på ikonen **Lägg till anpassning** .
 
-   SCREENSHOT
+   ![](assets/personalize-content-1.png)
 
 1. Klicka på önskad [tokentyp](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/personalize-content-2.png)
 
-1. Klicka på + eller ... för att lägga till en token i det tomma utrymmet.
+1. Hitta önskad token och klicka på ikonen **..** (klicka på ikonen + i stället för att lägga till en token utan reservtext).
 
-   SCREENSHOT
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Reservtext&quot; är den nya redigerartermen för standardvärde. Exempel: ``{{lead.First Name:default=Friend}}``
+   >&quot;Reservtext&quot; är den nya redigerartermen för standardvärde. Exempel: ``{{lead.First Name:default=Friend}}``. Det rekommenderas om det inte finns något värde för personen i det fält du väljer.
 
-1. Klicka på **Spara** när du är klar.
+1. Ange din reservtext och klicka på **Lägg till**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Klicka på **Spara**.
 
 ### Redigera URL-spårning {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Ibland vill du inte aktivera URL:en för Marketo-spårning för en länk i ett e
 
 1. Klicka på ikonen Länkar för att visa alla URL:er i e-postmeddelandet.
 
-   SCREENSHOT
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klicka på pennikonen om du vill redigera spårning för länkarna.
 
-   SCREENSHOT
+1. Klicka på listrutan **Spårningstyp** och gör ditt val.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?

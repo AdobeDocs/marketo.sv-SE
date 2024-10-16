@@ -4,9 +4,9 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1457'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -141,7 +141,7 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
    >
    >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 1. I avsnittet Innehåll drar du över önskade objekt och släpper dem i en eller flera strukturkomponenter.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Varje komponent kan anpassas via flikarna Inställningar eller Format. Ändra teckensnitt, textstil, marginal med mera.
-
-SCREENSHOT
 
 ### Lägg till Assets {#add-assets}
 
@@ -261,11 +259,13 @@ Ibland vill du inte aktivera URL:en för Marketo-spårning för en länk i ett e
 
 1. Klicka på ikonen Länkar för att visa alla URL:er i e-postmeddelandet.
 
-   SCREENSHOT
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Klicka på pennikonen om du vill redigera spårning för länkarna.
 
-   SCREENSHOT
+1. Klicka på listrutan **Spårningstyp** och gör ditt val.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ När meddelandeinnehållet har definierats kan du använda testprofiler för att
 
 Om du vill förhandsgranska ditt e-postinnehåll klickar du på **Simulera innehåll** och lägger sedan till en testprofil för att kontrollera meddelandet med testprofildata.
 
-SCREENSHOT
+![](assets/test-your-email-1.png)
 
 ## Referera till ett e-postmeddelande {#reference-an-email}
 
