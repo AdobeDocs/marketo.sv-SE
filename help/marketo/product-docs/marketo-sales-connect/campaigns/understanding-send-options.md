@@ -4,9 +4,9 @@ description: Understanding Send Options - Marketo Docs - Product Documentation
 title: Förstå sändningsalternativ
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ Om det är ditt första steg och den första dagen i din kampanj har du följand
 
 ![](assets/image2019-10-25-10-43-19.png)
 
-Jag väljer när det här e-postmeddelandet ska skickas
+**Jag väljer när det här e-postmeddelandet ska skickas**
 
 * Med det här alternativet kan du välja&quot;skicka vid&quot;-tid för det första e-postmeddelandet i din kampanj när du startar kampanjen genom att lägga till personer.
 
-Skicka det här e-postmeddelandet vid följande tidpunkt
+**Skicka det här e-postmeddelandet vid följande tidpunkt**
 
 * När ni får igång er kampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny sändningstid när du stänger av din kampanj.
 
-Skapa en uppgift. Jag skickar det här e-postmeddelandet själv
+**Skapa en aktivitet. Jag skickar det här e-postmeddelandet själv**
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
+* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer vi att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar Campaign. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.
@@ -38,24 +38,28 @@ Skapa en uppgift. Jag skickar det här e-postmeddelandet själv
 
 För efterföljande dagar/steg i din kampanj finns följande alternativ:
 
-Skicka det här e-postmeddelandet samtidigt som det föregående e-postmeddelandet i den här kampanjen
+**Skicka det här e-postmeddelandet samtidigt som det föregående e-postmeddelandet i kampanjen**
 
 * Det här alternativet skickar e-postmeddelandet samtidigt som e-postmeddelandet direkt före det.
 * Det skickas fortfarande den dag det är kopplat till.
 
-Skicka det här e-postmeddelandet vid följande tidpunkt
+>[!IMPORTANT]
+>
+>Det går inte att skicka e-postmeddelanden samtidigt som föregående e-postmeddelande för e-postmeddelanden som skickas samma dag. I stället skickas e-postmeddelandet när det e-postmeddelande som skickats från föregående dag skickas. Om det här alternativet väljs för ett e-postmeddelande den första dagen i kampanjen (rekommenderas inte) skickas det e-postmeddelandet direkt i början av kampanjen.
+
+**Skicka det här e-postmeddelandet vid följande tidpunkt**
 
 * När ni får igång er kampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
 * Du har alltid möjlighet att välja en ny sändningstid när du stänger av din kampanj.
 
-Skapa en uppgift. Jag skickar det här e-postmeddelandet själv
+**Skapa en aktivitet. Jag skickar det här e-postmeddelandet själv**
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
+* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer Tout att ställa de här uppgifterna i kö när du startar Campaign i kommandocentralen och liveflödet. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.
    * Om du öppnar den här uppgiften i Gmail eller Outlook öppnas ett fönster för inbyggda dispositioner där kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer fylls i dynamiskt.
 
-Koppla det här e-postmeddelandet till föregående e-postmeddelande
+**Koppla det här e-postmeddelandet till föregående e-postmeddelande**
 
 * Det här sändningsalternativet är en uppföljning av ditt tidigare e-postmeddelande och kommer att lägga till det föregående e-postmeddelandet längst ned i det här e-postmeddelandet.

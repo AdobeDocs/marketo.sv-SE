@@ -4,9 +4,9 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Så där ja. Nu är det dags att designa e-postmeddelanden.
 
 ## Välj innehållstyp {#choose-your-content-type}
 
-1. Klicka på **+ Lägg till e-postinnehåll** i det e-postmeddelande du just skapade.
+1. Klicka på **Lägg till e-postinnehåll** i det e-postmeddelande du just skapade.
 
-   SCREENSHOT
+   ![](assets/choose-your-content-type-1.png)
 
 1. Sidan _Skapa din e-post_ läses in. Du kan välja mellan några alternativ:
 
@@ -83,11 +83,9 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. I
 
 1. Välj **Importera HTML** på mallsidan.
 
-   SCREENSHOT
+1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
 
-1. Dra och släpp HTML- eller ZIP-filen och klicka på **Importera**.
-
-   SCREENSHOT
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Det finns två typer av mallar att välja mellan.
 
 >[!TAB Exempelmallar]
 
-Välj en av våra färdiga mallar för att snabbt komma igång med e-postdesignen.
+Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-postmallar.
 
-1. Välj **Exempelmallar** på sidan Skapa din e-post.
+1. Fliken Exempelmallar är öppen som standard.
 
-   SCREENSHOT
+1. Markera den mall som du vill använda.
 
-1. Välj önskad mall.
+   ![](assets/authoring-sample-templates-1.png)
 
-   SCREENSHOT
+1. Klicka på **Använd mallen**.
 
-1. En förhandsgranskning visas. Bekräfta ditt val genom att klicka på **Använd den här mallen**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   SCREENSHOT
+1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
 >[!TAB Sparade mallar]
 
-Välj någon av de mallar du skapat tidigare.
+1. Klicka på fliken **Sparade mallar** och välj önskad mall.
 
-1. Välj **Sparade mallar** på sidan Skapa din e-post.
+   ![](assets/authoring-saved-templates-1.png)
 
-   SCREENSHOT
+1. Klicka på **Använd mallen**.
 
-1. Välj önskad mall.
+   ![](assets/authoring-saved-templates-2.png)
 
-   SCREENSHOT
-
-1. En förhandsgranskning visas. Bekräfta ditt val genom att klicka på **Använd den här mallen**.
-
-   SCREENSHOT
+1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ SCREENSHOT
 
 ### Anpassa innehåll {#personalize-content}
 
-Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikonen ser annorlunda ut.
+Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikonen ser annorlunda ut. Exemplet nedan visar hur du lägger till en token för förnamn med reservtext.
 
-1. Markera textkomponenten och klicka på ikonen **Lägg till anpassning** .
+1. Markera textkomponenten. Placera markören där du vill att token ska visas och klicka på ikonen **Lägg till anpassning** .
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Klicka på önskad [tokentyp](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Klicka på + eller ... för att lägga till en token i det tomma utrymmet.
+1. Hitta önskad token och klicka på ikonen **..** (klicka på ikonen + i stället för att lägga till en token utan reservtext).
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Reservtext&quot; är den nya redigerartermen för standardvärde. Exempel: ``{{lead.First Name:default=Friend}}``
+   >&quot;Reservtext&quot; är den nya redigerartermen för standardvärde. Exempel: ``{{lead.First Name:default=Friend}}``. Det rekommenderas om det inte finns något värde för personen i det fält du väljer.
 
-1. Klicka på **Spara** när du är klar.
+1. Ange din reservtext och klicka på **Lägg till**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Klicka på **Spara**.
 
 ### Redigera URL-spårning {#edit-url-tracking}
 

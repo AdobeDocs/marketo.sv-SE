@@ -3,9 +3,9 @@ description: Förstå alternativ för att skicka säljkampanjer via e-post - Mar
 title: Om sändningsalternativ för försäljningskampanj för e-poststeg
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Om det är ditt första steg och den första dagen i din säljkampanj har du fö
 
 ### Skapa en uppgift. Jag skickar det här e-postmeddelandet själv {#first-step-create-a-task}
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
+* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
 * När du har valt detta alternativ kommer vi att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar säljkampanjen. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.
@@ -46,6 +46,10 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 * Det här alternativet skickar e-postmeddelandet samtidigt som e-postmeddelandet direkt före det.
 * Det skickas fortfarande den dag det är kopplat till.
 
+>[!IMPORTANT]
+>
+>Det går inte att skicka e-postmeddelanden samtidigt som föregående e-postmeddelande för e-postmeddelanden som skickas samma dag. I stället skickas e-postmeddelandet när det e-postmeddelande som skickats från föregående dag skickas. Om det här alternativet väljs för ett e-postmeddelande den första dagen i kampanjen (rekommenderas inte) skickas det e-postmeddelandet direkt i början av kampanjen.
+
 ### Skicka det här e-postmeddelandet vid följande tidpunkt {#subsequent-send-at-following-time}
 
 * När ni börjar med er säljkampanj genom att lägga till personer i den kommer vi att schemalägga e-postmeddelandet för den här gången.
@@ -53,7 +57,7 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 
 ### Skapa en uppgift. Jag skickar det här e-postmeddelandet själv {#subsequent-create-a-task}
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras med Salesforce) som du kan skicka när du vill.
+* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
 * När du har valt detta alternativ kommer Säljannonsering att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar säljkampanjen. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.

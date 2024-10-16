@@ -4,16 +4,16 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
 
 # E-postmallar {#email-templates}
 
-Introduktionstext här.
+För en snabbare och förbättrad designprocess kan du skapa fristående e-postmallar för att enkelt återanvända anpassat innehåll.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Introduktionstext här.
 
 På sidan _Designa mallen_ kan du välja bland ett par alternativ. [Designa från grunden](#design-from-scratch), [importera din egen HTML](#import-html) eller [välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett som du redan har sparat). 
 
+![](assets/design-your-template-1.png)
+
 ### Designa från grunden {#design-from-scratch}
 
 Definiera innehållet genom att lägga till och flytta strukturella element med enkla dra och släpp-åtgärder.
 
 1. På sidan _Designa mallen_ väljer du **Designa från grunden**.
-
-   SCREENSHOT
 
 1. Lägg till [struktur och innehåll](#add-structure-and-content).
 
@@ -71,11 +71,9 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Inneh�
 
 1. På sidan _Designa mallen_ väljer du **Importera HTML**.
 
-   SCREENSHOT
+1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
 
-1. Dra och släpp HTML- eller ZIP-filen och klicka på **Importera**.
-
-   SCREENSHOT
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Det finns två typer av mallar att välja mellan.
 
 >[!TAB Exempelmallar]
 
-Välj en av fyra färdiga mallar för att snabbt komma igång med designen av e-postmallar.
+Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-postmallar.
 
-1. Välj Exempelmallar.
+1. Fliken Exempelmallar är öppen som standard.
 
-   SCREENSHOT
+1. Markera den mall som du vill använda.
 
-1. Text.
+   ![](assets/sample-templates-1.png)
 
-   SCREENSHOT
+1. Klicka på **Använd mallen**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
 >[!TAB Sparade mallar]
 
-1. Välj Sparade mallar.
+1. Klicka på fliken **Sparade mallar** och välj önskad mall.
 
-   SCREENSHOT
+   ![](assets/saved-templates-1.png)
 
-1. Text.
+1. Klicka på **Använd mallen**.
 
-   SCREENSHOT
+   ![](assets/saved-templates-2.png)
+
+1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Välj en av fyra färdiga mallar för att snabbt komma igång med designen av e-
    >
    >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Välj en av fyra färdiga mallar för att snabbt komma igång med designen av e-
 
 1. I avsnittet Innehåll drar du över önskade objekt och släpper dem i en eller flera strukturkomponenter.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-2.png)
 
 1. Varje komponent kan anpassas via flikarna Inställningar eller Format. Ändra teckensnitt, textstil, marginal med mera.
 
@@ -194,6 +198,30 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 SCREENSHOT
 
+
+I exemplet nedan beskrivs hur du justerar utfyllnad och lodrät justering inuti en strukturelement som består av tre kolumner.
+
+Markera strukturkomponenten direkt i e-postmeddelandet eller använd navigeringsträdet som finns på den vänstra menyn.
+
+Klicka på Markera en kolumn i verktygsfältet och välj den kolumn som du vill redigera. Du kan också välja det i strukturträdet.
+
+De redigerbara parametrarna för den kolumnen visas på fliken Format.
+
+
+
+Under Justering väljer du Överkant, Mitten eller Nederkant.
+
+
+
+Under Utfyllnad definierar du utfyllnaden för alla sidor.
+
+Välj Olika utfyllnad för varje sida om du vill finjustera utfyllnaden. Klicka på låsikonen för att bryta synkroniseringen.
+
+
+
+Gör på samma sätt om du vill justera justeringen och utfyllnaden för de andra kolumnerna.
+
+Spara ändringarna.
 
 
 
