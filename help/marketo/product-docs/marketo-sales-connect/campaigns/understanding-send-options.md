@@ -4,7 +4,7 @@ description: Understanding Send Options - Marketo Docs - Product Documentation
 title: Förstå sändningsalternativ
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ För efterföljande dagar/steg i din kampanj finns följande alternativ:
 **Koppla det här e-postmeddelandet till föregående e-postmeddelande**
 
 * Det här sändningsalternativet är en uppföljning av ditt tidigare e-postmeddelande och kommer att lägga till det föregående e-postmeddelandet längst ned i det här e-postmeddelandet.
+

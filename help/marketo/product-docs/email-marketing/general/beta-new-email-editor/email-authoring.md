@@ -4,9 +4,9 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1457'
 ht-degree: 0%
 
 ---
@@ -196,14 +196,38 @@ När du är klar klickar du på Spara
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Öppna navigeringsträdet för att komma åt specifika strukturer och deras kolumner/komponenter för mer detaljerad redigering.
+Öppna navigeringsträdet för att komma åt specifika strukturer och deras kolumner/komponenter för mer detaljerad redigering. Klicka på ikonen Navigeringsträd om du vill komma åt filen.
 
-1. Klicka på ikonen Navigeringsträd om du vill komma åt filen.
+![](assets/authoring-layers-settings-styles-1.png)
 
-SCREENSHOT
+I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justering inuti en strukturelement som består av kolumner.
 
+1. Markera kolumnen i strukturkomponenten direkt på arbetsytan eller med _navigeringsträdet_ som visas till vänster.
 
+1. Klicka på verktyget _[!UICONTROL Select a column]_i kolumnverktygsfältet och välj det som du vill redigera.
 
+   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_och_[!UICONTROL Styles]_ till höger.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_till höger och ändrar dem efter dina behov:
+
+   * Ändra bakgrundsfärgen för **[!UICONTROL Background]** efter behov.
+
+     Avmarkera kryssrutan för en genomskinlig bakgrund. Aktivera inställningen **[!UICONTROL Background image]** om du vill använda en bild som bakgrund i stället för en heltäckande färg.
+
+   * För **[!UICONTROL Alignment]** väljer du ikonen _Överkant_, _Mitten_ eller _Nederkant_ .
+   * För **[!UICONTROL Padding]** definierar du utfyllnaden för alla sidor.
+
+     Välj **[!UICONTROL Different padding for each side]** om du vill justera utfyllnaden. Klicka på ikonen _Lås_ om du vill avbryta synkroniseringen.
+
+   * Expandera avsnittet **[!UICONTROL Advanced]** för att definiera infogade format för kolumnen.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Upprepa de här stegen efter behov för att justera justeringen och utfyllnaden för de andra kolumnerna i komponenten.
+
+1. Spara ändringarna.
 
 ### Anpassa innehåll {#personalize-content}
 
