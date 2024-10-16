@@ -4,16 +4,16 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 0%
 
 ---
 
 # Framtagning av e-post {#email-authoring}
 
-Introduktionstext här.
+Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Fel förhindrar att du skickar eller testar e-postmeddelandet tills de har löst
 
 * **E-postversionen av meddelandet är tom**: Det här felet inträffar när e-postinnehållet inte har konfigurerats.
 
-## Testa din e-post
+## Testa din e-post {#test-your-email}
 
 När meddelandeinnehållet har definierats kan du använda testprofiler för att förhandsgranska det, skicka korrektur och styra hur det återges i vanliga dator-, mobil- och webbaserade klienter. Om du har infogat anpassat innehåll kan du kontrollera hur det visas i meddelandet med hjälp av testprofilsdata.
 
