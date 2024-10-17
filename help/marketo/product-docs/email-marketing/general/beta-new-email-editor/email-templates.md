@@ -4,7 +4,7 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1711'
 ht-degree: 0%
@@ -93,9 +93,9 @@ Du kan nu anpassa den importerade filen efter behov med den visuella e-postredig
 
 Det finns två typer av mallar att välja mellan.
 
-* Exempelmallar: Marketo Engage har fyra färdiga e-postmallar.
+* **Exempelmallar**: Marketo Engage har fyra färdiga e-postmallar.
 
-* Sparade mallar: Det här är mallar som du har skapat från grunden med hjälp av menyn Mallar eller ett e-postmeddelande som du har skapat och valt att spara som en mall.
+* **Sparade mallar**: Det här är mallar som du har skapat från grunden via menyn Mallar eller ett e-postmeddelande som du har skapat och valt att spara som en mall.
 
 >[!BEGINTABS]
 
