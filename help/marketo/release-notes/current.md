@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 2%
+source-wordcount: '515'
+ht-degree: 1%
 
 ---
 
@@ -83,6 +83,17 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    </td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport om e-postprestanda</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce Sync Backlog Metrics</strong>: Övervaka genomströmning och trender för eftersläpning för att planera och schemalägga CRM-uppdateringar för en optimal synkroniseringsupplevelse.
+   </td> 
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
   </tr>
  </tbody> 
 </table>
