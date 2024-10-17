@@ -3,9 +3,9 @@ description: Ändra eller ta bort ett interaktivt webbinarium - Marketo Docs - p
 title: Ändra eller ta bort ett interaktivt webbinarium
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,10 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## Ta bort ett interaktivt webbinarium {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>Om du skapar ett testwebbinarium måste det tas bort innan starttiden för att säkerställa att licensen för det webbinariet inte används.
 
 1. Välj önskat händelseprogram.
 

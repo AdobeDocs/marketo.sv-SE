@@ -3,9 +3,9 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Skapa ett interaktivt webbinarium i några enkla steg.
    >* Du kan inte återanvända en webbinarititel. Var och en måste vara unik i din Marketo-instans.
    >
    >* Du kan ändra webbinariets titel vid ett senare tillfälle om du vill.
+   >
+   >* Om du skapar ett testwebbinarium måste det tas bort innan starttiden för att säkerställa att licensen för det webbinariet inte används.
 
 1. Schemalägg datum/tid för webbinariet och klicka på **Skapa**.
 
