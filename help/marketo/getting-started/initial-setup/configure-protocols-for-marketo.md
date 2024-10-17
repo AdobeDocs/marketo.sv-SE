@@ -4,9 +4,9 @@ description: Konfigurera protokoll för Marketo Engage - Marketo Engage Docs - p
 title: Konfigurera protokoll för Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ När marknadsföringsgruppen använder Marketo Engage för att skicka testmeddel
 
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -112,20 +110,20 @@ Marknadsföringsteamet bör också ha skickat dig DKIM-information (Domain Keys 
 
 ## Steg 4: Konfigurera DMARC {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) är ett autentiseringsprotokoll som används för att hjälpa organisationer att skydda sin domän mot obehörig användning. DMARC utökar de befintliga autentiseringsprotokollen, som SPF och DKIM, för att informera mottagarservrarna om vilka åtgärder de bör vidta om ett autentiseringsfel inträffar på deras domän. Även om DMARC för närvarande är valfritt rekommenderas det starkt eftersom det bättre skyddar er organisations varumärke och anseende. Större leverantörer som Google och Yahoo kommer att kräva att DMARC används för bulkavsändare från och med februari 2024.
+DMARC (domänbaserad meddelandeautentisering, rapportering och överensstämmelse) är ett autentiseringsprotokoll som används för att hjälpa organisationer att skydda sin domän mot obehörig användning. DMARC utökar de befintliga autentiseringsprotokollen, som SPF och DKIM, för att informera mottagarservrar om vilka åtgärder de bör vidta om ett autentiseringsfel inträffar på deras domän. Även om DMARC för närvarande är valfritt rekommenderar vi starkt att det skyddar er organisations varumärke och anseende bättre. Större leverantörer som Google och Yahoo kommer att kräva att DMARC används för bulkavsändare från och med februari 2024.
 
 För att DMARC ska fungera måste du ha minst en av följande DNS TXT-poster:
 
 * En giltig SPF
 * En giltig DKIM-post för din FROM: Domän (rekommenderas för Marketo Engage)
 
-Dessutom måste du ha en DMARC-specifik DNS TXT-post för din FROM: Domain. Om du vill kan du definiera en e-postadress som du väljer för att ange var DMARC-rapporter ska ligga inom organisationen, så att du kan övervaka rapporter.
+Dessutom måste du ha en DMARC-specifik DNS TXT-post för din FROM: Domain. Du kan också ange en e-postadress som du vill använda för att ange var DMARC-rapporter ska ligga inom organisationen, så att du kan övervaka rapporter.
 
-Som en god praxis bör DMARC-implementeringen långsamt implementeras genom att eskalera din DMARC-policy från p=none till p=karantäns, till p=reject när du får en förståelse för DMARC:s potentiella effekt och ställa in din DMARC-policy på en avspänd anpassning av SPF och DKIM.
+Vi rekommenderar att du långsamt implementerar DMARC genom att eskalera din DMARC-policy från p=none, till p=karantän, för att p=reject när du får kunskap om DMARC potentiella konsekvenser och ställer in din DMARC-policy på att avspänna justeringen av SPF och DKIM.
 
-### DMARC-exempelarbetsflöde {#dmarc-example-workflow}
+### DMARC Example Workflow {#dmarc-example-workflow}
 
-1. Om du är konfigurerad att ta emot DMARC-rapporter bör du göra följande..
+1. Om du är konfigurerad att ta emot rapporter från DMARC bör du göra följande..
 
    I. Analysera den feedback och de rapporter som du tar emot och använder (p=none), som instruerar mottagaren att inte vidta några åtgärder mot meddelanden som inte kan autentiseras, men ändå skicka e-postrapporter till avsändaren.
 
@@ -145,9 +143,9 @@ Som en god praxis bör DMARC-implementeringen långsamt implementeras genom att 
 >
 >Använd den här profilen med försiktighet och kontrollera om den passar din organisation.
 
-### DMARC-rapportering {#dmarc-reporting}
+### DMARC Reporting {#dmarc-reporting}
 
-DMARC kan ta emot rapporter om e-postmeddelanden som saknar SPF/DKIM. Det finns två olika rapporter som genereras av ISP-tjänstleverantörer som en del av autentiseringsprocessen som avsändare kan få via RUA/RUF-taggarna i sin DMARC-policy.
+DMARC erbjuder möjlighet att få rapporter om e-postmeddelanden som inte godkänns i SPF/DKIM. Det finns två olika rapporter som genereras av ISP-tjänstleverantörer som en del av autentiseringsprocessen som avsändare kan ta emot via RUA/RUF-taggarna i sin DMARC-policy.
 
 * Aggregate Reports (RUA): does not contain any PII (Personally Identiitable Information) that will be GDPR (General Data Protection Regulation) sensitive.
 
@@ -155,7 +153,7 @@ DMARC kan ta emot rapporter om e-postmeddelanden som saknar SPF/DKIM. Det finns 
 
 Det viktigaste användningsområdet för dessa rapporter är att få en översikt över e-postmeddelanden som försöker förfalskas. Det här är mycket tekniska rapporter som är bäst sammanställda via ett verktyg från tredje part.
 
-### Exempel på DMARC-poster {#example-dmarc-records}
+### Exempel på DMARC Records {#example-dmarc-records}
 
 * Minsta bandpost: `v=DMARC1; p=none`
 
@@ -186,9 +184,9 @@ DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett v
   <tr>
     <td>p</td>
     <td>Obligatoriskt</td>
-    <td>Visar den valda DMARC-principen och instruerar mottagaren att rapportera, karantän eller avvisa e-post som inte kan autentiseras.</td>
+    <td>Visar den valda DMARC-principen och instruerar mottagaren att rapportera, sätta i karantän eller avvisa e-post som inte kan autentiseras.</td>
     <td>p=ingen, karantän eller avvisad</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>fo</td>
@@ -198,7 +196,7 @@ DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett v
     <br>1: Generera en rapport om något misslyckas 
     <br>d: Generera en rapport om DKIM misslyckas 
     <br>s: Generera en rapport om SPF misslyckas</td>
-    <td>1 (rekommenderas för DMARC- rapporter)</td>
+    <td>1 (rekommenderas för DMARC-rapporter)</td>
   </tr>
   <tr>
     <td>pct</td>
@@ -212,21 +210,21 @@ DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett v
     <td>Valfritt (rekommenderas)</td>
     <td>Identifierar var aggregerade rapporter kommer att levereras.</td>
     <td>rua=mailto:aggrep@example.com</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>ruf</td>
     <td>Valfritt (rekommenderas)</td>
     <td>Identifierar var kriminaltekniska rapporter kommer att levereras.</td>
     <td>ruf=mailto:authfail@example.com</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>sp</td>
     <td>Valfritt</td>
     <td>Anger DMARC-princip för underdomäner till den överordnade domänen.</td>
     <td>sp=avvisa</td>
-    <td>-</td>
+    <td>–</td>
   </tr>
   <tr>
     <td>adkim</td>
@@ -253,14 +251,14 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 >[!NOTE]
 >
->Vi rekommenderar DMARC-justering på DKIM jämfört med SPF för Marketo Engage.
+>Vi rekommenderar att du justerar DMARC på DKIM jämfört med SPF för Marketo Engage.
 
 * DKIM-justerad DMARC - För att ställa in DKIM-justerad DMARC måste du:
 
    * Konfigurera DKIM för FROM: Meddelandets domän. Använd instruktionerna [ i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
 
-* DMARC-justerad SPF - Om du vill ställa in DMARC-justerad SPF via märkesbaserad retursökväg måste du:
+* DMARC-justerad SPF - Om du vill konfigurera DMARC-justerad SPF via varumärkesanpassad retursökväg måste du:
 
    * Konfigurera domänen för varumärkesskyddad retursökväg
       * Konfigurera lämplig SPF-post
