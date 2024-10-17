@@ -2,9 +2,9 @@
 description: Salesforce Sync Backlog Metrics - Marketo Docs - produktdokumentation
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändr
 
 ## Bästa tillvägagångssätt för hantering av eftersläpningar i synkronisering {#best-practices}
 
-**Fält som är synliga för synkronisering av användare**: Kontrollera att de fält som är synliga för synkronisering endast är de som behöver synkroniseras och har ett värde för marknadsföringsaktiviteter. Alla uppdateringar av en post i Salesforce som uppdaterar den senast ändrade tidsstämpeln placerar posten i kö i efterloggen för synkronisering, och onödig synkronisering av fält kan göra att mer viktiga fält blir långsammare under synkronisering. Om de onödiga fälten döljs för synkroniseringsanvändaren, kommer uppdateringar av dessa fält att resultera i en hoppning som är mycket snabbare än en uppdatering. Arbeta med din Salesforce-administratör för att granska de effektivaste strategierna här och uppdatera vilka fält som är synliga för Marketo Sync-användaren.
+**Fält som är synliga för synkronisering av användare**: Kontrollera att de fält som är synliga för synkronisering endast är de som behöver synkroniseras och har ett värde för marknadsföringsaktiviteter. Alla uppdateringar av en post i Salesforce som uppdaterar den senast ändrade tidsstämpeln placerar posten i kö i efterloggen för synkronisering, och onödig synkronisering av fält kan göra att mer viktiga fält blir långsammare under synkronisering. Om de onödiga fälten döljs för synkroniseringsanvändaren, kommer uppdateringar av dessa fält att resultera i en hoppning som är mycket snabbare än en uppdatering. Arbeta med din Salesforce-administratör för att granska de effektivaste strategierna [här](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} och uppdatera vilka fält som är synliga för Marketo Sync-användaren.
 
 **Dölj eller filtrera bort onödiga poster**: Om en post inte är marknadsmässig kan synkroniseringsresurser gå förlorade. Om synkroniseringsanvändaren inte kan se den, kommer det inte att slösa resurser på att synkronisera den. [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} kan hjälpa dig att konfigurera ett synkroniseringsfilter för att hindra poster från att synkroniseras baserat på ytterligare kriterier. Mer information om hur du konfigurerar ett anpassat synkroniseringsfilter [finns här](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Vi rekommenderar starkt att du använder indexfält i Salesforce (kontakta salesforce för mer information).
 
