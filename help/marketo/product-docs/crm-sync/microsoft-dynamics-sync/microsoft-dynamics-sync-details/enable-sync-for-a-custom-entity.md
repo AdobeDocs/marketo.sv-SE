@@ -4,9 +4,9 @@ description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - pro
 title: Aktivera synkronisering för en anpassad entitet
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 1. Glöm inte att aktivera den globala synkroniseringen igen!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo stöder bara anpassade entiteter som är länkade till standardenheter på en eller två nivåer.
+   >
+   >* Det anpassade objektträdet kan visa samma objekt flera gånger på grund av dess direkta anslutningar till ett av huvudobjekten (t.ex. leads, kontakter eller konton eller indirekta anslutningar via ett mellanliggande objekt). I så fall väljer du det objekt som ligger närmast huvudobjektet och väljer bara ett. Om du väljer samma objekt flera gånger kan det försvåra synkroniseringen av det anpassade objektet.

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: SFDC-synkronisering - anpassad objektsynkronisering - Marketo-dokument - produktdokumentation
-title: SFDC-synkronisering - anpassad objektsynkronisering
+description: SFDC Sync - Sync Custom Object Sync - Marketo Docs - produktdokumentation
+title: SFDC Sync - anpassad objektsynkronisering
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
 
 # SFDC-synkronisering: Synkronisering av anpassat objekt {#sfdc-sync-custom-object-sync}
 
-Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
+Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engage. Så här ställer du in det.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    >[!NOTE]
    >
-   >En inledande synkronisering av det anpassade Salesforce-objektschemat kan ta några minuter.
+   >En inledande synkronisering av Salesforce anpassade objektschema kan ta några minuter.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -75,13 +75,15 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Om du vill visa alla dina anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]** (samma som steg 1 ovan).
+1. Om du vill visa alla anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]** (samma som steg 1 ovan).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >Marketo stöder bara anpassade entiteter som är länkade till standardenheter på en eller två nivåer.
+   >* Marketo stöder bara anpassade entiteter som är länkade till standardenheter på en eller två nivåer.
+   >
+   >* Det anpassade objektträdet kan visa samma objekt flera gånger på grund av dess direkta anslutningar till ett av huvudobjekten (t.ex. leads, kontakter eller konton eller indirekta anslutningar via ett mellanliggande objekt). I så fall väljer du det objekt som ligger närmast huvudobjektet och väljer bara ett. Om du väljer samma objekt flera gånger kan det försvåra synkroniseringen av det anpassade objektet.
 
 ### What&#39;s Next: {#whats-next}
 
