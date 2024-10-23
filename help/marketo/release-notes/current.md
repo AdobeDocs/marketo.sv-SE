@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
+source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '559'
 ht-degree: 1%
 
 ---
@@ -100,6 +100,9 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 <br/>
 
 ## Meddelanden {#announcements}
+
+* **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 30 juni 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+
 
 * **QR-kodborttagning**: Den 4 oktober 2024 kommer QR-kodfunktionen som används i push-meddelanden och meddelanderesurser i appen att bli inaktuell. Detta inkluderar användning av QR-koder för en ny testenhet samt skapande av nya resurser med QR-koder. Genom att ta bort funktioner med lägre användning kan vi omfördela deras resurser till det övergripande underhållet av Marketo Engage.
 
