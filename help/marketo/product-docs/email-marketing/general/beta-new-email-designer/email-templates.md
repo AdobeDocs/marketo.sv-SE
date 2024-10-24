@@ -4,9 +4,9 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -330,12 +330,6 @@ SCREENSHOT
 Den här åtgärden kan utföras från:
 
 * Fliken Information - Klicka på **Redigera e-postmall**.
-
-* Listsidan _E-postmallar_ - Klicka på ikonen Fler åtgärder (tre punkter) för den e-postmall du vill använda och välj Redigera.
-
-```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
-```
 
 Den här åtgärden tar dig till sidan _Designa din mall_ eller den visuella innehållets redigeringssida baserat på den senast sparade statusen för e-postmallen. Härifrån kan du redigera e-postmallens innehåll efter behov. Mer information om redigeringsalternativen finns i Skapa e-postmallar.
 

@@ -3,9 +3,9 @@ description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Klicka på **[!UICONTROL Next]** för att gå till sektionen Ange tjänstinloggn
 Marketo måste ha giltiga API-autentiseringsuppgifter för att komma åt den tjänst som installeras. Dessa inloggningsuppgifter bör du få från din tjänsteleverantör. Tjänsterna har tre olika autentiseringsalternativ, så du kan se en av tre olika autentiseringsuppgifter: **API-nyckel** som bara har ett indatafält, **Grundläggande autentisering** som kräver ett användarnamn och lösenord och kan även kräva ett fält som heter Realm, och **OAuth2** som använder _Klientautentiseringsuppgifter_ som kräver ett _klient-ID_ och _Klienthemlighet_.
 
 När du sparar dina inloggningsuppgifter försöker Marketo anropa tjänstens statusslutpunkt för att verifiera att de är giltiga. Om de angivna autentiseringsuppgifterna är ogiltiga visas ett felmeddelande om detta.
+
+>[!CAUTION]
+>
+>Om en tjänsteleverantör skapas och tas bort kan du inte återanvända dess tjänstleverantörs-, API-, utlösare- eller filternamn.
 
 ## Onboarding Guide (tillval) {#onboarding-guide}
 
