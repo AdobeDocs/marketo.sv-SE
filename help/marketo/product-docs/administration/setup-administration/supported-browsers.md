@@ -4,9 +4,9 @@ description: Webbläsare som stöds - Marketo Docs - Produktdokumentation
 title: Webbläsare
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,5 +21,10 @@ Marketo stöder för närvarande följande webbläsare:
 | [[!DNL Mozilla Firefox]](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} | senaste |
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | senaste |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | senaste |
+
+
+>[!NOTE]
+>
+>För användare som har migrerats till [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} stöds alla webbläsare på både Mac och Windows, med undantag för Microsoft Edge i strikt läge.
 
 **håll webbläsaren uppdaterad** för att få bästa möjliga upplevelse.
