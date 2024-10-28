@@ -4,9 +4,9 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1738'
+source-wordcount: '1666'
 ht-degree: 0%
 
 ---
@@ -81,8 +81,6 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Inneh�
 
 1. Om du vill använda Designer-innehållskomponenterna för e-post klickar du på fliken **HTML-konverterare** och sedan på **Konvertera**.
 
-   SCREENSHOT
-
    >[!CAUTION]
    >
    >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
@@ -151,38 +149,23 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 ### Lägg till Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Lägg till bilder som lagras i avsnittet [Bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} i din Marketo Engage-instans.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>Du kan bara lägga till bilder i den nya designern, inga andra filtyper för närvarande.
 
 1. Om du vill komma åt dina bilder klickar du på ikonen Resursväljare.
 
-   SCREENSHOT
+   ![](assets/add-assets-1.png)
 
 1. Dra och släpp den önskade bilden i en strukturkomponent.
 
-   SCREENSHOT
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >Om du vill ersätta en befintlig bild markerar du den och klickar sedan på **Välj en resurs** på fliken Inställningar till höger.
-
-Klicka på Aktivera villkorsinnehåll för att lägga till dynamiskt innehåll och anpassa innehållet till målprofilerna baserat på villkorliga regler.
-
-
-
-Om det behövs kan du anpassa e-postmeddelandet ytterligare genom att klicka på Växla till kodredigerare på den avancerade menyn. På så sätt kan du redigera e-postkällkoden, till exempel för att lägga till spårningstaggar eller anpassade HTML-taggar.
-
-FÖRSIKTIGHET
-Du kan inte återgå till den visuella designern för det här e-postmeddelandet efter att du har växlat till kodredigeraren.
-
-När innehållet är klart klickar du på knappen Simulera innehåll för att kontrollera återgivningen. Du kan välja skrivbordsvy eller mobilvy.
-
-När du är klar klickar du på Spara
 
 ### Lager, inställningar och format {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Utnyttja de alternativ för visning och innehållsvalidering som finns i den vis
 
 Från alternativen för **Mer** i innehållsredigeraren kan du utföra följande åtgärder:
 
-SCREENSHOT
+![](assets/more-options-1.png)
 
 * **Återställ mall**: Välj det här alternativet om du vill rensa den visuella e-postdesignerns arbetsyta till en tom plats och starta om skapandet av innehåll.
 
@@ -307,7 +290,7 @@ SCREENSHOT
 
 Klicka på namnet på en e-postmall på listsidan _E-postmallar_ för att visa informationen om mallen.
 
-SCREENSHOT
+(assets/view-template-details-1.png)
 
 Grundläggande information som namn och beskrivning kan redigeras. Klicka utanför fältet som du redigerade för att spara ändringarna.
 
@@ -323,7 +306,7 @@ Om det finns aktiva varningar (fel/varningar för e-postmallen) klickar du på V
 
 Klicka på fliken **Används av** i e-postmallssammanfattningen för att visa information om var e-postmallen har använts i Marketo Engage.
 
-SCREENSHOT
+![](assets/email-template-used-by-references-1.png)
 
 ## Redigera e-postmallar {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Det finns två sätt att duplicera en e-postmall:
 
 * Klicka på **Mer** och välj **Duplicera** i informationen om e-postmallen till höger.
 
-SCREENSHOT
+  ![](assets/duplicate-email-templates-1.png)
 
 * Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Duplicera**.
 
@@ -357,7 +340,7 @@ Det finns två sätt att ta bort en e-postmall.
 
 * Klicka på **Mer** och välj **Ta bort** i informationen om e-postmallen till höger.
 
-SCREENSHOT
+  ![](assets/delete-email-templates-1.png)
 
 * Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Ta bort**.
 

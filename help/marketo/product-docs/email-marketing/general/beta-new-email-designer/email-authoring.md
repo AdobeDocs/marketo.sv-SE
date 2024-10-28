@@ -4,9 +4,9 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -155,38 +155,23 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 ### Lägg till Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Lägg till bilder som lagras i avsnittet [Bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} i din Marketo Engage-instans.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>Du kan bara lägga till bilder i den nya designern, inga andra filtyper för närvarande.
 
 1. Om du vill komma åt dina bilder klickar du på ikonen Resursväljare.
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-1.png)
 
 1. Dra och släpp den önskade bilden i en strukturkomponent.
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Om du vill ersätta en befintlig bild markerar du den och klickar sedan på **Välj en resurs** på fliken Inställningar till höger.
-
-Klicka på Aktivera villkorsinnehåll för att lägga till dynamiskt innehåll och anpassa innehållet till målprofilerna baserat på villkorliga regler.
-
-
-
-Om det behövs kan du anpassa e-postmeddelandet ytterligare genom att klicka på Växla till kodredigerare på den avancerade menyn. På så sätt kan du redigera e-postkällkoden, till exempel för att lägga till spårningstaggar eller anpassade HTML-taggar.
-
-FÖRSIKTIGHET
-Du kan inte återgå till den visuella designern för det här e-postmeddelandet efter att du har växlat till kodredigeraren.
-
-När innehållet är klart klickar du på knappen Simulera innehåll för att kontrollera återgivningen. Du kan välja skrivbordsvy eller mobilvy.
-
-När du är klar klickar du på Spara
 
 ### Lager, inställningar och format {#layers-settings-styles}
 
