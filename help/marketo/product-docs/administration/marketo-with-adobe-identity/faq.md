@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---
@@ -129,6 +129,10 @@ När prenumerationer placeras på Adobe Identity, ställs enkel inloggning (SSO)
 **Jag har fler än en prenumeration, men inte alla har enkel inloggning aktiverad. Vad händer efter migrering av Adobe-identitet?**
 
 När prenumerationer placeras på Adobe Identity, ställs enkel inloggning (SSO) in på organisationsnivå i Adobe. Detta innebär att enkel inloggning gäller för alla produktinstanser i Adobe Org. När enkel inloggning har konfigurerats gäller den alla Marketo-instanser i den Adobe-organisationen. Tidigare hade Marketo stöd för den här inställningen på förekomstnivå. Detta stöds inte av Adobe Identity Management System.
+
+**Behöver vi ändra CNAME, SPF eller DKIM för närvarande för Marketo Engage efter migreringen av Adobe-identitet?**
+
+Nej, dessa konfigurationer påverkas inte.
 
 **Jag måste nu navigera till Experience Cloud för att komma åt Marketo Engage. Finns det ett sätt att effektivisera det här flödet?**
 
