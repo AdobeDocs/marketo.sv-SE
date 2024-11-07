@@ -3,9 +3,9 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >Resurser för [Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} stöds **inte** i interaktiva webbinarier.
+
 1. Ge programmet ett namn. Välj **Händelse** under Programtyp.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 1. Välj **Interaktiva webbinarier** och klicka på **Nästa**.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >Information om partnerwebbinarier finns här.
 
 1. Ge webbinariet en titel. Ange maximal målgruppsstorlek och hur länge den ska vara.
 
