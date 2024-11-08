@@ -4,9 +4,9 @@ description: Redigera prediktivt innehåll för multimedia - Marketo Docs - prod
 title: Redigera prediktivt innehåll för multimedia
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,10 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 1. Du kan ha olika bilder för e-post och multimedia. Om du vill lägga till eller ändra bilden klistrar du in bildens URL i textrutan.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >JPEG-bilder med färgmodellen CMYK stöds inte för multimedia. JPEG måste konverteras till sRGB med en färgprofil. Var noga med att välja den här inställningen när du exporterar från bildredigeraren.
 
 1. Skriv in en **beskrivning**.
 
