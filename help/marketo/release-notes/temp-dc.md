@@ -4,10 +4,10 @@ title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## September/oktober 2024-utgåvan {#august-release}
 
-### Förbättrad Live Chat-analys {#enhanced-live-chat-analytics}
+### Förbättrad chattanalys {#enhanced-live-chat-analytics}
 
 Flera förbättringar har gjorts i kontrollpanelen för analyser, bland annat:
 
@@ -33,7 +33,7 @@ Flera förbättringar har gjorts i kontrollpanelen för analyser, bland annat:
 
 SCREENSHOT
 
-### Konversationsbedömning
+### Konversationsbedömning {#conversation-scoring}
 
 Kvantifiera era leads baserat på kvaliteten på deras chattinteraktion och använd det måttet som utlösare/filter i Marketo Engage Smart Campaigns. Använd det nya attributet _konversationspoäng_ för följande aktiviteter:
 
@@ -68,3 +68,21 @@ Från och med då blir `abc@test.com` en lead utan cookie. LEDER DU?
 Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID som `abc@p.com`:
 
 TABELL
+
+### Optimerad inläsningstid för konversationsflöde {#optimized-conversation-flow-load-time}
+
+För att förbättra användarupplevelsen visas nu en kortare inläsare i stället för ett tomt utrymme när konversationsflödet läses in. KONVERSATION ELLER KONVERSATION???
+
+**Före**
+
+GIF
+
+**Efter**
+
+GIF
+
+### Möjlighet att ärva teckensnitt {#option-to-inherit-font}
+
+Som användare vill jag att min chattbot ska kunna ärva teckensnittet direkt från webbsidan där det läses in, i stället för att hantera teckensnittet i Dynamic Chat
+
+Obs! När du aktiverar det här alternativet använder Chatbot det teckensnitt som är definierat i body-taggen på sidan

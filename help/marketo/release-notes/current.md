@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 1%
 
 ---
@@ -79,7 +79,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <li>Filtrera borttagna och sammanfogade personer från mätvärden för e-postprestanda</li>
    <li>E-postmeddelanden som nu klassificerats som <i>avbrutna</i> efter att ha väntat i tre dagar på svarsaktivitet</li>
    <li>E-postöppningar räknas som unika öppna separat för varje smart kampanj</li>
-   <li>Förbättrad spårning av e-postaktivitet genom förbättring av spårning av pixelplats</li>
    </td> 
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport om e-postprestanda</a></td>
