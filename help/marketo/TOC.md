@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9376'
 ht-degree: 0%
 
 ---
@@ -111,8 +111,8 @@ ht-degree: 0%
          + [Lägg till Google AdWords som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [Lägg till GoToWebinar som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Lägg till webbmöte på nivå 3 som en startpunktstjänst](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
-         + [Lägg till Munchkin-spårningskod på din webbplats](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Nästa generations Munchkin Tracking - frågor och svar](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Lägg till spårningskod för Munchkin på din webbplats](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+         + [Nästa generations vanliga frågor om Munchkin Tracking](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Lägg till webb som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -144,6 +144,7 @@ ht-degree: 0%
          + [Redigera meddelandet Visa som webbsida](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Aktivera kommunikationsgränser](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Aktivera personbegränsningar för smarta kampanjer](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Open Tracking för e-post på kampanjnivå](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtrerar e-postsatsaktivitet](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Ta bort Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Fälthantering {#field-management}
@@ -326,18 +327,18 @@ ht-degree: 0%
             + [Ändra programstatus](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programmet har ändrats](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [Ändra medlemsuppgifter för program](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Microsoft Dynamics-flödesåtgärder {#microsoft-dynamics-flow-actions}
+         + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
             + [Lägg till eller ta bort personer från Dynamics-kampanjen](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Ändra ägare i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Skapa uppgift i Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Synkronisera person till Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
-         + Salesforce-flödesåtgärder {#salesforce-flow-actions}
-            + [Lägg till i SFDC-kampanj](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
+         + Salesforce Flow Actions {#salesforce-flow-actions}
+            + [Lägg till i SFDC Campaign](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Ändra ägare](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
-            + [Ändra status i SFDC-kampanj](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
+            + [Ändra status i SFDC Campaign](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [Skapa uppgift](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
             + [Ta bort person från SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
-            + [Ta bort från SFDC-kampanj](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
+            + [Ta bort från SFDC Campaign](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
             + [Synkronisera person till SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + Smarta kampanjdata {#smart-campaign-data}
             + [Exportera smarta kampanjresultat till Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
@@ -408,7 +409,7 @@ ht-degree: 0%
             + [Hantera och visa medlemmar](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Anpassade fält för programmedlem](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Synkronisering av anpassat fält för programmedlem](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
-            + [Synkronisera en SFDC-kampanj med ett program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
+            + [Synkronisera en SFDC Campaign med ett program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Förstå periodkostnader](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Taggar](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [Använd taggar i ett program](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
@@ -534,7 +535,7 @@ ht-degree: 0%
          + Synkroniseringsinställningar {#sync-setup}
             + [Ladda ned Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [Bevilja samtycke för klient-ID och appregistrering](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
-            + [Uppdatera Marketo Solution för Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Uppdatera Marketo Solution for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Konfigurera om Dynamics-autentiseringsmetod](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Validera Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visa URL för organisationstjänsten](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -542,7 +543,7 @@ ht-degree: 0%
                + [Steg 1 av 3: Installera Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Steg 2 av 3: Konfigurera Marketo Sync User i Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Steg 3 av 3: Anslut Marketo och Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 med ROPC-anslutning{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 med ROPC Connection{#microsoft-dynamics-365-with-ropc-connection}
                + [Steg 1 av 4: Installera Marketo Solution med ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Steg 2 av 4: Konfigurera Marketo Solution med ROPC Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [Steg 3 av 4: Konfigurera klientapp för MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
@@ -554,14 +555,14 @@ ht-degree: 0%
             + Ansluter till äldre versioner {#connecting-to-legacy-versions}
                + [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [Steg 2 av 3: Konfigurera Marketo Sync User in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-               + [Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Steg 3 av 3: Anslut Microsoft Dynamics till Marketo (lokal version 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
                + [Steg 1 av 3: Installera Marketo Solution i Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
                + [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
                + [Steg 3 av 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
                + [Steg 1 av 3: Installera Marketo Solution i Dynamics (2015 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
                + [Steg 2 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
                + [Steg 3 av 3: Connect Marketo and Dynamics (2015 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
-         + Synkroniseringsinformation för Microsoft Dynamics {#microsoft-dynamics-sync-details}
+         + Information om Microsoft Dynamics Sync {#microsoft-dynamics-sync-details}
             + [Fältmappning för standardDynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Kontosynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics Sync: Kontakta Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -571,7 +572,7 @@ ht-degree: 0%
             + [Redigera fält som ska synkroniseras innan de tas bort i Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics Sync: Leadsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Skapa en kontakt i Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
-            + [Microsoft Dynamics Sync: Affärsmöjlighet synkroniserad](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+            + [Microsoft Dynamics Sync: Affärsmöjlighet, synkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics Sync: Användarsynkronisering](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Synkroniseringsstatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Kampanjsynkronisering - översikt](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
@@ -579,13 +580,13 @@ ht-degree: 0%
          + Information om synkroniseringsfilter för anpassad Dynamics {#custom-dynamics-sync-filter-details}
             + [Skapa ett anpassat Dynamics-synkroniseringsfilter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Anpassade synkroniseringsfilterregler för en e-postadress](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Microsoft Dynamics Sync-filter: Sammanfoga](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync-filter: Lägg samman](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
             + [Microsoft Dynamics Sync-filter: Kvalificera](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Ange ett standardprefix för anpassat fält](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registrera en app med Azure för att hämta ditt klient-ID/program-ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Ta bort en lead eller kontakt](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
-      + Salesforce-synkronisering {#salesforce-sync}
-         + [Förstå Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+      + Salesforce Sync {#salesforce-sync}
+         + [Förstå Salesforce Sync](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Konfigurera {#setup}
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
                + [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
@@ -605,31 +606,31 @@ ht-degree: 0%
                + [Aktivera icke-engelsk anpassad objektsynkronisering](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Ange standardpersonens efternamn och företagsnamn](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [Inaktivera e-postmeddelanden till leadägaren](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + Information om SFDC-synkronisering {#sfdc-sync-details}
+         + Information om SFDC Sync {#sfdc-sync-details}
             + [Lägg till ett befintligt Salesforce-fält i Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
             + [Standardfältmappning för Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
             + [Dölj ett Salesforce-fält från Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
-            + [Matcha programstatus och Salesforce-kampanjstatus före synkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-            + [SFDC-synkronisering: Kontosynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-            + [SFDC-synkronisering: Aktivitetssynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-            + [SFDC-synkronisering: Kampanjsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-            + [SFDC-synkronisering: kontaktsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [SFDC-synkronisering: Konvertera en lead till en kontakt i Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-            + [SFDC-synkronisering: Synkronisering av anpassat objekt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-            + [SFDC-synkronisering: Ta bort en lead/kontakt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-            + [SFDC-synkronisering: Fältsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-            + [SFDC-synkronisering: Synkronisering av lead-/kontoägare](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-            + [SFDC-synkronisering: Leadkö](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-            + [SFDC-synkronisering: Leadsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-            + [SFDC-synkronisering: Sammanfoga en lead/kontakt/person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-            + [SFDC-synkronisering: Affärsmöjlighet synkroniserad](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+            + [Matcha programstatus och Salesforce Campaign-status före synkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC Sync: Kontosynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC Sync: Aktivitetssynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC Sync: Campaign Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC Sync: Kontakta Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC Sync: Konvertera en lead till en kontakt i Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC Sync: Anpassad objektsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC Sync: Ta bort en lead/kontakt](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC Sync: Fältsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC Sync: Synkronisering av lead-/kontoägare](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC Sync: Leadkö](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC Sync: Leadsynkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [SFDC Sync: Sammanfoga en lead/kontakt/person](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC Sync: Affärsmöjlighet, synkronisering](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
          + [Lägg till/ta bort värden för plocklistor](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [Aktivera/inaktivera Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Aktivera/inaktivera Salesforce Sync](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Underförstådda Salesforce-åtgärder](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Logga in med OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
          + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
-         + [Salesforce-synkroniseringsfel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-         + [Status för Salesforce-synkronisering](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Salesforce Sync-fel](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Salesforce Sync-status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Använda personkonton](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM-synkronisering {#veeva-crm-sync}
          + [Så här fungerar Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
@@ -1199,18 +1200,18 @@ ht-degree: 0%
          + [Visa kampanjlistan som en annan användare](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
          + Salesforce-anpassning {#salesforce-customization}
-            + [SFDC (Activity Type Field on Tasks)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
-            + [Lägg till handelsanslutningsknappar i Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
-            + [Skapa en Salesforce-samtalsrapport med Sales Connect-data](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
+            + [Fält för aktivitetstyp på uppgifter (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
+            + [Lägg till säljkopplingsknappar i Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
+            + [Skapa en Salesforce Priority Call-rapport med Sales Connect-data](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
             + [Skapa arbetsflödesregler i Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/creating-workflow-rules-in-salesforce.md)
             + [Anpassningsversioner](product-docs/marketo-sales-connect/crm/salesforce-customization/customization-versions.md)
-            + [Redigera Salesforce-fälttillgänglighet](product-docs/marketo-sales-connect/crm/salesforce-customization/edit-salesforce-field-accesibility.md)
+            + [Redigera hjälpmedel för Salesforce-fält](product-docs/marketo-sales-connect/crm/salesforce-customization/edit-salesforce-field-accesibility.md)
             + [Ansluta säljanslutning till din Salesforce-sandlåda](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
             + [Installera anpassningar i din Salesforce-sandlåda](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
             + [Så här installerar du Sales Connect-knappar i Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
             + [Importera ett Salesforce-ID till Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Installera händelsefält för försäljningsanslutning i aktivitetshistorik](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [Installera Salesforce-anpassning för Professional Edition-kunder](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [Installera Salesforce Customization för Professional Edition-kunder](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Push to Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Rapportera instrumentpaneler i Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Anpassningar av Sales Connect för CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
@@ -1219,13 +1220,13 @@ ht-degree: 0%
             + [Avinstallera Marketo Sales Connect från Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Avinstallera Marketo Sales Connect från Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce-integrering {#salesforce-integration}
-            + [Konfigurera detaljanpassning av Salesforce-aktivitet](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+            + [Konfigurera anpassning av aktivitetsinformation för Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Anslut ditt Sales Connect-konto till Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Koppla från Salesforce från ditt Sales Connect-konto](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Så här åtgärdar du&quot;Vi kunde inte autentisera din begäran&quot; vid anslutning till Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Svarsloggning](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
-            + [Salesforce-diagnostik](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
-            + [Synkroniseringsinställningar för Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+            + [Salesforce Diagnostics](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
+            + [Salesforce Sync Settings](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [Spårningsaktiviteten visas inte](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + E-postplugin-program {#email-plugins}
          + Gmail {#gmail}
@@ -1249,7 +1250,7 @@ ht-degree: 0%
                + [Översikt över .NET-tillägg](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Så här avinstallerar du Sales Connect från Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365-tillägg {#office-365-add-in}
-               + [Lägg till e-post i Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
+               + [Lägg till e-post till Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installera e-postplugin-programmet Sales Connect för Outlook (Online, Mac och Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + E-post {#email}
          + Kommandocentral {#command-center}
@@ -1281,7 +1282,7 @@ ht-degree: 0%
             + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Avbeställ Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Prenumerera på och avbryta prenumeration](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
-            + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+            + [Synkronisera Avsluta prenumeration med Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + [Avbeställ grupp](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
             + [Avbeställ historikkort](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [Avbeställ Landing Page](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
@@ -1329,13 +1330,13 @@ ht-degree: 0%
             + [Hantera grupper](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Sidkolumner för personer](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefon {#phone}
-         + [Samtal loggar inte till Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Samtal loggar inte in på Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Utfall för samtal](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Samtalsorsaker](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Loggade inte till aktivitetshistorik](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Loggade inte till Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Aktivera samtalsinspelning](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+         + [Logga samtalsorsaker och samtalsresultat för Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Internationellt telefonsamtal för försäljning](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokal närvaro för telefonförsäljning](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Telefonöversikt, försäljning](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
@@ -1343,8 +1344,8 @@ ht-degree: 0%
          + [Inställningar för dubbelpartsgodkännande](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Uppgifter {#tasks}
          + [Skapa och tilldela påminnelseuppgifter](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
-         + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
-         + [Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+         + [Synkronisera påminnelseuppgifter med Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+         + [Synkronisera Sales Connect-aktiviteter med Salesforce för första gången](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Mallar {#templates}
          + [Lägga till automatisk uppsägning av prenumerationer i en mall](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Lägg till hyperlänkad text](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
@@ -1411,21 +1412,21 @@ ht-degree: 0%
             + Salesforce-anpassning {#salesforce-customization}
                + [Dok](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce-integrering {#salesforce-integration}
-               + [Konfigurera detaljanpassning av Salesforce-aktivitet](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+               + [Konfigurera anpassning av aktivitetsinformation för Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Koppla ditt konto för Sales Insight Actions till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [Koppla från Salesforce från försäljningsåtgärder](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Koppla från Salesforce från säljinsikten](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Svarsloggning](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
-               + [Salesforce-diagnostik](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Ställ in en säkerhetssandlåda för Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Synkronisera försäljningsaktiviteter till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce-paketkonfiguration {#salesforce-package-configuration}
-               + [Konfiguration av åtgärder för försäljningsinsikter i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Loggningsattribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Lägg till åtgärdsknappar i Salesforce-listvyn](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
+               + [Konfiguration av Sales Insight Actions i Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Loggar attribut för försäljningsaktivitet till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Lägg till åtgärdsknappar i Salesforce listvy](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Uppdatera aktivitetstypfält vid loggning av aktiviteter till Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Åtgärder i Salesforce {#actions-in-salesforce}
                + [Använda massutskick av e-post för försäljning i Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
-               + [Använda Lägg till gruppvis i försäljningskampanj i Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
+               + [Använda Lägg till i grupp i försäljningskampanj i Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-post {#email}
             + Kommandocentral {#command-center}
                + [Översikt över avancerad sökning](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1442,7 +1443,7 @@ ht-degree: 0%
                + [Lägg till inställningen för att avbryta prenumerationen](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [Anpassa meddelande om att avbryta prenumeration på länk](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Avbeställ Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
-               + [Synkronisera avbeställningar med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [Synkronisera Avsluta prenumeration med Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
                + [E-postmallar för transaktionsförsäljning](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + Använda dispositionsfönstret {#using-the-compose-window}
                + [Lägg till en bifogad fil eller spårbart innehåll i din e-post](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
@@ -1476,7 +1477,7 @@ ht-degree: 0%
             + [Varför skickades inte alla mina kontakter till säljinsiktsåtgärder?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Varför markeras mina e-postmeddelanden som skräppost?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [Varför har min kampanj upphört?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
-            + [Varför visas inte spårningsaktivitet i Salesforce-aktivitet?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+            + [Varför visas inte spårningsaktiviteten i Salesforce Activity?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrationer {#integrations}
             + [Integrering med högdagrar](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
@@ -1496,7 +1497,7 @@ ht-degree: 0%
          + Telefon {#phone}
             + [Utfall för samtal](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [Samtalsorsaker](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-            + [Logga samtalsorsaker och samtalsresultat till Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+            + [Logga samtalsorsaker och samtalsresultat för Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
             + [Aktivera samtalsinspelning](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [Internationellt samtal](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokal närvaro](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
@@ -1529,7 +1530,7 @@ ht-degree: 0%
                + [E-postaktiviteter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [Webbaktiviteter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + Installerar {#installing}
-            + [Hämta Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
@@ -1538,7 +1539,7 @@ ht-degree: 0%
          + Konfigurerar och använder {#setting-up-and-using}
             + [Lägg till en lead/kontakt i en Marketo-kampanj från Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Obligatoriska fält för synkronisering av Marketo med Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Stjärnor och flamma för lead-/kontaktposter](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Avinstallerar {#uninstalling}
             + [Inaktivera global MS Dynamics-synkronisering](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1547,13 +1548,13 @@ ht-degree: 0%
             + [Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI för Salesforce {#msi-for-salesforce}
          + Installation {#installation}
-            + [Installera Marketo Sales Insight-paket i Salesforce-AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Installera Marketo Sales Insight Package i Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Konfiguration {#configuration}
             + [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Konfigurera Marketo Sales Insight i Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Konfiguration för befintliga kunder](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
-            + [Marketo Sales Insight Configuration tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Lägg till fliken Marketo i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Lägg till Marketo Tab i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Lägg till behörighetsuppsättning för försäljningsinsikter](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Ta bort åtkomst till Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
@@ -1572,7 +1573,7 @@ ht-degree: 0%
                + [Publish an Email to Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Skicka ett testmeddelande](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Språkstöd {#language-support}
-               + [Förbered Sales Insight för flerspråkig support i Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [Förbered Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo Tab {#marketo-tab}
                + [Bästa val](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Använda lead-feed](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
@@ -1593,7 +1594,7 @@ ht-degree: 0%
          + MSI för mobilen {#msi-for-mobile}
             + [Bästa val i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
             + [Installera och konfigurera Marketo Sales Insight i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
-            + [Intressanta stunder i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+            + [Intressanta ögonblick i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [Se lead-feed i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
             + [Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + Uppgraderar {#upgrading}
