@@ -4,9 +4,9 @@ title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 2%
 
 Flera förbättringar har gjorts i kontrollpanelen för analyser, bland annat:
 
-* Totalt antal begärda chatt live: antal besökare som har begärts för en chatt med agent
+* Totalt antal begärda chattsamtal live: antal besökare som har begärt en chatt med agent
 
-* Totalt antal anslutna live-chatt: antal anslutna besökare jämfört med totalt antal som har begärts för en chatt med agent
+* Totalt antal anslutna live-chatt: antal anslutna besökare jämfört med totalt antal som har begärts för en&quot;chatt med agent&quot;
 
-* Totalt antal missade chattförfrågningar: antal oövervakade besökare kontra totalt antal begärda för en chatt med agent
+* Totalt antal missade chattförfrågningar: antal oövervakade besökare kontra totalt antal begärda för en&quot;chatt med agent&quot;
 
 * Genomsnittlig chattlängd i minuter: analysera &quot;genomsnittlig chattlängd&quot; mellan besökare och agenter
 
-* Genomsnittlig svarstid för agenter i sekunder: analysera&quot;genomsnittlig tid som agenter tar&quot; för att svara på frågor och svar om live-chatt
+* Genomsnittlig svarstid i sekunder för agenter: analysera&quot;genomsnittlig tid som agenter tar&quot; för att svara på frågor och svar om live-chatt
 
 * Daglig instrumentpanel: live-chattförfrågningar anslutna, live-chattförfrågningar missade, sortera och filtrera nyligen använda live-chattaktiviteter
 
@@ -45,7 +45,7 @@ Kvantifiera era leads baserat på kvaliteten på deras chattinteraktion och anv�
 
 * Poängvärdet är från 0, 1, 2, 3 (standardvärdet är null)
 
-* När konversationen är klar eller utesluten sparar aktiviteten poängvärdet och posten som den inte kan redigeras????????????????????????????????????????????????????????????????????????? (vad betyder detta)
+* När konversationen är slutförd eller släppt sparar du betygsvärdet i aktiviteten och postar att den inte kan redigeras?????? (vad betyder den här meningen)
 
 * Ställa in poäng:
 
@@ -63,7 +63,7 @@ SCREENSHOT
 
 Om ett lead fyller i ett formulär med e-postadressen `abc@test.com` och kodas som xyz, fyller sedan i samma formulär med e-postadressen `def@test.com`, skapas ett nytt lead, men cookie xyz kopplas till det nya leadet och tas bort från leadet `abc@test.com` .
 
-Från och med då blir `abc@test.com` en lead utan cookie. LEDER DU?
+Från och med då blir `abc@test.com` en lead utan cookie. ANONYM LEAD?
 
 Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID som `abc@p.com`:
 
@@ -83,6 +83,12 @@ GIF
 
 ### Möjlighet att ärva teckensnitt {#option-to-inherit-font}
 
-Som användare vill jag att min chattbot ska kunna ärva teckensnittet direkt från webbsidan där det läses in, i stället för att hantera teckensnittet i Dynamic Chat
+Nu kan du aktivera chattbot för att direkt ärva teckensnittet från webbsidan där det ligger i stället för att hantera teckensnittet i Dynamic Chat. När du aktiverar det här alternativet får chattbot det teckensnitt som är definierat i taggen `<body>` på sidan.
 
-Obs! När du aktiverar det här alternativet använder Chatbot det teckensnitt som är definierat i body-taggen på sidan
+SCREENSHOT
+
+### Demandbase-integrering med Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Demandbase-användare kan hämta sin egen licens för Demandbase och aktivera integreringen. Använd personattribut för Demandbase för dialog, villkorsstyrd varumärkesprofilering och anpassad routning.
+
+Dessa attributvärden skulle matchas mot en lead i realtid och lagras i respektive lead-profil.
