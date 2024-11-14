@@ -3,9 +3,9 @@ description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdo
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -41,3 +41,22 @@ Länkarna finns till höger på fliken Översikt i ditt Event Program för att s
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Med interaktiva webbinarier kan du begära registrering före, under eller efter ett webbinarium. I samtliga fall behöver du bara dela webbinariets URL med leadet. När du klickar på länken innan webbinariet börjar skickas de till en startsida som är före webbinariet. När du klickar på det under webbinariet kommer de till det pågående webbinariet. Klicka på det när webbinariet tar dem till en inspelning av webbinariet.
+
+## Tokens för interaktiva webbinarier {#interactive-webinars-tokens}
+
+Använd variabler för att marknadsföra interaktiva webbinarier i e-postmeddelanden och landningssidor utan att manuellt behöva lägga till information i webbinariet. Detta förbättrar den övergripande effektiviteten eftersom alla ändringar som görs i webbinariets metadata (som webbinariets titel, startdatum osv.) automatiskt återspeglas i dina resurser.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Lista över tokens**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '507'
 ht-degree: 1%
 
 ---
@@ -32,19 +32,9 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Förbättrade registreringsdata på Engagement Dashboard för interaktiva webbinarier</strong>: nu kan du se vilka företag som har haft störst närvaro och få företaget, titeln och branschen uppdaterad på en ledande nivå i rapporter som är tillgängliga på Engagement Dashboard.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenisering för interaktiva webbinarier</strong>: Du kan nu använda tokens för att marknadsföra interaktiva webbinarier i e-postmeddelanden och landningssidor utan att behöva lägga till information om webbinariet manuellt.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Marknadsför ett interaktivt webbinarium</a></td>
   </tr>
   <tr> 
    <td> </td> 
