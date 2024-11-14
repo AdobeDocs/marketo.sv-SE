@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ Kvantifiera era leads baserat på kvaliteten på deras chattinteraktion och anv�
 
 * Poängvärdet är från 0, 1, 2, 3 (standardvärdet är null)
 
-* När konversationen är slutförd eller släppt sparar du betygsvärdet i aktiviteten och postar att den inte kan redigeras?????? (vad betyder den här meningen)
+* När konversationen är klar eller släppt sparar du betygsvärdet i aktiviteten och postar att den inte kan redigeras   ???? (vad betyder den här meningen)
 
 * Ställa in poäng:
 

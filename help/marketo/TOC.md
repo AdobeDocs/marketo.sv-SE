@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9377'
 ht-degree: 0%
 
 ---
@@ -1138,7 +1138,7 @@ ht-degree: 0%
             + E-posttester - Champion-Challenger {#email-tests-champion-challenger}
                + [Lägg till en e-postkampanj/kanal](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: Godkänn ditt e-posttest](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
-               + [Champion/Challenger: Konfigurera rapportaviseringar](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+               + [Champion/Challenger: Analytics](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
                + [Champion/Challenger: Deklarera en mästare](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Champion/Challenger: Definiera tävlingskriterier](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [Champion/Challenger: Ignorera ett e-posttest](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
