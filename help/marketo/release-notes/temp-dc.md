@@ -4,7 +4,8 @@ title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -65,7 +66,7 @@ Om ett lead fyller i ett formulär med e-postadressen `abc@test.com` och kodas s
 
 Från och med då blir `abc@test.com` en lead utan cookie. ANONYM LEAD?
 
-Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID som `abc@p.com`:
+Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID som `abc@test.com`:
 
 TABELL
 
