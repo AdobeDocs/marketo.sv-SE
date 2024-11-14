@@ -4,7 +4,7 @@ description: Champion/Challenger -Approve Your Email Test - Marketo Docs - Produ
 title: Champion/Challenger - Godkänn ditt e-posttest
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Det sista steget i att konfigurera ditt e-posttest för att godkänna det. Så h
 
 >[!PREREQUISITES]
 >
->[Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)
+>[Konfigurera rapportaviseringar](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
 1. Gå till **marknadsföringsaktiviteter**.
 
