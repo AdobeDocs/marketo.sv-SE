@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -82,6 +82,8 @@ Som Marketo produktadministratör bör du se till att alla användare är förbe
 
 * Kontrollera [e-postverifieringsstatus](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} för alla användare i Marketo Admin. Uppmuntra användare som inte har verifierat sin e-postadress att göra det, och hjälpa användare att lösa eventuella problem när de slutför verifieringsprocessen.
 
+* Sök i din e-postinkorg efter&quot;utelåsta&quot; användarmeddelanden. Be användare som har låsts ut att återställa sitt lösenord att återupprätta åtkomst till Marketo Engage före migreringsdagen.
+
 * Förbered alla användare för den kommande migreringen till Adobe Identity.
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Som Marketo produktadministratör bör du se till att alla användare är förbe
 
 >[!IMPORTANT]
 >
->Om en Marketo Engage-användare inte verifierar sin e-postadress migreras de inte till Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när migreringen för prenumerationen är klar. För att återfå åtkomst måste en Marketo-produktadministratör lägga till dem som en ny användare.
+>Om en Marketo Engage-användare inte verifierar sin e-postadress eller är utlåst när användaren migrerar, migreras de inte till en Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när prenumerationen har migrerats. För att återfå åtkomst måste en Marketo-produktadministratör lägga till dem som en ny användare.
 
 ### Vad man kan förvänta sig på migreringsdagen {#what-to-expect-on-migration-day}
 

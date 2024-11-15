@@ -3,9 +3,9 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '2427'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,134 @@ ht-degree: 1%
 Adobe Dynamic Chat-releaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar metod för driftsättning av funktioner. Ibland finns det flera releaser på en månad, så var vänlig och kika regelbundet efter den senaste informationen.
 
 Standardsidan för versionsinformation för Marketo Engage [finns här](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## September/oktober 2024-utgåvan {#sep-oct-release}
+
+### Förbättrad chattanalys {#enhanced-live-chat-analytics}
+
+Flera förbättringar har gjorts i kontrollpanelen för analyser, bland annat:
+
+* Totalt antal begärda chattsamtal live: antal besökare som har begärt en chatt med agent
+
+* Totalt antal anslutna live-chatt: antal anslutna besökare jämfört med totalt antal som har begärts för en&quot;chatt med agent&quot;
+
+* Totalt antal missade chattförfrågningar: antal oövervakade besökare kontra totalt antal begärda för en&quot;chatt med agent&quot;
+
+* Genomsnittlig chattlängd i minuter: analysera &quot;genomsnittlig chattlängd&quot; mellan besökare och agenter
+
+* Genomsnittlig svarstid i sekunder för agenter: analysera&quot;genomsnittlig tid som agenter tar&quot; för att svara på frågor och svar om live-chatt
+
+* Daglig instrumentpanel: live-chattförfrågningar anslutna, live-chattförfrågningar missade, sortera och filtrera nyligen använda live-chattaktiviteter
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Konversationsbedömning {#conversation-scoring}
+
+Kvantifiera era leads baserat på kvaliteten på deras chattinteraktion och använd det måttet som utlösare/filter i Marketo Engage Smart Campaigns. Använd det nya attributet _konversationspoäng_ för följande aktiviteter:
+
+* Engagerad med en dialogruta
+* Engagerad med ett konversationsflöde
+* Anställda hos en agent
+
+**Saker att notera:**
+
+* Poängvärdet är från 0, 1, 2, 3 (standardvärdet är null)
+
+* När konversationen är klar eller tas bort går det inte att redigera poängvärdet
+
+* Ställa in poäng:
+
+   * I agentens inkorg - under en live-chatt kan agenten uppdatera eller ange ett poängvärde för konversationen, som lagras i konversationsaktiviteten
+
+   * I strömdesignern - på målkortet, kan användaren uppdatera eller ange ett poängvärde för konversationen
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Ny logik för att skapa leads {#new-lead-creation-logic}
+
+Om ett lead fyller i ett formulär med e-postadressen `abc@test.com` och cookies som xyz, fyller sedan i samma formulär med e-postadressen `def@test.com`, skapas en ny personpost, men cookie xyz kopplas till personen och tas bort från personen `abc@test.com`.
+
+Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID som `abc@test.com`:
+
+<table><thead>
+  <tr>
+    <th>Besökare</th>
+    <th>Cookie</th>
+    <th>E-postmeddelande</th>
+    <th>Förväntat beteende</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anonym</td>
+    <td>abc</td>
+    <td>Finns inte i databasen</td>
+    <td>Skapa en ny person</td>
+  </tr>
+  <tr>
+    <td>Anonym</td>
+    <td>abc</td>
+    <td>Finns i databasen</td>
+    <td>Sammanfoga person</td>
+  </tr>
+  <tr>
+    <td>Anonym</td>
+    <td>xyz</td>
+    <td>Finns i databasen</td>
+    <td>Sammanfoga person</td>
+  </tr>
+  <tr>
+    <td>Känd person</td>
+    <td>abc</td>
+    <td>Samma som befintlig person</td>
+    <td>Uppdatera person</td>
+  </tr>
+  <tr>
+    <td>Känd person</td>
+    <td>abc</td>
+    <td>Annat än befintlig person</td>
+    <td>Om det redan finns en känd person överför du cookien och löser sedan den profilen. Om det inte finns någon person med det här e-postmeddelandet skapar du en ny personpost och överför cookien</td>
+  </tr>
+  <tr>
+    <td>Känd person</td>
+    <td>xyz</td>
+    <td>Samma som befintlig person</td>
+    <td>Lägg till ny cookie till samma person</td>
+  </tr>
+  <tr>
+    <td>Känd person</td>
+    <td>xyz</td>
+    <td>Annat än befintlig person</td>
+    <td>det här scenariot är inte möjligt som om det är en ny cookie från   standard betraktas som ny anonym profil</td>
+  </tr>
+</tbody></table>
+
+### Optimerad inläsningstid för konversationsflöde {#optimized-conversation-flow-load-time}
+
+För att förbättra användarupplevelsen visas nu en kortare inläsare i stället för ett tomt utrymme när konversationsflödet läses in.
+
+**Före**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**Efter**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Möjlighet att ärva teckensnitt {#option-to-inherit-font}
+
+Nu kan du aktivera chattbot för att direkt ärva teckensnittet från webbsidan där det ligger i stället för att hantera teckensnittet i Dynamic Chat. När du aktiverar det här alternativet får chattbot det teckensnitt som är definierat i taggen `<body>` på sidan.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Demandbase-integrering med Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Demandbase-användare kan hämta sin egen licens för Demandbase och aktivera integreringen. Använd personattribut för Demandbase för dialog, villkorsstyrd varumärkesprofilering och anpassad routning.
+
+De här attributvärdena ska lösas mot en person i realtid och lagras i respektive personprofil.
 
 ## Version från augusti 2024 {#august-release}
 
