@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 1%
 
 ---
@@ -89,6 +89,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 <br/>
 
 ## Meddelanden {#announcements}
+
+* **API-uppdatering för massextrahering**: Vi har åtgärdat ett fel i API:t för gruppextrahering som inkluderar alternativet columnHeaderNames, som gör att du kan ange anpassade kolumnrubriknamn i den exporterade filen. Tidigare kunde kolumnrubriknamn som innehöll icke-ASCII-tecken bli skadade.
 
 * **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 30 juni 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
