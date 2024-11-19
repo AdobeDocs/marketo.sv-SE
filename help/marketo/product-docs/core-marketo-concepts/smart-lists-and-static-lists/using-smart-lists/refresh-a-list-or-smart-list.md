@@ -4,7 +4,7 @@ description: Uppdatera en lista eller smart lista - Marketo Docs - produktdokume
 title: Uppdatera en lista eller smart lista
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Om du har kört en smart lista och några minuter har gått kan resultatet bli a
 
 1. Om du vill uppdatera data på fliken **[!UICONTROL People]** i en smart lista klickar du på ikonen Uppdatera.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. Den smarta listan kör om och visar en mer aktuell resultatuppsättning.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
