@@ -3,7 +3,7 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 1%
@@ -120,29 +120,29 @@ Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID
   </tr>
 </tbody></table>
 
-### Optimerad inläsningstid för konversationsflöde {#optimized-conversation-flow-load-time}
-
-För att förbättra användarupplevelsen visas nu en kortare inläsare i stället för ett tomt utrymme när konversationsflödet läses in.
-
-**Före**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**Efter**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Möjlighet att ärva teckensnitt {#option-to-inherit-font}
 
 Nu kan du aktivera chattbot för att direkt ärva teckensnittet från webbsidan där det ligger i stället för att hantera teckensnittet i Dynamic Chat. När du aktiverar det här alternativet får chattbot det teckensnitt som är definierat i taggen `<body>` på sidan.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase-integrering med Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 Demandbase-användare kan hämta sin egen licens för Demandbase och aktivera integreringen. Använd personattribut för Demandbase för dialog, villkorsstyrd varumärkesprofilering och anpassad routning.
 
 De här attributvärdena ska lösas mot en person i realtid och lagras i respektive personprofil.
+
+### Optimerad inläsningstid för konversationsflöde {#optimized-conversation-flow-load-time}
+
+För att förbättra användarupplevelsen visas nu en kortare inläsare i stället för ett tomt utrymme när konversationsflödet läses in.
+
+**Före**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**Efter**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Version från augusti 2024 {#august-release}
 
