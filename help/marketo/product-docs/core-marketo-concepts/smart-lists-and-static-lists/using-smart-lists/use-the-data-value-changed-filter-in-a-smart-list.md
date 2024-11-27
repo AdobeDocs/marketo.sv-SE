@@ -4,7 +4,7 @@ description: Använd filtret Datavärdet ändrat i en smart lista - Marketo Docs
 title: Använd det datavärde som har ändrats i en smart lista
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,18 +21,18 @@ Värdena ändras ständigt och uppdateras i din Marketo-databas. I stället för
 
 1. Gå till området **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/ma.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 
 1. Markera den smarta listan och klicka på fliken **[!UICONTROL Smart List]**.
 
-   ![](assets/two-1.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-2.png)
 
 1. Hitta filtret **[!UICONTROL Data Value Changed]** och dra det till arbetsytan.
 
-   ![](assets/three-1.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-3.png)
 
 1. Ange **[!UICONTROL Attribute]** till fältet som du vill söka efter datavärdesändringar för.
 
-   ![](assets/four.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
 Det här filtret söker efter alla personer som har ändrat status. Om du vill få en ännu större fancier kan du försöka med att [lägga till en begränsning i ett Smart List-filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

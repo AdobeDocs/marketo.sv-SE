@@ -4,7 +4,7 @@ description: Använda avancerad logik för smarta listregler - Marketo Docs - pr
 title: Använda avancerad logik för smarta listregler
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -32,7 +32,7 @@ I det här exemplet vill vi säga att du vill hitta personer i Kalifornien _och_
 
 1. Välj **[!UICONTROL Use Advanced filters]** i listrutan.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ I det här exemplet vill vi säga att du vill hitta personer i Kalifornien _och_
 
 1. Textrutan **[!UICONTROL Advanced filters]** visar&quot;och&quot; som standardvärde mellan alla filter.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Skriv parenteser runt &quot;2 och 3&quot;.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ I det här exemplet vill vi säga att du vill hitta personer i Kalifornien _och_
 
 1. Ändra &quot;och&quot; mellan &quot;2 och 3&quot; till &quot;eller&quot;.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Använd parenteser vid blandning av&quot;And&quot; och&quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 Om du blandar&quot;och&quot;- och&quot;eller&quot;-logik måste du använda parenteser för att tydliggöra din avsikt.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Använd kapslade parenteser för fyra eller fler filter vid behov {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Beroende på din avsikt kan du behöva lägga till kapslade parenteser när du använder fyra eller fler filter.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
