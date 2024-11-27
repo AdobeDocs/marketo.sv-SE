@@ -4,9 +4,9 @@ description: Konfigurera protokoll för Marketo Engage - Marketo Engage Docs - p
 title: Konfigurera protokoll för Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Vissa antispam-system använder fältet för e-postretursökväg i stället för
 
 ## Steg 3: Konfigurera SPF och DKIM {#step-set-up-spf-and-dkim}
 
-Marknadsföringsteamet bör också ha skickat dig DKIM-information (Domain Keys Identified Mail) som ska läggas till i din DNS-resurspost (även den som visas nedan). Följ stegen för att konfigurera DKIM och SPF (Sender Policy Framework) och meddela sedan marknadsföringsteamet att detta har uppdaterats.
+Marknadsföringsteamet ska också ha skickat information om DKIM (Domain Keys Identified Mail) till dig för att läggas till i din DNS-resurspost (visas även nedan). Följ stegen för att konfigurera DKIM och SPF (Sender Policy Framework) och meddela sedan marknadsföringsteamet att detta har uppdaterats.
 
 1. Om du vill konfigurera SPF lägger du till följande rad i våra DNS-poster:
 
@@ -106,20 +106,20 @@ Marknadsföringsteamet bör också ha skickat dig DKIM-information (Domain Keys 
 
    `[DKIMDomain2]`: Värdposten är `[HostRecord2]` och TXT-värdet är `[TXTValue2]`.
 
-   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter att ha följt [instruktionerna här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera varje domän i Admin > E-post > DKIM när din IT-personal har slutfört det här steget.
+   Kopiera HostRecord och TXTValue för varje DKIMDomain som du har konfigurerat efter att ha följt [instruktionerna här](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Glöm inte att verifiera alla domäner i Admin > E-post > DKIM när IT-personalen har slutfört det här steget.
 
 ## Steg 4: Konfigurera DMARC {#set-up-dmarc}
 
-DMARC (domänbaserad meddelandeautentisering, rapportering och överensstämmelse) är ett autentiseringsprotokoll som används för att hjälpa organisationer att skydda sin domän mot obehörig användning. DMARC utökar de befintliga autentiseringsprotokollen, som SPF och DKIM, för att informera mottagarservrar om vilka åtgärder de bör vidta om ett autentiseringsfel inträffar på deras domän. Även om DMARC för närvarande är valfritt rekommenderar vi starkt att det skyddar er organisations varumärke och anseende bättre. Större leverantörer som Google och Yahoo kommer att kräva att DMARC används för bulkavsändare från och med februari 2024.
+DMARC (domänbaserad meddelandeautentisering, rapportering och överensstämmelse) är ett autentiseringsprotokoll som används för att hjälpa organisationer att skydda sin domän mot obehörig användning. DMARC utökar befintliga autentiseringsprotokoll, som SPF och DKIM, för att informera mottagarservrar om vilka åtgärder de bör vidta om ett autentiseringsfel inträffar på deras domän. Även om DMARC för närvarande är valfritt rekommenderar vi starkt att det skyddar er organisations varumärke och anseende bättre. Större leverantörer som Google och Yahoo kommer att kräva att DMARC används för bulkavsändare från och med februari 2024.
 
 För att DMARC ska fungera måste du ha minst en av följande DNS TXT-poster:
 
 * En giltig SPF
-* En giltig DKIM-post för din FROM: Domän (rekommenderas för Marketo Engage)
+* En giltig DKIM-post för din FROM:-domän (rekommenderas för Marketo Engage)
 
 Dessutom måste du ha en DMARC-specifik DNS TXT-post för din FROM: Domain. Du kan också ange en e-postadress som du vill använda för att ange var DMARC-rapporter ska ligga inom organisationen, så att du kan övervaka rapporter.
 
-Vi rekommenderar att du långsamt implementerar DMARC genom att eskalera din DMARC-policy från p=none, till p=karantän, för att p=reject när du får kunskap om DMARC potentiella konsekvenser och ställer in din DMARC-policy på att avspänna justeringen av SPF och DKIM.
+Vi rekommenderar att man långsamt implementerar DMARC genom att eskalera DMARC-policyn från p=none till p=karantän, till p=reject när man får kunskap om DMARC potentiella konsekvenser och ställer in din DMARC-policy på att avlasta anpassningen av SPF och DKIM.
 
 ### DMARC Example Workflow {#dmarc-example-workflow}
 
@@ -129,7 +129,7 @@ Vi rekommenderar att du långsamt implementerar DMARC genom att eskalera din DMA
 
    II. Granska och åtgärda problem med SPF/DKIM om legitimt meddelande inte kan autentiseras.
 
-   III. Kontrollera om SPF eller DKIM är justerade och skickar autentisering för alla giltiga e-postmeddelanden.
+   III. Kontrollera om SPF eller DKIM är anpassade och skickar autentisering för alla giltiga e-postmeddelanden.
 
    IV. Granska rapporter för att säkerställa att resultatet blir det du förväntar dig baserat på din SPF/DKIM-policy.
 
@@ -229,7 +229,7 @@ DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett v
   <tr>
     <td>adkim</td>
     <td>Valfritt</td>
-    <td>Kan antingen vara Strikt (Strikt) eller Avspänd ®. Avlastad justering innebär att domänen som används i DKIM-signaturen kan vara en underdomän till Från-adressen. Strikta justeringar innebär att domänen som används i DKIM-signaturen måste vara en exakt matchning av domänen som används i Från-adressen.</td>
+    <td>Kan antingen vara Strikt (Strikt) eller Avspänd ®. Avspänd justering innebär att den domän som används i DKIM-signaturen kan vara en underdomän till Från-adressen. Strikta justeringar innebär att den domän som används i DKIM-signaturen måste vara en exakt matchning av den domän som används i Från-adressen.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -251,11 +251,11 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 >[!NOTE]
 >
->Vi rekommenderar att du justerar DMARC på DKIM jämfört med SPF för Marketo Engage.
+>Vi rekommenderar att du justerar DMARC mot DKIM och SPF för Marketo Engage.
 
-* DKIM-justerad DMARC - För att ställa in DKIM-justerad DMARC måste du:
+* DKIM-justerad DMARC - För att kunna konfigurera DKIM-anpassade DMARC måste du:
 
-   * Konfigurera DKIM för FROM: Meddelandets domän. Använd instruktionerna [ i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurera DKIM för Från: Meddelandets domän. Använd instruktionerna [ i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
 
 * DMARC-justerad SPF - Om du vill konfigurera DMARC-justerad SPF via varumärkesanpassad retursökväg måste du:
@@ -369,13 +369,20 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
    <tr>
    <td>54.237.141.197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
