@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095008
-description: "Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
-title: "Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint] tjänst"
+description: Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint] tjänst
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

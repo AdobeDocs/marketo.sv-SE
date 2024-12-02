@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
-description: "Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
-title: "Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst"
+description: Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

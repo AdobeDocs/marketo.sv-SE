@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360354
-description: "Lägg till [!DNL Munchkin] spårningskod på din webbplats - Marketo Docs - produktdokumentation"
-title: "Lägg till [!DNL Munchkin] spårningskod på din webbplats"
+description: Lägg till [!DNL Munchkin] spårningskod på din webbplats - Marketo Docs - Produktdokumentation
+title: Lägg till [!DNL Munchkin] spårningskod på din webbplats
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7

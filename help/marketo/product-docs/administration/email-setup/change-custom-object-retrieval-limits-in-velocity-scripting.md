@@ -1,6 +1,6 @@
 ---
-description: "Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting] - Marketo Docs - produktdokumentation"
-title: "Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting]"
+description: Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting] - Marketo Docs - produktdokumentation
+title: Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096583
-description: "Nästa generations [!DNL Munchkin] Frågor och svar om spårning - Marketo Docs - produktdokumentation"
-title: "Nästa generation  [!DNL Munchkin] Vanliga frågor om spårning"
+description: Nästa generations [!DNL Munchkin] spårningsfrågor och svar - Marketo Docs - produktdokumentation
+title: Nästa generations [!DNL Munchkin] Vanliga frågor om spårning
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: "Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
-title: "Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst"
+description: Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
