@@ -4,9 +4,9 @@ short-description: När du är klar med de första konfigurationsstegen får du 
 title: Checklista för användarinställningar
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 6%
 
 ---
@@ -48,6 +48,7 @@ Dina nya Marketo Engage-prenumerationer är registrerade på [Adobe Identity Man
   <tr>
     <td>Användare</td>
     <td><li>Skapa en profil för när du ska <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">skapa en användare</a>.</li> <li>Skapa en profil för när användare ska tas bort.</li>
+    <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Du måste vara systemadministratör för att kunna ta bort användare.
     <li>Bestäm vem som ska ha behörighet som systemadministratör för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe och produktadministratör för Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Lägg till användare</a> i önskad produktprofil.</li>
     <li>Skapa en API-användare för varje API-användningsfall.</li></td>
   </tr>
