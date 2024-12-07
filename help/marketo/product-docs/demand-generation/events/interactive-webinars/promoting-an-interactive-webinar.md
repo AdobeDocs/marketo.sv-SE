@@ -3,9 +3,9 @@ description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdo
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Med interaktiva webbinarier kan du begära registrering före, under eller efter
 
 ## Tokens för interaktiva webbinarier {#interactive-webinars-tokens}
 
-Använd variabler för att marknadsföra interaktiva webbinarier i e-postmeddelanden och landningssidor utan att manuellt behöva lägga till information i webbinariet. Detta förbättrar den övergripande effektiviteten eftersom alla ändringar som görs i webbinariets metadata (som webbinariets titel, startdatum osv.) automatiskt återspeglas i dina resurser.
+Använd variabler för att marknadsföra interaktiva webbinarier i e-postmeddelanden och landningssidor utan att manuellt behöva lägga till webbinarier. Detta förbättrar den övergripande effektiviteten eftersom alla ändringar som görs i webbinariets metadata (som webbinariets titel, startdatum osv.) automatiskt återspeglas i dina resurser.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
