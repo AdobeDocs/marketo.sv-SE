@@ -4,7 +4,7 @@ description: Vidarebefordra till en vän-länk i e-postmeddelanden - Marketo Doc
 title: Vidarebefordra till en länk i e-postmeddelanden
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Genom att lägga till länken Vidarebefordra till vän i dina e-postmeddelanden kan du spåra personer som har fått ett vidarebefordrat e-postmeddelande via den här länken och automatiskt lägga till dem som en ny person om de inte redan finns i databasen.
 
-Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vidarebefordra e-postmeddelandet till en okänd person, Mark. Mark läggs automatiskt till som en ny person, tilldelas sin egen cookie och hans e-post och webbaktiviteter länkas till honom. Men om Keith använder framåtknappen i sin e-postklient, så kommer Mark felaktigt att kodas som Keith och hans aktivitet loggas som Keith.
+Exempel: Keith använder länken Vidarebefordra till vän för att vidarebefordra e-postmeddelandet till en okänd person, Mark. Mark läggs automatiskt till som en ny person, tilldelas sin egen cookie och hans e-post och webbaktiviteter länkas till honom. Men om Keith använder framåtknappen i sin e-postklient, så kommer Mark felaktigt att kodas som Keith och hans aktivitet loggas som Keith.
 
 ## Lägg till länken i en e-postmall {#add-the-link-to-an-email-template}
 
@@ -29,7 +29,7 @@ Exempel: Keith använder länken&quot;Vidarebefordra till vän&quot; för att vi
 
 1. Klistra in följande HTML-kod där du vill att länken &quot;Vidarebefordra till vän&quot; ska visas (om du behöver hjälp med den här delen kontaktar du webbutvecklaren):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -74,7 +74,7 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    >[!NOTE]
    >
-   >Detta token är webbadressen för webbversionen av e-postmeddelandet med rutan Vidarebefordra till vän.
+   >Denna token är webbadressen för webbversionen av e-postmeddelandet med rutan Vidarebefordra till vän.
 
 1. Skriv vad du vill att visningstexten för länken ska vara (till exempel &quot;Vidarebefordra till en vän&quot;).
 
@@ -94,7 +94,7 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    >[!NOTE]
    >
-   >Nya personer som läggs till genom att de får ett&quot;Vidarebefordra till en vän&quot;-e-postmeddelande är som standard avbeställda från marknadsföring via e-post.
+   >Nya personer som läggs till genom att ett e-postmeddelande om vidarebefordran till en vän tas emot, avbeställer som standard marknadsföringsmeddelanden.
 
 ## Visa vidarebefordringsaktivitet {#view-forwarding-activity}
 
@@ -124,7 +124,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
 1. Om du vill visa en person efter ID kopierar och klistrar du in **person-ID** i slutet av URL:en (början av URL:en beror på din Marketo-instans):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -134,7 +134,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    >[!NOTE]
    >
-   >Om den vän som tar emot vidarebefordran är en okänd person, skapas en ny person med&quot;Vidarebefordra till vän&quot;, markerad som personens **Source**.
+   >Om den vän som tar emot vidarebefordran är en okänd person, skapas en ny person med &quot;Vidarebefordra till vän&quot;, markerad som personens **Source**.
    >Om e-postmeddelandet är en lokal tillgång i ett program markeras programmet som personens **förvärvsprogram**.
 
 ## Utlös eller filtrera med hjälp av vidarebefordringsaktivitet {#trigger-or-filter-using-forwarding-activity}

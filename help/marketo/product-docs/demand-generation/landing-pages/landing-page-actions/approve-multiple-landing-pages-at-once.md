@@ -4,9 +4,9 @@ description: Godkänn flera landningssidor samtidigt - Marketo Docs - produktdok
 title: Godkänn flera landningssidor samtidigt
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. Gå till **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Klicka på **Landningssidor**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Håll ned Ctrl (Windows) eller Kommando (Mac) och klicka för att markera flera landningssidor.
+1. Välj önskade landningssidor.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >Klicka inte på det faktiska namnet på landningssidan, det är länkar som tar dig till sidan.
+   >Klicka inte på det faktiska namnet på landningssidan. Det är länkar som tar dig till sidan.
 
-1. När landningssidorna är markerade går du till **Åtgärder för landningssida** och klickar på **Godkänn**.
+1. Markera dina landningssidor och klicka på listrutan **Åtgärder för landningssida** och välj **Godkänn**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   Så där ja! Nu kan du snabbt och enkelt godkänna flera landningssidor.
+1. Klicka på **Godkänn**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

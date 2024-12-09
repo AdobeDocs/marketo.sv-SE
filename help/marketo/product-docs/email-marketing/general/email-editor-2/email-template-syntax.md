@@ -4,7 +4,7 @@ description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Innehållet i elementet HTML (om det finns) med class=&quot;mktEditable&quot; an
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Alternativ 2 - mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ Innehållet i elementet HTML (om det finns) med class=&quot;mktoText&quot; anvä
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Bilder {#images}
 
@@ -106,7 +106,7 @@ Standardvärde (valfritt)
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Alternativ 2 - Använd en \&lt;img\> {#option-use-an-img}
 
@@ -124,7 +124,7 @@ Attribut som krävs
 * **mktoLockImgStyle:** Används för att låsa stilegenskapen för elementet `<img>` (standardvärdet är false).
 
 Exempel:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Fragment {#snippets}
 
@@ -141,7 +141,7 @@ Standardvärde (valfritt)
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Video {#video}
 
@@ -158,7 +158,7 @@ Valfria attribut
 
 Exempel:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variabel {#variables}
 
@@ -181,11 +181,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## Lista {#list}
 
@@ -204,11 +204,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Nummer {#number}
 
@@ -224,17 +224,17 @@ Valfria attribut
 
 * **min:** Minsta tillåtna värde.
 * **max:** Högsta tillåtna värde.
-* **enheter:** Enheter som ska läggas till i talvärdet (t.ex. px, pt, em osv.) när det visas i e-postredigeraren, samt i den resulterande koden.
+* **units:** Enheter som ska läggas till i talvärdet (t.ex. px, pt, em osv.) när de visas i e-postredigeraren, samt i den resulterande koden.
 * **steg:** Hur många enheter talvariabeln ska öka/minska med (0,1, 1, 10 osv.). Om det utelämnas blir standardvärdet 1.
 * **mktoModuleScope**: Boolean. Kontrollerar om variabeln är lokal (true) eller global (false) när den används i en modul. Standardvärdet är Falskt om det utelämnas.
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Exempel:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Färg {#color}
 
@@ -252,11 +252,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Boolean {#boolean}
 
@@ -278,11 +278,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML Block {#html-block}
 
@@ -300,11 +300,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Bildvariabel {#image-variable}
 
@@ -322,11 +322,11 @@ Valfria attribut
 
 Exempeldeklaration:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Exempel:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Moduler {#modules}
 

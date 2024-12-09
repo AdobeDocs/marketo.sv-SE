@@ -3,10 +3,10 @@ description: Klassisk ikon - ordlista - Marketo Docs - produktdokumentation
 title: Klassisk ikon - ordlista
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -617,7 +617,7 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </td> 
-   <td>Nytt</td> 
+   <td>Nyhet</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png"> 
@@ -871,7 +871,7 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </td> 
-   <td>Nytt</td> 
+   <td>Nyhet</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png"> 
@@ -881,7 +881,8 @@ Nedan visas de gamla ikonerna från Marketo Classic-gränssnittet. Den aktuella 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </td> 
-   <td>Importera</td> 
+   <td>Import</td> 
   </tr> 
  </tbody> 
 </table>
+ 
