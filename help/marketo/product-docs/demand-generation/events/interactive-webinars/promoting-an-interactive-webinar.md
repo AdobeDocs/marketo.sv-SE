@@ -3,7 +3,7 @@ description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdo
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Att marknadsföra ett interaktivt webbinarium liknar att marknadsföra ett partn
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-När medlemmarna har lagts till eller importerats kan du skapa en e-postkampanj i Interactive Webinar Event Program för att skicka en inbjudan till alla programmedlemmar och ändra deras status till&quot;inbjudna&quot; när e-postmeddelandet har levererats.
+När medlemmarna har lagts till eller importerats kan du skapa en e-postkampanj i händelseprogrammet Interactive Webinar för att skicka en inbjudan till alla programmedlemmar och ändra deras status till&quot;inbjudna&quot; när e-postmeddelandet har levererats.
 
 >[!NOTE]
 >
