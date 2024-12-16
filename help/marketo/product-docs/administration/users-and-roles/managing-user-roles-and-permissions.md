@@ -4,9 +4,9 @@ description: Hantera användarroller och behörigheter - Marketo Docs - Produktd
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '455'
 ht-degree: 1%
 
 ---
@@ -103,7 +103,7 @@ Om du behöver ändra behörigheterna som är kopplade till en befintlig roll ka
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Ändra **[!UICONTROL Role Name]** och **[!UICONTROL Description]** om det behövs och ändra sedan markeringen för associerad **[!UICONTROL Permissions]**.
+1. Ändra **[!UICONTROL Role Name]** och **[!UICONTROL Description]** om det behövs, ändra urvalet av associerade **[!UICONTROL Permissions]** och klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

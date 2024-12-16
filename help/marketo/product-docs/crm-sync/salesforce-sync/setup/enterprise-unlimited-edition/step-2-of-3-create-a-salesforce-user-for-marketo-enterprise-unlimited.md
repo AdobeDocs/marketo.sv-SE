@@ -4,7 +4,7 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterpri
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De här stegen måste utföras av en Salesforce-administratör
+>Dessa steg måste utföras av en Salesforce-administratör
 
 >[!PREREQUISITES]
 >
 >[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
-I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen och skapar ett Marketo-Salesforce-integrationskonto.
+I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och skapa ett Marketo-Salesforce-integrationskonto.
 
 ## Skapa en profil {#create-a-profile}
 
@@ -37,7 +37,7 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Välj **[!UICONTROL Standard User]**, ge profilen namnet&quot;Marketo-Salesforce-synkronisering&quot; och klicka på **[!UICONTROL Save]**.
+1. Välj **[!UICONTROL Standard User]**, ge profilen namnet&quot;Marketo-Salesforce Sync&quot; och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -124,27 +124,27 @@ I den här artikeln ställer du in användarbehörigheter i Salesforce-profilen 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Objekt</p></th> 
-   <th colspan="1" rowspan="1"><p>Fält</p></th> 
+   <th>Objekt</th> 
+   <th>Fält</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Konto</p></td> 
-   <td colspan="1" rowspan="1"><p>Typfält</p></td> 
+   <td>Konto</td> 
+   <td>Typfält</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Händelse</p></td> 
-   <td colspan="1" rowspan="1"><p>Alla fält</p></td> 
+   <td>Händelse</td> 
+   <td>Alla fält</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Uppgift</p></td> 
-   <td colspan="1" rowspan="1"><p>Alla fält</p></td> 
+   <td>Uppgift</td> 
+   <td>Alla fält</td> 
   </tr> 
  </tbody> 
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Skapa Marketo-Salesforce-synkroniseringskonto {#create-marketo-salesforce-sync-account}
+## Skapa Marketo-Salesforce Sync-konto {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >

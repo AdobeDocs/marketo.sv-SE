@@ -4,10 +4,10 @@ description: Skicka en lista till Adobe Experience Cloud - Marketo Docs - produk
 title: Skicka en lista till Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 0%
+source-wordcount: '757'
+ht-degree: 1%
 
 ---
 
@@ -94,28 +94,30 @@ Du kan när som helst stoppa synkroniseringen av listan.
 
 **Delning till Adobe Analytics**
 
-För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
+* För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
+
+* Om en lista är tom, eller om det inte finns några personer med ECID-värden, skickas listnamnet inte för referens utanför Marketo Engage.
 
 **Trait Usage för Adobe Audience Manager-kunder**
 
 När du initierar en listexport i Marketo kommer du att märka att följande ändringar återspeglas i din Adobe Audience Manager-instans:
 
-* För alla leads i den exporterade listan skriver Marketo ett spår med Leads hashade e-postmeddelanden som en enhetsidentifierare. Namnet på egenskapen matchar målpublikens namn som du angav under exporten.
-* För alla ECID:n som Marketo har lyckats matcha med Leads i den exporterade listan skriver Marketo ett spår med ECID-enhetsidentifieraren. Namnet på egenskapen matchar målpublikens namn som du angav under exporten.
+* För alla personer i den exporterade listan skriver Marketo ett spår med hjälp av sina hash-kodade e-postmeddelanden som en identifierare för olika enheter. Namnet på egenskapen matchar målpublikens namn som du angav under exporten.
+* För alla ECID:n som Marketo har lyckats matcha med personerna i den exporterade listan, kommer Marketo att skriva ett spår med ECID-enhetsidentifieraren. Namnet på egenskapen matchar målpublikens namn som du angav under exporten.
 * Marketo kommer också att skapa ett segment i din Audience Manager Instance med ECID-egenskapen som det enda segmenteringskriteriet. Segmentets namn matchar målpublikens namn som du angav under exporten.
 
 ## Vanliga frågor och svar {#faq}
 
 **Varför skiljer sig liststorleken i Marketo från den i Adobe?**
 
-Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munchkin-cookies med motsvarande Adobe ECID-cookie. Marketo kan bara dela medlemskapsdata för leads som Marketo har synkroniserat ett ECID för. För att få bästa möjliga resultat rekommenderar vi att du läser in Marketo munchkin.js-spårningsskript parallellt med spårningskoden för Adobe visitor.js på alla sidor som du är intresserad av att spåra i marknadsföringssyfte.
+Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munchkin-cookies med motsvarande Adobe ECID-cookie. Marketo kan bara dela medlemskapsdata för personer som Marketo har synkroniserat ett ECID för. För att få bästa möjliga resultat rekommenderar vi att du läser in Marketo munchkin.js-spårningsskript parallellt med spårningskoden för Adobe visitor.js på alla sidor som du är intresserad av att spåra i marknadsföringssyfte.
 
 **Hur fungerar cookie-synkroniseringen?**
 
 När cookie-synkronisering är aktiverat för din Marketo-prenumeration försöker Marketo munchkin.js hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med ECID:n för Adobe.
 
-Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett vanligt e-postmeddelande. Exakt hur detta fungerar [beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en personprofil, som identifieras med ett vanligt textmeddelande. Exakt hur detta fungerar [beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Vilken information delas?**
 
-Den här integreringen delar bara information om medlemskap från Marketo till Adobe (t.ex. kunskap om att Lead X är medlem i List Y). Inga ytterligare leadattribut delas till Adobe via den här integreringen.
+Den här integreringen delar bara information om medlemskap från Marketo till Adobe (t.ex. kännedom om att person X är medlem i lista Y). Inga ytterligare personattribut delas till Adobe via den här integreringen.
