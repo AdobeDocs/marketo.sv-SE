@@ -4,9 +4,9 @@ description: Databaskontrollpanel - Marketo Docs - produktdokumentation
 title: Kontrollpanel för databas
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Kontrollpanelen för databaser fungerar som en ögonblicksbild som hjälper dig 
 
 >[!NOTE]
 >
->Varje arbetsyta har en egen databaskontrollpanel.
+>* Kontrollpanelen för databaser uppdateras automatiskt var 24-32:e timme. Du kan göra en manuell uppdatering när som helst genom att klicka på den&quot;senast uppdaterade&quot; texten till höger på skärmen.
+>
+>* Varje arbetsyta har en egen databaskontrollpanel.
 
 Välj **[!UICONTROL Database]** på Min Marketo för att komma dit.
 
