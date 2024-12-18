@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Avregistrera registranter från en händelse i interaktiva webbinarier</strong>: Om du inte vill ha någon registrant i webbinariet av någon anledning kan du avregistrera dem. Arbetsflödet tar bort både registranten från Marketo och Adobe Connect.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Inaktivera kampanjer i arkiv</strong>: Inaktivera aktiva utlösarkampanjer och avbryt alla schemalagda batchkörningar av kampanjer i en mapp när den arkiveras. Eftersom det finns en extra behörighetskontroll för att arkivera mappar som innehåller aktiva kampanjer (Aktivera utlösarkampanj och Schemalägg batchkampanj), inaktiveras den här funktionen som standard i den här versionen och kan aktiveras genom att gå till <b>Admin</b> &gt; <b>Treasure Chest</b> i din Marketo Engage-prenumeration.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
