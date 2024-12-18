@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9383'
 ht-degree: 0%
 
 ---
@@ -1019,7 +1019,7 @@ ht-degree: 0%
          + [Power Pack för e-postleverans: Så här importerar du en dirigeringslista](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Hårda och mjuka studsar i e-postmeddelanden](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Konfigurera en anpassad DKIM-signatur](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
-         + [Konfigurera SPF och DKIM för e-postleveransen](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
+         + [Konfigurera SPF och DKIM för e-postleverans](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [Delade och dedikerade IP-adresser](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Så här säger du upp prenumerationen](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
@@ -1982,6 +1982,7 @@ ht-degree: 0%
          + [Versionsinformation: 24 april](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Versionsinformation: 24 juni](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [Versionsinformation: 24 juli](release-notes/previous-releases/2024/release-notes-july-24.md)
+         + [Versionsinformation: 24 oktober](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
          + [Versionsinformation: 23 januari](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Versionsinformation: 23 mars](release-notes/previous-releases/2023/release-notes-mar-23.md)
