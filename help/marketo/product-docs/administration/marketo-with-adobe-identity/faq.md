@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Ja. De som har anslutit sig till Adobe IMS kan inte utnyttja alla befintliga API
 
 * Slutförande av migrering efter support: Produktsupportadministratörer kan arkivera ärenden via supportportalen för Experience League.
 
-Om du har Ultimate Success har du tillgång till tjänsten Admin Console Migration White Glove. Kontakta kontoteamet (din kontoansvarige) på Adobe om du behöver hjälp.
+Om du har Ultimate Success har du tillgång till Admin Console Migration White Glove Service. Kontakta kontoteamet (din kontoansvarige) på Adobe om du behöver hjälp.
 
 **Om jag använder en Adobe-identitet för att få åtkomst till andra Adobe-program, kan jag använda den för att få åtkomst till Marketo?**
 
@@ -133,6 +133,10 @@ När prenumerationer placeras på Adobe Identity, ställs enkel inloggning (SSO)
 **Behöver vi ändra CNAME, SPF eller DKIM för närvarande för Marketo Engage efter migreringen av Adobe-identitet?**
 
 Nej, dessa konfigurationer påverkas inte.
+
+**Hur kan jag förhindra att sessioner tajmar ut?**
+
+I [Avancerade inställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) kan du anpassa den maximala sessionstiden (systemadministratörsbehörighet krävs). Vi rekommenderar att du skapar den här inställningen efter produktmigrering, men före användarmigrering.
 
 **Jag måste nu navigera till Experience Cloud för att komma åt Marketo Engage. Finns det ett sätt att effektivisera det här flödet?**
 
