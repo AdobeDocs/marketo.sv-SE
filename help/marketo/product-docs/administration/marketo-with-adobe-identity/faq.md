@@ -3,7 +3,7 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Nej, dessa konfigurationer påverkas inte.
 
 **Hur kan jag förhindra att sessioner tajmar ut?**
 
-I [Avancerade inställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) kan du anpassa den maximala sessionstiden (systemadministratörsbehörighet krävs). Vi rekommenderar att du skapar den här inställningen efter produktmigrering, men före användarmigrering.
+I [Avancerade inställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} kan du anpassa den önskade maximala sessionstiden (systemadministratörsbehörighet krävs). Vi rekommenderar att du skapar den här inställningen efter produktmigrering, men före användarmigrering.
 
 **Jag måste nu navigera till Experience Cloud för att komma åt Marketo Engage. Finns det ett sätt att effektivisera det här flödet?**
 
