@@ -4,9 +4,9 @@ description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokument
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomst [[!DNL Data.com]](https://data.com) - Ger användare åtkomst till Data.com.
 * Åtkomst till e-postadministratör - Ger användarna åtkomst till e-postadministratören för att ändra standardinställningar, till exempel domäner för att avbryta prenumerationen och varumärken
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
+* Access Experience Cloud Audience Sharing - Ger användare åtkomst att synkronisera en målgrupp från Adobe Experience Cloud till Marketo Engage
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
 * Access File Upload - Ger användarna möjlighet att överföra bilder och filer till Design Studio
 * Åtkomst till landningssidor - ger användarna åtkomst till landningssidor i administratören
