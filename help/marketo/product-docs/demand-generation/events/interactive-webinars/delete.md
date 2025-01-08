@@ -2,16 +2,17 @@
 description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdokumentation
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Marknadsför ett interaktivt webbinarium {#promoting-an-interactive-webinar}
 
-Att marknadsföra ett interaktivt webbinarium liknar att marknadsföra ett partnerwebbinarium via Launchpoint. När du skapar ett händelseprogram för interaktiva webbinarier kan du lägga till medlemmar antingen genom att köra en kampanj eller importera medlemmar till programmet. Om du vill kontrollera vilka medlemmar som har lagts till i händelseprogrammet för interaktiva webbinarier klickar du på fliken **[!UICONTROL Members]**.
+Att marknadsföra ett interaktivt webbinarium liknar att marknadsföra ett partnerwebbinarium via Launchpoint. När du skapar ett händelseprogram för interaktiva webbinarier kan du lägga till medlemmar antingen genom att köra en kampanj eller importera medlemmar till programmet. Klicka på fliken **Medlemmar** om du vill kontrollera vilka medlemmar som har lagts till i händelseprogrammet för interaktiva webbinarier.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Använd variabler för att marknadsföra interaktiva webbinarier i e-postmeddela
 
 **Lista över tokens**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definition</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Maximalt antal deltagare som kan delta i det interaktiva webbinariet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>Den varaktighet som det interaktiva webbinariet är schemalagt för.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>Slutdatumet för det schemalagda interaktiva webbinariet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>Den schemalagda sluttiden för det interaktiva webbinariet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>Den generiska inspelnings-URL som kan delas med publiken efter webbinariet. Den här URL:en används inte för att delta i webbinariet live och spårar inte målgruppens aktivitet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>Det språk på vilket webbinariet ska genomföras.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>Startdatum för det schemalagda interaktiva webbinariet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>Den schemalagda starttiden för det interaktiva webbinariet.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>Den tidszon som Interactive Webinar är schemalagd i.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>Titeln på det interaktiva webbinariet som är synligt för läsarna på webbseminariet Screens.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
