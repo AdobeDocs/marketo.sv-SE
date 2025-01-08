@@ -2,9 +2,10 @@
 description: Marknadsför ett interaktivt webbinarium - Marketo Docs - produktdokumentation
 title: Marknadsför ett interaktivt webbinarium
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 Att marknadsföra ett interaktivt webbinarium liknar att marknadsföra ett partnerwebbinarium via Launchpoint. När du skapar ett händelseprogram för interaktiva webbinarier kan du lägga till medlemmar antingen genom att köra en kampanj eller importera medlemmar till programmet. Om du vill kontrollera vilka medlemmar som har lagts till i händelseprogrammet för interaktiva webbinarier klickar du på fliken **[!UICONTROL Members]**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## Översikt {#overview}
 
 När medlemmarna har lagts till eller importerats kan du skapa en e-postkampanj i händelseprogrammet Interactive Webinar för att skicka en inbjudan till alla programmedlemmar och ändra deras status till&quot;inbjudna&quot; när e-postmeddelandet har levererats.
 
