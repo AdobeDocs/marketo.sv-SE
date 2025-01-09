@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 2%
+source-wordcount: '471'
+ht-degree: 3%
 
 ---
 
@@ -61,6 +61,16 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 <br/>
 
 ## Meddelanden {#announcements}
+
+* **Borttagning av sociala funktioner**: Onsdagen den 31 juli 2024 började Marketo Engage ta bort följande sociala funktioner i produkten:
+
+   * Omröstningar
+   * Knappen Socialt
+   * Värvningserbjudande
+   * Videodelning
+   * Dragningar
+
+Sedan dess har man inte kunnat skapa, klona eller bädda in någon av dessa sociala funktioner i Marketo Engage. Befintliga sociala tillgångar fortsätter att fungera fram till 31 januari 2025. Den 1 februari 2025 upphör sociala tillgångar att fungera. Sociala funktioner inbäddade i landningssidor måste tas bort. [Läs mer](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Hämta API-uppdatering för programmedlemmar**: Vi har förbättrat API:t [Hämta programmedlemmar](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} så att det går att hämta programmedlemmens identifierare. Detta gör du genom att lägga till id i listan med fält som anges i parametern fields i API-begäran.
 
