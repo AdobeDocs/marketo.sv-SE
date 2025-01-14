@@ -4,9 +4,9 @@ description: Redigera textversionen av ett e-postmeddelande - Marketo Docs - pro
 title: Redigera textversionen av ett e-postmeddelande
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,6 @@ När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas
 
    ![](assets/five-3.png)
 
-Nu vet du!
+>[!CAUTION]
+>
+>Om du väljer **Kopiera från HTML**, eller om du väljer **Kopiera automatiskt från HTML** i e-postmeddelanden som innehåller dynamiskt innehåll, anges flaggan Granskad till _true_ för alla segment i både HTML och textversionen av e-postmeddelandet.
