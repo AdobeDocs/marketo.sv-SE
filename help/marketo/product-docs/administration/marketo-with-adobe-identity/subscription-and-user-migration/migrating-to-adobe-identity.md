@@ -3,9 +3,9 @@ description: Migrera till Adobe Identity - Marketo Docs - produktdokumentation
 title: Migrerar till Adobe-identitet
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ Administratören kan välja ett datum mellan 8 och 30 dagar i framtiden. När et
 Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt, Pacific Standard Time, efter startdatumet för användarmigreringen. Migreringen av användare för alla andra prenumerationer börjar vid midnatt i prenumerationens angivna tidszon. När en prenumerations användarmigrering börjar är användarhantering inte längre tillgänglig i Marketo Admin, utan bara i Adobe Admin Console. Rollhantering finns kvar på fliken Användare och roller i Marketo Admin-området samt lokal (endast API) användarhantering.
 
 Adobe migrerar automatiskt alla Marketo-administratörer med verifierade e-postmeddelanden först. När Marketo-administratörer migreras till Adobe Identity läggs de till i prenumerationens Adobe Admin Console som produktadministratör för Marketo-prenumerationen och tilldelas Adobe produktadministratörsrollen i Marketo-programmet (tillsammans med andra roller de tidigare haft) och har sedan rätt till prenumerationen på Adobe ID. Administratörerna får två e-postmeddelanden. Den ena anger att de har utsetts till produktadministratör för Adobe och den andra anger att de har rätt till Marketo-produkten.
+
+>[!IMPORTANT]
+>
+>Du måste klicka på knappen **Acceptera inbjudan** i berättigandemeddelandet för att få åtkomst till Marketo Engage med din Adobe ID.
 
 **E-postadress till Marketo produktadministratör**
 
@@ -177,7 +181,7 @@ Marketo produktadministratörer kan välja vilka användare som ska migreras gru
 
 En administratör kan till exempel välja en grupp med&quot;avancerade användare&quot; som de vill migrera först. När dessa användarmigreringar har slutförts kan de välja olika användargrupper baserat på variabler som arbetsyta/företag eller funktion/roll för att batchmigrera användare ytterligare. Eller så kan de bestämma sig för att migrera resten av användarna i prenumerationerna efter att den första gruppen har slutförts. Målet är att ge största flexibilitet när det gäller att distribuera Adobe ID till användare.
 
-Alla användarmigreringar sker samtidigt och bör slutföras inom sextio sekunder. När en användarmigrering sker för en viss användare kan användaren förlora åtkomsten i upp till en minut, och det är bara om användaren är inloggad i programmet. När användarmigreringen är klar får användaren ett e-postmeddelande om hur man loggar in i Marketo Engage med en Adobe-identitet. Användaren måste acceptera inbjudan via knapplänken i e-postmeddelandet. När användaren har accepterat inbjudan bör han/hon logga in med en Adobe ID. Instruktioner om hur du loggar in i Marketo Engage med en Adobe ID [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Alla användarmigreringar sker samtidigt och bör slutföras inom sextio sekunder. När en användarmigrering sker för en viss användare kan användaren förlora åtkomsten i upp till en minut, och det är bara om användaren är inloggad i programmet. När användarmigreringen är klar får användaren ett e-postmeddelande om hur man loggar in i Marketo Engage med en Adobe-identitet. Användaren måste acceptera inbjudan via knapplänken i e-postmeddelandet _innan_ de kan logga in med en Adobe ID-instruktion om hur de loggar in i Marketo Engage med en Adobe ID [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
