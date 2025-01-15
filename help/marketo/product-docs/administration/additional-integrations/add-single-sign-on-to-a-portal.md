@@ -4,9 +4,9 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer som är registrerade för Adobe Identity. För prenumerationer som är kopplade till Adobe Identity, ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer som är registrerade för Adobe Identity. För prenumerationer som är kopplade till Adobe Identity, ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!NOTE]
 >
->Marketo stöder endast Identity Provider-initierad (kallas även IdP-initierad), där användaren först startar Idp-inloggningssidan, autentiserar och sedan navigerar till Min Marketo.
+>Marketo stöder bara Identity Provider-initierad (kallas även IdP-initierad), där användaren först startar inloggningssidan för IdP, autentiserar och sedan navigerar till Min Marketo. Om din Marketo-prenumeration har flyttats till Admin Console stöder Adobe Admin Console endast tjänsteleverantörsinitierad (kallas även SP-initierad) just nu. Dina SSO-inställningar kan ändras.
 
 ## Ytterligare information {#additional-notes}
 

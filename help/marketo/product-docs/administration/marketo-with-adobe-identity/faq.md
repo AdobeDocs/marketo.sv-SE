@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe Identity Management System består av tre komponenter.
 
 **När kommer befintliga Marketo Engage-prenumerationer att integreras med IMS?**
 
-Befintliga prenumerationer på Marketo Engage migreras för närvarande till Adobe IMS vid alla försäljningsevenemang, inklusive förnyelser, avtalsevenemang och/eller tillägg. Migreringar utanför ett försäljningsevenemang stöds nu från och med oktober 2024.
+Befintliga prenumerationer på Marketo Engage migreras för närvarande till Adobe IMS vid alla försäljningsevenemang, inklusive förnyelser, avtalsevenemang och/eller tillägg. Migreringar utanför ett försäljningsevenemang stöds från och med oktober 2024.
 
 **Efter migreringen, kommer URL:er i Marketo Engage att vara desamma?**
 
@@ -35,6 +35,10 @@ Nej. URL:er ser annorlunda ut efter migrering.
 Ja. Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Du måste samarbeta med IT-teamet för att kunna tillåtslista alla Adobe-domäner som listas [ högst upp i den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
 Tidigare länkar och bokmärken till Marketo Engage-resurser på engage-xx.marketo.com _kommer_ att fortsätta fungera. Du måste dock först logga in på Marketo Engage-instansen för den URL som du navigerar till. Om du till exempel vill navigera till ett bokmärke för en Smart Campaign-instans med Munchkin ID 123-ABC-456 måste du först logga in på Marketo Engage-instansen med Munchkin ID 123-ABC-456.
+
+**Fungerar detta med enkel inloggning?**
+
+Ja. Integrationen med Adobe IMS stöder universella ID-användare och SSO. SSO styrs nu av Adobe IMS och konfigureras på organisationsnivå i Adobe Admin Console. Det finns dock skillnader i det stöd som initierats av Marketo Engage IdP jämfört med stöd initierade av Adobe SP ([läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}). Om du behöver hjälp med att ta reda på skillnader i enkel inloggning efter att du har migrerat till Admin Console kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Vad är skillnaden mellan en produktadministratör för Adobe och en Marketo Engage-administratör?**
 
