@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1511'
 ht-degree: 0%
 
 ---
@@ -86,10 +86,6 @@ Som Marketo produktadministratör bör du se till att alla användare är förbe
 
 * Förbered alla användare för den kommande migreringen till Adobe Identity.
 
->[!NOTE]
->
->När användare migrerar får de ett e-postmeddelande från Adobe som meddelar dem om förändringen i det sätt de loggar in på Marketo. Användare kommer att uppmanas att acceptera en inbjudan att logga in med Adobe Identity för första gången, antingen genom att logga in med en befintlig Adobe ID eller genom att konfigurera en ny med samma e-postadress.
-
 >[!IMPORTANT]
 >
 >Om en Marketo Engage-användare inte verifierar sin e-postadress eller är utlåst när användaren migrerar, migreras de inte till en Adobe ID och förlorar åtkomsten till Marketo-prenumerationen när prenumerationen har migrerats. För att återfå åtkomst måste en Marketo-produktadministratör lägga till dem som en ny användare.
@@ -108,7 +104,7 @@ Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt
 >
 >Åtkomsten till produkten kommer inte att gå förlorad under migreringen av användaren. Om en användare är inloggad under den tid användaren migreras, loggas användaren ut och uppmanas att logga in igen inom några minuter med hjälp av Adobe-identitet när migreringen är klar. Användaren måste acceptera inbjudan genom att klicka på länken i det tillståndsmeddelande som skickas när migreringen är klar.
 
-När användare migreras får de ett e-postmeddelande från Adobe som meddelar dem om ändringen av det sätt på vilket de loggar in på Marketo. Användare **måste** acceptera en inbjudan att logga in med Adobe Identity för första gången, antingen genom att logga in med en befintlig Adobe ID eller genom att konfigurera en ny Adobe ID med samma e-postadress
+När användare migreras får de ett e-postmeddelande från Adobe som meddelar dem om ändringen av det sätt på vilket de loggar in på Marketo. Användare **måste** acceptera en inbjudan om att logga in med Adobe Identity för första gången, antingen genom att logga in med en befintlig Adobe ID eller genom att konfigurera en ny Adobe ID med samma e-postadress.
 
 Mer information finns i [Migrering till Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [Användarinloggning med Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} och [Adobe Identity Management - frågor och svar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
