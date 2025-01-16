@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '523'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
     <tr> 
-   <td><strong>Ny e-post för Designer</strong>: Skapa moderna och effektiva e-postmeddelanden med den nya inbyggda e-postadressen Designer i Marketo Engage. Få tillgång till någon av de färdiga e-postmallarna som är färdiga att användas, eller skapa enkelt en egen. Använd dynamiskt innehåll och få tillgång till bilder från Adobe Experience Manager molntjänster.</td> 
+   <td><strong>Ny e-post för Designer</strong>: Skapa moderna och effektiva e-postmeddelanden med den nya inbyggda e-postadressen Designer i Marketo Engage. Få tillgång till någon av de färdiga e-postmallarna som är färdiga att användas, eller skapa enkelt en egen. Använd dynamiskt innehåll och få tillgång till bilder från Adobe Experience Manager molntjänster.
+   <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Din Marketo Engage-prenumeration måste migreras till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a> för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo support</a>.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>

@@ -4,9 +4,10 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1487'
 ht-degree: 0%
 
 ---
@@ -18,6 +19,10 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 >[!IMPORTANT]
 >
 >Den här artikeln är endast avsedd för medlemmar av nya Marketo Engage Email Designer beta. Sprid inte information.
+
+>[!PREREQUISITES]
+>
+>Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Skapa ett e-postmeddelande {#create-an-email}
 
