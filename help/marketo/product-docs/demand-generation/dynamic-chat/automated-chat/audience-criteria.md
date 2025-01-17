@@ -3,9 +3,9 @@ description: Målgrupper - Marketo Docs - produktdokumentation
 title: Målgruppskriterier
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Använd Marketo Engage Smart Lists för er målgrupp i dialogrutan.
 
 >[!AVAILABILITY]
 >
->Medlem i Smart List eller Medlem i List-kriterier kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Medlemmen i Smart List eller Member of List-kriterierna kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
 
 1. Under Medlemskap tar du **[!UICONTROL Member of Smart List]** och släpper det på arbetsytan.
 
@@ -116,7 +116,7 @@ Du kan också gruppera attribut om du vill ha alla attribut tillsammans med&quot
 
 ![](assets/audience-criteria-17.png)
 
-## Mål {#target}
+## Target {#target}
 
 Här anger du de URL:er som du vill att en viss dialogruta ska visas på. Du kan också lägga till undantag.
 
@@ -129,7 +129,9 @@ Godtagbara format:
 
 >[!NOTE]
 >
->Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. `https://*.website.com` placerar dialogrutan på varje sida på webbplatsen, inklusive underdomäner (t.ex. `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex. i det här fallet säger vi att mappen är &quot;sport&quot;, så här: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+>* Om du använder en asterisk fungerar det som ett jokertecken för&quot;catch all&quot;. `https://*.website.com` placerar dialogrutan på varje sida på webbplatsen, inklusive underdomäner (t.ex. `support.website.com`). Och `https://website.com/folder/*` placerar dialogrutan på varje HTML-sida i efterföljande mapp (t.ex. i det här fallet säger vi att mappen är &quot;sport&quot;, så här: website.com/sports/baseball.html, website.com/sports/football.html osv.).
+>
+>* URL-parametrar stöds inte just nu.
 
 **Undantag**
 
