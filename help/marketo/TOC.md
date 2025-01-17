@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 0%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 0%
       + Bilder och filer {#images-and-files}
          + [Nytt dokument för Lägg till bilder](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Lägg till bilder och filer i Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Redigera Assets med Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [Ta bort en överförd bild eller fil](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Hitta URL-adressen till en överförd bild eller fil](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Hämta bilderna från en webbsida](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
