@@ -4,7 +4,7 @@ description: Understanding Content Analytics - Marketo Docs - Product Documentat
 title: Innehållsanalys
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Analystabellen innehåller följande information:
    <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ Analystabellen innehåller följande information:
    <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analysikon</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1"><p><strong>Analysikon</strong></p><p><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Se fler analyser av innehållet</td> 
   </tr> 
   <tr> 
@@ -82,7 +82,7 @@ En dialogruta öppnas med ytterligare innehållsanalys för den specifika delen 
 
 Ytterligare innehållsanalyser är:
 
-**Analyser**
+**Analytics** 
 
 * **Vyer**: Vyer av den delen av innehållet för det valda tidsintervallet
 * **Direktkonvertering**: Webbbesökare som visade innehållet och fyllde i ett formulär vid samma besök.

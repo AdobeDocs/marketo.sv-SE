@@ -4,7 +4,7 @@ description: Versionsinformation - okt 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation - 20 okt
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Följande funktioner ingår i versionen från 20 oktober. Se om det finns funkti
 
 ## E-postmarknadsföring {#email-marketing}
 
-* **Förstärkning av e-post i grupp ![(stjärna)](assets/yellow-star.png)**: Skicka fler e-postmeddelanden med en ökad genomströmning på upp till 5 miljoner gruppmeddelanden per timme. Omfattande alternativ för e-postleverans eliminerar behovet av att vänta mellan e-postbatchar - skicka alla e-postmeddelanden i tid och enligt ditt schema.
+* **Förstärkning av e-post i grupp** ![(stjärna)](assets/yellow-star.png): Skicka fler e-postmeddelanden med en ökad genomströmning på upp till 5 miljoner gruppmeddelanden per timme. Omfattande alternativ för e-postleverans eliminerar behovet av att vänta mellan e-postbatchar - skicka alla e-postmeddelanden i tid och enligt ditt schema.
 
 ## Webbplatsmarknadsföring {#website-marketing}
 
@@ -41,15 +41,15 @@ Följande funktioner ingår i versionen från 20 oktober. Se om det finns funkti
 
 ## CRM-integrering {#crm-integration}
 
-* **Salesforce CRM Sync**: Identifiera och åtgärda synkroniseringsfel och fel med två nya Salesforce Sync- och Errors Dashboards. Övervaka nya postuppdateringar, borttagningar, misslyckanden och slutförande av synkroniseringsprocessen. Rapporterna kan filtreras efter datum, åtgärdstyp eller objekttyp.
+* **Salesforce CRM-synkronisering**: Identifiera och åtgärda synkroniseringsfel och fel med två nya Salesforce Sync- och Errors Dashboards. Övervaka nya postuppdateringar, borttagningar, misslyckanden och slutförande av synkroniseringsprocessen. Rapporterna kan filtreras efter datum, åtgärdstyp eller objekttyp.
 
-* **Integrering med Microsoft Dynamics 365**: Automatisera registrering av leads och kontakter i kampanjer i Microsoft Dynamics 365. Lägg enkelt till eller ta bort leads och kontakter i Marketo Engage i MS Dynamics-kampanjer med nya smarta åtgärder för kampanjflöde. Skicka enkelt leads från marknadsföring till försäljning och sluta avtal snabbare.
+* **Microsoft Dynamics 365-integrering**: Automatisera registrering av leads och kontakter i Microsoft Dynamics 365-kampanjer. Lägg enkelt till eller ta bort leads och kontakter i Marketo Engage i MS Dynamics-kampanjer med nya smarta åtgärder för kampanjflöde. Skicka enkelt leads från marknadsföring till försäljning och sluta avtal snabbare.
 
 ## Betalda målgruppsinriktade medier {#paid-media-targeting}
 
 * **Facebook Lead Ads Integrations**: Facebook formulärspårningsparametrar kan nu hämtas via LaunchPoint-tjänsten för Facebook lead-annonser. Dessa dolda fält kan nu mappas till Marketo-fält så att marknadsförarna kan lagra och agera på värdefulla kampanjspårningsdata.
 
-## Administration {#administration}
+## Administrering {#administration}
 
 * **Exportera roller och behörigheter**: Exportera roller och behörigheter till kalkylblad för enkel delning mellan team i organisationen. Genomför granskningar av roller och behörigheter enklare och snabbare.
 
@@ -59,7 +59,7 @@ Följande funktioner ingår i versionen från 20 oktober. Se om det finns funkti
 
 * **Nya alternativ för export av metadata**: Exportera anpassade objektmetadata för valda anpassade objekt till ett kalkylblad för enkel delning. Dessutom kan metadata för alla prenumerationsobjekt exporteras, t.ex. lead, company, standard och anpassade aktiviteter, taggar och kanaler. Data kan extraheras av administratörer och snabbt delas med konstruktionsgrupper för analys- och designändamål.
 
-* **Anpassat fält för affärsmöjlighet**: Få mer insikt i poster för affärsmöjligheter med anpassade fält för affärsmöjlighet som visas i Marketo Engage. Visa anpassade affärsmöjlighetsfältdata från Salesforce CRM, Microsoft Dynamics 365 CRM, interna försäljningsintegreringar eller via andra API-integreringar. Med fullständig insyn i information om affärsmöjligheter och i pipeline kan ni samordna interaktionen med försäljningen, öka konverteringsgraden och hjälpa er att sluta avtal snabbare.
+* **Anpassat fält för affärsmöjlighet**: Få mer insikt i poster för affärsmöjligheter med anpassade fält för affärsmöjlighet som visas i Marketo Engage. Visa data om anpassade affärsmöjlighetsfält från Salesforce CRM, Microsoft Dynamics 365 CRM, interna säljintegreringar eller via andra API-integreringar. Med fullständig insyn i information om affärsmöjligheter och i pipeline kan ni samordna interaktionen med försäljningen, öka konverteringsgraden och hjälpa er att sluta avtal snabbare.
 
 ## Frigör under hela kvartalet {#releasing-throughout-the-quarter}
 

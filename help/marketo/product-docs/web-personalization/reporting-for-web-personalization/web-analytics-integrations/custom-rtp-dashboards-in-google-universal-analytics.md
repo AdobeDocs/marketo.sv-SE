@@ -4,7 +4,7 @@ description: Anpassade RTP-instrumentpaneler i Google Universal Analytics - Mark
 title: Anpassade RTP-instrumentpaneler i Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -132,7 +132,7 @@ Kontrollpanelen består av tre kolumner
      <li>Typ: Stapel<br></li> 
      <li>Skapa ett stapeldiagram som visar: Sessioner</li> 
      <li>Grupperad av: RTP-Group</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
    <th> </th> 
@@ -142,7 +142,7 @@ Kontrollpanelen består av tre kolumner
      <li>Typ: Tabell<br></li> 
      <li>Visa följande kolumner: <br>Händelseetikett | Sessioner | Målkonverteringsgrad</li> 
      <li>Filter: <br>Visa bara | Händelsekategori (innehållande) RTP-segment</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
@@ -181,15 +181,15 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
      <li>Namn: <strong>Totalt CTA (engagemang)</strong></li> 
      <li>Typ: <strong>2.1 Mått </strong></li> 
      <li>Visa följande mått: <strong>Totalt antal händelser</strong></li> 
-     <li>Filter:<br><strong>[visa endast] Händelsekategori (innehåller): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (matchar exakt): Impression</strong><strong>[visa inte] Händelseetikett (innehåller): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Filter:<br><strong>[visa endast] Händelsekategori (innehåller): RTP-kampanjer</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): Impression</strong>[visa inte] Händelseetikett (innehåller): #</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Namn: <strong>Totalt CTA (klickningsfritt)</strong></li> 
+     <li>Namn: <strong>Totalt CTA (klickbart)</strong></li> 
      <li>Typ: <strong>2.1 Mått </strong></li> 
      <li>Visa följande mått: <strong>Totalt antal händelser</strong></li> 
      <li>Filter:<br><strong>[visa endast] Händelsekategori (innehåller): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): Klicka </strong><strong>[visa inte] Etikett för händelse (innehåller): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Namn: <strong>CRE - totalt antal klick</strong></li> 
@@ -205,14 +205,14 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
      <li>Typ: <strong>2.1 Mått </strong></li> 
      <li>Visa följande mått: <strong>Medel. Sessionsvaraktighet </strong></li> 
      <li>Filter:<br><strong>[visa endast] Händelsekategori (exakt matchning): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): intrycket </strong><strong>[visa inte] Händelseetikett (innehåller): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Namn: <strong>Medel. Sessionsvaraktighet (klickning) </strong></li> 
      <li>Typ: <strong>2.1 Mått </strong></li> 
      <li>Visa följande mått: <strong>Medel. Sessionsvaraktighet </strong></li> 
      <li>Filter:<br><strong>[visa endast] Händelsekategori (exakt matchning): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): klickningar </strong><strong>[visa inte] Händelseetikett (innehåller): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Namn: <strong>CRE - Rekommenderat toppinnehåll</strong></li> 
@@ -239,20 +239,20 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
      <li>Filter:<br><strong>[endast visa] Händelsekategori (exakt matchning): RTP-kampanjer</strong></li> 
      <li><strong>[endast show] Händelseåtgärd (exakt matchning): klickningar</strong></li> 
      <li><strong>[visa inte] Händelseetikett (innehåller): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>Namn: <strong>Impressions by CTA</strong></li> 
+     <li>Namn: <strong>Impressions av CTA</strong></li> 
      <li>Typ: <strong>Tabell</strong></li> 
      <li>Visa följande kolumner: <strong>Händelseetikett | Totalt antal händelser | Användare </strong></li> 
      <li>Filter:<br><strong>[visa endast] Händelsekategori (exakt matchning): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): intrycket </strong><strong>[visa inte] Händelseetikett (innehåller): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Namn: <strong>Klicka igenom av CTA</strong></li> 
+     <li>Namn: <strong>Klicka genom CTA</strong></li> 
      <li>Typ: <strong>Tabell</strong></li> 
      <li>Visa följande kolumner: <strong>Händelseetikett | Totalt antal händelser | Användare </strong></li> 
      <li>Filter:<br><strong>[visa endast] Händelsekategori (exakt matchning): RTP-Campaigns</strong><br><strong>[visa endast] Händelseåtgärd (exakt matchning): klicka</strong></li> 

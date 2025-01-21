@@ -4,7 +4,7 @@ description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Följande funktioner kommer att släppas den **17 januari 2020**.
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **[Ny kontoidentifiering (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(stjärna)](assets/yellow-star.png)**: Använd kontoprofilering för att identifiera nya målkonton för din ABM-strategi baserat på din AI-drivna idealiska kundprofilmodell. Visa, markera och importera rekommenderade nya konton, tillsammans med deras AI-baserade indikator för anpassning och avsiktsdata, som inte redan finns i Marketo Engage lead- och kontodatabasen för ABM-anpassning. Omedelbart tillgängligt för kvalificerade kunder inom kontoprofilering.
+* [Ny kontoidentifiering (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(stjärna)](assets/yellow-star.png): Använd kontoprofilering för att identifiera nya målkonton för din ABM-strategi baserat på din AI-drivna idealiska kundprofilmodell. Visa, markera och importera rekommenderade nya konton, tillsammans med deras AI-baserade indikator för anpassning och avsiktsdata, som inte redan finns i Marketo Engage lead- och kontodatabasen för ABM-anpassning. Omedelbart tillgängligt för kvalificerade kunder inom kontoprofilering.
 
 <br> 
 
@@ -61,8 +61,8 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## Försäljningsinsikter {#sales-insight}
 
-* **Salesforce Lightning-gruppåtgärder**: Förbättra effektiviteten inom försäljningen och håll kvar köparna med möjligheten att lägga till upp till 200 kontakter/leads till kampanjer och skicka e-postmeddelanden från Marketo Engage till dem i grupp med Salesforce Lightning.
-* **Mobilstöd för Salesforce1**: Nu har du mobil tillgång till alla funktioner i Sales Insight, som Intressanta stunder och Webbaktiviteter och e-postmeddelanden, direkt i Salesforce1-appen.
+* **Salesforce Lightning-gruppåtgärder**: Förbättra effektiviteten inom försäljningen och håll kvar köparna med möjligheten att lägga till upp till 200 kontakter/leads till kampanjer och skicka Marketo Engage-e-postmeddelanden i grupp med Salesforce Lightning.
+* **Mobilstöd för Salesforce1**: Nu har du mobil tillgång till alla funktioner i Sales Insight, som Intressanta stunder och Webbaktiviteter och e-post, direkt i Salesforce1-appen.
 * **UI-förbättringar**: Uppdaterat gränssnitt med förbättrad läsbarhet och en design som är förenlig med vår Marketo Sky.
 
 ## Sales Connect {#sales-connect}
@@ -74,6 +74,6 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 >
 >* **Borttagning av TLS 1.0 och 1.1**: I ett fortsatt arbete med att integrera med Adobe-struktur flyttar vi bort borttagningen av TLS 1.0 och TLS 1.1 till 13 januari 2020. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
->* **ITP 2.1+ Munchkin-uppdatering**: På grund av ändringar i cookie-principen för Safari kommer Munchkins möjlighet att spåra användare i sessioner på samma domän att begränsas av ITP till antingen 1 eller 7 dagar baserat på webbläsarversionen som besökaren använder. Därför implementerar vi en ny webbtjänst som tillåter att Munchkin-cookies ställs in med en Set-Cookie-rubrik via HTTP-svar. Mer information om hur du implementerar den nya tjänsten finns [här](https://nation.marketo.com/docs/DOC-7351).
+>* **ITP 2.1+ Munchkin Update**: På grund av ändringar i cookie-principen för Safari kommer Munchkin möjlighet att spåra användare i sessioner på samma domän att begränsas av ITP till antingen 1 eller 7 dagar baserat på webbläsarversionen som används av besökaren. Därför implementerar vi en ny webbtjänst som tillåter att Munchkin cookies ställs in med en Set-Cookie-rubrik via HTTP-svar. Mer information om hur du implementerar den nya tjänsten finns [här](https://nation.marketo.com/docs/DOC-7351).
 
 **_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) den 3 mars klockan 11:00 PT/2:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.
