@@ -4,7 +4,7 @@ description: Gör en kampanj synlig för användare av Sales Connect - Marketo D
 title: Gör en kampanj synlig för användare av Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -17,36 +17,36 @@ Kampanjer kan bara delas om de är synliga. Så här gör du.
 
 1. Välj (eller skapa) den kampanj du vill dela.
 
-   ![](assets/one.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
 1. Klicka på fliken **Smart lista**.
 
-   ![](assets/two.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
 1. Lägg till kampanjutlösaren är begärd.
 
-   ![](assets/three.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
 1. Välj is **Webbtjänstens API** som källa.
 
-   ![](assets/4.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
 1. Klicka på fliken **Flöde**.
 
-   ![](assets/five.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
 1. Lägg till åtgärden Intressant stationsflöde.
 
-   ![](assets/six.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
 1. Välj **Webb** som Typ.
 
-   ![](assets/seven.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
 1. Skriv ett meddelande till ditt säljteam i rutan Beskrivning. I det här exemplet använder vi tokens för att ange formuläret som fylldes i.
 
-   ![](assets/eight.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
 1. Klicka på fliken **Schema** och **Aktivera** kampanjen.
 
-   ![](assets/nine.png)
+   ![](assets/make-a-marketing-campaign-visible-msc-9.png)
