@@ -3,9 +3,9 @@ description: Gör en marknadsföringskampanj synlig i Sales Insight Actions - Ma
 title: Gör en marknadsföringskampanj synlig i försäljningsinsikter
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Med Sales Insight Actions får användarna tillgång till en ny försäljningsap
 
    >[!NOTE]
    >
-   >Om du vill visa marknadsföringskampanjen för användare som använder _Lägg till i marknadsföringskampanj_ från webbappen toutapp.com (även om du har webbappen inbäddad i CRM via Marketo Sales Outbox-objektet) anger du den till&quot;Web Service API&quot;. Om du vill att marknadsföringskampanjen ska visas när en användare använder åtgärderna på MSI-panelen i Salesforce på lead-, kontakt-, konto- eller gruppåtgärdsknapparna på lead- och kontaktlistorna uppdaterar du den till&quot;Sales Insight&quot;
+   >Om du vill visa marknadsföringskampanjen för användare som använder _Lägg till i marknadsföringskampanj_ från webbappen toutapp.com (detta gäller även om du har webbappen inbäddad i CRM via Marketo Sales Outbox-objektet), anger du den begärda källan för Campaign till&quot;Web Service API&quot;. Om du vill att marknadsföringskampanjen ska visas när en användare använder åtgärderna på MSI-panelen i Salesforce på lead-, kontakt-, konto- eller gruppåtgärdsknapparna på lead- och kontaktlistorna, uppdaterar du den begärda källan för Campaign till&quot;Sales Insight&quot;
 
 1. Klicka på fliken **Flöde**.
 
