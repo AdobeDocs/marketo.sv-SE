@@ -3,9 +3,9 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2336'
+source-wordcount: '2337'
 ht-degree: 0%
 
 ---
@@ -236,7 +236,7 @@ SCREENSHOT
 
 1. Om du vill uppdatera innehållet klickar du på **[!UICONTROL Create draft version]** längst upp till höger.
 
-   Klicka på **[!UICONTROL OK]** i dialogrutan för att öppna utkastet i den visuella designern. Du kan ändra [bildkällan](./assets-overview.md#choose-an-asset-source) om det behövs.
+   Klicka på **[!UICONTROL OK]** i dialogrutan för att öppna utkastet i den visuella designern. Du kan ändra `image source` KG - LÄNK HÄR om det behövs.
 
 SCREENSHOT
 
