@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 0%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 0%
             + [Redigera tillgänglighet för direktuppspelat innehåll](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [Prioritera direktuppspelat innehåll](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Ta bort ströminnehåll](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + E-posta Designer {#email-designer}
+         + [Översikt](product-docs/email-marketing/email-designer/overview.md)
+         + [E-postredigering](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [E-postmallar](product-docs/email-marketing/email-designer/email-templates.md)
+         + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Fragment](product-docs/email-marketing/email-designer/fragments.md)
       + E-postprogram {#email-programs}
          + Skapar ett e-postprogram {#creating-an-email-program}
             + [Skapa ett e-postprogram](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

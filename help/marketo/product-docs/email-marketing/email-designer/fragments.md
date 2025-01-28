@@ -3,27 +3,27 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2336'
 ht-degree: 0%
 
 ---
 
 # Fragment
 
-Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som kan skapas och snabbt infogas i en e-postmall eller en e-postmall. Med den här funktionen kan ni skapa flera anpassade innehållsblock som kan användas av era marknadsföringsteam för att sammanställa e-postinnehåll i en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
+Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som kan skapas och snabbt infogas i projektet. Med den här funktionen kan ni skapa flera anpassade innehållsblock som kan användas av era marknadsföringsteam för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
 
 Så här använder du fragment på bästa sätt i dina arbetsflöden:
 
 * _Skapa egna fragment_ - Skapa visuella fragment, antingen från grunden eller genom att spara innehåll som ett fragment från den visuella innehållsredigeraren.
 * _Återanvänd fragment_ - Använd dem så många gånger som behövs i ditt innehåll.
 
-## Visuella fragment
+## Visuella fragment {#visual-fragments}
 
 Visuella fragment är fördefinierade visuella block som byggts med den visuella innehållsredigeraren och som du kan återanvända i flera e-postmallar eller e-postmallar.
 
-## Få åtkomst till och hantera fragment
+## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
 Om du vill komma åt visuella fragment går du till vänster navigering och klickar på **[!UICONTROL Content Management]** > **[!UICONTROL Fragments]**. Den här åtgärden öppnar en listsida med alla fragment som har skapats i instansen i en tabell.
 
@@ -49,7 +49,7 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
   </td>
   <tr>
     <td><b>Publicerad</b></td>
-    <td>När du publicerar ett fragment blir det tillgängligt för användning i en e-postmall eller e-postmall. Ett publicerat fragmentinnehåll kan inte ändras i den visuella designern.
+    <td>När du publicerar ett fragment blir det tillgängligt för användning i en e-postmall eller e-postmall. Publicerat fragmentinnehåll kan inte ändras i den visuella designern.
     <p>Tillgängliga åtgärder:
     <li>Redigera beskrivning</li>
     <li>Lägg till i ett e-postmeddelande eller en mall</li>
@@ -74,38 +74,31 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
 
 SCREENSHOT
 
->[!IMPORTANT]
->
->Fragmentstatus introducerades i Journey Optimizer B2B edition August-versionen. Alla fragment som skapats före den här versionen har statusen _Utkast_, även om de används i ett e-postmeddelande eller en mall. Om du ändrar något i dessa fragment måste du publicera fragmentet för att sprida ändringarna.
+### Filtrera fragmentlistan {#filter-the-fragments-list}
 
-### Filtrera fragmentlistan
-
-Om du vill söka efter ett fragment efter namn anger du en textsträng i sökfältet för en matchning. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](../assets/do-not-localize/icon-filter.svg) ) för att visa tillgängliga filteralternativ och ändra inställningarna för att filtrera de visade objekten enligt de angivna villkoren.
+Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](../assets/do-not-localize/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
 
 SCREENSHOT
 
-### Anpassa kolumnvisningen
+### Anpassa kolumnvisningen {#customize-the-column-display}
 
 Anpassa de kolumner som du vill visa i tabellen genom att klicka på ikonen _Anpassa tabell_ ( ![Anpassa tabell-ikon](../assets/do-not-localize/icon-column-settings.svg) ) längst upp till höger.
 
-I dialogrutan markerar du de kolumner som ska visas och klickar på **[!UICONTROL Apply]**.
+Markera de kolumner du vill använda i dialogrutan och klicka på **[!UICONTROL Apply]**.
 
 SCREENSHOT
 
-## Skapa fragment
+## Skapa fragment {#create-fragments}
 
-Du kan skapa nya visuella fragment i Journey Optimizer B2B edition genom att klicka på **[!UICONTROL Create fragment]** överst till höger.
+Skapa ett nytt visuellt fragment genom att klicka på **[!UICONTROL Create fragment]** överst till höger.
 
-1. Ange ett användbart **[!UICONTROL Name]** och **[!UICONTROL Description]** (valfritt) i dialogrutan _[!UICONTROL Create fragment]_.
+1. I dialogrutan _[!UICONTROL Create fragment]_anger du ett **[!UICONTROL Name]**och ett valfritt **[!UICONTROL Description]**.
 
    Fragmentkrav:
 
-   * Namn - Max 100 tecken, måste vara unikt, skiftlägeskänsligt
-
-   * Beskrivning - högst 300 tecken
-
-   * Alpha, numeriska tecken och specialtecken tillåts
-
+   * Namn - högst 100 tecken, måste vara unikt, skiftlägeskänsligt
+   * Beskrivning - max 300 tecken
+   * Alpha, numeriska tecken och specialtecken är ok
    * Reserverade tecken är **_inte tillåtna_**: `\ / : * ? " < > |`
 
 SCREENSHOT
@@ -126,7 +119,7 @@ SCREENSHOT
 
 1. När du är redo att göra fragmentet tillgängligt för användning i en e-post- eller e-postmall klickar du på **[!UICONTROL Publish]**.
 
-### Lägga till struktur och innehåll {#design-fragment}
+### Lägga till struktur och innehåll {#add-structure-and-content}
 
 >[!CONTEXTUALHELP]
 >id="ajo-b2b_structure_components_fragment"
@@ -156,13 +149,13 @@ SCREENSHOT
 
 {{$include /help/_includes/content-design-links.md}}
 
-## Visa fragmentinformation
+## Visa fragmentinformation {#view-fragment-details}
 
 Klicka på namnet på ett fragment på listsidan för att öppna fragmentinformationssidan. Du kan välja att redigera fragmentet, byta namn på fragmentet eller uppdatera fragmentbeskrivningen. Gör uppdateringar och klicka utanför namn- eller beskrivningsfältet för att spara ändringarna automatiskt.
 
 >[!NOTE]
 >
->Om ett publicerat fragment används av en e-post- eller e-postmall kan du inte ändra namnet eller redigera innehållet. Du kan skapa ett utkast om du vill göra ändringar i fragmentet.
+>Om ett publicerat fragment används av en e-post- eller e-postmall kan du inte ändra dess namn eller redigera innehållet. Du kan skapa ett utkast om du vill göra ändringar i fragmentet.
 
 SCREENSHOT
 
@@ -170,23 +163,23 @@ Klicka på **[!UICONTROL Edit fragment]** för att öppna fragmentet i den visue
 
 Avsluta vyn när som helst genom att klicka på pilen _Bakåt_ längst upp till vänster, som återgår till listsidan _Fragment_ .
 
-## Visa fragment som används av referenser
+## Visa fragment som används av referenser {#view-fragment-used-by-references}
 
-Klicka på fliken **[!UICONTROL Used By]** på sidan med fragmentinformation för att visa information om var fragmentet för närvarande används i Journey Optimizer B2B edition, för e-postmeddelanden, e-postmallar och fragment.
+Klicka på fliken **[!UICONTROL Used By]** på sidan med fragmentinformation för att visa information om var fragmentet används i Marketo Engage.
 
 >[!IMPORTANT]
 >
->Det går inte att ta bort fragment som används av e-post eller e-postmallar.
+>Ett fragment som används av en e-post- eller e-postmall kan inte tas bort.
 
-Referenser visas enligt kategori: _E-post_ eller _E-postmall_. E-postmeddelanden i Journey Optimizer B2B edition är inbäddade och redigerade inom kontoresor, så den överordnade resan för det e-postmeddelande som använder fragmentet visas i referenser.
+Referenser visas enligt kategori: _E-post_ eller _E-postmall_. E-postmeddelanden i Journey Optimizer B2B edition är inbäddade och redigerade inom kontoresor, så den överordnade resan för det e-postmeddelande som använder fragmentet visas i referenser. &lt;— VAD GÄLLER DETTA, NILESH
 
 SCREENSHOT
 
 Klicka på länken för att öppna motsvarande e-post- eller e-postmall där fragmentet används.
 
-## Ta bort fragment
+## Ta bort fragment {#delete-fragments}
 
-Det går inte att ta bort fragment som för närvarande används av e-post- eller e-postmallar. Kontrollera därför _som används av_-referenserna innan du påbörjar en fragmentborttagning. En borttagning kan inte ångras, så kontrollera innan du startar en borttagningsåtgärd.
+Eftersom ett fragment som för närvarande används av en e-post- eller e-postmall inte kan tas bort bör du kontrollera _som används av_-referenserna innan du påbörjar en fragmentborttagning. En borttagning kan inte ångras, så kontrollera innan du startar en borttagningsåtgärd.
 
 Du kan ta bort ett fragment på något av följande sätt:
 
@@ -194,10 +187,6 @@ Du kan ta bort ett fragment på något av följande sätt:
 * Klicka på ellipsen bredvid fragmentet på listsidan _[!UICONTROL Fragments]_och välj **[!UICONTROL Delete]**.
 
 Åtgärden öppnar en bekräftelsedialogruta. Du kan avbryta processen genom att klicka på **[!UICONTROL Cancel]** eller klicka på **[!UICONTROL Delete]** för att bekräfta borttagningen.
-
-SCREENSHOT
-
-Om fragmentet används för närvarande öppnas en informationsdialogruta där du får en varning om att det inte kan tas bort. Klicka på **[!UICONTROL OK]**, som avbryter borttagningsåtgärden.
 
 SCREENSHOT
 
@@ -217,7 +206,7 @@ SCREENSHOT
 
    En förhandsgranskning av det visuella innehållet visas, med fragmentinformationen till höger.
 
-1. Ändra alla detaljer, till exempel namn och beskrivning.
+1. Gör önskade redigeringar.
 
 SCREENSHOT
 
@@ -295,7 +284,7 @@ Så här uppdaterar du innehållet:
 
 >[!ENDTABS]
 
-## Duplicera fragment
+## Duplicera fragment {#duplicate-fragments}
 
 Du kan duplicera ett fragment på något av följande sätt:
 
@@ -304,17 +293,17 @@ Du kan duplicera ett fragment på något av följande sätt:
 
 SCREENSHOT
 
-Ange ett användbart namn (unikt) och en beskrivning i dialogrutan. Klicka på **[!UICONTROL Duplicate]** för att slutföra åtgärden.
+Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **[!UICONTROL Duplicate]** för att slutföra åtgärden.
 
 SCREENSHOT
 
-Det duplicerade (nya) fragmentet visas sedan i listan _Fragments_.
+Det duplicerade fragmentet visas sedan i listan _Fragment_.
 
-## Spara ett nytt fragment från e-post eller mallinnehåll
+## Spara ett nytt fragment från e-post eller mallinnehåll {#save-a-new-fragment-from-email-or-template-content}
 
 När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållredigeraren kan du välja att spara hela eller delar av innehållet som ett fragment så att det är tillgängligt för återanvändning.
 
-1. När du har innehåll som ska sparas som ett fragment klickar du på **[!UICONTROL More]** och väljer **[!UICONTROL Save as Fragment]**.
+1. Om du vill spara innehåll som ett fragment klickar du på **[!UICONTROL More]** och väljer **[!UICONTROL Save as Fragment]**.
 
 1. Markera de olika element som ska inkluderas i fragmentet.
 
@@ -324,19 +313,21 @@ När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållred
 
 1. Markera innehållet och klicka på **[!UICONTROL Create]** överst till höger.
 
-1. Ange ett användbart namn och en beskrivning för fragmentet i dialogrutan. Klicka sedan på **[!UICONTROL Create]**.
+1. Ange ett namn och en valfri beskrivning för fragmentet i dialogrutan. Klicka sedan på **[!UICONTROL Create]**.
 
-   Det nya fragmentet visas sedan på listsidan _Fragment_ och kan även användas i e-postmeddelanden och e-postmallar.
+   Fragmentet visas sedan på listsidan _Fragment_ och kan även användas i e-postmeddelanden och e-postmallar.
 
-## Lägga till visuella fragment i e-post- eller mallinnehåll
+## Lägga till visuella fragment i e-post- eller mallinnehåll {#add-visual-fragments-to-your-email-or-template-content}
 
-Fragment är utformade för återanvändning och kan infogas för att skapa e-post- och e-postmallar. Du kan lägga till upp till 30 fragment i ett e-postmeddelande eller en mall. Fragment kan bara kapslas upp till en nivå.
+Fragment är utformade för återanvändning och du kan lägga till upp till 30 i en e-postmall eller e-postmall. Fragment kan bara kapslas upp till en nivå.
 
 >[!BEGINTABS]
 
 >[!TAB Lägg till fragment i ett e-postmeddelande]
 
-1. Navigera till **[!UICONTROL Account Journeys]** och öppna en befintlig resa eller skapa en ny.
+1. Navigera till **[!UICONTROL Account Journeys]** och öppna en befintlig resa eller skapa en ny. &lt;— DUBBELKONTROLLERA DETTA
+
+—STOPPAD REDIGERING HÄR—
 
 1. Skapa en [_[!UICONTROL Send Email]_-nod ](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
