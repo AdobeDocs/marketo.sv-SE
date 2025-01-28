@@ -3,7 +3,7 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2336'
 ht-degree: 0%
@@ -76,13 +76,13 @@ SCREENSHOT
 
 ### Filtrera fragmentlistan {#filter-the-fragments-list}
 
-Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](../assets/do-not-localize/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
+Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
 
 SCREENSHOT
 
 ### Anpassa kolumnvisningen {#customize-the-column-display}
 
-Anpassa de kolumner som du vill visa i tabellen genom att klicka på ikonen _Anpassa tabell_ ( ![Anpassa tabell-ikon](../assets/do-not-localize/icon-column-settings.svg) ) längst upp till höger.
+Anpassa de kolumner som du vill visa i tabellen genom att klicka på ikonen _Anpassa tabell_ ( ![Anpassa tabell-ikon](assets/icon-column-settings.svg) ) längst upp till höger.
 
 Markera de kolumner du vill använda i dialogrutan och klicka på **[!UICONTROL Apply]**.
 

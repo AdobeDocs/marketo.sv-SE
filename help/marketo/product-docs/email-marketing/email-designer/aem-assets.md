@@ -3,7 +3,7 @@ title: Arbeta med Experience Manager Assets
 description: Lär dig hur du använder bildresurser från en ansluten AEM Assets-databas när du redigerar innehåll i Adobe Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
