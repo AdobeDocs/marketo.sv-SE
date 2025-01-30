@@ -3,9 +3,10 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2337'
+source-wordcount: '2280'
 ht-degree: 0%
 
 ---
@@ -25,13 +26,13 @@ Visuella fragment är fördefinierade visuella block som byggts med den visuella
 
 ## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
-Om du vill komma åt visuella fragment går du till vänster navigering och klickar på **[!UICONTROL Content Management]** > **[!UICONTROL Fragments]**. Den här åtgärden öppnar en listsida med alla fragment som har skapats i instansen i en tabell.
+Gå till Design Studio om du vill få tillgång till visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
 
 SCREENSHOT
 
-Tabellen sorteras efter kolumnen _[!UICONTROL Modified]_, med de senast uppdaterade fragmenten överst som standard. Klicka på kolumnrubriken om du vill ändra mellan stigande och fallande.
+Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_, med de senast uppdaterade fragmenten överst. Klicka på andra kolumnrubriker för att ändra sorteringen. Klicka igen om du vill växla mellan stigande och fallande.
 
-### Fragmentstatus och livscykel
+### Fragmentstatus {#fragment-status}
 
 Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- eller e-postmall och vilka ändringar du kan göra i den.
 
@@ -121,17 +122,7 @@ SCREENSHOT
 
 ### Lägga till struktur och innehåll {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Lägg till strukturkomponenter"
->abstract="Strukturkomponenter definierar fragmentets layout. Dra och släpp en **Structure**-komponent på arbetsytan för att börja designa innehållet i fragmentet."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Om innehållskomponenter"
->abstract="Innehållskomponenter är tomma platshållare för innehåll som du kan använda för att skapa layouten för ett fragment."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Lägga till resurser
 

@@ -4,7 +4,8 @@ title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
 source-wordcount: '1697'
 ht-degree: 0%
@@ -352,4 +353,4 @@ På listsidan _E-postmallar_ väljer du flera mallar genom att markera kryssruto
 
 >[!MORELIKETHIS]
 >
->[Skapa e-post](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya designern.
+>[Skapa e-post](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya designern.

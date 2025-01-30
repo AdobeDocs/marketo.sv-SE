@@ -4,9 +4,10 @@ title: Framtagning av e-post
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1469'
+source-wordcount: '1594'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,12 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 >Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Skapa ett e-postmeddelande {#create-an-email}
+
+E-postmeddelanden från e-postprogrammet Designer kan endast skapas i Design Studio och refereras i smarta kampanjer/listor, eller skapas/användas direkt i e-postprogram för tillfället.
+
+>[!BEGINTABS]
+
+>[!TAB Design Studio]
 
 1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -38,6 +45,28 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 1. Ange ett e-postnamn och en ämnesrad. Klicka på **Skapa**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB E-postprogram]
+
+1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. Hitta och välj (eller skapa) ditt e-postprogram.
+
+   ![](assets/create-an-email-5.png)
+
+1. Du har två alternativ för att skapa ett nytt e-postmeddelande. Högerklicka på namnet på ditt e-postprogram och välj **Ny lokal resurs** eller klicka på knappen **+Ny e-post** i rutan E-post på instrumentpanelen. I det här exemplet ska vi göra det första.
+
+   ![](assets/create-an-email-6.png)
+
+1. Välj **E-post (ny redigerare)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Ange ett e-postnamn och en ämnesrad. Klicka på **Skapa**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 Så där ja. Nu är det dags att designa e-postmeddelanden.
 
@@ -308,7 +337,7 @@ Om du vill förhandsgranska ditt e-postinnehåll klickar du på **Simulera inneh
 
 ## Referera till ett e-postmeddelande {#reference-an-email}
 
-När du har skapat ett e-postmeddelande i den nya redigeraren kan du referera till det i Smarta kampanjer och/eller Smarta listor på samma sätt som du gör med andra e-postmeddelanden.
+Om du skapade e-postmeddelandet i ett e-postprogram kan det bara användas i det programmet. Om du skapade ditt e-postmeddelande i Design Studio kan du referera till det från smarta kampanjer och/eller smarta listor på samma sätt som du gör med andra e-postmeddelanden.
 
 * Referera den i en smart lista genom att [följa de vanliga stegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -320,4 +349,4 @@ När du har skapat ett e-postmeddelande i den nya redigeraren kan du referera ti
 
 >[!MORELIKETHIS]
 >
->[E-postmallar](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Lär dig hur du skapar, utformar och får tillgång till en e-postmall i den nya designern.
+>[E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Lär dig hur du skapar, utformar och får tillgång till en e-postmall i den nya designern.
