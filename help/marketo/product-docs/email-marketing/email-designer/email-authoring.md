@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
 workflow-type: tm+mt
 source-wordcount: '1720'
 ht-degree: 0%
@@ -365,4 +365,4 @@ Om du skapade e-postmeddelandet i ett e-postprogram kan det bara användas i det
 
 >[!MORELIKETHIS]
 >
->[E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-template.md){target="_blank"}: Lär dig hur du skapar, utformar och får tillgång till en e-postmall i den nya designern.
+>[E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och får tillgång till en e-postmall i den nya designern.
