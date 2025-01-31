@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram o
 
 * [Skapa e-post](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya redigeraren.
 
-* [E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Lär dig hur du skapar, utformar och kommer åt en e-postmall i den nya redigeraren.
+* [E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och kommer åt en e-postmall i den nya redigeraren.
 
 ## Vanliga frågor och svar {#faq}
 
@@ -63,4 +63,4 @@ Den nya designern har för närvarande bara stöd för attribut, men vi arbetar 
 
 **Hur vet jag om vår Marketo Engage-prenumeration har migrerats till IMS (Adobe Admin Console)?**
 
-Om du loggar in på Marketo Engage via [experience.adobe.com](experience.adobe.com) har din prenumeration migrerats.
+Om du loggar in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} har din prenumeration migrerats.
