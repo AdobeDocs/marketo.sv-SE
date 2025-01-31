@@ -3,14 +3,14 @@ description: E-postmallar - Marketo Docs - produktdokumentation
 title: E-postmallar
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1823'
+source-wordcount: '1824'
 ht-degree: 0%
 
 ---
 
-# E-postmallar {#email-templates}
+# Redigering av e-postmallar {#email-template-authoring}
 
 För en snabbare och förbättrad designprocess kan du skapa fristående e-postmallar för att enkelt återanvända anpassat innehåll.
 
