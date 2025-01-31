@@ -3,7 +3,7 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den
 
 Nej, det går inte att referera till e-postmallar från den klassiska redigeraren i den nya designern. Du måste skapa nya mallar i den nya designern. Du _kan_ importera mallen HTML till den nya designern och sedan göra nödvändiga ändringar. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
 
-**Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyp och färger)?**
+**Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyper och färger)?**
 
 Låsning av innehållsavsnitt är en del av den nya designern, och låsning av format, färger osv. kommer senare i år.
 
