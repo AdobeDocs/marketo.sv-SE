@@ -1,106 +1,66 @@
 ---
-description: Framtagning av e-post - Marketo Docs - produktdokumentation
-title: Framtagning av e-post
+description: E-postmallar - Marketo Docs - produktdokumentation
+title: E-postmallar
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1720'
+source-wordcount: '1823'
 ht-degree: 0%
 
 ---
 
-# Framtagning av e-post {#email-authoring}
+# E-postmallar {#email-templates}
 
-Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya Marketo Engage Email Designer.
+För en snabbare och förbättrad designprocess kan du skapa fristående e-postmallar för att enkelt återanvända anpassat innehåll.
 
 >[!PREREQUISITES]
 >
 >Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Skapa ett e-postmeddelande {#create-an-email}
+>[!NOTE]
+>
+>E-postmallar i den nya e-postdesignern kan bara användas för att skapa e-postmeddelanden i den nya e-postdesignern. Det går inte att referera till dem i den gamla e-postredigeraren.
 
-E-postmeddelanden från e-postprogrammet Designer kan endast skapas i Design Studio och refereras i smarta kampanjer/listor, eller skapas/användas direkt i e-postprogram för tillfället.
-
->[!BEGINTABS]
-
->[!TAB Design Studio]
+## Skapa en e-postmall {#create-an-email-template}
 
 1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. I Min Marketo väljer du **Design Studio**.
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. Välj **E-post (ny redigerare)** i trädet.
+1. Välj **E-postmallar (ny redigerare)** i trädet.
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. Klicka på knappen **Skapa e-post** .
+1. Klicka på knappen **Skapa mall**.
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. Ange ett e-postnamn och en ämnesrad. Klicka på **Skapa**.
+1. Ange ett mallnamn och en valfri beskrivning. Klicka på **Skapa**.
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB E-postprogram]
+## Utforma en mall {#design-your-template}
 
-1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+På sidan _Designa mallen_ kan du välja bland ett par alternativ. [Designa från grunden](#design-from-scratch), [importera din egen HTML](#import-html) eller [välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett som du redan har sparat). 
 
-1. Hitta och välj (eller skapa) ditt e-postprogram.
-
-   ![](assets/create-an-email-5.png)
-
-1. Du har två alternativ för att skapa ett nytt e-postmeddelande. Högerklicka på namnet på ditt e-postprogram och välj **Ny lokal resurs** eller klicka på knappen **+Ny e-post** i rutan E-post på instrumentpanelen. I det här exemplet ska vi göra det första.
-
-   ![](assets/create-an-email-6.png)
-
-1. Välj **E-post (ny redigerare)**.
-
-   ![](assets/create-an-email-7.png)
-
-1. Ange ett e-postnamn och en ämnesrad. Klicka på **Skapa**.
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-Så där ja. Nu är det dags att designa e-postmeddelanden.
-
-## Välj innehållstyp {#choose-your-content-type}
-
-1. Klicka på **Lägg till e-postinnehåll** i det e-postmeddelande du just skapade.
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. Sidan _Skapa din e-post_ läses in. Du kan välja mellan några alternativ:
-
-* [Designa från grunden](#design-from-scratch) med den visuella e-postredigeraren
-
-* [Importera din egen HTML](#import-html) via en HTML- eller zip-fil
-
-* [Välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett du redan har sparat)
+![](assets/design-your-template-1.png)
 
 ### Designa från grunden {#design-from-scratch}
 
-När du börjar från början i e-postredigeraren använder du alternativen nedan för att definiera ditt innehåll.
+Definiera innehållet genom att lägga till och flytta strukturella element med enkla dra och släpp-åtgärder.
 
-1. Välj **Designa från grunden** på sidan _Skapa ditt e-postmeddelande_.
+1. På sidan _Designa mallen_ väljer du **Designa från grunden**.
 
-1. Lägg till [struktur och innehåll](#add-structure-and-content) i e-postmeddelandet.
+1. Lägg till [struktur och innehåll](#add-structure-and-content).
 
-1. Lägg till [bilder](#add-assets).
+### Importera HTML {#import-your-html}
 
-1. [Anpassa](#personalize-content) innehållet.
-
-1. Granska länkar och [redigera spårning](#edit-url-tracking).
-
-### Importera HTML {#import-html}
-
-Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. Innehållet kan vara
+Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Innehållet kan vara
 
 * En HTML-fil med en infogad formatmall
 
@@ -110,17 +70,23 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. I
 >
 >ZIP-filstrukturen har inga begränsningar. Referenserna måste dock vara relativa och passa in i trädstrukturen i ZIP-mappen.
 
-1. Välj **Importera HTML** på mallsidan.
+1. På sidan _Designa mallen_ väljer du **Importera HTML**.
 
 1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->När HTML-innehållet har överförts är ditt innehåll i kompatibilitetsläge. I det här läget kan du bara anpassa texten, lägga till länkar eller lägga till resurser i innehållet.
+   >[!NOTE]
+   >
+   >När HTML-innehållet har överförts är ditt innehåll i kompatibilitetsläge. I det här läget kan du bara anpassa texten, lägga till länkar eller lägga till resurser i innehållet.
 
-Du kan göra önskade ändringar av det importerade innehållet med de [visuella redigeringsverktygen för e-post](#add-structure-and-content).
+1. Om du vill använda Designer-innehållskomponenterna för e-post klickar du på fliken **HTML-konverterare** och sedan på **Konvertera**.
+
+   >[!CAUTION]
+   >
+   >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
+
+Du kan nu anpassa den importerade filen efter behov med den visuella e-postredigeraren.
 
 ### Välj en mall {#choose-a-template}
 
@@ -140,11 +106,11 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 1. Markera den mall som du vill använda.
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. Klicka på **Använd mallen**.
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
@@ -152,11 +118,11 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 1. Klicka på fliken **Sparade mallar** och välj önskad mall.
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. Klicka på **Använd mallen**.
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. Redigera innehållet efter behov med hjälp av designern för visuellt innehåll.
 
@@ -170,7 +136,7 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
    >
    >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
 1. I avsnittet Innehåll drar du över önskade objekt och släpper dem i en eller flera strukturkomponenter.
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. Varje komponent kan anpassas via flikarna Inställningar eller Format. Ändra teckensnitt, textstil, marginal med mera.
 
@@ -208,11 +174,11 @@ Lägg till bilder som lagras i avsnittet [Bilder och filer](/help/marketo/produc
 
 1. Om du vill komma åt dina bilder klickar du på ikonen Resursväljare.
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. Dra och släpp den önskade bilden i en strukturkomponent.
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Lägg till bilder som lagras i avsnittet [Bilder och filer](/help/marketo/produc
 
 Öppna navigeringsträdet för att komma åt specifika strukturer och deras kolumner/komponenter för mer detaljerad redigering. Klicka på ikonen Navigeringsträd om du vill komma åt filen.
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justering inuti en strukturelement som består av kolumner.
 
@@ -232,7 +198,7 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
    Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_och_[!UICONTROL Styles]_ till höger.
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_till höger och ändrar dem efter dina behov:
 
@@ -247,7 +213,7 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
    * Expandera avsnittet **[!UICONTROL Advanced]** för att definiera infogade format för kolumnen.
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. Upprepa de här stegen efter behov för att justera justeringen och utfyllnaden för de andra kolumnerna i komponenten.
 
@@ -259,15 +225,15 @@ Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikone
 
 1. Markera textkomponenten. Placera markören där du vill att token ska visas och klicka på ikonen **Lägg till anpassning** .
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. Klicka på önskad [tokentyp](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. Hitta önskad token och klicka på ikonen **..** (klicka på ikonen + i stället för att lägga till en token utan reservtext).
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Tokens fungerar på samma sätt i den nya redigeraren som i den gamla, men ikone
 
 1. Ange din reservtext och klicka på **Lägg till**.
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. Klicka på **Spara**.
 
@@ -285,13 +251,13 @@ Ibland vill du inte aktivera URL:en för Marketo-spårning för en länk i ett e
 
 1. Klicka på ikonen Länkar för att visa alla URL:er i e-postmeddelandet.
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klicka på pennikonen om du vill redigera spårning för länkarna.
 
 1. Klicka på listrutan **Spårningstyp** och gör ditt val.
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ Ibland vill du inte aktivera URL:en för Marketo-spårning för en länk i ett e
 
 1. Klicka på **Spara** när du är klar.
 
-## Kontrollera aviseringar {#check-alerts}
+### Visningsalternativ {#view-options}
 
-När du utformar ditt innehåll visas varningar i skärmens övre högra hörn när nyckelinställningar saknas.
+Utnyttja de alternativ för visning och innehållsvalidering som finns i den visuella e-postredigeraren.
 
-Det finns två typer av varningar:
+* Zooma in/ut i innehållet med förinställda zoomalternativ.
 
-**Varningar**
+* Visa innehållet på datorer, mobiler eller i textformat/oformaterad text.
 
-Varningar hänvisar till rekommendationer och bästa praxis, som:
+   * Klicka på ikonen för live-vyn (ögat) om du vill förhandsgranska innehåll på olika enheter.
 
-* **Avanmälningslänken finns inte i e-postmeddelandet**: Även om det är ett krav att avbryta prenumerationen är det bäst att lägga till dem i e-postmeddelandet.
+   * Välj en av de färdiga enheterna eller ange anpassade dimensioner för att förhandsgranska innehållet.
 
->[!NOTE]
->
->Du behöver inte lägga till ett alternativ för att avbryta prenumerationen för [operativa e-postmeddelanden](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (ej marknadsföring).
+### Fler alternativ {#more-options}
 
-* **Textversionen av HTML är tom**: Du måste definiera en textversion av e-postbrödtexten för när HTML-innehåll inte kan visas.
+Från alternativen för **Mer** i innehållsredigeraren kan du utföra följande åtgärder:
 
-* **En tom länk finns i e-postbrödtexten**: Kontrollera att alla länkar i e-postmeddelandet är korrekta.
+![](assets/more-options-1.png)
 
-* **E-poststorleken har överskridit gränsen på 100 kB**: Kontrollera att e-postens storlek inte överskrider 100 kB för optimal leverans.
+* **Återställ mall**: Välj det här alternativet om du vill rensa den visuella e-postdesignerns arbetsyta till en tom plats och starta om skapandet av innehåll.
 
-**Fel**
+* **Ändra din design**: Återgå till sidan _Designa din mall_. Härifrån kan du utföra vilken åtgärd som helst som beskrivs i avsnittet [Utforma din mall](#design-your-template).
 
-Fel förhindrar att du skickar eller testar e-postmeddelandet tills de har lösts:
+* **Exportera HTML**: Hämta innehåll på den visuella arbetsytan till ditt lokala system i HTML-format som paketerats som en zip-fil.
 
-* **Ämnesraden saknas**: En ämnesrad för e-post krävs.
+## Visa mallinformation {#view-template-details}
 
-* **E-postversionen av meddelandet är tom**: Det här felet inträffar när e-postinnehållet inte har konfigurerats.
+Klicka på namnet på en e-postmall på listsidan _E-postmallar_ för att visa informationen om mallen.
 
-## Testa din e-post {#test-your-email}
+(assets/view-template-details-1.png)
 
-När meddelandeinnehållet har definierats kan du använda testprofiler för att förhandsgranska det, skicka korrektur och styra hur det återges i vanliga dator-, mobil- och webbaserade klienter. Om du har infogat anpassat innehåll kan du kontrollera hur det visas i meddelandet med hjälp av testprofilsdata.
+Grundläggande information som namn och beskrivning kan redigeras. Klicka utanför fältet som du redigerade för att spara ändringarna.
 
-Om du vill förhandsgranska ditt e-postinnehåll klickar du på **Simulera innehåll** och lägger sedan till en testprofil för att kontrollera meddelandet med testprofildata.
+Klicka på **Mer** om du snabbt vill ta bort eller duplicera mallen.
 
-![](assets/test-your-email-1.png)
-
-## Referera till ett e-postmeddelande {#reference-an-email}
-
-Om du skapade e-postmeddelandet i ett e-postprogram kan det bara användas i det programmet. Om du skapade ditt e-postmeddelande i Design Studio kan du referera till det från smarta kampanjer och/eller smarta listor på samma sätt som du gör med andra e-postmeddelanden.
-
-* Referera den i en smart lista genom att [följa de vanliga stegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
-
-* Referera det i en smart kampanj genom att [följa de vanliga stegen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+Om det finns aktiva varningar (fel/varningar för e-postmallen) klickar du på Varningar för att visa informationen.
 
 >[!NOTE]
 >
->Det går bara att referera till sparade e-postmeddelanden. Den nya e-postdesignern har ingen&quot;godkänd&quot; status.
+>Dessa aviseringar förhindrar inte att e-postmallen används för att skapa e-postmeddelanden, men informationen ger synlighet om vad som kanske inte fungerar och vilka uppdateringar som krävs innan e-postmeddelandet kan användas för leverans.
+
+## Visa e-postmall som används av referenser {#email-template-used-by-references}
+
+Klicka på fliken **Används av** i e-postmallssammanfattningen för att visa information om var e-postmallen har använts i Marketo Engage.
+
+![](assets/email-template-used-by-references-1.png)
+
+## Redigera e-postmallar {#edit-email-templates}
+
+Den här åtgärden kan utföras från:
+
+* Fliken Information - Klicka på **Redigera e-postmall**.
+
+Den här åtgärden tar dig till sidan _Designa din mall_ eller den visuella innehållets redigeringssida baserat på den senast sparade statusen för e-postmallen. Härifrån kan du redigera e-postmallens innehåll efter behov. Mer information om redigeringsalternativen finns i Skapa e-postmallar.
+
+## Duplicera e-postmallar {#duplicate-email-templates}
+
+Det finns två sätt att duplicera en e-postmall:
+
+* Klicka på **Mer** och välj **Duplicera** i informationen om e-postmallen till höger.
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Duplicera**.
+
+Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **Duplicera** när du är klar.
+
+Den duplicerade e-postmallen visas sedan på listsidan _E-postmallar_ .
+
+## Ta bort e-postmallar {#delete-email-templates}
+
+Det finns två sätt att ta bort en e-postmall.
+
+>[!CAUTION]
+>
+>Det går inte att ångra borttagning av en e-postmall.
+
+* Klicka på **Mer** och välj **Ta bort** i informationen om e-postmallen till höger.
+
+  ![](assets/delete-email-templates-1.png)
+
+* Klicka på ikonen Fler åtgärder (tre punkter) för den önskade e-postmallen på listsidan _E-postmallar_ och välj **Ta bort**.
+
+## Massåtgärder {#bulk-actions}
+
+På listsidan _E-postmallar_ väljer du flera mallar genom att markera kryssrutorna till vänster. En banderoll visas längst ned.
+
+**Ta bort**: Du kan ta bort högst 20 mallar samtidigt. I en bekräftelsedialogruta kan du avbryta åtgärden eller bekräfta borttagningen.
 
 >[!MORELIKETHIS]
 >
->[E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Lär dig hur du skapar, utformar och får tillgång till en e-postmall i den nya designern.
+>[Skapa e-post](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya designern.

@@ -4,10 +4,11 @@ title: Översikt
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 2%
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +22,45 @@ Välkommen till nya Adobe Marketo Engage Email Designer.
 
 Den nya e-postversionen av Designer är den senaste innovationen i Marketo Engage som syftar till att skapa omgjorda e-postmallar och e-postmallar för att förbättra produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
-E-postmeddelanden som skapas i den nya designern kan användas i smarta listor och smarta kampanjer. Det finns många fler förbättringar som planeras för framtiden för att göra den nya designern ännu bättre.
+E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram och smarta listor/kampanjer. Nya kraftfulla förbättringar av designern kommer snart.
 
-**Tillgängliga artiklar**
+## Tillgängliga artiklar {#available-articles}
 
 * [Skapa e-post](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och refererar till ett e-postmeddelande i den nya redigeraren.
 
 * [E-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Lär dig hur du skapar, utformar och kommer åt en e-postmall i den nya redigeraren.
 
-* AEM Assets
+## Vanliga frågor och svar {#faq}
 
-* Fragment
+**Kommer den gamla e-postredigeraren att fortsätta fungera? I så fall, hur länge?**
+
+Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postdesignern. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta fungera under hela 2025.
+
+**Kommer våra befintliga e-postmallar att fungera i den nya designern? Om inte, måste vi skapa mallar med den nya designern så att alla avsnitt/moduler motsvarar hur vi vill att innehållet ska se ut?**
+
+Nej, det går inte att referera till e-postmallar från den klassiska redigeraren i den nya designern. Du måste skapa nya mallar i den nya designern. Du _kan_ importera mallen HTML till den nya designern och sedan göra nödvändiga ändringar. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
+
+**Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyp och färger)?**
+
+Låsning av innehållsavsnitt är en del av den nya designern, och låsning av format, färger osv. kommer senare i år.
+
+**Kommer moduler för mallar att bli mer anpassningsbara och skalbara?**
+
+Ja, absolut, mer anpassningsbart med vår WYSIWYG-redigerare (what-you-see-is-what-you-get).
+
+**Hur fungerar skapandet av e-postmallar i den nya designern? Är det WYSIWYG, eller kräver det kunskaper från HTML?**
+
+Det är WYSIWYG; det behövs ingen kunskap om HTML. Du kan enkelt skapa
+-mallar i designern, vilket minskar behovet av externa webbutvecklare. Du kan dock fortfarande uppdatera CSS och redigera enskilda avsnitt via HTML. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
+
+**Har den nya e-postdesignern stöd för AMP-språk?**
+
+Basversionen har för närvarande inte stöd för AMP.
+
+**Attributet för dynamiskt innehåll efter är bra, men fungerar fortfarande det dynamiska innehållet efter segment?**
+
+Den nya designern har för närvarande bara stöd för attribut, men vi arbetar med att lägga till segment i en framtida version.
+
+**Hur vet jag om vår Marketo Engage-prenumeration har migrerats till IMS (Adobe Admin Console)?**
+
+Om du loggar in på Marketo Engage via [experience.adobe.com](experience.adobe.com) har din prenumeration migrerats.

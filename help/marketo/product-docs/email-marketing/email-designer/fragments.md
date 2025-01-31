@@ -4,25 +4,25 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '2280'
+source-wordcount: '2304'
 ht-degree: 0%
 
 ---
 
 # Fragment
 
-Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som kan skapas och snabbt infogas i projektet. Med den här funktionen kan ni skapa flera anpassade innehållsblock som kan användas av era marknadsföringsteam för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
+Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som kan skapas och snabbt infogas i projektet. Med den här funktionen kan du skapa flera anpassade innehållsblock i förväg för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
 
 Så här använder du fragment på bästa sätt i dina arbetsflöden:
 
-* _Skapa egna fragment_ - Skapa visuella fragment, antingen från grunden eller genom att spara innehåll som ett fragment från den visuella innehållsredigeraren.
+* _Skapa fragment_ - Skapa visuella fragment, antingen från grunden eller genom att spara innehåll som ett fragment från den visuella innehållsredigeraren.
 * _Återanvänd fragment_ - Använd dem så många gånger som behövs i ditt innehåll.
 
 ## Visuella fragment {#visual-fragments}
 
-Visuella fragment är fördefinierade visuella block som byggts med den visuella innehållsredigeraren och som du kan återanvända i flera e-postmallar eller e-postmallar.
+Visuella fragment är fördefinierade visuella block som byggts (med den visuella innehållsredigeraren) och som du kan återanvända i flera e-postmallar eller e-postmallar.
 
 ## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
@@ -30,7 +30,7 @@ Gå till Design Studio om du vill få tillgång till visuella fragment. Klicka p
 
 SCREENSHOT
 
-Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_, med de senast uppdaterade fragmenten överst. Klicka på andra kolumnrubriker för att ändra sorteringen. Klicka igen om du vill växla mellan stigande och fallande.
+Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_. Klicka på andra kolumnrubriker om du vill ändra vad tabellen sorteras efter. Klicka igen om du vill växla mellan stigande och fallande.
 
 ### Fragmentstatus {#fragment-status}
 
@@ -73,13 +73,11 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
   </tr>
 </tbody></table>
 
-SCREENSHOT
-
 ### Filtrera fragmentlistan {#filter-the-fragments-list}
 
 Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
 
-SCREENSHOT
+![Filtrera de visade fragmenten](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### Anpassa kolumnvisningen {#customize-the-column-display}
 
@@ -148,7 +146,7 @@ Klicka på namnet på ett fragment på listsidan för att öppna fragmentinforma
 >
 >Om ett publicerat fragment används av en e-post- eller e-postmall kan du inte ändra dess namn eller redigera innehållet. Du kan skapa ett utkast om du vill göra ändringar i fragmentet.
 
-SCREENSHOT
+![Visa information om ett publicerat fragment](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 Klicka på **[!UICONTROL Edit fragment]** för att öppna fragmentet i den visuella innehållsredigeraren.
 
@@ -164,7 +162,7 @@ Klicka på fliken **[!UICONTROL Used By]** på sidan med fragmentinformation fö
 
 Referenser visas enligt kategori: _E-post_ eller _E-postmall_. E-postmeddelanden i Journey Optimizer B2B edition är inbäddade och redigerade inom kontoresor, så den överordnade resan för det e-postmeddelande som använder fragmentet visas i referenser. &lt;— VAD GÄLLER DETTA, NILESH
 
-SCREENSHOT
+![Används av referenser för fragmentet](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
 
 Klicka på länken för att öppna motsvarande e-post- eller e-postmall där fragmentet används.
 
@@ -179,9 +177,9 @@ Du kan ta bort ett fragment på något av följande sätt:
 
 Åtgärden öppnar en bekräftelsedialogruta. Du kan avbryta processen genom att klicka på **[!UICONTROL Cancel]** eller klicka på **[!UICONTROL Delete]** för att bekräfta borttagningen.
 
-SCREENSHOT
+![Dialogrutan Ta bort fragment](assets/fragment-delete-dialog.png){width="400"}
 
-## Redigera fragment
+## Redigera fragment {#edit-fragments}
 
 Ändringar i ett fragment beror på dess aktuella status:
 
@@ -199,7 +197,7 @@ SCREENSHOT
 
 1. Gör önskade redigeringar.
 
-SCREENSHOT
+   ![Information om rament med utkaststatus](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Om du vill ändra innehållet i den visuella designern klickar du på **[!UICONTROL Edit fragment]**.
 
@@ -229,17 +227,17 @@ SCREENSHOT
 
    Klicka på **[!UICONTROL OK]** i dialogrutan för att öppna utkastet i den visuella designern. Du kan ändra `image source` KG - LÄNK HÄR om det behövs.
 
-SCREENSHOT
+   ![Skapa dialogruta för utkastversion](assets/fragments-create-draft-version.png){width="300"}
 
-Använd de visuella designverktygen efter behov:
+   Använd de visuella designverktygen efter behov:
 
-* [Lägga till struktur och innehåll](#add-structure-and-content)
-* [Lägg till Assets](#add-assets)
-* [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
-* [Anpassa innehåll](#personalize-content)
-* [Redigera länkad URL-spårning](#edit-linked-url-tracking)
+   * [Lägga till struktur och innehåll](#add-structure-and-content)
+   * [Lägg till Assets](#add-assets)
+   * [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
+   * [Anpassa innehåll](#personalize-content)
+   * [Redigera länkad URL-spårning](#edit-linked-url-tracking)
 
-Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
+   Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
 
 1. När utkastet uppfyller dina villkor och du vill göra ändringarna tillgängliga för användning i en e-postmall eller e-postmall klickar du på **[!UICONTROL Publish]**.
 
@@ -251,7 +249,7 @@ Det finns två sätt att öppna utkastet för redigering från listsidan _[!UICO
 
 * Klicka på ikonen _Mer_ (**..**) bredvid fragmentnamnet och välj **[!UICONTROL Open draft version]**.
 
-SCREENSHOT
+  ![Öppna utkastversion](assets/fragments-create-draft-version.png){width="300"}
 
 * Klicka på fragmentnamnet för att öppna det. Klicka sedan på **[!UICONTROL Open draft version]** överst till höger.
 
@@ -282,11 +280,11 @@ Du kan duplicera ett fragment på något av följande sätt:
 * Klicka på ikonen _Mer_ (**..**) bredvid fragmentnamnet på listsidan _[!UICONTROL Fragments]_och välj **[!UICONTROL Duplicate]**.
 * Klicka på **[!UICONTROL ... More]** längst upp till höger på sidan med fragmentinformation och välj **[!UICONTROL Duplicate]**.
 
-SCREENSHOT
+![Duplicera fragmentet](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **[!UICONTROL Duplicate]** för att slutföra åtgärden.
 
-SCREENSHOT
+![Ange ett namn och en beskrivning för det duplicerade fragmentet](assets/fragment-duplicate-dialog.png){width="400"}
 
 Det duplicerade fragmentet visas sedan i listan _Fragment_.
 
@@ -394,4 +392,4 @@ När ett fragment läggs till i en e-post- eller e-postmall kan fragmentinnehål
 
 När du markerar fragmentet på redigeringssidan är de här åtgärderna tillgängliga från kontextverktygsfältet och egenskapspanelen till höger.
 
-SCREENSHOT
+![Tillämpa åtgärder på det markerade fragmentet](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
