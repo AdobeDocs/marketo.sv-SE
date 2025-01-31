@@ -1,11 +1,9 @@
 ---
 description: Framtagning av e-post - Marketo Docs - produktdokumentation
 title: Framtagning av e-post
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1720'
 ht-degree: 0%
@@ -22,7 +20,7 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 
 ## Skapa ett e-postmeddelande {#create-an-email}
 
-E-postmeddelanden från e-postprogrammet Designer kan endast skapas i Design Studio och refereras i smarta kampanjer/listor, eller skapas/användas direkt i e-postprogram för tillfället.
+E-postmeddelanden från e-postdesignern kan bara skapas i Design Studio och refereras i Smart Campaigns/Lists, eller skapas/användas direkt i e-postprogram just nu.
 
 >[!BEGINTABS]
 

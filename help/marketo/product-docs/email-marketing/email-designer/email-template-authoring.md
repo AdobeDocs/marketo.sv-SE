@@ -1,11 +1,9 @@
 ---
 description: E-postmallar - Marketo Docs - produktdokumentation
 title: E-postmallar
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1823'
 ht-degree: 0%

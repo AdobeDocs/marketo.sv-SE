@@ -1,13 +1,11 @@
 ---
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Välkommen till nya Adobe Marketo Engage Email Designer.
 >
 >Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-Den nya e-postversionen av Designer är den senaste innovationen i Marketo Engage som syftar till att skapa omgjorda e-postmallar och e-postmallar för att förbättra produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
+Den nya e-postdesignern är den senaste innovationen i Marketo Engage som syftar till att skapa omgjorda e-post- och e-postmallar för att förbättra produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
 E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram och smarta listor/kampanjer. Nya kraftfulla förbättringar av designern kommer snart.
 
@@ -55,7 +53,7 @@ Det är WYSIWYG; det behövs ingen kunskap om HTML. Du kan enkelt skapa
 
 **Har den nya e-postdesignern stöd för AMP-språk?**
 
-Basversionen har för närvarande inte stöd för AMP.
+Det har för närvarande inget stöd för AMP.
 
 **Attributet för dynamiskt innehåll efter är bra, men fungerar fortfarande det dynamiska innehållet efter segment?**
 
