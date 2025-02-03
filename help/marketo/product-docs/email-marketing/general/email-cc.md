@@ -4,9 +4,9 @@ description: Email CC - Marketo Docs - produktdokumentation
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med Email CC kan angivna e-postmeddelanden skickas via Marketo till CC-mottagare.
 
-Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Därför kan alla aktiviteter (öppningar, klickningar osv.) loggas i aktivitetsloggen för Marketo-personen på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsning osv.) _annan än &quot;mjuk studsa&quot;_ registrerar **inte** eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarna. Marketo kommer endast att kunna CC för upp till 100 000 personer åt gången. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
+Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oavsett hur e-postmeddelandet skickas (batch- eller utlösarkampanj). CC-mottagaren får en exakt kopia av e-postmeddelandet som skickas till den valda Marketo-personen. Alla interaktionsaktiviteter (öppningar, klick osv.) loggas i aktivitetsloggen för Marketo-personen på raden &quot;Till&quot; i e-postmeddelandet. Leveransaktivitet (skickad, levererad, hård studsa osv.) _annan än &quot;mjuk studsa&quot;_ registrerar **inte** eftersom Marketo inte kan skilja leveranshändelser för Marketo-personen från CC-mottagarna. Marketo kommer endast att kunna CC för upp till 100 000 personer åt gången. Om din smarta lista överstiger 100 kB och det är absolut nödvändigt att alla personer på den får CC rekommenderar vi att du delar upp din lista.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oav
 
    ![](assets/six.png)
 
-1. Välj upp till fem fält som du vill använda för CC-användare. I det här exemplet vill vi bara ha Lead Owner CC&#39;d. Klicka på **Spara** när du är klar.
+1. Markera de fält som du vill ska användas av CC-personer. _Max fem per e-post_. I det här exemplet vill vi bara ha Lead Owner CC&#39;d. Klicka på **Spara** när du är klar.
 
    ![](assets/seven.png)
 
