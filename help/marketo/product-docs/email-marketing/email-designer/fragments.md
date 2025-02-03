@@ -4,9 +4,9 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2305'
+source-wordcount: '2311'
 ht-degree: 0%
 
 ---
@@ -314,7 +314,7 @@ Fragment är utformade för återanvändning och du kan lägga till upp till 30 
 
 >[!TAB Lägg till fragment i ett e-postmeddelande]
 
-1. Navigera till **[!UICONTROL Account Journeys]** och öppna en befintlig resa eller skapa en ny. &lt;— DUBBELKONTROLLERA DETTA
+1. Navigera till **[!UICONTROL Account Journeys]** och öppna en befintlig resa eller skapa en ny. &lt;— ENDAST OM DE FINNS I E-POST- ELLER E-POSTMALLEN
 
 —STOPPAD REDIGERING HÄR—
 

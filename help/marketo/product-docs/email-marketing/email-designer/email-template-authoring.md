@@ -2,15 +2,17 @@
 description: E-postmallar - Marketo Docs - produktdokumentation
 title: E-postmallar
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1824'
 ht-degree: 0%
 
 ---
 
-# Redigering av e-postmallar {#email-template-authoring}
+# Framtagning av e-postmallar {#email-template-authoring}
 
 För en snabbare och förbättrad designprocess kan du skapa fristående e-postmallar för att enkelt återanvända anpassat innehåll.
 
@@ -162,7 +164,7 @@ Redigeraren återger fragmentet i avsnittet/elementet i e-poststrukturen. Fragme
 
 När e-postmeddelandet har sparats visas det på fliken _[!UICONTROL Used By]_på sidan med fragmentinformation. Fragment som läggs till i en e-postmall kan inte redigeras i mallen. Källfragmentet definierar innehållet.
 
-### Lägg till Assets {#add-assets}
+### Lägga till resurser {#add-assets}
 
 Lägg till bilder som lagras i avsnittet [Bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} i din Marketo Engage-instans.
 
