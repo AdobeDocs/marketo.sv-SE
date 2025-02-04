@@ -4,9 +4,9 @@ description: Importera en lista med människor - Marketo Docs - produktdokumenta
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,8 @@ I den här självstudiekursen får du lära dig att importera personer från en 
    >* Kontrollera att e-postadresser endast innehåller ASCII-tecken.
    >
    >* Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
+   >
+   >* Om du importerar `NULL` värden via CSV kan det generera ett&quot;Ändra datavärde&quot; för numeriska fält i en persons [aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _även om fälten redan är tomma_. Om du har [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} som använder filtret Datavärde ändrat eller Datavärdesändringar måste du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} för att vara säker på att de inte aktiveras i onödan när du importerar.
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 

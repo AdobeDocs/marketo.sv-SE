@@ -3,48 +3,57 @@ title: Arbeta med Experience Manager Assets
 description: Lär dig hur du använder bildresurser från en ansluten AEM Assets-databas när du redigerar innehåll i Adobe Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Arbeta med resurser i Experience Manager {#work-with-experience-manager-assets}
 
-När _Adobe Experience Manager Assets as a Cloud Service_ är integrerat med Adobe Marketo Engage kan du enkelt komma åt digitala resurser som du kan använda i ditt marknadsföringsinnehåll. När du redigerar ditt innehåll är resurserna tillgängliga från _[!UICONTROL Assets]_-objektet i den vänstra navigeringen och när du redigerar e-postinnehåll. Du kan också överföra resurser till den anslutna_ AEM Assets as a Cloud Service _-databasen direkt från Marketo Engage. &lt;— NILESH KOMMER ATT KONTROLLERA
+När _Adobe Experience Manager Assets as a Cloud Service_ är integrerat med Adobe Marketo Engage kan du enkelt komma åt digitala resurser som du kan använda i ditt marknadsföringsinnehåll. När du redigerar ditt innehåll är resurserna tillgängliga från objektet _[!UICONTROL Experience Manager Assets]_i den vänstra navigeringen.
+
+>[!PREREQUISITES]
+>
+>Connect MKTO/AEM doc.
 
 >[!NOTE]
 >
->För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. &lt;— NILESH KOMMER ATT KONTROLLERAS - ändringar av resurserna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 När du använder dessa digitala resurser sprids de senaste ändringarna i _Assets as a Cloud Service_ automatiskt till e-postkampanjer via länkade referenser. Om bilder tas bort i _Adobe Experience Manager Assets as a Cloud Service_ visas bilderna med en bruten referens i e-postmeddelandena. När resurser som används i Marketo Engage ändras eller tas bort meddelas e-postförfattarna om bildändringarna. Alla ändringar av materialet måste göras i Adobe Experience Manager Assets centrala arkiv.
 
 ## Använd AEM Assets som bildkälla {#use-aem-assets-as-the-image-source}
 
-Om din miljö har en eller flera Assets-databasanslutningar kan du ange AEM Assets som källa för resurser när du skapar eller visar information för ett e-postmeddelande, en e-postmall eller ett visuellt fragment.
+Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange AEM Assets som källa för resurser när du skapar eller visar information för ett e-postmeddelande, en e-postmall eller ett visuellt fragment.
 
 * När du skapar nytt innehåll väljer du `AEM Assets` som **[!UICONTROL Image Source]**-objekt i dialogrutan.
 
 ![Välj AEM Assets som bildkälla i dialogrutan Skapa](assets/work-with-experience-manager-assets-1.png){width="400"}
 
-* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` på panelen _[!UICONTROL Body]_till höger.
+* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` i avsnittet _[!UICONTROL Body]_till höger.
 
 ![Välj AEM Assets som bildkälla i egenskaperna](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Få åtkomst till resurser för redigering
+## Få åtkomst till resurser för redigering {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-Klicka på ikonen _Resursväljare_ i den vänstra sidofältet i den visuella innehållsredigeraren. Detta ändrar verktygspanelen till en lista med tillgängliga resurser i den valda databasen.
+Klicka på ikonen _Experience Manager-resursväljaren_ i det vänstra sidofältet i den visuella innehållets redigerare. Detta ändrar verktygspanelen till en lista med tillgängliga resurser i den valda databasen.
 
 ![Klicka på Assets-väljarikonen för att komma åt bildresurserna](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-Om du har fler än en ansluten AEM databas klickar du på menypilen för **[!UICONTROL Repository]** för att välja den databas som du vill använda.
+Om du har fler än en ansluten AEM databas klickar du på knappen **[!UICONTROL Manage as]** och väljer den databas som du vill använda.
 
 ![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+
+Välj databas.
+
+![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-five.png)
 
 Det finns flera metoder för att lägga till en bildresurs på den visuella arbetsytan:
 
