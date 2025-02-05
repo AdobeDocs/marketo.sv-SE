@@ -2,10 +2,8 @@
 description: Framtagning av e-post - Marketo Docs - produktdokumentation
 title: Framtagning av e-post
 feature: Email Editor
-hide: true
-hidefromtoc: true
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
 workflow-type: tm+mt
 source-wordcount: '1720'
 ht-degree: 0%
