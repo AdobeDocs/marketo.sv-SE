@@ -4,16 +4,16 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '2311'
+source-wordcount: '1955'
 ht-degree: 0%
 
 ---
 
 # Fragment
 
-Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som kan skapas och snabbt infogas i projektet. Med den här funktionen kan du skapa flera anpassade innehållsblock i förväg för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
+Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som snabbt kan infogas i projektet. Med den här funktionen kan du skapa flera anpassade innehållsblock i förväg för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
 
 Så här använder du fragment på bästa sätt i dina arbetsflöden:
 
@@ -26,11 +26,11 @@ Visuella fragment är fördefinierade visuella block som byggts (med den visuell
 
 ## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
-Gå till Design Studio om du vill få tillgång till visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
+Gå till **Design Studio** om du vill komma åt visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
 
 ![Åtkomst till fragment](assets/fragments-1.png){width="600" zoomable="yes"}
 
-Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_. Klicka på andra kolumnrubriker om du vill ändra vad tabellen sorteras efter. Klicka igen om du vill växla mellan stigande och fallande.
+Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_. Klicka på andra kolumnrubriker om du vill ändra vad tabellen sorteras efter. Klicka på samma titel igen för att växla mellan stigande och fallande.
 
 ### Fragmentstatus {#fragment-status}
 
@@ -75,7 +75,7 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
 
 ### Filtrera fragmentlistan {#filter-the-fragments-list}
 
-Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Visa eller dölj filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
+Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
 
 ![Filtrera de visade fragmenten](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
@@ -140,13 +140,13 @@ SCREENSHOT
 
 ## Visa fragmentinformation {#view-fragment-details}
 
-Klicka på namnet på ett fragment på listsidan för att öppna fragmentinformationssidan. Du kan välja att redigera fragmentet, byta namn på fragmentet eller uppdatera fragmentbeskrivningen. Gör uppdateringar och klicka utanför namn- eller beskrivningsfältet för att spara ändringarna automatiskt.
+Klicka på namnet på ett fragment på listsidan för att öppna fragmentinformationssidan. Du kan välja att redigera fragmentet, byta namn på det eller uppdatera dess beskrivning. Gör uppdateringar och klicka utanför namnfältet eller beskrivningsfältet för att spara ändringarna.
 
 >[!NOTE]
 >
 >Om ett publicerat fragment används av en e-post- eller e-postmall kan du inte ändra dess namn eller redigera innehållet. Du kan skapa ett utkast om du vill göra ändringar i fragmentet.
 
-![Visa information om ett publicerat fragment](assets/fragment-details-published.png){width="600" zoomable="yes"}
+![Visa information om ett publicerat fragment](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 Klicka på **[!UICONTROL Edit fragment]** för att öppna fragmentet i den visuella innehållsredigeraren.
 
@@ -160,9 +160,7 @@ Klicka på fliken **[!UICONTROL Used By]** på sidan med fragmentinformation fö
 >
 >Ett fragment som används av en e-post- eller e-postmall kan inte tas bort.
 
-Referenser visas enligt kategori: _E-post_ eller _E-postmall_. E-postmeddelanden i Journey Optimizer B2B edition är inbäddade och redigerade inom kontoresor, så den överordnade resan för det e-postmeddelande som använder fragmentet visas i referenser. &lt;— VAD GÄLLER DETTA, NILESH
-
-![Används av referenser för fragmentet](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
+![Används av referenser för fragmentet](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 Klicka på länken för att öppna motsvarande e-post- eller e-postmall där fragmentet används.
 
@@ -290,7 +288,7 @@ Det duplicerade fragmentet visas sedan i listan _Fragment_.
 
 ## Spara ett nytt fragment från e-post eller mallinnehåll {#save-a-new-fragment-from-email-or-template-content}
 
-När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållredigeraren kan du välja att spara hela eller delar av innehållet som ett fragment så att det är tillgängligt för återanvändning.
+När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållredigeraren kan du spara hela eller delar av innehållet som ett fragment så att det är tillgängligt för återanvändning.
 
 1. Om du vill spara innehåll som ett fragment klickar du på **[!UICONTROL More]** och väljer **[!UICONTROL Save as Fragment]**.
 
@@ -302,41 +300,17 @@ När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållred
 
 1. Markera innehållet och klicka på **[!UICONTROL Create]** överst till höger.
 
-1. Ange ett namn och en valfri beskrivning för fragmentet i dialogrutan. Klicka sedan på **[!UICONTROL Create]**.
+1. Ange ett namn och en valfri beskrivning för fragmentet i dialogrutan och klicka på **[!UICONTROL Create]**.
 
    Fragmentet visas sedan på listsidan _Fragment_ och kan även användas i e-postmeddelanden och e-postmallar.
 
 ## Lägga till visuella fragment i e-post- eller mallinnehåll {#add-visual-fragments-to-your-email-or-template-content}
 
-Fragment är utformade för återanvändning och du kan lägga till upp till 30 i en e-postmall eller e-postmall. Fragment kan bara kapslas upp till en nivå.
+Fragment är utformade för återanvändning. Du kan lägga till upp till 30 i en e-postmall eller e-postmall, och de kan bara kapslas upp till en nivå.
 
->[!BEGINTABS]
+* [Lägga till ett fragment i ett e-postmeddelande](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-fragments)
 
->[!TAB Lägg till fragment i ett e-postmeddelande]
-
-1. Navigera till **[!UICONTROL Account Journeys]** och öppna en befintlig resa eller skapa en ny. &lt;— ENDAST OM DE FINNS I E-POST- ELLER E-POSTMALLEN
-
-—STOPPAD REDIGERING HÄR—
-
-1. Skapa en [_[!UICONTROL Send Email]_-nod ](./email-authoring.md#add-an-email-action-in-an-account-journey).
-
-1. Skapa eller redigera [e-postinnehåll för noden](./email-authoring.md#create-the-email-content).
-
-1. Dra och släpp ett objekt från menyn **[!UICONTROL Components]** för att ange en _struktur_ för fragmentet.
-
-1. Klicka på ikonen _Fragment_ om du vill öppna en lista med publicerade fragment.
-
-   Du kan:
-   * Sortera listan.
-   * Bläddra, sök och filtrera listan.
-   * Växla mellan kort (miniatyrbild) och listvyer.
-   * Uppdatera listan så att den återspeglar något av de nyligen skapade fragmenten.
-
-SCREENSHOT
-
-1. Dra och släpp något av fragmenten till platshållaren för strukturkomponenten.
-
-   Redigeraren återger fragmentet i avsnittet/elementet i e-poststrukturen.
+* [Lägga till ett fragment i en e-postmall](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#add-fragments)
 
 Fragmentets innehåll uppdateras dynamiskt i strukturen för att återge hur innehållet visas i e-postmeddelandet.
 
@@ -344,51 +318,17 @@ Fragmentets innehåll uppdateras dynamiskt i strukturen för att återge hur inn
 >
 >Om du vill att fragmentet ska uppta hela den vågräta layouten i e-postmeddelandet lägger du till en [!UICONTROL 1:1 column]-struktur och drar och släpper fragmentet i den.
 
-När e-postmeddelandet har sparats visas det på fragmentinformationssidan när fliken _[!UICONTROL Used By]_har valts. Fragment som läggs till i ett e-postmeddelande kan inte redigeras i e-postmeddelandet eller mallen - det publicerade källfragmentet definierar innehållet.
+När e-post-/e-postmallen har sparats visas den på fragmentinformationssidan när fliken _[!UICONTROL Used By]_har valts. Tillagda fragment kan inte redigeras i e-postmeddelandet eller mallen. Det publicerade källfragmentet definierar innehållet.
 
->[!TAB Lägg till fragment i en e-postmall]
+## Fragmentåtgärder vid e-post- och mallutveckling {#fragment-actions-during-email-and-template-authoring}
 
-1. Klicka på **[!UICONTROL Content Management]** > **[!UICONTROL Templates]** i den vänstra navigeringen.
+När ett fragment läggs till i en e-postmall eller e-postmall kan dess innehåll inte redigeras i e-postmeddelandet eller mallen. Du kan dock använda följande åtgärder:
 
-1. Skapa en ny mall eller öppna en befintlig e-postmall och klicka på **[!UICONTROL Edit Email Template]**.
-
-1. Dra och släpp ett objekt från menyn **[!UICONTROL Components]** för att ange en _struktur_ för fragmentet.
-
-1. Om du vill öppna fragmentlistan klickar du på ikonen _Fragment_ .
-
-   Du kan:
-   * Sortera listan.
-   * Bläddra, sök och filtrera listan.
-   * Växla mellan kort (miniatyrbild) och listvyer.
-   * Uppdatera listan så att den återspeglar något av de nyligen skapade fragmenten.
-
-SCREENSHOT
-
-1. Dra och släpp något av fragmenten till platshållaren för strukturkomponenten.
-
-   Redigeraren återger fragmentet i avsnittet/elementet i e-postmallstrukturen.
-
-1. Dra och släpp något av fragmenten till platshållaren för strukturkomponenten.
-
-   Redigeraren återger fragmentet i avsnittet/elementet i e-postmallstrukturen.
-
->[!TIP]
->
->Om du vill att fragmentet ska uppta hela den vågräta layouten i e-postmallen lägger du till en _[!UICONTROL 1:1 column]_-struktur och drar och släpper fragmentet i den.
-
-När e-postmallen har sparats visas den på fragmentinformationssidan när fliken _[!UICONTROL Used By]_har valts. Fragment som läggs till i en e-postmall kan inte redigeras i mallen - det publicerade källfragmentet definierar innehållet.
-
->[!ENDTABS]
-
-## Fragmentåtgärder vid e-post- och mallutveckling
-
-När ett fragment läggs till i en e-post- eller e-postmall kan fragmentinnehållet inte redigeras i e-postmeddelandet eller mallen. Du kan dock använda följande åtgärder:
-
-* **[!UICONTROL Delete]** - Den här åtgärden tar bort fragmentet från det aktuella e-postmallinnehållet eller e-postmallinnehållet (fragmentkällan påverkas inte).
-* **[!UICONTROL Refresh]** - Den här åtgärden uppdaterar innehållet i fragmentet i den aktuella e-post- eller e-postmallen. Det är praktiskt att uppdatera när du vill spegla de senaste ändringarna i fragmentet efter att ha lagt till e-post- eller e-postmallen.
-* **[!UICONTROL Duplicate]** - Den här åtgärden duplicerar fragmentet inom samma e-post- eller e-postmall i redigeraren, med samma dimensioner och lägger till precis nedanför det.
-* **[!UICONTROL Open Fragment]** - Den här åtgärden öppnar en ny webbläsarflik med fragmentredigeringssidan och information.
-* **[!UICONTROL Break inheritance]** - Den här åtgärden bryter arvet av fragmentet (och dess ändringar) från källan. Använd den här åtgärden om du vill göra fragmentinnehållet tillgängligt som oberoende och redigerbart innehåll i e-post- eller e-postmallen. Den här åtgärden tar också bort e-post- eller e-postmallen från referensen _Används av_ för det ursprungliga fragmentet.
+* **[!UICONTROL Delete]** - Detta tar bort fragmentet från det aktuella e-post- eller e-postmallinnehållet (fragmentkällan påverkas inte).
+* **[!UICONTROL Refresh]** - Detta uppdaterar innehållet i fragmentet i den aktuella e-post- eller e-postmallen. Det är praktiskt att uppdatera när du vill spegla de senaste ändringarna i fragmentet efter att ha lagt till e-post- eller e-postmallen.
+* **[!UICONTROL Duplicate]** - Detta duplicerar fragmentet i samma e-postadress eller e-postmall i redigeraren. Det duplicerade fragmentet läggs till precis nedanför originalet.
+* **[!UICONTROL Open Fragment]** - Då öppnas en ny webbläsarflik med fragmentredigeringssidan och information.
+* **[!UICONTROL Break inheritance]** - Detta bryter arvet av fragmentet (och dess ändringar) från källan. Använd den här åtgärden om du vill göra fragmentinnehållet tillgängligt som oberoende och redigerbart innehåll i e-post- eller e-postmallen. Den här åtgärden tar också bort e-post- eller e-postmallen från referensen _Används av_ för det ursprungliga fragmentet.
 
 När du markerar fragmentet på redigeringssidan är de här åtgärderna tillgängliga från kontextverktygsfältet och egenskapspanelen till höger.
 

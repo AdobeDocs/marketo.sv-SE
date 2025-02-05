@@ -4,16 +4,16 @@ description: Lär dig hur du använder bildresurser från en ansluten AEM Assets
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
 
 # Arbeta med resurser i Experience Manager {#work-with-experience-manager-assets}
 
-När _Adobe Experience Manager Assets as a Cloud Service_ är integrerat med Adobe Marketo Engage kan du enkelt komma åt digitala resurser som du kan använda i ditt marknadsföringsinnehåll. När du redigerar ditt innehåll är resurserna tillgängliga från objektet _[!UICONTROL Experience Manager Assets]_i den vänstra navigeringen.
+När _Adobe Experience Manager Assets as a Cloud Service_ är integrerat med Adobe Marketo Engage kan du enkelt komma åt digitala resurser som du kan använda i ditt marknadsföringsinnehåll.
 
 >[!PREREQUISITES]
 >
