@@ -4,9 +4,9 @@ description: Importera en lista med människor - Marketo Docs - produktdokumenta
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
    >
    >* Marketo stöder **inte** e-postadresser som innehåller känslolägesikoner.
    >
-   >* Om du importerar `NULL` värden via CSV kan det generera ett&quot;Ändra datavärde&quot; för numeriska fält i en persons [aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _även om fälten redan är tomma_. Om du har [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} som använder filtret Datavärde ändrat eller Datavärdesändringar måste du använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} för att vara säker på att de inte aktiveras i onödan när du importerar.
+   >* Om du importerar `NULL` värden via CSV kan det generera ett&quot;Ändra datavärde&quot; för numeriska fält i en persons [aktivitetslogg](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _även om fälten redan är tomma_. Om du har [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} som använder filtret&quot;Datavärdet har ändrats&quot; eller utlösaren&quot;Ändringar av datavärde&quot; kan det göra att andra kan kvalificera sig för kampanjer, även om data inte ändras. Du kan använda [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} för att se till att ingen kvalificerar sig för kampanjer vid import.
 
 ## Steg 2: Skapa ett program {#step-create-a-program}
 

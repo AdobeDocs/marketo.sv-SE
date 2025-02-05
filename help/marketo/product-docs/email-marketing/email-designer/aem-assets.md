@@ -4,7 +4,7 @@ description: Lär dig hur du använder bildresurser från en ansluten AEM Assets
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -53,13 +53,13 @@ Om du har fler än en ansluten AEM databas klickar du på knappen **[!UICONTROL 
 
 Välj databas.
 
-![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-five.png)
+![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-5.png)
 
 Det finns flera metoder för att lägga till en bildresurs på den visuella arbetsytan:
 
 * Dra och släpp en miniatyrbild från den vänstra navigeringen.
 
-![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Välj en AEM Assets-databas för att komma åt bildresurserna](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Lägg till en bildkomponent på arbetsytan och klicka på **[!UICONTROL Browse]** för att öppna dialogrutan _[!UICONTROL Select Assets]_.
 
@@ -67,7 +67,7 @@ Det finns flera metoder för att lägga till en bildresurs på den visuella arbe
 
   Det finns flera verktyg som hjälper dig att hitta den resurs du behöver.
 
-![använd verktyget i dialogrutan Välj Assets för att hitta och välja en bildresurs](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![använd verktyget i dialogrutan Välj Assets för att hitta och välja en bildresurs](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Ändra **[!UICONTROL Repository]** överst till höger.
 
@@ -83,4 +83,4 @@ Det finns flera metoder för att lägga till en bildresurs på den visuella arbe
 
 * Ange text i sökfältet för att filtrera de visade objekten så att de matchar resursnamnet.
 
-![Använd filter och sökfält för att hitta resursen](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Använd filter och sökfält för att hitta resursen](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
