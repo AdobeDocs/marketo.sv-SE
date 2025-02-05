@@ -4,10 +4,10 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 47c3750e412f5f21ab5e497edab7edaa1f4abfcb
+source-git-commit: 079ba0f96d40044d19349517159ffe84aa677f39
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 8%
 
 ---
 
@@ -33,11 +33,6 @@ _Releasedatum/funktioner kan komma att ändras_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">24 juli</a></td>
-   <td>26 juli 2024</td>
-   <td>Levererat</td>
-  </tr>
-  <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-oct-24.md">24 oktober</td>
    <td>4 oktober 2024</td>
    <td>Levererat</td>
@@ -45,6 +40,31 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">25 januari</td>
    <td>17 januari 2025</td>
+   <td>Pågår</td>
+  </tr>
+   <tr> 
+   <td>25 mars</td>
+   <td>28 mars 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 april</td>
+   <td>25 april 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 maj</td>
+   <td>23 maj 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 juni</td>
+   <td>27 juni 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 juli</td>
+   <td>25 juli 2025</td>
    <td>Vid schema</td>
   </tr>
  </tbody>
