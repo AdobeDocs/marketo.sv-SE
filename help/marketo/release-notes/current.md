@@ -3,7 +3,7 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 2%
@@ -34,8 +34,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
     <tr> 
    <td><strong>Ny e-post för Designer</strong>: Skapa moderna och effektiva e-postmeddelanden med den nya inbyggda e-postadressen Designer i Marketo Engage. Få tillgång till någon av de färdiga e-postmallarna som är färdiga att användas, eller skapa enkelt en egen. Använd dynamiskt innehåll och få tillgång till bilder från Adobe Experience Manager molntjänster. Använd Content Accelerator Gen-AI-funktionaliteten för att skapa innovativa och högpresterande e-postmeddelanden i stor skala.
    <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Din Marketo Engage-prenumeration måste migreras till <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a> för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo support</a>. Kontakta Adobe Account Team för att få tillgång till funktionerna för Gen-AI i Content Accelerator.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">E-posta Designer - översikt</a></td>
   </tr>
   <tr> 
    <td> </td> 
