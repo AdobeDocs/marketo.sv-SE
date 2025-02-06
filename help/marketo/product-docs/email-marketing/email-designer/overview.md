@@ -3,7 +3,7 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -28,7 +28,7 @@ E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram o
 
 * [Framtagning av e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och kommer åt en e-postmall i den nya redigeraren.
 
-* [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina AEM digitala resurser som kan användas i Marketo Engage.
+* [Arbeta med AEM Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina AEM digitala resurser som kan användas i Marketo Engage.
 
 ## Vanliga frågor och svar {#faq}
 
