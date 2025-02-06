@@ -1,12 +1,10 @@
 ---
 title: Arbeta med Experience Manager Assets
 description: Lär dig hur du använder bildresurser från en ansluten AEM Assets-databas när du redigerar innehåll i Adobe Marketo Engage.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,13 +15,13 @@ När _Adobe Experience Manager Assets as a Cloud Service_ är integrerat med Ado
 
 >[!PREREQUISITES]
 >
->Connect MKTO/AEM doc.
+>[Anslut dina Adobe Experience Manager-Cloud Service till din Adobe Marketo Engage-instans](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-När du använder dessa digitala resurser sprids de senaste ändringarna i _Assets as a Cloud Service_ automatiskt till e-postkampanjer via länkade referenser. Om bilder tas bort i _Adobe Experience Manager Assets as a Cloud Service_ visas bilderna med en bruten referens i e-postmeddelandena. När resurser som används i Marketo Engage ändras eller tas bort meddelas e-postförfattarna om bildändringarna. Alla ändringar av materialet måste göras i Adobe Experience Manager Assets centrala arkiv.
+När du använder dessa digitala resurser sprids de senaste ändringarna i _Assets as a Cloud Service_ automatiskt till e-postkampanjer via länkade referenser. Om bilder tas bort i _Adobe Experience Manager Assets as a Cloud Service_ visas bilderna med en bruten referens i dina e-postmeddelanden. När resurser som används i Marketo Engage ändras eller tas bort meddelas e-postförfattarna om bildändringarna. Alla ändringar av materialet måste göras i Adobe Experience Manager Assets centrala arkiv.
 
 ## Använd AEM Assets som bildkälla {#use-aem-assets-as-the-image-source}
 
@@ -67,7 +65,7 @@ Det finns flera metoder för att lägga till en bildresurs på den visuella arbe
 
   Det finns flera verktyg som hjälper dig att hitta den resurs du behöver.
 
-![använd verktyget i dialogrutan Välj Assets för att hitta och välja en bildresurs](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Använd verktyget i dialogrutan Välj Assets för att hitta och välja en bildresurs](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Ändra **[!UICONTROL Repository]** överst till höger.
 

@@ -4,9 +4,9 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '1955'
+source-wordcount: '1980'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,25 @@ Visuella fragment är fördefinierade visuella block som byggts (med den visuell
 
 ## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
-Gå till **Design Studio** om du vill komma åt visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
+Gå till **Design Studio** i Marketo Engage om du vill komma åt visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
 
-![Åtkomst till fragment](assets/fragments-1.png){width="600" zoomable="yes"}
+![Åtkomst till fragment](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Som standard sorteras tabellen efter kolumnen _[!UICONTROL Modified]_. Klicka på andra kolumnrubriker om du vill ändra vad tabellen sorteras efter. Klicka på samma titel igen för att växla mellan stigande och fallande.
+
+### Söka och filtrera
+
+Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
+
+![Filtrera de visade fragmenten](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Anpassa kolumnerna {#customize-the-column-display}
+
+Anpassa de kolumner som du vill visa i tabellen genom att klicka på ikonen _Anpassa tabell_ ( ![Anpassa tabell-ikon](assets/icon-column-settings.svg) ) längst upp till höger.
+
+Markera de kolumner som du vill ha och klicka på **[!UICONTROL Apply]**.
+
+![Anpassa tabell modal](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Fragmentstatus {#fragment-status}
 
@@ -73,36 +87,30 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
   </tr>
 </tbody></table>
 
-### Filtrera fragmentlistan {#filter-the-fragments-list}
-
-Använd sökfältet för att hitta ett fragment efter namn. Klicka på ikonen _Filter_ ( ![Filterikon](assets/icon-filter.svg) ) för att visa tillgängliga filteralternativ och välja önskade inställningar.
-
-![Filtrera de visade fragmenten](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Anpassa kolumnvisningen {#customize-the-column-display}
-
-Anpassa de kolumner som du vill visa i tabellen genom att klicka på ikonen _Anpassa tabell_ ( ![Anpassa tabell-ikon](assets/icon-column-settings.svg) ) längst upp till höger.
-
-Markera de kolumner du vill använda i dialogrutan och klicka på **[!UICONTROL Apply]**.
-
-SCREENSHOT
-
 ## Skapa fragment {#create-fragments}
 
-Skapa ett nytt visuellt fragment genom att klicka på **[!UICONTROL Create fragment]** överst till höger.
+1. Om du vill skapa ett nytt visuellt fragment klickar du på **[!UICONTROL Create fragment]** längst upp till höger på fragmentlistsidan.
 
-1. I dialogrutan _[!UICONTROL Create fragment]_anger du ett **[!UICONTROL Name]**och ett valfritt **[!UICONTROL Description]**.
+   ![Skapa fragment-knapp](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Fragmentkrav:
+1. Ge ditt fragment en **[!UICONTROL Name]** och en **[!UICONTROL Description]** som tillval.
 
-   * Namn - högst 100 tecken, måste vara unikt, skiftlägeskänsligt
-   * Beskrivning - max 300 tecken
-   * Alpha, numeriska tecken och specialtecken är ok
+   _Fragmentkrav_
+
+   * Namn: Högst 100 tecken, måste vara unikt, inte skiftlägeskänsligt
+   * Beskrivning: Högst 300 tecken
+   * Tecken: bokstäver, siffror och specialtecken är ok
    * Reserverade tecken är **_inte tillåtna_**: `\ / : * ? " < > |`
 
-SCREENSHOT
+   ![Skapa fragment modal](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Klicka på **[!UICONTROL Create]**.
+
+   ![Skapa fragment modal](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Det går inte att ändra **typen** för ett fragment just nu.
 
    Den visuella designern öppnas med en tom arbetsyta.
 
