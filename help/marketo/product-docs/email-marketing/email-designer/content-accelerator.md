@@ -1,18 +1,20 @@
 ---
-title: Content Accelerator doc
-description: Lär dig hur..
-hide: true
-hidefromtoc: true
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+solution: Marketo Engage
+product: marketo engage
+title: Använda AI Assistant Content Accelerator
+description: Utnyttja Adobe generative AI-teknik för att lägga till hjälpsam text eller fantastiska bilder i e-postmeddelanden.
+feature: Email Editor
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # Använda AI Assistant Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
-AI Assistant Content Accelerator är en funktion i Marketo Engage Email Designer som hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden på ett produktivt sätt. Detta uppnås genom Adobe generative AI-teknik och ett snabbt bibliotek tillsammans med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringsresa, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
+AI Assistant Content Accelerator i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generative AI-teknik och ett snabbt bibliotek tillsammans med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringsresa, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
 
 >[!PREREQUISITES]
 >
@@ -28,26 +30,24 @@ Det finns tre primära användningsområden för AI Assistant Content Accelerato
 
 När ett e-postmeddelande skapas med Designer New Email anger du en tillfällig ämnesrad.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-1.png)
 
 När e-postmeddelandet har skapats finns ämnesraden i kolumnen _Detaljer_ till höger. Klicka på AI-assistentknappen ( ![Filterikon](assets/icon-ai-assistant.png) ) bredvid om du vill ha hjälp med att skapa en ny ämnesrad med Gen AI-funktionen.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-2.png)
 
-—STOPPAD REDIGERING HÄR—
-
-Om du redan har använt en ämnesrad och vill använda den som referens för genereringen, växlar du till knappen &quot;Använd referensinnehåll&quot;.
+Aktivera alternativet **Använd referensinnehåll** för AI Assistant Content Accelerator för att anpassa nytt innehåll baserat på det valda innehållet.
 
 Ange uppmaningen att anpassa ämnesraden. Ange relevanta textinställningar och överför alla varumärkesresurser som du vill använda som referens för att skapa en lämplig ämnesrad.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-3.png)
 
 Textinställningarna omfattar:
 
 <table><tbody>
   <tr>
     <td><b>Buying Group</b></td>
-    <td>Den specifika köpgrupp ni riktar in er på (t.ex. koncernchef, påverkare, beslutsfattare).</td>
+    <td>Den specifika köpgrupp som ni riktar in er på (t.ex."Practitioner","Influencer","Decision Maker").</td>
   </tr>
   <tr>
     <td><b>Marknadsföringsresa</b></td>
@@ -72,60 +72,58 @@ Textinställningarna omfattar:
 </tbody>
 </table>
 
-En exempelinställning för fylld text ser ut så här:
+När du klickar på **Generera** visas exempel som du kan välja bland:
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-4.png)
 
-Du kan också välja att överföra en varumärkesresurs för att använda innehåll i resursen som ett referensinnehåll för att skapa ämnesraden.
+Du kan också överföra en varumärkesresurs för att använda innehåll i resursen som referens för att skapa ämnesraden.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-5.png)
 
-När du har markerat en variant kan du välja att använda den genom att markera varianten i kryssrutan och klicka på Markera. Du kan också förfina den genom att klicka på Förfina och ändra inställningarna. Du kan också ge feedback genom reglage uppåt eller nedåt så att Gen-AI-tekniken förstår vad som fungerar enligt dina önskemål.
+Om du vill välja en variant markerar du dess kryssruta och klickar på **Markera**. Du kan även ändra den genom att klicka på **Förfina**. Dessutom kan du ge feedback genom att klicka på reglagen uppåt eller nedåt så att Gen-AI-tekniken lär dig mer om dina önskemål.
 
-När du väljer kan du se hur ämnesraden fylls i i din e-postinformation
+När du har gjort ditt val fylls ämnesraden i i din e-postinformation.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-6.png)
 
 ## Skapa innehåll för ett visst avsnitt i e-postmeddelandet {#create-content-for-a-specific-section}
 
-När e-postmeddelandet har skapats med AI Assistant från en e-postmall kanske du ändå vill ändra vissa delar av bilden, till exempel e-post eller text.
+När e-postmeddelandet har skapats kan du ändra vissa avsnitt, bilder eller text.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-7.png)
 
-Från det tidigare e-postmeddelandet som genererades är bilden av hälso- och sjukvårdsexperten inte helt korrekt, så du kanske vill instruera AI-assistenten att skapa en bild av en sjukvårdsexpert precis som en representation, om du inte har någon faktisk bild.
+I det här exemplet använder vi en vårdmall. Om den befintliga bilden av hälso- och sjukvårdsexperten inte uppfyller dina behov kan du instruera AI-assistenten att skapa en egen bild av en sjukvårdsexpert. Markera bara bildinnehållet och klicka sedan på AI-assistenten.
 
-I så fall kanske du vill markera en del av e-postmeddelandet och sedan använda AI-assistenten för att skapa innehåll för det avsnittet. Markera bildinnehållet och klicka sedan på AI-assistenten.
+![](assets/use-the-ai-assistant-content-accelerator-8.png)
 
-SCREENSHOT
+Ange relevanta uppgifter i meddelandet, t.ex.&quot;generate an image for a medical expert&quot;, och lägg till önskad anpassning. Du kan också använda promptbiblioteket (till höger om uppmaningen) om du inte är säker på vad du ska ange.
 
-Ange relevanta uppgifter i uppmaningen, t.ex.&quot;generera en bild för en sjukvårdsexpert&quot; och lägg till eventuella anpassningar, om det behövs. Du kan också använda promptbiblioteket till höger om uppmaningen om du inte är säker på vilken uppmaning du ska ange.
+När du har klickat på **Generera** skapas flera varianter att välja mellan.
 
-När du klickar på&quot;Generera&quot; skapas flera varianter och du kan välja den som passar innehållet i e-postmeddelandet.
+![](assets/use-the-ai-assistant-content-accelerator-9.png)
 
-SCREENSHOT
+Textdelar av e-postmeddelandet kan också ändras på samma sätt som bilden.
 
-På samma sätt som bilden kan andra delar av innehållet, till exempel text, ändras.
-
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-10.png)
 
 ## Skapa ett helt e-postmeddelande från en vald mall {#create-an-entire-email}
 
-Det här alternativet är bara tillgängligt om e-postmeddelandet har skapats med en befintlig mall. Det här kan vara en standardmall som tillhandahålls av e-post-Designer, en sparad mall som redan har skapats av en marknadsförare eller en importerad mall som använder Importera HTML. Observera att det här alternativet inte är tillgängligt om du har valt&quot;Design från grunden&quot; för ditt e-postmeddelande.
+Det här alternativet är bara tillgängligt om e-postmeddelandet har skapats med en befintlig mall. Det kan vara en standardmall som tillhandahålls av e-post-Designer, en sparad mall som du redan har skapat eller en importerad mall som använder alternativet Importera HTML. Det här alternativet är inte tillgängligt om du väljer [Designa från grunden](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) för ditt e-postmeddelande.
 
-När du väljer en viss mall, utan att markera någon komponent i mallen, klickar du på AI-assistentknappen i Designer New Email.
+Välj en mall utan att markera någon komponent i mallen och klicka på AI-assistentknappen i e-postens Designer.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-11.png)
 
-Ange den relevanta uppmaningen och välj textinställningar, varumärkesresurser och eventuella bildinställningar som du vill ha för e-postmeddelandet.
+Ange den relevanta uppmaningen och välj textinställningar, varumärkesresurser och eventuella bildinställningar som du vill använda för e-postmeddelandet.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-12.png)
 
-Om du vill generera bilder med Firefly väljer du Bildinställningar och aktiverar alternativet Skapa bilder med AI
+Om du vill generera bilder med Firefly väljer du Bildinställningar och väljer alternativet **Generera bilder med AI**.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-13.png)
 
-Välj lämpliga inställningar, t.ex. Innehållstyp, Färg och Ton, Ljus samt disposition för att skapa Gen-AI-bilder för e-postmeddelandet. Klicka på Generera för att generera varianter av e-postmeddelandet.
+Välj önskad _innehållstyp_, _färg och ton_, _ljus_ och _komposition_ för att skapa Gen-AI-bilder för e-postmeddelandet. Klicka på **Generera** när du är klar.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-14.png)
 
-Välj en av varianterna som ska förhandsgranskas genom att klicka på Förhandsgranska eller använd varianten för att spegla ändringen på arbetsytan.
+Se hur en variant kommer att se ut i ditt e-postmeddelande genom att klicka på **Förhandsgranska**. Välj en variation genom att klicka på **Använd**.
