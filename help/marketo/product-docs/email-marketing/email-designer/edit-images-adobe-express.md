@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 1. I Marketo Engage går du till **[!UICONTROL Design Studio]** och väljer **[!UICONTROL Images and Files]**.
 
-   ![Markera bilder och filer till vänster i Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Markera bilder och filer till vänster i Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Markera bilden som du vill redigera (eller skapa en ny).
 
-   SCREENSHOT
+   SCREENSHOT 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 1. Klicka på **Redigera i Adobe Express** på fliken _Detaljer_ .
 
-   SCREENSHOT
+   SCREENSHOT 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 1. I Marketo Engage går du till **[!UICONTROL Design Studio]** och väljer **[!UICONTROL Images and Files]**.
 
-   ![Markera bilder och filer till vänster i Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Markera bilder och filer till vänster i Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 1. Markera kryssrutan bredvid bilden som du vill redigera.
 
-   SCREENSHOT
+   SCREENSHOT 2b
 
 1. Välj **[!UICONTROL Edit in Adobe Express]** i listrutan **[!UICONTROL Image and file actions]**.
 
@@ -80,7 +80,9 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 >[!ENDTABS]
 
-## Användare med en Enterprise-licens {#users-with-an-enterprise-license}
+## Adobe Express Enterprise-licens {#adobe-express-enterprise-license}
+
+### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
 Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild.
 
@@ -88,25 +90,56 @@ Om du har en Enterprise-licens för Adobe Express har du tillgång till den full
 >
 >Den köpta licensen måste vara under samma IMS-organisation som din Marketo Engage-prenumeration för att få tillgång till alla redigeringsmöjligheter i Adobe Express. Varje enskild användare måste dessutom ha en licens i Adobe Express. Användare [utan licens](#users-without-an-enterprise-license) har bara åtkomst till snabbåtgärderna i Adobe Express.
 
-Klicka på Redigera med Adobe Express för att öppna bilden.
-
-SCREENSHOT
-
-Utför ändringarna och spara filen.
-
-SCREENSHOT
-
-Klicka på Spara för att slutföra åtgärden.
-
 ## Användare utan Enterprise License {#users-without-an-enterprise-license}
 
 För dem som saknar Enterprise-licens har du fortfarande tillgång till flera snabbredigeringsfunktioner. De här funktionerna är:
 
-* Ändra bildstorlek
-* Ta bort bakgrund
-* Beskär bild
-* Konvertera till PNG
-* Konvertera till JPEG
+* [Ändra bildstorlek](#resize-image)
+* [Ta bort bakgrund](#remove-background)
+* [Beskär bild](#crop-image)
+* [Konvertera till PNG/JPEG](#convert-to-png-jpeg)
+
+Funktionerna är tillgängliga längst upp till vänster på bildsidan.
+
+SCREENSHOT
+
+### Ändra bildstorlek {#resize-image}
+
+Gör önskade ändringar och klicka på **Använd** när du är klar.
+
+SCREENSHOT
+
+<table><tbody>
+  <tr>
+    <td><b>Proportioner</b></td>
+    <td>I listrutan <b>Proportioner</b> väljer du <b>Standard</b> till TOM eller <b>Anpassad</b> om du vill ange en egen bredd/höjd.</td>
+  </tr>
+  <tr>
+    <td><b>Bredd och höjd</b></td>
+    <td>Som standard är proportionerna låsta och bildens proportioner ändras inte när du ändrar storleken. Om du vill kan du välja låsknappen för att låsa upp proportionerna.</td>
+  </tr>
+  <tr>
+    <td><b>Återställ</b></td>
+    <td>Klicka på <b>Återställ</b> om du vill ta bort ändringar som gjorts i bilden och återställa den till det ursprungliga läget.</td>
+  </tr>
+  <tr>
+    <td><b>Zooma och beskära</b></td>
+    <td>Klicka på Zooma och Beskär för att zooma in i specifika delar av bilden.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Ta bort bakgrund {#remove-background}
+
+text
+
+### Beskär bild {#crop-image}
+
+Text
+
+### Konvertera till PNG/JPEG {#convert-to-png-jpeg}
 
 Klicka på Beskär bild på sidan.
 
