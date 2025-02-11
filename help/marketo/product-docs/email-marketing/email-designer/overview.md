@@ -1,11 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
+source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -14,13 +16,31 @@ ht-degree: 0%
 
 Välkommen till nya Adobe Marketo Engage Email Designer.
 
->[!PREREQUISITES]
->
->Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
-
-Den nya e-postdesignern är den senaste innovationen i Marketo Engage som syftar till att skapa omgjorda e-post- och e-postmallar för att förbättra produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
+E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
 E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram och smarta listor/kampanjer. Nya kraftfulla förbättringar av designern kommer snart.
+
+## Åtkomst {#how-to-access}
+
++++Lär dig hur du kommer åt e-postdesignern
+
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
+### Lägg till användare {#add-users}
+
+1. Gå till området **[!UICONTROL Admin]** i Marketo Engage och välj **[!UICONTROL New Email Designer]**.
+
+   ![Välja ny e-post-Designer i den vänstra navigeringen i Admin](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. Klicka på **[!UICONTROL Add Users]**.
+
+   ![Knappen Lägg till användare](assets/overview-2.png){width="600" zoomable="yes"}
+
+1. Välj önskade användare i listrutan **[!UICONTROL Add New Values]**. Klicka på **[!UICONTROL OK]** när du är klar.
+
+   ![Välja användare från listan](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## Tillgängliga artiklar {#available-articles}
 
@@ -28,7 +48,11 @@ E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram o
 
 * [Framtagning av e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Lär dig hur du skapar, utformar och kommer åt en e-postmall i den nya redigeraren.
 
-* [Arbeta med AEM Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina AEM digitala resurser som kan användas i Marketo Engage.
+* [Arbeta med AEM-resurser](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina digitala AEM-resurser som kan användas i Marketo Engage.
+
+* [Använd AI Assistant Content Accelerator](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
+
+* [Lås innehåll i e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Lär dig hur du låser innehåll i e-postmallar, vilket förhindrar oavsiktliga redigeringar och borttagningar.
 
 ## Vanliga frågor och svar {#faq}
 
@@ -48,9 +72,9 @@ Låsning av innehållsavsnitt är en del av den nya designern, och låsning av f
 
 Ja, absolut, mer anpassningsbart med vår WYSIWYG-redigerare (what-you-see-is-what-you-get).
 
-**Hur fungerar skapandet av e-postmallar i den nya designern? Är det WYSIWYG, eller kräver det kunskaper från HTML?**
+**Hur fungerar skapandet av e-postmallar i den nya designern? Är det WYSIWYG, eller kräver det HTML kunskap?**
 
-Det är WYSIWYG; det behövs ingen kunskap om HTML. Du kan enkelt skapa
+Det är WYSIWYG; HTML kunskap behövs inte. Du kan enkelt skapa
 -mallar i designern, vilket minskar behovet av externa webbutvecklare. Du kan dock fortfarande uppdatera CSS och redigera enskilda avsnitt via HTML. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
 
 **Har den nya e-postdesignern stöd för AMP-språk?**

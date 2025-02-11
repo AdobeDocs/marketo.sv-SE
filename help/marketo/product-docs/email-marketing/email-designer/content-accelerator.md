@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: Använda AI Assistant Content Accelerator
-description: Utnyttja Adobe generative AI-teknik för att lägga till hjälpsam text eller fantastiska bilder i e-postmeddelanden.
+description: Utnyttja Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Använda AI Assistant Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
-AI Assistant Content Accelerator i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generative AI-teknik och ett snabbt bibliotek tillsammans med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringsresa, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
+AI Assistant Content Accelerator i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generativa AI-teknologi och ett bibliotek med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringssteg, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
 
 >[!PREREQUISITES]
 >
->AI Assistant Content Accelerator är inte aktiverat som standard. Du måste först godkänna villkoren för Core Gen-AI och de kompletterande villkoren för att använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>AI Assistant Content Accelerator är inte aktiverat som standard. Du måste först godkänna villkoren för Core Gen-AI och de kompletterande villkoren för att använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Det finns tre primära användningsområden för AI Assistant Content Accelerator:
 
@@ -46,27 +46,27 @@ Textinställningarna omfattar:
 
 <table><tbody>
   <tr>
-    <td><b>Buying Group</b></td>
+    <td style="width:25%"><b>Buying Group</b></td>
     <td>Den specifika köpgrupp som ni riktar in er på (t.ex."Practitioner","Influencer","Decision Maker").</td>
   </tr>
   <tr>
-    <td><b>Marknadsföringsresa</b></td>
+    <td style="width:25%"><b>Marknadsföringsresa</b></td>
     <td>Mottagare i ett visst stadium av marknadsföringsresan (t.ex. Discover, Evaluate, Commit).</td>
   </tr>
   <tr>
-    <td><b>Kommunikationsstrategi</b></td>
+    <td style="width:25%"><b>Kommunikationsstrategi</b></td>
     <td>Syftet med kommunikationen (t.ex. brådskande frågor, socialt bevis, information).</td>
   </tr>
   <tr>
-    <td><b>Språk</b></td>
+    <td style="width:25%"><b>Språk</b></td>
     <td>Det språk som du vill att ämnesraden ska skapas på.</td>
   </tr>
   <tr>
-    <td><b>Ton</b></td>
+    <td style="width:25%"><b>Ton</b></td>
     <td>Ton som du vill att innehållet ska genereras i (t.ex. Inspiration, Exciting, Humorous).</td>
   </tr>
   <tr>
-    <td><b>Emojis</b></td>
+    <td style="width:25%"><b>Emojis</b></td>
     <td>Gör att uttryckssymboler kan inkluderas i det genererade innehållet.</td>
   </tr>
 </tbody>

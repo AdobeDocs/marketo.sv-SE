@@ -3,12 +3,11 @@ solution: Marketo Engage
 product: marketo engage
 title: Lås innehåll i e-postmallar
 description: Lär dig hur du låser innehåll i e-postmallar.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
@@ -41,8 +40,6 @@ Innehållslås kan användas antingen på **strukturnivå** eller på **komponen
 
 Du kan aktivera innehållslås för en e-postmall direkt i e-postmallen Designer, oavsett om du skapar en ny mall eller redigerar en befintlig mall.
 
-—STOPPAD REDIGERING HÄR—
-
 1. Öppna eller skapa en e-postmall och gå till redigeringsskärmen i e-post-Designer.
 
 1. Aktivera alternativet **[!UICONTROL Governance]** i rutan **[!UICONTROL Body]** till höger.
@@ -54,7 +51,7 @@ Du kan aktivera innehållslås för en e-postmall direkt i e-postmallen Designer
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Om du har valt läget **[!UICONTROL Content locking]** kan du ytterligare definiera hur användare kan interagera med mallen. Växla på alternativet **[!UICONTROL Enable content edition]** och välj något av följande:
+1. Om du har valt läget **[!UICONTROL Content locking]** kan du ytterligare definiera hur användare kan interagera med mallen. Aktivera alternativet **[!UICONTROL Enable content edition]** och välj något av följande:
 
    * **[!UICONTROL Allow structure & content addition]**: Användare kan lägga till strukturer mellan befintliga strukturer och lägga till innehållskomponenter eller fragment inom redigerbara strukturer.
 
@@ -65,9 +62,9 @@ Du kan aktivera innehållslås för en e-postmall direkt i e-postmallen Designer
    * [Lär dig låsa strukturer](#lock-structures)
    * [Lär dig låsa komponenter](#lock-components)
 
-   Om du väljer läget **[!UICONTROL Read only]** kan du fortsätta med att slutföra och spara mallen som vanligt.
+   Om du väljer läget **[!UICONTROL Read only]** kan du fortsätta med att slutföra och spara mallen.
 
-Du kan justera inställningarna för **[!UICONTROL Governance]** när som helst när du designar mallen genom att välja mallbrödtexten. Det gör du genom att klicka på länken **[!UICONTROL Body]** i navigeringsfältet som finns högst upp på den högra panelen.
+Du kan justera inställningarna för **[!UICONTROL Governance]** när som helst när du designar mallen genom att välja mallbrödtexten. Om du vill göra det klickar du på länken **[!UICONTROL Body]** i navigeringsfältet som finns längst upp på den högra panelen.
 
 ![](assets/content-locking-2.png){width="800" zoomable="yes"}
 
@@ -89,7 +86,7 @@ När du har låst en struktur kan inga ytterligare innehållskomponenter eller f
 
 1. Markera den komponent som du vill låsa upp.
 
-1. Växla på alternativet **[!UICONTROL Use specific locking]**.
+1. Aktivera alternativet **[!UICONTROL Use specific locking]**.
 
 1. Välj **[!UICONTROL Editable]** i listrutan **[!UICONTROL Lock type]**. Välj **[!UICONTROL Editable content only]** om du vill tillåta redigering av innehåll när du låser format. [Lär dig att låsa komponenter](#lock-components)
 
@@ -126,16 +123,11 @@ I exemplet nedan är styrning aktiverat för mallbrödtexten. *Struktur 2* är l
 
 När du använder en mall med låst innehåll visas meddelandet **[!UICONTROL Governance enabled]** i den högra rutan.
 
-Beroende på vilken typ av låsning som används för mallen kan du utföra olika åtgärder för mallens strukturer och komponenter. Om du snabbt vill identifiera alla redigerbara områden i mallen aktiverar du alternativet **[!UICONTROL Highlight editable areas]**.
+Beroende på vilken typ av låsning som används för mallen kan du utföra olika åtgärder för mallens strukturer och komponenter. Aktivera alternativet **[!UICONTROL Highlight editable areas]** om du snabbt vill identifiera alla redigerbara områden i mallen.
 
 I mallen nedan är till exempel alla områden redigerbara, förutom den översta bilden som har låsts, vilket innebär att du inte kan redigera eller ta bort den.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
-
-Detaljerad information om olika typer av låsning som kan användas finns i följande avsnitt:
-
-* [Lås strukturer](#lock-structures)
-* [Lås komponenter](#lock-components)
 
 Här är några exempel på e-postutgåvan och den tillhörande konfigurationen för låsning av innehåll som har konfigurerats:
 
