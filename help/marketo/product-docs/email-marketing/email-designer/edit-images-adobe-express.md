@@ -6,9 +6,10 @@ description: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredig
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -81,11 +82,11 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 ## Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till Express Editor. Du kan justera inställningar som färg, intensitet, skärpa, kontrast, storlek och mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt och radera delar av bilden.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild.
 
 >[!IMPORTANT]
 >
->Den köpta licensen måste vara under samma IMS-organisation som din Marketo Engage-prenumeration för att få tillgång till alla redigeringsfunktioner i Adobe Express. Varje enskild användare måste dessutom ha en licens i Adobe Express. Användare [utan licens](#users-without-an-enterprise-license) har bara åtkomst till snabbåtgärderna i Adobe Express.
+>Den köpta licensen måste vara under samma IMS-organisation som din Marketo Engage-prenumeration för att få tillgång till alla redigeringsmöjligheter i Adobe Express. Varje enskild användare måste dessutom ha en licens i Adobe Express. Användare [utan licens](#users-without-an-enterprise-license) har bara åtkomst till snabbåtgärderna i Adobe Express.
 
 Klicka på Redigera med Adobe Express för att öppna bilden.
 

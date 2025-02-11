@@ -5,9 +5,9 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 * [Arbeta med AEM-resurser](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina digitala AEM-resurser som kan användas i Marketo Engage.
 
-* [Använd AI Assistant Content Accelerator](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
+* [Använd AI-assistenten](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 
 * [Lås innehåll i e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Lär dig hur du låser innehåll i e-postmallar, vilket förhindrar oavsiktliga redigeringar och borttagningar.
 
