@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
 workflow-type: tm+mt
-source-wordcount: '9411'
+source-wordcount: '9416'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
       + SEO {#seo}
          + Förstå SEO {#understanding-seo}
             + [Om sökmotoroptimering](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Förstå SEO Dashboard: SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [Förstå SEO-instrumentpanelen: SEO-rekommendationer](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [Förstå SEO-instrumentpanelen: SEO-ögonblicksbild](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO - Lägg till en plats/ta bort en plats](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO - Lägg till konkurrenter](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -116,7 +116,7 @@ ht-degree: 0%
          + [Lägg till enkel inloggning på en portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Lägg till webb som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Lägg till zoom som en LaunchPoint-tjänst](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-         + [Konfigurera SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
+         + [Konfigurera dina SOAP API-inställningar](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [Anslut BrightTALK till Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Skapa en anpassad tjänst för användning med ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Skapa en webbkrok](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -160,7 +160,7 @@ ht-degree: 0%
          + [Exportera en lista med alla Marketo API-fältnamn](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportera som används av data för ett fält](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Dölja och visa ett fält](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [HTML-kodning av token i e-postmeddelanden](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [HTML Encode Tokens in emails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Markera ett fält som känsligt](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Byta namn på ett fält](product-docs/administration/field-management/rename-a-field.md)
          + [Förstå systemhanterade fält](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -170,7 +170,7 @@ ht-degree: 0%
          + [Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Skapa en anpassad aktivitet](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Redigera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Publish en anpassad aktivitet](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Publicera en anpassad aktivitet](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [Export av metadata för anpassad aktivitet](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo anpassade objekt {#marketo-custom-objects}
          + [Förstå anpassade Marketo-objekt](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -194,7 +194,7 @@ ht-degree: 0%
          + [Vanliga frågor och svar](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + Prenumeration och användarmigrering {#subscription-and-user-migration}
-            + [Migrerar till Adobe-identitet](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
+            + [Migrera till Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage Support Migration](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
       + Inställningar {#settings}
@@ -253,7 +253,7 @@ ht-degree: 0%
          + [Dela segment mellan arbetsytor och partitioner](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Adobe Experience Cloud-integreringar {#adobe-experience-cloud-integrations}
       + [Adobe Experience Cloud Integrations - översikt](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
-      + [Ställ in organisationsmappning för Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Konfigurera Adobe organisationsmappning](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synkronisera en publik från Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importera Assets med Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Adobe Experience Cloud Interface Overview](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
@@ -636,8 +636,8 @@ ht-degree: 0%
          + [Så här fungerar Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + Konfigurera {#setup}
             + [Steg 1 av 3: Lägg till Marketo-fält i Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
-            + [Steg 2 av 3: Skapa en Veeva CRM-användare för Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [Steg 3 av 3: Connect Marketo Engage och Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
+            + [Steg 2 av 3: Skapa en veeva CRM-användare för Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [Steg 3 av 3: Anslut Marketo Engage och Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + Synkroniseringsinformation {#sync-details}
             + [Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [Synkronisering av anpassat objekt](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
@@ -652,14 +652,14 @@ ht-degree: 0%
          + [Förstå annonsnätverksintegreringar](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Lägg till Google kundmatchning som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [Lägg till LinkedIn Matched Audiences som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [Lägg till LinkedIn-matchade målgrupper som en LaunchPoint-tjänst](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Skicka en lista till ett annonsnätverk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [Skicka en lista till Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
-         + [Översikt över Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dynamic Chat - översikt](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
-         + [Dynamic Chat verksamhet](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Konfigurera och konfigurera {#setup-and-configuration}
@@ -742,16 +742,16 @@ ht-degree: 0%
             + [Instrumentpanel för engagemang](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Interaktiva webbinarier i Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
       + Facebook {#facebook}
-         + [Lägga till leads till en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+         + [Lägg till leads till en anpassad målgrupp på Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Skapa en anpassad målgrupp i Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Redigera inställningar för Facebook Rich Post](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Publish landningssidor till Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [Konfigurera Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [Redigera inställningar för avancerat inlägg på Facebook](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Publicera landningssidor på Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Konfigurera Facebook-annonser](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Mappa anpassade fält till Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [Konfigurera offlinekonverteringar för Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-         + [Testa Facebook Lead Ads för integrering med Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
-         + [Testa Facebook Lead Ads för mobilintegrering med Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
-         + [Förstå Facebook offlinekonverteringar](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+         + [Testa Facebook-annonser för integrering med Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
+         + [Testa Facebook-annonser för mobilintegrering med Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
+         + [Förstå offlinekonverteringar för Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Använd filter och utlösare för annonsering av leads i en smart kampanj](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
          + Skapar ett formulär {#creating-a-form}
@@ -775,7 +775,7 @@ ht-degree: 0%
             + [Redigera ett formulär](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Bädda in ett formulär på din webbplats](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Aktivera ifyllning av sociala formulär i ett formulär](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [LinkedIn Social Form Fill - frågor och svar](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + [Vanliga frågor om LinkedIn-fyllning av sociala formulär](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [Visa anpassat HTML-formulär för kända personer](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Använda ett formulär i en ljuslåda](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Formulärdesign {#form-design}
@@ -827,7 +827,7 @@ ht-degree: 0%
             + [Lägga till en video på en startsida i frihandsformat](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Lägga till en bild på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Lägga till en rektangel på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [Lägga till anpassad HTML på en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [Lägga till anpassad HTML på en landningssida med kostnadsfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Skapa en landningssida med valfri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Anpassa mobilvyn för din startsida med kostnadsfria formulär](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Använd dynamiskt innehåll på en landningssida i fri form](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -986,11 +986,11 @@ ht-degree: 0%
          + Skapar en omröstning {#creating-a-poll}
             + [Skapa en omröstning](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [Anpassa inställningar för omröstning](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Publicera en omröstning](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [Granska rösterna i omröstningen](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + Referenserbjudanden {#referral-offers}
             + [Skapa ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Publish ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [Publicera ett hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [Skicka e-post om uppfyllelse av hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Ange mål för hänvisningserbjudande](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + Sociala funktioner {#social-functions}
@@ -1005,15 +1005,15 @@ ht-degree: 0%
             + [Ange krav på socialresurs](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
             + [Konfigurera LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Utlösare och filter för sociala aktiviteter](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
-            + [Använd en Marketo List eller Smart List som ett LinkedIn Audience-segment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+            + [Använd en Marketo-lista eller smart lista som ett LinkedIn-målsegment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Använd e-post i sociala kampanjer](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [Använd LinkedIn Lead Gen Form Filters and Triggers i en smart kampanj](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Använd kampanjkoder för att slutföra erbjudandet](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Visa sociala prestanda](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + Lotteriet {#sweepstakes}
             + [Skapa Lotterier](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Anpassa utlottningsstilar](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publish a Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [Publicera Lotteriet](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Välj Lotterivinnare](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-postmarknadsföring {#email-marketing}
       + Leverans {#deliverability}
@@ -1026,7 +1026,7 @@ ht-degree: 0%
          + [Så här säger du upp prenumerationen](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + Inkorgsspåraren {#inbox-tracker}
-            + [Inkorgsspåraren Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
+            + [Självstudiekurser för Inkorgsspåraren](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Drivrutinsintroduktion {#drip-nurturing}
          + Skapar ett engagemangsprogram {#creating-an-engagement-program}
             + [Lägg till en ström](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1066,6 +1066,7 @@ ht-degree: 0%
          + [E-postredigering](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Redigering av e-postmallar](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Redigera bilder med Adobe Express](product-docs/email-marketing/email-designer/edit-images-with-adobe-express.md)
          + [Fragment](product-docs/email-marketing/email-designer/fragments.md)
          + [Låsning av innehåll](product-docs/email-marketing/email-designer/content-locking.md)
          + [Content Accelerator](product-docs/email-marketing/email-designer/content-accelerator.md)
@@ -1145,8 +1146,8 @@ ht-degree: 0%
             + [Lägg till spårade länkar i ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Skapa en kalenderhändelsefil (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Inaktivera spårning för en e-postlänk](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [Ladda ned en e-postadress HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [Redigera HTML för ett e-postmeddelande](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [Ladda ned en HTML för e-post](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [Redigera en e-posts HTML](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + E-posttester - Champion-Challenger {#email-tests-champion-challenger}
                + [Lägg till en e-postkampanj/kanal](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: Godkänn ditt e-posttest](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1576,13 +1577,13 @@ ht-degree: 0%
          + Funktioner {#features}
             + [Översikt över MSI-funktioner](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Översikt över funktionen Insikt i instrumentpanelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integrering med Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Dynamic Chat Integration](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Åtgärder på MSI-panelen {#actions-in-the-msi-panel}
                + [Välj en åtgärd i Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Konfigurera sidfot för avanmälan i Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Lås försäljningsmall](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Publish an Email to Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Publicera ett e-postmeddelande till Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Skicka ett testmeddelande](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Språkstöd {#language-support}
                + [Förbered Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1771,7 +1772,7 @@ ht-degree: 0%
             + [Visade webbsidor, aktivitetsrapport för webbsida](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-postinsikter {#email-insights}
          + [E-postinsikter - översikt](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [Anpassade Dimensioner för e-postinsikter](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [Anpassade dimensioner för e-postinsikter](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [Översikt över analys av e-postinformation](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [Vanliga frågor om e-postinsikter](product-docs/reporting/email-insights/email-insights-faq.md)
          + [Snabbdiagram för e-postinsikter](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1889,7 +1890,7 @@ ht-degree: 0%
             + [Skapa en hierarki](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Kontolistor](product-docs/target-account-management/target/account-lists.md)
          + [Smarta kontouppsättningar](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Skapa en kontomatchad målgrupp på LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+         + [Skapa en kontomatchad publik på LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + Aktivera {#engage}
          + [Kontofilter](product-docs/target-account-management/engage/account-filters.md)
          + [Kontoutlösare](product-docs/target-account-management/engage/account-triggers.md)
@@ -1898,7 +1899,7 @@ ht-degree: 0%
          + [Inställningar för TAM-rapport](product-docs/target-account-management/measure/tam-report-setup.md)
          + [TAM-försäljningsrapport](product-docs/target-account-management/measure/tam-sales-report.md)
          + [Kontolisteinsikter](product-docs/target-account-management/measure/account-list-insights.md)
-         + [Dimension för namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Dimension med namngivet konto i RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Insikter om namngivna konton](product-docs/target-account-management/measure/named-account-insights.md)
          + [Använda persona](product-docs/target-account-management/using-personas.md)
       + Kontoprofilering {#account-profiling}
@@ -1955,7 +1956,7 @@ ht-degree: 0%
          + [Visa segment från en viss etikett](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Webbsegment](product-docs/web-personalization/using-web-segments/web-segments.md)
       + Återmarknadsföring av webbplats {#website-retargeting}
-         + [Personaliserad marknadsföring i Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Personaliserad marknadsföring på Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Personaliserad marknadsföring i Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Återannonsering med Web Personalization Data](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Arbeta med webbkampanjer {#working-with-web-campaigns}
@@ -1984,7 +1985,7 @@ ht-degree: 0%
 + Versionsinformation {#release-notes}
    + [Versionsschema](release-notes/release-schedule.md)
    + [Aktuell version](release-notes/current.md)
-   + [Dynamic Chat](release-notes/dynamic-chat.md)
+   + [Dynamic Chat Release](release-notes/dynamic-chat.md)
    + Tidigare versioner {#previous-releases}
       + 2024 {#2024}
          + [Versionsinformation: 24 januari](release-notes/previous-releases/2024/release-notes-jan-24.md)
