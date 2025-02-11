@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,11 @@ Det finns två sätt att öppna Adobe Express Editor.
 
    >[!NOTE]
    >
-   >* Om du vill visa resurserna efter arbetsyta och mapp öppnar du strukturen genom att klicka på ikonen **Visa mappar** längst upp till vänster.
+   >* Om du vill visa resurserna efter arbetsyta och mapp öppnar du strukturen genom att klicka på ikonen **[!UICONTROL Show Folders]** längst upp till vänster.
    >
    >* Om du vill sortera tabellen efter någon av kolumnerna klickar du på kolumnrubriken. Pilen i rubrikraden anger den aktuella sorteringskolumnen och -ordningen.
 
-1. Klicka på **Redigera i Adobe Express** på fliken _Detaljer_ .
+1. Klicka på **[!UICONTROL Edit in Adobe Express]** på fliken _Detaljer_ i bilden.
 
    SCREENSHOT 3a
 
@@ -64,7 +64,7 @@ Det finns två sätt att öppna Adobe Express Editor.
 
    >[!NOTE]
    >
-   >* Om du vill visa resurserna efter arbetsyta och mapp öppnar du strukturen genom att klicka på ikonen **Visa mappar** längst upp till vänster.
+   >* Om du vill visa resurserna efter arbetsyta och mapp öppnar du strukturen genom att klicka på ikonen **[!UICONTROL Show Folders]** längst upp till vänster.
    >
    >* Om du vill sortera tabellen efter någon av kolumnerna klickar du på kolumnrubriken. Pilen i rubrikraden anger den aktuella sorteringskolumnen och -ordningen.
 
@@ -90,7 +90,7 @@ Om du har en Enterprise-licens för Adobe Express har du tillgång till den full
 >
 >Den köpta licensen måste vara under samma IMS-organisation som din Marketo Engage-prenumeration för att få tillgång till alla redigeringsmöjligheter i Adobe Express. Varje enskild användare måste dessutom ha en licens i Adobe Express. Användare [utan licens](#users-without-an-enterprise-license) har bara åtkomst till snabbåtgärderna i Adobe Express.
 
-## Användare utan Enterprise License {#users-without-an-enterprise-license}
+### Användare utan Enterprise License {#users-without-an-enterprise-license}
 
 För dem som saknar Enterprise-licens har du fortfarande tillgång till flera snabbredigeringsfunktioner. De här funktionerna är:
 
@@ -103,9 +103,11 @@ Funktionerna är tillgängliga längst upp till vänster på bildsidan.
 
 SCREENSHOT
 
-### Ändra bildstorlek {#resize-image}
+#### Ändra bildstorlek {#resize-image}
 
-Gör önskade ändringar och klicka på **Använd** när du är klar.
+1. Klicka på **Ändra storlek på bild**.
+
+1. Gör önskade ändringar och klicka på **Använd** när du är klar.
 
 SCREENSHOT
 
@@ -124,22 +126,42 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Zooma och beskära</b></td>
-    <td>Klicka på Zooma och Beskär för att zooma in i specifika delar av bilden.</td>
+    <td>Klicka på <b>Zooma och beskär</b> om du vill zooma in på specifika delar av bilden.</td>
   </tr>
 </tbody>
 </table>
 
+#### Ta bort bakgrund {#remove-background}
 
+1. Klicka på **Ta bort bakgrund**.
 
-### Ta bort bakgrund {#remove-background}
+1. Adobe Express visar bilden utan bakgrund. Klicka på **Använd**.
 
-text
+PIC
 
-### Beskär bild {#crop-image}
+>[!TIP]
+>
+>Om du vill återställa bakgrunden markerar du bilden och väljer **Ta bort bakgrund** igen.
 
-Text
+#### Beskär bild {#crop-image}
 
-### Konvertera till PNG/JPEG {#convert-to-png-jpeg}
+1. Klicka på Beskär bild.
+
+1. Dra hörnen på bilden för att skapa den beskärning du vill använda.
+
+SCREENSHOT
+
+1. Klicka på **Använd** när du är klar.
+
+#### Konvertera till PNG/JPEG {#convert-to-png-jpeg}
+
+Konvertera en PNG-fil till en JPEG eller en JPEG till en PNG-fil.
+
+1. Klicka på **Konvertera till PNG/JPEG**.
+
+1. Klicka på **Använd**.
+
+BESKÄR STUFF NEDAN
 
 Klicka på Beskär bild på sidan.
 
@@ -151,21 +173,10 @@ Du kan göra ytterligare uppdateringar med ett annat alternativ på den vänstra
 
 Klicka på Spara för att slutföra åtgärden.
 
-Åtkomst till redigeraren från sidan Bild och filer
-På listsidan markerar du den bild som du vill redigera och klickar på åtgärdsknappen för bild och filer på sidan.
+## Spara ditt arbete {#save-your-work}
 
-Klicka på Redigera med Adobe Express
+När du är klar med alla redigeringar klickar du på Spara för att spara ditt arbete.
 
-Åtkomst till redigeraren i e-postens Designer
+SCREENSHOT
 
-I nya Email Designer väljer du en bild som du vill redigera.
-
-Ett alternativ för att redigera med Adobe Express visas. Klicka på knappen för att fortsätta.
-
-Obs! Den här åtgärden är tillgänglig för bilder som ursprungligen kommer från Marketo Design Studio-databasen.
-
-Om bilden används visas en varningsdialogruta som informerar dig om att eventuella ändringar som du gör påverkar innehållet. Klicka på Fortsätt för att fortsätta till Adobe Express Editor.
-
-Slutför redigeringen på Adobe Express
-
-Klicka på Spara för att slutföra åtgärden.  Den redigerade bilden sparas i samma mapp som originalbilden och uppdateras även på arbetsytan för e-postredigering.
+Den redigerade bilden sparas i samma mapp som originalbilden.
