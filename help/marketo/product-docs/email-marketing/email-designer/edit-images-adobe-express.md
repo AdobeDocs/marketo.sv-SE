@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,9 @@ Det finns två sätt att öppna Adobe Express Editor.
 
    ![Markera bilder och filer till vänster i Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Markera bilden som du vill redigera (eller skapa en ny).
+1. Markera den bild som du vill redigera.
 
-   SCREENSHOT 2a
+   ![Klicka på bildens namn](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 1. Klicka på **[!UICONTROL Edit in Adobe Express]** på fliken _Detaljer_ i bilden.
 
-   SCREENSHOT 3a
+   ![Klicka på knappen Redigera i Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Det finns två sätt att öppna Adobe Express Editor.
    >
    >* Om du vill sortera tabellen efter någon av kolumnerna klickar du på kolumnrubriken. Pilen i rubrikraden anger den aktuella sorteringskolumnen och -ordningen.
 
-1. Markera kryssrutan bredvid bilden som du vill redigera.
+1. Markera kryssrutan bredvid bilden som du vill redigera. Välj **[!UICONTROL Edit in Adobe Express]** i listrutan **[!UICONTROL Image and file actions]**.
 
-   SCREENSHOT 2b
-
-1. Välj **[!UICONTROL Edit in Adobe Express]** i listrutan **[!UICONTROL Image and file actions]**.
+   ![Markera kryssrutan bredvid bildnamnet och använd listrutan Bilder och filåtgärder](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ För dem som saknar Enterprise-licens har du fortfarande tillgång till flera sn
 * [Beskär bild](#crop-image)
 * [Konvertera till PNG/JPEG](#convert-to-png-jpeg)
 
-Funktionerna är tillgängliga längst upp till vänster på bildsidan.
+Funktionerna är tillgängliga till vänster på bildsidan.
 
-SCREENSHOT
+![Bildsida med redigeringsalternativ för Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Ändra bildstorlek {#resize-image}
 
@@ -109,24 +107,24 @@ SCREENSHOT
 
 1. Gör önskade ändringar och klicka på **Använd** när du är klar.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Proportioner</b></td>
+    <td style="width:25%"><b>Proportioner</b></td>
     <td>I listrutan <b>Proportioner</b> väljer du <b>Standard</b> till TOM eller <b>Anpassad</b> om du vill ange en egen bredd/höjd.</td>
   </tr>
   <tr>
-    <td><b>Bredd och höjd</b></td>
+    <td style="width:25%"><b>Bredd och höjd</b></td>
     <td>Som standard är proportionerna låsta och bildens proportioner ändras inte när du ändrar storleken. Om du vill kan du välja låsknappen för att låsa upp proportionerna.</td>
   </tr>
   <tr>
-    <td><b>Återställ</b></td>
+    <td style="width:25%"><b>Återställ</b></td>
     <td>Klicka på <b>Återställ</b> om du vill ta bort ändringar som gjorts i bilden och återställa den till det ursprungliga läget.</td>
   </tr>
   <tr>
-    <td><b>Zooma och beskära</b></td>
-    <td>Klicka på <b>Zooma och beskär</b> om du vill zooma in på specifika delar av bilden.</td>
+    <td style="width:25%"><b>Zooma och beskära</b></td>
+    <td>Klicka på <b>Zooma och beskär</b> om du vill zooma in på specifika delar av bilden. Om du klickar på <b>Använd</b> efter att du har zoomat beskärs bilden till det som för närvarande visas.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ SCREENSHOT
 
 1. Klicka på **Ta bort bakgrund**.
 
-1. Adobe Express visar bilden utan bakgrund. Klicka på **Använd**.
+1. Adobe Express visar bilden utan bakgrund. Om det passar dina behov klickar du på **Använd**.
 
-PIC
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### Beskär bild {#crop-image}
 
-1. Klicka på Beskär bild.
+1. Klicka på **[!UICONTROL Crop Image]**.
 
 1. Dra hörnen på bilden för att skapa den beskärning du vill använda.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Klicka på **Använd** när du är klar.
+1. Klicka på **[!UICONTROL Apply]** när du är klar.
 
 #### Konvertera till PNG/JPEG {#convert-to-png-jpeg}
 
-Konvertera en PNG-fil till en JPEG eller en JPEG till en PNG-fil.
+Konvertera en PNG-fil till en JPEG-fil eller en JPEG-fil till en PNG-fil.
 
-1. Klicka på **Konvertera till PNG/JPEG**.
+1. Klicka på **[!UICONTROL Convert to PNG/JPEG]**.
 
-1. Klicka på **Använd**.
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Klicka på **[!UICONTROL Apply]**.
 
 —BESKÄRNINGSSTUFF NEDAN—
 
