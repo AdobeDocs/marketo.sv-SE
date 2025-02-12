@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,10 @@ Adobe Marketo Engage kan integreras med Adobe Express och ger tillgång till en 
 
 ## Öppna Adobe Express Editor {#access-the-adobe-express-editor}
 
-Det finns två sätt att öppna Adobe Express Editor.
+Det finns två sätt att öppna Adobe Express-redigeraren:
+
+* Klicka på bildens namn
+* _Bild- och filåtgärder_-listruta
 
 >[!BEGINTABS]
 
@@ -82,13 +85,13 @@ Det finns två sätt att öppna Adobe Express Editor.
 
 ### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
 
 >[!IMPORTANT]
 >
 >Den köpta licensen måste vara under samma IMS-organisation som din Marketo Engage-prenumeration för att få tillgång till alla redigeringsmöjligheter i Adobe Express. Varje enskild användare måste dessutom ha en licens i Adobe Express. Användare [utan licens](#users-without-an-enterprise-license) har bara åtkomst till snabbåtgärderna i Adobe Express.
 
-### Användare utan Enterprise License {#users-without-an-enterprise-license}
+### Användare utan Enterprise-licens {#users-without-an-enterprise-license}
 
 För dem som saknar Enterprise-licens har du fortfarande tillgång till flera snabbredigeringsfunktioner. De här funktionerna är:
 
@@ -107,12 +110,12 @@ Funktionerna är tillgängliga till vänster på bildsidan.
 
 1. Gör önskade ändringar och klicka på **Använd** när du är klar.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Ändra storlek på bildfönstret så att alla tillgängliga alternativ visas](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Proportioner</b></td>
-    <td>I listrutan <b>Proportioner</b> väljer du <b>Standard</b> till TOM eller <b>Anpassad</b> om du vill ange en egen bredd/höjd.</td>
+    <td>I listrutan <b>Proportioner</b> väljer du <b>Standard</b> om du vill välja bland förberäknade vanliga fotostorlekar eller <b>Anpassad</b> om du vill ange en egen bredd/höjd. Du kan också välja standardstorlek för en viss plattform för sociala medier (Pinterest, Snapchat osv.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Bredd och höjd</b></td>
@@ -135,11 +138,11 @@ Funktionerna är tillgängliga till vänster på bildsidan.
 
 1. Adobe Express visar bilden utan bakgrund. Om det passar dina behov klickar du på **Använd**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Bild av endast hund med bakgrunden borttagen](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Om du vill återställa bakgrunden markerar du bilden och väljer **Ta bort bakgrund** igen.
+>Om du inte är nöjd med resultatet klickar du bara på **X** för att stänga fönstret.
 
 #### Beskär bild {#crop-image}
 
@@ -147,7 +150,7 @@ Funktionerna är tillgängliga till vänster på bildsidan.
 
 1. Dra hörnen på bilden för att skapa den beskärning du vill använda.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Dra i fotohörn för att beskära bilden](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Klicka på **[!UICONTROL Apply]** när du är klar.
 
@@ -157,26 +160,14 @@ Konvertera en PNG-fil till en JPEG-fil eller en JPEG-fil till en PNG-fil.
 
 1. Klicka på **[!UICONTROL Convert to PNG/JPEG]**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Konvertera till PNG-/JPEG-fönster](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Klicka på **[!UICONTROL Apply]**.
 
-—BESKÄRNINGSSTUFF NEDAN—
-
-Klicka på Beskär bild på sidan.
-
-Utför beskärning på bilden i Adobe Express Editor och klicka på Spara.
-
-Obs! Den här åtgärden skriver inte över bilden, men visar bilden för ytterligare redigeringar.
-
-Du kan göra ytterligare uppdateringar med ett annat alternativ på den vänstra panelen, klicka på Spara för att skriva över den befintliga bilden eller Spara som ny resurs för att spara som en ny bild.
-
-Klicka på Spara för att slutföra åtgärden.
-
 ## Spara ditt arbete {#save-your-work}
 
-När du är klar med alla redigeringar klickar du på Spara för att spara ditt arbete.
+När du är klar med alla redigeringar klickar du på **Spara** för att spara ditt arbete.
 
-SCREENSHOT
+![Spara-knapp](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 Den redigerade bilden sparas i samma mapp som originalbilden.

@@ -4,7 +4,7 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Visuella fragment är fördefinierade visuella block som byggts (med den visuell
 
 ## Få åtkomst till och hantera fragment {#access-and-manage-fragments}
 
-Gå till **Design Studio** i Marketo Engage om du vill komma åt visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
+Gå till **Design Studio** i Marketo Engage för att få åtkomst till visuella fragment. Klicka på **[!UICONTROL Fragments (New)]** i trädet till vänster.
 
 ![Åtkomst till fragment](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
@@ -53,17 +53,17 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
 <table>
 <tbody>
   <tr>
-    <td><b>Utkast</b></td>
+    <td style="width:25%"><b>Utkast</b></td>
     <td>När du skapar ett fragment är det i utkaststatus. Det förblir ett utkast tills du publicerar det för användning i en e-postmall eller e-postmall.
     <p>Tillgängliga åtgärder:
     <li>Redigera all information</li>
     <li>Redigera i visuell designer</li>
-    <li>Publish</li>
+    <li>Publicera</li>
     <li>Duplicera</li>
     <li>Ta bort</li>
   </td>
   <tr>
-    <td><b>Publicerad</b></td>
+    <td style="width:25%"><b>Publicerad</b></td>
     <td>När du publicerar ett fragment blir det tillgängligt för användning i en e-postmall eller e-postmall. Publicerat fragmentinnehåll kan inte ändras i den visuella designern.
     <p>Tillgängliga åtgärder:
     <li>Redigera beskrivning</li>
@@ -74,13 +74,13 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
     </td>
   </tr>
   <tr>
-    <td><b>Publicerat med utkast</b></td>
+    <td style="width:25%"><b>Publicerat med utkast</b></td>
     <td>När du skapar ett utkast från ett publicerat fragment förblir den publicerade versionen tillgänglig för användning i en e-postmall eller e-postmall, och utkastinnehållet kan ändras i den visuella designern. Om du publicerar utkastet till version ersätter det den aktuella publicerade versionen och innehållet uppdateras i <i>alla</i> e-postmallarna och e-postmallarna som det används i. 
     <p>Tillgängliga åtgärder:
     <li>Redigera beskrivning</li>
     <li>Lägg till i ett e-postmeddelande eller en mall</li>
     <li>Redigera utkast i visuell designer</li>
-    <li>Publish draft version</li>
+    <li>Publicera utkast</li>
     <li>Duplicera</li>
     <li>Radera (om den inte används)</li>
     </td>
