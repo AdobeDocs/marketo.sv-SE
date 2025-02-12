@@ -2,7 +2,8 @@
 description: Interaktiva webbinarier i Marketo Sales Insight - Marketo Docs - produktdokumentation
 title: Interaktiva webbinarier i Marketo Sales Insight
 feature: Interactive Webinars
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
+source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +18,7 @@ Interactive Webinars in Marketo Sales Insight gör dina webbinarier tillgänglig
 >
 >Den här funktionen stöds bara för dem som har köpt tillägget [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html).
 
-När aktiviteter registreras i Marketo Engage (efter att webbinariet har slutförts i Adobe Connect) synkroniseras de i realtid till Salesforce via MSI-pluginen.
+När aktiviteterna registreras i Marketo Engage (när webbinariet har slutförts i Adobe Connect) synkroniseras de i realtid till Salesforce via MSI-pluginen.
 
 Alla aktiviteter som gjorts tillgängliga i Marketo Engage synkroniseras. Dessa verksamheter är följande:
 
@@ -31,8 +32,8 @@ Alla relevanta attribut för dessa aktiviteter görs också tillgängliga för s
 
 I Insights-delen innehåller diagrammet Leadtidslinje ett annat simfält för webbinarier där aktiviteterna som synkroniserats de senaste 90 dagarna för varje vecka markeras. När du väljer en viss vecka visas aktiviteterna per dag i ett separat avsnitt. Du kan expandera enskilda aktiviteter för att se deras information.
 
-![](assets/msi-iw-1.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-1.png){width="800" zoomable="yes"}
 
 På fliken för separata webbinarier listas alla aktiviteter (och deras datum) också i ett tabellformat.
 
-![](assets/msi-iw-2.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-2.png){width="800" zoomable="yes"}
