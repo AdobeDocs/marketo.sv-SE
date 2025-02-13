@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Redigera bilder med Adobe Express
 description: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredigerare med Adobe Express.
 level: Beginner, Intermediate
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 0%

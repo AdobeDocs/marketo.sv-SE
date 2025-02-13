@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Parametriserade fragment
 description: Lär dig hur du anpassar fragment genom att göra vissa av deras fält redigerbara.
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Genom att utnyttja parametriserade fragment kan ni effektivt hantera och persona
 
 Både visuella fragment och uttrycksfragment kan markeras som anpassningsbara. Detaljerade instruktioner om hur du fortsätter med varje fragmenttyp finns i avsnitten nedan.
 
-SCREENSHOT
+SCREENSHOT - GIF?
 
 —STOPPAD REDIGERING HÄR—
 
@@ -45,17 +45,17 @@ Gör så här för att göra delar av ett visuellt fragment redigerbara:
 
    I exemplet nedan tillåter vi redigering av URL:en för knappen Klicka här.
 
-SCREENSHOT
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Klicka på **Översikt** om du vill kontrollera alla redigerbara fält och deras standardvärden.
 
    I det här exemplet visas knappens URL-fält med det standardvärde som definierats i komponenten. Det här värdet kan anpassas av användare efter att de har lagt till fragmentet i innehållet.
 
-SCREENSHOT
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. När du är klar sparar du ändringarna för att uppdatera fragmentet.
 
-1. När du har lagt till fragmentet i ett e-postmeddelande kan användarna anpassa alla redigerbara fält som är konfigurerade i fragmentet. [Lär dig hur du anpassar redigerbara fält i ett visuellt fragment](../email/use-visual-fragments.md#customize-fields)
+1. När du har lagt till fragmentet i ett e-postmeddelande kan användarna anpassa alla redigerbara fält som är konfigurerade i fragmentet.
 
 ## Lägga till redigerbara fält i HTML-komponenter och uttrycksfragment {#expression}
 
@@ -75,6 +75,6 @@ Elementen nedan kan bli redigerbara fält i en HTML-komponent:
 
 I koden nedan kan till exempel varje element som är markerat med rött bli en egenskap:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
