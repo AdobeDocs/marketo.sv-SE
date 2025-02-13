@@ -1,12 +1,12 @@
 ---
 title: Fragment
-description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
+description: Lär dig hur du skapar/använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
 workflow-type: tm+mt
-source-wordcount: '1837'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,8 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
 <table>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Utkast</b></td>
-    <td>När du skapar ett fragment är det i utkaststatus. Det förblir ett utkast tills du publicerar det för användning i en e-postmall eller e-postmall.
+    <td width="25%"><b>Utkast</b></td>
+    <td width="70%">När du skapar ett fragment är det i utkaststatus. Det förblir ett utkast tills du publicerar det för användning i en e-postmall eller e-postmall.
     <p>Tillgängliga åtgärder:
     <li>Redigera all information</li>
     <li>Redigera i visuell designer</li>
@@ -63,7 +63,7 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
     <li>Ta bort</li>
   </td>
   <tr>
-    <td style="width:25%"><b>Publicerad</b></td>
+    <td><b>Publicerad</b></td>
     <td>När du publicerar ett fragment blir det tillgängligt för användning i en e-postmall eller e-postmall. Publicerat fragmentinnehåll kan inte ändras i den visuella designern.
     <p>Tillgängliga åtgärder:
     <li>Redigera beskrivning</li>
@@ -74,7 +74,7 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
     </td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Publicerat med utkast</b></td>
+    <td><b>Publicerat med utkast</b></td>
     <td>När du skapar ett utkast från ett publicerat fragment förblir den publicerade versionen tillgänglig för användning i en e-postmall eller e-postmall, och utkastinnehållet kan ändras i den visuella designern. Om du publicerar utkastet till version ersätter det den aktuella publicerade versionen och innehållet uppdateras i <i>alla</i> e-postmallarna och e-postmallarna som det används i. 
     <p>Tillgängliga åtgärder:
     <li>Redigera beskrivning</li>
