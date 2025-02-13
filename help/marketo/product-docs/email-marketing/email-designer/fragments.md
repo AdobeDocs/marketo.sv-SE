@@ -4,9 +4,9 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1837'
 ht-degree: 0%
 
 ---
@@ -114,37 +114,11 @@ Fragmentstatusen avgör om den är tillgänglig för användning i en e-post- el
 
    Den visuella designern öppnas med en tom arbetsyta.
 
-1. Använd verktygen för innehållsdesign för att skapa det visuella fragmentinnehållet:
-
-   * [Lägga till struktur och innehåll](#add-structure-and-content)
-   * [Lägg till Assets](#add-assets)
-   * [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
-   * [Anpassa innehåll](#personalize-content)
-   * [Redigera länkad URL-spårning](#edit-linked-url-tracking)
+1. Använd verktygen för [innehållsdesign](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} för att skapa det visuella fragmentinnehållet.
 
 1. Klicka på **[!UICONTROL Save]** när du vill spara utkastet.
 
 1. När du är redo att göra fragmentet tillgängligt för användning i en e-post- eller e-postmall klickar du på **[!UICONTROL Publish]**.
-
-### Lägga till struktur och innehåll {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Lägga till resurser
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Navigera mellan lager, inställningar och format
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Anpassa innehåll
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Redigera länkad URL-spårning
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## Visa fragmentinformation {#view-fragment-details}
 
@@ -205,19 +179,11 @@ Du kan ta bort ett fragment på något av följande sätt:
 
    ![Information om rament med utkaststatus](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Om du vill ändra innehållet i den visuella designern klickar du på **[!UICONTROL Edit fragment]**.
+1. Om du vill ändra innehållet i den visuella designern klickar du på **[!UICONTROL Edit fragment]**. Klicka på **Spara** när du är klar.
 
-   Använd de visuella designverktygen efter behov:
+1. Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
 
-   * [Lägga till struktur och innehåll](#add-structure-and-content)
-   * [Lägg till Assets](#add-assets)
-   * [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
-   * [Anpassa innehåll](#personalize-content)
-   * [Redigera länkad URL-spårning](#edit-linked-url-tracking)
-
-   Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
-
-1. När fragmentet uppfyller dina villkor och du vill göra det tillgängligt för användning i en e-postmall eller e-postmall klickar du på **[!UICONTROL Publish]**.
+1. När du vill göra fragmentet tillgängligt för användning i en e-post- eller e-postmall klickar du på **[!UICONTROL Publish]**.
 
 >[!TAB Publicerad]
 
@@ -235,19 +201,13 @@ Du kan ta bort ett fragment på något av följande sätt:
 
    ![Skapa dialogruta för utkastversion](assets/fragments-create-draft-version.png){width="300"}
 
-   Använd de visuella designverktygen efter behov:
+1. Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
 
-   * [Lägga till struktur och innehåll](#add-structure-and-content)
-   * [Lägg till Assets](#add-assets)
-   * [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
-   * [Anpassa innehåll](#personalize-content)
-   * [Redigera länkad URL-spårning](#edit-linked-url-tracking)
+1. När du vill göra fragmentet tillgängligt för användning i en e-post- eller e-postmall klickar du på **[!UICONTROL Publish]**.
 
-   Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
-
-1. När utkastet uppfyller dina villkor och du vill göra ändringarna tillgängliga för användning i en e-postmall eller e-postmall klickar du på **[!UICONTROL Publish]**.
-
-   När du publicerar utkastet ersätts den aktuella publicerade versionen och innehållet uppdateras i e-postmallarna och i e-postmallarna där det redan används.
+>[!NOTE]
+>
+>När du publicerar utkastet ersätts den aktuella publicerade versionen och innehållet uppdateras i e-postmallarna och i e-postmallarna där det redan används.
 
 >[!TAB Publicerat med utkast]
 
@@ -259,23 +219,19 @@ Det finns två sätt att öppna utkastet för redigering från listsidan _[!UICO
 
 * Klicka på fragmentnamnet för att öppna det. Klicka sedan på **[!UICONTROL Open draft version]** överst till höger.
 
-  En förhandsgranskning av det visuella innehållet för utkastversionen visas, med fragmentinformationen till höger.
+En förhandsgranskning av det visuella innehållet för utkastversionen visas, med fragmentinformationen till höger.
 
 Så här uppdaterar du innehållet:
 
-1. Klicka på **[!UICONTROL Edit fragment]** överst till höger. Använd de visuella designverktygen efter behov:
+1. Klicka på **[!UICONTROL Edit fragment]** överst till höger. Klicka på **Spara** när du är klar.
 
-   * [Lägga till struktur och innehåll](#add-structure-and-content)
-   * [Lägg till Assets](#add-assets)
-   * [Navigera mellan lager, inställningar och format](#navigate-the-layers-settings-and-styles)
-   * [Anpassa innehåll](#personalize-content)
-   * [Redigera länkad URL-spårning](#edit-linked-url-tracking)
+1. Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
 
-   Klicka på **[!UICONTROL Save]** eller **[!UICONTROL Save & close]** för att återgå till fragmentinformationen.
+1. När du vill göra fragmentet tillgängligt för användning i en e-post- eller e-postmall klickar du på **[!UICONTROL Publish]**.
 
-1. När utkastet uppfyller dina villkor och du vill göra ändringarna tillgängliga för användning i en e-postmall eller e-postmall klickar du på **[!UICONTROL Publish]**.
-
-   När du publicerar utkastet ersätts den aktuella publicerade versionen och innehållet uppdateras i e-postmallarna och i e-postmallarna där det redan används.
+>[!NOTE]
+>
+>När du publicerar utkastet ersätts den aktuella publicerade versionen och innehållet uppdateras i e-postmallarna och i e-postmallarna där det redan används.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Du kan duplicera ett fragment på något av följande sätt:
 
 ![Duplicera fragmentet](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **[!UICONTROL Duplicate]** för att slutföra åtgärden.
+Ange ett unikt namn och en valfri beskrivning i dialogrutan. Klicka på **[!UICONTROL Duplicate]**.
 
 ![Ange ett namn och en beskrivning för det duplicerade fragmentet](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ Det duplicerade fragmentet visas sedan i listan _Fragment_.
 
 ## Spara ett nytt fragment från e-post eller mallinnehåll {#save-a-new-fragment-from-email-or-template-content}
 
-När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållredigeraren kan du spara hela eller delar av innehållet som ett fragment så att det är tillgängligt för återanvändning.
+När du skapar/redigerar en e-postmall eller e-postmall i den visuella innehållredigeraren kan du spara hela eller delar av innehållet som ett fragment och återanvända det.
 
 1. Om du vill spara innehåll som ett fragment klickar du på **[!UICONTROL More]** och väljer **[!UICONTROL Save as Fragment]**.
 
@@ -304,13 +260,13 @@ När du skapar/redigerar en e-post- eller e-postmall i den visuella innehållred
 
    Markera flera strukturer genom att hålla ned Skift eller Ctrl.
 
-   Du kan bara markera strukturer som ligger intill varandra och gränssnittet tillåter inte att du markerar element som inte ligger intill varandra.
+   Du kan bara markera strukturer som ligger intill varandra.
 
 1. Markera innehållet och klicka på **[!UICONTROL Create]** överst till höger.
 
 1. Ange ett namn och en valfri beskrivning för fragmentet i dialogrutan och klicka på **[!UICONTROL Create]**.
 
-   Fragmentet visas sedan på listsidan _Fragment_ och kan även användas i e-postmeddelanden och e-postmallar.
+Fragmentet visas sedan på listsidan _Fragment_ och kan användas i e-postmeddelanden och e-postmallar.
 
 ## Lägga till visuella fragment i e-post- eller mallinnehåll {#add-visual-fragments-to-your-email-or-template-content}
 
