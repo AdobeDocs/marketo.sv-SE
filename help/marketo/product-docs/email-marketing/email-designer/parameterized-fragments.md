@@ -8,9 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
+source-git-commit: ec442823dde75f071220208a7e8edd24355d063f
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -22,10 +23,6 @@ När fragment används i en e-postmall eller e-postmall låses de som standard p
 Genom att utnyttja parametriserade fragment kan ni effektivt hantera och personalisera ert innehåll utan att skapa helt nya innehållsblock eller störa arvet från det ursprungliga fragmentet. Detta garanterar att ändringar som görs på fragmentnivån fortfarande sprids, samtidigt som nödvändiga anpassningar kan göras på e-post-/e-postmallnivå.
 
 Både visuella fragment och uttrycksfragment kan markeras som anpassningsbara. Detaljerade instruktioner om hur du fortsätter med varje fragmenttyp finns i avsnitten nedan.
-
-SCREENSHOT - GIF?
-
-—STOPPAD REDIGERING HÄR—
 
 ## Lägga till redigerbara fält i visuella fragment {#visual}
 
@@ -39,7 +36,7 @@ Gör så här för att göra delar av ett visuellt fragment redigerbara:
 
 1. Markera den komponent i fragmentet där du vill konfigurera redigerbara fält.
 
-1. Panelen Komponentegenskaper öppnas till höger. Markera fliken **Redigerbara fält** och växla sedan till alternativet **Aktivera utgåva**.
+1. Panelen Komponentegenskaper öppnas till höger. Välj fliken **[!UICONTROL Editable fields]** och växla sedan till alternativet **[!UICONTROL Enable edition]**.
 
 1. Alla fält som kan redigeras för den valda komponenten visas i rutan. Vilka fält som är tillgängliga för redigering beror på den valda komponenttypen.
 
@@ -47,21 +44,21 @@ Gör så här för att göra delar av ett visuellt fragment redigerbara:
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Klicka på **Översikt** om du vill kontrollera alla redigerbara fält och deras standardvärden.
+1. Klicka på **[!UICONTROL Overview]** om du vill kontrollera alla redigerbara fält och deras standardvärden.
 
    I det här exemplet visas knappens URL-fält med det standardvärde som definierats i komponenten. Det här värdet kan anpassas av användare efter att de har lagt till fragmentet i innehållet.
 
    ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
-1. När du är klar sparar du ändringarna för att uppdatera fragmentet.
+1. Spara ändringarna när du är klar.
 
-1. När du har lagt till fragmentet i ett e-postmeddelande kan användarna anpassa alla redigerbara fält som är konfigurerade i fragmentet.
+När du har lagt till fragmentet i ett e-postmeddelande kan användarna anpassa alla redigerbara fält som är konfigurerade i fragmentet.
 
 ## Lägga till redigerbara fält i HTML-komponenter och uttrycksfragment {#expression}
 
-Om du vill göra delar av en HTML-komponent eller ett uttrycksfragment redigerbara måste du använda en specifik syntax i uttrycksredigeraren. Detta innebär att deklarera en **variabel** med ett standardvärde som användare kan åsidosätta efter att ha lagt till fragmentet i innehållet.
+Om du vill göra delar av en HTML-komponent eller ett uttrycksfragment redigerbara måste du använda en specifik syntax i uttrycksredigeraren. Detta innebär att deklarera en _variabel_ med ett standardvärde som användare kan åsidosätta efter att ha lagt till fragmentet i innehållet.
 
-Anta till exempel att du vill skapa ett fragment som ska läggas till i dina e-postmeddelanden, och tillåta användare att anpassa en viss färg som används på olika platser, till exempel ramar eller knappars bakgrundsfärger. När du skapar fragmentet måste du deklarera en variabel med ett **unikt ID**, till exempel &quot;color&quot;, och anropa den på de önskade platserna i fragmentinnehållet där du vill använda den här färgen. När du lägger till fragmentet i innehållet kan användarna anpassa färgen som används där variabeln refereras.
+Anta till exempel att du vill skapa ett fragment som ska läggas till i dina e-postmeddelanden, och tillåta användare att anpassa en viss färg som används på olika platser, till exempel ramar eller knappars bakgrundsfärger. När du skapar fragmentet måste du deklarera en variabel med ett _unikt ID_ (t.ex. &quot;färg&quot;) och anropa den på de önskade platserna i fragmentinnehållet där du vill använda den här färgen. När du lägger till fragmentet i innehållet kan användarna anpassa färgen som används där variabeln refereras.
 
 För HTML-komponenter kan bara specifika element bli redigerbara fält. Expandera avsnittet nedan om du vill ha mer information.
 
@@ -78,3 +75,7 @@ I koden nedan kan till exempel varje element som är markerat med rött bli en e
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
+
+>[!MORELIKETHIS]
+>
+>[Fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
