@@ -1,16 +1,16 @@
 ---
 description: Analytics - Marketo Docs - produktdokumentation
-title: Analyser
+title: 'Analytics '
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Analyser {#analytics}
+# Analytics  {#analytics}
 
 Rapportering är tillgängligt på dialognivå, kontrollera det övergripande engagemanget med hjälp av de tre instrumentpanelerna nedan.
 
@@ -54,14 +54,22 @@ Visa dialogrutor, konversationsflöden eller alla. Välj en förinställning ell
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Slutförd</b></td>
+    <td style="width:30%"><b>Slutförd</b></td>
     <td>En slutförd händelse inträffar när en besökare kommer till den sista uppmaningen i en konversation <i> eller</i> när en besökare slutför allt innehåll i en konversation.
     <br>En slutförd händelse per besökare, per session.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Inhämtade personer</b></td>
+    <td style="width:30%"><b>Inhämtade personer</b></td>
     <td>Händer när en besökare skickar sin e-postadress.
     <br>Ett förvärv per besökare, per session.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Hastighet</b></td>
+    <td>Antal användare som har svarat (första indata från användaren)/antal utlösare (chatbot visas).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Konverteringsgrad</b></td>
+    <td>Inhämtad av användare (nya e-postmeddelanden har hämtats)/användare engagerad.</td>
   </tr>
 </tbody>
 </table>
