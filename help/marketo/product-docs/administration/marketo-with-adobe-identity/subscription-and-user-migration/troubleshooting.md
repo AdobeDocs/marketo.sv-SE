@@ -5,69 +5,77 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
+source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Felsökningsguide för Adobe IMS {#adobe-ims-troubleshooting-guide}
 
-Under IMS-användarmigreringen skapas en Adobe-användare för varje Marketo Engage-användare som migreras. Ibland skapas den inte (av olika anledningar relateras till användarens post i Active Directory eller problem med e-postadressen). När detta inträffar kommer Marketo Engage-administratören att se orsakerna i användarens migreringsstatusfält på självmigreringskonsolen. Se hur du löser olika problem med att skapa Adobe-användare nedan.
+Under IMS-användarmigreringen skapas en Adobe-användare för varje Marketo Engage-användare som migreras. Ibland skapas den inte (av olika anledningar relateras till användarens post i Active Directory eller problem med e-postadressen). När detta inträffar ser Marketo Engage-administratören orsaken i användarens migreringsstatusfält på självmigreringskonsolen.
 
 ## Felmeddelanden {#error-messages}
 
-* <a href="#not-in-directory">Finns inte i katalogen</a>
-* <a href="#gmail-invalid-character">Ogiltigt Gmail-tecken</a>
-* <a href="#inactive-user">Inaktiv användare</a>
-* <a href="#not-in-domain">Inte i domänen</a>
-* <a href="#create-failure">Skapa fel</a>
-* <a href="#type2e-user-failure">Type2e-användarfel</a>
+Använd delen &quot;På den här sidan&quot; till höger för att gå direkt till ett specifikt fel och lära dig hur du löser det.
 
-<table>
-<thead>
-  <tr>
-    <th style="width:20%">Felmeddelande</th>
-    <th style="width:40%">Rotorsak</th>
-    <th style="width:40%">Lösningar</th>
-  </tr>
-  </thead>
-<tbody>
-  <tr>
-    <td><i><a id="not-in-directory">Finns inte i katalogen</a></i></td>
-    <td>Användaren finns inte i Active Directory (AD). För alla organ med enkel inloggning som har AD-synkronisering aktiverat tillåts bara att användare skapas via identitetsleverantören (IdP). Därför kunde användaren inte läggas till via Admin Console under användarmigreringen.</td>
-    <td>Migrera - användaren måste läggas till i Active Directory med rätt behörigheter. Marketo-administratör för att köra användarmigreringen för den här användaren igen från migreringskonsolen. 
-    <br>Inte migrera - Marketo-administratör hoppar över användaren i migreringskonsolen. Knappen"Slutförd migrering" visas när alla användare räknas som migrering eller hoppande. Klicka på den för att slutföra användarmigreringsprocessen.</td>
-  </tr>
-  <tr>
-    <td><i><a id="gmail-invalid-character">Ogiltigt Gmail-tecken</a></i></td>
-    <td>Enligt Adobe säkerhetspolicy, '.' och plustecknet (+) tillåts inte i en e-postadress endast i Gmail-domänen  
-    <br>Båda specialtecknen tillåts i e-postadresser som inte är Gmail-domäner. </td>
-    <td>Migrera - E-postadressen måste uppdateras i Marketo Engage för att uppfylla Adobe säkerhetspolicy. Marketo-administratör för att köra användarmigreringen för den här användaren på nytt från migreringskonsolen.<br>Inte migrera - Marketo-administratör hoppar över användaren i migreringskonsolen. Knappen"Slutförd migrering" visas när alla användare räknas som migrering eller hoppande. Klicka på den för att slutföra användarmigreringsprocessen.</td>
-  </tr>
-  <tr>
-    <td><i><a id="inactive-user">Inaktiv användare</a></i></td>
-    <td>AD Sync är aktiverat och användarens federerade konto finns men har inaktiv/inaktiverad status.</td>
-    <td>Migrera - Användarens status och korrekta behörigheter måste återställas. Marketo-administratör för att köra användarmigreringen för den här användaren igen från migreringskonsolen.
-    <br>Inte migrera - Marketo-administratör hoppar över användaren i migreringskonsolen. Knappen"Slutförd migrering" visas när alla användare räknas som migrering eller hoppande. Klicka på den för att slutföra användarmigreringsprocessen.</td>
-  </tr>
-  <tr>
-    <td><i><a id="not-in-domain">Inte i domänen</a></i></td>
-    <td>Domänkontroll är aktiverat i Admin Console, men domänen för användarens e-postadress är inte en av de tillåtna domänerna. 
-    <br>Principer för domänkontroll anges på katalognivå.</td>
-    <td>Migrera - E-postadressen måste uppdateras i Marketo Engage för att vara kompatibel med domänprincipen, eller så kan systemadministratören antingen <a href="https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories"> 
-    flytta domänen till en annan inaktiverad katalog för domäntvingande (DE) </a> eller <a href="https://helpx.adobe.com/enterprise/using/set-up-identity.html">skapa en ny katalog</a> som inte omfattas av DE-principen. Marketo-administratör för att köra användarmigreringen för den här användaren på nytt från migreringskonsolen. <br>Inte migrera - Marketo-administratör hoppar över användaren i migreringskonsolen. Knappen"Slutförd migrering" visas när alla användare räknas som migrering eller hoppande. Klicka på den för att slutföra användarmigreringsprocessen.</td>
-  </tr>
-  <tr>
-    <td><i><a id="create-failure">Skapa fel</a></i></td>
-    <td>Olika orsaker i backend-objektet.</td>
-    <td>Vänligen skicka in ett supportärende.</td>
-  </tr>
-  <tr>
-    <td><i><a id="type2e-user-failure">Type2e-användarfel</a></i></td>
-    <td>Olika orsaker i backend-objektet.</td>
-    <td>Vänligen skicka in ett supportärende.</td>
-  </tr>
-</tbody>
-</table>
+### Finns inte i katalogen {#not-in-directory}
+
+_Rotorsak_: Användaren finns inte i Active Directory (AD). För alla organ med enkel inloggning som har AD-synkronisering aktiverad, är det endast tillåtet att skapa användare via identitetsleverantören (IdP). Användaren kunde därför inte läggas till via Admin Console under användarmigreringen.
+
+_Lösning_:
+
+Före migrering - Marketo Enage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+
+Efter migrering - Användaren måste läggas till i Active Directory med rätt behörigheter. Marketo Engage-administratör kör sedan om användarmigreringen för den här användaren från migreringskonsolen.
+
+### Ogiltigt Gmail-tecken {#gmail-invalid-character}
+
+_Rotorsak_: Enligt Adobe säkerhetsprincip tillåts inte tecknen `.` och `+` i en Gmail-e-postadress. Båda tecknen tillåts endast i e-postadresser som inte är Gmail.
+
+_Lösning_:
+
+Före migrering - Marketo Enage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+
+Efter migrering - E-postadressen måste uppdateras i Marketo Engage för att uppfylla Adobe säkerhetspolicy. Marketo-administratör för att köra användarmigreringen för den här användaren igen från migreringskonsolen.
+
+### Inaktiv användare {#inactive-user}
+
+_Rotorsak_: AD Sync är aktiverat och användarens federerade konto finns men har inaktiv/inaktiverad status.
+
+_Lösning_:
+
+Före migrering - Marketo Enage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+
+Eftermigrering - Användarens status och korrekta behörigheter måste återställas. Marketo Engage-administratör kör sedan om användarmigreringen för den här användaren från migreringskonsolen.
+
+### Inte i domänen {#not-in-domain}
+
+_Rotorsak_: Domänkontroll har aktiverats i Admin Console, men domänen för användarens e-postadress är inte en av de tillåtna domänerna.
+
+_Lösning_:
+
+Före migrering - Marketo Enage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+
+Efter migrering - E-postadressen måste uppdateras i Marketo Engage för att följa de domänbaserade reglerna (DE). Alternativt kan systemadministratören antingen [flytta domänen](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} till en annan inaktiverad katalog för Domain Enforcement (DE) eller [skapa en ny katalog](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} som inte omfattas av DE-principen. Marketo Engage-administratör kör sedan om användarmigreringen för den här användaren från migreringskonsolen.
+
+### Skapa fel {#create-failure}
+
+_Rotorsak_: Det här felet kan orsakas av olika orsaker i serverdelen.
+
+_Lösning_:
+
+Före migrering - Skicka ett supportärende för de [som inte har migrerats än](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+Efter migrering - skicka ett supportärende för de [som redan har migrerats](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}.
+
+### Type2e-användarfel {#type2e-user-failure}
+
+_Rotorsak_: Det här felet kan orsakas av olika orsaker i serverdelen.
+
+_Lösning_:
+
+Före migrering - Skicka ett supportärende för de [som inte har migrerats än](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+Efter migrering - skicka ett supportärende för de [som redan har migrerats](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}.
