@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '9420'
 ht-degree: 0%
@@ -1069,7 +1069,7 @@ ht-degree: 0%
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Redigera bilder med Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragment](product-docs/email-marketing/email-designer/fragments.md)
-         + [Parametriserade fragment](product-docs/email-marketing/email-designer/parameterized-fragments.md)
+         + [Anpassningsbara fragment](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Låsning av innehåll](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI-assistenten](product-docs/email-marketing/email-designer/ai-assistant.md)
       + E-postprogram {#email-programs}

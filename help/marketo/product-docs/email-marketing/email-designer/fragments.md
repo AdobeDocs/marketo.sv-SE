@@ -5,9 +5,9 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1837'
+source-wordcount: '1839'
 ht-degree: 0%
 
 ---
@@ -299,3 +299,7 @@ När ett fragment läggs till i en e-postmall eller e-postmall kan dess innehål
 När du markerar fragmentet på redigeringssidan är de här åtgärderna tillgängliga från kontextverktygsfältet och egenskapspanelen till höger.
 
 ![Tillämpa åtgärder på det markerade fragmentet](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[Anpassningsbara fragment](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
