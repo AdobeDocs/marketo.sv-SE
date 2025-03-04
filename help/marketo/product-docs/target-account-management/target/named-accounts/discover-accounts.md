@@ -4,9 +4,9 @@ description: Upptäck konton - Marketo Docs - produktdokumentation
 title: Identifiera konton
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Identifiera potentiella målkonton från CRM.
 
 **Potentiella personer** (I Identifiera CRM-konton och Identifiera Marketo-företag): Visar hur många leads Marketo hittade som eventuellt kan tillhöra ett CRM-konto.
 
-**Anpassat CRM-fält** (endast i Identifiera CRM-konton): Detta hjälper dig att justera din försäljnings- och marknadsföringsorganisation för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) med Marketo TAM visar vi de mappade data som hjälper dig att identifiera dina målkonton.
+**Anpassat CRM-fält** (endast i Identifiera CRM-konton): Detta hjälper dig att justera din försäljnings- och marknadsföringsorganisation för att välja rätt målkonton. När du har [mappat det anpassade CRM-fältet](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) med Marketo TAM visar vi mappade data som hjälper dig att identifiera målkonton.
 
 1. Klicka på listrutan **Nytt** i Namngivna konton och välj **Identifiera CRM-konton**.
 
@@ -76,8 +76,6 @@ Identifiera rätt företag för målinriktning.
    >* Filtrerar ut de flesta Internetleverantörer och offentliga domäner (t.ex. yahoo.com, gmail.com) som företagsnamn
    >
    >* Tar bort CRM-konton. Om du har &quot;Acme&quot; i en post och &quot;Acme Inc&quot; (eller något av följande suffix: Co, Corp, Corporation, GmbH, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), sammanfogar vi dem i TAM som &quot;Acme&quot;
-   >
-   >Om du vill att Marketo ska ta bort konton med CRM-ID eller kontoägare i stället för med företagsnamn kontaktar du [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klicka på nedåtpilen under kolumnen Namngivet konto för att visa listrutan.
 
