@@ -4,9 +4,9 @@ description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumenta
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Använd anpassade objekt för att spåra mätvärden som är specifika för din 
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Använd anpassade objekt som filter och triggers i era smarta kampanjer. Exempel:
 
@@ -86,6 +86,10 @@ När du har skapat den anpassade objektstrukturen kopplas de anpassade objekten 
 1. Nu kan du visa en lista över alla anpassade objekt av den typen som är kopplade till den personen.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >I en personpost kan fliken Anpassat objekt visa högst 100 poster, sorterade efter ID i fallande ordning.
 
 ## Använda anpassade objekt med företag {#using-custom-objects-with-companies}
 
