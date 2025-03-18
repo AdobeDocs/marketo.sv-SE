@@ -4,7 +4,7 @@ title: GenAI-funktioner
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 1. Granska de genererade kapitlen och sammanfattningen.
 
-2. Klicka på knappen **Redigera** om det behövs ändringar.
+1. Klicka på knappen **Redigera** om det behövs ändringar.
 
    Så här gör du ändringar:
 
