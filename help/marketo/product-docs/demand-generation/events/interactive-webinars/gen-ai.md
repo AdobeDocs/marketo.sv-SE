@@ -4,7 +4,7 @@ title: GenAI-funktioner
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 1. Klicka på **Generera**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. En ny flik öppnas med AI-genererade kapitel och en textsammanfattning.
 
@@ -41,7 +41,7 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 1. Klicka på knappen **Redigera** om det behövs ändringar.
 
-   Så här gör du ändringar:
+   Gör ändringar:
 
    * Redigera text i sammanfattningen och/eller kapitelrubrikerna.
 
@@ -55,14 +55,14 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
       * Om du vill sammanfoga flera kapitel måste du göra två åt gången
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt ](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt ](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
 
-1. Spara ändringarna genom att klicka på knappen **Spara** i det övre vänstra hörnet av skärmen.
+1. Spara ändringarna genom att klicka på knappen **Spara** i skärmens övre högra hörn.
 
 ## Använd genererat innehåll {#use-generated-content}
 
@@ -88,4 +88,4 @@ När du har kopierat det innehåll du vill använda, klistrar du in det i valfri
 
 * När du tar bort webbinariet tas även GenAI-innehållet bort.
 
-* Om du vill ha mer information eller en begäran om att ta bort data kontaktar du Adobe Account Team (din kontohanterare) eller skickar e-post till oss här: `marketo-webinar-genai-alerts@adobe.com`.
+* Om du vill ha mer information eller ta bort data kontaktar du Adobe Account Team (din kontohanterare) eller skickar ett e-postmeddelande till: `marketo-webinar-genai-alerts@adobe.com`.
