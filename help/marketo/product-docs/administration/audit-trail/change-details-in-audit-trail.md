@@ -4,7 +4,7 @@ description: Ändra detaljer i granskningsspår - Marketo Docs - produktdokument
 title: Ändra detaljer i granskningsspår
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 0%
@@ -137,7 +137,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>Redigera modul <module name><attribute> till "value"</td> 
+   <td>Redigera modulen <code>"&lt;module name&gt;" &lt;attribute&gt;</code> till "värde"</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
@@ -246,7 +246,7 @@ Granskningsspårning ger en hel del insikt i vem som gör vad i din Marketo-pren
   </tr> 
   <tr> 
    <td>Redigera</td> 
-   <td>HTML har redigerats</td> 
+   <td>HTML Editing</td> 
   </tr> 
   <tr> 
    <td>Ta bort</td> 
