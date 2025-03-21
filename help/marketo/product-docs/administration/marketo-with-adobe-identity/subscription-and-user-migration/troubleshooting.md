@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -69,8 +69,6 @@ _Om användaren måste migreras_ (och domänanvändningen är aktiverad i migrer
 _Om användaren måste migreras_ (och domänanvändningen är aktiverad i en annan organisation) måste en systemadministratör för organisationen där domänen har tagits i anspråk lägga till användarens e-postadress i undantagslistan. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
 _Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
-
-**Följande felmeddelanden har samma rotorsak/upplösning..**
 
 ### Det gick inte att skapa användare {#user-creation-failed}
 
