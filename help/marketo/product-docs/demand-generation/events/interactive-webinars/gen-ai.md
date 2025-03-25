@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ När du har kopierat det innehåll du vill använda, klistrar du in det i valfri
 
 ## Saker att notera {#things-to-note}
 
-* Om du tar bort eller sammanfogar kapitel påverkas bara kapitelstacken, inte själva videoinnehållet. Dessa åtgärder går inte att ångra
+* Om du tar bort eller sammanfogar kapitel påverkas bara kapitelstacken, inte själva videoinnehållet. Dessa åtgärder är permanenta.
 
 * GenAI-funktionerna är flexibla och kan användas med olika webbsideredigerare, inte bara de i Marketo Engage.
 

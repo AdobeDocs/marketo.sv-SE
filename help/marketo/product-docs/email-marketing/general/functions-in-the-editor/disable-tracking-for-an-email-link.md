@@ -4,9 +4,9 @@ description: Inaktivera spårning för en e-postlänk - Marketo Docs - produktdo
 title: Inaktivera spårning för en e-postlänk
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Inaktivera spårning för en e-postlänk {#disable-tracking-for-an-email-link}
 
 Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-postmeddelande. Detta är användbart när målsidan inte stöder URL-parametrar och kan resultera i en bruten länk.
+
+Om ett e-postmeddelande skickades för över 365 dagar sedan **och** ingen har klickat på någon av länkarna de senaste 180 dagarna, rensar Marketo Engage vägen till URL:en från vår databas, vilket gör att länken bryts. Så om du vill att länken ska vara permanent bör du inaktivera spårning.
 
 1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
 
@@ -37,7 +39,7 @@ Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-post
 
    >[!TIP]
    >
-   >Om du bara avmarkerar **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
+   >Om du bara avmarkerar **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo landningssidor och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
 
 1. Klicka på **Spara**.
 
