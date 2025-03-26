@@ -4,9 +4,9 @@ description: Använda URL:er i Mina token - Marketo Docs - Produktdokumentation
 title: Använda URL:er i Mina token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    >[!CAUTION]
    >
-   >Om du vill vara säker på att klick spåras i ditt e-postmeddelande anger du **inte** https:// i token-värdet.
+   >**Använder http/https..**
+   >
+   >* Om du vill vara säker på att klick spåras i ditt e-postmeddelande anger du **inte** https:// _inuti_ tokenvärdet. Använd den utanför token, vilket visas i steg 7.
+   >
+   >* Vi rekommenderar att du inte utelämnar http/https. Om du gör det kan det leda till att [webbversionen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} av ditt e-postmeddelande återges felaktigt.
 
 1. Välj e-postadressen i programmet.
 
@@ -43,13 +47,13 @@ Följ stegen nedan för att använda Mina token för att infoga URL:er i dina e-
 
    ![](assets/six-1.png)
 
-1. Skriv&quot;https://&quot; någonstans i e-postmeddelandet (utan att lämna ett blanksteg efter) och klicka på ikonen Infoga token.
+1. Skriv `https://` var som helst i e-postmeddelandet (utan att lämna ett blanksteg efter) och klicka på ikonen Infoga token.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Du kan förstås även ange&quot;https&quot; om webbplatsen använder den.
+   >Du kan naturligtvis också ange `http://` om din webbplats inte använder https.
 
 1. Leta reda på din Min token, markera den och klicka på **Infoga**.
 
