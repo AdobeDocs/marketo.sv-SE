@@ -4,9 +4,9 @@ description: Hållbart avbrutet abonnemang - Marketo Docs - produktdokumentation
 title: Varaktigt avslut
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Om flaggan för att avbryta prenumerationen är inställd på false uppdateras h
 
 Det finns flera sätt att återprenumerera på en person.
 
-I Salesforce **rensar** fältet E-posta avanmälan i lead/kontakts post. Detta synkroniseras med Marketo.
+I Salesforce **rensar** fältet E-posta avanmälan på lead/kontakts post. Detta synkroniseras med Marketo.
 
 ![](assets/one.png)
 
@@ -46,8 +46,6 @@ När en ny person skapas kontrolleras den av Marketo mot huvudtabellen för e-po
 ## Ändra en e-postadress {#changing-an-email-address}
 
 Om du ändrar e-postadressen för en person till en e-postadress som du inte längre prenumererar på, kommer personen att avbeställa prenumerationen. Den här ändringen kan inträffa i antingen Marketo eller Salesforce.
-
-Om du ändrar en e-postadress som du inte prenumererar på, kommer personen att prenumerera.
 
 ## Återprenumerera {#re-subscribing}
 

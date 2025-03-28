@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # GenAI-funktioner {#gen-ai-features}
 
 Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarier, så att de blir mer tillgängliga och lättare att navigera i.
+
+>[!PREREQUISITES]
+>
+>Innan du använder dessa funktioner måste du godkänna Adobe GenAI-villkoren. Om du ännu inte gjort det kan du kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 * **Automatisk kapitelgenerering**: AI-baserad teknik skapar kapitel för ditt webbinariinnehåll.
 
