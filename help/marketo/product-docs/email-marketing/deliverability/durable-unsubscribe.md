@@ -4,7 +4,7 @@ description: Hållbart avbrutet abonnemang - Marketo Docs - produktdokumentation
 title: Varaktigt avslut
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Om flaggan för att avbryta prenumerationen är inställd på false uppdateras h
 
 Det finns flera sätt att återprenumerera på en person.
 
-I Salesforce **rensar** fältet E-posta avanmälan på lead/kontakts post. Detta synkroniseras med Marketo.
+I Salesforce rensar du fältet E-posta avanmälan på lead/kontakts post. Detta synkroniseras med Marketo.
 
 ![Salesforce-skärm](assets/durable-unsubscribe-1.png)
 
-I Marketo **tar du bort** den avbrutna prenumerationsrutan på fliken Info för personens post.
+I Marketo avmarkerar du rutan för att avbryta prenumerationen på fliken Info i personposten.
 
 ![Rensar prenumerationsrutan i en personpost](assets/durable-unsubscribe-2.png)
 
-Kör ett flödessteg för **Ändra datavärde** så som visas nedan på en eller flera personer.
+Kör ett flödessteg för _Ändra datavärde_ så som visas nedan på en eller flera personer.
 
 ![Ändra flödessteg för datavärde](assets/durable-unsubscribe-3.png)
 
