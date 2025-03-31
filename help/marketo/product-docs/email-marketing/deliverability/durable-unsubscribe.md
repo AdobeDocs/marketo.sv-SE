@@ -4,9 +4,9 @@ description: Hållbart avbrutet abonnemang - Marketo Docs - produktdokumentation
 title: Varaktigt avslut
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
+source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,6 @@ I Marketo avmarkerar du rutan för att avbryta prenumerationen på fliken Info i
 Kör ett flödessteg för _Ändra datavärde_ så som visas nedan på en eller flera personer.
 
 ![Ändra flödessteg för datavärde](assets/durable-unsubscribe-3.png)
-
-Uppdatera en befintlig person via SOAP API.
 
 ## Skapa en ny person {#creating-a-new-person}
 
