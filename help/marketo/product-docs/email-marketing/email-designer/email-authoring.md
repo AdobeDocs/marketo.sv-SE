@@ -3,9 +3,9 @@ description: Framtagning av e-post - Marketo Docs - produktdokumentation
 title: Framtagning av e-post
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1720'
+source-wordcount: '1723'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 
 >[!PREREQUISITES]
 >
->Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Skapa ett e-postmeddelande {#create-an-email}
 
@@ -100,7 +100,7 @@ När du börjar från början i e-postredigeraren använder du alternativen neda
 
 Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. Innehållet kan vara
 
-* En HTML-fil med en infogad formatmall
+* En HTML-fil med en inbyggd formatmall
 
 * En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
 
@@ -110,7 +110,7 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. I
 
 1. Välj **Importera HTML** på mallsidan.
 
-1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
+1. Dra och släpp önskad HTML- eller ZIP-fil (eller välj en fil på datorn) och klicka på **Importera**.
 
    ![](assets/authoring-import-your-html-1.png)
 
@@ -351,7 +351,7 @@ Om du vill förhandsgranska ditt e-postinnehåll klickar du på **Simulera inneh
 
 ## Referera till ett e-postmeddelande {#reference-an-email}
 
-Om du skapade e-postmeddelandet i ett e-postprogram kan det bara användas i det programmet. Om du skapade ditt e-postmeddelande i Design Studio kan du referera till det från smarta kampanjer och/eller smarta listor på samma sätt som du gör med andra e-postmeddelanden.
+E-postmeddelanden från Designer är tillgängliga via e-post, engagemang, standard och händelseprogram (med undantag för Interactive Webinar-program). Om du skapade ditt e-postmeddelande i Design Studio kan du referera till det från smarta kampanjer och/eller smarta listor på samma sätt som du gör med andra e-postmeddelanden.
 
 * Referera den i en smart lista genom att [följa de vanliga stegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 

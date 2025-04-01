@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
     <tr> 
    <td><strong>E-post för Designer finns i alla program</strong>: Designer nya e-postmeddelanden är nu tillgängliga i alla engagemangs-, standard- och händelseprogram (med det enda undantaget för interaktiva webbinariprogram). Tidigare var de bara tillgängliga i e-postprogram. Med den här uppdateringen blir kloning även tillgänglig.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 

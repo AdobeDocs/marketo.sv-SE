@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Välkommen till nya Adobe Marketo Engage Email Designer.
 
 E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
-
-E-postmeddelanden som skapas i den nya designern kan användas i e-postprogram och smarta listor/kampanjer. Nya kraftfulla förbättringar av designern kommer snart.
 
 ## Åtkomst {#how-to-access}
 
@@ -65,6 +63,10 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 **Kommer den gamla e-postredigeraren att fortsätta fungera? I så fall, hur länge?**
 
 Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postdesignern. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta fungera under hela 2025.
+
+**Vilka program kan jag använda de nya e-postmeddelandena från Designer i?**
+
+Nya e-postmeddelanden från Designer är tillgängliga i alla program (med det enda undantaget Interactive Webinar Programs). Kloning finns också tillgänglig.
 
 **Kommer våra befintliga e-postmallar att fungera i den nya designern? Om inte, måste vi skapa mallar med den nya designern så att alla avsnitt/moduler motsvarar hur vi vill att innehållet ska se ut?**
 
