@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # GenAI-funktioner {#gen-ai-features}
 
 Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarier, så att de blir mer tillgängliga och lättare att navigera i.
-
->[!PREREQUISITES]
->
->Innan du använder dessa funktioner måste du godkänna Adobe GenAI-villkoren. Om du ännu inte gjort det kan du kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 * **Automatisk kapitelgenerering**: AI-baserad teknik skapar kapitel för ditt webbinariinnehåll.
 
@@ -28,15 +24,25 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 * **Enkel integrering**: Lägg enkelt till kapitel och sammanfattningar på dina landningssidor genom att kopiera HTML-koden till valfri webbsideredigerare.
 
+## Aktivera GenAI {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Innan du använder dessa funktioner måste du godkänna Adobe GenAI-villkoren. Om du ännu inte gjort det kan du kontakta Adobe Account Team (din kontoansvarige) för mer information.
+
+När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det för enskilda användare. Gör det genom att gå till **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** och välja vilka användare som ska ha tillgång till GenAI.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Åtkomst {#how-to-access}
 
 1. Gå till webbseminariets översiktssida i Marketo Engage Interactive Webinars.
 
 1. När du har utfört ett on-demand-webbinarium väntar du 30 till 60 minuter tills AI bearbetar inspelningen. Knappen Generera blir klickbar när den är tillgänglig.
 
-1. Klicka på **Generera**.
+1. Klicka på **[!UICONTROL Generate]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. En ny flik öppnas med AI-genererade kapitel och en textsammanfattning.
 
@@ -44,7 +50,7 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 1. Granska de genererade kapitlen och sammanfattningen.
 
-1. Klicka på knappen **Redigera** om det behövs ändringar.
+1. Klicka på knappen **[!UICONTROL Edit]** om det behövs några ändringar.
 
    Gör ändringar:
 
@@ -52,23 +58,23 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
    * Om det behövs kan du justera tidsstämplar genom att redigera värdena i tidsstämpelfält.
 
-   * Ta bort oönskade kapitel genom att markera dem och klicka på **Ta bort**.
+   * Ta bort oönskade kapitel genom att markera dem och klicka på **[!UICONTROL Delete]**.
 
-   * Sammanfoga två på varandra följande kapitel genom att markera dem och klicka på **Sammanfoga**.
+   * Sammanfoga två sammanhängande kapitel genom att markera dem och klicka på **[!UICONTROL Merge]**.
 
       * AI genererar ett sammansatt kapitel som består av de två valda kapitlen
 
       * Om du vill sammanfoga flera kapitel måste du göra två åt gången
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt ](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt ](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
    >
-   >* Om du inte är nöjd med den inledande sammanfattningen kan du klicka på knappen **Återskapa sammanfattning** så skapas en annan version.
+   >* Om du inte är nöjd med den inledande sammanfattningen kan du klicka på knappen **[!UICONTROL Regenerate summary]** så skapas en annan version.
 
-1. Spara ändringarna genom att klicka på knappen **Spara** i skärmens övre högra hörn.
+1. Spara ändringarna genom att klicka på knappen **[!UICONTROL Save]** i skärmens övre högra hörn.
 
 ## Använd genererat innehåll {#use-generated-content}
 
@@ -76,13 +82,13 @@ När du har kopierat det innehåll du vill använda, klistrar du in det i valfri
 
 ### Sammanfattning {#summary}
 
-**Kopiera HTML** - Klicka på knappen **Kopiera HTML** om du vill hämta all text, med HTML-kodformatering inuti en tabell.
+**Kopiera HTML** - Klicka på knappen **[!UICONTROL Copy HTML]** om du vill hämta all text, med HTML-kodformatering inuti en tabell.
 
 **Endast text** - Om du bara vill ha texten markerar du den och väljer Ctrl/Cmd+C (eller högerklickar) för att kopiera den.
 
 ### Kapitel {#chapters}
 
-**Kopiera HTML** - Klicka på knappen **Kopiera HTML** för att få alla inspelningar och dess kapitel formaterade inuti en videospelare.
+**Kopiera HTML** - Klicka på knappen **[!UICONTROL Copy HTML]** för att få alla inspelningar och dess kapitel formaterade inuti en videospelare.
 
 ## Saker att notera {#things-to-note}
 
