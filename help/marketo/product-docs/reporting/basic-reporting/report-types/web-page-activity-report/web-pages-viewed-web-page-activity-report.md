@@ -4,7 +4,7 @@ description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - 
 title: Visade webbsidor, aktivitetsrapport för webbsida
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

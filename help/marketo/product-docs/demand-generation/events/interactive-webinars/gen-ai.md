@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 
 När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det för enskilda användare. Gör det genom att gå till **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** och välja vilka användare som ska ha tillgång till GenAI.
 
-![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 ## Åtkomst {#how-to-access}
 

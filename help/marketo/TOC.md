@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
-source-wordcount: '9427'
+source-wordcount: '9429'
 ht-degree: 0%
 
 ---
@@ -1065,6 +1065,7 @@ ht-degree: 0%
             + [Ta bort ströminnehåll](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + E-posta Designer {#email-designer}
          + [Översikt](product-docs/email-marketing/email-designer/overview.md)
+         + [Funktionsjämförelse](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-postredigering](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Redigering av e-postmallar](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1943,7 +1944,7 @@ ht-degree: 0%
             + [Integrera RTP med Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integrera med Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Om Personalization {#understanding-web-personalization}
-         + [Innehållsanalys](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [Förstå Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Personalization-ordlista för webben](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Personalization - översikt](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Använder mallar {#using-templates}
