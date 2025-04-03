@@ -4,9 +4,9 @@ description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentati
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
 >[!PREREQUISITES]
 >
->* [Lägg till Munchkin-spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
+>* [Lägg till spårningskod för Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
 1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **Aktivitetsrapport för webbsida** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} i rapporten.
@@ -28,7 +28,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
 1. Du har det! Granska rapporten för att se vem som besöker er webbplats.
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,7 +51,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
  <tbody> 
   <tr> 
    <td>Person</td> 
-   <td>Besökarens namn, titel och företag.<br><strong>Klicka på</strong> om du vill visa personinformation och aktivitetshistorik.</td> 
+   <td>Besökarens namn, titel och företag.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Klicka på</a></strong> om du vill visa besökta sidor.</td>
   </tr> 
   <tr> 
    <td>Första/sista besök (tidszon)</td> 
@@ -59,7 +59,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
   </tr> 
   <tr> 
    <td>Sidvyer</td> 
-   <td>Antal sidor som har lästs in av den här besökaren.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Klicka på</a></strong> om du vill se vilka sidor som besöktes.</td> 
+   <td>Antal sidor som har lästs in av den här besökaren.</td>
   </tr> 
   <tr> 
    <td>HTTP-referens</td> 
