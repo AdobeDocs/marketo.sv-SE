@@ -8,9 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
+source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -91,7 +92,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>E-postinställningar</td>
-    <td>Möjlighet att konfigurera e-postinställningar som DKIM, Spam-inställningar, Branding Domain med flera.</td>
+    <td>Möjlighet att konfigurera e-postinställningar som DKIM, inställningar för skräppost med mera.</td>
     <td>Tillgänglig</td>
     <td>Tillgänglig</td>
   </tr>
@@ -140,7 +141,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   <tr>
     <td>Spara innehåll som fragment</td>
     <td>Möjlighet att spara en del av innehållet som ett fragment.</td>
-    <td>Tillgänglig</td>
+    <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
   <tr>
