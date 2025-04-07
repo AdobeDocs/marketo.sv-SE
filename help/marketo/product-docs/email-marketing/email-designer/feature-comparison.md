@@ -6,10 +6,8 @@ description: Använd den här tabellen för att jämföra tillgängligheten av f
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -32,7 +30,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
 <tbody>
   <tr>
     <td>OOTB-startmallar för e-post</td>
-    <td>Möjlighet att använda OOTB-mallar från e-post-Designer.</td>
+    <td>Möjlighet att använda färdiga mallar från e-post-Designer.</td>
     <td>Tillgänglig</td>
     <td>Tillgänglig</td>
   </tr>
@@ -98,7 +96,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>AI-assistenten</td>
-    <td>Möjlighet att generera ärenderad, del av innehåll eller hela e-postmeddelanden med hjälp av generativa AI-modeller.</td>
+    <td>Möjlighet att generera ämnesrad, del av innehåll eller hela e-postmeddelanden via <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">generativa AI</a>-modeller.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -110,7 +108,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Låsning av innehåll</td>
-    <td>Möjlighet att låsa innehåll i en e-postmall så att det inte kan ändras när du skapar e-postmeddelanden.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">låsa innehåll</a> i en e-postmall så att det inte kan ändras när e-postmeddelanden skapas.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -164,7 +162,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Integrering med Adobe Express</td>
-    <td>Möjlighet att skapa/ändra bilder med Adobe Express.</td>
+    <td>Möjlighet att skapa/ändra bilder med <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -178,7 +176,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Moduler</td>
     <td>Möjlighet att i förväg skapa specifika struktur- och innehållsförinställningar som kan återanvändas i alla e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Tillgängligt som anpassningsbart fragment</td>
+    <td>Tillgängligt som <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">anpassningsbart fragment</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service Integration</td>
@@ -241,6 +239,18 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Kommer snart</td>
   </tr>
   <tr>
+    <td>Snabb skriptning</td>
+    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
+    <td>Tillgänglig</td>
+    <td>Behövs inte</td>
+  </tr>
+   <tr>
+    <td>Handlebar skript</td>
+    <td>Möjlighet att använda Handlebar-skript i e-postmeddelanden.</td>
+    <td>Inte tillgängligt</td>
+    <td>Planerat för tredje kvartalet 25</td>
+  </tr>
+  <tr>
     <td>Litmus Integration</td>
     <td>Integrera med Litmus för att se hur era e-postmeddelanden kommer att se ut i olika e-postklienter.</td>
     <td>Inte tillgängligt</td>
@@ -255,12 +265,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   <tr>
     <td>Integrering av skräppostresurser</td>
     <td>Möjlighet att upptäcka om e-postmeddelanden kan markeras som skräppost före leverans.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för tredje kvartalet 25</td>
-  </tr>
-  <tr>
-    <td>Handlebar skript</td>
-    <td>Möjlighet att använda Handlebar-skript i e-postmeddelanden.</td>
     <td>Inte tillgängligt</td>
     <td>Planerat för tredje kvartalet 25</td>
   </tr>
@@ -300,10 +304,5 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
     <td>Inte tillgängligt</td>
   </tr>
-  <tr>
-    <td>Snabb skriptning</td>
-    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
-    <td>Tillgänglig</td>
-    <td>Behövs inte</td>
-  </tr>
 </tbody></table>
+
