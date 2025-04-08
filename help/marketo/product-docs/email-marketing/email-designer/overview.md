@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 * [Använd AI-assistenten](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 
 * [Lås innehåll i e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Lär dig hur du låser innehåll i e-postmallar, vilket förhindrar oavsiktliga redigeringar och borttagningar.
+
+* [Funktionsjämförelse](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Jämför tillgängligheten för funktioner i den tidigare e-postredigeraren (e-postredigeraren 2.0) och nya e-post-Designer.
 
 ## Vanliga frågor och svar {#faq}
 

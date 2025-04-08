@@ -4,9 +4,9 @@ title: Lägg till SSL på era landningssidor
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ SCREENSHOT
 
 SCREENSHOT
 
-OBS:
-
-SSL-certifikatskolumnen i listan visar SSL-certifikatstatus för alla domänalias som skapas efter att den här funktionen har släppts. Om SSL har aktiverats för en domän via stöd finns det fortfarande respektive SSL-certifikat, men tabellen visar endast SSL-certifikat för domäner som lagts till med den här funktionen
-
-Det kan ta upp till 3 minuter för SSL att vara i READY-läge, och sidan måste uppdateras för att ändringar ska kunna spridas i användargränssnittet.
+>[!NOTE]
+>
+>* Kolumnen SSL-certifikat i listan visar certifikatstatus för alla domänalias som skapas efter att den här funktionen har släppts (DATE). Om SSL har aktiverats för en domän via Marketo Support finns certifikatet kvar, men visas inte i tabellen. Den här tabellen visar endast SSL-certifikat för domäner som lagts till med stegen i den här artikeln.
+>
+>* Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.
