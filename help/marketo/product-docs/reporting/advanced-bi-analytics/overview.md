@@ -1,13 +1,11 @@
 ---
 description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentation
 title: Översikt över avancerad BI Analytics
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: a3c3b3d56282092a81b888bdd41969d2b7c3d0d6
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -42,33 +40,33 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
 1. Klicka på rutan **[!UICONTROL Advanced BI Analytics (Beta)]** i My Marketo.
 
-   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
 1. Klicka på **[!UICONTROL Create Report]** på fliken **[!UICONTROL Reports]**.
 
-   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Välj önskade mått.
 
-   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Välj önskade mått.
 
-   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Välj önskad visualisering.
 
-   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Lägg till filter genom att dra och släppa ett dimensionsattribut.
 
-   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Videodemo {#video}
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}{transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -204,7 +202,7 @@ _Under betaversionen:_
 
 Den nya visualiseringsupplevelsen levereras via inbäddad Power BI-tjänst.
 
-En kort självstudiekurs om visualisering finns på Microsoft [Använd visuell information i dokumentationen för Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}{target=&quot;_blank&quot;}. Observera att du kanske inte ser alla dessa funktioner i Marketo Engage.
+En kort självstudiekurs om visualisering finns på Microsoft [Använd bilder i dokumentationen för Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}. Observera att du kanske inte ser alla dessa funktioner i Marketo Engage.
 
 ### Betydande upplevelseförändringar {#notable-experience-changes}
 
@@ -227,3 +225,7 @@ Nedan följer förändringar i den nya upplevelsen (Advanced BI Analytics) från
 >[!NOTE]
 >
 >Du kan inte inkludera mer än ett fält för anpassad fältgrupp i ett visuellt rapportområde för modellprestandaanalys (Leads).
+
+>[!MORELIKETHIS]
+>
+>[Mått och mått](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
