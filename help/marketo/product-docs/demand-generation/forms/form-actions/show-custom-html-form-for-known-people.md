@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359644
-description: Visa eget HTML-formulär för kända personer - Marketo Docs - produktdokumentation
+description: Visa anpassat HTML-formulär för kända personer - Marketo Docs - produktdokumentation
 title: Visa anpassat HTML-formulär för kända personer
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Visa anpassat HTML-formulär för kända personer {#show-custom-html-form-for-known-people}
 
-Om en besökare är cookie (en känd person som tidigare har angett en e-postadress), varför behöver du då bekymra dig om formuläret? Ge dem bara nedladdningsknappen. Så här gör du.
+Om en besökare har angett sitt fullständiga namn och sin e-postadress tidigare och du inte vill att de ska få hela formuläret, ska du lära dig hur du visar dem en anpassad HTML (t.ex. bara en nedladdningsknapp).
 
 1. Gå till **marknadsföringsaktiviteter**.
 
@@ -27,7 +27,7 @@ Om en besökare är cookie (en känd person som tidigare har angett en e-postadr
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Ange **Känd besökare, visa**: till **Anpassad HTML**.
+1. Ange **Känd besökare, visa**: **Anpassad HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 

@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 7073155f37e33af1a5da957746724ca27e75410f
+source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
 workflow-type: tm+mt
 source-wordcount: '969'
 ht-degree: 0%
@@ -46,62 +46,62 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
 1. Välj önskade mått.
 
-   SKÄRMDUMP
+   SCREENSHOT
 
 1. Välj önskade mått.
 
-   SKÄRMDUMP
+   SCREENSHOT
 
-1. Välj den visualisering du föredrar.
+1. Välj önskad visualisering.
 
-   SKÄRMDUMP
+   SCREENSHOT
 
 1. Lägg till filter genom att dra och släppa ett dimensionsattribut.
 
-   SKÄRMDUMP
+   SCREENSHOT
 
-## Video-demo {#video}
+## Videodemo {#video}
 
-Titta på följande video för att se ett exempel på en flersidig rapportupplevelse med detaljerad detaljgranskning.
+I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
-Följande standardrapporter ingår som exempel för dina anpassade rapporter.
+Följande standardrapporter finns som exempel på dina anpassade rapporter.
 
 <table>
   <thead>
     <tr>
       <th>Rapporteringsområde</th>
-      <th>Rapportens namn</th>
+      <th>Rapportnamn</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8">Analys av e-post</td>
+      <td rowspan="8">E-postanalys</td>
       <td>E-post - Skickad aktivitet (i CST)</td>
     </tr>
     <tr>
-      <td>E-post - Klicka på Aktivitet (i CST)</td>
+      <td>E-post - klicka på Aktivitet (i CST)</td>
     </tr>
     <tr>
-      <td>E-post - Öppna aktivitet (i CST)</td>
+      <td>E-post - öppen aktivitet (i CST)</td>
     </tr>
     <tr>
-      <td>E-post - Klickad tidsfördelning (i CST)</td>
+      <td>E-post - tidsfördelning som klickats (i CST)</td>
     </tr>
     <tr>
-      <td>E-post - Förfall av öppningsfrekvens</td>
+      <td>E-post - Öppen prissänkning</td>
     </tr>
     <tr>
-      <td>E-post - Öppnad tidsfördelning (i CST)</td>
+      <td>E-post - öppnad tidsfördelning (i CST)</td>
     </tr>
     <tr>
       <td>E-post - Prestandainformation</td>
     </tr>
     <tr>
-      <td>E-post - Klicka på Förfall för frekvensfall</td>
+      <td>E-post - klicka på Sänk tariff</td>
     </tr>
     <tr>
       <td rowspan="8">Leadanalys</td>
@@ -120,32 +120,32 @@ Följande standardrapporter ingår som exempel för dina anpassade rapporter.
       <td>Balansrapport för lead</td>
     </tr>
     <tr>
-      <td>Rapport om konvertering av leads</td>
+      <td>Leadkonverteringsrapport</td>
     </tr>
     <tr>
-      <td>Rapport om leadflöde</td>
+      <td>Rapport om lead-flöde</td>
     </tr>
     <tr>
-      <td>Rapport om övergångstid för leads</td>
+      <td>Tidsrapport för lead-övergång</td>
     </tr>
     <tr>
-      <td rowspan="5">Analys av program</td>
-      <td>Topp 10 program efter framgång</td>
+      <td rowspan="5">Programanalys</td>
+      <td>De 10 viktigaste programmen efter framgång</td>
     </tr>
     <tr>
-      <td>Topp 10 program efter total pipeline</td>
+      <td>De 10 viktigaste programmen per pipeline</td>
     </tr>
     <tr>
-      <td>Rapport om programmets intäktsfas</td>
+      <td>Scenrapport för programintäkter</td>
     </tr>
     <tr>
-      <td>Topp 10 förvärvsprogram</td>
+      <td>Top 10 Acquisition Programs</td>
     </tr>
     <tr>
       <td>Investeringstrend för marknadsföringskanaler</td>
     </tr>
     <tr>
-      <td rowspan="7">Analys av affärsmöjligheter</td>
+      <td rowspan="7">Affärsmöjlighetsanalys</td>
       <td>Marknadsföringseffekter på stängda affärsmöjligheter</td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@ Följande standardrapporter ingår som exempel för dina anpassade rapporter.
       <td>(MT) Marknadsföringspåverkan på skapade affärsmöjligheter</td>
     </tr>
     <tr>
-      <td>Herr talman, mina damer och herrar! Marknadsföringens inflytande på avslutade affärsmöjligheter vann</td>
+      <td>(FT) Marknadsföringspåverkan på stängda affärsmöjligheter</td>
     </tr>
     <tr>
       <td>Leadanalys för affärsmöjlighet</td>
@@ -200,30 +200,31 @@ _Under betaversionen:_
 
 Den nya visualiseringsupplevelsen levereras via inbäddad Power BI-tjänst.
 
-En snabb självstudiekurs om visualiseringsupplevelsen finns i Microsofts [dokumentation om att använda visuella objekt i Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} .
+En kort självstudiekurs om visualisering finns på Microsoft [Använd bilder i dokumentationen för Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/).
 
-### Anmärkningsvärda förändringar i upplevelsen {#notable-experience-changes}
+### Betydande upplevelseförändringar {#notable-experience-changes}
 
-Följande är ändringar i den nya upplevelsen (Advanced BI Analytics) från den klassiska upplevelsen (Revenue Explorer/Advanced Report Builder).
+Nedan följer förändringar i den nya upplevelsen (Advanced BI Analytics) från den klassiska upplevelsen (Revenue Explorer/Advanced Report Builder).
 
-* Filtret av datumtyp fungerar på samma sätt. Syntaxen för att ange värden har dock ändrats. I dina befintliga anpassade rapporter konverteras alla filtervärden av datumtyp, förutom &quot;Veckodag&quot;, automatiskt till motsvarande värden i den nya upplevelsen. Stödet för &quot;Veckodag&quot;-värden har upphört.
+* Datumtypsfiltret fungerar på samma sätt, men syntaxen för att ange värden har ändrats. I dina befintliga anpassade rapporter konverteras alla filtervärden av datumtyp automatiskt, med undantag för &quot;Day of the Week&quot;, till motsvarande värden i den nya versionen. Stöd för veckodag har upphört.
 
 * Strängtypsfiltren är nu skiftlägeskänsliga.
 
-* Formelfältet för körning i den klassiska upplevelsen stöds inte längre.
+* Körningsformelfältet i den klassiska upplevelsen stöds inte längre.
 
-* E-postprenumerationen innehåller PDF-exporten i stället för HTML-koden för rapporten. Den nya e-postprenumerationen kommer inte att innehålla rapportdefinitionen.
+* E-postprenumerationen inkluderar PDF-exporten i stället för HTML i rapporten. Den nya e-postprenumerationen kommer inte att innehålla rapportdefinitionen.
 
-* Djuplänk till rapporten stöds inte just nu.
+* Den djupa länken i rapporten stöds inte just nu.
 
-* Rapportmappsupplevelsen är inte tillgänglig just nu och har tillfälligt ersatts av en platt lista med sökning i förväg. Namnet på den replikerade rapporten kommer att ha mappsökvägen, t.ex. `/folder1/folder2/report`.
+* Rapportmappsupplevelsen är inte tillgänglig just nu och har tillfälligt ersatts med en platt lista med typsnittssökning. Namnet på den replikerade rapporten innehåller mappsökvägen, t.ex. `/folder1/folder2/report`.
 
-* PDF-exporten är synkron i den nya upplevelsen, jämfört med att vara asynkron i den klassiska upplevelsen.
+* PDF export är synkron i den nya upplevelsen jämfört med att vara asynkron i den klassiska upplevelsen.
 
 >[!NOTE]
 >
->Du kan inte inkludera mer än ett fält för anpassad fältgrupp i ett visuellt objekt för rapportområdet för modellprestandaanalys (leads).
+>Du kan inte inkludera mer än ett fält för anpassad fältgrupp i ett visuellt rapportområde för modellprestandaanalys (Leads).
 
 >[!MORELIKETHIS]
 >
->[Mätvärden och dimensioner](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+>[Mått och mått](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+
