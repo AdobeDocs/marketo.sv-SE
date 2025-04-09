@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: a3c3b3d56282092a81b888bdd41969d2b7c3d0d6
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 >[!PREREQUISITES]
 >
 >För att få tillgång till den här funktionen måste du ha köpt tillägget Avancerad BI Analytics. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
+
+>[!NOTE]
+>
+>Om du har några frågor om den här funktionen medan den är i betaversion (till och med 1 juni 2025) skickar du ett e-postmeddelande till: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Viktiga funktioner och fördelar {#key-features-and-benefits}
 
@@ -36,35 +40,35 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
 ## Skapa en rapport {#create-a-report}
 
-1. Klicka på panelen **Avancerad BI-analys (Beta)** i My Marketo.
+1. Klicka på rutan **[!UICONTROL Advanced BI Analytics (Beta)]** i My Marketo.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
-1. Klicka på **Skapa rapport** på fliken **Rapporter**.
+1. Klicka på **[!UICONTROL Create Report]** på fliken **[!UICONTROL Reports]**.
 
-   SCREENSHOT
-
-1. Välj önskade mått.
-
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Välj önskade mått.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+
+1. Välj önskade mått.
+
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Välj önskad visualisering.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Lägg till filter genom att dra och släppa ett dimensionsattribut.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 ## Videodemo {#video}
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}{transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -184,7 +188,7 @@ _Under betaversionen:_
 
   >[!IMPORTANT]
   >
-  >Replikering av anpassade rapporter kommer att utföras i kohorter. När dina anpassade rapporter har replikerats till den nya upplevelsen måste alla ändringar som görs i den klassiska upplevelsen även tillämpas manuellt på motsvarande rapporter i den nya upplevelsen för att säkerställa konsekvens mellan de båda upplevelserna. En informationsanteckning om det ovanstående kommer att visa sig i den klassiska upplevelsen när kundrapporterna replikeras.
+  >Replikering av anpassade rapporter kommer att utföras i grupper. När dina anpassade rapporter har replikerats till den nya upplevelsen måste alla ändringar som görs i den klassiska upplevelsen även tillämpas manuellt på motsvarande rapporter i den nya upplevelsen för att säkerställa konsekvens mellan de båda upplevelserna. En informationsanteckning om det ovanstående kommer att visa sig i den klassiska upplevelsen när kundrapporterna replikeras.
 
    * Kontrollpaneler i den klassiska upplevelsen kan inte överföras och måste återskapas i den nya upplevelsen. De bör återskapas som rapporter i den nya upplevelsen och filtren i den nya upplevelsen hämtar automatiskt möjliga värden i stället för att du måste ange alla möjliga värden manuellt i den klassiska upplevelsen.
 
@@ -200,7 +204,7 @@ _Under betaversionen:_
 
 Den nya visualiseringsupplevelsen levereras via inbäddad Power BI-tjänst.
 
-En kort självstudiekurs om visualisering finns på Microsoft [Använd bilder i dokumentationen för Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/).
+En kort självstudiekurs om visualisering finns på Microsoft [Använd visuell information i dokumentationen för Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}{target=&quot;_blank&quot;}. Observera att du kanske inte ser alla dessa funktioner i Marketo Engage.
 
 ### Betydande upplevelseförändringar {#notable-experience-changes}
 
@@ -223,8 +227,3 @@ Nedan följer förändringar i den nya upplevelsen (Advanced BI Analytics) från
 >[!NOTE]
 >
 >Du kan inte inkludera mer än ett fält för anpassad fältgrupp i ett visuellt rapportområde för modellprestandaanalys (Leads).
-
->[!MORELIKETHIS]
->
->[Mått och mått](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
