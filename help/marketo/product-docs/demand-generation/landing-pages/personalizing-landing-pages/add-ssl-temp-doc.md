@@ -4,16 +4,21 @@ title: Lägg till SSL på era landningssidor
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Lägg till SSL på era landningssidor {#add-ssl-to-your-landing-pages}
 
-Lär dig att lägga till din varumärkesdomäns alias (t.ex. `http://business.adobe.com`) till landningssidor som skapats i Marketo Engage så att de kan nås under sina varumärkesdomäner.
+Med SSL-kryptering (Secure Socket Layer) kan du göra alla dina landningssidor för en Marketo Engage-instans säkra.
+
+När du fyller i ett webbformulär eller besöker en landningssida som hanteras av Marketo Engage, skickas informationen som standard via ett osäkert protokoll (HTTP). Enligt företagets policy kanske du vill skydda den information som skickas till Marketo via HTTPS. När du till exempel besöker `http://info.mydomain.com/` blir det nu `https://info.mydomain.com/`.
+
+Marketo Engage spårar &quot;Besökt webbsida&quot; och &quot;Klicka på länk på webbsida&quot; som standard över osäkra HTTP-protokoll. Om du vill att dina spårningslänkar ska vara skyddade med deras egna certifikat måste du ha Marketo som en separat icke-delad server för att kunna aktivera den. För att skydda alla aspekter av en kontakts interaktion med dig måste du vanligtvis skydda både landningssidor och spårningslänkar.
 
 SCREENSHOT
 
@@ -37,7 +42,7 @@ Detta lägger automatiskt till ett SSL-certifikat för den här domänen.
 
 SCREENSHOT
 
-## Aktivera SSL för din standarddomän
+## Aktivera SSL för din standarddomän {#enable-ssl-default-domain}
 
 SCREENSHOT
 
