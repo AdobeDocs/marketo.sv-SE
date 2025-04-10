@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
+source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -20,31 +20,39 @@ När du fyller i ett webbformulär eller besöker en landningssida som hanteras 
 
 Marketo Engage spårar &quot;Besökt webbsida&quot; och &quot;Klicka på länk på webbsida&quot; som standard över osäkra HTTP-protokoll. Om du vill att dina spårningslänkar ska vara skyddade med deras egna certifikat måste du ha Marketo som en separat icke-delad server för att kunna aktivera den. För att skydda alla aspekter av en kontakts interaktion med dig måste du vanligtvis skydda både landningssidor och spårningslänkar.
 
-SCREENSHOT
-
 ## Aktivera SSL-certifiering {#enable-ssl-certification}
 
 Lägg automatiskt till SSL för alla domänalias som du skapar som en del av reglerna för landningssidan.
 
 1. Gå till området **Admin**.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
 1. Välj **Landningssidor** i trädet. Klicka på listrutan **Nytt** på fliken **Regler** och välj **Nytt domänalias**.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Markera kryssrutan **Skapa SSL-certifikat**.
+1. Ange ditt _domänalias_ och _standardsida_. Markera kryssrutan **Skapa SSL-certifikat**. Klicka på **Skapa** när du är klar.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
 Detta lägger automatiskt till ett SSL-certifikat för den här domänen.
 
-SCREENSHOT
-
 ## Aktivera SSL för din standarddomän {#enable-ssl-default-domain}
 
-SCREENSHOT
+Följ stegen nedan för att aktivera SSL för din standarddomän.
+
+1. I avsnittet **Admin** väljer du **Startsidor**. Klicka på den orangefärgade knappen **Redigera** bredvid _Inställningar_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Om du vill kan du även ändra domännamnet här (en giltig domän krävs).
+
+1. Markera kryssrutan Generera SSL-certifikat och klicka på Spara.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
