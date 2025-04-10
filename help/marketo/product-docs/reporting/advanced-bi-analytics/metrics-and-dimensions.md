@@ -3,7 +3,7 @@ description: Mätvärden och dimensioner - Marketo Docs - produktdokumentation
 title: Mätvärden och mått
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 3%
@@ -12,11 +12,11 @@ ht-degree: 3%
 
 # Mätvärden och mått {#metrics-and-dimensions}
 
-Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för rapporten från utforskaren av intäkter.
+Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för analysrapporten om intäktscykelutforskaren.
 
 >[!TIP]
 >
->Om någon av tabellerna ser ut att vara för rensad kan du expandera vyn genom att klicka på vänster (![](assets/icon-left-arrow.png)) och höger (![](assets/icon-right-arrow.png)) pilar längst upp på den här sidan och komprimera vänster och höger sidofält.
+>Om någon av tabellerna verkar vara för smal kan du expandera vyn genom att klicka på vänster (![](assets/icon-left-arrow.png)) och höger (![](assets/icon-right-arrow.png)) pilar längst upp på den här sidan och komprimera vänster och höger sidofält.
 
 ## Mått och mått {#dimensions-and-measures}
 
@@ -51,9 +51,9 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
           <li>E-postattribut</li>
           <li>Leadattribut</li>
           <li>Företagsattribut</li>
-          <li>Programmets egenskaper</li>
-          <li>Attribut för ABM-konto</li>
-          <li>Program Taggar</li>
+          <li>Programattribut</li>
+          <li>ABM-kontoattribut</li>
+          <li>Programtaggar</li>
         </ul>
       </td>
       <td>
@@ -528,8 +528,8 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
       </td>
       <td>
           <ul>
-            <li>Skapad affärsmöjlighet År</li>
-            <li>Skapat affärsmöjlighet kvartal</li>
+            <li>Skapad affärsmöjlighet år</li>
+            <li>Möjligheter skapad i kvartal</li>
             <li>Skapad månad för affärsmöjlighet</li>
             <li>Skapad vecka för affärsmöjlighet</li>
             <li>Skapad affärsmöjlighet</li>
@@ -614,8 +614,8 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
             <li>% klagomål</li>
             <li>% levererat</li>
             <li>% öppnad</li>
-            <li>% avregistrerade</li>
-            <li>Klickade</li>
+            <li>% Avbeställ</li>
+            <li>Klickat</li>
             <li>Klagomål</li>
             <li>Levererat</li>
             <li>Hård studsad</li>
@@ -633,8 +633,8 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
             <li>Lead till konverteringsgrad för affärsmöjlighet</li>
             <li>Konverteringsgrad för företag till säljprojekt</li>
             <li>Antal företag</li>
-            <li>Antal företag (konverterat till affärsmöjlighet)</li>
-            <li>Antal företag (ej konverterade till affärsmöjlighet)</li>
+            <li>Antal företag (konverterat till säljprojekt)</li>
+            <li>Antal företag (inte konverterat till säljprojekt)</li>
             <li>Antal leads</li>
             <li>Antal leads (konverterat till säljprojekt)</li>
             <li>Antal leads (inte konverterade till säljprojekt)</li>
@@ -719,11 +719,11 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
       <td>
           <ul>
             <li>Antal affärsmöjligheter som är associerade med programmet</li>
-            <li>Herr talman, mina damer och herrar! Kostnad för möjlighet</li>
-            <li>Herr talman, mina damer och herrar! Skapade möjligheter</li>
-            <li>Herr talman, mina damer och herrar! Vunna affärsmöjligheter</li>
-            <li>Herr talman, mina damer och herrar! Pipeline skapad</li>
-            <li>Herr talman, mina damer och herrar! Pipeline har skapats – är fortfarande öppen</li>
+            <li>(FT) Affärskostnad för affärsmöjlighet</li>
+            <li>(FT) Skapade affärsmöjligheter</li>
+            <li>(FT) Vunna affärsmöjligheter</li>
+            <li>(FT) Pipeline skapad</li>
+            <li>(FT) Pipeline skapad - fortfarande öppen</li>
             <li>(FT) Förväntade intäkter</li>
             <li>(FT) Intäkter från investeringar</li>
             <li>(FT) Intäkter, vinst</li>
@@ -734,9 +734,9 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
             <li>(MT) Pipeline skapad - fortfarande öppen</li>
             <li>(MT) Förväntade intäkter</li>
             <li>(MT) Intäkter från investeringar</li>
-            <li>Herr talman, mina damer och herrar! Vunnen intäkt</li>
-            <li>Genomsnitt # av framgångar per stängd affärsmöjlighet</li>
-            <li>Genomsnitt # av framgångar per skapad affärsmöjlighet</li>
+            <li>(MT) Intäkter, vinst</li>
+            <li>Genomsnittligt antal lyckade försök per avslutad affärsmöjlighet</li>
+            <li>Genomsnittligt antal lyckade försök per projekt som skapats</li>
             <li>Nya namn</li>
             <li>Programkostnad</li>
             <li>Slutfört (totalt)</li>
