@@ -4,26 +4,26 @@ description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbeg
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 2%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
 # Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage ger kontroll över den anpassade objektsynkroniseringen i Salesforce. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
+Marketo Engage ger exakt kontroll över Salesforce anpassade objektsynkronisering. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **[!UICONTROL Admin]**.
+1. Jag kom till området **[!UICONTROL Admin]**.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Salesforce Objects Sync]**.
+1. Klicka på **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

@@ -4,16 +4,16 @@ description: Aktivera/inaktivera anpassad objektsynkronisering - Marketo Docs - 
 title: Aktivera/inaktivera synkronisering av anpassat objekt
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 0%
 
 ---
 
 # Aktivera/inaktivera synkronisering av anpassat objekt {#enable-disable-custom-object-sync}
 
-Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
+Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engage. Så här ställer du in det.
 
 ## Aktivera/inaktivera synkronisering av anpassat objekt {#enable-disable-custom-object-sync-1}
 
@@ -21,17 +21,17 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **[!UICONTROL Admin]**.
+1. Gå till området **[!UICONTROL Admin]**.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
 1. Klicka på **[!UICONTROL Salesforce Objects Sync]** på menyn Databashantering.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
 1. Om det här är ditt första anpassade objekt klickar du på **[!UICONTROL Sync schema]**. Klicka annars på **[!UICONTROL Refresh Schema]** för att kontrollera att du har den senaste.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
 1. Om din globala synkronisering körs måste du inaktivera den genom att klicka på **[!UICONTROL Disable Global Sync]**.
 
@@ -39,7 +39,7 @@ Anpassade objekt som skapas i Salesforce-instansen kan också ingå i Marketo En
 
    >[!NOTE]
    >
-   >Det kan ta några minuter att synkronisera Salesforce-objektschemat.
+   >Det kan ta några minuter att synkronisera Salesforce anpassade objektschema.
 
 1. Klicka på **[!UICONTROL Refresh Schema]**.
 

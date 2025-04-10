@@ -4,26 +4,30 @@ description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokument
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Synkronisera anpassade aktiviteter {#customize-activities-sync}
 
-Om du inte använder Marketo Sales Insight kan Marketo Engage skapa poster för Salesforce-aktivitetshistorik för vissa händelser. Så här aktiverar du dem.
+Om du inte använder Marketo Sales Insight kan Marketo Engage skapa Salesforce Activity History Records för vissa händelser. Så här aktiverar du dem.
+
+>[!NOTE]
+>
+>Salesforce/Marketo Engage-synkroniseringen kommer inte att skicka några aktiviteter till Salesforce som inträffade innan personen överfördes till Salesforce.
 
 1. Gå till **[!UICONTROL Admin]**.
 
-   ![](assets/admin.png)
+   ![](assets/customize-activities-sync-1.png)
 
 1. Klicka på **[!DNL Salesforce]** och sedan på **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Markera rutorna intill aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka sedan på **[!UICONTROL Save]**.
+1. Markera rutorna intill aktiviteter som du vill att Marketo ska skicka till Salesforce och klicka på **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -100,4 +104,4 @@ Om du inte använder Marketo Sales Insight kan Marketo Engage skapa poster för 
 
 >[!TIP]
 >
->Om du är intresserad av att få in mer Marketo-information i Salesforce kan du ta en titt på vår [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} -produkt.
+>Om du är intresserad av att få in mer information om Marketo i Salesforce kan du ta en titt på vår [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} -produkt.
