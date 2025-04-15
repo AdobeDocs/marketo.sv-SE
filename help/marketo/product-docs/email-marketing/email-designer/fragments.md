@@ -5,9 +5,9 @@ title: Fragment
 description: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
-source-wordcount: '1839'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # Fragment
 
 Ett fragment är en återanvändbar komponent som kan refereras i ett eller flera e-postmallar och e-postmallar. Det är vanligtvis ett innehållsblock (text, bild eller båda) som snabbt kan infogas i projektet. Med den här funktionen kan du skapa flera anpassade innehållsblock i förväg för att sammanställa e-postinnehåll för en förbättrad designprocess. Vanliga användningsområden är t.ex. innehållsblock för sidhuvud/sidfot för e-post, banners för inbjudningar till evenemang, säsongsmeddelanden med mera.
+
+>[!NOTE]
+>
+>Fragment motsvarar [Fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} i den gamla e-postredigeraren.
 
 Så här använder du fragment på bästa sätt i dina arbetsflöden:
 

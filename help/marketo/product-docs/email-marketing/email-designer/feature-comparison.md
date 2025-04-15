@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
 <tbody>
   <tr>
     <td>OOTB-startmallar för e-post</td>
-    <td>Möjlighet att använda färdiga mallar från e-post-Designer.</td>
+    <td>Det går att använda <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">färdiga mallar</a> från e-postprogrammet Designer.</td>
     <td>Tillgänglig</td>
     <td>Tillgänglig</td>
   </tr>
@@ -72,7 +72,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Överför bild/fil</td>
-    <td>Möjlighet att överföra en bild från ditt lokala system.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">överföra en bild</a> från ditt lokala system.</td>
     <td>Tillgänglig</td>
     <td>Tillgänglig</td>
   </tr>
@@ -96,7 +96,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>AI-assistenten</td>
-    <td>Möjlighet att generera ämnesrad, del av innehåll eller hela e-postmeddelanden via <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">generativa AI</a>-modeller.</td>
+    <td>Möjlighet att generera ämnesrad, del av innehåll eller hela e-postmeddelanden via <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">generativa AI</a>-modeller.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -108,7 +108,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Låsning av innehåll</td>
-    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">låsa innehåll</a> i en e-postmall så att det inte kan ändras när e-postmeddelanden skapas.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">låsa innehåll</a> i en e-postmall så att det inte kan ändras när e-postmeddelanden skapas.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -138,7 +138,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Spara innehåll som fragment</td>
-    <td>Möjlighet att spara en del av innehållet som ett fragment.</td>
+    <td>Möjlighet att spara en del av <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">innehållet som ett fragment</a>.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -162,7 +162,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Integrering med Adobe Express</td>
-    <td>Möjlighet att skapa/ändra bilder med <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
+    <td>Möjlighet att skapa/ändra bilder med <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
@@ -176,7 +176,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Moduler</td>
     <td>Möjlighet att i förväg skapa specifika struktur- och innehållsförinställningar som kan återanvändas i alla e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Tillgängligt som <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">anpassningsbart fragment</a></td>
+    <td>Tillgängligt som <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">anpassningsbart fragment</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service Integration</td>
