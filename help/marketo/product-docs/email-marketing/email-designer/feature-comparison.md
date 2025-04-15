@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -149,6 +149,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
   </tr>
   <tr>
+    <td>E-postrapportering</td>
+    <td>Möjlighet att visa e-postmeddelanden i Marketo Engage Analytics.</td>
+    <td>Tillgänglig</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
     <td>Användning av e-post i kampanjer och program</td>
     <td>Möjlighet att använda nya Designer-mejl i kampanjer och program.</td>
     <td>Tillgänglig</td>
@@ -277,12 +283,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   <tr>
     <td>Experimentation (A/B-testning)</td>
     <td>Möjlighet att testa e-postmeddelanden innan de skickas till er målgrupp.</td>
-    <td>Tillgänglig</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>E-postrapportering</td>
-    <td>Möjlighet att visa e-postmeddelanden i Marketo Engage Analytics.</td>
     <td>Tillgänglig</td>
     <td>TBD</td>
   </tr>
