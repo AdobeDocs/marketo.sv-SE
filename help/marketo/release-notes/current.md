@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 3%
 
 ---
@@ -53,8 +53,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>Global och Workspace My Tokens</strong>: Konfigurera mina tokens både på arbetsytan och på global nivå för att möjliggöra ökad produktivitet och kontroll över varumärkes- och marknadsföringsmaterial på Marketo Engage arbetsytor och till och med hela instanser.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   </tbody> 
 </table>
