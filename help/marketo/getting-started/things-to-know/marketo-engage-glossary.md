@@ -4,16 +4,16 @@ short-description: Lär dig termer för Marketo Engage och deras definitioner s�
 title: Marketo Engage ordlista
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
+source-wordcount: '4065'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage ordlista {#marketo-engage-glossary}
 
-Nedan finns definitioner för många av termerna som du kan stöta på när du använder Marketo Engage. [Skicka oss ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com) om du vill begära att en term läggs till.
+Nedan finns definitioner för många av de termer du kan stöta på när du använder Marketo Engage. [Skicka oss ett e-postmeddelande](mailto:GRP-Marketo-articlefeedback@adobe.com) om du vill begära att en term läggs till.
 
 ## A {#a}
 
@@ -25,7 +25,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-testning</a></strong></td>
-   <td colspan="1">Gör att du kan ändra komponenter i e-postmeddelandet (t.ex. ämnesrad, från adress) och ange testkriterier för att avgöra vilken uppsättning innehåll som blir bäst.</td> 
+   <td colspan="1">Gör att du kan ändra komponenter i e-postmeddelandet (t.ex. ämnesrad, från adress, osv.) och ange testkriterier för att avgöra vilken uppsättning innehåll som blir bäst.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Konto</strong></td> 
@@ -184,7 +184,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
    <td colspan="1">(se <strong><a href="#predictivecontent">Prediktivt innehåll</a></strong>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Innehållsanalys</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td> 
    <td colspan="1">Ett område på <strong>Web Personalization</strong> som visar befintligt innehåll från din webbplats, samt innehållsprestanda.</td> 
   </tr> 
   <tr> 
@@ -197,7 +197,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Anpassad målgrupp</a></strong></td> 
-   <td colspan="1">I Facebook skapar du en lista som består av specifika, befintliga personer (från din Marketo-databas) för direkt målinriktning.</td> 
+   <td colspan="1">På Facebook skapar du en lista med specifika, befintliga personer (från din Marketo-databas) för direkt målinriktning.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">Anpassat fält</a></strong></td> 
@@ -265,10 +265,10 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domänbaserad meddelandeautentisering, rapportering och överensstämmelse (DMARC)</strong></td> 
-   <td colspan="1">En DNS-baserad säkerhetsprincip för e-post som standardiserar åtgärden och tolkningen av <strong>SPF</strong> och <strong>DKIM</strong>, vilket gör att postlådeprovidrar kan validera den e-post som gör anspråk på att komma från giltiga källor för den domänen. Avsändare kan dessutom ange hur e-post som inte godkänns vid validering ska behandlas.</td> 
+   <td colspan="1">En DNS-baserad säkerhetsprincip för e-post som standardiserar åtgärden och tolkningen av <strong>SPF</strong> och <strong>DKIM</strong>, vilket gör att postlådeproviders kan validera att e-post som gör anspråk på att komma från en domän kommer från giltiga källor för den domänen. Avsändare kan dessutom ange hur e-post som inte godkänns vid validering ska behandlas.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domännycklar identifierade e-post</a> (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td> 
    <td colspan="1">En autentiseringsmekanism som skyddar den sändande domänen och gör det möjligt för avsändare att associera domännamnet i Från-adressen med ett visst e-postmeddelande. Detta gör att mottagaren kan känna till att e-postmeddelandet har skickats lagligen av domänens ägare. En avsändare signerar e-postmeddelandet med en digital signatur i meddelandehuvudet. Mottagaren kan dekryptera signaturen med en offentlig nyckel som publiceras i DNS av domänens ägare för att säkerställa att e-postmeddelandet skickades korrekt av domänens ägare.</td> 
   </tr> 
   <tr> 
@@ -285,7 +285,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamiskt innehåll</a></strong></td> 
-   <td colspan="1">Innehåll (t.ex. bilder, textutdrag, text) som fylls i på en <strong>e-postsida</strong> eller <strong>landningssida</strong> baserat på kriterier som du anger, vilket gör att du kan anpassa läsarens upplevelse. </td> 
+   <td colspan="1">Innehåll (t.ex. bilder, textutdrag, text osv.) som fylls i på en <strong>e-post</strong>- eller <strong>landningssida</strong> baserat på kriterier som du anger, vilket gör att du kan anpassa läsarens upplevelse. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -300,7 +300,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-post</strong></td> 
-   <td colspan="1">I Marketo är en av <strong>resurserna</strong> tillgänglig för att kommunicera med dina kunder. E-postmeddelanden kan vara HTML (bilder, anpassade teckensnitt osv.) eller Endast text (vanliga textmeddelanden utan särskild formatering). Endast HTML e-postmeddelanden kan spela in "öppningar".</td> 
+   <td colspan="1">I Marketo är en av <strong>resurserna</strong> tillgänglig för att kommunicera med dina kunder. E-postmeddelanden kan vara HTML (bilder, anpassade teckensnitt osv.) eller Endast text (oformaterade textmeddelanden utan särskild formatering). Det är bara HTML e-postmeddelanden som kan spela in "öppningar".</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Ogiltig e-postadress</strong></td> 
@@ -429,12 +429,12 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Intressant stund</strong></a></td> 
-   <td><p>I <strong>Marketo Sales Insight</strong> är en förekomst som du anser vara av särskild betydelse (t.ex. när någon besöker en viss sida på din webbplats klickar du på en viss länk i ett e-postmeddelande) som du vill att ditt säljteam ska vara medvetna om.</p></td> 
+   <td><p>I <strong>Marketo Sales Insight</strong> är en förekomst som du anser vara av särskild betydelse (när någon besöker en viss sida på webbplatsen klickar du på en viss länk i ett e-postmeddelande, osv.) som du vill att ditt säljteam ska vara medveten om.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## K {#k}
+## k {#k}
 
 <table> 
  <colgroup> 
@@ -490,7 +490,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
  </tbody> 
 </table>
 
-## M {#m}
+## m {#m}
 
 <table> 
  <colgroup> 
@@ -633,11 +633,7 @@ Nedan finns definitioner för många av termerna som du kan stöta på när du a
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">I Marketo <strong>Target Account Management</strong> är profiler en delmängd av en målgrupp, vilket möjliggör mer specifik målinriktning.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Röstning</strong></a></td> 
-   <td colspan="1">En omröstning i Marketo är precis som en vanlig omröstning. Skapa ett ämne som folk kan rösta på och dela på dina <strong>landningssidor</strong> på Marketo, din webbplats och/eller sociala medier.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 

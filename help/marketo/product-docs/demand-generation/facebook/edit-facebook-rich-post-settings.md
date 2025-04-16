@@ -1,31 +1,33 @@
 ---
 unique-page-id: 2950555
 description: Redigera Facebook Rich Post Settings - Marketo Docs - produktdokumentation
-title: Redigera inställningar för Facebook Rich Post
+title: Redigera inställningar för avancerat inlägg på Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Redigera inställningar för Facebook Rich Post {#edit-facebook-rich-post-settings}
+# Redigera inställningar för avancerat inlägg på Facebook {#edit-facebook-rich-post-settings}
 
 Anpassa inlägg när andra delar dig på Facebook.
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-Marketo [sociala appar](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från landningssidan som ska ingå i Facebook-inlägg.
+Marketo _sociala appar_ tillåter dina leads att dela dina landningssidor med sina anslutningar i sociala nätverk som Facebook, Twitter osv. Med Facebook OpenGraph-taggar (OG-taggar) kan du ange vilken information från din landningssida som ska ingå i Facebook-inlägg.
 
 ## Välj alternativ för Rich Post {#select-rich-post-options}
 
-Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg som genereras av delningar från din landningssida.
+Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inlägg som genereras av delningar från din landningssida.
 
-1. Välj **Facebook-meddelande** i redigeraren för **YouTube**-videon eller den sociala knappen.
+1. Välj **Facebook-meddelande** i redigeraren för din **YouTube**-video eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -43,13 +45,13 @@ Du kan ange vilka typer av sidinformation som ska användas i Facebook-inlägg s
    >
    >Dessa bör redan finnas i sidkällan, men för större kontroll kan du lägga till särskilda Facebook OG-taggar på landningssidan.
 
-   * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från landningssidan till bara huvudmeddelandet och länken.
+   * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från landningssidan till enbart huvudmeddelandet och länken.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Lägga till Facebook OG-taggar på en landningssida {#add-facebook-og-tags-to-a-landing-page}
+## Lägga till Facebooks OG-taggar på en landningssida {#add-facebook-og-tags-to-a-landing-page}
 
-Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna från din landningssida kan du lägga till Facebook OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
+Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna från din landningssida kan du lägga till Facebooks OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
 
 1. Öppna landningssidan som innehåller din **YouTube-video** eller sociala knapp.
 
@@ -61,7 +63,7 @@ Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna frå
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Lägg till HTML som definierar og:title, og:caption och og:description. Kopiera och klistra in dessa rader och ersätt platshållartexten:
+1. Lägg till den HTML som definierar log:title, og:caption och og:description. Kopiera och klistra in dessa rader och ersätt platshållartexten:
 
    `<meta property="og:title" content="My Post Title"/>`
 

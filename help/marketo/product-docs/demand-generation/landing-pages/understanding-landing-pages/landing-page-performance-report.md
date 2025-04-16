@@ -4,9 +4,9 @@ description: Prestandarapport för landningssida - Marketo Docs - produktdokumen
 title: Prestandarapport för landningssida
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 
 >[!NOTE]
 >
->Om antalet siffror i din smarta lista och landningssidans prestandarapport är olika beror det troligen på att Smarta listor bara filtrerar data på personer, medan Landing Page Performance Reports innehåller sociala (Facebook, Google Ads, etc.) och anonyma aktiviteter, utöver persondata.
+>Om antalet siffror i din smarta lista och landningssidans resultatrapport är olika beror det troligen på att smarta listor bara filtrerar data på personer, medan landningssidans resultatrapporter förutom persondata omfattar sociala (Facebook, Google Ads osv.) och anonyma aktiviteter.
 
 1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [för landningssidans prestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken Rapport.
@@ -36,10 +36,6 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 1. Bläddra till höger för att se antalet besök som kommer från olika plattformar för sociala medier.
 
    ![](assets/image2014-9-16-15-3a54-3a27.png)
-
->[!NOTE]
->
->Aktivitet som har genererats av den sociala knappen [med analyser](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) inkluderas inte här. Den här statusen finns i [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >

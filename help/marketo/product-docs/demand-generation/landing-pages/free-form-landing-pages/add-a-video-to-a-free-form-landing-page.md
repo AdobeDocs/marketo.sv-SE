@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: Lägg till en video på en startsida i fri form - Marketo Docs - produktdokumentation
 title: Lägga till en video på en startsida i frihandsformat
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -17,7 +19,7 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Navigera till landningssidan för friformulär och klicka på **Redigera utkast**.
 
@@ -43,8 +45,8 @@ Lägg in videofilmer med alternativ för delning via sociala medier på era land
 >
 >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig videoresurs.
 
-Grattis! Du har lagt till en videodelning på din startsida för fri form. Godkänn landningssidan så spelas din videoresurs upp live. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller [lägga videodelningen på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Grattis! Du har lagt till en videodelning på din startsida för fri form. Godkänn landningssidan så spelas din videoresurs upp live. Du kan även [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) eller _lägga ut videodelningen på din webbplats_.
 
 >[!MORELIKETHIS]
 >
->Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med att [anpassa delningsflödet](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (när och var delningsprompten öppnas).
+>Du är klar, men du kan ändra inställningarna för din videodelning om det behövs. Börja med att _anpassa delningsflödet_ (när och var delningsprompten öppnas).

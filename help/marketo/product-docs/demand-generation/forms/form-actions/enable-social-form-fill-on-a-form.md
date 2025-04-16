@@ -3,8 +3,10 @@ unique-page-id: 2359616
 description: Aktivera ifyllning av sociala formulär på ett formulär - Marketo Docs - produktdokumentation
 title: Aktivera ifyllning av sociala formulär i ett formulär
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+hide: true
+hidefromtoc: true
 feature: Forms
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +19,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Gå till **marknadsföringsaktiviteter**.
 
@@ -37,7 +39,7 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 
    >[!TIP]
    >
-   >Ta en titt på vilka [data Marketo kommer att hämta](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) om andra använder knapparna för sociala medier.
+   >Ta en titt på vilka _data Marketo kommer att hämta_ om andra använder knapparna för sociala medier.
 
 1. Klicka på **Slutför**.
 

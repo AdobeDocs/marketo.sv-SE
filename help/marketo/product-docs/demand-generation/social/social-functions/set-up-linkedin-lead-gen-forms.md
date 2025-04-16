@@ -4,9 +4,9 @@ description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - produktdokumen
 title: Konfigurera LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
 >[!IMPORTANT]
 >
->LinkedIn uppgraderar sina Marketing API:er som används av integreringar med Marketo Engage LinkedIn. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster på **Admin** > **LaunchPoint** -menyn mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn uppgraderar sina Marketing API:er som används av Marketo Engage LinkedIn-integreringar. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i **Admin** > **LaunchPoint** -menyn mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,72 +25,72 @@ Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och ge
 
 >[!NOTE]
 >
->Ett LinkedIn-lead kommer inte in i Marketo Engage om det matchar en befintlig personpost i Marketo som är kopplad till en företagspost som skapats med företags-API:er, och Marketo-prenumerationen inte är ansluten till någon CRM.
+>En LinkedIn-lead kommer inte till Marketo Engage om den matchar en befintlig personpost i Marketo som är kopplad till en företagspost som skapats med företags-API:er, och Marketo-prenumerationen inte är ansluten till någon CRM.
 
-1. Gå till Marketo **Admin**.
+1. Gå till området **[!UICONTROL Admin]**.
 
-   ![](assets/image2016-11-29-10-3a50-3a29.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 
-1. Gå till **LaunchPoint**, klicka på **Ny** och välj **Ny tjänst**.
+1. Gå till **[!UICONTROL LaunchPoint]**, klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Service]**.
 
-   ![](assets/image2016-11-29-10-3a51-3a11.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **LinkedIn Lead Gen** i listrutan och klicka på **Nästa**.
+1. Ange ett _visningsnamn_ för tjänsten, välj tjänsten **[!UICONTROL LinkedIn Lead Gen]** i listrutan och klicka på **[!UICONTROL Next]**.
 
-   ![](assets/linkedin-lead-gen.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
-1. Marketo öppnar en ny flik i samma webbläsare till [linkedin.com](https://www.linkedin.com). Logga in på LinkedIn med det konto du vill använda för integreringen.
+1. Marketo öppnar en ny flik i samma webbläsare till [linkedin.com](https://www.linkedin.com){target="_blank"}. Logga in på LinkedIn med det konto som du vill använda för integreringen.
 
    >[!NOTE]
    >
    >LinkedIn-kontot behöver tillgång till alla LinkedIn Business-konton som du skapar sponsrade kampanjer för.
 
-   ![](assets/linkedin-login.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. När du har loggat in på LinkedIn går du tillbaka till Marketo och klickar på **Auktorisera**.
+1. När du har loggat in på LinkedIn går du tillbaka till Marketo och klickar på **[!UICONTROL Authorize]**.
 
-   ![](assets/linkedin-lead-gen-authorize.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 
-1. När du uppmanas till det klickar du på **Tillåt** för att godkänna Marketo-appinstallationen i LinkedIn.
+1. När du uppmanas till det klickar du på **[!UICONTROL Allow]** för att godkänna Marketo-programinstallationen i LinkedIn.
 
-   ![](assets/linkedin-marketo-allow.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Du kommer att märka att du nu är auktoriserad. Klicka på **Nästa**.
+1. Du kommer att märka att du nu är auktoriserad. Klicka på **[!UICONTROL Next]**.
 
-   ![](assets/image2017-9-28-7-3a55-3a14.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >Tjänsten upphör automatiskt ett år efter auktoriseringen. Klicka bara på **Återauktorisera** om du vill återfå åtkomst. Du kan behöva ange ditt LinkedIn-lösenord igen, beroende på inställningarna för webbläsaren.
+   >Tjänsten upphör automatiskt ett år efter auktoriseringen. Klicka bara på **[!UICONTROL Re-Authorize]** om du vill återfå åtkomst. Du kan behöva ange ditt LinkedIn-lösenord igen, beroende på inställningarna i webbläsaren.
 
-1. Markera det/de konton du vill att LinkedIn Lead Gen-leads ska komma till Marketo från och klicka på **Nästa**.
+1. Markera det/de konton du vill att LinkedIn-lead Gen ska komma till Marketo från och klicka på **[!UICONTROL Next]**.
 
    >[!TIP]
    >
-   >Om du inte ser de företagskonton du förväntar dig ska du se till att användarens LinkedIn-konto som auktoriseras har Lead Gen Form Manager-behörigheter till företagskontot i LinkedIn.
+   >Om du inte ser de företagskonton som du förväntar dig ska du se till att användarens LinkedIn-konto som auktoriseras har Lead Gen Form Manager-behörigheter till företagskontot i LinkedIn.
 
-   ![](assets/linkedin-pages-to-capture.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Om du vill acceptera standardfältkopplingar från LinkedIn till Marketo klickar du bara på **Skapa**. Om du vill ändra standardfältmappningen, ta bort en fältmappning eller lägga till en ny fältmappning, kan du göra detta per fält via modalen nedan.
+1. Om du vill acceptera standardfältkopplingar från LinkedIn till Marketo klickar du bara på **[!UICONTROL Create]**. Om du vill ändra standardfältmappningen, ta bort en fältmappning eller lägga till en ny fältmappning, kan du göra detta per fält via modalen nedan.
 
    >[!CAUTION]
    >
-   >Marketo har stöd för att mappa två LinkedIn-fält till ett Marketo-fält, **, men bara när** de två LinkedIn-fälten inte finns i samma formulär. Om du mappar två fält från samma LinkedIn-formulär till ett enda Marketo-fält kan det hända att ingen kan ange Marketo-databasen.
+   >Marketo stöder mappning av två LinkedIn-fält till ett enda Marketo-fält, _, men bara när_ de två LinkedIn-fälten inte finns i samma formulär. Om du mappar två fält från samma LinkedIn-formulär till ett enda Marketo-fält kan det hända att ingen kan komma att ange din Marketo-databas.
 
-   ![](assets/linkedin-lead-gen-mapping.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-9.png)
 
    >[!NOTE]
    >
-   >Endast LinkedIn-fält som redan har sparats i en [formulärmall](https://www.linkedin.com/help/lms/answer/79634) i LinkedIn Campaign Manager visas som LinkedIn-fält som kan mappas till Marketo-fält.
+   >Endast LinkedIn-fält som redan har sparats i en [formulärmall](https://www.linkedin.com/help/lms/answer/79634){target="_blank"} i LinkedIn Campaign Manager visas som LinkedIn-fält som kan mappas till Marketo-fält.
 
-   ![](assets/linkedin-installed-services.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-Snyggt gjort! Personer som skickar in LinkedIn Lead Gen-formulär börjar flöda in i Marketo när ni genomför framgångsrika kampanjer på LinkedIn sida.
+Snyggt gjort! Personer som skickar in LinkedIn-formulär för Lead Gen börjar flöda in i Marketo när ni kör framgångsrika kampanjer på LinkedIn-sidan.
 
 >[!NOTE]
 >
->Du kan bara auktorisera ett LinkedIn-användarkonto. Om du har flera Business-konton som du vill länka till Marketo måste du se till att användarens LinkedIn-konto som auktoriseras har Lead Gen Form Manager-behörighet till företagskontot i LinkedIn.
+>Du kan bara auktorisera ett enstaka LinkedIn-användarkonto. Om du har flera företagskonton som du vill länka till Marketo måste du se till att användarens LinkedIn-konto som auktoriseras har Lead Gen Form Manager-behörigheter till företagskontot i LinkedIn.
 
 >[!MORELIKETHIS]
 >
->[Använd LinkedIn Lead Gen-formulärfilter och utlösare i en smart kampanj](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[Använd LinkedIn-formulärfilter och utlösare för lead-generering i en smart kampanj](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}

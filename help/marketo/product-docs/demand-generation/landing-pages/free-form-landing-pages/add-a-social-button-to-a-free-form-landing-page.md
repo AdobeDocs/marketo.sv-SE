@@ -4,7 +4,7 @@ description: Lägg till en social knapp på en startsida i fri form - Marketo Do
 title: Lägga till en social knapp på en startsida i friform
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Lägga till en social knapp på en startsida i friform {#add-a-social-button-to-a-free-form-landing-page}
 
-En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. Släpp den på landningssidor i fri form, Facebook och din webbplats.
+En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. Släpp den på landningssidor på fri hand, Facebook och din webbplats.
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Navigera till landningssidan för friformulär och klicka på **Redigera utkast**.
 
@@ -31,7 +31,7 @@ En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. 
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   När landningssidan är aktiv kan du se aktiviteten som genereras av knappen för sociala medier (med Analytics) på [instrumentpanelen för sociala medier](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   När landningssidan är aktiv kan du se aktiviteten som genererats av knappen _för sociala medier (med Analytics) på kontrollpanelen för sociala medier_.
 
    Om du lägger till en Gilla/Rekommendera knapp (Lite) i stället, se antalet delningar i [prestandarapporten för landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -49,10 +49,10 @@ En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. 
    >
    >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig social knapp.
 
-   [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [placera den sociala knappen på din webbplats](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _placera den sociala knappen på din webbplats_
 
 Grattis! Du har lagt till en social knapp på landningssidan. Var noga med att godkänna landningssidan.
 
 >[!MORELIKETHIS]
 >
->Du är klar, men du kan ändra inställningarna för den sociala knappen om det behövs. Börja med att [anpassa knappformatet](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) eller [redigera delningsmeddelandena](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) som visas.
+>Du är klar, men du kan ändra inställningarna för den sociala knappen om det behövs. Börja med att _anpassa knappformatet_ eller _redigera delningsmeddelandena_ som visas.

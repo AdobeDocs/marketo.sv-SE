@@ -4,9 +4,9 @@ description: Understanding Local Assets in a Program - Marketo Docs - Product Do
 title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Lokala resurser är det innehåll som utgör programmet. Assets är anpassningsb
 
 >[!NOTE]
 >
->Alla har inte åtkomst till alla tillgängliga resurser. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte åtkomst till alla tillgängliga resurser. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 * [Smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [Listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
@@ -31,9 +31,4 @@ Lokala resurser är det innehåll som utgör programmet. Assets är anpassningsb
 * [Startsida](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
 * [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Testgrupp](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Knapp för sociala medier](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [YouTube-video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [Avsökning](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [Referenserbjudande](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
-* [Lotteriet](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [Vibes SMS-meddelanden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
