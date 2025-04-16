@@ -3,9 +3,9 @@ description: GenAI Features - Marketo Docs - produktdokumentation
 title: GenAI-funktioner
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ När du har kopierat det innehåll du vill använda, klistrar du in det i valfri
 ### Kapitel {#chapters}
 
 **Kopiera HTML** - Klicka på knappen **[!UICONTROL Copy HTML]** för att få alla inspelningar och dess kapitel formaterade inuti en videospelare.
+
+## Rikta er till er målgrupp
+
+Utnyttja Smart Campaign/List-filter och/eller triggers för att se vad varje tittare tittade på, hur många gånger, osv., vilket möjliggör personaliserade uppföljningar.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Utlösare**: _Klicka på Länk på webbsida_, _Besök webbsida_
+
+* **Filter**: _Klicka på Länk på webbsida_, _Besökt webbsida_
+
+&quot;link&quot; är namnet på kapitlet och &quot;web page&quot; är den sida som är värd för ditt On Demand-webbinarium.
+
+>[!TIP]
+>
+>Använd [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om du vill förfina målgruppen ytterligare.
 
 ## Saker att notera {#things-to-note}
 
