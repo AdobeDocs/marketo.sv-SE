@@ -4,9 +4,9 @@ description: Inaktivera spårning för en e-postlänk - Marketo Docs - produktdo
 title: Inaktivera spårning för en e-postlänk
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ Om ett e-postmeddelande skickades för över 365 dagar sedan **och** ingen har k
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >Vill du inaktivera klickspårning för en länk i en **mall**? Använd det här formatet:
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Kontakta din webbutvecklare om du behöver hjälp med att implementera detta.
-
-Snyggt! Du har nu inaktiverat spårning för en länk.
+   >Om du vill inaktivera klickspårning för en länk i en e-postmall, eller [textversion](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} i ett e-postmeddelande, lägger du till `mktNoTrack` i *början* av strängen, inte i slutet, som i det här exemplet: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Annars kan länken försvinna. Om du behöver hjälp med att implementera ovanstående kod, konsultera din webbutvecklare.
