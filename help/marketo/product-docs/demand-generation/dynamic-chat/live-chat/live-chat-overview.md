@@ -3,7 +3,7 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Med live-chatt kan besökare på webbplatsen delta i chattsamtal i realtid med s
 
 >[!NOTE]
 >
->För dem som har paketet Dynamic Chat Select är live chatt en utvärderingsfunktion med en livstidsgräns på 100 åtaganden. När den här gränsen har nåtts kommer besökare som begär att chatta med en Live-agent inte att vara anslutna och i stället få det globala återgångsmeddelandet. Kontakta din kontorepresentant på Adobe för att diskutera alternativ för paketuppgradering om du vill öka gränsen.
+>För dem som har Dynamic Chat Select-paketet är live-chatt en utvärderingsfunktion med en livstidsgräns på 100 åtaganden. När den här gränsen har nåtts kommer besökare som begär att chatta med en Live-agent inte att vara anslutna och i stället få det globala återgångsmeddelandet. Om du vill höja gränsen kontaktar du din Adobe-kontorepresentant för att diskutera alternativ för paketuppgradering.
 
 ## Lägg till chattagenter live {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ När besökare begär att få chatta med en agent via din dialogruta har agenter
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Uppdatera bilden genom att följa [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
@@ -113,7 +113,7 @@ När en åtgärd som en mötesbokning eller en live-chatt misslyckas meddelas an
 
 ### Saker att notera {#things-to-note}
 
-* Agenter har 45 sekunder på sig att svara innan meddelandet&quot;Godkänn chatt&quot; går ut. Efter det får besökarna [grundmeddelandet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Chat Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
+* Agenter har 100 sekunder på sig att svara innan tidsgränsen för&quot;Godkänn chatt&quot;-meddelandet överskrids. Efter det får besökarna [grundmeddelandet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Chat Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
 * Det finns för närvarande en gräns på 10 chatt per agent.
 
 >[!MORELIKETHIS]
