@@ -4,9 +4,9 @@ title: Aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>RUBRIK</strong>: Text.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>RUBRIK</strong>: Text.</td> 
+   <td><strong>SSL (Secure Socket Layer) Self Service</strong>: Med SSL-kryptering kan du göra landningssidor för en Marketo Engage-instans säkra. Om du aktiverar den här funktionen tidigare behöver du hjälp av Adobe supportteam. Marketo-användare kan nu aktivera programmet på egen hand, vilket sparar värdefull tid.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
