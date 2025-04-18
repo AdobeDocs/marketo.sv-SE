@@ -4,66 +4,90 @@ description: Hantera mina token - Marketo Docs - produktdokumentation
 title: Hantera mina token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
 
 # Hantera mina token {#managing-my-tokens}
 
-Att använda variabler kan förenkla arbetet i Marketo. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (anpassade token) i flödessteg, webbhocker, e-post och landningssidor. Så här skapar du dem.
+Att använda variabler kan förenkla arbetet i Marketo Engage. Du kan använda [Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (anpassade token) i flödessteg, webbhocker, e-post och landningssidor. Så här skapar du dem.
 
 >[!TIP]
 >
 >Läs mer om vilka tokens som redan är tillgängliga i [Översikt över token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-## Skapa en Min token {#create-a-my-token}
+## Skapa en lokal eller global My Token {#create-a-my-token}
 
-1. Gå till **[!UICONTROL Marketing Activities]**.
+>[!BEGINTABS]
 
-   ![](assets/login-marketing-activities.png)
+>[!TAB Lokala mina token]
 
-1. Välj ett program eller en kampanjmapp. Klicka på **[!UICONTROL My Tokens]**.
+1. I **[!UICONTROL Marketing Activities]** väljer du önskad program- eller kampanjmapp och klickar på fliken **[!UICONTROL My Tokens]**.
 
-   ![](assets/image2014-9-18-12-3a4-3a27.png)
+   ![](assets/create-a-local-my-token-1.png)
 
-1. Välj en **[!UICONTROL My Token]**-typ. Dra och släpp det på arbetsytan.
+1. Dra önskad Min token till arbetsytan.
 
-   ![](assets/image2014-9-18-12-3a4-3a39.png)
+   ![](assets/create-a-local-my-token-2.png)
 
-1. Skriv in ett unikt namn. Ange ett relevant värde för token.
+1. Skriv ett unikt namn och ange ett relevant värde.
 
-   ![](assets/image2014-9-18-12-3a4-3a53.png)
+   ![](assets/create-a-local-my-token-3.png)
 
 1. Klicka på **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a5.png)
+   ![](assets/create-a-local-my-token-4.png)
 
-   Ja! Du gjorde en Min token.
+>[!TAB Globala mina token]
 
-   ![](assets/image2014-9-18-12-3a5-3a15.png)
+>[!NOTE]
+>
+>Administratörsbehörighet krävs.
+
+1. Gå till området **[!UICONTROL Admin]** och välj **[!UICONTROL My Tokens]**.
+
+   ![](assets/create-a-global-my-token-1.png)
+
+1. Dra önskad Min token till arbetsytan.
+
+   ![](assets/create-a-global-my-token-2.png)
+
+1. Skriv ett unikt namn och ange ett relevant värde.
+
+   ![](assets/create-a-global-my-token-3.png)
+
+1. Klicka på **[!UICONTROL Save]**.
+
+   ![](assets/create-a-global-my-token-4.png)
+
+>[!ENDTABS]
 
 ## Redigera en Min token {#edit-a-my-token}
 
-1. Dubbelklicka på **[!UICONTROL My Token]** och gör ändringarna. Klicka på **Spara**.
+1. Markera den token som du vill redigera och klicka på **[!UICONTROL Edit Token]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a45.png)
+   ![](assets/edit-a-my-token-1.png)
+
+1. Redigera. Klicka på **[!UICONTROL Save]** när du är klar.
+
+   ![](assets/edit-a-my-token-2.png)
 
 ## Ta bort en Min token {#delete-a-my-token}
 
 >[!CAUTION]
 >
->När du tar bort en Min token måste du se till att du inte refererar till den i någon resurs. Ett tomt utrymme visas på alla ställen som det refereras till om det tas bort.
+>När du tar bort en Min token måste du se till att det inte finns någon referens till den för tillfället i någon resurs. Ett tomt utrymme visas på alla ställen som det refereras till om det tas bort.
 
-1. Högerklicka på **[!UICONTROL My Token]**. Välj **[!UICONTROL Delete Token]**.
+1. Markera den token som du vill ta bort och klicka på **[!UICONTROL Delete Token]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a24.png)
+   ![](assets/delete-a-my-token-1.png)
 
 1. Klicka på **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a31.png)
+   ![](assets/delete-a-my-token-2.png)
 
    >[!MORELIKETHIS]
    >

@@ -2,9 +2,10 @@
 description: Versionsinformation - mars 2025 - Marketo Docs - produktdokumentation
 title: Versionsinformation - mars 2025
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -53,7 +54,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   <tr> 
    <td><strong>Global och Workspace My Tokens</strong>: Konfigurera mina tokens både på arbetsytan och på global nivå för att möjliggöra ökad produktivitet och kontroll över varumärkes- och marknadsföringsmaterial på Marketo Engage arbetsytor och till och med hela instanser.</td> 
    <td>Levererat</td>
-   <td>n/a</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Skapa en global My Token</a></td>
   </tr>
   </tbody> 
 </table>

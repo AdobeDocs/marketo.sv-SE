@@ -4,9 +4,9 @@ description: Förstå mina token i ett program - Marketo Docs - produktdokumenta
 title: Förstå mina token i ett program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Förutom Mina token kan du även använda alla inbyggda tokens i dina program. T
 
 ## Mina token  {#my-tokens}
 
-Mina token är anpassade variabler som alla kan skapa. De [skapas](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} i antingen kampanjmappar eller program.
+Mina token är anpassade variabler som alla kan skapa. Lokalt är de [skapade](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} antingen i kampanjmappar eller i program.
 
 Mina token visas så här: `{{my.Name Of Token}}`
 
@@ -61,8 +61,8 @@ Exempel:
    <td>Använd den här token i <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">Ändra poängflödessteget</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">SFDC-kampanj <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">Använd denna token för att tillåta att leads som blir en del av ett Marketo-program även läggs till i det SFDC-kampanjer som läggs till.</td> 
+   <td colspan="1">SFDC Campaign <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
+   <td colspan="1">Använd den här variabeln för att tillåta att leads som blir en del av ett Marketo-program även läggs till i det som SFDC Campaign läggs till.</td> 
   </tr> 
   <tr> 
    <td>Text <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
@@ -73,7 +73,7 @@ Exempel:
 
 >[!CAUTION]
 >
->Mina token kommer inte att matchas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. Endast standardtokens fylls i (Lead, Company osv.). Standardvärden för tokens _fungerar dock_.
+>Mina token kommer inte att matchas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. Endast standardtokens fylls i (Lead, Company, etc.). Standardvärden för tokens _fungerar dock_.
 
 ## Kapslade token {#nesting-tokens}
 
