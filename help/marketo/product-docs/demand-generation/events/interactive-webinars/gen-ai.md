@@ -3,7 +3,7 @@ description: GenAI Features - Marketo Docs - produktdokumentation
 title: GenAI-funktioner
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -38,7 +38,7 @@ När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det f�
 
 1. När du har utfört ett on-demand-webbinarium väntar du 30 till 60 minuter tills AI bearbetar inspelningen. Knappen Generera blir klickbar när den är tillgänglig.
 
-1. Klicka på **[!UICONTROL Generate]**.
+1. Klicka på **[!UICONTROL View GenAI Content]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
