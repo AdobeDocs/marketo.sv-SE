@@ -4,9 +4,10 @@ title: Demandbase
 feature: Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
+source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,29 @@ ht-degree: 0%
 
 Demandbase-användare kan använda personattribut för Demandbase för dialog, villkorsstyrd varumärkesprofilering och anpassad routning i Dynamic Chat.
 
-**Integrationsfunktioner**
+## Åtkomst till API-nyckeln för Dynamic Chat {#access-the-api-key-for-dynamic-chat}
+
+Stegen nedan ska utföras _på ditt Demandbase-konto_.
+
+1. Klicka på ikonen _Inställningar_ i Demandbase.
+
+1. Välj **Kontokoppling** under _Integrationer_.
+
+1. Klicka på knappen **+ Skapa ny**.
+
+1. I listrutan _Integrationsnamn_ väljer du **Adobe Dynamic Chat**.
+
+1. Markera alternativknappen **Serversidan**.
+
+1. Klicka på **Skapa**.
+
+1. Kopiera API-tokensträngen längst ned på sidan med ikonen _copy_ .
+
+>[!NOTE]
+>
+>Mer information finns i [Konfigurera Demandbase för att skicka data till en integrering (Account Connector)](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} på hjälpwebbplatsen för Demandbase.
+
+## Integreringsfunktioner {#integration-features}
 
 Rikta er mot er målgrupp baserat på Demandbase-attribut, utöver inbyggda och anpassade attribut, samtidigt som ni skapar en dialog eller ett konversationsflöde.
 
