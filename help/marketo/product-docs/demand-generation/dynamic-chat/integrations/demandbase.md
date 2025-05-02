@@ -2,12 +2,10 @@
 description: Demandbase - Marketo Docs - produktdokumentation
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -33,6 +31,8 @@ Stegen nedan ska utföras _på ditt Demandbase-konto_.
 1. Klicka på **Skapa**.
 
 1. Kopiera API-tokensträngen längst ned på sidan med ikonen _copy_ .
+
+1. Skicka en biljett med [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) och ange API-tokensträngen för att aktivera Demandbase-integreringen.
 
 >[!NOTE]
 >

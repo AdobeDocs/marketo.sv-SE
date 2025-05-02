@@ -3,7 +3,7 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Det finns _många_ möjliga kombinationer av strömmar. Den här artikeln inneh�
 
 >[!PREREQUISITES]
 >
->Innan du kan använda dokumentkortet måste du först [konfigurera det](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} i ditt Adobe-konto.
+>Innan du kan använda dokumentkortet måste du [konfigurera det](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} i ditt Adobe-konto.
 
 ## Strömma Designer-kort {#stream-designer-cards}
 
@@ -25,7 +25,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
 <table>
  <tr>
   <td style="width:25%"><strong>Meddelande</strong></td>
-  <td>Använd det här alternativet om du vill göra en programsats utan något svar (t.ex. "Hi! Alla artiklar är 25 % rabatt idag med koden SAVE25").
+  <td style="width:75%">Använd det här alternativet om du vill göra en programsats utan något svar (t.ex. "Hi! Alla artiklar är 25 % rabatt idag med koden SAVE25").
 </td>
  </tr>
  <tr>
@@ -34,7 +34,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Dokument</strong></td>
-  <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
+  <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökarnas engagemang (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Inhämtning av information</strong></td>
@@ -42,7 +42,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Mötesbokning</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka på <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa ett <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till att inte skriva över ett standardfält i Marketo Engage).</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka på <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa ett <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till så att den inte skriver över ett Marketo Engage-standardfält).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Mål</strong></td>
@@ -51,7 +51,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td style="width:25%"><strong>Åtgärd*</strong></td>
   <td>På samma sätt som dolda fält i ett formulär kan du med åtgärdskortet fylla i alla lead- eller företagsattribut (som har datatypen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
-  <p><i>* Det här kortet kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
+  <p><i>* Kortet kräver Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live-chatt</strong></td>
@@ -62,11 +62,11 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td style="width:25%"><strong>Genererade svar*</strong></td>
   <td>Skapa ett meddelande till besökaren när de når en viss punkt i konversationen. Ställ in ett antal frågor som de kan ställa på en gång för att få fram den önskade nyckelprestandaindikatorn.
-  <p><i>* Det här kortet kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
+  <p><i>* Kortet kräver Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Villkorlig förgrening</strong></td>
-  <td>Skapa grenar i Dialogrutorna baserat på olika villkor. Presentera olika innehåll för olika personer i samma dialog baserat på lead- och företagsattribut i Marketo Engage.</td>
+  <td>Skapa grenar i Dialogrutorna baserat på olika villkor. Presentera olika innehåll för olika personer i samma dialogruta baserat på lead- och företagsattribut i Marketo Engage.</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Konversationsflöde</strong></td>
@@ -109,7 +109,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-6.png)
 
-1. Dra och släpp [!UICONTROL Question]-kortet.
+1. Dra och släpp _[!UICONTROL Question]_-kortet.
 
    ![](assets/stream-designer-7.png)
 
@@ -121,7 +121,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
    >
    >Ni kan anpassa upplevelsen för chattbesökare!
    >
-   >* Klicka på ikonen Infoga HTML `</>` för att infoga din egen HTML för att få önskat utseende och känsla för konversationen.
+   >* Klicka på ikonen Infoga HTML `</>` för att infoga din egen HTML för önskat utseende och känsla för konversationen.
    >
    >* Använd tokens för kända chattbesökare för att anpassa deras upplevelse (till exempel: Hej `{{lead.leadFirstName:""}}`). Klicka på klammerparentesen `{}` och gör ditt val. Lägg till ett standardvärde mellan citattecknen om du vill att anonyma besökare ska se något generiskt (t.ex. Hello `{{lead.leadFirstName:"there"}}`).
 
@@ -137,7 +137,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
    >
    >**[!UICONTROL Edit Stored Values]** är ett valfritt steg för dem som vill lagra ett annat värde i databasen än det som visas för besökare i chatbot för mappade attribut på frågekortet (t.ex. besökaren ser Sökmotoroptimering, du lagrar det värdet som SEO.).
 
-1. För Ja vill vi schemalägga en avtalad tid, så under det alternativet drar du över schemaläggarkortet för avtalad tid.
+1. För Ja vill vi boka ett möte, så under det alternativet drar du över kortet _Mötesbokning_.
 
    ![](assets/stream-designer-10.png)
 
@@ -208,7 +208,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-21.png)
 
-1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har värdtjänster för och klicka på **[!UICONTROL Save]**.
+1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till den PDF som du redan har som värd och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
