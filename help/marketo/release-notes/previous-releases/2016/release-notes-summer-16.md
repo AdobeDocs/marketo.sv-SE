@@ -104,7 +104,7 @@ Visa innehållsanalyser och rekommendationer offline.
 
 Redan befintliga resurs-API:er, som tidigare bara var kompatibla med e-post och mallar i version 1.0, är nu aktiverade för e-postresurser i version 2.0.
 
-## [Marketo Developer Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developer Site](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nytt och förbättrat!
 

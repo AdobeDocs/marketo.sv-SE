@@ -37,7 +37,7 @@ Intresseutforskaren har ett helt nytt utseende och en helt ny känsla, liksom de
 
 ## Nya REST API:er för resurs {#new-asset-rest-apis}
 
-[Nya REST API:er för resurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nya REST API:er för resurs](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/assets)
 
 Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
 

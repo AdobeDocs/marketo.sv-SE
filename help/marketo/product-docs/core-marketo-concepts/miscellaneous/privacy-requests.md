@@ -25,10 +25,10 @@ I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyd
 
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 
-* Genom användargränssnittet [&#128279;](https://privacyui.cloud.adobe.io/) för Privacy Servicen. Se dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Genom användargränssnittet [&#128279;](https://privacyui.cloud.adobe.io/) för Privacy Servicen. Se dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=sv-SE){target="_blank"}.
 * Via Privacy Services-API:t. Se dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} och API-information [här](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} har stöd för två typer av förfrågningar: dataåtkomst och borttagning av data.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=sv-SE){target="_blank"} har stöd för två typer av förfrågningar: dataåtkomst och borttagning av data.
 
 Låt oss se hur du kan skapa förfrågningar om åtkomst och borttagning.
 

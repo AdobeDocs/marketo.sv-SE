@@ -86,10 +86,10 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 ## Integrering  {#integration}
 
-**[API för e-postförhandsgranskning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API för e-postförhandsgranskning](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)**
 
 Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
-**[Ersätt HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Ersätt HTML API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)**
 
 Utvecklare kan fjärruppdatera HTML innehåll i e-postresurser, vilket gör att de kan arbeta i ett enda system för att underhålla resurser.

@@ -22,7 +22,7 @@ Du bör känna till byggstenarna och den rekommenderade sekvensen för att skapa
 
 >[!NOTE]
 >
->Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Förutsättningar {#prerequisites}
 

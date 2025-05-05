@@ -25,7 +25,7 @@ Följande funktioner släpptes 15 mars 2019.
 
 * **Väntelistat:** Ny program-/händelsestatus för att vänta på en medlem när du vill [spärra dem](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
 * **[Anpassad kommunikationsgräns](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratörer kan nu ange anpassade kommunikationsgränser per dag eller vecka.
-* **[Tillgångs-API:er för smarta kampanjer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Förbättra dina analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
+* **[Tillgångs-API:er för smarta kampanjer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Förbättra dina analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
 * **HTTPS-spårningslänkar för e-post:** För kunder som har köpt säkra domäner för spårningslänkar kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
 * **Powerpack-uppdateringar för e-postleverans**: Möjlighet att flagga och kommentera specifika testresultat, dela resultat med intressenter via en URL och spåra ändringar för att se hur ett e-postmeddelande utvecklas när intressenter redigerar innehåll.
 

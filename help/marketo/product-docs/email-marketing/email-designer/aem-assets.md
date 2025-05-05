@@ -15,7 +15,7 @@ Koppla ditt _Adobe Experience Manager Assets as a Cloud Service_-konto till din 
 
 >[!NOTE]
 >
->För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Få åtkomst till AI Assistant Content Accelerator {#access-the-ai-assistant-content-accelerator}
 
@@ -79,7 +79,7 @@ Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange A
 
 >[!IMPORTANT]
 >
->En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicka på ikonen _Experience Manager-resursväljaren_ i det vänstra sidofältet i den visuella innehållets redigerare. Detta ändrar verktygspanelen till en lista med tillgängliga resurser i den valda databasen.
 

@@ -29,26 +29,26 @@ Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-
   <tr>
     <td>Alla personer</td>
     <td><li>Bestäm hur du implementerar en 1:1-synkronisering med CRM eller använd filter för att begränsa vem som ska flytta från system till system och när.</li> 
-    <li>Granska det totala antalet personer och marknadsföringsbara personer i din <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage-databas</a>.</li></td>
+    <li>Granska det totala antalet personer och marknadsföringsbara personer i din <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=sv-SE" target="_blank">Marketo Engage-databas</a>.</li></td>
   </tr>
   <tr>
     <td>Blockeringslista</td>
-    <td><li>Definiera villkor för blockeringslista. Överväg att lägga till konkurrentens domäner i din <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">blockeringslista</a> för att hindra dem från att ta emot dina e-postmeddelanden.</li></td>
+    <td><li>Definiera villkor för blockeringslista. Överväg att lägga till konkurrentens domäner i din <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=sv-SE" target="_blank">blockeringslista</a> för att hindra dem från att ta emot dina e-postmeddelanden.</li></td>
   </tr>
   <tr>
     <td>Marknadsföring har pausats</td>
-    <td><li>Definiera villkor för <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">pausad marknadsföring</a>.</li></td>
+    <td><li>Definiera villkor för <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">pausad marknadsföring</a>.</li></td>
   </tr>
   <tr>
     <td>Avrundade e-postadresser </td>
     <td><li>Definiera villkor för studsade e-postadresser.</li>
-    <li>Granska personerna i kategorin"E-post ogiltig" och kontrollera om deras e-postmeddelanden behöver återställas <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">manuellt</a>.</li></td>
+    <li>Granska personerna i kategorin"E-post ogiltig" och kontrollera om deras e-postmeddelanden behöver återställas <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=sv-SE" target="_blank">manuellt</a>.</li></td>
   </tr>
   <tr>
     <td>Möjliga dubbletter</td>
     <td><li>Granska personer i listan Möjliga dubbletter.</li> 
-    <li>Definiera din strategi för hantering av dubbletter för att avgöra om du vill <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">sammanfoga personer manuellt</a>.</li>  
-    <li>Om du har en CRM-integrering definierar du en process och ett konto för <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">effekten av att sammanfoga leads i CRM</a>.</li></td>
+    <li>Definiera din strategi för hantering av dubbletter för att avgöra om du vill <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=sv-SE" target="_blank">sammanfoga personer manuellt</a>.</li>  
+    <li>Om du har en CRM-integrering definierar du en process och ett konto för <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">effekten av att sammanfoga leads i CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Inget förvärvsprogram</td>
@@ -56,7 +56,7 @@ Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-
   </tr>
   <tr>
     <td>Avbeställ</td>
-    <td><li>Granska dina villkor för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">Avbeställ personer</a>.</li></td>
+    <td><li>Granska dina villkor för <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=sv-SE" target="_blank">Avbeställ personer</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-
 <tbody>
   <tr>
     <td>Segmentering</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">Skapa segmenteringar</a> baserat på ditt företags behov. Varje prenumeration är begränsad till 20 segmenteringar och 100 segment inom varje segmentering.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=sv-SE" target="_blank">Skapa segmenteringar</a> baserat på ditt företags behov. Varje prenumeration är begränsad till 20 segmenteringar och 100 segment inom varje segmentering.</li></td>
   </tr>
 </tbody>
 </table>

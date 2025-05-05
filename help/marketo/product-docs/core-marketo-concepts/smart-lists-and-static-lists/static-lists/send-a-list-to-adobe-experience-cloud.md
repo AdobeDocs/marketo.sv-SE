@@ -94,7 +94,7 @@ Du kan när som helst stoppa synkroniseringen av listan.
 
 **Delning till Adobe Analytics**
 
-* För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
+* För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
 
 * Om en lista är tom, eller om det inte finns några personer med ECID-värden, skickas listnamnet inte för referens utanför Marketo Engage.
 

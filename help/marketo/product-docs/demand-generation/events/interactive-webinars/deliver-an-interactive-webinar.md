@@ -103,7 +103,7 @@ Diskussionen i panelen Chatt spelas inte in. På chattpanelen frigörs också de
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Läs mer om [chattpanelen](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Läs mer om [chattpanelen](https://helpx.adobe.com/se/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Förbered läge {#prepare-mode}
 
@@ -126,16 +126,16 @@ Läs mer om Förbered läge [ i den här videon](https://www.youtube.com/watch?v
 >[!NOTE]
 >
 >* Alla ändringar som görs i de aktiva områdena återspeglas direkt för deltagarna.
->* [Chattpanelen](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} är inte en del av Förbered-läget och eventuella ändringar av den visas direkt för deltagarna.
+>* [Chattpanelen](https://helpx.adobe.com/se/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} är inte en del av Förbered-läget och eventuella ändringar av den visas direkt för deltagarna.
 
 ### Tillgänglighet {#accessibility}
 
 Adobe strävar efter att inkludera presentatörer och deltagare med funktionshinder genom att förbättra tillgängligheten till interaktiva webbinarier. Programmen har ständigt förbättrats för att uppfylla behoven hos alla typer av användare och för att uppfylla de världsomspännande standarder som omfattar personer med nedsatt syn, hörsel, mobilitet eller andra funktionshinder.
 
-Lär dig mer om hur Adobe Connect kan hjälpa [användare med visuella, auditiva och mobila funktioner](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Lär dig mer om hur Adobe Connect kan hjälpa [användare med visuella, auditiva och mobila funktioner](https://helpx.adobe.com/se/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Undertexter {#closed-captions}
 
 Undertexter är en textrepresentation av ljudet i ett Adobe Connect-rum och hjälper deltagare som är döva eller hörda att delta i event. Du kan integrera bildtexter av ljudinnehåll i realtid i händelser och presentera dessa bildtexter i bildtextvisningen.
 
-Lär dig [aktivera undertexter](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Lär dig [aktivera undertexter](https://helpx.adobe.com/se/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.

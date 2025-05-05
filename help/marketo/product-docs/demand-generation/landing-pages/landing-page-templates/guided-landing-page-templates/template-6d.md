@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 6D {#template-6d}
 
-Högerklicka för att [hämta mall 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+Högerklicka för att [hämta mall 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=sv-SE)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+[Template 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=sv-SE)

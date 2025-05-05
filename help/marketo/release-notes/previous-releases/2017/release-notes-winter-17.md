@@ -81,7 +81,7 @@ Det finns en förbättrad redigeringsupplevelse och layout som delar upp innehå
 
 Bild-URL och metadata används nu i processen för automatisk identifiering av innehåll.
 
-## [SDK-förbättringar](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK-förbättringar](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Utvecklare har nu ytterligare kontroll över leveransen av push-meddelanden med ett nytt SDK API-anrop som gör att utvecklare kan ta bort push-tokens.
 

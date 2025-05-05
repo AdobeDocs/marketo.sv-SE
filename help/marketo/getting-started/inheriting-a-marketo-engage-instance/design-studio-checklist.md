@@ -25,7 +25,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr> 
    <td>Globala landningssidor</td> 
    <td><li>Hur många globala <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landningssidor</a> finns det? Används de av program?</li>
-   <li>Har du konfigurerat en <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">prenumerationscentral</a>?
+   <li>Har du konfigurerat en <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=sv-SE" target="_blank">prenumerationscentral</a>?
    <br/>     Om inte kan du skapa en.</li></td>
   </tr>
   <tr> 

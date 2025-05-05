@@ -261,7 +261,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dokument</strong></td> 
-   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">dokument för utvecklare</a> och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">supportdokument</a>.</td> 
+   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home" rel="nofollow">dokument för utvecklare</a> och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">supportdokument</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domänbaserad meddelandeautentisering, rapportering och överensstämmelse (DMARC)</strong></td> 

@@ -21,7 +21,7 @@ Alla nya Adobe Marketo Engage-prenumerationer (31 juli 2023 eller senare) är in
 För prenumerationer som är kopplade till Adobe identitet används Adobe Admin Console för användarhantering. Identitetsrelaterade begrepp, som enkel inloggning, hanteras också i Admin Console.
 
 * Mer information om [Adobe Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html){target="_blank"}.
-* Mer information om hur du konfigurerar din Adobe-organisation för din Marketo-prenumeration [&#128279;](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} finns.
+* Mer information om hur du konfigurerar din Adobe-organisation för din Marketo-prenumeration [&#128279;](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"} finns.
 
 >[!NOTE]
 >

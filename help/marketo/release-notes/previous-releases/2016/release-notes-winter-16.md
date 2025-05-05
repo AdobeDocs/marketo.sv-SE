@@ -49,13 +49,13 @@ Om du vill använda den här funktionen måste e-postprogrammet vara schemalagt 
 
 ## [Förbättringar av mobilmarknadsföring](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Stöd för sandlådeappar**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [Program-API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande eller uppdatering av smarta listor och smarta kampanjer i ett program.
 

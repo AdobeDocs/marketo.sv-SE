@@ -15,4 +15,4 @@ ht-degree: 0%
 
 [!DNL Munchkin] är det JavaScript-fragment som du har lagt ut på webbplatsen. Här spåras besök, klick och formulärfyllningar. Den har också ett avancerat API för att göra alla sorters coola saker.
 
-Läs mer på [utvecklarsidan på [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+Läs mer på [utvecklarsidan på [!DNL Munchkin]](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.

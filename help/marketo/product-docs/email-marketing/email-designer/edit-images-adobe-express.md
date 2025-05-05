@@ -83,7 +83,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
 
 ### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/se/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
 
 >[!IMPORTANT]
 >

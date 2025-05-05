@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 18D {#template-18d}
 
-Högerklicka för att [hämta mall 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+Högerklicka för att [hämta mall 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=sv-SE)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+[Mall 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=sv-SE)

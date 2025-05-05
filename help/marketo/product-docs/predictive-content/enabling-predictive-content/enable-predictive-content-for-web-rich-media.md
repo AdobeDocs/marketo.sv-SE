@@ -47,7 +47,7 @@ När du har förberett innehållets titel, beskrivning och bild för multimedia 
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen Marketo Developers ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen Marketo Developers ](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 

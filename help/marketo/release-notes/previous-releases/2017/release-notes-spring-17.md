@@ -35,7 +35,7 @@ Nu är det dags att rensa upp gamla mallar i Sales Insight. Ange ett förfalloda
 
 ![](assets/four-281-29.png)
 
-## [Massextrahera API:er för personer och aktiviteter](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [Massextrahera API:er för personer och aktiviteter](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Överför enkelt stora mängder person- och aktivitetsdata från Marketo till era externa system.
 
@@ -49,7 +49,7 @@ Med Marketo ABM kan du nu skapa upp till 10 anpassade fält på dina namngivna k
 
 Poängen för namngivna konton kan variera mycket. Marketo ABM beräknar nu automatiskt en percentil för var och en av poängen så att du snabbt kan se var varje namngivet konto finns bland dina andra namngivna konton.
 
-**[API:er för ABM-kontolista](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API:er för ABM-kontolista](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Utnyttja de omfattande och robusta integreringarna med ABM-partners med förbättrat API-stöd för namngivna kontolistor.
 

@@ -29,7 +29,7 @@ Första gången någon besöker en [landningssida](/help/marketo/product-docs/de
 
    * Klicka på en [länk i ett Marketo-mejl](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Fyller i ett [formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) från Marketo.
-   * Använder Marketo [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
+   * Använder Marketo [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
 
    Ett namn i databasen kan vara knutet till många cookies eftersom användare ofta använder olika enheter och webbläsare för att besöka webbplatsen.
 

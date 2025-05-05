@@ -56,7 +56,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    >[!NOTE]
    >
-   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting).
 
 ## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 

@@ -30,7 +30,7 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Mer information finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Mer information finns på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).

@@ -24,7 +24,7 @@ Dynamic Chat JavaScript-fragmentet kan installeras på alla webbplatser och på 
 
 **Hur länge lagras data för rapportering?**
 
-90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 

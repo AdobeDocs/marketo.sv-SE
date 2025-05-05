@@ -90,5 +90,5 @@ Användaren får sedan ett e-postmeddelande som meddelar att han/hon inte längr
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
->* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/se/enterprise/using/manage-users-individually.html){target="_blank"}

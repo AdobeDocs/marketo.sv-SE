@@ -21,7 +21,7 @@ Följande funktioner ingår i oktober 2013-versionen.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK är också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK är också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Uppdaterat BrightStor Event Adapter {#updated-brighttalk-event-adapter}
 

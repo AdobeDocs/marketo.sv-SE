@@ -40,11 +40,11 @@ Supportmigreringen sker när din användarmigrering är klar för alla prenumera
 
 ## Ytterligare resurser {#additional-resources}
 
-* Lär dig hur du kan använda [Adobe Admin Console för att hantera dina Adobe-berättiganden](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} i hela organisationen.
+* Lär dig hur du kan använda [Adobe Admin Console för att hantera dina Adobe-berättiganden](https://helpx.adobe.com/se/enterprise/using/admin-roles.html){target="_blank"} i hela organisationen.
 
 * Mer information om hur du loggar in på Marketo Engage med en Adobe ID [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Läs mer om [Adobe Experience League](https://experienceleague.adobe.com/?lang=sv#home){target="_blank"}.
+* Läs mer om [Adobe Experience League](https://experienceleague.adobe.com/sv?lang=sv#home){target="_blank"}.
 
 ## Har du fortfarande frågor? {#still-have-questions}
 

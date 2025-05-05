@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en användarroll endast för API {#create-an-api-only-user-role}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api) är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
 
 >[!NOTE]
 >

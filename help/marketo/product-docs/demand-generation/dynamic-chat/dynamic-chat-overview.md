@@ -16,7 +16,7 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 >[!TIP]
 >
->Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
+>Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=sv-SE){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
 
 ## Integreringar {#integrations}
 
@@ -88,7 +88,7 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
 
 ## Bevarandegränser för data i Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datatyp</th>

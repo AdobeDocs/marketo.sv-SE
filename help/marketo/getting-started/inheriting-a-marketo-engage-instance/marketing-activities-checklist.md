@@ -157,7 +157,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   </tr>
   <tr> 
    <td>Prenumerations-/Preference Center</td> 
-   <td><li>Har du konfigurerat ett <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">prenumerations-/inställningscenter</a>? Fungerar den som den ska?</li></td>
+   <td><li>Har du konfigurerat ett <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=sv-SE" target="_blank">prenumerations-/inställningscenter</a>? Fungerar den som den ska?</li></td>
   </tr>
   <tr> 
    <td>Intressanta stunder (om tillämpligt)</td> 

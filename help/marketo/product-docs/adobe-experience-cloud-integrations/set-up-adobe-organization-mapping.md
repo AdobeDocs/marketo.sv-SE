@@ -36,7 +36,7 @@ För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Mark
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) och klicka på **[!UICONTROL OK]**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=sv-SE){target="_blank"}) och klicka på **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

@@ -74,7 +74,7 @@ Interaktiva webbinarier lanseras gradvis. Om du vill begära åtkomst tidigare f
   </tr>
   <tr> 
    <td>Startades</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Översikt över interaktiva webbinarier</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=sv-SE">Översikt över interaktiva webbinarier</a></td>
   </tr>
   </tbody>
 </table>
