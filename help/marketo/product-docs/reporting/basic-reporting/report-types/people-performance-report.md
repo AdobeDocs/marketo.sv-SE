@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Använd en rapport om personprestanda för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personprestanda** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personprestanda** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 

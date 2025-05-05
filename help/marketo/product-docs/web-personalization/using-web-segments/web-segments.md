@@ -314,13 +314,13 @@ Du kan ta bort segment som du har skapat.
 
 >[!NOTE]
 >
-Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste ni ta bort kampanjen och sedan segmentet.
+>Du kan inte ta bort ett segment som är associerat med en kampanj. Först måste ni ta bort kampanjen och sedan segmentet.
 
 Bra! Nu när ni förstår segmentavsnittet kan vi lära oss mer om kampanjer.
 
 >[!MORELIKETHIS]
 >
-* [Skapa ett grundläggande webbsegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Skapa en ny webbkampanj för dialogrutor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Skapa en ny webbkampanj i zon](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Skapa ett grundläggande webbsegment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Skapa en ny webbkampanj för dialogrutor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Skapa en ny webbkampanj i zon](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Skapa en ny webbkampanj för widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

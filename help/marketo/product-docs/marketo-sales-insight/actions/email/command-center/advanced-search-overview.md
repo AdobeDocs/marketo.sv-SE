@@ -83,13 +83,13 @@ Det finns tre e-poststatusar att välja mellan. Typen/aktivitetsalternativen än
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Status: Skickat**_
+_&#x200B;**Status: Skickat**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtrerar efter din skickade e-postaktivitet. Du kan välja vyer/inga vyer, klicka/klicka utan klick och/eller svar/inga svar.
 
-_**Status: Väntande**_
+_&#x200B;**Status: Väntande**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtrerar efter alla väntande e-postmeddelanden.
  </tr>
 </table>
 
-_**Status: Olevererad**_
+_&#x200B;**Status: Olevererad**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

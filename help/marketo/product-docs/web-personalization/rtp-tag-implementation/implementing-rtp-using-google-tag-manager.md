@@ -17,9 +17,9 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. Logga in på ditt Google Tag Manager-konto.
 
-1. Lägg till en ny tagg > Taggkonfigurationer > Egen HTML-tagg**.** Anropa **RTP**.
+1. Lägg till en ny tagg > Taggkonfigurationer > Egen HTML-tagg&#x200B;**.** Anropa **RTP**.
 
-1. Logga in på ditt RTP-konto**.**
+1. Logga in på ditt RTP-konto&#x200B;**.**
 
 1. Gå till **Kontoinställningar**.
 

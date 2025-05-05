@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Granska hur väl du flyttar personer genom processen genom att kontrollera hur många av dem som visas i varje _personstatusvärde_ varje månad.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personer efter status** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personer efter status** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 

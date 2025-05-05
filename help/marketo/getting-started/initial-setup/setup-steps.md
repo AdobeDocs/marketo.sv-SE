@@ -147,6 +147,7 @@ Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera
 `3)` Tillåtslista Marketo.
 
     * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till de IP-adresser som anges nedan:
+
     199.15.212.0/22
     
     192.28.144.0/20

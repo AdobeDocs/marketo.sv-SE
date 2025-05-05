@@ -57,8 +57,8 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 >[!NOTE]
 >
 >* Webbkampanjer för dialogrutor och widgetar kan använda alternativen Valfri sida och Jokertecken (&#42;).
-* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* URL är skiftlägeskänslig
+>* I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* URL är skiftlägeskänslig
 
 ## Lägga till en mål-URL för webbkampanjer i zonen {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -74,12 +74,12 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 
    >[!NOTE]
    >
-   Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >Mål-URL:en med In Zones måste definiera en specifik URL eller URL:er. I avancerade fall kan webbkampanjer i InZone använda jokertecken i slutet av URL-sökvägen. Exempel: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
-* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Skapa en Widget-kampanj för RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Skapa en dialogkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Skapa en RTP i zonkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Skapa en Widget-kampanj för RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

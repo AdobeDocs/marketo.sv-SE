@@ -121,7 +121,7 @@ Gör så här för att konfigurera dessa variabler i AA:
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. Klicka på **Domän** under **Kontoinställningar**.
-1. Klicka på **** Adobe Analytics **under** Analytics.
+1. Klicka på **&#x200B;**&#x200B;Adobe Analytics **under** Analytics.
 1. Aktivera **På** om du vill växla mellan variabeln Conversion, Custom och Traffic.
 1. Tilldela konversion-, händelse- och trafikvariablerna **platsnummer** för att matcha platsnumren som skapats i AA
 1. Klicka på **Spara**.

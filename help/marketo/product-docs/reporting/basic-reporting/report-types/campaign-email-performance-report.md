@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Kör en rapport om prestanda för e-postkampanjer om du vill visa prestandatillstånd grupperade efter [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **E-postprestanda för kampanj** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **E-postprestanda för kampanj** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
 

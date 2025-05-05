@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Se hur dina [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} fungerar.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Kampanjaktivitet** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Kampanjaktivitet** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} och klicka på fliken **Rapport** .
 

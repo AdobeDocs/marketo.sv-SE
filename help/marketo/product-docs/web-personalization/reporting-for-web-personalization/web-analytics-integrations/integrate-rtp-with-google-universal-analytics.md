@@ -43,6 +43,7 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
    1. Välj **kontot.**
    1. Välj egenskapen **.**
    1. Välj **Anpassade definitioner** och **Anpassade Dimensioner**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Lägg till en ny anpassad dimension. Klicka på **+Ny anpassad Dimension**

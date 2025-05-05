@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Klona en rapport till grupprapporter {#clone-a-report-to-group-reports}
 
-Alla rapporter i **Mina rapporter **är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
+Alla rapporter i **Mina rapporter &#x200B;** är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
 
 1. Klicka på önskad [sparad rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) i området **Analytics**.
 

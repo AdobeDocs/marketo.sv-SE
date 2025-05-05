@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Mobilappar {#mobile-apps}
 
-** ![Incheckning av händelser](assets/mobile-checkin-icon.png)Incheckning av händelser** [Incheckning av händelser till händelser från en surfplatta.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo Moments](assets/moments-icon.png)Marketo Moments** [Marketo Moments Se vad som är viktigt, när det är viktigt.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Incheckning av händelser](assets/mobile-checkin-icon.png)Incheckning av händelser** [Incheckning av händelser till händelser från en surfplatta.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Marketo Moments](assets/moments-icon.png)Marketo Moments** [Marketo Moments Se vad som är viktigt, när det är viktigt.](https://docs.marketo.com/display/DOCS/Marketo+Moments)

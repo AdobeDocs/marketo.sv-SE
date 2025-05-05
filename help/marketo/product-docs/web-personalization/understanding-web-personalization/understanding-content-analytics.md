@@ -86,7 +86,7 @@ Ytterligare innehållsanalyser är:
 
 * **Vyer**: Vyer av den delen av innehållet för det valda tidsintervallet
 * **Direktkonvertering**: Webbbesökare som visade innehållet och fyllde i ett formulär vid samma besök.
-* **Konverteringsgrad****:** En konverteringsgrad i procent beräknad av Direct-konverteringar dividerat med klick
+* **Konverteringsgrad**&#x200B;**:** En konverteringsgrad i procent beräknad av Direct-konverteringar dividerat med klick
 
 **Trends**
 

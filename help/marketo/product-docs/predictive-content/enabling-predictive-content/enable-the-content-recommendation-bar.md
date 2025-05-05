@@ -52,9 +52,9 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
    >* URL för visning ska vara sökvägen till domänen
    >* Ta inte med https:// eller https://
    >* Använd &#42; för jokertecken
-   * Använda ett semikolon som avgränsare
-   * Exempel: /contact_us&#42;; &#42;action=log&#42;
-   * Det här fältet är skiftlägeskänsligt
+   >* Använda ett semikolon som avgränsare
+   >* Exempel: /contact_us&#42;; &#42;action=log&#42;
+   >* Det här fältet är skiftlägeskänsligt
 
 ## Överväganden i rekommendationsfältet {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
 >[!MORELIKETHIS]
 >
-[Aktivera prediktivt innehåll för multimedia för webben](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Aktivera prediktivt innehåll för multimedia för webben](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
