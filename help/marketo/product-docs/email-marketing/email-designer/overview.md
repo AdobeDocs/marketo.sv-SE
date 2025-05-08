@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ Välkommen till nya Adobe Marketo Engage Email Designer.
 
 E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
+>[!NOTE]
+>
+>Det går att komma åt e-post-Designer i alla större webbläsare, men för närvarande stöds inte alla funktioner i Firefox.
+
 ## Åtkomst {#how-to-access}
 
 +++Lär dig hur du kommer åt e-postdesignern
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -102,3 +106,7 @@ Den nya designern har för närvarande bara stöd för attribut, men vi arbetar 
 **Hur vet jag om vår Marketo Engage-prenumeration har migrerats till IMS (Adobe Admin Console)?**
 
 Om du loggar in på Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} har din prenumeration migrerats.
+
+**Vilka webbläsare kan jag använda med nya e-post-Designer?**
+
+Du bör använda Google Chrome, Apple Safari eller Microsoft Edge. Fullt stöd för Mozilla Firefox kommer att finnas vid ett senare tillfälle.
