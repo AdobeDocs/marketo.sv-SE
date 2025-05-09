@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1175'
 ht-degree: 0%
 
 ---
@@ -141,15 +141,15 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-10.png)
 
-1. Klicka på **[!UICONTROL Save]** i kolumnen till höger.
+1. Välj routningsalternativet och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Eftersom det är ett mål drar du kortet [!UICONTROL Goal] nedanför schemaläggaren för avtalade tider.
+1. Eftersom det är ett mål drar du kortet _[!UICONTROL Goal]_nedanför mötesbokningen.
 
    ![](assets/stream-designer-12.png)
 
-1. Namnge målet (eller välj ett befintligt) och klicka på **[!UICONTROL Save]**.
+1. Namnge målet (eller välj ett befintligt) och klicka på **[!UICONTROL Save]**. Det är valfritt att tilldela ett konversationsmoment.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
    >
    >Du kan lägga till fler svar genom att klicka på **[!UICONTROL Add Response]**.
 
-1. Under svaret&quot;Ja&quot; drar du över Info Capture-kortet så att du kan samla in besökarens e-post.
+1. Under svaret Ja drar du över kortet _Info Capture_ så att du kan samla in besökarens e-post.
 
    ![](assets/stream-designer-16.png)
 
-1. Klicka på listrutan **[!UICONTROL Type]** och välj **[!UICONTROL Email]**.
+1. Klicka på listrutan och välj **[!UICONTROL Email Address]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Ange ett chattbot-meddelande och en platshållare. Kontrollera att attributet är mappat till rätt fält i Marketo Engage och klicka på **[!UICONTROL Save]**.
+1. Ange ett chattbot-meddelande och en platshållare. Om det redan finns ett värde för det här attributet i din databas väljer du om du vill hoppa över eller låta dessa data skriva över dem. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Typ</strong></td>
-     <td>Den typ av information som du vill hämta: Telefon, Text, E-post.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Chatbot-meddelande</strong></td>
-     <td>Det meddelande besökaren ser där han/hon uppmanas att ange informationen.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Platshållare</strong></td>
-     <td>Exempeltext som hjälper besökaren att se vad han/hon ska ange.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mappa svar till attribut</strong></td>
-     <td>Gör att du kan synkronisera besökarens svar till motsvarande fält i personposten i din Marketo Engage-prenumeration.</td>
-    </tr>
-   </table>
-
-1. Eftersom det är ett mål att samla in deras e-post drar du [!UICONTROL Goal]-kortet under Info Capture.
+1. Eftersom det är ett mål att samla in deras e-post drar du _[!UICONTROL Goal]_-kortet under Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-22.png)
 
-1. Markera växlingsknappen **[!UICONTROL Preview]** om du vill förhandsgranska dialogrutan.
-
-   ![](assets/stream-designer-23.png)
-
 1. Klicka på **[!UICONTROL Publish]** när du är redo att aktivera din dialogruta.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
