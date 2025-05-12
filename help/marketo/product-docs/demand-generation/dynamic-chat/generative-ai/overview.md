@@ -1,18 +1,18 @@
 ---
 description: Generativ AI-översikt - Marketo Docs - produktdokumentation
-title: Generativ AI-översikt
+title: Generativ AI i Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
 
-# Generativ AI-översikt {#generative-ai-overview}
+# Generativ AI i Dynamic Chat {#generative-ai-overview}
 
-Med de generativa AI-baserade funktionerna i Adobe Dynamic Chat kan ni optimera produktiviteten för era säljare, få insikter i besökarnas avsikter och besvara besökarnas frågor på ett säkert sätt.
+Med de generativa AI-baserade funktionerna i Adobe Dynamic Chat kan ni optimera produktiviteten för säljarna, få insikter i besökarnas avsikter och besvara besökarnas frågor på ett säkert sätt.
 
 ## Behörigheter {#permissions}
 
@@ -64,7 +64,7 @@ Vanligtvis måste du bläddra igenom hela chattutskriften för att få tillgång
 
 ## Diskussionsämnen {#discussed-topics}
 
-Diskussionsämnen finns i Smart List-utlösare och -filter som en begränsning, vilket gör att du kan fördjupa dig ytterligare i dina Dynamic Chat-insikter.
+Diskussionsämnen finns i Smart List-utlösare och -filter, vilket gör att du kan fördjupa dig ytterligare i dina Dynamic Chat-insikter.
 
 ![](assets/generative-ai-overview-9.png)
 
@@ -74,9 +74,9 @@ Diskussionsämnen finns i Smart List-utlösare och -filter som en begränsning, 
 
 ## Vanliga frågor och svar {#faq}
 
-**Är generativ AI tillgängligt för alla Dynamic Chat?**
+**Är generativ AI tillgängligt för alla Dynamic Chat-användare?**
 
-Generativ AI är endast tillgängligt för prenumeranter på Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
+Generativ AI är endast tillgängligt för prenumeranter på Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 **Finns det en gräns för hur många frågor och svar jag kan ha skapat?**
 
