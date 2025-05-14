@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953338
 description: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics - Marketo Docs - produktdokumentation
-title: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics
+title: Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar och klick direkt inifrån Microsoft Dynamics. Så här gör du.
+Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar och klick direkt från Microsoft Dynamics. Så här gör du.
 
 1. Gå till området **Försäljning** i Dynamics.
 
@@ -45,9 +45,9 @@ Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar o
 
    >[!NOTE]
    >
-   >Du kan skicka upp till 2 000 e-postmeddelanden från Marketo åt gången.
+   >Du kan skicka upp till 300 e-postmeddelanden från Marketo åt gången.
 
-Snyggt gjort! Nu vet du hur du skickar spårade e-postmeddelanden från Marketo direkt från Microsoft Dynamics.
+Snyggt gjort! Nu vet du hur man skickar spårade e-postmeddelanden från Marketo direkt från Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >
