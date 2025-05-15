@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: a68c843e5f454cc782ee5f7647adb57f56b04548
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1645'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Befintliga Marketo Engage-prenumerationer migreras för närvarande till Adobe I
 
 **Efter migreringen, kommer Marketo Engage URL:er att vara desamma?**
 
-Nej. URL:er ser annorlunda ut efter migrering.
+Nej. URL:er visas i följande format efter migrering: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX:erna representerar Munchkin-ID:t och @tenantID:t kommer från din Adobe-organisation).
 
 **Behöver vi göra något för att förbereda oss för URL-ändringen?**
 
@@ -36,9 +36,11 @@ Ja. Efter migreringen kommer Marketo Engage att gå från experience.adobe.com t
 
 Tidigare länkar och bokmärken till Marketo Engage-resurser på engage-xx.marketo.com _kommer_ att fortsätta fungera. Du måste dock först logga in på Marketo Engage-instansen för den URL som du navigerar till. Om du till exempel vill navigera till ett bokmärke för en Smart Campaign-instans med Munchkin ID 123-ABC-456 måste du först logga in på Marketo Engage-instansen med Munchkin ID 123-ABC-456.
 
+Även om det inte är planerat kan framtida utvecklingsarbete bryta omdirigeringsfunktionen. För att undvika oväntade avbrott rekommenderar vi att du uppdaterar bokmärkena så snart det passar.
+
 **Fungerar detta med enkel inloggning?**
 
-Ja. Integrationen med Adobe IMS stöder universella ID-användare och SSO. SSO styrs nu av Adobe IMS och konfigureras på organisationsnivå i Adobe Admin Console. Det finns dock skillnader i stödet som initierats av Marketo Engage IdP jämfört med Adobe SP-initierade support ([läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}). Kontakta [Adobe kundtjänst](https://helpx.adobe.com/se/contact.html){target="_blank"} om du behöver hjälp med att ta reda på skillnaderna i enkel inloggning efter att du har migrerat till Admin Console.
+Ja. Integrationen med Adobe IMS stöder universella ID-användare och SSO. SSO styrs nu av Adobe IMS och konfigureras på organisationsnivå i Adobe Admin Console. Det finns dock skillnader i stödet som initierats av Marketo Engage IdP jämfört med Adobe SP-initierade support ([läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}). Kontakta [Adobe kundtjänst](https://helpx.adobe.com/contact.html){target="_blank"} om du behöver hjälp med skillnaderna i enkel inloggning när du har migrerat till Admin Console.
 
 **Vad är skillnaden mellan en Adobe-produktadministratör och en Marketo Engage-administratör?**
 
@@ -73,7 +75,7 @@ Nej. Hantering av användarroller (i arbetsytor) har slutförts i Marketo Engage
 
 **Jag är Marketo-administratör i en IMS-integrerad prenumeration och har inte tillgång till Admin Console. Hur får jag åtkomst?**
 
-Alla Adobe system- eller produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/se/contact.html){target="_blank"}.
+Alla Adobe system- eller produktadministratörer som har tillgång till din organisations Admin Console kan ge dig åtkomst. Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du [Adobe kundtjänst](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Hur lägger en administratör till användare i Marketo [!DNL Sales Connect]?**
 
@@ -81,7 +83,7 @@ Det kommer att finnas ett produktkort i Admin Console för [!DNL Sales Connect],
 
 **Var kan jag läsa mer om Adobe Admin Console?**
 
-[https://helpx.adobe.com/se/enterprise/admin-guide.html](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}.
 
 **Går jag fortfarande till avsnittet Administratör i Marketo för att göra ändringar i användarkontot för mitt konto?**
 
@@ -93,7 +95,7 @@ De som uppgraderar till Adobe-identitet har smidig tillgång till alla IMS-aktiv
 
 **Fungerar detta med enkel inloggning?**
 
-Ja. Marketo-integrering med Adobe IMS stöder universella ID-användare och SSO. SSO styrs nu av Adobe IMS och konfigureras på organisationsnivå i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja. Marketo-integrering med Adobe IMS stöder universella ID-användare och SSO. SSO styrs nu av Adobe IMS och konfigureras på organisationsnivå i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Jag har redan anslutit mig till Adobe Identity och nu vill jag implementera enkel inloggning. Vad ska jag göra?**
 
@@ -109,7 +111,7 @@ Nej. Arbetsflödet för användarinbjudan är inte längre aktivt när en prenum
 
 **För Adobe IMS, har vi möjlighet att använda Adobe ID, Enterprise ID eller Federated ID?**
 
-Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer information finns här: [Identitetsöversikt](https://helpx.adobe.com/se/enterprise/using/identity.html) och här: [Konfigurera identitet](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja, du bestämmer vilken typ av identitet som din organisation ska stödja. Mer information finns här: [Identitetsöversikt](https://helpx.adobe.com/enterprise/using/identity.html) och här: [Konfigurera identitet](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Vilka produktkort stöds i Adobe Admin Console?**
 
@@ -123,13 +125,13 @@ Nuvarande Marketo Engage-användare med andra inloggningar än sin e-postadress 
 
 När prenumerationer överförs till Adobe Identity migreras inte IP-begränsningsinställningar till Adobe Admin Console. Marketo inställningar för IP-begränsningar innefattar att endast tillåta åtkomst från specifika IP-adresser och blockera specifika IP-adresser från åtkomst. För närvarande stöder inte Adobe Identity Management System IP-begränsningsfunktioner.
 
-Från och med början av 2025 kommer Adobe Identity Management System att släppa en funktion som bara tillåter specifika IP-adresser, vilket stöder en övergång för Marketo-användare som för närvarande använder den här funktionen. De som för närvarande använder den här funktionen migreras inte förrän funktionen släpps. När funktionen har levererats meddelas användarna om att migreringen schemaläggs. Mer information om funktionen finns när den blir tillgänglig.
+Från och med mitten av 2025 kommer Adobe Identity Management System att släppa en funktion som endast tillåter specifika IP-adresser, vilket stöder en övergång för Marketo-användare som för närvarande använder den här funktionen. De som för närvarande använder den här funktionen migreras inte förrän funktionen släpps. När funktionen har levererats meddelas användarna om att migreringen schemaläggs. Mer information om funktionen finns när den blir tillgänglig.
 
 Användare som för närvarande använder IP-begränsningen, som blockerar specifika adresser från åtkomst, kommer inte längre att kunna använda den här funktionen efter att de har migrerats till Adobe Identity, eftersom den inte stöds av Adobe Identity Management System.
 
 **Vad händer efter migrering av Adobe-identitet om jag har användare med en roll som har alternativet Åsidosätta enkel inloggning?**
 
-När prenumerationer prenumereras på Adobe Identity, konfigureras enkel inloggning (SSO) på Adobe organisationsnivå för alla användare. När enkel inloggning har konfigurerats kommer den att tillämpas för alla Marketo-användare/alla Marketo-instanser i den Adobe-organisationen. Tidigare hade Marketo stöd för att tillåta att en användarroll konfigureras att ha alternativet Åsidosätta enkel inloggning. Detta stöds inte av Adobe Identity Management System.
+Adobe Admin Console har en standardkatalog för företag-ID. Användare utanför de domäner som tas i anspråk i Federated ID-kataloger i en Adobe Org tilldelas den här katalogen med en Adobe ID-identitetstyp. Dessa användare kan komma åt Marketo Engage utan att gå via enkel inloggning (SSO) och licensägarskapet ligger kvar hos företaget, inte hos de enskilda.
 
 **Jag har fler än en prenumeration, men inte alla har enkel inloggning aktiverad. Vad händer efter migrering av Adobe Identity?**
 
@@ -141,7 +143,7 @@ Nej, dessa konfigurationer påverkas inte.
 
 **Hur kan jag förhindra att sessioner tajmar ut?**
 
-I [Avancerade inställningar](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} kan du anpassa den önskade maximala sessionstiden (systemadministratörsbehörighet krävs). Vi rekommenderar att du skapar den här inställningen efter produktmigrering, men före användarmigrering.
+I [Avancerade inställningar](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} kan du anpassa den maximala sessionstiden (systemadministratörsbehörighet krävs). Vi rekommenderar att du skapar den här inställningen efter produktmigrering, men före användarmigrering.
 
 **Jag måste nu navigera till Experience Cloud för att få tillgång till Marketo Engage. Finns det ett sätt att effektivisera det här flödet?**
 

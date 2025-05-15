@@ -3,9 +3,9 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d6cf2b994f56a0fa4f2118fb3da3fd874644d8ae
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1511'
+source-wordcount: '1571'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,15 @@ Som en del av migreringen kommer din prenumeration och användarhantering att g�
 
 * **Användare loggar in med Adobe Identity**. Adobe migrerar befintliga användare till Adobe Admin Console. Användare loggar in på sina Marketo-prenumerationer med sin nya Adobe Identity - antingen en Adobe ID eller Adobe Federated ID (SSO).
 
-* **URL:er ser annorlunda ut efter migrering**. Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Du måste samarbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [ överst i den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
+* **URL:er ser annorlunda ut efter migrering**. Marketo Engage kommer att användas från experience.adobe.com till Adobe Experience Cloud och URL:erna kommer att ha följande format: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (XXX:erna representerar Munchkin-ID:t och @tenantID:t kommer från din Adobe-organisation). Du måste samarbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [ överst i den här artikeln](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
 ID-numren för dina resurser ändras inte. Och tidigare länkar och bokmärken till Marketo Engage-resurser på engage-xx.marketo.com _kommer_ att fortsätta fungera. Du måste dock först logga in på Marketo Engage-instansen för den URL som du navigerar till. Om du till exempel vill navigera till ett bokmärke för en Smart Campaign-instans med Munchkin ID 123-ABC-456 måste du först logga in på Marketo Engage-instansen med Munchkin ID 123-ABC-456.
 
+Även om det inte är planerat kan framtida utvecklingsarbete bryta omdirigeringsfunktionen. För att undvika oväntade avbrott rekommenderar vi att du uppdaterar bokmärkena så snart det passar.
+
 ## Vad ändras inte? {#what-is-not-changing}
 
-* **Det finns ingen förändring i hur du hanterar alla andra funktioner** i själva Marketo Engage-programmet, inklusive hantering av funktioner, användarroller, arbetsytor, funktioner och beteende.
+* **Det finns ingen förändring i hur du hanterar alla andra funktioner** i själva Marketo Engage-programmet, inklusive hantering av funktioner, användarroller, arbetsytor, funktioner och beteende. Lokal (endast API) användarhantering finns kvar på fliken _Användare och roller_ i området Marketo Admin.
 
 ## Tidslinje för migreringsresa {#migration-journey-timeline}
 
@@ -94,11 +96,11 @@ Som Marketo produktadministratör bör du se till att alla användare är förbe
 
 Alla Marketo-prenumerationer med en tidszon i USA migreras från och med midnatt, Pacific Standard Time, från migreringens startdatum. Migreringen av användare för alla andra prenumerationer börjar vid midnatt i prenumerationens angivna tidszon.
 
-**Adobe migrerar automatiskt Marketo-administratörer först**. När Marketo-administratörer migreras till Adobe Identity tilldelas de Adobe produktadministratörsroll i Marketo-programmet tillsammans med andra roller de tidigare haft.
+**Adobe migrerar automatiskt Marketo-administratörer (med en standardadministratörsroll) först**. När Marketo-administratörer migreras till Adobe Identity med en Admin Console produktadministratörsroll tilldelas de Adobe produktadministratörsroll i Marketo-programmet tillsammans med andra roller de tidigare haft.
 
-**Om din Marketo-prenumeration har färre än 75 användare och inte har enkel inloggning i Marketo och/eller din Adobe-organisation** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering för att minimera overheadkostnader för användare av Adobe Marketo. Du behöver inte göra något för att utföra migreringen.
+**Om din Marketo-prenumeration inte har enkel inloggning i Marketo och/eller din Adobe-organisation** migrerar Adobe automatiskt resten av dina användare. Det här arbetsflödet ger den högsta nivån av automatisering för att minimera overheadkostnader för användare av Adobe Marketo. Du behöver inte göra något för att utföra migreringen.
 
-**Om din Marketo-prenumeration har över 75 användare eller har enkel inloggning i Marketo och/eller din Adobe-organisation** får Marketo produktadministratörer tillgång till självbetjäningsmigreringsområdet för Marketo migreringskonsol, som finns i Marketo Admin Area. För dem som behöver större kontroll under användarmigreringsprocessen kan Marketo produktadministratörer börja välja användare att migrera gruppvis eller alla samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna fullständig flexibilitet och kontroll över vilka användare som migreras när de gör det.
+**Om din Marketo-prenumeration har enkel inloggning i Marketo och/eller din Adobe-organisation** får Marketo-administratörer tillgång till självbetjäningsmigreringsområdet för Marketo migreringskonsol som finns i Marketo Admin Area. För dem som behöver större kontroll under användarmigreringsprocessen kan Marketo-administratörer börja välja vilka användare som ska migreras gruppvis eller alla samtidigt. När användarna har valts kan administratörerna välja att migrera nu eller Schemalägg migrering för ett senare datum, vilket ger administratörerna fullständig flexibilitet och kontroll över vilka användare som migreras när de gör det.
 
 >[!NOTE]
 >
@@ -121,4 +123,4 @@ Om du vill ha ytterligare support för din prenumeration eller din användarmigr
 >* [Migrerar till Adobe Identity Overview](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Användarinloggning med Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management - frågor och svar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [Migrerar till Adobe Identity Management-självstudiekurs](https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [Migrerar till Adobe Identity Management-självstudiekurs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
