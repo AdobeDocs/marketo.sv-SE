@@ -4,21 +4,57 @@ description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokum
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: d5993d7c638994ea93446d20cbd1f1ae0b25e622
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # Lägg till SSL på era landningssidor {#add-ssl-to-your-landing-pages}
 
-Med SSL-kryptering (Secure Socket Layer) kan du skydda alla dina landningssidor för en Marketo Engage-instans.
+Med SSL-kryptering (Secure Socket Layer) kan du göra alla dina landningssidor för en Marketo Engage-instans säkra.
 
-När du fyller i ett webbformulär eller besöker en landningssida som hanteras av Marketo Engage, skickas informationen som standard via ett osäkert protokoll (HTTP). Enligt företagets policy kanske du vill skydda den information som skickas till Marketo via HTTPS. När du till exempel besöker `http://info.mydomain.com/` blir det nu `https://info.mydomain.com/`.
+När du fyller i ett webbformulär eller besöker en landningssida som Marketo Engage är värd för, skickas informationen som standard via ett osäkert protokoll (HTTP). Enligt företagets policy kanske du vill skydda den information som skickas till Marketo via HTTPS. När du till exempel besöker `http://info.mydomain.com/` blir det nu `https://info.mydomain.com/`.
 
-Marketo Engage spårar&quot;Besökt webbsida&quot; och&quot;Klicka på länk på webbsida&quot; som standard över osäkra HTTP-protokoll. Om du vill att dina spårningslänkar ska vara skyddade med deras egna certifikat måste du ha Marketo som en separat icke-delad server för att kunna aktivera den. För att skydda alla aspekter av en kontakts interaktion med dig måste du vanligtvis skydda både landningssidor och spårningslänkar.
+Marketo Engage spårar &quot;Besökt webbsida&quot; och &quot;Klicka på länk på webbsida&quot; som standard över osäkra HTTP-protokoll. Om du vill att dina spårningslänkar ska vara skyddade med deras egna certifikat måste du ha Marketo som en separat icke-delad server för att kunna aktivera den. För att skydda alla aspekter av en kontakts interaktion med dig måste du vanligtvis skydda både landningssidor och spårningslänkar.
 
-I slutet av 2022 ändrades hur landningssidans och spårningslänkens domäner skyddas. [Läs om dem här](https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305){target="_blank"}.
+## Aktivera SSL-certifiering {#enable-ssl-certification}
 
-Om du vill ha SSL för dina landningssidor för Marketo Engage kontaktar du kontoteamet på Adobe (din kontoansvarige).
+Lägg automatiskt till SSL för alla domänalias som du skapar som en del av reglerna för landningssidan.
+
+1. Gå till området **Admin**.
+
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
+
+1. Välj **Landningssidor** i trädet. Klicka på listrutan **Nytt** på fliken **Regler** och välj **Nytt domänalias**.
+
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
+
+1. Ange ditt _domänalias_ och _standardsida_. Markera kryssrutan **Skapa SSL-certifikat**. Klicka på **Skapa** när du är klar.
+
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
+
+Detta lägger automatiskt till ett SSL-certifikat för den här domänen.
+
+## Aktivera SSL för din standarddomän {#enable-ssl-default-domain}
+
+Följ stegen nedan för att aktivera SSL för din standarddomän.
+
+1. I avsnittet **Admin** väljer du **Startsidor**. Klicka på den orangefärgade knappen **Redigera** bredvid _Inställningar_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Om du vill kan du även ändra domännamnet här (en giltig domän krävs).
+
+1. Markera kryssrutan Generera SSL-certifikat och klicka på Spara.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
+
+>[!NOTE]
+>
+>* Kolumnen SSL-certifikat i listan visar certifikatstatus för alla domänalias som skapas efter att den här funktionen har släppts (DATE). Om SSL har aktiverats för en domän via Marketo Support finns certifikatet kvar, men visas inte i tabellen. Den här tabellen visar endast SSL-certifikat för domäner som lagts till med stegen i den här artikeln.
+>
+>* Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.

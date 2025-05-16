@@ -4,10 +4,10 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 7%
 
 ---
 
@@ -45,7 +45,7 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">25 april</a></td>
    <td>25 april</td>
-   <td>Vid schema</td>
+   <td>Pågår</td>
   </tr>
   <tr> 
    <td>25 maj</td>
@@ -60,6 +60,21 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr> 
    <td>25 juli</td>
    <td>25 juli 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 augusti</td>
+   <td>22 augusti 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 september</td>
+   <td>19 september 2025</td>
+   <td>Vid schema</td>
+  </tr>
+  <tr> 
+   <td>25 oktober</td>
+   <td>17 oktober 2025</td>
    <td>Vid schema</td>
   </tr>
  </tbody>
