@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '331'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,16 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr> 
+   <td><strong>Mallkompatibilitet för e-post-Designer</strong>: E-postmallar från den klassiska e-postredigeraren är nu kompatibla med den nya <a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">e-post-Designer</a>.</td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
    <td><strong>Utlösartoken för attribut</strong>: Utökad lista över utlösartokens som kan användas med data från aktivitetsattribut i fält för smarta kampanjer.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
@@ -46,6 +56,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 För att få tillgång till den här funktionen måste du ha köpt tillägget Avancerad BI Analytics. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 30 juni 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 30 juni 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

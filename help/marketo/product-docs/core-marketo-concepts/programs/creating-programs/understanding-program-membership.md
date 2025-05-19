@@ -4,18 +4,14 @@ description: Understanding Program Membership - Marketo Docs - Product Documenta
 title: Förstå programmedlemskap
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
 # Förstå programmedlemskap {#understanding-program-membership}
-
->[!NOTE]
->
->Marketo standardiserar nu språk för alla prenumerationer, så du kan se lead/leads i din prenumeration och person/person i våra dokument. De här termerna betyder samma sak; de påverkar inte artikelinstruktionerna. Det finns andra förändringar också. [Läs mer](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,16 +21,16 @@ ht-degree: 0%
 
 1. En person fyller i ett [formulär på en landningssida](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} i programmet.
 
-   1. Personen får automatiskt den första statusen i förloppet.
+   * Personen får automatiskt den första statusen i förloppet.
 
 1. Du [importerar medlemmar till programmet](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} från en CSV-fil.
 
-   1. Personen får automatiskt den första statusen i förloppet.
+   * Personen får automatiskt den första statusen i förloppet.
 
 1. Du använder flödessteget [Ändra programstatus](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}.
 1. En person registrerar eller deltar i ett [webbinarium som är synkroniserat med ett händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
 1. En person [har skapats med incheckningsprogrammet för Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. En person läggs till i en SFDC-kampanj, som [synkroniseras med programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. En person läggs till i en SFDC Campaign, som [synkroniseras med programmet](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
