@@ -2,7 +2,8 @@
 description: Versionsinformation - oktober 2024 - Marketo Docs - produktdokumentation
 title: Versionsinformation - oktober 2024
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -13,11 +14,11 @@ ht-degree: 0%
 
 Här nedan hittar du alla funktioner som ingår i versionen från 24 oktober. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
-Versionsinformationen för Adobe Dynamic Chat [ finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
@@ -53,7 +54,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   </tr>
    <tr> 
-   <td><strong>Knappen Mitt konto i navigeringsfältet</strong>: För dem som har migrerat till Adobe Identity Management System kan du konfigurera din tidszon och få åtkomst till prenumerationsinformation genom att klicka på knappen Mitt konto i det vänstra navigeringsfältet.</td> 
+   <td><strong>Knappen Mitt konto i navigeringsfältet</strong>: För dem som har migrerat till Adobe Identity Management System kan du konfigurera din tidszon och få åtkomst till prenumerationsinformation genom att klicka på Mitt konto i den vänstra navigeringslisten.</td> 
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -91,13 +92,13 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **API-uppdatering för massextrahering**: Vi har åtgärdat ett fel i API:t för gruppextrahering som inkluderar alternativet columnHeaderNames, som gör att du kan ange anpassade kolumnrubriknamn i den exporterade filen. Tidigare kunde kolumnrubriknamn som innehöll icke-ASCII-tecken bli skadade.
 
-* **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 30 juni 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
 * **QR-kodborttagning**: Den 4 oktober 2024 kommer QR-kodfunktionen som används i push-meddelanden och meddelanderesurser i appen att bli inaktuell. Detta inkluderar användning av QR-koder för en ny testenhet samt skapande av nya resurser med QR-koder. Genom att ta bort funktioner med lägre användning kan vi omfördela deras resurser till det övergripande underhållet av Marketo Engage.
 
 * **Munchkin-ändringar**
 
-   * **Ny version**: Den 17 september 2024 börjar [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att rulla ut till Marketo Engage-instanser där inställningen Munchkin Beta är aktiverad i **Admin** > **Resurs Chest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
+   * **Ny version**: 17 september 2024 börjar [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 att distribueras till Marketo Engage-instanser som har inställningen Munchkin Beta aktiverad i **Admin** > **Resurs Chest**. Det är schemalagt att börja lansera till alla andra förekomster den 29 oktober. Den här versionen uppdaterar skapandet av Munchkin cookie. Det finns inga förändringar i funktionaliteten.
 
-   * **Tecken från URL Borttagen**: Aktiviteterna Besök webbsida och Klicklänk som skapas av Munchkin JS tar nu bort kontrolltecken som inte är URL-kodade från alla URL-fält. Den här ändringen är avsedd att förhindra fel som beror på spridning av dessa typer av tecken till system som saknar stöd för dem, och som inte kan användas i Marketo Engage.
+   * **Tecken från URL Borttagen**: Aktiviteterna Besök webbsida och Klicklänk som skapas av Munchkin JS tar nu bort kontrolltecken som inte är URL-kodade från alla URL-fält. Den här ändringen är avsedd att förhindra fel som beror på spridning av dessa typer av tecken till system som saknar stöd för dem och som inte har någon giltig användning inom Marketo Engage.
