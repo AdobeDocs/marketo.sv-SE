@@ -3,9 +3,9 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,24 @@ ht-degree: 1%
 Adobe Dynamic Chat-releaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar metod för driftsättning av funktioner. Ibland finns det flera releaser på en månad, så var vänlig och kika regelbundet efter den senaste informationen.
 
 Standardsidan för versionsinformation för Marketo Engage [finns här](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version april/maj 2025 {#apr-may-25-release}
+
+### Meddelandeljud {#message-notification-sound}
+
+Nu kan du aktivera ett ljud för besökaren varje gång som chattbot aktiveras i en session. Det finns flera ljud att välja mellan.
+
+### Aktivera Poke-meddelanden på mobilen {#enable-poke-messages-on-mobile}
+
+&quot;Poke&quot;, som visar den inledande frågan bredvid chattikonen utan att besökaren behöver klicka på den för att se den, är nu ett alternativ att aktivera för besökare som använder en mobil enhet.
+
+### Standarduppdatering för reserv {#default-fallback-update}
+
+För anpassade regler/team som ett live-chattkort - om det inte finns några agenter tillgängliga (eller om chatten inte kan ansluta) återgår den till Round Robin för tillgängliga agenter (alla som är tillgängliga vid den tidpunkten oavsett vilken routningslogik/regel som placerades i strömmen).
+
+### Demandbase-integrering {#demandbase-integration}
+
+Demandbase-användare kan använda personattribut för Demandbase för dialog, villkorsstyrd varumärkesprofilering och anpassad routning i Dynamic Chat.
 
 ## September/oktober 2024-utgåvan {#sep-oct-release}
 
@@ -186,7 +204,7 @@ Tidigare synkroniserades endast kända leads med ett eller flera cookie-ID från
 
 ### Skicka ytterligare besöksdata till konversationsflöden {#pass-additional-visitor-data}
 
-Om du hämtar besöksinformation via andra kanaler, som formulär eller inloggning, kan du nu skicka informationen direkt till Dynamic Chat.
+Om du hämtar besöksinformation via andra kanaler som formulär eller inloggning kan du nu skicka informationen direkt till Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -260,7 +278,7 @@ Hjälp säljarna att svara korrekt under live-samtal med svar som förgodkänts 
 
 ### Konversationsövningar {#conversation-nudges}
 
-Knuffa webbbesökarna med en uppmaning att agera för att få konversationer att sluta.
+Knuffa webbbesökarna med en call-to-action för att slutföra konversationerna.
 
 <p>
 
@@ -270,13 +288,13 @@ Knuffa webbbesökarna med en uppmaning att agera för att få konversationer att
 
 ### Konversationsflöden är nu tillgängliga för alla användare {#conversational-flows-available-to-all-users}
 
-Gör formulären och landningssidorna mer konvergerande och korta ned säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med försäljningen direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla Dynamic Chat-användare.
+Gör formulären och landningssidorna mer konvergerande och korta säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med försäljningen direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla Dynamic Chat-användare.
 
 _&#42;Tidigare tillgänglig som utvärderingsfunktion med 100 livstidsåtaganden. Konversationsflödesåtaganden räknas nu mot månadsgränsen på 250 aktiverade konversationer för användare i Select-paketet._
 
 ### Återanropsfunktioner {#callback-functions}
 
-[Med återanropsfunktionerna](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kan du samla in Dynamic Chat analyshändelser i externa system, som Adobe Analytics eller Google Analytics, när besökarna interagerar med Dynamic Chat-konversationer. Du aktiverar analyshändelser för Dynamic Chat genom att registrera ett återanrop med API:t för att lyssna på händelserna. På så sätt kan ni få en mer holistisk bild av Dynamic Chat engagemang när det gäller andra nyckeldata, till exempel webbtrafik.
+[Med återanropsfunktionerna](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kan du samla in Dynamic Chat analyshändelser i externa system, som Adobe Analytics eller Google Analytics, när besökarna interagerar med Dynamic Chat-konversationer. Du aktiverar Dynamic Chat analyshändelser genom att registrera ett återanrop med API:t för att lyssna på händelserna. På så sätt kan ni få en helhetsbild av Dynamic Chat engagemang när det gäller andra nyckeldata, till exempel webbtrafik.
 
 ### Tillgänglighetsvillkor för Live-agent har lagts till i villkorlig förgrening {#live-agent-availability-conditional-branching}
 
@@ -286,7 +304,7 @@ Förutom inbyggda och anpassade Marketo Engage-fält kan du nu använda villkorl
 
 ### Villkoret Smart lista har lagts till i villkorlig förgrening {#smart-list-condition}
 
-Med det nya villkoret Marketo Engage Smart List i villkorlig förgreningslogik kan du skapa förgreningar baserat på befintliga målgrupper som du redan har skapat i Marketo Engage i stället för att definiera villkoren för förgreningslogik i Dynamic Chat.
+Med det nya villkoret Marketo Engage Smart List i villkorlig förgrening kan du skapa förgreningar baserat på befintliga målgrupper som du redan har skapat i Marketo Engage i stället för att definiera förgreningsvillkoren för målgrupper i Dynamic Chat.
 
 ![](assets/dynamic-chat-release-2.png)
 
@@ -298,9 +316,9 @@ Vi lanserade villkorliga förgreningar för dialogrutor tidigare i år, och nu k
 
 Vi lanserade chattfunktioner för dialogrutor 2023, och nu kan du även lägga till live-chattengagemang i dina konversationsflöden. Om du använder konversationsflöden med dina Marketo Engage-formulär kan du nu tillåta kvalificerade besökare att chatta med en handläggare direkt efter att formuläret har skickats in!
 
-### Nyligen använda Marketo Engage-aktiviteter i agentinkorgen {#recent-marketo-engage-activities-in-agent-inbox}
+### Senaste Marketo Engage-aktiviteter i agentinkorgen {#recent-marketo-engage-activities-in-agent-inbox}
 
-Vi har lagt till nyligen utförda Marketo Engage-aktiviteter i avsnittet Senaste aktiviteter i Agent Inbox, så när en besökare på en webbplats begär att chatta med en agent kan agenten snabbt se om besökaren nyligen har deltagit i någon av följande Marketo Engage-aktiviteter (de senaste 25 aktiviteterna):
+Vi har lagt till nyligen använda Marketo Engage-aktiviteter i avsnittet Senaste aktiviteter i Agent Inbox, så när en besökare på en webbplats begär att chatta med en agent kan agenten snabbt se om besökaren nyligen har deltagit i någon av följande Marketo Engage-aktiviteter (de senaste 25 aktiviteterna):
 
 * Öppnad e-post
 * Besökt webbsida
@@ -311,7 +329,7 @@ Vi har lagt till nyligen utförda Marketo Engage-aktiviteter i avsnittet Senaste
 
 ### Kalenderanslutningsstatus i Agenthantering {#calendar-connection-status-in-agent-management}
 
-Administratörer kan nu enkelt se vilka agenter med mötesbokningsbehörighet som har kopplat sina kalendrar till Dynamic Chat. På så sätt kan ni se till att hela säljteamet är anslutet och redo att acceptera mötesförfrågningar från Dynamic Chat.
+Administratörer kan nu enkelt se vilka agenter med mötesbokningsbehörighet som har kopplat sina kalendrar till Dynamic Chat. På så sätt kan du se till att hela säljteamet är anslutet och redo att acceptera mötesförfrågningar från Dynamic Chat.
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -327,7 +345,7 @@ Vissa användare angav att de hade problem med att lägga till och ta bort agent
 
 När en användare läggs till i Admin Console med direktchatt eller mötesbokningstillstånd visas de omedelbart i listan över agenthantering och kan läggas till i dialogrutor, konversationsflöden, routningsregler och team.
 
-När en användare med mötesboknings- eller chattbehörigheter tas bort från Admin Console tas de omedelbart bort från Dynamic Chat, inte längre är tillgängliga för live chatt eller mötesroutning och kommer inte längre att räkna med licensbegränsningar.
+När en användare med mötesbokning eller behörigheter för live-chatt tas bort från Admin Console, tas de omedelbart bort från Dynamic Chat, blir inte längre tillgängliga för live-chatt eller mötesroutning och kommer inte längre att räkna mot licensbegränsningar.
 
 ### Förbättrade rapportprestanda på konversationsnivå {#improved-conversation-level-report-performance}
 
@@ -377,7 +395,7 @@ På den nya sidan Konversationer får du tillgång till en enda butik där du ka
 
 ### Datumintervallet på den globala kontrollpanelen har ökat från 90 dagar till 24 månader {#date-range-in-global-dashboard}
 
-Du frågade och vi levererade. Nu kan ni se data om engagemang i Dynamic Chat i upp till två år på alla kontrollpaneler för analyser.
+Du frågade och vi levererade. Nu kan ni se Dynamic Chat engagemangsdata i upp till två år på alla analyspaneler.
 
 ### Villkorliga förgreningar i dialogrutor {#conditional-branching-in-dialogues}
 

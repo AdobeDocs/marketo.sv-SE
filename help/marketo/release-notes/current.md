@@ -3,10 +3,10 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 3%
+source-wordcount: '473'
+ht-degree: 2%
 
 ---
 
@@ -42,7 +42,47 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Utlösartoken för attribut</strong>: Utökad lista över utlösartokens som kan användas med data från aktivitetsattribut i fält för smarta kampanjer.</td> 
+   <td><strong>Utlösartoken för alla attribut</strong>: Utökad lista över utlösartoken som kan användas med data från alla aktivitetsattribut i smarta kampanjfält.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E-posta innehåll i Personalization</strong>: Marketo Engage följer nu samma kamelversionssyntax som andra AEP-programtoken, vilket ger en konsekvent upplevelse för alla Adobe DX-produkter. Alla standardtoken, liksom Marketo Engage-specifika tokens som Medlem, Program och Mina token, är tillgängliga i nya Email Designer.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Rollbaserad åtkomstkontroll för e-post-Designer Assets</strong>: En ny förbättring av det rollbaserade åtkomstkontrollssystemet (RBAC) ger mer detaljerade behörigheter och förbättrad användarhantering för resurser som drivs av nya Email Designer.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Klona e-post som har skapats i e-postmeddelandet för Designer</strong>: Du kan nu klona ett befintligt e-postmeddelande som har skapats med den nya e-postversionen för Designer.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>GenStudio-integrering</strong>: Integrera GenStudio för prestandamarknadsföring inifrån e-postmeddelanden för att förbättra marknadsföringseffektiviteten och upprätthålla varumärkets enhetlighet.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -56,6 +96,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 För att få tillgång till den här funktionen måste du ha köpt tillägget Avancerad BI Analytics. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

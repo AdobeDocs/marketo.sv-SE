@@ -4,9 +4,9 @@ description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokum
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,58 @@ Följ stegen nedan för att aktivera SSL för din standarddomän.
 
 >[!NOTE]
 >
->* Kolumnen SSL-certifikat i listan visar certifikatstatus för alla domänalias som skapas efter att den här funktionen har släppts (DATE). Om SSL har aktiverats för en domän via Marketo Support finns certifikatet kvar, men visas inte i tabellen. Den här tabellen visar endast SSL-certifikat för domäner som lagts till med stegen i den här artikeln.
+>* Kolumnen för SSL-certifikat i listan visar certifikatstatus för alla domänalias som skapats efter att den här funktionen släpptes (25 april 2025). Om SSL har aktiverats för en domän via Marketo Support finns certifikatet kvar, men visas inte i tabellen. Den här tabellen visar endast SSL-certifikat för domäner som lagts till med stegen i den här artikeln.
 >
 >* Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.
+
+## Felmeddelanden {#error-messages}
+
+Här nedan hittar du felmeddelanden som du kan få tillsammans med deras definitioner.
+
+<table><thead>
+  <tr>
+    <th>Fel</th>
+    <th>Information</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><i>Ett oväntat fel uppstod när en domän skapades. Kontakta supporten om du behöver hjälp.</i></td>
+    <td>Ett oväntat fel har inträffat. Samla in loggar och felinformation och eskalera problemet till support.</td>
+  </tr>
+  <tr>
+    <td><i>Det gick inte att hitta standarddomänen. Kontakta supporten om du behöver hjälp.</i></td>
+    <td>Det uppstod ett problem när standarddomänen skulle hittas. Kontakta supporten så att de kan undersöka saken.</td>
+  </tr>
+  <tr>
+    <td><i>SSL-certifikatet har redan utfärdats.</i></td>
+    <td>Det finns redan ett SSL-certifikat för den här anpassade domänen. Ingen ytterligare åtgärd krävs såvida inte certifikatet har upphört att gälla eller behöver utfärdas på nytt.</td>
+  </tr>
+  <tr>
+    <td><i>Domänen är inte mappad till standarddomänen.</i></td>
+    <td>Den anpassade domänen är inte korrekt mappad till standarddomänen. Kontrollera inställningarna för domänmappning och se till att DNS-konfigurationen pekar på rätt standarddomän.</td>
+  </tr>
+  <tr>
+    <td><i>Domänen finns redan.</i></td>
+    <td>Det finns redan en domän med samma namn.</td>
+  </tr>
+  <tr>
+    <td><i>En engångs-IP-konfiguration krävs innan du lägger till fler domäner. Kontakta supporten för att slutföra installationen och försöka lägga till en annan domän igen.</i></td>
+    <td>Den första anpassade domänen efter standarddomänen behöver en engångsinstallation som du kan initiera. Öppna en supportanmälan för att slutföra konfigurationen och lägga till domänen när de är klara.</td>
+  </tr>
+</tbody></table>
+
+## Saker att notera {#things-to-note}
+
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+
+* **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
+
+* **Befintliga SSL:er**: När du lägger till en domän söker systemet efter befintliga SSL:er, som kan ha skapats manuellt tidigare. Om du råkar ut för den här valideringen skapar du din domän utan att välja SSL-skapande, så ansluter vi dem åt dig. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ha mer information/alternativ.
+
+* **Första gången du spårar domän**: Första gången du skapar e-postspårningslänksdomäner måste du göra en manuell åtgärd från [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Efterföljande underdomäner får skapas under samma domän i användargränssnittet.
+
+* **Endast Marketo On-Prem**: För närvarande är den här funktionen bara tillgänglig för On-Prem. Marketo Engage på molntjänster måste konfigurera SSL genom att kontakta [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* **Det går inte att lägga till certifikat till befintliga domäner**: Det går inte att lägga till certifikat till befintliga domäner just nu. För befintliga domäner, eller om du har missat att markera rutan för SSL-certifikat, måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få certifikatet tillagt.
+
+* **Borttagning av domäner**: SSL-certifikatet tas inte automatiskt bort om du tar bort en domän. Detta kommer att åtgärdas i en framtida version.
