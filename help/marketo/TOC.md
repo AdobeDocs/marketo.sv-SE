@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 0%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 0%
          + [Komma igång med prediktiva målgrupper](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modeller och insikter](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Prediktiva filter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [Förstå målspårning och projekterade registreringar](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM-synkronisering {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Förstå Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
