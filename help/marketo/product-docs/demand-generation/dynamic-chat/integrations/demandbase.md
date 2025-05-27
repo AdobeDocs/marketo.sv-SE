@@ -3,7 +3,7 @@ description: Demandbase - Marketo Docs - produktdokumentation
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -19,6 +19,8 @@ Demandbase-användare kan använda personattribut för Demandbase för dialog, v
 Stegen nedan ska utföras _på ditt Demandbase-konto_.
 
 1. Klicka på ikonen _Inställningar_ i Demandbase.
+
+   ![](assets/demandbase-1.png)
 
 1. Välj **Kontokoppling** under _Integrationer_.
 
@@ -42,12 +44,12 @@ Stegen nedan ska utföras _på ditt Demandbase-konto_.
 
 Rikta er mot er målgrupp baserat på Demandbase-attribut, utöver inbyggda och anpassade attribut, samtidigt som ni skapar en dialog eller ett konversationsflöde.
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 Använd Demandbase-attribut som villkor i villkorlig förgrening, dialog eller konversationsflöde.
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 Använd Demandbase-attribut när du definierar en anpassad routningslogik.
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
