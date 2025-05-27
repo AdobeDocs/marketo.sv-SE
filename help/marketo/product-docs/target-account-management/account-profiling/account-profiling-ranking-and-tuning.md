@@ -4,9 +4,9 @@ description: Rankning och justering av kontoprofilering - Marketo Docs - produkt
 title: Rankning och justering av kontoprofilering
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Rankning och justering av kontoprofilering {#account-profiling-ranking-and-tuning}
 
 Kontoprofilering identifierar din Ideal Customer Profile (ICP), rangordnar företag i din databas baserat på ICP och lägger till ICP Indicator-data till konton som befordrats som namngivna konton.
+
+>[!IMPORTANT]
+>
+>Från och med 2025 är kontoprofilering inte längre tillgängligt för nya användare. Det fortsätter att fungera för befintliga användare.
 
 ## Modellresultat {#model-results}
 
@@ -78,7 +82,7 @@ Det finns flera flikar att välja mellan, vilket möjliggör en djupgående anpa
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Operationer</strong></td> 
+   <td><strong>Användning</strong></td> 
    <td> 
     <div>
       Driftsrelaterade positioner/anställning. 
@@ -134,7 +138,7 @@ Det finns flera flikar att välja mellan, vilket möjliggör en djupgående anpa
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Företag</strong></td> 
+   <td><strong>Business</strong></td> 
    <td> 
     <div>
       Forbes eller Inc listings eller Business Partnership. 

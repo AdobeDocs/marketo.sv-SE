@@ -4,9 +4,9 @@ description: Ny kontoidentifiering - Marketo Docs - produktdokumentation
 title: Ny kontoidentifiering
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Ny kontoidentifiering {#new-account-discovery}
 
 Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på genom att använda AI-baserade rekommendationer från din idealiska kundprofil.
+
+>[!IMPORTANT]
+>
+>Från och med 2025 är kontoprofilering inte längre tillgängligt för nya användare. Det fortsätter att fungera för befintliga användare.
 
 >[!PREREQUISITES]
 >
@@ -73,4 +77,4 @@ Ny kontoidentifiering kan hjälpa dig att hitta nya konton att rikta in dig på 
 
    >[!TIP]
    >
-   >När dina konton har sparats kan du använda en [matchad målgrupp på LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) för att rikta in dem.
+   >När dina konton har sparats kan du använda en [matchad publik på LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) för att rikta dem.
