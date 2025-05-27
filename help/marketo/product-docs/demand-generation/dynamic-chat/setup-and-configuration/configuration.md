@@ -3,9 +3,9 @@ description: Konfiguration - Marketo Docs - produktdokumentation
 title: Konfiguration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Lär dig hur du anpassar utseendet på chatbot-dialogrutan.
 
-Kom igång genom att klicka på **Chatbot-inställningar** under **Konfiguration**.
+Kom igång genom att klicka på **Chatbot** under **Konfiguration**.
 
 ![](assets/configuration-1.png)
 
@@ -38,7 +38,7 @@ Med ankarpunkten kan besökaren öppna/stänga chatbox. Du kan välja om ikonen 
 
 ### Punktinställningar {#agent-settings}
 
-I Punktinställningar kan du lägga till en etikett till din chatbox (t.ex. &quot;Adobe Assistant&quot;) som visas högst upp i den. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Klicka på knappen **+** om du vill överföra din egen avatarbild.
+I Bot Settings kan du lägga till en etikett i din chatbox (t.ex. &quot;Adobe Assistant&quot;) som visas högst upp i den. Du kan också fastställa fördröjningen för svar (i sekunder) och ändra din chattavatar. Klicka på knappen **+** om du vill överföra din egen avatarbild.
 
 ![](assets/configuration-5.png)
 
@@ -46,21 +46,35 @@ I Punktinställningar kan du lägga till en etikett till din chatbox (t.ex. &quo
 >
 >Anpassade avatarer ska vara fyrkantiga bilder som är mindre än 256 kb och mindre än 200 x 200 px. Filtyper som stöds: .jpg, .png, .gif, .webp, .svg.
 
-Kom ihåg att klicka på **Spara** när du är klar med ändringarna.
+**Nytt meddelandeljud**
+
+Klicka på listrutan för att välja ett ljud för besökaren varje gång som chattbot aktiveras i en session. Det finns flera ljud att välja mellan.
+
+**Aktivera penselmeddelanden på mobilen**
+
+Välj reglaget för att aktivera&quot;Poke&quot;, som visar den inledande frågan bredvid chattikonen utan att besökaren behöver klicka på den för att se den, för besökare som chattar in från en mobil enhet.
 
 ![](assets/configuration-6.png)
+
+>[!NOTE]
+>
+>Poke är bara tillgängligt på det första [kortet](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} i konversationen.
+
+Kom ihåg att klicka på **Spara** när du är klar med ändringarna.
+
+![](assets/configuration-7.png)
 
 ## Sekretessflik {#privacy-tab}
 
 Klicka på fliken **Sekretess** för att lägga till/redigera URL:en för webbplatsens sekretesspolicy (valfritt).
 
-![](assets/configuration-7.png)
+![](assets/configuration-8.png)
 
 ## Installationsflik {#installation-tab}
 
 För att chattbot ska visas på webbplatsen måste du först installera Dynamic Chat JavaScript-fragmentet. Klicka på den här fliken om du vill söka efter/kopiera den nödvändiga koden. Om du inte känner till den här åtgärden kan du kontakta ditt webbteam eller din IT-avdelning för att få hjälp.
 
-![](assets/configuration-8.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >

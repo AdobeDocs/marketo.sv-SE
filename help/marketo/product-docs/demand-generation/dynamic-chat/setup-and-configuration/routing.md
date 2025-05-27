@@ -3,9 +3,9 @@ description: Routning - Marketo Docs - produktdokumentation
 title: Routning
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ I det här exemplet skickar vi alla möten från de härledda delstaterna CA, OR
 
    ![](assets/routing-1.png)
 
-1. Klicka på fliken **Anpassade regler**.
+1. Fliken **Anpassade regler** öppnas som standard.
 
    ![](assets/routing-2.png)
 
