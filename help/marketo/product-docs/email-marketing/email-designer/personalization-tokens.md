@@ -4,18 +4,17 @@ product: marketo
 title: Personalization Tokens
 description: Läs om hur du använder personaliseringstoken i nya Marketo Engage Email Designer
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Personalization Tokens {#personalization-tokens}
 
-E-postens Designer har ett annat format än den klassiska e-postredigeraren när det gäller e-postpersonaliseringstoken. Ändringen implementerades för att förbättra kompatibiliteten med Handlebar-skript och effektivisera skapandet av e-postmeddelanden.
+E-postdesignern har ett annat format än den klassiska e-postredigeraren när det gäller token för e-postanpassning. Ändringen implementerades för att förbättra kompatibiliteten med Handlebar-skript och effektivisera skapandet av e-postmeddelanden.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ E-postens Designer har ett annat format än den klassiska e-postredigeraren när
 
 ## Primär användning {#primary-use-case}
 
-Den här förbättringen är främst till nytta för övergången från [hastighetsskript](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting){target="_blank"} till Handlebar-skript. Den nya e-postadressen Designer har bara stöd för det nya tokenformatet. Det uppdaterade formatet eliminerar blanksteg och lägger till en reviderad standardtextstruktur, vilket ger en smidigare och effektivare skriptupplevelse.
+Den här förbättringen är främst till nytta för övergången från [hastighetsskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} till Handlebar-skript. Den nya e-postdesignern har bara stöd för det nya tokenformatet. Det uppdaterade formatet eliminerar blanksteg och lägger till en reviderad standardtextstruktur, vilket ger en smidigare och effektivare skriptupplevelse.
 
 ## Tokenupplevelse {#token-experience}
 
@@ -37,7 +36,7 @@ I den klassiska e-postredigeraren kan du lägga till variabler med mellanslag, t
 
 ### Nytt format {#new-format}
 
-I e-postdesignern måste du anpassa dig till [kamerans skiftläge](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) eller understreck för tokens (t.ex. `lead.anonymousIP` eller `member.registration_code`). Formatet för standardtexten ändras också till `{%=lead.city ?: "fallback" %}`.
+I e-postdesignern måste du använda [kamelcase](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) eller understreck för tokens (t.ex. `lead.anonymousIP` eller `member.registration_code`). Formatet för standardtexten ändras också till `{%=lead.city ?: "fallback" %}`.
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
