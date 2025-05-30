@@ -3,9 +3,9 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ När besökare begär att få chatta med en agent via din dialogruta har agenter
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
@@ -115,6 +115,10 @@ När en åtgärd som en mötesbokning eller en live-chatt misslyckas meddelas an
 
 * Agenter har 100 sekunder på sig att svara innan tidsgränsen för&quot;Godkänn chatt&quot;-meddelandet överskrids. Efter det får besökarna [grundmeddelandet](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. För Dynamic Chat Prime-prenumeranter som har routningsalternativet inställt på **Team** kommer ytterligare en agent att provas innan reservmeddelandet visas.
 * Det finns för närvarande en gräns på 10 chatt per agent.
+* Agent Inbox är bara till för live chatt-samtal. Om chatten inte accepteras av en agent visas den inte i Inkorgen för agenten eftersom den inte kvalificerar sig som en live-chatt.
+* På fliken Konversationer visas alla konversationer, både live och automatiserad chatt. Om en konversation inte accepteras av agenten kommer den att listas på fliken Konversationer. Det finns upp till 24 timmars fördröjning på fliken Konversationer eftersom det inte är realtid. Agent Inbox är däremot realtid.
+* Om det inte finns någon chattaktivitet efter 10 minuter (av antingen agenten eller besökaren) kommer chatten att timeout.
+* Om en agent ändrar sin profilbild (i account.adobe.com) _under_ en live-chatt, kommer besökaren fortfarande att se den gamla bilden tills chatten avslutas. Besökaren kommer att se den nya bilden nästa gång de chattar in och hämtar den agenten.
 
 >[!MORELIKETHIS]
 >

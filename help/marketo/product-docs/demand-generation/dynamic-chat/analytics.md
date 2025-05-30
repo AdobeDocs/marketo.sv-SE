@@ -3,9 +3,9 @@ description: Analytics - Marketo Docs - produktdokumentation
 title: 'Analytics '
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Analytics  {#analytics}
 
 Rapportering är tillgängligt på dialognivå, kontrollera det övergripande engagemanget med hjälp av de tre instrumentpanelerna nedan.
+
+>[!NOTE]
+>
+>Data från Dynamic Chat kan ta upp till 24 timmar att spegla i din Marketo Engage-instans.
 
 Gå till varje instrumentpanel under **Analytics** i den vänstra navigeringen.
 

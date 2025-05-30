@@ -3,9 +3,9 @@ description: Routning - Marketo Docs - produktdokumentation
 title: Routning
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -64,13 +64,47 @@ Identifiera och överför ditt målkonto och respektive säljare och skicka bes�
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>Innan _Kontoroutning_ visas i Dynamic Chat måste behörigheter aktiveras i Admin Console. Se [Aktivera behörigheter](#enable-permissions) nedan.
+
+### Aktivera behörigheter {#enable-permissions}
+
++++ Aktivera behörighet för kontoroutning
+
+1. Logga in på [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. Under _Produkter_ väljer du **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. Välj önskad profil under _Produktprofiler_.
+
+   ![](assets/routing-11.png)
+
+1. Klicka på fliken **Behörigheter**.
+
+   ![](assets/routing-12.png)
+
+1. Klicka på redigeringsikonen (![ikonen Redigera](assets/icon-routing-edit.png)) bredvid _Konfiguration_.
+
+   ![](assets/routing-13.png)
+
+1. Klicka på **+** bredvid _Visa kontodirigering_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Klicka på **Spara** när du är klar.
+
++++
+
 ### Lägg till ett konto {#add-an-account}
 
 I det här exemplet dirigerar vi alla anställda från Lego direkt till agent Steven.
 
 1. Klicka på **+ Lägg till konto** på fliken Kontoroutning.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ I det här exemplet dirigerar vi alla anställda från Lego direkt till agent St
 
 1. Ange företagets namn, domän och välj önskad agent.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

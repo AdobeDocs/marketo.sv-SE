@@ -3,9 +3,9 @@ description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ När en användares kalender är ansluten till Dynamic Chat läggs de till i kö
 >
 >Du kan ansluta en kalender per användare. Om du vill få möten i flera kalendrar måste du lägga till flera användare och låta dem ansluta sina kalendrar.
 
-Användare kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender. De kan också markera kryssrutan längst ned för att inkludera länken Google Meet eller Microsoft Teams (beroende på vilken kalender som var ansluten).
+Användare kan också anpassa innehållet i den inbjudan som skickas till besökaren när de schemalägger en avtalad tid i användarens kalender. De kan också markera kryssrutan längst ned för att inkludera en Google Möte- eller Microsoft Teams-länk (beroende på vilken kalender som var ansluten).
 
 ![](assets/agent-settings-3.png)
 
@@ -95,3 +95,11 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 >[!TIP]
 >
 >Du kan markera flera tidsblock på samma dag (t.ex. fredag från 8a-12p _och_ 1p-5p) genom att klicka på **+**-tecknet till höger.
+
+## Profilfoto för agent
+
+Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>Profilbilden som visas i `experience.adobe.com` stöds **inte**.
