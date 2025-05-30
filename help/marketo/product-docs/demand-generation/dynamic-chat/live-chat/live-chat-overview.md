@@ -26,7 +26,7 @@ När besökare begär att få chatta med en agent via din dialogruta har agenter
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
