@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9264'
 ht-degree: 0%
 
 ---
@@ -215,6 +215,7 @@ ht-degree: 0%
          + [Aktivera anpassade URL:er för ditt konto](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Valideringsregler för globala formulär](product-docs/administration/settings/global-form-validation-rules.md)
          + [Landningssidhuvuden](product-docs/administration/settings/landing-page-headers.md)
+         + [Kontrollpaneler för produktanvändning](product-docs/administration/settings/product-usage-dashboards.md)
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Välj språk, språk och tidszon](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Ange en återställningssida](product-docs/administration/settings/set-a-fallback-page.md)
