@@ -4,10 +4,10 @@ description: Installera Marketo e-posttillägg för Outlook med en registrerings
 title: Installera Marketo e-posttillägg för Outlook med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 0%
+source-wordcount: '551'
+ht-degree: 2%
 
 ---
 
@@ -31,32 +31,80 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
 ## Hämta installationsprogram {#download-installer}
 
-1. Identifiera din [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifiera din [Microsoft Outlook-version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
 
-1. Klicka på länken om du vill hämta det installationsprogram som är lämpligt för din version av Microsoft Outlook.
+1. I tabellen nedan klickar du på länken för att hämta rätt ZIP-fil för din version av Microsoft Outlook.
+
+1. Zippa upp filen för att få tillgång till den nödvändiga MSI-filen och fortsätt med installationen.
 
    >[!NOTE]
    >
    >För närvarande fungerar länkarna nedan bara i Microsoft Edge, eller genom att högerklicka i Chrome. Vi beklagar eventuella besvär.
 
-   | Outlook-version | 32-bitars Outlook | 64-bitars Outlook |
-   |---|---|---|
-   | Outlook 2000 | Stöds inte | Ej tillämpligt |
-   | Outlook 2003 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
-   | Outlook 2007 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | Ej tillämpligt |
-   | Outlook 2010 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook för Mac | Stöds inte | Stöds inte |
-   | Outlook Web App | Stöds inte | Stöds inte |
-   | Office 365* | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Hämta](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook-version</th>
+    <th>32-bitars Outlook</th>
+    <th>64-bitars Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>Stöds inte</td>
+    <td>Ej tillämpligt</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td>Ej tillämpligt</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td>Ej tillämpligt</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Ladda ned</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Ladda ned</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Ladda ned</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Ladda ned</a></td>
+  </tr>
+  <tr>
+    <td>Outlook för Mac</td>
+    <td>Stöds inte</td>
+    <td>Stöds inte</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>Stöds inte</td>
+    <td>Stöds inte</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Ladda ned</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Ladda ned</a></td>
+  </tr>
+</tbody></table>
 
-   *Office 365-version: endast Windows-klient (i Windows 10, Enterprise eller Pro).
+*Office 365-version: endast Windows-klient (i Windows 10, Enterprise eller Pro).
 
-   >[!IMPORTANT]
-   >
-   >Microsoft har släppt en [ny version av Outlook för Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Den nya versionen stöder inte det befintliga MSI Outlook-plugin-programmet. MSI Outlook-pluginprogrammet fortsätter att fungera för Windows-datorer som kör den klassiska versionen av Outlook. [Klicka här](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} om du vill veta mer om nya Outlook för Windows för organisationer.
+>[!IMPORTANT]
+>
+>Microsoft har släppt en [ny version av Outlook för Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Den nya versionen stöder inte det befintliga MSI Outlook-plugin-programmet. MSI Outlook-pluginprogrammet fortsätter att fungera för Windows-datorer som kör den klassiska versionen av Outlook. [Klicka här](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} om du vill veta mer om nya Outlook för Windows för organisationer.
 
 ## Kopiera din registreringskod {#copy-your-registration-code}
 
