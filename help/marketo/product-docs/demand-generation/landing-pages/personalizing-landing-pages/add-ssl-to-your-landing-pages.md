@@ -4,9 +4,9 @@ description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokum
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
@@ -97,15 +97,13 @@ Här nedan hittar du felmeddelanden som du kan få tillsammans med deras definit
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 
 * **Befintliga SSL:er**: När du lägger till en domän söker systemet efter befintliga SSL:er, som kan ha skapats manuellt tidigare. Om du råkar ut för den här valideringen skapar du din domän utan att välja SSL-skapande, så ansluter vi dem åt dig. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ha mer information/alternativ.
 
 * **Första gången du spårar domän**: Första gången du skapar e-postspårningslänksdomäner måste du göra en manuell åtgärd från [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Efterföljande underdomäner får skapas under samma domän i användargränssnittet.
-
-* **Endast Marketo On-Prem**: För närvarande är den här funktionen bara tillgänglig för On-Prem. Marketo Engage på molntjänster måste konfigurera SSL genom att kontakta [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Det går inte att lägga till certifikat till befintliga domäner**: Det går inte att lägga till certifikat till befintliga domäner just nu. För befintliga domäner, eller om du har missat att markera rutan för SSL-certifikat, måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få certifikatet tillagt.
 
