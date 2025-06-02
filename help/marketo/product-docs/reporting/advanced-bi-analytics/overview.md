@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,6 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 >[!PREREQUISITES]
 >
 >För att få tillgång till den här funktionen måste du ha köpt tillägget Avancerad BI Analytics. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
-
->[!NOTE]
->
->Om du har några frågor om den här funktionen medan den är i betaversion (till och med 1 juni 2025) skickar du ett e-postmeddelande till: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Viktiga funktioner och fördelar {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
 ## Skapa en rapport {#create-a-report}
 
-1. Klicka på rutan **[!UICONTROL Advanced BI Analytics (Beta)]** i My Marketo.
+1. Klicka på rutan **[!UICONTROL Advanced BI Analytics]** i My Marketo.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -177,11 +173,8 @@ Följande standardrapporter finns som exempel på dina anpassade rapporter.
 
 ## Saker att notera {#note}
 
-Den allmänna betaversionen kommer att löpa till och med 1 juni 2025, då den klassiska upplevelsen via &quot;Revenue Explorer&quot; kommer att bli permanent föråldrad.
+* Den klassiska&quot;Revenue Explorer&quot;-upplevelsen kommer att bli permanent inaktuell den 10 juni 2025. Under tiden kan ni få tillgång till, skapa, uppdatera och ta bort rapporter i båda upplevelserna.
 
-_Under betaversionen:_
-
-* Ni kan komma åt, skapa, uppdatera och ta bort rapporter i båda upplevelserna.
 * Dina anpassade rapporter kommer att replikeras från den klassiska upplevelsen till den nya upplevelsen med de märkbara beteendeförändringar som omnämns i avsnittet [Om den nya upplevelsen](#learning-the-new-experience) nedan.
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _Under betaversionen:_
      >
      >Kontrollpanelen i den nya upplevelsen är bara en samling rapporter på en enda sida. Det främsta värdet med kontrollpanelen i den nya upplevelsen är att ni kan presentera analytiska insikter över olika rapporteringsområden.
 
-* Dina e-postprenumerationer i den klassiska upplevelsen kommer att replikeras till den nya upplevelsen. E-postprenumerationerna i den klassiska upplevelsen kommer att fortsätta att fungera tills den klassiska upplevelsen är borttagen den 1 juni 2025.
+* Dina e-postprenumerationer i den klassiska upplevelsen kommer att replikeras till den nya upplevelsen. E-postprenumerationerna i den klassiska upplevelsen kommer att fortsätta att fungera tills den klassiska upplevelsen är borttagen den 10 juni 2025.
 
-* Befintliga användare av Intresseutforskaren har automatiskt tillgång till den nya Beta-upplevelsen (Advanced BI Analytics).
+* Befintliga användare av Intresseutforskaren har automatiskt tillgång till den nya avancerade BI Analytics-upplevelsen.
+
+* Du kan skapa upp till 700 rapporter i Avancerad BI-analys.
+
+* Det finns en begränsning på 1 miljon rader per fråga för en given visualisering. Om din fråga överskrider det felet får du följande fel: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Du kan åtgärda detta genom att minska datumintervallet och/eller justera filtren i rapporten för att minska antalet rader i frågeresultatet.
 
 ## Lär dig den nya upplevelsen {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ Nedan följer förändringar i den nya upplevelsen (Advanced BI Analytics) från
 * E-postprenumerationen inkluderar PDF-exporten i stället för HTML i rapporten. Den nya e-postprenumerationen kommer inte att innehålla rapportdefinitionen.
 
 * Den djupa länken i rapporten stöds inte just nu.
-
-* Rapportmappsupplevelsen är inte tillgänglig just nu och har tillfälligt ersatts med en platt lista med typsnittssökning. Namnet på den replikerade rapporten innehåller mappsökvägen, t.ex. `/folder1/folder2/report`.
 
 * PDF export är synkron i den nya upplevelsen jämfört med att vara asynkron i den klassiska upplevelsen.
 
