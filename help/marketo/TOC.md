@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '9264'
+source-wordcount: '9269'
 ht-degree: 0%
 
 ---
@@ -1034,6 +1034,7 @@ ht-degree: 0%
          + [Redigera bilder med Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragment](product-docs/email-marketing/email-designer/fragments.md)
          + [Anpassningsbara fragment](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [GenStudio Integration för Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Låsning av innehåll](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI-assistenten](product-docs/email-marketing/email-designer/ai-assistant.md)
       + E-postprogram {#email-programs}
