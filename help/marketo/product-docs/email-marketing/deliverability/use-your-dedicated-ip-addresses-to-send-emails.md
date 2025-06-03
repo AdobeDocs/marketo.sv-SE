@@ -4,9 +4,9 @@ description: Använd dina dedikerade IP-adresser för att skicka e-postmeddeland
 title: Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Om du skickar från en eller flera dedikerade IP-adresser får du fullständig k
 
 >[!AVAILABILITY]
 >
->En dedikerad IP är en tilläggsprodukt. Alla har inte rätt att lägga till en dedikerad IP-adress i sitt program. Du måste skicka mer än 100 000 e-postmeddelanden per månad och ha en stabil kampanjstängsel för att behålla en dedikerad IP-adress. Kontakta kontoteamet (din kontohanterare) för mer information om hur du lägger till en dedikerad IP-adress i ditt Marketo-program.
+>En dedikerad IP är en tilläggsprodukt. Alla har inte rätt att lägga till en dedikerad IP-adress i sitt program. Du måste skicka mer än 100 000 e-postmeddelanden per månad och ha en stabil kampanjstängsel för att behålla en dedikerad IP-adress. Kontakta ditt kontoteam för mer information om hur du lägger till en dedikerad IP-adress i ditt Marketo-program.
 >
 >Om du skickar mindre än 100 000 e-postmeddelanden per månad och/eller har olika kampanjvolymer och/eller är en säsongssändare kan du inte upprätthålla en dedikerad IP-adress. Marketo har en separat betrodd IP-delad pool för kunder som följer strikta standarder. Om du är intresserad fyller du i [enkäten](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) som du kan använda för Marketo betrodda IP-program.
 
@@ -38,7 +38,7 @@ För att maximera den långsiktiga leveransen erbjuder de konsulter som arbetar 
 
 >[!TIP]
 >
->Håll databasen ren så att leveransen blir hög. [Adobe kräver](https://www.adobe.com/legal/terms/aup.html) att kunderna bara skickar marknadsföringsmeddelanden till personer som har anmält sig till/begärt att få e-post. Skräppost inte.
+>Håll databasen ren så att leveransen blir hög. [Adobe kräver](https://www.adobe.com/legal/terms/aup.html) att kunder bara skickar marknadsföringskommunikation till personer som har anmält sig till/begärt att få e-post. Skräppost inte.
 
 >[!CAUTION]
 >
