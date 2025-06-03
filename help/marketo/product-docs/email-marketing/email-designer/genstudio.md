@@ -19,7 +19,7 @@ Adobe GenStudio for Performance Marketing är en generativ AI-first-applikation 
 
 >[!INFO]
 >
->Läs mer om [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+>Läs mer om [GenStudio for Performance Marketing](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
 
 ## Utnyttja GenStudio Capabilities i Marketo Engage {#leverage-genstudio-capabilities}
 
@@ -35,9 +35,9 @@ Exportera enkelt en mall som innehåller varumärkesriktlinjerna till GenStudio 
 
    ![Exporterar din HTML](assets/genstudio-integration-1.png)
 
-1. [Överför den exporterade HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}-mallen till GenStudio for Performance Marketing.
+1. [Överför den exporterade HTML](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}-mallen till GenStudio for Performance Marketing.
 
-1. I GenStudio använder du den här mallen för att [skapa flera e-postvarianter](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} med AI-uppmaningar och spara dem.
+1. I GenStudio använder du den här mallen för att [skapa flera e-postvarianter](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} med AI-uppmaningar och spara dem.
 
 ## Utnyttja GenStudio Experience i Marketo Engage {#leverage-genstudio-experiences}
 
