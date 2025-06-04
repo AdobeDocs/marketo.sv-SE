@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504744
-description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 3 of 3 - Marketo Docs - produktdokumentation
+description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 3 of 3 - Marketo Docs - Product Documentation
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 3 of 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Installera Marketo för Microsoft Dynamics 2015 On-Premises, steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
->* [Installera Marketo för Microsoft Dynamics 2015 On-Premises, steg 2 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+>* [Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -96,14 +96,12 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    >[!CAUTION]
    >
-   >Marketo avlastar inte automatiskt mot en Microsoft Dynamics-synkronisering eller när du anger personer manuellt.
+   >Marketo avlastar inte automatiskt vid en Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
 
 1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **[!UICONTROL Start Sync]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Den första synkroniseringen kan ta några timmar. När det är klart får du ett e-postmeddelande.
+1. Beroende på antalet poster kan den inledande synkroniseringen ta från några timmar till några dagar var som helst. Du får ett e-postmeddelande när du är klar.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Utmärkt arbete!

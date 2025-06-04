@@ -3,9 +3,9 @@ description: Steg 4 av 4 - Anslut Marketo-lösningen med Resource Owner Password
 title: Steg 4 av 4 - Anslut Marketo-lösningen med Resursägarens lösenordskontrollanslutning
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -106,11 +106,9 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. Den första synkroniseringen kan ta några timmar. När det är klart får du ett e-postmeddelande.
+1. Beroende på antalet poster kan den inledande synkroniseringen ta från några timmar till några dagar var som helst. Du får ett e-postmeddelande när du är klar.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Utmärkt arbete!
 
 >[!MORELIKETHIS]
 >

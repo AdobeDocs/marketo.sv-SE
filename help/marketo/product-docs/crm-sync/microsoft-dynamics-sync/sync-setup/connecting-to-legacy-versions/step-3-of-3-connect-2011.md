@@ -4,14 +4,14 @@ description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (On-Premises 2
 title: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (lokal version 2011)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
-# Steg 3 av 3: Anslut Microsoft Dynamics med Marketo (lokal version 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# Steg 3 av 3: Anslut Microsoft Dynamics till Marketo (lokal version 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
 
@@ -101,8 +101,6 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Den första synkroniseringen kan ta några timmar. När det är klart får du ett e-postmeddelande.
+1. Beroende på antalet poster kan den inledande synkroniseringen ta från några timmar till några dagar var som helst. Du får ett e-postmeddelande när du är klar.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
-
-   Utmärkt arbete!

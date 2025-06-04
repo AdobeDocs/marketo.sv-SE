@@ -3,9 +3,9 @@ description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Pre
 title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises, steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
->* [Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises, steg 2 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+>* [Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -95,14 +95,12 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    >[!CAUTION]
    >
-   >Marketo avlastar inte automatiskt mot en Microsoft Dynamics-synkronisering eller när du anger personer manuellt.
+   >Marketo avlastar inte automatiskt vid en Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
 
 1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **[!UICONTROL Start Sync]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. Den första synkroniseringen kan ta några timmar. När det är klart får du ett e-postmeddelande.
+1. Beroende på antalet poster kan den inledande synkroniseringen ta från några timmar till några dagar var som helst. Du får ett e-postmeddelande när du är klar.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Utmärkt arbete!

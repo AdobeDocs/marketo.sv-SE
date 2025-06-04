@@ -4,9 +4,9 @@ description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Conne
 title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Detta är det sista steget i synkroniseringen. Vi är nästan framme!
 
 >[!IMPORTANT]
 >
->Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få hjälp med att uppdatera ytterligare parametrar. Om du aktiverar den här funktionen avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. Funktionen kan inaktiveras (fram till april 2022) om du vill återgå till det gamla autentiseringsläget.
+>Om du uppgraderar från grundläggande autentisering till OAuth måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få hjälp med att uppdatera de ytterligare parametrarna. Om du aktiverar den här funktionen avbryts synkroniseringen tillfälligt tills nya autentiseringsuppgifter anges och synkroniseringen aktiveras igen. Funktionen kan inaktiveras (fram till april 2022) om du vill återgå till det gamla autentiseringsläget.
 
 >[!NOTE]
 >
@@ -106,8 +106,6 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. Den första synkroniseringen kan ta några timmar. När det är klart får du ett e-postmeddelande.
+1. Beroende på antalet poster kan den inledande synkroniseringen ta från några timmar till några dagar var som helst. Du får ett e-postmeddelande när du är klar.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Utmärkt arbete!
