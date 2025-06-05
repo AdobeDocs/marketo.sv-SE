@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Här får vi antalet aktiviteter under de senaste sju dagarna baserat på mening
 >
 >* På kontrollpanelen visas endast de 20 viktigaste aktivitetstyperna, medan resten sorteras i en kategori med namnet&quot;Annan&quot;.
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 Aktivitetsanvändningen visar hur mycket marknadsföring som bedrivs och hjälper er att visualisera tillväxten mot den nivå som avtalats för produkten. Kontrollpaneler kan också användas som vägledning för att avgöra hur mycket optimering som kan/bör göras genom att reducera antalet fält som uppdateras.
 
 ### Efter typ {#by-type}
 
 Gruppera aktiviteter efter de vanligaste aktivitetstyperna de senaste sju dagarna. Detta kan omfatta kategorier som _Ändra datavärde_, _Lägg till i lista_ eller _Skicka e-post_. På så sätt kan du se vilka typer av aktiviteter som sker oftast på ditt Marketo Engage-konto.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Efter attributet Ändra datavärde {#by-change-data-value-attribute}
 
 _Ändra datavärde_ är den vanligaste aktivitetstypen. Det anger när en del information om en person/lead-post uppdateras. Här grupperar vi de fält som har ändrats oftast så att du kan avgöra vilken information som är användbar i marknadsföringsåtgärderna, om det finns möjligheter att optimera plattformsanvändningen osv.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Efter kampanj {#by-campaign}
 
 Grupp för vilka kampanjer producerar mest aktiviteter. På så sätt kan ni se om ni har några särskilt &quot;högljudda&quot; kampanjer som skapar mer aktivitet än nödvändigt. Lär dig snabbt om kampanjer som ska avvecklas, eller kampanjer som gör mer arbete än tänkt.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Av Source (KOMMER SNART) {#by-source}
 
