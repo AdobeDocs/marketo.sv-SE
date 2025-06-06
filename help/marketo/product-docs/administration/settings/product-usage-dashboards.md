@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _Ändra datavärde_ är den vanligaste aktivitetstypen. Det anger när en del in
 Grupp för vilka kampanjer producerar mest aktiviteter. På så sätt kan ni se om ni har några särskilt &quot;högljudda&quot; kampanjer som skapar mer aktivitet än nödvändigt. Lär dig snabbt om kampanjer som ska avvecklas, eller kampanjer som gör mer arbete än tänkt.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Av Source (KOMMER SNART) {#by-source}
-
-Gruppera efter aktiviteternas källa (_CRM-synkronisering_, _Kampanjflödesåtgärd_, _API-överföring_, _Landing Page Form Fill_ osv.). Detta hjälper er att förstå om de flesta av era aktiviteter produceras av marknadsföringsåtgärder, CRM-synkroniseringar eller av personerna/ledarna själva.
