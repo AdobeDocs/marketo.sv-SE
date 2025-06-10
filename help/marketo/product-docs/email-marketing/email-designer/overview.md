@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att
 
 +++Lär dig hur du kommer åt e-postdesignern
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -76,11 +76,19 @@ Nya e-postmeddelanden från Designer är tillgängliga i alla program (med det e
 
 **Kommer våra befintliga e-postmallar att fungera i den nya designern? Om inte, måste vi skapa mallar med den nya designern så att alla avsnitt/moduler motsvarar hur vi vill att innehållet ska se ut?**
 
-Nej, det går inte att referera till e-postmallar från den klassiska redigeraren i den nya designern. Du måste skapa nya mallar i den nya designern. Du _kan_ importera mallen HTML till den nya designern och sedan göra nödvändiga ändringar. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
+E-postmallar från den klassiska redigeraren kan inte refereras i den nya designern. Du måste skapa nya mallar i den nya designern. Du _kan_ importera mallen HTML till den nya designern och sedan göra nödvändiga ändringar. **Obs!** Kompatibilitet med mallar för klassisk redigering med den nya designern kommer snart.
+
+**Kan jag enkelt flytta nya designerresurser till ett annat program?**
+
+Inte just nu. Men den funktionen kommer snart.
+
+**Kan resurser redigeras via API i den nya e-postdesignern?**
+
+Assets som redigeras via API stöds för närvarande inte i den nya e-postdesignern.
 
 **Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyper och färger)?**
 
-Låsning av innehållsavsnitt är en del av den nya designern, och låsning av format, färger osv. kommer senare i år.
+Låsning av innehållsavsnitt är en del av den nya designern, och snart kommer låsning av format, färger osv.
 
 **Kommer moduler för mallar att bli mer anpassningsbara och skalbara?**
 
@@ -88,16 +96,11 @@ Ja, absolut, mer anpassningsbart med vår WYSIWYG-redigerare (what-you-see-is-wh
 
 **Hur fungerar skapandet av e-postmallar i den nya designern? Är det WYSIWYG, eller kräver det HTML kunskap?**
 
-Det är WYSIWYG; HTML kunskap behövs inte. Du kan enkelt skapa
--mallar i designern, vilket minskar behovet av externa webbutvecklare. Du kan dock fortfarande uppdatera CSS och redigera enskilda avsnitt via HTML. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
+Det är WYSIWYG; HTML kunskap behövs inte. Du kan enkelt skapa mallar i designern, vilket minskar behovet av externa webbutvecklare. Du kan dock fortfarande uppdatera CSS och redigera enskilda avsnitt via HTML. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
 
 **Har den nya e-postdesignern stöd för AMP-språk?**
 
 Det har för närvarande inget stöd för AMP.
-
-**Kan resurser redigeras via API i den nya e-postdesignern?**
-
-Assets som redigeras via API stöds för närvarande inte i den nya e-postdesignern.
 
 **Attributet för dynamiskt innehåll efter är bra, men fungerar fortfarande det dynamiska innehållet efter segment?**
 
