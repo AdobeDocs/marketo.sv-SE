@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Aktivitetstyper omfattar både antal aktiviteter som tagits när personer/leads 
 >
 >Om du vill visa antalet aktivitetstyper för en viss vecka håller du pekaren över önskad vecka så visas antalet.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### Vanliga frågor och svar {#faq}
 
 **Vilka aktivitetstyper räknas?**
@@ -70,17 +68,10 @@ Aktivitetsanvändningen visar hur mycket marknadsföring som bedrivs och hjälpe
 
 Gruppera aktiviteter efter de vanligaste aktivitetstyperna de senaste sju dagarna. Detta kan omfatta kategorier som _Ändra datavärde_, _Lägg till i lista_ eller _Skicka e-post_. På så sätt kan du se vilka typer av aktiviteter som sker oftast på ditt Marketo Engage-konto.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### Efter attributet Ändra datavärde {#by-change-data-value-attribute}
 
 _Ändra datavärde_ är den vanligaste aktivitetstypen. Det anger när en del information om en person/lead-post uppdateras. Här grupperar vi de fält som har ändrats oftast så att du kan avgöra vilken information som är användbar i marknadsföringsåtgärderna, om det finns möjligheter att optimera plattformsanvändningen osv.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### Efter kampanj {#by-campaign}
 
 Grupp för vilka kampanjer producerar mest aktiviteter. På så sätt kan ni se om ni har några särskilt &quot;högljudda&quot; kampanjer som skapar mer aktivitet än nödvändigt. Lär dig snabbt om kampanjer som ska avvecklas, eller kampanjer som gör mer arbete än tänkt.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
