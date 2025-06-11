@@ -113,7 +113,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
    >[!NOTE]
    >
    >* _Data med den aktuella layouten_ är bara tillgängliga för visuella tabeller och matriser.
-   * _Underliggande data_ är inte tillgängliga i Marketo Engage.
+   >* _Underliggande data_ är inte tillgängliga i Marketo Engage.
 
 1. Välj önskat filformat (.XLS, .CSV).
 
