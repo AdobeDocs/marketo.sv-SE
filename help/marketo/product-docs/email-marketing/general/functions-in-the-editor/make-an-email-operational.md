@@ -4,20 +4,20 @@ description: Gör ett e-postmeddelande tillgängligt - Marketo Docs - produktdok
 title: Låt e-postmeddelanden fungera
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Låt e-postmeddelanden fungera {#make-an-email-operational}
 
-E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring har avbrutits. De skickar oavsett vad.
+E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring har avbrutits. De omfattas inte heller av några kommunikationsbegränsningar. De skickar oavsett vad.
 
 >[!NOTE]
 >
->E-post som används omfattas inte av kommunikationsbegränsningar.
+>Operativa e-postmeddelanden räknas inte in i kommunikationsgränser. Om någon till exempel bara kan få ett e-postmeddelande per vecka och du redan har skickat ett marknadsföringsmeddelande till dem, kan du ändå skicka ett användbart e-postmeddelande till dem om det behövs.
 
 1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
 
