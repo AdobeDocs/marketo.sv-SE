@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -58,11 +58,74 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## Exportera en rapport {#export-a-report}
+
+När du exporterar en fullständig rapport är exportalternativen PDF och PPT. Om du behöver dina data i XLS eller CSV kan du göra det genom att exportera enskilda visualiseringar ([se nedan](#export-a-visualization)).
+
+>[!BEGINTABS]
+
+>[!TAB Från rapportsidan]
+
+1. På rapportsidan klickar du på ikonen &quot;mer&quot; (..) för den önskade rapporten och väljer **Exportera**.
+
+   ![](assets/export-a-report-1a.png)
+
+1. Välj PDF eller PPT och klicka på **Exportera**.
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB I rapporten]
+
+1. I själva rapporten klickar du på ikonen&quot;mer&quot; (**..**) i det övre högra hörnet och väljer **Exportera**.
+
+   ![](assets/export-a-report-1b.png)
+
+1. Välj PDF eller PPT och klicka på **Exportera**.
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### Exportera en visualisering {#export-a-visualization}
+
+Lär dig hur du exporterar specifika avsnitt i rapporten.
+
+1. Välj önskad rapport.
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. Håll pekaren över den visualisering som visas för att visa tre ikoner.
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. Klicka på ikonen Mer (**..**)
+
+   ![](assets/export-a-visualization-3.png)
+
+1. Välj **Exportera data**.
+
+   ![](assets/export-a-visualization-4.png)
+
+1. Välj önskat dataformat.
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _Data med den aktuella layouten_ är bara tillgängliga för visuella tabeller och matriser.
+   * _Underliggande data_ är inte tillgängliga i Marketo Engage.
+
+1. Välj önskat filformat (.XLS, .CSV).
+
+   ![](assets/export-a-visualization-6.png)
+
+1. Klicka på **Exportera**.
+
 ## Videodemo {#video}
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
