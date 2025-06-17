@@ -4,9 +4,9 @@ description: Redigera din standardprofileringsdomän - Marketo Docs - produktdok
 title: Redigera din standardvarumärkesdomän
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Att redigera din standardvarumärkesdomän är det första steget i arbetet med 
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Nu kan du [lägga till ytterligare branding-domäner](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} som du behöver.
+
+>[!NOTE]
+>
+>Om du behöver uppdatera eller ta bort en befintlig SSL kan du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

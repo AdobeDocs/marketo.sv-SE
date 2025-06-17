@@ -4,9 +4,9 @@ description: Lägg till en extra varumärkesdomän - Marketo Docs - produktdokum
 title: Lägg till en extra varumärkesdomän
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 
@@ -86,6 +86,8 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 * **Första gången du spårar domän**: Första gången du skapar e-postspårningslänksdomäner måste du göra en manuell åtgärd från [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Efterföljande underdomäner får skapas under samma domän i användargränssnittet.
 
 * **Det går inte att lägga till certifikat till befintliga domäner**: Det går inte att lägga till certifikat till befintliga domäner just nu. För befintliga domäner, eller om du har missat att markera rutan för SSL-certifikat, måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få certifikatet tillagt.
+
+* **Redigera eller ta bort certifikat i befintliga domäner**: Om du behöver uppdatera eller ta bort en befintlig SSL kan du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Borttagning av domäner**: SSL-certifikatet tas inte automatiskt bort om du tar bort en domän. Detta kommer att åtgärdas i en framtida version.
 
