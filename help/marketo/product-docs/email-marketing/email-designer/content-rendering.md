@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Engage för att omedelbart se hur din e-post återges i vanliga e-postklienter.
 
-## Så här använder du {how-to-use}
+## Så här använder du &lbrace;how-to-use&rbrace;
 
 1. Klicka på knappen Simulera innehåll på skärmen Redigera innehåll i ditt meddelande eller i e-post-Designer.
 
