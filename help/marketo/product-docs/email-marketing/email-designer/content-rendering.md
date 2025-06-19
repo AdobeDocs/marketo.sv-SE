@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Editor
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: c10984c5c4076103a4ccc81e94d595e0ec41c535
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Engage för att omedelbart se hur din e-post återges i vanliga e-postklienter.
 
-## Så här använder du &lbrace;how-to-use&rbrace;
+## Så här använder du {#how-to-use}
 
 1. Klicka på knappen Simulera innehåll på skärmen Redigera innehåll i ditt meddelande eller i e-post-Designer.
 
