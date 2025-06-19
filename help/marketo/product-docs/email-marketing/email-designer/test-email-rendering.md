@@ -5,9 +5,10 @@ title: Testa e-poståtergivning med Litmus
 description: Marketo Engage-användare kan integrera sitt Litmus-konto för att smidigt testa innehåll som skickas i olika e-postklienter.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Eng
 
 ## Så här använder du {#how-to-use}
 
-1. Klicka på knappen **Simulera innehåll** på skärmen _Redigera e-postinnehåll_ .
+1. På skärmen _Redigera e-postinnehåll_ klickar du på knappen **Simulera innehåll** .
 
    ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -54,10 +55,10 @@ Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Eng
    >
    >Lär dig hur du [anpassar din standardlista för e-postklienter](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. När du har testat klart klickar du på bakåtpilen i skärmens övre vänstra hörn för att gå tillbaka till skärmen _Simulera innehåll_.
+1. När du har testat klart klickar du på bakåtpilen uppe till vänster för att återgå till skärmen _Simulera innehåll_.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**VALFRITT STEG**: Om du bestämmer dig för att göra ändringar i e-postmeddelandet måste du klicka på **Återge e-post** för att visa dem och även klicka på knappen **Återställ** i det övre högra hörnet av Litmus-skärmen.
+**VALFRITT STEG**: Om du bestämmer dig för att göra ändringar i e-postmeddelandet måste du klicka på **Återge e-post** för att visa dem. Se även till att klicka på knappen **Testa igen** längst upp till höger på skärmen _Förhandsvisa e-post_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)

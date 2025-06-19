@@ -5,14 +5,14 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
 
-# Översikt {#overview}
+# E-posta Designer - översikt {#overview}
 
 Välkommen till nya Adobe Marketo Engage Email Designer.
 
@@ -26,7 +26,7 @@ E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att
 
 +++Lär dig hur du kommer åt e-postdesignern
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -54,6 +54,8 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 * [Anpassningsbara fragment](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Lär dig hur du anpassar fragment genom att göra vissa fält redigerbara.
 
+* [Personalization Tokens](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Lär dig mer om det nya formatet för personaliseringstoken i den nya e-postdesignern.
+
 * [Arbeta med AEM-resurser](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina digitala AEM-resurser som kan användas i Marketo Engage.
 
 * [Redigera bilder med Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredigerare med Adobe Express.
@@ -61,6 +63,8 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 * [Använd AI-assistenten](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 
 * [Lås innehåll i e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Lär dig hur du låser innehåll i e-postmallar, vilket förhindrar oavsiktliga redigeringar och borttagningar.
+
+* [Testa e-poståtergivning med Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Utnyttja ditt Litmus-konto i Marketo Engage för att omedelbart se hur din e-post återges i vanliga e-postklienter.
 
 * [Funktionsjämförelse](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Jämför tillgängligheten för funktioner i den tidigare e-postredigeraren (e-postredigeraren 2.0) och nya e-post-Designer.
 
@@ -112,4 +116,4 @@ Om du loggar in på Marketo Engage via [Adobe Experience Cloud](https://experien
 
 **Vilka webbläsare kan jag använda med nya e-post-Designer?**
 
-Du bör använda Google Chrome, Apple Safari eller Microsoft Edge. Fullt stöd för Mozilla Firefox kommer att finnas vid ett senare tillfälle.
+Du bör använda Google Chrome, Apple Safari eller Microsoft Edge. Fullt stöd för Mozilla Firefox kommer snart.
