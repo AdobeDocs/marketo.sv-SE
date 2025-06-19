@@ -4,8 +4,9 @@ product: marketo
 title: Lås innehåll i e-postmallar
 description: Lär dig hur du låser innehåll i e-postmallar.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '831'
 ht-degree: 0%

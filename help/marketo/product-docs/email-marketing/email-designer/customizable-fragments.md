@@ -3,11 +3,11 @@ solution: Marketo Engage
 product: marketo
 title: Anpassningsbara fragment
 description: Lär dig hur du anpassar fragment genom att göra vissa av deras fält redigerbara.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 0%

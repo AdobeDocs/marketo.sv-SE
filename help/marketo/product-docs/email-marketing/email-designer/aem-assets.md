@@ -1,8 +1,10 @@
 ---
 title: Arbeta med Experience Manager Assets
 description: Lär dig hur du använder bildresurser från en ansluten AEM Assets-databas när du redigerar innehåll i Adobe Marketo Engage.
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 0%
@@ -15,7 +17,7 @@ Anslut ditt _Adobe Experience Manager Assets as a Cloud Service_-konto till din 
 
 >[!NOTE]
 >
->För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Länka till dina AEM Cloud-tjänster {#link-to-your-aem-cloud-services}
 
@@ -71,7 +73,7 @@ Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange A
 
 ![Välj AEM Assets som bildkälla i dialogrutan Skapa](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` i avsnittet _[!UICONTROL Body]_&#x200B;till höger.
+* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` i avsnittet _[!UICONTROL Body]_till höger.
 
 ![Välj AEM Assets som bildkälla i egenskaperna](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -79,7 +81,7 @@ Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange A
 
 >[!IMPORTANT]
 >
->En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicka på ikonen _Experience Manager Resursväljare_ i den vänstra sidofältet i den visuella innehållsredigeraren. Detta ändrar verktygspanelen till en lista med tillgängliga resurser i den valda databasen.
 

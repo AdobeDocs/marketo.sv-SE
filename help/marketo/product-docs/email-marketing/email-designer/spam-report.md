@@ -4,10 +4,10 @@ product: marketo
 title: Spam Assassin
 description: TEXT GES HÄR
 level: Beginner, Intermediate
-feature: Email Editor
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
+source-wordcount: '9279'
 ht-degree: 0%
 
 ---
@@ -1029,6 +1029,7 @@ ht-degree: 0%
          + [Funktionsjämförelse](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-postredigering](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Redigering av e-postmallar](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Testa e-poståtergivning med Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Redigera bilder med Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 0%
          + [GenStudio Integration för Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Låsning av innehåll](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI-assistenten](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [Skräppostrapport via e-post med SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + E-postprogram {#email-programs}
          + Skapa ett e-postprogram {#creating-an-email-program}
             + [Skapa ett e-postprogram](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

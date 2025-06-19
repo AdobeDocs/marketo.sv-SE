@@ -1,18 +1,20 @@
 ---
 title: Connect Experience Manager doc
-description: Lär dig hur du kopplar Adobe Experience Manager-Cloud Service till Adobe Marketo Engage så att du kan utnyttja dina AEM resurser.
+description: Lär dig hur du ansluter Adobe Experience Manager Cloud Services till Adobe Marketo Engage så att du kan utnyttja dina AEM-resurser.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Anslut Adobe Experience Manager-Cloud Service {#connect-adobe-experience-manager-cloud-services}
+# Anslut Adobe Experience Manager Cloud Services {#connect-adobe-experience-manager-cloud-services}
 
-Lär dig hur du ansluter ditt AEM Assets Cloud Services-konto till din Adobe Marketo Engage-instans så att du kan utnyttja ditt AEM i Marketo Engage e-postkonto i Designer.
+Lär dig hur du ansluter ditt AEM Assets Cloud Services-konto till din Adobe Marketo Engage-instans så att du kan utnyttja din AEM Asset-databas i Marketo Engage Email Designer.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Lär dig hur du ansluter ditt AEM Assets Cloud Services-konto till din Adobe Mar
 
 SCREENSHOT
 
-1. Klicka på **Redigera** bredvid _Adobe Experience Manager-Cloud Service_.
+1. Klicka på **Redigera** bredvid _Adobe Experience Manager Cloud Services_.
 
 SCREENSHOT
 
@@ -46,7 +48,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-Nu kan du nå alla bilder från det digitala resurshanteringsbiblioteket i den databasen via Marketo Engage Email Designer.
+Nu kan du komma åt alla bilder från det digitala resurshanteringsbiblioteket i den databasen via Marketo Engage Email Designer.
 
 >[!MORELIKETHIS]
 >
