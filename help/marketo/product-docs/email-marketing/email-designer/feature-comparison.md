@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -173,6 +173,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
   </tr>
   <tr>
+    <td>Litmus Integration</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrera med Litmus</a> för att se hur dina e-postmeddelanden kommer att visas i olika e-postklienter.</td>
+    <td>Inte tillgängligt</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
     <td>Personalization Editor</td>
     <td>Möjlighet att personalisera innehåll i e-postmeddelanden med hjälp av variabler.</td>
     <td>Tillgänglig</td>
@@ -253,12 +259,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
    <tr>
     <td>Handlebar skript</td>
     <td>Möjlighet att använda Handlebar-skript i e-postmeddelanden.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för tredje kvartalet 25</td>
-  </tr>
-  <tr>
-    <td>Litmus Integration</td>
-    <td>Integrera med Litmus för att se hur era e-postmeddelanden kommer att se ut i olika e-postklienter.</td>
     <td>Inte tillgängligt</td>
     <td>Planerat för tredje kvartalet 25</td>
   </tr>
