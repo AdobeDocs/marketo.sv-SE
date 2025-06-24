@@ -4,9 +4,9 @@ description: Versionsinformation -juni 2012 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -juni 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Och som bonus har vi förbättrat möjligheten att ange och visa beskrivningstex
 
 ## Importera fältmappning {#import-field-mapping}
 
-Vi har gjort det mycket enklare att importera en lista till Marketo! Under importprocessen kan du mappa namnet på Marketo-fältet till kolumnrubriknamnet i importfilen. I Admin kan du dessutom konfigurera aliasnamn som mappas till fältnamnet i Marketo, så att användarna alltid väljer rätt fält.
+Vi har gjort det mycket enklare att importera en lista till Marketo! Under importprocessen kan du mappa namnet på Marketo-fältet till kolumnrubriknamnet i importfilen. I [!UICONTROL Admin] kan du dessutom konfigurera aliasnamn som mappas till fältnamnet i Marketo, så att användarna alltid väljer rätt fält.
 
 När du fortsätter att importera och mappa fält kommer Marketo att komma ihåg och visa mappningarna under importen för att underlätta användningen. Och för att göra livet ännu enklare kan du klicka på rubriken Exempelvärde för att se de olika värden som skulle fylla i fältet. Detta hjälper dig att mappa rätt fält varje gång!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Sammanfattningssida för smarta listor och statiska listor {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL Summary] sida för smarta listor och statiska listor {#summary-page-for-smart-lists-and-static-lists}
 
 Har du någonsin undrat var listorna används? Eller vem skapade listan eller senast ändrade den? Den nya sammanfattningssidan som finns på smarta listor och statiska listor innehåller dessa viktiga detaljer.
 
@@ -41,13 +41,13 @@ På de befintliga sammanfattningssidorna för program och kampanj har vi även l
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Används av för Assets {#used-by-for-assets}
+## [!UICONTROL Used By] för Assets {#used-by-for-assets}
 
-Vi har lagt till en ny flik i resurssammanfattningssidorna, som anropas av!
+En ny flik har lagts till på resursens [!UICONTROL Summary] sidor, som kallas [!UICONTROL Used By]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Exempel: Används av för statiska listor
+Exempel: [!UICONTROL Used By] för statiska listor
 
 ## Stödlinjer för landningssida {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ När du schemalägger en kampanj kan du klicka på länken för att se en lista 
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Vänta steg - Leadtoken och Min token {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait] steg - Leadtoken och Min token {#wait-step-lead-token-and-my-token}
 
-I majversionen har vi lagt till avancerade alternativ för steget Vänta. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på sin födelsedag eller använda `{{my.Event Date}}` för att skicka en slutgiltig påminnelse för webbinariet.
+I maj-versionen har vi lagt till avancerade alternativ i flödessteget [!UICONTROL Wait]. Med dessa ändringar kan du ange en arbetsdag, ett datum och en tid. I den här versionen har vi lagt till möjligheten att använda en token i väntesteget. Du kan till exempel använda `{{lead.Birthday}}` för att skicka ett e-postmeddelande på sin födelsedag eller använda `{{my.Event Date}}` för att skicka en slutgiltig påminnelse för webbinariet.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Visa som miniatyrbilder i Design Studio {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL View] som [!UICONTROL Thumbnails] i Design Studio {#view-as-thumbnails-in-design-studio}
 
 Byt vy från en lista med bilder till en miniatyrbildsvy!
 

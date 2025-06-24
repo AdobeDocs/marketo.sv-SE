@@ -2,10 +2,9 @@
 description: Versionsinformation - augusti 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
@@ -16,21 +15,21 @@ Här nedan hittar du alla funktioner som finns i versionen från 22 augusti. Se 
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 Följande funktioner påbörjade en fasad utrullning den **26 augusti 2022**.
 
-## Flerkanalsmarknadsföring {#cross-channel-orchestration}
+## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **[Aktivera/inaktivera alla publicerade dialogrutor samtidigt för Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Aktivera/inaktivera alla publicerade dialogrutor på konfigurationssidan globalt med en knapptryckning.
+* Aktivera/inaktivera alla publicerade dialogrutor samtidigt för [!DNL Dynamic Chat]**: Aktivera/inaktivera alla publicerade dialogrutor globalt på konfigurationssidan med en knapptryckning.
 
-* **[Anpassade avatarer för Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ditt varumärke.
+* **Anpassade avatarer för[!DNL Dynamic Chat]**: Ladda upp en anpassad chatbot-avatar så att den kan anpassas efter ditt varumärke.
 
-* **Chatta transkript för Dynamic Chat**: Visa chatttranskript för varje konversation för att få djupare insikter om vad varje webbbesökare är intresserad av.
+* **Chatta transkript för[!DNL Dynamic Chat]**: Visa chatttranskript för varje konversation för att få djupare insikter om vad varje webbbesökare är intresserad av.
 
 ## Nästa generations upplevelser
 
-* **Varumärkning för Adobe**: Uppdaterat utseende och känsla för redigerare och personinformationssida med ny Adobe Experience Cloud-märkning.
+* **Adobe Branding**: Uppdaterat utseende och känsla för redigerare och personinformationssidor med den nya Adobe Experience Cloud-profileringen.
 
 * **Visa mapphierarkin för målmappen i dialogrutan Flytta**: Om du visar mapphierarkin för varje mapp blir det enklare att flytta resurser och det minskar risken för att de placeras i fel mapp.
 
@@ -47,32 +46,32 @@ Följande funktioner påbörjade en fasad utrullning den **26 augusti 2022**.
 
 * **[Självbetjäningsflödessteg - programimportförbättringar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**: Förbättrat stöd för import av program med anpassade flödessteg där du nu kan använda flera instanser av samma tjänsteleverantör och importprogram som har flödessteg som är kompatibla med dessa tjänstleverantörer.
 
-* **Munchkin - Utökad länkspårning**: Utöka stödet för spårning av `tel`- och `mailto`-länkar med Munchkin för att spåra en utökad uppsättning webbbeteenden.
+* **[!DNL Munchkin]- Utökad länkspårning**: Utöka stödet för spårning av `tel`- och `mailto`-länkar med Munchkin för att spåra en utökad uppsättning webbbeteenden.
 
-* **Anpassad webbläsarhuvudsynlighet**: Anpassade webbläsarhuvuden visas nu på fliken Admin > Webhooks för bättre synlighet.
+* **Anpassad sidhuvudsynlighet för webkrok**: Anpassade sidhuvuden för webkrok visas nu på fliken [!UICONTROL Admin] > [!UICONTROL Webhooks] för bättre synlighet.
 
 * **CAPTCHA**: Utvärdera giltigheten hos formulärinskickade formulär [med reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} för att poängsätta inkommande formulärtrafik. Bygg marknadsföringsarbetsflöden för att automatiskt exkludera, karantän eller ta bort misstänkt robottrafik.
 
-* **Behörighet att godkänna formulär**: Ny behörighet att styra vilka designers som kan godkänna ändringar i ett formulär i linje med andra Design Studio-resurser. Detta förhindrar andra designers från att göra ändringar i formulären utan att någon annan behöver ge sitt godkännande.
+* **Behörighet att godkänna formulär**: Ny behörighet att styra vilka designers som kan godkänna ändringar i ett formulär i linje med andra [!UICONTROL Design Studio]-resurser. Detta förhindrar andra designers från att göra ändringar i formulären utan att någon annan behöver ge sitt godkännande.
 
 * **Utför alltid kampanjåterspelning efter anonym sammanslagning**: Anonym lead-sammanslagning inträffar innan kampanjåterspelning, så anpassade fält fungerar tillförlitligt när anonym kampanjåterspelning är klar.
 
 ## Marknadsföringsdatamiljö {#marketing-data-environment}
 
-* **Korrigera användargränssnittstrunkering av fält för anpassat objekt som används av**: Det är nu enklare att identifiera anpassade objektfält som används så att du kan ta bort fält från ett anpassat objekt när det behövs.
+* **Korrigera användargränssnittstrunkering av fält för det anpassade objektet [!UICONTROL Used By]**: Det är nu enklare att identifiera anpassade objektfält som används så att du kan ta bort fält från ett anpassat objekt när det behövs.
 
 ## API-förbättringar {#api-enhancements}
 
 * **Nya filtreringsfunktioner för API:t för programmedlemsextraheringen**: Filtrera efter programmedlemskapsstatus, updatedAt, cadence eller slut på innehåll för att förfina den extraherade datauppsättningen.
 
-## Försäljningsinsikter {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: Visa aktiviteter från Dynamic Chat i panelen Sales Insight och utnyttja den här nya datapunkten i din prospektering.
+* **[[!DNL Sales Insight] Integrering med [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: Visa aktiviteter från [!DNL Dynamic Chat] i panelen [!DNL Sales Insight] och utnyttja den här nya datapunkten i din prospektering.
 
 ## Meddelanden {#announcements}
 
 **_Webbseminarium om produktreleaser_**
 
-[Juniversion och augusti 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Juni och augusti 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

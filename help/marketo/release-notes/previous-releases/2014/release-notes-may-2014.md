@@ -4,9 +4,9 @@ description: Versionsinformation -maj 2014 - Marketo Docs - produktdokumentation
 title: Versionsinformation -maj 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -41,14 +41,14 @@ Nu får alla flera program, strömmar och kommunikationsbegränsningar.
 >
 >`[[https://www.marketo.com]]`
 
-Som standard spåras inga länkar i textversionen av e-postmeddelanden. Lägg till den här nya syntaxen för att ange när en länk ska konverteras till en spårningslänk. HTML-länkarna fungerar inte som de ska.  Så här lägger du till spårade länkar i e-postmeddelanden:
+Som standard spåras inga länkar i textversionen av e-postmeddelanden. Lägg till den här nya syntaxen för att ange när en länk ska konverteras till en spårningslänk. Beteendet för HTML-länkar ändras inte.  Så här lägger du till spårade länkar i e-postmeddelanden:
 
-* **HTML version:** Infoga bara länken. Den spåras som standard.
+* **HTML-version:** Infoga bara länken. Den spåras som standard.
 * **Textversion:** Ange URL:en omgiven av dubbla hakparenteser.
 
 Så här lägger du till ej spårade länkar i e-postmeddelanden:
 
-* **HTML version:** Infoga länken och lägg till klassen&quot;mktNoTrack&quot; i länken.
+* **HTML-version:** Infoga länken och lägg till klassen&quot;mktNoTrack&quot; i länken.
 * **Textversion:** Ange bara webbadressen. Den spåras inte som standard.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -57,13 +57,13 @@ Så här lägger du till ej spårade länkar i e-postmeddelanden:
 
 Se hur länkarna fungerar i e-postmeddelanden i förväg. Exempelmejl visar nu länkar exakt som de skulle se ut för era leads. Förhandsgranska vilka länkar som har konverterats till spårningslänkar, så får du en bättre uppfattning om hur meddelandet faktiskt kommer att visas för mottagarna.
 
-## Avbryt kampanj {#abort-campaign}
+## [!UICONTROL Abort Campaign] {#abort-campaign}
 
 Bli inte panikslagen! Om du upptäcker ett misstag kan du använda den nya knappen [Avbryt kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) för att omedelbart stoppa kampanjer i deras spår. Du får ett meddelande som visar hur många leads som var under behandling i varje flödessteg när kampanjen stoppades.
 
-## Sales Insight på japanska, portugisiska och spanska {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight] på japanska, portugisiska och spanska {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Ladda ned den senaste versionen av Sales Insight från AppExchange så att era japanska, portugisiska och spanska säljare kan visa Sales Insight-innehåll på sitt språk.
+Hämta den senaste versionen av [!UICONTROL Sales Insight] från AppExchange så att dina japanska, portugisiska och spanska säljare kan visa [!UICONTROL Sales Insight]-innehåll på sitt språk.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ Ladda ned den senaste versionen av Sales Insight från AppExchange så att era j
 
 Visa hur många [medlemmar som finns i varje programstatus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) och när de har ändrats till respektive status, inklusive datumet när de uppnådde Programstatus.
 
-## A/B-testmeddelanden i e-postanalys {#a-b-test-emails-in-email-analysis}
+## A/B-testa e-postmeddelanden i [!UICONTROL Email Analysis] {#a-b-test-emails-in-email-analysis}
 
-Rapportera om var och en av dina [A/B-testvarianter](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) i e-postanalysen.
+Rapportera om var och en av dina [A/B-testvarianter](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) i [!UICONTROL Email Analysis].
 
 ## Ändringar i Analytics-paketering {#analytics-packaging-changes}
 

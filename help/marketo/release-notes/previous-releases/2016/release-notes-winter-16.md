@@ -3,10 +3,9 @@ unique-page-id: 10097199
 description: Versionsinformation -vinter '16 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -19,23 +18,23 @@ Följande funktioner ingår i vinterversionen 16. Klicka på titellänkarna för
 
 Filtret Är anonym har tagits bort för smarta listor. Mer information finns i dokumentet [Next Generation Munchkin Tracking FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Ändringen påverkar inte Web Personalization (RTP), som fortsätter att identifiera anonyma och kända webbesökare och personalisera innehåll i realtid för dessa besökare.
 
-## [Databasinstrumentpanel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [Databasinstrumentpanel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-Leaddatabasen har en uppdaterad sammanfattningsinstrumentpanel som innehåller databasstorlek för totalt antal personer, antal säljbara leads och en uppdelning av leads efter fem främsta källor.
+[!UICONTROL Lead Database] har en uppdaterad sammanfattningsinstrumentpanel som innehåller databasstorlek för totalt antal personer, antal säljbara leads och en uppdelning av leads efter de fem främsta källorna.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Vi har lagt till Microsoft Edge i listan [över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
+Vi har lagt till [!DNL Microsoft Edge] i listan [över webbläsare](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) som stöds av Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) stöds nu.
+[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) stöds nu.
 
 ## [Start för e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-Använd Head Start för att ange att bearbetningen för din sändning ska ske i förväg. I stället för att kvalificera leads och förbereda e-postmeddelanden vid den schemalagda tidpunkten för programmet ser Head Start till att dessa åtgärder utförs i förväg. På så sätt får er målgrupp e-post vid den schemalagda tidpunkten.
+Använd [!UICONTROL Head Start] för att ange att bearbetningen för din sändning ska ske i förväg. I stället för att kvalificera leads och förbereda e-postmeddelanden vid den schemalagda tidpunkten för programmet, ser [!UICONTROL Head Start] till att dessa uppgifter utförs i förväg. På så sätt får er målgrupp e-post vid den schemalagda tidpunkten.
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -49,23 +48,23 @@ Om du vill använda den här funktionen måste e-postprogrammet vara schemalagt 
 
 ## [Förbättringar av mobilmarknadsföring](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-stöd:** Vi erbjuder nu PhoneGap-stöd för din mobilapp. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/phonegap).
+**[!DNL PhoneGap]Support:** Vi erbjuder nu [!DNL PhoneGap] support för din mobilapp. [Läs mer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Stöd för sandlådeappar**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program-API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [Program-API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Skapa, uppdatera och klona program via REST API. Detta inkluderar inte skapande eller uppdatering av smarta listor och smarta kampanjer i ett program.
 
-## [Förbättringar i Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Microsoft Dynamics-förbättringar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Synkroniseringsstatus](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Håll reda på synkroniseringsprocessens aktuella genomströmning och eftersläpning. Bryt ned den med antalet infogningar och uppdateringar per objekt.
+**[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Håll reda på synkroniseringsprocessens aktuella genomströmning och eftersläpning. Bryt ned den med antalet infogningar och uppdateringar per objekt.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelanden om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
+**[[!UICONTROL Notifications]](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Få meddelanden om vanliga synkroniseringsfel, tillsammans med en lista över leads som har det felet.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -75,9 +74,9 @@ Nu kan du skapa många-till-många-relationer mellan leads/konton och ett anpass
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Leadannonser för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead-annonser](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra leadgenereringskampanjer på Facebook. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med Facebook Lead Ads hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya utlösaren för utfyllnad av Facebook Lead Ads.
+[[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) är ett mer direkt sätt för ett företag att köra lead-genereringskampanjer på [!DNL Facebook]. Användarna fyller i en blankett för att uttrycka sitt intresse för en produkt eller tjänst, så att företaget kan följa upp med dem. Marketo-integrationen med [!UICONTROL Facebook Lead Ads] hämtar automatiskt information som ett lead tillhandahåller i formuläret Lead Ad. Uppföljningsåtgärder och meddelanden kan sedan automatiseras med den nya [!UICONTROL Fills Out Facebook Lead Ads]-utlösaren.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

@@ -4,9 +4,9 @@ description: Versionsinformation -mars 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -mars 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ Visa teamets marknadsföringsaktiviteter med kalenderns nya presentationsläge. 
 
 >[!NOTE]
 >
->Den här funktionen är inte tillgänglig för Spark och Standard.
+>Den här funktionen är inte tillgänglig för Spark- och [!DNL Standard]-utgåvorna.
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Integrering med Google Adwords {#google-adwords-integration}
+## Integrering av [!DNL Google Adwords] {#google-adwords-integration}
 
-Länka ditt [Google AdWords-konto till Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om du automatiskt vill överföra offlinekonverteringsdata från Marketo till Google AdWords. Sedan kan ni utifrån AdWords-gränssnittet enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg ni vill följa).
+Länka ditt [[!DNL Google AdWords] konto till Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om du automatiskt vill överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Sedan kan du från användargränssnittet i [!DNL AdWords] enkelt se vilka klick som resulterat i kvalificerade leads, möjligheter och nya kunder (eller vilka intäktssteg du vill spåra).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Redesign av intäktsutforskaren {#revenue-explorer-redesign}
+## [!UICONTROL Revenue Explorer] omdesign {#revenue-explorer-redesign}
 
-Intresseutforskaren har ett helt nytt utseende och en helt ny känsla, liksom den nya Sunburst-diagramtypen! Vi kommer att få ut det här under de första två veckorna i april.
+[!UICONTROL Revenue Explorer] har ett helt nytt utseende och en helt ny känsla, liksom den nya Sunburst-diagramtypen! Vi kommer att få ut det här under de första två veckorna i april.
 
 ## Nya REST API:er för resurs {#new-asset-rest-apis}
 
-[Nya REST API:er för resurs](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/assets)
+[Nya REST API:er för resurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
-## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 On Premise {#microsoft-dynamics-on-premise}
 
 Stöds med det senaste installationsprogrammet [som nu är tillgängligt via appen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 

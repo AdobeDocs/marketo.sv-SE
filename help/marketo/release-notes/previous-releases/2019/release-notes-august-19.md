@@ -4,9 +4,9 @@ description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentatio
 title: Versionsinformation - augusti 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Följande funktioner släpptes 16 augusti 2019.
 
 **Account-Based Marketing** ![(stjärna)](assets/yellow-star.png)
 
-* **LinkedIn Kontomatchning**, som tidigare fanns i betaversionen, är nu allmänt tillgänglig.
+* **[!DNL LinkedIn]Kontomatchning**, som tidigare fanns i betaversionen, är nu allmänt tillgänglig.
 * **AccountAI** har officiellt ändrats till **Kontoprofilering**.
 
 <br> 
@@ -36,7 +36,7 @@ Följande funktioner släpptes 16 augusti 2019.
 
 Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tredje kvartalet och i början av det fjärde kvartalet 2019.
 
-**Marketo Sales Connect** ![(stjärna)](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![(stjärna)](assets/yellow-star.png)
 
 * **Förbättring av sidlayout för människor:** Hantera dina personer och grupper genom att visa import- och gruppåtgärder i den nya sidlayouten för personer.
 
@@ -48,6 +48,6 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 >
 >**Borttagning av TLS 1.0 och 1.1**: För att anpassa sig till Adobe säkerhetsstandard i världsklass kommer stödet för TLS 1.0 och 1.1 att upphöra från och med den 13 december 2019. System som integreras med Marketo som inte är kompatibla med 1.2-protokollet kan förlora åtkomsten till Marketo Engage tjänster.
 >
->**Kontrollera att alla klientsystem är TLS 1.2-kompatibla före den 13 december 2019** om du vill behålla åtkomsten till Marketo Engage. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Kontrollera att alla klientsystem är TLS 1.2-kompatibla före den 13 december 2019** om du vill behålla din Marketo Engage-åtkomst. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
 **_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/August_19_Release_Webinar.html) den 28 augusti klockan 1:00 PT/4:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.

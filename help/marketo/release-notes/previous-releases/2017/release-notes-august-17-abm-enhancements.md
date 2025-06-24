@@ -4,9 +4,9 @@ description: Versionsinformation -August '17 ABM Enhancements - Marketo Docs - P
 title: Versionsinformation -August '17 ABM Enhancements
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Följande funktioner finns i den förbättrade versionen från augusti 2017. Se 
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## Kontoinsikt {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** är en Google Chrome-plugin som ger er åtgärdbara ABM-resurser och kontoinsikter till era säljteam, vilket gör att de kan arbeta nära med marknadsföring för att engagera konton effektivt. Säljarna får insyn i de data och insikter som genereras för vart och ett av de namngivna konton de äger. Detta inkluderar profilpoäng, en prioriterad lista över deras namngivna konton, engagerade personer i dessa konton och en liveaktivitetsström över nyligen genomförda aktiviteter från kontot.
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** är en [!DNL Google Chrome]-plug-in som tar fram åtgärdbara ABM-resurser och kontoinsikter till säljteamen, så att de kan arbeta nära med marknadsföring för att engagera konton effektivt. Säljarna får insyn i de data och insikter som genereras för vart och ett av de namngivna konton de äger. Detta inkluderar profilpoäng, en prioriterad lista över deras namngivna konton, engagerade personer i dessa konton och en liveaktivitetsström över nyligen genomförda aktiviteter från kontot.
 
 ![](assets/image001.png) ![](assets/image002.png)
 

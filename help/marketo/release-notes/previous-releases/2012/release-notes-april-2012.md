@@ -4,9 +4,9 @@ description: Versionsinformation -April 2012 - Marketo Docs - produktdokumentati
 title: Versionsinformation -april 2012
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -24,17 +24,17 @@ Målgruppsanpassar ni samma grupp av leads på ett konsekvent sätt? Om så är 
 * Med API:t för begärandekampanjen kan du nu skicka in värden för Mina token för just den körningen av kampanjen - detta är särskilt användbart för att fylla i e-postinnehåll via API:t
 * Nya API:er för Upload To List och Schedule Campaign har stöd för ovanstående för listor med leads och batchkampanjer.
 
-## Enklare bekräftelsemeddelanden för GoToWebinar och WebEx (Adobe Connect och ON24 kommer snart!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## Enklare bekräftelsemeddelanden för [!DNL GoToWebinar] och [!DNL WebEx] (Adobe Connect och [!DNL ON24] kommer snart!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-Vi har förenklat bekräftelse-URL:en genom att skapa en medlemstoken som visar den unika URL:en för registreringsbekräftelse för varje lead. Du behöver inte längre skapa den här URL:en med olika variabler. Detta är för närvarande tillgängligt för GoToWebinar- och WebEx-kunder, och kommer att finnas för Adobe Connect och ON24 i nästa version.
+Vi har förenklat bekräftelse-URL:en genom att skapa en medlemstoken som visar den unika URL:en för registreringsbekräftelse för varje lead. Du behöver inte längre skapa den här URL:en med olika variabler. Detta är för närvarande tillgängligt för [!DNL GoToWebinar]- och [!DNL WebEx]-kunder, och kommer att vara tillgängligt för Adobe Connect och [!DNL ON24] i nästa version.
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
 ## Ladda upp flera bilder och filer med ett klick! {#upload-multiple-images-and-files-with-a-single-click}
 
-Spara tid och bli effektivare när du importerar bilder och filer till Marketo! Om du använder Firefox eller Google Chrome kan du markera flera filer och överföra alla samtidigt. Även om det inte finns någon gräns för hur många filer du kan överföra är den enskilda storleksgränsen per fil 50 MB.
+Spara tid och bli effektivare när du importerar bilder och filer till Marketo! Om du använder [!DNL Firefox] eller [!DNL Google Chrome] kan du markera flera filer och överföra alla samtidigt. Även om det inte finns någon gräns för hur många filer du kan överföra är den enskilda storleksgränsen per fil 50 MB.
 
-Obs! Den här funktionen stöds för närvarande inte i Internet Explorer på grund av webbläsarens begränsningar.
+Obs! Den här funktionen stöds för närvarande inte på [!DNL Internet Explorer] på grund av begränsningar i webbläsaren.
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 
@@ -46,9 +46,9 @@ Du kan ändra ordning på textblock i ett e-postmeddelande. Markera ett textbloc
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 
-## Salesforce-referenser borttagna för icke-Salesforce-användare {#salesforce-references-removed-for-non-salesforce-users}
+## [!DNL Salesforce] referenser har tagits bort för användare som inte är [!DNL Salesforce] {#salesforce-references-removed-for-non-salesforce-users}
 
-Om du inte synkroniserar din prenumeration med Salesforce kommer du att märka att alla mappar och flödesåtgärder som refererar till Salesforce tas bort.
+Om du inte synkroniserar din prenumeration med [!DNL Salesforce] kommer du att märka att alla mappar och flödesåtgärder som refererar till [!DNL Salesforce] tas bort.
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 

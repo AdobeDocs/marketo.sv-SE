@@ -4,9 +4,9 @@ description: Versionsinformation -mars 2012 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - mars 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Förhandsgranska till redigerare:
 
 ## Förhandsgranska kodavsnitt {#snippet-previewer}
 
-Om du väljer Förhandsgranska fragment på menyn kan du visa ett fragment utan att göra det till ett utkast.Om du dessutom har skrivskyddad åtkomst till ett delat fragment (via arbetsytor) kan du visa fragmentet med den här åtgärden
+Om du väljer Förhandsgranska fragment på menyn kan du visa ett fragment utan att göra det till ett utkast. Om du dessutom har skrivskyddad åtkomst till ett delat fragment (via arbetsytor) kan du visa fragmentet med den här åtgärden.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

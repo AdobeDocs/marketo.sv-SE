@@ -4,9 +4,9 @@ description: Versionsinformation -december 2014 - Marketo Docs - produktdokument
 title: Versionsinformation - december 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Följande funktioner ingår i december 2014-versionen. Kontrollera om det finns funktioner i Marketo Edition. Efter releasen måste du komma tillbaka för att hitta länkar till detaljerade artiklar för varje funktion!
 
-## Sales Insight-rapporter {#sales-insight-reports}
+## [!DNL Sales Insight] rapporter {#sales-insight-reports}
 
-Med [E-postresultatrapporten för försäljningsinsikter](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-postmått per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via Salesforce, Microsoft Dynamics, Outlook-plugin och Gmail.
+Med [[!DNL Sales Insight] E-postresultatrapporten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kan du visa e-postmått per e-post och säljare. Det har stöd för e-postmeddelanden som skickas via [!DNL Salesforce], [!DNL Microsoft Dynamics], plugin-programmet [!DNL Outlook] och plugin-programmet [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebook Custom Auditions {#facebook-custom-audiences}
+## [!DNL Facebook] anpassade målgrupper {#facebook-custom-audiences}
 
-När din Marketo-administratör har lagt till [Facebook via Admin > Startpunkt](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en anpassad Facebook-målgrupp med leads från en statisk eller smart Marketo-lista](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya Facebook-ikonen längst ned i huvudstödrastret i statiska eller smarta listor.
+När din Marketo-administratör har lagt till [[!DNL Facebook] via [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) kan du enkelt skapa, uppdatera eller [ersätta en  [!DNL Facebook] anpassad målgrupp med leads från en statisk eller smart lista från Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Leta efter den nya ikonen [!DNL Facebook] längst ned i huvudstödrastret i en statisk eller smart lista.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -53,11 +53,11 @@ Länkar i e-postskript kommer nu att spåras och vara tillgängliga i rapporten 
 
 ## Inställning för tokenkodning {#token-encoding-setting}
 
-Vi har introducerat en ny säkerhetsfunktion för att automatiskt koda tokens i HTML, som kommer att aktiveras som standard i mars 2015. Fram till dess kan du växla den här funktionen i Fälthantering för att testa beteendet i förväg. Alla lead- och företagstokens kodas när de infogas i e-postmeddelanden eller på landningssidor. Det finns även alternativ för enskilda fält.
+Vi har introducerat en ny säkerhetsfunktion för automatisk kodning av HTML-tokens, som kommer att aktiveras som standard i mars 2015. Fram till dess kan du växla den här funktionen i Fälthantering för att testa beteendet i förväg. Alla lead- och företagstokens kodas när de infogas i e-postmeddelanden eller på landningssidor. Det finns även alternativ för enskilda fält.
 
-## Nya ReST API-anrop {#new-rest-api-calls}
+## Nya REST API-anrop {#new-rest-api-calls}
 
-Tre nya anrop till API:t Lead &amp; Activity ReST:
+Tre nya anrop till lead- och aktivitetsREST API:
 
 ・ Hämta leadpartitioner
 
@@ -65,15 +65,15 @@ Tre nya anrop till API:t Lead &amp; Activity ReST:
 
 ・ Lägg samman lead
 
-Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home)
+Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
-## Kompatibilitetsförbättringar för Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] Kompatibilitetsförbättringar {#munchkin-javascript-compatibility-enhancements}
 
-Vi har gjort flera smärre förbättringar av Munchkin för att se till att den fortsätter att läsas in snabbt och fungera som du vill i fall med andra JavaScript på sidan.
+Vi har gjort flera smärre förbättringar av [!DNL Munchkin] för att säkerställa att den fortsätter att läsas in snabbt och fungera som du vill i fall med andra JavaScript på sidan.
 
 Utbyggnaden kommer att stagnera i mitten av december och fortsätta under de kommande månaderna.
 
-## Uppgraderat utseende och känsla för intäktsutforskaren {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer] Uppgraderat utseende och känsla {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ Utbyggnaden kommer att stagnera i mitten av december och fortsätta under de kom
 
 ## RTP: Modulen Namngiven kontolista {#rtp-named-account-list-module}
 
-Hantera och övervaka dina nyckelkonton med hög kapacitet på den nya sidan Namngivna konton. Ladda upp nya listor med namngivna konton för att identifiera och inrikta dig på dessa organisationer. Vi har automatiserat processen så att ni får större kontroll och flexibilitet att implementera era kontobaserade marknadsföringsplaner och inrikta er på nyckelkonton i olika kanaler (webb och annonsering).
+Hantera och övervaka dina nyckelkonton med hög kapacitet på den nya [!UICONTROL Named Accounts]-sidan. Ladda upp nya listor med namngivna konton för att identifiera och inrikta dig på dessa organisationer. Vi har automatiserat processen så att ni får större kontroll och flexibilitet att implementera era kontobaserade marknadsföringsplaner och inrikta er på nyckelkonton i olika kanaler (webb och annonsering).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: Versionsinformation -Sommaren 16 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - Sommaren 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -39,13 +38,13 @@ Granskningsspårning ger en omfattande historik över de ändringar som gjorts i
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint-integrering](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketo-Vibes SMS LaunchPoint-integrering
 
 Skapa enkelt SMS-meddelanden direkt i Marketo. Anpassa och anpassa ert budskap med hjälp av era omfattande Marketo-data och övervaka enkelt hur det fungerar med SMS-meddelandeinstrumentpanelen.
 
 >[!NOTE]
 >
->Den här funktionen kräver att du har ett befintligt Vibes SMS-konto.
+>Den här funktionen kräver att du har ett befintligt [!DNL Vibes SMS]-konto.
 
 ![](assets/vibes-sms2.png)
 
@@ -86,7 +85,7 @@ Vi har skapat en ny tokentyp för program. Nu kan du återge programnamn, beskri
 
 ## [Företagsnyckel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Att kräva att varje person i säljteamet installerar vårt Sales Insight-plugin för Outlook kan vara tråkigt. Vi har introducerat ett nytt sätt att fjärrinstallera plugin-programmet för Outlook med en företagsnyckel. Skicka din IT-avdelning en unik nyckel som finns i Marketo Sales Insight-delen av Admin och låt dem göra resten.
+Att kräva att varje person i ditt säljteam installerar vårt [!DNL Sales Insight]-plugin-program för [!DNL Outlook] kan vara långsamt. Vi har introducerat ett nytt sätt att fjärrinstallera plugin-programmet för [!DNL Outlook] med en företagsnyckel. Skicka din IT-personal din unika nyckel som finns i Marketo [!DNL Sales Insight]-delen av [!UICONTROL Admin] och låt dem göra resten.
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ Ange en tidsfördröjning för webbkampanjer att reagera på webbplatsen.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Innehållsanalys och Recommendations Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Export av Content Analytics och rekommendationer](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Visa innehållsanalyser och rekommendationer offline.
 
-## [API-stöd för e-postredigeraren 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [API-stöd för e-postredigeraren 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Redan befintliga resurs-API:er, som tidigare bara var kompatibla med e-post och mallar i version 1.0, är nu aktiverade för e-postresurser i version 2.0.
 
-## [Marketo Developer Site](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developer Site](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nytt och förbättrat!
 
 ## [Sekretessinställningar](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marknadsförarna kan använda sekretessinställningar för att avgöra om de ska spåra besökare med funktionerna i Munchkin och Web Personalization. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. De här metoderna kan påverka Marketo värde och funktionalitet inom vissa områden, men om marknadsföraren inte ändrar någonting ändras inte funktionen i Marketo.
+Marknadsförarna kan använda sekretessinställningar för att avgöra om de ska spåra besökare med funktionerna för [!DNL Munchkin] och Web Personalization. Spårningsnivån styrs av webbläsarens inställningen Spåra inte, en cookie för avanmälan eller en icke-specifik IP-adress. De här metoderna kan påverka Marketo värde och funktionalitet inom vissa områden, men om marknadsföraren inte ändrar någonting ändras inte funktionen i Marketo.
 
 Den här funktionen kommer gradvis att lanseras för kunderna under en period av sex veckor. Kontakta Marketo Support om du behöver det direkt.

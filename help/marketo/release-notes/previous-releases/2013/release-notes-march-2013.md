@@ -4,9 +4,9 @@ description: Versionsinformation - mars 2013 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ En utlottning ger dina leads en chans att vinna ett pris och berätta för sina 
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Språk för felmeddelande i ytterligare formulär {#additional-form-error-message-languages}
+## Ytterligare språk för formulär [!UICONTROL Error Message] {#additional-form-error-message-languages}
 
 Mer än ett dussin språk har lagts till i felmeddelandena.
 

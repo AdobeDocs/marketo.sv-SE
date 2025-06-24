@@ -4,9 +4,9 @@ description: Automatiskt svar via e-post - Marketo Docs - produktdokumentation
 title: Automatiskt svar för e-post
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Steg 1: Skapa ett e-postmeddelande {#step-create-an-email}
 
-1. Gå till området **[!UICONTROL Marketing Activities]**.
+1. Gå till området [!UICONTROL Marketing Activities].
 
    ![](assets/email-auto-response-1.png)
 
@@ -128,10 +128,8 @@ ht-degree: 0%
 
 ## Uppdraget är slutfört {#mission-complete}
 
-Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkorg. Snyggt jobb!
+Inom bara några minuter visas e-postmeddelandet om automatiskt svar i din inkorg.
 
-<br> 
+[◄ Mission 3: Enkel poängsättning](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[◄ 3: Enkel poängsättning](/help/marketo/getting-started/quick-wins/simple-scoring.md)
-
-[Mission 5: Importera en lista över människor ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Uppgift 5: Importera en lista över personer ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

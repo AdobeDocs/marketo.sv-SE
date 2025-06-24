@@ -4,9 +4,9 @@ description: Versionsinformation -höst 18 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,22 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 Webbpersonalisering har nu stöd för flera arbetsytor.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo [!DNL Sales Engage] {#marketo-sales-engage}
 
-* **SFDC Lightning Support**: Användare som migrerar till eller använder Lightning kan utnyttja MSE för smartare engagemang under hela kundresan.
+* **[!DNL SFDC Lightning]Support**: Användare som migrerar till eller använder [!DNL Lightning] kan utnyttja MSE för smartare engagemang under hela kundresan.
 
-* **Utökat stöd: Microsoft Office**
+* **Utökat stöd:[!DNL Microsoft Office]**
 
-   * Outlook som leveranskanal: Nu kan marknadsförare utnyttja Outlook för e-postärenden, vilket förbättrar leveransfrekvensen och uppföljning av svar.
-   * Förbättrat e-poststöd för Office 365: Marketo Sales Engage är direkt tillgängligt i Outlook för Mac, Outlook för Windows och Outlook Web Application för Office 365 e-postklienter, vilket gör Marketo Sales Engage mer lättillgängligt för alla Office-användare.
+   * [!DNL Outlook] som leveranskanal: Nu kan marknadsförare utnyttja [!DNL Outlook] för e-postärenden, vilket förbättrar leveransfrekvensen och svarsspårning.
+   * [!DNL Office] 365 Förbättringar av e-postsupport: Marketo [!DNL Sales Engage] är direkt tillgängligt i [!DNL Outlook] för Mac, [!DNL Outlook] för [!DNL Windows] och [!DNL Outlook] webbprogrammet för [!DNL Office] 365 e-postklienter, vilket gör Marketo [!DNL Sales Engage] mer tillgängligt för alla [!DNL Office] -användare.
 
 * **Förbättrad administration och användarinloggning**
 
    * Förbättrade administratörsarbetsflöden: Administratörer hittar ett effektivare arbetsflöde när de aktiverar teamfunktioner via Allmänna administratörsinställningar.
 
-## Marketo Sky {#marketo-sky}
+## Marketo [!DNL Sky] {#marketo-sky}
 
-Mer information och uppdateringar finns i [Versionsinformationen för Sky](https://help.marketo.com).
+Mer information och uppdateringar finns i [[!DNL Sky] versionsinformationen](https://help.marketo.com).
 
 * **Systemuppdateringar för design**
 
@@ -55,26 +55,26 @@ Mer information och uppdateringar finns i [Versionsinformationen för Sky](https
 * Design Studio-startsida: Skapa nya resurser, dra och släpp bilder och filer samt hantera alla befintliga resurser.
 * Design Studio-listvyer: Nu kan användare visa landningssidmallar och e-postmallar i listvyformat, vilket gör att man snabbt kan navigera och utföra satsvisa åtgärder på en enda resurstyp.
 * Design Studio - informationssidor: Spara tid och huvudvärk genom att visa, ordna och utföra massåtgärder på alla resurser på ett och samma ställe.
-* **Standardprogram som nu finns i Marketo Skyn**: Marketo Skyn har nu stöd för standardprogram, den mångsidiga programstil som du kan använda för att skapa valfria kampanjer.
-* **E-postprogram - fas 1**: Nu kan du visa e-postprogram i Sky. Ta en titt på den nya designen och [låt oss veta vad du tycker](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Standardprogram som nu finns i Marketo[!DNL Sky]**: Marketo [!DNL Sky] har nu stöd för standardprogram, den mångsidiga programstil som du kan använda för att skapa valfria kampanjer.
+* **E-postprogram - fas 1**: Nu kan du visa e-postprogram i [!DNL Sky]. Ta en titt på den nya designen och [låt oss veta vad du tycker](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analyser {#analytics}
+## Analytics  {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
 * **Minska nödvändigt beroende i CRM**
 
-   * Med det nya alternativet att definiera Campaign-regler i Bizible-inställningarna behöver kunderna inte längre gå igenom hoten med att installera ett paket eller en lösning i CRM för att komma igång med Bizible. Nu är det lika enkelt som att konfigurera ett konto, konfigurera annons- och CRM-anslutningarna och sedan gå igenom standardinställningarna och konfigurationerna. Vi förväntar oss att detta avsevärt kommer att förbättra starttiden för vårt säljtekniker.
+   * Med det nya alternativet att definiera Campaign-regler i inställningarna för [!DNL Bizible] behöver kunderna inte längre gå igenom hoten med att installera ett paket eller en lösning i CRM för att komma igång med [!DNL Bizible]. Nu är det lika enkelt som att konfigurera ett konto, konfigurera annons- och CRM-anslutningarna och sedan gå igenom standardinställningarna och konfigurationerna. Vi förväntar oss att detta avsevärt kommer att förbättra starttiden för vårt säljtekniker.
 
 * **Upptäck GA**
 
-   * Upptäck att betaversionen är slut och har börjat lanseras för nya kunder. Vi migrerar också vår nuvarande kundbas från Bizible Measurement till Bizible Discover. I och med övergången från betaversion till GA har vi uppdaterat databasschemat för att möjliggöra mer effektiva och komplexa frågor.
+   * Upptäck att betaversionen är slut och har börjat lanseras för nya kunder. Vi migrerar också vår nuvarande kundbas från [!DNL Bizible]-mått till [!DNL Bizible] Discover. I och med övergången från betaversion till GA har vi uppdaterat databasschemat för att möjliggöra mer effektiva och komplexa frågor.
 
 * **Enkel inloggning**
 
-   * Kunder kan nu logga in på Bizible-webbprogrammet med företagets identitetsleverantör och autentiseringsuppgifter, som uppfyller företagets säkerhetskrav.
+   * Kunder kan nu logga in på webbprogrammet [!DNL Bizible] med företagets identitetsleverantör och autentiseringsuppgifter, vilket uppfyller företagets säkerhetskrav.
 
-**[Förbättringar av Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo [!UICONTROL Performance Insights] Förbättringar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Användbarhetsförbättringar**
 
@@ -90,7 +90,7 @@ Mer information och uppdateringar finns i [Versionsinformationen för Sky](https
 
 **[Uppdatera token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Vi har implementerat en uppdateringstoken i våra lösningar för återmarknadsföring och LinkedIn Lead Gen Form som förlänger åtkomsttiden till ett år innan omautentisering krävs.
+Vi har implementerat en uppdateringstoken i våra lösningar för återmarknadsföring och [!UICONTROL LinkedIn Lead Gen] formulär som förlänger åtkomsttiden till ett år innan återautentisering krävs.
 
 ## API {#api}
 
@@ -100,7 +100,7 @@ Marketo stöder nu användning av e-postdispositionsfält via Lead-API:erna (ink
 
 >[!NOTE]
 >
->Som en del av Q3-versionen uppgraderar vi OAuth-versionen för GoToWebinar från 1.0 till 2.0. Denna ändring görs innan GoToWebinar har ersatt stödet för OAuth 1.0 i januari 2019. Om du använder GoToWebinar måste du autentisera dig på nytt via LaunchPoint (i administrationsområdet) före januari 2019 för att integreringen ska fortsätta fungera.
+>Som en del av Q3-versionen uppgraderar vi [!DNL OAuth]-versionen för [!DNL GoToWebinar] från 1.0 till 2.0. Den här ändringen görs innan [!DNL GoToWebinar] har ersatt stödet för [!DNL OAuth] 1.0 i januari 2019. Om du är [!DNL GoToWebinar]-kund måste du autentisera på nytt via [!DNL LaunchPoint] (i [!UICONTROL Admin] -området) före januari 2019 för att integreringen ska fortsätta fungera.
 
 >[!NOTE]
 >

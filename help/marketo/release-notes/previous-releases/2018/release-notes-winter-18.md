@@ -3,10 +3,9 @@ unique-page-id: 13795395
 description: Versionsinformation -vinter '18 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,9 +20,9 @@ Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion
 
 Marketo utnyttjar vår big data-arkitektur för att öka kampanjens genomströmning och förbättra webbaktivitetsbearbetningen, så att ni kan reagera snabbare på målgruppens handlingar.
 
-## Förbättringar av Marketo Salesforce CRM-integrering {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Förbättringar av Marketo [!DNL Salesforce] CRM-integrering {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-Vi har två förbättringar av vår integrering med Salesforce CRM:
+Vi har två förbättringar av vår [!DNL Salesforce] CRM-integrering:
 
 * [Marketo Admin-meddelanden](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) för vissa CRM-synkroniseringsfel (autentiseringsuppgifterna har upphört att gälla, API-gränser har uppnåtts osv.)
 
@@ -35,7 +34,7 @@ Dessa förbättringar kommer att öka under 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights är en tilläggsprodukt. Kontakta er kontoansvarige på Marketo eller kontoansvarige för en offert.
+>[!UICONTROL Performance Insights] är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
 
 Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsanalys, interaktiva visualiseringar och en detaljerad datatabell.
 
@@ -45,7 +44,7 @@ Se hur era kampanjer och kanaler påverkar affärsresultaten med attribueringsan
 
 **[ABM-hierarkier](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-För ABM-kunder med Salesforce eller Microsoft Dynamics ärver nu ABM automatiskt (och visar) de överordnade och underordnade relationer som skapats i CRM. Du kommer att kunna använda dessa relationer i både sammanslagningsrapportering och kampanjkörning.
+För ABM-kunder med [!DNL Salesforce] eller [!DNL Microsoft Dynamics] ärver nu ABM automatiskt (och visar) de överordnade och underordnade relationer som skapats i CRM. Du kommer att kunna använda dessa relationer i både sammanslagningsrapportering och kampanjkörning.
 
 ## E-postmarknadsföring {#email-marketing}
 
@@ -63,11 +62,11 @@ Snabb skriptning stöds nu i e-postmeddelanden med dynamiskt innehåll. Kombiner
 
 **[Google kundmatchningsintegrering](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Med den här integreringen kan ni skicka en Marketo-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
+Med den här integreringen kan du skicka en Marketo-målgrupp till Google för målgruppsanpassning med [!DNL Google AdWords], samt ändra målgruppsanpassning för [!DNL YouTube], Search och [!DNL Gmail].
 
-**[API-förbättring för matchade målgrupper i LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] API-förbättring för matchade målgrupper](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Med vårt nya LinkedIn-API kan ni nu rikta om personer i er Marketo-databas till flera LinkedIn Campaign Manager-konton.
+Med vårt nya [!DNL LinkedIn]-API kan du nu rikta om personer i din Marketo-databas till flera [!DNL LinkedIn] Campaign Manager-konton.
 
 ## Web Personalization {#web-personalization}
 
@@ -87,15 +86,15 @@ Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer generera
 
 ## Integrering {#integration}
 
-**[Aktivera/inaktivera kampanj-API ](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Aktivera/inaktivera kampanj-API ](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **Avbeställ uppdatering**
 
-Från och med 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](https://ToutApp.com) (och med knappen&quot;E-post med utgång&quot; i Salesforce) att ha en länk för att avbryta prenumerationen längst ned.
+Från och med 1 mars 2018 kommer alla e-postmeddelanden som skickas från [ToutApp.com](https://ToutApp.com) (och med knappen&quot;E-post med [!DNL Tout]&quot; i [!DNL Salesforce]) att ha en länk för att avbryta prenumerationen längst ned.
 
 **Uppdatering av Live-feed**
 
@@ -103,4 +102,4 @@ Vi har uppdaterat utseende och känsla på flikarna Engagement och Task för att
 
 **Uppdatering av personinformationsvyn**
 
-Den förbättrade personinformationsvyn (PDV, People Detail View) ger en heltäckande bild av dina kontakter genom att sammanföra din Tout- och Salesforce CRM-kontaktinformation.
+Den förbättrade personinformationsvyn (PDV) ger en heltäckande bild av dina kontakter genom att sammanföra din [!DNL Tout]- och [!DNL Salesforce] CRM-kontaktinformation.

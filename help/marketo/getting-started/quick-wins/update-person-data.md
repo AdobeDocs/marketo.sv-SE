@@ -4,9 +4,9 @@ description: Uppdatera persondata - Marketo Docs - produktdokumentation
 title: Uppdatera persondata
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Tänk dig att en person gav dig ytterligare kontaktinformation vid ditt senaste 
 
 ## Hitta den person du behöver uppdatera {#find-the-person-you-need-to-update}
 
-1. Gå till din **[!UICONTROL Database]**.
+1. Gå till din [!UICONTROL Database].
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ Snyggt jobb! Du har uppdaterat dina persondata.
 
 <br> 
 
-[◄ 8: Varning säljaren](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Mission 8: Meddela säljaren](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Mission 10: Omdirigera en landningssida ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Uppdrag 10: Omdirigera en landningssida ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

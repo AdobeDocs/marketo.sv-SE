@@ -4,9 +4,9 @@ description: Versionsinformation -jan/feb 2012 - Marketo Docs - produktdokumenta
 title: Versionsinformation - jan/feb 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -69,10 +69,10 @@ Från namn, Från e-post, Svar till (NYTT) och Ämne visas i redigeraren. Alla a
 
 ## Webbläsarstöd {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 och 9
-* **Obs!**: vi stöder inte längre Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 och 9
+* **Obs!** stöds inte längre [!DNL Internet Explorer] 7
 
 ## Programhantering {#program-management}
 
@@ -84,9 +84,9 @@ Förenklad programhantering förbättrar användbarheten med Token-borttagning o
 
 Nu kan du avbeställa prenumerationen direkt från rapporten!
 
-## Munchkin-uppdateringar {#munchkin-updates}
+## Munchkin Updates {#munchkin-updates}
 
-Nya Munchkin-anrop minskar belastningstiden för webbsidor och ger enhetligare prestanda för klicklänkshändelser.
+Nya Munchkin-anrop minskar belastningstiden för webbsidor och ger enhetligare prestanda vid klickningshändelser.
 
 ## Analys av affärsmöjligheter (endast RCA) {#program-opportunity-analysis-rca-only}
 

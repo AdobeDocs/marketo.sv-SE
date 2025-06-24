@@ -4,9 +4,9 @@ description: Versionsinformation -maj 2012 - Marketo Docs - produktdokumentation
 title: Versionsinformation -maj 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '638'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Figur 5. Checka in
 
 ## Bekräftelse-URL för utökat webbinarium {#enhanced-webinar-confirmation-url}
 
-Finns nu för ON24 och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}`-token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postmeddelandet med kontoinformation för Adobe som innehåller användarens inloggnings-ID och lösenord.
+Finns nu för [!DNL ON24] och Adobe Connect! Inkludera en unik länk i bekräftelsemeddelandet för varje registrerad deltagare med den nya `{{member.webinar URL}}`-token. Bland Adobe Connect förbättringar finns även möjligheten att aktivera/inaktivera e-postadressen till Adobe-kontoinformationen som innehåller användarens inloggnings-ID och lösenord.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Få tillgång till experimentella funktioner som utvecklats av Marketo-tekniker 
 
 Bild 10. Hanterarens börskursfunktioner i Admin
 
-## Integrering med Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM-integrering {#microsoft-dynamics-crm-integration}
 
-Synkronisera konton, kontakter och leads mellan Marketo och Microsoft Dynamics CRM Online med vår nya färdiga integrering!
+Synkronisera konton, kontakter och leads mellan Marketo och [!DNL Microsoft Dynamics] CRM Online med vår nya färdiga integrering!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-Figur 11. Microsoft Dynamics-konfiguration
+Figur 11. [!DNL Microsoft Dynamics]-konfiguration
 
-## Marketo Sales Insight-förbättringar {#marketo-sales-insight-enhancements}
+## Förbättringar i Marketo [!DNL Sales Insight] {#marketo-sales-insight-enhancements}
 
 **Avsluta sidfotsalternativ**
 
-Konfigurera när och om sidfoten för att avbryta prenumerationen visas för e-postmeddelanden som skickas via Sales Insight.
+Konfigurera när och om sidfoten för att avbryta prenumerationen visas för e-postmeddelanden som skickas via [!DNL Sales Insight].
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figur 12. Inställningar för försäljningsinsikter i administratör
+Figur 12. Inställningar för [!DNL Sales Insight] i Admin
 
 ## Mappar för e-postmallar för försäljning {#folders-for-sales-email-templates}
 
-Nu kan du ordna e-postmallarna som delas med Marketo Sales Insight i angivna mappar, vilket gör det enklare för säljarna att hitta rätt e-post.
+Nu kan du ordna e-postmallarna som delas med Marketo [!DNL Sales Insight] i angivna mappar, vilket gör det enklare för säljarna att hitta rätt e-post.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Figur 13. Välj en mapp för dina e-postmeddelanden
 
-## Få åtkomst till säljprojektsanalys från säljinsikter {#access-opportunity-analyzer-from-sales-insight}
+## Åtkomst till säljprojektsanalys från [!DNL Sales Insight] {#access-opportunity-analyzer-from-sales-insight}
 
-Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo Sales Insight. Obs! Kräver licens för intäktscykelanalys.
+Ge säljarna insikt i vilka marknadsföringsaktiviteter som skapar engagemang med hjälp av direktåtkomst till säljprojektsanalysen från Marketo [!DNL Sales Insight]. Obs! Kräver licens för intäktscykelanalys.
 
 ## Anpassat fält för kontaktstatus {#custom-field-for-contact-status}
 
-Du kan nu mappa ett anpassat fält i Salesforce för att fylla i statusfältet för kontakter i Mina bästa val, Mitt teams bästa val och anpassade vyer.
+Du kan nu mappa ett anpassat fält i [!DNL Salesforce] för att fylla i statusfältet för kontakter i Mina bästa val, Mitt teams bästa val och anpassade vyer.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Figur 14. Mappa ett anpassat fält till Kontakter
 
 Se sidor som besökts av anonyma leads
 
-Gå ned till de sidor som visas av ett anonymt lead från den anonyma webbaktivitetsvyn.
+Granska ned till de sidor som visas av ett anonymt lead från vyn [!UICONTROL Anonymous Web Activity].
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

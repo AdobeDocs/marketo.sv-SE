@@ -4,9 +4,9 @@ description: Versionsinformation - december 2012 - Marketo Docs - produktdokumen
 title: Versionsinformation - december 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -29,31 +29,31 @@ Använd motsvarande utlösare och filter för att identifiera användare som anv
 
 ## Detaljerade administratörsbehörigheter {#granular-admin-permissions}
 
-Vår senaste version ger dig bättre åtkomst och kontroll över administratörsroller genom att styra åtkomsten till olika funktioner i Marketo Admin för varje roll. När du skapar en ny roll kan du tilldela specifika administratörsfunktioner som rollen kan komma åt.
+Vår senaste release ger dig bättre åtkomst och kontroll över [!UICONTROL Admin] roller genom att du kan styra åtkomsten till olika funktioner i Marketo [!UICONTROL Admin] för varje roll. När du skapar en ny roll kan du tilldela specifika [!UICONTROL Admin]-funktioner som rollen kan komma åt.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->Som standard har befintliga roller med behörigheten&quot;Åtkomstadministratör&quot; åtkomst till alla administratörsfunktioner fram till och om de inte ändras.
+>Som standard har befintliga roller med behörigheten [!UICONTROL Access Admin] åtkomst till alla [!UICONTROL Admin]-funktioner fram till och om de inte ändras.
 
-## BrightTALK-adapter {#brighttalk-adapter}
+## [!UICONTROL BrightTALK]-nätverkskort {#brighttalk-adapter}
 
-Med Marketo BrightTALK-adaptern kan du hämta närvaroinformation från en live- eller on-demand-webbsändning direkt till en Marketo-händelse!
+Med Marketo [!UICONTROL BrightTALK]-adaptern kan du hämta närvaroinformation från en live- eller on demand-webbsändning direkt till en Marketo-händelse!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo [!DNL Sales Insight] för [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight är nu tillgängligt för Microsoft Dynamics-kunder!
+[!DNL Sales Insight] är nu tillgängligt för [!DNL Microsoft Dynamics]-kunder!
 
-## Synkronisering av Dynamics-affärsmöjlighet {#dynamics-opportunity-sync}
+## Synkronisering av [!DNL Dynamics]-affärsmöjlighet {#dynamics-opportunity-sync}
 
-Synkronisera affärsmöjlighetsdata mellan Marketo och Microsoft Dynamics.
+Synkronisera affärsmöjlighetsdata mellan Marketo och [!DNL Microsoft Dynamics].
 
 ## Rapport om marknadsföringspåverkade affärsmöjligheter &#42; {#marketing-influenced-opportunities-report}
 
-Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **intäktsutforskaren** kan du nu skapa anpassade rapporter med den nya gula punkten Marknadsföringspåverkad möjlighet i säljprojektsanalys. Du kan också använda följande två rapporter i standardmappen:
+Se hur stor procentandel av företagets pipeline och intäkter som påverkades av era marknadsföringsprogram. I **[!UICONTROL Revenue Explorer]** kan du nu skapa anpassade rapporter med den nya gula punkten Marknadsföringspåverkad möjlighet i säljprojektsanalys. Du kan också använda följande två rapporter i standardmappen:
 
 * Marknadsföringspåverkan på skapade affärsmöjligheter
 * Marknadsföringspåverkan på stängda affärsmöjligheter
@@ -62,14 +62,14 @@ Se hur stor procentandel av företagets pipeline och intäkter som påverkades a
 
 ## Anpassade fält för affärsmöjlighet i programsäljprojektsanalys&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Lägg till anpassade affärsmöjlighetsfält för att berika dina rapporter om analys av affärsmöjligheter i Intäktsutforskaren.
+Lägg till anpassade affärsmöjlighetsfält för att berika dina analysrapporter för programsäljprojekt i [!UICONTROL Revenue Explorer].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Campaign Inspector {#campaign-inspector}
 
-Har du någonsin undrat vilka kampanjer som använder en specifik flödesåtgärd, som Change Score eller Request Campaign? Eller var används ett visst filter? Med den nya Campaign Inspector (som finns i The Treasure Chest) kan ni identifiera dessa kampanjer samt aktiva kampanjer och kampanjer med fel.
+Har du någonsin undrat vilka kampanjer som använder en särskild flödesåtgärd, som [!UICONTROL Change Score] eller [!UICONTROL Request Campaign]? Eller var används ett visst filter? Med nya [!UICONTROL Campaign Inspector] (som är tillgängligt från skattetesten) kan du identifiera dessa kampanjer samt aktiva kampanjer och kampanjer med fel.
 
-Gå till **Admin** > **Resursschema** om du vill aktivera **kampanjkontrollen**.
+Gå till **[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]** om du vill aktivera **[!UICONTROL Campaign Inspector]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

@@ -4,9 +4,9 @@ description: Versionsinformation -oktober 2014 - Marketo Docs - produktdokumenta
 title: Versionsinformation -oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Se om det finns funktioner i Marketo Edition. Dokumentationen kommer när den sl
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Nya ReST API-anrop {#new-rest-api-calls}
+## Nya REST API-anrop {#new-rest-api-calls}
 
 Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 
@@ -30,25 +30,25 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
+Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
-## MSI - Skicka Marketo-e-post för Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Skicka Marketo-e-post för [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Skicka och spåra säljmeddelanden](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) till leads och kontakter från Microsoft Dynamics.
+[Skicka och spåra säljmeddelanden](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) till leads och kontakter från [!DNL Microsoft Dynamics].
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Lägg till i Marketo Campaigns för Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Lägg till i Marketo Campaigns för [!DNL Microsoft Dynamics] {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Lägg till leads och kontakter till smarta Marketo-kampanjer](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt från Microsoft Dynamics. Marknadsförare kan välja vilka Marketo-kampanjer som är tillgängliga för försäljning.
+[Lägg till leads och kontakter till smarta Marketo-kampanjer](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direkt från [!DNL Microsoft Dynamics]. Marknadsförare kan välja vilka Marketo-kampanjer som är tillgängliga för försäljning.
 
-## Stöd för anpassade entiteter för Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
+## Stöd för anpassade entiteter för synkronisering av [!DNL Microsoft Dynamics] {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Använd anpassade objektdata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) från Microsoft Dynamics för filtrering och utlösning i smarta listor, smarta kampanjer, program...
+[Använd anpassade objektdata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) från [!DNL Microsoft Dynamics] för filtrering och utlösning i smarta listor, smarta kampanjer, program..
 
-## Stöd för Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
+## Aktieägarsupport för synkronisering av [!DNL Microsoft Dynamics] {#shareholder-support-for-microsoft-dynamics-sync}
 
-Synkronisera aktieägardata för affärsmöjlighet från Dynamics. Det finns även möjligheter som är kopplade till ett konto med hjälp av fältet Primärt konto samt möjligheter som är kopplade till kontakten med synkroniseringen Primär kontakt.
+Synkronisera aktieägardata för affärsmöjlighet från [!DNL Dynamics]. Det finns även möjligheter som är kopplade till ett konto med hjälp av fältet Primärt konto samt möjligheter som är kopplade till kontakten med synkroniseringen Primär kontakt.
 
 ## RTP - Kontrollpanelsförbättringar {#rtp-dashboard-enhancements}
 
@@ -70,4 +70,4 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Mer information finns på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Mer information finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).

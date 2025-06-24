@@ -4,9 +4,9 @@ description: Versionsinformation - maj 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - maj 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Träffade du skicka innan ett e-postprogram var klart att skickas? Dra i bromsen
 
 ## E-postleverans  {#email-deliverability}
 
-Marketo kommer nu att köra automatiska SPF- och DKIM-kontroller varje vecka på dina tillagda domäner. Håll dig uppdaterad genom att kontrollera dina meddelanden.
+Marketo kommer nu att köra automatiska [!DNL SPF]- och [!DNL DKIM]-kontroller varje vecka på dina tillagda domäner. Håll dig uppdaterad genom att kontrollera dina meddelanden.
 
 ## Ändra beteende för e-postmall {#email-template-behavior-change}
 
@@ -43,8 +43,8 @@ RTP: [Dra och släpp segmentredigerare](/help/marketo/product-docs/web-personali
 
 Dra och släpp villkoren i segmentbyggaren, definiera värdet och du är bra på att skapa ett realtidssegment.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP: Rekommendationer för prediktivt innehåll {#rtp-predictive-content-recommendations}
 
-[Prediktiv text Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Rekommendationer för prediktivt innehåll](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Använd RTP:s algoritmer för maskininlärning och prediktiv analys för att rekommendera rätt innehåll till rätt potentiell kund. Förbättra ert innehåll visuellt med bilder och textbeskrivningar och rekommendera mer än en innehållsresurs.

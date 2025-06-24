@@ -4,9 +4,9 @@ description: Versionsinformation -september 2013 - Marketo Docs - produktdokumen
 title: Versionsinformation -september 2013
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Använd data från anpassade Marketo-objekt eller lägg till villkorsstyrd logik
 
 Vi har bytt namn på åtgärden Skicka test till Skicka exempel
 
-## Personaliserat e-postprov för Skicka {#personalized-send-sample-email}
+## Personaliserat [!UICONTROL Send Sample Email] {#personalized-send-sample-email}
 
 När du skickar ett e-postexempel kan du välja namnet på ett lead för att anpassa exempelmeddelandet.
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Ytterligare fältsynkronisering för GoToWebinar {#additional-field-sync-for-gotowebinar}
+## Ytterligare fältsynkronisering för [!DNL GoToWebinar] {#additional-field-sync-for-gotowebinar}
 
-Du kan synkronisera företagsnamn och befattning från ditt Marketo-formulär till GoToWebinar. Om du vill aktivera dessa ytterligare fält går du till Event Partners och markerar&quot;Enable Additional Fields&quot; (Aktivera ytterligare fält).
+Du kan synkronisera företagsnamn och jobbtitel från ditt Marketo-formulär till [!DNL GoToWebinar]. Om du vill aktivera dessa ytterligare fält går du till Event Partners och markerar&quot;Enable Additional Fields&quot; (Aktivera ytterligare fält).
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ Filer som överförs till Design Studio skannas nu automatiskt och blockeras om 
 
 ## Analys av påverkan på affärsmöjlighet vid export {#export-opportunity-influence-analyzer}
 
-Du kan nu exportera data i säljprojektsanalysen till Excel. Varje exporterad Excel-fil innehåller alla marknadsföringsinteraktioner för alla leads (inklusive de som inte har någon roll i affärsmöjligheten) samt alla affärsmöjligheter under det valda kontot i analyseraren. Affärstillfällesraderna markeras med grönt. Du kan använda Excel:s inbyggda datafiltreringsfunktioner om du behöver fokusera på specifika leads eller marknadsföringsaktiviteter.
+Du kan nu exportera data i säljprojektsanalysen till [!DNL Excel]. Varje exporterad [!DNL Excel]-fil innehåller alla marknadsföringsinteraktioner för alla leads (inklusive de som inte har någon roll i affärsmöjligheten) samt alla affärsmöjligheter under det valda kontot i analyseraren. Affärstillfällesraderna markeras med grönt. Du kan använda de inbyggda datafiltreringsfunktionerna i [!DNL Excel] om du behöver fokusera på specifika leads eller marknadsföringsaktiviteter.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## Programattribueringsinställningar {#program-attribution-settings}
 
-Ni kan ändra det sätt på vilket Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsvärden i Intresseutforskarrapporter under området för analys av affärsmöjlighet och säljprojektsanalysen. Detta påverkar också attribueringsvärdena i Program Analyzer.
+Ni kan ändra det sätt på vilket Marketo knyter kontakter och möjligheter till första och multitouch-attribueringsstatistik, inklusive möjligheten att göra kontobaserad attribuering. De här inställningarna påverkar attribueringsmått i [!UICONTROL Revenue Explorer]-rapporter under området för analys av affärsmöjlighet och säljprojektsanalys. Detta påverkar också attribueringsvärdena i Program Analyzer.
 
 Du kan ändra inställningarna för programattribuering till ett av tre alternativ. Om du ändrar den här inställningen ändras inte Marketo- eller CRM-data. Det ändrar bara hur dina rapporter körs och kan återställas när som helst.
 
@@ -67,9 +67,9 @@ Inställningen Explicit undersöker bara kontakter med roller (aktuellt beteende
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight available in French and German (Salesforce only) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight] finns på franska och tyska ([!DNL Salesforce] endast) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Ladda ned den senaste versionen av Marketo Lead Management och Marketo Sales Insight från AppExchange så att era franska och tyska säljare kan se Sales Insight-innehåll på sitt eget språk.
+Hämta den senaste versionen av Marketo Lead Management och Marketo [!UICONTROL Sales Insight] från [!DNL AppExchange] så att de franska och tyska säljarna kan se [!UICONTROL Sales Insight]-innehåll på det språk de föredrar.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

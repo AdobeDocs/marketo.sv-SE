@@ -4,9 +4,9 @@ description: Versionsinformation - oktober 2012 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -47,14 +47,14 @@ Ta reda på vilka som har delat ert innehåll och rösträtt i era omröstningar
 
 ## Sociala profiler {#social-profiles}
 
-Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta omfattar handtag för Facebook, LinkedIn och Twitter, hur många vänner de har med mera.
+Nu kan ni samla in information om era leads när de delar innehåll eller fyller i formulär med hjälp av deras sociala profiler. Detta inkluderar [!DNL Facebook], [!DNL LinkedIn] och [!DNL Twitter] handtag, antalet vänner de har och mycket annat.
 
-## Prenumerationer på rapporter om intäktsutforskaren {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer] Rapportera prenumerationer {#revenue-explorer-report-subscriptions}
 
-Skapa prenumerationer på rapporter och skicka rapporter från Intresseutforskaren regelbundet till viktiga intressenter, inklusive användare utanför Marketo. E-postmeddelandet innehåller en förhandsgranskning av rapportens datatabell eller diagram och ett Excel-kalkylblad med alla rapportdata.
+Skapa rapportprenumerationer och skicka [!UICONTROL Revenue Explorer] rapporter regelbundet till viktiga intressenter, inklusive användare utanför Marketo. E-postmeddelandet innehåller en förhandsgranskning av rapportdatatabellen eller rapportdiagram och ett [!DNL Excel]-kalkylblad med alla rapportdata.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Endast tillgängligt för användare som har Revenue Explorer genom att köpa Revenue Cycle Analytics med Enterprise eller Select Edition.
+>Endast tillgängligt för användare som har [!UICONTROL Revenue Explorer] genom att köpa Intäktscykelanalys med Enterprise eller Select Edition.

@@ -4,9 +4,9 @@ description: Versionsinformation -juli 2014 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -juli 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Följande funktioner ingår i juliversionen 2014. Kontrollera om det finns funkt
 
 ## Marknadsföringskalender {#marketing-calendar}
 
-Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) kommer att vara tillgänglig kostnadsfritt för kunder med 10 eller färre användare av Marketo Lead Management eller Dialog.
+Se alla händelser, e-postmeddelanden med mera i alla program. [Den nya produkten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) kommer att vara tillgänglig kostnadsfritt för kunder med 10 eller färre [!DNL Marketo Lead Management] användare eller Dialog.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,11 +27,11 @@ Dokumentation om marknadsföringskalendern kommer att finnas tillgänglig vid la
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management uppdateras med ett nytt utseende som är modernt och smidigt och som innehåller en uppdaterad navigeringsfunktion.
+[!DNL Marketo Lead Management] kommer att uppdateras med ett nytt utseende som är modernt och slimmat och innehåller en uppdaterad navigering.
 
 ## Datumoperatorer {#date-operators}
 
-[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) för &quot;tidigare&quot;, &quot;i framtiden&quot; och &quot;i framtiden efter&quot;. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
+[Avancerade filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) för [!UICONTROL in past before], [!UICONTROL in future] och [!UICONTROL in future after]. Du kan till exempel hitta leads som har ett födelsedatum inom de kommande tre månaderna eller ett kontrakt som upphör efter sex månader.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -45,9 +45,9 @@ Förutom den marknadsföringskalender som du hanterar dina evenemang och standar
 * Nya Tentative Dates - penna in det!
 * Anpassade anmälningstyper - Att göra, Tryck på Frigör, vad du vill
 
-## Lista åtgärder i ReST API {#list-operations-in-the-rest-api}
+## Visa åtgärder i REST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -64,7 +64,7 @@ Alternativet Hoppa över nya leads och uppdateringar ändras inte.
 
 Utbyggnaden kommer att stagnera från mitten av juli och fortsätta under de kommande månaderna.
 
-* Tar bort beroendet jQuery för fullständig och framtida kompatibilitet
+* Tar bort beroendet [!DNL jQuery] för fullständig och framtida kompatibilitet
 * Mer kompatibel med andra JavaScript på er webbplats
 * Fullständigt testad på många sajter under det senaste året!
 
@@ -78,10 +78,10 @@ RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-do
 
 ## RTP: Förbättringar i JavaScript API {#rtp-javascript-api-enhancements}
 
-Nytt RTP API-anrop för att få besöksdata i realtid, t.ex. organisation, bransch, plats och segmentkodmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig dokumentation.
+Nytt RTP API-anrop för att få besöksdata i realtid, t.ex. organisation, bransch, plats och segmentkodmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig dokumentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP: Stöd för HTML 5 i Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
+## RTP: Stöd för HTML5 i Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-Innehållets WYSIWYG-redigerare på sidan Ange kampanjer har nu fullständig HTML5-kompatibilitet. Klicka på ikonen &quot;HTML&quot; i redigeraren för att infoga valfri HTML5-kod.
+Innehållets WYSIWYG-redigerare på sidan Set Campaigns har nu full HTML5-kompatibilitet. Klicka på&quot;HTML&quot;-ikonen i redigeraren för att infoga all HTML5-kod.

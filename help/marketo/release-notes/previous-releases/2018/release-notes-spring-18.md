@@ -3,10 +3,9 @@ unique-page-id: 14745959
 description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -17,37 +16,37 @@ Följande funktioner finns i vårutgåvan 18. Se om det finns funktioner i Marke
 
 Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion. Obs! Vissa av funktionerna i den här versionen har inte associerade artiklar. Om ett ämne har flera underrubriker placeras länkarna där.
 
-## Marketo Sales Engage, Launch och ToutApp Updates {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo [!DNL Sales Engage], Launch och [!DNL ToutApp] - uppdateringar {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Starta](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* ToutApp-uppdateringar
+* [!DNL ToutApp] uppdateringar
 
 >[!AVAILABILITY]
 >
->Sales Engage är en tilläggsprodukt. Kontakta er kontoansvarige på Marketo eller kontoansvarige för en offert.
+>[!DNL Sales Engage] är en tilläggsprodukt. Kontakta din Marketo Customer Success Manager eller kontoansvarige för en offert.
 
-Öka intäkterna och produktionsmöjligheterna genom att möjliggöra försäljning med intelligens, innehåll, spelböcker och analyser för att omvandla fler leads till säljmöjligheter. Sales Engage ger försäljning och marknadsföring en enhetlig plattform för engagemang under hela kundresan och möjliggör bättre samordning genom en delad vy av kundkontaktytor.
+Öka intäkterna och produktionsmöjligheterna genom att möjliggöra försäljning med intelligens, innehåll, spelböcker och analyser för att omvandla fler leads till säljmöjligheter. [!DNL Sales Engage] erbjuder försäljning och marknadsföring med en enhetlig plattform för engagemang under hela kundresan och möjliggör bättre samordning genom en delad vy av kundkontaktytor.
 
-**ToutApp**
+**[!DNL ToutApp]**
 
 * **Kompatibilitetskort**: Kontrollera GDPR-kompatibiliteten genom att hämta källan för försäljningskontakter och information om kundgodkännande för att ta emot kommunikation.
 * **Uppdatering av lösenordsprincip**: Skydda dina data med striktare krav för att skapa, återställa och förfalla lösenord (uppfyller SOC II - Type 1-kompatibilitetskrav).
-* **Effektiv kontokonfiguration**: Konfigurera och anslut ditt konto till Gmail, Outlook och andra system snabbare.
+* **Effektiv kontoinställning**: Få ditt konto konfigurerat och anslutet till [!DNL Gmail], [!DNL Outlook] och andra system snabbare.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Öppna Beta](https://help.marketo.com/)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
-Gå med i den öppna betaversionen av Marketo Skyn och få tillgång till över 100 nya produktivitetshöjande funktioner, bland annat:
+Gå med i Marketo Sky öppna beta och få tillgång till över 100 nya produktivitetshöjande funktioner, bland annat:
 
 * En uppdaterad vänsternavigeringsmeny, sparade regler för smart lista och flödesåtgärder, massåtgärder för att hantera resurser och förfallodatum för schemalagda resurser
 * Guider i appen och sammanhangsberoende hjälp
 * Resursetiketter och flexiblare kalendervyer
 
-## Prestandainsikter {#performance-insights}
+## [!UICONTROL Performance Insights] {#performance-insights}
 
-[Prestandainsikter](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Jämförelse mellan år och över år**
 
@@ -63,7 +62,7 @@ Filtrera resultat efter anpassade fält för säljprojekt, som en specifik förs
 
 **Delade snabbdiagram**
 
-Dela enkelt dina snabbdiagram med andra Performance Insights-användare.
+Dela dina snabbdiagram enkelt med andra [!UICONTROL Performance Insights]-användare.
 
 **Användbarhetsförbättringar**
 
@@ -77,12 +76,16 @@ Ange målet för optimeringsalgoritmen ContentAI för att få fler vyer, klick e
 
 ## Integrering och API:er {#integration-and-apis}
 
-[Statiska list-API:er](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Integrering av Facebook Workplace
+
+Skicka systemmeddelanden och intressanta stunder till [!DNL Facebook Workplace].
+
+Statiska list-API:er
 
 Hantera listor mellan Marketo och andra system enklare med nya dubbelriktade API:er för att skapa, läsa, uppdatera och ta bort statiska listor på distans utan att vidta några åtgärder i Marketo användargränssnitt.
 
 ## Sekretessförbättringar {#privacy-enhancements}
 
-[Sekretess för webbspårning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+Sekretess för webbspårning
 
-Förbättrad Munchkins spårning uppfyller lokala och internationella sekretessbestämmelser genom att anonymisera webbbesökarnas IP-adresser och göra det möjligt för dem att permanent välja bort webbspårning.
+Förbättrad spårning av [!DNL Munchkin] uppfyller lokala och internationella sekretessbestämmelser genom att anonymisera webbbesökarnas IP-adresser och tillåta dem att permanent välja bort webbspårning.

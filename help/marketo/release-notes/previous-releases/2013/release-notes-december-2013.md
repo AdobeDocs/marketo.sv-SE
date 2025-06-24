@@ -4,9 +4,9 @@ description: Versionsinformation -december 2013 - Marketo Docs - produktdokument
 title: Versionsinformation - december 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,14 @@ I det nya e-postprogrammet kör du ett [A/B-test](/help/marketo/product-docs/ema
 
 [Champion/Challenger-testning](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) liknar A/B-tester, men skillnaden är att den används för utlösta e-postmeddelanden och du skickar ingen vinnare automatiskt. Med det här testet kan du utmana ett etablerat sätt att göra något, så kallat Champion, och testa om det fortfarande är bäst genom att introducera en Challenger. Dessutom kan e-posttester av Champion/Challenger användas i engagemangsprogramströmmar.
 
-## Leadinformation i e-postanalys {#lead-details-in-email-analysis}
+## Leadinformation i [!UICONTROL Email Analysis] {#lead-details-in-email-analysis}
 
-Vi introducerade ytterligare lead- och företagsattribut i e-postanalys. Nu kan du visa din e-poststatus grupperad efter nya attribut som Bransch och Lead Source.
+Vi har introducerat ytterligare lead- och företagsattribut i [!UICONTROL Email Analysis]. Du kan nu visa din e-poststatus grupperad efter nya attribut som [!UICONTROL Industry] och [!UICONTROL Lead Source].
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## Förbättrad BrightStor Event Adapter {#enhanced-brighttalk-event-adapter}
+## [!DNL BrightTALK]-händelsekort har förbättrats {#enhanced-brighttalk-event-adapter}
 
-Nu kan du hämta registranter till Marketo från din BrightTALK-kanal och händelse. Du kan använda den här informationen för att informera andra marknadsföringskampanjer!
+Nu kan du hämta registranter till Marketo från din [!DNL BrightTALK]-kanal och händelse. Du kan använda den här informationen för att informera andra marknadsföringskampanjer!

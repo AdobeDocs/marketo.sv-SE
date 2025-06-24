@@ -4,9 +4,9 @@ description: Versionsinformation -januari 2014 - Marketo Docs - produktdokumenta
 title: Versionsinformation - januari 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Temamodesigner, knappanpassning och flexibla layouter gör att du kan skapa mode
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Vill du att &quot;State&quot; bara ska visas om en användare väljer USA som &quot;Country&quot;? Vad sägs om att presentera olika rapporter för kunderna baserat på hur de besvarar frågor i formuläret? Bygg in villkorlig logik i formulären direkt från redigeraren. Inget javascript krävs!
+Vill du att &quot;State&quot; bara ska visas om en användare väljer USA som &quot;Country&quot;? Vad sägs om att presentera olika rapporter för kunderna baserat på hur de besvarar frågor i formuläret? Bygg in villkorlig logik i formulären direkt från redigeraren. [!DNL javascript] krävs inte!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Bädda enkelt in Forms på dina egna landningssidor:**
 
-Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo landningssidor och släppa dem i en iFrame. Hämta bara inbäddningskoden och placera den på landningssidan där du vill att formuläret ska återges. Två lägen - normal och ljuslåda - ger dig ännu större flexibilitet med Marketo-formulär på din webbplats.
+Nu är det dags att lyfta HTML-kod från formulär som placerats på Marketo landningssidor och släppa dem i en [!DNL iFrame]. Hämta bara inbäddningskoden och placera den på landningssidan där du vill att formuläret ska återges. Två lägen - normal och ljuslåda - ger dig ännu större flexibilitet med Marketo-formulär på din webbplats.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

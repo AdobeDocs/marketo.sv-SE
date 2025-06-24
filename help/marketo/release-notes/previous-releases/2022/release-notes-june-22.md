@@ -3,9 +3,9 @@ description: Versionsinformation - juni 2022 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 juni. Se om
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fasad utrullning av återstående funktioner under de följande veckorna (om inget annat anges).
 
@@ -26,13 +26,13 @@ Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fas
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Förbättrad strömning av Designer-användning för Dynamic Chat**: Lägg till kort direkt från strömmen på Designer arbetsyta utan att behöva dra och släppa. Gränssnittet i Dynamic Chat har också förbättrats så att innehåll i enskilda kort blir synligare.
+* **Förbättrad strömning av Designer-användning för[!DNL Dynamic Chat]**: Lägg till kort direkt från strömmens Designer-arbetsyta utan att behöva dra och släppa. Gränssnittet [!DNL Dynamic Chat] har också förbättrats så att innehåll i enskilda kort visas bättre.
 
-* **Avancerade routningsregler för avtalad tid för Dynamic Chat**: Dynamic Chat erbjuder fler alternativ för riktad routning av avtalad tid. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut, så att leads dirigeras till lämpliga agenter.
+* **Avancerade routningsregler för avtalad tid för[!DNL Dynamic Chat]**: [!DNL Dynamic Chat] innehåller fler alternativ för riktad routning av avtalad tid. Ange vilka agentavtalade tider som ska dirigeras baserat på Marketo Engage-attribut och se till att leads dirigeras till lämpliga agenter.
 
-* **Avancerad dialograpportering för Dynamic Chat**: Visa resultatet för dina Dynamic Chat-kampanjer mer detaljerat med helt nya datavisualiseringar för engagemangs- och konverteringsmått.
+* **Avancerad dialograpportering för[!DNL Dynamic Chat]**: Visa resultatet för dina [!DNL Dynamic Chat]-kampanjer mer detaljerat med helt nya datavisualiseringar för engagemangs- och konverteringsmått.
 
-* **Osynkroniserade oanvända Marketo Engage-attribut för Dynamic Chat**: Osynkroniserade Marketo Engage-attribut från din Dynamic Chat-prenumeration som inte används, vilket underlättar datarenhet och gör att alternativa attribut kan synkroniseras efter behov.
+* **Osynkroniserade oanvända Marketo Engage-attribut för[!DNL Dynamic Chat]**: Osynkroniserade Marketo Engage-attribut från din [!DNL Dynamic Chat]-prenumeration som inte används, vilket underlättar datarenhet och gör det möjligt att synkronisera alternativa attribut efter behov.
 
 ## Nästa generations upplevelser
 
@@ -45,25 +45,25 @@ Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fas
 
 * **Undantag för regel för validering av globalt formulärfält**: Uteslut specifika formulär från reglerna för global formulärvalidering så att prenumerationscentraler och andra affärskritiska arbetsflöden kan acceptera alla värden.
 
-* **Självbetjäningsflödessteg**: Utöka anslutningen mellan Marketo Engage och resten av stacken med möjligheten att skapa anpassade flödessteg för användning i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att tillåta användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer, i motsats till webbhooks, som bara kan användas i utlösarkampanjer.
+* **Självbetjäningsflödessteg**: Utöka anslutningen mellan Marketo Engage och resten av stacken med möjligheten att skapa anpassade flödessteg för användning i smarta kampanjer. Både Marketo Engage-användare och -partners kan utnyttja den här funktionen för att tillåta användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer, i motsats till Webhooks, som bara kan användas i utlösarkampanjer.
 
 * **Munchkin Protocol Agnostic Link Tracking**: Utöka stödet för spårning av `tel`- och `mailto`-länkar med Munchkin för att spåra utökade webbbeteenden.
 
 * **Ytterligare HTTP-metoder för webhooks**: Ange PUT, PATCH och DELETE som begärandetyper för interaktion med webbtjänster.
 
-## Försäljningsinsikter {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Behörighetsuppsättning för Sales Insight i Salesforce**: Administratörer kan ge Sales Insight-åtkomst till en begränsad uppsättning personer på användarnivå i stället för på profilnivå via behörighetsuppsättningen för Marketo App, som är en del av Salesforce-paketet Sales Insight.
+* **[!DNL Sales Insight]Behörighetsuppsättning i[!DNL Salesforce]**: Administratörer kan ge [!DNL Sales Insight] åtkomst till en begränsad uppsättning personer på användarnivå i stället för på profilnivå via behörighetsgruppen Marketo App, som ingår i [!DNL Sales Insight] [!DNL Salesforce] -paketet.
 
-* **Min Marketo Tile Update - Sales Insight Actions**: Marketo Admins (och de användare de utser) kan nu snabbt navigera till sin instans Sales Insight Actions via en ny Sales Insight Actions-panel på My Marketo-sidan.
+* **Min uppdatering av Marketo sida vid sida - [!DNL Sales Insight] Åtgärder**: Marketo-administratörer (och de användare de utser) kan nu snabbt navigera till sin [!DNL Sales Insight] Actions-instans via en ny [!DNL Sales Insight] Actions tile som finns på My Marketo-sidan.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Uppdatering för Salesforce-API**: I Salesforce sommar-versionen från 22 kommer äldre API-versioner 21-30 inte längre att stödjas av Salesforce. I den här Marketo Engage-versionen har alla Sales Connect-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [här](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"} om du vill ha fullständig information om återtagandeplaner för Salesforce API.
+* **[!DNL Salesforce]API-uppdatering**: I version [!DNL Salesforce] sommar 22 stöds inte längre API-versioner 21-30 av [!DNL Salesforce]. I den här Marketo Engage-versionen har alla [!DNL Sales Connect]-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [här](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} om du vill ha fullständig information om [!DNL Salesforce] API-pensionsplaner.
 
 ## API-förbättringar {#api-enhancements}
 
@@ -73,8 +73,8 @@ Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fas
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av Forms - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stödet för Forms 1.0-resurser kommer att tas bort helt från Marketo Engage i oktober 2022. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. Marketo Engage-formulär kommer att kräva att JavaScript laddas på landningssidor och webbplatser.
+* **Borttagning av Forms - Forms 1.0, lead Capture/save endpoint och no-script-versioner av formulär**: Stödet för Forms 1.0-resurser kommer att tas bort helt från Marketo Engage i oktober 2022. Alla befintliga Forms 1.0-resurser kommer inte längre att fungera. Marketo Engage-formulär kräver att JavaScript laddas på landningssidor och webbplatser.
 
 **_Webbseminarium om produktreleaser_**
 
-[Juniversion och augusti 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Juni och augusti 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

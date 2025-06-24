@@ -4,9 +4,9 @@ description: Enkel poängsättning - Marketo Docs - produktdokumentation
 title: Enkel poängsättning
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-9.png)
 
-1. Dra flödesåtgärden **Ändra bakgrundsmusik** till den vänstra arbetsytan.
+1. Dra flödesåtgärden **[!UICONTROL Change Score]** till den vänstra arbetsytan.
 
    ![](assets/simple-scoring-10.png)
 
@@ -132,4 +132,4 @@ Personuppgifterna öppnas på en ny flik eller i ett nytt fönster. Se hur poän
 
 [◄ Mission 2: Landningssida med formulär](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Uppgift 4: Automatiskt svar via e-post ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Uppgift 4: Automatiskt svar för e-post ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

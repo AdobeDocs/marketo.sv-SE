@@ -4,9 +4,9 @@ description: Versionsinformation -september 2012 - Marketo Docs - produktdokumen
 title: Versionsinformation -september 2012
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Den här versionen innehåller välväntade, integrerade sociala funktioner och ledande hanteringsfunktioner! Obs! Sociala funktioner är tillgängliga som tillägg eller som en del av utvalda paket.
 
-## Publish a YouTube Video with Social Sharing {#publish-a-youtube-video-with-social-sharing}
+## Publicera en YouTube-video med delning via sociala medier {#publish-a-youtube-video-with-social-sharing}
 
 Förstärk publiken genom att uppmuntra besökarna att dela dem socialt med hjälp av den nya videosajten på landningssidorna.
 
@@ -33,19 +33,19 @@ Få insikter och minska friktionen genom att möjliggöra förifyllda formulär 
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publish landningssidor till Facebook {#publish-landing-pages-to-facebook}
+## Publicera landningssidor på [!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-Nå ut bättre med era landningssidor genom att publicera dem direkt i Facebook, med sociala appar, blanketter och alla funktioner på Marketo landningssidor.
+Nå ut bättre med era landningssidor genom att publicera dem direkt i [!DNL Facebook], med sociala appar, formulär och alla funktioner på Marketo landningssidor.
 
-## ReadyTalk-händelseadapter {#readytalk-event-adapter}
+## [!DNL ReadyTalk] händelsekort {#readytalk-event-adapter}
 
-Koppla smidigt en Marketo-händelse till ett ReadyTalk-möte. Använd ett Marketo-formulär för att hämta in och automatiskt registrera dem i ReadyTalk. Med en dubbelriktad synkronisering kan närvaroinformation fyllas i i Marketo.
+Anslut enkelt en Marketo-händelse till ett [!DNL ReadyTalk]-möte. Använd ett Marketo-formulär för att hämta och automatiskt registrera dem i [!DNL ReadyTalk]. Med en dubbelriktad synkronisering kan närvaroinformation fyllas i i Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] på plats {#microsoft-dynamics-on-premise}
 
-Nu har vi stöd för Microsoft Dynamics 2011 lokalt med en installation mot Internet.
+Nu har vi stöd för Microsoft [!DNL Dynamics] 2011 lokalt med en installation mot Internet.
 
 ## Webhooks (Treasure Chest) {#webhooks-treasure-chest}
 

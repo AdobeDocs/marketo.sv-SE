@@ -2,10 +2,9 @@
 description: Versionsinformation - maj 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -16,7 +15,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från maj 22. Se om 
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
@@ -24,17 +23,17 @@ Följande funktioner kommer att börja släppas den **6 maj 2022**, med en stegv
 
 ## Integrering med CRM {#native-crm-integration}
 
-**[Integrering med CRM för vektorgrafik](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begränsad tillgänglighet)**: Förbättra interaktionen med vårdpersonal genom att synkronisera aktiviteter mellan vektorgrafikCRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta kontoteamet (din kontoansvarige) på Adobe om du är intresserad av att delta.
+**[Integrering med CRM ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begränsad tillgänglighet)**: Förbättra interaktionen med vårdpersonal genom att synkronisera aktiviteter mellan Veeva CRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-**Chatbot-händelser för Dynamic Chat**: Utnyttja mer detaljerade beteendedata för webbbesökare som tid på sidan, tid på webbplatsen och procent för sidbläddring för att definiera när en chattdialog ska visas.
+**Chatbot-händelser för[!DNL Dynamic Chat]**: Utnyttja mer detaljerade beteendedata för webbbesökare som tid på sidan, tid på webbplatsen och sidrullningsprocent för att definiera när en chattdialog ska visas.
 
-**PDF Embed för Dynamic Chat**: Öka engagemanget och dela meningsfullt innehåll genom att bädda in PDF i chattdialogrutor och mäta innehållets prestanda med hjälp av uppföljning av engagemangsaktiviteter.
+**PDF Embed för[!DNL Dynamic Chat]**: Öka engagemanget och dela meningsfullt innehåll genom att bädda in PDF-filer i chattdialogrutor och mäta innehållets prestanda med hjälp av uppföljning av engagemangsaktiviteter.
 
-**Utökat språkstöd för Dynamic Chat**: Dynamic Chat kommer nu också att finnas på franska, tyska, japanska, portugisiska och spanska. Chattdialogrutor kan även konfigureras på dessa språk.
+**Utökat språkstöd för[!DNL Dynamic Chat]**: Användargränssnittet [!DNL Dynamic Chat] finns nu även på franska, tyska, japanska, portugisiska och spanska. Chattdialogrutor kan även konfigureras på dessa språk.
 
-**Uteslut URL:er för Dynamic Chat**: Kontrollera vilken av dina webbsidor som Dynamic Chat visas på med möjligheten att exkludera specifika URL:er från målvillkor.
+**Uteslut URL:er för[!DNL Dynamic Chat]**: Kontrollera vilken av dina webbsidor [!DNL Dynamic Chat] som visas med möjligheten att exkludera specifika URL:er från målvillkor.
 
 **[Förbättringar av filtrering av punktaktivitet](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Fortsätt att skydda databasens hälsa med möjlighet att identifiera båda beteenden baserat på dolda länkar, användaragenter eller IP-adresser och närhetsmönster, utöver den befintliga IAB-listan, utöver identifiering av matchningar. Visa startaktivitetsstatistik som gör att du kan förstå antalet båda aktiviteter som identifieras för varje typ.
 
@@ -46,11 +45,11 @@ Följande funktioner kommer att börja släppas den **6 maj 2022**, med en stegv
 
 **Uppdaterad skärm i nästa generation av upplevelse**:
 
-Vi levererar detaljvy för e-postmallar i Design Studio i nästa generation av upplevelser, med uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion.
+Vi levererar detaljvyn för e-postmallar i [!UICONTROL Design Studio] i nästa generation av upplevelser, vilket ger en uppdaterad design- och användarvänlighetsförbättring som är tillgänglig via växlingsknappen.
 
 ## Experience Automation {#experience-automation}
 
-**Självbetjäningsflödessteg (forts. beta)**: Utöka anslutningen mellan Marketo Engage och resten av stacken med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både användare och partners i Marketo Engage kan utnyttja den här funktionen för att möjliggöra användning av externa webbtjänster i utlösar-, batch- och körbara kampanjer (till skillnad från webbhookar som bara kan användas i utlösarkampanjer).
+**Självbetjäningsflödessteg (forts. beta)**: Utöka anslutningen mellan Marketo Engage och resten av stacken med möjligheten att skapa anpassade flödessteg som kan användas i smarta kampanjer. Både Marketo Engage användare och partners kan utnyttja den här funktionaliteten för att möjliggöra användning av externa webbtjänster i kampanjer som triggas, gruppbearbetas och körs (till skillnad från webbhookar som bara kan användas i utlösarkampanjer).
 
 ## API-förbättringar {#api-enhancements}
 
@@ -62,9 +61,9 @@ Vi levererar detaljvy för e-postmallar i Design Studio i nästa generation av u
 
 ## Meddelanden {#announcements}
 
-**E-postverifiering och unikhet**: Från och med april påbörjas utrullningen av e-postverifieringen. I det läget kommer Marketo Engage-användares e-postadresser att kräva verifiering och unikhet (detta gäller inte endast API-användare). Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering.
+**E-postverifiering och unikhet**: Från och med april påbörjas utrullningen av e-postverifieringen. Marketo Engage e-postadresser måste då verifieras och vara unika (detta gäller inte endast API-användare). Katalogtjänstautentiserade användare får automatiskt sina e-postmeddelanden verifierade när deras prenumeration aktiveras med e-postverifiering.
 
-Verifiering via e-post för prenumerationer med funktionen Inbjudan till användare, eller som har ett enda e-postmeddelande kopplat till flera användare, sammanfaller med majversionen. Prenumerationer som har ett enda e-postmeddelande kopplat till flera användare aktiveras med e-postverifiering och kräver att dessa användare löser konflikten och använder ett unikt e-postmeddelande per användare. När funktionen Logga in i inbjudan till användare är aktiverad måste användare som bjudits in via den här funktionen ha en unik e-postadress. För API-användare som bjudits in via den här funktionen behöver e-postadressen inte vara unik.
+E-postverifiering för prenumerationer med funktionen [!UICONTROL Login in Invite User Dialog] eller som har ett enda e-postmeddelande som är kopplat till flera användare sammanfaller med majversionen. Prenumerationer som har ett enda e-postmeddelande kopplat till flera användare aktiveras med e-postverifiering och kräver att dessa användare löser konflikten och använder ett unikt e-postmeddelande per användare. När funktionen&quot;Logga in i inbjudan till användare&quot; är aktiverad måste användare som bjudits in via den här funktionen ha en unik e-postadress. För API-användare som bjudits in via den här funktionen behöver e-postadressen inte vara unik.
 
 **Ändra beteende för arkivmapp**: I den här versionen är möjligheten att skapa nya resurser i arkivmappar inte längre tillgängligt från trädsnabbmenyerna. Menyalternativen för att skapa nya resurser döljs för alla resurser. [Läs mer här](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 

@@ -4,9 +4,9 @@ description: Versionsinformation -mars 2014 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - mars 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ När du använder [programprestandarapporten](/help/marketo/product-docs/core-ma
 
 ## Inkluderande och operativa program för analys {#inclusive-and-operational-programs-for-analytics}
 
-Du kan nu [inkludera program utan periodkostnader](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) i intäktsutforskaren och analytiker genom att ange alternativet Analysbeteende till Inkluderande när du redigerar programkanaler. Du kan också utesluta verksamhetsprogram från att rapportera alla tillsammans genom att välja &quot;Operativ&quot;.
+Du kan nu [inkludera program utan periodkostnader](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) i [!UICONTROL Revenue Explorer] och analytiker genom att ange alternativet Analytics Behavior (Analysbeteende) som Inclusive (Inkluderande) när du redigerar programkanaler. Du kan också utesluta verksamhetsprogram från att rapportera alla tillsammans genom att välja &quot;Operativ&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

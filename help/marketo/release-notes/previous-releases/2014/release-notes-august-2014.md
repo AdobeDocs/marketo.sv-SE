@@ -4,9 +4,9 @@ description: Versionsinformation -augusti 2014 - Marketo Docs - produktdokumenta
 title: Versionsinformation - augusti 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Följande nya användarbehörigheter har lagts till:
 | Aktivera utlösarkampanj | Styr vilka som kan och inte kan aktivera utlösarkampanjer. |
 | Schemalägg batchkampanj | Styr vilka som kan och inte kan schemalägga batchkampanjer. |
 
-## Exportera användare och roller från administratör {#export-users-and-roles-from-admin}
+## Exportera användare och roller från [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
 Du kan nu [exportera en lista över användare och roller](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) från Marketo. Du kan även inkludera en tidsstämpel för&quot;senaste inloggning&quot; som ska inkluderas i exporten.
 
@@ -47,15 +47,15 @@ Nu kan du ta bort alla oanvända kanaler och statusar. Som alltid kan du bara d�
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Automatiserad DKIM {#automated-dkim}
+## Automatiserad [!DNL DKIM] {#automated-dkim}
 
-För förbättrad leverans kommer alla utgående e-postmeddelanden att vara DKIM-signerade (DomainKeys Identified Mail). Som standard använder e-postmeddelanden Marketo delade DKIM-signatur. Du kan anpassa den här signaturen.
+För förbättrad leverans signeras alla utgående e-postmeddelanden [!DNL DKIM] (DomainKeys Identified Mail). Som standard använder e-postmeddelanden Marketo delade [!DNL DKIM]-signatur. Du kan anpassa den här signaturen.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM kommer att rullas ut långsamt, du kanske inte ser det på några veckor.
+>[!DNL DKIM] kommer att rullas ut långsamt, du kanske inte ser det på några veckor.
 
 ## Personalization-uppdateringar i realtid {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ Vi har lagt till etiketter på kampanjsidan så att du kan tagga till innehåll 
 
 ## Mobilanpassning {#mobile-targeting}
 
-Du frågade i communityn och vi levererade! Du kan nu inkludera, exkludera eller ange en specifik uppmaning för användare på mobiler och surfplattor.
+Du frågade i communityn och vi levererade! Du kan nu inkludera, exkludera eller ange en specifik call to action för användare på mobiler och surfplattor.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

@@ -3,10 +3,9 @@ unique-page-id: 11384018
 description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Följande funktioner finns i höstutgåvan 16. Se om det finns funktioner i Marketo Edition. Klicka på titellänkarna för att visa detaljerade artiklar för varje funktion.
 
-## Prediktivt innehåll i e-post {#predictive-content-in-email}
+## [!UICONTROL Predictive Content] i e-post {#predictive-content-in-email}
 
-Det finns en ny användarupplevelse i programmet Predictive Content som spårar, hanterar och rekommenderar ditt innehåll via våra maskininlärnings- och prediktiva algoritmer på webben och i e-postkanaler.
+Det finns en ny användarupplevelse för vårt [!UICONTROL Predictive Content]-program som spårar, hanterar och rekommenderar ditt innehåll via våra maskininlärnings- och prediktiva algoritmer på webben och i e-postkanaler.
 
 >[!NOTE]
 >
@@ -29,9 +28,9 @@ Nu kan du lägga till prediktivt innehåll i e-postmeddelandet. När e-postmedde
 
 ![](assets/predictive.png)
 
-## [Facebook Offline-konverteringar](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Tack vare integreringen med Facebook Offline Conversions skickas konverteringsdata i Marketo (för leads) automatiskt tillbaka till Facebook så att ert annonsteam bättre kan optimera annonskostnaderna. I den här Facebook Ad Manager-rapporten markeras offlinekonverteringarna.
+Med integreringen av [!DNL Facebook] offlinekonverteringar skickas konverteringsdata i Marketo (för lead-annonsleads) automatiskt tillbaka till [!DNL Facebook] så att ditt annonsteam bättre kan optimera sina annonskostnader. I den här [!DNL Facebook] Ad Manager-rapporten markeras offlinekonverteringarna.
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,19 @@ Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en end
 
 ## Förbättringar av kontobaserad marknadsföring för Marketo {#marketo-account-based-marketing-enhancements}
 
-Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kontohanterare. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
+Nu kan ni tilldela kontoteam till namngivna konton i kontobaserad marknadsföring (ABM), till exempel kontoägare, säljutvecklingsrepresentant, affärsutvecklingsrepresentant och kundframgångsansvarig. Du kan också skapa kontoägarspecifika kontolistor och skicka personliga ABM-rapporter varje vecka till kontoteamet.
 
 ![](assets/account-team-11-15-16.png)
 
 **REST API**
 
-I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+I den här versionen kan du även hantera attribut och poäng för namngivna konton i ABM med Marketo REST API. Mer information om API-åtgärder finns på webbplatsen [Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Förbättringar av granskningsspår](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 Granskningsspårning ger en omfattande historik över de ändringar som gjorts i din Marketo-prenumeration. Vi har lagt till ytterligare funktioner för spårning av program samt tagit del av viktig ändringsinformation för smarta kampanjer, smarta listor och ändringar som gjorts för användare och roller.
 
-## [Nya behörigheter](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## Nya behörigheter
 
 **Använd e-post**
 
@@ -82,16 +81,16 @@ Ge dina iOS Push Notification ännu bättre detaljrikedom genom att aktivera lju
 
 ## [Säljinformation är kompatibel med Salesforce-kryptering](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight är nu kompatibelt med Salesforce Shield Encryption. Alla Sales Insight-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [tillgängligt på Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market [!DNL Sales Insight] är nu kompatibel med [!DNL Salesforce] Shield Encryption. Alla [!DNL Sales Insight]-kunder bör uppgradera till det senaste hanterade paketet (version 1.4359.2), som är [tillgängligt på  [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API:er för namngivna konton](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [API:er för namngivna konton](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 I den här versionen kan Marketo ABM-användare hantera namngivna konton via API:t för namngivna konton. Användare kan skapa, uppdatera och ta bort namngivna konton samt läsa och uppdatera ABM-poängen för namngivna konton.
 
-## [Stöd för e-postredigeraren v2.0 API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Stöd för e-postredigeraren v2.0 API](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Hantera variabler och moduler för e-post i v2.0-format med Marketo REST API.
 
-## [Ändringar i Marketo Salesforce-synkronisering](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Ändringar i Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo Salesforce-integrering utvecklas för att förbättra det sätt på vilket Marketo-fält synkroniseras med Salesforce. I stället för att behöva synkronisera en stor grupp fält som du kanske behöver kan du nu välja vilka fält du vill inkludera och välja vilka. Läs vår dokumentation här för mer information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Integreringen av Marketo [!DNL Salesforce] utvecklas för att förbättra sättet som Marketo-fält synkroniseras med [!DNL Salesforce]. I stället för att behöva synkronisera en stor grupp fält som du kanske behöver kan du nu välja vilka fält du vill inkludera och välja vilka. Läs vår dokumentation här för mer information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

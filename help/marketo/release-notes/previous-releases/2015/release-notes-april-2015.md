@@ -4,9 +4,9 @@ description: Versionsinformation -April 2015 - Marketo Docs - produktdokumentati
 title: Versionsinformation -april 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om det finns funk
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [startsidan för analyser](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
+Den nya [[!UICONTROL Analytics]-startsidan ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa eller dra rapporter till mappen Mina rapporter för att låsa dem så att de inte kan visas, redigeras eller tas bort av andra användare. Grupprapporter delas av alla användare.
+Dessutom finns nu både privat och delad rapportorganisation tillgänglig. Skapa eller dra rapporter till din [!UICONTROL My Reports]-mapp för att låsa dem så att de inte kan visas, redigeras eller tas bort av andra användare. [!UICONTROL Group Reports] delas av alla användare.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ Med Marketo Mobile Engagement är det enkelt att leverera övertygande mobiluppl
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integrering av linkedIn Lead Accelerator
+## Integrering av [!DNL LinkedIn] Lead Accelerator
 
-[Integrering av linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integrering av [!DNL LinkedIn] Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsnätverksintegrationen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med LinkedIn Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i LinkedIn baserat på medlemmarna i en smart eller statisk lista. Medlemmar i LinkedIn målgruppssegment kan sedan hanteras med en rad relevanta annonser.
+Utvidga er strategi för huvudnäring till betalannonsering och social annonsering. Med [annonsnätverksintegrationen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) med [!DNL LinkedIn] Lead Accelerator kan du på ett säkert sätt skapa ett målgruppssegment i [!DNL LinkedIn] baserat på medlemmarna i en smart eller statisk lista. Medlemmar i ett [!DNL LinkedIn]-målgruppssegment kan sedan hanteras med en sekvens av relevanta annonser.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketo Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Marketo [!DNL Sales Insight] för [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
-Dina favoritfunktioner i Sales Insight - lead feed, best bets, intressanta ögonblick och lägg till i Marketo Campaign - finns alla tillgängliga i Salesforce1-appen.
+Dina favoritfunktioner för [!DNL Sales Insight] - lead feed, best bets, intressanta stunder och lägg till i Marketo Campaign - finns alla tillgängliga i appen [!DNL Salesforce1].
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

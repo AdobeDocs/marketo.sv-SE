@@ -3,9 +3,9 @@ description: Versionsinformation - mars 2022 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Följande funktioner finns i mars 22. Se om det finns funktioner i Adobe Marketo
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
@@ -24,7 +24,7 @@ Följande funktioner kommer att börja släppas den **11 mars 2022**, med en fas
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Dynamic Chat**: Maximera alla möjligheter på din webbplats genom att rikta in både leads och konton med proaktiva, engagerande och personliga konversationer. Med [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade flerkanalsupplevelser för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation med mera. Dynamic Chat ingår i alla paket med Marketo Engage och kommer att lanseras för alla användare av Marketo Engage i år.
+* **[!DNL Dynamic Chat]**: Maximera alla möjligheter på webbplatsen genom att rikta in er på både leads och konton med proaktiva, engagerande och personliga konversationer. Med [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation med mera. Dynamic Chat ingår i alla Marketo Engage-paket och kommer att lanseras för alla Marketo Engage-användare i år.
 
 * **Förbättring av filtrering av aktivitetsfiltrering via e-post**: Som en förbättring av den tidigare släppta funktionen [Filtrering av aktivitetsfiltrering via e-post](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} kan du nu välja att logga aktiviteter som identifieras som bottar. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
 
@@ -32,7 +32,7 @@ Följande funktioner kommer att börja släppas den **11 mars 2022**, med en fas
 
 * **Uppdaterade Screens i nästa generations upplevelse**: Vi levererar nya, uppdaterade skärmar i nästa generations upplevelser som erbjuder uppdaterade design- och användarvänlighetsförbättringar som är tillgängliga via växlingsfunktion:
 
-   * Formulärlistvy i Design Studio (inklusive nya massåtgärder)
+   * Formulärlistvy i [!UICONTROL Design Studio] (inklusive nya massåtgärder)
 
 * **Uppdatering av arbetsflöde för import av program**: Arbetsflödet för import av program levereras i nästa generation med uppdaterade design- och användbarhetsförbättringar. Detta blir en automatisk ändring utan en växlingsknapp.
 
@@ -60,21 +60,21 @@ Följande funktioner kommer att börja släppas den **11 mars 2022**, med en fas
 
 Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas under de kommande månaderna.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **BI-mallar**: Bizibeln kommer nu att innehålla hämtningsbara grundläggande rapporteringsartefakter och exempelrapporter för Tableau och Power BI för att möjliggöra snabb utveckling av anpassade rapporter som är anpassade för just dina affärsbehov.
+* **BI-mallar**: [!DNL Bizible] kommer nu att innehålla hämtningsbara, grundläggande rapportartefakter och exempelrapporter för Tableau och Power BI för att möjliggöra snabb utveckling av anpassade rapporter som är anpassade för dina specifika affärsbehov.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Begränsning av e-postanslutning (GA)**: Gräns för e-postanslutning tillåter att Sales Connect-administratörer konfigurerar sändningsfrekvensen för e-postmeddelanden när Gmail eller Exchange används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveransleverantören inte överskrider de tvingande gränserna.
+* **Begränsning av e-postanslutning (GA)**: Med begränsning av e-postanslutning kan [!DNL Sales Connect]-administratörer konfigurera sändningsfrekvensen för e-postmeddelanden när Gmail eller [!DNL Exchange] används som leveranskanal, så att den hastighet med vilken e-postmeddelanden skickas till leveransleverantören inte överskrider de tvingande gränserna.
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgänglig eftersom vi fokuserar på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomst till funktioner som är exklusiva för Marketo Skyn idag, tar vi bort förfallodatum för resurser och åsidosättning av smart kampanjprioritet i den klassiska upplevelsen. [Klicka här](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
+* **Borttagning av Marketo Sky**: I mars kommer Marketo Sky inte längre att vara tillgängligt eftersom vi fokuserar våra resurser på att leverera nästa generations användarupplevelser. I ett försök att behålla åtkomsten till funktioner som är exklusiva för Marketo Sky idag, tar vi med åsidosättande av förfallodatum och prioritet för smarta kampanjer i den klassiska upplevelsen. [Klicka här](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om du vill veta mer.
 
 **_Webbseminarium om produktreleaser_**
 

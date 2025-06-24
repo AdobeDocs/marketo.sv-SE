@@ -3,10 +3,9 @@ unique-page-id: 17728380
 description: Versionsinformation - våren 2019 - Marketo Docs - produktdokumentation
 title: Versionsinformation - våren 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -23,9 +22,9 @@ Följande funktioner släpptes 15 mars 2019.
 
 ## Förbättringar av kärnplattformen {#core-platform-enhancements}
 
-* **Väntelistat:** Ny program-/händelsestatus för att vänta på en medlem när du vill [spärra dem](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i Marketo Sky. Som standard har Väntelistat samma stegvärde som Registrerad.
+* **Väntelistat:** Ny program-/händelsestatus för att vänta på en medlem när du vill [spärra dem](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) tills en ledig plats öppnas. Detta gäller för kanaler som är associerade med Event-program i Marketo Classic, och både Event och Event med Webinar-program i [!DNL Marketo Sky]. Som standard har Väntelistat samma stegvärde som Registrerad.
 * **[Anpassad kommunikationsgräns](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratörer kan nu ange anpassade kommunikationsgränser per dag eller vecka.
-* **[Tillgångs-API:er för smarta kampanjer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Förbättra dina analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
+* **[Tillgångs-API:er för smarta kampanjer](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Förbättra dina analyser utanför Marketo genom att hämta smarta kampanjposter med uppdaterat datum och ID.
 * **HTTPS-spårningslänkar för e-post:** För kunder som har köpt säkra domäner för spårningslänkar kan nu varumärkesanpassade spårningslänkar visas i dina e-postmeddelanden som HTTPS.
 * **Powerpack-uppdateringar för e-postleverans**: Möjlighet att flagga och kommentera specifika testresultat, dela resultat med intressenter via en URL och spåra ändringar för att se hur ett e-postmeddelande utvecklas när intressenter redigerar innehåll.
 
@@ -39,7 +38,7 @@ Account-Based Marketing
 
 Följande funktioner förväntas släppas under det första kalenderkvartalet och i början av det andra kvartalet 2019.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 * **Funktioner för fullständigt e-postprogram**: Skicka e-post, skapa A/B-tester och spåra resultat i en användarvänlig upplevelse.
 * **Smart Campaign-funktioner**: Dra nytta av förbättrad stabilitet i ett nytt användargränssnitt i takt med att smarta kampanjfunktioner fortsätter att lanseras i Sky.
@@ -51,8 +50,8 @@ Följande funktioner förväntas släppas under det första kalenderkvartalet oc
 * **Förbättrad granskning**: Ny synlighet för alla personer, e-postmeddelanden och [innehåll](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) i en instans med möjlighet att [avsluta befintliga kampanjer](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) som skapats av andra användare.
 * **[Avbeställ hantering](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximera leveransen och kompatibiliteten med möjligheten att [blockera e-postdomäner](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) från att kontaktas. Marketo korsrefererar också till leaddatabasen för att avbeställa prenumerationer innan ett e-postmeddelande skickas.
 
-## Bizible by Marketo {#bizible-by-marketo}
+## [!DNL Bizible] av Marketo {#bizible-by-marketo}
 
-* **Förbättringar av funktioner för bizible Discover**: Nya funktioner för instrumentpanelssegmentering gör att marknadsförare kan förstå prestandan bättre.
-* **Stöd för flera valutor**: Växla mellan företagsvaluta och lokal valuta med Bizibles nya automatiska valutakonverteringsfunktion som bygger på valutatabeller i CRM.
+* **[!DNL Bizible]Upptäck förbättringar av funktioner**: Nya funktioner för segmentering av instrumentpaneler gör att marknadsförare kan förstå prestandan bättre.
+* **Stöd för flera valutor**: Växla mellan företagsvaluta och lokal valuta med [!DNL Bizible] nya automatiska valutakonverteringsfunktioner som bygger på valutatabeller i CRM.
 * **CRM-kampanjkostnader**: Mät utgifter och avkastning för offlinemarknadsföringsaktiviteter med möjlighet att automatiskt hämta kostnadsdata från CRM-kampanjobjektet.

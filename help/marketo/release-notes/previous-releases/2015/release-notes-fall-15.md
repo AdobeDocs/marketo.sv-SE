@@ -4,9 +4,9 @@ description: Versionsinformation - hösten 2015 - Marketo Docs - produktdokument
 title: Versionsinformation - hösten 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -41,17 +41,17 @@ Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder fö
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights för [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights för  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Vi är glada över att kunna meddela att vi har släppt en uppdatering av Google Mail Sales Insight! Visa den i [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Vi är glada att kunna meddela att en uppdatering av [!DNL Google Mail] [!DNL Sales Insight]-tillägget har släppts! Visa den i [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Den här uppdateringen innehåller många nya funktioner:
 
-* Innan de engagerar kan säljarna se relevant information om sina prospects direkt i Google Mail, bland annat befattningar, twitter, företagsinformation, foton med mera.
+* Innan säljarna engagerar kan de se relevant information om sina prospects direkt i [!DNL Google Mail], inklusive jobbtitlar, twitterprofiler, företagsinformation, foton med mera.
 * Säljarna kan i realtid se vilket innehåll som presumtiva kunder interagerar med över olika kanaler, som e-post som öppnats eller klickats, online- eller personliga event som besökts, webbsidor som besökts, e-böcker som laddats ned och mycket annat.
-* E-postmeddelanden som skickas via Google Mail loggas i Marketo och spåras i realtid. På så sätt kan säljarna se när potentiella kunder tittar på sina e-postmeddelanden så att de kan följa upp vid precis rätt tidpunkt. Marketo Sales Insight för Google Mail gör det också enkelt för säljarna att utnyttja mallar som skapats av marknadsföring för att skicka vackra inbjudningar, erbjudanden och andra typer av innehåll.
+* E-postmeddelanden som skickas via [!DNL Google Mail] loggas i Marketo och spåras i realtid. På så sätt kan säljarna se när potentiella kunder tittar på sina e-postmeddelanden så att de kan följa upp vid precis rätt tidpunkt. Marketo [!DNL Sales Insight] för [!DNL Google Mail] gör det också enkelt för säljare att utnyttja mallar som skapats av marknadsföring för att skicka vackra inbjudningar, erbjudanden och andra typer av innehåll.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,11 +84,11 @@ Statistik om e-postmeddelanden som skickas via smarta kampanjer är nu tillgäng
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Innehållsanalys och Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics och rekommendationer {#rtp-content-analytics-and-recommendations}
 
-[Innehållsanalys](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) och Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) och rekommendationer
 
-RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna webbbesök och även besök som genererats av RTP:s rekommendationsmotor.
+RTP Content Analytics visar hur ert webbmaterial fungerar vid regelbundna webbbesök och även vid besök som genererats av RTP:s rekommendationsmotor.
 
 * Se vilket innehåll som fungerar bäst och ger de bästa leads
 * Öka er innehållskonsumtion genom att göra det möjligt för RTP:s motor för prediktivt innehåll att automatiskt rekommendera det bästa innehållet till rätt besökare
@@ -96,8 +96,8 @@ RTP Content Analytics visar hur ert webbinnehåll fungerar genom regelbundna web
 
 RTP:s Assets-sida är nu uppdelad i Content Analytics och Content Recommendations.
 
-* **Innehållsanalys:** Visar vyer och direkta leads för allt identifierat och definierat webbinnehåll, vilket hjälper dig att analysera ditt bästa innehåll
-* **Innehåll i Recommendations**: Visar avbildningar och klickningar från RTP:s rekommenderade innehåll och tillhörande leadattribuering. Du kan också redigera och aktivera innehållsrekommendationer från den här sidan för rekommendationerna [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) och [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) .
+* **Content Analytics:** Visar vyer och direkta leads för allt identifierat och definierat webbinnehåll, vilket hjälper dig att analysera ditt bästa innehåll
+* **Innehållsrekommendationer**: Visar visningar och klickningar från RTP:s rekommenderade innehåll och associerad leadattribuering. Du kan också redigera och aktivera innehållsrekommendationer från den här sidan för rekommendationerna [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) och [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) .
 
 * Alla direkta lead-data på dessa två sidor har uppdaterats retroaktivt sedan början av året (1 januari 2015).
 
@@ -127,7 +127,7 @@ Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdat
 
 * Använd inte tomma tabellceller med `&nbsp;`
 
-* Knappen Maximera/minimera som lagts till i källredigeraren i HTML
+* Knappen Maximera/minimera har lagts till i HTML källredigerare
 * Befintliga tabellegenskaper identifieras och visas nu i dialogrutan Tabellegenskaper
 * Båda knappraderna visas nu som standard.
 * Redigeraren godkänner nu alla element (även inaktuella eller icke-standardelement):
@@ -141,9 +141,9 @@ Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdat
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Verifiera synkronisering {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Verifiera synkronisering {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Verifiera synkronisering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Verifiera synkronisering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Det här nya administrationsverktyget kör en serie kontroller för att se om dina synkroniseringskonfigurationer har konfigurerats korrekt.
 
@@ -151,7 +151,7 @@ Det här nya administrationsverktyget kör en serie kontroller för att se om di
 
 ## Lägg till fält i CRM-objektsynkronisering {#add-fields-to-crm-custom-object-sync}
 
-Lägg enkelt till nya fält i anpassade objekt som synkroniserats från Salesforce och Dynamics. Nu kan du lägga till nya fält i din anpassade objektsynkronisering utan att inaktivera och aktivera hela det anpassade objektet.
+Lägg enkelt till nya fält i anpassade objekt som synkroniserats från [!DNL Salesforce] och [!DNL Dynamics]. Nu kan du lägga till nya fält i din anpassade objektsynkronisering utan att inaktivera och aktivera hela det anpassade objektet.
 
 ## Ändringar av säkerhetsfunktioner {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Lägg enkelt till nya fält i anpassade objekt som synkroniserats från Salesfor
 
 ## Stöd för IE 11 (och stöd för IE 9 tas bort) {#ie-support-and-deprecating-support-for-ie}
 
-Nu har vi officiellt stöd för webbläsaren Microsoft Internet Explorer 11 och tar bort stödet för webbläsaren Microsoft Internet Explorer 9.
+Vi har nu officiellt stöd för webbläsaren [!DNL Microsoft Internet Explorer] 11 och tar bort stödet för webbläsaren [!DNL Microsoft Internet Explorer] 9.
 
 ## Lightning UI-stöd för MSI {#lightning-ui-support-for-msi}
 
-Det senaste MSI-paketet för apputbyte fungerar med både Lightning- och äldre versioner av Salesforce-gränssnittet.
+Det senaste MSI-paketet för apputbyte fungerar med både Lightning- och äldre versioner av [!DNL Salesforce]-gränssnittet.
 
-## Nytt Dynamics-plugin {#new-dynamics-plug-in}
+## Nytt plugin-program för [!DNL Dynamics] {#new-dynamics-plug-in}
 
 Det nya plugin-programmet kör olika åtgärder i asynkront läge för att öka prestandan.
 

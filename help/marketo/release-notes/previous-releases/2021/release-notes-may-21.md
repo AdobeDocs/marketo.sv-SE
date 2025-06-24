@@ -3,9 +3,9 @@ description: Versionsinformation - maj 2021 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - maj 2021
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Följande funktioner finns i majversionen från 21. Se om det finns funktioner i
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 **_Kvartalsvisa releaser_**
 
@@ -28,7 +28,7 @@ Följande funktioner kommer att släppas **7 maj 2021**.
 
 ## Nästa generations användarupplevelse {#next-generation-user-experience}
 
-Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns en delad resurs i deras instans. Webbläsarflikarna visar platsen för att förbättra navigeringen i Marknadsföringsaktiviteter eller Design Studio. Ytterligare filter för träd och global sökning hjälper dig att förfina sökvillkoren. Dra-och-släpp-funktionen i trädet har återställts så att du kan flytta mappar och resurser snabbt och effektivt inom huvudprogramområdena. Med nya uppdaterade ikoner (som uppfyller Adobe tillgänglighetsstandarder) och statusmärken kan marknadsförarna snabbt och enkelt skilja mellan mappar och resurser i trädet och identifiera status för program och resurser.
+Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns en delad resurs i deras instans. Webbläsarflikarna visar platsen för att förbättra navigeringen i [!UICONTROL Marketing Activities] eller [!UICONTROL Design Studio]. Ytterligare filter för träd och global sökning hjälper dig att förfina sökvillkoren. Dra-och-släpp-funktionen i trädet har återställts så att du kan flytta mappar och resurser snabbt och effektivt inom huvudprogramområdena. Med nya uppdaterade ikoner (som uppfyller Adobe tillgänglighetsstandarder) och statusmärken kan marknadsförarna snabbt och enkelt skilja mellan mappar och resurser i trädet och identifiera status för program och resurser.
 
 ## Experience Automation {#experience-automation}
 
@@ -36,9 +36,9 @@ Med en global förhandsgranskning kan marknadsförarna snabbt se var det finns e
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **Känsliga datafält i Forms**: Protect-kundens PII (Personligt identifierbar information) kan inte visas i Adobe Marketo Engage-formulär genom att definiera datafält som känsliga och begränsa formulärförifyllning för dessa fält. När en besökare tittar på ett formulär på landningssidan, kommer de fält som definieras som känsliga inte att visa några förfyllda data.
+* **Känsliga datafält i Forms**: Skydda kundens personligt identifierbara information (PII) från att visas i Adobe Marketo Engage-formulär genom att definiera datafält som känsliga och begränsa formulärifyllning för dessa fält. När en besökare tittar på ett formulär på landningssidan, kommer de fält som definieras som känsliga inte att visa några förfyllda data.
 
-* **Blockera inskickning av skräppostformulär**: Protect din Adobe Marketo Engage-databas från skräppostdata som kan orsaka ogiltiga aviseringar, utlösa kampanjeftersläpningar och skapa oönskade aktiviteter. Den nya valideringsfunktionen avvisar ogiltiga formulärinskickningar och stoppar robotattacker. Era data är renare och era marknadsföringskampanjer fungerar som de ska, vilket minimerar risken för att skicka okvalificerade leads till försäljning.
+* **Blockera inskickning av skräppostformulär**: Skydda din Adobe Marketo Engage-databas från skräppostdata som kan orsaka ogiltiga aviseringar, utlösa kampanjeftersläpningar och skapa oönskade aktiviteter. Den nya valideringsfunktionen avvisar ogiltiga formulärinskickningar och stoppar robotattacker. Era data är renare och era marknadsföringskampanjer fungerar som de ska, vilket minimerar risken för att skicka okvalificerade leads till försäljning.
 
 * **Varning om godkännande av e-postprogram**: Förhindra att felaktiga e-postmeddelanden skickas när nya redigeringar görs i ett tidigare godkänt program.  Varningen fungerar som en garanti när en marknadsförare gör ändringar i ett e-postmeddelande som redan har godkänts, men sedan glömmer att godkänna de senaste ändringarna och skickar e-postmeddelandet till en stor publik utan innehåll, dåligt innehåll eller gammalt innehåll.
 
@@ -60,11 +60,11 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 * **API för extrahering av gruppaktivitet**: Få kontroll över datamängd och datatyp när du utför massextraheringar. Filtrera bort onödiga datapunkter och kontrollera antalet API-anrop som krävs för att extrahera aktivitetsdata i grupp.  Du kan till exempel välja öppna e-postmeddelanden, besöka en webbsida eller ändra ledspår och låta andra värdeförändringar som du inte vill analysera ligga bakom. Effektivisera processen för att minska antalet API-anrop och datarensning.
 
-* **Lead-API**: Identifiera leads i Adobe Marketo Engage som är associerade med Adobe ECID (Experience Cloud-ID).  Adobe Marketo Engage-kunder kan skapa en lista med leads från en viss kampanj och använda ECID:n (Experience Cloud-ID) för att skapa rapporter i Adobe Analytics för den specifika listan. Integrationen mellan Adobe Marketo Engage och Adobe Experience Cloud ger obegränsade möjligheter till segmentering, målinriktning och rapportering.
+* **Lead-API**: Identifiera leads i Adobe Marketo Engage som är associerade med ett Adobe ECID (Experience Cloud-ID).  Adobe Marketo Engage-kunder kan skapa en lista med leads från en viss kampanj och använda ECID:n (Experience Cloud-ID) för att skapa rapporter i Adobe Analytics för den specifika listan. Integrationen mellan Adobe Marketo Engage och Adobe Experience Cloud ger obegränsade möjligheter till segmentering, målinriktning och rapportering.
 
 * **API för masslead-import**: Kontrollera masslead-import och resurser som krävs. Den här förbättringen skapar en koppling mellan lead och företag under bulkimporten. Öka effektiviteten och arbeta med data och minska användningen om API anropar.
 
-* **Webb-API-baserad integrering för Microsoft Dynamics Online-kunder**: MS Dynamics Web API introducerades med version 8.0 REST-protokoll och implementerar OData (Open Data Protocol) v4. OData är en OASIS-standard (Organization for the Advanced of Structured Information Standards) för att bygga upp och använda RESTful-tjänster framför omfattande data. Adobe Marketo Engage-kunder som behöver integreras med Microsoft Dynamics med den här metoden migreras för närvarande till en webb-API-baserad anslutning från SOAP (Simple Object Access Protocol).
+* **Webb-API-baserad integrering för [!DNL Microsoft Dynamics Online] kunder**: [!DNL MS Dynamics] Webb-API introducerades med version 8.0 REST-protokoll och implementerar OData (Open Data Protocol) v4. OData är en OASIS-standard (Organization for the Advanced of Structured Information Standards) för att bygga upp och använda RESTful-tjänster framför omfattande data. Adobe Marketo Engage-kunder som behöver integreras med [!DNL Microsoft Dynamics] med den här metoden migreras för närvarande till en webb-API-baserad anslutning från SOAP (Simple Object Access Protocol).
 
 ## Marknadsföringsdatamiljö {#marketing-data-environment}
 
@@ -76,13 +76,13 @@ Flera viktiga uppdateringar av API:er för Bulk och Lead, bland annat möjlighet
 
 ![](assets/yellow-star.png)
 
-* **Integrering med LinkedIn Lead Gen Forms (Beta)**: Få djupgående insyn i LinkedIn-kanalernas utgifter och avkastning med Bizible Premium-attribueringslösningen. Genom den senaste integreringen med LinkedIn Lead Gen Forms får Bizible insikt i de blanketter som har skickats in inom LinkedIn. Dessa formulärfyllningar matchas mot leads från din CRM-instans (Customer Relationship Management) eller Adobe Marketo Engage-instans så att de är berättigade till attribuering och kan spåras mot dina övriga marknadsföringsåtaganden.
+* **Integrering med [!DNL LinkedIn] Lead Gen Forms (Beta)**: Få djupgående insyn i era [!DNL LinkedIn] kanalutgifter och avkastning med Bizible Premium-attribueringslösningen. Genom den senaste integreringen med Lead Gen Forms från [!DNL LinkedIn] får Bizible insikt i formulär som har skickats in inom [!DNL LinkedIn] -plattformen. Dessa formulärfyllningar matchas mot leads från din CRM-instans (Customer Relationship Management) eller Adobe Marketo Engage-instans så att de är berättigade till attribuering och kan spåras mot dina övriga marknadsföringsåtaganden.
 
 ## Meddelanden {#announcements}
 
-* **Marketo Product Docs Switching Platforms**: Vi är glada över att kunna meddela att Marketo Product Docs har anslutit till Adobe Experience League fr.o.m. fredag 7 maj. Du kan fortfarande använda URL:en: docs.marketo.com. Om du har befintliga artiklar som är bokmärkta kommer du att omdirigeras. Alla produktdokument är tillgängliga på den nya plattformen, med förbättringar som planeras för senare i år.
+* **Marketo Product Docs Switching Platforms**: Vi är glada över att kunna meddela att Marketo Product Docs har gått med i Adobe Experience League fr.o.m. fredag 7 maj. Du kan fortfarande använda URL:en: docs.marketo.com. Om du har befintliga artiklar som är bokmärkta kommer du att omdirigeras. Alla produktdokument är tillgängliga på den nya plattformen, med förbättringar som planeras för senare i år.
 
-* **Effektiv användaradministration och enkel inloggning via Adobe Identity System**: Från och med juli 2021 kommer de nya Adobe Marketo Engage-kunderna att registreras med användaruppgifter för Adobe. Migrering av befintliga kunder till det integrerade identitetssystemet kommer inte att ske förrän i mitten av 2022 och inga kundåtgärder krävs förrän ytterligare varningar om detta. Med enkel inloggning kan IT-/säkerhetsadministratörer hantera flera Adobe Marketo Engage-produktinstanser tillsammans med andra Experience Cloud-lösningar samt konfigurera enkel inloggning (Shared Services Organization) via en gemensam konsol. Administratörer kan enkelt hantera användargrupper och användarrättigheter via en gemensam Admin Console.
+* **Effektiv användaradministration och enkel inloggning via Adobe Identity System**: Från och med juli 2021 kommer de nya Adobe Marketo Engage-kunderna att registreras med Adobe användaruppgifter. Migrering av befintliga kunder till det integrerade identitetssystemet kommer inte att ske förrän i mitten av 2022 och inga kundåtgärder krävs förrän ytterligare varningar om detta. Med enkel inloggning kan IT-/säkerhetsadministratörer hantera flera Adobe Marketo Engage-produktinstanser tillsammans med andra Experience Cloud-lösningar samt konfigurera enkel inloggning (Shared Services Organization) via en gemensam konsol. Administratörer kan enkelt hantera användargrupper och användarrättigheter via en gemensam Admin Console.
 
 **_Webbseminarium om produktreleaser_**
 

@@ -4,16 +4,16 @@ description: Versionsinformation -januari 2013 - Marketo Docs - produktdokumenta
 title: Versionsinformation - januari 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # Versionsinformation: januari 2013 {#release-notes-january}
 
-Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan användare av Marketo Lead Management ange inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med en &#42; endast är tillgängliga i Select Edition.
+Januariversionen utökar vårt sociala erbjudande med **Referenserbjudanden**. Dessutom kan [!DNL Marketo Lead Management]-användare ange sina inställningar för tidszon, språk och språkområde. Observera att funktioner som är markerade med en &#42; endast är tillgängliga i Select Edition.
 
 ## Referenserbjudanden {#referral-offers}
 
@@ -29,7 +29,7 @@ Du kan ändra standardtidszonen för ditt personliga Marketo-konto. Även om sta
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Välj Marketo Lead Management Language {#select-your-marketo-lead-management-language}
+## Välj ditt [!DNL Marketo Lead Management]-språk {#select-your-marketo-lead-management-language}
 
 Du kan ändra standardspråk för ditt Marketo-användarkonto. Även om standardinställningen för prenumerationen är på engelska kan du ändra den till tyska eller franska för egen användning.
 
@@ -45,9 +45,9 @@ Ett exempel på ett franskt formulär:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Välj försäljningsinsiktspråk (endast Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Välj [!DNL Sales Insight]-språk ([!DNL Salesforce] endast) {#select-your-sales-insight-language-salesforce-only}
 
-Om du har angett språkinställningen för Salesforce till antingen franska eller tyska kommer Marketo Sales Insight att respektera den här inställningen. Hämta det senaste MSI-paketet för att få tillgång till den här funktionen (tillgänglig veckan efter 14 januari).
+Om språkinställningen [!DNL Salesforce] är inställd på franska eller tyska kommer Marketo [!DNL Sales Insight] att iaktta den här inställningen. Hämta det senaste MSI-paketet för att få tillgång till den här funktionen (tillgänglig veckan efter 14 januari).
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ Fältvisningsnamn kan visa text på olika språk (t.ex. tecken med flera byte st
 
 ## Ändra programdata {#change-program-data}
 
-I steget Ändra programdataflöde kan du ändra en programmedlems status Slutfört och Slutfört-datum manuellt via en kampanj. Du kan använda det här flödessteget för att korrigera ett misstag eller för att manuellt ändra en medlem som inte har deltagit i programmet som det är tänkt.
+Flödessteget [!UICONTROL Change Program Data] gör att du kan ändra [!UICONTROL Success]-status och [!UICONTROL Success Date] för en programmedlem manuellt via en kampanj. Du kan använda det här flödessteget för att korrigera ett misstag eller för att manuellt ändra en medlem som inte har deltagit i programmet som det är tänkt.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
