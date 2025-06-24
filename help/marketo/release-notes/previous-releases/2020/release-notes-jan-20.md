@@ -57,7 +57,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildredigering](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Få åtkomst till Adobe redigeringsfunktioner utan att behöva lämna Marketo Engage. Med den här nya funktionen kan du enkelt förbättra, beskära och lägga till text i bilder direkt i [!UICONTROL Design Studio].
+* [Bildredigering](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=sv-SE#design-studio): Få åtkomst till Adobe redigeringsfunktioner utan att behöva lämna Marketo Engage. Med den här nya funktionen kan du enkelt förbättra, beskära och lägga till text i bilder direkt i [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 

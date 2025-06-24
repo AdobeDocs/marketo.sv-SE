@@ -65,7 +65,7 @@ Tre nya anrop till lead- och aktivitetsREST API:
 
 ・ Lägg samman lead
 
-Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] Kompatibilitetsförbättringar {#munchkin-javascript-compatibility-enhancements}
 

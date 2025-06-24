@@ -47,7 +47,7 @@ Förutom den marknadsföringskalender som du hanterar dina evenemang och standar
 
 ## Visa åtgärder i REST API {#list-operations-in-the-rest-api}
 
-Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Vi har lagt till anropen nedan som rör liståtgärder i ReST. Den fullständiga dokumentationen finns på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
 
 * Hämta lista efter ID
 * Hämta flera listor
@@ -78,7 +78,7 @@ RTP Set Campaign-sidan [innehåller nu färdiga mallar](/help/marketo/product-do
 
 ## RTP: Förbättringar i JavaScript API {#rtp-javascript-api-enhancements}
 
-Nytt RTP API-anrop för att få besöksdata i realtid, t.ex. organisation, bransch, plats och segmentkodmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig dokumentation.
+Nytt RTP API-anrop för att få besöksdata i realtid, t.ex. organisation, bransch, plats och segmentkodmatchning. Om du håller markören över ett segmentnamn på segmentsidan visas dessutom ett verktygstips som visar segmentkoden. Se vår [utvecklarwebbplats](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) för fullständig dokumentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
