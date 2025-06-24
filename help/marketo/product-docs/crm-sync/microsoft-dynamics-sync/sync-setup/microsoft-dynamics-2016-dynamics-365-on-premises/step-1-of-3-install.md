@@ -3,7 +3,7 @@ description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Pre
 title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
 >[!PREREQUISITES]
 >
->Om du använder Microsoft Dynamics On-Premise måste du ha konfigurerat [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Om du använder Microsoft Dynamics On-Premise måste du ha konfigurerat [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
 >[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du startar.
 
@@ -58,7 +58,7 @@ Innan du kan synkronisera Microsoft Dynamics 2016 On-Prem/Dynamics 365 med Marke
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. Kontrollera att kryssrutan för SDK-alternativet är markerad. Klicka på **[!UICONTROL Import]**.
+1. Kontrollera att kryssrutan för alternativet SDK är markerad. Klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-19-9-19-12.png)
 

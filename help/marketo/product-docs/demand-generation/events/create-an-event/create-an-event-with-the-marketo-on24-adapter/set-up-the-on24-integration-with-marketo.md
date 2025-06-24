@@ -3,9 +3,9 @@ description: Konfigurera ON24-integrering med Marketo - Marketo Docs - produktdo
 title: Konfigurera ON24-integreringen med Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -84,4 +84,4 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Navigera med ditt sparade klient-ID, klienthemlighet och identitet till ditt ON24-konto. Resten av stegen utförs där och [beskrivs här](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Navigera med ditt sparade klient-ID, klienthemlighet och identitet till ditt ON24-konto. Resten av stegen utförs där och finns i [ON24-dokumentationen](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}.

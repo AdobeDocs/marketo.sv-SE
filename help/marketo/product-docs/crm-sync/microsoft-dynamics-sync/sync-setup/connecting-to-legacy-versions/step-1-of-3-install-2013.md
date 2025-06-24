@@ -4,7 +4,7 @@ description: Steg 1 av 3 - Installera Marketo Solution i Dynamics (2013 On-Premi
 title: Steg 1 av 3 - Installera Marketo Solution i Dynamics (On-Premises 2013)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
 >[!PREREQUISITES]
 >
->Du måste ha konfigurerat [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 eller 3.0 (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Du måste ha [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 eller 3.0 (ADFS) konfigurerat. Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
 >[Ladda ned Marketo-lösningen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du börjar.
 

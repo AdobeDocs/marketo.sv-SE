@@ -4,9 +4,9 @@ description: Versionsinformation - oktober 2013 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Följande funktioner ingår i oktober 2013-versionen.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK finns också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK finns också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## [!DNL BrightTALK]-händelseadaptern har uppdaterats {#updated-brighttalk-event-adapter}
 
@@ -29,4 +29,4 @@ Synkronisera ytterligare fält från [!DNL BrightTALK] till Marketo, inklusive f
 
 ## Incheckningsprogram för Android Tablet Event {#android-tablet-event-check-in-app}
 
-Kolla in de som är registrerade i ditt event med vår nya [Android-baserade incheckningsapp](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) som är tillgänglig på [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).
+Se vilka som är med i ditt event med vår nya Android-baserade incheckningsapp som finns på Google Play.

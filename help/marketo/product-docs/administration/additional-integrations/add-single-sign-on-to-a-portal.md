@@ -4,7 +4,7 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -25,11 +25,11 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer som är registrerade för Adobe Identity. För prenumerationer som är kopplade till Adobe Identity, ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Är du en [!DNL Microsoft Azure]-användare? Kolla in deras [integreringsinsats](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Det finns ett stavfel i steg 5c i självstudiekursen. Ange relästatus till `https://<munchkinid>.mktoweb.com`, **_inte_** `https://<munchkinid>.marketo.com`.
+>Är du en [!DNL Microsoft Azure]-användare? Kolla in deras [integreringsinsats](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Det finns ett stavfel i steg 5c i självstudiekursen. Ange relästatus till `https://<munchkinid>.mktoweb.com`, **_inte_** `https://<munchkinid>.marketo.com`.
 
 ## Skicka förfrågan {#how-to-send-the-request}
 

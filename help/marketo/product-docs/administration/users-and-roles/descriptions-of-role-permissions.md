@@ -4,9 +4,9 @@ description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokument
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 
 * Åtkomst till Adobe Connect - Ger användare åtkomst till Adobe Connect
 * Åtkomst till Adobe Experience Manager&#42; - Ger användare åtkomst till Adobe Experience Manager-skärmen
-* Åtkomst till organisationsmappning från Adobe &#42; - Ger användare åtkomst till Adobe-skärmen Organisationsmappning
+* Åtkomst till Adobe organisationsmappning&#42; - Ger användare åtkomst till Adobe organisationsmappningsskärm
 * Åtkomst till administratörsgranskningsspår &#42; - Ger användare åtkomst till skärmen Admin Audit Trail (Granskningsspår)
 * Åtkomst till granskningsspår &#42; - Ger användare åtkomst till granskningsspår
 * Åtkomst till granskningsspår - Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår
@@ -41,10 +41,10 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
 * Kommunikationsgräns för åtkomst - Ger användarna åtkomst för att aktivera en kommunikationsgräns i Admin
 * Access CRM - Ger användare åtkomst till CRM, till exempel [!DNL Salesforce] eller [!DNL Microsoft Dynamics], i Admin
-* Åtkomst [[!DNL Data.com]](https://data.com) - Ger användare åtkomst till Data.com.
+* Åtkomst `Data.com` - Ger användarna åtkomst till Data.com.
 * Åtkomst till e-postadministratör - Ger användarna åtkomst till e-postadministratören för att ändra standardinställningar, till exempel domäner för att avbryta prenumerationen och varumärken
 * Åtkomst till händelsepartners - Ger användarna åtkomst till LaunchPoint i Admin
-* Access Experience Cloud Audience Sharing - Ger användare åtkomst att synkronisera en målgrupp från Adobe Experience Cloud till Marketo Engage
+* Åtkomst till Experience Cloud Audience Sharing - Ger användare åtkomst till synkronisering av en målgrupp från Adobe Experience Cloud till Marketo Engage
 * Fälthantering för åtkomst - ger användarna åtkomst till fälthantering i Admin
 * Access File Upload - Ger användarna möjlighet att överföra bilder och filer till Design Studio
 * Åtkomst till landningssidor - ger användarna åtkomst till landningssidor i administratören
@@ -61,7 +61,7 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Access Sales Insight - Ger användare åtkomst till att hantera Sales Insight i Admin för att ange status, API-konfiguration, personbedömning och andra inställningar
 * Åtkomst till enkel inloggning - Ger användarna åtkomst till att hantera enkel inloggning i Admin, för att aktivera SAML och arbeta med SAML-inställningar och URL:er för omdirigeringssida
 * Access Smart Campaign - Ger användarna tillgång till Smart Campaign i Admin, för att begränsa begränsningarna för kvalificerade personer
-* Åtkomst SOAP API - ger användarna åtkomst till att hantera SOAP API:er i Web Services i Admin
+* Åtkomst till SOAP API - ger användare åtkomst till hantering av SOAP API:er i webbtjänster i Admin
 * Åtkomsttaggar - Ger användarna åtkomst till alla anpassade taggar utom kanaltaggen
 * Access Treasure Chest - Ger användarna tillgång till de experimentella funktionerna i Resurs Chest i Admin
 * Åtkomstanvändare - Ger användare åtkomst till att redigera och hantera användare (men inte roller) i Admin
@@ -108,11 +108,11 @@ Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och 
 
 _&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
-## Öppna Kalender för Presentations {#access-calendar-presentations}
+## Öppna kalenderpresentationer {#access-calendar-presentations}
 
-Ger användare åtkomst till kalenderpresentationer - aktiverar visning av Presentations-knappen längst ned.
+Ger användarna tillgång till kalenderpresentationer - aktiverar visning av knappen Presentationer längst ned.
 
-* Redigera kalender i Presentations - Gör att användare kan redigera presentationer i kalendern
+* Redigera kalenderpresentationer - Gör det möjligt för användare att redigera presentationer i kalendern
 
 ## Access Design Studio {#access-design-studio}
 

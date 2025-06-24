@@ -4,7 +4,7 @@ description: Skapa underordnade kampanjer och lokala Assets - Marketo Docs - pro
 title: Skapa underordnade kampanjer och lokala Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -50,7 +50,7 @@ Använd Marketo för att skicka ut bekräftelsemeddelandet för ditt event. När
 
 >[!TIP]
 >
->Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Mer information finns på [ON24-hjälpwebbplatsen](https://www.on24.com/live-webcast-elite/){target="_blank"}.
+>Du kan konfigurera ON24 för att skicka ut bekräftelser, påminnelser eller uppföljningsmeddelanden. Mer information finns på [ON24-hjälpwebbplatsen](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}.
 
 ## Krav för registrering av underordnad kampanj {#registration-child-campaign-requirements}
 

@@ -2,7 +2,7 @@
 description: Integritetshantering - Marketo Docs - produktdokumentation
 title: Integritetshantering
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -11,29 +11,29 @@ ht-degree: 0%
 
 # Integritetshantering {#privacy-management}
 
-Marketo Engage har en uppsättning verktyg som hjälper dig att följa sekretesslagstiftningen.
+Marketo Engage erbjuder en uppsättning verktyg som hjälper dig att följa sekretesslagstiftningen.
 
 >[!NOTE]
 >
->Begäran om sekretess som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast för följande:
+>Begäran om sekretess som skickas via Privacy Service användargränssnitt eller API för Marketo Engage gäller endast för följande:
 >
->* Marketo Engage som har anslutit sig till Adobe Identity Management System
+>* Användare av Marketo Engage som har anslutit sig till Adobe Identity Management System
 >
 >**-or-**
 >
->* Marketo Engage-användare som använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
+>* Marketo Engage-användare använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
 
 ## Bestämmelser om integritetshantering {#regulations-on-privacy-management}
 
-Marketo Engage hjälper dig att följa följande regler:
+Marketo Engage funktioner hjälper dig att följa följande regler:
 
 * **[!DNL GDPR]** [Den allmänna dataskyddsförordningen](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) är EU:s integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för EU-länder.
-* **[!DNL CCPA]** [Kaliforniens lag om konsumentsekretess](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;kapitel=&amp;artikel=) ger personer bosatta i Kalifornien rätt att få tillgång till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
+* **[!DNL CCPA]** [Kaliforniens lag om konsumentsekretess](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&kapitel=&artikel=) ger personer bosatta i Kalifornien rätt att få tillgång till sina personuppgifter och ålägger dataskyddsansvar för vissa enheter som bedriver verksamhet i Kalifornien.
 * **[!DNL PDPA]** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Thailand.
 * **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) från och med början av 2021 för alla företag som samlar in eller behandlar personuppgifter i Brasilien.
-* **[!DNL NZPA]** [Integritetslag 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Nya Zeeland.
+* **[!DNL NZPA]** [Integritetslag 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) är den integritetslagstiftning som harmoniserar och moderniserar dataskyddskraven för Nya Zeeland.
 
-Alla de ovannämnda förordningarna gäller för Marketo Engage-kunder som innehar uppgifter för registrerade personer som bor i de respektive regionerna eller länderna ovan (EU, Kalifornien, Thailand, Brasilien, Nya Zeeland).
+Alla de ovannämnda förordningarna gäller för Marketo Engage-kunder som innehar uppgifter för registrerade personer som bor i de respektive regioner eller länder som nämns ovan (EU, Kalifornien, Thailand, Brasilien, Nya Zeeland).
 
 ## Rätt till åtkomst och rätt att glömma {#right-to-access-and-right-to-be-forgotten}
 

@@ -4,7 +4,7 @@ description: Spåra anonym aktivitet och människor - Marketo Docs - produktdoku
 title: Spåra anonym aktivitet och människor
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Spåra anonym aktivitet och människor {#tracking-anonymous-activity-and-people}
 
-Första gången någon besöker en [landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) i Marketo (eller en sida på din webbplats som har [Munchkins spårningskod](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)) skapar Marketo en _anonym aktivitet_ och använder en webbläsarcookie för att spåra den. När besökaren identifieras blir den en person och historiken som är kopplad till webbläsarens cookie sammanfogas.
+Första gången någon besöker en [landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) för Marketo (eller en sida på din webbplats som har [Munchkin spårningskod](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)) skapar Marketo en _anonym aktivitet_ och använder en webbläsarcookie för att spåra den. När besökaren identifieras blir den en person och historiken som är kopplad till webbläsarens cookie sammanfogas.
 
 1. En anonym aktivitet skapas när någon:
 
    * Besök Marketo [landningssida](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) första gången.
-   * Besöker en sida på webbplatsen som har [Munchkin-spårning](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+   * Besöker en sida på webbplatsen som har [Munchkin tracking](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
    * Klicka på länken [Visa som webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) i ett Marketo-e-postmeddelande.
 
    >[!NOTE]
@@ -29,7 +29,7 @@ Första gången någon besöker en [landningssida](/help/marketo/product-docs/de
 
    * Klicka på en [länk i ett Marketo-mejl](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Fyller i ett [formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) från Marketo.
-   * Använder Marketo [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
+   * Använder Marketo [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
 
    Ett namn i databasen kan vara knutet till många cookies eftersom användare ofta använder olika enheter och webbläsare för att besöka webbplatsen.
 
