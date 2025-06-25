@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695874
-description: "Anslut [!DNL BrightTALK] till Marketo - Marketo Docs - produktdokumentation"
-title: "Anslut [!DNL BrightTALK] till Marketo"
+description: Anslut [!DNL BrightTALK] till Marketo - Marketo Docs - produktdokumentation
+title: Anslut [!DNL BrightTALK] till Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -79,4 +79,4 @@ Lär dig hur du ansluter din [!DNL BrightTALK]-kanal till din Marketo-instans. F
 
 1. Gå tillbaka till konfigurationsskärmen för [!DNL BrightTALK]-anslutningen från steg 3 och ange de autentiseringsuppgifter som du sparade från steg 12 och 14.
 
-När autentiseringsuppgifterna har autentiserats har du anslutit [!DNL BrightTALK] officiellt till Marketo. Nästa steg är att ta reda på [vilka datafält du vill synkronisera](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.
+När autentiseringsuppgifterna har autentiserats har du anslutit [!DNL BrightTALK] officiellt till Marketo. Nästa steg är att avgöra vilka datafält du vill synkronisera. Om du behöver hjälp med det kontaktar du supporten på [BrightTALK](https://www.brighttalk.com/){target="_blank"}.

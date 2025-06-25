@@ -2,33 +2,33 @@
 description: Sekretessförfrågningar - Marketo Docs - produktdokumentation
 title: Sekretessförfrågningar
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
 # Sekretessförfrågningar {#privacy-requests}
 
-I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyddsförfrågningar som du kan skicka till Marketo Engage via Privacy Servicens gränssnitt och Privacy Servicens API.
+I det här dokumentet finns en översikt över hur du hanterar enskilda dataskyddsförfrågningar som du kan skicka till Marketo Engage via Privacy Service-gränssnittet och Privacy Service-API:t.
 
 >[!NOTE]
 >
->Begäran om sekretess som skickas via Privacy Servicens gränssnitt eller API för Marketo Engage gäller endast för följande:
+>Begäran om sekretess som skickas via Privacy Service användargränssnitt eller API för Marketo Engage gäller endast för följande:
 >
->* Marketo Engage som har anslutit sig till Adobe Identity Management System
+>* Användare av Marketo Engage som har anslutit sig till Adobe Identity Management System
 >
 >**-or-**
 >
->* Marketo Engage-användare som använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
+>* Marketo Engage-användare använder en annan Experience Cloud-produkt som redan finns i Adobe Identity Management System (t.ex. RT-CDP, B2B och B2P Editions, Audience Manager).
 
 Du kan skicka enskilda förfrågningar om åtkomst till och radering av konsumentdata från Marketo Engage på två sätt:
 
-* Genom användargränssnittet [&#128279;](https://privacyui.cloud.adobe.io/) för Privacy Servicen. Se dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=sv-SE){target="_blank"}.
-* Via Privacy Services-API:t. Se dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} och API-information [här](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via Privacy Service-gränssnittet: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Se dokumentationen [här](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Genom Privacy Service API. Se dokumentationen [här](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} och API-information [här](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=sv-SE){target="_blank"} har stöd för två typer av förfrågningar: dataåtkomst och borttagning av data.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} har stöd för två typer av förfrågningar: dataåtkomst och borttagning av data.
 
 Låt oss se hur du kan skapa förfrågningar om åtkomst och borttagning.
 
@@ -41,11 +41,11 @@ Om du vill göra en begäran om åtkomst- och borttagningsdata för Marketo Enga
    a. IMS-organisations-ID <br/>
 b. E-postadress till den person du vill agera på
 
-   Ett IMS-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med @AdobeOrg. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations IMS-organisation kan du kontakta Adobe kundtjänst på `gdprsupport@adobe.com`. Du behöver IMS-organisations-ID för att kunna skicka begäranden till sekretess-API:t.
+   Ett IMS-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med @AdobeOrg. Om marknadsföringsteamet eller den interna systemadministratören i Adobe inte känner till din organisations IMS-organisation kontaktar du Adobe kundtjänst på `gdprsupport@adobe.com`. Du behöver IMS-organisations-ID för att kunna skicka begäranden till sekretess-API:t.
 
 1. I Privacy Service kan du skicka in begäranden om åtkomst och borttagning till Marketo Engage och kontrollera status för befintliga begäranden.
 
-## Obligatoriska fältvärden i JSON-begäranden i Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
+## Obligatoriska fältvärden i Marketo Engage JSON-begäranden {#required-field-values-in-marketo-engage-json-requests}
 
 &quot;companyContext&quot;:
 
@@ -62,7 +62,7 @@ användare:
 
 include:
 
-* **marketo** (som är Adobe som gäller för begäran)
+* **marketo** (som är den Adobe-produkt som gäller för begäran)
 
 reglering:
 
