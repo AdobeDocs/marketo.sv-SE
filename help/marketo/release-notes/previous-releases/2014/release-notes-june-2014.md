@@ -35,7 +35,7 @@ När du skickar ett test-e-postmeddelande från [!DNL Sales Insight] går det in
 
 ## Lead REST API {#lead-rest-api}
 
-Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. Om du vill komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) för mer information om hur du använder API:t.
+Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. Om du vill komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api) för mer information om hur du använder API:t.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns - uppdatering {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
