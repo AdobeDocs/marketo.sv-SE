@@ -4,7 +4,7 @@ description: Ändra formulärteckensnittsfamiljen - Marketo Docs - produktdokume
 title: Ändra teckensnittsfamilj för formulär
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Google Fonts är fantastiska och vi har byggt in dem direkt i formulärredigerar
 
    >[!TIP]
    >
-   >En hög med [Google-teckensnitt](https://www.google.com/fonts) är tillgängliga för användning.
+   >En hög med [Google-teckensnitt](https://fonts.google.com/){target="_blank"} är tillgängliga för användning.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 

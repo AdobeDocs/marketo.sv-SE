@@ -3,7 +3,7 @@ description: Help Center - Marketo Engage Docs - produktdokumentation
 title: Hjälpcenter
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Hjälpcenter {#help-center}
 
-Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) kan du få tillgång till användbara genomgångar i produkter ordnade efter erfarenhetsnivå.
+Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) kan du få tillgång till hjälpsamma produktgenomgångar ordnade efter erfarenhetsnivå.
 
 ## Åtkomst {#how-to-access}
 
@@ -20,9 +20,9 @@ Det finns två olika upplevelser beroende på om din prenumeration har migrerats
 
 ### Migrering före Adobe IMS {#pre-adobe-ims-integration}
 
-De här stegen gäller för Marketo Engage-användare som _inte_ har migrerats till [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) än.
+De här stegen gäller för Marketo Engage-användare som _inte_ har migrerats till [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} än.
 
-[Logga in](http://login.marketo.com/) i Marketo Engage och klicka på hjälpikonen.
+[Logga in](https://login.marketo.com/){target="_blank"} på Marketo Engage och klicka på hjälpikonen.
 
 ![](assets/help-center-1.png)
 
@@ -54,7 +54,7 @@ Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
 #### Nyheter {#whats-new}
 
-Fliken Nyheter innehåller information om den senaste utgåvan av Marketo Engage.
+Fliken Nyheter innehåller information om Marketo Engage senaste utgåva.
 
 ![](assets/help-center-7.png)
 
@@ -64,15 +64,15 @@ Fliken Nyheter innehåller information om den senaste utgåvan av Marketo Engage
 
 #### Resurser {#resources}
 
-På fliken Resurser får du snabb och direkt åtkomst till olika sätt att få ytterligare hjälp med instansen Marketo Engage.
+På fliken Resurser får du snabb och direkt tillgång till olika sätt att få hjälp med din Marketo Engage-instans.
 
 ![](assets/help-center-8.png)
 
 ### Migrering efter Adobe IMS {#post-adobe-ims-integration}
 
-De här stegen gäller för Marketo Engage-användare som redan har migrerats till [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+De här stegen gäller för Marketo Engage-användare som redan har migrerats till [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Logga in](https://experience.adobe.com/) i Marketo Engage och klicka på hjälpikonen.
+[Logga in](https://experience.adobe.com/){target="_blank"} på Marketo Engage och klicka på hjälpikonen.
 
 ![](assets/help-center-9.png)
 
@@ -88,6 +88,6 @@ I Guide Center finns två flikar: Stödlinjer och Nyheter. Guiderna fungerar som
 
 ![](assets/help-center-12.png)
 
-Fliken Nyheter innehåller information om den senaste utgåvan av Marketo Engage.
+Fliken Nyheter innehåller information om Marketo Engage senaste utgåva.
 
 ![](assets/help-center-13.png)
