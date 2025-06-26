@@ -35,7 +35,7 @@ Vi har omarbetat logiken för live-chattroutning i Dynamic Chat för att säkers
 
 * **Routningsregelspecifikt beteende**
 
-_**Kontoroutning**_
+_&#x200B;**Kontoroutning**&#x200B;_
 
 Om en besökares e-postdomän mappar till ett känt konto prioriteras alltid den mappade agenten.
 
@@ -53,7 +53,7 @@ Fallar tillbaka till ett standardmeddelande (värsta fall).
 
 Routningsregeln på kortnivå (t.ex. Team, Custom) beaktas endast om Kontoroutning inte är giltig (ingen matchande domän eller agent).
 
-_**Anpassad routning/teamroutning**_
+_&#x200B;**Anpassad routning/teamroutning**&#x200B;_
 
 Dessa regler kan returnera flera berättigade agenter.
 
@@ -67,7 +67,7 @@ Systemet visar den första provade agentens kalender (om aktiverad), eller
 
 Visar standardfelmeddelandet.
 
-_**Round Robin Routing**_
+_&#x200B;**Round Robin Routing**&#x200B;_
 
 När det används som en primär routningsregel:
 
