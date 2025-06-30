@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: d646dbb2eeeb7ec6e1dbeb30d1fa02aa380a794c
+source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Vi har omarbetat logiken för live-chattroutning i Dynamic Chat för att säkers
 
 * **Routningsregelspecifikt beteende**
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 Om en besökares e-postdomän mappar till ett känt konto prioriteras alltid den mappade agenten.
 
@@ -54,7 +54,7 @@ Om agenten inte är tillgänglig:
 
 Routningsregeln på kortnivå (t.ex. Team, Custom) beaktas endast om Kontoroutning inte är giltig (ingen matchande domän eller agent).
 
-_&#x200B;**Anpassad routning/teamroutning**&#x200B;_
+_**Anpassad routning/teamroutning**_
 
 Dessa regler kan returnera flera berättigade agenter.
 
@@ -68,7 +68,7 @@ Om ingen av agenterna engagerar:
 -or-
 * Visar standardfelmeddelandet.
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 När det används som en primär routningsregel:
 
@@ -78,7 +78,7 @@ När det används som en primär routningsregel:
 
 Om Round Robin används som reserv aktiveras den bara om inga agenter har lösts från den primära regeln.
 
-_&#x200B;**Upplevelseflöde för besökare**&#x200B;_
+_**Upplevelseflöde för besökare**_
 
 Systemet kontrollerar om kontodirigering är relevant.
 
@@ -102,7 +102,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 ##### Användningsfall {#use-cases}
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>
