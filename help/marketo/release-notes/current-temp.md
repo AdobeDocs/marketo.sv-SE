@@ -4,10 +4,11 @@ title: Aktuell versionsinformation
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 2%
+source-wordcount: '562'
+ht-degree: 1%
 
 ---
 
@@ -113,7 +114,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>RUBRIK</strong>: BESKRIVNING.</td> 
+   <td><strong>Skicka e-post till Designer - GenStudio-integrering</strong>: Integrera GenStudio för prestandamarknadsföring inifrån e-postmeddelanden för att förbättra marknadsföringens effektivitet och upprätthålla varumärkets enhetlighet.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -123,7 +124,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>RUBRIK</strong>: BESKRIVNING.</td> 
+   <td><strong>REST API Error Code Notification Updates</strong>: Två ytterligare klasser av REST API-fel i meddelanden i appen har lagts till: 606 - Max Rate Limit Exceeded och 607 - Daily Quota Reached.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -133,7 +134,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>RUBRIK</strong>: BESKRIVNING.</td> 
+   <td><strong>Visa standardfält för programmedlemmar i fälthantering</strong>: Nu visas både standardfält och anpassade fält för programmedlemmar i <i>fälthantering</i>.</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -143,7 +144,17 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>RUBRIK</strong>: BESKRIVNING.</td> 
+   <td><strong>REST API-namn i fälthantering</strong>: Med den här uppdateringen kan administratörer se REST API-fältnamn utan att behöva exportera listan.</td> 
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Mina token som används av lista</strong>: Visa listan över resurser som använder en Min token (upp till 50 resurser åt gången).</td> 
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -153,6 +164,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
