@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Så här tilldelar du behörigheter för varumärken:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **Spara**.
 
-1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 
@@ -246,7 +246,7 @@ Avsnittet **[!UICONTROL Writing style]** beskriver standarderna för att skriva 
 
 Så här anpassar du din **[!UICONTROL Writing Style]**:
 
-1. Klicka på **[!UICONTROL Writing Style]** på fliken ![](assets/do-not-localize/Smock_Add_18_N.svg) för att lägga till en stödlinje, ett undantag eller ett undantag.
+1. Klicka på DEN HÄR IKONEN på fliken **[!UICONTROL Writing Style]** om du vill lägga till en stödlinje, ett undantag eller ett undantag.
 
 1. Ange din riktlinje, undantag eller undantag och klicka på **[!UICONTROL Add]**.
 
