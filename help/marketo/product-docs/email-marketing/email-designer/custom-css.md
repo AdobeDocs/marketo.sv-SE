@@ -7,9 +7,9 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ När du utformar dina e-postmeddelanden kan du lägga till din egen anpassade CS
 
 Följ stegen nedan om du vill lägga till anpassad CSS i ditt e-postinnehåll.
 
-1. Se till att det finns visst innehåll definierat i e-post-Designer genom att lägga till minst en [komponent](content-components.md).
+1. Se till att det finns visst innehåll definierat i e-post-Designer genom att lägga till minst en komponent. LINK - BEHÅLL DET HÄR?
 
 1. Välj **[!UICONTROL Body]**, antingen från **[!UICONTROL Navigation tree]** till vänster eller ovanför den högra rutan. Avsnittet **[!UICONTROL CSS styles]** visas till höger.
 
