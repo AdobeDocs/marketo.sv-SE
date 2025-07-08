@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1222'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Dessa förbättringar hjälper er att spara tid, upptäcka mer värdefulla insik
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. Klicka på **[!UICONTROL Create Report]** på fliken **[!UICONTROL Reports]**.
+1. Klicka på **[!UICONTROL Reports]** på fliken **[!UICONTROL Create Report]**.
 
    ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
@@ -125,7 +125,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -254,7 +254,17 @@ Följande standardrapporter finns som exempel på dina anpassade rapporter.
 
 * Befintliga användare av Intresseutforskaren har automatiskt tillgång till den nya avancerade BI Analytics-upplevelsen.
 
-* Du kan skapa upp till 700 rapporter i Avancerad BI-analys.
+* Du kan skapa **upp till 700 rapporter** i avancerad BI-analys.
+
+  >[!NOTE]
+  >
+  >Om du har fler än 700 rapporter i Intresseutforskaren har vissa rapporter kombinerats med andra och konsoliderats via sidor i rapporten.
+  >
+  >* Om en rapport hade en e-postprenumeration kombinerades den inte.
+  >
+  >* Resten av rapporterna i _samma mapp_ kombinerades till en eller flera rapporter, per rapportområde. Om det fanns mer än fem rapporter för rapporteringsområdet, konsoliderades de i mer än en sammanslagen rapport.
+  >
+  >* Varje kombinerad rapport har högst fem sidor.
 
 * Det finns en begränsning på 1 miljon rader per fråga för en given visualisering. Om din fråga överskrider det felet får du följande fel: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Du kan åtgärda detta genom att minska datumintervallet och/eller justera filtren i rapporten för att minska antalet rader i frågeresultatet.
 
