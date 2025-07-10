@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
 
 # Lägg till anpassad CSS i e-postinnehållet {#email-metadata}
 
-När du utformar dina e-postmeddelanden kan du lägga till din egen anpassade CSS direkt i Marketo Engage Email Designer. Med den här funktionen kan du använda avancerad och specifik formatering, vilket ger större flexibilitet och kontroll över utseendet på innehållet.
+Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad och specifik formatering.
 
 ## Definiera anpassad CSS {#define-custom-css}
 
-Följ stegen nedan om du vill lägga till anpassad CSS i ditt e-postinnehåll.
+1. Se till att det finns visst innehåll definierat i e-post-Designer genom att lägga till minst en komponent.
 
-1. Se till att det finns visst innehåll definierat i e-post-Designer genom att lägga till minst en komponent. LINK - BEHÅLL DET HÄR?
-
-1. Välj **[!UICONTROL Body]**, antingen från **[!UICONTROL Navigation tree]** till vänster eller ovanför den högra rutan. Avsnittet **[!UICONTROL CSS styles]** visas till höger.
+1. Välj **[!UICONTROL Body]**, antingen från **[!UICONTROL Navigation tree]** till vänster eller från den högra rutan. **[!UICONTROL CSS styles]** visas till höger.
 
    SCREENSHOT
 
    >[!NOTE]
    >
-   >Avsnittet **[!UICONTROL CSS styles]** är bara tillgängligt när det redan finns innehåll i redigeraren.
+   >Avsnittet **[!UICONTROL CSS styles]** är bara tillgängligt när det finns innehåll i redigeraren.
 
-1. Klicka på knappen **[!UICONTROL Add Custom CSS]**.
+1. Klicka på knappen **[!UICONTROL + Add custom CSS]**.
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ Följ stegen nedan om du vill lägga till anpassad CSS i ditt e-postinnehåll.
 
    >[!NOTE]
    >
-   >När du använder en [mall med låst innehåll](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) kan du inte lägga till anpassad CSS i innehållet. Knappetiketten ändras till **[!UICONTROL View custom CSS]** och all anpassad CSS som redan finns i innehållet är skrivskyddad.
+   >Du kan inte lägga till anpassad CSS i ditt innehåll när du använder en [mall med låst innehåll](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). Knappetiketten ändras till **[!UICONTROL View custom CSS]** och all anpassad CSS som visas är skrivskyddad.
 
-1. Spara din egen CSS och kontrollera att din anpassade CSS används korrekt på ditt innehåll. Om så inte är fallet kontrollerar du avsnittet [Felsökning](#troubleshooting).
+1. Spara din egen CSS och se till att den gäller för ditt innehåll. Om så inte är fallet kontrollerar du avsnittet [Felsökning](#troubleshooting).
 
    SCREENSHOT
 
-1. Om du tar bort allt innehåll försvinner avsnittet och den tidigare definierade anpassade CSS används inte längre.
+   >[!NOTE]
+   >
+   >Om du tar bort allt innehåll försvinner avsnittet och den tidigare definierade anpassade CSS används inte längre. Lägg till innehåll igen så att avsnittet **[!UICONTROL CSS styles]** visas igen. Den anpassade CSS-koden används igen.
 
-1. Lägg tillbaka innehåll i redigeraren så att avsnittet **[!UICONTROL CSS styles]** visas igen. Den anpassade CSS-koden används igen.
-
-## Kontrollera med giltig CSS {#use-valid-css}
+## Använda giltig CSS {#using-valid-css}
 
 Du kan ange valfri giltig CSS-sträng i textområdet **[!UICONTROL Add custom CSS]**. Formaterad CSS används omedelbart på innehållet.
 
 >[!CAUTION]
 >
->Användarna ansvarar för säkerheten i sina anpassade CSS. Se till att CSS inte medför sårbarheter eller konflikter med det befintliga innehållet.
+>Du ansvarar för säkerheten för din anpassade CSS. Se till att CSS inte medför sårbarheter eller konflikter med det befintliga innehållet.
 >
->Undvik att använda CSS som oavsiktligt kan bryta layouten eller funktionaliteten i innehållet.
+>Undvik att använda CSS som kan bryta innehållets layout eller funktion av misstag.
 
-+++ Exempel på CSS
++++ Exempel på giltig CSS
 
 Nedan finns exempel på giltig CSS.
 
@@ -165,7 +164,7 @@ body {
 
 ## Tekniskt genomförande {#implementation}
 
-Din anpassade CSS läggs till i slutet av avsnittet `<head>` som en del av en `<style>` -tagg med attributet `data-name="global-custom"`, som i exemplet nedan. På så sätt säkerställs att de anpassade formaten tillämpas globalt på innehållet.
+Din anpassade CSS läggs till i slutet av avsnittet `<head>` som en del av en `<style>` -tagg med attributet `data-name="global-custom"`, som i exemplet nedan. Detta garanterar att de anpassade formaten tillämpas globalt på innehållet.
 
 +++ Se exempel
 
@@ -207,23 +206,23 @@ Din anpassade CSS läggs till i slutet av avsnittet `<head>` som en del av en `<
 
 Den anpassade CSS-koden tolkas eller valideras inte av e-postfönstret för Designer **[!UICONTROL Settings]**. Den är helt oberoende och kan bara ändras med alternativet **[!UICONTROL Add Custom CSS]**.
 
-### Guardrails - importerat innehåll
+### Guardrails - importerat innehåll {#guardrails}
 
 Om du vill använda anpassad CSS med innehåll som importerats till e-post-Designer bör du tänka på följande:
 
 * Om du [importerar externt HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)-innehåll inklusive CSS, kommer det att finnas i **[!UICONTROL Compatibility mode]**, där **[!UICONTROL CSS styles]**-avsnittet inte är tillgängligt, om du inte konverterar det innehållet.
 
-* Om du importerar innehåll som skapats med e-post-Designer, inklusive CSS som tillämpats med alternativet **[!UICONTROL Add custom CSS]**, kommer den CSS som tidigare använts att vara synlig och redigerbar från samma alternativ.
+* Om du importerar innehåll som har skapats med e-post-Designer innehåller CSS som har tillämpats med alternativet **[!UICONTROL Add custom CSS]**, visas den CSS som tidigare har tillämpats och kan redigeras med samma alternativ.
 
 ## Felsökning {#troubleshooting}
 
-Om din anpassade CSS inte används bör du överväga alternativen nedan.
+Om din anpassade CSS inte används provar du med förslagen nedan.
 
-* Kontrollera att CSS-koden är giltig och fri från syntaxfel (t.ex. saknade klamrar, felaktiga egenskapsnamn). [Lär dig hur](#use-valid-css)
+* Kontrollera att CSS-koden är giltig och fri från syntaxfel (t.ex. saknade parenteser, felaktiga egenskapsnamn). [Lär dig hur](#use-valid-css)
 
 * Kontrollera att din CSS läggs till i taggen `<style>` med attributet `data-name="global-custom"`.
 
-* Kontrollera om stiltaggen `global-custom` har attributet `data-disabled` inställt på `true`. Om så är fallet används inte den anpassade CSS:en.
+* Kontrollera om stiltaggen `global-custom` har attributet `data-disabled` inställt på `true`. I så fall används inte den anpassade CSS:en.
 
 +++ Exempel:
 
@@ -235,7 +234,7 @@ Om din anpassade CSS inte används bör du överväga alternativen nedan.
 
 * Kontrollera att CSS inte åsidosätts av andra CSS-regler.
 
-   * Använd utvecklingsverktygen i webbläsaren för att inspektera innehållet och verifiera att CSS har rätt väljare som mål.
+   * Använd webbläsarens utvecklingsverktyg för att inspektera innehållet och verifiera att CSS har rätt väljare som mål.
 
    * Överväg att lägga till `!important` i dina deklarationer för att säkerställa att de har företräde.
 
@@ -248,3 +247,7 @@ Om din anpassade CSS inte används bör du överväga alternativen nedan.
      ```
 
 +++
+
+>[!NOTE]
+>
+>Marketo Engage Support har inte konfigurerats för att hjälpa till med felsökning av anpassad CSS. Kontakta en webbutvecklare om du behöver hjälp med CSS.
