@@ -4,16 +4,16 @@ description: Skapa ett anpassat fält i Marketo - Marketo Docs - produktdokument
 title: Skapa ett anpassat fält i Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
 # Skapa ett anpassat fält i Marketo {#create-a-custom-field-in-marketo}
 
-Om du behöver ett nytt anpassat fält i Marketo Engage för att lagra/hämta in data, så här skapar du ett.
+Så här skapar du ett nytt anpassat fält i Marketo Engage för att lagra/hämta in data.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -31,21 +31,29 @@ Om du behöver ett nytt anpassat fält i Marketo Engage för att lagra/hämta in
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Välj fälttyp. Detta ändrar hur det återges i smarta listor och formulär i Marketo.
-
-   >[!TIP]
-   >
-   >Ta en titt på ordlistan [Anpassade fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Välj _[!UICONTROL Object]_.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Ange [!UICONTROL Name] så som du vill att den ska visas i Marketo. [!UICONTROL API Name] genereras automatiskt. Du kan ändra den, men du kan inte byta namn på den när den har angetts. Klicka på **[!UICONTROL Create]** när du är klar.
+   >[!NOTE]
+   >
+   >Du kan inte välja _Company_-objektet själv, men du kan begära det genom att kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+1. Välj fältet _[!UICONTROL Type]_. Detta ändrar hur det återges i smarta listor och formulär i Marketo.
+
+   >[!TIP]
+   >
+   >Ta en titt på ordlistan [Anpassade fälttyper](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+   ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Ange _[!UICONTROL Name]_så som du vill att den ska visas i Marketo (_[!UICONTROL API Name]_ genereras automatiskt). Välj noggrant eftersom namnet inte kan ändras när du har sparat. Klicka på **[!UICONTROL Create]** när du är klar.
 
 >[!CAUTION]
 >
 >Fältnamn får inte börja med följande tecken: **. &amp; +[]**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
