@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: RUBRIK
+title: Lägg till anpassad CSS i e-postinnehållet
 description: Lär dig hur du lägger till anpassad CSS i ditt e-postinnehåll direkt i e-post-Designer i Marketo Engage.
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Lägg till anpassad CSS i e-postinnehållet {#email-metadata}
+# Lägg till anpassad CSS i e-postinnehållet {#custom-css}
 
-Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad och specifik formatering.
+Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad, specifik formatering.
 
 ## Definiera anpassad CSS {#define-custom-css}
 
@@ -25,7 +25,7 @@ Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad och spec
 
 1. Välj **[!UICONTROL Body]**, antingen från **[!UICONTROL Navigation tree]** till vänster eller från den högra rutan. **[!UICONTROL CSS styles]** visas till höger.
 
-   SCREENSHOT
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad och spec
    >
    >Knappen **[!UICONTROL Add custom CSS]** är bara tillgänglig när **[!UICONTROL Body]** är markerad. Du kan dock använda anpassade CSS-format på alla komponenter i innehållet.
 
-1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden är giltig och följer rätt syntax. [Läs mer](#use-valid-css)
+1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden [ är giltig och följer rätt syntax ](#use-valid-css). Klicka på **Spara** när du är klar.
 
-   SCREENSHOT
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >Du kan inte lägga till anpassad CSS i ditt innehåll när du använder en [mall med låst innehåll](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). Knappetiketten ändras till **[!UICONTROL View custom CSS]** och all anpassad CSS som visas är skrivskyddad.
 
-1. Spara din egen CSS och se till att den gäller för ditt innehåll. Om så inte är fallet kontrollerar du avsnittet [Felsökning](#troubleshooting).
+1. Kontrollera att CSS-koden gäller för ditt innehåll. Om så inte är fallet kontrollerar du avsnittet [Felsökning](#troubleshooting).
 
-   SCREENSHOT
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
