@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Innan du kan skapa meddelanden i appen eller push-meddelanden måste utvecklaren ha konfigurerat och initierat Mobile App SDK för Android- och iOS-plattformarna.
 
-* [Instruktioner för Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Instruktioner för iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Instruktioner för Android](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instruktioner för iOS](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Skicka SDK-kod till en utvecklare {#send-sdk-code-to-a-developer-1}
 

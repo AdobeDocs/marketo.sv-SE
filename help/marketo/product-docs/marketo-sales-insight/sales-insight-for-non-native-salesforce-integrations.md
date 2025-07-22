@@ -19,7 +19,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du Adobe Account Team (din kontoansvarige).
 >* Ett Salesforce-konto med [MSI-paket konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 >* Ställ in [!DNL Salesforce]-objekt så att de visar den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
 
@@ -53,7 +53,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody> 
    </table>
 
-   * API-dokumentation för säljare: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API-dokumentation för säljare: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * API-dokumentation för synkronisering av säljaren: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce]-konton till Marketo.
@@ -85,7 +85,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody> 
    </table>
 
-   * API-dokumentation för företag: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-dokumentation för företag: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API-dokumentation för synkronisering av företag: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce] leads/kontakter till Marketo.
@@ -122,7 +122,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody> 
    </table>
 
-   * API-dokumentation för leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API-dokumentation för leads: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads)
    * API-dokumentation för synkronisering av leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synkronisera [!DNL Salesforce] affärsmöjligheter med Marketo.
@@ -159,7 +159,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce] kontaktroller till Marketo.
@@ -196,7 +196,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody> 
    </table>
 
-   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera de senast intressanta tids-/MSI-bedömningsfälten till SFDC.
