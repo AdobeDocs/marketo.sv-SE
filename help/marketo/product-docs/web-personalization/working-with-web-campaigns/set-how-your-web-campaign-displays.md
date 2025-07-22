@@ -4,9 +4,9 @@ description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,36 +25,36 @@ Det här alternativet är valt som standard och visar bara kampanjen vid sidinl�
 
 Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reagera på din webbplats.
 
-1. Klicka på listrutan **Visa på** och välj **Fördröjning**.
+1. Klicka på listrutan **[!UICONTROL Display On]** och välj **[!UICONTROL Delay]**.
 
    ![](assets/d1.png)
 
-1. Klicka på listrutan **Vänta** och välj önskad tid.
+1. Klicka på listrutan **[!UICONTROL Wait]** och välj önskad tid.
 
    ![](assets/d2.png)
 
 ## Rulla {#scroll}
 
-1. Klicka på listrutan **Visa på** och välj **Bläddra**.
+1. Klicka på listrutan **[!UICONTROL Display On]** och välj **[!UICONTROL Scroll]**.
 
    ![](assets/s1.png)
 
-1. Klicka på listrutan **När** och välj när du vill att webbkampanjen ska visas.
+1. Klicka på listrutan **[!UICONTROL When]** och välj när du vill att webbkampanjen ska visas.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Under vikning</strong></td> 
+   <td><strong>[!UICONTROL Below fold]</strong></td> 
    <td>Visar kampanjen när besökaren rullar nedanför vecket. Campaign försvinner när besökaren rullar tillbaka ovanför falsen.</td> 
   </tr> 
   <tr> 
-   <td><strong>Procent</strong></td> 
+   <td><strong>[!UICONTROL Percent]</strong></td> 
    <td>Visar kampanj när besökaren rullar till en förbestämd procentandel av sidan.</td> 
   </tr> 
   <tr> 
-   <td><strong>Pixel</strong></td> 
+   <td><strong>[!UICONTROL Pixel]</strong></td> 
    <td><p>Visar kampanjen när besökaren rullar till förbestämd topppixel på sidan.</p></td> 
   </tr> 
  </tbody> 
@@ -64,11 +64,11 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
 När muspekaren stängs visas webbkampanjen när användaren avslutar webbläsaren.
 
-1. Klicka på listrutan **Visa på** och välj **Avsluta metod**.
+1. Klicka på listrutan **[!UICONTROL Display On]** och välj **[!UICONTROL Exit Intent]**.
 
    ![](assets/ei1.png)
 
-1. Ett meddelande visas som påminner om att Avsluta-metoden inte är kompatibel med mobilen.
+1. Ett meddelande visas som påminner om att [!UICONTROL Exit Intent] inte är kompatibelt med mobilen.
 
    ![](assets/ei2.png)
 

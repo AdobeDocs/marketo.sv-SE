@@ -4,9 +4,9 @@ description: Använd ett formulär i en ljuslåda - Marketo Docs - produktdokume
 title: Använda ett formulär i en ljuslåda
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En ljuslåda är en teknik som öppnar ett formulär framför innehållet när du vill att det ska visas. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klicka på **Bädda in kod** under **Formuläråtgärder**.
+1. Klicka på **[!UICONTROL Form Actions]** under **[!UICONTROL Embed Code]**.
 
    >[!NOTE]
    >
@@ -31,11 +31,11 @@ En ljuslåda är en teknik som öppnar ett formulär framför innehållet när d
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Ange **kodtypen** till **Ljuslåda**.
+1. Ange **[!UICONTROL Code Type]** till **[!UICONTROL Lightbox]**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Markera/kopiera koden och klicka på **Stäng**.
+1. Markera/kopiera koden och klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 

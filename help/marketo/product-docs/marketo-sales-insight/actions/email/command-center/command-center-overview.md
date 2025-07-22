@@ -3,20 +3,20 @@ description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
 # Översikt över kommandocentralen {#command-center-overview}
 
-Kommandocentralen är en enhetlig vy som hjälper dig att komma på nästa steg, samtidigt som du ser till att inget faller igenom sprickorna.
+[!UICONTROL Command Center] är en enda, enhetlig vy som hjälper dig att komma på nästa steg, samtidigt som du ser till att inget faller igenom sprickorna.
 
 ## Hantera e-postmeddelanden {#manage-emails}
 
-I e-postavsnittet i kommandocentralen kan du hantera all e-postaktivitet. Tänk på det som din e-postutkorg för att granska e-postmeddelanden som har skickats från Sales Connect. Hantera dina schemalagda e-postmeddelanden, se vilka som har interagerat med dina e-postmeddelanden, kontrollera om det har uppstått några problem med dina e-postmeddelanden och mycket mer.
+I e-postavsnittet i [!UICONTROL Command Center] kan du hantera all din e-postaktivitet. Tänk på det som din e-postutkorg för att granska e-postmeddelanden som har skickats från [!DNL Sales Connect]. Hantera dina schemalagda e-postmeddelanden, se vilka som har interagerat med dina e-postmeddelanden, kontrollera om det har uppstått några problem med dina e-postmeddelanden och mycket mer.
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden o
   <th>Beskrivning</th>
  </tr>
  <tr>
-  <th rowspan="2">Skickat</th>
-  <td>Levererat</td>
+  <th rowspan="2">[!UICONTROL Sent]</th>
+  <td>[!UICONTROL Delivered]</td>
   <td>E-postmeddelanden som har levererats till mottagaren.</td>
  </tr>
  <tr>
-  <td>Arkiverad</td>
+  <td>[!UICONTROL Archived]</td>
   <td>E-postmeddelanden som har arkiverats av användaren för att inaktivera spårning av e-postmeddelanden.</td>
  </tr>
  <tr>
-  <th rowspan="3">Väntande</th>
-  <td>Schemalagd</td>
+  <th rowspan="3">[!UICONTROL Pending]</th>
+  <td>[!UICONTROL Scheduled]</td>
   <td>E-postmeddelanden som är schemalagda att skickas ut. När ett e-postmeddelande har skickats flyttas det till den levererade mappen.</td>
  </tr>
  <tr>
-  <td>Utkast</td>
+  <td>[!UICONTROL Draft]</td>
   <td>E-postmeddelanden som har sparats som ett utkast.<br/>
   <strong> Obs! </strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-postmeddelanden och gruppmeddelanden) sparas inte som utkast.</td>
  </tr>
  <tr>
-  <td>Pågår</td>
+  <td>[!UICONTROL In] Förlopp</td>
   <td>Det här är ett mellanläge som e-postmeddelanden går in i när de är i sändningsrörelsen. E-postmeddelanden får bara vara under utveckling en stund.</td>
  </tr>
  <tr>
-  <th rowspan="3">Olevererad</th>
-  <td>Misslyckades</td>
+  <th rowspan="3">[!UICONTROL Undelivered]</th>
+  <td>[!UICONTROL Failed]</td>
   <td>E-postmeddelanden som inte har levererats.
 </td>
  </tr>
  <tr>
-  <td>Studsade</td>
+  <td>[!UICONTROL Bounced]</td>
   <td>E-postmeddelanden som har avvisats från mottagarnas e-postserver.<br/>
   <strong> Obs! </strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
  </tr>
  <tr>
-  <td>Spam</td>
+  <td>[!UICONTROL Spam]</td>
   <td>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br/>
   <strong> Obs! </strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har tillgång till MSC-servrar som en leveranskanal.</td>
  </tr>

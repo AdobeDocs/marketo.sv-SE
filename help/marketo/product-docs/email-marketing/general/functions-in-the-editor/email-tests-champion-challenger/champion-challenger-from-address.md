@@ -4,9 +4,9 @@ description: Champion/Challenger -From Address - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Från adress
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 >
 >[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Från adress** i listrutan **Testtyp** i e-posttestredigeraren.
+1. Välj **[!UICONTROL From Address]** i listrutan **[!UICONTROL Test Type]** i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Den första Från-adressen är angiven som **Champion**. Efterföljande från adresser kallas **Utmanare**.
+   >Den första Från-adressen anges som **[!UICONTROL Champion]**. Efterföljande från adresser kallas **[!UICONTROL Challengers]**.
 
 1. Ange **Från namn** (vänster) och **Från adress** (höger) för utmanarna.
 
@@ -47,7 +47,7 @@ Vill du prova en annan från-adress utan problem? Så här gör du.
 
    För att få statistiskt förtroende måste du välja en procentsats som innehåller tillräckligt många personer för att testet ska vara giltigt. Låt dig inte luras av osäkra resultat.
 
-1. Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

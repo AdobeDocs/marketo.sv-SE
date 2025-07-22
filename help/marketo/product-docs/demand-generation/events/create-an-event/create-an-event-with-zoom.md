@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: Skapa en händelse med Zoom - Marketo Docs - produktdokumentation
-title: Skapa en händelse med zoom
+description: Skapa en händelse med  [!DNL Zoom] - Marketo Docs - produktdokumentation
+title: Skapa en händelse med  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
 
-# Skapa en händelse med zoom {#create-an-event-with-zoom}
+# Skapa en händelse med [!DNL Zoom] {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [Lägg till zoom som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [Lägg till [!DNL Zoom] som en [!DNL LaunchPoint] tjänst](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
 
-Skapa först ditt webbinarium i Zoom. Vissa inställningar när du skapar zoomningen används av Marketo och vissa används bara av Zoom.
+Skapa först ditt webbinarium i [!DNL Zoom]. Vissa inställningar när du skapar [!DNL Zoom] används av Marketo och vissa används bara av [!DNL Zoom].
 
-När du har skapat en Marketo-händelse och associerat ett Zoom-webbinarium med det kan systemen dela registrerings- och närvaroinformation. Hjälp med att skapa ett webbinarium finns i [Komma igång med zoomwebbinarier](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+När du har skapat en Marketo-händelse och associerat ett [!DNL Zoom]-webbinarium med det kan systemen dela registrerings- och närvaroinformation. Hjälp med att skapa ett webbinarium finns i [Komma igång med [!DNL Zoom] webbinarier](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Ange följande information för ditt webbinarium så hämtas det till Marketo via adaptern. Om du ändrar något i den här informationen måste du klicka på länken&quot;Uppdatera från webbinarium-leverantör&quot; under Händelseåtgärder för att Marketo ska kunna se ändringarna.
 
@@ -43,21 +43,21 @@ Ange följande information för ditt webbinarium så hämtas det till Marketo vi
 
 * **Återkommande webbinarium**- Behåll avmarkerat.
 
-* **Registrering** - Markera den här kryssrutan om du vill göra registreringen obligatorisk. Du använder ett Marketo-formulär/en landningssida för att hämta registreringsinformation som ska skickas till Zoom.
+* **Registrering** - Markera den här kryssrutan om du vill göra registreringen obligatorisk. Du använder ett Marketo-formulär/en landningssida för att samla in registreringsinformation som skickas till [!DNL Zoom].
 
 >[!NOTE]
 >
->Marketo stöder för närvarande inte återkommande webbinarier. Du måste konfigurera en session mellan varje Marketo Event- och Zoom-webbinarium.
+>Marketo stöder för närvarande inte återkommande webbinarier. Du måste konfigurera en session mellan varje Marketo Event och [!DNL Zoom] webbinarium.
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->Det finns ytterligare fält som du konfigurerar i Zoom som INTE påverkar integreringen. Mer information om de här fälten finns i [Zoom Webinar Help Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
+>Det finns ytterligare fält som du konfigurerar i [!DNL Zoom] som INTE kommer att påverka integreringen. Mer information om dessa fält finns i [[!DNL Zoom] hjälpcentret för webbinariet](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
 
 Nu ska vi hoppa in i Marketo!
 
-1. Välj en händelse. Klicka på **Händelseåtgärder** och välj **Händelseinställningar**.
+1. Välj en händelse. Klicka på **[!UICONTROL Event Actions]** och välj **[!UICONTROL Event Settings]**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ Nu ska vi hoppa in i Marketo!
    >
    >Kanaltypen för den valda händelsen måste vara **webbinarium**.
 
-1. Välj **Zooma** i listan **Event** **Partner** .
+1. Välj **[!UICONTROL Zoom]** i listan **[!UICONTROL Event Partner]**.
 
    ![](assets/eventsettings1.png)
 
-1. Välj det zoomkonto som du vill associera händelsen med.
+1. Välj det [!DNL Zoom]-konto som du vill associera aktiviteten med.
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ Nu ska vi hoppa in i Marketo!
 
    ![](assets/selectevent.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/eventsettingssave.png)
 
-   Underbar! Nu synkroniseras händelsen och schemaläggs av Zoom.
+   Underbar! Händelsen har synkroniserats och schemalagts av [!DNL Zoom].
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Nu ska vi hoppa in i Marketo!
    >
    >Ange bekräftelsemeddelandet som **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
-   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget **Ändra programstatus** när Ny status är inställd på Registrerad. Ingen annan status kommer att föra personen över. Se även till att flödessteg 1 för **Ändra programstatus** och flödessteg 2 för **Skicka e-post**.
+   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget **[!UICONTROL Change Program Status]** när [!UICONTROL New Status] är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att flödesteget **[!UICONTROL Change Program Status]** och **[!UICONTROL Send Email]** flödessteg 2 anges.
 
    ![](assets/goto-webinar-1.png)
 

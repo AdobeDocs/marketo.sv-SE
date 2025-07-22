@@ -4,9 +4,9 @@ description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - produktdo
 title: Lägga till en mål-URL i en webbkampanj
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
 
 ## Lägga till en mål-URL för dialogruta eller webbkampanjer för widget {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Välj **Skapa ny webbkampanj**.
+1. Välj **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Lägg till ett **kampanjnamn**. Välj ett **målsegment**. Lägg till **mål-URL**.
+1. Lägg till en **[!UICONTROL Campaign Name]**. Välj en **[!UICONTROL Target Segment]**. Lägg till **[!UICONTROL Target URL]**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Alla sidor</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
    <td colspan="1" rowspan="1"><p>Tillåt att kampanjer visas på alla sidor.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Inkludera URL-parameter vid matchning</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
    <td colspan="1" rowspan="1">Lägg till URL-parameter för att matcha och visa kampanjer på URL:er inklusive den här parametern. T.ex. campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ En mål-URL finns under sidan Ange kampanj och definierar den specifika URL elle
 
 ## Lägga till flera URL:er till mål-URL {#adding-multiple-urls-to-target-url}
 
-Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas dialogrutan Multiple Value Entry (Flera värden) för att lägga till flera URL:er. Lägg till en URL per rad.
+Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öppnas dialogrutan [!UICONTROL Multiple Value Entry] där du kan lägga till flera URL:er. Lägg till en URL per rad.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ Om du klickar på plusikonen (![—](assets/image2015-2-18-8-3a40-3a59.png)) öp
 
 ## Lägga till en mål-URL för webbkampanjer i zonen {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Gå till **Webben** **Kampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Välj **Skapa ny webbkampanj**.
+1. Välj **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Lägg till ett **kampanjnamn**. Välj ett **målsegment**. Lägg till **mål-URL**.
+1. Lägg till en **[!UICONTROL Campaign Name]**. Välj en **[!UICONTROL Target Segment]**. Lägg till **[!UICONTROL Target URL]**.
 
    >[!NOTE]
    >

@@ -4,42 +4,42 @@ description: Massåtgärder i Salesforce Lightning - Marketo Docs - produktdokum
 title: Massåtgärder i Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
-# Massåtgärder i Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
+# Massåtgärder i [!DNL Salesforce Lightning] {#bulk-actions-in-salesforce-lightning}
 
-Så här ställer du in massåtgärder i Salesforce Lightning.
+Så här konfigurerar du massåtgärder i [!DNL Salesforce Lightning].
 
-1. Klicka på ikonen Inställningar i Salesforce och välj **Inställningar**.
+1. I [!DNL Salesforce] klickar du på ikonen Inställningar och väljer **[!UICONTROL Setup]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Klicka på fliken **Objektshanteraren**.
+1. Klicka på fliken **[!UICONTROL Object Manager]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Sök efter och markera etiketten **Lead**.
+1. Sök efter och markera etiketten **[!UICONTROL Lead]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Klicka på **Sök efter layouter för Salesforce Classic**.
+1. Klicka på **[!UICONTROL Search Layouts for Salesforce Classic]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   Hitta layouten för listvyn. Klicka på listrutan till höger och välj **Redigera**.
+   Hitta layouten för listvyn. Klicka på listrutan till höger och välj **[!UICONTROL Edit]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Under Anpassade knappar letar du reda på och väljer **Lägg till i Marketo Campaign (blixt)** och **Skicka Marketo-e-post (blixt)**. Klicka på knappen **Lägg till**.
+1. Under Anpassade knappar söker du efter och väljer **[!UICONTROL Add to Marketo Campaign (lightning)]** och **[!UICONTROL Send Marketo Email (lightning)]**. Klicka på knappen **[!UICONTROL Add]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

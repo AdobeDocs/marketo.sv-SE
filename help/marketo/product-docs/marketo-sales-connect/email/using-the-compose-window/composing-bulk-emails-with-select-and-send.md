@@ -4,9 +4,9 @@ description: Disponera massutskick med Select and Send - Marketo Docs - produktd
 title: Disponera massutskick med Markera och skicka
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
 
 ## Skicka e-post {#sending-emails}
 
-1. Navigera till sidan Personer.
+1. Navigera till sidan **[!UICONTROL People]**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Högst 200 personer kan väljas när du använder Markera och Skicka.
 
-1. Klicka på knappen **E-post markerad** .
+1. Klicka på knappen **[!UICONTROL Email Selected]**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
 
    >[!NOTE]
    >
-   >Om du har valt en mall och vill kontrollera att alla dynamiska fält fylls i korrekt innan du skickar dem klickar du på **Förhandsgranska dynamiska fält**. Se till att alla mottagare i det stora sidofältet är markerade för att förhandsgranska alla e-postmeddelanden. Om du markerar ett e-postmeddelande och klickar på **Förhandsgranska dynamiska fält** förhandsgranskas endast det e-postmeddelandet.
+   >Om du har valt en mall och vill kontrollera att alla dynamiska fält fylls i korrekt innan du skickar den klickar du på **[!UICONTROL Preview Dynamic Fields]**. Se till att alla mottagare i det stora sidofältet är markerade för att förhandsgranska alla e-postmeddelanden. Om du markerar ett e-postmeddelande och klickar på **[!UICONTROL Preview Dynamic Fields]** förhandsgranskas endast det meddelandet.
 
 ## Redigera e-postmeddelanden {#editing-emails}
 
@@ -59,7 +59,7 @@ Så här skickar/redigerar du e-postmeddelanden med alternativet Markera och ski
    >
    >Du kan klicka på en viss e-postmottagare för att se ändringarna som har skickats till det e-postmeddelandet.
 
-1. Klicka på **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
+1. Klicka på **[!UICONTROL Send]** (eller [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) om du vill skicka e-postmeddelanden till alla mottagare med de satsvisa uppdateringarna som du har gjort.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Slutför gruppuppdateringar innan du anpassar varje e-postmeddelande, eftersom e
    >
    >Du kan klicka på andra mottagare för att se att de ändringar du har gjort för den tidigare valda mottagaren inte visas.
 
-1. Klicka på **Skicka** (eller [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) för att skicka till alla mottagare med de satsvisa e-postuppdateringarna som du har gjort.
+1. Klicka på **[!UICONTROL Send]** (eller [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) om du vill skicka e-postmeddelanden till alla mottagare med de satsvisa uppdateringarna som du har gjort.
 
    ![](assets/each-four.png)
 

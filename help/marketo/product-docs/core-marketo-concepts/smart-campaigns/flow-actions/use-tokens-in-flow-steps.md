@@ -4,9 +4,9 @@ description: Använd token i flödessteg - Marketo Docs - produktdokumentation
 title: Använd token i flödessteg
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ En variabel är en variabel. Ni använder det i e-postmeddelanden, landningssido
 * Ändra datavärde
 * Ändra medlemsuppgifter för program
 * Intressant stund
-* Salesforce-kampanjsteg (lägg till, ta bort, ändra status)
+* [!DNL Salesforce] kampanjsteg (lägg till, ta bort, ändra status)
 * Skapa uppgift
 * Skicka avisering (endast i utlösarkampanjer)
 

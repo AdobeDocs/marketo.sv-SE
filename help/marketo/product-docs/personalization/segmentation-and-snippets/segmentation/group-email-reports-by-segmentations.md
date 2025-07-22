@@ -4,9 +4,9 @@ description: Gruppera e-postrapporter efter segment - Marketo Docs - produktdoku
 title: Gruppera e-postrapporter efter segment
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ Segmenteringar är inte bara för dynamiskt innehåll. Du kan också gruppera di
 >
 >[Godkänn en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till området **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Välj din **e-postrapport**.
+1. Välj din **[!UICONTROL Email Performance]**-rapport.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klicka på fliken **Inställningar** och dra över **Gruppera efter segment**.
+1. Klicka på fliken **[!UICONTROL Setup]** och dra över **[!UICONTROL Group by Segmentations]**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka på **Använd**.
+1. Välj en eller två segmenteringar som du vill använda för att gruppera rapporten. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Så ja! Klicka på fliken **Rapport**. Om du använder en segmentering visar rapporten en rad för varje segment.
+1. Så ja! Klicka på fliken **[!UICONTROL Report]**. Om du använder en segmentering visar rapporten en rad för varje segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

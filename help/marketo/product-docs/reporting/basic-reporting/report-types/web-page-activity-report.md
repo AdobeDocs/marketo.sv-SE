@@ -4,9 +4,9 @@ description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentati
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
 
    >[!NOTE]
    >
-   >Det kan ta upp till 24 timmar för data att återspeglas i en webbsidesaktivitetsrapport.
+   >Det kan ta upp till 24 timmar för data att spegla i en [!UICONTROL Web Page Activity]-rapport.
 
    >[!TIP]
    >

@@ -3,9 +3,9 @@ description: Internationellt telefonsamtal - Marketo Docs - produktdokumentation
 title: Internationellt samtal
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 11%
 
 ---
@@ -143,7 +143,7 @@ Sales Dialer gör det enkelt för er att kommunicera internationellt. För kunde
 
 ## Vanliga frågor om internationella samtal {#international-calling-faq}
 
-**Varför stöder inte Sales Insight-åtgärder internationella samtal för alla länder?**
+**Varför stöder inte [!DNL Sales Insight Actions] internationella samtal för alla länder?**
 
 Idag erbjuder vi utlandssamtal med Sales Dialer utan extra kostnad. Vi vill göra det enkelt för er att kommunicera med era egna presumtiva kunder och kunder, och därför har vi lanserat stöd för internationella telefonsamtal med standardtaxa. Vi erbjuder täckning till 34 länder utanför USA och Kanada för regioner i Europa, Asien och andra viktiga destinationer. Vi kommer att fortsätta att utöka baserat på kundernas feedback.
 

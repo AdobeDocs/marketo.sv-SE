@@ -4,9 +4,9 @@ description: Skapa ett e-postmeddelande för ett e-postprogram - Marketo Docs - 
 title: Skapa ett e-postmeddelande för ett e-postprogram
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 När du har skapat e-postprogrammet och definierat målgruppen, vill du bestämma vilket e-postmeddelande du ska skicka. Du kan [välja ett befintligt e-postmeddelande](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) eller skapa ett från början. Så här skapar du ett nytt e-postmeddelande.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Välj e-postprogram. Klicka på **Ny e-post** under rutan **E-post**.
+1. Välj e-postprogram. Klicka på **[!UICONTROL Email]** under rutan **[!UICONTROL New Email]**.
 
    ![](assets/newemaildashboard.png)
 
-1. Ange ett **namn**, markera önskad mall och klicka på **Skapa**.
+1. Ange en **[!UICONTROL Name]**, markera önskad mall och klicka på **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 

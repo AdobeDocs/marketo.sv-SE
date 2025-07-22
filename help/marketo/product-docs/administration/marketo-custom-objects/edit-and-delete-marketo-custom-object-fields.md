@@ -4,9 +4,9 @@ description: Redigera och ta bort anpassade Marketo-objektfält - Marketo Docs -
 title: Redigera och ta bort anpassade Marketo-objektfält
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Klicka på **[!UICONTROL Field Actions]** och **[!UICONTROL Edit Field]** på fliken [!UICONTROL Fields].
+1. Klicka på [!UICONTROL Fields] och **[!UICONTROL Field Actions]** på fliken **[!UICONTROL Edit Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -33,7 +33,7 @@ Ibland behöver du redigera ett fält som inte har godkänts än.
    >
    >Du kan inte redigera API-namnet.
 
-1. Ändringarna visas i fältlistan.
+1. Ändringarna visas i listan **[!UICONTROL Fields]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 

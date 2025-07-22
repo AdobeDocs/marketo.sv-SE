@@ -4,9 +4,9 @@ description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,15 +59,15 @@ Marketo REST API:er har nu stöd för kontroll över Marketo landningssidor, lan
 
 ## [IP-Tillåtelselistning för API-åtkomst](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu konfigurera en tillåtelselista med IP-adresser som kan komma åt Marketo SOAP- och REST-API:er, vilket blockerar åtkomst från icke-auktoriserade IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån din organisations nätverk. Information om hur du konfigurerar detta finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+På samma sätt som funktionen för IP-tillåtelselistning för Marketo-användarinloggningar kan Marketo-administratörer nu konfigurera en tillåtelselista med IP-adresser som har åtkomst till Marketo SOAP och REST API:er, vilket blockerar åtkomst från obehöriga IP-adresser. Detta lägger till ett extra säkerhetsskikt till din Marketo-instans och ser till att API-åtkomst bara kan ske inifrån din organisations nätverk. Information om hur du konfigurerar detta finns på [Marketo dokumentationswebbplats](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Ny snabb Microsoft Dynamics Sync-anslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Ny Microsoft Dynamics Sync Connector med hög hastighet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Den nya höghastighetsanslutningen Dynamics ger hastigheter på upp till 20 gånger snabbare för inledande synkronisering och upp till 5 gånger snabbare för inkrementell synkronisering. Alla nya kunder kommer att ansluta sig till den här kontakten på releasedatum, och vi kommer gradvis att lansera den för befintliga kunder under sommarreleasetidningen.
 
-**Uppdatera data för nya fält**: Nu kan du aktivera nya synkroniseringsfält när som helst och alla datavärden för det fältet uppdateras från Dynamics CRM till Marketo. Du behöver inte längre oroa dig för att du måste markera alla fält under den första konfigurationen. Om du inaktiverar ett befintligt synkroniseringsfält och sedan aktiverar det igen uppdateras alla datavärden för det fältet från Dynamics CRM till Marketo.
+**Uppdatera data för nya fält**: Nu kan du aktivera nya synkroniseringsfält när som helst och alla datavärden för det fältet uppdateras från [!DNL Dynamics] CRM till Marketo. Du behöver inte längre oroa dig för att du måste markera alla fält under den första konfigurationen. Om du inaktiverar ett befintligt synkroniseringsfält och sedan aktiverar det igen uppdateras alla datavärden för det fältet från [!DNL Dynamics] CRM till Marketo.
 
-**Synkronisera lead som kontakt**: Flödesåtgärden Synkronisera lead till Microsoft har ett nytt alternativ för synkronisering som lead eller kontakt.
+**Synkronisera lead som kontakt**: Flödesåtgärden [!UICONTROL Sync Lead to Microsoft] har ett nytt alternativ för synkronisering som lead eller kontakt.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ Den nya höghastighetsanslutningen Dynamics ger hastigheter på upp till 20 gån
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: Connector är helt certifierad för Dynamics 2016 Online- och On-Local-versioner.
+**[!DNL Microsoft Dynamics]2016**: Kopplingen är helt certifierad för versionerna [!DNL Dynamics] 2016 [!DNL Online] och [!DNL On-premise].
 
 **Plugin-uppdateringarna finns nu dokumenterade:** Se dokumentartikeln [om uppdatering av plugin-program](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

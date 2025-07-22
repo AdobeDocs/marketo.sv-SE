@@ -4,9 +4,9 @@ description: Clone a Report - Marketo Docs - produktdokumentation
 title: Klona en rapport
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Skapa en dubblett av rapporten för att anpassa den ytterligare utan att ändra originalet.
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till området **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Välj din rapport. Välj **Rapportera åtgärder** > **Klona en rapport**.
+1. Välj din rapport. Välj **[!UICONTROL Report Actions]** > **[!UICONTROL Clone a Report]**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

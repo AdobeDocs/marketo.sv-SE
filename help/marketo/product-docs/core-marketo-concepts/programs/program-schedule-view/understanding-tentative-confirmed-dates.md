@@ -4,9 +4,9 @@ description: Introduktion till preliminära/bekräftade datum - Marketo Docs - p
 title: Förstå preliminära/bekräftade datum
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Preliminära datum förmedlar avsikter. Tänk på det här som _penciling_ någo
 
 ## Bekräfta transaktioner {#confirming-entries}
 
-Det är som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankor är i rad kan du bekräfta inmatningar genom att dra den preliminära fliken åt höger.
+Det är som att godkänna en resurs, så posterna måste vara helt konfigurerade innan du kan bekräfta dem. När alla ankan är i rad kan du bekräfta inmatningar genom att dra fliken [!UICONTROL Tentative] åt höger.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 

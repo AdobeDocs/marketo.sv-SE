@@ -4,20 +4,20 @@ description: Ge användare åtkomst till incheckningsprogrammet - Marketo Docs -
 title: Ge användare åtkomst till incheckningsappen
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '245'
 ht-degree: 1%
 
 ---
 
 # Ge användare åtkomst till incheckningsappen {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage har en speciell användarroll för incheckningsappen för händelser. Så här skapar du en ny roll med behörighet att använda programmet.
+Marketo Engage har en särskild användarroll för incheckningsappen för händelser. Så här skapar du en ny roll med behörighet att använda programmet.
 
 >[!IMPORTANT]
 >
->Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo kan du inte längre komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Skapa en ny användarroll för mobilen {#create-a-new-user-role-for-mobile}
 
@@ -59,6 +59,6 @@ Marketo Engage har en speciell användarroll för incheckningsappen för händel
 
    >[!TIP]
    >
-   >För befintliga användare kan du antingen skapa en ny roll eller lägga till behörigheten Access Mobile Application till den aktuella rollen.
+   >För befintliga användare kan du antingen skapa en ny roll eller lägga till behörigheten [!UICONTROL Access Mobile Application] till den aktuella rollen.
 
 Användaren får ett e-postmeddelande som talar om att de har tillgång till incheckningsappen.

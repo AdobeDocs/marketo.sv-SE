@@ -4,20 +4,20 @@ description: Verktygsfältet Sales Connect - Marketo Docs - produktdokumentation
 title: Verktygsfältet Sales Connect
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
-# Verktygsfältet Sales Connect {#the-sales-connect-tool-bar}
+# Verktygsfältet [!DNL Sales Connect] {#the-sales-connect-tool-bar}
 
-Fem Sales Connect-knappar läggs till högst upp på Gmail-sidan när du loggar in.
+Fem [!DNL Sales Connect]-knappar läggs till högst upp på Gmail-sidan när du loggar in.
 
 | Knapp | Beskrivning |
 |---|---|
-| **Knappen Live-feed** | Öppnar din Sales Connect [Live Feed](https://toutapp.com/next#live) där du kan få information om spårning i realtid i dina e-postmeddelanden. |
-| **Knappen Åtgärder** | Visar en listruta med alla dina uppgifter. |
-| **Mallar och konversationsknappar** | Öppnar mallsidan och konversationssidan för ditt [webbprogram](https://toutapp.com/login). Allt på din Gmail-sida. |
-| **Knappen Försäljningsgong** | Låter dig fira dina stängda/vunna avtal med dina teamkamrater. |
+| **[!UICONTROL Live Feed]-knapp** | Öppnar din [!DNL Sales Connect] [Live-feed](https://toutapp.com/next#live) där du kan få information om spårning i realtid i dina e-postmeddelanden. |
+| **[!UICONTROL Tasks]-knapp** | Visar en listruta med alla dina uppgifter. |
+| **[!UICONTROL Templates and Conversations]knappar** | Öppnar [- och ](https://toutapp.com/login)-sidan för ditt [!UICONTROL Templates]webbprogram[!UICONTROL Conversations]. Allt på din Gmail-sida. |
+| **[!UICONTROL Sales Gong]-knapp** | Låter dig fira dina stängda/vunna avtal med dina teamkamrater. |

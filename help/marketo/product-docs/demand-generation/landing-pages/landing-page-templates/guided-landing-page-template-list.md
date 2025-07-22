@@ -4,16 +4,16 @@ description: Guided Landing Page Template List - Marketo Docs - Product Document
 title: Lista med guidade landningssidmallar
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
 # Lista med guidade landningssidmallar {#guided-landing-page-template-list}
 
-Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landning](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och bygger på ramverket Bootstrap.
+Bläddra i vår samling med exempelmallar, som du kan använda med [redigeraren för guidad landning](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Varje mall är helt responsiv och baseras på Bootstrap ramverk.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Så här importerar du en mall till Marketo:
 
 1. Klicka på mallens namn för en större vy.
 1. Hämta den valda mallen.
-1. I Marketo går du till **Design Studio.**
-1. Klicka på **Landningssidor** i det vänstra trädet och välj sedan **Mallar.**
+1. I Marketo går du till **[!UICONTROL Design Studio].**
+1. Klicka på **[!UICONTROL Landing Pages]** i det vänstra trädet och välj sedan **[!UICONTROL Templates].**
 
-1. Klicka på **Importera mall.** på menyraden.
-1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **Importera** (se till att välja ett beskrivande namn och ange att redigeringsläget är **Guidad**).
+1. Klicka på **[!UICONTROL Import Template]på menyraden.**
+1. Välj den hämtade filen, ange ett mallnamn och klicka sedan på **[!UICONTROL Import]** (se till att välja ett beskrivande namn och ange att redigeringsläget är **[!UICONTROL Guided]**).
 
 <table>
 <tr>

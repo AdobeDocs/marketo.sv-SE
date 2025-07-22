@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: Förstå teamfliken - Marketo Docs - produktdokumentation
-title: Förstå teamfliken
+description: Fliken [!UICONTROL Team] - Marketo Docs - produktdokumentation
+title: Fliken [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Förstå teamfliken {#understanding-the-team-tab}
+# Fliken [!UICONTROL Team] {#understanding-the-team-tab}
 
-På fliken Team belyser vi tre viktiga mätvärden.
+På fliken [!UICONTROL Team] markerar vi tre viktiga mätvärden.
 
 ## E-postmeddelanden skickade med mall {#emails-sent-with-template}
 

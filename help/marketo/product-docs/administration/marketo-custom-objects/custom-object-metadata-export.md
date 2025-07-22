@@ -3,20 +3,20 @@ description: Export av metadata för anpassade objekt - Marketo Docs - produktdo
 title: Exportera metadata för anpassat objekt
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
 # Exportera metadata för anpassat objekt {#custom-object-metadata-export}
 
-Om du använder vårt SOAP API eller Munchkin API kan du exportera ett anpassat objektmetadataschema. Så här skaffar du den.
+Om du använder SOAP API eller [!DNL Munchkin] API kan du exportera metadataschemat för anpassade objekt. Så här skaffar du den.
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

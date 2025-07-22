@@ -4,9 +4,9 @@ description: Konfigurera en säljprojektsanalys - Marketo Docs - produktdokument
 title: Konfigurera en analys av affärsmöjlighet
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ När du har [skapat en analys av affärsmöjlighet](/help/marketo/product-docs/r
 >
 >[Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Klicka på **Analys**.
+1. Klicka på **[!UICONTROL Analytics]**.
 
    ![](assets/login-to-analytics.png)
 
-1. Gå till Analytics och välj din säljprojektsanalys.
+1. Gå till **[!UICONTROL Analytics]** och välj din analys av affärsmöjlighet.
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på panelen **Inställningar** eller genom att minska typerna av intressanta stunder.
+   Om det finns för många intressanta stunder i analysdiagrammet kan du minska dem genom att avmarkera personer på panelen **[!UICONTROL Settings]** eller genom att minska typerna av intressanta stunder.
 
-1. Om du vill konfigurera vilka typer av intressanta stunder som ska inkluderas går du till fliken Inställningar och drar i filtret Intressanta stunder.
+1. Om du vill konfigurera vilka typer av intressanta stunder som ska inkluderas går du till fliken **[!UICONTROL Setup]** och drar i filtret **[!UICONTROL Interesting Moments]**.
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. Välj om du vill visa alla, inga eller några.
+1. Välj om du vill visa **[!UICONTROL All]**, **[!UICONTROL None]** eller **[!UICONTROL Some]**.
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. Om du väljer Vissa kan du välja vilka typer som ska inkluderas.
+1. Om du väljer **[!UICONTROL Some]** kan du sedan välja vilka typer som ska inkluderas.
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Klicka på varje typ av intressant ögonblick du vill ha. Klicka sedan på **Spara**.
+1. Klicka på varje typ av intressant ögonblick du vill ha. Klicka sedan på **[!UICONTROL Save]**.
 
 1. Klicka på huvudfliken om du vill se historiken för affärsmöjligheten med bara de valda typerna av intressanta ögonblick.
 

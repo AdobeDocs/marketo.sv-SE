@@ -4,9 +4,9 @@ description: Förstå Ad Network-integreringar - Marketo Docs - produktdokumenta
 title: Förstå annonsnätverksintegreringar
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Så fungerar annonsnätverk {#how-ad-network-integrations-work}
 
-Integrering med annonsnätverk kopplar samman Marketo unika målgruppsdata med era betalda mediasystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer. Dessa integreringar fungerar för närvarande med Facebook, LinkedIn och Google.
+Integrering med annonsnätverk kopplar samman Marketo unika målgruppsdata med era betalda mediasystem så att ni kan köra mer målinriktade, personaliserade digitala annonskampanjer. Dessa integreringar fungerar för närvarande med [!DNL Facebook], [!DNL LinkedIn] och Google.
 
 Funktionerna är följande:
 
@@ -30,7 +30,7 @@ Funktionerna är följande:
 
 * Inhämta leads eller data från betalda mediesystem till Marketo
 
-   * En Facebook-användare kan till exempel klicka på en prenumerationsknapp och ange ett namn och en e-postadress
+   * En [!DNL Facebook]-användare klickar på en prenumerationsknapp och anger ett namn och en e-postadress
 
 * Överföra offlinekonverteringsdata till betalda mediesystem, optimera kundvärvning och vårdsaktiviteter
 
@@ -44,11 +44,11 @@ Funktionerna är följande:
 
 Du kan använda integreringar för att:
 
-* [Lägg till Google AdWords som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Lägg till leads till en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [Konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [Använd en Marketo-lista eller smart lista som ett målgruppssegment i LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [Lägg till Google [!DNL AdWords] som en [!DNL LaunchPoint] tjänst](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Lägg till leads till en anpassad publik i  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Skapa en anpassad målgrupp i  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Konfigurera  [!DNL Facebook] offlinekonverteringar](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Använd en Marketo-lista eller smart lista som ett  [!DNL LinkedIn] målgruppssegment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | Målgruppsdata | Radmatning | Offlinekonvertering |
 |---|---|---|---|

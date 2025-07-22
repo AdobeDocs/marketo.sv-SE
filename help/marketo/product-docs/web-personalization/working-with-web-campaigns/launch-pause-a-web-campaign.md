@@ -4,9 +4,9 @@ description: Starta/pausa en webbkampanj - Marketo Docs - Produktdokumentation
 title: Starta/pausa en webbkampanj
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [ i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
 
-Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanjer eller sidan Ange webbkampanjer.
+Du kan starta eller pausa en webbkampanj på två sätt från sidan [!UICONTROL Web Campaigns] eller sidan [!UICONTROL Set Web Campaigns].
 
-1. Klicka på **Web Personalization**.
+1. Klicka på **[!UICONTROL Web Personalization]**.
 
    ![](assets/one-1.png)
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/two-1.png)
 
-1. Om kampanjen startas klickar du på **Starta** för att ändra kampanjens status till **Pausad** för att pausa kampanjen.
+1. Om kampanjen startas klickar du på **[!UICONTROL Launched]** för att ändra kampanjens status till **[!UICONTROL Paused]**, så att kampanjen pausas.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. Om kampanjen är pausad klickar du på **Pausad** för att ändra kampanjens status till **Starta**. Detta aktiverar och startar kampanjen.
+1. Om kampanjen har pausats klickar du på **[!UICONTROL Paused]** för att ändra kampanjens status till **[!UICONTROL Launched]**. Detta aktiverar och startar kampanjen.
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 
@@ -37,11 +37,11 @@ Du kan starta eller pausa en webbkampanj på två sätt från sidan Webbkampanje
    >
    >Du kan också ändra kampanjstatusen på sidan Ange kampanj.
 
-1. Klicka på **Redigera** i kampanjen.
+1. Klicka på **[!UICONTROL Edit]** i kampanjen.
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. Klicka på **Spara** för att spara och pausa kampanjen. Klicka på **Starta** för att starta och aktivera kampanjen.
+1. Klicka på **[!UICONTROL Save]** om du vill spara och pausa kampanjen. Klicka på **[!UICONTROL Launch]** för att starta och aktivera kampanjen.
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 

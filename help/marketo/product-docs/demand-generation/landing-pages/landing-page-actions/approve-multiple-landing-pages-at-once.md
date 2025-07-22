@@ -4,20 +4,20 @@ description: Godkänn flera landningssidor samtidigt - Marketo Docs - produktdok
 title: Godkänn flera landningssidor samtidigt
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 # Godkänn flera landningssidor samtidigt {#approve-multiple-landing-pages-at-once}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Klicka på **Landningssidor**.
+1. Klicka på **[!UICONTROL Landing Pages]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

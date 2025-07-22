@@ -3,16 +3,16 @@ description: Förstå teamfliken - Marketo Docs - produktdokumentation
 title: Förstå teamfliken
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# Förstå teamfliken {#understanding-the-team-tab}
+# Fliken [!UICONTROL Team] {#understanding-the-team-tab}
 
-På fliken Team belyser vi tre viktiga mätvärden.
+På fliken [!UICONTROL Team] markerar vi tre viktiga mätvärden.
 
 ## E-postmeddelanden skickade med mall {#emails-sent-with-template}
 

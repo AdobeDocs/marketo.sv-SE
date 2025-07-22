@@ -4,9 +4,9 @@ description: Utfärda/återkalla en licens för en marknadsföringskalender - Ma
 title: Utfärda/återkalla en licens för en marknadsföringskalender
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 1%
 
 ---
@@ -43,6 +43,6 @@ Om du vill använda dina [platser i marknadsföringskalendern](/help/marketo/pro
 
    ![](assets/4.png)
 
-   Snyggt gjort! Se den gröna bockmarkeringen under &quot;Kalender?&quot;
+   Snyggt gjort! Visa den gröna bockmarkeringen under [!UICONTROL Calendar]?
 
    ![](assets/5.png)

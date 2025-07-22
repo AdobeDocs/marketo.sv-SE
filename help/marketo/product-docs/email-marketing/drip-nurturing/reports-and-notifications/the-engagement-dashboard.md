@@ -4,9 +4,9 @@ description: The Engagement Dashboard - Marketo Docs - produktdokumentation
 title: Instrumentpanelen för engagemang
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Engagement Dashboard är det enklaste sättet att se hur innehållet i ert engag
 
 ## Visa instrumentpanelen för engagemang {#view-the-engagement-dashboard}
 
-Välj ditt engagemangsprogram och klicka på **Visa** > **Kontrollpanel**.
+Välj ditt engagemangsprogram och klicka på **Visa** > **[!UICONTROL Dashboard]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Med den här widgeten kan du förutse när leads har fyllt allt innehåll. Utmat
 
 >[!NOTE]
 >
->Du måste gå till fliken Inställningar och kontrollera att meddelanden om utfyllt innehåll är **På** för att se diagrammet ovan. Om de är av ser diagrammet annorlunda ut.
+>Du måste gå till fliken [!UICONTROL Setup] och se till att [!UICONTROL Exhausted Content Notifications] är **[!UICONTROL On]** för att se diagrammet ovan. Om de är av ser diagrammet annorlunda ut.
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ Visar den genomsnittliga engagemangspoängen över tid och effekten av innehåll
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som tillägg för kunder som använder Marketo Revenue Cycle Explorer. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Den här funktionen är tillgänglig som tillägg för kunder som använder Marketo Revenue Cycle Explorer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

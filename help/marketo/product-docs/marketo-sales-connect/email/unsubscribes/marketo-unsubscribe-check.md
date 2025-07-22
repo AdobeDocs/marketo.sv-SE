@@ -4,16 +4,16 @@ description: Marketo Unsubscribe Check - Marketo Docs - produktdokumentation
 title: Avbeställ Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Avbeställ Marketo {#marketo-unsubscribe-check}
 
-Marketo Unsubscribe Check (Avbeställ kontroll) använder teamets anslutning till Marketo för att förhindra att e-postmeddelanden skickas till personer som har avbeställt tjänsten i Marketo Lead Management System. När en säljanvändare skickar ett e-postmeddelande med Sales Connect, görs ett API-anrop till Marketo för att kontrollera om e-post-ID:t har avbrutits. I så fall blockerar vi e-postmeddelandet från att skickas.
+[!UICONTROL Marketo Unsubscribe Check] använder teamets anslutning till Marketo för att förhindra att e-postmeddelanden skickas till personer som har avbrutit prenumerationen i Marketo Lead Management-system. När en säljanvändare skickar ett e-postmeddelande med [!DNL Sales Connect], görs ett API-anrop till Marketo för att kontrollera om e-post-ID:t har avbrutits. I så fall blockerar vi e-postmeddelandet från att skickas.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Marketo Unsubscribe Check (Avbeställ kontroll) använder teamets anslutning til
 
 ## Aktiverar {#turning-it-on}
 
-1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i webbprogrammet och välj **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-3.png)
 
-1. Klicka på **Integrationer**.
+1. Klicka på **[!UICONTROL Integrations]**.
 
    ![](assets/three-3.png)
 
-1. Aktivera kontrollen genom att klicka på skjutreglaget i avsnittet Avsluta prenumeration på Marketo.
+1. Klicka på skjutreglaget i avsnittet [!UICONTROL Marketo Unsubscribe Check] för att aktivera kontrollen.
 
    ![](assets/four-2.png)
 

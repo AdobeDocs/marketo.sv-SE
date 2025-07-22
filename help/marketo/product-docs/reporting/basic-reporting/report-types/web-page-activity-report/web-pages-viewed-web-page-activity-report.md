@@ -4,20 +4,20 @@ description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - 
 title: Visade webbsidor, aktivitetsrapport för webbsida
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Visade webbsidor, aktivitetsrapport för webbsida {#web-pages-viewed-web-page-activity-report}
 
-Från en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) kan du se de specifika sidor som personer i rapporten har visat.
+Från en [[!UICONTROL Web Page Activity]-rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) kan du se de specifika sidor som personerna i rapporten har visat.
 
 >[!PREREQUISITES]
 >
->Om du vill hämta aktiviteter från din webbplats i Marketo måste du först [konfigurera Munchkin på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om du vill hämta aktiviteter från din webbplats i Marketo måste du först [konfigurera [!DNL Munchkin] på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. Klicka på personens namn i [webbsidesaktivitetsrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md).
 

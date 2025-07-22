@@ -4,9 +4,9 @@ description: Skapa en ny dialogruta - Webbkampanj - Marketo Docs - Produktdokume
 title: Skapa en ny webbkampanj för dialog
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Skapa en webbkampanj för att personalisera ert webbinnehåll i realtid och leve
 
 En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. Svaret kan vara en dialogruta på webbplatsen, en [i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en [widgetfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) eller en e-postavisering.
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Välj **Skapa ny webbkampanj**.
+1. Välj **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Välj webbkampanjtypen **Dialog**. Designa och lägg till din kreativitet i redigeraren. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
+1. Välj webbkampanjtypen **[!UICONTROL Dialog]**. Designa och lägg till din kreativitet i redigeraren. Klicka på **[!UICONTROL Preview]** om du vill se hur webbkampanjen kommer att reagera på din webbplats.
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-1. På sidan **Webbkampanjer** klickar du på **Redigera** i webbkampanjen.
+1. Klicka på **[!UICONTROL Web Campaigns]** på webbkampanjen på sidan **[!UICONTROL Edit]**.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment. 
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. På sidan **Webbkampanjer** klickar du på **Förhandsgranska** på den webbkampanj som du vill visa.
+1. Klicka på **[!UICONTROL Web Campaigns]** på webbkampanjen som du vill visa på sidan **[!UICONTROL Preview]**.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. På sidan **Webbkampanjer** klickar du på **Ta bort** på den webbkampanj som du vill ta bort.
+1. Klicka på **[!UICONTROL Web Campaigns]** på webbkampanjen som du vill ta bort på sidan **[!UICONTROL Delete]**.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

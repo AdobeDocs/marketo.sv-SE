@@ -4,9 +4,9 @@ description: Detaljerad rapport om personprestanda - Marketo Docs - produktdokum
 title: Öka detaljnivån i en rapport om personprestanda
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gå ned i en rapport om personprestanda om du vill se ytterligare personinformation.
 
-1. Klicka på fliken **Rapport** om du vill visa en befintlig rapport.
+1. Klicka på fliken **[!UICONTROL Report]** om du vill visa en befintlig rapport.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/two.png)
 
-1. Klicka på **Detaljerad**.
+1. Klicka på **[!UICONTROL Drill-Down]**.
 
    ![](assets/three.png)
 
-1. I popup-fönstret **Detaljnivå** väljer du det attribut du vill gå ned till. Klicka sedan på **Granska nedåt**.
+1. I popup-fönstret **[!UICONTROL Drill-Down]** väljer du det attribut du vill gå ned till. Klicka sedan på **[!UICONTROL Drill-Down]**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Gå ned i en rapport om personprestanda om du vill se ytterligare personinformat
 
    ![](assets/five.png)
 
-1. Om du vill spara dina resultat (valfritt) klickar du på ikonen **Exportera** längst ned till vänster.
+1. Om du vill spara dina resultat (valfritt) klickar du på ikonen **[!UICONTROL Export]** längst ned till vänster.
 
    ![](assets/six.png)

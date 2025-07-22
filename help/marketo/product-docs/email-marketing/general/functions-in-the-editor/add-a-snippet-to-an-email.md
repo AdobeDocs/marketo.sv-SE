@@ -4,9 +4,9 @@ description: Lägg till ett kodfragment i ett e-postmeddelande - Marketo Docs - 
 title: Lägga till ett kodfragment i ett e-postmeddelande
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Kodavsnitt är återanvändbara block med text och grafik som du kan använda i 
 >
 >Du kan inte bädda in någon [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment. Den kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på din e-postadress, markera den och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-2.png)
 
-1. Markera det redigerbara område som du vill konvertera till ett fragment, klicka på kugghjulsikonen och välj **Ersätt med fragment**.
+1. Markera det redigerbara område som du vill konvertera till ett fragment, klicka på kugghjulsikonen och välj **[!UICONTROL Replace with Snippet]**.
 
    ![](assets/two-2.png)
 
-1. Markera det fragment du vill använda och klicka på **Spara**.
+1. Markera det fragment du vill använda och klicka på **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 

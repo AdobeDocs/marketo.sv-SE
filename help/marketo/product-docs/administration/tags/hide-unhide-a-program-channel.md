@@ -4,9 +4,9 @@ description: Dölj/visa en programkanal - Marketo Docs - produktdokumentation
 title: Dölj/visa en programkanal
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Du kan [ta bort en programkanal](/help/marketo/product-docs/administration/tags/
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Klicka på **[!UICONTROL Hide]** under **[!UICONTROL Tag Actions]**.
+1. Klicka på **[!UICONTROL Tag Actions]** under **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 
@@ -41,6 +41,6 @@ Lätt fånget, lätt förgånget!
 
 ## Visa en programkanal {#unhide-a-program-channel}
 
-1. Visa en programkanal genom att markera kryssrutan Visa dolda.
+1. Visa en programkanal genom att markera kryssrutan **[!UICONTROL Show Hidden]**.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

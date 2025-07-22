@@ -4,9 +4,9 @@ description: Märka era webbkampanjer - Marketo Docs - Produktdokumentation
 title: Märka webbkampanjer
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Har ni så många kampanjer att rullningen blir krånglig? Använd etiketter fö
 
 ## Lägga till en etikett i en webbkampanj {#add-a-label-to-a-web-campaign}
 
-1. Logga in på Web Personalization och gå till Web Campaigns.
+1. Logga in på [!DNL Web Personalization] och gå till området [!UICONTROL Web Campaigns].
 
    ![](assets/web-campaigns-hand.jpg)
 

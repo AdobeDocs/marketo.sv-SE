@@ -4,10 +4,10 @@ description: Använda personinformationssidan - Marketo Docs - produktdokumentat
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 13%
+source-wordcount: '525'
+ht-degree: 14%
 
 ---
 
@@ -43,8 +43,8 @@ Personinformation kategoriseras på följande flikar:
 | Info | Kontaktinformation och anpassade fält om en person. |
 | Företagsinformation | Personens företagsinformation och adress. |
 | Information om affärsmöjlighet | Information om affärsmöjlighet synkroniserad från Salesforce. |
-| SFDC-huvudfält | Inbyggda Salesforce-fält. |
-| SFDC anpassat fält | Anpassade Salesforce-fält. |
+| SFDC Lead Field | Inbyggda Salesforce-fält. |
+| Anpassat fält för SFDC | Anpassade Salesforce-fält. |
 | Aktivitetslogg | Alla aktiviteter som rör personen. |
 
 ## Sidorganisation - Microsoft Dynamics {#page-organization-microsoft-dynamics}
@@ -60,7 +60,7 @@ Personinformation kategoriseras på följande flikar:
 
 >[!NOTE]
 >
->Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
+>Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 
@@ -80,12 +80,12 @@ Många fält kan redigeras. Om du vill uppdatera en persons information skriver 
 | Bransch | Inaktuell ort | Berört företag | Berört land | Ingående metropolitområde |
 | Riktnummer för inkommande telefon | Infört postnummer | Ingångsregion | Är anonym | Är kund |
 | Är partner | Befattning | Efternamn | Klassificering | Poäng |
-| Person Source | Status | Telefon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
-| Marketo Social Facebook Photo URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Refererade registreringar från Marketo Social Facebook | Refererade Marketo Social Facebook-besök |
-| Marketo Social Genus | Marketo Social, senast refererad registrering | Marketo Social, senaste refererat besök | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
-| Marketo Social LinkedIn Photo URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Refererade registreringar från Marketo Social LinkedIn | Refererade Marketo Social LinkedIn-besök |
-| Marketo Social Syndication ID | Marketo Social, totalt antal refererade registreringar | Marketo Social, totalt antal refererade besök | Visningsnamn för Marketo Social Twitter | Marketo Social Twitter-ID |
-| Marketo Social Twitter Photo URL | Profil-URL för Marketo Social Twitter | Marketo Social Twitter Reach | Refererade registreringar för Marketo Social Twitter | Refererade besök i Marketo Social Twitter |
+| Person Source | Status | Telefon | Visningsnamn för Marketo Social [!DNL Facebook] | Marketo Social [!DNL Facebook]-ID |
+| Marketo Social [!DNL Facebook] Photo URL | Profil-URL för Marketo Social [!DNL Facebook] | Marketo Social [!DNL Facebook] - räckvidd | Marketo Social [!DNL Facebook] - refererade registreringar | Refererade Marketo Social [!DNL Facebook]-besök |
+| Marketo Social Genus | Marketo Social, senast refererad registrering | Marketo Social, senaste refererat besök | Visningsnamn för Marketo Social [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn]-ID |
+| Marketo Social [!DNL LinkedIn] Photo URL | Profil-URL för Marketo Social [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] - räckvidd | Marketo Social [!DNL LinkedIn] - refererade registreringar | Refererade Marketo Social [!DNL LinkedIn]-besök |
+| Marketo Social Syndication ID | Marketo Social, totalt antal refererade registreringar | Marketo Social, totalt antal refererade besök | Visningsnamn för Marketo Social [!DNL Twitter] | Marketo Social [!DNL Twitter]-ID |
+| Marketo Social [!DNL Twitter] Photo URL | Profil-URL för Marketo Social [!DNL Twitter] | Marketo Social [!DNL Twitter] - räckvidd | Marketo Social [!DNL Twitter] - refererade registreringar | Refererade Marketo Social [!DNL Twitter]-besök |
 | Mellannamn | Mobiltelefon | Antal anställda | Telefonnummer | Postnummer |
 | Prioritet | Relativa poäng | Roll | Titel | SNI-kod |
 | Plats | Stat | Avprenumererad | Orsak till avprenumeration | Uppdaterat den |

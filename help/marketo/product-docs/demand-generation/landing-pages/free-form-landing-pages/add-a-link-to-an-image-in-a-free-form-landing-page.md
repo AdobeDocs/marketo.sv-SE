@@ -4,9 +4,9 @@ description: Lägg till en länk till en bild på en landningssida i fri form - 
 title: Lägga till en länk till en bild på en startsida med valfri form
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Vill du göra en bild på landningssidan till en länk till en annan sida/plats?
 
    ![](assets/click-on-image.png)
 
-1. Expandera **egenskapssidan**.
+1. Expandera **[!UICONTROL Property Sheet]**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Kopiera eller skriv in länken i rutan **linkUrl**.
+1. Kopiera eller skriv in länken i rutan **[!UICONTROL linkUrl]**.
 
    ![](assets/add-link.png)
 

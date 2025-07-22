@@ -4,30 +4,30 @@ description: Aktivera anpassad fältsynkronisering för intäktscykelanalys - Ma
 title: Aktivera anpassad fältsynkronisering för intäktscykelanalys
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# Aktivera anpassad fältsynkronisering för intäktscykelanalys {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aktiverar synkronisering av anpassade fält för [!UICONTROL Revenue Cycle Analytics] {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Med följande steg kan du använda anpassade fält i RCA-rapporter.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Intäktscykelanalys** och sedan på **Synkronisering av anpassat fält**.
+1. Klicka på **[!UICONTROL Revenue Cycle Analytics]** och sedan på **[!UICONTROL Custom Field Sync]**.
 
    ![](assets/two.png)
 
-1. Markera **fältnamnet** och klicka sedan på **Redigera synkroniseringsalternativ**.
+1. Välj din **[!UICONTROL Field Name]** och klicka sedan på **[!UICONTROL Edit Sync Option]**.
 
    ![](assets/three.png)
 
-1. Under Synkroniseringsstatus väljer du **Aktiverad** och klickar sedan på **Spara**.
+1. Under **[!UICONTROL Sync Status]** väljer du **[!UICONTROL Enabled]** och klickar sedan på **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ Med följande steg kan du använda anpassade fält i RCA-rapporter.
 
    >[!NOTE]
    >
-   >När fältet är aktiverat är informationen tillgänglig i Inkomstcykelanalys nästa dag.
+   >När fältet har aktiverats är data tillgängliga i [!UICONTROL Revenue Cycle Analytics] nästa dag.

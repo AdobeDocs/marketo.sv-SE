@@ -4,16 +4,16 @@ description: Rankning och justering av kontoprofilering - Marketo Docs - produkt
 title: Rankning och justering av kontoprofilering
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 0%
+source-wordcount: '380'
+ht-degree: 1%
 
 ---
 
 # Rankning och justering av kontoprofilering {#account-profiling-ranking-and-tuning}
 
-Kontoprofilering identifierar din Ideal Customer Profile (ICP), rangordnar företag i din databas baserat på ICP och lägger till ICP Indicator-data till konton som befordrats som namngivna konton.
+Kontoprofilering identifierar din Ideal Customer Profile (ICP), rangordnar företag i din databas baserat på ICP och lägger till ICP-indikatordata till konton som marknadsförs som [!UICONTROL Named Accounts].
 
 >[!IMPORTANT]
 >
@@ -30,28 +30,28 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Rankning</strong></td> 
+   <td><strong><span class="uicontrol">Rankning</span></strong></td> 
    <td> 
     <div>
       Kontorangordningen baseras på kundprofilen Ideal. A är bäst, D är minst passad. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Propensitet</strong></td> 
+   <td><strong><span class="uicontrol">Propensitet</span></strong></td> 
    <td> 
     <div>
       Uppskattad ökning av konverteringsgraden jämfört med ett icke-ICP-baserat urval av konton. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Konton (%)</strong></td> 
+   <td><strong><span class="uicontrol">Konton (%)</span></strong></td> 
    <td> 
     <div>
       Procentandel konton i modellindata som har den här rangordningen. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>% av modellbasen</strong></td> 
+   <td><strong><span class="uicontrol">% av modellbasen</span></strong></td> 
    <td> 
     <div>
       Procent av konton i modellbasen som har den här rangordningen. 
@@ -62,7 +62,7 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 
 ## Modelljustering {#model-tuning}
 
-Klicka på knappen Justera modell på fliken Modell.
+Klicka på knappen **[!UICONTROL Tune Model]** på fliken Modell.
 
 ![](assets/two.png)
 
@@ -75,77 +75,77 @@ Det finns flera flikar att välja mellan, vilket möjliggör en djupgående anpa
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Regelefterlevnad</strong></td> 
+   <td><strong><span class="uicontrol">Regelefterlevnad</span></strong></td> 
    <td> 
     <div>
       Certifieringar, regelefterlevnadsrelaterade positioner/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Användning</strong></td> 
+   <td><strong><span class="uicontrol">Användning</span></strong></td> 
    <td> 
     <div>
       Driftsrelaterade positioner/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>HR</strong></td> 
+   <td><strong><span class="uicontrol">HR</span></strong></td> 
    <td> 
     <div>
       HR- eller löneprogramvara, HR-relaterade befattningar/anställning.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Teknik</strong></td> 
+   <td><strong><span class="uicontrol">Teknik</span></strong></td> 
    <td> 
     <div>
       Teknik, ramverk, ingenjörsrelaterade positioner/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Försäljning</strong></td> 
+   <td><strong><span class="uicontrol">Försäljning</span></strong></td> 
    <td> 
     <div>
       Lösningar och programvara för försäljning, försäljningsrelaterade positioner/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Återgivning</strong></td> 
+   <td><strong><span class="uicontrol">Återgivning</span></strong></td> 
    <td> 
     <div>
       Avfallsindikatorer. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>IT</strong></td> 
+   <td><strong><span class="uicontrol">IT</span></strong></td> 
    <td> 
     <div>
       Maskinvaru- och programvarulösningar, tekniker, IT-relaterade befattningar/anställning.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Ekonomi</strong></td> 
+   <td><strong><span class="uicontrol">Ekonomi</span></strong></td> 
    <td> 
     <div>
       Ekonomisk programvara, finansiella tjänster/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Marknadsföring</strong></td> 
+   <td><strong><span class="uicontrol">Marknadsföring</span></strong></td> 
    <td> 
     <div>
       Marknadsföringsteknologier och programvara, marknadsrelaterade befattningar/anställning. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Business</strong></td> 
+   <td><strong><span class="uicontrol">Business</span></strong></td> 
    <td> 
     <div>
       Forbes eller Inc listings eller Business Partnership. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Kundupplevelser och relationer</strong></td> 
+   <td><strong><span class="uicontrol">Kundupplevelser och relationer</span></strong></td> 
    <td> 
     <div>
       Kundframgångar och kundrelationer befattningar/anställning.
@@ -158,26 +158,26 @@ Håll pekaren över verktygstipsen om du vill se en beskrivning av varje kolumn.
 
 ![](assets/tool-tip.png)
 
-Klicka på listrutan Lägg till ICP-indikator för att infoga ytterligare indikatorer i modellen.
+Klicka på listrutan [!UICONTROL Add ICP Indicator] för att infoga ytterligare indikatorer i modellen.
 
 ![](assets/add-icp.png)
 
-Om du markerar rutan Exportera kan du se ICP-indikatorn på sidan med namngivna kontouppgifter, och du kan använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Om du markerar rutan [!UICONTROL Export] kan du se ICP-indikatorn på informationssidan för [!UICONTROL Named Account] och använda den valda ICP-indikatorn som begränsningar i [namngivna kontofilter](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-indikatorer ingår som begränsningar i **Medlem av namngivet konto** - filter och utlösare.
+>ICP-indikatorer inkluderas som begränsningar i **[!UICONTROL Member of Named Account]**-filter och utlösare.
 
-Indikatorns viktning styr den prioritetsnivå som varje indikator får i din modell.
+[!UICONTROL Indicator Weightage] är den prioritetsnivå som varje indikator får i din modell.
 
 ![](assets/weightage.png)
 
-Klicka på Uppdatera modell för att ändringarna ska börja gälla.
+Klicka på **[!UICONTROL Refresh Model]** för att ändringarna ska börja gälla.
 
 ![](assets/refresh-button.png)
 
-När du är klar med att justera modellen (efter att du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **Spara och tillämpa rangordning**.
+När du är klar med att justera modellen (efter att du har uppdaterat den) går du tillbaka till fliken Modellresultat och klickar på **[!UICONTROL Save & Apply Ranks]**.
 
 ![](assets/ranks.png)

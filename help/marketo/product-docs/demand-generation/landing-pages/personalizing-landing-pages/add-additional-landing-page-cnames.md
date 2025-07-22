@@ -4,9 +4,9 @@ description: Lägg till fler CNAME-filer för landningssida - Marketo Docs - pro
 title: Lägg till ytterligare CNAME för landningssida
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
+1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin ID.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
@@ -57,19 +57,19 @@ Du kanske vill lägga till CNAME för landningssidor så att olika URL:er kan pe
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klicka på **Nytt** och välj sedan **Nytt domänalias**.
+1. Klicka på **[!UICONTROL New]** och välj sedan **[!UICONTROL New Domain Alias]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Ange ditt **domänalias.** **Standardsidan** visas om besökaren inte anger en URL. Ange vart de ska gå i så fall.
+1. Ange din **[!UICONTROL Domain Alias].** **[!UICONTROL Default Page]** visas om besökaren inte anger en URL. Ange vart de ska gå i så fall.
 
    >[!NOTE]
    >
-   >För standardsidan kan du välja en landningssida eller en extern URL-adress, till exempel din offentliga webbplats.
+   >För [!UICONTROL Default Page] kan du välja en landningssida eller en extern URL, till exempel din offentliga webbplats.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Ange din **standardsida** och klicka på **Skapa**.
+1. Ange din **[!UICONTROL Default Page]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

@@ -4,14 +4,14 @@ description: Lägg till ett befintligt namngivet konto i en kontolista - Marketo
 title: Lägg till ett befintligt namngivet konto i en kontolista
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Lägg till ett befintligt namngivet konto i en kontolista {#add-an-existing-named-account-to-an-account-list}
+# Lägg till en befintlig [!UICONTROL Named Account] i en kontolista {#add-an-existing-named-account-to-an-account-list}
 
 Det är enkelt att lägga till ett namngivet konto i en kontolista.
 
@@ -23,11 +23,11 @@ Det är enkelt att lägga till ett namngivet konto i en kontolista.
 
    ![](assets/four-1.png)
 
-1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Lägg till i kontolistan**.
+1. Klicka på listrutan **[!UICONTROL Named Account Actions]** och välj **[!UICONTROL Add to Account List]**.
 
    ![](assets/five-1.png)
 
-1. Klicka på listrutan **Kontolista**, markera önskad kontolista och klicka på **Lägg till**.
+1. Klicka på listrutan **[!UICONTROL Account List]**, markera önskad kontolista och klicka på **[!UICONTROL Add]**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ Det är enkelt att lägga till ett namngivet konto i en kontolista.
 
 >[!MORELIKETHIS]
 >
->[Skapa ett namngivet konto](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Skapa en [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

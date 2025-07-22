@@ -3,9 +3,9 @@ description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdo
 title: Lägg till eller ta bort chattanvändare
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Ange namn, användargrupp eller e-postadress för den användare som du vill lägga till. Förnamn och efternamn är valfria.
+1. Ange [!UICONTROL name, user group, or email address] för användaren som du vill lägga till. Förnamn och efternamn är valfria.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -54,11 +54,11 @@ Följ stegen nedan för att lägga till eller ta bort chattanvändare.
 
    >[!NOTE]
    >
-   >När du har lagt till en användare i Admin Console i Adobe kan det ta upp till två timmar innan de visas på Dynamic Chat Agent Management-sidan.
+   >När du har lagt till en användare i Adobe Admin Console kan det ta upp till två timmar innan de visas på Dynamic Chat Agent Management-sidan.
 
-## Lägg till Dynamic Chat i Marketo-rollen {#add-dynamic-chat-access-to-marketo-role}
+## Lägg till Dynamic Chat Access i Marketo Roll {#add-dynamic-chat-access-to-marketo-role}
 
-Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Chat-behörighet gör du så här.
+Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har [!DNL Dynamic Chat] behörighet gör du så här.
 
 1. Klicka på **[!UICONTROL Admin]** i Marketo och välj **[!UICONTROL Users & Roles]**.
 
@@ -108,5 +108,5 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har Dynamic Ch
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
->* [Hantera användare individuellt](https://helpx.adobe.com/se/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

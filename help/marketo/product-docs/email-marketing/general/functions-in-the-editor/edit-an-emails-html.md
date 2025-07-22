@@ -1,31 +1,31 @@
 ---
 unique-page-id: 1900554
-description: Redigera ett e-postmeddelande HTML - Marketo Docs - Produktdokumentation
-title: Redigera HTML för ett e-postmeddelande
+description: Redigera en e-postes HTML - Marketo Docs - produktdokumentation
+title: Redigera en e-posts HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-# Redigera HTML för ett e-postmeddelande {#edit-an-emails-html}
+# Redigera en e-posts HTML {#edit-an-emails-html}
 
-Ibland kan du behöva ändra e-postmeddelandets underliggande HTML. Ibland kan du använda ett externt system för att utforma och bygga din e-postkod. Oavsett vilket kan du enkelt importera och/eller redigera kod i e-postredigeraren.
+Ibland kan du behöva ändra ett e-postmeddelandes underliggande HTML. Ibland kan du använda ett externt system för att utforma och bygga din e-postkod. Oavsett vilket kan du enkelt importera och/eller redigera kod i e-postredigeraren.
 
 ## Redigera HTML {#edit-html}
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/teamspidey.jpg)
 
-1. Klicka på **Redigera kod**.
+1. Klicka på **[!UICONTROL Edit Code]**.
 
    ![](assets/two-4.png)
 
-1. Gör eventuella ändringar. Klicka på **Spara** när du är klar.
+1. Gör eventuella ändringar. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/three-3.png)
 
@@ -33,7 +33,7 @@ Ibland kan du behöva ändra e-postmeddelandets underliggande HTML. Ibland kan d
    >
    >Ändra vad du vill. Du kan ersätta hela HTML eller göra mindre justeringar.
 
-1. Klicka på listrutan **Kodåtgärder** om du vill hämta koden som en HTML-fil, infoga CSS-koden eller validera HTML.
+1. Klicka på listrutan **[!UICONTROL Code Actions]** för att hämta koden som en HTML-fil, infoga din CSS eller validera HTML.
 
    ![](assets/four-2.png)
 
@@ -62,15 +62,15 @@ Följande saker du kan göra i kodredigeraren **kommer** att bryta e-postmeddela
 
 Använd sökkodsfunktionen för att effektivt söka efter och ersätta innehåll i e-postmeddelandets HTML-kod.
 
-1. Klicka på **Sök kod** i e-postkoden.
+1. Klicka på **[!UICONTROL Search Code]** i e-postkoden.
 
    ![](assets/five-2.png)
 
-1. Ange vad du vill söka efter och klicka på **Sök nästa** för att söka framåt eller **Sök föregående** för att söka bakåt. Du kan också **Ersätt** och **Ersätt alla**.
+1. Ange vad du vill söka efter och klicka på **[!UICONTROL Find Next]** för att söka framåt eller **[!UICONTROL Find Previous]** för att söka bakåt. Du kan även välja att **[!UICONTROL Replace]** och **[!UICONTROL Replace All]**.
 
    ![](assets/six-1.png)
 
-1. Klicka på **Stäng** när du är klar.
+1. Klicka på **[!UICONTROL Close]** när du är klar.
 
    ![](assets/seven.png)
 

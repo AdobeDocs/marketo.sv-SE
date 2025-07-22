@@ -4,9 +4,9 @@ description: Redigera landningssidans titel och metadata - Marketo Docs - produk
 title: Redigera landningssidrubrik och metadata
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I Marketo kan du redigera [metataggar för landningssidan för SEO](https://www.w3schools.com/tags/tag_meta.asp) samt anpassa `<head>`-delen av HTML.
 
-1. Markera en landningssida och klicka på **Redigera utkast**.
+1. Välj en landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,11 +23,11 @@ I Marketo kan du redigera [metataggar för landningssidan för SEO](https://www.
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Klicka på **Redigera sidmetataggar** under **Åtgärder för landningssida**.
+1. Klicka på **[!UICONTROL Landing Page Actions]** under **[!UICONTROL Edit Page Meta Tags]**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Ange **titel**, **nyckelord** och **beskrivning** för sidan. Markera det önskade alternativet **Robots** och ange eventuellt anpassat innehåll för sektionen `<head>` i HTML. Klicka på **Spara**.
+1. Ange **[!UICONTROL Title]**, **[!UICONTROL Keywords]** och **[!UICONTROL Description]** för sidan. Välj önskat **[!UICONTROL Robots]**-alternativ och ange önskat anpassat innehåll för HTML `<head>` -avsnittet. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

@@ -1,16 +1,16 @@
 ---
-description: Steg 3 av 4 - Konfigurera klientapp för MS Dynamics - Marketo Docs - Produktdokumentation
-title: Steg 3 av 4 - Konfigurera klientappen för MS Dynamics
+description: Steg 3 av 4 - Konfigurera klientapp på MS [!DNL Dynamics] - Marketo Docs - produktdokumentation
+title: Steg 3 av 4 - Konfigurera klientapp på MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# Steg 3 av 4: Konfigurera klientapp för MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
+# Steg 3 av 4: Konfigurera klientapp på MS [!DNL Dynamics] {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 1. Navigera till den här [Microsoft-artikeln](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
-1. Följ alla steg. I steg 3 anger du ett relevant programnamn (t.ex.&quot;Marketo Integration&quot;). Välj Konto endast i den här organisationskatalogen under Kontotyper som stöds.
+1. Följ alla steg. I steg 3 anger du ett relevant programnamn (t.ex. [!DNL Marketo Integration]). Välj Konto endast i den här organisationskatalogen under Kontotyper som stöds.
 
 1. Skriv ned program-ID (ClientId). Du måste ange det i Marketo senare.
 
@@ -43,17 +43,17 @@ ht-degree: 0%
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
-## Azure AD Federated med AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
+## [!DNL Azure AD] Federated med [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD till ADFS OnPrem måste skapa en identifieringsprincip för hemsfär för det specifika programmet. Med den här principen dirigerar Azure AD om autentiseringsbegäran till federationstjänsten. Synkronisering av lösenordshash måste aktiveras i AD Connect för detta. Mer information finns i [OAuth med ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} och [Ange en tredje princip för ett program](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+Federated [!DNL Azure] AD till [!DNL ADFS Onprem] måste skapa en identifieringsprincip för Home Realm för det specifika programmet. Med den här principen dirigerar [!DNL Azure] AD om autentiseringsbegäran till federationstjänsten. Synkronisering av lösenordshash måste aktiveras i [!DNL AD Connect] för detta. Mer information finns i [[!DNL OAuth] med [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) och [Ange en tredje princip för ett program](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=Denna%20rapport%20innehåller även%20federerade%20är%20federerade%20till%20Azure%20AD.){target="_blank"}.
+Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=Denna%20rapport%20innehåller även%20federerade%20är%20federerade%20till%20Azure%20AD.){target="_blank"}.
 
 ## Innan du fortsätter till steg 4 {#before-proceeding-to-step-4}
 
-* Om du vill begränsa antalet poster som du synkroniserar konfigurerar [ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
-* Kör [Verifiera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}-processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
-* Logga in på Marketo Sync User i Microsoft Dynamics CRM.
+* Om du vill begränsa antalet poster som du synkroniserar konfigurerar [ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Verifiera [!DNL Microsoft Dynamics] synkroniseringsprocessen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Logga in på Marketo Sync User i [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >

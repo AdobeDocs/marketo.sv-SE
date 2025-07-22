@@ -4,9 +4,9 @@ description: Konfigurera meddelandebakgrunden i appen - Marketo Docs - produktdo
 title: Konfigurera meddelandebakgrunden i appen
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Om du vill ange en färg klickar du på **Färg** och sedan på färgmarkeringsrutan. Markera färgen genom att klicka på den eller ange koderna Hex eller RGB i färgväljaren.
+1. Om du vill ange en färg klickar du på **[!UICONTROL Color]** och sedan på färgmarkeringsrutan. Markera färgen genom att klicka på den eller ange Hex- eller RGB-koderna i färgväljaren.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
    >
    >Vanligtvis är vitt som standard en vinnare.
 
-1. Om du vill använda en bakgrund klickar du på **Bild** och sedan på länken **Välj bild** .
+1. Om du vill använda en bakgrund klickar du på **[!UICONTROL Image]** och sedan på länken **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Välj bland filer som överförts till Design Studio. Klicka på **Markera**.
+1. Välj bland filer som överförts till Design Studio. Klicka på **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Använd en valfri bildkant. Standardinställningen är **Av**. Markera först färgen genom att klicka på den eller genom att ange siffervärdena för Hex eller RGB i färgväljaren.
+1. Använd en valfri bildkant. Standardinställningen är **[!UICONTROL Off]**. Markera först färgen genom att klicka på den eller genom att ange Hex- eller RGB-numren i färgväljaren.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,7 +65,7 @@ Att välja en meddelandebakgrund är ett viktigt steg när du vill avsluta ditt 
 
    >[!NOTE]
    >
-   >För krysåtgärder för bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Inget**.
+   >För krysåtgärder för bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska skickas till den ena plattformen eller den andra ska du lämna den andra i standardinställningen eller välja **[!UICONTROL None]**.
 
    För att slutföra jobbet är det sista steget att [konfigurera knappen Stäng](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 

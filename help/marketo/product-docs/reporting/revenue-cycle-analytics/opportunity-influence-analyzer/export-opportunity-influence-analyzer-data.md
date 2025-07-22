@@ -4,9 +4,9 @@ description: Exportera data för påverkansanalys för affärsmöjlighet - Marke
 title: Exportera data för påverkansanalys för affärsmöjlighet
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analytics** och välj **New** > **New Report Subscription**.
+1. Gå till **[!UICONTROL Analytics]** och välj **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
    >
    >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. För Report Source väljer du **Revenue Explorer**.
+1. För **[!UICONTROL Report Source]** väljer du **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 

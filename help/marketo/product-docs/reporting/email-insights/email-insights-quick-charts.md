@@ -4,9 +4,9 @@ description: Snabbdiagram för e-postinsikter - Marketo Docs - produktdokumentat
 title: Snabbdiagram för e-postinsikter
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Snabbdiagram är miniatyrbilder som du anpassar och sparar, vilket ger en snabb 
 
 I det här exemplet väljer vi en öppen kurs för de första tre veckorna i februari 2016 i delstaterna Kalifornien och Florida.
 
-1. Klicka på datumfiltret till höger på analysskärmen.
+1. Klicka på datumfiltret till höger på skärmen [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
    ![](assets/two-2.png)
 
-1. När datumintervallet är markerat klickar du på **Använd**.
+1. När datumintervallet är markerat klickar du på **[!UICONTROL Apply]**.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
    ![](assets/5.png)
 
-1. Klicka på exportikonen till höger om diagrammet och välj **Spara som snabbdiagram**.
+1. Klicka på exportikonen till höger om diagrammet och välj **[!UICONTROL Save as Quick Chart]**.
 
    ![](assets/six.png)
 
-1. Ge snabbdiagrammet ett namn och klicka på **Spara**.
+1. Ge snabbdiagrammet ett namn och klicka på **[!UICONTROL Save]**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ I det här exemplet väljer vi en öppen kurs för de första tre veckorna i feb
 
 Vill du ta bort ett snabbdiagram? Det är enkelt!
 
-1. Klicka på ikonen **Snabbdiagram** .
+1. Klicka på ikonen **[!UICONTROL Quick Charts]**.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Vill du ta bort ett snabbdiagram? Det är enkelt!
 
    ![](assets/ten.png)
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 

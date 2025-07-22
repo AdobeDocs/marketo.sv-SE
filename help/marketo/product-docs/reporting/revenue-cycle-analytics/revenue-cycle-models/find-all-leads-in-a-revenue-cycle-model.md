@@ -4,9 +4,9 @@ description: Hitta alla leads i en intäktscykelmodell - Marketo Docs - produktd
 title: Hitta alla leads i en intäktscykelmodell
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ Genom att använda smarta listor kan du enkelt hitta alla medlemmar i intäktscy
 >
 >[Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Markera den smarta listan och klicka på fliken **Smart lista**.
+1. Markera den smarta listan och klicka på fliken **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Hitta filtret **Medlem i intäktsmodell** och dra det till arbetsytan.
+1. Hitta filtret **[!UICONTROL Member of Revenue Model]** och dra det till arbetsytan.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Välj en **modell**.
+1. Välj en **[!UICONTROL Model]**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Då får ni alla tips i den modellen, oavsett fas. Vanligtvis vill du ha en specifik scen. Använd följande filter i stället.
 
-1. Leta reda på filtret **Inkomstscen** och dra det till arbetsytan.
+1. Hitta filtret **[!UICONTROL Revenue Stage]** och dra det till arbetsytan.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Välj en **scen**.
+1. Välj en **[!UICONTROL Stage]**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Gå till fliken **Leads** för att visa resultaten.
+1. Gå till fliken **[!UICONTROL Leads]** för att visa resultaten.
 
    ![](assets/2.png)
 

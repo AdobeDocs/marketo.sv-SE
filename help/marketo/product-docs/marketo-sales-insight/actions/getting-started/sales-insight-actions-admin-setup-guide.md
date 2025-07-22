@@ -3,9 +3,9 @@ description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdok
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Kontrollera med kontoteamet (din kontohanterare) att MSI-åtgärder har aktiverats för ditt Marketo Engage-konto (om du inte har någon kontohanterare kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
+>* Bekräfta med kontogruppen på Adobe (din kontohanterare) att MSI-åtgärder har aktiverats för ditt Marketo Engage-konto (om du inte har någon kontohanterare kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Din Marketo/Salesforce-synkronisering måste vara konfigurerad.
 
 <table>
@@ -31,8 +31,8 @@ ht-degree: 0%
   <td>Ställ in Marketo-försäljningskonto</td>
  </tr>
  <tr>
-  <td>Marketo Admin eller <br/>Salesforce Admin</td>
-  <td>Anslut Marketo-försäljningskonto till Salesforce</td>
+  <td>Marketo Admin eller <br/>[!DNL Salesforce] Admin</td>
+  <td>Koppla Marketo Sales-konto till [!DNL Salesforce]</td>
  </tr>
  <tr>
   <td>Marketo Admin</td>
@@ -47,18 +47,18 @@ ht-degree: 0%
   <td>Bjud in användare till MSI-Actions</td>
  </tr>
  <tr>
-  <td>Salesforce-administratör</td>
-  <td>Installera/uppgradera MSI-paket i Salesforce</td>
+  <td>[!DNL Salesforce] Administratör</td>
+  <td>Installera/uppgradera MSI-paket i [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>Salesforce-administratör</td>
-  <td>Konfigurera MSI-åtgärder i Salesforce</td>
+  <td>[!DNL Salesforce] Administratör</td>
+  <td>Konfigurera MSI-åtgärder i [!DNL Salesforce]</td>
  </tr>
 </table>
 
 ## Ställ in Marketo försäljningskonto {#set-up-marketo-sales-account}
 
-1. Klicka på **Admin** i Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/msi-actions-admin-guide-1.png)
 
@@ -76,37 +76,37 @@ Användaren får ett e-postmeddelande med steg för att få åtkomst till kontot
 >
 >Ytterligare användare läggs inte till via Marketo utan läggs i stället till via sidan Användarhantering för försäljningskonto. [Klicka här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om du vill veta mer om hur du lägger till fler användare.
 
-## Anslut Marketo-försäljningskonto till Salesforce {#connect-marketo-sales-account-to-salesforce}
+## Anslut Marketo-försäljningskonto till [!DNL Salesforce] {#connect-marketo-sales-account-to-salesforce}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **[!UICONTROL Settings]**.
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Salesforce]**.
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. Klicka på **Anslut** på fliken Anslutningar och anpassningar.
+1. Klicka på [!UICONTROL Connections & Customizations] på fliken **[!UICONTROL Connect]**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-Om du redan är inloggad i Salesforce är du ansluten. Annars blir du ombedd att logga in.
+Om du redan är inloggad på Salesforce är du ansluten. Annars blir du ombedd att logga in.
 
 ## Anslut Marketo till ditt konto för säljappar {#connect-marketo-to-your-sales-apps-account}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **[!UICONTROL Settings]**.
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. Klicka på **Marketo** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings]Marketo **under**.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. Klicka på **anslut**. Ditt konto ansluts då.
+1. Klicka på **[!UICONTROL connect]**. Ditt konto ansluts då.
 
    ![](assets/msi-actions-admin-guide-9.png)
 
@@ -116,49 +116,49 @@ Om du redan är inloggad i Salesforce är du ansluten. Annars blir du ombedd att
 
 ## Initiera datasynkronisering {#initiate-data-sync}
 
-Synkroniseringen av datafält för Sales Insight Actions gör att systemet kan hämta personinformation från din Marketo Engage-databas till din Sales Insight Actions-databas, hålla persondata uppdaterade och se till att aktiviteter loggas till rätt poster i Marketo och Salesforce.
+Synkroniseringen av datafältet för Sales Insight Actions gör att systemet kan hämta personinformation från din Marketo Engage-databas till din Sales Insight Actions-databas, hålla persondata uppdaterade och se till att aktiviteter loggas till rätt poster i Marketo och [!DNL Salesforce].
 
 >[!CAUTION]
 >
 >När du har initierat datasynkronisering bör du **inte** ta bort den ursprungliga användaren från instansen Sales Insight Actions. Det här är användaren som den första inbjudan skickades till.
 
-1. Klicka på **Admin** i Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klicka på **Sales Insight**.
+1. Klicka på **[!UICONTROL Sales Insight]**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klicka på fliken **Åtgärdskonfiguration**. Klicka på **Synkronisera** på aktivitetsfältets synkroniseringskort.
+1. Klicka på fliken **[!UICONTROL Actions Config]**. Klicka på **[!UICONTROL Sync]** i synkroniseringskortet för åtgärdsfält.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. En förhandsgranskning av fälten som ska synkroniseras visas. Klicka på **Starta synkronisering**.
+1. En förhandsgranskning av fälten som ska synkroniseras visas. Klicka på **[!UICONTROL Start Sync]**.
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Personposter som finns i Marketo och Salesforce synkroniseras med ditt Marketo Sales Apps-konto.
+Personposter som finns i Marketo och [!DNL Salesforce] synkroniseras med ditt Marketo Sales Apps-konto.
 
 >[!NOTE]
 >
->Om du vill veta mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce [klickar du här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>[Klicka här](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"} om du vill veta mer om hur människor och aktivitetsdata synkroniseras mellan Sales Insight Actions, Marketo och Salesforce.
 
 ## Bjud in enskilda användare till MSI-åtgärder {#invite-individual-users-to-msi-actions}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **[!UICONTROL Settings]**.
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Välj **Användarhantering** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL User Management]**.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. Klicka på **Åtgärder** och välj **Bjud in användare**.
+1. Klicka på **[!UICONTROL Actions]** och välj **[!UICONTROL Invite Users]**.
 
    ![](assets/msi-actions-admin-guide-16.png)
 
-1. Ange e-postadress(er) och klicka på **Bjud in**.
+1. Ange e-postadress(er) och klicka på **[!UICONTROL Invite]**.
 
    ![](assets/msi-actions-admin-guide-17.png)
 
@@ -170,23 +170,23 @@ Du får ett bekräftelsemeddelande.
 
 ## Bjud in användare via CSV till MSI-åtgärder {#invite-users-via-csv-to-msi-actions}
 
-1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **Inställningar**.
+1. Klicka på kugghjulsikonen på ditt Marketo-försäljningskonto och välj **[!UICONTROL Settings]**.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Välj **Användarhantering** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL User Management]**.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. Klicka på **Åtgärder** och välj **Bjud in användare via CSV**.
+1. Klicka på **[!UICONTROL Actions]** och välj **[!UICONTROL Invite Users via CSV]**.
 
    ![](assets/msi-actions-admin-guide-20.png)
 
-1. Bläddra efter CSV-filen på datorn, markera den och klicka på **Nästa**.
+1. Bläddra efter CSV-filen på datorn, markera den och klicka på **[!UICONTROL Next]**.
 
    ![](assets/msi-actions-admin-guide-21.png)
 
-1. Bekräfta att fälten är korrekt mappade och klicka på **Bjud in**.
+1. Bekräfta att fälten är korrekt mappade och klicka på **[!UICONTROL Invite]**.
 
    ![](assets/msi-actions-admin-guide-22.png)
 

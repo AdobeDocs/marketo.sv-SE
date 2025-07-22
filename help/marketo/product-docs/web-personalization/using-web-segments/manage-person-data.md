@@ -4,22 +4,22 @@ description: Hantera persondata - Marketo Docs - produktdokumentation
 title: Hantera persondata
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 4%
+source-wordcount: '192'
+ht-degree: 5%
 
 ---
 
 # Hantera persondata {#manage-person-data}
 
-Utnyttja persondata för Web Personalization genom att markera personfält som ska användas i din segmentering.
+Utnyttja persondata för [!DNL Web Personalization] genom att markera personfält som ska användas i din segmentering.
 
-1. Gå till **Kontoinställningar**.
+1. Gå till **[!UICONTROL Account Settings]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Gå till **databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ Utnyttja persondata för Web Personalization genom att markera personfält som s
 
 ## Ta bort ett personfält {#deleting-a-person-field}
 
-1. Klicka på borttagningsikonen ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Klicka på **Ja** för att bekräfta att du vill ta bort fältet.
+1. Klicka på borttagningsikonen ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) för att ta bort ett fält från listan. Klicka på **[!UICONTROL Yes]** för att bekräfta att du vill ta bort fältet.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ Utnyttja persondata för Web Personalization genom att markera personfält som s
  </tbody> 
 </table>
 
-Följande lead-fält finns i kartongen för nya Web Personalization-konton:
+Följande lead-fält anges i rutan för nya [!DNL Web Personalization]-konton:
 
 >[!MORELIKETHIS]
 >

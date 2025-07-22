@@ -4,9 +4,9 @@ description: Ändra säkerhetsinställningarna för lösenord - Marketo Docs - p
 title: Ändra lösenordsinställningarna
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. Klicka på **[!UICONTROL Edit]** under **[!UICONTROL Security Settings]**.
+1. Klicka på **[!UICONTROL Security Settings]** under **[!UICONTROL Edit]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
@@ -37,7 +37,7 @@ Kontrollera lösenordsprincipen för din prenumeration. Så här gör du.
 
    >[!NOTE]
    >
-   >En mall är bara en färdig konfiguration. Standard är bra. Hög säkerhet är den starkaste. Med skräddarsydd kan du skapa din egen.
+   >En mall är bara en färdig konfiguration. **[!UICONTROL Standard Security]** är bra. **[!UICONTROL High Security]** är störst. Med **[!UICONTROL Custom]** kan du skapa egna.
 
    >[!TIP]
    >

@@ -4,10 +4,10 @@ description: Skapa ett utdrag - Marketo Docs - produktdokumentation
 title: Skapa ett fragment
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 4%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Fragment kan användas som dynamiska innehållsblock på **e-post**- och **landningssidor**.
 
-1. Gå till **Design Studio.**
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Klicka på **Nytt** och sedan på **Nytt fragment**.
+1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Snippet]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Ange nödvändig information och klicka på **Skapa**.
+1. Ange nödvändig information och klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

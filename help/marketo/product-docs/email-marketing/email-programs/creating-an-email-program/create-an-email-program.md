@@ -4,9 +4,9 @@ description: Skapa ett e-postprogram - Marketo Docs - produktdokumentation
 title: Skapa ett e-postprogram
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Använd e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande till en grupp personer.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Markera mappen som du vill skapa programmet i, klicka på listrutan **Nytt** och välj **Nytt program**.
+1. Markera mappen som du vill skapa programmet i, klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Program]**.
 
    ![](assets/two.png)
 
-1. Ange ett namn, välj **E-post** som programtyp och klicka på **Skapa**.
+1. Ange ett namn, välj **[!UICONTROL Email]** som [!UICONTROL Program Type] och klicka på **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >När du väljer **E-post** som programtyp ställs kanalen automatiskt in på **Skicka via e-post**. Du kan ändra den om du vill.
+   >När du väljer **[!UICONTROL Email]** som programtyp ställs kanalen automatiskt in på **[!UICONTROL Email Send]**. Du kan ändra den om du vill.
 
    ![](assets/four.png)
 

@@ -3,16 +3,16 @@ description: Marketo Unsubscribe Check - Marketo Docs - produktdokumentation
 title: Avbeställ Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# Avbeställ Marketo {#marketo-unsubscribe-check}
+# [!UICONTROL Marketo Unsubscribe Check] {#marketo-unsubscribe-check}
 
-Marketo Unsubscribe Check (Avbeställ kontroll) använder teamets anslutning till Marketo för att förhindra att e-postmeddelanden skickas till personer som har avbeställt tjänsten i Marketo Lead Management System. När en säljare skickar ett e-postmeddelande till Marketo Sales, görs ett API-anrop till Marketo för att kontrollera om e-post-ID:t har avbrutits. I så fall blockerar vi e-postmeddelandet från att skickas.
+[!UICONTROL Marketo Unsubscribe Check] använder teamets anslutning till Marketo för att förhindra att e-postmeddelanden skickas till personer som har avbrutit prenumerationen i Marketo Lead Management-system. När en säljanvändare skickar ett e-postmeddelande med [!DNL Marketo Sales], görs ett API-anrop till Marketo för att kontrollera om e-post-ID:t har avbrutits. I så fall blockerar vi e-postmeddelandet från att skickas.
 
 >[!NOTE]
 >
@@ -20,15 +20,15 @@ Marketo Unsubscribe Check (Avbeställ kontroll) använder teamets anslutning til
 
 ## Aktiverar {#turning-it-on}
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Unsubscribes]**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Klicka på fliken **Integrationer**. Aktivera kontrollen genom att klicka på skjutreglaget i avsnittet Avsluta prenumeration på Marketo.
+1. Klicka på fliken **[!UICONTROL Integrations]**. Klicka på skjutreglaget i avsnittet [!UICONTROL Marketo Unsubscribe Check] för att aktivera kontrollen.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
@@ -39,4 +39,4 @@ The Marketo Unsubscribe check..
 * Räknas inte med dina API-gränser
 * Kräver en Marketo-anslutning
 * Är en global inställning
-* Blockerar e-postmeddelanden som skickas från webbprogrammet, e-postklienter och Salesforce
+* Blockerar e-postmeddelanden som skickas från webbprogrammet, e-postklienter och [!DNL Salesforce]

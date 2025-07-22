@@ -4,9 +4,9 @@ description: Översikt över token - Marketo Docs - produktdokumentation
 title: Översikt över token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 
 >[!CAUTION]
 >
->Token fungerar inte i förrubriken när Marketo e-postredigerare används. Om du vill använda en token i förrubriken måste den vara via din egen HTML i en e-postmall.
+>Token fungerar inte i förrubriken när Marketo e-postredigerare används. Om du vill använda en token i förrubriken måste det vara via din egen HTML i en e-postmall.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ I det här exemplet kommer e-postmeddelandet att stå &quot;Greetings, (förnamn
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Mina token {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-Mina token definieras i ett program och börjar med `{{my.` följt av namnet som du skapade för token. Läs mer om [Mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL My Tokens] definieras i ett program och börjar med `{{my.` följt av namnet som du skapade för token. Läs mer om [Mina token i ett program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Medlemstoken {#member-token}
 

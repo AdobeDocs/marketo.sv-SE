@@ -4,24 +4,24 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterpri
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Steg 2 av 3: Skapa en [!DNL Salesforce]-användare för Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->Dessa steg måste utföras av en Salesforce-administratör
+>De här stegen måste utföras av en [!DNL Salesforce]-administratör
 
 >[!PREREQUISITES]
 >
->[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Steg 1 av 3: Lägg till Marketo-fält i [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och skapa ett Marketo-Salesforce-integrationskonto.
+I den här artikeln ställer du in användarbehörigheter i profilen [!DNL Salesforce] och skapar ett Marketo-[!DNL Salesforce]-integrationskonto.
 
 ## Skapa en profil {#create-a-profile}
 
@@ -49,10 +49,10 @@ I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och
 
 1. Kontrollera att följande rutor är markerade under avsnittet **[!UICONTROL Administrative Permissions]**:
 
-   * API aktiverat
-   * Redigera HTML-mallar
-   * Hantera offentliga dokument
-   * Hantera offentliga mallar
+   * [!UICONTROL API Enabled]
+   * [!UICONTROL Edit HTML Templates]
+   * [!UICONTROL Manage Public Documents]
+   * [!UICONTROL Manage Public Templates]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,25 +60,25 @@ I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och
    >
    >Kontrollera kryssrutan **[!UICONTROL Password Never Expires]**.
 
-1. Kontrollera att följande rutor är markerade under avsnittet Allmänna användarbehörigheter:
+1. Kontrollera att följande rutor är markerade under avsnittet [!UICONTROL General User Permissions]:
 
-   * Konvertera leads
-   * Redigera händelser
-   * Redigera uppgifter
+   * [!UICONTROL Convert Leads]
+   * [!UICONTROL Edit Events]
+   * [!UICONTROL Edit Tasks]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Under avsnittet Standardbehörigheter för objekt kontrollerar du att behörigheterna Läs, Skapa, Redigera och Ta bort är ikryssade:
+1. Under avsnittet [!UICONTROL Standard Object Permissions] kontrollerar du att [!UICONTROL Read, Create, Edit, and Delete]-behörigheter har sökts efter:
 
-   * Konton
-   * Kampanjer
-   * Kontakter
-   * Leads
-   * Möjligheter
+   * [!UICONTROL Accounts]
+   * [!UICONTROL Campaigns]
+   * [!UICONTROL Contacts]
+   * [!UICONTROL Leads]
+   * [!UICONTROL Opportunities]
 
    >[!NOTE]
    >
-   >Bevilja behörigheter till kampanjerna om du tänker använda kampanjsynkronisering.
+   >Bevilja behörigheter till [!UICONTROL Campaigns] om du tänker använda kampanjsynkronisering.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -96,10 +96,10 @@ I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och
 
 1. Gå till avsnittet **[!UICONTROL Field-Level Security]** på profilinformationssidan. Klicka på **[!UICONTROL View]** om du vill redigera tillgängligheten för objekten:
 
-   * Lead
-   * Kontakt
-   * Konto
-   * Möjligheter
+   * [!UICONTROL Lead]
+   * [!UICONTROL Contact]
+   * [!UICONTROL Account]
+   * [!UICONTROL Opportunity]
 
    >[!TIP]
    >
@@ -148,7 +148,7 @@ I den här artikeln ska du ange användarbehörigheter i Salesforce-profilen och
 
 >[!TIP]
 >
->Skapa ett dedikerat Salesforce-konto (t.ex. `marketo@yourcompany.com`) för att skilja mellan Marketo och andra Salesforce-användare.
+>Skapa ett dedikerat [!DNL Salesforce]-konto (t.ex. marketo@yourcompany.com) för att skilja mellan Marketo och andra [!DNL Salesforce]-användare.
 
 1. Skriv Hantera användare i navigeringsfältet och klicka sedan på **[!UICONTROL Users]**. Klicka på **[!UICONTROL New User]**.
 
@@ -162,4 +162,4 @@ Steg 2 av 3 är slutförd.
 
 >[!NOTE]
 >
->[Steg 3 av 3: Anslut Marketo och Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Steg 3 av 3: Anslut Marketo och [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

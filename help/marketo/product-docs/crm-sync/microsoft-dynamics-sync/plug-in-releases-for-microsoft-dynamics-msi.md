@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10099102
-description: Plugin-versioner för Microsoft Dynamics MSI - Marketo Docs - produktdokumentation
-title: Plug-in-versioner för Microsoft Dynamics MSI
+description: Plugin-versioner för  [!DNL Microsoft Dynamics] MSI - Marketo Docs - produktdokumentation
+title: Plug-in-versioner för  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
 
-# Plug-in-versioner för Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plug-in-versioner för [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-När du först synkroniserar till Microsoft Dynamics hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo Engage uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
+När du först synkroniserar till [!DNL Microsoft Dynamics] hämtar och installerar du den senaste versionen av plugin-programmen för Marketo Sales Insight (MSI). Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-Om du använder synkroniseringslösningen för Marketo CRM till Dynamics [hämtar du det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} som motsvarar din Dynamics-release. För dem som har en anpassad synkronisering och har köpt Marketo Sales Insight är [paketet här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Om du använder Marketo inbyggda CRM-synkroniseringslösning för [!DNL Dynamics] kan du [hämta det senaste plugin-programmet](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} som motsvarar din [!DNL Dynamics]-version. För dem som har en anpassad synkronisering och har köpt Marketo Sales Insight är [paketet här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->Dessa versioner fungerar både lokalt och online för Dynamics.
+>De här versionerna fungerar för både lokala versioner och onlineversioner av [!DNL Dynamics].
 
 ## Uppgradera din MSI-lösning {#upgrading-your-msi-solution}
 
-1. Importera den senaste versionen av lösningen _över den befintliga versionen_ av Dynamics CRM genom att trycka på knappen **[!UICONTROL Import]** i Dynamics.
+1. Importera den senaste versionen av lösningen _över den befintliga versionen_ av din [!DNL Dynamics] CRM genom att trycka på knappen **[!UICONTROL Import]** i [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Exempel: Om din Dynamics CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21 importerar du _över_ version 2.0.0.20.
+>Exempel: Om din [!DNL Dynamics] CRM har version 2.0.0.20 och den senaste versionen är 2.0.0.21 importerar du _över_ version 2.0.0.20.
 
 1. Klicka på **[!UICONTROL Next]**.
 
@@ -113,7 +113,7 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
   <tr> 
    <td>06/12/20</td> 
    <td>2.0.0.19</td> 
-   <td>Felkorrigering: Så här döljer du MSI Secret Password på MSD API Config.</td> 
+   <td>Felkorrigering: Så här döljer du MSI Secret Password i MSD API Config.</td> 
   </tr> 
   <tr> 
    <td>05/26/20</td> 
@@ -128,7 +128,7 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
   <tr> 
    <td>04/28/20</td> 
    <td>2.0.0.16</td> 
-   <td>Felkorrigering: Länkberoende för inställning av platskarta i MSD CRM tas bort.</td> 
+   <td>Felkorrigering: Tar bort länkberoendet för platskartan i MSD CRM.</td> 
   </tr> 
  </tbody> 
 </table>

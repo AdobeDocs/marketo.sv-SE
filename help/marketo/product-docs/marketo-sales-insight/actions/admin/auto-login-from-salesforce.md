@@ -1,28 +1,28 @@
 ---
 description: Automatisk inloggning från Salesforce - Marketo Docs - produktdokumentation
-title: Automatisk inloggning från Salesforce
+title: Logga in automatiskt från Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Automatisk inloggning från Salesforce {#auto-login-from-salesforce}
+# Automatisk inloggning från [!DNL Salesforce] {#auto-login-from-salesforce}
 
-Med automatisk inloggning kan användare av Sales Insight Actions automatiskt autentisera sig till Sales Insight Actions när de arbetar från Salesforce.
+Med automatisk inloggning kan [!DNL Sales Insight Actions] användare automatiskt autentisera till [!DNL Sales Insight Actions] när de arbetar från [!DNL Salesforce].
 
 Så här använder du automatisk inloggning:
 
-* [Inloggningshanteringsinställningarna](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) måste anges till Endast Salesforce
+* [Inloggningshanteringsinställningarna](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) måste anges till [!UICONTROL Salesforce Only]
 
-* Användaren måste ha bjudits in att använda Sales Insight Actions
+* Användaren måste ha bjudits in att använda [!DNL Sales Insight Actions]
 
-* Användaren måste ha aktiverat kontot genom att ansluta sitt Salesforce-konto till sin instans av Sales Insight Actions
+* Användaren måste ha aktiverat kontot genom att ansluta sitt [!DNL Salesforce]-konto till sin [!DNL Sales Insight Actions]-instans
 
-* Användarnamnet för användarens Sales Insight Actions måste matcha användarens Salesforce-användarnamn (eller så är användarens Salesforce-användarnamn och e-postadress matchande)
+* Användarnamnet [!DNL Sales Insight Actions] måste matcha användarnamnet för [!DNL Salesforce] (eller så matchar användarnamnet och e-postadressen för [!DNL Salesforce])
 
 >[!MORELIKETHIS]
 >

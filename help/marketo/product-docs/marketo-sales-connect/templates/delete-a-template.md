@@ -4,9 +4,9 @@ description: Ta bort en mall - Marketo Docs - produktdokumentation
 title: Ta bort en mall
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ Följ de här enkla stegen för att ta bort en mall.
 
 1. Markera den mall som du vill ta bort.
 
-1. Klicka på listrutan i det övre högra hörnet och klicka sedan på **Ta bort**.
+1. Klicka på listrutan längst upp till höger och klicka sedan på **[!UICONTROL Delete]**.
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.

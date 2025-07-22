@@ -4,9 +4,9 @@ description: Skapa ett evenemang med Adobe Connect - Marketo Docs - produktdokum
 title: Skapa ett evenemang med Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -32,23 +32,23 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
 >
 >Vi stöder för närvarande inte Adobe Connect On-Site.
 
-1. Välj **Händelseåtgärder** och sedan **Händelseinställningar** hemma för en ny händelse.
+1. Välj **[!UICONTROL Event Actions]** och sedan **[!UICONTROL Event Settings]** hemma för en ny händelse.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Om du inte ser **Händelseinställningar** i listrutan kontrollerar du att händelsens kanal har **Händelse med webbinarium** markerat under &quot;Gäller för&quot;.
+   >Om du inte ser **[!UICONTROL Event Settings]** i listrutan kontrollerar du att händelsens kanal har **[!UICONTROL Event with Webinar]** markerat under [!UICONTROL Applies to].
 
-1. Under **Event Partner** väljer du **Adobe Connect**.
+1. Välj **[!UICONTROL Event Partner]** under **[!UICONTROL Adobe Connect]**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Välj ditt **inloggnings**-ID och välj din **händelse**.
+1. Välj ditt **[!UICONTROL Login]**-ID och välj din **[!UICONTROL Event]**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
    >
    >Ange bekräftelsemeddelandet som **Operational** för att säkerställa att personer som registrerar sig och kan avbeställa prenumerationen fortfarande får sin bekräftelseinformation.
 
-   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget Ändra programstatus när Ny status är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att du följer flödessteget Ändra programstatus 1 och Skicka e-postflöde 2.
+   Personer som registrerar sig för ditt webbinarium kommer att pushas till din webbinarileverantör via flödessteget [!UICONTROL Change Program Status] när [!UICONTROL New Status] är inställd på&quot;Registrerad&quot;. Ingen annan status kommer att föra personen över. Se även till att flödesteget [!UICONTROL Change Program Status] och [!UICONTROL Send Email] flödessteg 2 anges.
 
    ![](assets/adobe.png)
 
@@ -74,9 +74,9 @@ Möten och seminarier som du skapar i Adobe Connect måste skapas i den mapp som
 
    >[!TIP]
    >
-   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder på fliken Sammanfattning för händelsen.
+   >Det kan ta upp till 48 timmar innan data visas i Marketo. Om du fortfarande inte ser något efter att ha väntat så länge väljer du **[!UICONTROL Refresh from Webinar Provider]** på menyn Händelseåtgärder på fliken Sammanfattning för händelsen.
 
    >[!MORELIKETHIS]
    >
-   >* [Lägg till Adobe Connect som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Redigera en händelsekanal](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

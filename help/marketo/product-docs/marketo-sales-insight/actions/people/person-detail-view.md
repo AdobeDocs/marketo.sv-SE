@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Persondetaljvy {#person-detail-view}
 
-I persondetaljvyn finns en detaljerad profil för varje person på ditt Marketo-konto.
+I persondetaljvyn finns en detaljerad profil för varje person i ditt [!DNL Marketo Sales]-konto.
 
 ## Åtkomst {#how-to-access}
 
-1. Klicka på fliken **Personer** för att få åtkomst till vyn med persondetaljer.
+1. Klicka på fliken **[!UICONTROL People]** om du vill få åtkomst till personinformationsvyn.
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ Innehåller all kontaktinformation för personen.
 
 **Kontoinformation**
 
-* Kan lägga till en person i Salesforce
-* Hämta konto- och lead-/kontaktinformation från Salesforce
+* Kan lägga till en person i [!DNL Salesforce]
+* Hämta konto- och lead-/kontaktinformation från [!DNL Salesforce]
 
 **Anpassade fält**
 

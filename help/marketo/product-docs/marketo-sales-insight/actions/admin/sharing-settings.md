@@ -3,9 +3,9 @@ description: Delningsinställningar - Marketo Docs - produktdokumentation
 title: Delningsinställningar
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ När delningsinställningar är aktiverat kan bara administratörer dela i kateg
 
 ## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. Klicka på kugghjulsikonen i [webbprogrammet](https://toutapp.com/login) och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [webbprogrammet](https://toutapp.com/login) och välj **[!UICONTROL Settings]**.
 
    ![](assets/sharing-settings-1.png)
 
-1. Välj **Delningsåtkomst** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Sharing Access]**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Kontrollera att **Delningsinställningar** är aktiverat. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
+1. Kontrollera att **[!UICONTROL Sharing Settings]** är aktiverat. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ När delningsinställningar är aktiverat kan bara administratörer dela i kateg
 
    ![](assets/sharing-settings-4.png)
 
-1. Klicka på **Lägg till team för åtkomst**.
+1. Klicka på **[!UICONTROL Add Teams for Access]**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ När delningsinställningar är aktiverat kan bara administratörer dela i kateg
    >
    >Om du inte ser något team måste du gå till Teamhantering och skapa ett team med användare.
 
-1. Klicka på **Lägg till team för åtkomst** för att spara.
+1. Klicka på **[!UICONTROL Add Teams for Access]** om du vill spara.
 
    ![](assets/sharing-settings-7.png)
 

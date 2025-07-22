@@ -4,9 +4,9 @@ description: Inaktivera och aktivera utökade innehållsmeddelanden - Marketo Do
 title: Inaktivera och aktivera meddelanden om utfyllt innehåll
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 När man tar bort allt innehåll i en ström kan Marketo skicka ett meddelande till dig. Du kan inaktivera/aktivera meddelanden baserat på dina behov. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj ett engagemangsprogram och klicka på fliken **Inställningar**.
+1. Välj ett engagemangsprogram och klicka på fliken **[!UICONTROL Setup]**.
 
    ![](assets/setuptab.jpg)
 
-1. Dubbelklicka på **Utökade innehållsmeddelanden**.
+1. Dubbelklicka på **[!UICONTROL Exhausted Content Notifications]**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Välj **Av** (eller **På**) och klicka på **Spara**.
+1. Markera **[!UICONTROL Off]** (eller **[!UICONTROL On]**) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

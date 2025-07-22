@@ -4,43 +4,43 @@ description: Godkänn en titel för prediktivt innehåll - Marketo Docs - produk
 title: Godkänn en titel för prediktivt innehåll
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 # Godkänn en titel för prediktivt innehåll {#approve-a-title-for-predictive-content}
 
-Du kan lägga till vilken rubrik som helst på sidan Allt innehåll i det prediktiva innehållet genom att godkänna den på sidan Allt innehåll eller i popup-fönstret Redigera innehåll.
+Du kan lägga till vilken rubrik som helst på din [!UICONTROL All Content]-sida i det prediktiva innehållet genom att godkänna den på [!UICONTROL All Content] -sidan eller [!UICONTROL Edit Content]-popup-fönstret.
 
-## Alla innehållssidor {#all-content-page}
+## [!UICONTROL All Content] sida {#all-content-page}
 
 1. Markera rutan bredvid innehållet.
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klicka på listrutan **Innehållsåtgärder** och välj **Godkänn för prediktivt innehåll**.
+1. Klicka på listrutan **[!UICONTROL Content Actions]** och välj **[!UICONTROL Approve for Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Popup-menyn Redigera innehåll {#edit-content-pop-up}
+## [!UICONTROL Edit Content]-popup {#edit-content-pop-up}
 
-Du kan också godkänna titlar för prediktivt innehåll direkt på popup-menyn Redigera innehåll.
+Du kan också godkänna titlar för prediktivt innehåll direkt på popup-fönstret [!UICONTROL Edit Content].
 
 1. Håll muspekaren över en del av innehållet och klicka på redigeringsikonen i slutet av raden.
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Markera rutan **Godkänn för prediktivt innehåll** på popup-menyn Redigera innehåll och klicka på **Spara**.
+1. Markera rutan **[!UICONTROL Approve for Predictive Content]** på popup-menyn [!UICONTROL Edit Content] och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Ikonen Godkänn för prediktivt innehåll visas nu på raden, oavsett hur du använder det.
+Oavsett hur du använder ikonen [!UICONTROL Approve for Predictive Content] visas nu på raden.
 
 ![](assets/five.png)
 
-Nu kan du se titeln som visas på sidan Predictive Content.
+Nu kan du se titeln på sidan [!UICONTROL Predictive Content].
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

@@ -4,10 +4,10 @@ description: Använda mallar för att skapa webbkampanjer - Marketo Docs - produ
 title: Använda mallar för att skapa webbkampanjer
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 >
 >Mallar är optimerade för alla enheter och för surfupplevelser både på dator och mobil.
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klicka på **Skapa ny webbkampanj**.
+1. Klicka på **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Välj ett målsegment.
+1. Välj en [!UICONTROL Target Segment].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klicka på **Mallar**.
+1. Klicka på **[!UICONTROL Templates]**.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Snabba upp och förenkla framtagningen av webbkampanjer genom att använda våra
 
    ![](assets/customize-template.jpg)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/click-save-hand.jpg)
 

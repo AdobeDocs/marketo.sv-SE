@@ -4,9 +4,9 @@ description: E-postprestandarapport - Marketo Docs - produktdokumentation
 title: Rapport om e-postprestanda
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, öppnad, klickad osv. skapar du en rapport om e-postprestanda.
 
-1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **E-postprestanda** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Ändra tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **[!UICONTROL Email Performance]** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Ändra tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **[!UICONTROL Report]**.
 1. Du är där! Utforska nu rapporten och se hur dina e-postmeddelanden har fungerat.
 
    >[!NOTE]
@@ -31,7 +31,7 @@ Om du vill se hur bra dina e-postmeddelanden fungerar med status som levererad, 
 
    >[!NOTE]
    >
-   >En rapport om e-postprestanda innehåller aktiviteter för alla personer, inklusive de som har tagits bort sedan e-postmeddelandet skickades. Ibland vill du bara se aktiviteter för aktiva personer. I så fall måste du filtrera bort borttagna personer från rapporten. Använd fliken **Smart lista** för att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) för rapporten. Om du inte filtrerar något specifikt fält anger du att e-postadressfiltret ska vara **inte tomt**.
+   >En rapport om e-postprestanda innehåller aktiviteter för alla personer, inklusive de som har tagits bort sedan e-postmeddelandet skickades. Ibland vill du bara se aktiviteter för aktiva personer. I så fall måste du filtrera bort borttagna personer från rapporten. Använd fliken **[!UICONTROL Smart List]** för att [skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) för rapporten. Om du inte filtrerar något specifikt fält anger du följande som e-postadress: **[!UICONTROL is not empty]**.
 
    [Välj rapportkolumner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en e-postrapport innehåller:
 
@@ -75,11 +75,11 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 
 * **Regel 1**: Varje e-postaktivitetspost är inställd på en, och bara en, av följande: _Levererad_, _Hård studsad_, _Mjuk studsad_ eller _Väntande_.
 
-* **Regel 2**: Om e-postposten visar *Öppnad* räknas den som *Levererad*.
+* **Regel 2**: Om e-postposten visar *[!UICONTROL Opened]* räknas den som *Levererad*.
 
-* **Regel 3**: Om e-postposten visar _E-post som klickades_ eller _Avbeställ_ räknas den som _Levererad_ och _Öppnad_.
+* **Regel 3**: Om e-postposten visar _[!UICONTROL Clicked Email]_eller_[!UICONTROL Unsubscribed]_ räknas den som _Levererad_ och _Öppnad_.
 
-* **Regel 4**: Om e-postmeddelandet är _Öppnad_ ignoreras studenterna. Om e-postmeddelandet inte har öppnats har _Hård studsning_ högre prioritet än _Mjuk studsad_ och _Levererad_.
+* **Regel 4**: Om e-postmeddelandet är _[!UICONTROL Opened]_ignoreras studenterna. Om e-postmeddelandet inte har öppnats har_ Hård studsning _högre prioritet än_ Mjuk studsad _och_ Levererad _.
 
 * **Regel 5**: Om ingen e-postaktivitet tas emot tre dagar efter att den skickades, betraktas den som _Avbruten_.
 

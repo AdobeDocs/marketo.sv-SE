@@ -4,10 +4,10 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du måste konfigurera behörigheter för dina användare för att kunna använda TAM. Så här gör du.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/one-2.png)
 
-1. Klicka på **Användare och roller**.
+1. Klicka på **[!UICONTROL Users & Roles]**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ Du måste konfigurera behörigheter för dina användare för att kunna använda
    >
    >Du kan lägga till TAM-behörigheter för en befintlig roll eller skapa en helt ny. I det här exemplet används en ny roll.
 
-1. Klicka på **Roller** och sedan på **Ny roll**.
+1. Klicka på **[!UICONTROL Roles]** och sedan på **[!UICONTROL New Role]**.
 
    ![](assets/three-2.png)
 
-1. Ange ett rollnamn och klicka på ikonen **+** bredvid kryssrutan Kontohantering för åtkomstmål.
+1. Ange en [!UICONTROL Role Name] och klicka på ikonen **+** bredvid kryssrutan **[!UICONTROL Access Target Account Management]**.
 
    ![](assets/permissions-4.png)
 
-1. Om du vill välja _alla_ behörigheter markerar du kryssrutan **Åtkomstmålkontohantering** .
+1. Markera kryssrutan _om du vill välja_ alla **[!UICONTROL Access Target Account Management]** behörigheter.
 
    ![](assets/permissions-5.png)
 
@@ -43,7 +43,7 @@ Du måste konfigurera behörigheter för dina användare för att kunna använda
    >
    >Du kan också välja att bara välja vissa av alternativen. Gör det genom att markera varje kryssruta för sig.
 
-1. Klicka på **+** för att öppna menyn Åtkomstadministratör. Markera kryssrutan **Åtkomst till ABM-administratör** (ABM är föregående namn för TAM) och klicka på **Skapa**.
+1. Klicka på **+** för att öppna menyn **[!UICONTROL Access Admin]**. Markera kryssrutan **[!UICONTROL Access ABM Admin]** (ABM är föregående namn för TAM) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/permissions-6.png)
 

@@ -4,9 +4,9 @@ description: Låsning av innehåll - Marketo Docs - produktdokumentation
 title: Låsning av innehåll
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ Genom att aktivera innehållslåsning kan du hindra icke-administratörer från 
 >
 >Användare **kommer** fortfarande att kunna redigera innehållet i ett e-postmeddelande när de skickar eller när de startar en kampanj.
 
-1. Klicka på inställningsikonen i Sales Connect och välj **Settings**.
+1. Klicka på inställningsikonen i [!UICONTROL Sales Connect] och välj **[!UICONTROL Settings]**.
 
    ![](assets/one-4.png)
 
-1. Klicka på **Allmänt** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL General]**.
 
    ![](assets/two-4.png)
 
-1. Bläddra nedåt till Innehållslåsning. Om du aktiverar något av skjutreglagen _inaktiveras_ dina teammedlemmars möjlighet att skapa/redigera mallar och/eller kampanjer.
+1. Bläddra ned till [!UICONTROL Content Lockdown]. Om du aktiverar något av skjutreglagen _inaktiveras_ dina teammedlemmars möjlighet att skapa/redigera mallar och/eller kampanjer.
 
    ![](assets/three-4.png)

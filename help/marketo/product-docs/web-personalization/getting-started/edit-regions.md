@@ -4,22 +4,22 @@ description: Redigera områden - Marketo Docs - produktdokumentation
 title: Redigera områden
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 1%
 
 ---
 
-# Redigera områden {#edit-regions}
+# [!UICONTROL Edit Regions] {#edit-regions}
 
 Vill du ändra de regionala inställningarna för användare så att endast data för den specifika regionen visas?
 
-1. Gå till **Användarinställningar**.
+1. Gå till **[!UICONTROL User Settings]**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klicka på **Redigera områden**.
+1. Klicka på **[!UICONTROL Edit Regions]**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

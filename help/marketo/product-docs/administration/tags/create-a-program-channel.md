@@ -4,9 +4,9 @@ description: Skapa en programkanal - Marketo Docs - produktdokumentation
 title: Skapa en programkanal
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
    ![](assets/create-a-program-channel-3.png)
 
-1. Klicka på **[!UICONTROL New Channel]** under **[!UICONTROL New]**.
+1. Klicka på **[!UICONTROL New]** under **[!UICONTROL New Channel]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -61,7 +61,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
    >
    >Kolla in Progressions of existing channel för att få en uppfattning om hur de används.
 
-1. Låt oss följa exemplet med partikanalen. Namnge din nya **kanal** och välj den programtyp som den ska användas för.
+1. Låt oss följa exemplet med partikanalen. Namnge din nya **[!UICONTROL Channel]** och välj den programtyp som den ska användas för.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -111,7 +111,7 @@ Ett program är ett specifikt marknadsföringsinitiativ. Kanalen är avsedd att 
 
    >[!TIP]
    >
-   >Om en ny person skapas i appen för mobilincheckning ställs den in på Registrerad i händelseprogrammet. Om en person checkas in i händelsen i appen ställs den in på Bifogad i händelseprogrammet.
+   >Om en ny person skapas i appen för mobilincheckning ställs den in på [!UICONTROL Registered] i händelseprogrammet. Om en person checkas in i händelsen i appen ställs den in på [!UICONTROL Attended] i händelseprogrammet.
 
 1. Välj programstatus för **[!UICONTROL Success]** och klicka sedan på **[!UICONTROL Create]**.
 

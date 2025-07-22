@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368205
-description: Så här ansluter du en säljare till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
+description: Ansluta säljare Ansluta till din Salesforce-sandlåda - Marketo Docs - produktdokumentation
 title: Ansluta säljanslutning till din Salesforce-sandlåda
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ditt Sales Connect-konto kan inte redan vara anslutet till Salesforce när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
+>Ditt [!DNL  Sales Connect]-konto kan inte redan vara anslutet till [!DNL Salesforce] när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I [!DNL Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. Klicka på **CRM** under Integrationer.
+1. Klicka på [!UICONTROL Integrations] under **[!UICONTROL CRM]**.
 
    ![](assets/two-2.png)
 
-1. Klicka på **Mer information** på Salesforce-kortet.
+1. Klicka på [!DNL Salesforce] på **[!UICONTROL More Info]**-kortet.
 
    ![](assets/three-2.png)
 
-1. Klicka på **Anslut till sandlåda** längst ned på sidan.
+1. Klicka på **[!UICONTROL Connect to Sandbox]** längst ned på sidan.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Om du redan är inloggad på ditt Salesforce-sandlådekonto dirigeras du till en auktoriseringssida där du måste tillåta åtkomst. Om du inte redan är inloggad fortsätter du till steg 5.
+   >Om du redan är inloggad på ditt [!DNL Salesforce Sandbox]-konto kommer du till en auktoriseringssida där du måste tillåta åtkomst. Om du inte redan är inloggad fortsätter du till steg 5.
 
-1. Ange ditt användarnamn och lösenord för Salesforce-sandlådekontot.
+1. Ange användarnamn och lösenord för ditt [!DNL Salesforce Sandbox]-konto.
 
    ![](assets/five-2.png)
 
 >[!MORELIKETHIS]
 >
->[Så här installerar du anpassningar i din Salesforce-sandlåda](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Installera anpassningar i din Salesforce-sandlåda](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

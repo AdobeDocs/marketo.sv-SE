@@ -4,22 +4,22 @@ description: Använd"Subject line" A/B-testning - Marketo Docs - produktdokument
 title: Använd A/B-testning på ämnesraden
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Använd A/B-testning på ämnesraden {#use-subject-line-a-b-testing}
 
-Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna är **Subject Line** -testet.
+Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna är **[!UICONTROL Subject Line]**-testet.
 
 >[!PREREQUISITES]
 >
 >[Lägg till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Klicka på Lägg till A/B-test under rutan E-post med ditt e-postmeddelande markerat.
+1. Klicka på **[!UICONTROL Email tile]** under **[!UICONTROL Add A/B Test]** med ditt e-postmeddelande markerat.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett av de vanligaste testerna ä
    >
    >Du kan klicka på **+** för att lägga till fler ämnesrader.
 
-1. Använd reglaget för att välja hur stor procentandel av publiken du vill ska få ditt A/B-test och klicka på **Nästa**.
+1. Använd skjutreglaget för att välja hur stor procentandel av publiken du vill ska få ditt A/B-test och klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

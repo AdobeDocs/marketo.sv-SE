@@ -3,16 +3,16 @@ description: Flow Step Service - Marketo Docs - produktdokumentation
 title: Flödesstegstjänst
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
 # Flödesstegstjänst {#flow-step-service}
 
-Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för användare av Marketo Engage som vill installera och använda tjänster som redan har skapats och publicerats. Mer information om hur du redigerar och publicerar din egen tjänst finns i [GitHub-databasen för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. En implementering av en koncepttest för sökning av tabeller finns [här](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Självbetjäningsflödessteg är ett ramverk och en uppsättning funktioner för att skapa, publicera och integrera webbtjänster i Adobe Marketo Engage Smart Campaigns. Handboken är avsedd för Marketo Engage-användare som vill installera och använda tjänster som redan har skapats och publicerats. Mer information om hur du redigerar och publicerar din egen tjänst finns i [[!DNL GitHub] databasen för Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. En implementering av en koncepttest för sökning av tabeller finns [här](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding och Managing Services {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ Administratörsbehörighet krävs i Marketo för att installera ett anpassat fl�
 
 ## Installations-URL {#installation-url}
 
-För att kunna påbörja installationen måste du först hämta URL:en för det OpenAPI-dokument som definierar tjänsten. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn Tjänsteleverantörer i ditt Admin Section.
+För att kunna påbörja installationen måste du först hämta URL:en för det OpenAPI-dokument som definierar tjänsten. Din tjänsteleverantör bör kunna ge dig detta och har vanligtvis en URL som slutar på `/openapi.json`. Fullständiga URL:er ser ut ungefär som `https://www.example.com/OpenAPI.json`. När du har den här URL:en går du till menyn [!UICONTROL Service Providers] i ditt [!UICONTROL Admin]-avsnitt.
 
 Klicka på **[!UICONTROL Next]** för att gå till sektionen Ange tjänstinloggningsuppgifter.
 
@@ -90,7 +90,7 @@ Installerade flödessteg kan i stort sett användas på samma sätt som standard
 
 ## Uppdaterar plocklistor {#refreshing-picklists}
 
-Marketo kommer att uppdatera valmöjligheterna för tjänster varje kväll, men det finns tillfällen när du behöver nya alternativ, som att skapa kampanjer. Du kan enkelt uppdatera dessa från vilken instans som helst av flödessteget med uppdateringsknappen eller genom att gå till menyn Admin > Tjänsteleverantörer och klicka på Uppdatera plocklista när du har valt tjänsten.
+Marketo kommer att uppdatera valmöjligheterna för tjänster varje kväll, men det finns tillfällen när du behöver nya alternativ, som att skapa kampanjer. Du kan enkelt uppdatera dessa från alla instanser av flödessteget med knappen Uppdatera, eller genom att gå till menyn [!UICONTROL Admin] > [!UICONTROL Service Providers] och klicka på [!UICONTROL Refresh Picklist] när du har valt tjänsten.
 
 ## Kontrollerar inkommande fält {#checking-incoming-fields}
 

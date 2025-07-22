@@ -4,9 +4,9 @@ description: Redigera din e-postadress - Marketo Docs - produktdokumentation
 title: Redigera din e-postrubrik
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 E-postrubriken i Marketo är helt anpassningsbar. Det består av fyra fält:
 
-* **Från** - Avsändarens namn som du vill att det ska visas
-* **Från adress** - Avsändarens e-postadress som du vill att den ska visas
-* **Svar till** - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än Från adress)
-* **Ämne** - E-postens ämnesrad
+* **[!UICONTROL From]** - Avsändarens namn som du vill att det ska visas
+* **[!UICONTROL From Address]** - Avsändarens e-postadress som du vill att den ska visas
+* **[!UICONTROL Reply-to]** - Den e-postadress som du vill att en persons svar ska skickas till (kan vara en annan än [!UICONTROL From Address])
+* **[!UICONTROL Subject]** - E-postens ämnesrad
 
 Om du vill redigera dessa värden klickar du i varje fält och anger din information.
 
@@ -36,11 +36,11 @@ Du kan också göra fältet dynamiskt genom att använda segment.
 
 ![](assets/three-2.png)
 
-Nyckelikonen längst till höger i fältet Från adress anger om du använder en anpassad DKIM-signatur.
+Nyckelikonen längst till höger i fältet [!UICONTROL From Address] talar om för dig om du använder en anpassad DKIM-signatur.
 
 ![](assets/four-2.png)
 
-Räknaren längst till höger i fältet Ämne hjälper dig att hålla ämnesraden under den rekommenderade gränsen på 50 tecken.
+Räknaren längst till höger i fältet [!UICONTROL Subject] hjälper dig att hålla ämnesraden under den rekommenderade gränsen på 50 tecken.
 
 ![](assets/five-1.png)
 

@@ -4,41 +4,41 @@ description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokum
 title: Sales Insight Page for Marketo Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Page for Marketo Admins {#sales-insight-page-for-marketo-admins}
+# [!DNL Sales Insight]-sida för Marketo-administratörer {#sales-insight-page-for-marketo-admins}
 
-Marketo-administratörer har vissa privilegier i Sales Insight. Läs vad de är nedan.
+Marketo-administratörer har vissa behörigheter i [!DNL Sales Insight]. Läs vad de är nedan.
 
 ## Konfiguration av Soap API {#soap-api-configuration}
 
-Dessa autentiseringsuppgifter används för att ansluta ditt Salesforce-konto till din Marketo-instans för att använda MSI i Salesforce.
+Dessa autentiseringsuppgifter används för att ansluta ditt [!DNL Salesforce]-konto till din Marketo-instans för att kunna använda MSI i [!DNL Salesforce].
 
 ![](assets/one-1.png)
 
 ## Återstående API-konfiguration {#rest-api-configuration}
 
-De här inloggningsuppgifterna används för att ansluta ditt Salesforce-konto till din Marketo-instans för att kunna använda MSI Insights Dashboard i Salesforce.
+De här autentiseringsuppgifterna används för att ansluta ditt [!DNL Salesforce]-konto till din Marketo-instans för att kunna använda MSI Insights Dashboard i [!DNL Salesforce].
 
 ![](assets/two-1.png)
 
 ## Inställningar för personpoäng {#person-score-settings}
 
-* **Stjärnor**: Stjärnor representerar totalt antal leads jämfört med andra leads.
-* **Lågor**: Lågor är brådskande - hur mycket ett leadresultat har ändrats nyligen.
+* **[!UICONTROL Stars]**: Stjärnor representerar totalt antal leads jämfört med andra leads.
+* **[!UICONTROL Flames]**: Flammen är brådskande - hur mycket ett leads poäng har ändrats nyligen.
 
-Som standard använder Marketo Sales Insight fältet Lead Score för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
+Som standard använder [!DNL Marketo Sales Insight] fältet Leadpoäng för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
-1. Klicka på **Sales Insight** under **Admin** i Marketo.
+1. Klicka på **[!UICONTROL Admin]** i området **[!UICONTROL Sales Insight]** i Marketo.
 
    ![](assets/four.png)
 
-1. Klicka på **Redigera** under Inställningar för poängsättning för leads.
+1. Klicka på [!UICONTROL Lead Scoring Settings] under **[!UICONTROL Edit]**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
    ![](assets/seven.png)
 
-1. Klicka på **Spara**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
+1. Klicka på **[!UICONTROL Save]**. Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Som standard använder Marketo Sales Insight fältet Lead Score för att beräkn
 
 **Inställningar för att avbryta prenumerationen:**
 
-Du kan välja bland följande inställningar för att avbryta prenumerationen för Ingen mall, Standardmeddelanden och operativa e-postmeddelanden
+Du kan välja bland följande inställningar för att avbryta prenumerationen för [!UICONTROL No Template], [!UICONTROL Standard Emails] &amp; [!UICONTROL Operational emails]
 
-* Respektera inställningen för att avbryta prenumerationen
-* Respektera inställningarna för att avbryta prenumerationen när fler än en mottagare
-* Uppfyll inställningarna för att avbryta prenumerationen när fler än fem mottagare har
-* Ignorera inställningar för att avbryta prenumerationen
+* [!UICONTROL Respect Unsubscribe Setting]
+* [!UICONTROL Respect Unsubscribe Settings when more than 1 recipient]
+* [!UICONTROL Respect Unsubscribe Settings when more than 5 recipients]
+* [!UICONTROL Ignore Unsubscribe Settings]
 
 **Aktivera möjligheten att låsa mallar:**
 
-När det här alternativet är aktiverat kan MSI-användare inte redigera mallar när de skickar e-post från Salesforce
+När det här alternativet är aktiverat kan MSI-användare inte redigera mallar när de skickar e-post från [!DNL Salesforce]
 
 **Aktivera RSS-feed:**
 
-När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i Salesforce). RSS-feed fungerar bara om funktionen &quot;Token Expiration&quot; är inaktiverad.
+När det här alternativet är aktiverat kan MSI-användare visa sin lead-feed i en RSS-feed (utöver lead-feed i [!DNL Salesforce]). RSS-feed fungerar bara om funktionen [!UICONTROL Token Expiration] är inaktiverad.
 
 **Giltig token:**
 

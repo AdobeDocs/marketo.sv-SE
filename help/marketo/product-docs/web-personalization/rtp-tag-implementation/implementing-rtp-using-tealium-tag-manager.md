@@ -4,22 +4,22 @@ description: Implementera RTP med Tealium Tag Manager - Marketo Docs - produktdo
 title: Implementera RTP med Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Implementera RTP med Tealium Tag Manager {#implementing-rtp-using-tealium-tag-manager}
+# Implementera RTP med tagghanteraren [!DNL Tealium] {#implementing-rtp-using-tealium-tag-manager}
 
 Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
-1. Logga in på ditt Tealium Tag Manager-konto.
+1. Logga in på ditt [!DNL Tealium] Tag Manager-konto.
 
-1. Gå till fliken Taggar och lägg till taggen för anpassad behållare för team, som finns på fliken Övrigt på Marketplace.
+1. Navigera till fliken [!UICONTROL Tags] och lägg till [!UICONTROL Tealium Custom Container Tag], som finns på fliken [!UICONTROL Misc] på Marketplace.
 
-1. Ange **Marketo RTP** i fältet Titel och klicka på **Slutför**.
+1. I [!UICONTROL Title field] anger du **Marketo RTP** och klickar på **[!UICONTROL Finish]**.
 
 1. Spara ändringarna.
 
@@ -29,21 +29,21 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
 
 1. När profilen har sparats klickar du på ditt namn/din e-postadress i det övre högra hörnet av Tealium iQ-konsolen.
 
-1. Klicka på **Hantera mallar** under Kontoadministratör på Admin-menyn.
+1. Klicka på [!UICONTROL Admin] under **[!UICONTROL Manage Templates]** på menyn [!UICONTROL Account Admin].
 
-1. Välj **Anpassad behållare för team: Marketo RTP** i listrutan för att öppna taggmallen.
+1. Välj **[!UICONTROL Tealium Custom Container]: Marketo RTP** i listrutan för att öppna taggmallen.
 
 1. Logga in på ditt RTP-konto.
 
-1. Gå till Kontoinställningar.
+1. Gå till [!UICONTROL Account Settings].
 
    >[!NOTE]
    >
    >Om du redan har fått din JavaScript-tagg från supporten fortsätter du till steg 11.
 
-1. Under Domän letar du reda på den relevanta domänen och klickar på **Generera tagg**.
+1. Under Domän letar du reda på den relevanta domänen och klickar på **[!UICONTROL Generate Tag]**.
 
-1. Kopiera RTP JavaScript-taggen och klistra in den mellan starttaggsbibliotekskoden och sluttaggbibliotekskoden i Tealium Profile Template.
+1. Kopiera RTP JavaScript-taggen och klistra in den mellan [!UICONTROL Start Tag Library Code] och [!UICONTROL End Tag Library Code] i Tealium Profile Template.
 
    >[!NOTE]
    >
@@ -53,4 +53,4 @@ Följ installationsanvisningarna nedan för att implementera RTP-taggen.
    >
    >Ta bort alla `<script type='text/javascript'>`- och `</script>`-taggar från koden som du monterar i den här filen.
 
-1. **Klicka på Spara profilmall** och publicera den nya profilen.
+1. Klicka på **[!UICONTROL Save Profile Template]** och publicera din nya profil.

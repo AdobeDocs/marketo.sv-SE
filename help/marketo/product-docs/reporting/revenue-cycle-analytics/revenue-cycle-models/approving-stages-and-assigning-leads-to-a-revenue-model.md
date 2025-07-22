@@ -4,10 +4,10 @@ description: Godkänna faser och tilldela leads till en intäktsmodell - Marketo
 title: Godkänna faser och tilldela leads till en intäktsmodell
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 0%
+source-wordcount: '303'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Kom igång med din **intäktsmodell** genom att lägga till befintliga leads och
 
 Låt oss godkänna modellens faser innan du lägger till några leads.
 
-1. Gå till området **Analyser**.
+1. Gå till området **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,11 +27,11 @@ Låt oss godkänna modellens faser innan du lägger till några leads.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Välj **Godkänn faser** under **Modellåtgärder**.
+1. Välj **[!UICONTROL Model Actions]** under **[!UICONTROL Approve Stages]**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. Du får en varning. Klicka på **Tilldela leads**.
+1. Du får en varning. Klicka på **[!UICONTROL Assign Leads]**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
@@ -41,19 +41,19 @@ Underbar! Låt oss gå vidare och tilldela dessa leads.
 
 [Skapa en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) för att identifiera leads för en fas i modellen i din lead-databas.
 
-1. När du har [skapat din smarta lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) klickar du på fliken **Leads** .
+1. När du har [skapat din smarta lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) klickar du på fliken **[!UICONTROL Leads]**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klicka på **Markera alla** för att välja leads.
+1. Klicka på **[!UICONTROL Select All]** för att välja leads.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Öppna listrutan **Leadåtgärder** och välj **Special**. Klicka på **Ändra intäktsfas**.
+1. Öppna listrutan **[!UICONTROL Lead Actions]** och välj **[!UICONTROL Special]**. Klicka på **[!UICONTROL Change Revenue Stage...]**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Välj rätt **modell** och rätt **scen**. Klicka på **Kör nu**.
+1. Välj rätt **[!UICONTROL Model]** och rätt **[!UICONTROL Stage]**. Klicka på **[!UICONTROL Run Now]**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -67,27 +67,27 @@ Bra! Om du vill ange hur nya leads tilldelas till faser skapar du tilldelningsre
 
 ## Nya leads: Skapa tilldelningsregler  {#new-leads-create-assignment-rules}
 
-1. Klicka på **Marketo Home** igen och välj sedan **Analytics**.
+1. Klicka på **Marketo Home** igen och välj sedan **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Klicka på modellen i trädet, sedan på menyn **Modellåtgärder** och välj **Uppdragsregler**.
+1. Klicka på modellen i trädet, välj **[!UICONTROL Model Actions]** på menyn **[!UICONTROL Assignment Rules]**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Om dina tilldelningsregler innehåller fler än bara ett standardval klickar du på **Stage** och väljer sedan **Lägg till val**.
+1. Om dina tilldelningsregler innehåller fler än ett standardalternativ klickar du på **[!UICONTROL Stage]** och väljer sedan **[!UICONTROL Add Choice]**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
 ## Exempel på tilldelningsregel {#example-assignment-rule}
 
-Skapa en huvudpoängsregel om du vill tilldela nya leads med ett minimipoängtal till ett lämpligt steg.
+Skapa en [!UICONTROL Lead Score]-regel för att tilldela nya leads med ett minimipoängvärde till ett lämpligt steg.
 
-1. Under **Om** väljer du **Leadpoäng**. Välj sedan **minst**.
+1. Under **[!UICONTROL If]** väljer du **[!UICONTROL Lead Score]**. Välj sedan **[!UICONTROL at least]**.
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Ange **40** i fältet och välj **Försäljningslead** som en scen. Klicka på **Spara** för att slutföra.
+1. Ange **40** i fältet och välj **[!UICONTROL Sales Lead]** som [!UICONTROL Stage]. Klicka på **[!UICONTROL Save]** för att slutföra.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 

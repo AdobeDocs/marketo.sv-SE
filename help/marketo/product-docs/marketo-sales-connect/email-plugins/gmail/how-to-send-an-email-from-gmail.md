@@ -4,9 +4,9 @@ description: Skicka ett e-postmeddelande från Gmail - Marketo Docs - Produktdok
 title: Skicka ett e-postmeddelande från Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Välj en e-postmall eller skriv ett nytt meddelande.
 
-1. När e-postmeddelandet är klart att skickas klickar du på knappen **Skicka och anslut** . Om du klickar på knappen i stället för på den vanliga skicka-knappen skickas din e-post med spårning aktiverat. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.
+1. När e-postmeddelandet är klart att skickas klickar du på knappen **[!UICONTROL Send & Connect]**. Om du klickar på knappen i stället för på den vanliga skicka-knappen skickas din e-post med spårning aktiverat. Sales Connect spårar när ditt e-postmeddelande öppnas och när någon klickar på någon länk.

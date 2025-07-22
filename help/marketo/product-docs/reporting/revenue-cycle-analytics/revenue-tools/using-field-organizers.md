@@ -4,10 +4,10 @@ description: Använda fältorganisatörer - Marketo Docs - produktdokumentation
 title: Använda fältorganisatörer
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -25,23 +25,23 @@ Fältorganisatörer används i modellprestandaanalys.
 
 ## Så här skapar du fältorganisatörer {#how-to-create-field-organizers}
 
-1. Klicka på **Databas**.
+1. Klicka på **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Under **Nytt** väljer du **Ny fältorganisatör**.
+1. Välj **[!UICONTROL New]** under **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two-1.png)
 
-1. Välj ett attribut under **Fält**. Beskrivningen är valfri.
+1. Välj ett attribut under **[!UICONTROL Field]**. Beskrivningen är valfri.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka på **Lägg till grupp**.
+1. Ge gruppen ett namn och ange data (detta beror på datatypen för det markerade fältet). Klicka på **[!UICONTROL Add Group]**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

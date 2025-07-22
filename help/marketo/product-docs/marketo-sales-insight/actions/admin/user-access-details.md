@@ -3,9 +3,9 @@ description: Information om användaråtkomst - Marketo Docs - produktdokumentat
 title: Information om användaråtkomst
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Administratörer kan se alla personer i en pågående kampanj.
 
 ![](assets/user-access-details-4.png)
 
-Administratörer kan se användarkampanjer och kampanjkategorier med listrutan Visa som.
+Administratörer kan se användarkampanjer och kampanjkategorier med listrutan [!UICONTROL View As].
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ Administratörer kan stoppa kampanjer för användarnas räkning.
    * Användarna kan fördjupa sig i just de team de tillhör
    * Användarna kan se sina egna analyser
 
-* Personsida:
+* [!UICONTROL People] sida:
 
    * Användare kan dela grupper med alla
    * Användare kan dela grupper med endast de team de tillhör
    * Användarna kommer att ha synlighet för alla personer i din åtgärdsdatabas
    * När en användare tas bort överför deras delade kontakter ägarskapet till huvudadministratören som tog bort användaren
 
-* Teamhanteringssida:
+* [!UICONTROL Team] hanteringssida:
 
    * Kan inte visa
 
-* Mallsida:
+* [!UICONTROL Templates] sida:
 
    * Användare kan dela mallar med alla
    * Användare kan dela mallar i kategorier som deras administratörer tillåter dem att

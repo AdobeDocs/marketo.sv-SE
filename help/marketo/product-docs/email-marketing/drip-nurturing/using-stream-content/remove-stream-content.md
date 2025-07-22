@@ -4,9 +4,9 @@ description: Ta bort ströminnehåll - Marketo Docs - produktdokumentation
 title: Ta bort ströminnehåll
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Du kan antingen ta bort eller arkivera en del av innehållet. Till skillnad från när du tar bort ströminnehåll, bevarar [arkivering](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) all historik som är kopplad till innehållet. Så här gör du om du inte har något emot att förlora historikstatusen för visst innehåll och vill ta bort det.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj ditt engagemangsprogram och klicka sedan på fliken **Streams**.
+1. Välj ditt engagemangsprogram och klicka sedan på fliken **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-3.jpg)
 
-1. Håll pekaren över det innehåll du vill ta bort, klicka på kugghjulsikonen när den visas och klicka på **Ta bort**.
+1. Håll pekaren över det innehåll du vill ta bort, klicka på kugghjulsikonen när den visas och klicka på **[!UICONTROL Remove]**.
 
    ![](assets/image2014-9-15-17-3a38-3a15.png)
 

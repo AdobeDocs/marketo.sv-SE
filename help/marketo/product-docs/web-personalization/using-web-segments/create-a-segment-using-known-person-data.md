@@ -4,9 +4,9 @@ description: Skapa ett segment med hjälp av kända persondata - Marketo Docs - 
 title: Skapa ett segment med hjälp av kända persondata
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 >
 >[Hantera persondata](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Gå till **Segment**.
+1. Gå till **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klicka på **Skapa ny**.
+1. Klicka på **[!UICONTROL Create New]**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Dra **Databas** till arbetsytan i profilsegmentering.
+1. Dra **[!UICONTROL Database]** till arbetsytan i Profilsegmentering.
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ Så här skapar du ett segment med hjälp av kända persondatavärden.
 
    ![](assets/eight.png)
 
-1. Välj operatorn AND/OR. Markera det fält som ska läggas till. Välj ett persondatafält. Ange persondatavärde.
+1. Välj operatorn [!UICONTROL AND]/[!UICONTROL OR]. Markera det fält som ska läggas till. Välj ett persondatafält. Ange persondatavärde.
 
    ![](assets/nine.png)
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att spara och gå till sidan Kampanjer.
+1. Klicka på **[!UICONTROL Save]** om du vill spara segmentet eller på **[!UICONTROL Save & Define Campaign]** om du vill spara och gå till sidan [!UICONTROL Campaigns].
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

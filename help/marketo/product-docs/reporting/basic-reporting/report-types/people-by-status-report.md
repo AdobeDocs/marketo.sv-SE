@@ -4,22 +4,22 @@ description: Rapport - Marketo Docs - produktdokumentation
 title: Rapport om personer efter status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Rapport om personer efter status {#people-by-status-report}
 
-Granska hur väl du flyttar personer genom processen genom att kontrollera hur många av dem som visas i varje _personstatusvärde_ varje månad.
+Granska hur väl du flyttar personer genom processen genom att kontrollera hur många av dem som visas i varje _[!UICONTROL Person Status]_-värde varje månad.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personer efter status** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **[!UICONTROL People by Status]** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **[!UICONTROL Report]**.
 
-1. Bra! Nu kan du se hur många personer som fanns i respektive personstatus, från månad till månad.
+1. Bra! Nu kan du se hur många personer som fanns i varje _[!UICONTROL Person Status]_, från månad till månad.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

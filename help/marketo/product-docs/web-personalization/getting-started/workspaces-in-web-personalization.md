@@ -4,16 +4,16 @@ description: Workspaces in Web Personalization - Marketo Docs - produktdokumenta
 title: Arbetsytor i Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Arbetsytor i Web Personalization {#workspaces-in-web-personalization}
+# Arbetsytor i [!UICONTROL Web Personalization] {#workspaces-in-web-personalization}
 
-Web Personalization har stöd för flera arbetsytor för webbkampanjer och webbsegment.
+[!UICONTROL Web Personalization] har stöd för flera arbetsytor för webbkampanjer och webbsegment.
 
 ## Växla arbetsytor {#switch-workspaces}
 
@@ -23,11 +23,11 @@ Om du vill växla mellan arbetsytor i webbanpassning klickar du på ikonen i det
 
 ## Ändra Workspace för ett segment {#change-a-segments-workspace}
 
-1. Gå till sidan **Segment**, markera ett segment och klicka på redigeringsikonen.
+1. Gå till sidan **[!UICONTROL Segments]**, markera ett segment och klicka på redigeringsikonen.
 
    ![](assets/ss4.png)
 
-1. Välj en annan arbetsyta i listrutan **Workspace**.
+1. Välj en annan arbetsyta i listrutan **[!UICONTROL Workspace]**.
 
    ![](assets/ss6.png)
 

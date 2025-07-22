@@ -4,9 +4,9 @@ description: Vidarebefordra till en vän-länk i e-postmeddelanden - Marketo Doc
 title: Vidarebefordra till en länk i e-postmeddelanden
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Exempel: Keith använder länken Vidarebefordra till vän för att vidarebefordr
 
 ## Lägg till länken i en e-postmall {#add-the-link-to-an-email-template}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Sök efter och välj den e-postmall som du vill lägga till länken i. Klicka på **Redigera utkast**.
+1. Sök efter och välj den e-postmall som du vill lägga till länken i. Klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-7.png)
 
@@ -44,7 +44,7 @@ Exempel: Keith använder länken Vidarebefordra till vän för att vidarebefordr
    >
    >Vi rekommenderar inte att du använder formatet **position:relative** i din e-postmall. Det kan skapa problem med placeringen och visningen av rutan Vidarebefordra till vän.
 
-1. Klicka på **Förhandsgranska utkast** för att kontrollera att mallen ser ut som du vill ha den.
+1. Klicka på **[!UICONTROL Preview Draft]** för att kontrollera att mallen ser ut som du vill ha den.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
    ![](assets/eight-1.png)
 
-1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på **Infoga**.
+1. Klistra in **`{{system.forwardToFriendLink}}`**-token i rutan **URL** med Ctrl/Cmd+V och klicka sedan på **[!UICONTROL Insert]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Du kan också lägga till länken Vidarebefordra till vän direkt i ett e-postme
 
 Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens aktivitetslogg.
 
-1. Gå till **`Database`**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    ![](assets/fourteen.png)
 
-1. Gå till fliken **Aktivitetslogg**. Dubbelklicka på **Mottaget till väns-e-post** eller **Skickat framåt till väns-e-post** för att visa information.
+1. Gå till fliken **[!UICONTROL Activity Log]**. Dubbelklicka på **[!UICONTROL Received Forward to Friend Email]** eller **[!UICONTROL Sent Forward to Friend Email]** om du vill se information.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ Du kan se vem som vidarebefordrat och tagit emot e-postmeddelanden i personens a
 
    >[!NOTE]
    >
-   >Vi gör **person-ID** klickbart och länkar direkt till personen i en kommande korrigering.
+   >Vi gör **[!UICONTROL Person ID]** klickbar och länkar direkt till personen i en kommande korrigering.
 
    ![](assets/seventeen.png)
 

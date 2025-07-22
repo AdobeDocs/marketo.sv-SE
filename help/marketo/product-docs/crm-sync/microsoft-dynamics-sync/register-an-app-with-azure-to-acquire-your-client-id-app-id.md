@@ -4,16 +4,16 @@ description: Registrera en app med Azure för att hämta ditt klient-ID/program-
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 # Registrera en app med Azure för att hämta ditt klient-ID/program-ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger stöd för MS Dynamics 365 CRM med lokal ADFS-autentisering.
+Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger stöd för [!DNL MS Dynamics 365] CRM med lokal ADFS-autentisering.
 
 ## Registrera en ny app {#registering-a-new-app}
 
@@ -21,20 +21,20 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    >[!CAUTION]
    >
-   >Du måste använda ett konto i samma Office 365-prenumeration som du tänker registrera appen med.
+   >Du måste använda ett konto i samma [!DNL Office 365]-prenumeration som den du vill registrera appen med.
 
    >[!NOTE]
    >
    >Om du inte har något Azure-konto kan du [registrera dig](https://azure.microsoft.com/en-us/free/){target="_blank"} för ett. Läs Microsoft dokumentation eller kontakta Microsoft för mer information. När du har skapat ett Azure-konto kan du registrera ett eller flera program enligt proceduren nedan.
    >
    >
-   >Om du har ett Azure-konto men din Office 365-prenumeration med Microsoft Dynamics 365 inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} för att associera de två kontona.
+   >Om du har ett Azure-konto men din [!DNL Office 365]-prenumeration med [!DNL Microsoft Dynamics 365] inte är tillgänglig i din Azure-prenumeration följer du [dessa instruktioner](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} för att associera de två kontona.
 
 1. Sök och klicka på **[!UICONTROL Azure Active Directory]** i den vänstra navigeringsrutan.
 
    ![](assets/two.png)
 
-1. Klicka på **[!UICONTROL App registrations]** under Hantera.
+1. Klicka på [!UICONTROL Manage] under **[!UICONTROL App registrations]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/seven.png)
 
-1. Klicka på **[!UICONTROL API permissions]** under Hantera.
+1. Klicka på [!UICONTROL Manage] under **[!UICONTROL API permissions]**.
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
    ![](assets/ten.png)
 
-1. Markera rutan **[!UICONTROL Access Common Data Service as organization users]** och klicka sedan på **[!UICONTROL Add permissions]**.
+1. Markera rutan **[!UICONTROL Access Common Data Service as organization users]** och klicka sedan på **[!UICONTROL Add permissions].**
 
    ![](assets/eleven.png)
 

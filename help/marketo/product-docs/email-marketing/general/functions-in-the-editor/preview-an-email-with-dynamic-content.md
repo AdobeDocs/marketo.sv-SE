@@ -4,9 +4,9 @@ description: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll - Mar
 title: Förhandsgranska ett e-postmeddelande med dynamiskt innehåll
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll för att verifiera det.
 
-1. Markera e-postmeddelandet och klicka på **Förhandsgranska e-post**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Preview Email]**.
 
    ![](assets/one-3.png)
 
-1. Klicka på listrutan Visa efter och välj den typ av dynamiskt innehåll som du vill förhandsgranska.
+1. Klicka på listrutan **[!UICONTROL View By]** och välj den typ av dynamiskt innehåll som du vill förhandsgranska.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Förhandsgranska e-postmeddelandet när du har lagt till dynamiskt innehåll fö
 
 Du kan också förhandsgranska dynamiskt innehåll direkt i e-postredigeraren.
 
-1. Klicka på fliken **Dynamisk** under **Innehåll**.
+1. Klicka på fliken **[!UICONTROL Content]** under **[!UICONTROL Dynamic]**.
 
    ![](assets/five-1.png)
 

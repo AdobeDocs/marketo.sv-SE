@@ -4,9 +4,9 @@ description: Bädda in ett formulär på din webbplats - Marketo Docs - produktd
 title: Bädda in ett formulär på din webbplats
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Med Marketo kan ni bädda in våra formulär på er egen webbplats. Så här får du åtkomst till inbäddningskoden.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +23,11 @@ Med Marketo kan ni bädda in våra formulär på er egen webbplats. Så här få
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Klicka på **Bädda in kod** under **Formuläråtgärder**.
+1. Klicka på **[!UICONTROL Form Actions]** under **[!UICONTROL Embed Code]**.
 
    >[!NOTE]
    >
-   >Formuläret måste godkännas för att objektet **Bädda in kod** ska vara synligt/användbart.
+   >Formuläret måste godkännas för att objektet **[!UICONTROL Embed Code]** ska vara synligt/användbart.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
@@ -35,7 +35,7 @@ Med Marketo kan ni bädda in våra formulär på er egen webbplats. Så här få
    >
    >**[Formulärförifyllning](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** fungerar inte när du använder formulärinbäddningskoden på dina egna sidor _eller_ en Marketo-landningssida. Förifyll formulär är endast avsett att fungera när formuläret används på en Marketo-landningssida via alternativet Infoga element.
 
-1. Markera/kopiera inbäddningskoden och klicka sedan på **Stäng**.
+1. Markera/kopiera inbäddningskoden och klicka sedan på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
@@ -47,6 +47,6 @@ Ge nu bara inbäddningskoden till webbutvecklaren och låt dem lägga till den p
 
 >[!NOTE]
 >
->Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem på sidan [Forms 2.0-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem på sidan [Forms 2.0-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Snyggt jobb! Vill du att inbäddningskoden [ska innehålla ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!

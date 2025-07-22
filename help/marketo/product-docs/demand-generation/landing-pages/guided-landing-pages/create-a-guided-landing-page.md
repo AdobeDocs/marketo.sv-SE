@@ -4,9 +4,9 @@ description: Skapa en guidad landningssida - Marketo Docs - produktdokumentation
 title: Skapa en guidad landningssida
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## Skapa en guidad landningssida i ett program {#create-a-guided-landing-page-in-a-program}
 
-Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program eller i Design Studio som ska användas globalt.
+Guidade landningssidor kan skapas som lokala resurser i ett program eller i [!UICONTROL Design Studio] som ska användas globalt.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -33,15 +33,15 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klicka på listrutan **Nytt**. Välj **Ny lokal resurs**.
+1. Klicka på listrutan **[!UICONTROL New]**. Välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Välj **Startsida**.
+1. Välj **[!UICONTROL Landing Page]**.
 
    ![](assets/four.png)
 
-1. Ge landningssidan ett namn. Klicka på listrutan **Mall** och välj **Guidad mall**.
+1. Ge landningssidan ett namn. Klicka på listrutan **[!UICONTROL Template]** och välj **[!UICONTROL Guided Template]**.
 
    >[!NOTE]
    >
@@ -51,24 +51,24 @@ Du kan skapa landningssidor med stödlinjer som lokala resurser i ett program el
 
 ## Skapa en landningssida i Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/six.png)
 
-1. Klicka på listrutan **Nytt**. Välj **Ny landningssida**.
+1. Klicka på listrutan **[!UICONTROL New]**. Välj **[!UICONTROL New Landing Page]**.
 
    ![](assets/seven.png)
 
-1. Ge landningssidan ett namn. Klicka på listrutan **Mall** och välj **Guidad mall**.
+1. Ge landningssidan ett namn. Klicka på listrutan **[!UICONTROL Template]** och välj **[!UICONTROL Guided Template]**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->URL:en skapas automatiskt från program- och landningssidans namn. Om du vill ändra URL-adressen redigerar du fältet **Sidadress**.
+>URL:en skapas automatiskt från program- och landningssidans namn. Redigera fältet **[!UICONTROL Page URL]** om du vill ändra URL-adressen.
 >
->Avmarkera kryssrutan **Öppna i redigerare** om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat på **Skapa**.
+>Avmarkera kryssrutan **[!UICONTROL Open in editor]** om du inte vill att redigeraren ska öppnas omedelbart efter att du klickat på **[!UICONTROL Create]**.

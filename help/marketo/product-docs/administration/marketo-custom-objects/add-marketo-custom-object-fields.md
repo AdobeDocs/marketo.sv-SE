@@ -4,9 +4,9 @@ description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdo
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Fält definierar den specifika information som används av ett anpassat objekt. 
 
    >[!NOTE]
    >
-   >API-namnet kan bara redigeras tills det har godkänts.
+   >[!UICONTROL API Name] kan bara redigeras tills den har godkänts.
 
 1. Välj en lämplig [!UICONTROL Data Type] i listan.
 

@@ -4,16 +4,16 @@ description: Skapa arbetsflödesregler i Salesforce - Marketo Docs - produktdoku
 title: Skapa arbetsflödesregler i Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
 # Skapa arbetsflödesregler i Salesforce {#creating-workflow-rules-in-salesforce}
 
-När du använder Marketo Sales Insight (MSI) och Marketo Sales Connect (MSC) parallellt uppdateras inte MSI Best Bets-funktionen i Salesforce. Alla andra MSI-funktioner fungerar som vanligt (visa intressanta stunder iFrame, skicka e-post, lägga till i kampanjer osv.). I den här artikeln finns en lösning som hjälper dig att få bästa val att fungera igen.
+När du använder Marketo Sales Insight (MSI) och Marketo Sales Connect (MSC) parallellt uppdateras inte MSI Best Bets-funktionen i [!DNL Salesforce]. Alla andra MSI-funktioner fungerar som vanligt (visa intressanta stunder iFrame, skicka e-post, lägga till i kampanjer osv.). I den här artikeln finns en lösning som hjälper dig att få bästa val att fungera igen.
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ När du använder Marketo Sales Insight (MSI) och Marketo Sales Connect (MSC) pa
 
 ## Komma igång {#getting-started}
 
-Du kan komma runt problemet genom att skapa nya arbetsflödesregler som kopierar värden från nya MSE-fält till de gamla MSI-fälten. Du måste skapa fyra arbetsflödesregler för Kontakt-objektet och samma fyra arbetsflödesregler för Lead-objektet i din egen Salesforce-instans. Detta kan kräva att du har CRM-administratörsbehörighet (beroende på din roll och konfiguration i CRM).
+Du kan komma runt problemet genom att skapa nya arbetsflödesregler som kopierar värden från nya MSE-fält till de gamla MSI-fälten. Du måste skapa fyra arbetsflödesregler för Kontakt-objektet och samma fyra arbetsflödesregler för Lead-objektet i din egen [!DNL Salesforce]-instans. Detta kan kräva att du har CRM-administratörsbehörighet (beroende på din roll och konfiguration i CRM).
 
-Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivning av varje. Dessa gäller för objekten Kontakt och Lead:
+Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivning av varje. Dessa gäller för objektet [!UICONTROL Contact] och [!UICONTROL Lead]:
 
 <table> 
  <colgroup> 
@@ -52,52 +52,52 @@ Nedan visas de rekommenderade namnen på arbetsflödesreglerna och en beskrivnin
 
 ## Instruktioner {#instructions}
 
-1. När du har klickat på **Inställningar** söker du efter **Arbetsflöde** och väljer **Arbetsflödesregler**.
+1. När du har klickat på **[!UICONTROL Setup]** söker du efter **Arbetsflöde** och väljer **[!UICONTROL Workflow Rules]**.
 
    ![](assets/one-1.png)
 
-1. Välj **Ny regel**.
+1. Välj **[!UICONTROL New Rule]**.
 
    ![](assets/two-1.png)
 
-1. Klicka på listrutan Objekt, välj **Lead** och klicka sedan på **Nästa**.
+1. Klicka på listrutan [!UICONTROL Object] och välj **[!UICONTROL Lead]**. Klicka sedan på **[!UICONTROL Next]**.
 
    ![](assets/three-1.png)
 
-1. Ange&quot;Uppdatera intressant tillfälligt fält&quot; som regelnamn. Markera alternativknappen **som har skapats och varje gång den redigeras**. I listrutan Regelvillkor väljer du **formel som utvärderas till true**. Sök efter och välj funktionen ISCHANGED. Markera sedan standardfältvärdet och klicka på **Infoga fält**.
+1. Ange&quot;Update Intressant stund Desc Field&quot; som [!UICONTROL Rule Name]. Markera alternativknappen **[!UICONTROL created, and every time it’s edited]**. Välj [!UICONTROL Rule Criteria] i listrutan **[!UICONTROL formula evaluates to true]**. Sök efter och välj funktionen ISCHANGED. Markera sedan standardfältvärdet och klicka på **[!UICONTROL Insert Field]**.
 
    ![](assets/four-1.png)
 
-1. I popup-fönstret Infoga fält väljer du **Senaste Marketo Engagement Desc** och klickar på **Infoga**.
+1. I popup-fönstret [!UICONTROL Insert Field] väljer du **[!UICONTROL Last Marketo Engagement Desc]** och klickar på **[!UICONTROL Insert]**.
 
    ![](assets/five-1.png)
 
-1. Klicka på **Spara och nästa**.
+1. Klicka på **[!UICONTROL Save & Next]**.
 
    ![](assets/6.png)
 
-1. Välj **Ny fältuppdatering** i listrutan Lägg till arbetsflödesåtgärd.
+1. Välj [!UICONTROL Add Workflow Action] i listrutan **[!UICONTROL New Field Update]**.
 
    ![](assets/seven.png)
 
-1. I fältet Namn anger du&quot;Uppdatera intressant tillfälligt dekorfält&quot; (unikt namn genererar automatiskt). I listrutan Fält att uppdatera väljer du **Senaste intressanta tidpunkt**. Markera alternativknappen **Använd en formel för att ange det nya värdet** och klicka sedan på **Visa formelredigeraren**.
+1. I fältet [!UICONTROL Name] anger du&quot;Update Intressant stund Desc Field&quot; ([!UICONTROL Unique Name] genererar automatiskt). Välj [!UICONTROL Field to Update] i listrutan **[!UICONTROL Last Interesting Moment Desc]**. Markera alternativknappen **[!UICONTROL Use a formula to set new value]** och klicka sedan på **[!UICONTROL Show Formula Editor]**.
 
    ![](assets/eight.png)
 
-1. Klicka på knappen **Infoga fält**.
+1. Klicka på knappen **[!UICONTROL Insert Field]**.
 
    ![](assets/9a.png)
 
-1. Välj **Senaste Marketo-engagemangsavdelning** och klicka på **Infoga**. På nästa sida klickar du på **Spara**.
+1. Välj **[!UICONTROL Last Marketo Engagement Desc]** och klicka på **[!UICONTROL Insert]**. Klicka på **[!UICONTROL Save]** på nästa sida.
 
    ![](assets/nine.png)
 
-1. Klicka på **Klar**.
+1. Klicka på **[!UICONTROL Done]**.
 
    ![](assets/twelve.png)
 
-1. Klicka på **Aktivera** för att aktivera arbetsflödesregeln.
+1. Klicka på **[!UICONTROL Activate]** för att aktivera arbetsflödesregeln.
 
    ![](assets/thirteen.png)
 
-   Efter det sista steget kan du välja att klona arbetsflödesregeln för de andra fälten i avsnittet Komma igång: Desc, Type, Source, Date. När du har slutfört de fyra arbetsflödesreglerna i Kontakt-objektet upprepar du det för Lead-objektet.
+   Efter det sista steget kan du välja att klona arbetsflödesregeln för de andra fälten i avsnittet [!UICONTROL Getting Started]: Desc, Type, Source, Date. När du har slutfört de fyra arbetsflödesreglerna i [!UICONTROL Contact]-objektet upprepar du det samma för [!UICONTROL Lead]-objektet.

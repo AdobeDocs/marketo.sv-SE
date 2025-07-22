@@ -4,9 +4,9 @@ description: Testa din ON24-händelseintegrering - Marketo Docs - produktdokumen
 title: Testa din ON24-händelseintegrering
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Se till att testa integreringen av dina event noggrant.
 Så här uppdateras data när händelsen har inträffat:
 
 * Marketo hämtar deltagardata från ON24 varje kväll.
-* När deltagarens data synkroniseras mellan Marketo och ON24 uppdaterar Marketo medlemskapsstatusen till Bifogad, Vid behov eller Ingen visning. Händelsens status uppdateras till **Händelsen slutförd** på fliken **Sammanfattning**.
+* När deltagarens data synkroniseras mellan Marketo och ON24 uppdaterar Marketo medlemskapsstatusen till [!UICONTROL Attended], [!UICONTROL Attended On-demand] eller [!UICONTROL No Show]. Händelsens status uppdateras till **[!UICONTROL Summary]** på fliken **[!UICONTROL Event Complete]**.
 
 >[!MORELIKETHIS]
 >

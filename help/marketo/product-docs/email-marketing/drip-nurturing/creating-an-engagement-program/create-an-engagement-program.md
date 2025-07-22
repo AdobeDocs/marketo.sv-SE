@@ -4,9 +4,9 @@ description: Skapa ett engagemangsprogram - Marketo Docs - produktdokumentation
 title: Skapa ett engagerande program
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Ni kan använda engagemangsprogram i Marketo för att enkelt skapa e-postnäring.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Markera den mapp som du vill skapa engagemangsprogrammet i och klicka sedan på **Nytt** och **Nytt program**.
+1. Markera den mapp som du vill skapa engagemangsprogrammet i och klicka sedan på **[!UICONTROL New]** och **[!UICONTROL New Program]**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Ange ett **namn**, välj **engagemang** som **programtyp** och klicka på **Skapa**.
+1. Ange en **[!UICONTROL Name]**, välj **[!UICONTROL Engagement]** för **[!UICONTROL Program Type]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

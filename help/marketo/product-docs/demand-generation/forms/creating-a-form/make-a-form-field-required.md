@@ -4,10 +4,10 @@ description: Gör ett formulärfält obligatoriskt - Marketo Docs - produktdokum
 title: Gör ett formulärfält obligatoriskt
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 När du [lägger till fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-2.png)
 
-1. Markera det fält som du vill göra obligatoriskt och markera Är obligatoriskt.
+1. Markera fältet som du vill göra obligatoriskt och markera **[!UICONTROL Is Required]**.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Snyggt gjort! Klicka på **Slutför**.
+1. Snyggt gjort! Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

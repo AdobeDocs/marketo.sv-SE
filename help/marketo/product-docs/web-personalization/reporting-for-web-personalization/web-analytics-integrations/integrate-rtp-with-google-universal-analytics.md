@@ -4,24 +4,24 @@ description: Integrera RTP med Google Universal Analytics - Marketo Docs - produ
 title: Integrera RTP med Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-# Integrera RTP med Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
+# Integrera RTP med [!DNL Google Universal Analytics] {#integrate-rtp-with-google-universal-analytics}
 
 ## Intro {#intro}
 
-Utnyttja Google Universal Analytics (GUA) med bekräftande data och personaliseringsdata från Marketo Real-Time Personalization (RTP) för att bättre mäta och analysera era webbmarknadsföringsinsatser.
+Utnyttja [!DNL Google Universal Analytics] (GUA) med [!DNL Marketo Real-Time Personalization]s (RTP)-data (Firmographic) och personaliseringsdata för att bättre kunna mäta och analysera era onlinemarknadsföringsinsatser.
 
-I det här inlägget beskrivs hur du konfigurerar och integrerar Marketo Real-Time Personalization-plattformen (RTP) med Google Universal Analytics-konton (GUA). RTP-data kan läggas in i ditt GUA-konto så att du kan se resultatet för organisationer, branscher, företagsgrafik och RTP-segment som besöker din webbplats.
+I det här inlägget beskrivs hur du konfigurerar och integrerar RTP-plattformen [!DNL Marketo Real-Time Personalization] med [!DNL Google Universal Analytics] (GUA)-konton. RTP-data kan läggas in i ditt GUA-konto så att du kan se resultatet för organisationer, branscher, företagsgrafik och RTP-segment som besöker din webbplats.
 
-**Google Universal Analytics**
+**[!DNL Google Universal Analytics]**
 
-Google Universal Analytics med RTP:s data ger er en bättre förståelse för hur B2B-användare interagerar med ert onlineinnehåll och hjälper er att mäta och få bättre resultat av era personaliseringskampanjer. [Läs mer om Google Universal Analytics](https://support.google.com/analytics/answer/2790010/?hl=en&amp;authuser=1).
+[!DNL Google Universal Analytics] med RTP:s data ger dig en bättre förståelse för hur B2B-användare interagerar med ditt onlineinnehåll och hjälper dig att mäta och få bättre resultat med dina personaliseringskampanjer. [Läs mer om  [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
@@ -29,33 +29,32 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 >
 >Ingen kodning eller specialkonfiguration behöver göras. Se till att du slutför följande checklista:
 >
->* RTP-dimensioner skapas i Google Universal Analytics
+>* RTP-dimensioner skapas i [!DNL Google Universal Analytics]
 >* [RTP-taggen är korrekt installerad i Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* Integrering med Google Universal Analytics är aktiverat i RTP:s kontoinställningar
->* [Taggen Google Universal Analytics är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
+>* [!DNL Google Universal Analytics]-integrering är aktiverad i RTP:s kontoinställningar
+>* [[!DNL Google Universal Analytics] taggen är korrekt konfigurerad i Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [Taggen Google Tag Manager är korrekt installerad på webbplatsen](https://developers.google.com/tag-manager/quickstart)
 
-## Konfigurera anpassade Dimensioner i GUA {#set-up-custom-dimensions-in-gua}
+## Ställ in anpassade dimensioner i GUA {#set-up-custom-dimensions-in-gua}
 
 1. I GOOGLE ANALYTICS
 
-   1. Gå till **Admin**
-   1. Välj **kontot.**
-   1. Välj egenskapen **.**
-   1. Välj **Anpassade definitioner** och **Anpassade Dimensioner**.
-
+   1. Gå till **[!UICONTROL Admin]**
+   1. Välj **[!UICONTROL Account].**
+   1. Välj **[!UICONTROL Property].**
+   1. Välj **[!UICONTROL Custom Definitions]** och **[!UICONTROL Custom Dimensions]**.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Lägg till en ny anpassad dimension. Klicka på **+Ny anpassad Dimension**
+1. Lägg till en ny anpassad dimension. Klicka på **[!UICONTROL +New Custom Dimension]**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Lägg till följande **anpassade Dimensioner:**
+1. Lägg till följande **[!UICONTROL Custom Dimensions]:**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Namn på anpassad Dimension</strong></p></td> 
+   <td><p><strong>Anpassat Dimension-namn</strong></p></td> 
    <td><p><strong>Omfång</strong></p></td> 
    <td><p><strong>Aktiv</strong></p></td> 
   </tr> 
@@ -84,43 +83,43 @@ Google Universal Analytics med RTP:s data ger er en bättre förståelse för hu
 
 >[!NOTE]
 >
->**Namn på anpassade Dimensioner** måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
+>**Anpassade Dimension-namn** måste vara exakt som de definieras i tabellen ovan (annars visas inte anpassade RTP-instrumentpaneler och rapporter i GUA korrekt)
 
-1. Lägg till **namnet**. Välj scopet som **session**. Klicka på **Skapa**.
+1. Lägg till **[!UICONTROL Name]**. Välj scopet som **[!UICONTROL Session]**. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
-Listan Anpassad Dimension bör se ut så här.
+Din lista över anpassade Dimension bör se ut så här.
 
 ![](assets/image2014-11-29-11-36-50-version-2.png)
 
-När du har aktiverat anpassade Dimensioner i GUA går du till RTP-plattformen för att aktivera de här dimensionerna i RTP.
+När du har aktiverat Anpassade dimensioner i GUA går du till RTP-plattformen för att aktivera de här dimensionerna i RTP.
 
 ## Aktivera GUA-integreringen i ditt RTP-konto {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Gå till **Kontoinställningar i RTP-plattformen.**
+1. Gå till **[!UICONTROL Account Settings]i RTP-plattformen.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Klicka på **Domän** under **Kontoinställningar**.
-1. Klicka på **Google Universal Analytics** under **Analytics**.
-1. Aktivera **På** de relevanta anpassade Dimensionerna och händelserna för att lägga till dessa data från RTP till Google Universal Analytics.
-1. Ange **indexnumret** för dimensionen justerad mot indexnumret i GUA.
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Account Settings]** under **[!UICONTROL Domain]**.
+1. Klicka på **[!UICONTROL Analytics]** under **[!UICONTROL Google Universal Analytics]**.
+1. Vrid **[!UICONTROL On]** på relevanta anpassade dimensioner och händelser för att lägga till dessa data från RTP till [!DNL Google Universal Analytics].
+1. Ange **[!UICONTROL Index number]** för dimensionen justerad mot indexnumret i GUA.
+1. Klicka på **[!UICONTROL Save]**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
 >[!NOTE]
 >
->Indexnumret för Dimensionen Custom finns i GUA under Custom Dimensions.
+>Indexnumret för den anpassade Dimension finns i GUA under Anpassade dimensioner.
 >
 >Exempel: RTP-Industry Index Number är lika med 1, RTP-Organization Index Number är lika med 2.
 
 ## Ta bort gamla instrumentpaneler i Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. I Google Analytics. Gå till **rapportering.**
-1. Klicka på **Instrumentpaneler.**
-1. Välj en **instrumentpanel** (RTP B2B- eller RTP-prestanda)
-1. Klicka på **Ta bort instrumentpanel**.
+1. I Google Analytics. Gå till **[!UICONTROL Reporting].**
+1. Klicka på **[!UICONTROL Dashboards].**
+1. Välj en **[!UICONTROL Dashboard]** (RTP B2B- eller RTP-prestanda)
+1. Klicka på **[!UICONTROL Delete Dashboard]**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)

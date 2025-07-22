@@ -4,9 +4,9 @@ description: Advanced Program Reporting Overview - Marketo Docs - produktdokumen
 title: Översikt över avancerad programrapportering
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Det finns många godbitar här inne. Vi kollar dem!
 
 ## Vad är ett analysområde? {#whats-an-analysis-area}
 
-Analysområden innehåller olika datauppsättningar och mätvärden i Intresseutforskaren. Varje område relaterar till det rapporteringsämne som du har valt att visa.
+Analysområden innehåller olika datauppsättningar och mätvärden inom [!UICONTROL Revenue Explorer]. Varje område relaterar till det rapporteringsämne som du har valt att visa.
 
 ## Programanalysområden {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ Analysområden innehåller olika datauppsättningar och mätvärden i Intresseut
 
 * **Affärsmöjlighetsanalys** - Bevisa marknadsföringens bidrag genom att mäta effekten av program och viktiga engagemang som genererade möjligheter.
 
-## Rapportalternativ {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 I varje rapport finns det flera alternativ som hjälper dig att anpassa upplevelsen.
 

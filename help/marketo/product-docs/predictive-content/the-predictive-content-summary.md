@@ -4,9 +4,9 @@ description: The Predictive Content Summary - Marketo Docs - Product Documentati
 title: Sammanfattning av prediktivt innehåll
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Här ser du de 10 viktigaste delarna av det identifierade innehållet, inklusive
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Förutsägande engagemang {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 Se konverteringsgraden genom att jämföra det totala antalet klick och direktleads och jämför prestanda för olika källor.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Innehållstrend efter vyer  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 Jämför hur era åsikter om allt innehåll överensstämmer med ert prediktiva innehåll.
 
 ![](assets/4.png)
 
-## De vanligaste kategorierna efter engagemang {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 Vilka typer av innehåll är mest engagerande? Se det i det här diagrammet.
 
@@ -47,4 +47,4 @@ Vilka typer av innehåll är mest engagerande? Se det i det här diagrammet.
 
 >[!NOTE]
 >
->Om du klickar på en kategorilänk (exempel i bilden ovan: leadgen, e-post osv.) den öppnar sidan Allt innehåll med den kategori som du klickade på och som lagts till i filtret, och visar innehållsanalysen i den kategorin.
+>Om du klickar på en kategorilänk (exempel i bilden ovan: leadgen, e-post osv.) öppnas sidan Allt innehåll med den kategori som du klickade på och som har lagts till i filtret. Innehållsanalysen i den kategorin visas.

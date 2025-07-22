@@ -4,37 +4,37 @@ description: Skapa en anpassad målgrupp i Facebook - Marketo Docs - produktdoku
 title: Skapa en anpassad målgrupp i Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Skapa en anpassad målgrupp i Facebook {#create-a-custom-audience-in-facebook}
+# Skapa en anpassad målgrupp i [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} i administratörsavsnittet.
->* [Acceptera Facebooks anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} i ditt Facebook-konto.
+>* [Lägg till [!DNL Facebook] anpassade målgrupper som en LaunchPoint-tjänst](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} i administratörsavsnittet.
+>* [Acceptera  [!DNL Facebook]s anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} i ditt [!DNL Facebook]-konto.
 
 >[!TIP]
 >
->Läs mer om [anpassade målgrupper på Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Läs mer om [anpassade målgrupper i [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Hitta och välj den smarta eller statiska lista som innehåller de leads du vill skapa målgruppen från.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Välj fliken **Leads** och klicka sedan på ikonen **Skicka via Lägg till Bridge** längst ned.
+1. Välj fliken **[!UICONTROL Leads]** och klicka sedan på ikonen **Skicka via Lägg till Bridge** längst ned.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Välj **Facebook** och klicka på **Nästa**.
+1. Markera **[!UICONTROL Facebook]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Klicka på listrutan **Målgrupp** och välj **+ Ny målgrupp**.
+1. Klicka på listrutan **[!UICONTROL Audience]** och välj **[!UICONTROL + New Audience]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >Facebook-API:t tillåter upp till 500 anpassade målgrupper per Facebook-annonskonto.
 
-1. Skriv in ett **målgruppsnamn**. Klicka på **Uppdatera**.
+1. Skriv in en **[!UICONTROL Audience Name]**. Klicka på **[!UICONTROL Update]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Om du har flera Facebook-annonskonton visas ytterligare en listruta där du kan välja vilket annonskonto som målgruppen har skapats i.
+   >Om du har flera [!DNL Facebook] annonskonton visas en extra listruta där du kan välja vilket annonskonto som målgruppen har skapats i.
 
    >[!TIP]
    >
-   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **Ersätt en befintlig publik**. Om du gör detta tas **inte** den målgrupp som ersätts bort.
+   >Vill du byta ut en ny publik mot en befintlig som är kopplad till en annonsuppsättning eller grupp? Markera kryssrutan **[!UICONTROL Replace an existing audience]**. Om du gör detta tas **inte** den målgrupp som ersätts bort.
 
 1. När du är klar uppdateras statusdialogrutan.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Alla listor som du flyttar över till Facebook blir statiska. Smarta listor i Marketo kommer inte att automatiskt uppdatera målgruppslistan på Facebook för att återspegla ändringar som gjorts efter överföringen.
+   >Alla listor som du flyttar över till [!DNL Facebook] blir statiska. Smarta listor i Marketo kommer inte att automatiskt uppdatera målgruppslistan i [!DNL Facebook] för att återspegla ändringar som gjorts efter överföringen.
 
    >[!MORELIKETHIS]
    >
-   >[Lägg till leads till en anpassad målgrupp på Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Lägg till leads till en anpassad målgrupp i [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

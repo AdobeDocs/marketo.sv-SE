@@ -4,9 +4,9 @@ description: Lägg till ett nytt formulär på en landningssida i fri form - Mar
 title: Lägga till ett nytt formulär på en startsida med valfri form
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 >* [Skapa ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Skapa en startsida med kostnadsfri form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Hitta din landningssida och klicka på **Redigera utkast**.
+1. Hitta din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Dra och släpp elementet **Form** på sidan.
+1. Dra och släpp elementet **[!UICONTROL Form]** på sidan.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 1. Det finns tre alternativ när du väljer en uppföljningssida:
 
-   * **Landningssida** - för att välja en Marketo-landningssida
-   * **Extern URL** - för att välja valfri URL
-   * **Formulärdefinierad** - om du vill använda inställningarna som definierats på formulärnivå
+   * **[!UICONTROL Landing Page]** - för att välja en Marketo-landningssida
+   * **[!UICONTROL External URL]** - välj en URL-adress
+   * **[!UICONTROL Form Defined]** - om du vill använda inställningarna som definierats på formulärnivå
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
    >
    >Uppföljningssidan är den sida som visas när de skickar formuläret.
 
-1. Klicka på **Infoga**.
+1. Klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

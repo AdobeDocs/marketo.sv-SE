@@ -3,9 +3,9 @@ description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentat
 title: Skicka e-post via gruppe-post
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
 ## Skicka ett gruppe-postmeddelande {#sending-a-group-email}
 
-1. Klicka på fliken **Personer**.
+1. Klicka på fliken **[!UICONTROL People]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Klicka på knappen Gruppera åtgärder och välj **E-postgrupp**.
+1. Klicka på knappen [!UICONTROL Group Actions] och välj **[!UICONTROL Email Group]**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -44,7 +44,7 @@ Så här skickar/redigerar du e-post med alternativet Gruppera e-post.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Markera önskad mottagare och klicka på **Förhandsgranska dynamiska fält**. Visa förhandsgranskningen till höger.
+1. Markera önskad mottagare och klicka på **[!UICONTROL Preview Dynamic Fields]**. Visa förhandsgranskningen till höger.
 
    ![](assets/sending-emails-via-group-email-7.png)
 

@@ -4,9 +4,9 @@ description: Skapa ett enkelt webbsegment - Marketo Docs - produktdokumentation
 title: Skapa ett enkelt webbsegment
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare från USA och finanssektorn.
 
-1. Gå till **Segment**.
+1. Gå till **[!UICONTROL Segments]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klicka på **Skapa ny**.
+1. Klicka på **[!UICONTROL Create New]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,7 +27,7 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
 
    ![](assets/segment-name.png)
 
-1. Dra **Plats** från den högra menyn och släpp den i segmentredigeraren.
+1. Dra **[!UICONTROL Location]** från den högra menyn och släpp den i segmentredigeraren.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Låt oss skapa ett grundläggande segment som riktar sig till alla webbesökare 
    >
    >Antalet städer är begränsat till 300 per segment.
 
-1. Dra **Branscher** från den högra menyn och släpp den i segmentredigeraren.
+1. Dra **[!UICONTROL Industries]** från den högra menyn och släpp den i segmentredigeraren.
 
    ![](assets/industries-hand.jpg)
 
-1. Välj Branscher att lägga till i listrutan. Välj **Finanssektorn**.
+1. Välj [!UICONTROL Industries] att lägga till i listrutan. Välj **[!UICONTROL Financial Services]Bransch**.
 
    ![](assets/segment-industries.png)
 
    Du har nu skapat ett grundläggande segment för alla potentiella kunder som besöker din webbplats från USA och finanssektorn.
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att gå till sidan Kampanjer.
+1. Klicka på **[!UICONTROL Save]** om du vill spara segmentet eller **[!UICONTROL Save & Define Campaign]** om du vill gå till sidan Kampanjer.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

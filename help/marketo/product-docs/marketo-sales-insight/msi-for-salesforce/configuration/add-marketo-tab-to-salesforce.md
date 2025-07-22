@@ -1,26 +1,26 @@
 ---
-description: Lägg till Marketo-fliken i Salesforce - Marketo Docs - produktdokumentation
-title: Lägg till fliken Marketo i Salesforce
+description: Lägg till Marketo Tab i Salesforce - Marketo Docs - produktdokumentation
+title: Lägg till Marketo Tab i Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Lägg till fliken Marketo i Salesforce {#add-marketo-tab-to-salesforce}
+# Lägg till Marketo-flik i [!DNL Salesforce] {#add-marketo-tab-to-salesforce}
 
-1. Klicka på **+** i Salesforce och klicka på **Anpassa mina flikar**.
+1. I [!DNL Salesforce] klickar du på **+** och sedan på **[!UICONTROL Customize My Tabs]**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Välj Marketo i den vänstra listan. Klicka sedan på **Lägg till** för att lägga till den på de **markerade flikarna**.
+1. Välj Marketo i den vänstra listan. Klicka sedan på **[!UICONTROL Add]** för att lägga till den på **[!UICONTROL Selected]flikarna**.
 
    >[!TIP]
    >
-   >Använd pilarna **Upp** och **Ned** för att ordna om flikarna.
+   >Använd pilarna **[!UICONTROL Up]** och **[!UICONTROL Down]** för att ordna om flikarna.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

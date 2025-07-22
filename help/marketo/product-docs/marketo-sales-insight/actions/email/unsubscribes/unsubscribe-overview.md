@@ -3,9 +3,9 @@ description: Avbeställ prenumerationen - Marketo Docs - produktdokumentation
 title: Avbeställ prenumeration - översikt
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 Det blir allt viktigare för organisationer att följa lagar om e-postsekretess. För att underlätta har vi förbättrat vår avprenumeration.
 
-* Länkar för att avbryta prenumerationen placeras på alla e-postmeddelanden som skickas från Marketo Sales och Salesforce (detta gäller inte för anpassade e-postmeddelanden som skickas från Outlook eller Gmail)
+* Länkar för att avbryta prenumerationen placeras i alla e-postmeddelanden som skickas från [!DNL Marketo Sales] och [!DNL Salesforce] (detta gäller inte för anpassade e-postmeddelanden som skickas från [!DNL Outlook] eller Gmail)
 * Administratörer kan redigera avbeställningsmeddelanden för hela teamet
 * Information om att avbryta prenumerationen lagras i PDV
-* Du kan avbryta prenumerationen manuellt: Klicka på Länk, Salesforce-synkronisering och Studsa
+* Du kan avbryta prenumerationen manuellt: Klicka på Länk, [!DNL Salesforce] Synkronisera och studsa
 * Ny startsida för länk för avanmälan
 
 ## Avbeställ Landing Page {#unsubscribe-link-landing-page}
@@ -38,17 +38,17 @@ Använd sökfältet för att söka efter personer som inte har prenumererat.
 
 ![](assets/unsubscribe-overview-3.png)
 
-Om du är administratör kan du gå till gruppen för att avbryta prenumerationen och filtrera efter Avsluta abonnemang och se alla avregistreringar som har samlats in i din persondatabas.
+Om du är administratör kan du gå till gruppen för att avbryta prenumerationen och filtrera efter [!UICONTROL Account Unsubscribes] och se alla avregistreringar som har samlats in i din persondatabas.
 
 ![](assets/unsubscribe-overview-4.png)
 
 ## Avbeställ historikkort {#unsubscribe-history-card}
 
-Med historikkortet för att avbryta prenumerationen kan administratörer och användare få sammanhangsberoende information om kontaktens avbeställningshistorik. Navigera dit genom att gå till fliken Personer och välja en person. Det finns längst ned på fliken Om i vyn Personinformation.
+Kortet [!UICONTROL Unsubscribe History] hjälper administratörer och användare att få sammanhangsberoende information om kontaktens avbeställningshistorik. Navigera dit genom att gå till fliken [!UICONTROL People] och välja en person. Det finns längst ned på fliken [!UICONTROL About] i vyn Personinformation.
 
 >[!NOTE]
 >
->Det finns bara ett historikkort för att avsluta prenumerationen om personen har _återkallat prenumerationen_ vid något tillfälle.
+>Det kommer bara att finnas ett [!UICONTROL Unsubscribe History]-kort om personen någon gång har _återprenumererat_.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -59,16 +59,16 @@ Med historikkortet för att avbryta prenumerationen kan administratörer och anv
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Datum</strong></td> 
+   <td><strong>[!UICONTROL Date]</strong></td> 
    <td><p>Visar det datum då prenumerationen/återprenumerationen ägde rum.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Information</strong></td> 
-   <td><p>Prenumerera igen: En Sales Connect-administratör tog manuellt bort prenumerationen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
+   <td><p>Prenumerera igen: En [!DNL Sales Connect]-administratör tog manuellt bort prenumerationen från kontaktposten. Den kan även visa information om varför kontakten avbröt prenumerationen.</p><p>Avbeställ: Kontakten avbröt prenumerationen.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Källa</strong></td> 
-   <td><p>Salesforce-synkronisering: Avbeställningen togs av en synkronisering från Salesforce.</p><p>Manuell: Användaren klickade på knappen för att avbryta prenumerationen för att avanmäla sig.</p><p>Klicka på Länk: Mottagaren av ett e-postmeddelande klickade på länken för att avbryta prenumerationen.</p><p>"Administratörsnamn": En administratörs namn visas när åtgärden var att återprenumerera kontakter. Detta gör att användarna vet vem som har tagit bort avbeställningen.</p></td> 
+   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td><p>[!DNL Salesforce] Synkronisering: Avbeställningen togs av en synkronisering från [!DNL Salesforce].</p><p>Manuell: Användaren klickade på knappen för att avbryta prenumerationen för att avanmäla sig.</p><p>Klicka på Länk: Mottagaren av ett e-postmeddelande klickade på länken för att avbryta prenumerationen.</p><p>"Administratörsnamn": En administratörs namn visas när åtgärden var att återprenumerera kontakter. Detta gör att användarna vet vem som har tagit bort avbeställningen.</p></td> 
   </tr> 
  </tbody> 
 </table>

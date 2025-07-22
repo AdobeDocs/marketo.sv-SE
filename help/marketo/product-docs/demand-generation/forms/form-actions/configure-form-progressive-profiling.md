@@ -4,9 +4,9 @@ description: Konfigurera progressiv formulärprofilering - Marketo Docs - Produk
 title: Konfigurera progressiv profilering av formulär
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 >
 >För att den här funktionen ska fungera på rätt sätt måste formulärförifyllning vara aktiverat för synliga fält och [inaktiverat](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) för dolda fält.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar**.
+1. Klicka på **[!UICONTROL Form Settings]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Ange **Progressiv profilering** till **Aktiverad**.
+1. Ange **[!UICONTROL Progressive Profiling]** till **[!UICONTROL Enabled]**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Okej, nu ska vi konfigurera det. Gå till **Fältinformation**.
+1. Okej, nu ska vi konfigurera det. Gå till **[!UICONTROL Field Details]**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,15 +49,15 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 
    >[!NOTE]
    >
-   >Fälten utanför rutan **Progressiv profilering** visas alltid i formuläret, även om de är ifyllda.
+   >Fälten utanför rutan **[!UICONTROL Progressive Profiling]** visas alltid i formuläret, även om de är ifyllda.
 
-1. Markera rutan **Progressiv profilering**.
+1. Markera rutan **[!UICONTROL Progressive Profiling]**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Var försiktig när du använder obligatoriska fält i Progressiv profilering. Dessa fält kan fortfarande lämnas tomma om besökaren anger en ny e-postadress (som skulle skapa en ny person) efter att tidigare ha skickat data för de andra fälten, eftersom de då skulle ignoreras i det senaste formuläret.
+   >Var försiktig när du använder obligatoriska fält i [!UICONTROL Progressive Profiling]. Dessa fält kan fortfarande lämnas tomma om besökaren anger en ny e-postadress (som skulle skapa en ny person) efter att tidigare ha skickat data för de andra fälten, eftersom de då skulle ignoreras i det senaste formuläret.
 
 1. Välj nu hur många tomma fält du vill att personer ska se i rutan **Progressiv profilering** vid en given tidpunkt.
 
@@ -65,7 +65,7 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
 
    >[!NOTE]
    >
-   >Om du väljer **Number** **of** **Blank** **Fields** som 1 visas följande första gången de ser det här formuläret:
+   >Om du väljer **[!UICONTROL Number of Blank Fields]** som 1 ser besökaren följande första gången de ser det här formuläret:
    >
    >* Förnamn (tomt)
    >* Efternamn (tomt)
@@ -86,11 +86,11 @@ Korta formulär är bra. När någon kommer tillbaka till ett formulär kan du p
    >* E-postadress (förifylld)
    >* Land (tomt)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

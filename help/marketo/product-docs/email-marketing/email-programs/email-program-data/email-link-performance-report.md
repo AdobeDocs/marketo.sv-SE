@@ -4,10 +4,10 @@ description: Resultatrapport för e-postlänk - Marketo Docs - produktdokumentat
 title: Resultatrapport för e-postlänk
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i dina e-postmeddelanden fungerar.
 
-1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **Resultat av e-postlänk** som rapporttyp.
+1. [Skapa en rapport i ett program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **[!UICONTROL Email Link Performance]** som rapporttyp.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Klicka på **Konfigurera**.
+1. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Dubbelklicka på **Aktivitetsdatum** under **Inställningar**.
+1. Dubbelklicka på **[!UICONTROL Date of Activity]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Ange en lämplig tidsram för rapporten. Klicka på **Spara**.
+1. Ange en lämplig tidsram för rapporten. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Klicka på **Rapport**.
+1. Klicka på **[!UICONTROL Report]**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Kolumn</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
    <th colspan="1" rowspan="1">Beskrivning</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Länk</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
    <td colspan="1" rowspan="1">Grupperat efter e-postnamn.<br>Klicka på plustecknet (+) om du vill se alla länkar i det e-postmeddelandet.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Klickningar</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Antalet gånger som länken klickades på.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% klick</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Av det totala antalet klick på alla länkar i det e-postmeddelandet, procent på den här länken.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Folk</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">Antalet unika personer som klickade på länken.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% personer</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">Procentandel av det totala antalet unika personer som klickade på länkar i det e-postmeddelandet på den här länken.</td> 
   </tr> 
  </tbody> 

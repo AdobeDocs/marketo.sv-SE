@@ -4,9 +4,9 @@ description: Inställningar för algoritmmål - Marketo Docs - produktdokumentat
 title: Inställningar för algoritmmål
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Algoritmmålsinställningar gör att du kan ange slutmålet för algoritmen för artificiell intelligens för prediktivt innehåll som ska anpassas efter dina affärsmål.
 
-1. Klicka på ditt inloggningsnamn i Predictive Content och välj **Content Settings**.
+1. Klicka på ditt inloggningsnamn i Predictive Content och välj **[!UICONTROL Content Settings]**.
 
    ![](assets/1.png)
 
-1. Välj **Algoritm** under Innehållsinställningar.
+1. Välj **[!UICONTROL Algorithm]** under Innehållsinställningar.
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ Algoritmmålsinställningar gör att du kan ange slutmålet för algoritmen för
 
    ![](assets/three-new.png)
 
-   | **Klicka** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
+   | **[!UICONTROL Clicks]** | Visa innehållet så att personen som tittar på innehållet kan klicka på det |
    |---|---|
-   | **Konverteringar** | Visa det innehåll som mest sannolikt får den som tittar på innehållet att skicka ett formulär |
+   | **[!UICONTROL Conversions]** | Visa det innehåll som mest sannolikt får den som tittar på innehållet att skicka ett formulär |
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/four.png)

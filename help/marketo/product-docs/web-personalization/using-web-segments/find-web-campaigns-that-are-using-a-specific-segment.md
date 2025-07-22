@@ -4,9 +4,9 @@ description: Hitta webbkampanjer som använder ett visst segment - Marketo Docs 
 title: Hitta webbkampanjer som använder ett visst segment
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Söker du webbkampanjer som använder ett specifikt segment?
 
-1. Gå till **Segment**.
+1. Gå till **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **Associerade kampanjer** på den högra panelen för att visa de kampanjer som är associerade med det specifika segmentet.
+1. Sök efter ett **segment**. Markera **segmentnamnet**. Klicka på **[!UICONTROL Associated Campaigns]** på den högra panelen för att visa de kampanjer som är kopplade till det specifika segmentet.
 
    ![](assets/image2014-11-26-14-21-59.png)
 

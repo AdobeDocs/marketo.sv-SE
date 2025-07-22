@@ -4,9 +4,9 @@ description: Redigera fragment med dynamiskt innehåll - Marketo Docs - produktd
 title: Redigera fragment med dynamiskt innehåll
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ Använd Segmentering i kodfragment för att enkelt hantera dynamiskt innehåll i
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Klicka på ditt **kodfragment** och sedan på **Redigera utkast**.
+1. Klicka på ditt **kodfragment** och sedan **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klicka på **Segmentera efter**.
+1. Klicka på **[!UICONTROL Segment By]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Ange **Segmentering** och klicka på **Spara**.
+1. Ange **[!UICONTROL Segmentation]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

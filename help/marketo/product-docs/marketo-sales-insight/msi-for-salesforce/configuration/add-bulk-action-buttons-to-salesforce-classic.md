@@ -3,28 +3,28 @@ description: Lägg till gruppåtgärdsknappar i Salesforce Classic - Marketo Doc
 title: Lägg till gruppåtgärdsknappar i Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
-# Lägg till gruppåtgärdsknappar i Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Lägg till gruppåtgärdsknappar i [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Du kan lägga till Marketo-knappar i dina Salesforce-layouter. Här är ett exempel:
+Du kan lägga till Marketo-knappar i dina [!DNL Salesforce]-layouter. Här är ett exempel:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Klicka på **Konfigurera**. Sök efter söklayout och klicka på **söklayouten** under **Leads**.
+1. Klicka på **[!UICONTROL Setup]**. Sök efter [!UICONTROL search layout] och klicka på **[!UICONTROL Search Layouts]** under **[!UICONTROL Leads]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Klicka på **Redigera** i raden **Leads List View**.
+1. Klicka på **[!UICONTROL Edit]** i raden **[!UICONTROL Leads List View]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Lägg till **Lägg till i Marketo Campaign**, **Skicka Marketo-e-post** och **Lägg till i bevakningslista** till knapparna **Markerade knappar** och **Spara**.
+1. Lägg till knapparna **[!UICONTROL Add to Marketo Campaign]**, **[!UICONTROL Send Marketo Email]** och **[!UICONTROL Add to Watch List]** i **[!UICONTROL Selected Buttons]** och **[!UICONTROL Save]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

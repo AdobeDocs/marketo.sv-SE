@@ -3,34 +3,34 @@ description: Konfigurera reCAPTCHA v3 - Marketo Docs - Produktdokumentation
 title: Konfigurera reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-# Konfigurera reCAPTCHA v3 {#setting-up-recaptcha-v3}
+# Konfigurerar [!UICONTROL reCAPTCHA v3] {#setting-up-recaptcha-v3}
 
 ReCAPTCHA v3 är en friktionslös upplevelse som gör att man kan få fram inskickade formulär baserat på hur misstänkt de är utan att behöva använda text, bilder eller knappar. [Läs mer](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
-## Hämta ditt datacenter- och Munchkin-ID {#retrieve-your-data-center-and-munchkin-id}
+## Hämta din [!UICONTROL Data Center] och [!UICONTROL Munchkin ID] {#retrieve-your-data-center-and-munchkin-id}
 
-För steg 6 i det inledande konfigurationsavsnittet för reCAPTCHA v3 nedan behöver du Marketo Engage prenumerationens datacenter och Munchkin-ID. Så här hittar du dem.
+För steg 6 i det inledande konfigurationsavsnittet för [!UICONTROL reCAPTCHA v3] nedan behöver du din Marketo Engage-prenumerations [!UICONTROL Data Center] och [!UICONTROL Munchkin ID]. Så här hittar du dem.
 
-1. Klicka på **Admin** i Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/setting-up-recaptcha-v3-1.png)
 
-1. Klicka på **Mitt konto**.
+1. Klicka på **[!UICONTROL My Account]**.
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
-1. Bläddra ned till supportinformation.
+1. Bläddra ned till [!UICONTROL Support Information].
 
    ![](assets/setting-up-recaptcha-v3-3.png)
 
-## Inledande konfiguration av reCAPTCHA v3 {#initial-recaptcha-v3-setup}
+## Inledande [!UICONTROL reCAPTCHA v3]-konfiguration {#initial-recaptcha-v3-setup}
 
 Följande steg utförs utanför Marketo.
 
@@ -38,13 +38,13 @@ Följande steg utförs utanför Marketo.
 
 1. Logga in/registrera dig med ett Google-konto.
 
-1. Klicka på knappen Skapa (+-tecken) för att skapa en ny nyckel.
+1. Klicka på knappen [!UICONTROL Create] (+-tecken) för att skapa en ny nyckel.
 
 1. Skapa en etikett som identifierar vilken nyckel som ska användas för Marketo Engage.
 
-1. Välj typen **reCAPTCHA v3**. Marketo Engage stöder för närvarande inte reCAPTCHA v2.
+1. Välj typen **[!UICONTROL reCAPTCHA v3]**. Marketo Engage stöder för närvarande inte reCAPTCHA v2.
 
-1. Lägg till varje domän som används av Marketo Engage-prenumerationen. Domäner som inte anges här returnerar fel i formulär där reCAPTCHA är aktiverat. Kom ihåg att ersätta orden &#39;datacenter&#39; och &#39;munchkinID&#39; med [data i din prenumeration](#retrieve-your-data-center-and-munchkin-id).
+1. Lägg till de domäner som Marketo Engage-prenumerationen använder. Domäner som inte anges här returnerar fel i formulär där reCAPTCHA är aktiverat. Kom ihåg att ersätta orden &#39;datacenter&#39; och &#39;munchkinID&#39; med [data i din prenumeration](#retrieve-your-data-center-and-munchkin-id).
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -52,13 +52,13 @@ Följande steg utförs utanför Marketo.
 
    >[!NOTE]
    >
-   >Om till exempel ditt kontos datacenter är &quot;sjst&quot;, är domänen du tillåtslista `app-sjst.marketo.com`. Om ditt Munchkin-ID är 123-ABC-789 blir domänen du tillåtslista `123-ABC-789.mktoweb.com`.
+   >Om till exempel ditt kontos [!UICONTROL Data Center] är &quot;sjst&quot; är domänen du tillåtslista `app-sjst.marketo.com`. Om [!UICONTROL Munchkin ID] är 123-ABC-789 är domänen du tillåtslista `123-ABC-789.mktoweb.com`.
 
 1. Ange en ägare och ytterligare e-postadress som ska ta emot varningar om den här tjänsten.
 
 1. Godkänn villkoren för reCAPTCHA.
 
-1. Klicka på **Skicka**.
+1. Klicka på **[!UICONTROL Submit]**.
 
    >[!NOTE]
    >
@@ -70,23 +70,23 @@ Följande steg utförs utanför Marketo.
 >
 >När du har utfört de här stegen och [aktiverat CAPTCHA i ditt första Marketo-formulär](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} måste du testa formuläret omedelbart, eftersom alla typer av felkonfigurationer i reCAPTCHA-inställningarna kan bryta formuläret.
 
-1. Klicka på **Admin** i Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/setting-up-recaptcha-v3-4.png)
 
-1. Välj **CAPTCHA** i trädet.
+1. Välj **[!UICONTROL CAPTCHA]** i trädet.
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 
-1. Klicka på **Redigera** i CAPTCHA-inställningarna.
+1. Klicka på **[!UICONTROL Edit]** på inställningarna för [!UICONTROL CAPTCHA].
 
    ![](assets/setting-up-recaptcha-v3-6.png)
 
-1. Klicka på listrutan CAPTCHA och välj reCAPTCHA v3.
+1. Klicka på listrutan [!UICONTROL CAPTCHA] och välj [!UICONTROL reCAPTCHA v3].
 
    ![](assets/setting-up-recaptcha-v3-7.png)
 
-1. Infoga hemlig nyckel och platsnyckel. Klicka på **Spara** när du är klar.
+1. Infoga **[!UICONTROL Secret Key]** och **[!UICONTROL Site Key]**. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
 

@@ -4,9 +4,9 @@ description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
 title: Schemalägg A/B-testet
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 >
 >För datum-/tidstester behöver du bara ange när du får sammanfattningen av testresultaten.
 
-1. Välj datumet **Skicka test**.
+1. Välj datumet **[!UICONTROL Send Test]**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Välj tiden **Skicka test**.
+1. Välj **[!UICONTROL Send Test]**-tid.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
    >
    >Sändnings- och sändningsvinnaren måste vara minst fyra timmars ifrån. För större utskick kanske du vill vänta i 24 timmar så att du hinner uppnå bra resultat.
 
-1. Gör samma sak för **Skicka-vinnaren**. Ange meddelandemottagare (valfritt) och klicka på **Nästa**.
+1. Gör samma sak för **[!UICONTROL Send Winner]**. Ange meddelandemottagare (valfritt) och klicka på **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
@@ -47,11 +47,11 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
    >
    >Om du väljer att deklarera en vinnare manuellt definierar du **Rapportdatum/tid för sändning** i stället för **Slutdatum/tid för utskick**.
 
-   Suverän! Nu är du klar. Granska sammanfattningen och klicka på Stäng.
+   Suverän! Du är klar. Granska sammanfattningen och klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Du kommer att märka att rutan **Schema** nu har uppdaterats.
+   Du kommer att märka att **[!UICONTROL Schedule]**-panelen nu har uppdaterats.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

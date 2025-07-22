@@ -4,9 +4,9 @@ description: Använda uppgifter i kampanjer - Marketo Docs - produktdokumentatio
 title: Använda uppgifter i kampanjer
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Aktiviteter är ett kraftfullt verktyg när du skickar en kampanj till en kontak
 
 Uppgiften att skicka ett e-postmeddelande och en uppgift att ringa en kontakt är det vanligaste användningsområdet för uppgifter i kampanjer.
 
-Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
+Du kan även göra en&quot;Aktivitet till inpost&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
 
 >[!NOTE]
 >
@@ -25,4 +25,4 @@ Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om de
 
 Uppgifter kopplas alltid till varje enskild person i kampanjen. Det innebär att ni måste gå till varje person och avsluta uppgiften för att deras enskilda kampanj ska kunna fortsätta.
 
-Du kan hantera dina uppgifter i: fliken Åtgärder i din kampanj i Campaign 2.0, direkt från ditt kommandocentral eller från aktivitetsavsnittet i Live Feed. Dessutom kan du hantera dina uppgifter från Salesforce.
+Du kan hantera dina uppgifter i: fliken Åtgärder i din kampanj i Campaign 2.0, direkt från ditt kommandocentral eller från aktivitetsavsnittet i Live Feed. Dessutom kan du hantera dina uppgifter från [!DNL Salesforce].

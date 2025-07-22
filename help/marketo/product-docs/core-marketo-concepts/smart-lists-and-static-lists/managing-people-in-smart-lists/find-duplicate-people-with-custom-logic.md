@@ -4,16 +4,16 @@ description: Hitta duplicerade personer med anpassad logik - Marketo Docs - prod
 title: Sök efter duplicerade personer med anpassad logik
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 4%
+source-wordcount: '124'
+ht-degree: 0%
 
 ---
 
 # Sök efter duplicerade personer med anpassad logik {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage har en smart systemlista som söker efter duplicerade personer genom att matcha deras e-postadresser. Så här använder du ett annat fält för att hitta dubbletter.
+Marketo Engage har en Smart List för system som söker efter dubbletter av personer genom att matcha deras e-postadresser. Så här använder du ett annat fält för att hitta dubbletter.
 
 >[!PREREQUISITES]
 >
@@ -33,10 +33,10 @@ Marketo Engage har en smart systemlista som söker efter duplicerade personer ge
 
 1. Välj ett av fyra tillgängliga alternativ:
 
-   * E-postadress
-   * Fullständigt namn
-   * Efternamn
-   * Uppdaterat den
+   * [!UICONTROL Email Address]
+   * [!UICONTROL Full Name]
+   * [!UICONTROL Last Name]
+   * [!UICONTROL Updated At]
 
    >[!NOTE]
    >

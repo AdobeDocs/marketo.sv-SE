@@ -4,10 +4,10 @@ description: Ändra teckenstorlek för formulär - Marketo Docs - produktdokumen
 title: Ändra teckenstorlek för formulär
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ Marketo gör det enkelt för dig att anpassa formulärens utseende och känsla. 
 >
 >Den här inställningen påverkar formuläretiketten, indatatexten och texten för knappen Skicka.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Välj **Inställningar** under **Formulärinställningar**.
+1. Välj **[!UICONTROL Form Settings]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Välj den **teckensnittsstorlek** du vill ha.
+1. Markera de **[!UICONTROL Font Size]** du vill ha.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

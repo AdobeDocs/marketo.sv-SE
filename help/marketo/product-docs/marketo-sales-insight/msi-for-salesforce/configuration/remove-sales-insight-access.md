@@ -3,20 +3,20 @@ description: Ta bort Sales Insight Access - Marketo Docs - produktdokumentation
 title: Ta bort åtkomst till Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 1%
 
 ---
 
-# Ta bort åtkomst till Sales Insight {#remove-sales-insight-access}
+# Ta bort [!DNL Sales Insight]-åtkomst {#remove-sales-insight-access}
 
-Följ de här stegen för att ta bort åtkomsten till Sales Insight-funktionerna i Salesforce. Gäller Salesforce Classic och Lightning.
+Följ de här stegen för att ta bort åtkomsten till [!DNL Sales Insight]-funktionerna i [!DNL Salesforce]. Gäller för [!DNL Salesforce] Classic och Lightning.
 
 ## Översikt {#overview}
 
-Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor krävs för att få tillgång till alla Sales Insight-funktioner. Om du tar bort dessa tas åtkomsten till Sales Insight bort.
+Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor krävs för att få åtkomst till alla [!DNL Sales Insight]-funktioner. Om du tar bort dessa tas åtkomsten till [!DNL Sales Insight] bort.
 
 **Objektinställningar**
 
@@ -27,11 +27,11 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
    <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
   </tr> 
   <tr> 
-   <td>Visningsdetaljer för bästa val</td> 
+   <td>[!DNL Best Bets] Visa detaljer</td> 
    <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
   </tr> 
   <tr> 
-   <td>Vyer för bästa val</td> 
+   <td>[!DNL Best Bets] Vyer</td> 
    <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
   </tr> 
   <tr> 
@@ -51,7 +51,7 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
    <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
   </tr> 
   <tr> 
-   <td>Marketo Sales Insight Config</td> 
+   <td>[!DNL Marketo Sales Insight] Konfig</td> 
    <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
   </tr> 
   <tr> 
@@ -73,64 +73,64 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
 * Visualforce-sidåtkomst: 64 Visualforce-sidor som börjar med &quot;mkto_si&quot;
 * Definitioner av anpassade inställningar: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
-## Tar bort åtkomst till säljinsikter {#removing-access-to-sales-insight}
+## Tar bort åtkomst till [!DNL Sales Insight] {#removing-access-to-sales-insight}
 
-1. Logga in på ditt Salesforce-konto.
+1. Logga in på ditt [!DNL Salesforce]-konto.
 
-1. Klicka på **Konfigurera**.
+1. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Under Administratör klickar du på **Hantera användare** och sedan på **Profiler**.
+1. Klicka på [!UICONTROL Administrator] under **[!UICONTROL Manage Users]** och sedan på **[!UICONTROL Profiles]**.
 
-1. Klicka på den profil som du vill uppdatera och **Redigera**.
+1. Klicka på den profil som du vill uppdatera och sedan **[!UICONTROL Edit]**.
 
-1. Bläddra nedåt till&quot;Anpassade flikinställningar&quot; under Flikinställningar.
+1. Bläddra ned till [!UICONTROL Custom Tab Settings] under [!UICONTROL Tab Settings].
 
-1. Välj alternativet &quot;Tabbdolt&quot; i listrutan för Marketo Sales Insight Config och MSI Marketo Sales Outbox.
+1. Välj alternativet [!UICONTROL Tab Hidden] i listrutan för [!DNL Marketo Sales Insight] Config- och MSI [!DNL Marketo Sales]-utkorg.
 
    ![](assets/remove-sales-insight-access-2.png)
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Bläddra ned till&quot;Anpassade objektbehörigheter&quot;.
+1. Bläddra ned till [!UICONTROL Custom Object Permissions].
 
 1. Ta bort&quot;Läs, Skapa, Redigera, Ta bort&quot;-åtkomst från följande objekt:
 
    * BestBetsCache
-   * Visningsdetaljer för bästa val
-   * Vyer för bästa val
+   * [!DNL Best Bets] Visa detaljer
+   * [!DNL Best Bets] vyer
    * EmailActivityCache
    * GetMethodArgus
    * GroupWebActivityCache
    * IntressantMomentsCache
-   * Marketo Sales Insight Config
+   * Konfiguration för [!DNL Marketo Sales Insight]
    * ScoringCache
    * Värden
    * WebActivityCache
 
-1. Bläddra ned till avsnittet&quot;Aktivera Apex-klassåtkomst&quot;. Klicka på **Redigera**.
+1. Bläddra ned till avsnittet [!UICONTROL Enabled Apex Class Access]. Klicka på **[!UICONTROL Edit]**.
 
-1. I avsnittet Aktiverade Apex-klasser väljer du alla klasser som börjar med mkto_si. Detta bör innehålla upp till 159 klasser.
+1. I avsnittet [!UICONTROL Enabled Apex Classes] väljer du alla klasser som börjar med mkto_si. Detta bör innehålla upp till 159 klasser.
 
-1. Klicka på **Ta bort** och sedan på **Spara**.
+1. Klicka på **[!UICONTROL Remove]** och sedan på **[!UICONTROL Save]**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Bläddra ned till avsnittet Aktiverad Visualforce-sidåtkomst. Klicka på **Redigera**.
+1. Bläddra ned till avsnittet [!UICONTROL Enabled Visualforce Page Access]. Klicka på **[!UICONTROL Edit]**.
 
-1. I avsnittet &quot;Aktiverade Visualforce-sidor&quot; väljer du alla sidor som börjar med &quot;mkto_si&quot;. Detta bör innehålla upp till 64 sidor.
+1. I avsnittet [!UICONTROL Enabled Visualforce Pages] markerar du alla sidor som börjar med mkto_si. Detta bör innehålla upp till 64 sidor.
 
-1. Klicka på **Ta bort** och sedan på **Spara**.
+1. Klicka på **[!UICONTROL Remove]** och sedan på **[!UICONTROL Save]**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Bläddra ned till avsnittet Aktivera åtkomst till anpassade inställningsdefinitioner. Klicka på **Redigera**.
+1. Bläddra ned till avsnittet [!UICONTROL Enabled Custom Setting Definitions Access]. Klicka på **[!UICONTROL Edit]**.
 
 1. Välj&quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; och&quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Klicka på **Ta bort** och sedan på **Spara**.
+1. Klicka på **[!UICONTROL Remove]** och sedan på **[!UICONTROL Save]**.
 
    ![](assets/remove-sales-insight-access-6.png)
 
-Nu räcker det! Du har tagit bort Sales Insight-åtkomst. Upprepa samma steg för alla andra profiler som du vill ta bort åtkomst till.
+Nu räcker det! Du har tagit bort [!DNL Sales Insight]-åtkomst. Upprepa samma steg för alla andra profiler som du vill ta bort åtkomst till.

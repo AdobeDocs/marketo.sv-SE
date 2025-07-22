@@ -4,9 +4,9 @@ description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs 
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Klicka på **[!UICONTROL My Personal Information]** under **[!UICONTROL Personal Information]**.
+1. Klicka på **[!UICONTROL Personal Information]** under **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -57,7 +57,7 @@ Om din Marketo-synkroniseringsanvändare är inställd på ett annat språk än 
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Gå nu tillbaka till Salesforce och använd stegen ovan för att ändra synkroniseringsanvändaren tillbaka till det språk du föredrar.
+1. Gå tillbaka till [!DNL Salesforce] och använd stegen ovan för att ändra synkroniseringsanvändaren tillbaka till det språk du föredrar.
 
 >[!NOTE]
 >

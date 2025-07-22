@@ -4,9 +4,9 @@ description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Prod
 title: Champion/Challenger - Definiera tävlingskriterier
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
 ## Standardvillkor för tävling {#standard-champion-criteria}
 
-1. Välj ett av de tillgängliga **Champion-villkoren**.
+1. Välj en av de tillgängliga **[!UICONTROL Champion Criteria]**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
 ## Anpassade villkor för tävling {#custom-champion-criteria}
 
-1. Om du vill bli snygg kan du anpassa genom att välja **Anpassad konvertering** och klicka på **Redigera**.
+1. Om du vill bli snygg kan du anpassa genom att välja **[!UICONTROL Custom Conversion Ratio]** och klicka på **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ När du har konfigurerat testtypen måste du definiera tävlingskriterierna. Så
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo tillåter bara utlösare för personer som har fått e-postmeddelandet från det här e-postprogrammet. Du behöver inte lägga till filtret&quot;Skickat e-post&quot;.
+   Marketo tillåter bara utlösare för personer som har fått e-postmeddelandet från det här e-postprogrammet. Du behöver inte lägga till ett [!UICONTROL Was Sent Email]-filter.
 
-1. Klicka på **Stäng**.
+1. Klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

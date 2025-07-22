@@ -4,9 +4,9 @@ description: Skapa ett anpassat fält för CRM-identifiering - Marketo Docs - pr
 title: Skapa ett anpassat fält för CRM-identifiering
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Lägg till anpassade fält till konton, mappa dem till CRM och använd dem för CRM-kontoidentifiering i Marketo.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klicka på **Fälthantering** och sedan på **Nytt anpassat fält**.
+1. Klicka på **[!UICONTROL Field Management]** och sedan på **[!UICONTROL New Custom Field]**.
 
    ![](assets/two-4.png)
 
-1. Klicka på listrutan **Objekt** och välj **Namngivet konto**.
+1. Klicka på listrutan **[!UICONTROL Object]** och välj **[!UICONTROL Named Account]**.
 
    ![](assets/three-3.png)
 
-1. Klicka på listrutan **Typ** och välj en typ.
+1. Klicka på listrutan **[!UICONTROL Type]** och välj en typ.
 
    ![](assets/four-3.png)
 
-1. Ange ett **namn** (API-namnet fylls i automatiskt) och klicka på **Skapa**.
+1. Ange **[!UICONTROL Name]** (API-namnet fylls i automatiskt) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/five-3.png)
 
-1. När fältet har skapats markerar du det i trädet till höger. Klicka på listrutan **Fältåtgärder** och välj **Mappa till CRM-fält**.
+1. När fältet har skapats markerar du det i trädet till höger. Klicka på listrutan **[!UICONTROL Field Actions]** och välj **[!UICONTROL Map to CRM Field]**.
 
    ![](assets/six-2.png)
 
-1. Markera det CRM-kontofält som du vill mappa till och klicka på **Spara**.
+1. Markera det CRM-kontofält som du vill mappa till och klicka på **[!UICONTROL Save]**.
 
    ![](assets/seven-1.png)
 

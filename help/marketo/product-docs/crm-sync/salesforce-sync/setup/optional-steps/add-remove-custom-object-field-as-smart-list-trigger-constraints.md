@@ -4,10 +4,10 @@ description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbeg
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo Engage ger exakt kontroll över Salesforce anpassade objektsynkroniserin
 >
 >**Administratörsbehörigheter krävs**
 
-1. Jag kom till området **[!UICONTROL Admin]**.
+1. Klicka på **[!UICONTROL Admin].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. Klicka på **[!UICONTROL Salesforce Objects Sync]**.
+1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Salesforce Objects Sync].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -39,7 +39,7 @@ Marketo Engage ger exakt kontroll över Salesforce anpassade objektsynkroniserin
 
    >[!TIP]
    >
-   >Om knappen **[!UICONTROL Edit Visible Fields]** är nedtonad används objektet i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om knappen **[!UICONTROL Edit Visible Fields]** är nedtonad används objektet i en smart lista eller en smart kampanj. Ta bort alla associationer för att fortsätta.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 

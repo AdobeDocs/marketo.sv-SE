@@ -1,21 +1,21 @@
 ---
 unique-page-id: 42762322
 description: Marketo Sales Insight Configuration Tab in Salesforce - Marketo Docs - Product Documentation
-title: Marketo Sales Insight Configuration tab in Salesforce
+title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Marketo Sales Insight Configuration tab in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Fliken [!DNL Marketo Sales Insight] Konfiguration i [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Driftsinställningar {#operational-settings}
 
-Du måste ha konfigurerat detta för att kunna börja använda Sales Insight i SFDC.
+Du måste ha den här inställningen för att kunna börja använda [!DNL Sales Insight] i SFDC.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
@@ -65,7 +65,7 @@ Konfigurationer gäller för alla MSI-användare och är inte specifika för pro
 
 ## Supportinställningar {#support-settings}
 
-Om du markerar den här kryssrutan aktiveras felsökningsloggning i Salesforce-instansen. Det kan hjälpa dig att felsöka problem.
+Om du markerar den här kryssrutan aktiveras felsökningsloggning i din Salesforce-instans. Det kan hjälpa dig att felsöka problem.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 

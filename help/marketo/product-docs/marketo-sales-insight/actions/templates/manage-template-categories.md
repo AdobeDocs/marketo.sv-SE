@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Skapa en kategori {#create-a-category}
 
-1. Klicka på fliken **Mallar**.
+1. Klicka på fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Klicka på ikonen **+** bredvid **Kategorier**.
+1. Klicka på ikonen **+** bredvid **[!UICONTROL Categories]**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Ange ett namn för den nya kategorin och klicka sedan på **Skapa**.
+1. Ange ett namn för den nya kategorin och klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Byta namn på en mallkategori {#rename-a-template-category}
 
-1. Klicka på fliken **Mallar**.
+1. Klicka på fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Håll pekaren över mallen som du vill byta namn på och klicka på punkten (tre punkter). Välj **Byt namn**.
+1. Håll pekaren över mallen som du vill byta namn på och klicka på punkten (tre punkter). Välj **[!UICONTROL Rename]**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Ta bort en mallkategori {#delete-a-template-category}
 
-1. Klicka på fliken **Mallar**.
+1. Klicka på fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Håll pekaren över mallen som du vill byta namn på och klicka på punkten (tre punkter). Välj **Ta bort**.
+1. Håll pekaren över mallen som du vill byta namn på och klicka på punkten (tre punkter). Välj **[!UICONTROL Delete]**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/manage-template-categories-9.png)
 

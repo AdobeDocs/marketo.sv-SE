@@ -4,10 +4,10 @@ description: Redigera prediktivt innehåll för rekommendationsfältet - Marketo
 title: Redigera prediktivt innehåll för rekommendationsfältet
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Så här ställer du in ditt prediktiva innehåll för rekommendationsfältet.
 >
 >Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
 
-1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
+1. Öppna redigeraren genom att klicka på en titel på sidan **[!UICONTROL Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Klicka på **Bar**.
+1. Klicka på **[!UICONTROL Bar]**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ Så här ställer du in ditt prediktiva innehåll för rekommendationsfältet.
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/save.png)

@@ -4,9 +4,9 @@ description: Champion/Challenger -Deklarera en mästare - Marketo Docs - produkt
 title: Champion/Challenger - Deklarera en mästare
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,31 +19,31 @@ När du är klar kan du deklarera en kampanj för ditt e-posttest.
 >
 >[Champion/Challenger: Godkänn ditt e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Deklarera kampanj**.
+1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **[!UICONTROL Declare Champion]**.
 
    ![](assets/champion4.jpg)
 
-1. Välj önskad **vinnare**.
+1. Välj önskad **[!UICONTROL Winner]**.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Ange **Deklarationsdatum**.
+1. Ange **[!UICONTROL Declare Date]**.
 
    >[!NOTE]
    >
-   >Till och med **Deklarera datum** kommer Marketo att fortsätta skicka den eller de gamla utmanarna. När datum/tid är nådd skickas bara den nya segraren.
+   >Fram till **[!UICONTROL Declare Date]** kommer Marketo att fortsätta skicka den eller de gamla motståndarna. När datum/tid är nådd skickas bara den nya segraren.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observera att standardvärdet för **Deklarationsdatum** är i morgon, inte i dag.
+   >Observera att standardvärdet **[!UICONTROL Declare Date]** är i morgon, inte i dag.
 
-1. Välj en tid och klicka på **Spara**.
+1. Välj en tid och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

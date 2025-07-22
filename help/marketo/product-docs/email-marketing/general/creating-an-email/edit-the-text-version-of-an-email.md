@@ -4,26 +4,26 @@ description: Redigera textversionen av ett e-postmeddelande - Marketo Docs - pro
 title: Redigera textversionen av ett e-postmeddelande
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Redigera textversionen av ett e-postmeddelande {#edit-the-text-version-of-an-email}
 
-När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas på ett annat sätt än HTML. Som standard kopierar Marketo automatiskt textinnehållet i textelement som finns i e-postmeddelandet till textversionen. Så här redigerar du det.
+När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas på ett annat sätt än HTML-versionen. Som standard kopierar Marketo automatiskt textinnehållet i textelement som finns i e-postmeddelandet till textversionen. Så här redigerar du det.
 
 >[!NOTE]
 >
 >Det här är inte en artikel om att skapa ett e-postmeddelande med endast text. Mer information finns i [Skapa ett e-postmeddelande med endast text](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Klicka på fliken **Text** längst ned i e-postmeddelandet i e-postredigeraren.
+1. Klicka på fliken **[!UICONTROL Text]** längst ned i e-postmeddelandet i e-postredigeraren.
 
    ![](assets/one-5.png)
 
-1. Avmarkera **Kopiera automatiskt från HTML** om du vill göra ändringar.
+1. Avmarkera **[!UICONTROL Automatically copy from HTML]** om du vill göra ändringar.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas
 
    ![](assets/three-4.png)
 
-1. Redigera. När du är klar stänger du bara redigeraren eller går tillbaka till HTML. Ändringarna sparas automatiskt.
+1. Redigera. När du är klar stänger du bara redigeraren eller går tillbaka till HTML-versionen. Ändringarna sparas automatiskt.
 
    ![](assets/four-4.png)
 
@@ -41,4 +41,4 @@ När du skapar ett e-postmeddelande kanske du vill att textversionen ska skrivas
 
 >[!CAUTION]
 >
->Om du väljer **Kopiera från HTML**, eller om du väljer **Kopiera automatiskt från HTML** i e-postmeddelanden som innehåller dynamiskt innehåll, anges flaggan Granskad till _true_ för alla segment (vilket ger den gröna bockmarkeringen som anger att den har granskats) i både HTML- och textversionen av e-postmeddelandet. Om du utför någon av ovanstående åtgärder måste du kontrollera innehållet innan du skickar iväg det.
+>Om du väljer **Kopiera från HTML**, eller om du väljer **Kopiera automatiskt från HTML** i e-postmeddelanden som innehåller dynamiskt innehåll, anges flaggan Granskad till _true_ för alla segment (vilket ger den gröna bockmarkeringen som anger att den har granskats) i både HTML- och textversionerna av e-postmeddelandet. Om du utför någon av ovanstående åtgärder måste du kontrollera innehållet innan du skickar iväg det.

@@ -4,9 +4,9 @@ description: Lägg till bilder och filer i Marketo - Marketo Docs - Produktdokum
 title: Lägg till bilder och filer i Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lär dig hur du lägger till nya bilder eller filer i din Marketo Engage-instans.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -41,7 +41,7 @@ Lär dig hur du lägger till nya bilder eller filer i din Marketo Engage-instans
 
    >[!NOTE]
    >
-   >Alla filtyper kan överföras medan Marketo endast hanterar de viktigaste bildtyperna (JPG, PNG, GIF, osv.) fungerar i vår e-postredigerare.
+   >Alla filtyper kan överföras, men i e-postredigeraren fungerar endast de viktigaste bildtyperna (JPG, PNG, GIF osv.).
 
    >[!MORELIKETHIS]
    >

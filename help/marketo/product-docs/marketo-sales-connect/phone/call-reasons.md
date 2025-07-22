@@ -3,9 +3,9 @@ description: Samtalsorsaker - Marketo Docs - produktdokumentation
 title: Samtalsorsaker
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
 
 ## Aktivera samtalsorsaker {#enable-call-reasons}
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-1.png)
 
-1. Välj **Dialer** under Administratörsinställningar.
+1. Under [!UICONTROL Admin Settings] väljer du **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-2.png)
 
-1. Välj **Aktivera samtalsorsaker**.
+1. Välj **[!UICONTROL Enable call reasons]**.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ Låt säljteamen välja samtalsorsaker när de ringer samtal så att teamet kan 
 >
 >Du kan skapa högst 15 samtalsskäl.
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-5.png)
 
-1. Välj **Dialer** under Administratörsinställningar.
+1. Under [!UICONTROL Admin Settings] väljer du **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-6.png)
 
-1. Klicka på **Hantera samtalsorsaker**.
+1. Klicka på **[!UICONTROL Manage call reasons]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Ange det önskade anropsorsaksnamnet i textfältet och klicka på **Lägg till**.
+1. Ange det önskade anropsortimentsnamnet i textfältet och klicka på **[!UICONTROL Add]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ När samtalsortimenten har aktiverats. Användarna kan välja ett när de ringer
 
    ![](assets/call-reasons-9.png)
 
-1. Ange samtalsinformationen i telefonsvararen och klicka på **Ring**.
+1. Ange samtalsinformationen i telefonsvararen och klicka på **[!UICONTROL Call]**.
 
    ![](assets/call-reasons-10.png)
 

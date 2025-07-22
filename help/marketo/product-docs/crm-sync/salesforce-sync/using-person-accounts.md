@@ -4,24 +4,24 @@ description: Använda personkonton - Marketo Docs - produktdokumentation
 title: Använda personkonton
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Använda personkonton {#using-person-accounts}
 
-Personkonton kan konfigureras i Salesforce för att passa behoven i din organisation. Så här behandlar Marketo Engage personkonton.
+Personkonton kan konfigureras i Salesforce för att passa organisationens behov. Så här behandlar Marketo Engage personkonton.
 
 >[!NOTE]
 >
->Salesforce-standardkonton är affärskonton. Din Salesforce-administratör måste konfigurera personkonton separat.
+>[!DNL Salesforce]-standardkonton är företagskonton. Din [!DNL Salesforce]-administratör måste konfigurera personkonton separat.
 
 ## Vad är ett personkonto? {#what-is-a-person-account}
 
-Ett personkonto liknar kontoobjektet i Salesforce. Ett personkonto har dock åtkomst till både kontofält och kontaktfält.
+Ett personkonto liknar kontoobjektet i [!DNL Salesforce]. Ett personkonto har dock åtkomst till både kontofält och kontaktfält.
 
 ## Vad händer när ett personkonto synkroniseras med Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -49,4 +49,4 @@ Marketo är beroende av kontaktrollen för affärsmöjligheten för att avgöra 
 
 ## Vilket e-postfält ska jag använda för personkonton? {#which-email-field-should-i-use-for-person-accounts}
 
-Det finns två e-postfält för ett personkonto. Använd fältet **E-postadress** i dina formulär (inte **Personens e-postadress**) för att se till att Marketo deduplicering och annan e-postbearbetning fungerar som de ska.
+Det finns två e-postfält för ett personkonto. Använd fältet **[!UICONTROL Email Address]** i dina formulär (inte **[!UICONTROL Person Email Address]**) för att säkerställa att Marketo deduplicering och annan e-postbearbetning fungerar som de ska.

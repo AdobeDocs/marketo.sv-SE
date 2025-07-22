@@ -1,26 +1,26 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - Product Documentation
-title: Översikt över Dynamic Chat
+description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
+title: Dynamic Chat - översikt
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 0%
+source-wordcount: '587'
+ht-degree: 1%
 
 ---
 
-# Översikt över Dynamic Chat {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] Översikt {#dynamic-chat-overview}
 
-Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan också chatta med en handläggare och till och med boka möten med säljteamet. Dynamic Chat-aktivitet och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
+Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut till både personer och konton på er webbplats. Samla in relevant innehåll som namn, kontaktinformation och fritext. Besökarna kan också chatta med en handläggare och till och med boka möten med säljteamet. Dynamic Chat aktivitets- och engagemangsdata kan användas för att lägga till medlemmar i Marketo-program och aktivera flerkanalsaktiviteter.
 
 >[!TIP]
 >
->Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=sv-SE){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
+>Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
 
 ## Integreringar {#integrations}
 
-En viktig komponent i Dynamic Chat är möjligheten att ha ett gränssnitt för Marketo-prenumerationer. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data att slutföra den inledande [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.
+En nyckelkomponent i Dynamic Chat är möjligheten att kunna använda Marketo-prenumerationer internt. För att kunna utnyttja den här integreringens fulla kapacitet måste du först initiera datasynkroniseringen. Beroende på storleken på din Marketo-databas kan det ta upp till 24 timmar för data att slutföra den inledande [engångssynkroniseringen](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.
 
 Följande synkroniseras:
 
@@ -58,7 +58,7 @@ Erbjud dina kvalificerade webbbesökare att få kontakt med dina säljare via [l
 
 ## Generativ AI {#generative-ai}
 
-[Generativ AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} i Adobe Dynamic Chat bearbetar avsiktssignaler, användarpreferenser och tidigare beteenden i realtid för att generera relevanta, personaliserade meddelanden för chattbesökare.
+[Generativ AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} i Adobe Dynamic Chat bearbetar intent-signaler, användarpreferenser och tidigare beteenden i realtid för att generera relevanta, personaliserade meddelanden för chattbesökare.
 
 ## Ändra språk {#changing-the-language}
 
@@ -66,9 +66,9 @@ Följ stegen nedan för att ändra ditt Dynamic Chat-språk.
 
 >[!IMPORTANT]
 >
->Om du ändrar ditt språk på profilnivån ändras språket för _alla_-program, inte bara Dynamic Chat.
+>Om du ändrar ditt språk på profilnivån ändras språket för _alla_ Experience Cloud-program, inte bara [!DNL Dynamic Chat].
 
-1. Klicka på inställningsikonen på ditt Experience Cloud-konto och välj **Inställningar**.
+1. Klicka på inställningsikonen på ditt Experience Cloud-konto och välj **[!UICONTROL Preferences]**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,19 +76,19 @@ Följ stegen nedan för att ändra ditt Dynamic Chat-språk.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Välj ditt nya språk (det andra språket är valfritt) och klicka på **Spara**.
+1. Välj ditt nya språk (det andra språket är valfritt) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >Det finns ett par dussin språk att välja bland, men Dynamic Chat stöder bara följande: engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
+   >Det finns ett fåtal språk att välja mellan, men [!DNL Dynamic Chat] stöder bara följande: engelska, franska, tyska, japanska, spanska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska.
 
 När du uppdaterar språket ändras allt i själva programmet utom orden som du har fyllt i personligen (t.ex. strömningssvar).
 
-## Bevarandegränser för data i Dynamic Chat {#dynamic-chat-data-retention-limits}
+## Dynamic Chat datalagringsbegränsningar {#dynamic-chat-data-retention-limits}
 
-Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Nedan finns bara några begränsningar/parametrar inom Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datatyp</th>
@@ -117,4 +117,4 @@ Nedan visas bara några av gränserna/parametrarna i Dynamic Chat. En fullständ
 
 ## Vanliga frågor och svar {#faq}
 
-Se [Dynamic Chat - frågor och svar](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Se [Dynamic Chat FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

@@ -3,9 +3,9 @@ description: Utlösare och filter för försäljningsaktivitet - Marketo Docs - 
 title: Utlösare och filter för försäljningsaktivitet
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. På fliken **Smart lista** söker du efter Försäljningsappar.
+1. Sök efter **[!UICONTROL Smart List]** på fliken [!UICONTROL Sales Apps].
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
 >[!NOTE]
 >
->En fullständig lista över aktiviteter, begränsningar och definitioner finns i [Aktivitetsordlistan ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md) Sales Insight Actions.
+>En fullständig lista över aktiviteter, begränsningar och definitioner finns i [[!DNL Sales Insight Actions] aktivitetsordlistan](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

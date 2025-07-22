@@ -4,9 +4,9 @@ description: Avbryt e-postprogram - Marketo Docs - produktdokumentation
 title: Avbryt e-postprogram
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Oj då! Bromsa! Det här e-postprogrammet bör inte gå ut.
 >
 >Den här artikeln är avsedd att hjälpa dig att förhindra att e-postmeddelanden skickas innan de skickas. Det finns inget sätt att återkalla skickade e-postmeddelanden.
 
-1. Klicka på **Avbryt program** i ett e-postprogram.
+1. Klicka på **[!UICONTROL Abort Program]** i ett e-postprogram.
 
    ![](assets/dashboardleads.jpg)
 
-1. Klicka på **Avbryt** om du vill ha fullständig bekräftelse.
+1. Klicka på **[!UICONTROL Abort]** om du vill ha fullständig bekräftelse.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

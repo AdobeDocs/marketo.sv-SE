@@ -4,10 +4,10 @@ description: Lägg till token i en e-postlänk - Marketo Docs - produktdokumenta
 title: Lägg till token i en e-postlänk
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill infoga extra och personspecifika parametrar i länkarna kan du använda variabler. Så här gör du.
 
-1. Markera e-postmeddelandet och klicka på fliken **Redigera utkast**.
+1. Markera din e-postadress och klicka på fliken **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Om du vill infoga extra och personspecifika parametrar i länkarna kan du använ
 
    ![](assets/two.png)
 
-1. Leta reda på eller skriv texten för länken. Markera den och klicka på ikonen **Infoga/redigera länk** .
+1. Leta reda på eller skriv texten för länken. Markera den och klicka på ikonen **[!UICONTROL Insert/Edit Link]**.
 
    ![](assets/three.png)
 
-1. Ange önskade token i **URL** och klicka på **Infoga**.
+1. Ange önskade token i **[!UICONTROL URL]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/four.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/five.png)
 

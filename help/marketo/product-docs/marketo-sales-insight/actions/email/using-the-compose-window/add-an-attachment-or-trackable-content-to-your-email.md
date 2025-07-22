@@ -3,16 +3,16 @@ description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - 
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Lägg till en bifogad fil eller spårbart innehåll i din e-post {#add-an-attachment-or-trackable-content-to-your-email}
 
-När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
+När du skickar ett e-postmeddelande via [!DNL Marketo Sales] kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
 
 >[!NOTE]
 >
@@ -20,11 +20,11 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
 ## Lägg till en bifogad fil {#add-an-attachment}
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. Fyll i fältet Till och ange ett ämne.
+1. Fyll i fältet [!UICONTROL To] och ange en [!UICONTROL Subject].
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -32,13 +32,13 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Markera filen som du vill bifoga och klicka på **Infoga**.
+1. Markera filen som du vill bifoga och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **[!UICONTROL Upload Content]** i fönstrets övre högra hörn.
 
    Den bifogade filen visas längst ned i e-postmeddelandet.
 
@@ -46,11 +46,11 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
 ## Lägg till spårbart innehåll {#add-trackable-content}
 
-1. Skapa e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi fönstret Disponera).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]**-fönstret).
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. Fyll i fältet Till och ange ett ämne.
+1. Fyll i fältet [!UICONTROL To] och ange en [!UICONTROL Subject].
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,13 +58,13 @@ När du skickar ett e-postmeddelande via Marketo direktförsäljning kan du läg
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Markera det innehåll som du vill lägga till, klicka på **Innehållet är spårat** och klicka på **Infoga**.
+1. Markera det innehåll som du vill lägga till, klicka på skjutreglaget **[!UICONTROL Content is tracked]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Om du behöver överföra en fil klickar du på knappen **Överför innehåll** i fönstrets övre högra hörn.
+   >Om du behöver överföra en fil klickar du på knappen **[!UICONTROL Upload Content]** i fönstrets övre högra hörn.
 
    Innehållet visas som en länk i ditt e-postmeddelande. Mottagaren kan klicka på länken för att hämta innehållet.
 

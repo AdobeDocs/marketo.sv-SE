@@ -4,32 +4,32 @@ description: Filtrera webbkampanjer - Marketo Docs - produktdokumentation
 title: Filtrera webbkampanjer
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 # Filtrera webbkampanjer {#filter-web-campaigns}
 
-När du har skapat hundratals Personalization-webbkampanjer är det verkligen bra att kunna använda filter för att visa endast de du är intresserad av.
+När du har skapat hundratals [!DNL Web Personalization]-kampanjer är det verkligen bra att kunna använda filter för att visa endast de du är intresserad av.
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klicka på **Filter** på sidan Webbkampanjer.
+1. Klicka på [!UICONTROL Web Campaigns] på sidan **[!UICONTROL Filter]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Markera kryssrutan för den status och/eller typ av kampanj som du vill filtrera efter, till exempel **Pausad** eller **Dialog**. Klicka på **Använd**.
+1. Markera kryssrutan för den status och/eller typ av kampanj som du vill filtrera efter, till exempel **[!UICONTROL Paused]** eller **[!UICONTROL Dialog]**. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Använd kryssrutan **Markera alla** för att välja alla eller länken **Rensa** för att ta bort alla kryssrutor.
+   >Använd kryssrutan **[!UICONTROL Select All]** för att välja alla eller länken **[!UICONTROL Clear]** för att ta bort alla kryssrutor.
 
 1. Nu visas bara kampanjer som matchar filtret.
 

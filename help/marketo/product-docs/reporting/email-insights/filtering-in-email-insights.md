@@ -4,18 +4,18 @@ description: Filtrering i e-postinsikter - Marketo Docs - produktdokumentation
 title: Filtrera i e-postinsikter
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Filtrera i e-postinsikter {#filtering-in-email-insights}
+# Filtrerar i [!UICONTROL Email Insights] {#filtering-in-email-insights}
 
-I e-postinsikter finns det olika sätt att filtrera data.
+I [!UICONTROL Email Insights] finns det olika sätt att filtrera data.
 
-## E-postinsikter {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 Klicka på + för att börja lägga till filter. Lägg till så många du vill.
 
@@ -59,10 +59,10 @@ Välj bland vanliga förinställda datumintervall, välj specifika datum och anv
 
 >[!NOTE]
 >
->Datumintervall gäller för både sidan Analytics (Analyser) och sidan Send (Skickar). Alternativet **Jämför** kan bara användas på Analytics-sidan.
+>Datumintervall gäller för både sidan [!UICONTROL Analytics] och sidan [!UICONTROL Sends]. Alternativet **Jämför** kan bara användas på sidan [!UICONTROL Analytics].
 
 ## Kontobaserad marknadsföring {#account-based-marketing}
 
-Om du använder [Hantering av målkonto](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter som är specifika för dig.
+Om du använder [[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) finns det filter särskilt för dig.
 
 ![](assets/abm.png)

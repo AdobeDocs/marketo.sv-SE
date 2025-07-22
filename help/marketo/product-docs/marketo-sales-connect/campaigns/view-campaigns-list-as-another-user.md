@@ -4,9 +4,9 @@ description: Visa kampanjlistan som en annan användare - Marketo Docs - Produkt
 title: Visa kampanjlistan som en annan användare
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Som administratör kan ni visa kampanjer som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Kampanjer** i webbprogrammet.
+1. Klicka på **[!UICONTROL Campaigns]** i webbprogrammet.
 
    ![](assets/one-5.png)
 
-1. Klicka på listrutan **Visa som** och välj önskad användare.
+1. Klicka på listrutan **[!UICONTROL View As]** och välj önskad användare.
 
    ![](assets/two-4.png)
 

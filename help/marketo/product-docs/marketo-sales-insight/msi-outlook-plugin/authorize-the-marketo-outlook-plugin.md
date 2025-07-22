@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Auktorisera Marketo Outlook-plugin - Marketo Docs - Produktdokumentation
-title: Auktorisera Marketo Outlook-plugin
+description: Auktorisera Marketo [!DNL Outlook] Plugin - Marketo Docs - produktdokumentation
+title: Auktorisera Marketo [!DNL Outlook] Plugin-programmet
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Auktorisera Marketo Outlook-plugin {#authorize-the-marketo-outlook-plugin}
+# Auktorisera Marketo [!DNL Outlook]-plugin-programmet {#authorize-the-marketo-outlook-plugin}
 
-Om du vill använda Marketo MSI-plugin i Outlook måste du godkänna det.
+Om du vill använda Marketo MSI-plugin-programmet i [!DNL Outlook] måste du godkänna det.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Om du vill använda Marketo MSI-plugin i Outlook måste du godkänna det.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. När dialogrutan Auktorisera Marketo-plugin-program visas klickar du på **Begär kod**.
+1. Klicka på [!UICONTROL Authorize Marketo Plugin] när dialogrutan **[!UICONTROL Request Code]** visas.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. Koden skickas till din standarde-postadress för Outlook-kontot.
+1. Koden skickas till din e-postadress för ditt standardkonto för [!DNL Outlook].
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Om e-postadressen för ditt standardkonto i Outlook checkas ut får du en registreringsnyckel. Ange det i popup-fönstret och klicka på **Skicka**.
+1. Om ditt standardkonto för [!DNL Outlook]-e-postadress checkas ut får du en registreringsnyckel. Ange det i popup-fönstret och klicka på **[!UICONTROL Submit]**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

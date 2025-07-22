@@ -4,10 +4,10 @@ description: Lägg till en landsväljarlista i ditt formulär - Marketo Docs - P
 title: Lägg till en landsväljarlista i formuläret
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Följ dessa anvisningar för att konvertera landfältet till en listruta med en lista över alla länder.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Sök efter och välj **Land**.
+1. Sök efter och välj **[!UICONTROL Country]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Markera fältet **Land** och ändra **fälttyp** till **Välj**.
+1. Markera fältet **[!UICONTROL Country]** och ändra **[!UICONTROL Field Type]** till **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Redigera** **Värden** om du vill lägga till listan över länder som användare kan välja från.
+1. **[!UICONTROL Edit]** **[!UICONTROL Values]** för att lägga till listan över länder som användare kan välja mellan.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klicka på **Avancerat** **Redigeraren**.
+1. Klicka på **[!UICONTROL Advanced Editor]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Följ dessa anvisningar för att konvertera landfältet till en listruta med en 
    >
    >Redigera listan eller använd någon annan lista.
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

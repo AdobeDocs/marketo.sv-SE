@@ -3,9 +3,9 @@ description: Tilldela uppgifter till teammedlemmar - Marketo Docs - produktdokum
 title: Tilldela uppgifter till teammedlemmar
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 >
 >Du kan bara tilldela uppgifter för delade kontakter.
 
-1. Klicka på **Kommandocentral** i webbprogrammet.
+1. Klicka på **[!UICONTROL Command Center]** i webbprogrammet.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Klicka på **Lägg till uppgift**.
+1. Klicka på **[!UICONTROL Add Task]**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Lägg till viktig information som är relevant för ditt team (valfritt) och klicka på **Skapa**.
+1. Lägg till viktig information som är relevant för ditt team (valfritt) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

@@ -4,9 +4,9 @@ description: Aktivera kommunikationsbegränsningar - Marketo Docs - produktdokum
 title: Aktivera kommunikationsgränser
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Det är mycket viktigt att inte överkommunicera med era medarbetare. Genom att 
    >
    >**Exempel**
    >
-   >Inställningarna ovan innebär att personer inte får mer än **1 e-post per dag** eller mer än **5 under en sjudagarsperiod**.
+   >Inställningarna ovan innebär att personer inte får mer än **e-post per dag** eller mer än **5 under en sjudagarsperiod**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ Det är mycket viktigt att inte överkommunicera med era medarbetare. Genom att 
 
 >[!MORELIKETHIS]
 >
->[Använd kommunikationsbegränsningar för smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Använd kommunikationsgränser för  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

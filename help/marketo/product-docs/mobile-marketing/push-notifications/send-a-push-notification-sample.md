@@ -4,9 +4,9 @@ description: Skicka ett push-meddelandeexempel - Marketo Docs - produktdokumenta
 title: Skicka ett push-meddelandeexempel
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
 1. Du kan skicka ett exempel på tre sätt:
 
-   Högerklicka på resursen för push-meddelanden i trädet till vänster och klicka på **Skicka exempel**.
+   Högerklicka på resursen för push-meddelanden i trädet till vänster och klicka på **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Du kan också klicka på **Skicka exempel** på åtgärdsmenyn för push-meddelanden.
+   Du kan också klicka på **[!UICONTROL Send Sample]** på menyn Push Notification-åtgärder.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Du kan också klicka på **Skicka exempel** i Push Notifications Editor.
+   Du kan också klicka på **[!UICONTROL Send Sample]** i Push Notifications Editor.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ Du kan skicka ett prov för att verifiera att ditt push-meddelande fungerar som 
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Du kan också klicka på **Lägg till enhet** för att [lägga till en ny testenhet](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) som du vill skicka exemplet till.
+   Du kan också klicka på **[!UICONTROL Add Device]** för att [lägga till en ny testenhet](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) som du vill skicka exemplet till.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Du kan ansluta enheten till appen på två sätt.
 
-   Med det första alternativet klickar du på knappen **Besök URL med enhet**, kopierar URL-adressen från fältet och skickar den i ett e-postmeddelande eller ett textmeddelande till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **Skicka**.
+   Med det första alternativet klickar du på knappen **[!UICONTROL Visit URL with device]**, kopierar URL-adressen från fältet och skickar den i ett e-postmeddelande eller ett textmeddelande till enheten. Tryck på URL-adressen på enheten. När statusen visar anslutningen klickar du på **[!UICONTROL Send]**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Eller, med det andra alternativet, klicka på knappen **Skanna QR-kod med enhet** och skanna QR-koden med din enhet. När statusen visar anslutningen klickar du på **Skicka**.
+   Eller klicka på knappen **[!UICONTROL Scan QR code with device]** med det andra alternativet och skanna QR-koden med enheten. När statusen visar anslutningen klickar du på **[!UICONTROL Send]**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Har du lagt till en testenhet, men den visas inte i fältet **Skicka till**? Kontrollera följande för att felsöka:
+   >Har du lagt till en testenhet, men den visas inte i fältet **[!UICONTROL Send to]**? Kontrollera följande för att felsöka:
    >
    >* Push-meddelanden är aktiverade för det program som är associerat med push-meddelandet.
    >

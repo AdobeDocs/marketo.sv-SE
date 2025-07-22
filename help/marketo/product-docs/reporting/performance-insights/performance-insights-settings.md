@@ -4,14 +4,14 @@ description: Performance Insights Settings - Marketo Docs - produktdokumentation
 title: Inställningar för Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Inställningar för Performance Insights {#performance-insights-settings}
+# Inställningar för [!UICONTROL Performance Insights] {#performance-insights-settings}
 
 Lär dig mer om de olika inställningarna i MPI.
 
@@ -23,7 +23,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Visa slutförda program efter {#view-program-success-by}
 
-**Instrumentpanel för engagemang - Bidrag och trend**
+**[!UICONTROL Engagement]Instrumentpanel - Bidrag och trender**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Konfiguration för föregående period {#previous-period-configuration}
 
-**Åtagande, pipeline, intäktsinstrumentpaneler - endast bidrag**
+**[!UICONTROL Engagement], [!UICONTROL Pipeline], [!UICONTROL Revenue] instrumentpaneler - endast bidrag**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Marknadsföringspåverkade affärsmöjligheter {#marketing-influenced-opportunities}
 
-**Instrumentpanel för pipeline - Bidrag och trend**
+**[!UICONTROL Pipeline]Instrumentpanel - Bidrag och trender**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Lär dig mer om de olika inställningarna i MPI.
  </tbody> 
 </table>
 
-**Instrumentpanel för intäkter - Bidrag och trend**
+**[!UICONTROL Revenue]Instrumentpanel - Bidrag och trender**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Lär dig mer om de olika inställningarna i MPI.
 
 ## Kostnadsberäkning {#cost-calculation}
 
-**Instrumentpaneler för pipeline och intäkt - Bidrag och trend**
+**[!UICONTROL Pipeline]och [!UICONTROL Revenue] instrumentpaneler - Bidrag och trender**
 
 <table> 
  <tbody> 

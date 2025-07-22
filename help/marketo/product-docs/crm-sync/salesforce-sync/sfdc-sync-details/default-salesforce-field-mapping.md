@@ -4,103 +4,103 @@ description: Standardfältmappning för Salesforce - Marketo Docs - produktdokum
 title: Standardfältmappning för Salesforce
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 34%
+source-wordcount: '138'
+ht-degree: 0%
 
 ---
 
-# Standardfältmappning för Salesforce {#default-salesforce-field-mapping}
+# Standardfältmappning för [!DNL Salesforce] {#default-salesforce-field-mapping}
 
 När du först synkroniserar ditt Marketo Engage-konto med Salesforce skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten i Salesforce och Marketo. Marketo synkroniserar även dina anpassade fält på leads, konton, säljprojekt och kontakter.
 
 ## Leadfält {#lead-fields}
 
-| SFDC-fält | Marketo |
+| SFDC | Marketo |
 |---|---|
-| Årlig intäkt | Årlig intäkt |
-| Ort | Ort |
-| Företag | Företagets namn |
-| Konverterat den | SFDC-konverteringsdatum |
-| Land | Land |
-| Skapad den | Skapad SFDC |
-| Beskrivning | Personanteckningar |
-| E-post | E-postadress |
-| Fax | Faxnummer |
-| Förnamn | Förnamn |
-| Avanmäl dig via e-post | Avprenumererad |
-| Bransch | Bransch |
-| Konverterad | SFDC är konverterat |
-| Borttagen | SFDC tas bort |
-| Efternamn | Efternamn |
-| Leadkälla | Källa |
-| Leadpoäng | Poäng |
-| Mobiltelefon | Mobiltelefon |
-| Anställda | Antal anställda |
-| Tel. | Telefonnummer |
-| Postnummer | Postnummer |
-| Klassificering | Klassificering |
-| Titel | Titel |
-| Stat/provins | Stat |
-| Status | Status |
-| Gatuadress | Adress |
-| Titel | Befattning |
-| Webbplats | Webbplats |
+| [!UICONTROL Annual Revenue] | [!UICONTROL Annual Revenue] |
+| [!UICONTROL City] | [!UICONTROL City] |
+| [!UICONTROL Company] | [!UICONTROL Company Name] |
+| [!UICONTROL Converted Date] | [!UICONTROL SFDC Converted Date] |
+| [!UICONTROL Country] | [!UICONTROL Country] |
+| [!UICONTROL Created Date] | [!UICONTROL SFDC Created Date] |
+| [!UICONTROL Description] | [!UICONTROL Person Notes] |
+| [!UICONTROL Email] | [!UICONTROL Email Address] |
+| [!UICONTROL Fax] | [!UICONTROL Fax Number] |
+| [!UICONTROL First Name] | [!UICONTROL First Name] |
+| [!UICONTROL Email Opt Out] | [!UICONTROL Unsubscribed] |
+| [!UICONTROL Industry] | [!UICONTROL Industry] |
+| [!UICONTROL Converted] | [!UICONTROL SFDC Is Converted] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Last Name] | [!UICONTROL Last Name] |
+| [!UICONTROL Lead Source] | [!UICONTROL Source] |
+| [!UICONTROL Lead Score] | [!UICONTROL Score] |
+| [!UICONTROL Mobile Phone] | [!UICONTROL Mobile Phone Number] |
+| [!UICONTROL Employees] | [!UICONTROL Num Employees] |
+| [!UICONTROL Phone] | [!UICONTROL Phone Number] |
+| [!UICONTROL Zip/Postal Code] | [!UICONTROL Postal Code] |
+| [!UICONTROL Rating] | [!UICONTROL Rating] |
+| [!UICONTROL Salutation] | [!UICONTROL Salutation] |
+| [!UICONTROL State/Province] | [!UICONTROL State] |
+| [!UICONTROL Status] | [!UICONTROL Status] |
+| [!UICONTROL Street] | [!UICONTROL Address] |
+| [!UICONTROL Title] | [!UICONTROL Job Title] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
 ## Kontaktfält {#contact-fields}
 
-| SFDC-fält | Marketo |
+| SFDC | Marketo |
 |---|---|
-| Födelsadatum | Födelsedatum |
-| Skapad den | Skapad SFDC |
-| Kontaktbeskrivning | Personanteckningar |
-| E-post | E-postadress |
-| Fax, arbete | Faxnummer |
-| Förnamn | Förnamn |
-| Avanmäl dig via e-post | Avprenumererad |
-| Borttagen | SFDC tas bort |
-| Efternamn | Efternamn |
-| Leadkälla | Källa |
-| Leadpoäng | Poäng |
-| MailingCity | Ort |
-| MailingCountry | Land |
-| Postnummer | Postnummer |
-| MailingState | Stat |
-| MailingStreet | Adress |
-| Mobiltelefon | Mobiltelefon |
-| Telefon, arbete | Telefonnummer |
-| Titel | Titel |
-| Titel | Befattning |
+| [!UICONTROL Birthdate] | [!UICONTROL Date of Birth] |
+| [!UICONTROL Created Date] | [!UICONTROL SFDC Created Date] |
+| [!UICONTROL Contact Description] | [!UICONTROL Person Notes] |
+| [!UICONTROL Email] | [!UICONTROL Email Address] |
+| [!UICONTROL Business Fax] | [!UICONTROL Fax Number] |
+| [!UICONTROL First Name] | [!UICONTROL First Name] |
+| [!UICONTROL Email Opt Out] | [!UICONTROL Unsubscribed] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Last Name] | [!UICONTROL Last Name] |
+| [!UICONTROL Lead Source] | [!UICONTROL Source] |
+| [!UICONTROL Lead Score] | [!UICONTROL Score] |
+| [!UICONTROL MailingCity] | [!UICONTROL City] |
+| [!UICONTROL MailingCountry] | [!UICONTROL Country] |
+| [!UICONTROL MailingPostalCode] | [!UICONTROL Postal Code] |
+| [!UICONTROL MailingState] | [!UICONTROL State] |
+| [!UICONTROL MailingStreet] | [!UICONTROL Address] |
+| [!UICONTROL Mobile Phone] | [!UICONTROL Mobile Phone Number] |
+| [!UICONTROL Business Phone] | [!UICONTROL Phone Number] |
+| [!UICONTROL Salutation] | [!UICONTROL Salutation] |
+| [!UICONTROL Title] | [!UICONTROL Job Title] |
 
 ## Kontofält {#account-fields}
 
-| SFDC-fält | Marketo |
+| [!UICONTROL SFDC field] | [!UICONTROL Marketo field] |
 |---|---|
-| Årlig intäkt | Årlig intäkt |
-| Faktureringsort | Faktureringsort |
-| Faktureringsland | Faktureringsland |
-| Postnummer för fakturering | Faktureringspostnummer |
-| Faktureringsstat/provins | Faktureringsstat |
-| Faktureringsgatan | Faktureringsadress |
-| Kontobeskrivning | Företagsanteckningar |
-| Bransch | Bransch |
-| Borttagen | SFDC tas bort |
-| Kontonamn | Företagets namn |
-| Anställda | Antal anställda |
-| Telefon till konto | Telefon |
-| SNI-kod | SNI-kod |
-| Kontowebbplats | Plats |
-| Kontotyp | SFDC-typ |
-| Webbplats | Webbplats |
+| [!UICONTROL Annual Revenue] | [!UICONTROL Annual Revenue] |
+| [!UICONTROL Billing City] | [!UICONTROL Billing City] |
+| [!UICONTROL Billing Country] | [!UICONTROL Billing Country] |
+| [!UICONTROL Billing Zip/Postal Code] | [!UICONTROL Billing Postal Code] |
+| [!UICONTROL Billing State/Province] | [!UICONTROL Billing State] |
+| [!UICONTROL Billing Street] | [!UICONTROL Billing Address] |
+| [!UICONTROL Account Description] | [!UICONTROL Company Notes] |
+| [!UICONTROL Industry] | [!UICONTROL Industry] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Account Name] | [!UICONTROL Company Name] |
+| [!UICONTROL Employees] | [!UICONTROL Num Employees] |
+| [!UICONTROL Account Phone] | [!UICONTROL Main Phone] |
+| [!UICONTROL SIC Code] | [!UICONTROL SIC Code] |
+| [!UICONTROL Account Site] | [!UICONTROL Site] |
+| [!UICONTROL Account Type] | [!UICONTROL SFDC Type] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
-## Salesforce-relaterade systemfält i Marketo (skrivskyddade) {#salesforce-related-system-fields-in-marketo-read-only}
+## [!DNL Salesforce] relaterade systemfält i Marketo (skrivskyddade) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Dessa fält skapas i Marketo men kan inte justeras av kunder.
 
 | Fält | Beskrivning |
 |---|---|
-| SFDC-ID | Salesforce-ID med 18 tecken |
-| SFDC-typ | Lead eller kontakt. Om det är tomt finns leadet bara som en person i Marketo |
-| Skapad SFDC | Skapad i SFDC (kan vara ett annat datum än Skapad i Marketo) |
-| SFDC tas bort | Personen brukade befinna sig i SFDC men togs bort och bor nu bara i Marketo |
+| SFDC ID | ID:t [!DNL Salesforce] med 18 tecken |
+| SFDC Type | Lead eller kontakt. Om det är tomt finns leadet bara som en person i Marketo |
+| Skapad av SFDC | Skapad i SFDC (kan skilja sig från Skapad i Marketo) |
+| SFDC tas bort | Tidigare var personen i SFDC men togs bort och bor nu endast i Marketo |

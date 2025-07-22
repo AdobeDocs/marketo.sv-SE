@@ -4,9 +4,9 @@ description: Skapa en mall för landningssida i fri form - Marketo Docs - Produk
 title: Skapa en mall för landningssida i fri form
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 För landningssidor i fri form krävs mindre teknisk kunskap än för deras styrda motsvarigheter. Följ stegen nedan för att skapa en mall för framtida landningssidor.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj sedan **Ny mall för landningssida**.
+1. Klicka på **[!UICONTROL New]** och välj sedan **[!UICONTROL New Landing Page Template]**.
 
    ![](assets/two.png)
 
-1. Välj en mapp och ge sedan mallen ett namn. Frihand är standardredigeringsläget, så när du har namngett mallen klickar du på **Skapa**.
+1. Välj en mapp och ge sedan mallen ett namn. Frihand är standardredigeringsläget, så när du har namngett mallen klickar du på **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
    >
    >Marketo Support har inte konfigurerats för att hjälpa till med felsökning av anpassade HTML. Kontakta en webbutvecklare om du behöver hjälp med HTML.
 
-1. När du är klar med redigeringarna klickar du på **Mallåtgärder** och väljer sedan **Godkänn och stäng**.
+1. När du är klar med redigeringarna klickar du på **[!UICONTROL Template Actions]** och väljer sedan **[!UICONTROL Approve and Close]**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    >[!NOTE]
    >
-   >Välj **Inaktivera Munchkin-spårning** om du vill förhindra att formulär fylls i i automatiskt, eller om du bara inte vill spåra webbbeteende på en viss sida.\
-   >Välj **Verifiera mobilkompatibilitet** för att kontrollera att koden är kompatibel med mobila enheter.
+   >Välj **[!UICONTROL Disable Munchkin Tracking]** om du vill förhindra att formulär fylls i i i förväg eller om du bara inte vill spåra webbbeteende på en viss sida.\
+   >Välj **[!UICONTROL Validate Mobile Compatibility]** för att kontrollera att koden är kompatibel med mobila enheter.
 
    >[!MORELIKETHIS]
    >

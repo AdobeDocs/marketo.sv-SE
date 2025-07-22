@@ -4,14 +4,14 @@ description: Ta bort ett namngivet konto - Marketo Docs - produktdokumentation
 title: Ta bort ett namngivet konto
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-# Ta bort ett namngivet konto {#delete-a-named-account}
+# Ta bort en [!UICONTROL Named Account] {#delete-a-named-account}
 
 Följ de här snabbstegen för att ta bort ett namngivet konto.
 
@@ -23,11 +23,11 @@ Följ de här snabbstegen för att ta bort ett namngivet konto.
    >
    >Ctrl-klicka (Windows) eller Kommando-klicka (Mac) om du vill markera flera namngivna konton.
 
-1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Ta bort namngivet konto**.
+1. Klicka på listrutan **[!UICONTROL Named Account Actions]** och välj **[!UICONTROL Delete Named Account]**.
 
    ![](assets/eight-1.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka på **[!UICONTROL Delete]**.
 
    ![](assets/nine-1.png)
 

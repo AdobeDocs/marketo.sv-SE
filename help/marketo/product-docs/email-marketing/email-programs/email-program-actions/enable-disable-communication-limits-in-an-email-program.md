@@ -4,9 +4,9 @@ description: Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogra
 title: Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogram
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ När du kör ett e-postprogram kan du välja att ignorera eller respektera kommu
 >
 >Kommunikationsbegränsningar anges [i administratörsavsnittet](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) och hjälper dig att undvika att skicka för många e-postmeddelanden till en person.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ När du kör ett e-postprogram kan du välja att ignorera eller respektera kommu
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Dubbelklicka på radobjektet för kommunikationsbegränsning på fliken **Inställningar**.
+1. Dubbelklicka på radobjektet för kommunikationsbegränsning på fliken **[!UICONTROL Setup]**.
 
    ![](assets/blockoperational.png)
 
-1. Som standard blockeras icke-fungerande e-postmeddelanden om kommunikationsgränserna nås, men om du vill kringgå dem avmarkerar du kryssrutan och klickar på **Spara**.
+1. Som standard blockeras icke-fungerande e-postmeddelanden om kommunikationsgränserna nås, men om du vill kringgå dem avmarkerar du kryssrutan och klickar på **[!UICONTROL Save]**.
 
    ![](assets/ifaperson.jpg)
 
-   Om du låter **Blockera icke-fungerande e-postmeddelanden** vara markerat kan du inte skicka e-postmeddelandet till någon som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.
+   Om du låter **[!UICONTROL Block non-operational emails]** vara markerat kommer e-postmeddelandet inte att skickas till någon som har fått fler e-postmeddelanden än vad som tillåts i administratörsinställningarna.

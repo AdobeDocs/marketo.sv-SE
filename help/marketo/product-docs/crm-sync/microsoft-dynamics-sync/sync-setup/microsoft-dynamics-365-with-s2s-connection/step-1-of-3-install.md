@@ -3,16 +3,16 @@ description: Steg 1 av 3 - Installera Marketo Solution with Server to Server Con
 title: Steg 1 av 3 - Installera Marketo Solution med Server to Server Connection
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '234'
 ht-degree: 2%
 
 ---
 
 # Steg 1 av 3: Installera Marketo Solution med Server to Server Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först installera Marketo-lösningen i Dynamics. **Dynamics-administratörsbehörigheter krävs**.
+Innan du kan synkronisera [!DNL Microsoft Dynamics 365] och Marketo måste du först installera Marketo-lösningen i [!DNL Dynamics]. **[!DNL Dynamics]Administratörsbehörigheter krävs.**
 
 >[!CAUTION]
 >
@@ -26,7 +26,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 >
 >[Hämta Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
 
-1. Logga in på [Microsoft Office 365](https://login.microsoftonline.com/){target="_blank"}.
+1. Logga in på **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
@@ -42,7 +42,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicka på **[!UICONTROL Choose File]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Choose File]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -54,11 +54,11 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Klicka på **[!UICONTROL Next]** på sidan Lösningsinformation igen.
+1. Gå tillbaka till sidan [!UICONTROL Solution Information] och klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. Kontrollera att kryssrutan för SDK-alternativet är markerad. Klicka på **[!UICONTROL Import]**.
+1. Kontrollera att kryssrutan för alternativet SDK är markerad. Klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -78,7 +78,7 @@ Innan du kan synkronisera Microsoft Dynamics 365 och Marketo måste du först in
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. &quot;Marketo Lead Management&quot; visas nu i listan över lösningar.
+1. [!UICONTROL Marketo Lead Management] visas nu i listan över lösningar.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 

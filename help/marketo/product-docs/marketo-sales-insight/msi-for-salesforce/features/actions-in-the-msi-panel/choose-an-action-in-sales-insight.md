@@ -4,16 +4,16 @@ description: Välj en åtgärd i Sales Insight - Marketo Docs - produktdokumenta
 title: Välj en åtgärd i Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Välj en åtgärd i Sales Insight {#choose-an-action-in-sales-insight}
+# Välj en åtgärd i [!DNL Sales Insight] {#choose-an-action-in-sales-insight}
 
-Följande åtgärder är tillgängliga i listrutan Sales Insight i Salesforce Classic och Lightning:
+Följande åtgärder är tillgängliga i listrutan [!DNL Sales Insight] i [!DNL Salesforce] Classic och Lightning:
 
 * Skicka e-post till Marketo
 * Lägg till i Marketo Campaign
@@ -37,13 +37,13 @@ Var och en av dessa funktioner kan nås från:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Fliken Bästa val**
+**[!DNL Best Bets]tab**
 
-* Best Bets Bulk Actions tab: Group action and can controls by user profile
+* [!DNL Best Bets] Fliken Massåtgärder: Gruppåtgärd och kan styras av användarprofilen
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Best Bets In-line Actions tab: Single action and can be controls by user profile
+* [!DNL Best Bets] Fliken Inline-åtgärder: En åtgärd och kan styras av användarprofilen
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

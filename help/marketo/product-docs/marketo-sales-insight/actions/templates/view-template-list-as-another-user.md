@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Som administratör kan du visa mallar som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Mallar**.
+1. Klicka på **[!UICONTROL Templates]**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Klicka på listrutan **Visa som** och välj önskad användare.
+1. Klicka på listrutan **[!UICONTROL View As]** och välj önskad användare.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ Som administratör kan du visa mallar som alla användare.
 
    >[!NOTE]
    >
-   >Du kan också använda filter eller sökfunktionen tillsammans med _Visa som_ för att visa vad som är mest relevant för dig.
+   >Du kan också använda filter eller sökfunktionen tillsammans med _[!UICONTROL View As]_för att visa vad som är mest relevant för dig.

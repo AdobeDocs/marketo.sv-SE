@@ -4,16 +4,16 @@ description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Alternativ för massutskick {#bulk-sending-options}
 
-Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. Sales Connect erbjuder två sätt att skicka e-postmeddelanden i grupp: **Gruppmeddelanden** och **Markera och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
+Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos potentiella kunder. [!DNL Sales Connect] erbjuder två sätt att skicka e-postmeddelanden i grupp: **Gruppmeddelanden** och **Markera och skicka**. Gruppmeddelanden är ett bra sätt att snabbt skicka hundratals e-postmeddelanden till en målgrupp. Användningen av Välj och Skicka innebär lägre e-postbegränsningar, men ger användaren fler anpassningsmöjligheter.
 
 **Gruppera e-post jämfört med Markera och skicka**
 

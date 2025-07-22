@@ -4,22 +4,22 @@ description: Skapa innehållsmönster - Marketo Docs - produktdokumentation
 title: Skapa innehållsmönster
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # Skapa innehållsmönster {#create-content-patterns}
 
-När du anger innehållsmönster identifieras innehållet automatiskt när en webbbesökare klickar på den HTML-webbsida som är relevant för innehållsmönstret. Det används för att lägga till HTML-sidor (blogginlägg, pressmeddelanden, nyhetsartiklar) som innehållsdelar på sidan Allt innehåll. När automatisk identifiering baseras på innehållsmönster upptäcks och spåras HTML-sidor som är relaterade till det definierade URL-mönstret när en webbbesökare visar eller klickar på en länk till sidan. Innehållsdelen (URL:en, sidnamnet och metadata, inklusive bild-URL:en och beskrivningen) läggs till på sidan Allt innehåll för att färdigställa förutsägbart innehåll. För automatisk identifiering av annat innehåll, som PDF och inbäddad video, måste du [aktivera innehållsidentifiering](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+När du anger innehållsmönster identifieras innehållet automatiskt när en webbbesökare klickar på HTML webbsida som är relevant för innehållsmönstret. Det används för att lägga till HTML-sidor (blogginlägg, pressmeddelanden, nyhetsartiklar) som innehållsdelar på sidan Allt innehåll. När automatisk identifiering baseras på innehållsmönster upptäcks och spåras HTML-sidor som är relaterade till det definierade URL-mönstret när en webbbesökare visar eller klickar på en länk till sidan. Innehållsdelen (URL:en, sidnamnet och metadata, inklusive bild-URL:en och beskrivningen) läggs till på sidan Allt innehåll för att färdigställa förutsägbart innehåll. För automatisk identifiering av annat innehåll, som PDF-filer och inbäddad video, måste du [aktivera innehållsidentifiering](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Gå till **Innehållsinställningar**.
+1. Gå till **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Klicka på **URL-mönster**.
+1. Klicka på **[!UICONTROL URL Patterns]**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ När du anger innehållsmönster identifieras innehållet automatiskt när en we
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Lägg till URL-tillägget för domänen där webbsidan finns. Välj kategori (till exempel Blogg, Artikel, Datablad, Pressmeddelande).
+1. Lägg till URL-tillägget för domänen där webbsidan finns. Välj kategorin (till exempel [!UICONTROL Blog], [!UICONTROL Article], [!UICONTROL Data Sheet], [!UICONTROL Press Release]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ När du anger innehållsmönster identifieras innehållet automatiskt när en we
 
    ![](assets/url-patterns-add2.png)
 
-1. Lägg till tillägget och kategorin för den ytterligare sökvägen och klicka på **Spara**.
+1. Lägg till tillägget och kategorin för den ytterligare sökvägen och klicka på **[!UICONTROL Save]**.
 
    ![](assets/url-patterns-save.png)
 

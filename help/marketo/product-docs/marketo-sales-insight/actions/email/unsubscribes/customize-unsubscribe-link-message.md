@@ -3,9 +3,9 @@ description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokument
 title: Anpassa meddelande om att avbryta prenumeration på länk
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 >[!NOTE]
 >
->Du kan inte använda en länk för att avbryta prenumerationen från tredje part med Marketo Sales eftersom den här informationen inte kommer att hämtas tillbaka till vår databas.
+>Du kan inte använda en länk för att avbryta prenumerationen från tredje part med [!DNL Marketo Sales] eftersom den här informationen inte kommer att hämtas tillbaka till vår databas.
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klicka på **Avsluta prenumeration** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Unsubscribes]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
    >
    >Det spelar ingen roll vilken URL du anger. När e-postmeddelandet skickas kommer den första (eller enda) hyperlänken automatiskt att länka till standardsidan för avanmälan.
 
-1. Ange en URL-adress, kontrollera om du vill att länken ska öppnas i det aktuella eller ett nytt fönster och klicka sedan på **Spara**.
+1. Ange en URL-adress, kontrollera om du vill att länken ska öppnas i det aktuella eller ett nytt fönster och klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Klicka på **Spara** längst ned för att spara ändringarna.
+1. Klicka på **[!UICONTROL Save]** längst ned för att spara ändringarna.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

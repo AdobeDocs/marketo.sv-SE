@@ -4,24 +4,24 @@ description: TAM Hierarchies - Marketo Docs - produktdokumentation
 title: TAM-hierarkier
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # TAM-hierarkier {#tam-hierarchies}
 
-Hierarkier ger TAM-användare möjlighet att ärva de överordnade/underordnade relationerna mellan namngivna konton i sina CRM.
+Hierarkier ger TAM-användare möjlighet att ärva de överordnade/underordnade relationerna mellan [!UICONTROL Named Accounts] i sina CRM.
 
 ## Vad är TAM-hierarkier? {#what-are-tam-hierarchies}
 
-Företag kan ha flera divisioner och dotterbolag. Dessa företag organiserar sig ofta genom överordnade och underordnade relationer som kallas hierarkier. TAM kan ärva dessa hierarkier från SFDC- eller MSD-integreringen och göra det möjligt att arbeta med de olika avdelningarna som en enda familj.
+Företag kan ha flera divisioner och dotterbolag. Dessa företag organiserar sig ofta genom överordnade och underordnade relationer som kallas hierarkier. TAM kan ärva dessa hierarkier från er SFDC- eller MSD-integrering och göra det möjligt att arbeta med de olika avdelningarna som en enda familj.
 
 ## Arbeta med TAM-hierarkier {#working-with-tam-hierarchies}
 
-Med TAM-hierarkier kan du snabbt få information om en hel hierarki eller enskilda konton på kontrollpanelen för namngivna konton.
+Med TAM-hierarkier kan du snabbt få information om en hel hierarki eller enskilda konton på [!UICONTROL Named Account]-instrumentpanelen.
 
 **Använder inte hierarkin**
 

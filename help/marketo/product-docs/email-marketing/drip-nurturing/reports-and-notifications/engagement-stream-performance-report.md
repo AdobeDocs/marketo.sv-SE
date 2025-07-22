@@ -4,9 +4,9 @@ description: Prestandarapport för Engagement Stream - Marketo Docs - produktdok
 title: Resultatrapport för engagemangsström
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
 ## Skapa rapporten {#create-the-report}
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Ny** under **Ny lokal resurs**.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan **[!UICONTROL New]** under **[!UICONTROL New Local Asset]**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Välj **Rapport**.
+1. Välj **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
    >
    >Om du skapar rapporten i programmet begränsas den automatiskt till innehållet i programmet.
 
-   Välj Prestanda för avtalsström som rapporttyp.
+   Välj **[!UICONTROL Engagement Stream Performance]** som rapport **[!UICONTROL Type]**.
    ![](assets/engagementreportchoose.png)
 
-1. Namnge rapporten och klicka på **Skapa**.
+1. Namnge rapporten och klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ Vill du veta hur engagemangsinnehållet fungerar? Testa rapporten om hur engagem
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Under fliken **Inställningar** dubbelklickar du på **e-postfiltret för engagemangsprogrammet** .
+1. Dubbelklicka på filtret **[!UICONTROL Setup]** på fliken **[!UICONTROL Engagement Program Emails]**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Markera de e-postmeddelanden som du vill rapportera om och klicka på **Använd**.
+1. Markera de e-postmeddelanden som du vill rapportera om och klicka på **[!UICONTROL Apply]**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Kör rapport {#run-report}
 
-1. Klicka på fliken **Rapport** om du vill köra rapporten.
+1. Klicka på fliken **[!UICONTROL Report]** om du vill köra rapporten.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

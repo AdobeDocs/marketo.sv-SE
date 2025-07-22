@@ -3,10 +3,10 @@ description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 0%
+source-wordcount: '494'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
 >[!IMPORTANT]
 >
->Om du vill ansluta Marketo och Salesforce med OAuth loggar du in på Marketo via en privat webbläsare (incognito) för att undvika att ansluta till Salesforce med fel användarnamn.
+>Om du vill ansluta Marketo och [!DNL Salesforce] med OAuth loggar du in på Marketo via en privat webbläsare (incognito) för att undvika att ansluta till [!DNL Salesforce] med fel användarnamn.
 
 ## Konfigurera ansluten app {#set-up-connected-app}
 
-1. Gå till Appar, App Manager och klicka på **[!UICONTROL New Connected App]** under Konfigurera i Salesforce, under Plattformsverktyg.
+1. Gå till Appar, App Manager och klicka på **[!UICONTROL New Connected App]** under Konfigurera i plattformsverktygen i Salesforce.
 
    ![](assets/setting-up-oauth-2-1.png)
 
@@ -52,11 +52,11 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
 >[!PREREQUISITES]
 >
->* API-åtkomst måste vara aktiverat för Salesforce Sync User (om du är Salesforce Professional Edition-användare är den åtkomsten inte tillgänglig som standard - kontakta din Salesforce Account Executive).
+>* API-åtkomst måste vara aktiverat för Salesforce Sync User (om du är en Salesforce Professional Edition-användare är den åtkomsten inte tillgänglig som standard - kontakta din Salesforce Account Executive).
 >* Marketo Sync-användare måste skapas i Salesforce.
->* För befintliga kunder är funktionen&quot;Aktivera OAuth för SFDC-synkronisering&quot; aktiverad i kundens prenumeration.
+>* För befintliga kunder aktiveras funktionen&quot;Aktivera OAuth för SFDC-synkronisering&quot; i kundens prenumeration.
 >* Popup-blockerare är inaktiverade.
->* Ansluten app skapas och vi har konsumentnyckeln och konsumenthemligheten tillgängliga för användning.
+>* Ansluten app skapas och vi har [!UICONTROL Consumer Key] och [!UICONTROL Consumer Secret] tillgängliga för användning.
 
 >[!CAUTION]
 >
@@ -76,13 +76,13 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    >[!CAUTION]
    >
-   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av inloggningsuppgifter eller prenumeration för Salesforce. Om du vill använda Oauth 2.0 kan du kontakta kontoteamet på Adobe (din kontoansvarige).
+   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce, aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av Salesforce-inloggningsuppgifter eller -prenumeration. Om du vill använda Oauth 2.0 kan du kontakta Adobe Account Team (din kontoansvarige).
 
 1. Ett popup-fönster med inloggningssidan för Salesforce visas. Ange dina Marketo Sync-användaruppgifter och logga in.
 
    ![](assets/setting-up-oauth-2-10.png)
 
-1. Ange verifieringskoden som du fick via e-post (skickad av Salesforce) och klicka på **[!UICONTROL Verify]**.
+1. Ange verifieringskoden som du fick via e-post (skickas av Salesforce) och klicka på **[!UICONTROL Verify]**.
 
    ![](assets/setting-up-oauth-2-11.png)
 
@@ -102,7 +102,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Din synkronisering mellan Marketo och Salesforce pågår nu.
+Din synkronisering mellan Marketo och [!DNL Salesforce] pågår.
 
 ![](assets/setting-up-oauth-2-16.png)
 
@@ -110,5 +110,5 @@ Din synkronisering mellan Marketo och Salesforce pågår nu.
 >
 >* [Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 >* [Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
->* [Installera Marketo Sales Insight-paket i Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Installera Marketo Sales Insight-paketet i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 >* [Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

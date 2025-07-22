@@ -6,16 +6,16 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
 
-# Övergår till Email Editor 2.0 {#transitioning-to-email-editor}
+# Övergår till [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-Från och med versionen från 19 juni har alla Marketo-prenumerationer övergått till Email Editor 2.0. [Läs mer](https://nation.marketo.com/docs/DOC-7038) om borttagning av e-postredigerare 1.0.
+Från och med versionen från 19 juni har alla Marketo-prenumerationer övergått till [!DNL Email Editor 2.0]. [Läs mer](https://nation.marketo.com/docs/DOC-7038) om borttagningen av [!DNL Email Editor 1.0].
 
 E-post och e-postmallar i din prenumeration ska ha ett versionsnummer. Versionen finns på resurssammanfattningssidan.
 
@@ -24,15 +24,15 @@ E-post och e-postmallar i din prenumeration ska ha ett versionsnummer. Versionen
 Som standard markeras alla dina befintliga e-postmeddelanden och e-postmallar som v1.0 om de skapades antingen före vårutgåvan 16 eller efter utgåvan när e-postredigeraren 2.0 är inaktiverad. När e-postredigeraren 2.0 nu har aktiverats automatiskt ser du följande beteende:
 
 * När du skapar ett nytt e-postmeddelande visas väljaren [E-postmall](email-template-picker-overview.md) och du kan välja en v2.0-e-postmall.
-* När du skapar eller redigerar ett e-postmeddelande med e-postredigeraren 2.0 markeras det resulterande e-postmeddelandet **alltid** som v2.0 (även om du använde en e-postmall v1.0).
+* När du skapar eller redigerar ett e-postmeddelande med [!DNL Email Editor 2.0] markeras det resulterande e-postmeddelandet **always** som v2.0 (även om du använde en v1.0-e-postmall).
 
-Om din prenumeration har e-post v1.0 innan du går över till e-postredigeraren 2.0 kommer du att uppleva följande beteende baserat på resursens aktuella tillstånd:
+Om din prenumeration har e-post v1.0 före flytten till [!DNL Email Editor 2.0] kommer du att uppleva följande beteende baserat på resursens aktuella tillstånd:
 
 **Godkänd** - Om du klickar på Redigera utkast skapas ett v2.0-utkast av det godkända e-postmeddelandet. Om du sedan godkänner utkastet från v2.0 blir det godkända tillståndet för e-postmeddelandet v2.0 och det finns inget sätt att återgå till v1.0.\
 **Utkast** - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.
 **Godkänd med utkast** - Om du klickar på Redigera utkast markeras det utkastet automatiskt som v2.0. På grund av detta går det inte heller att återställa utkastet till v1.0.
 
-Om din prenumeration har e-postmallar från version 1.0 innan du går över till e-postredigeraren 2.0 fungerar följande:
+Om din prenumeration har e-postmallar för version 1.0 innan du går över till [!DNL Email Editor 2.0] kommer du att uppleva följande beteende:
 
 **Godkänd** - Om du klickar på Redigera utkast skapas ett v2.0-utkast av den befintliga e-postmallen.
 **Utkast** - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.
@@ -60,9 +60,9 @@ Saker att notera
 
 * Godkända e-postmallar ändras **aldrig**.
 
-* I ett fåtal **sällsynta** fall går det inte att öppna ett e-postmeddelande v1.0 i e-postredigeraren 2.0. Om detta inträffar ska du ignorera utkastet och kontakta Marketo Support.
+* I ett fåtal **sällsynta** fall går det inte att öppna ett e-postmeddelande v1.0 i [!DNL Email Editor 2.0]. Om detta inträffar ska du ignorera utkastet och kontakta Marketo Support.
 
 >[!MORELIKETHIS]
 >
->* [E-postredigeraren 2.0 - översikt](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [[!DNL Email Editor 2.0] Översikt](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [Syntax för e-postmall](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

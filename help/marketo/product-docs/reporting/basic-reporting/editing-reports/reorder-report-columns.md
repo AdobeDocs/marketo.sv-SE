@@ -4,9 +4,9 @@ description: Ändra ordning på rapportkolumner - Marketo Docs - produktdokument
 title: Sortera om rapportkolumner
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan ändra ordningen på kolumnerna i en rapport.
 
-1. Gå till området **Marknadsföringsaktiviteter** (eller **Analytics**).
+1. Gå till området **[!UICONTROL Marketing Activities]** (eller **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

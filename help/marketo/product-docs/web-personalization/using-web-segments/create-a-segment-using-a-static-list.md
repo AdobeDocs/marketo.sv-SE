@@ -4,9 +4,9 @@ description: Skapa ett segment med hjälp av en statisk lista - Marketo Docs - p
 title: Skapa ett segment med en statisk lista
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Segmentera kända webbbesökare när de besöker din webbplats baserat på om de befinner sig i eller inte finns i någon av dina [statiska listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) för Marketo.
 
-1. Gå till **Segment**.
+1. Gå till **[!UICONTROL Segments]**.
 
    ![](assets/1.jpg)
 
-1. Klicka på **Skapa ny**.
+1. Klicka på **[!UICONTROL Create New]**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Segmentera kända webbbesökare när de besöker din webbplats baserat på om de
 
    ![](assets/three.png)
 
-1. Dra **statiska listor** till arbetsytan i Kända leads.
+1. Dra **[!UICONTROL Static Lists]** till arbetsytan i Kända leads.
 
    ![](assets/four-2.png)
 
-1. Klicka på listrutan för att välja **is** eller **is not** (beroende på vad du vill ha) och skriv namnet på den statiska listan.
+1. Klicka på listrutan för att välja **[!UICONTROL is]** eller **[!UICONTROL is not]** (beroende på vad du vill ha) och skriv namnet på den statiska listan.
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ Segmentera kända webbbesökare när de besöker din webbplats baserat på om de
 
    >[!NOTE]
    >
-   >Och/eller listrutan är just det. Klicka på den för att välja **och**, **eller**, eller **och/eller**.
+   >Och/eller listrutan är just det. Klicka på den för att välja **[!UICONTROL and]**, **[!UICONTROL or]** eller **[!UICONTROL and/or]**.
 
-1. Klicka på **Spara** för att spara segmentet eller **Spara och definiera kampanj** för att spara och gå till sidan Kampanjer.
+1. Klicka på **[!UICONTROL Save]** om du vill spara segmentet eller på **[!UICONTROL Save & Define Campaign]** om du vill spara och gå till sidan [!UICONTROL Campaigns].
 
    ![](assets/eight-1.png)

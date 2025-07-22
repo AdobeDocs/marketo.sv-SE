@@ -4,9 +4,9 @@ description: Skapa en e-postanalysrapport som visar programinformation - Marketo
 title: Skapa en e-postanalysrapport som visar programinformation
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-1. Starta **intäktsutforskaren**.
+1. Starta **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Klicka på **Skapa ny** och välj **Rapport**.
+1. Klicka på **[!UICONTROL Create New]** och välj **[!UICONTROL Report]**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Välj området **E-postanalys** och klicka på **OK**.
+1. Markera området **[!UICONTROL Email Analysis]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Hitta den gula punkten **Skickat (vecka)** och högerklicka på den. Klicka på **Filter**.
+1. Hitta den **[!UICONTROL Sent (Week)]** gula punkten och högerklicka på den. Klicka på **[!UICONTROL Filter...]**.
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar e-postinfor
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Markera **Aktuell skickad vecka** och klicka på **OK**.
+1. Markera **[!UICONTROL Current Sent (Week)]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Sök efter och dubbelklicka på den gula punkten **Programkanal** .
+1. Sök och dubbelklicka på den **[!UICONTROL Program Channel]** gula punkten.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Sök och dubbelklicka på den gula punkten **E-postnamn** .
+1. Sök och dubbelklicka på den **[!UICONTROL Email Name]** gula punkten.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Leta reda på och dubbelklicka på de blå punkterna **Skickat**, **Öppnat** och **Klickat**.
+1. Sök och dubbelklicka på de **[!UICONTROL Sent]**, **[!UICONTROL Opened]** och **[!UICONTROL Clicked]** blå punkterna.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

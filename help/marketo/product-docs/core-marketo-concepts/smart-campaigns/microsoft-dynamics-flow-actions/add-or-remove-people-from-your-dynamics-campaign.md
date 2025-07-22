@@ -1,16 +1,16 @@
 ---
-description: Lägg till eller ta bort personer från Dynamics-kampanjen - Marketo Docs - produktdokumentation
-title: Lägg till eller ta bort personer från Dynamics-kampanjen
+description: Lägg till eller ta bort personer från din [!DNL Dynamics] kampanj - Marketo Docs - produktdokumentation
+title: Lägg till eller ta bort personer från din [!DNL Dynamics] kampanj
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
 
-# Lägg till eller ta bort personer från Dynamics-kampanjen {#add-or-remove-people-from-your-dynamics-campaign}
+# Lägg till eller ta bort personer från din [!DNL Dynamics]-kampanj {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Lägg till i Dynamics Campaign {#add-to-dynamics-campaign}
 
@@ -33,7 +33,7 @@ I Smart Campaign söker du efter och väljer den Dynamics-kampanj som du vill l�
 
 Systemet skapar automatiskt en kampanjspecifik statisk marknadsföringslista, var och en för leads och kontakter, som personen ska läggas till i. Det är en engångsåtgärd och en gång för efterföljande synkroniseringar till kampanjen används samma marknadsföringslista. Den namngivningsstandard som används för det statiska namnet på marknadsföringslistan är `Mkto-leads-<uniqueID>` för leads och `Mkto-contacts-<uniqueID>` för kontakter.
 
-Om dessa Marketo-genererade marknadsföringslistor kopplas till andra kampanjer kan det leda till förvirrande beteende. Om du till exempel lägger till i en kampanj läggs även till i den andra kampanjen. Vi rekommenderar inte heller att den Marketo-genererade marknadsföringslistan kopplas bort från Campaign i Dynamics.
+Om dessa Marketo-genererade marknadsföringslistor kopplas till andra kampanjer kan det leda till förvirrande beteende. Om du till exempel lägger till i en kampanj läggs även till i den andra kampanjen. Vi rekommenderar inte heller att den Marketo-genererade marknadsföringslistan kopplas bort från kampanjen i [!DNL Dynamics].
 
 ## Ta bort från Dynamics Campaign {#remove-from-dynamics-campaign}
 
@@ -49,7 +49,7 @@ I Smart Campaign söker du efter och väljer den Dynamics-kampanj som du vill ta
 
 >[!NOTE]
 >
->Om du inte ser någon Dynamics-kampanj i kampanjlistan:
+>Om du inte ser någon [!DNL Dynamics]-kampanj i kampanjlistan:
 >
 >* Kontrollera att kampanjsynkroniseringen fungerar
 >* Kampanjen är inte aktiv i [!DNL Microsoft Dynamics]

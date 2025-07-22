@@ -4,9 +4,9 @@ description: Konfigurera knappen Stäng och godkänn meddelandet - Marketo Docs 
 title: Konfigurera knappen Stäng och godkänn meddelandet
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. Om du vill ändra knappfärgen klickar du på färgmarkeringsrutan. Välj en färg genom att klicka på den eller genom att ange siffervärdena för Hex eller RGB i färgväljaren. Svart är standard.
+1. Om du vill ändra knappfärgen klickar du på färgmarkeringsrutan. Välj en färg genom att klicka på den eller genom att ange de hexadecimala eller RGB-siffervärdena i färgväljaren. Svart är standard.
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +49,7 @@ Knappen Stäng har många alternativ som du kan använda för att konfigurera de
 
 Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du redo att avsluta jobbet.
 
-1. Om du vill förhandsgranska ditt meddelande i appen klickar du på listrutan **Meddelandeåtgärder** och väljer **Förhandsgranska**.
+1. Om du vill förhandsgranska ditt meddelande i appen klickar du på listrutan **[!UICONTROL Message Actions]** och väljer **[!UICONTROL Preview]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Alla dina val för grafik, text och knappar har sparats automatiskt. Nu är du r
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Om du är nöjd med meddelandet i appen klickar du på **Godkänn och stäng**.
+1. Om du är nöjd med meddelandet i appen klickar du på **[!UICONTROL Approve & Close]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Du kan också välja **Godkänn och stäng** direkt från listrutan Meddelandeåtgärder (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
+   >Du kan också välja **[!UICONTROL Approve & Close]** direkt från listrutan [!UICONTROL Message Actions] (se steg 1), men varför inte förhandsgranska meddelandet först, bara för att vara säker?
 
 1. Stäng fliken om du vill stänga redigeraren utan att godkänna den. Den sparas automatiskt så att du kan returnera och godkänna den senare.
 

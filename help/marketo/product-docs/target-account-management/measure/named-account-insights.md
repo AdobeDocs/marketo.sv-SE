@@ -4,9 +4,9 @@ description: Insikter om namngivna konton - Marketo Docs - produktdokumentation
 title: Insikter om namngivna konton
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -25,46 +25,46 @@ Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på
 >
 >Diagram visar insikter från de senaste 90 dagarna.
 
-**Kontoengagemang över tid** Klicka på listrutan **Visa** till höger för att ändra det du visar. Förutom Kontopoäng kan du visa efter Total Intäkter...
+**[!UICONTROL Account Engagement Over Time]** Klicka på listrutan **[!UICONTROL View]** till höger för att ändra det du visar. Förutom [!UICONTROL Account Score] kan du visa av [!UICONTROL Total Revenue]..
 
 ![](assets/two-new.png)
 
-...eller Pipeline.
+...eller [!UICONTROL Pipeline].
 
 ![](assets/three-new.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Kontopoäng</strong></td> 
-   <td><p>Se interaktion mellan veckor baserat på alla kontopoäng du har skapat i Admin. Du kan jämföra dessa kontopoäng sida vid sida. För att fastställa ett veckoengagemang tar vi det största engagemanget från vilken veckodag som helst.</p></td> 
+   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td> 
+   <td><p>Se interaktion mellan veckor baserat på alla kontopoäng du har skapat i <span class="uicontrol">Admin</span>. Du kan jämföra dessa kontopoäng sida vid sida. För att fastställa ett veckoengagemang tar vi det största engagemanget från vilken veckodag som helst.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Pipeline</strong></td> 
+   <td><strong><span class="uicontrol">Pipeline</span></strong></td> 
    <td>Se rörledningen över tiden. För att bestämma rörledningen över tid i vecka tar vi rörledningen på sista dagen.</td> 
   </tr> 
   <tr> 
-   <td><strong>Intäkter</strong></td> 
+   <td><strong><span class="uicontrol">Intäkter</span></strong></td> 
    <td>Se intäkterna över tid. För att fastställa intäkter över tid och vecka tar vi summan av alla intäkter som vunnits den veckan.</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Intressanta ögonblick**
+**[!UICONTROL Interesting Moments]**
 
-Tillgängligt för användare av Marketo Sales Insight. Se intressanta ögonblick på kontonivå.
+Tillgängligt för användare av [!DNL Marketo Sales Insight], se de intressanta stunderna som sammanställts på kontonivå.
 
 ![](assets/int-mom.png)
 
 **Populärast**
 
-De här personerna beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) i Sales Insight), eller resultat som definieras av användaren. **Prioritet** är bara tillgängligt för användare av Marketo Sales Insight.
+De här personerna beräknas baserat på prioriteringar som baseras på senaste eller brådskande händelser som visas av personer med namngivna konton (samma som [Bästa val](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) i Sales Insight), eller resultat som definieras av användaren. **[!UICONTROL Priority]** är bara tillgängligt för användare av [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 
 **Inkluderar underordnade**
 
-Klicka på **Inkluderar underordnade** för att visa och välja de underordnade kontona för det valda namngivna kontot och visa deras aggregerade analyser.
+Klicka på **[!UICONTROL Includes Children]** för att visa och välja de underordnade kontona för det valda namngivna kontot och visa deras aggregerade analyser.
 
 ![](assets/abm.png)
 
@@ -78,29 +78,29 @@ Se var det valda namngivna kontot finns i relation till hierarkin.
 
 ![](assets/hierarchy.png)
 
-## Möjligheter {#opportunities}
+## [!UICONTROL Opportunities] {#opportunities}
 
 En samlad vy över alla öppna möjligheter på kontonivå, vilket hjälper marknadsföringsteamen att fokusera på att stänga specifika möjligheter.
 
 ![](assets/four-1.png)
 
-## Potentiella personer {#potential-people}
+## [!UICONTROL Potential People] {#potential-people}
 
-Matchning från lead till konto använder otydlig logik för att hitta svaga matchningar som kan lösas på fliken Potentiella personer.
+Matchning från lead till konto använder otydlig logik för att hitta svaga matchningar som kan lösas på fliken [!UICONTROL Potential People].
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->Om du vill lägga till någon av personerna i listan markerar du dem och klickar på **Lägg till personer**.
+>Om du vill lägga till någon av personerna i listan markerar du dem och klickar på **[!UICONTROL Add People]**.
 
-## Används av {#used-by}
+## [!UICONTROL Used By] {#used-by}
 
 På den här fliken visas vilka smarta kampanjer, webbkampanjer, smarta listor eller rapporter som för närvarande refererar till specifika namngivna konton eller kontolistor.
 
 ![](assets/six-1.png)
 
-## Kontoteam {#account-team}
+## [!UICONTROL Account Team] {#account-team}
 
 Visa teammedlemmar, lägg till/ta bort medlemmar, och tilldela även en kontoägare på den här fliken.
 
@@ -108,10 +108,10 @@ Visa teammedlemmar, lägg till/ta bort medlemmar, och tilldela även en kontoäg
 
 >[!NOTE]
 >
->Klicka på listrutan **Åtgärder för kontoteam** om du vill lägga till/ta bort kontomedlemmar eller tilldela en kontoägare.
+>Klicka på listrutan **[!UICONTROL Account Team Actions]** om du vill lägga till/ta bort kontomedlemmar eller tilldela en kontoägare.
 
-## ICP-indikatorer {#icp-indicators}
+## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-Visa de ICP-indikatorer som du valde att exportera när du [justerade modellen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Visa [!UICONTROL ICP Indicators] som du valde att exportera när du [justerade modellen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

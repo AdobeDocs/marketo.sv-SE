@@ -4,43 +4,43 @@ description: Förstå prediktivt innehåll - Marketo Docs - produktdokumentation
 title: Förstå prediktivt innehåll
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Förstå prediktivt innehåll {#understanding-predictive-content}
 
-När du har [godkänt en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) arbetar du med den här. På sidan Predictive Content (Prediktivt innehåll) visas alla titlar som du har godkänt för prediktivt innehåll.
+När du har [godkänt en titel för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) arbetar du med den här. Sidan [!UICONTROL Predictive Content] visar alla titlar som du har godkänt för prediktivt innehåll.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 Sidfälten innehåller:
 
-* **Bild och titel**: Namnet på den del av innehållet och den markerade bilden
-* **Aktiverad av Source**: Visar om titeln har godkänts för Multimedia, e-post eller rekommendationsfältet.
-* **Kategorier**: Skapade av dig och används för att gruppera prediktiva resultat för webben eller e-post
-* **Klicka**: Totalt antal klickningar på rekommenderat innehåll (inklusive alla källor)
-* **Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick. Hovra för att se ytterligare data (se nedan)
-* **Assisterad konvertering**: Besökare som klickat på rekommenderat innehåll vid ett tidigare besök och slutfört ett formulär senare
+* **[!UICONTROL Image and Name]**: Namnet på den del av innehållet och den markerade bilden
+* **[!UICONTROL Enabled by Source]**: Visar om titeln har godkänts för Multimedia, e-post eller rekommendationsfältet.
+* **[!UICONTROL Categories]**: Skapad av dig och används för att gruppera dina prediktiva resultat för webb eller e-post
+* **[!UICONTROL Clicks]**: Totalt antal klick på rekommenderat innehåll (inklusive alla källor)
+* **[!UICONTROL Conversion Rate]**: En procentandel beräknad genom direktkonverteringar dividerat med klick. Hovra för att se ytterligare data (se nedan)
+* **[!UICONTROL Assisted Conversion]**: Besökare som klickat på rekommenderat innehåll vid ett tidigare besök och slutfört ett formulär senare
 
 ## Filtrera innehåll {#filtering-content}
 
-**Kategori**
+**[!UICONTROL Category]**
 
-Du kan filtrera innehåll efter kategorier som du har skapat. Klicka på filterikonen och välj en eller flera innehållskategorier under **Kategori**.
+Du kan filtrera innehåll efter kategorier som du har skapat. Klicka på filterikonen och välj en eller flera innehållskategorier under **[!UICONTROL Category]**.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Aktiverad Source**
+**[!UICONTROL Enabled Source]**
 
-Filtrera efter varje typ av aktiverat innehåll: E-post, Multimedia, rekommendationsfält.
+Filtrera efter varje typ av aktiverat innehåll: [!UICONTROL Email], [!UICONTROL Rich Media], [!UICONTROL Recommendation Bar].
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Analyser av Source**
+**[!UICONTROL Analytics by Source]**
 
 Med filtrering av aktiverat innehåll kan ni se hur varje källa fungerar.
 
@@ -48,7 +48,7 @@ Med filtrering av aktiverat innehåll kan ni se hur varje källa fungerar.
 
 ## Visa analyser efter datum {#display-analytics-by-date}
 
-1. välj start- och slutdatum till höger (som visas). Klicka på **Använd**.
+1. välj start- och slutdatum till höger (som visas). Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -58,7 +58,7 @@ I tabellen kan du visa vilka källor som är aktiverade för prediktivt innehål
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Håll markören över fältet i kolumnen Konverteringsgrad om du vill visa konverteringsgrad, direktkonvertering och klickade data.
+Håll pekaren över fältet i kolumnen [!UICONTROL Conversion Rate] om du vill visa konverteringsgrad, direktkonvertering och klickade data.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
@@ -66,8 +66,8 @@ Håll markören över fältet i kolumnen Konverteringsgrad om du vill visa konve
 >
 >**Definitioner**
 >
->**Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick
+>**[!UICONTROL Conversion Rate]**: En procentandel beräknad genom direktkonverteringar dividerat med klick
 >
->**Direktkonvertering**: Besökare som klickat på rekommenderat innehåll och fyllt i ett formulär vid samma besök
+>**[!UICONTROL Direct Conversion]**: Besökare som klickat på rekommenderat innehåll och fyllt i ett formulär vid samma besök
 >
->**Klickat**: Totalt antal klickningar på rekommenderat innehåll (inklusive alla tre källorna)
+>**[!UICONTROL Clicked]**: Totalt antal klick på rekommenderat innehåll (inklusive alla tre källorna)

@@ -3,9 +3,9 @@ description: Skapa ett team - Marketo Docs - produktdokumentation
 title: Skapa ett team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
 ## Skapa ett team {#create-a-team}
 
-1. Klicka på kugghjulsikonen i [webbprogrammet](https://toutapp.com/login) och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [webbprogrammet](https://toutapp.com/login) och välj **[!UICONTROL Settings]**.
 
    ![](assets/creating-a-team-1.png)
 
-1. Välj **Teamhantering** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Team Management]**.
 
    ![](assets/creating-a-team-2.png)
 
-1. Klicka på ikonen **+** bredvid Team.
+1. Klicka på ikonen [!UICONTROL Teams]+**bredvid**.
 
    ![](assets/creating-a-team-3.png)
 
-1. Ange ett teamnamn och klicka på **Skapa**.
+1. Ange ett teamnamn och klicka på **[!UICONTROL Create]**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
 ## Lägg till personer i ett team {#add-people-to-a-team}
 
-1. Välj **Alla medlemmar** i Teamhantering.
+1. Fortsätt i [!UICONTROL Team Management], välj **[!UICONTROL All Members]**.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
    ![](assets/creating-a-team-6.png)
 
-1. Klicka på **Lägg till i team**.
+1. Klicka på **[!UICONTROL Add to Teams]**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ Genom att skapa ett team kan du sätta ihop en grupp användare som innehållet 
 
    ![](assets/creating-a-team-8.png)
 
-1. Klicka på **Lägg till** när du är klar.
+1. Klicka på **[!UICONTROL Add]** när du är klar.
 
    ![](assets/creating-a-team-9.png)

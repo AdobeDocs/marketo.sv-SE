@@ -3,16 +3,16 @@ description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
 title: Fliken Innehåll
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Fliken Innehåll {#understanding-the-content-tab}
+# Fliken [!UICONTROL Content] {#understanding-the-content-tab}
 
-Fliken Innehåll handlar om teamets e-postengagemang när man använder en mall. Vi bubblar automatiskt upp tre mätvärden som vi tror är viktiga.
+Fliken [!UICONTROL Content] handlar om teamets e-postengagemang när du använder en mall. Vi bubblar automatiskt upp tre mätvärden som vi tror är viktiga.
 
 ## Hemligt vapen {#secret-weapon}
 

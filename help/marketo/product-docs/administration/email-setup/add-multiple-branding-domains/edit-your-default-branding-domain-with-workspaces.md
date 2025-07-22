@@ -4,9 +4,9 @@ description: Redigera din standardprofileringsdomän med arbetsytor - Marketo Do
 title: Redigera din standardprofileringsdomän med arbetsytor
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. I tabellen Varumärkesdomäner väljer du den aktuella generiska domänen och klickar på Redigera för att ändra den till företagets varumärkesdomän.
+1. I tabellen [!UICONTROL Branding Domains] väljer du den aktuella generiska domänen och klickar på **[!UICONTROL Edit]** för att ändra den till företagets varumärkesdomän.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

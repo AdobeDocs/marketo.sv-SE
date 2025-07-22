@@ -3,9 +3,9 @@ description: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Passw
 title: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Vi börjar med att skapa ett användarkonto.
 
 ## Skapa en ny användare {#create-a-new-user}
 
-1. Logga in i Dynamics. Klicka på ikonen Inställningar och välj **[!UICONTROL Advanced Settings]**.
+1. Logga in på [!DNL Dynamics]. Klicka på ikonen [!UICONTROL Settings] och välj **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!NOTE]
 >
->Detta gäller för Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar Marketo finns i [Uppgradera Marketo-lösning för Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Detta gäller för Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar Marketo finns i [Uppgradera Marketo-lösning för [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Gå tillbaka till fliken **[!UICONTROL Enabled Users]** och uppdatera användarlistan.
+1. Gå tillbaka till fliken [!UICONTROL Enabled Users] och uppdatera användarlistan.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya användaren som har skapats.
 
-1. Gå tillbaka till avsnittet Avancerade inställningar, klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19.png) bredvid Inställningar och välj **[!UICONTROL Marketo Config]**.
+1. Gå tillbaka till avsnittet [!UICONTROL Advanced Settings], klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19.png) intill [!UICONTROL Settings] och välj **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Uppdatera sidan om du inte ser **[!UICONTROL Marketo Config]** på menyn Inställningar. Om det inte fungerar kan du försöka med att [publicera Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} igen eller logga ut och in igen.
+   >Uppdatera sidan om du inte ser **[!UICONTROL Marketo Config]** på menyn [!UICONTROL Settings]. Om det inte fungerar kan du försöka med att [publicera Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) igen eller logga ut och in igen.
 
 1. Klicka på **[!UICONTROL Default]**.
 
@@ -124,7 +124,7 @@ Nästan klart! Allt vi har kvar är att informera Marketo Solution om den nya an
 
    ![](assets/seventeen.png)
 
-1. Klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19-1.png) bredvid Inställningar och välj **[!UICONTROL Solutions]**.
+1. Klicka på ikonen ![](assets/image2015-5-13-15-3a49-3a19-1.png) bredvid [!UICONTROL Settings] och välj **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
 
 # Synkronisering av anpassat objekt {#custom-object-sync}
 
-Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. Så här ställer du in det.
+Anpassade objekt som skapas i din [!DNL Veeva] CRM-instans kan också ingå i Marketo Engage. Så här ställer du in det.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det associeras med en kontakt eller ett kontoobjekt i Veeva CRM.
+>Om du vill använda ett anpassat objekt måste det associeras med en kontakt eller ett kontoobjekt i [!DNL Veeva] CRM.
 
 ## Aktivera anpassat objekt {#enable-custom-object}
 
@@ -40,7 +40,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
    >[!NOTE]
    >
-   >Den inledande synkroniseringen av det anpassade objektschemat Veeva kan ta några minuter.
+   >Den inledande synkroniseringen av det anpassade objektschemat [!DNL Veeva] kan ta några minuter.
 
 1. Dra det anpassade objekt som du vill synkronisera till arbetsytan.
 
@@ -66,7 +66,7 @@ Egna objekt som skapas i Veeva CRM-instansen kan också ingå i Marketo Engage. 
 
    ![](assets/custom-object-sync-8.png)
 
-1. Klicka på **[!UICONTROL Admin]** och **[!UICONTROL Veeva Objects Sync]** om du vill visa alla anpassade veva-objekt.
+1. Om du vill visa alla dina [!DNL Veeva] anpassade objekt klickar du på **[!UICONTROL Admin]** och **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-9.png)
 

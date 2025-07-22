@@ -4,9 +4,9 @@ description: Champion/Challenger -Ignorera ett e-posttest - Marketo Docs - produ
 title: Champion/Challenger - Ignorera ett e-posttest
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Om du vid något tillfälle bestämmer dig för att du inte vill fortsätta att 
 >
 >[Champion/Challenger: Godkänn ditt e-posttest](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **Ignorera test**.
+1. Sök efter och högerklicka på ditt e-posttest och klicka sedan på **[!UICONTROL Discard Test]**.
 
    ![](assets/champion5.jpg)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 

@@ -4,9 +4,9 @@ description: Visa webbkampanjer från en viss etikett - Marketo Docs - produktdo
 title: Visa webbkampanjer från en viss etikett
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
 ## Filtrera efter befintliga etiketter {#filter-by-existing-labels}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Vill du visa och filtrera kampanjer efter en viss etikett?
 
 >[!MORELIKETHIS]
 >
->* [Ange etikett för dina webbkampanjer](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Ange etikett för [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [Visa segment från en specifik etikett](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Märk upp dina segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

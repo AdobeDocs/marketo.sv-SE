@@ -3,10 +3,10 @@ description: Inställningar för försäljningskampanj - Marketo Docs - produktd
 title: Inställningar för försäljningskampanj
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,9 @@ Aktivera hopphelger så att alla steg som skulle ha inträffat på en veckodag (
 
 >[!NOTE]
 >
->Med Skip Weekends aktiverat schemaläggs e-postmeddelanden efter en 5-dagars vecka. Det innebär att när ett steg är schemalagt ignoreras helger som dagar.
+>När [!UICONTROL Skip Weekends] är aktiverat schemaläggs e-postmeddelanden utifrån en 5-dagars vecka. Det innebär att när ett steg är schemalagt ignoreras helger som dagar.
 
-1. Klicka på **Kampanjer**.
+1. Klicka på **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Aktivera hopphelger så att alla steg som skulle ha inträffat på en veckodag (
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Klicka på fliken **Inställningar**.
+1. Klicka på fliken **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Markera kryssrutan **Hoppa över helger**.
+1. Markera kryssrutan **[!UICONTROL Skip Weekends]**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Aktivera hopphelger så att alla steg som skulle ha inträffat på en veckodag (
 
 Om du använder e-postanslutning upptäcker vi studsar baserat på studsmeddelandet som skickas till användarens inkorg. Dessutom kan vi ta bort personer från säljkampanjer när ett studs.
 
-1. Klicka på **Kampanjer**.
+1. Klicka på **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Om du använder e-postanslutning upptäcker vi studsar baserat på studsmeddelan
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Klicka på fliken **Inställningar**.
+1. Klicka på fliken **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Markera kryssrutan **Ta bort vid studs**.
+1. Markera kryssrutan **[!UICONTROL Remove on Bounce]**.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Om ett svar inträffar {#if-a-reply-occurs}
 
-Om svarsuppföljning är aktiverat för Gmail eller Exchange kan vi automatiskt avsluta din säljkampanj om en mottagare svarar på ditt e-postmeddelande.
+Om svarsuppföljning är aktiverat för Gmail eller [!DNL Exchange] kan vi automatiskt avsluta din säljkampanj om en mottagare svarar på ditt e-postmeddelande.
 
-1. Klicka på **Kampanjer**.
+1. Klicka på **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Om svarsuppföljning är aktiverat för Gmail eller Exchange kan vi automatiskt 
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Klicka på fliken **Inställningar**.
+1. Klicka på fliken **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Gör dina val under **Om ett svar inträffar**.
+1. Gör dina val under **[!UICONTROL If a Reply Occurs]**.
 
    ![](assets/sales-campaign-settings-12.png)
 

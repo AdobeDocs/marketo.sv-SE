@@ -4,9 +4,9 @@ description: Anpassa dina URL:er för landningssidor med en CNAME - Marketo Docs
 title: Anpassa URL:er för landningssidor med en CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Välj ett ord som du vill gå till början av URL:en för dina landningssidor. D
 
 Det enda ordet (plus YourCompany.com) kallas för CNAME. Du behöver det här senare, så notera det.
 
-## Hitta ditt Munchkin-ID {#find-your-munchkin-id}
+## Hitta ditt Munchkin ID {#find-your-munchkin-id}
 
 1. Gå till området **Admin**.
 
@@ -45,7 +45,7 @@ Det enda ordet (plus YourCompany.com) kallas för CNAME. Du behöver det här se
    >
    >**Administratörsbehörigheter krävs**
 
-1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin-ID.
+1. Bläddra ned till &quot;Support Information&quot; och kopiera ditt Munchkin ID.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -69,7 +69,7 @@ Be din IT-personal att installera följande CNAME: (Ersätt ordet [CNAME] och [M
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Ange ditt CNAME-konto i **Domännamn för landningssidor**, ange din **återställningssida**, ange din **startsida** och klicka på **Spara**.
+1. Ange CNAME i **[!UICONTROL Domain name for Landing Pages]**, ange **[!UICONTROL Fallback page]**, ange **[!UICONTROL Homepage]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

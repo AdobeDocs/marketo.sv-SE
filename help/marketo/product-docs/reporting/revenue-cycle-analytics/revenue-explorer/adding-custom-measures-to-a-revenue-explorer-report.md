@@ -4,9 +4,9 @@ description: Lägga till anpassade mått i en Intresseutforskarrapport - Marketo
 title: Lägga till anpassade mått i en Intresseutforskarrapport
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
 
 1. Dra över fälten du behöver för rapporten. Mer information finns i [Lägga till fält i en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
 
-1. Högerklicka på ett befintligt mått (blå cell), klicka på **Användardefinierat mått** och välj **Beräknat mått**.
+1. Högerklicka på ett befintligt mått (blå cell), klicka på **[!UICONTROL User Defined Measure]** och välj **[!UICONTROL Calculated Measure]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ I exemplet nedan skapar du ett beräknat mått för mjuka studsar, som tar mätv
    >
    >Du kan skriva de matematiska symbolerna själv eller använda markeringsrutan.
 
-1. Klicka på **OK** när du är klar.
+1. När du är klar klickar du på **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

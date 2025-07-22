@@ -4,9 +4,9 @@ description: Ändringsprogrammet lyckades - Marketo Docs - produktdokumentation
 title: Programmet har ändrats
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Om du någon gång har en grupp personer som markerats felaktigt med Programslut
 
    >[!NOTE]
    >
-   >Om du anger Framgångsdatum till vad som helst anges värdet sant automatiskt. Om du anger värdet true anges automatiskt datum för lyckade till till aktuellt datum.
+   >Om du anger [!UICONTROL Success Date] till vad som helst anges värdet true automatiskt för Slutfört. Om du anger [!UICONTROL Success] som true anges automatiskt datum för slutförande till aktuellt datum.
 
 1. Ange **[!UICONTROL New Value]** till **[!UICONTROL True]** eller **[!UICONTROL False]**.
 

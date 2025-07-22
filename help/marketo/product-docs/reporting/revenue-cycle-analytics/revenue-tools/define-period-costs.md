@@ -4,9 +4,9 @@ description: Definiera periodkostnader - Marketo Docs - produktdokumentation
 title: Definiera periodkostnader
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -23,37 +23,37 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
 >[!NOTE]
 >
->Ange prognostiserade kostnader i början av programmet. När perioden i programmet är slut kan du redigera periodkostnaden och ange den faktiska kostnaden. Detta ger korrekta rapportresultat.
+>Ange prognostiserade kostnader i början av programmet. När perioden i programmet har slutförts kan du redigera [!UICONTROL Period Cost] och ange den faktiska kostnaden. Detta ger korrekta rapportresultat.
 
-## Definiera en periodkostnad {#define-a-period-cost}
+## Definiera en [!UICONTROL Period Cost] {#define-a-period-cost}
 
-1. Gå till fliken **Inställningar** i programmet eller evenemanget.
+1. Gå till fliken **[!UICONTROL Setup]** i ditt program eller din händelse.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Dra och släpp **Periodkostnad** på arbetsytan och dialogrutan **Ny kostnad** visas.
+1. Dra och släpp **[!UICONTROL Period Cost]** på arbetsytan så visas dialogrutan **[!UICONTROL New Cost]**.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Ange den **programmånad** som du vill associera med den definierade kostnaden.
+1. Ange **[!UICONTROL Program Month]** som du vill associera med den definierade kostnaden.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Ange ett heltal för **periodkostnaden** utan decimaler eller kommatecken (maxgräns: 9999999)
+1. Ange ett **[!UICONTROL Period Cost]** som heltal utan decimaler eller kommatecken (maxgräns: 9999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
    >[!NOTE]
    >
-   >Valutan (t.ex. USD, EUR osv.) är en global inställning som hanteras av en Marketo Admin
+   >Valutan (t.ex. USD, EUR osv.) är en global inställning som hanteras av en Marketo-administratör
 
-1. Ange en beskrivande **anteckning** (valfritt) och klicka på **Spara**.
+1. Ange en beskrivande **[!UICONTROL Note]** (valfritt) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## Redigera en periodkostnad {#edit-a-period-cost}
+## Redigera en [!UICONTROL Period Cost] {#edit-a-period-cost}
 
-1. Högerklicka på Periodkostnad och välj **Redigera** på snabbmenyn för att öppna dialogrutan **Redigera kostnad**.
+1. Högerklicka på [!UICONTROL Period Cost] och välj **[!UICONTROL Edit]** på snabbmenyn för att öppna dialogrutan **[!UICONTROL Edit Cost]**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,12 +61,12 @@ Spåra och associera kostnader för ledande moderering och inköp av leads för 
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## Ta bort en periodkostnad {#delete-a-period-cost}
+## Ta bort en [!UICONTROL Period Cost] {#delete-a-period-cost}
 
-1. Högerklicka på den periodkostnad du vill ta bort och välj **Ta bort** på snabbmenyn för att visa uppmaningen **Ta bort kostnad**.
+1. Högerklicka på den [!UICONTROL Period Cost] som du vill ta bort och välj **[!UICONTROL Delete]** på snabbmenyn för att visa **[!UICONTROL Delete Cost]**-prompten.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klicka på **Ta bort** om du vill ta bort periodkostnaden permanent eller på **Avbryt** om du vill gå tillbaka.
+1. Klicka på **[!UICONTROL Delete]** om du vill ta bort periodkostnaden permanent eller **[!UICONTROL Cancel]** om du vill gå tillbaka.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

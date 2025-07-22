@@ -4,16 +4,16 @@ description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktd
 title: Aktivera innehållsrekommendationsfältet
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
 # Aktivera innehållsrekommendationsfältet {#enable-the-content-recommendation-bar}
 
-Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärningsalgoritmer för att leverera relevant innehåll till varje webbbesökare. Rekommendationsmotorn förutser vilket innehåll som fungerar bäst per besökare. Innehållet i motorn övervakas och styrs under Recommendations-sidan, vilket hjälper dig att optimera avkastningen på ditt innehåll.
+Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärningsalgoritmer för att leverera relevant innehåll till varje webbbesökare. Rekommendationsmotorn förutser vilket innehåll som fungerar bäst per besökare. Innehållet i motorn övervakas och styrs via sidan Rekommendationer, som hjälper dig att optimera avkastningen på ditt innehåll.
 
 >[!PREREQUISITES]
 >
@@ -29,19 +29,19 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
 ## Aktivera och anpassa innehållsrekommendationsfältet {#enable-and-customize-the-content-recommendation-bar}
 
-1. Gå till **Innehållsinställningar**.
+1. Gå till **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Klicka på **Bar**.
+1. Klicka på **[!UICONTROL Bar]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Om du vill aktivera rekommendationsfältet för en URL-adress klickar du på **På** och sedan på **Spara**.
+1. Om du vill aktivera rekommendationsfältet för en URL klickar du bara på **[!UICONTROL On]** och sedan på **[!UICONTROL Save]**.
 
    ![](assets/bar-enable.png)
 
-1. Om du vill anpassa en URL-adress väljer du färger, format, format, pilar för rekommendationsfältet och sidor som ska inkludera eller exkludera fältet. Anpassa sajtens varumärke. Klicka på **Spara**.
+1. Om du vill anpassa en URL-adress väljer du färger, format, format, pilar för rekommendationsfältet och sidor som ska inkludera eller exkludera fältet. Anpassa sajtens varumärke. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,7 +58,7 @@ Innehållsrekommendationsmotorn använder prediktiva analyser och maskininlärni
 
 ## Överväganden i rekommendationsfältet {#recommendation-bar-considerations}
 
-* Du behöver minst en innehållsdel för rekommendationsfältet inställt på **På** på Recommendations-sidan för att rekommendationsmotorn ska fungera. Om inget innehåll är aktiverat och Bar är inställt på **På** visas pileffekten längst ned till höger på webbsidan, men inget rekommenderat innehåll visas.
+* Du behöver minst en innehållsdel för rekommendationsfältet inställt på **[!UICONTROL On]** på sidan Rekommendationer för att rekommendationsmotorn ska fungera. Om inget innehåll är aktiverat och Bar är inställt på **[!UICONTROL On]**, visas pileffekten längst ned till höger på webbsidan, men inget rekommenderat innehåll visas.
 
 * Ju mer innehåll som körs i rekommendationsmotorn desto bättre för algoritmen att testa och lära sig vilket innehåll som fungerar bäst. Vi rekommenderar att du börjar med 10 till 20 aktiva innehållskomponenter och fortsätter lägga till nya.
 * Innehållsdelen som du aktiverar för rekommendation bör innehålla Javascript-taggen RTP. Detta hjälper algoritmen att spåra och optimera rekommenderat innehåll.

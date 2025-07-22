@@ -3,9 +3,9 @@ description: Resultat av samtal - Marketo Docs - produktdokumentation
 title: Utfall för samtal
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 
 ## Aktivera samtalsutfall {#enable-call-outcomes}
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-1.png)
 
-1. Välj **Dialer** under Administratörsinställningar.
+1. Under [!UICONTROL Admin Settings] väljer du **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Välj **Aktivera samtalsresultat**.
+1. Välj **[!UICONTROL Enable call outcomes]**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 >
 >Du kan skapa maximalt 15 Call Outcome.
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-5.png)
 
-1. Välj **Dialer** under Administratörsinställningar.
+1. Under [!UICONTROL Admin Settings] väljer du **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klicka på **Hantera samtalsresultat**.
+1. Klicka på **[!UICONTROL Manage call outcomes]**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Låt säljteamen välja samtalsresultat när de ringer samtal så att teamet kan
 
    ![](assets/call-outcomes-8.png)
 
-1. Klicka på listrutan Svarat och välj resultattyp (i det här exemplet väljer vi Svaret). Klicka sedan på **Lägg till**.
+1. Klicka på listrutan [!UICONTROL Answered] och välj resultattyp (i det här exemplet väljer vi Answered). Klicka sedan på **[!UICONTROL Add]**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ När samtalsresultaten har aktiverats. Användarna kan välja ett när de ringer
 
    ![](assets/call-outcomes-10.png)
 
-1. Ange samtalsinformationen i telefonsvararen och klicka på **Ring**.
+1. Ange samtalsinformationen i telefonsvararen och klicka på **[!UICONTROL Call]**.
 
    ![](assets/call-outcomes-11.png)
 

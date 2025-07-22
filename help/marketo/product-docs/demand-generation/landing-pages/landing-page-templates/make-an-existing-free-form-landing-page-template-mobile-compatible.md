@@ -4,40 +4,40 @@ description: Gör en befintlig mall för landningssida i friform kompatibel - Ma
 title: Gör en befintlig mall för landningssida i friform kompatibel
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
-# Gör en befintlig mall för landningssida i friform kompatibel {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Skapa en befintlig mall för startsida för frihandslayout [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Det kan du göra på två ställen: mallredigeraren och redigeraren för landningssidor.
 
 ## Uppgradera från mallredigeraren {#upgrade-from-the-template-editor}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Välj **Mallar**.
+1. Välj **[!UICONTROL Templates]**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Välj en mall där **Mobile Compatible** är **No**.
+1. Välj en mall där **[!UICONTROL Mobile Compatible]** är **[!UICONTROL No]**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klicka på **Gör mobilkompatibel**.
+1. Klicka på **[!UICONTROL Make Mobile Compatible]**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klicka på **Uppgradera**.
+1. Klicka på **[!UICONTROL Upgrade]**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ Det kan du göra på två ställen: mallredigeraren och redigeraren för landnin
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## Vad gör en mall för mobil kompatibel? {#what-makes-a-template-mobile-compatible}
+## Vad gör en mall [!UICONTROL Mobile Compatible]? {#what-makes-a-template-mobile-compatible}
 
 Fantastiska frågor! Mallen måste ha följande taggar:
 
@@ -63,17 +63,17 @@ Om något är fel visas ett felmeddelande. Klicka på Reparera för att åtgärd
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Om du gör några ändringar i mallen klickar du på Mallåtgärder och väljer Validera mobilkompatibilitet.
+Om du gör några ändringar i mallen klickar du på [!UICONTROL Template Actions] och väljer [!UICONTROL Validate Mobile Compatibility].
 
 ## Uppgradera en mall från sidredigeraren för kostnadsfri landning {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 När du redigerar en landningssida och klickar på mobilfliken, kommer du ibland att märka att mallen inte har uppgraderats. Rädsla inte! Där kan du uppgradera den.
 
-1. Klicka på fliken **Mobil**.
+1. Klicka på fliken **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klicka på kryssrutan och klicka på **Aktivera**.
+1. Klicka i kryssrutan och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

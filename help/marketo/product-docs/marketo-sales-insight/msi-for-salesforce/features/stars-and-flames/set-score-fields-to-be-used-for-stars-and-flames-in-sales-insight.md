@@ -4,20 +4,20 @@ description: Ange poängfält som ska användas för staplar och flamma i Sales 
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Ange poängfält som ska användas för staplar och flamma i Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Ange poängfält som ska användas för [!UICONTROL Stars] och [!UICONTROL Flames] i [!DNL Sales Insight] {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-Som standard använder Marketo Sales Insight fältet **Lead Score** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
+Som standard använder [!DNL Marketo Sales Insight] fältet **[!UICONTROL Lead Score]** för att beräkna stjärnor och lågor. Men om du vill välja ett annat fält, så här:
 
 >[!TIP]
 >
@@ -27,33 +27,33 @@ Som standard använder Marketo Sales Insight fältet **Lead Score** för att ber
 >
 >**Definition**
 >
->* **Stjärnor**: Stjärnor representerar totalt antal leads jämfört med andra leads.
->* **Lågor**: Lågor representerar ett brådskande ärende - hur mycket ett leadresultat har ändrats nyligen.
+>* **[!UICONTROL Stars]**: Stjärnor representerar det totala antalet leads jämfört med andra leads.
+>* **[!UICONTROL Flames]**: Lågor representerar ett brådskande ärende - hur mycket ett leadets poäng har ändrats nyligen.
 >
 
-1. Klicka på **Försäljningsinsikter** under **Admin**.
+1. Klicka på **[!UICONTROL Admin]** under **[!UICONTROL Sales Insight]**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Klicka på **Redigera** under **Leadbedömningsinställningar**.
+1. Klicka på **[!UICONTROL Lead Scoring Settings]** under **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Markera fältet som du vill använda för **stjärnor**.
+1. Markera fältet som du vill använda för **[!UICONTROL Stars]**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Markera fältet som du vill använda för **flamma**.
+1. Markera fältet som du vill använda för **[!UICONTROL Flames]**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
    >
-   >Försäljningsinsikter kan ta lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
+   >[!DNL Sales insight] tar lite tid att omberäkna. Du kan kontrollera CRM senare för att se stjärnorna och lågor.
 
    >[!MORELIKETHIS]
    >

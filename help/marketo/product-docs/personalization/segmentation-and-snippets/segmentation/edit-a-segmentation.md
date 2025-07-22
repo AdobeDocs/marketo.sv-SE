@@ -4,9 +4,9 @@ description: Redigera en segmentering - Marketo Docs - produktdokumentation
 title: Redigera en segmentering
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Skapa ett segmenteringsutkast {#create-a-segmentation-draft}
 
-1. Gå till **databasen**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Klicka på **Segmenteringsåtgärder** i segmenteringen och sedan på **Skapa utkast**.
+1. Klicka på **[!UICONTROL Segmentation Actions]** och sedan **[!UICONTROL Create Draft]** i segmenteringen.
 
    ![](assets/two.png)
 
-1. **Status** ändras till Godkänd med utkast. En **utkastmapp** skapas i din segmentering.
+1. **[!UICONTROL Status]** ändras till [!UICONTROL Approved with Draft]. En **[!UICONTROL Draft]**-mapp skapas i din segmentering.
 
    ![](assets/three.png)
 
 ## Lägg till, redigera eller ta bort segment {#add-edit-or-delete-segments}
 
-1. Klicka på **Segmenteringsåtgärder** i segmenteringen och sedan på **Redigera segment**.
+1. Klicka på **[!UICONTROL Segmentation Actions]** och sedan **[!UICONTROL Edit Segments]** i din segmentering.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Du kan bara redigera segment i ett utkast och inte i Godkänt segment.
+   >Du kan bara redigera segment för en [!UICONTROL Draft] och inte för Godkänt segment.
 
-1. **Lägg till segment**, **Redigera** befintliga (ändra namn eller ordning) eller **Ta bort** segment.
+1. **[!UICONTROL Add Segment]**, **[!UICONTROL Edit]** befintliga (ändra namn eller ordning) eller **[!UICONTROL Delete]** eventuella segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,17 +49,17 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
    >[!CAUTION]
    >
-   >Borttagningen påverkar allt associerat dynamiskt innehåll i e-postmeddelanden, landningssidor och fragment. **Det finns ingen Ångra**. Kontrollera fliken **Används av** för att se vad som använder segmentet.
+   >Borttagningen påverkar allt associerat dynamiskt innehåll i e-postmeddelanden, landningssidor och fragment. **Det finns ingen Ångra**. Gå till fliken **[!UICONTROL Used By]** för att se vad som använder segmentet.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till **Smart lista** i utkastet **Segment**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Gå till [!UICONTROL Draft] i ditt **** segment **[!UICONTROL Smart List]**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >Du kan inte redigera dina godkända segment. Klicka på Segment i mappen Utkast för att redigera dem.
+   >Du kan inte redigera dina godkända segment. Klicka på Segment i mappen [!UICONTROL Draft] för att redigera dem.
 
    >[!NOTE]
    >

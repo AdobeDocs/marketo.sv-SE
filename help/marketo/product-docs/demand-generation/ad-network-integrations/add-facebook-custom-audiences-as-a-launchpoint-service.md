@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4720257
-description: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst - Marketo Docs - produktdokumentation
-title: Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst
+description: Lägg till [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till  [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint] tjänst
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-# Lägg till anpassade Facebook-målgrupper som en LaunchPoint-tjänst {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Lägg till [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint]-tjänst {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-Med den här integreringen kan ni skicka målgruppsdata från statiska och smarta listor från Marketo Engage till Facebook och använda dem som anpassade målgrupper i Facebook annonskampanjer. Så här ställer du in det.
+Med den här integreringen kan du skicka målgruppsdata från Marketo statiska och smarta listor till [!DNL Facebook] som kan användas som anpassade målgrupper i [!DNL Facebook] annonskampanjer. Så här ställer du in det.
 
 1. Gå till Marketo **[!UICONTROL Admin]**.
 
@@ -31,23 +31,23 @@ Med den här integreringen kan ni skicka målgruppsdata från statiska och smart
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](https://www.facebook.com/){target="_blank"}. Logga in på Facebook med det konto du vill använda för integreringen.
+1. Öppna en ny flik i samma webbläsare och gå till [facebook.com](https://www.facebook.com/). Logga in på [!DNL Facebook] med det konto som du vill använda för integreringen.
 
    >[!CAUTION]
    >
-   >För att Marketo ska kunna skicka målgrupper över flera annonshanterarkonton måste den Facebook-användare som du auktoriserar i följande steg ha tillgång till *alla* av dessa konton.
+   >För att Marketo ska kunna skicka målgrupper över flera annonshanterarkonton måste den [!DNL Facebook]-användare som du auktoriserar i följande steg ha tillgång till *alla* av dessa konton.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. När du har loggat in på Facebook går du tillbaka till Marketo. Klicka på **[!UICONTROL Authorize]**.
+1. När du har loggat in på [!DNL Facebook] går du tillbaka till Marketo. Klicka på **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Du _måste_ använda ett Facebook Business Manager-konto för att din anpassade målgruppsintegrering ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [Facebook-hjälpen](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >Du _måste_ använda ett [!DNL Facebook] Business Manager-konto för att integreringen av anpassade målgrupper ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [[!DNL Facebook] hjälpen](https://www.facebook.com/business/help/1710077379203657).
 
-1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att godkänna Marketo-appinstallationen i Facebook.
+1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att godkänna Marketo-programinstallationen i [!DNL Facebook].
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,18 +55,18 @@ Med den här integreringen kan ni skicka målgruppsdata från statiska och smart
 
    >[!NOTE]
    >
-   >**Grundläggande matchning** använder endast e-postadresser. **Avancerad matchning** använder ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du Grundläggande matchning.
+   >**[!UICONTROL Basic Matching]** använder bara e-postadresser. **[!UICONTROL Advanced Matching]** använder ytterligare sju fält, vilket ökar matchningsfrekvensen, för mer konvertering. Om ditt företags sekretesspolicy inte tillåter delning av ytterligare fält, eller om dina data inte inkluderar dem, väljer du [!UICONTROL Basic Matching].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Snyggt jobb! Nu kan du gå över till en statisk lista eller Smart List i Marketo och skicka målgruppsdata till Facebook.
+   Snyggt jobb! Du kan nu gå till en statisk eller smart lista i Marketo och skicka målgruppsdata till [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Innan du går ska du [Acceptera Facebook anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} i ditt Facebook-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
+   >Innan du går ska du se till att [acceptera  [!DNL Facebook]s anpassade målgruppsvillkor](https://www.facebook.com/ads/manage/customaudiences/tos.php) i ditt [!DNL Facebook]-konto! Om du inte gör det kommer målgruppsuppdateringarna att misslyckas.
 
 >[!MORELIKETHIS]
 >
->* [Skapa en anpassad målgrupp i Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+>* [Skapa en anpassad målgrupp i [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [Konfigurera Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
+>* [Konfigurera [!DNL Facebook] Leadannonser](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -4,9 +4,9 @@ description: Inställningar för dubbelpartsgodkännande - Marketo Docs - produk
 title: Inställningar för dubbelpartsgodkännande
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 >
 >Innan du följer stegen nedan måste du först [aktivera samtalsinspelning](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. Klicka på ikonen Inställningar och välj **Inställningar**.
+1. Klicka på ikonen Inställningar och välj **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Allmänt** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL General]**.
 
    ![](assets/two-1.png)
 
-1. Bläddra ned till Inställningar för Sales Connect Phone och klicka på **Hantera inspelningsmeddelande**.
+1. Bläddra ned till [!UICONTROL Sales Connect Phone Settings] och klicka på **[!UICONTROL Manage recording notice]**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Importera inspelning**.
+1. Klicka på **[!UICONTROL Import Recording]**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ För att säkerställa att USA:s tvåpartslagar följs när du spelar in samtal 
 
    ![](assets/five.png)
 
-1. När överföringen är klar väljer du dotfilen (tre punkter) i filhanteraren och klickar på **Välj som medgivandemeddelande**. Klicka på **OK** när du är klar.
+1. När överföringen är klar väljer du docka (tre punkter) i filhanteraren och klickar på **[!UICONTROL Select as Consent Notice]**. Klicka på **[!UICONTROL OK]** när du är klar.
 
    ![](assets/six.png)
 

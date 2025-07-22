@@ -4,16 +4,16 @@ description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Mark
 title: Steg 1 av 3 - Installera Marketo Solution (On-Premises 2011)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '253'
 ht-degree: 1%
 
 ---
 
 # Steg 1 av 3: Installera Marketo Solution (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
-Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage måste du först installera Marketo-lösningen i Dynamics.
+Innan du kan synkronisera [!DNL Microsoft Dynamics] On-Premises och Marketo måste du först installera Marketo-lösningen i [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
 >[!NOTE]
 >
->**Dynamics-administratörsbehörigheter krävs**.
+>**[!DNL Dynamics]Administratörsbehörigheter krävs.**
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in i Dynamics och välj **[!UICONTROL Settings]** längst ned till vänster.
+1. Logga in på **[!DNL Dynamics]**, välj **[!UICONTROL Settings]** i den nedre vänstra menyn.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicka på **[!UICONTROL Browse]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klicka på **[!UICONTROL Next]**.
+1. Klicka på **[!UICONTROL Browse]**. Välj den Marketo Lead Management-lösning som du [hämtade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -79,11 +79,11 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management visas nu på sidan **Alla lösningar**.
+1. [!UICONTROL Marketo Lead Management] visas nu på sidan **[!UICONTROL All Solutions]**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Välj Marketo Lead Management och klicka på **[!UICONTROL Publish All Customizations]**.
+1. Markera [!UICONTROL Marketo Lead Management] och klicka på **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ Innan du kan synkronisera Microsoft Dynamics On-Premises och Marketo Engage mås
 
 >[!MORELIKETHIS]
 >
->[Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal version 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[Steg 2 av 3: Konfigurera Marketo Sync-användare i [!DNL Dynamics] (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

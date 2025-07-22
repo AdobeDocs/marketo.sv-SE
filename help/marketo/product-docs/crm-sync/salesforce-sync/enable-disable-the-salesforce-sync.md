@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719310
-description: Aktivera/inaktivera Salesforce-synkronisering - Marketo Docs - produktdokumentation
-title: Aktivera/inaktivera Salesforce-synkronisering
+description: Aktivera/inaktivera Salesforce Sync - Marketo Docs - produktdokumentation
+title: Aktivera/inaktivera Salesforce Sync
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Aktivera/inaktivera Salesforce-synkronisering {#enable-disable-the-salesforce-sync}
+# Aktivera/inaktivera synkroniseringen av [!DNL Salesforce] {#enable-disable-the-salesforce-sync}
 
 När du gör större ändringar i dina synkroniserings- eller fältinställningar bör du inaktivera synkroniseringen medan du konfigurerar. Så här:
 
@@ -19,11 +19,11 @@ När du gör större ändringar i dina synkroniserings- eller fältinställninga
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Klicka på **[!UICONTROL Disable Sync]** under **[!UICONTROL Salesforce]**.
+1. Klicka på **[!UICONTROL Salesforce]** under **[!UICONTROL Disable Sync]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. Synkroniseringen på två sätt är nu inaktiverad och inaktiv tills du återaktiverar den. Salesforce-flödesåtgärder fortsätter att fungera.
+1. Synkroniseringen på två sätt är nu inaktiverad och inaktiv tills du återaktiverar den. [!DNL Salesforce] flödesåtgärder fortsätter att fungera.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 

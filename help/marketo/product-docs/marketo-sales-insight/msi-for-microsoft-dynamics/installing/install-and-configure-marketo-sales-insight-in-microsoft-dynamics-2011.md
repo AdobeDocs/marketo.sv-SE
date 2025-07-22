@@ -4,30 +4,30 @@ description: Installera och konfigurera Marketo Sales Insight i Microsoft Dynami
 title: Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 0%
+source-wordcount: '331'
+ht-degree: 2%
 
 ---
 
-# Installera och konfigurera Marketo Sales Insight i Microsoft Dynamics 2011 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Installera och konfigurera [!DNL Marketo Sales Insight] i [!DNL Microsoft Dynamics 2011] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följer den stegvisa instruktionen om hur du installerar och konfigurerar den i Microsoft Dynamics 2011 On-Premises.
+[!DNL Marketo Sales Insight] är ett fantastiskt verktyg för ditt säljteam. Här följer en steg-för-steg-instruktion om hur du installerar och konfigurerar den i [!DNL Microsoft Dynamics 2011] lokal.
 
 >[!PREREQUISITES]
 >
 >Komplettera integreringen mellan Marketo och Microsoft.
 >
->[Hämta rätt lösning](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) för din version av Microsoft Dynamics CRM.
+>[Hämta rätt lösning](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) för din version av [!DNL Microsoft Dynamics] CRM.
 
 ## Importera lösning {#import-solution}
 
-1. Logga in på Microsoft Dynamics CRM. Klicka på **Inställningar** i den nedre vänstra menyn.
+1. Logga in på [!DNL Microsoft Dynamics] CRM. Klicka på **[!UICONTROL Settings]** i den nedre vänstra menyn.
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Välj **Lösningar** i trädet.
+1. Välj **[!UICONTROL Solutions]** i trädet.
 
    ![](assets/image2015-5-4-10-3a41-3a56.png)
 
@@ -39,15 +39,15 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
    >
    >Du bör redan ha [installerat och konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) Marketo-lösningen innan du går vidare.
 
-1. Klicka på **Bläddra**. Välj den Marketo Sales Insight-lösning som du [hämtade](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Browse]**. Välj den [!DNL Marketo Sales Insight]-lösning du [hämtade](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
-1. Verifiera informationen om lösningen och klicka på **Nästa**.
+1. Verifiera informationen om lösningen och klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. Kontrollera att alternativet SDK-meddelande är markerat. Klicka på **Nästa**.
+1. Kontrollera att meddelandealternativet för SDK är markerat. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -55,15 +55,15 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. Klicka på **Stäng**.
+1. Klicka på **[!UICONTROL Close]**.
 
    ![](assets/crmhand.png)
 
-1. Marketo Sales Insight visas nu i lösningslistan. Ja!
+1. [!DNL Marketo Sales Insight] visas nu i lösningslistan. Ja!
 
    ![](assets/image2015-5-4-11-3a2-3a37.png)
 
-1. Välj Marketo Sales Insight och klicka på **Publish All Customizations** ( ![](assets/image2015-5-4-11-3a7-3a8.png)).
+1. Välj [!DNL Marketo Sales Insight] och klicka på **Publicera alla anpassningar** ( ![](assets/image2015-5-4-11-3a7-3a8.png)).
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
@@ -73,15 +73,15 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in på Marketo och klicka på **Admin**.
+1. Logga in på Marketo och klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Under avsnittet **Sales Insight** klickar du på **Redigera API-konfiguration**.
+1. Klicka på **[!UICONTROL Sales Insight]** under avsnittet **[!UICONTROL Edit API Configuration]**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopiera **Marketo Host**, **API URL** och **API User Id** för användning i ett senare steg. Ange en **API-hemlig nyckel** som du väljer och klicka på **Spara**.
+1. Kopiera **[!UICONTROL Marketo Host]**, **[!UICONTROL API URL]** och **[!UICONTROL API User Id]** för användning i ett senare steg. Ange en **[!UICONTROL API Secret Key]** och klicka på **[!UICONTROL Save]**.
 
    >[!CAUTION]
    >
@@ -99,15 +99,15 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
    >
    >Om något av dessa fält saknas visas ett felmeddelande i Marketo med namnet på de saknade fälten. Utför [den här proceduren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) om du vill åtgärda det.
 
-1. Gå tillbaka till Dynamics och välj **Inställningar**.
+1. Gå tillbaka till Dynamics, välj **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Välj **Marketo API-konfiguration** i trädet.
+1. Välj **[!UICONTROL Marketo API Config]** i trädet.
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
-1. Klicka på **Standardkonfiguration**.
+1. Klicka på **[!UICONTROL Default Configuration]**.
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
@@ -115,31 +115,31 @@ Marketo Sales Insight är ett fantastiskt verktyg för ert säljteam. Här följ
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Ange användaråtkomst {#set-user-access}
 
-Konfigurera användarroller för att ge specifika användare åtkomst till Sales Insight.
+Konfigurera användarroller för att ge specifika användare åtkomst till [!DNL Sales Insight].
 
-1. Välj **Inställningar**.
+1. Välj **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-4-11-3a30-3a54.png)
 
-1. Välj **Administration** i trädet.
+1. Välj **[!UICONTROL Administration]** i trädet.
 
    ![](assets/image2015-5-4-11-3a31-3a39.png)
 
-1. Klicka på **Användare**.
+1. Klicka på **[!UICONTROL Users]**.
 
    ![](assets/image2015-5-4-11-3a32-3a25.png)
 
-1. Markera de användare som du vill ge åtkomst till och klicka på **Hantera roller**.
+1. Markera de användare som du vill ge åtkomst till och klicka på **[!UICONTROL Manage Roles]**.
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. Välj rollen **Marketo Sales Insight** och klicka på **OK**.
+1. Välj rollen **[!UICONTROL Marketo Sales Insight]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
@@ -147,7 +147,7 @@ Konfigurera användarroller för att ge specifika användare åtkomst till Sales
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
 
-   Grattis. Nu har du släppt loss kraften i Marketo Sales Insight.
+   Grattis. Du har nu frigjort kraften hos [!DNL Marketo Sales Insight].
 
 >[!MORELIKETHIS]
 >

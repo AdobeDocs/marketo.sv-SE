@@ -4,27 +4,27 @@ description: Arkivera en webbkampanj - Marketo Docs - Produktdokumentation
 title: Arkivera en webbkampanj
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # Arkivera en webbkampanj {#archive-a-web-campaign}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/one.jpg)
 
-1. Klicka på statuslistrutan för den önskade webbkampanjen och välj **Arkivera**.
+1. Klicka på statuslistrutan för den önskade webbkampanjen och välj **[!UICONTROL Archive]**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och markerar kryssrutan **Arkiverad** under **Status** och klickar på **Använd**.
+   >Arkiverade webbkampanjer visas inte i standardfiltret. Om du vill visa dem klickar du på ikonen Filter och under **[!UICONTROL Status]** markerar du kryssrutan **[!UICONTROL Archived]** och klickar på **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
 >
->[Ta bort en webbkampanj](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Ta bort en [!UICONTROL Web Campaign]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

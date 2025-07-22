@@ -1,27 +1,27 @@
 ---
-description: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3 - Marketo Docs - produktdokumentation
-title: Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3
+description: Installera Marketo för [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3 - Marketo Docs - produktdokumentation
+title: Installera Marketo för  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Steg 3 av 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
-# Steg 3 av 3: Anslut Marketo Dynamics (2016 On Prem/Dynamics 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
+# Steg 3 av 3: Anslut Marketo [!DNL Dynamics] (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
 >
->* [Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises, steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
->* [Installera Marketo för Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+>* [Installera Marketo för [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installera Marketo för [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Steg 2 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
+## Ange [!DNL Dynamics] synkroniseringsanvändarinformation {#enter-dynamics-sync-user-information}
 
 1. Logga in på Marketo och klicka på **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Enter Credentials]**.
+1. Klicka på **[!UICONTROL Edit]** i **Steg 1: Ange autentiseringsuppgifter**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >Kontrollera att dina autentiseringsuppgifter är korrekta eftersom det inte går att återställa efterföljande schemaändringar efter överföringen. Om felaktiga uppgifter sparas måste du skaffa en ny Marketo-prenumeration.
 
-1. Ange **[!UICONTROL Username]**, **[!UICONTROL Password]** en Microsoft Dynamics **[!UICONTROL URL]** och ett **klient-ID/hemlighet**. Klicka på **[!UICONTROL Save]** när du är klar.
+1. Ange **användarnamn**, **lösenord**, [!DNL Microsoft Dynamics] **URL** och **klient-ID/hemlighet**. Klicka på **Spara** när du är klar.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vet du inte URL:en? Vi visar dig hur du hittar din [Dynamics-organisationstjänsts URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.
+   >Vet du inte URL:en? Vi visar dig hur du hittar din [[!DNL Dynamics] URL för organisationstjänsten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) här.
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Select Fields to Sync]**.
+1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Step 2: Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i [!DNL Dynamics] rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synkronisera fält för ett eget filter {#sync-fields-for-a-custom-filter}
 
@@ -89,13 +89,13 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
 ## Aktivera synkronisering {#enable-sync}
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Enable Sync]**.
+1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Step 3: Enable Sync]**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo avlastar inte automatiskt vid en Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
+   >Marketo avduplicerar inte automatiskt mot en [!DNL Microsoft Dynamics]-synkronisering eller när du anger personer manuellt.
 
 1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **[!UICONTROL Start Sync]**.
 

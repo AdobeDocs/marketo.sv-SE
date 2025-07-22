@@ -3,32 +3,32 @@ description: Bevilja Marketo åtkomst till användare - Marketo Docs - produktdo
 title: Ge Marketo åtkomst till användare
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
 # Ge Marketo åtkomst till användare {#grant-marketo-access-to-users}
 
-Följ stegen i den här artikeln för att ge dina användare av Sales Insight Actions tillgång till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
+Följ stegen i den här artikeln för att ge dina [!DNL Sales Insight Actions]-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
 
-Du måste bjuda in användare till [Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på Marketo > Team Access-sidan (i Sales Insight Actions), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till [[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) innan de visas på Marketo > [!UICONTROL Team Access] (i [!DNL Sales Insight Actions]), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
->Vänta tio minuter efter att du har anslutit Sales Insight Actions till Marketo innan du utför dessa steg.
+>Vänta tio minuter efter att du har anslutit [!DNL Sales Insight Actions] till Marketo innan du utför de här stegen.
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Klicka på **Marketo** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings]Marketo **under**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Klicka på fliken **Användaråtkomst**. Markera en eller flera användare och klicka sedan på **Anslut**.
+1. Klicka på fliken **[!UICONTROL User Access]**. Markera en eller flera användare och klicka sedan på **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -44,8 +44,8 @@ Du måste bjuda in användare till [Sales Insight Actions](/help/marketo/product
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Klicka på **Anslut**.
+1. Klicka på **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-Du kan lägga till fler användare från sidan Teamhantering och följa stegen ovan för att få dem anslutna.
+Du kan lägga till fler användare från sidan [!UICONTROL Team Management] och följa stegen ovan för att ansluta dem.

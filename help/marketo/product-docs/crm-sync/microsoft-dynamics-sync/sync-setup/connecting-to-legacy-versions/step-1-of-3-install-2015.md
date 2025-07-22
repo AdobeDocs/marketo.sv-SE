@@ -4,16 +4,16 @@ description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 of 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
 
 # Steg 1 av 3: Konfigurera Synkronisera användare för Marketo (lokal version 2015) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage måste du först installera Marketo-lösningen i Dynamics.
+Innan du kan synkronisera [!DNL Microsoft Dynamics] 2015 On-Premises med Marketo måste du först installera Marketo-lösningen i [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage
 
 >[!PREREQUISITES]
 >
->Om du använder Microsoft Dynamics On-Premise måste du ha konfigurerat [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
+>Om du använder [!DNL Microsoft Dynamics] On-Premise måste du ha konfigurerat [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) med [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS). Obs! IFD-dokumentet laddas ned automatiskt när du klickar på länken.
 >
 >[Ladda ned Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} innan du startar.
 
@@ -31,11 +31,11 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage
 >
 >Du behöver administratörsbehörighet för CRM för att kunna utföra den här synkroniseringen.
 
-1. Logga in i Dynamics. Klicka på listrutan **[!UICONTROL Microsoft Dynamics CRM]** och välj **[!UICONTROL Settings]**.
+1. Logga in på **[!DNL Dynamics].** Klicka på listrutan **[!UICONTROL Microsoft Dynamics CRM]** och välj **[!UICONTROL Settings]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
-1. Välj **[!UICONTROL Solutions]** under **[!UICONTROL Settings]**.
+1. Välj **[!UICONTROL Settings]** under **[!UICONTROL Solutions]**.
 
    ![](assets/image2015-3-19-8-33-3.png)
 
@@ -47,7 +47,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Visa lösningsinformationen och klicka på **[!UICONTROL View solution package details]**.
+1. Visa [!UICONTROL Solution Information] och klicka på **[!UICONTROL View solution package details]**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage
 
    ![](assets/step6.png)
 
-1. Klicka på **[!UICONTROL Next]** på sidan Lösningsinformation.
+1. Klicka på [!UICONTROL Solution Information] på sidan **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -95,4 +95,4 @@ Innan du kan synkronisera Microsoft Dynamics 2015 On-Premises med Marketo Engage
 
    >[!MORELIKETHIS]
    >
-   >[Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+   >[Installera Marketo för [!DNL Microsoft Dynamics] 2015 On-Premises, steg 2 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

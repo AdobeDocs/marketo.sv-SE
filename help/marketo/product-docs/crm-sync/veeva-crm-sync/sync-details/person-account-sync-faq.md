@@ -3,18 +3,18 @@ description: Synkronisering av personkonto - frågor och svar - Marketo Docs - p
 title: Vanliga frågor om synkronisering av personkonto
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
 # Vanliga frågor om synkronisering av personkonto {#person-account-sync-faq}
 
-Marketo Engage synkroniserar hela databasen med Veeva för personkontotypen för poster. Efter synkroniseringen väntar det 5 minuter och synkroniseras sedan igen, hela dagen, varje dag.
+Marketo Engage synkroniserar hela databasen med [!DNL Veeva] för personkontotypen för poster. Efter synkroniseringen väntar det 5 minuter och synkroniseras sedan igen, hela dagen, varje dag.
 
-Personkonton kan konfigureras i Veeva för att passa organisationens behov.
+Personkonton kan konfigureras i [!DNL Veeva] för att passa organisationens behov.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Personkonton kan konfigureras i Veeva för att passa organisationens behov.
 
 **Vad är ett personkonto?**
 
-Ett personkonto liknar kontoobjektet i Veeva CRM. Ett personkonto har dock åtkomst till både kontofält och kontaktfält.
+Ett personkonto liknar kontoobjektet i [!DNL Veeva] CRM. Ett personkonto har dock åtkomst till både kontofält och kontaktfält.
 
 **Vad händer när ett personkonto synkroniseras med Marketo?**
 
@@ -42,23 +42,23 @@ Det finns två e-postfält för ett personkonto. Använd fältet E-postadress i 
 
 ## Synkroniseringsriktning {#sync-direction}
 
-Synkroniseringen av kontaktrelaterade fält för personkontot är dubbelriktad. Om du ändrar en kontakt i Veeva CRM eller Marketo återspeglas dina uppdateringar i båda systemen. Fälten på kontot synkroniseras endast i en riktning, från Veeva CRM till Marketo.
+Synkroniseringen av kontaktrelaterade fält för personkontot är dubbelriktad. Om du ändrar en kontakt i antingen [!DNL Veeva] CRM eller Marketo återspeglas dina uppdateringar i båda systemen. Fälten på kontot synkroniseras endast i en riktning, från [!DNL Veeva] CRM till Marketo.
 
 **Vad händer om ändringar görs i båda systemen i kontaktfälten på personkontot samtidigt?**
 
-Vi vore trevliga och lät Veeva CRM vinna. Det är dock sällsynt att en sådan kollision mellan data inträffar.
+Vi vore trevliga och lät [!DNL Veeva] CRM vinna. Det är dock sällsynt att en sådan kollision mellan data inträffar.
 
-**Är lead- eller kontakttypen för poster synkroniserade med Veeva CRM?**
+**Är lead- eller kontakttypen för poster synkroniserade med [!DNL Veeva] CRM?**
 
-Veeva CRM hanterar bara objekt för personkonton och har även företagskonton. De traditionella CRM-typerna av lead, kontakter och säljprojekt används inte i praktiken i traditionella Veeva CRM-system. Dessa kan ha skapats i Veeva CRM, men stöds inte officiellt med den här kopplingen.
+[!DNL Veeva] CRM hanterar bara objekt för personkonton och har även företagskonton. De traditionella CRM-typerna av lead, kontakter och säljprojekt används inte riktigt i traditionella [!DNL Veeva] CRM-system. Dessa kan ha skapats i [!DNL Veeva] CRM, men stöds inte officiellt med den här kopplingen.
 
 **Kan jag konvertera en person till en kontakt i Marketo?**
 
-Nej, eftersom lead och kontakt inte stöds för synkronisering med Veeva CRM. Därför stöds inte konvertering.
+Nej, eftersom lead och kontakt inte stöds för synkronisering med [!DNL Veeva] CRM. Därför stöds inte konvertering.
 
 **Kan jag framtvinga en synkronisering av en kontakt manuellt?**
 
-Nej, eftersom Kontakt inte är en oberoende typ av post stöds inte synkronisering av en person till Veeva.
+Nej, eftersom Kontakt inte är en oberoende typ av post stöds inte synkronisering av en person till [!DNL Veeva].
 
 **Synkroniserar varje standardfält med Marketo?**
 
@@ -68,11 +68,11 @@ Nej, alla standardfält är inte användbara. Alla anpassade fält kan ingå i s
 >
 >Marketo synkroniserar bara de fält som din Marketo Sync-användare har åtkomst till.
 
-**Kommer Marketo att respektera valideringsreglerna för veeva?**
+**Kommer Marketo att respektera [!DNL Veeva]-valideringsreglerna?**
 
 Ja, om en konflikt uppstår loggar vi resultatet i leadets aktivitetslogg.
 
 >[!MORELIKETHIS]
 >
->* [Standardvevevektorfältsmappning](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Standard [!DNL Veeva] Fältmappning](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
 >* [Synkroniserar meddelande för samtal och samtal](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

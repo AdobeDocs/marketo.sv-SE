@@ -4,7 +4,7 @@ description: TAM Sales Report - Marketo Docs - Product Documentation
 title: TAM-försäljningsrapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -33,28 +33,28 @@ Rapporten delar:
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Kontopoäng</strong></td> 
+   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td> 
    <td> 
     <div>
       Trend varje vecka efter kontopoäng (väljs i konfiguration), följt av aktuellt kontopoäng 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Försäljningsförlopp</strong></td> 
+   <td><strong><span class="uicontrol">Försäljningsförlopp</span></strong></td> 
    <td> 
     <div>
       Trend varje vecka efter pipeline, följt av den totala aktuella pipeline och antalet öppna möjligheter 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Sidvyer</strong></td> 
+   <td><strong><span class="uicontrol">Sidvyer</span></strong></td> 
    <td> 
     <div>
       Veckovis trend för sidvisningar, följt av totalt antal sidvisningar och unika besökare 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Intressanta ögonblick</strong></td> 
+   <td><strong><span class="uicontrol">Intressanta ögonblick</span></strong></td> 
    <td> 
     <div>
       Totalt antal intressanta stunder som har inträffat under veckan 

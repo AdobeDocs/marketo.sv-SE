@@ -4,10 +4,10 @@ description: Konfigurera kontoprofilering - Marketo Docs - produktdokumentation
 title: Konfigurera kontoprofilering
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 2%
+source-wordcount: '157'
+ht-degree: 3%
 
 ---
 
@@ -30,19 +30,19 @@ Följ de här stegen för att börja använda kontoprofilering.
 >
 >Lär dig hur du [visar ett fält här](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Öppna **Hantering av målkonto** i Min Marketo.
+1. Öppna **[!UICONTROL Target Account Management]** i Min Marketo.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Klicka på fliken **Kontoprofilering**.
+1. Klicka på fliken **[!UICONTROL Account Profiling]**.
 
    ![](assets/two-1.png)
 
-1. Fliken Modell öppnas som standard. Klicka på **Kom igång**.
+1. Fliken Modell öppnas som standard. Klicka på **[!UICONTROL Get Started]**.
 
    ![](assets/three.png)
 
-1. Ge modellen ett namn och välj listtyp/lista med personer som ska fungera som bas för Ideal Customer Profile (ICP). Klicka på **Skapa modell** när du är klar.
+1. Ge modellen ett namn och välj listtyp/lista med personer som ska fungera som bas för Ideal Customer Profile (ICP). Klicka på **[!UICONTROL Create Model]** när du är klar.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ Följ de här stegen för att börja använda kontoprofilering.
 
    ![](assets/five.png)
 
-1. Om du vill visa resultatet av modellen klickar du på **Se modellresultat**.
+1. Klicka på **[!UICONTROL See Model Result]** om du vill se resultatet av modellen.
 
    ![](assets/six.png)
 

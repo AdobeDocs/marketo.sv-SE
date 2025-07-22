@@ -4,9 +4,9 @@ description: Champion/Challenger -Helle emails - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Hele-mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
 >
 >[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Hela e-postmeddelanden** i listrutan **Testtyp** i e-posttestredigeraren.
+1. Välj **[!UICONTROL Whole Emails]** i listrutan **[!UICONTROL Test Type]** i e-posttestredigeraren.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testa hela mejl mot varandra. När testet är klart skickar du ut den översta u
    >
    >Kom ihåg: Det ursprungliga e-postmeddelandet är segraren. Utmanarna tävlar mot det.
 
-1. Leta reda på och välj e-postadressen/e-postmeddelandena **Resenärer** och klicka sedan på **Klona**.
+1. Sök efter och markera **[!UICONTROL Challengers]** e-postmeddelanden och klicka sedan på **[!UICONTROL Clone]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

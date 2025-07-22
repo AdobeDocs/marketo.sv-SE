@@ -4,9 +4,9 @@ description: Förstå SEO Dashboard -SEO Snapshot - Marketo Docs - produktdokume
 title: Förstå SEO-instrumentpanelen - SEO-ögonblicksbild
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ I det här avsnittet visas hur din webbplats rangordnas för de [nyckelord som d
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-Jämn sidoptimering är en Marketo-poäng som mäter alla sidor på er webbplats på en skala från 1 till 100.
+[!UICONTROL Average Page Optimization Score] är en Marketo-poäng som mäter alla sidor på din webbplats på en skala från 1 till 100.
 
 Det bygger på en sammanställning av dussintals bästa metoder. En poäng på 70 eller högre anger att sajten är optimerad.
 
@@ -65,4 +65,4 @@ Nu ska vi kolla in avsnittet [!UICONTROL Recommendations] på den här instrumen
 
 >[!MORELIKETHIS]
 >
->[Kontrollpanelen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Om kontrollpanelen: SEO-rekommendationer](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

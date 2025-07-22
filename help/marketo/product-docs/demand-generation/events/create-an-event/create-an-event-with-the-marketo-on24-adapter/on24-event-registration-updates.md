@@ -4,9 +4,9 @@ description: ON24 Event Registration Updates - Marketo Docs - Product Documentat
 title: ON24 - Händelseregistreringsuppdateringar
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -19,25 +19,25 @@ Du kan godkänna dina registranter manuellt innan du skickar en bekräftelse via
 
 1. För kampanjen Registreringsutlösare:
 
-   * I den smarta listan ställer du in utlösaren på **Fyller i formulär**.
-   * I Flödet anger du statusen i progression till **Väntar på godkännande**.
+   * I [!UICONTROL Smart List] ställer du in utlösaren på **[!UICONTROL Fills Out Form]**.
+   * Ange [!UICONTROL Status in Progression] som **[!UICONTROL Pending Approval]** i flödet.
 
-1. Gå till händelsen och klicka på fliken **Medlemmar**. På den här fliken visas alla personer som har fyllt i formuläret. Deras status ska vara **Väntande godkännande**.
-1. Använd filtret längst upp i rutnätet om du bara vill visa personer med statusen **Väntar på godkännande**.
+1. Gå till Händelsen och klicka på fliken **[!UICONTROL Members]**. På den här fliken visas alla personer som har fyllt i formuläret. Deras status bör anges till **[!UICONTROL Pending Approval]**.
+1. Använd filtret längst upp i rutnätet om du bara vill visa personer med statusen **[!UICONTROL Pending Approval]**.
 1. Markera de personer som du vill registrera (Skift-klicka, Ctrl-klicka eller Markera alla).
-1. Klicka på **Ändra status** på menyn. Välj **Registrerad**, **Avvisad** eller någon annan tillämplig status.
+1. Klicka på **[!UICONTROL Change Status]** på menyn. Välj **[!UICONTROL Registered]**, **[!UICONTROL Rejected]** eller någon annan tillämplig status.
 
 ## Hantera personer med ett registreringsfel {#handling-people-with-a-registration-error}
 
-Om en person slutar att registreras utan att anges till statusfelet Registreringsfel är det inte för sent att återskapa.
+Om en person inte registreras utan anges till statusen [!UICONTROL Registration Error] är det inte för sent att återskapa.
 
-1. Filtrera listan med personer med statusen **Registreringsfel** på fliken Medlemmar.
-1. Innan du fortsätter bör du kontrollera att du har fastställt och åtgärdat problemet med integrering (kontrollera att det inte finns några fel under **Event Partners** i Admin).
-1. När problemet är löst väljer du alla personer med status Registreringsfel och ändrar deras status till **Registrerad**. Detta kommer att försöka registrera dem igen med ON24.
+1. Filtrera listan med personer med statusen [!UICONTROL Members] på fliken **[!UICONTROL Registration Error]**.
+1. Innan du fortsätter bör du kontrollera att du har fastställt och åtgärdat problemet med integrering (kontrollera att det inte finns några fel under **[!UICONTROL Event Partners]** i Admin).
+1. När problemet är löst markerar du alla personer med statusen [!UICONTROL Registration Error] och ändrar deras status till **[!UICONTROL Registered]**. Detta kommer att försöka registrera dem igen med ON24.
 
 ## Uppdaterar medlemsstatus från ON24 {#updating-member-status-from-on}
 
-Marketo hämtar automatiskt information om närvaro vid ungefär 200 PST varje kväll. Om du vill uppdatera närvaroinformationen manuellt klickar du på **Uppdatera från webbinariet-providern** under **Händelseåtgärder**.
+Marketo hämtar automatiskt information om närvaro vid ungefär 200 PST varje kväll. Om du vill uppdatera närvaroinformation manuellt klickar du på **[!UICONTROL Refresh from Webinar Provider]** under **[!UICONTROL Event Actions]**.
 
 >[!MORELIKETHIS]
 >

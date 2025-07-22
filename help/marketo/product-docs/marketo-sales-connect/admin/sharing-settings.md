@@ -4,9 +4,9 @@ description: Delningsinställningar - Marketo Docs - produktdokumentation
 title: Delningsinställningar
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Hantera mallarna bättre genom att begränsa vad användare kan dela och med vil
 
 ![](assets/main.png)
 
-När ditt Sales Connect-konto skapas aktiveras delningsinställningarna. Detta ger kontoadministratörer möjlighet att skapa och organisera dina mallkategorier innan de öppnar flödena och ger användarna möjlighet att dela innehåll i era teamkategorier.
+När ditt Sales Connect-konto skapas första gången aktiveras [!UICONTROL Sharing Settings]. Detta ger kontoadministratörer möjlighet att skapa och organisera dina mallkategorier innan de öppnar flödena och ger användarna möjlighet att dela innehåll i era teamkategorier.
 
-När delningsinställningar är aktiverade kan bara administratörer dela i kategorier, såvida inte delningsbehörighet ges till ett team eller alla. Om Delningsinställningar är inaktiverat finns det inga begränsningar och alla användare kan dela i valfria mallkategorier.
+När [!UICONTROL Sharing Settings] är aktiverat kan bara administratörer dela i kategorier, såvida inte delningsbehörighet ges till ett team eller alla. Om [!UICONTROL Sharing Settings] är inaktiverat finns det inga begränsningar och alla användare kan dela i valfria mallkategorier.
 
 ## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. Gå till sidan Inställningar i [webbprogrammet](https://toutapp.com/login).
+1. Gå till sidan [ i ](https://toutapp.com/login)webbprogrammet[!UICONTROL Settings].
 
    ![](assets/one-2.png)
 
-1. Välj **Delningsåtkomst** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Sharing Access]**.
 
    ![](assets/two-2.png)
 
-1. Kontrollera att **Delningsinställningarna** är aktiverade. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
+1. Kontrollera att **[!UICONTROL Sharing Settings]** är aktiverat. Detta innebär som standard att bara administratörer kan dela mallar i dina mallkategorier.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
 
    ![](assets/four-2.png)
 
-1. Klicka på **Lägg till team för åtkomst**.
+1. Klicka på **[!UICONTROL Add Teams for Access]**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ När delningsinställningar är aktiverade kan bara administratörer dela i kate
    >
    >Om du inte ser något team måste du gå till Teamhantering och skapa ett team med användare.
 
-1. Klicka på **Lägg till team för åtkomst** för att spara.
+1. Klicka på **[!UICONTROL Add Teams for Access]** om du vill spara.
 
    ![](assets/seven-1.png)
 

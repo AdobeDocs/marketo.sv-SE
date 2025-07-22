@@ -4,14 +4,14 @@ description: Lägg till ett befintligt Salesforce-fält i Marketo Sync - Marketo
 title: Lägg till ett befintligt Salesforce-fält i Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Lägg till ett befintligt Salesforce-fält i Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Lägg till ett befintligt [!DNL Salesforce]-fält i Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Klicka **[!UICONTROL View]** bredvid objektet som innehåller fältet under avsnittet **[!UICONTROL Field-Level Security]**.
+1. Klicka **[!UICONTROL Field-Level Security]** bredvid objektet som innehåller fältet under avsnittet **[!UICONTROL View]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
@@ -47,4 +47,4 @@ Vanligtvis synkroniseras nya anpassade fält i Salesforce automatiskt till Marke
 
    >[!NOTE]
    >
-   > Om fältet redan har värden i Salesforce synkroniseras dessa värden inte till Marketo förrän nästa postuppdatering.
+   > Om fältet redan har värden i [!DNL Salesforce] synkroniseras dessa värden inte till Marketo förrän nästa postuppdatering.

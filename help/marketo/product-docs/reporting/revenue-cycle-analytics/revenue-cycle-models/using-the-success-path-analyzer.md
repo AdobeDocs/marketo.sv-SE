@@ -4,9 +4,9 @@ description: Using the Success Path Analyzer - Marketo Docs - Product Documentat
 title: Använda sökvägsanalysen
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -19,31 +19,31 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 >
 >[Skapa en lyckad sökvägsanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Gå till **Analytics** och välj din **Success Path Analyzer**.
+1. Gå till **[!UICONTROL Analytics]** och välj din **Success Path Analyzer**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
-   Diagrammet till höger visar data i den markerade knappen till vänster. Som standard är detta Balans.
+   Diagrammet till höger visar data i den markerade knappen till vänster. Som standard är detta **[!UICONTROL Balance]**.
 
-1. Klicka på **I flöde** om du vill visa hur många personer som kom in på scenen under den valda tidsramen.
+1. Klicka på **[!UICONTROL In Flow]** om du vill visa ett diagram över hur många personer som kom in på scenen under den markerade tidsramen.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-   * Klicka på Utflöde om du vill visa hur många personer som har lämnat scenen.
-   * Klicka på Konvertera % för att ange konverteringsgraden från detta till nästa steg.
-   * Klicka på Avg Time för att se hur länge personer tillbringade den här scenen innan de flyttades till nästa fas.
+   * Klicka på **[!UICONTROL Out Flow]** om du vill visa ett diagram över hur många personer som har lämnat scenen.
+   * Klicka på **[!UICONTROL Conv %]** om du vill diagram över konverteringsgraden från det här till nästa steg.
+   * Klicka på **[!UICONTROL Avg Time]** om du vill se hur länge personer har tillbringat i den här fasen innan du flyttar till nästa fas.
 
-1. Klicka på **Diagramåtgärder** > Jämför period för att jämföra data med en annan tidsram med samma längd.
+1. Klicka på **[!UICONTROL Chart Actions]** > **[!UICONTROL Compare Period]** för att jämföra data med en annan tidsram med samma längd.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Välj datumet **Från** för jämförelseperioden.
+1. Välj datumet **[!UICONTROL From]** för jämförelseperioden.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Datumet **Till** anges automatiskt så att det matchar längden på den ursprungliga tidsperioden.
+   Datumet **[!UICONTROL To]** anges automatiskt så att det matchar längden på den ursprungliga tidsperioden.
 
-1. Klicka på **Jämför**.
+1. Klicka på **[!UICONTROL Compare]**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Om du vill ändra tidsskalan för diagrammet klickar du på någon av knapparna **Diagram**: dag (standard), vecka och månad
+1. Om du vill ändra tidsskalan för diagrammet klickar du på någon av **[!UICONTROL Graph by]**-knapparna: daglig (standard), veckovis och månadsvis
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. För faser med servicenivåavtal (SLA) klickar du på **Diagramåtgärder** > **Visa SLA-förfallodatum** för att visa alla personer som någon gång har missat ett SLA-mål inom den angivna tidsramen.
+1. För steg med servicenivåavtal (SLA) klickar du på **[!UICONTROL Chart Actions]** > **[!UICONTROL Show SLA Due]** för att visa alla personer som någon gång missat ett SLA-mål inom den angivna tidsramen.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   De personer som visas med orange kan vara *eller kanske inte* fortfarande vara i SLA-scenen.
+   Personerna som visas med orange kan vara *eller kanske inte* fortfarande vara i SLA-scenen.
 
-1. Klicka på **Diagramåtgärder** > **Visa tidigare SLA** om du vill visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-stadiet i slutet av den angivna tidsperioden.
+1. Klicka på **[!UICONTROL Chart Actions]** > **[!UICONTROL Show SLA Past Due]** för att visa alla personer med utgångna SLA-mål som fortfarande befinner sig i SLA-stadiet vid slutet av den angivna tidsperioden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Använd en Success Path Analyzer för att utforska de specifika detaljer som åt
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Om du vill skriva ut diagrammet klickar du på **Diagramåtgärder** > **Skriv ut diagram**.
+1. Om du vill skriva ut diagrammet klickar du på **[!UICONTROL Chart Actions]** > **[!UICONTROL Print Chart]**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

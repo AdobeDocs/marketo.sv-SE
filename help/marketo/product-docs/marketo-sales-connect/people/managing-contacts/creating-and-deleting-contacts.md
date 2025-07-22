@@ -4,9 +4,9 @@ description: Skapa och ta bort kontakter - Marketo Docs - produktdokumentation
 title: Skapa och ta bort kontakter
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Skapa kontakter {#creating-contacts}
 
-1. På sidan Personer klickar du på knappen **Gruppera åtgärder** och väljer **Skapa kontakt**.
+1. Klicka på knappen [!UICONTROL People] på sidan **[!UICONTROL Group Actions]** och välj **[!UICONTROL Create Contact]**.
 
    ![](assets/one-2.png)
 
-1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **Skapa** när du är klar eller **Skapa och lägg till ny** om du vill lägga till fler kontakter.
+1. Ange för-/efternamn och e-postadress tillsammans med annan information som du vill ha. Klicka på **[!UICONTROL Create]** när du är klar eller **[!UICONTROL Create and Add New]** om du vill lägga till fler kontakter.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Ta bort kontakter {#deleting-contacts}
 
-1. Markera rutan för den kontakt du vill ta bort på sidan Personer.
+1. Markera rutan för den kontakt du vill ta bort på sidan [!UICONTROL People].
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Om du vill ta bort flera kontakter markerar du bara flera personer. De återstående stegen är desamma.
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Ta bort**.
+1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Delete]**.
 
    ![](assets/four-2.png)
 
-1. Bekräfta genom att klicka på **Ta bort kontakt**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete Contact]**.
 
    ![](assets/five-2.png)

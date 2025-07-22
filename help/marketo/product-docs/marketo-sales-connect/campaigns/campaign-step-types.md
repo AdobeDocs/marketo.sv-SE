@@ -4,9 +4,9 @@ description: Stegtyper för kampanjer - Marketo Docs - produktdokumentation
 title: Typer av kampanjsteg
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Ställ in en påminnelse om att följa upp med en kontakt via telefon. Du kan oc
 
 ## InMail {#inmail}
 
-Uppföljning i flera kanaler är ett bra sätt att få kontakt med leads. Med InMail-uppgifter kan du ställa in en påminnelse som ska nås via LinkedIn.
+Uppföljning i flera kanaler är ett bra sätt att få kontakt med leads. Med InMail-aktiviteter kan du konfigurera en påminnelse så att du kan nå ut via [!DNL LinkedIn].
 
 ![](assets/inmail.png)
 

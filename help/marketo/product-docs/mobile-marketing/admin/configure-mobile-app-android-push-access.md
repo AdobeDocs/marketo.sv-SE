@@ -4,20 +4,20 @@ description: Konfigurera Android Push Access för mobilappar - Marketo Docs - pr
 title: Konfigurera Android Push Access för mobilappar
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
 # Konfigurera Android Push Access för mobilappar {#configure-mobile-app-android-push-access}
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Välj **Mobilappar**.
+1. Välj **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,19 +25,19 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Under **Push Access Type** väljer du **Android** och klickar på **Configure.**
+1. Under **[!UICONTROL Push Access Type]** väljer du **[!UICONTROL Android]** och klickar på **[!UICONTROL Configure]**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Du behöver en **Server-API-nyckel** och **projektnummer** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på Google Play Developer Console för att registrera din app och aktivera molnmeddelanden.
+   >Du behöver en **[!UICONTROL Server API Key]** och **[!UICONTROL Project Number]** från din mobilappsutvecklare. Utvecklaren får dessa genom att logga in på [!DNL Google Play Developer Console] för att registrera din app och aktivera molnmeddelanden.
 
-1. Ange nyckel för server-API och projektnummer. Klicka på **Spara**.
+1. Ange din [!UICONTROL Server API Key] och [!UICONTROL Project Number]. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Söt. Kontrollera att du har konfigurerat appen med iOS.
+   Söt. Kontrollera att du har konfigurerat appen med [!UICONTROL iOS].
 
 >[!MORELIKETHIS]
 >

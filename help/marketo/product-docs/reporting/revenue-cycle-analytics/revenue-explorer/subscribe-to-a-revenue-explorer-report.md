@@ -4,18 +4,18 @@ description: Prenumerera på en rapport från Intresseutforskaren - Marketo Docs
 title: Prenumerera på en rapport om skatteutforskaren
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Prenumerera på en rapport om skatteutforskaren {#subscribe-to-a-revenue-explorer-report}
+# Prenumerera på en [!UICONTROL Revenue Explorer]-rapport {#subscribe-to-a-revenue-explorer-report}
 
 Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och dela dem kan du prenumerera på valfri e-postadress i en befintlig rapport.
 
-1. Gå till **Analytics** och välj **New** > **New Report Subscription**.
+1. Gå till **[!UICONTROL Analytics]** och välj **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ Om du vill få uppdateringar från dina rapporter om intäktscykel, Explorer och
    >
    >Information om hur du prenumererar på en grundläggande rapport som du har skapat i ett program finns i [Prenumerera på en grundläggande rapport.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. För **Rapportera Source** väljer du **Intresseutforskaren**.
+1. För **[!UICONTROL Report Source]** väljer du **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

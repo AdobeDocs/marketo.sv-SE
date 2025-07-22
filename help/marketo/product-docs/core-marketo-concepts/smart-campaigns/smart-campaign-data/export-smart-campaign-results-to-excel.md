@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147070
-description: Exportera smarta kampanjresultat till Excel - Marketo Docs - produktdokumentation
-title: Exportera smarta kampanjresultat till Excel
+description: Exportera resultat för smarta kampanjer till  [!DNL Excel] - Marketo Docs - produktdokumentation
+title: Exportera smarta kampanjresultat till  [!DNL Excel]
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Exportera smarta kampanjresultat till Excel {#export-smart-campaign-results-to-excel}
+# Exportera smarta kampanjresultat till [!DNL Excel] {#export-smart-campaign-results-to-excel}
 
 Exportera resultaten från Smart Campaign till Excel för användning utanför Marketo Engage.
 
@@ -23,4 +23,4 @@ Exportera resultaten från Smart Campaign till Excel för användning utanför M
 
    >[!NOTE]
    >
-   >Exporten är begränsad till 20 000 rader. Excel-filen sparas i webbläsarens standardmapp för hämtning.
+   >Exporten är begränsad till 20 000 rader. Filen [!DNL Excel] sparas i webbläsarens standardmapp för hämtning.

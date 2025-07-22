@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: Sales Connect-anpassningar för CRM - Marketo Docs - produktdokumentation
-title: Anpassningar av Sales Connect för CRM
+description: '[!DNL Sales Connect] anpassningar för CRM - Marketo Docs - produktdokumentation'
+title: '[!DNL Sales Connect] anpassningar för CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
 
-# Anpassningar av Sales Connect för CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] anpassningar för CRM {#sales-connect-customizations-for-crm}
 
 Fälten och knapparna nedan skapas av Metadata API i Salesforce CRM. När fälten har skapats måste administratörer konfigurera sidlayouterna i CRM så att de visas. Instruktionerna [finns här](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
-## Installera anpassningar i Salesforce {#how-to-install-customizations-in-salesforce}
+## Installera anpassningar i [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i [!DNL Sales Connect] och välj **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Administratörsinställningar väljer du **Salesforce**.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Klicka på **Marketo Sales Connect-anpassningar**.
+1. Klicka på **[!UICONTROL Marketo Sales Engage Customizations]**.
 
    ![](assets/three.png)
 
-1. Klicka på **Anslut till Salesforce**.
+1. Klicka på **[!UICONTROL Connect to Salesforce]**.
 
    ![](assets/four.png)
 
-1. Logga in på Salesforce.
+1. Logga in på [!DNL Salesforce].
 
    ![](assets/five.png)
 
-## Uppdatera Salesforce Customization {#update-salesforce-customization}
+## Uppdatera anpassning av [!DNL Salesforce] {#update-salesforce-customization}
 
-Uppdateringar av Salesforce Customization Package innehåller förbättringar och felkorrigeringar. Följ stegen nedan för att kontrollera om det finns uppdateringar eller för att utföra en uppdatering.
+Uppdateringar av anpassningspaketet [!DNL Salesforce] innehåller förbättringar och felkorrigeringar. Följ stegen nedan för att kontrollera om det finns uppdateringar eller för att utföra en uppdatering.
 
 >[!NOTE]
 >
 >**Administratörsbehörighet krävs.**
 
-1. Klicka på kugghjulsikonen i [webbprogrammet](https://www.toutapp.com) och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [webbprogrammet](https://www.toutapp.com) och välj **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Kortet Sales Connect Customization visar om det finns uppdateringar. Klicka på **Uppdatera anpassningar**.
+1. Anpassningskortet [!DNL Sales Connect] visas om det finns tillgängliga uppdateringar. Klicka på **[!UICONTROL Update Customizations]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klicka på **Uppgradera**.
+1. Klicka på **[!UICONTROL Upgrade]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

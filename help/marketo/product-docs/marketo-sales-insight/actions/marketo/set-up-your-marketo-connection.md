@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->När du etablerar Sales Insight Actions skickar Marketo automatiskt dina inloggningsuppgifter till Actions och kopplar instansen till Marketo. Det här steget krävs **endast om du inte ser anslutningen som upprättats** efter att din Sales Connect-instans har etablerats. Om anslutningen upprättas visas dina inloggningsuppgifter på sidan Marketo Admin Settings och ett alternativ för att koppla från.
+>När du etablerar [!DNL Sales Insight Actions] skickar Marketo automatiskt dina autentiseringsuppgifter till Åtgärder och ansluter instansen till Marketo. Det här steget krävs **endast om du inte ser anslutningen som upprättats** efter att [!DNL Sales Connect]-instansen har etablerats. Om anslutningen upprättas visas dina inloggningsuppgifter på sidan Marketo Admin Settings och ett alternativ för att koppla från.
 
-## Hämta autentiseringsuppgifter innan du ansluter säljaren till Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Hämtar autentiseringsuppgifter innan [!DNL Sales Connect] ansluts till Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Du måste hämta en uppsättning inloggningsuppgifter från Marketo. Dessa autentiseringsuppgifter används senare av Sales Connect Admin för att ansluta Marketo till Sales Connect.
+Du måste hämta en uppsättning inloggningsuppgifter från Marketo. Dessa autentiseringsuppgifter används senare av [!DNL Sales Connect]-administratören för att ansluta Marketo till [!DNL Sales Connect].
 
-1. Klicka på **Admin** i Marketo.
-
-PICC
-
-1. Klicka på **Sales Connect** i trädet.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
 PICC
 
-1. Välj och skicka följande Marketo-autentiseringsuppgifter till din Sales Connect-administratör: Munchkin-ID, Klient-ID, Klienthemlighet.
+1. Klicka på **[!UICONTROL Sales Connect]** i trädet.
+
+PICC
+
+1. Markera och skicka följande Marketo-autentiseringsuppgifter till din [!DNL Sales Connect]-administratör: [!UICONTROL Munchkin ID], [!UICONTROL Client ID], [!UICONTROL Client Secret].
 
 PICC
 
@@ -38,16 +38,16 @@ PICC
 >
 >När du kopierar och klistrar in ovanstående information bör du kontrollera att inga mellanslag läggs till.
 
-## Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
+## Anslut [!DNL Sales Connect] till Marketo {#connect-sales-connect-to-marketo}
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
-
-PICC
-
-1. Under Administratörsinställningar väljer du **Marketo**.
+1. Klicka på kugghjulsikonen i [!DNL Sales Connect] och välj **[!UICONTROL Settings]**.
 
 PICC
 
-1. Ange de Marketo-autentiseringsuppgifter som tillhandahålls av Marketo Admin och klicka på **Anslut**.
+1. Under [!UICONTROL Admin Settings] väljer du **Marketo**.
+
+PICC
+
+1. Ange de Marketo-autentiseringsuppgifter som tillhandahålls av Marketo Admin och klicka på **[!UICONTROL Connect]**.
 
 PICC

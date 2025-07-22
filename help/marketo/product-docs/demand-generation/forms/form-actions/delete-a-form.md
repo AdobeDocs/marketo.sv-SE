@@ -4,9 +4,9 @@ description: Ta bort ett formulär - Marketo Docs - produktdokumentation
 title: Ta bort ett formulär
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du har ett formulär som du inte behöver och som inte används kan du ta bort det. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Om du har ett formulär som du inte behöver och som inte används kan du ta bor
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klicka på **Ta bort formulär** under **Formuläråtgärder**.
+1. Klicka på **[!UICONTROL Form Actions]** under **[!UICONTROL Delete Form]**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Om du har ett formulär som du inte behöver och som inte används kan du ta bor
    >
    >Kom ihåg att ta bort formuläret från alla landningssidor som använder det. Bekräfta också att formuläret inte används på en offentlig webbplats.
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

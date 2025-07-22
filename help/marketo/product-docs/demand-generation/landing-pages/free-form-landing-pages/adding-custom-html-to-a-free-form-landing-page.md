@@ -4,9 +4,9 @@ description: Adding Custom HTML to a Free-Form Landing Page - Marketo Docs - Pro
 title: Lägga till anpassad HTML på en landningssida med kostnadsfri form
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Du kan lägga till egna skript, CSS eller andra HTML-filer på landningssidor.
 >
 >Marketo Engage Support har inte konfigurerats för att hjälpa till med felsökning av anpassade HTML. Kontakta en webbutvecklare om du behöver hjälp med HTML.
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Du kan lägga till egna skript, CSS eller andra HTML-filer på landningssidor.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Ange din egen HTML-kod och klicka på **Spara**.
+1. Ange din anpassade HTML-kod och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

@@ -4,9 +4,9 @@ description: Använd dynamiskt innehåll på en landningssida - Marketo Docs - p
 title: Använd dynamiskt innehåll på en landningssida
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -23,43 +23,43 @@ Genom att använda dynamiskt innehåll på landningssidor engagerar du människo
 
 ## Lägg till segmentering {#add-segmentation}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-   Klicka på landningssidan och sedan på Redigera utkast.
+   Klicka på **[!UICONTROL Landing Page]** och sedan på **[!UICONTROL Edit Draft]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Klicka på Segmentera efter.
+   Klicka på **[!UICONTROL Segment By]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Ange namnet på segmenteringen och klicka på Spara.
+   Ange namnet **[!UICONTROL Segmentation]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Segmenteringen och segmenten visas under Dynamic till höger.
+   Segmenteringen och segmenten visas under **[!UICONTROL Dynamic]** till höger.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Alla landningssidelement är statiska som standard.
+   >Alla landningssidelement är som standard **[!UICONTROL Static]**.
 
 ## Gör element dynamiskt {#make-element-dynamic}
 
-1. Dra och släpp element från statisk till **dynamisk**.
+1. Dra och släpp element från **[!UICONTROL Static]** till **[!UICONTROL Dynamic]**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Du kan också göra elementen statiska eller dynamiska från elementet **Inställningar**.
+1. Du kan också skapa elementen [!UICONTROL Static] eller [!UICONTROL Dynamic] från elementet **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Använd dynamiskt innehåll {#apply-dynamic-content}
 
-1. Markera ett element under ett segment och klicka sedan på **Redigera**. Upprepa för varje segment.
+1. Markera ett element under ett segment och klicka sedan på **[!UICONTROL Edit]**. Upprepa för varje segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

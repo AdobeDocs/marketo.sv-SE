@@ -4,9 +4,9 @@ description: Schemalägg e-postprogram med mottagartidszon - Marketo Docs - prod
 title: Schemalägg e-postprogram med mottagartidszon
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Det finns två möjliga scenarier när du schemalägger ett e-postprogram när M
 
 Säg att du godkänner ett e-postprogram med Mottagarens tidszon aktiverad och en schemalagd leveranstid inom de närmaste 25 timmarna. Du kan ha personer i din smarta lista som bor i tidszoner där den schemalagda tiden redan har passerat.
 
-I det här scenariot kan du bestämma vad du ska göra med den här delmängden kvalificerade personer. Klicka på kugghjulsikonen bredvid **Mottagarens tidszon** i rutan **Schema** i e-postprogrammet.
+I det här scenariot kan du bestämma vad du ska göra med den här delmängden kvalificerade personer. Klicka på kugghjulsikonen bredvid **[!UICONTROL Recipient Time Zone]** i rutan **[!UICONTROL Schedule]** i e-postprogrammet.
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
@@ -34,15 +34,15 @@ Detta ger dig två alternativ:
 >
 >**Definition**
 >
->* **Leverera följande dag i mottagarens tidszon**: om e-postmeddelandet är schemalagt att skickas på tisdag kl. 9:00 får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet *onsdag* kl. 9:00.
+>* **[!UICONTROL Deliver the following day in recipient’s time zone]**: Om e-postmeddelandet är schemalagt att skickas på tisdag klockan 9:00am får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet *onsdag* kl. 9:00am.
 >
->* **Leverera med programmets standardinställda tid**: om e-postmeddelandet är schemalagt att skickas på tisdag klockan 9:00 får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet _baserat på dina prenumerationstidszonsinställningar_. Om dina [prenumerationstidszonsinställningar](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) är inställda på PDT America/Los Angeles får dessa mottagare fortfarande e-postmeddelandet på tisdag klockan 9:00 PDT (oavsett tid i deras egna tidszoner).
+>* **[!UICONTROL Deliver using the program's default set time]**: Om e-postmeddelandet är schemalagt att skickas på tisdag kl. 9:00am får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet _baserat på dina inställningar för prenumerationstidszon_. Om dina [prenumerationstidszonsinställningar](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) är inställda på PDT America/Los Angeles får dessa mottagare fortfarande e-postmeddelandet på tisdag klockan 9:00am PDT (oavsett tid i deras egna tidszoner).
 
 >[!NOTE]
 >
 >[Läs mer](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) om hur Marketo beräknar tidszoner för mottagare.
 
-Låt oss titta närmare på det här scenariot. Anta att du är i San Francisco och schemalägger ett e-postmeddelande kl. 7:00 för en **9:00**-sändning. I din smarta lista finns det personer från följande områden:
+Låt oss titta närmare på det här scenariot. Anta att du är i San Francisco och schemalägger ett e-postmeddelande på 7:00am för en **9:00am**-sändning. I din smarta lista finns det personer från följande områden:
 
 * San Francisco
 * Texas
@@ -51,11 +51,11 @@ Låt oss titta närmare på det här scenariot. Anta att du är i San Francisco 
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00 har redan gått i New York och Italien, så kvalificerade personer i dessa två tidszoner får e-postmeddelandet baserat på **tidszonsinställningarna**:
+9:00am har redan passerat i New York och Italien, så kvalificerade personer i dessa två tidszoner får e-postmeddelandet baserat på **tidszonsinställningarna**:
 
-* **Leverera följande dag i mottagarens tidszon:** Onsdag klockan 9:00 i respektive tidszon, **OR**
+* **[!UICONTROL Deliver the following day in recipient’s time zone]:** onsdag klockan 9:00am i deras respektive tidszoner, **OR**
 
-* **Leverera med programmets inställda standardtid**: tisdag klockan 9:00 PDT (New York - 12:00 EDT och Italien - 18:00 CET).
+* **[!UICONTROL Deliver using the program's default set time]**: Tisdag klockan 9:00am PDT (New York - 12:00pm EDT and Italy - 6:00pm CET).
 
 När du godkänt programmet börjar det köras inom 15 minuter.
 
@@ -63,15 +63,15 @@ När du godkänt programmet börjar det köras inom 15 minuter.
 
 >[!NOTE]
 >
->Även om programmet startar _processen_ för att skicka e-post om 15 minuter, kommer e-post inte att _levereras_ vid den tidpunkten. Mottagarna får fortfarande e-post baserat på de **tidszonsinställningar** du väljer.
+>Även om programmet startar _processen_ för att skicka e-post om 15 minuter, kommer e-post inte att _levereras_ vid den tidpunkten. Mottagarna får fortfarande e-post baserat på den **[!UICONTROL Time Zone Settings]** du väljer.
 
 ## Scenario 2: Mer än 25 timmar {#scenario-more-than-hours}
 
-I det andra scenariot godkänner du ett e-postprogram med **Mottagarens tidszon** aktiverad och en schemalagd leveranstid som är mer än 25 timmar framöver. I det här fallet kommer programmet att börja köras vid den schemalagda tidpunkten i den **tidigaste** tidszonen i världen (UTC + 14:00). Det kan finnas personer som är kvalificerade för din smarta lista i alla tidszoner över hela världen, så med början i den tidigaste tidszonen kan vi leverera e-postmeddelandet på det schemalagda datumet/den schemalagda tiden till alla mottagare i deras respektive tidszoner.
+I det andra scenariot godkänner du ett e-postprogram med **[!UICONTROL Recipient Time Zone]** aktiverat och en schemalagd leveranstid som är mer än 25 timmar framöver. I det här fallet kommer programmet att börja köras vid den schemalagda tidpunkten i den **tidigaste** tidszonen i världen (UTC + 14:00). Det kan finnas personer som är kvalificerade för din smarta lista i alla tidszoner över hela världen, så med början i den tidigaste tidszonen kan vi leverera e-postmeddelandet på det schemalagda datumet/den schemalagda tiden till alla mottagare i deras respektive tidszoner.
 
 **Startpunkt**
 
-Låt oss nu prata om hur [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fungerar med **Mottagarens tidszon**. Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Så vad betyder det för mottagarens tidszon? Kom ihåg att när Mottagarens tidszon är aktiverad börjar vi köra e-postprogrammet vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00). Om du vill aktivera **både** Starttid och Mottagarens tidszon måste e-postprogram schemaläggas **minst 12 timmar före den schemalagda tiden i UTC +14:00.**
+Låt oss nu prata om hur [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fungerar med **[!UICONTROL Recipient Time Zone]**. Vår befintliga funktion för Head Start kräver att programmet schemaläggs minst 12 timmar i förväg. Så vad betyder det för mottagarens tidszon? Kom ihåg att när Mottagarens tidszon är aktiverad börjar vi köra e-postprogrammet vid den schemalagda tidpunkten i den tidigaste tidszonen (UTC +14:00). Om du vill aktivera **både** Starttid och Mottagarens tidszon måste e-postprogram schemaläggas **minst 12 timmar före den schemalagda tiden i UTC +14:00.**
 
 Det innebär att om du befinner dig i Amerika/Los Angeles och vill aktivera både Head Start och Receipient Time Zone måste du schemalägga programmet **34 timmar** i förväg. Hur kom vi till det här numret?
 

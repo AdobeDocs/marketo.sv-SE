@@ -1,36 +1,36 @@
 ---
-description: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM - Marketo Docs - produktdokumentation
-title: Steg 1 av 3 - Lägg till Marketo-fält i Veeva CRM
+description: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM - Marketo Docs - Produktdokumentation
+title: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 1%
 
 ---
 
-# Steg 1 av 3: Lägg till Marketo-fält i Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Steg 1 av 3: Lägg till Marketo-fält i [!DNL Veeva] CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Veeva CRM-instansen måste ha tillgång till Salesforce API:er för att kunna synkronisera data mellan Marketo Engage och Veeva CRM.
+>CRM-instansen [!DNL Veeva] måste ha åtkomst till Salesforce API:er för att kunna synkronisera data mellan Marketo Engage och [!DNL Veeva] CRM.
 
-Marketo Engage använder en uppsättning fält för att hämta in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i Veeva CRM följer du instruktionerna nedan.
+Marketo Engage använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i [!DNL Veeva] CRM följer du instruktionerna nedan.
 
-`1.` Skapa ett anpassat fält i Veeva CRM för kontaktobjekten: Poäng
+`1.` Skapa ett anpassat fält i [!DNL Veeva] CRM för kontaktobjekten: Poäng
 
 `2.` Du kan skapa ytterligare fält om du vill (se tabellen nedan).
 
-Alla dessa anpassade fält är valfria och behövs inte för att synkronisera Marketo Engage och Veeva CRM.
+Alla dessa anpassade fält är valfria och behöver inte synkronisera Marketo Engage och [!DNL Veeva] CRM.
 
-## Lägg till Marketo-fält i Veeva CRM {#add-marketo-fields-to-veeva-crm}
+## Lägg till Marketo-fält i [!DNL Veeva] CRM {#add-marketo-fields-to-veeva-crm}
 
-Lägg till ett anpassat fält på lead- och kontaktobjekten i Veeva CRM som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
+Lägg till ett anpassat fält på lead- och kontaktobjekten i [!DNL Veeva] CRM som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
 
 Utför följande steg för fältet Poäng för att lägga till det.
 
-1. Logga in på Veeva CRM och klicka på **[!UICONTROL Setup]**.
+1. Logga in på [!DNL Veeva] CRM och klicka på **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -80,7 +80,7 @@ Decimaler 0</td>
 
 >[!NOTE]
 >
->Veeva CRM lägger till __c i fältnamn när de används för att skapa API-namn.
+>[!DNL Veeva] CRM lägger till __c i fältnamn när de används för att skapa API-namn.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -94,12 +94,12 @@ Decimaler 0</td>
 
 1. Ange åtkomstinställningarna och klicka på **[!UICONTROL Next]**.
 
-1. Ställ in alla roller till Synlig och Skrivskyddad.
+1. Ange alla roller till **[!UICONTROL Visible]** och **[!UICONTROL Read-Only]**.
 
-1. Avmarkera kryssrutan Skrivskyddad för din synkroniseringsanvändares profil:
+1. Avmarkera kryssrutan **[!UICONTROL Read-Only]** för din synkroniseringsanvändares profil:
 
-* Om du har en användare med profilen för en systemadministratör som synkroniseringsanvändare avmarkerar du kryssrutan Skrivskyddad för systemadministratörsprofilen (se nedan).
-* Om du har skapat en anpassad profil för synkroniseringsanvändaren avmarkerar du kryssrutan Skrivskyddad för den anpassade profilen.
+* Om du har en användare med en systemadministratörsprofil som synkroniseringsanvändare avmarkerar du kryssrutan [!UICONTROL Read-Only] för systemadministratörsprofilen (se nedan).
+* Om du har skapat en anpassad profil för synkroniseringsanvändaren avmarkerar du kryssrutan [!UICONTROL Read-Only] för den anpassade profilen.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -172,4 +172,4 @@ VALFRITT: Använd ovanstående procedur för ytterligare anpassade fält från t
 
 >[!NOTE]
 >
->Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i Veeva CRM när det nya fältet har skapats. Marketo synkroniserar data till Veeva CRM vid nästa uppdatering av posten i något av systemen (dvs. en uppdatering av något av de synkroniserade fälten mellan Marketo och Veeva CRM).
+>Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i [!DNL Veeva] CRM när det nya fältet har skapats. Marketo synkroniserar data till [!DNL Veeva] CRM vid nästa uppdatering till posten i något av systemen (d.v.s. en synkroniserad uppdatering av något av fälten mellan Marketo och [!DNL Veeva] CRM).

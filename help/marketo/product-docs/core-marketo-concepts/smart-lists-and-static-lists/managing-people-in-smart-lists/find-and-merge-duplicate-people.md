@@ -4,16 +4,16 @@ description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdo
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # Sök och sammanfoga duplicerade personer {#find-and-merge-duplicate-people}
 
-Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i systemet. CRM-data kan dock ha skickats över dubbletter från början. Så här sammanfogar du dem.
+Marketo Engage deduplicerar automatiskt när nya personer kommer in i systemet. CRM-data kan dock ha skickats över dubbletter från början. Så här sammanfogar du dem.
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
 
 >[!NOTE]
 >
->Marketo avlastar inte automatiskt från en Salesforce- eller Microsoft Dynamics-synkronisering, och inte heller när du anger personer manuellt.
+>Marketo avduplicerar inte automatiskt mot en [!DNL Salesforce]- eller [!DNL Microsoft Dynamics]-synkronisering eller när du anger personer manuellt.
 
 ## Sök dubbletter {#find-duplicates}
 
@@ -35,7 +35,7 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
 
    >[!CAUTION]
    >
-   >Det kanske inte fungerar att sammanfoga personer i Marketo om du använder ett Salesforce-personkonto. Sammanfoga posterna i Salesforce om det är möjligt.
+   >Det går kanske inte att sammanfoga personer i Marketo om du använder ett [!DNL Salesforce]-personkonto. Sammanfoga posterna i [!DNL Salesforce] om det är möjligt.
 
 1. Välj den smarta listan för **[!UICONTROL Possible Duplicates]** och klicka på fliken **[!UICONTROL People]**.
 
@@ -75,14 +75,14 @@ Marketo Engage tar automatiskt bort dubbletter när nya personer kommer in i sys
 
 Om du har Salesforce-integrering finns det några noteringar om effekten av att sammanfoga leads i Salesforce.
 
-* När du bara sammanfogar leads eller enbart kontakter sammanfogas de enligt vanliga Salesforce-regler.
-* När du sammanfogar Leads och Kontakter konverteras alla Leads till Kontakter innan de sammanfogas enligt vanliga Salesforce-regler.
+* När endast Leads eller endast Kontakter sammanfogas, sammanfogas de enligt normala [!DNL Salesforce]-regler.
+* När du sammanfogar leads och kontakter konverteras alla leads till kontakter innan de sammanfogas enligt de normala [!DNL Salesforce]-reglerna.
 
-Mer information om Salesforce-beteendet när du sammanfogar leads eller kontakter finns i följande Salesforce-dokument:
+Mer information om Salesforce beteende när du sammanfogar leads eller kontakter finns i följande [!DNL Salesforce]-dokument:
 
-* [Sammanfogar dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Sammanfogar dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Sammanfogar dubblettrader](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Sammanfogar dubblettkontakter](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Masssammanslagning {#bulk-merging}
 
-Om du har för många dubbletter för att sammanfoga manuellt kontaktar du kontogruppen (din kontohanterare) på Adobe för att diskutera dina alternativ.
+Om du har för många dubbletter för att slå samman manuellt kontaktar du Adobe Account Team (din kontoansvarige) för att diskutera dina alternativ.

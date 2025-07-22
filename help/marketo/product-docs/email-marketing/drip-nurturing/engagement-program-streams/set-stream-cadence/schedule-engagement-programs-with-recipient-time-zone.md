@@ -4,9 +4,9 @@ description: Schemalägg engagemangsprogram med mottagartidszon - Marketo Docs -
 title: Schemalägg engagemangsprogram med mottagartidszon
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 När du schemalägger en interaktionsprogramström och mottagarens tidszon är aktiva, kommer programsändningen att börja köras vid midnatt i den första tidszonen (UTC +14:00). Vi kräver att du schemalägger den första sändningen **minst 25 timmar** i framtiden, eftersom det kan finnas personer som är kvalificerade för sändningen i varje tidszon över hela världen. Om vi påbörjar bearbetningen vid den här tidpunkten i den första tidszonen garanterar vi att vi kommer att leverera e-postmeddelandet vid det schemalagda datumet och den schemalagda tidpunkten för varje mottagare.
 
-1. Gå till fliken **Streams** i ditt engagemangsprogram och klicka på ett strömmens cadence-schema för att redigera det.
+1. Gå till fliken **[!UICONTROL Streams]** i ditt engagemangsprogram och klicka på ett strömmens cadence-schema för att redigera det.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Ange dina inställningar för stängsel](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) som vanligt, och markera sedan kryssrutan **Tidszon för mottagare**. Kom ihåg att din första sändning måste vara minst 25 timmar i framtiden. Klicka på **Spara**.
+1. [Ange dina cadence-inställningar](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) som vanligt, och markera sedan kryssrutan **[!UICONTROL Recipient Time Zone]**. Kom ihåg att din första sändning måste vara minst 25 timmar i framtiden. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 

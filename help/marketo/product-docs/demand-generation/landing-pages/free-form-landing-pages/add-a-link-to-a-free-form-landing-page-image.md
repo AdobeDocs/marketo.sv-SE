@@ -4,9 +4,9 @@ description: Lägg till en länk till en landningssidbild i fri form - Marketo D
 title: Lägg till en länk till en landningssidbild med valfri form
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Detta gäller endast landningssidor med fri form.
 
-1. Markera bilden som du lade till på landningssidan och expandera **egenskapssidan.**
+1. Markera bilden som du lade till på landningssidan och expandera **[!UICONTROL Property Sheet].**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Skriv din mailto-länk i **länkens URL.**
+1. Skriv din mailto-länk i **[!UICONTROL linkUrl].**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

@@ -1,18 +1,17 @@
 ---
-description: Dynamic Chat - Marketo Docs - produktdokumentation
-title: Dynamic Chat verksamhet
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat] aktiviteter - Marketo Docs - produktdokumentation'
+title: '[!DNL Dynamic Chat] aktiviteter'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Dynamic Chat verksamhet {#dynamic-chat-activities}
+# [!DNL Dynamic Chat] aktiviteter {#dynamic-chat-activities}
 
-Dynamic Chat erbjuder flera filter och utlösare som kan användas i dina smarta listor.
+[!DNL Dynamic Chat] erbjuder flera filter och utlösare som kan användas i dina smarta listor.
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -55,6 +54,6 @@ Dynamic Chat erbjuder flera filter och utlösare som kan användas i dina smarta
 
 ## Saker att notera {#things-to-note}
 
-* Villkor stöds i flödessteg i Dynamic Chat
-* Dynamic Chat aktiviteter kan synkroniseras till [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
-* Du kan visa enskilda Dynamic Chat-aktiviteter i aktivitetsloggen för en personpost
+* Villkor stöds i [!DNL Dynamic Chat] flödessteg
+* [!DNL Dynamic Chat] aktiviteter kan synkroniseras till [[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Du kan visa enskilda [!DNL Dynamic Chat] aktiviteter i aktivitetsloggen för en personpost

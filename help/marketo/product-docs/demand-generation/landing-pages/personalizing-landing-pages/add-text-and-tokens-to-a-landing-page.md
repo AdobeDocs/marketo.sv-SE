@@ -4,9 +4,9 @@ description: Lägg till text och token på en landningssida - Marketo Docs - pro
 title: Lägga till text och token på en landningssida
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Lägg till RTF på landningssidan {#add-rich-text-to-your-landing-page}
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Designern för landningssidan öppnas i ett nytt fönster.
 
-1. Dra över elementet **RTF**.
+1. Dra över elementet **[!UICONTROL Rich Text]**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Ange önskad text och klicka på **Spara**.
+1. Ange önskad text och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 >
 >Saker som Förnamn kommer från personposten. Andra variabler kommer från fliken Mina token i programmet.
 
-1. Markera landningssidan och klicka på **Redigera utkast**.
+1. Välj din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Tokens är dynamiska textbitar som kan anpassa din landningssida.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Ange ett **standardvärde** och klicka på **Infoga**.
+1. Ange en **[!UICONTROL Default Value]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

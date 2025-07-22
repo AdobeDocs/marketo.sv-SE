@@ -4,20 +4,20 @@ description: Använda Marketo Insights för Google Chrome - Marketo Docs - produ
 title: Använda Marketo Insights för Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Använda Marketo Insights för Google Chrome {#using-marketo-insights-for-google-chrome}
+# Använda Marketo Insights för [!DNL Google Chrome] {#using-marketo-insights-for-google-chrome}
 
-Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
+Skicka och spåra Google-e-post med Marketo Insights för [!DNL Google Chrome].
 
 >[!PREREQUISITES]
 >
->[Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Installera Marketo Insights för [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 >[!NOTE]
 >
@@ -41,21 +41,21 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
    >
    >Du kan även klicka på dubbelpilen för att expandera till helskärmsläge.
 
-1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **Läs in Marketo-mall**.
+1. Om du vill fylla i e-postmeddelandet i förväg med en publicerad Marketo-mall klickar du på **Fler alternativ** och väljer **[!UICONTROL Load Marketo Template]**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Välj en **tillgänglig mall** och klicka på **OK**.
+1. Välj en **[!UICONTROL Available template]** och klicka på **[!UICONTROL Ok]**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Ange ditt innehåll, en e-postadress och klicka på **Skicka**.
+1. Ange ditt innehåll, en e-postadress och klicka på **[!UICONTROL Send]**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >Meddelanden spåras bara när knappen **Skicka** är lila.
+   >Meddelanden spåras bara när knappen **[!UICONTROL Send]** är lila.
 
 1. E-postmeddelandet visas snart i din Marketo Sales Insight och alla öppningar och klick spåras.
 
@@ -65,15 +65,15 @@ Skicka och spåra alla Google-mejl med Marketo Insights för Google Chrome.
 
 Du kan logga svar och gammal aktivitet i en leads aktivitetshistorik.
 
-1. Klicka på **Logga med Marketo** i förhandsgranskningsfönstret i Google Mail.
+1. Klicka på **[!UICONTROL Log with Marketo]** i förhandsgranskningsfönstret i Google Mail.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. Det är allt! E-postmeddelandet visas snart i Marketo Sales Insight.
+1. Det är allt! E-postmeddelandet visas snart om [!DNL Marketo Sales Insight].
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Installera Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Installera Marketo Insights för [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Visa person- och kontoinformation och aktiviteter i Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

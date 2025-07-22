@@ -4,9 +4,9 @@ description: Använda en mall i dispositionsfönstret - Marketo Docs - produktdo
 title: Använda en mall i dispositionsfönstret
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Söka efter och använda mallar {#finding-and-using-templates}
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/one-6.png)
 
-1. Fyll i fältet Till.
+1. Fyll i fältet [!UICONTROL To].
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till dina mest använda mallar.
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/one-6.png)
 
-1. Klicka på ikonen **+** bredvid Favoriter.
+1. Klicka på ikonen **+** bredvid [!UICONTROL Favorites].
 
    ![](assets/pinning-two.png)
 
-1. Klicka på listrutan **Fäst en kategori** och välj önskad kategori.
+1. Klicka på listrutan **[!UICONTROL Pin a Category]** och välj önskad kategori.
 
    ![](assets/pinning-three.png)
 
-1. Klicka på **Spara ändringar** när du är klar (valfritt: upprepa steg 3 om du vill lägga till fler).
+1. Klicka på **[!UICONTROL Save Changes]** när du är klar (valfritt: upprepa steg 3 om du vill lägga till fler).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
 
    >[!NOTE]
    >
-   >**Favoriter** finns som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**[!UICONTROL Favorites]** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    Den valda kategorin är nu fäst.

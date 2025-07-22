@@ -4,46 +4,46 @@ description: Anpassa stjärnor och flamma - Marketo Docs - produktdokumentation
 title: Anpassa stjärnor och flamma
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Anpassa stjärnor och flamma {#customize-stars-and-flames}
 
-Marketo Sales Insight använder stjärnor och lågor för att prioritera leads. Marketo bestämmer automatiskt vem som får 1-2-3 stjärnor/lågor. Du kan dock ändra formeln. Så här:
+[!DNL Marketo Sales Insight] använder stjärnor och lågor för att prioritera leads. Marketo bestämmer automatiskt vem som får 1-2-3 stjärnor/lågor. Du kan dock ändra formeln. Så här:
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Sales Insight** under Admin.
+1. Klicka på [!UICONTROL Admin] under **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Klicka på **Redigera** under **Inställningar för leadpoäng**.
+1. Klicka på **[!UICONTROL Lead Scoring Settings]** under avsnittet **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Välj önskad **bedömningsmetod**.
+1. Välj önskad **[!UICONTROL Scoring Method]**.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >**Dynamisk** - är ett procentvärde som härleds från [relativa data](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Häftiga grejer. Den här metoden rekommenderas.
+   >**[!UICONTROL Dynamic]** - är ett procentvärde som härleds från [relativa data](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Häftiga grejer. Den här metoden rekommenderas.
    >
-   >**Statisk** - Gör att du kan definiera exakta poängtal - inga fler procenttal, inga fler hemliga källor.
+   >**[!UICONTROL Static]** - Gör att du kan definiera exakta poängtal - inga fler procenttal, inga fler hemliga auktioner.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Redigera procentparenteserna efter dina önskemål och **Spara**.
+1. Redigera procentparenteserna efter dina önskemål och **[!UICONTROL Save]**.
 
    >[!TIP]
    >

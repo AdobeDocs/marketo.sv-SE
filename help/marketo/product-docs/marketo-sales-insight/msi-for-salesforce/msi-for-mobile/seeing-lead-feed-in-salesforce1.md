@@ -4,18 +4,18 @@ description: Se lead feed in Salesforce1 - Marketo Docs - produktdokumentation
 title: Se lead-feed i Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Se lead-feed i Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Visa lead-feed i [!DNL Salesforce1] {#seeing-lead-feed-in-salesforce}
 
 Ledningsmataren är en uppdaterad lista över intressanta händelser som har utförts av dina leads.
 
-1. Gå till **Marketo** i Salesforce1.
+1. Gå till området **Marketo** i [!DNL Salesforce1].
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tryck på **Leadfeed**.
+1. Tryck på **[!UICONTROL Lead Feed]**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -33,6 +33,6 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
 >[!MORELIKETHIS]
 >
->* [Intressanta stunder i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Skicka e-post och kampanjer och bevakningslistor från Marketo i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Bästa val i Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Intressanta stunder i [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Skicka Marketo-åtgärder för e-post och kampanj och bevakning i [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

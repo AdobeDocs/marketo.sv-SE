@@ -4,9 +4,9 @@ description: Dirigera om en Marketo-landningssida till en annan sida - Marketo D
 title: Dirigera om en Marketo-landningssida till en annan sida
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Om du någonsin uppdaterar en sidas URL och vill att den gamla URL:en ska funger
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Startsidor** under **Admin**.
+1. Klicka på **[!UICONTROL Admin]** under **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Klicka på **Ny** på fliken **Regler** och sedan på **Ny omdirigeringsregel**.
+1. Klicka på **[!UICONTROL Rules]** på fliken **[!UICONTROL New]** och sedan på **[!UICONTROL New Redirect Rule]**.
 
    ![](assets/two-1.png)
 
-1. Klicka på den första listrutan **Ursprunglig URL** och välj din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Klicka på den första listrutan **[!UICONTROL Original URL]** och välj din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -35,7 +35,7 @@ Om du någonsin uppdaterar en sidas URL och vill att den gamla URL:en ska funger
    >
    >Kom ihåg att du bara kan omdirigera URL:er som börjar med din Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Välj den landningssida som du vill omdirigera i det andra fältet **Ursprunglig URL** .
+1. Välj den landningssida som du vill omdirigera i det andra fältet **[!UICONTROL Original URL]**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +43,17 @@ Om du någonsin uppdaterar en sidas URL och vill att den gamla URL:en ska funger
    >
    >Du kan ange valfri URL-sökväg, även om sidan eller katalogen inte finns.
 
-1. Klicka på listrutan **Omdirigerings-URL** och markera sidan som du vill omdirigera besökare till.
+1. Klicka på listrutan **[!UICONTROL Redirect URL]** och markera sidan som du vill dirigera om besökare till.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Om du vill omdirigera till en webbsida utanför Marketo klickar du på **Använd icke-Marketo startsida**.
+   >Om du vill dirigera om till en webbsida utanför Marketo klickar du på **[!UICONTROL Use non-Marketo Landing Page]**.
 
    >[!MORELIKETHIS]
    >

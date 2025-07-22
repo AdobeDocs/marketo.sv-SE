@@ -3,21 +3,21 @@ description: Bästa val - Marketo Docs - produktdokumentation
 title: Bästa val
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Bästa val {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-Fliken Bästa val innehåller en lista med alla dina aktiva leads baserat på deras prioritet, beräknade med hjälp av trängsel och relativa poäng.
+Fliken [!UICONTROL Best Bets] innehåller en lista med alla dina aktiva leads baserat på deras prioritet, beräknat med hjälp av trängsel och relativa poäng.
 
 Genom att klicka på punktmenyn under åtgärdskolumnen kan du använda interaktionsalternativ som:
-* Skicka e-post till Marketo
-* Lägg till i Marketo Campaign
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
 
-Du kan också välja flera leads på fliken Bästa val och välja _Skicka Marketo-e-post_ eller _Lägg till i Marketo Campaign_.
+Du kan också välja flera leads på fliken [!DNL Best Bets] och välja _[!UICONTROL Send Marketo Email]_eller_[!UICONTROL Add to Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

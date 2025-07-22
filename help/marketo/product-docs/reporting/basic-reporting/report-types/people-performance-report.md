@@ -4,32 +4,32 @@ description: Prestandarapport - Marketo Docs - produktdokumentation
 title: Prestandarapport för människor
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
 # Prestandarapport för människor {#people-performance-report}
 
-Använd en rapport om personprestanda för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Använd en [!UICONTROL People Performance]-rapport för att mäta databastillväxt över tid. Du kan se hur många personer du har lagt till och när. Läs mer om människorna och utvärdera programmen. Gruppera resultaten efter person- eller företagsattribut, eller efter [segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Personprestanda** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **[!UICONTROL People Performance]** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **[!UICONTROL Report]**.
 
-1. Bra! Nu kan du utforska rapporten People Performance. Lär dig hur du får ut ännu mer av det i listan nedan.
+1. Bra! Nu kan du utforska din [!UICONTROL People Performance]-rapport. Lär dig hur du får ut ännu mer av det i listan nedan.
 
    >[!NOTE]
    >
-   >Som standard grupperas rapporter om personprestanda efter *Skapad* månad.
+   >Som standard grupperas [!UICONTROL People Performance] rapporter efter *[!UICONTROL Created At]* månad.
 
    ![](assets/one.png)
 
 ## The Power of People Performance Reports {#the-power-of-people-performance-reports}
 
-Prestandarapporter från människor är mycket kraftfulla. Genom att gruppera, filtrera och konfigurera dem ytterligare kan du lära dig mycket om personerna i din databas och om hur effektiva dina program är.
+[!UICONTROL People Performance] rapporter är mycket kraftfulla. Genom att gruppera, filtrera och konfigurera dem ytterligare kan du lära dig mycket om personerna i [!UICONTROL Database] och om hur effektiva dina program är.
 
 Du kan:
 

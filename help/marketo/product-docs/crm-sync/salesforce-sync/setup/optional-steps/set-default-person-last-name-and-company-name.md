@@ -4,16 +4,16 @@ description: Ange standardperson, efternamn och företagsnamn - Marketo Docs - p
 title: Ange standardpersonens efternamn och företagsnamn
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 # Ange standardpersonens efternamn och företagsnamn {#set-default-person-last-name-and-company-name}
 
-Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kontakter. Ofullständiga poster synkroniseras inte till Salesforce. Om du vill synkronisera partiella poster måste du ange standardvärden för Marketo som ska användas med Salesforce.
+[!DNL Salesforce] kräver (minimum) efternamn och företagsnamn för sina leads och kontakter. Ofullständiga poster synkroniseras inte till [!DNL Salesforce]. Om du vill synkronisera partiella poster måste du ange standardvärden för Marketo som ska användas med [!DNL Salesforce].
 
 1. Gå till **[!UICONTROL Admin]** och klicka på **[!DNL Salesforce]**.
 
@@ -29,6 +29,6 @@ Salesforce kräver (minimum) efternamn och företagsnamn för sina leads och kon
 
    >[!NOTE]
    >
-   >Marketo Engage tilldelar bara ett standardvärde när posten först synkroniseras med Salesforce, och bara om något av de obligatoriska fälten är tomt.
+   >Marketo Engage tilldelar bara ett standardvärde när posten först synkroniseras till Salesforce, och bara om något av de obligatoriska fälten är tomt.
 
 Och det där! Varje gång en person saknar efternamn och/eller företagsnamn lägger Marketo till standardvärdet när posten synkroniseras.

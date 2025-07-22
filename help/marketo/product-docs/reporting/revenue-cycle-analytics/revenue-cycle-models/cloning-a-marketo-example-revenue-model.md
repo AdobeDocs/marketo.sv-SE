@@ -4,9 +4,9 @@ description: Klona en Marketo Example Revenue Model - Marketo Docs - produktdoku
 title: Klona en Marketo exempelintäktsmodell
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo har exempel på intäktsmodeller som kan inspirera dig. Klona modellerna och gör dem till dina egna. Så här:
 
-1. Gå till området **Analyser**.
+1. Gå till området **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Välj mappen **Inkomstcykel, Modeler** och klicka på **Marketo-exempel**.
+1. Välj mappen **[!UICONTROL Revenue Cycle Modeler]** och klicka på **[!UICONTROL Marketo Examples]**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ Marketo har exempel på intäktsmodeller som kan inspirera dig. Klona modellerna
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Välj **Klonmodell** i Modellåtgärder.
+1. Välj [!UICONTROL Model Actions] från **[!UICONTROL Clone Model]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Ange ett **namn** och klicka på **Klona**.
+1. Ange en **[!UICONTROL Name]** och klicka på **[!UICONTROL Clone]**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

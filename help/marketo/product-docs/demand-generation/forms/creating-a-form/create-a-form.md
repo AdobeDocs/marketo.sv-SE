@@ -4,9 +4,9 @@ description: Skapa ett formulär - Marketo Docs - produktdokumentation
 title: Skapa ett formulär
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 >
 >Läs vad Marketo gör för att [skydda dina formulär](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
    ![](assets/programseelct.png)
 
-1. Klicka på **Ny** **Lokal** **Resurs** under **Ny**.
+1. Klicka på **[!UICONTROL New]** under **[!UICONTROL New Local Asset]**.
 
    ![](assets/newlocalasset.png)
 
-1. Välj **Formulär**.
+1. Välj **[!UICONTROL Form]**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Ange ett **namn** och klicka på **Skapa**.
+1. Ange ett formulär **[!UICONTROL Name]** och klicka på **[!UICONTROL Create]**.
 
    ![](assets/newformwithhands.png)
 

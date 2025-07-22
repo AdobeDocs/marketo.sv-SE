@@ -1,28 +1,28 @@
 ---
-description: Konfigurera detaljanpassning av Salesforce-aktivitet - Marketo Docs - produktdokumentation
-title: Konfigurera detaljanpassning av Salesforce-aktivitet
+description: Konfigurera Salesforce Activity Detail Customization - Marketo Docs - Produktdokumentation
+title: Konfigurera anpassning av aktivitetsinformation för Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 0%
+source-wordcount: '667'
+ht-degree: 1%
 
 ---
 
-# Konfigurera detaljanpassning av Salesforce-aktivitet {#configure-salesforce-activity-detail-customization}
+# Konfigurera anpassning av aktivitetsinformation för [!DNL Salesforce] {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* Salesforce och Marketo Sales Connect [måste vara anslutna](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* [!DNL Salesforce] och [!DNL Marketo Sales Connect] [måste vara anslutna](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* E-postaktivitet för loggning via API [måste aktiveras](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-Med anpassning av aktivitetsdetalj kan administratörer konfigurera den information som ska logga in i Salesforce-aktivitetsfältet - Ämne när en Sales Connect-aktivitet/påminnelseaktivitet synkroniseras med Salesforce.
+Med anpassning av aktivitetsdetalj kan administratörer konfigurera informationen som loggar in i Salesforce Task - Subject Field när en [!DNL Sales Connect]-aktivitet/påminnelseaktivitet synkroniseras till Salesforce.
 
 >[!NOTE]
 >
->* Uppdateringar som görs i ämnesfältet i Sales Connect för en påminnelseaktivitet visas i motsvarande Salesforce-uppgifts ämnesfält, om du använder det dynamiska fältet `{{activity_subject}}` i din anpassning av aktivitetsdetaljer.
->* Radbrytningar stöds inte vid loggning av information till Salesforce-objektfältet. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsaktivitet uppdateras.
+>* Uppdateringar som görs i ämnesfältet i [!DNL Sales Connect] för en påminnelseuppgift återspeglas i den motsvarande [!DNL Salesforce]-uppgiftens ämnesfält, om du använder det dynamiska `{{activity_subject}}`-fältet i anpassning av aktivitetsinformation.
+>* Radbrytningar stöds inte vid loggning av information till ämnesfältet [!DNL Salesforce]. Eventuella radbrytningar i redigeraren för anpassning av aktivitetsinformation tas bort när en ny rubrik för en försäljningsaktivitet uppdateras.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -47,20 +47,20 @@ Funktionen kan användas för att låsa upp följande fördelar:
 
 * Genom att anpassa vilken information som visas i ämnesfältet är det enkelt att skanna aktivitetsinformationen för försäljning i Salesforce.
 * Administratörer kan tagga ämnesfältet med en unik identifierare, t.ex.&quot;Mkto_sales&quot;, så att aktiviteter från Sales Connect enkelt kan identifieras och skiljas från andra e-postaktiviteter, samtalsaktiviteter och uppgifter.
-* Minska behovet av anpassade aktivitetsfält. Salesforce tillämpar begränsningar för antalet anpassade aktivitetsfält, som kan begränsa vilka data som är tillgängliga för användning i rapporter. Genom att använda dynamiska aktivitetsfält för att lägga till nyckeldata på ämnesraden kan du minska antalet anpassade aktivitetsfält som du behöver skapa i Salesforce-instansen.
+* Minska behovet av anpassade aktivitetsfält. Salesforce begränsar antalet anpassade aktivitetsfält, vilket kan begränsa vilka data som är tillgängliga för rapporter. Genom att använda dynamiska aktivitetsfält för att lägga till nyckeldata på ämnesraden kan du minska antalet anpassade aktivitetsfält som du behöver skapa i din Salesforce-instans.
 * Ämnesfältet med aktiviteter och uppgifter följer ett konsekvent mönster som definieras av Sales Connect Admin.
 
 >[!NOTE]
 >
->Om du loggar e-postsvar som aktiviteter till Salesforce kommer de inte att använda inställningarna för anpassning av aktivitetsinformation i Salesforce. I stället loggar de som&quot;Svara: E-postämne&quot;.
+>Om du loggar e-postsvar som aktiviteter till [!DNL Salesforce] kommer de inte att använda inställningarna för anpassning av aktivitetsinformation i [!DNL Salesforce] . I stället loggar de som&quot;Svara: E-postämne&quot;.
 
 ## Dynamiska aktivitetsfält som stöds {#activity-dynamic-fields-supported}
 
-Dynamiska aktivitetsfält refererar till information om dina försäljningsaktiviteter för att fylla i data. Idag kan de användas med anpassning av aktivitetsinformation för Salesforce.
+Dynamiska aktivitetsfält refererar till information om dina försäljningsaktiviteter för att fylla i data. I dag kan de användas med anpassning av aktivitetsinformation för [!DNL Salesforce].
 
 >[!NOTE]
 >
->Om det inte finns något värde för att fylla i det dynamiska fältet för en viss aktivitet/uppgift fylls inga data i för det dynamiska fältet när Salesforce-aktiviteten - Ämnesfältet uppdateras.
+>Om det inte finns något värde för att fylla i det dynamiska fältet för en viss aktivitet/aktivitet fylls inga data i för det dynamiska fältet när [!DNL Salesforce]-aktivitetsfältet - Ämne uppdateras.
 
 <table>
  <tr>
@@ -99,35 +99,35 @@ Dynamiska aktivitetsfält refererar till information om dina försäljningsaktiv
  </tr>
 </table>
 
-## Konfigurera detaljanpassning av Salesforce-aktivitet {#configuring-salesforce-activity-detail-customization}
+## Konfigurera anpassning av aktivitetsinformation för Salesforce {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
 >**Administratörsbehörighet krävs.**
 
-När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som är mest relevanta för försäljningen när du granskar aktivitetshistorik i Salesforce.
+När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som är mest relevanta för försäljningen när du granskar aktivitetshistorik i [!DNL Salesforce].
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klicka på **Salesforce**.
+1. Klicka på **[!UICONTROL Salesforce]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klicka på **Synkronisera inställningar**.
+1. Klicka på **[!UICONTROL Sync Settings]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. I redigeraren Anpassa aktivitetsinformation lägger du till eventuell ledig text. Den text du lägger till är icke-dynamisk och förblir oförändrad för ämnesfältet för alla uppgifter som synkroniseras med Salesforce.
+1. I redigeraren Anpassa aktivitetsinformation lägger du till eventuell ledig text. Den text du lägger till är icke-dynamisk och förblir oförändrad för ämnesfältet för alla aktiviteter som synkroniseras med [!DNL Salesforce].
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
    >[!TIP]
    >
-   >Även om det inte är obligatoriskt att radbryta tillagd text inom raka hakparenteser kan det vara lättare för en del att skilja mellan data när de fylls i i ett ämnesfält i Salesforce. Exempel: `[Sales Connect] - {{Activity_type}}`
+   >Även om det inte är obligatoriskt att radbryta text inom raka parenteser kan det vara lättare för en del att skilja mellan data när de fylls i i ett ämnesfält i Salesforce. Exempel: `[Sales Connect] - {{Activity_type}}`
 
-1. Lägg till ytterligare dynamiska fält som du vill ha genom att klicka på knappen **Lägg till dynamiskt fält** .
+1. Lägg till ytterligare dynamiska fält som du vill ha genom att klicka på knappen **[!UICONTROL Add Dynamic Field]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,16 +135,16 @@ När du konfigurerar din aktivitetsinformation bör du tänka på vilka data som
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->Salesforce har en begränsning på 255 tecken. Om din aktivitetsinformation överstiger det, kommer den att trunkeras för att säkerställa att informationen lagras i Salesforce-objektfältet.
+>[!DNL Salesforce] har en begränsning på 255 tecken. Om din aktivitetsinformation överstiger det, kommer den att trunkeras för att säkerställa att informationen lagras i ämnesfältet [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >
 >* [Synkronisera inställningar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Synkronisering av påminnelseaktivitet med Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [Anpassa försäljningsanslutning för CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Synkronisering av påminnelseaktivitet med [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect] Anpassning för CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

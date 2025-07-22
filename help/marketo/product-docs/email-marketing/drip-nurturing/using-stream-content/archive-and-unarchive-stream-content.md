@@ -4,9 +4,9 @@ description: Arkivera och arkivera ströminnehåll - Marketo Docs - Produktdokum
 title: Arkivera och arkivera ströminnehåll
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
 ## Arkivera ströminnehåll {#archive-stream-content}
 
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
+1. Välj ditt engagemangsprogram och gå till fliken **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan på **Arkiv** under kugghjulsikonen.
+1. Håll muspekaren över e-postmeddelandet som du vill arkivera och klicka sedan på **[!UICONTROL Archive]** under kugghjulsikonen.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,15 +33,15 @@ Om du inte längre vill använda innehåll i en ström kan du antingen [ta bort]
 
 ## Oarkiverat ströminnehåll {#unarchive-stream-content}
 
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
+1. Välj ditt engagemangsprogram och gå till fliken **[!UICONTROL Streams]**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Klicka på kugghjulsikonen för strömmen och klicka sedan på **Visa arkiverat innehåll**.
+1. Klicka på kugghjulsikonen för strömmen och klicka sedan på **[!UICONTROL Show archived content]**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nu när du kan se det arkiverade innehållet klickar du på kugghjulsikonen för det innehåll du vill avarkivera och sedan på **Oarkiv**.
+1. Nu när du kan se det arkiverade innehållet klickar du på kugghjulsikonen för det innehåll du vill avarkivera och sedan på **[!UICONTROL Unarchive]**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

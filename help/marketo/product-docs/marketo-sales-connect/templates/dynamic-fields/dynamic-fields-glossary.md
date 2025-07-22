@@ -4,18 +4,18 @@ description: Dynamiska fält - ordlista - Marketo Docs - produktdokumentation
 title: Ordlista för dynamiska fält
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # Ordlista för dynamiska fält {#dynamic-fields-glossary}
 
-När du skapar en mall i Sales Connect rekommenderar vi alltid att du integrerar dynamiska fält med knappen **MSE Dynamic Fields** .
+När du skapar en mall i [!DNL Sales Connect] rekommenderar vi alltid att du integrerar dynamiska fält med knappen **[!UICONTROL MSE Dynamic Fields]** .
 
-Det här verktyget används för att `auto-personalize your email` och sparar dig massor av tid av `pulling information from the People page`.
+Det här verktyget används för att `auto-personalize your email` och sparar dig massor av tid av `pulling information from the [!UICONTROL People] page`.
 
 | Dynamiskt fält | Exempel på vad som visas i ditt e-postmeddelande |
 |---|---|

@@ -4,16 +4,16 @@ description: Kontopoäng - Marketo Docs - produktdokumentation
 title: Kontopoäng
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# Kontopoäng {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-Kontobedömning är en viktig del av kontohantering. Det hjälper er att fastställa nivån på engagemanget i era konton.
+Kontobedömning är en viktig del av [!UICONTROL Target Account Management]. Det hjälper er att fastställa nivån på engagemanget i era konton.
 
 ## Vad är kontobedömning? {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 När du har konfigurerat lead-poängen fortsätter du genom att följa stegen nedan.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/account-score-1.png)
 
-1. Klicka på **Hantering av målkonto**.
+1. Klicka på **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-score-2.png)
 
-1. Klicka på **Redigera** i bedömningsfält.
+1. Klicka på [!UICONTROL Scoring Fields] i **[!UICONTROL Edit]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Du kan välja upp till **fem** fält för att beräkna kontouppsättningen.
+   >Du kan välja upp till **fem** fält för att beräkna [!UICONTROL Account Score].
 
-1. Ange namnet på kontouppsättningen, klicka på listrutan **Välj personpoäng** och välj motsvarande poäng.
+1. Ange namnet [!UICONTROL Account Score], klicka på listrutan **[!UICONTROL Select Person Score]** och välj motsvarande poäng.
 
    ![](assets/account-score-4.png)
 
-1. Klicka på **+Lägg till** för att lägga till fler bakgrundsmusik.
+1. Klicka på **[!UICONTROL +Add]** om du vill lägga till fler bakgrundsmusik.
 
    ![](assets/account-score-5.png)
 
-1. Lägg till alla önskade bakgrundsmusik. Klicka på **Spara** när du är klar.
+1. Lägg till alla önskade bakgrundsmusik. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/account-score-6.png)

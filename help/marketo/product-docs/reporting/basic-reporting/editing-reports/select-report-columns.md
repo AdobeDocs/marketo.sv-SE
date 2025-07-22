@@ -4,9 +4,9 @@ description: Välj Rapportkolumner - Marketo Docs - produktdokumentation
 title: Välj rapportkolumner
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan välja vilka kolumner som är och inte är inkluderade i rapporten.
 
-1. Gå till **Analytics** (eller **Marketing Activity**).
+1. Gå till området **[!UICONTROL Analytics]** (eller **[!UICONTROL Marketing Activities]**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Du kan välja vilka kolumner som är och inte är inkluderade i rapporten.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klicka på fliken **Rapport**, klicka på en kolumnrubrik, välj **Kolumner** och välj sedan de kolumner som ska inkluderas.
+1. Klicka på fliken **[!UICONTROL Report]**, klicka på en kolumnrubrik och välj **[!UICONTROL Columns]**. Välj sedan de kolumner som ska inkluderas.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

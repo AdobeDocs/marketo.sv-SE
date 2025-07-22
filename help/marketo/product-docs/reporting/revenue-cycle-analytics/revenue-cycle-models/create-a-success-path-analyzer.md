@@ -4,9 +4,9 @@ description: Skapa en Success Path Analyzer - Marketo Docs - produktdokumentatio
 title: Skapa en lyckad sökvägsanalys
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ Få en visuell representation av hastighet och flöde genom er intäktscykelmode
 >
 >[Skapa en ny intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Klicka på rutan **Analyser**.
+1. Klicka på rutan **[!UICONTROL Analytics]**.
 
    ![](assets/one.png)
 
-1. Klicka på ikonen **Success Path Analyzer** .
+1. Klicka på ikonen **[!UICONTROL Success Path Analyzer]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Om du får en varning om att inga data hittades i den angivna tidsramen klickar du bara på **Stäng** för att ändra tidsramen. Om du inte uppmanas att göra det men vill ändra tidsramen går du till **Inställningar** och dubbelklickar på **Tidsram**.
+   >Om du får en varning om att inga data hittades i den angivna tidsramen klickar du bara på **[!UICONTROL Close]** för att ändra tidsramen. Om du inte uppmanas att göra det men vill ändra tidsramen går du till **[!UICONTROL Setup]** och dubbelklickar på **[!UICONTROL Time Frame]**.
 
-1. Om du inte har några data eller om du ändrar tidsramen väljer du en i listrutan och klickar på Spara.
+1. Om du inte har några data eller om du ändrar tidsramen väljer du en i listrutan och klickar på **[!UICONTROL Save]**.
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Om du vill markera ett visst intervall väljer du **Egen** och använder fälten **Från** och **Till**.
+   >Om du vill markera ett visst intervall väljer du **[!UICONTROL Custom]** och använder fälten **[!UICONTROL From]** och **[!UICONTROL To]**.
 
-1. Om du har fler än en intäktscykelmodell väljer du den du vill ha på fliken **Inställningar**.
+1. Om du har fler än en intäktscykelmodell väljer du den du vill ha på fliken **[!UICONTROL Setup]**.
 
    ![](assets/four.png)
 
-1. Välj lämplig modell och klicka på **Använd**.
+1. Välj lämplig modell och klicka på **[!UICONTROL Apply]**.
 
    ![](assets/five.png)
 
-1. Klicka på fliken **Success Path Analyzer**.
+1. Klicka på fliken **[!UICONTROL Success Path Analyzer]**.
 
    ![](assets/success-tab.png)
 
@@ -55,7 +55,7 @@ Nu kan du utforska hur du rör dig mellan scenerna!
 
 >[!TIP]
 >
->Vill du spara din rapport? Klicka på listrutan **Analysåtgärder** och välj **Spara som**.
+>Vill du spara din rapport? Klicka på listrutan **[!UICONTROL Analyzer Actions]** och välj **[!UICONTROL Save As]**.
 
 >[!MORELIKETHIS]
 >

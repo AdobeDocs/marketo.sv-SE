@@ -3,7 +3,7 @@ description: Förfallotid för lokala tillgångar - Marketo Docs - produktdokume
 title: Förfallotid för lokal resurs
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Innan du kan schemalägga förfallodatum för en mediefil måste din Marketo-rol
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **[!UICONTROL Users & Roles]** i området [!UICONTROL Admin].
+1. Klicka på [!UICONTROL Admin] i området **[!UICONTROL Users & Roles]**.
 
    ![](assets/local-asset-expiration-1.png)
 
@@ -36,11 +36,11 @@ Innan du kan schemalägga förfallodatum för en mediefil måste din Marketo-rol
 
 ## Ange ett förfallodatum {#set-an-expiration-date}
 
-1. Högerklicka på önskat program och välj **[!UICONTROL Set Local Asset Expiration]**.
+1. Högerklicka på önskat program och välj **[!UICONTROL Set local asset expiration]**.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Kontrollera de mediefiler du vill ange ett förfallodatum för och klicka sedan på **[!UICONTROL Set Expiration]**.
+1. Kontrollera de mediefiler du vill ange ett förfallodatum för och klicka sedan på **[!UICONTROL Set expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -54,13 +54,13 @@ Innan du kan schemalägga förfallodatum för en mediefil måste din Marketo-rol
 
 >[!NOTE]
 >
->* Om du vill redigera ett befintligt förfallodatum kontrollerar du bara resurserna och klickar på **[!UICONTROL Set Expiration]**.
+>* Om du vill redigera ett befintligt förfallodatum kontrollerar du bara resurserna och klickar på **[!UICONTROL Set expiration]**.
 >* När en resurs har gått ut visas den inte längre i rutnätet Förfallodatum. Rutnätet visar bara publicerade landningssidor, aktiva utlösarkampanjer och återkommande batchkampanjer.
 >* Schemalagda förfallodatum tas bort om resursen flyttas till ett annat program.
 
 ## Ta bort ett förfallodatum {#remove-an-expiration-date}
 
-1. Om du vill ta bort ett förfallodatum kontrollerar du resurserna och klickar på **[!UICONTROL Remove Expiration]**.
+1. Om du vill ta bort ett förfallodatum kontrollerar du resurserna och klickar på **[!UICONTROL Remove expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 

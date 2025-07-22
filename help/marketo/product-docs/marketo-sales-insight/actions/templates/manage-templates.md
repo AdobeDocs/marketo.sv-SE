@@ -3,10 +3,10 @@ description: Hantera mallar - Marketo Docs - produktdokumentation
 title: Hantera mallar
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ## Skapa en mall {#create-a-new-template}
 
-1. Gå till fliken **Mallar**.
+1. Navigera till fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-1.png)
 
-1. Klicka på **Skapa mall**.
+1. Klicka på **[!UICONTROL Create Template]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Välj **Namn** och **Kategori** för din e-postmall och klicka sedan på **Skapa**.
+1. Välj **[!UICONTROL Name]** och **[!UICONTROL Category]** som e-postmall och klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/manage-templates-3.png)
 
-1. Skapa en ämnesrad för e-postmeddelandet i mallredigeraren och skriv önskat meddelande. Använda redigeringsverktygen (teckensnitt, textstorlek osv.) för att anpassa utseendet. Klicka på **Spara** för att slutföra ändringarna.
+1. Skapa en ämnesrad för e-postmeddelandet i mallredigeraren och skriv önskat meddelande. Använd redigeringsverktygen (teckensnitt, textstorlek osv.) för att anpassa utseendet. Klicka på **[!UICONTROL Save]** för att slutföra ändringarna.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Skriv alltid text direkt i mallen eller kopiera från en vanlig textredigerare (t.ex. Anteckningar eller TextEdit). Om du kopierar och klistrar in från en RTF-redigerare (t.ex. MS Word) kan det leda till formateringsfel.
+>Skriv alltid text direkt i mallen eller kopiera från en vanlig textredigerare (till exempel [!DNL Notepad] eller [!DNL TextEdit]). Om du kopierar och klistrar in från en textredigerare (t.ex. MS [!DNL Word]) kan det orsaka formateringsfel.
 
 ## Visa mallinformation {#view-template-details}
 
@@ -42,19 +42,19 @@ Området Mallinformation innehåller flera flikar.
 
 <table>
  <tr>
-  <td><strong>Mall</strong></td>
+  <td><strong>[!UICONTROL Template]</strong></td>
   <td>Granska och redigera, ange villkor för att göra mallen till en rekommenderad mall, lägg till anteckningar</td>
  </tr>
  <tr>
-  <td><strong>Analyser</strong></td>
+  <td><strong>Analytics </strong></td>
   <td>Granska engagemangsanalyser för mallen. Utför en filtrerad sökning.</td>
  </tr>
  <tr>
-  <td><strong>E-post</strong></td>
+  <td><strong>[!UICONTROL Emails]</strong></td>
   <td>Visa alla e-postmeddelanden som har skickats med den här mallen. Utför en filtrerad sökning.</td>
  </tr>
  <tr>
-  <td><strong>Kampanjer</strong></td>
+  <td><strong>[!UICONTROL Campaigns]</strong></td>
   <td>Se vilka kampanjer mallen används i.</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ Området Mallinformation innehåller flera flikar.
 
 Om du använder ett av våra teamkonton är alla dina mallar fortfarande privata som standard.
 
-1. Gå till fliken **Mallar**.
+1. Navigera till fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Om du använder ett av våra teamkonton är alla dina mallar fortfarande privata
 
    ![](assets/manage-templates-6.png)
 
-1. Klicka på knappen **Dela**.
+1. Klicka på knappen **[!UICONTROL Share]**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Mallar som har delats med dig visas under rubriken **Teammallar** till vänster på sidan Mallar. Team är bara tillgängliga för Premium-användare.
+   >Mallar som har delats med dig visas under rubriken **[!UICONTROL Team Templates]** till vänster på sidan [!UICONTROL Templates]. Team är bara tillgängliga för Premium-användare.
 
-1. Klicka på listrutan Dela med och välj det/de team som du vill dela med.
+1. Klicka på listrutan [!UICONTROL Share With] och välj det/de team som du vill dela.
 
    ![](assets/manage-templates-8.png)
 
-1. Du kan välja att behålla mallen i den aktuella kategorin eller flytta den till en annan. I det här exemplet behåller vi det i den nuvarande. Klicka på **Dela** när du är klar.
+1. Du kan välja att behålla mallen i den aktuella kategorin eller flytta den till en annan. I det här exemplet behåller vi det i den nuvarande. Klicka på **[!UICONTROL Share]** när du är klar.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Om du använder ett av våra teamkonton är alla dina mallar fortfarande privata
 
 Du kan lägga till mallar från vilken kategori som helst i favoritlistan. Då genereras automatiskt en ny kategori högst upp i listan så att du snabbt kommer åt de mallar du använder mest.
 
-1. Gå till fliken **Mallar**.
+1. Navigera till fliken **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Du kan lägga till mallar från vilken kategori som helst i favoritlistan. Då g
 
 ## Anpassa mallvy {#customize-template-view}
 
-I listrutan **Visa** kan du välja att visa: alla mallar, dina mallar, favoritmallar, delade mallar, mallar som inte delas eller oanvända mallar (mallar som inte har använts de senaste 90 dagarna).
+I listrutan **[!UICONTROL View]** kan du välja att visa: alla mallar, dina mallar, favoritmallar, delade mallar, mallar som inte delas eller oanvända mallar (mallar som inte har använts de senaste 90 dagarna).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Arkivera mallar för att hålla ert säljmaterial välorganiserat och fokuserat 
 
    ![](assets/manage-templates-14.png)
 
-1. Klicka på **Arkiv**.
+1. Klicka på **[!UICONTROL Archive]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Bekräfta genom att klicka på **Arkiv**.
+1. Bekräfta genom att klicka på **[!UICONTROL Archive]**.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Följ stegen nedan för att ta bort en mall.
 
    ![](assets/manage-templates-17.png)
 
-1. Klicka på **Ta bort**.
+1. Klicka på **[!UICONTROL Delete]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/manage-templates-19.png)

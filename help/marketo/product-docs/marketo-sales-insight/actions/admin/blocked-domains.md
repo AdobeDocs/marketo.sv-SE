@@ -3,9 +3,9 @@ description: Blockerade domäner - Marketo Docs - produktdokumentation
 title: Blockerade domäner
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Hjälp säljteamet att nå framgång genom att förhindra dem från att oavsiktl
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i webbprogrammet och välj **[!UICONTROL Settings]**.
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicka på **Allmänt** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL General]**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Ange den domän som du vill blockera och klicka på **Blockera domän**.
+1. Ange den domän som du vill blockera och klicka på **[!UICONTROL Block Domain]**.
 
    ![](assets/blocked-domains-3.png)
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 3571844
 description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Produktdokumentation
-title: Microsoft Dynamics Sync - säljprojektssynkronisering
+title: Microsoft Dynamics Sync -Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync: Affärsmöjlighet synkroniserad {#microsoft-dynamics-sync-opportunity-sync}
+# [!DNL Microsoft Dynamics] Synkronisering: Affärsmöjlighet synkroniserad {#microsoft-dynamics-sync-opportunity-sync}
 
-Synkroniseringen mellan Marketo Engage och Dynamics är superkraftfull. Här är all information för affärsmöjlighetssynkronisering.
+Synkroniseringen mellan Marketo och [!DNL Dynamics] är superkraftfull. Här är all information för affärsmöjlighetssynkronisering:
 
 ## Hur synkroniseras informationen om affärsmöjligheterna mellan de två systemen? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-Affärsmöjligheterna synkroniseras på ett sätt - Dynamics till Marketo. Om du ändrar en affärsmöjlighet i Dynamics återspeglas uppdateringen i Marketo.
+Möjlighetssynkroniseringen är ett sätt - [!DNL Dynamics] till Marketo. Om du ändrar en affärsmöjlighet i [!DNL Dynamics] återspeglas uppdateringen i Marketo.
 
-## Kan jag skapa en affärsmöjlighet i Dynamics med Marketo? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## Kan jag skapa en affärsmöjlighet i [!DNL Dynamics] med Marketo? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-Nej, du måste skapa affärsmöjligheten i Dynamics och den synkroniseras automatiskt till Marketo.
+Nej, du måste skapa affärsmöjligheten i [!DNL Dynamics] och den synkroniseras automatiskt till Marketo.
 
 ## Vilka fält synkroniseras med Marketo? {#what-fields-will-sync-to-marketo}
 

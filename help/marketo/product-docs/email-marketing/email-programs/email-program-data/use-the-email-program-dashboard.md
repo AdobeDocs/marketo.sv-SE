@@ -4,9 +4,9 @@ description: Använd kontrollpanelen för e-postprogram - Marketo Docs - produkt
 title: Använda kontrollpanelen för e-postprogram
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,9 @@ Resten av informationen visar Öppna, Klickningar, Klick/Öppna förhållande oc
 >
 >**Definition**
 >
->**Öppnar** räknas när e-postmottagaren hämtar e-postbilderna, som innehåller en spårningspixel som infogats av Marketo. Om mottagaren visar e-postmeddelandet men väljer att inte hämta bilderna räknas det inte som en öppen fil. Om bilderna läses in i mottagarens förhandsgranskningsfönster räknas det vanligtvis som en öppen bild, men det varierar beroende på e-postklienten.
+>**[!UICONTROL Opens]** räknas när e-postmottagaren hämtar e-postbilderna, som innehåller en spårningspixel som infogats av Marketo. Om mottagaren visar e-postmeddelandet men väljer att inte hämta bilderna räknas det inte som en öppen fil. Om bilderna läses in i mottagarens förhandsgranskningsfönster räknas det vanligtvis som en öppen bild, men det varierar beroende på e-postklienten.
 >
->**Klicka för att öppna** mäter procentandelen e-postmeddelanden som både öppnades och som hade en länk klickad i e-postmeddelandet. Vi tar antalet unika klick dividerat med antalet unika öppningar och multiplicerar med 100 för att visa det som en procentandel.
+>**[!UICONTROL Click to Open]** mäter procentandelen e-postmeddelanden som både öppnades och som hade en länk klickad i e-postmeddelandet. Vi tar antalet unika klick dividerat med antalet unika öppningar och multiplicerar med 100 för att visa det som en procentandel.
 
 ## Uppdatera instrumentpanel {#refresh-dashboard}
 

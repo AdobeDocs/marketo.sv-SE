@@ -4,18 +4,18 @@ description: Arkivmallar - Marketo Docs - produktdokumentation
 title: Arkivmallar
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Arkivmallar {#archive-templates}
 
-Arkivera innehåll för att rensa upp ditt säljinnehållskonto utan att förlora några malldata.
+Arkivera innehåll för att rensa ditt [!DNL Sales Content]-konto utan att förlora några malldata.
 
-Markera rutan bredvid en mall och klicka på **Arkivera**.
+Markera rutan bredvid en mall och klicka på **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Lägg till ett formulär på en guidad landningssida - Marketo Docs
 title: Lägga till ett formulär på en landningssida med stödlinjer
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 >
 >[Skapa en guidad landningssida](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Hitta och välj landningssidan och klicka på **Redigera utkast**.
+1. Hitta och välj din landningssida och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ Blankett, möt landningssidan. Landningssida, möt formulär.
 
 1. Det finns tre alternativ när du väljer en uppföljningssida:
 
-   * Landningssida - välj en Marketo-landningssida
-   * Extern URL - välj en URL
-   * Formulärdefinierat - använd de inställningar som har definierats på formulärnivå
+   * **[!UICONTROL Landing Page]** - välj en Marketo-landningssida
+   * **[!UICONTROL External URL]** - välj den URL du vill använda
+   * **[!UICONTROL Form Defined]** - använd inställningarna som definierats på formulärnivå
 
    >[!NOTE]
    >
    >Uppföljningssidan är den sida som visas när de skickar formuläret.
 
-1. I det här exemplet använder vi Formulärdefinierad. Klicka på **Infoga**.
+1. I det här exemplet använder vi [!UICONTROL Form Defined]. Klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

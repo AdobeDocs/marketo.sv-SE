@@ -4,16 +4,16 @@ description: Understanding Send Options - Marketo Docs - Product Documentation
 title: Förstå sändningsalternativ
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
 # Förstå sändningsalternativ {#understanding-send-options}
 
-När du skapar en kampanj har du flera alternativ för hur e-poststegen skapas i Sales Connect. Och beroende på var e-postmeddelandet hamnar i din kampanj skiljer sig även alternativen åt.
+När du skapar en kampanj har du flera alternativ för hur e-poststegen skapas i [!DNL Sales Connect]. Och beroende på var e-postmeddelandet hamnar i din kampanj skiljer sig även alternativen åt.
 
 Om det är ditt första steg och den första dagen i din kampanj har du följande alternativ:
 
@@ -30,11 +30,11 @@ Om det är ditt första steg och den första dagen i din kampanj har du följand
 
 **Skapa en aktivitet. Jag skickar det här e-postmeddelandet själv**
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
+* Det här alternativet skapar en [!UICONTROL Email Task] (och synkroniserar till [!DNL Salesforce]) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer vi att placera dessa uppgifter i kö i kommandocentralen och liveflödet när du startar Campaign. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.
-   * Om du öppnar den här uppgiften i Gmail eller Outlook öppnas ett fönster för inbyggda dispositioner där kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer fylls i dynamiskt.
+   * Om du öppnar den här uppgiften i [!DNL Gmail] eller [!DNL Outlook] öppnas ett fönster för inbyggda dispositioner där kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer fylls i dynamiskt.
 
 För efterföljande dagar/steg i din kampanj finns följande alternativ:
 
@@ -54,11 +54,11 @@ För efterföljande dagar/steg i din kampanj finns följande alternativ:
 
 **Skapa en aktivitet. Jag skickar det här e-postmeddelandet själv**
 
-* Med det här alternativet skapas en e-postaktivitet (och synkroniseras till Salesforce) som du kan skicka när du vill.
+* Det här alternativet skapar en [!UICONTROL Email Task] (och synkroniserar till [!DNL Salesforce]) som du kan skicka när du vill.
 * När du har valt det här alternativet kommer Tout att ställa de här uppgifterna i kö när du startar Campaign i kommandocentralen och liveflödet. Du kan sedan anpassa och skicka (eller schemalägga) varje e-postmeddelande innan det skickas ut.
 
    * Om du öppnar den här uppgiften i webbprogrammet öppnas ett dispositionsfönster med kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer.
-   * Om du öppnar den här uppgiften i Gmail eller Outlook öppnas ett fönster för inbyggda dispositioner där kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer fylls i dynamiskt.
+   * Om du öppnar den här uppgiften i [!DNL Gmail] eller [!DNL Outlook] öppnas ett fönster för inbyggda dispositioner där kontaktens e-postadress, ämnesraden i ditt e-postmeddelande och den mall du väljer fylls i dynamiskt.
 
 **Koppla det här e-postmeddelandet till föregående e-postmeddelande**
 

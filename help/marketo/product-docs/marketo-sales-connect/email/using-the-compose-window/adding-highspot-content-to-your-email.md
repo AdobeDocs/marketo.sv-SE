@@ -4,34 +4,34 @@ description: Lägga till högdagerinnehåll i ditt e-postmeddelande - Marketo Do
 title: Lägga till högdagerinnehåll i e-postmeddelandet
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# Lägga till högdagerinnehåll i e-postmeddelandet {#adding-highspot-content-to-your-email}
+# Lägger till [!DNL Highspot]-innehåll i din e-post {#adding-highspot-content-to-your-email}
 
-Om du är kund hos Highspot kan du enkelt infoga Highspot-innehåll i dina Sales Connect-e-postmeddelanden.
+Om du är [!DNL Highspot]-kund kan du enkelt infoga [!DNL Highspot]-innehåll i dina [!DNL Sales Connect]-e-postmeddelanden.
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/one-5.png)
 
-1. Fyll i fältet Till och ange ett ämne.
+1. Fyll i fältet [!UICONTROL To] och ange en [!UICONTROL Subject].
 
    ![](assets/two-5.png)
 
-1. Klicka på den punkt i e-postmeddelandet där du vill infoga det markerade innehållet. Klicka på pilen i listrutan (bredvid ikonen för bifogad fil) och välj **Högdager**.
+1. Klicka på den plats i e-postmeddelandet där du vill att [!DNL Highspot]-innehållet ska infogas. Klicka på pilen i listrutan (bredvid ikonen för bifogade filer) och välj **[!UICONTROL Highspot]**.
 
    ![](assets/three-5.png)
 
-1. Logga in på ditt Highspot-konto.
+1. Logga in på ditt [!DNL Highspot]-konto.
 
    ![](assets/four-5.png)
 
-1. Markera önskat innehåll och klicka på knappen **Lägg till innehåll** .
+1. Markera önskat innehåll och klicka på knappen **[!UICONTROL Add Content]**.
 
    ![](assets/five-3.png)
 

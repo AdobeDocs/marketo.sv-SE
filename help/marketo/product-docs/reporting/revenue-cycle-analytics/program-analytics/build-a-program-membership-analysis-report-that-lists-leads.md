@@ -4,9 +4,9 @@ description: Skapa en analysrapport för programmedlemskap som listar leads - Ma
 title: Skapa en analysrapport för programmedlemskap som listar leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ Följ de här stegen för att skapa en analysrapport för programmedlemskap som 
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-1. Starta Intresseutforskaren.
+1. Starta **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Skapa ny** och sedan på **Rapport**.
+1. Klicka på **[!UICONTROL Create New]** och sedan på **[!UICONTROL Report]**.
 
    ![](assets/two.png)
 
-1. Välj **Analys av programmedlemskap** och klicka på **OK**.
+1. Markera **[!UICONTROL Program Membership Analysis]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/three.png)
 
-1. Sök och dubbelklicka på den gula punkten Programnamn.
+1. Sök och dubbelklicka på den gula punkten **[!UICONTROL Program Name]**.
 
    ![](assets/four.png)
 
-1. Sök efter och dubbelklicka på den blå pricken Medlemmar.
+1. Sök efter och dubbelklicka på den blå punkten **[!UICONTROL Members]**.
 
    ![](assets/five.png)
 
-1. Sök efter och dubbelklicka på den blå punkten Slutfört (totalt).
+1. Sök efter och dubbelklicka på den blå punkten **[!UICONTROL Success (Total)]**.
 
    ![](assets/six.png)
 
@@ -47,13 +47,13 @@ Se hur enkelt det var?
 
 ![](assets/seven.png)
 
-Du kan snabbt lägga till ett lead-attribut som _Fullständigt namn_ för att se vilka medlemmarna är.
+Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_för att se vilka medlemmarna är.
 
 >[!TIP]
 >
 >Det finns många lead-/företagsattribut att välja bland. Kolla in dem!
 
-1. Sök efter och dubbelklicka på den gula punkten **Fullständigt namn** .
+1. Sök och dubbelklicka på den gula punkten **[!UICONTROL Full Name]**.
 
    ![](assets/eight.png)
 

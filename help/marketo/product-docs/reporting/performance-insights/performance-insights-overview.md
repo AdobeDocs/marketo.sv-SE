@@ -4,24 +4,24 @@ description: Performance Insights Overview - Marketo Docs - produktdokumentation
 title: Översikt över prestandainsikter
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Översikt över prestandainsikter {#performance-insights-overview}
+# [!UICONTROL Performance Insights] Översikt {#performance-insights-overview}
 
-Marketo Performance Insights hjälper er att optimera er kanalmix för maximal effektivitet, liksom att identifiera långsiktiga trender för att hitta enhetliga vinnande strategier.
+Marketo [!UICONTROL Performance Insights] hjälper dig att optimera din kanalmix för maximal effektivitet, samt att identifiera långsiktiga trender för att hitta enhetliga vinnande strategier.
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-Performance Insights läser in data från (upp till) de senaste 24 månaderna. Detta inkluderar aktuella data från år till datum samt föregående års data. Den 31 januari 2019 läser till exempel MPI in data från den månaden och varje månad från 2018. Den 31 december 2019 kommer MPI att läsa in data från varje månad under 2019 och 2018.
+[!UICONTROL Performance Insights] läser in data från (upp till) de senaste 24 månaderna. Detta inkluderar aktuella data från år till datum samt föregående års data. Den 31 januari 2019 läser till exempel MPI in data från den månaden och varje månad från 2018. Den 31 december 2019 kommer MPI att läsa in data från varje månad under 2019 och 2018.
 
-Om du vill få åtkomst till Performance Insights klickar du på ikonen på startskärmen för Analytics.
+Om du vill komma åt [!UICONTROL Performance Insights] klickar du på ikonen på startskärmen för Analytics.
 
 ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Utvärdera Marketing:s [bidrag till intäkterna](/help/marketo/product-docs/repo
 
 ![](assets/two.png)
 
-Som standard återspeglar de data som visas prestanda efter engagemang. Du kan växla till prestanda genom Pipeline eller Intäkter genom att klicka på någon av dem.
+Som standard återspeglar de data som visas prestanda med [!UICONTROL Engagement]. Du kan växla till prestanda genom att **[!UICONTROL Pipeline]** eller **[!UICONTROL Revenue]** genom att klicka på någon av dem.
 
 ![](assets/3.png)
 
@@ -43,16 +43,16 @@ Identifiera konsekventa vinnande strategier genom att identifiera [långsiktiga 
 
 ## Inställningar {#settings}
 
-Klicka på ikonen [Inställningar](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) på kontrollpanelerna för intäkter och pipeline för att ange ytterligare parametrar.
+Klicka på ikonen [!UICONTROL Revenue] på kontrollpanelerna [!UICONTROL Pipeline] och [[!UICONTROL Settings]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) för att ange ytterligare parametrar.
 
 ![](assets/5.png)
 
 ## Exportera data {#export-data}
 
-Du kan exportera data och diagram i antingen PowerPoint eller Excel. Du kan också spara dem som ett [snabbdiagram](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Du kan exportera data och diagram i antingen [!DNL PowerPoint] eller [!DNL Excel]. Du kan också spara dem som ett [snabbdiagram](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->Exportera data till Excel för att visa data som är tillgängliga för alla kanaler (inte bara de tio översta). PPT-exporten blir WYSIWYG (utdata påminner om det du ser på skärmen).
+>Exportera data till [!DNL Excel] om du vill visa tillgängliga data för alla kanaler (inte bara de tio översta). PPT-exporten kommer att vara WYSIWYG (utdata kommer att efterlikna det du ser på skärmen).

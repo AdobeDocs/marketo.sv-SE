@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: Förstå mappar - Marketo Docs - produktdokumentation
 title: Förstå mappar
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Det är okej att ändra sig.
 
 ## Arkivera en mapp {#archive-a-folder}
 
-I Marketo kan du konvertera befintliga mappar till arkivmappar. Det finns arkivmappar i marknadsföringsaktiviteter, Database och Design Studio.
+I Marketo kan du konvertera befintliga mappar till arkivmappar. Det finns arkivmappar i [!UICONTROL Marketing Activities], [!UICONTROL Database] och [!UICONTROL Design Studio].
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

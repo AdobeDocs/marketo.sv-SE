@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7511931
-description: Skicka Marketo åtgärder för e-post och kampanj och bevakning i Salesforce1 - Marketo Docs - Produktdokumentation
+description: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1 - Marketo Docs - produktdokumentation
 title: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Skicka Marketo-åtgärder för e-post och kampanj och bevakning i [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Gå till området Leadinformation i Salesforce1 och klicka på fliken **Relaterat**.
+1. Gå till området Leaddetalj i [!DNL Salesforce1] och klicka på fliken **[!UICONTROL Related]**.
 
    ![](assets/one-1.png)
 
-1. Klicka på punkten (tre små punkter). Längst ned kan du välja mellan:&quot;Lägg till i Marketo Campaign&quot;,&quot;Skicka Marketo-e-post&quot;,&quot;Visa i Marketo&quot;,&quot;Lägg till/ta bort från bevakningslista&quot;.
+1. Klicka på punkten (tre små punkter). Längst ned kan du välja mellan: [!UICONTROL Add to Marketo Campaign], [!UICONTROL Send Marketo Email], [!UICONTROL View in Marketo], [!UICONTROL Add from Watchlist], [!UICONTROL Remove from Watchlist].
 
    ![](assets/two-1.png)
 

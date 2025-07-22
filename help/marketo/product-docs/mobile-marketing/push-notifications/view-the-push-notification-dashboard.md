@@ -4,9 +4,9 @@ description: Visa kontrollpanelen för push-meddelanden - Marketo Docs - produkt
 title: Visa kontrollpanelen för push-meddelanden
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att se hur dina push-meddelanden fungerar.
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ Det är enkelt att se hur dina push-meddelanden fungerar.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klicka på **Visa: Sammanfattning** och välj **Kontrollpanel**.
+1. Klicka på **[!UICONTROL View: Summary]** och välj **[!UICONTROL Dashboard]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Du kan visa Total Sent och Total Taps för iOS och Android i cirkeldiagram. Bläddra nedåt om du vill se Tryck nedåt i stapeldiagram.
+1. Du kan visa [!UICONTROL Total Sent] och [!UICONTROL Total Taps] för iOS och Android i cirkeldiagram. Bläddra nedåt om du vill se [!UICONTROL Tap Decay] i stapeldiagram.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

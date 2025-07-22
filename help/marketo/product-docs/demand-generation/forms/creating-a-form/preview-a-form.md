@@ -4,9 +4,9 @@ description: Förhandsgranska ett formulär - Marketo Docs - produktdokumentatio
 title: Förhandsgranska ett formulär
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Innan du publicerar kan du se formuläret i den här snabba och enkla formulärförhandsgranskningen.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Innan du publicerar kan du se formuläret i den här snabba och enkla formulärf
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Klicka på **Förhandsgranska** under **Formuläråtgärder**.
+1. Klicka på **[!UICONTROL Form Actions]** under **[!UICONTROL Preview]**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. Formulärredigeraren öppnas i **förhandsgranskningsläget**.
+1. Formulärredigeraren öppnas i **[!UICONTROL preview]**-läge.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klicka på **Redigera utkast** för att gå tillbaka till **redigeringsläget**.
+1. Klicka på **[!UICONTROL Edit Draft]** för att gå tillbaka till läget **[!UICONTROL edit]**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Växla enkelt tillbaka genom att klicka på **Förhandsgranska utkast**.
+1. Växla enkelt tillbaka genom att klicka på **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

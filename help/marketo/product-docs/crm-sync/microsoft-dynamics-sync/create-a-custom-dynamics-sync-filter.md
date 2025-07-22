@@ -1,23 +1,23 @@
 ---
 unique-page-id: 9437903
-description: Skapa ett anpassat Dynamics Sync-filter - Marketo Docs - produktdokumentation
-title: Skapa ett anpassat Dynamics-synkroniseringsfilter
+description: Skapa ett anpassat  [!DNL Dynamics] synkroniseringsfilter - Marketo Docs - produktdokumentation
+title: Skapa ett anpassat  [!DNL Dynamics] synkroniseringsfilter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
-# Skapa ett anpassat Dynamics-synkroniseringsfilter {#create-a-custom-dynamics-sync-filter}
+# Skapa ett anpassat [!DNL Dynamics]-synkroniseringsfilter {#create-a-custom-dynamics-sync-filter}
 
 Vill du inte synkronisera allt i Dynamics CRM till Marketo Engage? Oroa dig inte! Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
 
 ## Översikt {#overview}
 
-Så här ställer du in ett Dynamics-synkroniseringsfilter:
+Så här konfigurerar du ett [!DNL Dynamics]-synkroniseringsfilter:
 
 1. Skapa ett eget booleskt fält med namnet new_synctomkto i Dynamics CRM för alla objekt (lead, kontakt, konto, möjlighet och andra anpassade entiteter).
 1. Tilldela det här fältet värdet Ja/Nej.
@@ -43,7 +43,7 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
 >[!PREREQUISITES]
 >
->Installera den senaste versionen av Marketo Plug-in (3.0.0.1 eller senare). Gå till Marketo > Admin > Microsoft Dynamics > Hämta Marketo-lösning.
+>Installera den senaste versionen av Marketo-plugin-programmet (3.0.0.1 eller senare). Gå till Marketo > [!UICONTROL Admin] > [!DNL Microsoft Dynamics] > [!UICONTROL Download Marketo Solution].
 
 ## Skapa SyncToMkto-fält {#create-synctomkto-field}
 
@@ -51,19 +51,19 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Klicka på **Anpassa systemet**.
+1. Klicka på **[!UICONTROL Customize the System]**.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Enheter**.
+1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **[!UICONTROL Entities]**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **Lead** och välj **Fält**. Klicka sedan på **Ny**.
+1. Klicka på ![](assets/image2015-8-10-21-3a44-3a23.png) bredvid **[!UICONTROL Lead]** och välj **[!UICONTROL Fields]**. Klicka sedan på **[!UICONTROL New]**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Ange **SyncToMkto** i fältet **Visningsnamn** och välj **Två alternativ** som **datatyp**. Klicka sedan på **Spara och stäng**.
+1. Ange **SyncToMkto** i fältet **[!UICONTROL Display Name]** och välj **[!UICONTROL Two Options]** som **[!UICONTROL Data Type]**. Klicka sedan på **[!UICONTROL Save and Close]**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
@@ -95,37 +95,37 @@ Marketo letar efter det här fältet under den automatiska bakgrundssynkroniseri
 
 Bra, nu har du aktiverat synkroniseringsfiltret för Marketo.
 
-## Skapa ett Dynamics-arbetsflöde för att tilldela synkroniseringsfiltervärden automatiskt {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Skapa ett [!DNL Dynamics]-arbetsflöde för att tilldela synkroniseringsfiltervärden automatiskt {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
-Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina poster. Men varför inte utnyttja kraften i ett Dynamics-arbetsflöde och automatiskt tilldela ett värde till SyncToMkto-fältet när en post skapas eller uppdateras?
+Du kan alltid manuellt tilldela ett värde till SyncToMkto-fälten för dina poster. Men varför inte utnyttja kraften i ett [!DNL Dynamics]-arbetsflöde och automatiskt tilldela ett värde till SyncToMkto-fältet när en post skapas eller uppdateras?
 
 >[!NOTE]
 >
 >Du kan inte göra detta på databasnivå. Det måste göras manuellt i CRM eller med hjälp av ett arbetsflöde.
 >
->Ett Dynamics-arbetsflöde fungerar bara på nya poster som skapas framåt, inte på historiska data. Använd en batchuppdatering för att flytta över befintliga poster.
+>Ett [!DNL Dynamics]-arbetsflöde fungerar bara på nya poster som skapas framåt, inte på historiska data. Använd en batchuppdatering för att flytta över befintliga poster.
 
 1. Gå till Dynamics CRM. Klicka på **Inställningar** och sedan på **Processer**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Klicka på **Ny**.
+1. Klicka på **[!UICONTROL New]**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Ange ett namn för arbetsflödet och välj **Arbetsflöde** som kategori och **Lead** som entitet. Klicka sedan på **OK**.
+1. Ange ett namn för arbetsflödet och välj **[!UICONTROL Workflow]** som [!UICONTROL Category] och **[!UICONTROL Lead]** som [!UICONTROL Entity]. Klicka sedan på **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Skapa regler för att tilldela ett sant eller falskt värde till fältet **SyncToMkto** baserat på din organisations önskemål. Klicka på **Spara och stäng**.
+1. Skapa regler för att tilldela ett sant eller falskt värde till fältet **SyncToMkto** baserat på din organisations önskemål. Klicka på **[!UICONTROL Save and Close]**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Definiera en standardåtgärd när du klickar på **Lägg till steg** för att lägga till ett kontrollvillkor. Detta anger de poster som du inte vill synkronisera till **Nej**. Annars synkroniseras de.
+   >Definiera en standardåtgärd när du har klickat på **[!UICONTROL Add Step]** för att lägga till ett kontrollvillkor. Detta anger de poster som du inte vill synkronisera till **Nej**. Annars synkroniseras de.
 
-1. Markera arbetsflödet och klicka på **Aktivera**.
+1. Markera arbetsflödet och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
@@ -139,7 +139,7 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 
 * Starta en synkroniseringsåtgärd
 
-  När värdet **SyncToMkto** ändras från **No** till **Yes** meddelar Dynamics Marketo omedelbart om att synkroniseringen av den här posten ska börja. Om posten redan finns uppdaterar Marketo den. Annars skapar Marketo posten.
+  När värdet **SyncToMkto** ändras från **No** till **Yes** meddelar [!DNL Dynamics] Marketo omedelbart att synkronisera den här posten. Om posten redan finns uppdaterar Marketo den. Annars skapar Marketo posten.
 
   >[!TIP]
   >
@@ -151,6 +151,6 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 
 >[!MORELIKETHIS]
 >
->* [Synkroniseringsfilter för Microsoft Dynamics: Kvalificera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
->* [Synkroniseringsfilter för Microsoft Dynamics: Sammanfoga](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [Microsoft Dynamics Sync-filter: Kvalificera](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Microsoft Dynamics Sync-filter: Sammanfoga](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
 >* [Anpassade synkroniseringsfilterregler för en e-postadress](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

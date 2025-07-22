@@ -4,9 +4,9 @@ description: Skapa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Skapa ett e-postmeddelande
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ Det finns två sätt att skapa e-postmeddelanden i Marketo. Vi tittar på båda.
 
 ## Skapa ett e-postmeddelande i Design Studio {#create-an-email-in-the-design-studio}
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/create-an-email-1.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny e-post**.
+1. Klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Email]**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >När du skapar ett e-postmeddelande i Design Studio finns det i trädet under&quot;E-post&quot;.
+   >När du skapar ett e-postmeddelande i [!UICONTROL Design Studio] finns det i trädet under [!UICONTROL Emails].
 
 Enkelt! Nu åt andra hållet..
 
 ## Skapa ett e-postmeddelande i marknadsföringsaktiviteter {#create-an-email-in-marketing-activities}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-email-3.png)
 
-1. Välj det program du vill lägga till e-postmeddelandet i, klicka på listrutan **Nytt** och välj **Ny lokal resurs**.
+1. Välj det program som du vill lägga till e-postmeddelandet i, klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/create-an-email-4.png)
 
-1. Klicka på **E-post**.
+1. Klicka på **[!UICONTROL Email]**.
 
    ![](assets/create-an-email-5.png)
 
@@ -49,13 +49,13 @@ Enkelt! Nu åt andra hållet..
 
 Vilken metod du än väljer kommer du till mallväljaren.
 
-1. Ge e-postmeddelandet ett namn, klicka på mallen som du vill använda och klicka sedan på **Skapa**.
+1. Ge e-postmeddelandet ett namn, klicka på mallen som du vill använda och klicka sedan på **[!UICONTROL Create]**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Du kan välja från en samling färdiga responsiva e-postmallar eller en mall som du sparade genom att först välja **Mina mallar** och sedan följa samma steg.
+   >Du kan välja från en samling färdiga responsiva e-postmallar, eller en mall som du sparade genom att först välja **[!UICONTROL My Templates]** och sedan följa samma steg.
 
 1. Ange en ämnesrad. Rekommenderad teckengräns är 50.
 

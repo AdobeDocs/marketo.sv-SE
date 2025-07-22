@@ -3,9 +3,9 @@ description: Anslut ny administratör till Marketo - Marketo Docs - produktdokum
 title: Anslut ny administratör till Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Om den andra administratören redan är ansluten till Marketo behöver de bara g
 
 Om den andra administratören inte är ansluten till Marketo som administratör...
 
-1. Den primära administratören måste koppla från den andra administratören från Marketo via Inställningar > Marketo > Användaråtkomst.
+1. Den primära administratören måste koppla från den andra administratören från Marketo från [!UICONTROL Settings] > Marketo > [!UICONTROL User Access].
 
-1. Den sekundära administratören loggar in på sitt MSC-konto, går till Inställningar > Marketo och klickar på **Anslut**.
+1. Den sekundära administratören loggar in på sitt MSC-konto, går till [!UICONTROL Settings] > Marketo och klickar på **[!UICONTROL Connect]**.
 
 1. Nu är den sekundära användaren ansluten till Marketo som administratör.
 
@@ -32,7 +32,7 @@ Om den andra administratören inte är ansluten till Marketo som administratör.
 
 Om du bestämmer dig för att du vill ta bort den administratör som konfigurerade Marketo-integreringen läser du den här artikeln för att lära dig hur.
 
-Integreringen av Marketo är knuten till en användare som är Sales Connect/Actions Admin. Det här är vanligtvis den administratör som först klickade på knappen &quot;Anslut&quot; på Marketo anslutningssida och upprättade anslutningen.
+Marketo-integreringen är knuten till en [!DNL Sales Connect]/Actions Admin-användare. Det här är vanligtvis den administratör som först klickade på knappen **[!UICONTROL Connect]** på Marketo anslutningssida och upprättade anslutningen.
 
 Om du vill ta bort den administratör som upprättade Marketo-anslutningen måste en ny anslutning först upprättas av en annan Admin-användare. Vi har listat de uppgifter nedan som måste utföras för att detta ska kunna göras.
 
@@ -52,11 +52,11 @@ För att förenkla instruktionerna ska vi hänvisa till den administratör som �
 
 Admin A (den administratör som ursprungligen var ansvarig för anslutningen) ska följa dessa steg.
 
-1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i webbprogrammet och välj **[!UICONTROL Settings]**.
 
 1. Klicka på **Marketo**.
 
-1. Klicka på **Användaråtkomst**.
+1. Klicka på **[!UICONTROL User Access]**.
 
 1. Sök efter den administratör som du vill skapa den nya Marketo-anslutningen för.
 
@@ -66,20 +66,20 @@ Admin A (den administratör som ursprungligen var ansvarig för anslutningen) sk
 
 Dessa steg ska följas av admin B (ny administratör)
 
-1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i webbprogrammet och välj **[!UICONTROL Settings]**.
 
 1. Klicka på **Marketo**.
 
-1. Klicka på **Koppla från**.
+1. Klicka på **[!UICONTROL Disconnect]**.
 
 **Koppla från Marketo-integrering för admin A**
 
 Dessa steg ska följas av admin A (ursprungligen ansluten admin).
 
-1. Klicka på kugghjulsikonen i webbprogrammet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i webbprogrammet och välj **[!UICONTROL Settings]**.
 
 1. Klicka på **Marketo**.
 
-1. Klicka på **Koppla från**.
+1. Klicka på **[!UICONTROL Disconnect]**.
 
-Nu när en ny administratör har upprättat en anslutning till Marketo och den ursprungliga administratören har kopplats från kan den ursprungligen anslutna administratören tas bort från Sales Connect/Actions-instansen.
+Nu när en ny administratör har upprättat en anslutning till Marketo, och den ursprungliga administratören har kopplats från, kan den ursprungligen anslutna administratören tas bort från instansen [!DNL Sales Connect]/Åtgärder.

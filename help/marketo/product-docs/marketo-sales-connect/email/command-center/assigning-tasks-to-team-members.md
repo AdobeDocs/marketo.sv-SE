@@ -4,9 +4,9 @@ description: Tilldela uppgifter till teammedlemmar - Marketo Docs - produktdokum
 title: Tilldela uppgifter till teammedlemmar
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 >
 >Du kan bara tilldela uppgifter för delade kontakter.
 
-1. Klicka på **Kommandocentralen**.
+1. Klicka på **[!UICONTROL Command Center]**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Lägg till uppgift**.
+1. Klicka på **[!UICONTROL Add Task]**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
    ![](assets/four-1.png)
 
-1. Markera den person i ditt team som du vill tilldela uppgiften till i fältet Tilldela uppgift.
+1. Markera den person i ditt team som du vill tilldela uppgiften till i fältet **[!UICONTROL Assign Task]**.
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ Om du vill samarbeta med andra teammedlemmar kan det vara ett bra sätt att samo
 
    ![](assets/six.png)
 
-1. Välj förfallodatum.
+1. Välj **[!UICONTROL Due Date]**.
 
    ![](assets/seven.png)
 
-1. Ange prioritet.
+1. Ange **[!UICONTROL Priority]**.
 
    ![](assets/eight.png)
 
-1. Lägg till viktig information som är relevant för ditt team (valfritt) och klicka på **Skapa**.
+1. Lägg till viktig information som är relevant för ditt team (valfritt) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/nine.png)

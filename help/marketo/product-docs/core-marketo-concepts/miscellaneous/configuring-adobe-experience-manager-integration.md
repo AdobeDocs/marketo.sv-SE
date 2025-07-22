@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Konfigurera Adobe Experience Manager-integrering {#configuring-adobe-experience-manager-integration}
 
-Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och importera AEM i Marketo Engage Design Studio.
+Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och importera AEM-material till Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
 >[!IMPORTANT]
 >
->* Den här integreringen fungerar bara med implementeringar av AEM lokalt och stöds inte för AEM Cloud Service-implementeringar.
+>* Den här integreringen fungerar endast med lokala implementeringar av AEM och stöds inte för implementeringar av AEM Cloud-tjänster.
 >
 >* För närvarande stöds den här funktionen endast fullt ut i Firefox. Det stöds inte i Safari och kanske inte fungerar i den senaste versionen av Chrome, beroende på inställningarna för cookie-filen för samma plats.
 
@@ -39,7 +39,7 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
    ![](assets/2a.png)
 
-1. I webbläsaren söker du efter &quot;Adobe Granite Cross-Origin Resource Sharing Policy&quot; (på Windows, cmd+f på Mac).
+1. Sök efter [!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy] (Ctrl+F i Windows, cmd+f i Mac) i webbläsaren.
 
    ![](assets/three.png)
 
@@ -47,7 +47,7 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
    ![](assets/four.png)
 
-1. Skriv `https://.*\.marketo\.com` i textrutan **[!UICONTROL Allowed Origins (Regexp)]** och klicka på **[!UICONTROL Save]**.
+1. Skriv **[!UICONTROL Allowed Origins (Regexp)]** i textrutan `https://.*\.marketo\.com` och klicka på **[!UICONTROL Save]**.
 
    ![](assets/five-psd.png)
 
@@ -75,6 +75,6 @@ Konfigurera Adobe Experience Manager (AEM) så att du kan komma åt, välja och 
 
    ![](assets/eleven.png)
 
-1. Ange AEM URL och klicka på **[!UICONTROL OK]**.
+1. Ange din AEM-URL och klicka på **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

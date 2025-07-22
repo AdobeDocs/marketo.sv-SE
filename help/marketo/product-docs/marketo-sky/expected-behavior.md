@@ -4,25 +4,25 @@ title: Förväntat beteende
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # Förväntat beteende {#expected-behavior}
 
-I den här artikeln hittar du information om förväntat beteende som är kopplat till Predictive Audiences (PA).
+I den här artikeln hittar du information om det förväntade beteendet som är kopplat till [!UICONTROL Predictive Audiences] (PA).
 
 ## Funderna om data och integritet
 
 * All nödvändig databehandling för AI/ML-modellerna äger rum i Nordamerika.
 * AI/ML-modeller använder inte specifik ledinformation som för- eller efternamn, kön, e-post, kontaktnummer osv. Modeller använder bara allmänna attribut som härletts från firmgrafik och aktivitetsloggar.
 
-**För prediktiva målgrupper kan du förvänta dig följande beteende**
+**För [!UICONTROL Predictive Audiences] kan du förvänta dig följande beteende**
 
-* PA är tillgängligt både i Marketo Skyn och i Marketo Classic. Följande specifika funktioner är tillgängliga:
+* PA är tillgängligt i både [!DNL Marketo Sky] och [!DNL Marketo Classic]. Följande specifika funktioner är tillgängliga:
    * Prediktiva filter - [!DNL Sky/Classic]
    * Planerade registreringar - [!DNL Sky/Classic]
    * Sannolikhetsprognoser på huvudnivå - [!DNL Sky/Classic]

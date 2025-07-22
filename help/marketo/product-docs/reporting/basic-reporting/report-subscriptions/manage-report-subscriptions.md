@@ -4,9 +4,9 @@ description: Hantera rapportprenumerationer - Marketo Docs - produktdokumentatio
 title: Hantera rapportprenumerationer
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Konfigurera och ta bort rapportprenumerationer.
 
-1. Gå till området **Analyser**.
+1. Gå till området **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klicka på fliken **Prenumerationer**.
+1. Klicka på fliken **[!UICONTROL Subscriptions]**.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
@@ -27,13 +27,13 @@ Konfigurera och ta bort rapportprenumerationer.
 
    >[!TIP]
    >
-   >Du kan också hantera prenumerationer på en enskild rapport i **Marknadsföringsaktiviteter**. Markera rapporten och klicka på fliken **Prenumerationer**.
+   >Du kan också hantera prenumerationer på en enskild rapport i **[!UICONTROL Marketing Activities]**. Markera rapporten och klicka på fliken **[!UICONTROL Subscriptions]**.
 
    Om du vill ändra hur ofta en rapport skickas via e-post klickar du på fältet Frekvens och väljer ett nytt alternativ i listrutan.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Om du vill ändra e-postadresserna i en prenumeration klickar du på fältet **E-postmottagare** och redigerar e-postadresserna.
+1. Om du vill ändra e-postadresserna i en prenumeration klickar du på fältet **[!UICONTROL Email Recipients]** och redigerar e-postadresserna.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -44,13 +44,13 @@ Konfigurera och ta bort rapportprenumerationer.
 
    Du kan också:
 
-   * Klicka på knappen **Visa** för att öppna en rapport.
-   * Avmarkera kryssrutan **Aktiv** om du vill inaktivera prenumerationen.
-   * Klicka och redigera fältet **Sammanfattning** för att ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
-   * Avmarkera kryssrutan **Excel** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
-   * Klicka på knappen **Skicka** om du vill skicka rapportens e-postmeddelande direkt.
+   * Klicka på knappen **[!UICONTROL View]** för att öppna en rapport.
+   * Avmarkera kryssrutan **[!UICONTROL Active]** om du vill inaktivera prenumerationen.
+   * Klicka och redigera fältet **[!UICONTROL Summary]** om du vill ändra hur många förhandsgranskningsrader som visas i e-postmeddelandet.
+   * Avmarkera kryssrutan **[!UICONTROL Excel]** om du vill skicka rapportsammanfattningar utan kalkylbladsbilagan.
+   * Klicka på knappen **[!UICONTROL Send]** om du vill skicka rapportens e-postmeddelande omedelbart.
 
-1. Om du vill ta bort en prenumeration helt markerar du raden och klickar på **Ta bort prenumeration**.
+1. Om du vill ta bort en prenumeration helt markerar du raden och klickar på **[!UICONTROL Delete Subscription]**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 

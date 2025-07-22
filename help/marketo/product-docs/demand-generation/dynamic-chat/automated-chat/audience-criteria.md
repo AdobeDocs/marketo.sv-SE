@@ -3,16 +3,16 @@ description: Målgrupper - Marketo Docs - produktdokumentation
 title: Målgruppskriterier
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
 
 # Målgruppskriterier {#audience-criteria}
 
-På samma sätt som smarta Marketo Engage-listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta in dig på kända eller okända personer med hjälp av attribut för härkomst, person eller företag (eller en kombination av dessa).
+På samma sätt som med Marketo Engage smarta listor kan du definiera målgruppen med hjälp av attribut för målgruppskriterier. Du kan rikta in dig på kända eller okända personer med hjälp av attribut för härkomst, person eller företag (eller en kombination av dessa).
 
 ## Prioritet {#priority}
 
@@ -28,11 +28,11 @@ Med händelser kan ni rikta in er på besökarna baserat på hur mycket de rulla
 
    ![](assets/audience-criteria-3.png)
 
-1. Ställ in tiden&quot;Större än&quot; på 20 sekunder.
+1. Ställ in tiden [!UICONTROL Greater Than] till 20 sekunder.
 
    ![](assets/audience-criteria-4.png)
 
-1. Lägg till URL-adressen för den önskade sidan i avsnittet [Mål](#target).
+1. Lägg till URL-adressen för den önskade sidan i avsnittet [[!UICONTROL Target]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan rik
 
    ![](assets/audience-criteria-7.png)
 
-1. _Är_ är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
+1. _[!UICONTROL Is]_är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,17 +88,17 @@ Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finn
    >
    >[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies och placerar dem i systemet när någon besöker din webbplats. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
-1. _Är_ är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
+1. _[!UICONTROL Is]_är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-15.png)
 
 ## medlemskap {#membership}
 
-Använd Marketo Engage Smart Lists för er målgrupp i dialogrutan.
+Använd Marketo Engage Smart Lists för er målgrupp.
 
 >[!AVAILABILITY]
 >
->Medlemmen i Smart List eller Member of List-kriterierna kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Medlem i kriterierna Smart List eller Medlem i List kräver Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Under Medlemskap tar du **[!UICONTROL Member of Smart List]** och släpper det på arbetsytan.
 

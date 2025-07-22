@@ -4,9 +4,9 @@ description: Skapa en anpassad aktivitet - Marketo Docs - produktdokumentation
 title: Skapa en anpassad aktivitet
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
@@ -37,13 +37,13 @@ Följ de här stegen för att skapa en ny anpassad aktivitet.
 
    >[!CAUTION]
    >
-   >Om du bestämmer dig för att ändra API-namnet måste du se till att namnet inte hamnar i konflikt med fält i andra anpassade aktiviteter.
+   >Om du bestämmer dig för att ändra [!UICONTROL API Name] måste du se till att namnet inte hamnar i konflikt med fält i andra anpassade aktiviteter.
 
 1. Definiera [!UICONTROL Filter] och [!UICONTROL Trigger] och klicka på **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Ge det primära fältet ett namn som sammanfattar vad den anpassade aktiviteten är till.
+1. Ge ditt primära fält en **[!UICONTROL Name]** som sammanfattar vad den anpassade aktiviteten är till för.
 
    ![](assets/create-a-custom-activity-6.png)
 

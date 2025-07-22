@@ -4,9 +4,9 @@ description: Gör ett program utan periodkostnad tillgängligt i Intresseutforsk
 title: Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Vissa program kan behöva inkluderas även om de inte har en periodkostnad. Äve
 >
 >Program Analyzer bygger programmet Success per periodkostnad. Om det inte finns någon tillgänglig periodkostnad visas inte Programslutförande, oavsett programmets analysbeteende. Om analysbeteendet är inställt visas data för mått på affärsmöjligheter (säljmöjligheter, intäkter osv.).
 
-1. Klicka på **Taggar** under avsnittet Admin.
+1. Klicka på [!UICONTROL Admin] under avsnittet **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ Vissa program kan behöva inkluderas även om de inte har en periodkostnad. Äve
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Ändra Analytics-beteendet till Inclusive och klicka på **Save**.
+1. Ändra [!UICONTROL Analytics Behavior] till **Inkluderande** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

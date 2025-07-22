@@ -4,9 +4,9 @@ description: Skapa en kalenderhändelsefil (.ics) - Marketo Docs - produktdokume
 title: Skapa en kalenderhändelsefil (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Med en Calendar File-token kan du lägga till en kalender (.ics)-länk till dina e-postmeddelanden och landningssidor från Marketo.
 
-1. Gå till fliken **Mina token** i ditt program.
+1. Gå till fliken **[!UICONTROL My Tokens]** i ditt program.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Dra en **kalenderfil**-token till arbetsytan.
+1. Dra en **[!UICONTROL Calendar File]**-token till arbetsytan.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Ange ett **tokennamn** och **Redigera**.
+1. Ange ett **tokennamn** och klicka på **[!UICONTROL Click to Edit]**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Ange information och klicka på **Spara**.
+1. Ange information och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 

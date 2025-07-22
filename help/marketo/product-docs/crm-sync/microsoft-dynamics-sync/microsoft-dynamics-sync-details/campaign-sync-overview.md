@@ -3,20 +3,20 @@ description: Kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Kampanjsynkronisering - översikt
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Kampanjsynkronisering - översikt {#campaign-sync-overview}
 
-Som en del av Campaign-synkroniseringen kan användare konfigurera automatisering för att arbeta med medlemskap i en Dynamics-kampanj. Leads som är kvalificerade för specifika beteenden eller demografiska data kan ingå i Microsoft-kampanjer.
+Som en del av Campaign-synkroniseringen kan användare konfigurera automatisering för att arbeta med medlemskap i en [!DNL Dynamics]-kampanj. Leads som är kvalificerade för specifika beteenden eller demografiska data kan ingå i Microsoft-kampanjer.
 
 >[!PREREQUISITES]
 >
->Uppdatera till den senaste versionen av Dynamics-plugin-programmet för Marketo Engage.
+>Uppdatera till den senaste versionen av plugin-programmet [!DNL Dynamics] för Marketo.
 
 Följande flödesåtgärder är tillgängliga:
 
@@ -36,9 +36,9 @@ Utlösarna körs baserat på åtgärder från Marketo Flow Action [!UICONTROL Ad
 
 >[!NOTE]
 >
->Kontrollera att kampanjsynkroniseringen fungerar och att kampanjen inte är inaktiv i Microsoft Dynamics.
+>Kontrollera att kampanjsynkroniseringen fungerar och att kampanjen inte är inaktiv i Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
->* [Aktivera kampanjsynkronisering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Lägg till eller ta bort personer från Dynamics-kampanjen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Aktivera kampanjsynkronisering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [Lägg till eller ta bort personer från din [!DNL Dynamics] kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

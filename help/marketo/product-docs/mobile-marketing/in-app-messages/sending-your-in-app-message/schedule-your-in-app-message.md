@@ -4,9 +4,9 @@ description: Schemalägg ditt meddelande i appen - Marketo Docs - produktdokumen
 title: Schemalägg ditt meddelande i appen
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Skicka meddelandet nu eller schemalägg det för senare.
 
-1. Om du vill schemalägga ett meddelande i appen väljer du **Ange framtida datum** och väljer ett startdatum i den nedrullningsbara kalendern.
+1. Om du vill schemalägga ett meddelande i appen väljer du **[!UICONTROL Set future date]** och väljer ett startdatum i den nedrullningsbara kalendern.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ Skicka meddelandet nu eller schemalägg det för senare.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Om du vill köra programmet just nu väljer du **Kör omedelbart**. Startdatumfälten försvinner.
+1. Du kan också välja **[!UICONTROL Run Immediately]** om du vill köra programmet just nu. Startdatumfälten försvinner.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

@@ -3,10 +3,10 @@ description: Standardfältmappning för Dynamics - Marketo Docs - produktdokumen
 title: Fältmappning för standardDynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 12%
+source-wordcount: '332'
+ht-degree: 1%
 
 ---
 
@@ -29,204 +29,204 @@ När du först synkroniserar ditt Marketo Engage-konto med Microsoft skapar Mark
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Skapad av Microsoft</td>
-      <td>Skapad den</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>skapad</td>
     </tr>
     <tr>
-      <td>Titel</td>
-      <td>Titel</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>hälsningsfras</td>
     </tr>
     <tr>
-      <td>Första</td>
-      <td>Förnamn</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>förnamn</td>
     </tr>
     <tr>
-      <td>Mitten</td>
-      <td>Mellannamn</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Senaste</td>
-      <td>Efternamn</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>efternamn</td>
     </tr>
     <tr>
-      <td>E-post</td>
-      <td>E-post</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>e-postadress1</td>
     </tr>
     <tr>
-      <td>Befattning</td>
-      <td>Befattning</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Tel.</td>
-      <td>Telefon, arbete</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>telefon1</td>
     </tr>
     <tr>
-      <td>Mobil</td>
-      <td>Mobiltelefon</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
-      <td>Fax</td>
-      <td>Fax</td>
+      <td>[!UICONTROL Fax]</td>
+      <td>[!UICONTROL Fax]</td>
       <td>fax</td>
     </tr>
     <tr>
-      <td>Adress</td>
-      <td>Gatuadress 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Street 1]</td>
       <td>adress1_rad1</td>
     </tr>
     <tr>
-      <td>Ort</td>
-      <td>Ort</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Stat</td>
-      <td>Stat/provins</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL State/Province]</td>
       <td>address1_stateorregion</td>
     </tr>
     <tr>
-      <td>Land</td>
-      <td>Land/region</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Postnummer</td>
-      <td>Postnummer</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Person Source</td>
-      <td>Leadkälla</td>
+      <td>[!UICONTROL Person Source]</td>
+      <td>[!UICONTROL Lead Source]</td>
       <td>leadsourccode</td>
     </tr>
     <tr>
-      <td>Personstatus</td>
-      <td>Status</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statcode</td>
     </tr>
     <tr>
-      <td>Statusorsak</td>
-      <td>Statusorsak</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuskod</td>
     </tr>
     <tr>
-      <td>Personanteckningar</td>
-      <td>Beskrivning</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>Ring inte</td>
-      <td>Tillåt inte telefonsamtal</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Avprenumererad</td>
-      <td>Massinte e-post</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemi</td>
     </tr>
     <tr>
-      <td>Personomdöme</td>
-      <td>Klassificering</td>
+      <td>[!UICONTROL Person Rating]</td>
+      <td>[!UICONTROL Rating]</td>
       <td>leadqualityCode</td>
     </tr>
     <tr>
-      <td>Microsoft-adress 2</td>
-      <td>Gatuadress 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft-adress 3</td>
-      <td>Gatuadress 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft skickar ingen e-post</td>
-      <td>Tillåt inte e-post</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Fax</td>
-      <td>Tillåt inte fax</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Do Not Allow Faxes]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Microsoft skickar inte marknadsföringsmaterial</td>
-      <td>Marknadsföringsmaterial</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendm</td>
     </tr>
     <tr>
-      <td>Microsoft hemtelefon</td>
-      <td>Telefon, hem</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>telefon2</td>
     </tr>
     <tr>
-      <td>Microsoft föredragen kontaktmetod</td>
-      <td>Önskad kontaktmetod</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method of Contact]</td>
       <td>preferredcontactMethodCode</td>
     </tr>
     <tr>
-      <td>Microsoft Topic</td>
-      <td>Ämne</td>
+      <td>[!UICONTROL Microsoft Topic]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>ämne</td>
     </tr>
     <tr>
-      <td>Senaste intressanta datum</td>
-      <td>Senaste intressanta datum</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund desc</td>
-      <td>Senaste intressanta stund desc</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterest_potdesc</td>
     </tr>
     <tr>
-      <td>Källa för senaste intressanta stund</td>
-      <td>Källa för senaste intressanta stund</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund, typ</td>
-      <td>Senaste intressanta stund, typ</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastIntresseDriftstyp</td>
     </tr>
     <tr>
-      <td>Företag</td>
-      <td>Företagets namn</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Company Name]</td>
       <td>företagsnamn</td>
     </tr>
     <tr>
-      <td>Relativa poäng</td>
-      <td>Relativa poäng</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Prioritet</td>
-      <td>Prioritet</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Relativ brådskande situation</td>
-      <td>brådska</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgent</td>
     </tr>
     <tr>
-      <td>Ämne</td>
-      <td>Ämne</td>
+      <td>[!UICONTROL Subject]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>ämne</td>
     </tr>
     <tr>
-      <td>Årlig intäkt</td>
-      <td>Årlig intäkt</td>
-      <td>omsättning</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>intäkt</td>
     </tr>
   </tbody>
 </table>
@@ -244,11 +244,11 @@ Leadfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>skapad den</td>
+      <td>[!UICONTROL Created On]</td>
       <td>skapad</td>
     </tr>
   </tbody>
@@ -269,179 +269,179 @@ Leadfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Skapad av Microsoft</td>
-      <td>Skapad den</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>skapad</td>
     </tr>
     <tr>
-      <td>Titel</td>
-      <td>Titel</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>hälsningsfras</td>
     </tr>
     <tr>
-      <td>Första</td>
-      <td>Förnamn</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>förnamn</td>
     </tr>
     <tr>
-      <td>Mitten</td>
-      <td>Mellannamn</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Senaste</td>
-      <td>Efternamn</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>efternamn</td>
     </tr>
     <tr>
-      <td>E-post</td>
-      <td>E-post</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>e-postadress1</td>
     </tr>
     <tr>
-      <td>Befattning</td>
-      <td>Befattning</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job Title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Tel.</td>
-      <td>Telefon, arbete</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>telefon1</td>
     </tr>
     <tr>
-      <td>Mobil</td>
-      <td>Mobiltelefon</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
-      <td>Adress</td>
-      <td>Adress 1: Gata 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>adress1_rad1</td>
     </tr>
     <tr>
-      <td>Ort</td>
-      <td>Adress 1: Ort</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Stat</td>
-      <td>Adress 1: Region</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL Address 1: State/Province]</td>
       <td>address1_stateorregion</td>
     </tr>
     <tr>
-      <td>Land</td>
-      <td>Adress 1: Land/region</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Postnummer</td>
-      <td>Adress 1: Postnummer</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Personstatus</td>
-      <td>Status</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statcode</td>
     </tr>
     <tr>
-      <td>Statusorsak</td>
-      <td>Statusorsak</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuskod</td>
     </tr>
     <tr>
-      <td>Ring inte</td>
-      <td>Tillåt inte telefonsamtal</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Avprenumererad</td>
-      <td>Massinte e-post</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemi</td>
     </tr>
     <tr>
-      <td>Microsoft-adress 2</td>
-      <td>Adress 1: Gata 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft-adress 3</td>
-      <td>Adress 1: Gata 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft skickar ingen e-post</td>
-      <td>Tillåt inte e-post</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft hemtelefon</td>
-      <td>Telefon, hem</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>telefon2</td>
     </tr>
     <tr>
-      <td>Microsoft föredragen kontaktmetod</td>
-      <td>Önskad kontaktmetod</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method Of Contact]</td>
       <td>preferredcontactMethodCode</td>
     </tr>
     <tr>
-      <td>Senaste intressanta datum</td>
-      <td>Senaste intressanta datum</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund, typ</td>
-      <td>Senaste intressanta stund, typ</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastIntresseDriftstyp</td>
     </tr>
     <tr>
-      <td>Källa för senaste intressanta stund</td>
-      <td>Källa för senaste intressanta stund</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterest_potens</td>
     </tr>
     <tr>
-      <td>Senaste intressanta stund desc</td>
-      <td>Senaste intressanta stund desc</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterest_potdesc</td>
     </tr>
     <tr>
-      <td>Microsoft skickar inte marknadsföringsmaterial</td>
-      <td>Marknadsföringsmaterial</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendm</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Fax</td>
-      <td>Microsoft Do Not Fax</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Prioritet</td>
-      <td>Prioritet</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Relativ brådskande situation</td>
-      <td>brådska</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgent</td>
     </tr>
     <tr>
-      <td>Relativa poäng</td>
-      <td>Relativa poäng</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Personanteckningar</td>
-      <td>Beskrivning</td>
-      <td>description</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>description </td>
     </tr>
     <tr>
-      <td>Personpoäng</td>
-      <td>Leadpoäng</td>
+      <td>[!UICONTROL Person Score]</td>
+      <td>[!UICONTROL Lead Score]</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>Personanteckningar</td>
-      <td>Beskrivning</td>
-      <td>description</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>description </td>
     </tr>
   </tbody>
 </table>
@@ -459,16 +459,16 @@ Kontaktfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>skapad den</td>
+      <td>[!UICONTROL Created On]</td>
       <td>skapad</td>
     </tr>
     <tr>
+      <td>[!UICONTROL Company Name]</td>
       <td>parentcustomerid</td>
-      <td>Företagets namn</td>
     </tr>
   </tbody>
 </table>
@@ -488,103 +488,103 @@ Kontaktfälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Konto a</td>
-      <td>Konto</td>
+      <td>[!UICONTROL Account (a)]</td>
+      <td>[!UICONTROL Account]</td>
       <td>kontotid</td>
     </tr>
     <tr>
-      <td>Faktureringsadress</td>
-      <td>Adress 1: Gata 1</td>
+      <td>[!UICONTROL Billing Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>adress1_rad1</td>
     </tr>
     <tr>
-      <td>Faktureringsort</td>
-      <td>Adress 1: Ort</td>
+      <td>[!UICONTROL Billing City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Faktureringsland</td>
-      <td>Adress 1: Land/region</td>
+      <td>[!UICONTROL Billing Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Faktureringspostnummer</td>
-      <td>Adress 1: Postnummer</td>
+      <td>[!UICONTROL Billing Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Microsoft faktureringsadress 2</td>
-      <td>Adress 1: Gata 2</td>
+      <td>[!UICONTROL Microsoft Billing Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft faktureringsadress 3</td>
-      <td>Adress 1: Gata 3</td>
+      <td>[!UICONTROL Microsoft Billing Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Telefon</td>
-      <td>Telefon</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>[!UICONTROL Main Phone]</td>
       <td>telefon1</td>
     </tr>
     <tr>
-      <td>Affärstyp</td>
-      <td>Affärstyp</td>
+      <td>[!UICONTROL Business Type]</td>
+      <td>[!UICONTROL Business Type]</td>
       <td>företag, ekosystem</td>
     </tr>
     <tr>
-      <td>Microsoft-kontonummer</td>
-      <td>Kontonummer</td>
+      <td>[!UICONTROL Microsoft Account Number]</td>
+      <td>[!UICONTROL Account Number]</td>
       <td>kontonummer</td>
     </tr>
     <tr>
-      <td>Microsoft företagsstatus</td>
-      <td>Status</td>
+      <td>[!UICONTROL Microsoft Company Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statcode</td>
     </tr>
     <tr>
-      <td>Årlig intäkt</td>
-      <td>Årlig intäkt</td>
-      <td>omsättning</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>intäkt</td>
     </tr>
     <tr>
-      <td>Företagsanteckningar</td>
-      <td>Beskrivning</td>
+      <td>[!UICONTROL Company Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>Bransch</td>
-      <td>Bransch</td>
+      <td>[!UICONTROL Industry]</td>
+      <td>[!UICONTROL Industry]</td>
       <td>industrycode</td>
     </tr>
     <tr>
-      <td>SNI-kod</td>
-      <td>SNI-kod</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Webbplats</td>
-      <td>Webbplats</td>
+      <td>[!UICONTROL Website]</td>
+      <td>[!UICONTROL Website]</td>
       <td>webbplats</td>
     </tr>
     <tr>
-      <td>Antal anställda</td>
-      <td>Antal anställda</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>antal anställda</td>
     </tr>
     <tr>
-      <td>SNI-kod</td>
-      <td>SNI-kod</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Företag</td>
-      <td>Kontonamn</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Account Name]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Antal anställda</td>
-      <td>Antal anställda</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>antal anställda</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ Kontofälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>skapad den</td>
+      <td>[!UICONTROL Created On]</td>
       <td>skapad</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ Kontofälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Nära sannolikhet</td>
-      <td>Sannolikhet</td>
+      <td>[!UICONTROL Close Probability]</td>
+      <td>[!UICONTROL Probabliity]</td>
       <td>stängningssannolikhet</td>
     </tr>
     <tr>
-      <td>Scen</td>
-      <td>status</td>
+      <td>[!UICONTROL Stage]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statcode</td>
     </tr>
     <tr>
-      <td>Faktiskt stängningsdatum</td>
-      <td>Faktiskt stängningsdatum</td>
+      <td>[!UICONTROL Actual Close Date]</td>
+      <td>[!UICONTROL Actual Close Date]</td>
       <td>aktualclosedat</td>
     </tr>
     <tr>
-      <td>Namn</td>
-      <td>Ämne</td>
+      <td>[!UICONTROL Name]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Beräknat värde</td>
-      <td>Beräkna. Intäkter</td>
+      <td>[!UICONTROL Estimated Value]</td>
+      <td>[!UICONTROL Est. Revenue]</td>
       <td>measuredValue</td>
     </tr>
     <tr>
-      <td>Beskrivning</td>
-      <td>Beskrivning</td>
+      <td>[!UICONTROL Description]</td>
+      <td>[!UICONTROL Description]</td>
       <td>description</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ Kontofälten nedan synkroniseras för internt bruk.
       <th>API-namn för MS Dynamics</th>
     </tr>
     <tr>
-      <td>Ägare</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>Möjligheter</td>
+      <td>[!UICONTROL Opportunity]</td>
       <td>OpportunityId</td>
     </tr>
     <tr>
-      <td>Potentiell kund</td>
+      <td>[!UICONTROL Potential Customer]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ Fälten nedan skapas i Marketo men kan inte justeras av användare.
       <th>Beskrivning</th>
     </tr>
     <tr>
-      <td>Microsoft Type</td>
+      <td>[!UICONTROL Microsoft Type]</td>
       <td>Lead eller kontakt. Om det är tomt finns leadet bara som en person i Marketo</td>
     </tr>
     <tr>
-      <td>Skapad av Microsoft</td>
-      <td>Skapad i MS Dynamics (kan vara ett annat datum än Skapad i Marketo)</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>Skapad i [!DNL MS Dynamics] (kan skilja sig från Skapad i Marketo)</td>
     </tr>
     <tr>
-      <td>Microsoft tas bort</td>
+      <td>[!UICONTROL Microsoft is Deleted]</td>
       <td>Tidigare var personen i Microsoft men togs bort och bor nu endast i Marketo</td>
     </tr>
   </tbody>

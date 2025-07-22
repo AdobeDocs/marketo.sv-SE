@@ -4,9 +4,9 @@ description: Exempel på händelseintegrering ON24 - Marketo Docs - produktdokum
 title: Exempel på händelseintegrering ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 ## Skapa en ny händelse i marknadsföringsaktiviteter {#create-a-new-event-in-marketing-activities}
 
-1. Välj **Nytt** > **Nytt program**.
+1. Välj **[!UICONTROL New]** > **[!UICONTROL New Program]**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Välj en **kampanjmapp** där händelsen ska finnas.
+1. Välj en **[!UICONTROL Campaign Folder]** där händelsen ska finnas.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Ange ett **namn** för händelsen.
+1. Ange en **[!UICONTROL Name]** för händelsen.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Välj **Event** som **Programtyp**.
+1. Välj **[!UICONTROL Event]** som **[!UICONTROL Program Type]**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Välj **Webbseminarium** som **kanal** för händelsen.
+1. Välj **[!UICONTROL Webinar]** som **[!UICONTROL Channel]** för händelsen.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ Här är ett exempel på en händelse, inklusive kampanjer, för ett ON24-webbin
 
 * **Smart lista**
 
-   * Utlös kampanjen baserat på **Fyller i formulär**. Se till att du inkluderar landningssidan som formuläret finns på med **Lägg till begränsning**, särskilt om formuläret används på flera landningssidor.
+   * Utlös kampanjen baserat på **[!UICONTROL Fills Out Form]**. Se till att du inkluderar landningssidan som formuläret använder med hjälp av **[!UICONTROL Add Constraint]**, särskilt om formuläret används på flera landningssidor.
 
 >[!CAUTION]
 >
->Du måste använda ett Marketo-formulär för att registrera personer för händelsen, eller ett icke-Marketo-formulär med rätt API-integrering för att skicka registreringsdata till Marketo. Detta är viktigt för att integreringen av din Event Partner ska lyckas. **Obs!** Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo, kommer utlösaren att vara **Fyller i formulär** med formulärnamnet.
+>Du måste använda ett Marketo-formulär för att registrera personer för händelsen, eller ett icke-Marketo-formulär med rätt API-integrering för att skicka registreringsdata till Marketo. Detta är viktigt för att din [!UICONTROL Event Partner]-integrering ska lyckas. **Obs!** Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo, kommer utlösaren att vara **[!UICONTROL Fills Out Form]** med [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

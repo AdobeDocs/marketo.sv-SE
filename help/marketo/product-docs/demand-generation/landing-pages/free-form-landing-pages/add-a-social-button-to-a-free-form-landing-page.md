@@ -4,9 +4,9 @@ description: Lägg till en social knapp på en startsida i fri form - Marketo Do
 title: Lägga till en social knapp på en startsida i friform
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ En social knapp uppmuntrar människor att dela ditt innehåll med sina vänner. 
 >
 >Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-1. Navigera till landningssidan för friformulär och klicka på **Redigera utkast**.
+1. Navigera till din startsida för frihandsritning och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/scoring.jpg)
 
-1. Dra över **Social Button** från elementen till höger.
+1. Dra över **[!UICONTROL Social Button]** från elementen till höger.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Välj **Sociala knappar (med analys)**.
+1. Välj **[!UICONTROL Social Buttons (with Analytics)]**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
    När landningssidan är aktiv kan du se aktiviteten som genererats av knappen _för sociala medier (med Analytics) på kontrollpanelen för sociala medier_.
 
-   Om du lägger till en Gilla/Rekommendera knapp (Lite) i stället, se antalet delningar i [prestandarapporten för landningssidan](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Om du lägger till [!UICONTROL Like/Recommend Button (Lite)] i stället, se antalet delningar i [landningssidans resultatrapport](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Välj **Skapa ny** i listrutan.
+1. Välj **[!UICONTROL Create New]** i listrutan.
 
    >[!NOTE]
    >
-   >Du kan också skapa en social knapp i ett program genom att välja **Nytt** > **Ny lokal resurs**.
+   >Du kan också skapa en social knapp i ett program genom att välja **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**.
 
-1. Namnge din sociala knapp, välj **Inget** från **Klona från** och klicka på **Infoga**.
+1. Namnge din sociala knapp, välj **[!UICONTROL None]** från **[!UICONTROL Clone From]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Om du vill spara tid kan du använda alternativet **Klona från** för att kopiera alla inställningar från en befintlig social knapp.
+   >Om du vill spara tid kan du använda alternativet **[!UICONTROL Clone From]** för att kopiera alla inställningar från en befintlig social knapp.
 
    [publicera landningssidan på Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _placera den sociala knappen på din webbplats_
 

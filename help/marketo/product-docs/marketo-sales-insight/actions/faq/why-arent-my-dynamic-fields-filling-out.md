@@ -3,9 +3,9 @@ description: Varför fylls inte mina dynamiska fält ut? - Marketo Docs - produk
 title: Varför fylls inte mina dynamiska fält ut?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Dynamiska fält fungerar bara när du använder en mall. Enskilda e-postmeddelan
 
 ## Vad som ska kontrolleras {#what-to-check}
 
-Det finns tre typer av dynamiska fält i Sales Insight-åtgärder: Basic, Custom och Salesforce. Grundläggande och Anpassad ser båda ut att hämta information från [webbprogrammet](https://toutapp.com/login){target="_blank"}. Om informationen inte finns i webbprogrammet är fälten tomma. Salesforce-fält hämtar information från [Salesforce.com](https://salesforce.com){target="_blank"}.
+Det finns tre typer av dynamiska fält i Sales Insight Actions: Basic, Custom och Salesforce. Grundläggande och Anpassad ser båda ut att hämta information från [webbprogrammet](https://toutapp.com/login){target="_blank"}. Om informationen inte finns i webbprogrammet är fälten tomma. Salesforce-fält hämtar information från [Salesforce.com](https://salesforce.com){target="_blank"}.
 
-**Felsökning av Salesforce-fält**
+**Felsökning av [!DNL Salesforce] fält**
 
-Salesforce-fält: t.ex. `{{sfdc_account_name}}`
+[!DNL Salesforce] fält: t.ex. `{{sfdc_account_name}}`
 
-* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till sidan [Inställningar](https://toutapp.com/login{target="_blank"}) och klicka på **Hantera** bredvid CRM.
+* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till sidan [Inställningar]&#x200B;(https://toutapp.com/login{target="_blank"}) och klicka på **Hantera** bredvid CRM.
 
 **Felsökning av grundläggande och anpassade fält**
 
@@ -34,7 +34,7 @@ Anpassade fält för Marketo Sales Insight-åtgärder: t.ex. `{{custom_field_fav
 
 ## Varför skickade mitt e-postmeddelande utan att fylla i alla dynamiska fält? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Insight Actions förhindrar att e-postmeddelanden skickas ut om vi inte kan fylla i alla dynamiska fält i e-postmeddelandet. **Men**, det finns några undantag för den här regeln. Vissa fält skickas ut tomma eller fyller i ett värde automatiskt om vi kan hitta ett. Dessa fält och hur de kommer att reagera om de inte kan fylla i fältet visas nedan.
+[!DNL Sales Insight Actions] kommer att hindra att dina e-postmeddelanden skickas ut om vi inte kan fylla i alla dynamiska fält i e-postmeddelandet. **Men**, det finns några undantag för den här regeln. Vissa fält skickas ut tomma eller fyller i ett värde automatiskt om vi kan hitta ett. Dessa fält och hur de kommer att reagera om de inte kan fylla i fältet visas nedan.
 
 `{{first_name}}` = TOMT
 
@@ -48,4 +48,4 @@ Sales Insight Actions förhindrar att e-postmeddelanden skickas ut om vi inte ka
 
 >[!NOTE]
 >
->Fältet `{{first_name}}` kommer att finnas i både Sales Insight Actions och Salesforce för att försöka hämta information. Alla andra fält i den här listan söker bara i Sales Insight Actions för att fylla i fältet.
+>Fältet `{{first_name}}` kommer att söka i både [!DNL Sales Insight Actions] och [!DNL Salesforce] för att försöka hämta information. Alla andra fält i den här listan söker bara i [!DNL Sales Insight Actions] för att fylla i fältet.

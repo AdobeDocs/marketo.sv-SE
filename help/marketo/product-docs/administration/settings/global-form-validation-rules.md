@@ -3,9 +3,9 @@ description: Global Form Validation Rules - Marketo Docs - Product Documentation
 title: Valideringsregler för globala formulär
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Klicka på **+** bredvid Åtkomstadministratör.
+1. Klicka på **+** bredvid **Åtkomstadministratör**.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -62,7 +62,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
    >[!NOTE]
    >
-   >I listrutan Åtgärder för formulärverifieringsregel kan du ta bort eller redigera befintliga regler.
+   >I listrutan [!UICONTROL Form Validation Rule Actions] kan du ta bort eller redigera befintliga regler.
 
 1. Ge regeln ett namn, ge den en valfri beskrivning och skriv felmeddelandet som du vill att formulärbesökarna ska se. Ange de domäner du vill blockera i regelrutan, markera **[!UICONTROL Activate Rule]** och klicka på **[!UICONTROL Create]**.
 
@@ -70,7 +70,7 @@ Innan du kan använda den här funktionen måste du aktivera dess behörighet pe
 
 >[!NOTE]
 >
->Marketo Engage har en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vår förinlästa regel&quot;Blockeringslista för e-postdomän för konsumenter&quot; används. [Visa den listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om du vill hämta den kontrollerar du att webbläsaren är uppdaterad och kan acceptera hämtningar).
+>Marketo Engage har en definierad blockeringslista av kostnadsfria e-postdomäner för konsumenter som blockeras när vi använder vår förinlästa Blockeringslista för e-postdomän för konsumenter. [Visa den listan här](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om du vill hämta den kontrollerar du att webbläsaren är uppdaterad och kan acceptera hämtningar).
 
 ## Inaktivera åtkomst per formulär{#how-to-disable-access-per-form}
 

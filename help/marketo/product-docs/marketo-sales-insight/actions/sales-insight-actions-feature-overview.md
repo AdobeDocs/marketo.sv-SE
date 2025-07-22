@@ -3,9 +3,9 @@ description: Sales Insight Actions Feature Overview - Marketo Docs - Product Doc
 title: Funktionsöversikt för Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1305'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys 
 >
 >Marketo Sales Insight Actions är ett webbaserat program som integreras exklusivt med Salesforce CRM via [Marketo Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Det kallas ibland&quot;Marketo Sales&quot; eller&quot;Actions&quot;.
 
-Om du vill se en videoöversikt över Sales Insight-åtgärder [klickar du här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=sv-SE){target="_blank"}.
+[Klicka här](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"} om du vill se en videoöversikt över Sales Insight-åtgärder.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -40,7 +40,7 @@ Följande åtgärder är tillgängliga i listrutan Välj åtgärder i det övre 
    * Kampanjaktiviteten loggas i Marketo personpost
    * Motsvarande filter och utlösare i Marketo Smart Campaigns (se informationen nedan)
 
-* Försäljningsnummer
+* Försäljningssamtal
    * Ring säljsamtal med återförsäljaren i CRM
    * Inkluderar lokal närvaro, inspelad i förväg
    * Logga samtalsresultat, samtalsinspelning på panelen och aktivitetshistorik
@@ -50,8 +50,8 @@ Följande åtgärder är tillgängliga i listrutan Välj åtgärder i det övre 
 * Lägg till uppgift
    * Skapa e-post, samtal, InMail och anpassade uppgifter för dina leads
    * Automatisera skapande av uppgifter med säljkampanjer
-   * Synkronisera uppgifter med Salesforce
-   * Logga uppgifter i avsnittet Aktivitetshistorik i Salesforce
+   * Synkronisera uppgifter med [!DNL Salesforce]
+   * Logga uppgifter i avsnittet [!DNL Salesforce] Aktivitetshistorik
 
 Du kommer åt Live Feed genom att klicka på ikonen ((0)) i det övre navigeringsfältet. Den innehåller funktioner för live-uppdateringar av försäljningsaktiviteter samt möjlighet att docka skärmen.
 
@@ -60,7 +60,7 @@ Du kommer åt Live Feed genom att klicka på ikonen ((0)) i det övre navigering
 Följande data är tillgängliga på flikarna på MSI-panelen:
 
 * Instrumentpanel för insikter
-   * Hastighetsstödrastret för engagemang kommer att innehålla aktiviteter från säljmeddelanden, säljkampanjer och säljare
+   * Hastighetsstödrastret för engagemang kommer att innehålla aktiviteter från e-postmeddelanden, säljkampanjer och försäljningssamtal
    * Kommande försäljningskampanjer - När en lead är en del av en pågående kampanj är den här informationen tillgänglig på fliken för kommande försäljningskampanjer
    * Kommande uppgifter - När det finns en kommande uppgift som gäller en lead är den här informationen tillgänglig på fliken Kommande uppgifter
 
@@ -97,7 +97,7 @@ Du kommer åt Live Feed genom att klicka på ikonen ((0)) i det övre navigering
 Följande data är tillgängliga på flikarna:
 
 * Instrumentpanel för insikter
-   * Hastighetsstödrastret för engagemang kommer att innehålla aktiviteter från säljmeddelanden, säljkampanjer och försäljningskampanjåtgärder
+   * Hastighetsstödrastret för engagemang kommer att innehålla aktiviteter från säljmeddelanden, säljkampanjer och försäljningssamtal
    * Kommande försäljningskampanjer - När en kontakt från kontot/affärsmöjligheten är en del av en pågående kampanj är den här informationen tillgänglig på fliken för kommande försäljningskampanjer
    * Kommande aktiviteter - När det finns en kommande aktivitet som gäller en kontakt från kontot/affärsmöjligheten är den här informationen tillgänglig på fliken Kommande aktiviteter
 
@@ -113,28 +113,28 @@ Följande data är tillgängliga på flikarna:
 
 ## Lead- och kontaktlistvy (massåtgärder) {#lead-and-contact-list-view}
 
-* Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med vy, klicka och svara på spårning till en lista över kontakter/leads
-* Skicka säljkampanj - Lägg till i säljspelsböcker som är en sekvens med e-postmeddelanden och uppgifter i en lista med kontakter/leads
+* [!UICONTROL Send Sales Email] - Möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med vy, klicka och svara på spårning till en lista över kontakter/leads
+* [!UICONTROL Add to Sales Campaign] - Lägg till i försäljningsspelböcker som är en sekvens med e-postmeddelanden och uppgifter i en lista med kontakter/leads
 
 ## Marketo Global Tab {#marketo-global-tab}
 
-**Fliken Bästa val**
+Fliken **[!UICONTROL Best Bets]**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Följande gruppåtgärder är tillgängliga i listrutan på fliken Bästa val:
+Följande gruppåtgärder är tillgängliga i listrutan på fliken [!UICONTROL Best Bets]:
 
-* Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med visning, klickning och svarsuppföljning
-* Skicka säljkampanj - Lägg till leads till säljspelsböcker som är en sekvens av e-postmeddelanden och uppgifter
+* [!UICONTROL Send Sales Email] - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med visning, klickning och svarsuppföljning
+* [!UICONTROL Add to Sales Campaign] - Lägg till leads till försäljningsspelböcker som är en sekvens med e-postmeddelanden och uppgifter
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Följande textbundna åtgärder är tillgängliga för enskilda leads/kontakter på fliken Bästa val:
+Följande infogade åtgärder är tillgängliga för enskilda leads/kontakter på fliken [!UICONTROL Best Bets]:
 
-* Skicka e-post för försäljning - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med visning, klickning och svarsuppföljning
-* Skicka säljkampanj - Lägg till leads till säljspelsböcker som är en sekvens av e-postmeddelanden och uppgifter
-* Säljare - ringa försäljningssamtal med återförsäljaren i CRM
-* Lägg till aktivitet - Skapa e-post, samtal, kund- eller länkade aktiviteter för potentiella leads
+* [!UICONTROL Send Sales Email] - möjlighet att skicka personaliserade eller mallsidiga e-postmeddelanden med visning, klickning och svarsuppföljning
+* [!UICONTROL Add to Sales Campaign] - Lägg till leads till försäljningsspelböcker som är en sekvens med e-postmeddelanden och uppgifter
+* [!UICONTROL Sales Call] - ringa försäljningssamtal med återförsäljaren i CRM
+* [!UICONTROL Add Task] - Skapa e-post, samtal, kund- eller länkade aktiviteter för potentiella leads
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -154,8 +154,8 @@ Följande textbundna åtgärder är tillgängliga för enskilda leads/kontakter 
 
 * E-post, Samtal, InMail och Anpassade uppgifter som skapats och slutförts är tillgängliga för uppgiftshantering på den här fliken. Inkluderar möjlighet att lägga till aktivitet
 * Automatisera skapande av uppgifter med säljkampanjer
-* Synkronisera uppgifter med Salesforce
-* Logga uppgifter i avsnittet Aktivitetshistorik i Salesforce
+* Synkronisera uppgifter med [!DNL Salesforce]
+* Logga uppgifter i avsnittet [!DNL Salesforce] Aktivitetshistorik
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
@@ -172,18 +172,18 @@ Försäljningsaktiviteter som ingår i Marketo:
 * Öppna e-postmeddelande - Lead öppnade ett e-postmeddelande
 * Klicka på E-post för försäljning - Lead klickade på en länk i ett e-postmeddelande
 * Svara e-post - Lead svarade på ett e-postmeddelande
-* Ta emot försäljningssamtal - Lead tog emot ett samtal från en säljare med hjälp av försäljningsnumret.
+* Ta emot försäljningssamtal - Lead tog emot ett samtal från en säljare med hjälp av försäljningssamtalet.
 * Lägg till i försäljningskampanj - Lead lades till i en försäljningskampanj som skapats
 * Borttagen från försäljningskampanj - Lead har tagits bort från en försäljningskampanj som skapats
 
 Filter och utlösare är:
 
-* Skicka e-postmeddelande
-* Öppen e-postadress för försäljning
-* Klicka på E-postadress
-* Svar på e-postadress
-* Mottaget försäljningssamtal
-* Tillagd i försäljningskampanj
-* Borttagen från försäljningskampanj
+* [!UICONTROL Is Sent Sales Email]
+* [!UICONTROL Opens Sales Email]
+* [!UICONTROL Clicks Sales Email]
+* [!UICONTROL Replies to Sales Email]
+* [!UICONTROL Receives Sales Call]
+* [!UICONTROL Added to Sales Campaign]
+* [!UICONTROL Removed from Sales Campaign]
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

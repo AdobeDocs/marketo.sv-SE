@@ -4,9 +4,9 @@ description: Lägga till medlemmar i ett Event Program - Marketo Docs - produktd
 title: Lägga till medlemmar i ett händelseprogram
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
 1. [Skapa en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. I den smarta listan för den smarta kampanj du skapade i steg två söker du efter och lägger till filtret **Medlem i lista**.
+1. Sök efter och lägg till filtret **[!UICONTROL Member of List]** i den smarta listan för den smarta kampanj du skapade i steg två.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
    ![](assets/four.png)
 
-1. I Flödet söker du efter och lägger till flödessteget **Ändra programstatus**.
+1. Sök efter och lägg till flödessteget **[!UICONTROL Change Program Status]** i flödet.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Den här artikeln gäller endast användare som använder Event Cap- eller Event
 
    ![](assets/seven.png)
 
-1. Klicka på **Kör en gång** på fliken Schema.
+1. Klicka på [!UICONTROL Schedule] på fliken **[!UICONTROL Run Once]**.
 
    ![](assets/eight.png)
 
-1. Välj **Kör nu** och klicka på **Kör**.
+1. Markera **[!UICONTROL Run Now]** och klicka på **[!UICONTROL Run]**.
 
    ![](assets/nine.png)
 

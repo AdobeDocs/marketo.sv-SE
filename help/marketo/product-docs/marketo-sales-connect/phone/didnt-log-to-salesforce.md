@@ -1,18 +1,18 @@
 ---
 unique-page-id: 14352490
-description: Loggade inte till Salesforce - Marketo Docs - produktdokumentation
+description: Det gick inte att logga in på Salesforce - Marketo Docs - produktdokumentation
 title: Loggade inte till Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Loggade inte till Salesforce {#didnt-log-to-salesforce}
+# Loggade inte till [!DNL Salesforce] {#didnt-log-to-salesforce}
 
-Om du inte ser dina samtalsloggar i Salesforce kan det bero på att vi inte kan hitta någon lead/kontakt i Salesforce.
+Om du inte ser dina samtalsloggar på [!DNL Salesforce] kan det bero på att vi inte kan hitta någon lead/kontakt i [!DNL Salesforce].
 
-För samtal som ska loggas till rätt lead/kontakt måste Sales Connect ha Salesforce-ID:t. Det bästa sättet att lägga till Salesforce-ID:t i Sales Connect är att använda funktionen [Skicka till Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). När du använder Push to Sales Connect inkluderar vi Salesforce-ID:t i kontaktmigreringen.
+För anrop som ska loggas till rätt lead/kontakt måste [!DNL Sales Connect] ha [!DNL Salesforce]-ID:t. Det bästa sättet att lägga till [!DNL Salesforce]-ID:t i [!DNL Sales Connect] är att använda funktionen [Skicka till [!DNL Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). När du använder Push to [!DNL Sales Connect] inkluderar vi [!DNL Salesforce]-ID:t i kontaktmigreringen.

@@ -4,9 +4,9 @@ description: Åsidosätt analysbeteende på programnivå - Marketo Docs - produk
 title: Åsidosätt analysbeteende på programnivå
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), men du kan också åsidosätta det på programnivå. Så här:
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/pro
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Under fliken **Inställningar** drar du Analytics Behavior till arbetsytan.
+1. Dra **[!UICONTROL Setup]** till arbetsytan på fliken [!UICONTROL Analytics Behavior].
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Välj det Analytics-beteende du vill använda.
+1. Markera de [!UICONTROL Analytics Behavior] du vill ha.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/pro
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

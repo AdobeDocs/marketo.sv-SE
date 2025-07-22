@@ -4,9 +4,9 @@ description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - prod
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. Klicka på **[!UICONTROL New Field]** på fliken **[!UICONTROL Fields]**.
+1. Klicka på **[!UICONTROL Fields]** på fliken **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
@@ -66,7 +66,7 @@ Så här skapar du ett länkfält i ett anpassat objekt för en 1:N-struktur.
 
    >[!NOTE]
    >
-   >Endast strängfälttyper stöds i länkfältet.
+   >Endast strängfälttyper stöds i [!UICONTROL Link Field].
 
 1. Klicka på **[!UICONTROL Save]**.
 
@@ -92,7 +92,7 @@ Så här skapar du ett länkfält i ett mellanliggande objekt som kan användas 
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. Klicka på **[!UICONTROL New Field]** på fliken **[!UICONTROL Fields]**.
+1. Klicka på **[!UICONTROL Fields]** på fliken **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 

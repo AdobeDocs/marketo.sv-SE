@@ -4,9 +4,9 @@ description: Så här fungerar Engagement Score - Marketo Docs - produktdokument
 title: Så här fungerar engagemanget
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Det blir enkelt att se hur effektivt innehållet i engagemangsprogrammet är. Po
 
 ![](assets/highestengagementwidget.jpg)
 
-Poängen baseras på en egen algoritm som tar hänsyn till engagerat beteende (Open, Click, Program Success) och inaktiverat beteende (Unsubscribe). Den är baserad på e-post med dropp- och vårdstil, vilket ger ett genomsnitt på 50. För att ge användarna möjlighet att interagera med ert innehåll beräknas engagemangspoängen 72 timmar efter varje sändning. Poängen täcker bara data från **dina tre senaste**-sändningar.
+Poängen baseras på en egen algoritm som tar hänsyn till engagerat beteende ([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success]) och inaktiverat beteende ([!UICONTROL Unsubscribe]). Den är baserad på e-post med dropp- och vårdstil, vilket ger ett genomsnitt på 50. För att ge användarna möjlighet att interagera med ert innehåll beräknas engagemangspoängen 72 timmar efter varje sändning. Poängen täcker bara data från **dina tre senaste**-sändningar.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Rapportera instrumentpaneler i Salesforce - Marketo Docs - produktd
 title: Rapportera instrumentpaneler i Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Lär dig hur du konfigurerar instrumentpaneler nedan.
 
 ## Öppna och klicka på Rapport {#open-and-click-report}
 
-1. Välj posttypen **Uppgifter och händelser**.
+1. Välj posttypen **[!UICONTROL Tasks and Events]**.
 1. Definiera rapportparametrarna baserat på den önskade tidsramen och hierarkistrukturen.
-1. Lägg till ett filter för att ta bort interna e-postmeddelanden som loggats i Salesforce (t.ex. Företag/Konto inte lika med Marketo).
-1. Välj rapportformatet **Sammanfattning**.
+1. Lägg till ett filter för att ta bort interna e-postmeddelanden som loggats på [!DNL Salesforce] (t.ex. företag/konto är inte lika med Marketo).
+1. Välj rapportformatet **[!UICONTROL Summary]**.
 1. Lägg till fälten Ämne, Tilldelad och Marketo Sales Click/Marketo Sales Viewed i rapporten.
-1. Dubbelklicka på **Lägg till formel** i fältfönstret.
-1. Lägg till ett namn i formeln, markera **Procent** i formatet och välj **Gruppera**.
-1. Välj **Marketo Sales Click/Marketo Sales Viewed,** och sedan **Sum** i sammanfattningsfälten.
-1. Lägg till ett divisionstecken i formeln och välj sedan **Antal poster** i sammanfattningsfälten - _Spara som_.
+1. Dubbelklicka på **[!UICONTROL Add Formula]** i fältfönstret.
+1. Lägg till ett namn i formeln, välj **[!UICONTROL Percent]** i formatet och välj **[!UICONTROL Grouping 1]**.
+1. Välj **[!UICONTROL Marketo Sales Clicked/Marketo Sales Viewed]** och sedan **[!UICONTROL Sum]** i sammanfattningsfälten.
+1. Lägg till ett divisionstecken i formeln och välj sedan **[!UICONTROL Record Count]** i sammanfattningsfälten - _Spara som_.
 
 ## Resultatrapport för mall {#template-performance-report}
 

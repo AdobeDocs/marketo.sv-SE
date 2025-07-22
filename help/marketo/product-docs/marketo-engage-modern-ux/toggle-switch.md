@@ -3,9 +3,9 @@ description: Växla - Marketo Docs - produktdokumentation
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Med växeln Växla kan du växla mellan Marketo klassiska gränssnitt och det mo
 
 Aktivera växlingsväxling för enskilda roller eller för alla roller. Så här gör du.
 
-1. Klicka på **Admin** i Marketo Engage.
+1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
 
    ![](assets/toggle-switch-1.png)
 
-1. Klicka på **Ny upplevelse**.
+1. Klicka på **[!UICONTROL New Experience]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ Aktivera växlingsväxling för enskilda roller eller för alla roller. Så här
 
 ## Aktivera för funktioner {#enable-for-features}
 
-Du kan välja att manuellt aktivera det moderna användargränssnittet för Marketo Engage för enskilda funktioner eller alla tillgängliga funktioner (nuvarande och kommande).
+Du kan välja att manuellt aktivera Marketo Engage Modern UX för enskilda funktioner eller alla tillgängliga funktioner (nuvarande och kommande).
 
 I ett område som för närvarande har växeln Växla (i det här exemplet är vi i e-postlistvyn) klickar du bara på växeln längst ned till höger på sidan.
 
@@ -50,7 +50,7 @@ Om du vill aktivera den för _alla_ funktioner klickar du på kugghjulsikonen br
 
 ![](assets/toggle-switch-6.png)
 
-Välj **Aktivera för alla tillgängliga funktioner** och klicka på **OK**.
+Markera **[!UICONTROL Enable for all available features]** och klicka på **[!UICONTROL OK]**.
 
 ![](assets/toggle-switch-7.png)
 

@@ -4,10 +4,10 @@ description: Konfiguration för befintliga kunder - Marketo Docs - produktdokume
 title: Konfiguration för befintliga kunder
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -17,45 +17,45 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har uppgraderat ditt Salesforce-paket till den senaste versionen
+>Kontrollera att du har uppgraderat ditt [!DNL Salesforce]-paket till den senaste versionen
 
-## Konfigurera Sales Insight i Marketo {#configure-sales-insight-in-marketo}
+## Konfigurera [!DNL Sales Insight] i Marketo {#configure-sales-insight-in-marketo}
 
-1. Öppna en ny flik i webbläsaren och hämta Marketo Sales Insights-autentiseringsuppgifterna från ditt Marketo-konto.
+1. Öppna en ny flik i webbläsaren för att hämta inloggningsuppgifterna för [!DNL Marketo Sales Insights] från ditt Marketo-konto.
 
-1. Gå till området **Admin**.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klicka på **Sales Insight**.
+1. Klicka på **[!UICONTROL Sales Insight]**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klicka på **Visa** för att fylla i Rest API-autentiseringsuppgifter.
+1. Klicka på **[!UICONTROL View]** för att fylla i Rest API-autentiseringsuppgifter.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. En bekräftelse visas. Klicka på **OK**.
+1. En bekräftelse visas. Klicka på **[!UICONTROL OK]**.
 
-## Konfigurera säljinsikter i Salesforce {#configure-sales-insight-in-salesforce}
+## Konfigurera [!DNL Sales Insight] i [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på **[!UICONTROL Setup]** i Salesforce.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Sök efter och välj **Fjärrwebbplatsinställningar**.
+1. Sök efter och välj **[!UICONTROL Remote Site Settings]**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klicka på **Ny fjärrplats**.
+1. Klicka på **[!UICONTROL New Remote Site]**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Ange fjärrwebbplatsnamnet (det kan vara något som MarketoRestAPI) och URL:en för fjärrplatsen (din API-URL från konfigurationspanelen för Rest API i Marketo).
+1. Ange [!UICONTROL Remote Site Name] (det kan vara något som MarketoRestAPI) och [!UICONTROL Remote Site URL] (din API-URL från Rest API Configuration-panelen i Marketo).
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 
@@ -63,8 +63,8 @@ Ställ in följande konfiguration för att börja använda den nya instrumentpan
 
 ## Öppna Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. Kopiera inloggningsuppgifterna från panelen Rest API på Marketo Sales Insight Admin-sida. Klistra in dem i avsnittet Rest API på Salesforce konfigurationssida Sales Insight.
+1. Kopiera inloggningsuppgifterna från panelen Rest API på administratörssidan för [!DNL Marketo’s Sales Insight]. Klistra in dem i avsnittet Rest API på Salesforce [!DNL Sales Insight]-konfigurationssida.
 
-1. Ange API-hemlig nyckel.
+1. Ange [!UICONTROL API Secret Key].
 
    ![](assets/configuration-for-existing-customers-9.png)

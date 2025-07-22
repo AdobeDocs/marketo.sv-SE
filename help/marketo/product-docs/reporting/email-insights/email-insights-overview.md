@@ -4,18 +4,18 @@ description: Översikt över e-postinsikter - Marketo Docs - produktdokumentatio
 title: E-postinsikter - översikt
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # E-postinsikter - översikt {#email-insights-overview}
 
-E-postinsikter ger kraftfulla insikter från historiska data för e-postmarknadsförare. Det består av två separata men associerade avsnitt: Analys och Skicka.
+**[!UICONTROL Email Insights]** ger kraftfulla insikter från historiska data för e-postmarknadsförare. Det består av två separata men associerade avsnitt: [!UICONTROL Analytics] och [!UICONTROL Sends].
 
-Om du vill få tillgång till e-postinsikter klickar du bara på dess panel i Min Marketo (eller hemskärmen för Analytics).
+Om du vill komma åt **[!UICONTROL Email Insights]** klickar du bara på dess panel i Min Marketo (eller hemskärmen för Analytics).
 
 ![](assets/icon.png)
 
@@ -23,15 +23,15 @@ Om du vill få tillgång till e-postinsikter klickar du bara på dess panel i Mi
 >
 >Som standard visas data för alla arbetsytor som du har tillgång till. Du kan avmarkera arbetsytor som du inte vill visa. Dina val kommer att sparas i framtiden.
 
-## Analyser {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
-Använd [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) för att utforska den sammanställda tidsseriedata för e-postleverans och engagemangsmått.
+Använd [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) för att utforska den sammanställda tidsseriedatan för e-postleverans och engagemangsmått.
 
 ![](assets/emailanalytics.jpg)
 
 **Filter**
 
-Avancerade [filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) används för att dela upp resultat efter publik, innehåll eller plattform. Samma filter gäller för både Analytics och Send.
+Avancerade [filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) används för att dela upp resultat efter publik, innehåll eller plattform. Samma filter gäller för både [!UICONTROL Analytics] och [!UICONTROL Sends].
 
 ![](assets/filter.png)
 
@@ -41,9 +41,9 @@ Avancerade [filter](/help/marketo/product-docs/reporting/email-insights/filterin
 
 ![](assets/three.png)
 
-## Skickar {#sends}
+## [!UICONTROL Sends] {#sends}
 
-Granska egenskaperna för den senaste e-postkommunikationen på sidan [Skickar](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md).
+Granska e-postkommunikationens egenskaper på sidan [[!UICONTROL Sends]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md).
 
 ![](assets/two.png)
 
@@ -55,9 +55,9 @@ Klicka på mätfälten för att översätta färgerna till siffror.
 
 >[!NOTE]
 >
->Det kan ta upp till 8 timmar för data att spegla i e-postinsikter.
+>Det kan ta upp till 8 timmar för data att spegla i **[!UICONTROL Email Insights]**.
 
-## Anpassade Dimensioner {#custom-dimensions}
+## Anpassade dimensioner {#custom-dimensions}
 
 Alla Marketo standardmått ingår, men du kan lägga till upp till 10 anpassade dimensioner. [Anpassade dimensioner](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) består av segmenteringar och programtaggar.
 

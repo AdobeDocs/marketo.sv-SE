@@ -4,28 +4,28 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professi
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
-# Steg 2 av 3: Skapa en Salesforce-användare för Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Steg 2 av 3: Skapa en [!DNL Salesforce]-användare för Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
->De här stegen måste utföras av en Salesforce-administratör.
+>Dessa steg måste utföras av en Salesforce-administratör.
 
 >[!PREREQUISITES]
 >
 >[Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-I den här artikeln ska du anpassa fältbehörigheter med en Salesforce-sidlayout och skapa en Marketo-Salesforce-synkroniseringsanvändare.
+I den här artikeln anpassar du fältbehörigheter med sidlayouten [!DNL Salesforce] och skapar en Marketo-[!DNL Salesforce]-synkroniseringsanvändare.
 
 ## Ange sidlayout {#set-page-layouts}
 
-Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i motsats till Salesforce Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
+[!DNL Salesforce] Professional anger tillgänglighet på fältnivå med sidlayouter, till skillnad från [!DNL Salesforce] Enterprise/Unlimited&#39;s Profiles. Om du följer de här stegen kan Marketo synkroniseringsanvändare uppdatera anpassade fält.
 
 1. Skriv [!UICONTROL page layouts] i navigeringsfältet utan att trycka på **[!UICONTROL Enter]** och klicka **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
@@ -49,22 +49,22 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
 1. Upprepa ovanstående steg för följande fält:
 
-   * Anskaffningsprogram
-   * ID för förvärvsprogram
-   * Avanmäl dig via e-post
-   * Inaktuell ort
-   * Berört företag
-   * Berört land
-   * Ingående metropolitområde
-   * Riktnummer för inkommande telefon
-   * Infört postnummer
-   * Ingångsregion
-   * Leadpoäng
-   * Ursprunglig referens
-   * Ursprunglig sökmotor
-   * Ursprunglig sökfras
-   * Ursprunglig Source-information
-   * Ursprunglig Source-typ
+   * [!UICONTROL Acquisition Program]
+   * [!UICONTROL Acquisition Program Id]
+   * [!UICONTROL Email Opt Out]
+   * [!UICONTROL Inferred City]
+   * [!UICONTROL Inferred Company]
+   * [!UICONTROL Inferred Country]
+   * [!UICONTROL Inferred Metropolitan Area]
+   * [!UICONTROL Inferred Phone Area Code]
+   * [!UICONTROL Inferred Postal Code]
+   * [!UICONTROL Inferred State Region]
+   * [!UICONTROL Lead Score]
+   * [!UICONTROL Original Referrer]
+   * [!UICONTROL Original Search Engine]
+   * [!UICONTROL Original Search Phrase]
+   * [!UICONTROL Original Source Info]
+   * [!UICONTROL Original Source Type]
 
    >[!NOTE]
    >
@@ -92,7 +92,7 @@ Salesforce Professional anger tillgänglighet på fältnivå med sidlayouter, i 
 
 ## Skapa synkroniserad användare {#create-sync-user}
 
-Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Detta görs bäst med en dedikerad användare som skapats med stegen nedan.
+Marketo kräver autentiseringsuppgifter för åtkomst till [!DNL Salesforce]. Detta görs bäst med en dedikerad användare som skapats med stegen nedan.
 
 >[!NOTE]
 >
@@ -114,7 +114,7 @@ Marketo kräver inloggningsuppgifter för att få åtkomst till Salesforce. Dett
    >
    >Kontrollera att den e-postadress du anger är giltig. Du måste logga in som synkroniseringsanvändare för att återställa lösenordet.
 
-Underbar! Nu har du ett konto som Marketo kan använda för att ansluta till Salesforce. Låt oss göra det.
+Underbar! Nu har du ett konto som Marketo kan använda för att ansluta till [!DNL Salesforce]. Låt oss göra det.
 
 >[!MORELIKETHIS]
 >

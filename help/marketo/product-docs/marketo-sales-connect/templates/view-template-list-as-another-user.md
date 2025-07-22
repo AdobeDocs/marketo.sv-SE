@@ -4,10 +4,10 @@ description: Visa malllista som en annan användare - Marketo Docs - produktdoku
 title: Visa malllista som en annan användare
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ Som administratör kan du visa mallar som alla användare.
 >
 >**Administratörsbehörigheter krävs**
 
-1. Klicka på **Mallar**.
+1. Klicka på **[!UICONTROL Templates]**.
 
    ![](assets/one.png)
 
-1. Klicka på listrutan **Visa som** och välj önskad användare.
+1. Klicka på listrutan **[!UICONTROL View As]** och välj önskad användare.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ Som administratör kan du visa mallar som alla användare.
 
    >[!NOTE]
    >
-   >Du kan också använda filter eller sökfunktionen tillsammans med Visa som för att visa vad som är viktigast för dig.
+   >Du kan också använda filter eller sökfunktionen tillsammans med [!UICONTROL View As] för att visa vad som är mest relevant för dig.

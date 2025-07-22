@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2949718
-description: Publish an Email to Sales Insight - Marketo Docs - Product Documentation
-title: Publish an Email to Sales Insight
+description: Publicera ett e-postmeddelande till Sales Insight - Marketo Docs - produktdokumentation
+title: Publicera ett e-postmeddelande till Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Publish an Email to Sales Insight {#publish-an-email-to-sales-insight}
+# Publicera ett e-postmeddelande till [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 
-Aktivera inställningen Publish till Sales Insight för att göra ett e-postmeddelande tillgängligt för ditt säljteam i både Sales Insight och Outlook och Gmail Add-in. Du kan också ange ett förfallodatum.
+Aktivera inställningen Publicera till [!DNL Sales Insight] om du vill att ett e-postmeddelande ska vara tillgängligt för ditt säljteam i både [!DNL Sales Insight] och [!DNL Outlook]- och Gmail-tillägget. Du kan också ange ett förfallodatum.
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på din e-postadress, markera den och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
-1. När redigeraren öppnas klickar du på **E-postinställningar**.
+1. När redigeraren öppnas klickar du på **[!UICONTROL Email Settings]**.
 
    ![](assets/two.png)
 
-1. Kontrollera **Publish till Marketo Sales Insight**.
+1. Kontrollera **[!UICONTROL Publish to Marketo Sales Insight]**.
 
    ![](assets/three.png)
 
-1. Om du vill ange ett förfallodatum (valfritt) markerar du **Ange förfallodatum** och väljer ett datum.
+1. Om du vill ange ett förfallodatum (valfritt) markerar du **[!UICONTROL Set Expiration]** och väljer ett datum.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Kl. 23.59 (CST) på utgångsdatumet (om du anger ett) försvinner det e-postmeddelande du gjort tillgängligt både från Sales Insight och eventuella tillägg. Den kommer naturligtvis fortfarande att vara tillgänglig i Marketo.
+   >Kl. 21:00 (CST) på förfallodatumet (om du anger ett) försvinner det e-postmeddelande du gjort tillgängligt från :59 och alla dess tillägg. [!DNL Sales Insight] Den kommer naturligtvis fortfarande att vara tillgänglig i Marketo.
 
-1. Klicka på **Spara**.
+1. Klicka på **[!DNL Save]**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Snyggt jobb! Nu vet du hur du kan göra e-postmeddelanden tillgängliga för sä
 
 >[!NOTE]
 >
->[Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) kommer inte att matchas när du skickar ett e-postmeddelande från Sales Insight på antingen Microsoft Dynamics eller Salesforce. Endast standardtoken fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
+>[Mina token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) kommer inte att matchas när du skickar ett e-postmeddelande från [!DNL Sales Insight] på antingen [!DNL Microsoft Dynamics] eller [!DNL Salesforce]. Endast standardtoken fylls i (Lead, Company, etc.). Standardvärden för tokens fungerar dock.
 
 >[!TIP]
 >

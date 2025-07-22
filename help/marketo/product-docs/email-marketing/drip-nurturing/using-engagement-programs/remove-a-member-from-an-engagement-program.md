@@ -4,16 +4,16 @@ description: Ta bort en medlem från ett engagemangsprogram - Marketo Docs - pro
 title: Ta bort en medlem från ett engagemangsprogram
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Ta bort en medlem från ett engagemangsprogram {#remove-a-member-from-an-engagement-program}
 
-Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram med flödessteget **Ändra programstatus**.
+Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram med flödessteget **[!UICONTROL Change Program Status]**.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram
 
 ## Flödessteg {#flow-step}
 
-1. Dra i flödessteget **Ändra programstatus**.
+1. Dra i flödessteget **[!UICONTROL Change Program Status]**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Välj status, **Inte i programmet**.
+   Välj status, **[!UICONTROL Not in Program]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ Oj då! Hur kom de in dit? Du kan ta bort medlemmar från ett engagemangsprogram
 
 ## Pausa personer  {#pause-people}
 
-Ibland vill man bara pausa personer i ett engagemangsprogram och inte ta bort dem. Detta görs med **Change Engagement Program Cadence**.
+Ibland vill man bara pausa personer i ett engagemangsprogram och inte ta bort dem. Detta görs med **[!UICONTROL Change Engagement Program Cadence]**.
 
 >[!MORELIKETHIS]
 >

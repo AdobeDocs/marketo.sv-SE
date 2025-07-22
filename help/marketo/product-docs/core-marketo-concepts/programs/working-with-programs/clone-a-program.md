@@ -4,9 +4,9 @@ description: Clone a Program - Marketo Docs - produktdokumentation
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Klona snabbt och enkelt ett helt program och allt dess material i stället för att manuellt återskapa allting.
 
-1. Sök efter och välj det program som du vill klona. Klicka på **[!UICONTROL Clone]** i listrutan **[!UICONTROL Program Actions]**.
+1. Sök efter och välj det program som du vill klona. Klicka på **[!UICONTROL Program Actions]** i listrutan **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -29,9 +29,9 @@ Klona snabbt och enkelt ett helt program och allt dess material i stället för 
 
    >[!NOTE]
    >
-   >Ser du NOTE i skärmbilden ovan? Det innebär att om du klonar ett program med 1 000 eller fler personer i en lista kommer själva listan att klonas, men den kommer att vara tom. Om du klonar ett program med en lista som innehåller 999 personer eller mindre visas den listan tillsammans med alla dess medlemmar i det klonade programmet.
+   >Ser du [!UICONTROL NOTE] i skärmbilden ovan? Det innebär att om du klonar ett program med 1 000 eller fler personer i en lista kommer själva listan att klonas, men den kommer att vara tom. Om du klonar ett program med en lista som innehåller 999 personer eller mindre visas den listan tillsammans med alla dess medlemmar i det klonade programmet.
 
-1. Ange [!UICONTROL Name].
+1. Ange **[!UICONTROL Name]**.
 
    ![](assets/cloneprogramname.png)
 

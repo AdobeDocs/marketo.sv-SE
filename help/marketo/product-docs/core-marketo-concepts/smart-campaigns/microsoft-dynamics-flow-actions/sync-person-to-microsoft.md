@@ -4,9 +4,9 @@ description: Synkronisera person till Microsoft - Marketo Docs - produktdokument
 title: Synkronisera person till Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '68'
 ht-degree: 1%
 
 ---
@@ -17,13 +17,13 @@ Den här funktionen är endast avsedd för dem som integrerar Marketo Engage med
 
 ## Översikt {#overview}
 
-Det här flödessteget infogar personer som skapats av Marketo i Dynamics CRM.
+Det här flödessteget infogar personer som skapats av Marketo i din [!DNL Dynamics] CRM.
 
 ![](assets/sync-person-to-microsoft-1.png)
 
 ## Användning {#usage}
 
-Du kan ange en Dynamics-användare som personägare.
+Du kan ange en [!DNL Dynamics]-användare som personägare.
 
 ![](assets/sync-person-to-microsoft-2.png)
 

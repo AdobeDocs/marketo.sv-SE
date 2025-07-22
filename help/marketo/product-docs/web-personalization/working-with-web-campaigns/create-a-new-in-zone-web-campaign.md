@@ -4,9 +4,9 @@ description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentati
 title: Skapa en ny webbkampanj i zonen
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 ## Skapa en webbkampanj i zonen {#create-an-in-zone-web-campaign}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Välj **Skapa ny webbkampanj.**
+1. Välj **[!UICONTROL Create New Web Campaign].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Välj kampanjtypen **I zon**. Anpassa och lägg till ett **zon-ID.** Ställ in kampanjen på **Sticky** och lägg till din kreativitet i redigeraren. Lägg till sidans URL för att förhandsgranska och klicka på **Förhandsgranska** för att se hur kampanjen kommer att reagera på webbplatsen.
+1. Välj kampanjtypen **[!UICONTROL In Zone]**. Anpassa och lägg till en **[!UICONTROL Zone id].** Ställ in kampanjen på **[!UICONTROL Sticky]** och lägg till din kreativitet i redigeraren. Lägg till sidans URL för att förhandsgranska och klicka på **[!UICONTROL Preview]** för att se hur kampanjen kommer att reagera på din webbplats.
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    >
    >**Vad är ett zon-ID?**
    >
-   >Ett zon-ID är där du vill att webbkampanjen In Zone ska placeras på plats. Om du vill hitta ett &quot;zon-ID&quot; går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet&quot;Inspect Element&quot;, vilket i andra webbläsare kan variera.
+   >Ett zon-ID är där du vill att webbkampanjen [!UICONTROL In Zone] ska placeras på webbplatsen. Om du vill hitta [!UICONTROL Zone ID] går du till webbplatsen och väljer det område som du vill ersätta med en webbkampanj och högerklickar. I Chrome är alternativet &quot;Inspect Element&quot; (Inspektera element). I andra webbläsare kan det variera.
    >
    >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du till exempel högerklickar i Chrome och den markerade texten säger `<div id="featured-slider">` är &quot;featured-slider&quot; det som du bör skriva i &quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
 
@@ -98,7 +98,7 @@ På sidan **Webbkampanjer** klickar du på **Redigera** i kampanjen.
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-1. Klicka på **Förhandsgranska** på webbkampanjsidan som du vill visa.
+1. Klicka på [!UICONTROL Web Campaigns] på webbkampanjen som du vill visa på sidan **[!UICONTROL Preview]**.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Klicka på **Ta bort** på den kampanj du vill ta bort på sidan Webbkampanjer.
+1. Klicka på **[!UICONTROL Delete]** på den kampanj du vill ta bort på sidan Webbkampanjer.
 
    ![](assets/in-zone-web-campaign-delete.png)
 

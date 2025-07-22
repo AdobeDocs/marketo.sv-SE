@@ -3,16 +3,16 @@ description: Överför ett Adobe Experience Platform-segment till en Marketo Sta
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
 # Överför ett Adobe Experience Platform-segment till en Marketo Static List {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-Med den här funktionen kan du skicka segment som finns i din Adobe Experience Platform till Marketo Engage i form av en statisk lista.
+Med den här funktionen kan du överföra segment som finns i din Adobe Experience Platform till Marketo Engage i form av en statisk lista.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Hitta plattan Marketo Engage och klicka på **[!UICONTROL Activate]**.
+1. Hitta Marketo Engage-rutan och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -64,7 +64,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!NOTE]
    >
-   >Om du väljer&quot;Matcha endast befintliga Marketo-användare&quot; behöver du bara mappa e-postmeddelandet och/eller ECID så att du kan hoppa över steg 13-16.
+   >Om du väljer [!UICONTROL Match Existing Marketo People Only] behöver du bara mappa e-postadressen och/eller ECID, så du kan hoppa över steg 13-16.
 
 1. Det här avsnittet är valfritt. Klicka på **[!UICONTROL Create]** om du vill hoppa över.
 
@@ -80,7 +80,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!NOTE]
    >
-   >Om du väljer flera segment måste du mappa varje segment till en angiven statisk lista på fliken Segmentschema.
+   >Om du väljer flera segment måste du mappa varje segment till en angiven statisk lista på fliken [!UICONTROL Segment Schedule].
 
    >[!IMPORTANT]
    >
@@ -100,7 +100,7 @@ Med den här funktionen kan du skicka segment som finns i din Adobe Experience P
 
    >[!NOTE]
    >
-   >Du kan mappa attribut från Experience Platform till attribut som din organisation har åtkomst till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
+   >Du kan mappa attribut från Experience Platform till alla attribut som din organisation har tillgång till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** igen och upprepa steg 15 två gånger. Välj **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
 

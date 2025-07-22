@@ -4,9 +4,9 @@ description: Förstå anonym aktivitet och människor - Marketo Docs - produktdo
 title: Förstå anonym aktivitet och människor
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ Första gången någon besöker en Marketo-landningssida (eller en sida på webb
 
 >[!IMPORTANT]
 >
->Genom att aktivera Beta-funktionen **Munchkin V2 Anonymous Replay Activity (anonym reprisaktivitet) på Känd** säkerställs att kampanjer som utlöses av anonym leadkampanj alltid spelas upp när det anonyma leadet har slagits samman till den kända posten. Därför behålls anpassade fält som ändrats genom steg för att ändra datavärde i alla återspelade kampanjer i den kända posten.
+>Genom att aktivera den anonyma återspelningsaktiviteten **[!DNL Munchkin]V2 för Beta-funktionen på Känd** säkerställs att kampanjer som utlöses av anonym lead-kampanj alltid spelas upp när det anonyma leadet har slagits samman till den kända posten. Därför behålls anpassade fält som ändrats genom steg för att ändra datavärde i alla återspelade kampanjer i den kända posten.
 
 **En anonym**-aktivitet skapas när någon:
 
 * Besök Marketo startsida första gången.
-* Besöker en sida på webbplatsen som har [Munchkin-spårning](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Besöker en sida på webbplatsen som har [Munchkin tracking](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Klicka på länken [Visa som webbsida](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} i ett Marketo-e-postmeddelande.
 
 >[!NOTE]

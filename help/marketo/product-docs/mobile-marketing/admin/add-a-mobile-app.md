@@ -4,10 +4,10 @@ description: Lägg till en mobilapp - Marketo Docs - produktdokumentation
 title: Lägg till en mobilapp
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 0%
+source-wordcount: '185'
+ht-degree: 2%
 
 ---
 
@@ -20,27 +20,27 @@ Appar startar normalt ut i en sandlådemiljö, där inledande utveckling och tes
 >[!AVAILABILITY]
 >
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klicka på **Mobilappar och enheter**.
+1. Klicka på **[!UICONTROL Mobile Apps & Devices]**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Klicka på **Ny mobilapp**.
+1. Klicka på **[!UICONTROL New Mobile App]**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Ange ett namn. I listrutan **Typ** väljer du vilken typ av miljö du använder: Sandbox eller Production. Klicka på **Spara**.
+1. Ange ett namn. I listrutan **[!UICONTROL Type]** väljer du vilken typ av miljö du använder -[!UICONTROL Sandbox] eller [!UICONTROL Production]. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >Vi rekommenderar att du använder ett produktionsmeddelandecertifikat i en produktionsmiljö. Ett sandlådecertifikat installeras i en produktionsmiljö utan problem, men du får inga meddelanden. Om du har frågor om din miljö eller ditt meddelandecertifikat kontaktar du Marketo Admin eller Mobile Apps Developer.
+   >Vi rekommenderar att du använder ett [!UICONTROL Production]-meddelandecertifikat i en [!UICONTROL Production]-miljö. Ett [!UICONTROL Sandbox]-certifikat kommer att installeras i en [!UICONTROL Production]-miljö utan problem, men du kommer inte att få några meddelanden. Om du har frågor om din miljö eller ditt meddelandecertifikat kontaktar du Marketo Admin eller Mobile Apps Developer.
 
    Snyggt! Nu ska vi konfigurera appen så att den fungerar med Android- och iOS-enheter.
 

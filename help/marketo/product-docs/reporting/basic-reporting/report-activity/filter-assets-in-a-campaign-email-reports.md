@@ -4,9 +4,9 @@ description: Filtrera Assets i en Campaign-e-postrapport - Marketo Docs - produk
 title: Filtrera Assets i en kampanjrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ Fokusera din [rapport om e-postprestanda för kampanj](/help/marketo/product-doc
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klicka på fliken **Inställningar** och dra över ett filter.
+1. Klicka på fliken **[!UICONTROL Setup]** och dra över ett filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Kampanjer**: Aktiva smarta kampanjer i ditt Marketo-konto.
-   * **Arkiverade kampanjer**: Inaktiva, inaktiva smarta kampanjer.
+   * **[!UICONTROL Campaigns]**: Aktiva smarta kampanjer i ditt Marketo-konto.
+   * **[!UICONTROL Archived Campaigns]**: Inaktiva, inaktuella smarta kampanjer.
 
 1. Välj mappar och smarta kampanjer som ska inkluderas i rapporten.
 
@@ -42,7 +42,7 @@ Fokusera din [rapport om e-postprestanda för kampanj](/help/marketo/product-doc
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Du är klar! Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
+1. Du är klar! Klicka på fliken **[!UICONTROL Report]** för att visa den filtrerade rapporten.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

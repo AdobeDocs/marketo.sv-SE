@@ -4,9 +4,9 @@ description: Välj en befintlig e-postadress - Marketo Docs - produktdokumentati
 title: Välj en befintlig e-postadress
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) och definierat din målgrupp, vill du bestämma vilken e-postadress du ska skicka. Du kan [skapa ett e-postmeddelande för ett e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) från grunden eller välja ett som redan finns. Så här väljer du en som redan finns.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketin
 
    ![](assets/selectemailprogram.jpg)
 
-1. Under rutan **E-post** markerar du den som du vill skicka.
+1. Under rutan **[!UICONTROL Email]** väljer du den du vill skicka.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

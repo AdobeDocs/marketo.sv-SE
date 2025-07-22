@@ -4,16 +4,16 @@ description: How Sales Connect Handles Email Deduplicing - Marketo Docs - Produc
 title: Hur Sales Connect hanterar e-postborttagning av dubbletter
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Hur Sales Connect hanterar e-postborttagning av dubbletter {#how-sales-connect-handles-email-de-duping}
+# Hur [!DNL Sales Connect] hanterar borttagning av dubbletter av e-post {#how-sales-connect-handles-email-de-duping}
 
-När du [överför en CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)-fil till Sales Connect sammanfogas alla liknande kontakter i CSV-filen innan importen sker.
+När du [överför en CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)-fil till [!DNL Sales Connect] sammanfogas alla liknande kontakter i CSV-filen innan importen sker.
 
 Vi gör detta baserat på e-postadressen. Om det finns två identiska e-postadresser sammanfogar vi dem till en kontakt.
 

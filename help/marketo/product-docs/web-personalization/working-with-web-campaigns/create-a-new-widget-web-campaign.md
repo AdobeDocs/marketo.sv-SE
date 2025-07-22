@@ -4,9 +4,9 @@ description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumen
 title: Skapa en ny webbkampanj för widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 ## Skapa en webbkampanj för widget {#create-a-widget-web-campaign}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Välj **Skapa ny webbkampanj**.
+1. Välj **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Välj kampanjtypen **Widget**.
+1. Välj kampanjtypen **[!UICONTROL Widget]**.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
    ![](assets/4.png)
 
-1. Klicka på **Förhandsgranska** för att se hur webbkampanjen kommer att reagera på din webbplats.
+1. Klicka på **[!UICONTROL Preview]** om du vill se hur webbkampanjen kommer att reagera på din webbplats.
 
    ![](assets/preview.png)
 
@@ -63,7 +63,7 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Widget Color</strong></td> 
-   <td colspan="1" rowspan="1"><p>Markera widgetens färg i ett färgdiagram eller ange den som en RGB-färgkod. Du kan också välja genomskinlighetsnivån för widgetens bakgrund genom att flytta fältet längst ned i någon av riktningarna.</p></td> 
+   <td colspan="1" rowspan="1"><p>Välj widgetfärgen från ett färgdiagram eller ange den som en RGB-färgkod. Du kan också välja genomskinlighetsnivån för widgetens bakgrund genom att flytta fältet längst ned i någon av riktningarna.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Widget-knapp</strong><br></p></td> 
@@ -95,11 +95,11 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
 
 >[!NOTE]
 >
->**Vill du testa dina webbkampanjer?** En eller flera webbkampanjer kan [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen Automatisk justering känner plattformen automatiskt igen de kampanjer som presterar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
+>**Vill du testa dina webbkampanjer?** En eller flera webbkampanjer kan [A/B-testas för optimala resultat](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Med funktionen [!UICONTROL Auto Tune] känner plattformen automatiskt igen de kampanjer som fungerar bättre, fortsätter med de mest konverterande kampanjerna och pausar de andra.
 
 ## Redigera en webbkampanj {#edit-a-web-campaign}
 
-Klicka på **Redigera** i Campaign på webbkampanjsidan.
+Klicka på [!UICONTROL Web Campaigns] på Campaign på sidan **[!UICONTROL Edit]**.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Se [Klona en webbkampanj](/help/marketo/product-docs/web-personalization/working
 
 ## Förhandsgranska en webbkampanj {#preview-a-web-campaign}
 
-Klicka på **Förhandsgranska** på webbkampanjen som du vill förhandsgranska på sidan Webbkampanjer
+Klicka på [!UICONTROL Web Campaigns] på webbkampanjen som du vill förhandsgranska på sidan **[!UICONTROL Preview]**
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Ta bort en webbkampanj {#delete-a-web-campaign}
 
-1. Klicka på **Ta bort** på webbkampanjen som du vill ta bort på sidan Webbkampanjer.
+1. Klicka på [!UICONTROL Web Campaigns] på webbkampanjen som du vill ta bort på sidan **[!UICONTROL Delete]**.
 
    ![](assets/widget-campaign-delete-hand.png)
 

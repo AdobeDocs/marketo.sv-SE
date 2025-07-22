@@ -4,9 +4,9 @@ description: Kontoutlösare - Marketo Docs - produktdokumentation
 title: Kontoutlösare
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Välj din smarta kampanj och klicka på **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
-Ange &quot;Namngivet konto&quot; i sökrutan för att hitta båda utlösarna för namngivet konto.
+Ange [!UICONTROL Named Account] i sökrutan för att hitta båda [!UICONTROL Named Account]-utlösarna.
 
 ![](assets/two-1.png)
 
-Dra utlösaren till arbetsytan. I det här exemplet använder vi _Added to Named Account_.
+Dra utlösaren till arbetsytan. I det här exemplet använder vi _[!UICONTROL Added to Named Account]_.
 
 ![](assets/three-1.png)
 

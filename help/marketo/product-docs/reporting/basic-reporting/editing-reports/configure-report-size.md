@@ -4,9 +4,9 @@ description: Konfigurera rapportstorlek - Marketo Docs - produktdokumentation
 title: Konfigurera rapportstorlek
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Som standard är Marketo-rapporter begränsade till högst 5 000 rader, men du kan ändra den gränsen.
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Inställningar**.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **[!UICONTROL Setup]**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Dubbelklicka på **Exportera rader tillgängliga**.
+1. Dubbelklicka på **[!UICONTROL Export Rows Available]**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -33,9 +33,9 @@ Som standard är Marketo-rapporter begränsade till högst 5 000 rader, men du k
 
    >[!TIP]
    >
-   >Om du ändrar gränsen ändras även rapportstorleken, inte bara den exporterade Excel-filen. Om det tar för lång tid att generera rapporten minskar du gränsen!
+   >Om du ändrar gränsen ändras rapportstorleken i sig, inte bara den exporterade [!DNL Excel]-filen, så om det tar för lång tid att generera rapporten kan du minska gränsen!
 
-1. Klicka på **Spara** för att bekräfta den nya gränsen.
+1. Klicka på **[!UICONTROL Save]** för att bekräfta den nya gränsen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 

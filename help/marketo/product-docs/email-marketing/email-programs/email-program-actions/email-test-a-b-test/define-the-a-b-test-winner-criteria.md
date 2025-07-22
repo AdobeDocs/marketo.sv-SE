@@ -4,9 +4,9 @@ description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documen
 title: Definiera villkor för A/B-testvinnare
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -21,26 +21,26 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
 ## Vinnarvillkor {#winner-criteria}
 
-1. Standardalternativen för **vinnarvillkor** visas först.
+1. Standardalternativen för **[!UICONTROL Winner Criteria]** visas först.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
    <table>
    <tr>
-   <td><b>Öppnar</b></td>
+   <td><b>[!UICONTROL Opens]</b></td>
    <td>En öppen registrerar när bilder hämtas till ett e-postmeddelande. Även om du inte inkluderar någon bild infogar Marketo som standard en enda spårningspixel i alla HTML-e-postmeddelanden.</td>
    </tr>
    <tr>
-   <td><b>Klickningar</b></td>
+   <td><b>[!UICONTROL Clicks]</b></td>
    <td>Som standard är länkar i e-postmeddelanden inbäddade i spårning, vilket gör att du kan se vem som klickade på länken, hur många länkar som klickades osv.</td>
    </tr>
    <tr>
-   <td><b>Klicka för att öppna %</b></td>
+   <td><b>[!UICONTROL Click to Open] %</b></td>
    <td>Procentandel e-postmeddelanden som öppnades och där en länk klickades i e-postmeddelandet. Detta mäter relevansen och sammanhanget för ett e-postmeddelande genom att ta antalet unika klick dividerat med antalet unika öppningar och sedan multiplicera med 100 för att visa det som en procentandel.</td>
    </tr>
    <tr>
-   <td><b>Engagement Score</b></td>
-   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=sv-SE" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
+   <td><b>[!UICONTROL Engagement Score]</b></td>
+   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
    </tr>
    </table>
 
@@ -48,7 +48,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    >
    >Om du väljer Engagement Score måste testet köras i minst 24 timmar. Läs mer om [att förstå engagemangspoängen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
-1. Du kan också anpassa villkoren genom att välja Anpassad konvertering och klicka på Redigera.
+1. Du kan också anpassa dina villkor genom att välja **[!UICONTROL Custom Conversion]** och klicka på **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
@@ -68,7 +68,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    >
    >Marketo tillåter bara utlösare/filter för personer som har fått e-postmeddelandet från det här e-postprogrammet, så du behöver inte lägga till filtret&quot;Har skickats e-post&quot;. När du använder en e-postrelaterad utlösare/filter måste du dessutom se till att&quot;är någon&quot; som operator.
 
-1. Klicka på **Stäng**.
+1. Klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
@@ -82,16 +82,16 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
    >[!NOTE]
    >
-   >Om du gör ett **datum/tid** A/B-test kan du bara välja **Manuell**.
+   >Om du gör ett **Datum/tid** A/B-test kan du bara välja **[!UICONTROL Manual]**.
 
    När A/B-testet är klart kan Marketo automatiskt skicka det vinnande e-postmeddelandet vid den schemalagda tidpunkten, eller så kan du granska resultatet och bestämma när e-postmeddelandet ska skickas.
 
-1. Automatiskt är grymt och är standardalternativet. Klicka bara på **Nästa**.
+1. Automatiskt är grymt och är standardalternativet. Klicka bara på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Om du väljer **Manuell** skickas testet ut och du väntar på att du ska deklarera en vinnare. Du får en rapport över resultaten.
+   >Om du väljer **[!UICONTROL Manual]** skickas testet ut och du väntar på att du ska deklarera en vinnare. Du får en rapport över resultaten.
 
 Perfekt! Nu ska vi [schemalägga A/B-testet](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

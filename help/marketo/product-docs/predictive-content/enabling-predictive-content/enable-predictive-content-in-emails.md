@@ -4,9 +4,9 @@ description: Aktivera prediktivt innehåll i e-postmeddelanden - Marketo Docs - 
 title: Aktivera prediktivt innehåll i e-postmeddelanden
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
 ## Lägga till prediktivt innehåll med e-postredigeraren 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Klicka på **marknadsföringsaktiviteter**.
+1. Klicka på **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
-1. Klicka på bilden som du vill göra prediktiv. När kugghjulsikonen visas klickar du på den och väljer **Aktivera ContentAI** (ContentAI är det tidigare namnet för Predictive Content).
+1. Klicka på bilden som du vill göra prediktiv. När kugghjulsikonen visas klickar du på den och väljer **[!UICONTROL Enable ContentAI]** (ContentAI är det tidigare namnet för Predictive Content).
 
    ![](assets/three.png)
 
-1. Om du vill välja en eller flera kategorier klickar du på listrutan **Kategorier**, markerar dem och klickar på **Använd**.
+1. Om du vill markera en eller flera kategorier klickar du på listrutan **[!UICONTROL Categories]**, markerar dem och klickar på **[!UICONTROL Apply]**.
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
 
    ![](assets/five.png)
 
-1. Om du vill förhandsgranska e-postmeddelandet klickar du på **Förhandsgranska** i det övre högra hörnet.
+1. Om du vill förhandsgranska din e-post klickar du på **[!UICONTROL Preview]** i det övre högra hörnet.
 
    ![](assets/six.png)
 
-1. Om du vill visa olika möjliga bilder klickar du på **Uppdatera**.
+1. Om du vill visa olika möjliga bilder klickar du på **[!UICONTROL Refresh]**.
 
    ![](assets/seven.png)
 
@@ -69,7 +69,7 @@ Gör en eller flera bilder i ditt e-postmeddelande prediktiva och skräddarsy up
    >
    >Bilden markeras inte **_förrän mottagaren öppnar e-postmeddelandet_**. Det du ser i förhandsgranskningen är alltså bara ett exempel och behöver inte vara den bild som mottagaren ser.
 
-1. När du har förhandsgranskat e-postmeddelandet klickar du på listrutan **Förhandsgranskningsåtgärder** och väljer **Godkänn och stäng**. Om du fortfarande behöver redigera klickar du på **Redigera utkast** till höger.
+1. När du har förhandsgranskat e-postmeddelandet klickar du på listrutan **[!UICONTROL Preview Actions]** och väljer **[!UICONTROL Approve and Close]**. Om du fortfarande behöver redigera klickar du på **[!UICONTROL Edit Draft]** till höger.
 
    ![](assets/eight.png)
 

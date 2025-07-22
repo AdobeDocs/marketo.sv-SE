@@ -4,9 +4,9 @@ description: Förstå periodkostnader - Marketo Docs - produktdokumentation
 title: Förstå periodkostnader
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Periodkostnader avser de pengar du spenderar under en viss månad på ett progra
 >
 >**Exempel**
 >
->Om du spenderar 1 000 dollar på att anställa en illustratör till en e-bok som lanseras i juli, skulle kostnaden för e-boksprogrammet bli 1 000 dollar i juli.
+>Om du spenderar 1 000 dollar på att anställa en illustratör för en [!DNL eBook] som startar i juli, skulle [!DNL eBook]-programmet ha en periodkostnad på 1 000 dollar i juli.
 >
 >Om du spenderar 200 USD per månad på [!DNL Google Adwords] har [!DNL Google Adwords]-programmet en periodkostnad på 200 _USD varje månad_.
 

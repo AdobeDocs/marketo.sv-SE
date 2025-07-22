@@ -4,16 +4,16 @@ description: Översikt över analys av e-postinsikter - Marketo Docs - produktdo
 title: Översikt över analys av e-postinformation
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # Översikt över analys av e-postinformation {#email-insights-analytics-overview}
 
-Utforska aggregerade data i Analytics för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
+I [!UICONTROL Analytics] kan du utforska aggregerade data för e-postleverans och engagemang. Använd diagrammet till vänster för att utforska data, insikterna till höger för en mer guidad upplevelse.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ Till höger på sidan finns guidade mätvärden som hjälper dig att identifiera
 
 >[!NOTE]
 >
->Ser du Refresh uppe till höger? När du ser den måste du klicka på den manuellt för att uppdatera Insights-modulen. Vi visar det bara när du har gjort en ändring i filter som skulle göra de aktuella värdena ogiltiga.
+>Ser du [!UICONTROL Refresh] i det övre högra hörnet? När du ser den måste du klicka på den manuellt för att uppdatera Insights-modulen. Vi visar det bara när du har gjort en ändring i filter som skulle göra de aktuella värdena ogiltiga.
 
 Du kan också ange vad du ser (vänster till höger): Alla, Målgrupp, Innehåll och Plattform.
 

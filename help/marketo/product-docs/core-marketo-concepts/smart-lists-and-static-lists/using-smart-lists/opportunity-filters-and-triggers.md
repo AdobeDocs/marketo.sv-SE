@@ -4,20 +4,20 @@ description: Filter och utlösare för affärsmöjligheter - Marketo Docs - prod
 title: Filter och utlösare för affärsmöjligheter
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
 # Filter och utlösare för affärsmöjligheter {#opportunity-filters-and-triggers}
 
-Med filter och utlösare för affärsmöjligheter kan du spåra affärsmöjlighetshändelser från Salesforce. De är lite annorlunda jämfört med andra filter och utlösare.
+Med filter och utlösare för affärsmöjligheter kan du spåra affärsmöjlighetshändelser från [!DNL Salesforce]. De är lite annorlunda jämfört med andra filter och utlösare.
 
 ## Affärsmöjlighetsfilter {#opportunity-filters}
 
-Med säljprojektsfilter kan du fördjupa dig i dina Salesforce-leads som har möjligheter. Du kan hitta dem i mappen Affärsmöjligheter på paletten när du redigerar en smart lista. De kommer i några smaker.
+Med säljprojektsfilter kan ni fördjupa er i era Salesforce-leads som har möjligheter. Du kan hitta dem i mappen Affärsmöjligheter på paletten när du redigerar en smart lista. De kommer i några smaker.
 
 * Antal optyer
 * Totalt tomt belopp

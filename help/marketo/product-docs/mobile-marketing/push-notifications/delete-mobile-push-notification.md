@@ -4,16 +4,16 @@ description: Ta bort mobilpush-meddelanden - Marketo Docs - produktdokumentation
 title: Ta bort mobilpush-meddelande
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Ta bort mobilpush-meddelande {#delete-mobile-push-notification}
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Klicka på **Ta bort** under **Push Notification Actions**.
+1. Klicka på **[!UICONTROL Push Notification Actions]** under **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

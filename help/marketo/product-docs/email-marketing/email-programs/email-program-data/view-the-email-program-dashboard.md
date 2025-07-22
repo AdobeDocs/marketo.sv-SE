@@ -4,9 +4,9 @@ description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdok
 title: Visa kontrollpanelen för e-postprogram
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Ta reda på hur ditt e-postprogram (med eller utan A/B-test) fungerar med den h�
 
 ## Välj e-postprogram {#select-your-email-program}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -4,9 +4,9 @@ description: Prestandarapport för landningssida - Marketo Docs - produktdokumen
 title: Prestandarapport för landningssida
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Se hur många som fyllt i formulären på landningssidorna och hur många som va
 >
 >Om antalet siffror i din smarta lista och landningssidans resultatrapport är olika beror det troligen på att smarta listor bara filtrerar data på personer, medan landningssidans resultatrapporter förutom persondata omfattar sociala (Facebook, Google Ads osv.) och anonyma aktiviteter.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [för landningssidans prestanda](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken Rapport.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj [!UICONTROL Landing Page Performance] [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken [!UICONTROL Report].
 1. Så ja! Utforska rapporten och utvärdera hur bra era landningssidor fungerar.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

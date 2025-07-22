@@ -4,9 +4,9 @@ description: Ändra ett formulärs språkversion - Marketo Docs - produktdokumen
 title: Ändra språkinställning för ett formulär
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 När du arbetar med internationella formulär vill du visa datum/tid i rätt format. Marketo gör detta automatiskt åt dig, allt du behöver göra är att ställa in formulärets språkområde och ta hand om resten.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar**.
+1. Klicka på **[!UICONTROL Form Settings]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Välj **Språk**.
+1. Välj önskad **[!UICONTROL Form Locale]**.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klicka på **Godkänn och stäng** för att tillämpa och spara ändringarna.
+1. Klicka på **[!UICONTROL Approve and Close]** om du vill använda och spara ändringarna.
 
    >[!NOTE]
    >

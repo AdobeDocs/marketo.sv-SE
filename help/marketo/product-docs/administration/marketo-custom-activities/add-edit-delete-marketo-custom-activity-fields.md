@@ -4,9 +4,9 @@ description: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo 
 title: Lägg till/redigera/ta bort anpassade aktivitetsfält för Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '262'
 ht-degree: 2%
 
 ---
@@ -73,7 +73,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Popup-fönstret Redigera fält visas. I det här exemplet ska vi ändra fältets namn.
+   Popup-fönstret **[!UICONTROL Edit Field]** visas. I det här exemplet ska vi ändra fältets namn.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
@@ -83,7 +83,7 @@ Du kan behöva lägga till, ändra eller ta bort ett anpassat aktivitetsfält. S
 
    >[!NOTE]
    >
-   >API-namnet fylls inte i automatiskt när ett fält redigeras. Även om det inte krävs att fältnamnet och API-namnet matchar bör de göra det.
+   >[!UICONTROL Api Name] fylls inte i automatiskt när ett fält redigeras. Även om det inte krävs att fältet [!UICONTROL Name] och [!UICONTROL Api Name] matchar, rekommenderar vi att de gör det.
 
    >[!CAUTION]
    >

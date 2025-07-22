@@ -4,18 +4,18 @@ description: Filtrera en rapport om landningssidans prestanda - Marketo Docs - p
 title: Filtrera en rapport om landningssidans prestanda
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Filtrera en rapport om landningssidans prestanda {#filter-a-landing-page-performance-report}
 
-Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på dem i Design Studio (globala resurser) eller på dem som har arkiverats.
+Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) på landningssidor i dina program (lokala resurser), på de i [!UICONTROL Design Studio] (globala resurser) eller på de som har arkiverats.
 
-1. Gå till **Analytics** (eller **Marketing Activities**).
+1. Gå till **[!UICONTROL Analytics]** (eller **[!UICONTROL Marketing Activities]**).
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/d
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Klicka på fliken **Inställningar** och dra i ett filter.
+1. Klicka på fliken **[!UICONTROL Setup]** och dra i ett filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Startsidor för Design Studio:** Globala resurser som hanteras i Design Studio.
-   * **Landningssidor för marknadsföringsaktiviteter:** Lokala resurser i program på fliken Marknadsföringsaktiviteter.
-   * **Arkiverade landningssidor:** Inaktiva, indragna landningssidor.
+   * **[!UICONTROL Design Studio Landing Pages]:** Globala resurser som hanteras i [!UICONTROL Design Studio].
+   * **[!UICONTROL Marketing Activities Landing Pages]:** Lokala resurser i program på fliken [!UICONTROL Marketing Activities].
+   * **[!UICONTROL Archived Landing Pages]:** Inaktiva, indragna landningssidor.
 
 1. Välj mappar och specifika landningssidor som ska inkluderas i rapporten.
 
@@ -39,6 +39,6 @@ Fokusera din [rapport om landningssidans prestanda](/help/marketo/product-docs/d
    >
    >Om du väljer en mapp innehåller rapporten allt som finns i mappen när rapporten körs.
 
-1. Du är klar! Klicka på fliken **Rapport** för att visa den filtrerade rapporten.
+1. Du är klar! Klicka på fliken **[!UICONTROL Report]** för att visa den filtrerade rapporten.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

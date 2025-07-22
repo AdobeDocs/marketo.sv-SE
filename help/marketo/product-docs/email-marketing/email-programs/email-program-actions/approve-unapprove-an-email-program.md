@@ -4,9 +4,9 @@ description: Godkänn/avgodkänn ett e-postprogram - Marketo Docs - Produktdokum
 title: Godkänn/avgodkänn ett e-postprogram
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Nu när programmet är klart är det sista steget att godkänna det. Så här:
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Nu när programmet är klart är det sista steget att godkänna det. Så här:
    >
    >Om du inte godkänner ditt e-postprogram går e-postmeddelandet inte ut.
 
-1. Under rutan **Godkännande** klickar du på **Godkänn program**.
+1. Under rutan **[!UICONTROL Approval]** klickar du på **[!UICONTROL Approve Program]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Nu när programmet är klart är det sista steget att godkänna det. Så här:
 
 Om du ändrar dig och bestämmer dig för att du inte vill att det ska gå ut kan du avgodkänna e-postprogrammet.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Om du ändrar dig och bestämmer dig för att du inte vill att det ska gå ut ka
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klicka bara på **Avgodkänn program** under rutan **Godkännande**.
+1. Klicka på **[!UICONTROL Approval]** under rutan **[!UICONTROL Unapprove Program]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

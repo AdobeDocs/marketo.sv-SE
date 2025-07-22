@@ -4,10 +4,10 @@ description: Visa anpassat HTML-formulär för kända personer - Marketo Docs - 
 title: Visa anpassat HTML-formulär för kända personer
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Om en besökare har angett sitt fullständiga namn och sin e-postadress tidigare och du inte vill att de ska få hela formuläret, ska du lära dig hur du visar dem en anpassad HTML (t.ex. bara en nedladdningsknapp).
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Under **Marknadsföringsaktiviteter** markerar du formuläret och klickar på **Redigera formulär**.
+1. Under **[!UICONTROL Marketing Activities]** markerar du formuläret och klickar på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klicka på **Inställningar** under **Formulärinställningar**.
+1. Klicka på **[!UICONTROL Form Settings]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Ange **Känd besökare, visa**: **Anpassad HTML**.
+1. Ange If **[!UICONTROL Known Visitor, Show]**: till **[!UICONTROL Custom HTML]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera det **anpassade HTML** som ska visas för kända personer.
+1. Klicka på ![—](assets/image2014-9-25-14-3a1-3a26.png) för att redigera **[!UICONTROL Custom HTML]** som ska visas för kända personer.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Om en besökare har angett sitt fullständiga namn och sin e-postadress tidigare
    >
    >Endast de fyra variablerna ovan kan användas. Alla andra token fungerar inte här.
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

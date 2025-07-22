@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: Marketo Outlook Plugin Installation by IT - Marketo Docs - Produktdokumentation
-title: Installation av Marketo Outlook-plugin via IT
+description: Marketo [!DNL Outlook] Plugin-installation av IT - Marketo Docs - Produktdokumentation
+title: Marketo [!DNL Outlook] Plugin-installation av IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Installation av Marketo Outlook-plugin via IT {#marketo-outlook-plugin-installation-by-it}
+# Marketo [!DNL Outlook] - Plugin-installation av IT {#marketo-outlook-plugin-installation-by-it}
 
 Ibland kräver företagets policyer att IT-teamet installerar all programvara på sina medarbetares datorer. I sådana fall gör IT-avdelningen ofta detta via fjärranslutning med sin egen programvara. Det här dokumentet innehåller de kommandorader som du skulle använda som indata under distributionsprocessen för att fjärrinstallera plugin-programmet för Outlook.
 
@@ -57,4 +57,4 @@ Se [Microsoft fullständiga lista över växlar](https://support.microsoft.com/e
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook-plugin - avinstallation av IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] Avinstallera plugin-program av IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

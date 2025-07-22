@@ -4,14 +4,14 @@ description: Skapa en kontakt i Microsoft Dynamics - Marketo Docs - produktdokum
 title: Skapa en kontakt i Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
-# Skapa en kontakt i Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
+# Skapa en kontakt i [!DNL Microsoft Dynamics] {#create-a-contact-in-microsoft-dynamics}
 
 1. Markera den person som bara är Marketo Engage (Microsoft Type är tom) som du vill skapa som en kontakt i Dynamics.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >När flödesåtgärden [!UICONTROL Sync Person to Microsoft] används (endast i en utlösarkampanj) skapas lead/kontakt i realtid i Dynamics.
 
-1. Marketo kvalificerar denna lead-post i Dynamics till en kontakt som inte är kopplad till något konto i Dynamics.
+1. Marketo kvalificerar denna lead-post i [!DNL Dynamics] till en kontakt som inte är kopplad till något konto i [!DNL Dynamics].
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 

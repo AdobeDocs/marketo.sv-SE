@@ -4,34 +4,34 @@ description: Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics -
 title: Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# Uppgradera Marketo Sales Insight Solution för Microsoft Dynamics {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Uppgradera lösningen [!DNL Marketo Sales Insight] för [!DNL Microsoft Dynamics] {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-När en ny Microsoft Dynamics-lösning släpps för Sales Insight kan du hämta uppgraderingen från administratörsområdet på ditt konto.
+När en ny [!DNL Microsoft Dynamics]-lösning släpps för [!DNL Sales Insight] kan du hämta uppgraderingen från [!UICONTROL Admin]-området i ditt konto.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Gå till området **Admin**.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Klicka på **Microsoft Dynamics**.
+1. Klicka på **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. Välj **Hämta Marketo-lösning**.
+1. Välj **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
-1. Välj lämplig lösning för din version av Microsoft Dynamics.
+1. Välj lämplig lösning för din [!DNL Microsoft Dynamics]-version.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
@@ -39,8 +39,8 @@ När en ny Microsoft Dynamics-lösning släpps för Sales Insight kan du hämta 
 
 ## Utföra uppgraderingen {#performing-the-upgrade}
 
-1. Importera den senaste versionen av lösningen till den befintliga versionen av Dynamics CRM (t.ex. om Dynamics CRM har version 1.4 och den senaste versionen är 1.5 importerar du _över_ version 1.4).
+1. Importera den senaste versionen av lösningen till den befintliga versionen av din [!DNL Dynamics CRM] (t.ex. om din [!DNL Dynamics CRM] har version 1.4 och den senaste versionen är 1.5 importerar du _över_ version 1.4).
 
-2. Följande popup-fönster visas. Välj **Scen för uppgradering** och **Underhåll anpassningar** och klicka sedan på **Importera**.
+2. Följande popup-fönster visas. Välj **[!UICONTROL Stage for Upgrade]** och **[!UICONTROL Maintain customizations]** och klicka sedan på **[!UICONTROL Import]**.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

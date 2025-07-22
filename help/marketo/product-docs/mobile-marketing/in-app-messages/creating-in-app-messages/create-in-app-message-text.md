@@ -4,9 +4,9 @@ description: Skapa meddelandetext i appen - Marketo Docs - produktdokumentation
 title: Skapa meddelandetext i appen
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Välj textfärgen genom att klicka på den eller genom att ange siffrorna Hex eller RGB i färgväljaren.
+1. Välj textfärgen genom att klicka på den eller genom att ange de hexadecimala eller RGB-numeriska värdena i färgväljaren.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
@@ -47,7 +47,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
    >
    >Det teckensnitt som återges i annonsen är standardteckensnittet för varje plattform: Helvetica för Apple och Roboto för Android
 
-1. Markera rutan för att välja åtgärd för att trycka på text.
+1. Markera rutan för att välja **[!UICONTROL Text Tap action]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    >[!NOTE]
    >
-   >För tryckningsåtgärder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja Ingen.
+   >För tryckningsåtgärder kan du ange olika åtgärder för Apple- och Android-plattformar. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande bara ska visas på en plattform eller på en annan, kan du lämna den andra i standardinställningen eller välja [!UICONTROL None].
 
 1. Klicka på stödtexten för att redigera den. Det fungerar på samma sätt som att redigera huvudtexten, men standardtextstorleken är mindre.
 
@@ -67,13 +67,13 @@ Klicka på textområdet om du vill arbeta med textformatet och innehållet.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Välj en Min token i listrutan, lägg till ett standardvärde och klicka på **Infoga**.
+1. Välj en Min token i listrutan, lägg till ett standardvärde och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Endast Mina token är tillgängliga som alternativ. Om inga Mina token har konfigurerats i programmet är listrutan Token tom.
+   >Endast Mina token är tillgängliga som alternativ. Om inga Mina token har konfigurerats i programmet kommer listrutan [!UICONTROL Token] att vara tom.
 
    >[!TIP]
    >

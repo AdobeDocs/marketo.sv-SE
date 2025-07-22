@@ -4,22 +4,22 @@ description: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics 
 title: Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Skicka ett [!DNL Marketo Sales]-e-postmeddelande från [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar och klick direkt från Microsoft Dynamics. Så här gör du.
+Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar och klick direkt från [!DNL Microsoft Dynamics]. Så här gör du.
 
-1. Gå till området **Försäljning** i Dynamics.
+1. Gå till området [!DNL Dynamics] i **[!UICONTROL Sales]**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Välj en **systemvy**.
+1. Välj en **[!UICONTROL System View]**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar o
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klicka på fliken **..** och sedan på **Skicka e-post för Marketo**.
+1. Klicka på fliken **..** och sedan på **[!UICONTROL Send Marketo Email]**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar o
    >
    >Du kan [publicera e-postmeddelanden som mallar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) så att ditt säljteam kan använda dem.
 
-1. Lägg till ett ämne, komponera e-postmeddelandet och klicka på **Skicka e-post**. (Välj en mall om du behöver en.)
+1. Lägg till ett ämne, komponera e-postmeddelandet och klicka på **[!UICONTROL Send Email]**. (Välj en mall om du behöver en.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ Säljteamet kan skicka e-postmeddelanden och få dem spårade efter öppningar o
    >
    >Du kan skicka upp till 300 e-postmeddelanden från Marketo åt gången.
 
-Snyggt gjort! Nu vet du hur man skickar spårade e-postmeddelanden från Marketo direkt från Microsoft Dynamics.
+Snyggt gjort! Nu vet du hur du skickar spårade e-postmeddelanden från Marketo direkt från [!DNL Microsoft Dynamics].
 
 >[!MORELIKETHIS]
 >
->[Lägg till en lead/kontakt i en Marketo-kampanj från Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Lägg till en lead/kontakt i en Marketo-kampanj från [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

@@ -1,18 +1,18 @@
 ---
-description: Standardfältmappning för veva - Marketo Docs - produktdokumentation
-title: Standardvevektorgrafikmappning
+description: ' [!DNL Veeva] Standardfältmappning - Marketo Docs - produktdokumentation'
+title: ' [!DNL Veeva] Standardfältmappning'
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 27%
+source-wordcount: '253'
+ht-degree: 29%
 
 ---
 
-# Standardvevektorgrafikmappning {#default-veeva-field-mapping}
+# Standardfältmappning för [!DNL Veeva] {#default-veeva-field-mapping}
 
-När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo automatiskt dessa associationer mellan de inbyggda fälten Veeva och Marketo. Marketo synkroniserar även dina anpassade fält på dina konton och kontakter.
+När du först synkroniserar ditt Marketo Engage-konto med [!DNL Veeva] skapar Marketo automatiskt dessa associationer mellan dina inbyggda [!DNL Veeva]- och Marketo-fält. Marketo synkroniserar även dina anpassade fält på dina konton och kontakter.
 
 ## Kontaktfält {#contact-fields}
 
@@ -23,7 +23,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
   </colgroup>
   <thead>
     <tr>
-      <th>SFDC-fält</th>
+      <th>SFDC</th>
       <th>Marketo</th>
     </tr>
   </thead>
@@ -34,7 +34,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
     </tr>
     <tr>
       <td>Skapad den</td>
-      <td>Skapad SFDC</td>
+      <td>Skapad av SFDC</td>
     </tr>
     <tr>
       <td>Kontaktbeskrivning</td>
@@ -120,7 +120,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
   </colgroup>
   <thead>
     <tr>
-      <th>SFDC-fält</th>
+      <th>SFDC</th>
       <th>Marketo</th>
     </tr>
   </thead>
@@ -183,7 +183,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
     </tr>
     <tr>
       <td>Kontotyp</td>
-      <td>SFDC-typ</td>
+      <td>SFDC Type</td>
     </tr>
     <tr>
       <td>Webbplats</td>
@@ -192,7 +192,7 @@ När du först synkroniserar ditt Marketo Engage-konto med Veeva skapar Marketo 
   </tbody>
 </table>
 
-## Veeva-relaterade systemfält i Marketo (skrivskyddat) {#veeva-related-system-fields-in-marketo}
+## [!DNL Veeva] relaterade systemfält i Marketo (skrivskyddade) {#veeva-related-system-fields-in-marketo}
 
 Dessa fält skapas i Marketo men kan inte justeras av kunder.
 
@@ -209,20 +209,20 @@ Dessa fält skapas i Marketo men kan inte justeras av kunder.
   </thead>
   <tbody>
     <tr>
-      <td>Veeva-ID</td>
-      <td>Salesforce-ID med 18 tecken</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>ID:t [!DNL Salesforce] med 18 tecken</td>
     </tr>
     <tr>
-      <td>Veeva Type</td>
+      <td>[!DNL Veeva] Typ</td>
       <td>Kontakt. Om det är tomt finns leadet bara som en person i Marketo</td>
     </tr>
     <tr>
-      <td>Veeva skapad den</td>
-      <td>Skapad i SFDC (kan vara ett annat datum än Skapad i Marketo)</td>
+      <td>[!DNL Veeva] Skapad den</td>
+      <td>Skapad i SFDC (kan skilja sig från Skapad i Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva tas bort</td>
-      <td>Personen brukade befinna sig i SFDC men togs bort och bor nu bara i Marketo</td>
+      <td>[!DNL Veeva] är borttagen</td>
+      <td>Tidigare var personen i SFDC men togs bort och bor nu endast i Marketo</td>
     </tr>
   </tbody>
 </table>

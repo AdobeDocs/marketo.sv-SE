@@ -4,16 +4,16 @@ description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
 title: Fliken Innehåll
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Fliken Innehåll {#understanding-the-content-tab}
+# Fliken [!UICONTROL Content] {#understanding-the-content-tab}
 
-Fliken Innehåll handlar om teamets e-postengagemang när man använder en mall. Vi bubblar automatiskt upp tre mätvärden som vi tror är viktiga.
+Fliken [!UICONTROL Content] handlar om teamets e-postengagemang när du använder en mall. Vi bubblar automatiskt upp tre mätvärden som vi tror är viktiga.
 
 ## Hemligt vapen {#secret-weapon}
 
@@ -27,6 +27,6 @@ Det här är den delade mallen som får högsta nivå av engagemang på alla niv
 
 Kan delas eller inte delas, det här är mallen med minsta engagemang.
 
-Bläddra nedåt på sidan för att se mallavsnittet som visar alla mallar som teamet har använt (i den här tidsramen) med de flesta vyer*.*
+Bläddra nedåt på sidan för att se avsnittet [!UICONTROL Templates] som visar alla mallar som teamet har använt (i den här tidsramen) med de flesta vyer*.*
 
 Du kan också se de viktigaste bifogade filerna som ditt team har skickat (med de flesta vyer) och de vanligaste länkarna (med de flesta klick).

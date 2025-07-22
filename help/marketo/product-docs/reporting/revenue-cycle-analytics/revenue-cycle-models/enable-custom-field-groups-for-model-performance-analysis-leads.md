@@ -4,9 +4,9 @@ description: Aktivera anpassade fältgrupper för modellprestandaanalys (leads) 
 title: Aktivera anpassade fältgrupper för modellresultatanalys (leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -24,44 +24,44 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vad händer när..?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Hur det påverkar modellresultatanalysområdet (Leads)</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Så här påverkar det <span class="uicontrol">modellprestandaanalysområdet (Leads)</span></strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Hur det påverkar områdena Lead Analysis, Campaign Analysis och Opportunity Analysis</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vad händer när du aktiverar en anpassad fältgrupp som är kopplad till ett standardlead- eller företagsfält?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Den anpassade fältgruppen är aktiverad för rapportering i modellresultatanalysområdet (Leads)</p></td> 
+   <td colspan="1" rowspan="1"><p>Den anpassade fältgruppen är aktiverad för rapportering i området <span class="uicontrol">Modellresultatanalys (Leads)</span></p></td> 
    <td colspan="1" rowspan="1"><p>Ingen effekt</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vad händer när du aktiverar en anpassad fältgrupp som är kopplad till ett anpassat person- eller företagsfält?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Den anpassade fältgruppen är aktiverad för rapportering i modellresultatanalysområdet (Leads)</p></td> 
+   <td colspan="1" rowspan="1"><p>Den anpassade fältgruppen är aktiverad för rapportering i området <span class="uicontrol">Modellresultatanalys (Leads)</span></p></td> 
    <td colspan="1" rowspan="1"><p>Själva det anpassade fältet är aktiverat för rapportering i områdena Lead Analysis, Campaign Analysis och Opportunity Analysis.</p><p><strong>OBS!</strong> Anpassade fältgrupper stöds INTE i de här analysområdena, så gruppassociationerna visas inte i Inkomstcykelutforskaren -<em>endast</em> det anpassade fältet.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Följ de här stegen för att aktivera en anpassad fältgrupp för rapportering i området för modellprestandaanalys (Leads).
+Följ de här stegen för att aktivera en anpassad fältgrupp för rapportering i området [!UICONTROL Model Performance Analysis (Leads)].
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 
-1. Klicka på **Intäktscykelanalys**.
+1. Klicka på **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-1.png)
 
-1. Klicka på **Inget** bredvid en tom fältgrupp. Om du redan har tre fältgrupper aktiverade och vill redigera, klickar du på namnet på fältgruppen som du vill ändra.
+1. Klicka på **[!UICONTROL None]** bredvid en tom fältgrupp. Om du redan har tre fältgrupper aktiverade och vill redigera, klickar du på namnet på fältgruppen som du vill ändra.
 
    ![](assets/three.png)
 
-1. Klicka på listrutan **Fält** och välj det du vill använda.
+1. Klicka på listrutan **[!UICONTROL Field]** och välj den du vill använda.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >I det här exemplet aktiverades en anpassad fältgrupp för ett standardfält (tillstånd). Därför påverkades endast området för modellresultatanalys (Leads). Om en anpassad fältgrupp för ett anpassat person- eller företagsfält hade aktiverats, skulle den aktiverade gruppen visas i avsnittet Modellresultatanalys (Leads) på fliken Synkroniseringssammanfattning och antalet anpassade fält för Lead-, Campaign- och Opportunity Analysis skulle öka med ett.
+   >I det här exemplet aktiverades en anpassad fältgrupp för ett standardfält (tillstånd). Därför påverkades bara området [!UICONTROL Model Performance Analysis (Leads)]. Om en anpassad fältgrupp för ett anpassat person- eller företagsfält hade aktiverats, skulle den aktiverade gruppen visas i avsnittet [!UICONTROL Model Performance Analysis (Leads)] på fliken Synkroniseringssammanfattning och antalet anpassade fält för Lead-, Campaign- och Opportunity Analysis skulle öka med ett.
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)

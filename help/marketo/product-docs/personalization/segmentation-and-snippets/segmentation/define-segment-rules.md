@@ -4,9 +4,9 @@ description: Definiera segmentregler - Marketo Docs - produktdokumentation
 title: Definiera segmentregler
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 >
 >[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Gå till **databasen.**
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Välj **Segmentering** i trädet och klicka sedan på ett visst **segment**.
+1. Välj **[!UICONTROL Segmentations]** i trädet och klicka sedan på ett visst **segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Klicka på **Smart lista** och lägg till filter.
+1. Klicka på **[!UICONTROL Smart List]** och lägg till filter.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -37,7 +37,7 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
 
    >[!NOTE]
    >
-   >Filtren &quot;SFDC-typ&quot; och &quot;Microsoft-typ&quot; stöds för närvarande inte i smarta segmenteringslistor.
+   >Filtren&quot;SFDC Type&quot; och&quot;Microsoft Type&quot; stöds för närvarande inte i smarta segmenteringslistor.
 
 1. Fyll i lämpliga värden för filtren.
 
@@ -47,11 +47,11 @@ Genom att definiera segmentregler kan du kategorisera dina personer i olika grup
    >
    >Aktivitetsloggningsbeteendet för kontofält kan påverka kvalificeringen. Därför rekommenderar vi att du inte använder kontofält när du definierar segmentregler.
 
-1. Klicka på fliken **Personer (utkast)** för att visa de personer som kan kvalificera sig som medlemmar i det här segmentet.
+1. Klicka på fliken **[!UICONTROL People (Draft)]** för att visa de personer som kan kvalificera sig som medlemmar i det här segmentet.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Gå till **Segmenteringsåtgärder**. Klicka på **Godkänn**.
+1. Gå till **[!UICONTROL Segmentation Actions]**. Klicka på **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -73,7 +73,7 @@ Bra jobbat! De här segmenten kommer att bli bra på många ställen i Marketo.
 
 >[!NOTE]
 >
->På skärmen Personer (utkast) visas alla personer som är berättigade att vara medlem och inte alltid är den slutliga listan över personer. Godkänn segmentet för att se den slutliga listan.
+>På skärmen [!UICONTROL People (Draft)] visas alla personer som är kvalificerade att vara medlemmar och som inte alltid är den slutliga listan över personer. Godkänn segmentet för att se den slutliga listan.
 
 >[!MORELIKETHIS]
 >

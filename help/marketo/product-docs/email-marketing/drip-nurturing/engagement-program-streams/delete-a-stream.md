@@ -4,9 +4,9 @@ description: Ta bort en ström - Marketo Docs - produktdokumentation
 title: Ta bort en ström
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer du dessa snabba och enkla steg.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Välj ditt engagemangsprogram och gå till **Streams**.
+1. Välj ditt engagemangsprogram och gå till **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -27,11 +27,11 @@ Om du någonsin behöver ta bort en ström från engagemangsprogrammet följer d
    >
    >Om du tar bort en ström går historikdata för innehållet i den strömmen förlorade.
 
-1. Klicka på kugghjulsikonen och välj **Ta bort**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Bekräfta borttagningen genom att klicka på **Ta bort**.
+1. Bekräfta borttagningen genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 

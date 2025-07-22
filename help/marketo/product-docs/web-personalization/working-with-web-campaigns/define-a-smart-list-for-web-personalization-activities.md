@@ -4,20 +4,20 @@ description: Definiera en smart lista för Personalization-aktiviteter på webbe
 title: Definiera en smart lista för Personalization-aktiviteter på webben
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Definiera en smart lista för Personalization-aktiviteter på webben {#define-a-smart-list-for-web-personalization-activities}
+# Definiera en smart lista för [!DNL Web Personalization] aktiviteter {#define-a-smart-list-for-web-personalization-activities}
 
-Du kan använda Web Personalization-aktiviteter i filter och utlösare när du definierar en smart lista i en smart kampanj. Här vill du fånga vem som helst som har klickat på en Personalization-webbuppmaning (kampanj).
+Du kan använda [!DNL Web Personalization]-aktiviteter i filter och utlösare när du definierar en smart lista i en smart kampanj. Här vill du fånga alla som har klickat på en [!DNL Web Personalization] call to action (kampanj).
 
-Använd en utlösare för att skicka ett e-postmeddelande eller en varning, eller ändra ett värde eller poängvärde baserat på besökare som klickade och interagerade med ett Personalization-anrop för webben. Du kan även filtrera och visa leads som klickats på en Personalization-uppmaning på webben.
+Använd en utlösare för att skicka ett e-postmeddelande eller en varning, eller ändra ett värde eller poäng baserat på besökare som klickade och var engagerade med en [!DNL Web Personalization] call to action. Du kan även filtrera och visa leads som klickades på en [!DNL Web Personalization] call to action.
 
-1. Klicka på fliken **Smart lista** i den smarta kampanjen.
+1. Klicka på fliken **[!UICONTROL Smart List]** i den smarta kampanjen.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

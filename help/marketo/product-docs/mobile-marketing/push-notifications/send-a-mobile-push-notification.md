@@ -4,10 +4,10 @@ description: Skicka ett mobilpush-meddelande - Marketo Docs - produktdokumentati
 title: Skicka ett mobilpush-meddelande
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 3%
 
 ---
 
@@ -20,19 +20,19 @@ Skicka ett push-meddelande till personer som använder din mobilapp.
 >* [Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Skapa ett push-meddelande](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Välj din smarta kampanj och klicka på **Smart lista**.
+1. Välj din smarta kampanj och klicka på **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definiera den smarta listan och klicka sedan på **Flöde**.
+1. Definiera din smarta lista och klicka sedan på **[!UICONTROL Flow]**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Välj ett push-meddelande. Klicka på **Schema**.
+1. Välj ett push-meddelande. Klicka på **[!UICONTROL Schedule]**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -40,11 +40,11 @@ Skicka ett push-meddelande till personer som använder din mobilapp.
    >
    >Push-meddelandet måste godkännas innan det visas i listrutan.
 
-1. Klicka på **Kör en gång**.
+1. Klicka på **[!UICONTROL Run Once]**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Välj ett datum och en tid. Klicka på **Spara**.
+1. Välj ett datum och en tid. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

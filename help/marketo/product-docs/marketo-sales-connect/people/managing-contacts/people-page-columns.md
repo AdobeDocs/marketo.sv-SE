@@ -4,9 +4,9 @@ description: Sidkolumner - Marketo Docs - produktdokumentation
 title: Sidkolumner för personer
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---
@@ -17,11 +17,11 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
 
 ## Markera kolumner {#how-to-select-columns}
 
-1. Klicka på ikonen Listinställningar på sidan Personer.
+1. Klicka på ikonen Listinställningar på sidan [!UICONTROL People].
 
    ![](assets/one-5.png)
 
-1. Bläddra igenom och markera önskade kolumner (du kan också klicka på **Markera alla** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
+1. Bläddra igenom och markera önskade kolumner (du kan också klicka på **[!UICONTROL Select All]** om du vill ha alla kolumner). Klicka utanför listan när du är klar.
 
    ![](assets/two-4.png)
 
@@ -38,95 +38,95 @@ Du kan anpassa vilken kontaktinformation du ser genom att välja vilka kolumner 
    <th>Beskrivning</th> 
   </tr> 
   <tr> 
-   <td>Förnamn (standard)</td> 
+   <td>[!UICONTROL First Name (default)]</td> 
    <td>Förnamn</td> 
   </tr> 
   <tr> 
-   <td>Efternamn (standard)</td> 
+   <td>[!UICONTROL Last Name (default)]</td> 
    <td>Efternamn</td> 
   </tr> 
   <tr> 
-   <td colspan="1">E-post (standard)</td> 
+   <td colspan="1">[!UICONTROL Email (default)]</td> 
    <td colspan="1">E-postadress</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Tel.</td> 
+   <td colspan="1">[!UICONTROL Phone]</td> 
    <td colspan="1">Telefonnummer</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Titel (standard)</td> 
+   <td colspan="1">[!UICONTROL Title (default)]</td> 
    <td colspan="1">Befattning</td> 
   </tr> 
   <tr> 
-   <td>Företag (standard)</td> 
+   <td>[!UICONTROL Company (default)]</td> 
    <td>Företag</td> 
   </tr> 
   <tr> 
-   <td>Kampanj (standard)</td> 
+   <td>[!UICONTROL Campaign (default)]</td> 
    <td>Försäljningskampanj som personen för närvarande är på</td> 
   </tr> 
   <tr> 
-   <td># Campaigns</td> 
+   <td># [!UICONTROL Campaigns]</td> 
    <td>Totalt antal säljkampanjer som personen har varit en del av</td> 
   </tr> 
   <tr> 
-   <td># samtal</td> 
+   <td># [!UICONTROL Calls]</td> 
    <td>Totalt antal samtal som har gjorts till den här personen</td> 
   </tr> 
   <tr> 
-   <td># E-mails</td> 
+   <td># [!UICONTROL Emails]</td> 
    <td>Totalt antal e-postmeddelanden som skickats till den här personen</td> 
   </tr> 
   <tr> 
-   <td>Aktivitetens förfallodatum</td> 
+   <td>[!UICONTROL Task Due Date]</td> 
    <td>Förfallodatum för uppgift</td> 
   </tr> 
   <tr> 
-   <td># händelser (standard)</td> 
+   <td># [!UICONTROL Events (default)]</td> 
    <td>Totalt antal engagemangshändelser per person (vyer, klick och svar)</td> 
   </tr> 
   <tr> 
-   <td># aktiviteter (standard)</td> 
+   <td># [!UICONTROL Activities (default)]</td> 
    <td>Totalt antal aktiviteter som användaren har tagit för denna lead (e-post, samtal och uppgifter)</td> 
   </tr> 
   <tr> 
-   <td>Godkännande</td> 
+   <td>[!UICONTROL Consent]</td> 
    <td><p>Legitimt intresse, utförande av ett kontrakt, efterlevnad av rättslig skyldighet, skydd av vitala intressen, allmänt intresse/offentlig myndighet och andra</p></td> 
   </tr> 
   <tr> 
-   <td>Öppna aktiviteter</td> 
+   <td>[!UICONTROL Open Tasks]</td> 
    <td>Antal öppna uppgifter för den här personen</td> 
   </tr> 
   <tr> 
-   <td># Vyer</td> 
+   <td># [!UICONTROL Views]</td> 
    <td>Totalt antal visningar per den här personen</td> 
   </tr> 
   <tr> 
-   <td># klick</td> 
+   <td># [!UICONTROL Clicks]</td> 
    <td>Totalt antal klick per den här personen</td> 
   </tr> 
   <tr> 
-   <td># svar</td> 
+   <td># [!UICONTROL Replies]</td> 
    <td>Totalt antal svar från den här personen</td> 
   </tr> 
   <tr> 
-   <td>Senast uppdaterad</td> 
+   <td>[!UICONTROL Last Updated]</td> 
    <td>Datum då personposten senast uppdaterades</td> 
   </tr> 
   <tr> 
-   <td>Skapare</td> 
+   <td>[!UICONTROL Creator]</td> 
    <td>Namnet på den användare som skapade personen</td> 
   </tr> 
   <tr> 
-   <td>Källa</td> 
+   <td>[!UICONTROL Source]</td> 
    <td>Source där personen skapades</td> 
   </tr> 
   <tr> 
-   <td>Grupper (standard)</td> 
+   <td>[!UICONTROL Groups (default)]</td> 
    <td>Grupper som personen är en del av</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Avprenumererad</td> 
+   <td colspan="1">[!UICONTROL Unsubscribed]</td> 
    <td colspan="1">Avbeställningsstatus</td> 
   </tr> 
  </tbody> 

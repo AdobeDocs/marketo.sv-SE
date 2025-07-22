@@ -3,9 +3,9 @@ description: E-postkolumner och e-postsidlayout - Marketo Docs - Produktdokument
 title: E-postkolumner och sidlayout för e-post
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -27,87 +27,87 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
    <th>Beskrivning</th> 
   </tr> 
   <tr> 
-   <td><strong>Person</td> 
-   <td>Namn och e-postadress för personen i Sales Connect. Om du klickar på det här fältet öppnas fliken Om i vyn Personinformation.</td> 
+   <td><strong>[!UICONTROL Person]</td> 
+   <td>Namn och e-postadress för personen i [!UICONTROL Sales Connect]. Om du klickar på det här fältet öppnas fliken Om i vyn Personinformation.</td> 
   </tr> 
   <tr> 
-   <td><strong>Namn</td> 
-   <td>Namn på personen i Sales Connect.</td> 
+   <td><strong>[!UICONTROL Name]</td> 
+   <td>Namn på personen i [!UICONTROL Sales Connect].</td> 
   </tr> 
   <tr> 
-   <td><strong>Adress</td> 
-   <td>Personens primära e-postadress i Sales Connect.</td> 
+   <td><strong>[!UICONTROL Address]</td> 
+   <td>Personens primära e-postadress i [!UICONTROL Sales Connect].</td> 
   </tr> 
   <tr> 
-   <td><strong>Campaign</td> 
+   <td><strong>[!UICONTROL Campaign]</td> 
    <td>Om e-postmeddelandet skickades som en del av en kampanj visas kampanjens namn. Om du klickar på det här fältet kommer du till inställningssidan för den kampanjen.</td> 
   </tr> 
   <tr> 
-   <td><strong>Mall</td> 
+   <td><strong>[!UICONTROL Template]</td> 
    <td>Visar namnet på mallen (om e-postmeddelandet skickades med ett).</td> 
   </tr> 
   <tr> 
-   <td><strong>Ämne</td> 
+   <td><strong>[!UICONTROL Subject]</td> 
    <td>E-postmeddelandets ämnesrad.</td> 
   </tr> 
   <tr> 
-   <td><strong>Grupper</td> 
+   <td><strong>[!UICONTROL Groups]</td> 
    <td>Visar de grupper som e-postmottagaren tillhör.</td> 
   </tr> 
   <tr> 
-   <td><strong>Befattning</td> 
+   <td><strong>[!UICONTROL Job Title]</td> 
    <td>E-postmottagarens namn.</td> 
   </tr> 
   <tr> 
-   <td><strong>Företag</td> 
+   <td><strong>[!UICONTROL Company]</td> 
    <td>E-postmottagarens företag.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-poststatus</td> 
+   <td><strong>[!UICONTROL Email Status]</td> 
    <td>Status som e-postmeddelandet är i. Status: Utkast, Schemalagd, Pågår, Skräppost, Avbruten, Misslyckad, Skickad. Skickade e-postmeddelanden visar en aktivitetsström som visar hur många visningar, klickningar och svar som har gjorts i det e-postmeddelandet.</td> 
   </tr> 
   <tr> 
-   <td><strong>Skapad den</td> 
+   <td><strong>[!UICONTROL Date Created]</td> 
    <td>Datum när e-postmeddelandet skapades.</td> 
   </tr> 
   <tr> 
-   <td><strong>Senast uppdaterad</td> 
+   <td><strong>[!UICONTROL Last Updated]</td> 
    <td>Datum när e-postmeddelandet senast uppdaterades.</td> 
   </tr> 
   <tr> 
-   <td><strong>Leveranskanal</td> 
+   <td><strong>[!UICONTROL Delivery Channel]</td> 
    <td>Namnet på den leveranskanal som användes för att skicka e-postmeddelandet.</td> 
   </tr> 
   <tr> 
-   <td><strong>Senaste aktivitet</td> 
+   <td><strong>[!UICONTROL Latest Activity]</td> 
    <td>E-postmottagarens senaste engagemang (t.ex. visa, klicka eller svara).</td> 
   </tr> 
   <tr> 
-   <td><strong>Skickat</td> 
+   <td><strong>[!UICONTROL Date Sent]</td> 
    <td>Det datum då e-postmeddelandet skickades.</td> 
   </tr> 
   <tr> 
-   <td><strong>Uppföljningsåtgärder</td> 
+   <td><strong>[!UICONTROL Follow Up Actions]</td> 
    <td>Snabbåtgärdsknappar som kan användas för uppföljning via e-post, telefon, iMail eller uppgift.</td> 
   </tr> 
   <tr> 
-   <td><strong>Gruppe-post</td> 
+   <td><strong>[!UICONTROL Group Email]</td> 
    <td>Visar en bock om e-postmeddelandet skickades som en del av ett gruppe-postmeddelande.</td> 
   </tr> 
   <tr> 
-   <td><strong>Aktivitetens förfallodatum</td> 
+   <td><strong>[!UICONTROL Task Due Date]</td> 
    <td>Visar förfallodatumet för aktiviteter som är relaterade till e-postmeddelandet. Uppgifter kan relateras till ett e-postmeddelande genom att skapas från snabbåtgärdsknapparna i e-postlistan.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-poståtgärd</td> 
+   <td><strong>[!UICONTROL Email Action]</td> 
    <td>Snabbåtgärdsknappar som kan användas för att utföra åtgärder i e-postmeddelandet. Beroende på status för e-postmeddelandet kan följande åtgärder vara tillgängliga: Arkiv, Slutfört, Ta bort, Försök skicka igen, Avarkivera.</td> 
   </tr> 
   <tr> 
-   <td><strong>Typ av aktivitet</td> 
+   <td><strong>[!UICONTROL Task Type]</td> 
    <td>Visar uppgiftstypen för en aktivitet som är relaterad till e-postmeddelandet. Uppgifter kan relateras till ett e-postmeddelande genom att skapas från snabbåtgärdsknapparna i e-postlistan.</td> 
   </tr> 
   <tr> 
-   <td><strong>Misslyckades</td> 
+   <td><strong>[!UICONTROL Date Failed]</td> 
    <td>Visar det datum då e-postmeddelandet misslyckades om e-postmeddelandet inte levererades.</td> 
   </tr> 
  </tbody> 
@@ -117,11 +117,11 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
 
 Du kan konfigurera layouten genom att följa dessa steg.
 
-1. Klicka på **Kommandocentral** i webbprogrammet.
+1. Klicka på **[!UICONTROL Command Center]** i webbprogrammet.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Markera avsnittet **E-post**.
+1. Markera avsnittet **[!UICONTROL Emails]**.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

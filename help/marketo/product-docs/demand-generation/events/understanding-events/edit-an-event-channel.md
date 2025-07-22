@@ -4,10 +4,10 @@ description: Redigera en Event Channel - Marketo Docs - produktdokumentation
 title: Redigera en händelsekanal
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -25,43 +25,43 @@ Du kan redigera kanaltypen på fliken **Sammanfattning** eller på fliken **Inst
 
 ## På fliken Sammanfattning {#from-the-summary-tab}
 
-1. Välj din händelse från trädet i **Marknadsföringsaktiviteter**.
+1. Från **[!UICONTROL Marketing Activities]** väljer du din händelse i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigera till vyn **Sammanfattning**.
+1. Navigera till vyn **[!UICONTROL Summary]**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Under kategorin **Inställningar** väljer du den aktuella **kanalen** som visas som en hyperlänk.
+1. Under kategorin **[!UICONTROL Settings]** väljer du den aktuella **[!UICONTROL Channel]** som visas som en hyperlänk.
 
    ![](assets/channeltypeevent.png)
 
-1. Välj en ny kanal i listrutan.
+1. Välj en ny **[!UICONTROL Channel]** i listrutan.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## På fliken Inställningar {#from-the-setup-tab}
 
-En ny kanaltyp kan också tilldelas från händelsefliken **Inställningar**.
+En ny kanaltyp kan också tilldelas från händelsens **[!UICONTROL Setup]**-flik.
 
 1. Välj din händelse i trädet.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigera till fliken **Inställningar**. Dubbelklicka på den aktuella **kanalen**.
+1. Gå till fliken **[!UICONTROL Setup]**. Dubbelklicka på den aktuella **kanalen**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Välj en ny **kanal**.
+1. Välj en ny **[!UICONTROL Channel]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

@@ -4,16 +4,16 @@ description: Personalization-ordlista för webben - Marketo Docs - produktdokume
 title: Personalization-ordlista för webben
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# Personalization-ordlista för webben {#web-personalization-glossary}
+# [!DNL Web Personalization] ordlista {#web-personalization-glossary}
 
-Några insikter om Marketo Web Personalization.
+Vissa insikter om världen och språket för [!DNL Marketo Web Personalization].
 
 | Villkor | Definition |
 |---|---|
@@ -29,7 +29,7 @@ Några insikter om Marketo Web Personalization.
 
 ## Exempel på jokertecken {#wildcard-examples}
 
-Här är tre sätt att använda jokertecken i Web Personalization.
+Här är tre sätt att använda jokertecken i [!DNL Web Personalization].
 
 Matcha alla besökare på sidadresser som slutar med priser (till exempel `www.marketo.com/pricing`)
 

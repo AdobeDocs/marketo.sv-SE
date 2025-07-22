@@ -4,10 +4,10 @@ description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs
 title: Anpassade RTP-rapporter i Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 0%
+source-wordcount: '362'
+ht-degree: 1%
 
 ---
 
@@ -22,13 +22,13 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 * RTP B2B
 * RTP-engagemang
 
-## Konfigurera en anpassad rapport {#setting-up-a-custom-report}
+## Konfigurera en [!UICONTROL Custom Report] {#setting-up-a-custom-report}
 
 1. Logga in på Google Analytics.
 
-1. Klicka på **Anpassning** på den översta menyn.
+1. Klicka på **[!UICONTROL Customization]** på den översta menyn.
 
-1. Klicka på **+Ny anpassad rapport**.
+1. Klicka på **[!UICONTROL New Custom Report]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. Namnge rapporten **RTP B2B Report**.
 
-1. Ge den första fliken namnet **Bransch**.
+1. Ge den första fliken namnet **[!UICONTROL Industry]**.
 
 >[!NOTE]
 >
 >Du **Duplicerar den här fliken** och skapar ytterligare liknande flikar - steg 5)
 
-1. Välj rapporttypen **Utforskaren**.
+1. Välj rapporttypen **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. I avsnittet **Måttgrupper** väljer du de mått som är relevanta för ditt företag.
+1. I avsnittet **[!UICONTROL Metric Groups]** väljer du de mått som är relevanta för ditt företag.
 
    a. Vi rekommenderar följande:
 
@@ -62,7 +62,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. I avsnittet **Detaljerade Dimensioner** anger du de relevanta dimensionerna för varje flik enligt nedan.
+1. I avsnittet **Dimension-detaljnivåer** anger du de relevanta dimensionerna för varje flik enligt nedan.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
     </div></th> 
    <th> 
     <div>
-      Dimension - nedladdningar
+      Dimension Drill down
     </div></th> 
   </tr> 
  </thead> 
@@ -101,9 +101,9 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
  </tbody> 
 </table>
 
-1. Ange inga filter och ställ in den här rapporten som tillgänglig för **Alla webbplatsdata** (eller ändra om det är relevant för det specifika Analytics-kontot).
+1. Ange inga filter och ange att den här rapporten ska vara tillgänglig för **[!UICONTROL All Web Site Data]** (eller ändra om det är relevant för det specifika Analytics-kontot).
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. Namnge rapporten **RTP Engagement Report**.
 
-1. Ange det första fliknamnet som **All Engagement**.
+1. Ange det första fliknamnet till **[!UICONTROL All Engagement]**.
 
 >[!NOTE]
 >
 >Du kommer att duplicera den här fliken och skapa andra liknande - steg 5)
 
-1. Välj rapporttypen **Utforskaren**.
+1. Välj rapporttypen **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. I avsnittet Måttgrupper väljer du de mått som är relevanta för ditt företag. Här är en rekommendation:
+1. I avsnittet [!UICONTROL Metric Groups] väljer du de mått som är relevanta för ditt företag. Här är en rekommendation:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. I avsnittet **Detaljerade Dimensioner** anger du de relevanta dimensionerna för varje flik enligt nedan:
+1. I avsnittet **Dimension-detaljnivåer** anger du de relevanta dimensionerna för varje flik enligt nedan:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
     </div></th> 
    <th> 
     <div>
-      Dimension - nedladdningar 
+      Dimension Drill down 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,14 +204,14 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
  <tbody> 
   <tr> 
    <td><p>Inkludera</p></td> 
-   <td><p>Händelsekategori</p></td> 
+   <td><p><span class="uicontrol">Händelsekategori</span></p></td> 
    <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
+   <td>RTP-kampanjer|RTP-Recommendations|RTP-Segments</td> 
    <td colspan="1">Filtrerar alla andra anpassade händelser som inte är relaterade till RTP</td> 
   </tr> 
   <tr> 
    <td>Exkludera</td> 
-   <td>Händelseetikett</td> 
+   <td><span class="uicontrol">Händelseetikett</span></td> 
    <td>Regex</td> 
    <td>#</td> 
    <td colspan="1">Gör att du kan filtrera från din rapportkampanj med # i kampanjnamnet</td> 
@@ -219,11 +219,11 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
  </tbody> 
 </table>
 
-1. Ange att den här rapporten ska vara tillgänglig för **alla webbplatsdata** (eller ändra om det behövs).
+1. Ange att rapporten ska vara tillgänglig för **[!UICONTROL All Web Site Data]** (eller ändra om det behövs).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

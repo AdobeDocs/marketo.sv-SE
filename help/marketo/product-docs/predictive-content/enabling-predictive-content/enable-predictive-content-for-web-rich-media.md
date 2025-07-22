@@ -4,9 +4,9 @@ description: Aktivera prediktivt innehåll för multimedia för webben - Marketo
 title: Aktivera prediktivt innehåll för multimedia för webben
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ Prediktivt innehåll engagerar webbbesökarna med det mest relevanta innehållet
 
 När du har förberett innehållets titel, beskrivning och bild för multimedia kan du aktivera enskilda eller flera innehållskomponenter.
 
-1. Om du vill aktivera en enskild titel klickar du på den för att öppna redigeraren. Klicka på Multimedia, markera kryssrutan **Aktiverad för prediktivt innehåll i Multimedia** och klicka på **Spara**.
+1. Om du vill aktivera en enskild titel klickar du på den för att öppna redigeraren. Klicka på **[!UICONTROL Rich Media]**, markera kryssrutan **[!UICONTROL Enabled for Predictive Content in Rich Media]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Om det finns flera innehållsdelar på sidan **Prediktivt innehåll** markerar du rutorna bredvid rubriken/rubrikerna.
+1. Om det finns flera innehållsdelar på sidan **[!UICONTROL Predictive Content]** markerar du kryssrutorna intill rubriken/rubrikerna.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klicka på listrutan **Innehållsåtgärder** och välj **Aktivera för multimedia för webben**.
+1. Klicka på listrutan **[!UICONTROL Content Actions]** och välj **[!UICONTROL Enable for Web Rich Media]**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen Marketo Developers ](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 

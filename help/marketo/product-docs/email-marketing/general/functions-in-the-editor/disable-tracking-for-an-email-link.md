@@ -4,9 +4,9 @@ description: Inaktivera spårning för en e-postlänk - Marketo Docs - produktdo
 title: Inaktivera spårning för en e-postlänk
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ibland vill du inte aktivera **Marketo Tracking URL** för en länk i ett e-post
 
 Om ett e-postmeddelande skickades för över 365 dagar sedan **och** ingen har klickat på någon av länkarna de senaste 180 dagarna, rensar Marketo Engage vägen till URL:en från vår databas, vilket gör att länken bryts. Så om du vill att länken ska vara permanent bör du inaktivera spårning.
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ Om ett e-postmeddelande skickades för över 365 dagar sedan **och** ingen har k
 
    ![](assets/three-6.png)
 
-1. Avmarkera kryssrutan **Spåra länk** i popup-fönstret Redigera länk.
+1. Avmarkera kryssrutan **[!UICONTROL Track Link]** i popup-fönstret Redigera länk.
 
    ![](assets/four-4.png)
 
-1. Du kommer att märka att rutan **Inkludera mkt_tok** försvinner. Klicka på **Använd**.
+1. Du kommer att märka att rutan **[!UICONTROL Include mkt_tok]** försvinner. Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ Om ett e-postmeddelande skickades för över 365 dagar sedan **och** ingen har k
    >
    >Om du bara avmarkerar **Include mkt_tok** kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo landningssidor och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person säger upp prenumerationen på ett e-postmeddelande). Du bör undvika att använda den här funktionen om du inte ser något konstigt beteende på webbplatsen på grund av att parametern finns.
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

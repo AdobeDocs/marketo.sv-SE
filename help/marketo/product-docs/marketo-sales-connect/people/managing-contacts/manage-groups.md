@@ -4,24 +4,24 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Hantera grupper {#manage-groups}
 
-Lär dig hur du hanterar dina grupper i Sales Connect.
+Lär dig hantera dina grupper i [!DNL Sales Connect].
 
 ## Skapa en grupp {#create-a-group}
 
-1. Klicka på **+** bredvid Grupper på sidan Personer.
+1. Klicka på [!UICONTROL People]+**bredvid** på sidan [!UICONTROL Groups].
 
    ![](assets/one-4.png)
 
-1. Namnge gruppen och klicka på **Skapa**.
+1. Namnge gruppen och klicka på **[!UICONTROL Create]**.
 
    ![](assets/two-3.png)
 
@@ -29,11 +29,11 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Lägg till kontakter i en grupp {#add-contacts-to-a-group}
 
-1. På sidan Personer söker du efter och väljer den grupp som du vill lägga till personer i.
+1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill lägga till personer i.
 
    ![](assets/three-3.png)
 
-1. Klicka på **Gruppera åtgärder** och välj **Skapa kontakt**.
+1. Klicka på **[!UICONTROL Group Actions]** och välj **[!UICONTROL Create Contact]**.
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
    >
    >Då läggs en kontakt till i taget. Om du vill lägga till flera kontakter samtidigt följer du [de här stegen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
+1. Fyll i kontaktinformationen och klicka på **[!UICONTROL Create]** (eller **[!UICONTROL Create and Add New]** om du vill lägga till en annan).
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Dela en grupp {#share-a-group}
 
-1. På sidan Personer letar du reda på och markerar gruppen som du vill dela.
+1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill dela.
 
    ![](assets/six.png)
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Dela**.
+1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Share]**.
 
    ![](assets/seven.png)
 
@@ -65,19 +65,19 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
    ![](assets/eight.png)
 
-1. Klicka på **Dela**.
+1. Klicka på **[!UICONTROL Share]**.
 
    ![](assets/nine.png)
 
-   Du äger fortfarande gruppen, men den visas nu under Team Groups.
+   Du äger fortfarande gruppen, men den visas nu under [!UICONTROL Team Groups].
 
 ## Ta bort delning av en grupp {#unshare-a-group}
 
-1. På sidan Personer letar du reda på och markerar gruppen som du vill ta bort delningen för.
+1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill ta bort delningen för.
 
    ![](assets/ten.png)
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Dela**.
+1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Share]**.
 
    ![](assets/eleven.png)
 
@@ -89,11 +89,11 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Byta namn på en grupp {#rename-a-group}
 
-1. På sidan Personer letar du reda på och markerar gruppen som du vill byta namn på.
+1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill byta namn på.
 
    ![](assets/six.png)
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Byt namn**.
+1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Rename]**.
 
    ![](assets/thirteen.png)
 
@@ -103,14 +103,14 @@ Lär dig hur du hanterar dina grupper i Sales Connect.
 
 ## Ta bort en grupp {#delete-a-group}
 
-1. På sidan Personer söker du efter och markerar gruppen som du vill ta bort.
+1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill ta bort.
 
    ![](assets/fifteen.png)
 
-1. Klicka på punkten (tre lodräta punkter) och välj **Ta bort**.
+1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Delete]**.
 
    ![](assets/sixteen.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/seventeen.png)

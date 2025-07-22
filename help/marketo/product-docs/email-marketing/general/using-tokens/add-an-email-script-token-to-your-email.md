@@ -4,9 +4,9 @@ description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - produ
 title: Lägg till en e-postskripttoken i din e-post
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ När du har [skapat ditt e-postskript](/help/marketo/product-docs/email-marketin
 >
 >Den totala storleken på alla skripttoken som infogats i ett enda e-postmeddelande får inte överstiga 100 kB.
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-2.png)
 
-1. Sök efter och markera det e-postmeddelande som du vill lägga till token i och klicka på **Redigera utkast**.
+1. Sök efter och välj den e-postadress som du vill lägga till token i och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ När du har [skapat ditt e-postskript](/help/marketo/product-docs/email-marketin
 
    ![](assets/four-2.png)
 
-1. Sök efter och välj den e-postskripttoken som du skapade tidigare och klicka på **Infoga**.
+1. Sök efter och välj den e-postskripttoken som du skapade tidigare och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/five-1.png)
 

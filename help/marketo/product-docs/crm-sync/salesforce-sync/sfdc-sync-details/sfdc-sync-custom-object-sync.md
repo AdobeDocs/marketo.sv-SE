@@ -4,16 +4,16 @@ description: SFDC Sync - Sync Custom Object Sync - Marketo Docs - produktdokumen
 title: SFDC Sync - anpassad objektsynkronisering
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
 
-# SFDC-synkronisering: Synkronisering av anpassat objekt {#sfdc-sync-custom-object-sync}
+# SFDC Sync: Anpassad objektsynkronisering {#sfdc-sync-custom-object-sync}
 
-Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engage. Så här ställer du in det.
+Anpassade objekt som skapas i din [!DNL Salesforce]-instans kan också ingå i Marketo.  Så här ställer du in det.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engag
 
 >[!PREREQUISITES]
 >
->Om du vill använda ett anpassat objekt måste det vara associerat med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}-, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}- eller [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} -objekt i Salesforce.
+>Om du vill använda ett anpassat objekt måste det vara associerat med ett [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)-, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)- eller [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) -objekt i [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engag
 
    >[!NOTE]
    >
-   >En inledande synkronisering av Salesforce anpassade objektschema kan ta några minuter.
+   >En inledande synkronisering av det anpassade objektschemat [!DNL Salesforce] kan ta några minuter.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -67,7 +67,7 @@ Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engag
    >
    >Glöm inte att aktivera den globala synkroniseringen igen!
 
-1. Gå tillbaka till fliken **Salesforce**.
+1. Gå tillbaka till fliken **[!UICONTROL Salesforce]**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Egna objekt som skapas i din Salesforce-instans kan också ingå i Marketo Engag
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Om du vill visa alla anpassade Salesforce-objekt klickar du på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]** (samma som steg 1 ovan).
+1. Om du vill visa alla dina [!DNL Salesforce] anpassade objekt klickar du på **[!UICONTROL Admin]** och på länken **[!UICONTROL Salesforce Objects Sync]** (samma som steg 1 ovan).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

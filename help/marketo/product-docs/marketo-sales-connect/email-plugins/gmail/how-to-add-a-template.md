@@ -4,16 +4,16 @@ description: Så här lägger du till en mall - Marketo Docs - produktdokumentat
 title: Lägga till en mall
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # Lägga till en mall {#how-to-add-a-template}
 
-1. Klicka på **Mallar** i ett nytt meddelande.
+1. Klicka på **[!UICONTROL Templates]** i ett nytt meddelande.
 
 1. Som standard visas dina senast använda mallar.
 

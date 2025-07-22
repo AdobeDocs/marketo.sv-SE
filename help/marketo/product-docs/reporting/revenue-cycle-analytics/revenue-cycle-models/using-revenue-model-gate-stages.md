@@ -4,9 +4,9 @@ description: Using Revenue Model Gate Stages - Marketo Docs - Product Documentat
 title: Använda intäktsmodellens Gate-stadier
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
 ## Lägga till en Gate-scen {#add-a-gate-stage}
 
-1. Gå till området **Analyser**.
+1. Gå till området **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,19 +29,19 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Klicka på knappen **Gate** och dra och släpp var som helst på arbetsytan.
+1. Klicka på knappen **[!UICONTROL Gate]** och dra och släpp var som helst på arbetsytan.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Redigera **namnet** och välj en **typ**.
+1. Redigera **[!UICONTROL Name]** och välj en **[!UICONTROL Type]**.
 
    >[!NOTE]
    >
-   >Välj [Starta spårning med konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) för att få insikt i hur dina konton fungerar när de går igenom din modell.
+   >Välj [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) nu för att få insikt i hur dina konton fungerar när de går igenom din modell.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,31 +51,31 @@ En gate-fas fungerar som en kvalifikationskontroll.
 
 ## Redigera en Gate-scen {#edit-a-gate-stage}
 
-Redigera namnet, beskrivningen och justera typen av Gate-scenen. Du kan också välja att [starta spårning efter konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Redigera [!UICONTROL Name], [!UICONTROL Description] och justera [!UICONTROL Type] för Gate-scenen. Du kan också välja att [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Klicka på en **Gate**-scenikon.
+1. Klicka på scenikonen **[!UICONTROL Gate]**.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Klicka i fälten **Namn** och **Beskrivning** för att redigera innehållet.
+1. Klicka i fälten **[!UICONTROL Name]** och **[!UICONTROL Description]** för att redigera deras innehåll.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Markera listrutan **Typ** som du vill redigera.
+1. Markera listrutan **[!UICONTROL Type]** som du vill redigera.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Ta bort en Gate-scen {#delete-a-gate-stage}
 
-1. Du kan ta bort en Gate-scen genom att högerklicka på Gate-scenikonen och välja **Ta bort**.
+1. Du kan ta bort en Gate-scen genom att högerklicka på Gate-scenikonen och välja **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Du kan också ta bort en Gate-scen genom att klicka på den och sedan välja **Ta bort** i listrutan **Scenåtgärder** .
+1. Du kan också ta bort en Gate-scen genom att klicka på den och sedan välja **[!UICONTROL Stage Actions]** i listrutan **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Båda borttagningsmetoderna ber dig bekräfta ditt val. Klicka på **Ta bort**.
+1. Båda borttagningsmetoderna ber dig bekräfta ditt val. Klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
@@ -84,5 +84,5 @@ Grattis! Nu förstår du Gate Stages underbara värld.
 >[!MORELIKETHIS]
 >
 >* [Använder lagerfaser för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [Använda SLA-faser i inkomstmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Använda intäktsmodellen SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >* [Skapa en ny inkomstmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

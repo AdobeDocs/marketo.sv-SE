@@ -4,9 +4,9 @@ description: Aktivera och inaktivera ströminnehåll - Marketo Docs - produktdok
 title: Aktivera och inaktivera ströminnehåll
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
 ## Aktivera ströminnehåll {#activate-stream-content}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
+1. Välj ditt engagemangsprogram och klicka på fliken **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll muspekaren över det innehåll du vill aktivera, klicka på kugghjulsikonen och klicka sedan på **Aktivera**.
+1. Håll pekaren över det innehåll som du vill aktivera, klicka på kugghjulsikonen och sedan på **[!UICONTROL Activate]**.
 
    >[!NOTE]
    >
@@ -35,16 +35,16 @@ Ströminnehållet är AV som standard. Aktivera innehåll för att skicka ut det
 
    >[!TIP]
    >
-   >Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **Aktivera allt innehåll**.
+   >Du kan också aktivera allt innehåll i en ström genom att klicka på kugghjulsikonen på den översta nivån och sedan klicka på **[!UICONTROL Activate all content]**.
 
    Snyggt jobbat! Nu vet ni hur ni aktiverar innehåll i era strömmar.
 
 ## Inaktivera ströminnehåll {#deactivate-stream-content}
 
-1. Välj ditt engagemangsprogram och klicka på fliken **Streams**.
+1. Välj ditt engagemangsprogram och klicka på fliken **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Håll muspekaren över det innehåll du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **Inaktivera**.
+1. Håll pekaren över det innehåll som du vill inaktivera, klicka på kugghjulsikonen och klicka sedan på **[!UICONTROL Deactivate]**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

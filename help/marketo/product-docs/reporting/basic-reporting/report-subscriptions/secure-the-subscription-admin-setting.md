@@ -4,9 +4,9 @@ description: Skydda inställningen för prenumerationsadministratörer - Marketo
 title: Skydda inställningen för prenumerationsadministration
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 En administratör kan välja att kräva inloggning för att kunna visa en rapport.
 
-1. Klicka på **Admin** och sedan på **Inloggningsinställningar**.
+1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Login Settings]**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klicka på **Redigera** om du vill visa rapportinställningar för smart lista.
+1. Klicka på **[!UICONTROL Edit]** om du vill visa rapportinställningar för smart lista.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Välj **Ja** om du vill ha en inloggning för att hämta rapporter.
+1. Välj **[!UICONTROL Yes]** om du vill ha en inloggning för att hämta rapporter.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

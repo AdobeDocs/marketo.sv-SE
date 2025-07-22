@@ -4,16 +4,16 @@ description: Telefon, lokal närvaro - Marketo Docs - produktdokumentation
 title: Lokal närvaro för telefonförsäljning
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Lokal närvaro för telefonförsäljning {#sales-phone-local-presence}
 
-När du vill se ut som om du ringer från någon annans riktnummer markerar du bara rutan **Lokal närvaro** innan du ringer.
+När du vill se ut som om du ringer från någon annans riktnummer markerar du bara rutan **[!UICONTROL Local Presence]** innan du ringer samtalet.
 
 ## Vanliga frågor om lokal närvaro {#local-presence-faq}
 

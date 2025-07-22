@@ -3,9 +3,9 @@ description: Lokal närvaro - Marketo Docs - produktdokumentation
 title: Lokal närvaro
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Med Lokal närvaro kan du få det att se ut som om du ringer från mottagarens r
 
    ![](assets/local-presence-1.png)
 
-1. Markera kryssrutan **Använd lokal närvaro**.
+1. Markera kryssrutan **[!UICONTROL Use Local Presence]**.
 
    ![](assets/local-presence-2.png)
 

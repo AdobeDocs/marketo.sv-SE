@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10093159
 description: Understanding Content Analytics - Marketo Docs - Product Documentation
-title: Innehållsanalys
+title: Förstå Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
-# Innehållsanalys {#understanding-content-analytics}
+# Förstå Content Analytics {#understanding-content-analytics}
 
-På sidan Innehållsanalys visas det innehåll du har upptäckt (fallstudier, blogginlägg, videor, pressmeddelanden och så vidare) från webbplatsen. Det visar också prestanda för ert innehåll och personer som genereras när besökarna interagerar med dem.
+På Content Analytics-sidan visas det innehåll du har upptäckt (fallstudier, blogginlägg, videor, pressmeddelanden och så vidare) från din webbplats. Det visar också prestanda för ert innehåll och personer som genereras när besökarna interagerar med dem.
 
-## Visa innehållsanalys {#view-content-analytics}
+## Visa Content Analytics {#view-content-analytics}
 
-Gå till **Innehållsanalys**.
+Gå till **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
-På sidan Innehållsanalys kan du:
+På sidan [!UICONTROL Content Analytics] kan du:
 
 * Filtrera efter tidsintervall (dag, vecka och månad)
 * Sök efter innehållstitel och innehålls-URL
@@ -44,19 +44,19 @@ Analystabellen innehåller följande information:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
    <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
-   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Innehållsrekommendationer</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Vyer</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Antalet visningar från webbbesökare på innehållsresursen. Hur många gånger det visats, öppnats, visats eller laddats ned. Klicka på antalet i vykolumnen för att gå ned och se vem som visade innehållet</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Direktkonvertering</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
    <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td> 
   </tr> 
   <tr> 
@@ -65,18 +65,18 @@ Analystabellen innehåller följande information:
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
-   <td colspan="1">Tar bort innehållet från innehållsanalysen</td> 
+   <td colspan="1">Tar bort innehåll från Content Analytics</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Visa ytterligare innehållsanalyser {#view-additional-content-analytics}
+## Visa ytterligare Content Analytics {#view-additional-content-analytics}
 
 Klicka på Analysikonen för en del av innehållet.
 
 ![](assets/four.png)
 
-En dialogruta öppnas med ytterligare innehållsanalys för den specifika delen av innehållet.
+En dialogruta öppnas med ytterligare Content Analytics för den specifika delen av innehållet.
 
 ![](assets/five.png)
 
@@ -84,19 +84,19 @@ Ytterligare innehållsanalyser är:
 
 **Analytics** 
 
-* **Vyer**: Vyer av den delen av innehållet för det valda tidsintervallet
-* **Direktkonvertering**: Webbbesökare som visade innehållet och fyllde i ett formulär vid samma besök.
-* **Konverteringsgrad**&#x200B;**:** En konverteringsgrad i procent beräknad av Direct-konverteringar dividerat med klick
+* **[!UICONTROL Views]**: Vyer av den aktuella innehållsdelen för det valda tidsintervallet
+* **[!UICONTROL Direct Conversions]**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
+* **[!UICONTROL Conversion Rate]****:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
 
-**Trends**
+**[!UICONTROL Trends]**
 
-* Ett **Trender**-diagram som visar de senaste 30 dagarnas vyer av den specifika delen av innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
+* Ett **[!UICONTROL Trends]**-diagram som visar de senaste 30 dagarnas vyer av den specifika delen av innehållet. Håll pekaren över linjediagrammet om du vill visa antalet innehållsvyer från en viss dag
 
 ## Ta bort innehåll {#delete-content}
 
 ![](assets/six.png)
 
-På sidan Innehållsanalys klickar du på ikonen Ta bort för det innehåll du vill ta bort. Ett meddelande visas som bekräftar att du vill ta bort innehållet.
+På sidan [!UICONTROL Content Analytics] klickar du på ikonen Ta bort för det innehåll du vill ta bort. Ett meddelande visas som bekräftar att du vill ta bort innehållet.
 
 >[!MORELIKETHIS]
 >

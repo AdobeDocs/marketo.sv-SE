@@ -4,9 +4,9 @@ description: Använd guider för landningssiddesign i fri form - Marketo Docs - 
 title: Använd stödlinjer för landningssiddesign i friform
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ När du utformar en landningssida i fri form kan du använda stödlinjer för at
 
 >[!NOTE]
 >
->Stödlinjer är bara tillgängliga i **sidredigeraren för frihandsritning**.
+>Stödlinjer är bara tillgängliga i **[!UICONTROL Free-form]**-sidredigeraren.
 
-1. Välj en **landningssida** och klicka på **Redigera utkast**.
+1. Välj en **[!UICONTROL Landing Page]** och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klicka på **Åtgärder för landningssida** och välj **Visa stödlinjer**.
+1. Klicka på **[!UICONTROL Landing Page Actions]** och välj **[!UICONTROL Show Guides]**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

@@ -4,9 +4,9 @@ description: Konfigurera meddelandeknappen i appen - Marketo Docs - produktdokum
 title: Konfigurera meddelandeknappen i appen
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan använda standardknappdesignen, ändra den eller överföra en egen anpassad knappbild.
 
-1. Klicka på knappen för att öppna fliken Format för redigering.
+1. Klicka på knappen för att öppna fliken [!UICONTROL Style] för redigering.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Om du vill ändra färg på standardknappen klickar du på knappen **Färg** .
+1. Om du vill ändra färg på standardknappen klickar du på knappen **[!UICONTROL Color]**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Om du vill använda en egen bild för en knapp klickar du på knappen Bild och sedan på **Välj bild**.
+1. Om du vill använda en egen bild för en knapp klickar du på knappen **[!UICONTROL Image]** och sedan på **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Välj bilden och klicka på **Markera**.
+1. Välj bilden och klicka på **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -43,7 +43,7 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
    >
    >När du monterar en anpassad bild för knappen bör du rensa platshållartexten som finns över knappen om bilden innehåller text.
 
-1. Klicka på färgmarkeringsrutan och markera sedan teckensnittsfärgen genom att klicka på den eller genom att ange hexadecimala eller RGB i färgväljaren.
+1. Klicka på färgmarkeringsrutan och markera sedan teckensnittsfärgen genom att klicka på den eller ange hexadecimala eller RGB-nummer i färgväljaren.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -69,11 +69,11 @@ Du kan använda standardknappdesignen, ändra den eller överföra en egen anpas
 
    >[!NOTE]
    >
-   >Knappen har alltid en tryckåtgärd, så kryssrutan Knacka åtgärd markeras automatiskt med standardmeddelandet&quot;Stäng meddelande&quot;.
+   >Knappen har alltid en tryckåtgärd, så kryssrutan Knacka åtgärd markeras automatiskt med standardmeddelandet [!UICONTROL Dismiss Message].
 
 Nästan klart. Det sista steget är att [konfigurera bakgrunden för ditt meddelande i appen och stänga knappen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Förstå meddelanden i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Välj en layout för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Välj en layout för [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

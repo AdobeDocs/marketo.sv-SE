@@ -4,9 +4,9 @@ description: Redigera tillgänglighet för direktuppspelat innehåll - Marketo D
 title: Redigera tillgänglighet för direktuppspelat innehåll
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Du kan ange en tidsram för när innehållet ska vara aktivt i strömmen. Så här gör du.
 
-1. Välj ditt engagemangsprogram och gå till fliken **Streams**.
+1. Välj ditt engagemangsprogram och gå till fliken **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Klicka på kugghjulsikonen för det innehåll du vill schemalägga och välj sedan **Redigera tillgänglighet**.
+1. Klicka på kugghjulsikonen för det innehåll du vill schemalägga och välj sedan **[!UICONTROL Edit Availability]**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Välj ditt **Aktiv från**-datum, datumet **Aktiv till** och klicka på **Spara**.
+1. Välj ditt **[!UICONTROL Active From]**-datum, **[!UICONTROL Active Through]**-datumet och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Du kan lämna **Aktiv till** tomt om du vill göra innehåll tillgängligt för alltid.
+   >Du kan lämna **[!UICONTROL Active Through]** tomt om du vill göra innehåll tillgängligt för alltid.
 
    Perfekt! Du ser klockikonen bredvid det schemalagda innehållet. Den blir aktiv och inaktiv enligt det schema du anger.
 

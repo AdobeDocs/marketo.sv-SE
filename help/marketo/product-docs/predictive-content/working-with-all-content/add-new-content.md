@@ -4,18 +4,18 @@ description: Lägg till nytt innehåll - Marketo Docs - produktdokumentation
 title: Lägg till nytt innehåll
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 1%
 
 ---
 
 # Lägg till nytt innehåll {#add-new-content}
 
-Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
+Du kan enkelt lägga till innehåll manuellt på sidan [!UICONTROL All Content].
 
-1. Klicka på listrutan **Lägg till innehåll** och välj **Lägg till innehåll**.
+1. Klicka på listrutan **[!UICONTROL Add Content]** och välj **[!UICONTROL Add Content]**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ Du kan enkelt lägga till innehåll manuellt på sidan Allt innehåll.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klicka på **Lägg till**.
+1. Klicka på **[!UICONTROL Add]**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Den nya titeln visas nu på sidan **Allt innehåll**. Observera att det inte har godkänts för prediktivt innehåll än.
+1. Den nya titeln visas nu på sidan **[!UICONTROL All Content]**. Observera att det inte har godkänts för prediktivt innehåll än.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

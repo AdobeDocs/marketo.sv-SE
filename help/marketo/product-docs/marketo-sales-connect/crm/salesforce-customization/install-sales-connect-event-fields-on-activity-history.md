@@ -4,34 +4,34 @@ description: Installera händelsefält för anslutning av försäljning på akti
 title: Installera händelsefält för försäljningsanslutning i aktivitetshistorik
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 0%
+source-wordcount: '239'
+ht-degree: 2%
 
 ---
 
 # Installera händelsefält för försäljningsanslutning i aktivitetshistorik {#install-sales-connect-event-fields-on-activity-history}
 
-När du har installerat Enterprise-paketet i Salesforce kan du installera fälten för Sales Connect-händelser i din aktivitetshistorik. Händelsefält för Sales Connect innehåller information som vyer, klick och kampanjer. På så sätt kan du få information om dina e-postmeddelanden direkt importerade till Salesforce.
+När du har installerat Enterprise-paketet i [!DNL Salesforce] kan du installera [!UICONTROL Sales Connect]-händelsefält i aktivitetshistoriken. [!UICONTROL Sales Connect] händelsefält innehåller information som vyer, klick och kampanjer. Det gör att du kan importera information om dina e-postmeddelanden direkt till [!DNL Salesforce].
 
-Se till att du samarbetar med din Salesforce-administratör när du utför de här stegen. I det här exemplet kommer vi att installera fälten på **sidlayouten Leads**. Du kan även installera fälten på sidlayouterna för kontakt, konto och säljprojekt. Kom ihåg att när du loggar e-postmeddelanden till konton och säljprojekt måste du ha kontakten som du skickar som en kontaktroll.
+Se till att du samarbetar med din [!DNL Salesforce]-administratör när du utför de här stegen. I det här exemplet kommer vi att installera fälten på **sidlayouten Leads**. Du kan även installera fälten på sidlayouterna för kontakt, konto och säljprojekt. Kom ihåg att när du loggar e-postmeddelanden till konton och säljprojekt måste du ha kontakten som du skickar som en kontaktroll.
 
-1. Klicka på **Konfigurera**.
-1. Klicka på **Anpassa**.
-1. Klicka på **Leads**.
-1. Klicka på **Sidlayouter**.
-1. Klicka på **Redigera** bredvid sidlayouten som du vill ändra.
+1. Klicka på **[!UICONTROL Setup]**.
+1. Klicka på **[!UICONTROL Customize]**.
+1. Klicka på **[!UICONTROL Leads]**.
+1. Klicka på **[!UICONTROL Page Layouts]**.
+1. Klicka på **[!UICONTROL Edit]** bredvid sidlayouten som du vill ändra.
 
    >[!NOTE]
    >
-   >Sales Connect kommer att installera vissa sidlayouter åt dig, men om du redan har en standardlayout som teamet använder måste du installera den där. Du kan ta bort sidlayouterna Sales Connect om du inte vill använda dem.
+   >[!DNL Sales Connect] kommer att installera vissa sidlayouter åt dig, men om du redan har en standardlayout som används av ditt team bör du installera den där. Du kan ta bort sidlayouterna [!DNL Sales Connect] om du inte vill använda dem.
 
-1. Bläddra nedåt till avsnittet Aktivitetshistorik.
+1. Rulla ned till avsnittet [!UICONTROL Activity History].
 1. Klicka på den skiftnyckel som du vill redigera.
-1. Markera de Sales Connect-fält som du vill ta med i avsnittet Aktivitetshistorik. Om du inte ser Sales Connect-fält här kan du ha installerat fel Salesforce-paket.
-1. Klicka på **Lägg till** om du vill flytta fälten.
-1. Klicka på **OK**.
-1. Klicka på **Spara**.
+1. Markera de [!UICONTROL Sales Connect] fält som du vill ta med i avsnittet [!UICONTROL Activity History]. Om du inte ser [!UICONTROL Sales Connect] fält här kan du ha installerat fel [!DNL Salesforce]-paket.
+1. Klicka på **[!UICONTROL Add]** om du vill flytta över de önskade fälten.
+1. Klicka på **[!UICONTROL OK]**.
+1. Klicka på **[!UICONTROL Save]**.
 
-   Dina användare kan nu se värdefull information och uppdateringar om sina e-postmeddelanden i Salesforce!
+   Dina användare kan nu se värdefull information och uppdateringar om sina e-postmeddelanden i [!DNL Salesforce]!

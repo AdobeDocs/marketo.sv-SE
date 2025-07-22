@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949283
-description: Skicka och spåra från Outlook med en Marketo-mall - Marketo Docs - Produktdokumentation
-title: Skicka och spåra från Outlook med en Marketo-mall
+description: Skicka och spåra från [!DNL Outlook] Använda en Marketo-mall - Marketo Docs - produktdokumentation
+title: Skicka och spåra från [!DNL Outlook] Använda en Marketo-mall
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# Skicka och spåra från Outlook med en Marketo-mall {#send-and-track-from-outlook-using-a-marketo-template}
+# Skicka och spåra från [!DNL Outlook] med en Marketo-mall {#send-and-track-from-outlook-using-a-marketo-template}
 
 Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan du använda dem för att spara tid när du skapar e-postmeddelanden.
 
@@ -23,11 +23,11 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Markera den mall du vill använda, förhandsgranska den och klicka på **OK**.
+1. Markera den mall du vill använda, förhandsgranska den och klicka på **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Gör alla redigeringar och klicka sedan på **Skicka och spåra**.
+1. Gör alla redigeringar och klicka sedan på **[!UICONTROL Send and Track]**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ Om marknadsföringsteamet har gjort mallar tillgängliga för dig, så här kan 
    >
    >Token stöds inte med tillägget. Ta bort alla element som finns i mallen.
 
-1. Kolla in förhandsgranskningen, kontrollera att den ser bra ut och klicka sedan på **Skicka**.
+1. Kolla in förhandsgranskningen, kontrollera att den ser bra ut och klicka sedan på **[!UICONTROL Send]**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

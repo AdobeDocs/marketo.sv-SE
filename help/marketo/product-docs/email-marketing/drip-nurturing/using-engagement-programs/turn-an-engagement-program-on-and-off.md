@@ -4,9 +4,9 @@ description: Aktivera och inaktivera ett engagemangsprogram - Marketo Docs - pro
 title: Aktivera och inaktivera ett engagemangsprogram
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta förhindrar att innehåll skickas ut. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj engagemangsprogrammet och klicka på **Konfigurera**.
+1. Välj engagemangsprogrammet och klicka på **[!UICONTROL Setup]**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ Du kan stänga av ett engagemangsprogram med en enkel knapptryckning. Detta för
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Dubbelklicka på **Programstatus**.
+1. Dubbelklicka på **[!UICONTROL Program Status]**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Välj **Av** och klicka på **Spara**.
+1. Markera **[!UICONTROL Off]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

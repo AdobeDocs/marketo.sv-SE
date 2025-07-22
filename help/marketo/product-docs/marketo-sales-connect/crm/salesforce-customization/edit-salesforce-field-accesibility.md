@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352472
-description: Redigera Salesforce-fälttillgänglighet - Marketo Docs - produktdokumentation
-title: Redigera Salesforce-fälttillgänglighet
+description: Redigera Salesforce Field Accesibility - Marketo Docs - Product Documentation
+title: Redigera hjälpmedel för Salesforce-fält
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Redigera Salesforce-fälttillgänglighet {#edit-salesforce-field-accesibility}
+# Redigera hjälpmedel för Salesforce-fält {#edit-salesforce-field-accesibility}
 
-Om du inte ser aktivitetsloggen för e-post i Salesforce kan det bero på begränsningar i teamets fälttillgänglighet.
+Om du inte ser aktivitetsloggen för e-post till [!DNL Salesforce] kan det bero på begränsningar i teamets fälttillgänglighet.
 
-* Salesforce&#39;s Field Level Security ger Salesforce-administratörer möjlighet att lägga in begränsningar kring vilken information som kan visas och redigeras av användare. När du ställer in säkerhet på fältnivå ska du se till att det inte stör användarens möjlighet att se fälten Sales Connect.
+* Salesforce fältnivåsäkerhet ger [!DNL Salesforce] administratörer möjlighet att placera begränsningar runt vilken information som kan visas och redigeras av användare. När du anger fältnivåsäkerhet bör du kontrollera att det inte stör användarens möjlighet att se [!DNL Sales Connect] fält.
 
-* Arbeta med din Salesforce-administratör för att se till att de här säkerhetsinställningarna inte stör Sales Connect.
+* Arbeta med din [!DNL Salesforce]-administratör för att kontrollera att de här säkerhetsinställningarna inte stör [!DNL Sales Connect].
 
-* Om du är Salesforce-administratör kan du se fälttillgängligheten på fliken Säkerhetskontroller. De huvudfält som Sales Connect ska interagera med är: Konto, Kontakter, Möjlighet, Lead och Aktivitet.
+* Om du är [!DNL Salesforce]-administratör kan du se fälttillgängligheten på fliken [!UICONTROL Security Controls]. De huvudfält som [!DNL Sales Connect] ska interagera med är: [!UICONTROL Account], [!UICONTROL Contacts], [!UICONTROL Opportunity], [!UICONTROL Lead] och [!UICONTROL Task].

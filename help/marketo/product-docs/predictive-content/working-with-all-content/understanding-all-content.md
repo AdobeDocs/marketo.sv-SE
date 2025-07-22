@@ -4,9 +4,9 @@ description: Förstå allt innehåll - Marketo Docs - produktdokumentation
 title: Förstå allt innehåll
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ På sidan Allt innehåll visas allt innehåll som har identifierats eller lagts 
 
 Sidfälten innehåller:
 
-* **Titel**: Namnet på innehållet
-* **Kategorier**: Skapade av dig och används för att gruppera prediktiva resultat för webben eller e-post
-* **Vyer**: Totalt antal klick på identifierat webbinnehåll (inklusive alla källor)
-* **Konverteringar**: Antalet besökare som visade ett innehållsobjekt och slutförde ett formulär vid samma besök
-* **Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick
-* **Godkänn för prediktiv**: Ikonen visas om innehållet har godkänts
+* **[!UICONTROL Title]**: Innehållets namn
+* **[!UICONTROL Categories]**: Skapad av dig och används för att gruppera dina prediktiva resultat för webb eller e-post
+* **[!UICONTROL Views]**: Totalt antal klick på identifierat webbinnehåll (inklusive alla källor)
+* **[!UICONTROL Conversions]**: Antalet besökare som tittade på en del av innehållet och slutförde ett formulär vid samma besök
+* **[!UICONTROL Conversion Rate]**: En procentandel beräknad genom direktkonverteringar dividerat med klick
+* **[!UICONTROL Approve for Predictive]**: Ikonen visas om innehållet har godkänts
 
 Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av innehållet eller godkänna en del av innehållet. När du har godkänt innehållet kan du redigera det på sidan Predictive Content.
 
@@ -32,7 +32,7 @@ Du kan lägga till en ny del av innehållet och spåra den, ta bort en del av in
 
 Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum eller datumintervall för innehållsanalysen med hjälp av standardinställningar eller anpassade inställningar.
 
-1. Klicka på filterikonen på sidan **Allt innehåll** och välj en eller flera innehållskategorier under **Kategori**.
+1. Klicka på filterikonen på sidan **[!UICONTROL All Content]** och välj en eller flera innehållskategorier under **[!UICONTROL Category]**.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtrera innehåll genom att markera en eller flera kategorier. Ange sedan datum
 
 ## Visa analyser för ett datum- eller datumintervall {#display-analytics-for-a-date-or-date-range}
 
-1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka på **Använd**.
+1. Om du vill visa data för ett visst datum eller datumintervall klickar du på kalenderikonen och väljer sedan från den vänstra panelen. Om du vill ange ett anpassat datumintervall klickar du på den första och sista dagen i datumintervallet i kalendern (som visas). Klicka på **[!UICONTROL Apply]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

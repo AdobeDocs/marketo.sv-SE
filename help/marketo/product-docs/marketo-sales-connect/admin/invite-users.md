@@ -4,10 +4,10 @@ description: Bjud in användare - Marketo Docs - produktdokumentation
 title: Bjud in användare
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 3%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Det går snabbt och enkelt att lägga till användare!
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Välj **Användarhantering** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL User Management]**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klicka på **Bjud in användare**.
+1. Klicka på **[!UICONTROL Invite Users]**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Ange e-postadresserna till de personer som du vill lägga till och klicka på **Nästa**.
+1. Ange e-postadresserna till de personer som du vill lägga till och klicka på **[!UICONTROL Next]**.
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ Det går snabbt och enkelt att lägga till användare!
    >
    >Som standard läggs alla nya medlemmar till i gruppen Alla.
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/five.png)

@@ -4,9 +4,9 @@ description: Skapa en hierarki - Marketo Docs - produktdokumentation
 title: Skapa en hierarki
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hierarkier ska skapas i CRM. Om du inte har någon CRM följer du de här stegen för att skapa en hierarki manuellt.
 
-1. I Namngivna konton klickar du i kryssrutan **Gruppera efter hierarki**.
+1. Klicka i kryssrutan [!UICONTROL Named Accounts] i **[!UICONTROL Group by Hierarchy]**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Hierarkier ska skapas i CRM. Om du inte har någon CRM följer du de här stegen
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klicka på listrutan **Åtgärder för namngivet konto** och välj **Länka till namngivet konto**.
+1. Klicka på listrutan **[!UICONTROL Named Account Actions]** och välj **[!UICONTROL Link to Named Account]**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Om du vill ta bort länken för konton följer du stegen ovan men väljer **Ta bort länk från namngivet konto**.
+   >Om du vill ta bort länken för konton följer du stegen ovan men väljer **[!UICONTROL Unlink From Named Account]**.
 
-1. Välj ett överordnat namngivet konto i listrutan och klicka på **Länk**.
+1. Välj ett överordnat namngivet konto i listrutan och klicka på **[!UICONTROL Link]**.
 
    ![](assets/create-a-hierarchy-4.png)
 

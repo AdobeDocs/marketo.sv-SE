@@ -4,9 +4,9 @@ description: Använda intäktsmodellövergångar - Marketo Docs - produktdokumen
 title: Använda intäktsmodellövergångar
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
 ![](assets/one-2.png)
 
-1. Högerklicka (du kan också dubbelklicka) på en av pilarna för att komma igång och välj **Redigera övergång**.
+1. Högerklicka (du kan också dubbelklicka) på en av pilarna för att komma igång och välj **[!UICONTROL Edit Transition]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Övergångsreglerna för övergången till&quot;anonyma Ð&quot; kan inte ändras.
+   >Övergångsreglerna för &#39;[!UICONTROL Anonymous]¥ [!UICONTROL Known]&#39; kan inte redigeras.
 
 1. En ny flik öppnas för den övergång du har valt.
 
    ![](assets/three-1.png)
 
-1. Övergångar styr hur leads rör sig mellan faser. Dra utlösaren (eller filtret) från höger och släpp den var som helst på arbetsytan. I det här exemplet väljer vi utlösaren för Fyll i formulär.
+1. Övergångar styr hur leads rör sig mellan faser. Dra utlösaren (eller filtret) från höger och släpp den var som helst på arbetsytan. I det här exemplet väljer vi utlösaren **[!UICONTROL Fills Out Form]**.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/five-2.png)
 
-1. Klicka på **Modeler** om du vill gå tillbaka till din modell.
+1. Klicka på **[!UICONTROL Modeler]** om du vill gå tillbaka till din modell.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ När du skapar modellen och väljer och organiserar dina lagerfaser är det dags
 
    ![](assets/seven.png)
 
-1. När du har konfigurerat regler för alla dina övergångar klickar du på **Validera** för att verifiera.
+1. När du har konfigurerat regler för alla dina övergångar klickar du på **[!UICONTROL Validate]** för att verifiera.
 
    ![](assets/eight.png)
 

@@ -4,9 +4,9 @@ description: Taggar - Marketo Docs - produktdokumentation
 title: Taggar
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Märkordstyper identifierar den typ av information som du vill sortera efter.
 >
 >**Exempel**
 >
->* Tagg Type = Program Owner
+>* [!UICONTROL Tag Type] = Programägare
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

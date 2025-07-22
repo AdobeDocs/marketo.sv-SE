@@ -3,16 +3,16 @@ description: Syncing Call and Call Key Messages - Marketo Docs - produktdokument
 title: Synkronisera samtal och ringa nyckelmeddelanden
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
 
 # Synkronisera samtal och ringa nyckelmeddelanden {#syncing-call-and-call-key-messages}
 
-Anrop och anrop av nyckelmeddelandeobjekt i Veeva CRM synkroniseras som standard till Marketo Engage. Marketo synkroniserar data som är upp till sex månader gamla, baserat på Call Created Date.
+Anrop och anrop av nyckelmeddelandeobjekt i [!DNL Veeva] CRM synkroniseras som standard till Marketo Engage. Marketo synkroniserar data som är upp till sex månader gamla, baserat på Call Created Date.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Hämta bilderna från en webbsida - Marketo Docs - produktdokumenta
 title: Hämta bilderna från en webbsida
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en) till sidan som innehåller de bilder du vill ha och följer sedan dessa enkla steg.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Klicka på **Nytt** och **Hämta bilder från webben**.
+1. Klicka på **[!UICONTROL New]** och **[!UICONTROL Grab Images from Web]**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Markera mappen **Bilder och filer**, klistra in webbadressen (URL:en) i textrutan URL och klicka på **Nästa**.
+1. Markera mappen **[!UICONTROL Images and Files]**, klistra in webbadressen (URL:en) i textrutan URL och klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
    >
    >Den här funktionen fungerar inte med URL-adresser som pekar direkt på en bild. Använd URL-adressen till den webbsida som innehåller bilderna.
 
-1. Markera de bilder som du vill lägga till och klicka på **Importera**.
+1. Markera de bilder som du vill lägga till och klicka på **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Om du vill lägga till bilder från en webbsida kopierar du webbadressen (URL:en
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Du kan se alla tillgängliga bilder i **Bilder och filer**.
+1. Du kan se alla tillgängliga bilder i **[!UICONTROL Images and Files]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

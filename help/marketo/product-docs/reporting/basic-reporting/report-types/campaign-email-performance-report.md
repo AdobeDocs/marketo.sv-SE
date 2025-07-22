@@ -4,9 +4,9 @@ description: Resultatrapport för e-postkampanj - Marketo Docs - produktdokument
 title: Resultatrapport för e-postkampanj
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Kör en rapport om prestanda för e-postkampanjer om du vill visa prestandatillstånd grupperade efter [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **E-postprestanda för kampanj** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj **[!UICONTROL Campaign Email Performance]** [rapporttyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **Rapport** .
+1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) och klicka på fliken **[!UICONTROL Report]**.
 
 1. Utforska nu rapporten för att se hur varje e-postmeddelande har genomförts i era kampanjer.
 
@@ -27,15 +27,15 @@ Kör en rapport om prestanda för e-postkampanjer om du vill visa prestandatills
    >
    >Klicka på namnet på ett e-postmeddelande för att öppna det i E-postförhandsgranskaren.
 
-   [Kolumner som du kan välja](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)för en rapport om e-postprestanda för en kampanj inkluderar:
+   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postprestanda för en kampanj är:
 
    | Kolumn | Beskrivning |
    |---|---|
-   | Hård studsad | E-postmeddelandet avvisades på grund av ett permanent villkor, t.ex. en e-postadress som inte finns. |
-   | Mjuk studsad | E-postmeddelandet avvisades på grund av ett tillfälligt villkor, t.ex. att en server är nere eller en fullständig inkorg. |
-   | Väntande | E-post håller fortfarande på att levereras. |
-   | Klickad länk | Antal e-postmottagare som klickat på en länk i e-postmeddelandet. |
-   | Avprenumererad | Antal e-postmottagare som klickat på länken **Avsluta prenumeration** i e-postmeddelandet och fyllt i formuläret. |
+   | [!UICONTROL Hard Bounced] | E-postmeddelandet avvisades på grund av ett permanent villkor, t.ex. en e-postadress som inte finns. |
+   | [!UICONTROL Soft Bounced] | E-postmeddelandet avvisades på grund av ett tillfälligt villkor, t.ex. att en server är nere eller en fullständig inkorg. |
+   | [!UICONTROL Pending] | E-post håller fortfarande på att levereras. |
+   | [!UICONTROL Clicked Link] | Antal e-postmottagare som klickat på en länk i e-postmeddelandet. |
+   | [!UICONTROL Unsubscribed] | Antal e-postmottagare som klickat på länken **[!UICONTROL Unsubscribe]** i e-postmeddelandet och fyllt i formuläret. |
 
    >[!NOTE]
    >

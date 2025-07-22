@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Produktdokumentation
-title: Marketo Plugin Releases for Microsoft Dynamics
+description: Marketo Plugin-versioner för  [!DNL Microsoft Dynamics] - Marketo Docs - produktdokumentation
+title: Marketo Plugin-versioner för  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Marketo Plugin-versioner för [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 
-När du först synkroniserar till Microsoft Dynamics hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
+När du först synkroniserar till [!DNL Microsoft Dynamics] hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-[Hämta det senaste plugin-programmet](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} som motsvarar din Dynamics-release.
+[Hämta det senaste plugin-programmet ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) som motsvarar din [!DNL Dynamics]-version.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Uppdaterar Dynamics-lösningen {#updating-your-dynamics-solution}
+## Uppdaterar din [!DNL Dynamics]-lösning {#updating-your-dynamics-solution}
 
-1. Importera den senaste versionen av lösningen till den befintliga versionen av Dynamics CRM (t.ex. om Dynamics CRM har version 1.4 och den senaste versionen är 1.5 importerar du _över_ version 1.4).
+1. Importera den senaste versionen av lösningen till den befintliga versionen av din [!DNL Dynamics] CRM (t.ex. om din [!DNL Dynamics] CRM har version 1.4 och den senaste versionen är 1.5 importerar du _över_ version 1.4).
 
 1. Följande popup-fönster visas. Välj **Uppdatera** och **Behåll anpassningar** och klicka sedan på **Importera**.
 
@@ -31,7 +31,7 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
 
 >[!NOTE]
 >
->Dessa versioner fungerar både lokalt och online för Dynamics.
+>De här versionerna fungerar för både lokala versioner och onlineversioner av [!DNL Dynamics].
 
 <table> 
  <tbody> 
@@ -51,31 +51,29 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
    <td>Felkorrigering: Korrigerade fel som förhindrade att kontakter på MS Dynamics slogs samman.</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>03/27/23</td> 
-   <td>Felkorrigering: Förhindrar att plugin-programmet skriver över andra anpassningar av gränssnittselementen i MS Dynamics.
-   <p>
-   Felkorrigering: Återgjorda navigeringsrutor som saknas i 5.0.1.1.</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">Stöd för kampanjsynkronisering med MS [!DNL Dynamics] har lagts till.</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>02/04/21</td> 
-   <td>Stöd för synkronisering av flervalsalternativuppsättningsfält (den här funktionen är endast tillgänglig för V9.X och senare).</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">8/22/18</td> 
+   <td colspan="1">Stöd har lagts till för att leda till kontaktprocess för [!DNL Microsoft Dynamics] version 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>10/16/20</td> 
-   <td>Stöd för kampanjsynkronisering med MS Dynamics har lagts till.</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">6/27/18</td> 
+   <td colspan="1">Felkorrigering: Affärsprocessfel vid försök att installera Marketo Solutions för [!DNL Dynamics] 2013.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
    <td>8/22/18</td> 
-   <td>Stöd för körklara lösningar berättigar till kontaktprocess för Microsoft Dynamics version 9.x.</td> 
+   <td>Extra stöd för färdiga produkter ger rätt till kontaktprocess för Microsoft Dynamics version 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>6/27/18</td> 
-   <td>Felkorrigering: Affärsprocessfel vid försök att installera Marketo Solutions för Dynamics 2013.</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">11/9/16</td> 
+   <td colspan="1">Felkorrigering: Plugin-programmet prenumererade inte på händelser som fångar statusändringen för det anpassade objektet. Den här korrigeringen är specifik för [!DNL Dynamics] CRM On Premise 2011. </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ När du först synkroniserar till Microsoft Dynamics hämtar du den senaste vers
    <td>Felkorrigering: Kunden kunde inte skapa ett lead i CRM eftersom inloggningsanvändaren inte har Marketo Config-behörighet.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>1/18/16</td> 
-   <td>Felkorrigering: Åtkomstbegränsningar för normala Dynamics-användare har skapats för att åtgärda säkerhetsproblem.</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">1/18/16</td> 
+   <td colspan="1">Felkorrigering: Åtkomstbegränsningar för vanliga [!DNL Dynamics]-användare har skapats för att åtgärda säkerhetsproblem.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>12/30/15</td> 
-   <td>Felkorrigering: Uppdateringar i Dynamics synkroniserades inte till Marketo för steg och bilder.</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">12/30/15</td> 
+   <td>Felkorrigering: Uppdateringar i [!DNL Dynamics] synkroniserades inte till Marketo för steg och bilder.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 

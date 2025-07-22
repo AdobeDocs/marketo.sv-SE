@@ -4,16 +4,16 @@ description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - 
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # Lägg till en bifogad fil eller spårbart innehåll i din e-post {#add-an-attachment-or-trackable-content-to-your-email}
 
-När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
+När du skickar ett e-postmeddelande via [!DNL Sales Connect] kan du lägga till en fil som en bifogad fil eller göra en fil till en hämtningsbar (och spårbar) länk.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil
 
 ## Lägg till en bifogad fil {#add-an-attachment}
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/one-4.png)
 
-1. Fyll i fältet Till och ange ett ämne.
+1. Fyll i fältet [!UICONTROL To] och ange en [!UICONTROL Subject].
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ När du skickar ett e-postmeddelande via Sales Connect kan du lägga till en fil
 
    ![](assets/attach-three.png)
 
-1. Markera filen som du vill bifoga och klicka på **Infoga**.
+1. Markera filen som du vill bifoga och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
 
 ## Lägg till spårbart innehåll {#add-trackable-content}
 
-1. Skapa e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi fönstret Disponera).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi [!UICONTROL Compose]-fönstret).
 
    ![](assets/one-4.png)
 
-1. Fyll i fältet Till och ange ett ämne.
+1. Fyll i fältet [!UICONTROL To] och ange en [!UICONTROL Subject].
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ Den bifogade filen visas längst ned i e-postmeddelandet.
 
    ![](assets/three-4.png)
 
-1. Markera det innehåll som du vill lägga till, klicka på **Innehållet är spårat** och klicka på **Infoga**.
+1. Markera det innehåll som du vill lägga till, klicka på skjutreglaget **[!UICONTROL Content is tracked]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/four-4.png)
 

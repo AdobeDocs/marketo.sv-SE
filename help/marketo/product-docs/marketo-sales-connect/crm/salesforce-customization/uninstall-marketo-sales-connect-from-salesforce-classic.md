@@ -2,9 +2,9 @@
 description: Avinstallera Marketo Sales Connect från Salesforce Classic - Marketo Docs - produktdokumentation
 title: Avinstallera Marketo Sales Connect från Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-konto när du har börjat använda Sales Insight Actions.
 
-## Ta bort Sales Connect-fält från sidlayout {#remove-sales-connect-fields-from-page-layout}
+## Ta bort [!DNL Sales Connect] fält från sidlayout {#remove-sales-connect-fields-from-page-layout}
 
-1. Klicka på **Inställningar** i Salesforce Classic.
+1. Klicka på [!DNL Salesforce] i **[!UICONTROL Setup]** Classic.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. Expandera (men klicka inte på) Anpassa under Skapa till vänster och sedan Leads. Välj sedan **Sidlayouter**.
+1. Expandera (men klicka inte på) [!UICONTROL Build] under [!UICONTROL Customize] i det vänstra navigeringsfältet och sedan [!UICONTROL Leads]. Välj sedan **[!UICONTROL Page Layouts]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Klicka på **Redigera** bredvid Leadlayout.
+1. Klicka på **[!UICONTROL Edit]** bredvid Leadlayout.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
-1. Välj **Fält** i konsolen. Sök efter MSC i Snabbsökning. Alla nedtonade fält har lagts till i sidlayouten. Du måste ta bort dem.
+1. Välj **[!UICONTROL Fields]** i konsolen. Sök efter MSC i Snabbsökning. Alla nedtonade fält har lagts till i sidlayouten. Du måste ta bort dem.
 
    ![](assets/uninstall-salesforce-classic-customization-package-4.png)
 
@@ -35,19 +35,19 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
    >
    >Om inget av fälten är nedtonat betyder det att du inte har lagt till dem i sidlayouten. Du kan hoppa över det här avsnittet.
 
-1. Bläddra till det avsnitt som har dina anpassade Sales Connect-fält.
+1. Bläddra till det avsnitt som innehåller dina [!DNL Sales Connect] anpassade fält.
 
    ![](assets/uninstall-salesforce-classic-customization-package-5.png)
 
 1. Det finns 10 typer av MSC-fält som kan läggas till i det här avsnittet. Ta bort alla fält som du har lagt till eller ta bort hela avsnittet.
 
-1. Klicka på **Snabbspara** när du är klar.
+1. Klicka på **[!UICONTROL Quick Save]** när du är klar.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
-## Ta bort knappar för försäljningskontakt från sidlayouter {#remove-sales-connect-buttons-from-page-layouts}
+## Ta bort [!DNL Sales Connect]-knappar från sidlayouter {#remove-sales-connect-buttons-from-page-layouts}
 
-1. I konsolen (steg 4 ovan) väljer du **Knappar**. Sök i &quot;MSC.&quot; Alla nedtonade knappar har lagts till i det anpassade knappavsnittet. Du måste ta bort dem.
+1. Välj **[!UICONTROL Buttons]** i konsolen (steg 4 ovan). Sök i &quot;MSC.&quot; Alla nedtonade knappar har lagts till i det anpassade knappavsnittet. Du måste ta bort dem.
 
    ![](assets/uninstall-salesforce-classic-customization-package-7.png)
 
@@ -55,41 +55,41 @@ Så här avinstallerar du Marketo Sales Connect-paketet från ditt Salesforce-ko
    >
    >Om ingen av knapparna är nedtonad betyder det att du inte har lagt till dem. Du kan hoppa över det här avsnittet.
 
-1. Dra och släpp MSC-knapparna från sektionen Anpassade knappar till konsolen.
+1. Dra och släpp MSC-knapparna från avsnittet [!UICONTROL Custom Buttons] till konsolen.
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Klicka på **Snabbspara** när du är klar.
+1. Klicka på **[!UICONTROL Quick Save]** när du är klar.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
-## Ta bort anslutningsfält för försäljning från avsnittet Aktivitetshistorik {#remove-sales-connect-fields-from-activity-history-section}
+## Ta bort [!DNL Sales Connect] fält från avsnittet [!UICONTROL Activity History] {#remove-sales-connect-fields-from-activity-history-section}
 
-1. Bläddra längst ned på sidan till listavsnittet Aktivitetshistorik och klicka på ikonen för skiftnyckel.
+1. Bläddra till sidans nedre del till det [!UICONTROL Activity History] relaterade listavsnittet och klicka på ikonen för skiftnyckel.
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Välj Koppla försäljning i området Markerade fält och klicka på pilen Ta bort. Klicka på **OK** när du är klar.
+1. Markera [!DNL Sales Connect]-fälten i området [!UICONTROL Selected Fields] och klicka på pilen [!UICONTROL Remove]. Klicka på **[!UICONTROL OK]** när du är klar.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >Förkortningen MSE _är_ Sales Connect. Det är bara det föregående namnet&quot;Marketo Sales Engage&quot;.
+   >Förkortningen MSE _är_ [!DNL Sales Connect]. Det är bara det föregående namnet&quot;Marketo Sales Engage&quot;.
 
 1. Klicka på **Spara** när du är klar med sidan Leads.
 
-## Ta bort åtgärdsknappar för Säljanslutning i grupp från leadlistevyn {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
+## Ta bort [!DNL Sales Connect] gruppåtgärdsknappar från leadlistvyn {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Expandera (men klicka inte på) Anpassa under Skapa till vänster och sedan Leads. Välj sedan **Sök efter layouter**.
+1. Expandera (men klicka inte på) [!UICONTROL Build] under [!UICONTROL Customize] i det vänstra navigeringsfältet och sedan [!UICONTROL Leads]. Välj sedan **[!UICONTROL Search Layouts]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Klicka på **Redigera** bredvid Leads-listvyn.
+1. Klicka på **[!UICONTROL Edit]** bredvid Leads-listvyn.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Välj **Lägg till i MSC-kampanj (klassisk)**, **Skicka e-post med MSC (klassisk)** och **Skicka till MSC (klassisk)** och klicka på Ta bort-pilen. Klicka sedan på **Spara**.
+1. Välj **[!UICONTROL Add to MSC Campaign (Classic)]**, **[!UICONTROL Email with MSC (Classic)]** och **[!UICONTROL Push to MSC (Classic)]** och klicka på pilen [!UICONTROL Remove]. Klicka sedan på **[!UICONTROL Save]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,21 +97,21 @@ Du bör inte längre se knapparna i leadlistevyn.
 
 ## Ta bort MSC-konfiguration för kontakter {#remove-msc-configuration-for-contacts}
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på [!DNL Salesforce] i **[!UICONTROL Setup]**.
 
-1. Expandera (men klicka inte på) Anpassa under Build i den vänstra navigeringen och sedan Kontakter. Välj sedan **Sidlayouter**.
+1. Expandera (men klicka inte på) [!UICONTROL Build] under [!UICONTROL Customize] i det vänstra navigeringsfältet och sedan [!UICONTROL Contacts]. Välj sedan **[!UICONTROL Page Layouts]**.
 
-1. Klicka på **Redigera** bredvid Kontaktlayout.
+1. Klicka på **[!UICONTROL Edit]** bredvid Kontaktlayout.
 
 1. Upprepa steg från alla tre avsnitten.
 
 ## Ta bort MSC-konfiguration för affärsmöjlighet {#remove-msc-configuration-for-opportunity}
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på [!DNL Salesforce] i **[!UICONTROL Setup]**.
 
-1. Utöka (men klicka inte på) Anpassa under Skapa i den vänstra navigeringsrutan, och sedan Affärsmöjligheter. Välj sedan **Sidlayouter**.
+1. Expandera (men klicka inte på) [!UICONTROL Build] under [!UICONTROL Customize] i det vänstra navigeringsfältet och sedan [!UICONTROL Opportunities]. Välj sedan **[!UICONTROL Page Layouts]**.
 
-1. Klicka på **Redigera** bredvid säljprojektslayout.
+1. Klicka på **[!UICONTROL Edit]** bredvid säljprojektslayout.
 
 1. Upprepa steg från alla tre avsnitten.
 
@@ -121,11 +121,11 @@ Affärsmöjlighetsvyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följ
 
 ## Ta bort MSC-konfiguration för konto {#remove-msc-configuration-for-account}
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på [!DNL Salesforce] i **[!UICONTROL Setup]**.
 
-1. Utöka (men klicka inte på) Anpassa under Build till vänster och sedan Konto. Välj sedan **Sidlayouter**.
+1. Expandera (men klicka inte på) [!UICONTROL Build] under [!UICONTROL Customize] i det vänstra navigeringsfältet och sedan [!UICONTROL Account]. Välj sedan **[!UICONTROL Page Layouts]**.
 
-1. Klicka på **Redigera** bredvid Kontolayout.
+1. Klicka på **[!UICONTROL Edit]** bredvid Kontolayout.
 
 1. Upprepa steg från alla tre avsnitten.
 
@@ -135,17 +135,17 @@ Kontovyn har bara en knapp -&quot;Skicka MSE-e-post&quot; och följande fält:
 
 ## Ta bort Marketo Sales Outbox {#remove-marketo-sales-outbox}
 
-1. Klicka på fliken **+** högst upp på skärmen i Salesforce.
+1. I [!DNL Salesforce] klickar du på fliken **+** högst upp på skärmen.
 
-1. Klicka på **Anpassa mina flikar**.
+1. Klicka på **[!UICONTROL Customize My Tabs]**.
 
-1. Välj alternativet Marketo Sales Outbox till höger. Klicka på borttagningspilen och sedan på **Spara**.
+1. Välj alternativet Marketo Sales Outbox till höger. Klicka på pilen [!UICONTROL Remove] och sedan på **[!UICONTROL Save]**.
 
-## Ta bort Sales Connect-paket {#delete-sales-connect-package}
+## Ta bort [!DNL Sales Connect]-paket {#delete-sales-connect-package}
 
 När du har tagit bort alla objekt från ditt Salesforce-konto följer du stegen nedan.
 
-1. Klicka på **Konfigurera** i Salesforce.
+1. Klicka på [!DNL Salesforce] i **[!UICONTROL Setup]**.
 
 1. Ange&quot;Apex Classes&quot; i rutan Snabbsökning.
 
@@ -153,9 +153,9 @@ När du har tagit bort alla objekt från ditt Salesforce-konto följer du stegen
 
 Du är redo!
 
-Här är en lista över alla objekt som behöver tas bort från Salesforce-instansen:
+Här är en lista över alla objekt som behöver tas bort från din Salesforce-instans:
 
-## Anpassningsinformation för Sales Connect {#sales-connect-customization-details}
+## Anpassningsinformation för [!DNL Sales Connect] {#sales-connect-customization-details}
 
 <table>
  <tr>
@@ -165,79 +165,79 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <th>Datatyp</th>
  </tr>
  <tr>
-  <td>MSC-samtal Lokalt närvaro-ID</td>
+  <td>[!UICONTROL MSC Call Local Presence ID]</td>
   <td>Som användare kan jag välja Lokal närvaro som alternativ när jag ringer samtal från MSC Phone. Inkommande samtal visar ett lokalt nummer för mottagaren</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>URL för MSC-samtalsinspelning</td>
+  <td>[!UICONTROL MSC Call Recording URL]</td>
   <td>Samtal kan spelas in och en länk för inspelningen loggas här </td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Campaign</td>
+  <td>[!UICONTROL MSC Campaign]</td>
   <td>Loggnamn för MSC-kampanjen som kontakten/leadet är på</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>URL för MSC-kampanj</td>
+  <td>[!UICONTROL MSC Campaign URL]</td>
   <td>Loggar URL till kampanjen som skapades i MSC. Om du klickar på detta öppnas kampanjen i MSC-webbappen</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>Aktuellt steg för MSC Campaign</td>
+  <td>[!UICONTROL MSC Campaign Current Step]</td>
   <td>Om en kontakt/lead finns i en kampanj loggas namnet på steget som användaren är på</td>
   <td>Aktivitet</td>
   <td>Kryssruta</td>
  </tr>
  <tr>
-  <td>MSC-e-postbilaga visad</td>
+  <td>[!UICONTROL MSC Email Attachment Viewed]</td>
   <td>Loggar data när ett e-postmeddelande skickas med en bifogad fil som visas av mottagaren</td>
   <td>Aktivitet</td>
   <td>Kryssruta</td>
  </tr>
  <tr>
-  <td>MSC-e-post klickad</td>
+  <td>[!UICONTROL MSC Email Clicked]</td>
   <td>Loggar en bock när mottagaren klickar på en länk i e-postmeddelandet</td>
   <td>Aktivitet</td>
   <td>Kryssruta</td>
  </tr>
  <tr>
-  <td>MSC-e-postadress besvarad</td>
+  <td>[!UICONTROL MSC Email Replied]</td>
   <td>Loggar en bock när mottagaren svarar på e-postmeddelandet</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-e-poststatus</td>
+  <td>[!UICONTROL MSC Email Status]</td>
   <td>Visar om ett e-postmeddelande skickas/håller på att skickas/studsas (spårning av studsade e-postmeddelanden beror på vilken leveranskanal som används)</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-e-postmall</td>
+  <td>[!UICONTROL MSC Email Template]</td>
   <td>Loggnamn för MSC-mallen som användes i e-postmeddelandet som skickades till leadet/kontakten</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>URL för MSC-e-postmall</td>
+  <td>[!UICONTROL MSC Email Template URL]</td>
   <td>Loggar URL till mallen som skapades i MSC. Om du klickar på det här öppnas mallen i MSC-webbprogrammet</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>URL för MSC-e-post</td>
+  <td>[!UICONTROL MSC Email URL]</td>
   <td>Om du klickar på den här URL:en öppnas kommandocentralen i MSC och historikfliken med personinformationsvyn öppnas där användaren kan se det skickade e-postmeddelandet</td>
   <td>Aktivitet</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC-e-post visad</td>
+  <td>[!UICONTROL MSC Email Viewed]</td>
   <td>Loggar en bock när mottagaren visar ett e-postmeddelande</td>
   <td>Aktivitet</td>
   <td>Kryssruta</td>
@@ -360,8 +360,8 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <th>Typ</th>
  </tr>
  <tr>
-  <td>Skicka MSC-e-post</td>
-  <td>Skicka e-postmeddelanden från Salesforce</td>
+  <td>[!UICONTROL Send MSC Email]</td>
+  <td>Skicka e-post från [!DNL Salesforce]</td>
   <td>
   <p>Konto 
   <p>Kontakt 
@@ -369,22 +369,22 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <p>Möjligheter</td>
  </tr>
  <tr>
-  <td>Lägg till i MSC Campaign</td>
-  <td>Lägg till i MSC-kampanjer från Salesforce</td>
+  <td>[!UICONTROL Add to MSC Campaign]</td>
+  <td>Lägg till i MSC-kampanjer från [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Skicka till MSC</td>
-  <td>Skicka kontakt från Salesforce till MSC</td>
+  <td>[!UICONTROL Push to MSC]</td>
+  <td>Skicka kontakt från [!DNL Salesforce] till MSC</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Ring med MSC</td>
-  <td>Ring säljsamtal från Salesforce</td>
+  <td>[!UICONTROL Call with MSC]</td>
+  <td>Ring säljsamtal från [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
@@ -398,22 +398,22 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <th>Typ</th>
  </tr>
  <tr>
-  <td>Lägg till i MSC Campaign (Classic)</td>
-  <td>Lägg till i MSC-kampanjer från Salesforce</td>
+  <td>[!UICONTROL Add to MSC Campaign (Classic)]</td>
+  <td>Lägg till i MSC-kampanjer från [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Skicka till MSC (klassisk)</td>
-  <td>Skicka kontakt från Salesforce till MSC</td>
+  <td>[!UICONTROL Push to MSC (Classic)]</td>
+  <td>Skicka kontakt från [!DNL Salesforce] till MSC</td>
   <td>
   <p>Kontakt
   <p>Lead</td>
  </tr>
  <tr>
-  <td>E-post med MSC (Classic)</td>
-  <td>E-post med MSC från Salesforce</td>
+  <td>[!UICONTROL Email with MSC (Classic)]</td>
+  <td>E-post med MSC från [!DNL Salesforce]</td>
   <td>
   <p>Kontakt
   <p>Lead</td>

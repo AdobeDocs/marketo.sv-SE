@@ -4,9 +4,9 @@ description: Förhandsgranska ett push-meddelande - Marketo Docs - produktdokume
 title: Förhandsgranska ett push-meddelande
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det är enkelt att förhandsgranska hur ditt push-meddelande kommer att se ut, för antingen Android eller iOS. Det finns fyra sätt att göra det på.
 
-Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhandsgranska och klicka på **Förhandsgranska**.
+Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhandsgranska och klicka på **[!UICONTROL Preview]**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Högerklicka på filen i navigeringsträdet för meddelandet som du vill förhan
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Du kan också klicka på **Push Notifications Actions** på sidan Push Notification view och sedan **Preview**. Du kan också klicka på **Förhandsgranska** längst till höger.
+Du kan också klicka på **[!UICONTROL Push Notifications Actions]** och sedan **[!UICONTROL Preview]** på sidan Push Notification. Du kan också klicka på **[!UICONTROL Preview]** längst till höger.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-I redigeraren kan du slutligen klicka på fliken **Förhandsgranska utkast** i det övre högra hörnet när du arbetar med meddelandet.
+I redigeraren kan du slutligen klicka på fliken **[!UICONTROL Preview Draft]** i det övre högra hörnet när du arbetar med meddelandet.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

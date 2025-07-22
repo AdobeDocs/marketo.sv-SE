@@ -4,9 +4,9 @@ description: Konfigurera händelseinställningar och synkronisera Marketo med di
 title: Konfigurera händelseinställningar och synkronisera Marketo med ditt webbinarium
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Följ de här stegen för att konfigurera händelseinställningarna för Marketo
 
 ## Ange händelsen {#set-the-event}
 
-1. Välj den händelse som du vill associera med ett ON24-webbinarium, klicka sedan på listrutan **Händelseåtgärder** och välj **Händelseinställningar**.
+1. Välj den händelse som du vill associera med ett ON24-webbinarium, klicka sedan på listrutan **[!UICONTROL Event Actions]** och välj **[!UICONTROL Event Settings]**.
 
    ![](assets/one.png)
 
-1. Välj ON24 som händelsepartner.
+1. Välj ON24 som [!UICONTROL Event Partner].
 
    ![](assets/two.png)
 
-1. Välj inloggningskontot (till exempel visningsnamnet).
+1. Välj kontot [!UICONTROL Login] (till exempel visningsnamnet).
 
    ![](assets/three.png)
 
-1. Ange händelse-ID (hämta detta från ON24). Klicka på **Spara**.
+1. Ange [!UICONTROL Event Id] (hämta den från ON24). Klicka på **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -39,19 +39,19 @@ Följ de här stegen för att konfigurera händelseinställningarna för Marketo
 
 ## Ange schema {#set-the-schedule}
 
-När du ställer in en händelse som är associerad med ett ON24-webbinarium fylls händelseschemat i med data från ON24. Följ de här stegen för att öppna dialogrutan Händelseschema.
+När du ställer in en händelse som är associerad med ett ON24-webbinarium fylls händelseschemat i med data från ON24. Följ de här stegen för att komma åt dialogrutan [!UICONTROL Event Schedule].
 
-1. Markera händelsen. Klicka på listrutan **Händelseåtgärder** och välj **Schemalägg.**
+1. Markera händelsen. Klicka på listrutan **[!UICONTROL Event Actions]** och välj **[!UICONTROL Schedule].**
 
    ![](assets/five.png)
 
-1. Välj **Startdatum, Slutdatum** och **Tidszon**. Klicka på **Spara**.
+1. Välj **[!UICONTROL Start Date]**, **[!UICONTROL End Date]** och **[!UICONTROL Time Zone]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **Uppdatera från webbinariet Provider** på menyn Händelseåtgärder för att se hur nya data fylls i.
+   >Om du uppdaterar någon händelseinformation i ON24 måste du klicka på **[!UICONTROL Refresh from Webinar Provider]** på [!UICONTROL Event Actions]-menyn för att se hur nya data fylls i.
 
 Nu kan du gå vidare till nästa steg: [skapa underordnade kampanjer och lokala resurser](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 

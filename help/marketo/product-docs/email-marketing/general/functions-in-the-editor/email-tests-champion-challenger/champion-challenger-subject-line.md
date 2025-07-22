@@ -4,9 +4,9 @@ description: Champion/Challenger -Subject line - Marketo Docs - produktdokumenta
 title: Champion/Challenger - Subject Line
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 >
 >[Lägg till en e-postkampanj/budbärare](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Välj **Ämnesrad** i listrutan **Testtyp** i e-posttestredigeraren.
+1. Välj **[!UICONTROL Subject Line]** i listrutan **[!UICONTROL Test Type]** i e-posttestredigeraren.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >I ett ämnestest anges den första ämnesraden som **Champion**. Efterföljande ämnesrader kallas **Utmaningar**.
+   >I ett ämnestest anges den första ämnesraden som **[!UICONTROL Champion]**. Efterföljande ämnesrader kallas **[!UICONTROL Challengers]**.
 
-1. Ange ämnesrad(er) för **Utmaningar**.
+1. Ange ämnesrader för **[!UICONTROL Challengers]**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Du kan enkelt testa flera ämnesrader. När testet är klart skickar du ut e-pos
 
    För att få statistiskt förtroende bör du kontrollera att den procentandel du väljer innehåller tillräckligt många personer, så att testet blir giltigt. Låt dig inte luras av osäkra resultat.
 
-1. Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

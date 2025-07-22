@@ -4,9 +4,9 @@ description: Ställ in Facebook-annonser - Marketo Docs - produktdokumentation
 title: Konfigurera Facebook-annonser
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Ange ett **visningsnamn** för tjänsten, välj tjänsten **Facebook Lead Ads** i listrutan och klicka på **Create**.
+1. Ange en **[!UICONTROL Display Name]** för tjänsten, välj tjänsten **[!UICONTROL Facebook Lead Ads]** i listrutan och klicka på **[!UICONTROL Create]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
    >[!NOTE]
    >
-   >Facebook-kontot måste ha tillgång till alla Facebook-affärssidor som du vill hämta leads från.
+   >Kontot [!DNL Facebook] behöver åtkomst till alla [!DNL Facebook]-affärssidor som du vill hämta lead-annonser från.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. När du har loggat in på Facebook går du tillbaka till Marketo och klickar på **Auktorisera**.
+1. När du har loggat in på [!DNL Facebook] går du tillbaka till Marketo och klickar på **[!UICONTROL Authorize]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Om du uppmanas till det klickar du på **OK** för att godkänna Marketo-appinstallationen till Facebook.
+1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att godkänna Marketo-programinstallationen i [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Du kommer att märka att du nu är auktoriserad. Klicka på **Nästa**.
+1. Du kommer att märka att du nu är auktoriserad. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Markera de sidor du vill att Marketo ska hämta Facebook-annonser från och klicka på **Nästa**.
+1. Markera de sidor du vill att Marketo ska hämta [!UICONTROL Facebook Lead Ads] från och klicka på **[!UICONTROL Next]**.
 
    >[!TIP]
    >
-   >Om du inte ser någon sida som du väntar dig ska du kontrollera att det Facebook-konto som används för att autentisera läggs till på sidan på Facebook och försöka igen.
+   >Om du inte ser någon sida som du väntar dig ska du kontrollera att det [!DNL Facebook]-konto som används för att autentisera läggs till på sidan på [!DNL Facebook] och försöka igen.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Om du vill acceptera standardfältmappningar från Facebook till Marketo klickar du bara på **Skapa**.
+1. Om du vill acceptera standardfältmappningar från [!DNL Facebook] till Marketo klickar du bara på **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
    >[!CAUTION]
    >
-   >Marketo stöder inte mappning av två Facebook-fält till ett enda Marketo-fält, bara 1 till 1. Om du mappar 2 till 1 kan leads misslyckas med att ansluta till Marketo.
+   >Marketo stöder inte mappning av två [!DNL Facebook]-fält till ett enda Marketo-fält, endast 1 till 1. Om du mappar 2 till 1 kan leads misslyckas med att ansluta till Marketo.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Snyggt gjort! Leads kommer att börja flöda in i Marketo när ni genomför framgångsrika Facebook-annonskampanjer.
+   Snyggt gjort! Leads börjar flöda in i Marketo när du kör framgångsrika [!DNL Facebook] annonskampanjer för leads.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

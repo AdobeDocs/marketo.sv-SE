@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12981204
 description: Predictive Content Analytics Overview - Marketo Docs - Product Documentation
-title: Översikt över prediktiv innehållsanalys
+title: Prediktiv Content Analytics-översikt
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Översikt över prediktiv innehållsanalys {#predictive-content-analytics-overview}
+# Prediktiv Content Analytics-översikt {#predictive-content-analytics-overview}
 
 Använd innehållsanalys för att få ytterligare insikter i ert befintliga innehåll, lär dig (baserat på AI och prediktiva algoritmer) vilket innehåll som fungerar för era målgrupper och öka avkastningen från era marknadsföringssatsningar.
 
 >[!NOTE]
 >
->Fliken Analytics och funktionerna för innehållsanalys är exklusivt tillgängliga med Marketo Predictive Content.
+>Fliken [!UICONTROL Analytics] och innehållsanalysfunktionerna är exklusivt tillgängliga med Marketo Predictive Content.
 
 ## Översikt {#overview}
 
-Klicka på **Analys** på sammanfattningssidan.
+Klicka på **[!UICONTROL Analytics]** på sammanfattningssidan.
 
 ![](assets/one.png)
 
-Analyserna omfattar flera avsnitt: Övre innehåll efter vy, Övre innehåll efter konverteringsgrad, Trending Content, Suggested Content och Content.
+[!UICONTROL Analytics] omfattar flera avsnitt: [!UICONTROL Top Content by Views], [!UICONTROL Top Content by Conversion Rate], [!UICONTROL Trending Content], [!UICONTROL Suggested Content] och [!UICONTROL Content].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Klicka på exportknappen om du vill exportera avsnittets resultat via Excel.
 
 ![](assets/new-3point5.png)
 
-Du kan filtrera resultat efter olika attribut/egenskaper (t.ex. ABM-kontolista, land, osv.).
+Du kan filtrera resultat efter olika attribut/egenskaper (t.ex. [!UICONTROL ABM Account List], [!UICONTROL Country] osv.).
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Klicka på kalenderikonen om du vill ändra datumen för speglade data. Välj en
 
 ![](assets/dates.png)
 
-## Övre innehåll efter vy {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
 Visar det översta innehållet i antal vyer per valt datumintervall.
 
 ![](assets/new-6.png)
 
-## Övre innehåll efter konverteringsgrad {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 Visar det översta konverteringsinnehållet efter konverteringsgrad för det valda datumintervallet.
 
@@ -63,13 +63,13 @@ Visar det översta konverteringsinnehållet efter konverteringsgrad för det val
 >
 >**Konverteringsgrad**: En procentandel beräknad genom direktkonverteringar dividerat med klick.
 
-## Trendinnehåll {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 Visar en ökning av populariteten för en del av innehållet genom att titta på den senaste tvåveckorsökningen av visningar jämfört med samma föregående period.
 
 ![](assets/new-8.png)
 
-## Föreslaget innehåll {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 Visar innehåll som vi föreslår att du marknadsför i dina marknadsföringsaktiviteter baserat på det filter som du har definierat.
 
@@ -81,9 +81,9 @@ Hovra över en bild i Föreslaget innehåll för att visa tillgängliga alternat
 
 >[!NOTE]
 >
->Ser du ikonerna längst ned? Vänster till höger är de: Visa innehåll, Exportera till CSV och Godkänn innehåll.
+>Ser du ikonerna längst ned? De är från vänster till höger: [!UICONTROL View Content], [!UICONTROL Export to CSV], [!UICONTROL Approve Content].
 
-## Innehåll {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

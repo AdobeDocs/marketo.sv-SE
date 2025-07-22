@@ -4,9 +4,9 @@ description: Skapa underordnade kampanjer och lokala Assets - Marketo Docs - pro
 title: Skapa underordnade kampanjer och lokala Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
@@ -73,25 +73,25 @@ Exempel på underordnade kampanjer är en inbjudningskampanj, en registreringska
 
 >[!NOTE]
 >
->Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo, kommer utlösaren att vara **Fyller i formulär** med formulärnamnet.
+>Om du använder ett Marketo-formulär på en landningssida som inte kommer från Marketo, kommer utlösaren att vara **[!UICONTROL Fills out Form]** med [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flöde**
 
-* **Ändra programstatus** - Ange som webbinarium -> Registrerat.
+* **[!UICONTROL Change Program Status]** - Ange som webbinarium -> Registrerad.
 
 Det här flödessteget krävs som STEG FÖR FÖRSTA FLÖDE när du konfigurerar din underordnade kampanj. När en persons programstatus ändras till Registrerad skickar Marketo registreringsinformationen till ON24. Ingen annan status kommer att föra personen över.
 
-* **Skicka e-post** - bekräftelse via e-post. Ange det här e-postmeddelandet som **Funktion** så att de som har registrerat sig fortfarande får det.
+* **[!UICONTROL Send Email]** - Bekräftelsemejl. Ange det här e-postmeddelandet som **Funktion** så att de som har registrerat sig fortfarande får det.
 
-Flödessteget **Skicka e-post** MÅSTE vara det andra steget. Bekräftelsemeddelandet innehåller `{{member.webinar url}}`, som fylls i med information som skickas tillbaka till Marketo från ON24.
+Flödessteget **[!UICONTROL Send Email]** MÅSTE vara det andra steget. Bekräftelsemeddelandet innehåller `{{member.webinar url}}`, som fylls i med information som skickas tillbaka till Marketo från ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->Ordningen på dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. Steget **Ändra programstatus** skickar personen till ON24 för att registrera och en unik URL genereras. När detta har inträffat kan du sedan skicka ut bekräftelsemeddelandet som innehåller denna unika URL med hjälp av token `{{member.webinar URL}}`.
+>Ordningen på dessa flödessteg är viktig eftersom åtgärderna utförs i Marketo i den ordning som de utförs. Steget **[!UICONTROL Change Program Status]** skickar personen till ON24 för registrering och en unik URL genereras. När detta har inträffat kan du sedan skicka ut bekräftelsemeddelandet som innehåller denna unika URL med hjälp av token `{{member.webinar URL}}`.
 >
 >Om personen returneras med ett registreringsfel får han/hon inte någon e-postbekräftelse.
 

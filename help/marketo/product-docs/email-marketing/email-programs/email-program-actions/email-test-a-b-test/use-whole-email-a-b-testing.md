@@ -4,9 +4,9 @@ description: Använd A/B-testning i hele-post - Marketo Docs - produktdokumentat
 title: Använd A/B-testning i"hele-post"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e
 >
 >[Lägg till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Klicka på **Lägg till A/B-test** under rutan E-post med ditt e-postmeddelande markerat.
+1. Klicka på **[!UICONTROL Add A/B Test]** under rutan E-post med ditt e-postmeddelande markerat.
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Ett nytt fönster öppnas. Klicka på listrutan **Testtyp** och välj **Hela e-postmeddelanden**.
+1. Ett nytt fönster öppnas. Klicka på listrutan **[!UICONTROL Test Type]** och välj **[!UICONTROL Whole Emails]**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Om du har tidigare testinformation (till exempel ett ämnestest) kan du klicka på **Återställ test**.
+1. Om du har tidigare testinformation (till exempel ett ämnestest) kan du klicka på **[!UICONTROL Reset Test]**.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Klicka på **Lägg till** för att använda e-postmeddelandet.
+1. Klicka på **[!UICONTROL Add]** för att använda e-postmeddelandet.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -45,11 +45,11 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e
 
 1. Välj ditt andra e-postmeddelande.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Klicka på **Lägg till** om du vill använda den andra e-postadressen. Dra skjutreglaget för att välja vilken procentandel av publiken du vill ska få A/B-testet och klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Add]** om du vill använda den andra e-postadressen. Dra skjutreglaget för att välja vilken procentandel av publiken du vill ska få A/B-testet och klicka på **[!UICONTROL Next]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

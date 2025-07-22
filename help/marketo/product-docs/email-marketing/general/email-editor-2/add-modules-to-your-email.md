@@ -4,16 +4,16 @@ description: Lägg till moduler i din e-post - Marketo Docs - produktdokumentati
 title: Lägg till moduler i din e-post
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # Lägg till moduler i din e-post {#add-modules-to-your-email}
 
-I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras i mallen. Moduler kan innehålla valfri kombination av element, variabler och annat HTML-innehåll. Det är enkelt att lägga till dem i e-postmeddelandet.
+I [!DNL Email Editor 2.0] är en modul en del av e-postmeddelandet som är definierad i mallen. Moduler kan innehålla valfri kombination av element, variabler och annat HTML-innehåll. Det är enkelt att lägga till dem i e-postmeddelandet.
 
 1. Skapa ett mejl. Var noga med att välja (eller skapa) en mall som innehåller moduler.
 
@@ -21,9 +21,9 @@ I e-postredigeraren 2.0 är en modul en del av e-postmeddelandet som definieras 
 
    >[!NOTE]
    >
-   >De flesta startmallar för Marketo innehåller moduler. Du kan också [skapa en egen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >De flesta av Marketo [!UICONTROL Starter Templates] innehåller [!UICONTROL Modules]. Du kan också [skapa en egen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Klicka på **Moduler** längst till höger i e-postmeddelandet.
+1. Klicka på **[!UICONTROL Modules]** längst till höger i e-postmeddelandet.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Det finns två sätt att flytta en modul.
 
    ![](assets/nine-2.png)
 
-1. Klicka på kugghjulsikonen och välj **Flytta uppåt** eller **Flytta nedåt**, beroende på var du vill att modulen ska vara.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Move Up]** eller **[!UICONTROL Move Down]**, beroende på var du vill att modulen ska vara.
 
    ![](assets/ten-2.png)
 

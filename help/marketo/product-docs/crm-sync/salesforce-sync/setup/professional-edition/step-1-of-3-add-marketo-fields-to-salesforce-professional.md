@@ -4,34 +4,34 @@ description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) -
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: '722'
 ht-degree: 1%
 
 ---
 
-# Steg 1 av 3: Lägg till Marketo-fält i Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Steg 1 av 3: Lägg till Marketo-fält i [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
->Salesforce-instansen måste ha tillgång till Salesforce API:er för att kunna synkronisera data mellan Marketo Engage och Salesforce.
+>Din Salesforce-instans måste ha tillgång till Salesforce API:er för att kunna synkronisera data mellan Marketo Engage och Salesforce.
 
-Marketo använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i Salesforce följer du instruktionerna nedan.
+Marketo använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i [!DNL Salesforce] följer du instruktionerna nedan.
 
-1. Skapa tre anpassade fält i Salesforce för lead- och kontaktobjekten: poäng, anskaffningsprogram och anskaffningsdatum.
-1. Mappa dessa anpassade fält mellan leads och kontakter så att värdena överförs vid konvertering i Salesforce.
+1. Skapa tre anpassade fält i [!DNL Salesforce] för lead- och kontaktobjekten: poäng, anskaffningsprogram och anskaffningsdatum.
+1. Mappa dessa anpassade fält mellan leads och kontakter så att värdena överförs vid konvertering i [!DNL Salesforce].
 1. Du kan skapa ytterligare fält om det behövs (se tabellen nedan).
 
-Alla dessa anpassade fält är valfria och behöver inte synkronisera Marketo och Salesforce. Vi rekommenderar att du skapar fält för poäng, anskaffningsprogram och anskaffningsdatum.
+Alla dessa anpassade fält är valfria och krävs inte för att synkronisera Marketo och [!DNL Salesforce]. Vi rekommenderar att du skapar fält för poäng, anskaffningsprogram och anskaffningsdatum.
 
-## Lägg till Marketo-fält i Salesforce {#add-marketo-fields-to-salesforce}
+## Lägg till Marketo-fält i [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Lägg till tre anpassade fält i lead- och kontaktobjekten i Salesforce som listas ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
+Lägg till tre anpassade fält i lead- och kontaktobjekten i [!DNL Salesforce] som anges ovan. Om du vill lägga till fler fält kan du läsa tabellen med tillgängliga fält i slutet av det här avsnittet.
 
 Utför följande steg för vart och ett av de tre anpassade fälten för att lägga till dem. Börja med **[!UICONTROL Score]**.
 
-1. Logga in i Salesforce och klicka på **[!UICONTROL Setup]**.
+1. Logga in på Salesforce och klicka på **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -51,7 +51,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Ange fältetikett, längd och fältnamn enligt tabellen nedan.
+1. Ange [!UICONTROL Field Label], [!UICONTROL Length] och [!UICONTROL Field Name] för fältet, vilket visas i tabellen nedan.
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 >[!NOTE]
 >
->Salesforce lägger till __c i fältnamn när de används för att skapa API-namn.
+>[!DNL Salesforce] lägger till __c i fältnamn när de används för att skapa API-namn.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -225,11 +225,11 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 >[!NOTE]
 >
->Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i Salesforce när det nya fältet har skapats. Marketo synkroniserar data till Salesforce vid nästa uppdatering till posten i något av systemen (dvs. en uppdatering till något av de synkroniserade fälten mellan Marketo och Salesforce).
+>Värden i fält som automatiskt tilldelats av Marketo är inte omedelbart tillgängliga i [!DNL Salesforce] när det nya fältet har skapats. Marketo synkroniserar data till [!DNL Salesforce] vid nästa uppdatering till posten på båda systemen (d.v.s. en uppdatering till något av de synkroniserade fälten mellan Marketo och [!DNL Salesforce]).
 
 ## Mappa anpassade fält för konverteringar  {#map-custom-fields-for-conversions}
 
-Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
+Ett anpassat fält på lead-objektet i [!DNL Salesforce] ska mappas till ett kontaktfält på kontaktobjektet så att data överförs när en konvertering inträffar.
 
 1. Klicka på **[!UICONTROL Setup]** i det övre högra hörnet.
 
@@ -252,7 +252,6 @@ Ett anpassat fält på lead-objektet i Salesforce bör mappas till ett kontaktf�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Upprepa stegen ovan för alla andra fält som du har skapat.
-
 1. Klicka på **[!UICONTROL Save]** när du är klar.
 
 Inte så lätt, eller hur?

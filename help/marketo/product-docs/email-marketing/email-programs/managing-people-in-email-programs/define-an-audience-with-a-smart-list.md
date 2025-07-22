@@ -4,9 +4,9 @@ description: Definiera en målgrupp med en smart lista - Marketo Docs - produktd
 title: Definiera en publik med en smart lista
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketin
 >
 >Det går bara att definiera målgruppen när e-postprogrammet inte har godkänts.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj ditt e-postprogram och klicka sedan på **Redigera smart lista** under rutan **Målgrupp**.
+1. Välj ditt e-postprogram och klicka sedan på **[!UICONTROL Edit Smart List]** under rutan **[!UICONTROL Audience]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Kontrollera att vyn är inställd på **Kontrollpanelen** för att hitta den här inställningen.
+   >Kontrollera att vyn är inställd på **[!UICONTROL Control Panel]** för att hitta den här inställningen.
 
 1. Hitta de filter du vill använda och dra dem till arbetsytan.
 
@@ -63,7 +63,7 @@ När du har [skapat ett e-postprogram](/help/marketo/product-docs/email-marketin
 >
 >Klicka på numret om du vill se en detaljerad lista över personer som blockerats från utskick. **Obs!** E-postmeddelanden skickas fortfarande till personer som har markerats som avbrutna prenumerationer och marknadsföringen har pausats.
 >
->Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36.png) på målgruppspanelen för att se hur många personer som får e-postmeddelandet.
+>Använd knappen ![—](assets/image2014-10-23-16-3a32-3a36.png) på panelen **[!UICONTROL Audience]** för att se hur många personer som får e-postmeddelandet.
 
 >[!MORELIKETHIS]
 >

@@ -4,20 +4,20 @@ description: Använda en webkrok i en smart kampanj - Marketo Docs - produktdoku
 title: Använda en webkrok i en smart kampanj
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Använda en webkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
-Om du vill använda en [webkrok](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
+Om du vill använda en [webkrok](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. [Skapa en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
@@ -29,7 +29,7 @@ Om du vill använda en [webkrok](https://experienceleague.adobe.com/sv/docs/mark
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Välj Webkrok.
+1. Välj **[!UICONTROL Webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

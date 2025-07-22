@@ -1,30 +1,30 @@
 ---
 unique-page-id: 3571809
-description: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (On-Premises 2011) - Marketo Docs - produktdokumentation
-title: Steg 3 av 3 - Ansluta Microsoft Dynamics med Marketo (lokal version 2011)
+description: Steg 3 av 3 - Connect [!DNL Microsoft Dynamics] med Marketo (2011 On-Premises) - Marketo Docs - produktdokumentation
+title: Steg 3 av 3 - Anslut [!DNL Microsoft Dynamics] med Marketo (lokal version 2011)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
 
-# Steg 3 av 3: Anslut Microsoft Dynamics till Marketo (lokal version 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# Steg 3 av 3: Anslut [!DNL Microsoft Dynamics] med Marketo (lokal version 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi koppla Marketo och Dynamics.
+Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. Därefter måste vi ansluta Marketo och [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
->* [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
->* [Steg 2 av 3: Konfigurera Marketo Sync-användare i Dynamics (lokal version 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>* [Steg 1 av 3: Installera Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [Steg 2 av 3: Konfigurera Marketo Sync-användare i [!DNL Dynamics] (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-## Ange användarinformation för Dynamics Sync {#enter-dynamics-sync-user-information}
+## Ange [!DNL Dynamics] synkroniseringsanvändarinformation {#enter-dynamics-sync-user-information}
 
 1. Logga in på Marketo och klicka på **[!UICONTROL Admin]**.
 
@@ -34,11 +34,11 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Klicka på **[!DNL Microsoft]**.
+1. Klicka på **[!UICONTROL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Enter Credentials]**.
+1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Step 1: Enter credentials]**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -52,14 +52,14 @@ Okej! Vi installerade lösningen och konfigurerade synkroniseringsanvändaren. D
 
    >[!NOTE]
    >
-   >* Användarnamnet i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
-   >* Om du inte känner till URL:en kan du [lära dig att hitta den här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* [!UICONTROL Username] i Marketo måste matcha användarnamnet för synkroniseringsanvändaren i CRM. Formatet kan vara `user@domain.com` eller DOMÄN\användare.
+   >* Om du inte känner till URL:en kan du [lära dig att hitta den här](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Markera fält som ska synkroniseras {#select-fields-to-sync}
 
 Nu måste vi markera de fält vi vill synkronisera.
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Select Fields to Sync]**.
+1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Step 2: Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -69,7 +69,7 @@ Nu måste vi markera de fält vi vill synkronisera.
 
    >[!NOTE]
    >
-   >Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i Dynamics rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+   >Marketo lagrar en referens till de fält som ska synkroniseras. Om du tar bort ett fält i [!DNL Dynamics] rekommenderar vi att du gör det med [synkroniseringen inaktiverad](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Uppdatera sedan schemat i Marketo genom att redigera och spara [Markera fält som ska synkroniseras](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synkronisera fält för ett eget filter {#sync-fields-for-a-custom-filter}
 
@@ -79,7 +79,7 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klicka på **[!UICONTROL Edit]** i Fältsynkroniseringsinformation.
+1. Klicka på **[!UICONTROL Edit]** på [!UICONTROL Field Sync Details].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,13 +89,13 @@ Om du har skapat ett eget filter måste du gå in och välja de nya fält som sk
 
 ## Aktivera synkronisering {#enable-sync}
 
-1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Enable Sync]**.
+1. Klicka på **[!UICONTROL Edit]** i **[!UICONTROL Step 3: Enable Sync]**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
    >[!CAUTION]
    >
-   >Marketo avduplicerar inte automatiskt mot en Microsoft Dynamics-synkronisering eller när du anger personer eller leads manuellt.
+   >Marketo avduplicerar inte automatiskt mot en [!DNL Microsoft Dynamics]-synkronisering eller när du anger personer eller leads manuellt.
 
 1. Läs allt i popup-fönstret, ange din e-postadress och klicka på **[!UICONTROL Start Sync]**.
 

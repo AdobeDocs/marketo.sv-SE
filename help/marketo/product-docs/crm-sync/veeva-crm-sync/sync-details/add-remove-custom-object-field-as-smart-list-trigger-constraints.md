@@ -3,16 +3,16 @@ description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbeg
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage ger specifik kontroll över den anpassade objektsynkningen Veeva. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
+Marketo Engage ger specifik kontroll över den anpassade objektsynkroniseringen [!DNL Veeva]. På så sätt kan du välja de fält som är tillgängliga som begränsningar i anpassade objektfilter och använda dem som utlösare i smarta kampanjer.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Marketo Engage ger specifik kontroll över den anpassade objektsynkningen Veeva.
 
    >[!TIP]
    >
-   >Om knappen Redigera synliga fält är nedtonad används objektet i en smart lista eller smart kampanj. Ta bort alla associationer för att fortsätta.
+   >Om knappen [!UICONTROL Edit Visible Fields] är nedtonad används objektet i en smart lista eller en smart kampanj. Ta bort alla associationer för att fortsätta.
 
 1. Om din globala synkronisering är aktiverad klickar du på **[!UICONTROL Disable Global Sync]**.
 

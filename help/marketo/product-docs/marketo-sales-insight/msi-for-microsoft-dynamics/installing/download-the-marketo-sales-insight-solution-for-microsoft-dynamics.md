@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849070
-description: Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics - Marketo Docs - produktdokumentation
-title: Hämta Marketo Sales Insight Solution för Microsoft Dynamics
+description: Ladda ned Marketo Sales Insight Solution for Microsoft Dynamics - Marketo Docs - produktdokumentation
+title: Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Hämta Marketo Sales Insight Solution för Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Hämta lösningen [!DNL Marketo Sales Insight] för [!DNL Microsoft Dynamics] {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Plugin-programmet på den här sidan är avsett för synkronisering till Marketo Engage med Marketo inbyggda CRM-synkroniseringslösning till Dynamics 365. För dem som har: en anpassad synkronisering, MS Dynamics 365 Online (9.x och senare), och som har köpt Marketo Sales Insight, är [paketet här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>Plugin-programmet på den här sidan är avsett för synkronisering till Marketo Engage med Marketo inbyggda CRM-synkroniseringslösning till [!DNL Dynamics 365]. För dem som har: en anpassad synkronisering, [!DNL MS Dynamics 365 Online] (9.x och senare), och har köpt [!DNL Marketo Sales Insight], är [paketet här](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Gå till området **Admin**.
+1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3.png)
 
-1. Välj **Hämta Marketo-lösning**.
+1. Välj **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. Välj lämplig lösning för din version av Microsoft Dynamics.
+1. Välj lämplig lösning för din [!DNL Microsoft Dynamics]-version.
 
    ![](assets/msd-online.png)
 

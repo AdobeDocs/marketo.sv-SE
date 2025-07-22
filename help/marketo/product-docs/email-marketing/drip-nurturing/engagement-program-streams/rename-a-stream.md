@@ -4,9 +4,9 @@ description: Byt namn på en ström - Marketo Docs - produktdokumentation
 title: Byta namn på en ström
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör du.
 
-1. Hitta och välj ditt engagemangsprogram och klicka sedan på **Streams**.
+1. Hitta och välj ditt engagemangsprogram och klicka sedan på **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Om du vill kunna hålla ordning kan du byta namn på strömmarna. Så här gör 
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Ange den nya strömmen **Namn** och klicka på **Spara**.
+1. Ange den nya strömmen **[!UICONTROL Name]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

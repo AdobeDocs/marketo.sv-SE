@@ -4,9 +4,9 @@ description: Redigera prediktivt innehåll för multimedia - Marketo Docs - prod
 title: Redigera prediktivt innehåll för multimedia
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
 >[!PREREQUISITES]
 >
->Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan Allt innehåll.
+>Innehållet måste vara [godkänt för prediktivt innehåll](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) på sidan [!UICONTROL All Content].
 
-1. Öppna redigeraren genom att klicka på en titel på sidan **Predictive Content** .
+1. Öppna redigeraren genom att klicka på en titel på sidan **[!UICONTROL Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klicka på **Multimedia**.
+1. Klicka på **[!UICONTROL Rich Media]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -33,13 +33,13 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    >[!NOTE]
    >
-   >JPEG-bilder med färgmodellen CMYK stöds inte för multimedia. JPEG måste konverteras till sRGB med en färgprofil. Var noga med att välja den här inställningen när du exporterar från bildredigeraren.
+   >JPEG-bilder med färgmodellen CMYK stöds inte för multimedia. JPEG-filer måste konverteras till sRGB med hjälp av en färgprofil. Var noga med att välja den här inställningen när du exporterar från bildredigeraren.
 
 1. Skriv in en **beskrivning**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klicka på rutan **Kategorier** för att markera/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
+1. Klicka på rutan **[!UICONTROL Categories]** för att markera/lägga till [kategorier som du redan har konfigurerat](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (valfritt).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Så här konfigurerar du ditt prediktiva innehåll för multimedia.
 
    ![](assets/six-1.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/save.png)

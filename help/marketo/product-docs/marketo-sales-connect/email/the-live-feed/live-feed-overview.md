@@ -4,9 +4,9 @@ description: Live Feed Overview - Marketo Docs - produktdokumentation
 title: Översikt över Live-feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Filtrera idag, imorgon, idag *och* imorgon, eller kommande 7 dagar.
 >
 >Du kan inte använda det anpassade datumfiltret i Live Feed, men du kan göra det i webbprogrammet.
 
-Använd snabbåtgärdsknappar för att snabbt ringa, skicka ett e-postmeddelande eller navigera till en persons länkade profil.
+Använd snabbåtgärdsknappar för att snabbt ringa ett samtal, skicka ett e-postmeddelande eller navigera till en persons [!DNL Linkedin]-profil.
 
 ## Fliken Mål {#target-tab}
 
@@ -58,7 +58,7 @@ Se de översta personerna (ordnade uppifrån och ned) rankade efter lead-poäng.
 
 * Leads genereras när personpoängen ökar i Marketo.
 * Vi visar de 50 främsta ledtrådarna.
-* Du kan bara se de personer som har tilldelats dig i Salesforce.
+* Du kan bara se de personer som har tilldelats dig i [!DNL Salesforce].
 
 ## Ikonordlista {#icon-glossary}
 

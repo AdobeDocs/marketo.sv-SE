@@ -4,9 +4,9 @@ description: Använd en datumtoken i ett vänteflödessteg - Marketo Docs - prod
 title: Använd en datumtoken i ett vänteflödessteg
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 >
 >Detta gäller endast utlösarkampanjer. Du kan inte använda den här funktionen i gruppkampanjer.
 
-1. Dra över flödessteget **[!UICONTROL Wait]** på fliken Smart Campaign **[!UICONTROL Flow]**.
+1. Dra över flödessteget **[!UICONTROL Flow]** på fliken Smart Campaign **[!UICONTROL Wait]**.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ Du kan använda steget Väntflöde för att pausa en persons resa genom en smart
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Välj **[!UICONTROL Date Token]** i listrutan **[!UICONTROL Type]**.
+1. Välj **[!UICONTROL Type]** i listrutan **[!UICONTROL Date Token]**.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Välj en datumtoken som anger när vänsteget ska avslutas:
+1. Välj en [!UICONTROL Date token] som du vill ange när steget Vänta ska avslutas:
 
    * `{{my._____}}`
    * `{{lead.______}}`

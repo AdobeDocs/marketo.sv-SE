@@ -4,9 +4,9 @@ description: Snabba upp arbetsflödet med snabba åtgärder - Marketo Docs - Pro
 title: Snabba upp arbetsflödet med hjälp av snabbåtgärder
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 | Status | Beskrivning |
 |---|---|
-| Arkiv | Kommer att lägga till e-postmeddelandet i den arkiverade mappen och stoppa alla inaktiveringsvyer och klicka på spårning för det e-postmeddelandet. |
-| Lyckades | Markerar e-postmeddelandet som lyckat att rapporteras i mallanalyser. |
+| [!UICONTROL Archive] | Kommer att lägga till e-postmeddelandet i den arkiverade mappen och stoppa alla inaktiveringsvyer och klicka på spårning för det e-postmeddelandet. |
+| [!UICONTROL Success] | Markerar e-postmeddelandet som lyckat att rapporteras i mallanalyser. |
 
 **Arkiverad**
 
@@ -35,11 +35,11 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Oarkiv</td> 
+   <td>[!UICONTROL Unarchive]</td> 
    <td>Flyttar tillbaka e-postmeddelandet till den levererade mappen och återaktiverar vyn/klickspårningen.</td> 
   </tr> 
   <tr> 
-   <td>Ta bort</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Redigera</td> 
+   <td>[!UICONTROL Edit]</td> 
    <td>Öppnar e-postmeddelandet i dispositionsfönstret som ska redigeras.</td> 
   </tr> 
   <tr> 
-   <td>Ta bort</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Försök skicka igen</td> 
+   <td>[!UICONTROL Retry Send]</td> 
    <td>Kommer omedelbart att försöka skicka om e-postmeddelandet.</td> 
   </tr> 
   <tr> 
-   <td>Ta bort</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
   </tr> 
  </tbody> 
@@ -91,5 +91,5 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 |---|---|
 | Skicka e-post med uppföljning | Öppnar dispositionsfönstret med den markerade infogade e-posttexten tillagd och klar att skickas till mottagaren. |
 | Ring | Öppnar säljtelefonen för att ringa ett samtal till e-postmottagaren. |
-| Skicka via e-post | Dirigerar om till LinkedIn för att skicka ett InMail-meddelande till personen. |
+| Skicka via e-post | Omdirigerar till LinkedIn för att skicka ett InMail-meddelande till personen. |
 | Skapa uppgift | Öppnar popup-fönstret för att skapa en påminnelseuppgift. |

@@ -4,9 +4,9 @@ description: Uppdatera en rapport - Marketo Docs - produktdokumentation
 title: Uppdatera en rapport
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ När du har visat en rapport lagrar Marketo den i din databas så att den laddas
 
    ![](assets/two.png)
 
-1. Du kan också uppdatera rapporten genom att klicka på menyn **Rapportera åtgärder** och välja **Uppdatera rapport**.
+1. Du kan också uppdatera rapporten genom att klicka på menyn **[!UICONTROL Report Actions]** och välja **[!UICONTROL Refresh Report]**.
 
    ![](assets/three.png)
 

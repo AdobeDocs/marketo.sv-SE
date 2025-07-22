@@ -3,30 +3,30 @@ description: Aktivera samtalsinspelning - Marketo Docs - produktdokumentation
 title: Aktivera samtalsinspelning
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Aktivera samtalsinspelning {#enable-call-recording}
 
-Som administratör kan du aktivera samtalsinspelning för dina Sales Insight Actions-samtal. Att spela in samtalet i teamet kan vara ett bra sätt att lära säljarna de bästa samtalsrutinerna.
+Som administratör kan du aktivera samtalsinspelning för dina [!DNL Sales Insight Actions] samtal. Att spela in samtalet i teamet kan vara ett bra sätt att lära säljarna de bästa samtalsrutinerna.
 
-1. Klicka på ikonen Inställningar och välj **Inställningar**.
+1. Klicka på ikonen Inställningar och välj **[!UICONTROL Settings]**.
 
    ![](assets/enable-call-recording-1.png)
 
-1. Klicka på **Dialer** under Administratörsinställningar.
+1. Klicka på [!UICONTROL Admin Settings] under **[!UICONTROL Dialer]**.
 
    ![](assets/enable-call-recording-2.png)
 
-1. Välj växlingsknappen **Aktivera samtalsinspelning**.
+1. Välj växlingsknappen **[!UICONTROL Enable call recording]**.
 
    ![](assets/enable-call-recording-3.png)
 
-1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning för sig själva klickar du på **Valfri inspelning för alla teammedlemmar**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **Spela in alla samtal**.
+1. Om du vill ge dina säljare möjlighet att aktivera eller inaktivera samtalsinspelning klickar du på **[!UICONTROL Optional recording for all team members]**. Om du vill att alla samtal ska spelas in automatiskt klickar du på **[!UICONTROL Record all calls]**.
 
    ![](assets/enable-call-recording-4.png)
 

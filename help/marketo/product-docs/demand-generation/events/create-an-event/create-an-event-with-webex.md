@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949863
-description: Skapa en händelse med Webex - Marketo Docs - produktdokumentation
-title: Skapa en händelse med Webex
+description: Skapa en händelse med  [!DNL Webex] - Marketo Docs - produktdokumentation
+title: Skapa en händelse med  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-# Skapa en händelse med Webex {#create-an-event-with-webex}
+# Skapa en händelse med [!DNL Webex] {#create-an-event-with-webex}
 
 När du har skapat ett webbinarium i Webex måste du synkronisera ditt event med Marketo Engage.
 
 >[!PREREQUISITES]
 >
->* [Lägg till webb som en LaunchPoint-tjänst](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Skapa ett nytt händelseprogram](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Ange lämpliga [flödesåtgärder](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) för att spåra engagemang
 
@@ -27,8 +27,8 @@ Du schemalägger din aktivitet och väljer önskade inställningar i [Webex](htt
 
 ### Grundläggande information {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Event Name]-** Det här namnet kan visas i Marketo.
+* **[!UICONTROL Unlisted Checkbox]**
 * **Ämne**: Det här är ditt händelsenamn och kan visas i Marketo.
 * **Datum och tid**: Start-/slutdatum, start-/sluttid, varaktighet och tidszon kan visas i Marketo.
 * **Maximalt antal deltagare**: Det maximala antalet deltagare avgör vilka Webex-funktioner som stöds.
@@ -69,7 +69,7 @@ Du schemalägger din aktivitet och väljer önskade inställningar i [Webex](htt
 >
 >Integreringen av Marketo-Webex stöder inte sändning av bekräftelsemeddelanden från Webex. Bekräftelsen måste skickas via Marketo. När du har schemalagt evenemanget måste du kopiera händelseinformationen till bekräftelsemeddelandet från Marketo och ange e-postmeddelandet som _Användbart_.
 
-## Synkronisera din aktivitet med Marketo Engage {#sync-your-event-with-marketo-engage}
+## Synkronisera ditt evenemang med Marketo Engage {#sync-your-event-with-marketo-engage}
 
 1. I Marketo söker du efter och väljer önskat Event Program. Välj **Händelseinställningar** i listrutan **Händelseåtgärder**.
 

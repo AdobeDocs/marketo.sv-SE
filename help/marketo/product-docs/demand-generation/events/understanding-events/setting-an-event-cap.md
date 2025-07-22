@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
 >[!NOTE]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!IMPORTANT]
 >Du måste ha minst två godkända landningssidor (en registreringssida och en hel registreringssida) i programmet innan du kan ange ett händelsetak.
@@ -39,7 +39,7 @@ Begränsa antalet personer som kan registrera sig för evenemanget med ett händ
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicka på listrutan [!UICONTROL Registration Page] och välj den landningssida som ska fungera som registreringssida.
+1. Klicka på listrutan [!UICONTROL Registration Page(s)] och välj den landningssida som ska fungera som registreringssida.
 
    ![](assets/setting-an-event-cap-4.png)
 

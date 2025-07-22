@@ -4,16 +4,16 @@ description: Använda lead feed - Marketo Docs - produktdokumentation
 title: Använda lead-feed
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
 # Använda lead-feed {#using-the-lead-feed}
 
-Ledningsmataren är en uppdaterad lista över intressanta händelser som har utförts av dina leads. Du hittar den till höger när du klickar på fliken Marketo. Det är som en RSS- eller Twitter-feed - de senaste uppdateringarna finns högst upp i listan. Använd det här för att hoppa på leads medan du fortfarande är fräsch i deras sinnen.
+Ledningsmataren är en uppdaterad lista över intressanta händelser som har utförts av dina leads. Du hittar den till höger när du klickar på fliken Marketo. Det är som en RSS- eller [!DNL Twitter]-feed - de senaste uppdateringarna finns högst upp i listan. Använd det här för att hoppa på leads medan du fortfarande är fräsch i deras sinnen.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Ledningsmataren är en uppdaterad lista över intressanta händelser som har utf
 
 Varje objekt i lead-flödet är ett intressant ögonblick - en viktig aktivitet eller händelse i denna leads marknadsföringshistorik.
 
-När du visar det i Salesforce har varje objekt:
+När du visar det i [!DNL Salesforce] har varje objekt:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ När du visar det i Salesforce har varje objekt:
 
 ## Hämta RSS-uppdateringar {#getting-rss-updates}
 
-Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-feed kan du få uppdateringar för dina leads även om du inte är ansluten till Salesforce. Flödet har samma information som lead-matningen i Salesforce samt följande (om den är tillgänglig):
+Du kan också hämta uppdateringar för lead-feed via RSS-flöde.  Med en RSS-feed kan du få uppdateringar för dina leads även om du inte är ansluten till [!DNL Salesforce]. Flödet har samma information som lead-feeden i [!DNL Salesforce] samt följande (om den är tillgänglig):
 
 * e-postadress
 * telefonnummer

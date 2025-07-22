@@ -4,20 +4,20 @@ description: Ta bort mobilapp - Marketo Docs - produktdokumentation
 title: Ta bort mobilapp
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '38'
+ht-degree: 2%
 
 ---
 
 # Ta bort mobilapp {#delete-mobile-app}
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Välj **Mobilappar**.
+1. Välj **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Klicka på **Åtgärder för mobilappar** och välj **Ta bort app**.
+1. Klicka på **[!UICONTROL Mobile App Actions]** och välj **[!UICONTROL Delete App]**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

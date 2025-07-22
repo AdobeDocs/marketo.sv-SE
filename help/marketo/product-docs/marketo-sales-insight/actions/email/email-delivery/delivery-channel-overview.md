@@ -3,9 +3,9 @@ description: Översikt över leveranskanalen - Marketo Docs - produktdokumentati
 title: Översikt över leveranskanalen
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Marketo direktförsäljning ger er flera alternativ för att leverera e-postmedd
 
 ## Rekommenderas: Gmail eller Exchange via e-postanslutning {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo direktförsäljning ger smidig installation och förbättrad leverans via vår e-posttjänst. Med e-postanslutningen kan alla användare ansluta till sina [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)- eller [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)-konton hos Marketo Sales och använda dem som leveranskanal för alla Marketo-säljmeddelanden.
+Marketo direktförsäljning ger smidig installation och förbättrad leverans via vår e-posttjänst. Med e-postanslutningen kan varje användare ansluta till sitt [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)- eller [[!DNL Exchange]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)-konto hos Marketo Sales och använda det som leveranskanal för alla Marketo-e-postmeddelanden.
 
-Att använda Gmail eller Exchange ger vissa tydliga fördelar jämfört med andra alternativ för leveranskanaler:
+Att använda Gmail eller [!DNL Exchange] ger vissa tydliga fördelar jämfört med andra alternativ för leveranskanaler:
 
 * Detta är en beprövad leveranskanal med välrenommerat rykte som hjälper till att hålla leveranssäkerheten hög.
 * Autentiseringsmetoder som SPF och DKIM har redan konfigurerats och hanteras av IT-teamet, så det finns ingen ytterligare konfiguration.
-* Att skicka e-postmeddelanden inom ett givet e-postnätverk (dvs. att skicka ett e-postmeddelande som en Exchange-användare till ett företag som tar emot e-post via Exchange) kan öka leveransmöjligheterna ytterligare.
+* Att skicka e-postmeddelanden inom ett givet e-postnätverk (dvs. att skicka ett e-postmeddelande som en [!DNL Exchange]-användare till ett företag som tar emot e-post via [!DNL Exchange]) kan öka leveransmöjligheterna ytterligare.
 
 Det är viktigt att notera att dessa leveranskanaler har sina egna sändningsgränser som upprätthålls av Microsoft och Google. För att bekämpa detta använder vi en begränsningsmekanism som hjälper användarna att hålla sig inom dessa gränser. Läs mer om [begränsning av e-post här](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
@@ -42,23 +42,23 @@ Dessutom erbjuder tredjepartsleverantörer av SMTP en mängd funktioner som hjä
 
 ## Marketo Sales Servers (Legacy) {#marketo-sales-servers-legacy}
 
-Marketo försäljningsservrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se Marketo försäljningsservrar tillgängliga i sina e-postinställningar. Alla icke-äldre kunder ser inte Marketo Sales som ett alternativ och bör ansluta sitt Gmail- eller Outlook-konto till Marketo Sales för att låsa upp en leveranskanal.
+Marketo försäljningsservrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se Marketo försäljningsservrar tillgängliga i sina e-postinställningar. Alla icke-äldre kunder ser inte Marketo Sales som ett alternativ och bör ansluta sitt Gmail- eller [!DNL Outlook]-konto till Marketo Sales för att låsa upp en leveranskanal.
 
-Marketo försäljningsservrar stöder inte DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för att få bästa möjliga resultat.
+Marketo försäljningsservrar stöder inte autentiseringsmetoderna DKIM och SPF, vilket kan sänka leveransgraden. På grund av detta rekommenderar vi att alla kunder ansluter till Gmail eller [!DNL Outlook] för att få bästa möjliga leverans.
 
 ## MSC-servrar (äldre) {#msc-servers-legacy}
 
 MSC-servrar är bara tillgängliga för vissa äldre ToutApp-kunder. Dessa kunder kommer att se vilka MSC-servrar som är tillgängliga i deras e-postinställningar. Alla icke-äldre kunder ser inte MSC som ett alternativ och bör ansluta sitt Gmail- eller Outlook-konto till Sales Connect för att låsa upp en leveranskanal.
 
-MSC-servrar saknar stöd för DKIM- och SPF-autentiseringsmetoder, vilket kan sänka leveransgraden. Därför rekommenderar vi att alla kunder ansluter till Gmail eller Outlook för att få bästa möjliga resultat.
+MSC-servrar saknar stöd för autentiseringsmetoderna DKIM och SPF, vilket kan sänka leveransgraden. På grund av detta rekommenderar vi att alla kunder ansluter till Gmail eller [!DNL Outlook] för att få bästa möjliga leverans.
 
 ## Marketo-servrar {#marketo-servers}
 
-Marketo e-postservrar kan inte integreras med Marketo direktförsäljning. Marketo-servrar är optimerade för massleverans så att de kan anpassas efter marknadsförarnas behov. Gmail och Exchange har dock högre framgångar för säljkommunikation med 1:1, vilket är anledningen till att vi rekommenderar att du använder de här servrarna för din säljkommunikation.
+Marketo e-postservrar kan inte integreras med Marketo direktförsäljning. Marketo-servrar är optimerade för massleverans så att de kan anpassas efter marknadsförarnas behov. Gmail och [!DNL Exchange] har dock högre framgångsgrad för 1:1-säljkommunikation, vilket är anledningen till att vi rekommenderar att du använder de här servrarna för din säljkommunikation.
 
 >[!MORELIKETHIS]
 >
 >* [E-postanslutning för Gmail-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [E-postanslutning för Outlook-användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [E-postanslutning för [!DNL Outlook] användare](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [Konfigurera en anpassad leveranskanal](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [Begränsning för e-postanslutning](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

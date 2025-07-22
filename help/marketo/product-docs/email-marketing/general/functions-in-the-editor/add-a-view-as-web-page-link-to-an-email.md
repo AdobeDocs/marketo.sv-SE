@@ -4,30 +4,30 @@ description: Lägg till en länk för Visa som webbsida i ett e-postmeddelande -
 title: Lägg till en länk för Visa som webbsida i ett e-postmeddelande
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # Lägg till en länk för Visa som webbsida i ett e-postmeddelande {#add-a-view-as-web-page-link-to-an-email}
 
-E-postmeddelanden har begränsade funktioner (begränsad CSS och inga JavaScript eller formulär). Använd Visa som webbsida om du vill skapa en länk för att visa din e-post i en webbläsare. Detta gör att mottagaren cookie använder Munchkin.
+E-postmeddelanden har begränsade funktioner (begränsad CSS och inga JavaScript eller formulär). Använd Visa som webbsida om du vill skapa en länk för att visa din e-post i en webbläsare. Detta kommer att cookie-lagra mottagaren med [!DNL Munchkin].
 
 >[!NOTE]
 >
 >Visa som webbsida är inte aktiverat när du skapar ett nytt e-postmeddelande. Om du aktiverar den och klonar e-postmeddelandet kopieras den här inställningen.
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-5.png)
 
-1. Klicka på **E-postinställningar** i e-postredigeraren.
+1. Klicka på **[!UICONTROL Email Settings]** i e-postredigeraren.
 
    ![](assets/two-5.png)
 
-1. Markera rutan **Inkludera vy som webbsida** och klicka på **Spara**.
+1. Markera rutan **[!UICONTROL Include View as Web Page Link]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/three-4.png)
 

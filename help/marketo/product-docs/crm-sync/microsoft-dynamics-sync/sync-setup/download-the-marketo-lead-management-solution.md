@@ -4,9 +4,9 @@ description: Ladda ned Marketo Lead Management Solution - Marketo Docs - produkt
 title: Ladda ned Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Administratörsbehörigheter krävs**
 
-Du måste hämta och installera en Marketo Engage-lösning i ditt Microsoft Dynamics-konto för att komma igång med synkroniseringen.
+Du måste hämta och installera en Marketo-lösning i ditt [!DNL Microsoft Dynamics]-konto för att komma igång med synkroniseringen.
 
 >[!CAUTION]
 >
@@ -43,7 +43,7 @@ Du måste hämta och installera en Marketo Engage-lösning i ditt Microsoft Dyna
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Välj lämplig lösning för din version av Microsoft Dynamics.
+1. Välj lämplig lösning för din [!DNL Microsoft Dynamics]-version.
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

@@ -3,24 +3,24 @@ description: Bevilja åtkomst till användare - Marketo Docs - produktdokumentat
 title: Bevilja åtkomst för användare
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Bevilja åtkomst för användare {#granting-access-to-users}
 
-Följ stegen i den här artikeln för att ge dina Sales Connect-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
+Följ stegen i den här artikeln för att ge dina [!DNL Sales Connect]-användare åtkomst till Marketo-anslutningen. Detta kommer att låsa upp funktioner som intressanta ögonblick i liveflödet och åtkomst till marknadsföringskampanjer.
 
-Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) innan de visas på Marketo > Team Access-sidan (i Sales Connect), där åtkomst till Marketo-anslutningen beviljas.
+Du måste bjuda in användare till [!DNL Sales Connect] [här](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) innan de visas på sidan Marketo > [!UICONTROL Team Access] (i [!DNL Sales Connect]), där åtkomst till Marketo-anslutningen beviljas.
 
 >[!CAUTION]
 >
->Vänta tio minuter efter att du har anslutit Sales Connect till Marketo innan du utför dessa steg.
+>Vänta tio minuter efter att du har anslutit [!DNL Sales Connect] till Marketo innan du utför de här stegen.
 
-1. Markera en eller flera användare och klicka sedan på **Anslut**.
+1. Markera en eller flera användare och klicka sedan på **[!UICONTROL Connect]**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Du måste bjuda in användare till Sales Connect [här](/help/marketo/product-do
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klicka på listrutan Workspace, markera arbetsytan/arbetsytorna och klicka på **Anslut**.
+1. Klicka på listrutan Workspace, välj önskad arbetsyta och klicka på **[!UICONTROL Connect]**.
 
    ![](assets/granting-access-to-users-3.png)
 

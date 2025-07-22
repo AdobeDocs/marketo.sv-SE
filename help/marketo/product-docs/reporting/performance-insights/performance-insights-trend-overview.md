@@ -4,26 +4,26 @@ description: Trendöversikt för Performance Insights - Marketo Docs - produktdo
 title: Prestandainsikter - trendöversikt
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Prestandainsikter - trendöversikt {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] Trend Overview {#performance-insights-trend-overview}
 
-Trend visar kanalprestanda för en tidsperiod.
+[!UICONTROL Trend] visar kanalprestanda för över en tidsperiod.
 
-Klicka på fliken **Trend** för att komma åt den här vyn.
+Klicka på fliken **[!UICONTROL Trend]** för att komma åt den här vyn.
 
 ![](assets/1.png)
 
-## Trend {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

@@ -4,9 +4,9 @@ description: Godkänn ett kodfragment - Marketo Docs - produktdokumentation
 title: Godkänn ett fragment
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Ett fragment måste godkännas före användning.
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klicka på ditt **fragment**. Klicka på **Godkänn** under **Utdragsåtgärder**.
+1. Klicka på ditt **fragment**. Klicka på **[!UICONTROL Snippet Actions]** under **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

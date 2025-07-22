@@ -4,10 +4,10 @@ description: E-postanslutning för Gmail-användare - Marketo Docs - Produktdoku
 title: Email Connection för Gmail-användare
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 1%
 
 ---
 
@@ -19,39 +19,39 @@ Att ansluta till Gmail innebär att du får svarsspårning, tillgång till Gmail
 >
 >Om du [använder filter](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} eller regler i ditt Gmail-konto för att automatiskt markera e-postmeddelanden som lästa, kan detta orsaka problem med svarsuppföljning. Vi rekommenderar att du inaktiverar alla regler som automatiskt markerar e-postmeddelanden som lästa när du använder svarsspårning med Gmail.
 
-1. Klicka på kugghjulsikonen i Sales Connect och välj **Settings**.
+1. Klicka på kugghjulsikonen i [!DNL Sales Connect] och välj **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Välj **E-postinställningar** under Mitt konto.
+1. Välj **[!UICONTROL Email Settings]** under Mitt konto.
 
    ![](assets/two.png)
 
-1. Klicka på fliken **E-postanslutning**.
+1. Klicka på fliken **[!UICONTROL Email Connection]**.
 
    ![](assets/three.png)
 
-1. Klicka på **Kom igång**.
+1. Klicka på **[!UICONTROL Get Started]**.
 
    ![](assets/four.png)
 
-1. Välj **Jag använder Gmail för att skicka e-post** och klicka på **Nästa**.
+1. Markera **[!UICONTROL I use Gmail to send emails]** och klicka på **[!UICONTROL Next]**.
 
    ![](assets/five.png)
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/six.png)
 
-1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte anger du din Gmail-adress och klickar på **Nästa**. I det här exemplet är vi ännu inte inloggade.
+1. Om du redan har loggat in på Gmail väljer du det konto du vill ansluta till. Om inte anger du din Gmail-adress och klickar på **[!UICONTROL Next]**. I det här exemplet är vi ännu inte inloggade.
 
    ![](assets/seven.png)
 
-1. Ange ditt lösenord och klicka på **Nästa**.
+1. Ange ditt lösenord och klicka på **[!UICONTROL Next]**.
 
    ![](assets/eight.png)
 
-1. Klicka på **Tillåt**.
+1. Klicka på **[!UICONTROL Allow]**.
 
    ![](assets/nine.png)
 

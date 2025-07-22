@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - produktdokumentation
-title: Synkroniseringsinställningar för Salesforce
+title: Salesforce Sync Settings
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 0%
+source-wordcount: '358'
+ht-degree: 1%
 
 ---
 
-# Synkroniseringsinställningar för Salesforce {#salesforce-sync-settings}
+# Salesforce Sync Settings {#salesforce-sync-settings}
 
 ## Logga e-postaktivitet till Salesforce via API {#logging-email-activity-to-salesforce-via-api}
 
@@ -21,96 +21,96 @@ Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Sales
 >
 >Salesforce och Sales Connect måste vara anslutna.
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I [!DNL Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. Under Mitt konto (Administratörsinställningar om du är administratör) klickar du på **Salesforce**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] om du är administratör) klickar du på **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 
-1. Klicka på pilen bredvid Logga e-postaktivitet till Salesforce.
+1. Klicka på pilen bredvid Logga e-postaktivitet till [!DNL Salesforce].
 
    ![](assets/four-1.png)
 
-1. Klicka på fliken **Salesforce API**. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
+1. Klicka på fliken **[!UICONTROL Salesforce API]**. På det här kortet kan du ange din inställning för loggningsinformation till [!DNL Salesforce]. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/five.png)
 
-## Loggning av e-postaktivitet till Salesforce via e-post till Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## Logga e-postaktivitet till Salesforce via e-post till Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
 När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia av dina säljmeddelanden och dina e-postmeddelanden loggas som aktiviteter på affärsmöjligheter, leads och kontakter.
 
 >[!PREREQUISITES]
 >
->Salesforce och Sales Connect måste vara anslutna.
+>[!DNL Salesforce] och [!DNL Sales Connect] måste vara anslutna.
 
 **Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
 
-1. I Sales Connect klickar du på kugghjulsikonen i det övre högra hörnet och väljer **Settings**.
+1. I [!UICONTROL Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 
    ![](assets/one-3.png)
 
-1. Under Mitt konto (Administratörsinställningar om du är administratör) klickar du på **Salesforce**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] om du är administratör) klickar du på **[!UICONTROL Salesforce]**.
 
    ![](assets/two-3.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 
-1. Klicka på fliken **E-post till Salesforce (BCC)** och klicka på **Aktivera**.
+1. Klicka på fliken **[!UICONTROL Email to Salesforce (BCC)]** och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/six-2.png)
 
-Om din e-postadress till Salesforce inte kommer in av någon anledning, följer du de här stegen för att aktivera funktionen Kontroll av webbläsarkompatibilitet i ditt Salesforce-konto:
+Om din e-postadress till [!DNL Salesforce] av någon anledning inte kommer in följer du de här stegen för att aktivera funktionen Hemlig kopia i ditt [!DNL Salesforce]-konto:
 
-1. Logga in på din Salesforce-instans.
+1. Logga in på din [!DNL Salesforce]-instans.
 1. Hitta ditt användarnamn i det övre högra hörnet och välj listrutan.
-1. Välj **Mina inställningar**.
-1. Välj **E-post**.
-1. Välj **Min e-post till Salesforce**.
+1. Välj **[!UICONTROL My Settings]**.
+1. Välj **[!UICONTROL Email]**.
+1. Välj **[!UICONTROL My Email to Salesforce]**.
 1. På den här sidan visas ett fält med namnet&quot;E-post till Salesforce-adress&quot;. Om inget fylls i bredvid det bläddrar du nedåt till&quot;Mina godkända e-postadresser&quot;.
 1. Ange den eller de e-postadresser som du vill ska kopieras.
-1. Klicka på **Spara ändringar**.
+1. Klicka på **[!UICONTROL Save Changes]**.
 
-**Kan inte hitta min e-post till Salesforce i Mina inställningar**
+**Det går inte att hitta min e-postadress till [!DNL Salesforce] i Mina inställningar**
 
-Om du inte ser Min e-post till Salesforce under dina inställningar har administratören kanske inte aktiverat den. Det här kan hända om ditt team inte har använt Salesforce tidigare, eller om ditt team aldrig har använt den BCC-adress som Salesforce erbjuder.
+Om du inte ser Min e-post till Salesforce under dina inställningar har administratören kanske inte aktiverat den. Detta kan inträffa om ditt team inte har använt [!DNL Salesforce] tidigare eller om ditt team aldrig har använt den hemkontrolladress som [!DNL Salesforce] tillhandahåller.
 
 >[!NOTE]
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka på **Konfigurera**.
-1. Klicka på **E-postadministration**.
-1. Klicka på **Skicka e-post till Salesforce**.
-1. Klicka på **Redigera**.
-1. Markera rutan bredvid&quot;Aktiv&quot;.
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Setup]**.
+1. Klicka på **[!UICONTROL Email Administration]**.
+1. Klicka på **[!UICONTROL Email to Salesforce]**.
+1. Klicka på **[!UICONTROL Edit]**.
+1. Markera rutan bredvid [!UICONTROL Active].
+1. Klicka på **[!UICONTROL Save]**.
 
-## Synkronisera aktiviteter/påminnelser för Sales Connect till Salesforce-aktiviteter {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
+## Synkronisera aktiviteter/påminnelser för anslutning av försäljning till [!DNL Salesforce] aktiviteter {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
-1. Klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
+1. Klicka på kugghjulsikonen uppe till höger och välj **[!UICONTROL Settings]**.
 
    ![](assets/one-3.png)
 
-1. Under Mitt konto (Administratörsinställningar om du är administratör) klickar du på **Salesforce**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] om du är administratör) klickar du på **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 
-1. Klicka på pilen bredvid Synkronisera aktiviteter/påminnelser för Sales Connect till Salesforce-aktiviteter.
+1. Klicka på pilen bredvid [!UICONTROL Sync Sales Engage Tasks/Reminders to Salesforce Tasks].
 
    ![](assets/seven-2.png)
 
-1. Välj önskat alternativ (&quot;Synkronisera inte till Salesforce-uppgifter&quot; är valt som standard).
+1. Välj önskat alternativ (&quot;[!UICONTROL Do not sync to Salesforce tasks]&quot; är valt som standard).
 
    ![](assets/eight.png)

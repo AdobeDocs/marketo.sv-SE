@@ -4,9 +4,9 @@ description: Mallengagemang - Marketo Docs - produktdokumentation
 title: Mallengagemang
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Följ stegen nedan för att se hur mallen fungerar.
 
-1. Navigera till sidan **Analyser**.
+1. Navigera till sidan **[!UICONTROL Analytics]**.
 
-1. Klicka på knappen **Innehåll** och filtrera efter det önskade datumintervallet.
+1. Klicka på knappen **[!UICONTROL Content]** och filtrera efter det önskade datumintervallet.
 
 1. Baserat på det valda datumintervallet kan du högst upp på sidan se det totala antalet e-postmeddelanden och mallar som används i hela teamet.
 

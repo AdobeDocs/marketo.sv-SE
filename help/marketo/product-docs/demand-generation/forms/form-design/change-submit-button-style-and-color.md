@@ -4,10 +4,10 @@ description: Ändra format och färg för Skicka-knapp - Marketo Docs - produktd
 title: Ändra format och färg för Skicka-knapp
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Om du tycker att standardknappen för att skicka är trist, eller om du behöver något mer avancerat, kan du välja bland en mängd färdiga knappformat.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Markera knappen **Skicka** och klicka på **Redigera** bredvid Knappformat.
+1. Markera knappen **[!UICONTROL Submit]** och klicka på **[!UICONTROL Edit]** bredvid Knappformat.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Om du tycker att standardknappen för att skicka är trist, eller om du behöver
    >
    >Du kan också ange färgkoden manuellt.
 
-1. Klicka på **Markera**.
+1. Klicka på **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

@@ -3,9 +3,9 @@ description: Ställa in anpassad domänspårning - Marketo Docs - produktdokumen
 title: Konfigurera anpassad domänspårning
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Med anpassad domänspårning kan ditt team använda ditt eget företagsnamn i al
 
 Du behöver hjälp av IT-avdelningen för att kunna konfigurera en CNAME-post för din domän som pekar på go.toutapp.com. Den här CNAME-filen visas på alla spårningslänkar (t.ex. go.yourcompany.com).
 
-När du har bekräftat för IT-teamet att CNAME är korrekt konfigurerat kan du lägga till det på sidan Anpassad domänspårning i Åtgärder.
+När du har bekräftat med IT-teamet att CNAME är korrekt konfigurerat kan du lägga till det på sidan [!UICONTROL Custom Domain Tracking] i Åtgärder.
 
 >[!NOTE]
 >
@@ -28,14 +28,14 @@ När du har bekräftat för IT-teamet att CNAME är korrekt konfigurerat kan du 
 >
 >**Administratörsprivilegier krävs.**
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Välj **Spärra/knip** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Tracking]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. På fliken Anpassad domänspårning anger du ditt CNAME och klickar på **Anslut**.
+1. Ange CNAME på fliken [!UICONTROL Custom Domain Tracking] och klicka på **[!UICONTROL Connect]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

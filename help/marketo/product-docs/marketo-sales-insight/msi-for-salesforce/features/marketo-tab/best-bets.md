@@ -3,16 +3,16 @@ description: Bästa val - Marketo Docs - produktdokumentation
 title: Bästa val
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Bästa val {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-Fliken Bästa val innehåller en lista med alla dina aktiva leads baserat på deras prioritet, beräknade med hjälp av trängsel och relativa poäng.
+Fliken [!DNL Best Bets] innehåller en lista med alla dina aktiva leads baserat på deras prioritet, beräknat utifrån trängsel och relativa poäng.
 
 >[!CAUTION]
 >
@@ -20,12 +20,12 @@ Fliken Bästa val innehåller en lista med alla dina aktiva leads baserat på de
 
 **Filteralternativ**
 
-Du kan klicka på följande knappar för att se Bästa val:
+Du kan klicka på följande knappar för att visa [!DNL Best Bets]:
 
-* Leads: Du kan se Bästa val för alla leads som du har tilldelats i CRM
-* Kontakter: Du kan se Bästa val för alla kontakter som du har tilldelats i CRM
-* Kontokontakter: Du kan se Bästa val för alla kontakter som tillhör konton som du har tilldelats i CRM, även om du inte har tilldelats själva kontakten
-* Affärsmöjlighetskontakter: Du kan se Bästa val för alla kontakter som tillhör dig i CRM, även om själva kontakten inte är tilldelad dig
+* Leads: Du kan se [!DNL Best Bets] för alla leads som du har tilldelats i CRM
+* Kontakter: Du kan se [!DNL Best Bets] för alla kontakter som du har tilldelats i CRM
+* Kontokontakter: Du kan se [!DNL Best Bets] för alla kontakter som tillhör konton som du har tilldelats i CRM, även om själva kontakten inte har tilldelats dig
+* Affärsmöjlighetskontakter: Du kan se [!DNL Best Bets] för alla kontakter som tillhör dig i CRM, även om själva kontakten inte är tilldelad dig
 
 **Saker att notera**
 
@@ -35,22 +35,22 @@ Du kan inte &quot;Dölj&quot; ett lead eller en kontakt som du inte äger.
 
 **Infogat engagemang**
 
-Genom att klicka på dotmenyn under åtgärdskolumnen kan du nå ut till en viss lead eller kontakt med följande engagemangsalternativ:
+Genom att klicka på dotmenyn under kolumnen [!UICONTROL Actions] kan du nå ut till en viss lead eller kontakt med följande engagemangsalternativ:
 
-* Skicka e-post till Marketo
-* Lägg till i Marketo Campaign
-* Visa i Marketo
-* Lägg till i bevakningslista
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL View in Marketo]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-1.png)
 
 **Massåtgärder**
 
-Du kan välja en eller flera leads eller kontakter från sidan Bästa val med hjälp av kryssrutan och nå dem som en grupp med följande engagemangsalternativ:
+Du kan välja ett eller flera leads eller kontakter från din [!DNL Best Bets]-sida med hjälp av kryssrutan och nå ut till dem som en grupp med följande engagemangsalternativ:
 
-* Skicka e-post till Marketo
-* Lägg till i Marketo Campaign
-* Lägg till i bevakningslista
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-2.png)
 

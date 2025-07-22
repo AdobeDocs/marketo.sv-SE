@@ -4,10 +4,10 @@ description: Ta bort ett fält i ett formulär - Marketo Docs - produktdokumenta
 title: Ta bort ett fält i ett formulär
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Om det finns ett fält som du inte längre behöver i formuläret kan det enkelt tas bort. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Markera fältet och klicka på ikonen **ta bort** .
+1. Markera fältet och klicka på ikonen **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 

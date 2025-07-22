@@ -4,9 +4,9 @@ description: Lägg till innehåll i ett fragment - Marketo Docs - produktdokumen
 title: Lägga till innehåll i ett fragment
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -23,29 +23,29 @@ Du kan lägga till variabler, bilder, filer eller RTF-text i ett fragment.
 >
 >Du kan inte bädda in någon [Marketo-e-postsyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) i fragment. Den kommer **inte** att fungera i ett e-postmeddelande. Kodavsnitt ska bara innehålla brödtext (HTML + TEXT).
 
-1. Gå till **Design Studio**.
+1. Gå till **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Markera **fragmentet** och klicka på **Redigera utkast**.
+1. Markera **fragmentet** och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 Du kan lägga till tre typer av innehåll i ett fragment.
 
-## Lägg till token {#add-token}
+## Lägg till [!UICONTROL Token] {#add-token}
 
-1. Dra och släpp **Token**-elementet.
+1. Dra och släpp elementet **[!UICONTROL Token]**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Ange **token** och klicka på **Infoga**.
+1. Ange **[!UICONTROL Token]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Lägg till bild/fil {#add-image-file}
 
-1. Dra och släpp elementet **Bild/fil**.
+1. Dra och släpp elementet **[!UICONTROL Image/File]**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Du kan lägga till egna bilder eller filer i Marketo. Läs mer om [bilder och filer](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Markera den **bild** som ska användas och klicka på **Infoga**.
+1. Markera den **bild** som ska användas och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -63,7 +63,7 @@ Du kan lägga till tre typer av innehåll i ett fragment.
 
 ## Lägg till text {#add-text}
 
-1. Skriv i HTML-versionsområdet för att lägga till text.
+1. Skriv i HTML Version-området för att lägga till text.
 
    ![](assets/image2014-9-16-9-3a35-3a43.png)
 
@@ -71,11 +71,11 @@ Du kan lägga till tre typer av innehåll i ett fragment.
    >
    >Anpassa texten med formateringsverktygen.
 
-1. För E-post klickar du på fliken **Textversion**.
+1. För E-post klickar du på fliken **[!UICONTROL Text Version (for emails)]**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Klicka på **Kopiera från HTML**.
+1. Klicka på **[!UICONTROL Copy from HTML]**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

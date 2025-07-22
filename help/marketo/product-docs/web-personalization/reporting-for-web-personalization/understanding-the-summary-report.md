@@ -4,16 +4,16 @@ description: Sammanfattningsrapporten - Marketo Docs - produktdokumentation
 title: Förstå sammanfattningsrapporten
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
-# Förstå sammanfattningsrapporten {#understanding-the-summary-report}
+# Förstå [!UICONTROL Summary Report] {#understanding-the-summary-report}
 
-Sammanfattningsrapporten är en månatlig översikt över alla kampanjer och rekommenderade innehållsprestanda. Det baseras på antalet klick och antal leads (direkt eller assisterade) som deltar i den personaliserade kampanjen eller det rekommenderade innehållet och sedan blir ett känt tips. Rapporten jämför resultaten med föregående månad.
+[!UICONTROL Summary report] är en månadsvy över alla kampanjer och rekommenderade innehållsprestanda. Det baseras på antalet klick och antal leads (direkt eller assisterade) som deltar i den personaliserade kampanjen eller det rekommenderade innehållet och sedan blir ett känt tips. Rapporten jämför resultaten med föregående månad.
 
 >[!NOTE]
 >
@@ -23,33 +23,33 @@ Sammanfattningsrapporten är en månatlig översikt över alla kampanjer och rek
 >
 >Assisted Conversion: En webbbesökare som fyller i ett formulär på webbplatsen och lämnar sin e-postadress, som vid ett tidigare besök (inom de senaste sex månaderna) klickat på en anpassad kampanj eller rekommenderad innehållsresurs.
 
-Gå till **Analytics** och **Summary Report** i Web Personalization.
+Om [!UICONTROL Web Personalization] går du till **[!UICONTROL Analytics]** och **[!UICONTROL Summary Report]**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Välj **Månad** och klicka på **Visa rapport**.
+Välj **Månad** och klicka på **[!UICONTROL Show Report]**.
 
 ![](assets/2.png)
 
 Den första delen av rapporten handlar om skräddarsydda Personalization-kampanjer och visar:
 
-* **Klicka** - alla klick på Personalization-webbkampanjer
-* **Direktkonvertering** - alla besökare som klickade på en Personalization-webbkampanj under besöket och fyllde i ett formulär
-* **Direkt konverteringsgrad** - den procentandel av besökarna som blev en direkt lead efter att ha klickat på en Web Personalization-kampanj. Direktleads delat med klick
-* **Assisterade konverteringar** - alla besökare som fyllt i ett formulär och klickat på en Web Personalization-kampanj under ett tidigare besök (under de senaste sex månaderna)
-* **Tips** - tips för att optimera kampanjprestanda för Personalization på webben
-* **Toppkampanjer** - de mest effektiva kampanjerna under den valda tidsperioden, ordnade efter antal klick
+* **[!UICONTROL Clicks]** - alla klick på Personalization-webbkampanjer
+* **[!UICONTROL Direct Conversions]** - alla besökare som klickade på en Personalization-webbkampanj under besöket och fyllde i ett formulär
+* **[!UICONTROL Direct Conversion Rate]** - den procentandel besökare som blev ett direkt tips efter att du klickat på en Personalization-webbkampanj. Direktleads delat med klick
+* **[!UICONTROL Assisted Conversions]** - alla besökare som fyllde i ett formulär och klickade på en Web Personalization-kampanj vid ett tidigare besök (under de senaste sex månaderna)
+* **[!UICONTROL Tip]** - tips om hur du kan optimera prestanda för webbkampanjer i Personalization
+* **[!UICONTROL Top Campaigns]** - de mest effektiva kampanjerna under den valda tidsperioden, ordnade efter antal klick
 
 ![](assets/3.png)
 
 Den andra delen av rapporten handlar om Rekommenderat innehåll från Personalization rekommendationsmotor för webbinnehåll. Den visar:
 
-* **Klicka** - alla klick på Web Personalization-rekommenderat innehåll
-* **Direktkonvertering** - alla besökare som klickade på rekommenderat innehåll under sitt besök och fyllde i ett formulär
-* **Direkt konverteringsgrad** - den procentandel besökare som blev en direkt lead efter att ha klickat på rekommenderat innehåll. Direktleads delat med klick
-* **Assisterade konverteringar** - alla besökare som fyllt i ett formulär och klickat på rekommenderat innehåll under ett tidigare besök (under de senaste sex månaderna)
-* **Tips** - tips om hur du kan optimera med hjälp av verktyget för innehållsrekommendation
-* **Top Recommendations** - the top performance recommended content under the selected time period, ordered by number of clicks
+* **[!UICONTROL Clicks]** - alla klick på Web Personalization-rekommenderat innehåll
+* **[!UICONTROL Direct Conversions]** - alla besökare som klickade på rekommenderat innehåll under sitt besök och fyllde i ett formulär
+* **[!UICONTROL Direct Conversion Rate]** - den procentandel besökare som blev en direkt lead efter att ha klickat på rekommenderat innehåll. Direktleads delat med klick
+* **[!UICONTROL Assisted Conversions]** - alla besökare som fyllde i ett formulär och klickade på rekommenderat innehåll vid ett tidigare besök (under de senaste sex månaderna)
+* **[!UICONTROL Tip]** - tips om hur du optimerar med hjälp av verktyget för innehållsrekommendation
+* **[!UICONTROL Top Recommendations]** - det bästa rekommenderade innehållet under den valda tidsperioden, ordnade efter antal klick
 
 >[!NOTE]
 >

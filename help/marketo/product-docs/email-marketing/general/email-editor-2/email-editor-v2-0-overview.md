@@ -4,16 +4,16 @@ description: E-postredigeraren v2.0 - översikt - Marketo Docs - produktdokument
 title: E-postredigerare v2.0 - översikt
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
 # E-postredigerare v2.0 - översikt {#email-editor-v2-overview}
 
-När du bestämmer dig för att aktivera e-postredigeraren v2.0 kommer du att märka flera nya funktioner.
+När du bestämmer dig för att aktivera [!DNL Email Editor v2.0] kommer du att märka flera nya funktioner.
 
 **Väljare för e-postmall**
 
@@ -59,7 +59,7 @@ Som standard visar e-postmeddelandet hur det skulle se ut på en dator, vilket v
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Om du vill ha en större förhandsgranskning klickar du på **Förhandsgranska** i det övre högra hörnet av e-postmeddelandet.
+Om du vill ha en större förhandsgranskning klickar du på **[!UICONTROL Preview]** i det övre högra hörnet av e-postmeddelandet.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ Standardvyn där är skrivbordet..
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...men du kan också se hur det kommer att se ut på en mobil enhet. Du kan också förhandsgranska textversionen! Klicka bara på **Redigera utkast** i det övre högra hörnet för att fortsätta redigera.
+...men du kan också se hur det kommer att se ut på en mobil enhet. Du kan också förhandsgranska textversionen! Klicka bara på **[!UICONTROL Edit Draft]** i det övre högra hörnet för att fortsätta redigera.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**E-poståtgärder**
+**[!UICONTROL Email Actions]**
 
-Under **E-poståtgärder** kommer du att märka några nya funktioner. **Överför en bild eller fil** och **Hämta bilder från webben**. Du kan också spara själva e-postmeddelandet som en ny e-postmall. Allt du behöver göra är att ge den ett namn och ett mål.
+Under **[!UICONTROL Email Actions]** kommer du att märka några nya funktioner. **[!UICONTROL Upload an Image or File]** och **[!UICONTROL Grab Images from Web]**. Du kan också spara själva e-postmeddelandet som en ny e-postmall. Allt du behöver göra är att ge den ett namn och ett mål.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ Under **E-poståtgärder** kommer du att märka några nya funktioner. **Överf�
 
 >[!NOTE]
 >
->**[Hämta bilder från webben](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar på samma sätt som i Design Studio.
+>**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fungerar precis som i [!UICONTROL Design Studio].
 
-**Inaktivera Open Tracking** under **E-postinställningar** kan du inaktivera Open Tracking om det behövs.
+**[!UICONTROL Disable Open Tracking]** Under **[!UICONTROL Edit Settings]** kan du inaktivera öppningsspårning om det behövs.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**E-postinställningar**
+**[!UICONTROL Edit Settings]**
 
-Du kan lägga till en förrubrik. En Preheader är den korta sammanfattningstexten efter ämnesraden när e-postmeddelanden visas i inkorgen.
+Du kan lägga till en [!UICONTROL Preheader]. En [!UICONTROL Preheader] är den korta sammanfattningstexten efter ämnesraden när e-postmeddelanden visas i din inkorg.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->Token fungerar inte i Preheader när du använder e-postredigeraren. Om du vill använda en variabel i förhuvudet måste den vara via din egen HTML i en e-postmall.
+>Token fungerar inte i [!UICONTROL Preheader] när e-postredigeraren används. Om du vill använda en token i [!UICONTROL Preheader] måste den vara via din egen HTML i en e-postmall.
 
 Massor av nya bra funktioner! Ha det så roligt!
 

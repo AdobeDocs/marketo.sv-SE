@@ -4,9 +4,9 @@ description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Ma
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Mobilvyn på landningssidan i friform är oftast automatisk, men du kan anpassa 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klicka på **Redigera utkast**.
+1. Klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klicka på fliken **Mobil**.
+1. Klicka på fliken **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -83,15 +83,15 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
 >[!TIP]
 >
->Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandssidan eller ändra ordning på objekten som listas under **Sidelement** med dra och släpp.
+>Mobilvyn kan också ha olika upplägg av sidelement. Flytta runt saker på startsidan för frihandslingan eller ändra ordning på objekten som listas under **[!UICONTROL Page Elements]** med dra och släpp.
 
 ## Förhandsgranska mobilvy {#preview-mobile-view}
 
-1. Klicka på **Förhandsgranska utkast**.
+1. Klicka på **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vill du se något coolt? Välj **Sida vid sida**.
+1. Vill du se något coolt? Välj **[!UICONTROL Side By Side]**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ Som standard visas allt i skrivbordsvyn i mobilvyn.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Om du gillar det klickar du på **Godkänn och stäng**.
+1. Om du älskar det klickar du på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

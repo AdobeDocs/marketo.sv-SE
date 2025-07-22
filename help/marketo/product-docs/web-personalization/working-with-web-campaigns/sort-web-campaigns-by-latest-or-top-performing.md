@@ -4,9 +4,9 @@ description: Sortera webbkampanjer efter senaste eller bästa resultat - Marketo
 title: Sortera webbkampanjer efter senaste eller populäraste resultat
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ni kan sortera era webbkampanjer på några olika sätt.
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ Ni kan sortera era webbkampanjer på några olika sätt.
    >
    >**Definition**
    >
-   >**Senaste** - sorteras baserat på det datum då kampanjen skapades. Senaste kampanjen överst.
+   >**[!UICONTROL Latest]** - sorterar baserat på det datum då kampanjen skapades. Senaste kampanjen överst.
    >
-   >**Top Performing** - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
+   >**[!UICONTROL Top Performing]** - sorterar kampanjer baserat på klickfrekvensen. Det högsta klicket längst upp.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

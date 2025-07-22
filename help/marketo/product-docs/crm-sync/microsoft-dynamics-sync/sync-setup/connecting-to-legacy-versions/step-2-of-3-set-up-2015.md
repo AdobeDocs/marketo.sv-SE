@@ -4,20 +4,20 @@ description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 of 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
 
-# Steg 2 av 3 Konfigurera Marketo för Dynamics (lokal version 2015){#step-of-set-up-for-marketo-on-premises-2015}
+# Steg 2 av 3 Konfigurera Marketo för [!DNL Dynamics] (lokal version 2015){#step-of-set-up-for-marketo-on-premises-2015}
 
 Utmärkt jobb med att slutföra föregående steg. Vi går igenom det här.
 
 >[!PREREQUISITES]
 >
->[Installera Marketo för Microsoft Dynamics 2015 On-Premises, steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[Installera Marketo för [!DNL Microsoft Dynamics] 2015 On-Premises, steg 1 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## Tilldela synkroniseringsanvändarroll {#assign-sync-user-role}
 
@@ -25,13 +25,13 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!NOTE]
 >
->Detta gäller för Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar Marketo finns i [Uppgradera Marketo-lösningen för Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Detta gäller för Marketo version 4.0.0.14 och senare. I tidigare versioner måste alla användare ha synkroniseringsanvändarrollen. Mer information om hur du uppgraderar din Marketo finns i [Uppgradera Marketo-lösningen för [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Klicka på **[!UICONTROL Security]** under **[!UICONTROL Settings]**.
+1. Klicka på **[!UICONTROL Settings]** under **[!UICONTROL Security]**.
 
    ![](assets/assign1.png)
 
@@ -47,7 +47,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
    ![](assets/assign4.png)
 
-1. Markera Marketo Sync User och klicka på **[!UICONTROL OK]**.
+1. Markera [!UICONTROL Marketo Sync User] och klicka på **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 
@@ -67,7 +67,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare till nästa artikel.
 
-1. Klicka på **[!UICONTROL Marketo Config]** under **[!UICONTROL Settings]**.
+1. Klicka på **[!UICONTROL Settings]** under **[!UICONTROL Marketo Config]**.
 
    ![](assets/configure1.png)
 
@@ -97,10 +97,10 @@ Nästan klart! Vi har bara några sista konfigurationer innan vi går vidare til
 
 ## Innan du fortsätter till steg 3 {#before-proceeding-to-step}
 
-* Om du vill begränsa antalet poster som du synkroniserar konfigurerar [ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
-* Kör [Verifiera Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}-processen. Den verifierar att dina initiala inställningar har gjorts korrekt.
-* Logga in på Marketo Sync User i Microsoft Dynamics CRM.
+* Om du vill begränsa antalet poster som du synkroniserar konfigurerar [ett anpassat synkroniseringsfilter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Kör [Verifiera [!DNL Microsoft Dynamics] synkroniseringsprocessen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Den verifierar att dina initiala inställningar har gjorts korrekt.
+* Logga in på Marketo Sync User i [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >
->[Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 3 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}
+>[Installera Marketo för [!DNL Microsoft Dynamics] 2015 On-Premises, steg 3 av 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

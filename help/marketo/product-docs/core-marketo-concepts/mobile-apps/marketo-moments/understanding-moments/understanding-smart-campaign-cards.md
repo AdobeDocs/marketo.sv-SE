@@ -4,9 +4,9 @@ description: Om smarta kampanjkort - Marketo Docs - produktdokumentation
 title: Förstå smarta kampanjkort
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Använd Marketo Moments för att visa varje körning av smarta kampanjer från d
 
 >[!IMPORTANT]
 >
->Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo kan du inte längre komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 För framtida smarta kampanjer som är schemalagda men ännu inte har körts visas ingen kampanjstatus på kortet för Marketo Moments. De visas i en framtida release.
 
@@ -29,9 +29,9 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. På informationskortet får du tillgång till information om Smart List-filter, flöde och e-postsammanfattning.
+1. Informationskortet ger dig tillgång till information om [!UICONTROL Smart List] filter, [!UICONTROL Flow] och [!UICONTROL Email Summary].
 
-1. Tryck på **Smart lista**.
+1. Tryck på **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tryck på **Flöde**.
+1. Tryck på **[!UICONTROL Flow]**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ För framtida smarta kampanjer som är schemalagda men ännu inte har körts vis
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klicka på **E-postsammanfattning**.
+1. Klicka på **[!UICONTROL Email Summary]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Det är en bra idé att ta en titt på ett e-postmeddelande innan det skickas ut
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tryck på [Skicka exempel](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [Förhandsgranska e-post](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på länkarna för mer information).
+1. Tryck på [[!UICONTROL Send Sample]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) eller [[!UICONTROL Preview Email]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klicka på länkarna för mer information).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Kort för obekräftade smarta kampanjer är grå tills du bekräftar dem. Sedan 
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tryck på **Bekräfta**.
+1. Tryck på **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tryck på **Bekräfta** för att slutföra jobbet, eller **Slut aldrig på** om du har andra tankar.
+1. Tryck på **[!UICONTROL Confirm]** för att slutföra jobbet eller **[!UICONTROL Never Mind]** om du har andra tankar.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ Du kan avbryta en bekräftad, schemalagd körning av en smart kampanj.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tryck på **Avbryt körning**.
+1. Tryck på **[!UICONTROL Cancel Run]**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ Du kan schemalägga om en bekräftad smart kampanj som inte har körts än.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tryck på **Ändra schema**.
+1. Tryck på **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Välj ett datum i kalendern och tryck på **Ändra schema**.
+1. Välj ett datum i kalendern och tryck på **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Precis som med andra Marketo Moments-kort kan du trycka på de tre punkterna på
 
 >[!NOTE]
 >
->Du kan också trycka på ikonen **Dela** på ett Smart Campaign-kort som du vill dela och på ikonerna **Klar** och **Favorit** på informationskortet.
+>Du kan också trycka på ikonen **[!UICONTROL Share]** på ett Smart Campaign-kort som du vill dela och på ikonerna **[!UICONTROL Done]** och **[!UICONTROL Favorite]** på informationskortet.
 
 ## Ta snabbt bort ett smart kampanjkort {#quickly-delete-a-smart-campaign-card}
 

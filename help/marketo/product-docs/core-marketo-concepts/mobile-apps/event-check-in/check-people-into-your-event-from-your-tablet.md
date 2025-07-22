@@ -4,9 +4,9 @@ description: Checka in personer i ditt event från din surfplatta - Marketo Docs
 title: Checka in personer i din aktivitet från surfplattan
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ När någon visas vid ditt evenemang hittar du deras information i appen. Efter 
 
 >[!IMPORTANT]
 >
->Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo kan du inte längre komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Appen fungerar på samma sätt på både [!DNL iPad] och [!DNL Android], med undantag för små skillnader i layout och design.
 
@@ -113,7 +113,7 @@ Den nya personen registreras som incheckad till din händelse och läggs till i 
 
 ## Invertera en incheckning {#reverse-a-check-in}
 
-Om du checkade in en person av misstag, _innan du synkroniserade med Marketo_, kan du invertera statusen Bifogad.
+Om du checkade in en person av misstag, _innan du synkroniserade med Marketo_, kan du invertera [!UICONTROL Attended]-statusen.
 
 1. Tryck på namnet i listan och tryck på **[!UICONTROL Undo]** i personposten.
 

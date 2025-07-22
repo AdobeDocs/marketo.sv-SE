@@ -4,9 +4,9 @@ description: Schemalägga ett e-postmeddelande - Marketo Docs - produktdokumenta
 title: Schemalägga ett e-postmeddelande
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 >
 >Om du vill uppdatera standardtidszonen går du till sidan Inställningar.
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/one-1.png)
 
-1. När du är klar med ditt e-postmeddelande klickar du på **Schema** längst ned till höger
+1. Klicka **[!UICONTROL Schedule]** längst ned till höger när du är klar med ditt e-postmeddelande
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ Följ de här enkla stegen för att schemalägga ett e-postmeddelande.
 
    ![](assets/three-1.png)
 
-1. Ange den tid du vill att e-postmeddelandet ska skickas ut. Markera önskad tidszon och klicka på **Spara**. Stäng schemaläggaren när du är klar.
+1. Ange den tid du vill att e-postmeddelandet ska skickas ut. Välj önskad tidszon och klicka på **[!UICONTROL Save]**. Stäng schemaläggaren när du är klar.
 
    ![](assets/four-1.png)
 
-1. När du har valt schemalagt datum/tid klickar du på **Skicka** för att schemalägga e-postmeddelandet.
+1. När du har valt schemalagt datum/tid klickar du på **[!UICONTROL Send]** för att schemalägga e-postmeddelandet.
 
    ![](assets/five-1.png)
 

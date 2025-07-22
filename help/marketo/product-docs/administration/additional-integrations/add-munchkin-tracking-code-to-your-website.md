@@ -4,9 +4,9 @@ description: Lägg till [!DNL Munchkin] spårningskod på din webbplats - Market
 title: Lägg till [!DNL Munchkin] spårningskod på din webbplats
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Marketo anpassade JavaScript-spårningskod, [!DNL Munchkin], spårar alla person
 
    >[!TIP]
    >
-   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -119,7 +119,7 @@ Så här kontrollerar du att din [!DNL Munchkin]-kod fungerar när du har lagt t
 
 1. Besök din webbsida.
 
-1. Klicka på rutan **[!UICONTROL Analytics]** i [!DNL My Marketo].
+1. Klicka på rutan [!DNL My Marketo] i **[!UICONTROL Analytics]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
@@ -141,4 +141,4 @@ Så här kontrollerar du att din [!DNL Munchkin]-kod fungerar när du har lagt t
 
    >[!NOTE]
    >
-   >Om du inte ser några data väntar du några minuter och klickar sedan på uppdateringsikonen längst ned.
+   >Om du inte ser några data väntar du några minuter och klickar sedan på ikonen [!UICONTROL refresh] längst ned.

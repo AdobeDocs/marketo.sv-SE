@@ -4,9 +4,9 @@ description: Personer som har utsökt innehåll - Marketo Docs - Produktdokument
 title: Personer som har fyllt i innehåll
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Medlem i Engagement Program-filter {#member-of-engagement-program-filter}
 
-1. Skapa en ny smart lista och sök och dra sedan i filtret **Medlem i engagemangsprogrammet**.
+1. Skapa en ny smart lista och sök och dra sedan i filtret **[!UICONTROL Member of Engagement Program]**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Välj **Utfyllt innehåll** under **Lägg till begränsning**.
+1. Välj **[!UICONTROL Add Constraint]** under **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Ange **Utfyllt innehåll** till **true**.
+1. Ange **[!UICONTROL Exhausted Content]** till **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Fliken Medlemmar {#members-tab}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Välj ditt engagemangsprogram och gå till fliken **Medlemmar**.
+1. Välj ditt engagemangsprogram och gå till fliken **[!UICONTROL Members]**.
 
    ![](assets/memberstab.jpg)
 
-1. Observera kolumnen **Utfyllt innehåll**.
+1. Lägg märke till kolumnen **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ När en person har fått allt innehåll i en ström har den uttömt alla möjlig
 
 ## Strömma {#stream}
 
-1. Du kan också se det totala antalet personer som har slut på innehåll på fliken Direktuppspelning i själva strömmen.
+1. Du kan också se det totala antalet personer som har slut på innehåll på fliken [!UICONTROL Streams] i själva dataströmmen.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

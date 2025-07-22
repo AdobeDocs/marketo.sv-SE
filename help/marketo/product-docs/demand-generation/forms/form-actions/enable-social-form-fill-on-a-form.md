@@ -6,10 +6,10 @@ exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 1%
 
 ---
 
@@ -21,15 +21,15 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
 >
 >Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Under **Formulär** **Inställningar** klickar du på **Inställningar**.
+1. Klicka på **[!UICONTROL Form Settings]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -41,11 +41,11 @@ Tillåt besökarna att fylla i formuläret via sitt sociala nätverk. Ni får au
    >
    >Ta en titt på vilka _data Marketo kommer att hämta_ om andra använder knapparna för sociala medier.
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

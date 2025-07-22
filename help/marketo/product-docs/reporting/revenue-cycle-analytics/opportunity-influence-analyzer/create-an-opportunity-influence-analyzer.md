@@ -4,10 +4,10 @@ description: Skapa en säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Skapa en analys av affärsmöjlighet
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
@@ -19,38 +19,38 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 >
 >Om du vill få bra information från en säljprojektsanalys kontrollerar du att dina kontakter är kopplade till affärsmöjligheterna i CRM.
 
-1. Klicka på **Analys**.
+1. Klicka på **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Klicka på **Affärsmöjlighetsanalys**.
+1. Klicka på **[!UICONTROL Opportunity Influence Analyzer]**.
 
    ![](assets/two.png)
 
-1. Välj kontot på panelen **Inställningar**.
+1. Välj kontot på panelen **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Om du får ett varningsmeddelande om att det inte fanns några aktiviteter under tidsramen klickar du bara på **Stäng**. Vi återkommer till det efter nästa steg.
+   >Om du får en varning om att det inte fanns några aktiviteter under tidsramen klickar du bara på **[!UICONTROL Close]**. Vi återkommer till det efter nästa steg.
 
 1. Välj affärsmöjligheten i det kontot.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Ange tidsperioden. Klicka på fliken **Inställningar** och dubbelklicka på **Tidsram**.
+1. Ange tidsperioden. Klicka på fliken **[!UICONTROL Setup]** och dubbelklicka på **[!UICONTROL Time Frame]**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Välj den tidsperiod för affärsmöjligheten som du vill analysera och klicka på **Spara**.
+1. Välj tidsperioden för affärsmöjligheten som du vill analysera och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >I de flesta fall är **All Time** det enklaste alternativet.
+   >I de flesta fall är **[!UICONTROL All Time]** det enklaste alternativet.
 
 1. Du är där! Klicka på huvudfliken för att se de intressanta stunderna och framgångarna i affärsmöjligheten.
 

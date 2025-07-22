@@ -4,31 +4,31 @@ description: Använd A/B-testning - Marketo Docs - produktdokumentation
 title: Använd A/B-testning av datum/tid
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Använd A/B-testning av datum/tid {#use-date-time-a-b-testing}
 
-Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **Datum/tid** -testet. Detta testar vilken tid på dygnet eller veckodagen som är bäst för att skicka e-postmeddelanden. Så här ställer du in det.
+Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **[!UICONTROL Date/Time]**-testet. Detta testar vilken tid på dygnet eller veckodagen som är bäst för att skicka e-postmeddelanden. Så här ställer du in det.
 
 >[!PREREQUISITES]
 >
 >[Lägg till ett A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. Klicka på **Lägg till A/B-test** under rutan **E-post**.
+1. Klicka på **[!UICONTROL Email]** under rutan **[!UICONTROL Add A/B Test]**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Ett nytt fönster öppnas. Välj **Datum/tid** som **Testtyp**.
+1. Ett nytt fönster öppnas. Välj **[!UICONTROL Date/Time]** för **[!UICONTROL Test Type]**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Om du har tidigare testinformation (till exempel ett ämnestest) kan du klicka på **Återställ test**.
+1. Om du har tidigare testinformation (till exempel ett ämnestest) kan du klicka på **[!UICONTROL Reset Test]**.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -44,7 +44,7 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett test är **Datum/tid** -test
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Använd reglaget för att välja hur stor procentandel av målgruppen du vill ha i A/B-testet och klicka på **Nästa**.
+1. Använd reglaget för att välja hur stor procentandel av målgruppen du vill ha i A/B-testet och klicka på **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 

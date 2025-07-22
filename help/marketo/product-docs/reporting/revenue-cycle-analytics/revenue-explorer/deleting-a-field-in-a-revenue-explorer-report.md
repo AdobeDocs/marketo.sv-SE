@@ -4,14 +4,14 @@ description: Ta bort ett fält i en Intresseutforskarrapport - Marketo Docs - pr
 title: Ta bort ett fält i en Intresseutforskarrapport
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Ta bort ett fält i en Intresseutforskarrapport {#deleting-a-field-in-a-revenue-explorer-report}
+# Ta bort ett fält i en [!UICONTROL Revenue Explorer]-rapport {#deleting-a-field-in-a-revenue-explorer-report}
 
 Ibland kan du dra fel fält till rapporten. Så här tar du bort den:
 
@@ -25,4 +25,4 @@ Ibland kan du dra fel fält till rapporten. Så här tar du bort den:
 
 >[!MORELIKETHIS]
 >
->[Sparar en Intresseutforskarrapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Sparar en [!UICONTROL Revenue Explorer] rapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -4,10 +4,10 @@ description: Installation av kontoteam - Marketo Docs - produktdokumentation
 title: Kontouppsättningsinställningar
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Ett kontoteam är en grupp intressenter som arbetar tillsammans med ett namngivet konto. Följ de här stegen för att välja vilka CRM-kontoroller som ska läggas till.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Klicka på **Hantering av målkonto**.
+1. Klicka på **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Klicka på **Redigera** under medlemmar i kontogruppen.
+1. Klicka på **[!UICONTROL Edit]** under Kontoteammedlemmar.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >Som kontoroll ger du den ett namn och matchar det till önskat fält för användarsökning i CRM.
+   >För [!UICONTROL Account Role] ger du den ett namn och matchar det till önskat fält för användarsökning i CRM.
 
-1. Skriv in namnet på din kontoroll och markera fältet **CRM**. Lägg till upp till 10.
+1. Skriv ditt [!UICONTROL Account Role]-namn och markera fältet **CRM**. Lägg till upp till 10.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Du kan inte välja kontoägare. Den väljs som standard från kontonivån i CRM.
+   >Du kan inte välja [!UICONTROL Account Owner]. Den väljs som standard från kontonivån i CRM.
 
-1. Klicka på **Spara** när du är klar.
+1. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/five-2.png)
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Hantering av målkonto - Marketo Docs - produktdokumentation
-title: Hantering av målkonto
+description: '[!UICONTROL Target Account Management] - Marketo Docs - produktdokumentation'
+title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Hantering av målkonto {#target-account-management-overview}
+# [!UICONTROL Target Account Management] {#target-account-management-overview}
 
-Marknadsförare, följ Hantering av målkonto. Målkontohantering, träffa marknadsförare.
+Marknadsförare, möt [!UICONTROL Target Account Management]. [!UICONTROL Target Account Management], möt marknadsföraren.
 
 ![](assets/photo-collage.png)
 
-Vad är kontohantering för Marketo Target?
+Vad är Marketo [!UICONTROL Target Account Management]?
 
-Marketo Target Account Management för samman sälj- och marknadsföringsteam för att inrikta sig på och engagera nyckelkonton på ett mycket samordnat sätt och överbrygga klyftan mellan kontocentrerad strategi, utförande och framgång - allt inom en enda plattform.
+Marketo [!UICONTROL Target Account Management] för samman sälj- och marknadsföringsteam för att inrikta sig på och engagera nyckelkonton på ett mycket samordnat sätt och överbrygga klyftan mellan kontocentrerad strategi, utförande och framgång - allt inom en enda plattform.
 
-Varför ska man använda Marketo Target Account Management?
+Varför ska jag använda Marketo [!UICONTROL Target Account Management]?
 
 Marketo sammanför TAM och lead-hanteringen i en och samma lösning, vilket gör det enkelt för marknadsförare att genomföra personaliserade kampanjer för både konton och leads i ett enda steg. Ni kan också dra nytta av att nå viktiga beslutsfattare och påverka avtal.
 

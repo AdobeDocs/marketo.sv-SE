@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7515133
-description: SFDC-synkronisering - Sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
-title: SFDC-synkronisering - Sammanfoga en lead/kontakt/person
+description: SFDC Sync - sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
+title: SFDC Sync - sammanfoga en lead/kontakt/person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# SFDC-synkronisering: Sammanfoga en lead/kontakt/person {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC Sync: Sammanfoga en lead/kontakt/person {#sfdc-sync-merging-a-lead-contact-person}
 
 Ibland är det bäst att bara lista reglerna. Här är vi:
 
-* När du sammanfogar två leads i **Salesforce** anger den normala synkroniseringen Marketo Engage och leads sammanfogas automatiskt som personer i Marketo.
-* När två personer slås samman i **Marketo** anropas i själva verket samma process som när de slås samman som leads i Salesforce. Det fungerar fortfarande automatiskt.
+* När du sammanfogar två leads i **[!DNL Salesforce]** anger den normala synkroniseringen Marketo och leads sammanfogas automatiskt som personer i Marketo.
+* Om du sammanfogar två personer i **Marketo** anropas i själva verket samma process som när de sammanfogas som leads i [!DNL Salesforce]. Det fungerar fortfarande automatiskt.
 * Att sammanfoga en **lead (person) till en kontakt** fungerar på samma sätt. Du får en enda kontakt på båda sidor.
 * Standardpoängen sammanfogas vid sammanslagningen.
 

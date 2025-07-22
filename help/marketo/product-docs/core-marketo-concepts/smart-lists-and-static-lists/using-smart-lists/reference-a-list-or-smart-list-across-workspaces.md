@@ -4,9 +4,9 @@ description: Referera till en lista eller en smart lista över arbetsytor - Mark
 title: Referera till en lista eller en smart lista över arbetsytor
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Listor och smarta listor kan delas och refereras till mellan arbetsytor för enk
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Högerklicka på en kampanjmapp. Välj **Ny mapp**.
+1. Högerklicka på en kampanjmapp. Välj **[!UICONTROL New Folder]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

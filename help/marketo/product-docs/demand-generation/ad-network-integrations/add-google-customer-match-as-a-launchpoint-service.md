@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980661
-description: Lägg till Google kundmatchning som en LaunchPoint-tjänst - Marketo Docs - Produktdokumentation
-title: Lägg till Google kundmatchning som en LaunchPoint-tjänst
+description: Lägg till Google kundmatchning som en [!DNL LaunchPoint] tjänst - Marketo Docs - Produktdokumentation
+title: Lägg till Google kundmatchning som en [!DNL LaunchPoint] tjänst
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
-# Lägg till Google kundmatchning som en LaunchPoint-tjänst {#add-google-customer-match-as-a-launchpoint-service}
+# Lägg till Google kundmatchning som en [!DNL LaunchPoint]-tjänst {#add-google-customer-match-as-a-launchpoint-service}
 
-Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google för målgruppsanpassning med hjälp av Google AdWords, samt målinrikta om målgrupper i YouTube, Search och Gmail.
+Med den här integreringen kan du skicka en Marketo-målgrupp till Google för målgruppsanpassning med hjälp av [!DNL Google AdWords], samt målinrikta målgrupper på nytt i YouTube, Search och [!DNL Gmail].
 
 >[!NOTE]
 >
@@ -35,15 +35,15 @@ Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google
 
    ![](assets/chooseservice.png)
 
-1. Om du vill ansluta ett Google AdWords-konto klickar du på **[!UICONTROL Authorize]**.
+1. Om du vill ansluta ett [!DNL Google AdWords]-konto klickar du på **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google öppnas på en ny flik. Logga in på ditt Google AdWords-konto härifrån.
+1. Google öppnas på en ny flik. Logga in på ditt [!DNL Google AdWords]-konto härifrån.
 
    >[!CAUTION]
    >
-   >För att Marketo ska kunna skicka målgrupper över flera AdWords-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till _alla_ av dessa konton.
+   >För att Marketo ska kunna skicka målgrupper över flera [!DNL AdWords]-konton måste den Google-användare som du auktoriserar i följande steg ha tillgång till _alla_ av dessa konton.
 
    ![](assets/chooseaccount.png)
 
@@ -51,11 +51,11 @@ Med den här integreringen kan ni skicka en Marketo Engage-målgrupp till Google
 
    ![](assets/reviewpermissions.png)
 
-1. Ditt Google AdWords-konto är nu anslutet till Marketo. Klicka på **[!UICONTROL Create]**.
+1. Ditt [!DNL Google AdWords]-konto är nu anslutet till Marketo. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 
-   Häftig! Nu visas Google Matched Audiences som en LaunchPoint-tjänst på fliken Installerade tjänster.
+   Häftig! Nu visas Google Matched Audiences som en [!DNL LaunchPoint]-tjänst på fliken Installerade tjänster.
 
 >[!NOTE]
 >

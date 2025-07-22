@@ -4,16 +4,16 @@ description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - 
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
-# Prioritet, Urklipp, Relativa poäng och Bästa val {#priority-urgency-relative-score-and-best-bets}
+# Prioritet, brådskande, Relativ poäng och [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight väljer ut dina bästa leads och kontakter baserat på deras prioritet. En lead eller kontakts prioritet har två komponenter - trängsel och relativ poäng.
+[!DNL Marketo Sales Insight] väljer dina bästa leads och kontakter baserat på deras prioritet. En lead eller kontakts prioritet har två komponenter - trängsel och relativ poäng.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -37,9 +37,9 @@ Stjärnorna representerar relativa poäng - ett mått på hur den här personens
 
 Om två leads är lika brådskande kan du använda relativ poäng för att avgöra vilken som är värd att ringa först. Den som har den högre relativa poängen kan reagera mer positivt på ert erbjudande jämfört med den lägre.
 
-## Bästa val {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Bästa valet är dina leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
+[!DNL Best Bets] är dina leads och kontakter med högsta prioritet och relativa poäng. Endast de leads du äger visas i listan och listan uppdateras när poängen ändras.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Skapa en rapport i ett program - Marketo Docs - produktdokumentatio
 title: Skapa en rapport i ett program
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Kör en rapport för att analysera människor, program, landningssidor, e-post och sociala resurser.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
    >[!NOTE]
    >
-   >Du kan också skapa rapporter på fliken **Analytics**.
+   >Du kan också skapa rapporter från fliken **[!UICONTROL Analytics]**.
 
-1. Högerklicka på programmet och välj **Ny lokal resurs**.
+1. Högerklicka på programmet och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Klicka på **Rapport**.
+1. Klicka på **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Välj rapporten **Type**.
+1. Välj rapporten **[!UICONTROL Type]**.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ Kör en rapport för att analysera människor, program, landningssidor, e-post o
 
 1. Ange tidsramen för rapporten. Mer information finns i [Ändra en tidsram för rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
-1. Klicka på fliken **Rapport** om du vill visa statistik.
+1. Klicka på fliken **[!UICONTROL Report]** om du vill visa statistik.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

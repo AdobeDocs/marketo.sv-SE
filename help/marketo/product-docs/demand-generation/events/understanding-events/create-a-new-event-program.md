@@ -4,9 +4,9 @@ description: Skapa ett nytt händelseprogram - Marketo Docs - produktdokumentati
 title: Skapa ett nytt händelseprogram
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Med händelser kan du automatisera online- och offlinehändelser! Fånga personernas status när de går igenom olika faser och få korrekta mått på avkastningen för era marknadsföringssatsningar.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Välj mapp för det nya programmet. Välj **Nytt** och klicka på **Nytt program**.
+1. Välj mapp för det nya programmet. Markera **[!UICONTROL New]** och klicka på **[!UICONTROL New Program]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Välj ett namn för aktiviteten. Välj sedan **Händelse** under **Programtyp**.
+1. Välj ett namn för aktiviteten. Välj sedan **[!UICONTROL Program Type]** under **[!UICONTROL Event]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Välj en **kanal**.
+1. Välj en **[!UICONTROL Channel]**.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ Med händelser kan du automatisera online- och offlinehändelser! Fånga persone
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Om du vill schemalägga din aktivitet väljer du **Schemavy** och klickar på den i kalendern för att öppna popup-fönstret. Ange datum och tid.
+1. Om du vill schemalägga din aktivitet väljer du **[!UICONTROL Schedule View]** och klickar på den i kalendern för att öppna popup-fönstret. Ange datum och tid.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Dra fältet till **Bekräftat** när du är klar.
+1. Skjut fältet till **[!UICONTROL Confirmed]** när du är klar.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

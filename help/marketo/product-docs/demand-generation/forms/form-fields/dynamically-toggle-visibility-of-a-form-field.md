@@ -4,9 +4,9 @@ description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs -
 title: Växla synlighet för ett formulärfält dynamiskt
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 >
 >I det här exemplet döljer vi fältet **Delstat** såvida inte **Land** har valts som &quot;USA&quot;.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
-1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **synlighetsreglerna**.
+1. Markera fältet som du vill visa/dölja dynamiskt och klicka på länken för **[!UICONTROL Visibility Rules]**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
 
    >[!TIP]
    >
-   >Det här är coolt eftersom du kan välja oskarpa matchningar som &quot;börjar med&quot;.
+   >Det här är coolt eftersom du kan välja oskarpa matchningar som [!UICONTROL starts with].
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ En bra egenskap hos Marketo-formulär är att du dynamiskt kan dölja/visa formu
    >
    >Vi konverterade tidigare Land till en fälttyp för plocklista och [lade till alla länder som värden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Och det är allt! När man fyller i blanketten och väljer USA som land visas f�
 
 >[!IMPORTANT]
 >
->Formulärfältets beteende fungerar sömlöst när fältvärden ställs in/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
+>Formulärfältets beteende fungerar sömlöst när fältvärden anges/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
 >
 >Villkorliga fält kanske inte fungerar som förväntat om fältvärdena ändras av andra externa skript än Forms 2.0 JavaScript API.

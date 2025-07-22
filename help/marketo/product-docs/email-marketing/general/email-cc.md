@@ -4,9 +4,9 @@ description: Email CC - Marketo Docs - produktdokumentation
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oav
 
 ## Konfigurera e-post CC {#set-up-email-cc}
 
-1. Klicka på **Admin** i Min Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Min Marketo.
 
    ![](assets/one.png)
 
-1. Välj **E-post** i trädet.
+1. Välj **[!UICONTROL Email]** i trädet.
 
    ![](assets/two.png)
 
-1. Klicka på **Redigera e-post-CC-inställningar**.
+1. Klicka på **[!UICONTROL Edit Email CC Settings]**.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Den här funktionen är tillgänglig för alla e-postresurser från Marketo, oav
 
 ## Använda Email CC {#using-email-cc}
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/five.png)
 
-1. Klicka på **E-postinställningar**.
+1. Klicka på **[!UICONTROL Email Settings]**.
 
    ![](assets/six.png)
 

@@ -4,9 +4,9 @@ description: Lägg till meddelandebilder i appen - Marketo Docs - produktdokumen
 title: Lägg till meddelandebilder i appen
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Här väljer du och anpassar dina bilder i appen.
 
-1. Markera meddelandet i appen och klicka på **Redigera utkast**.
+1. Markera meddelandet i appen och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ Här väljer du och anpassar dina bilder i appen.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klicka på fliken **Format** och klicka på mallens bildområde.
+1. Klicka på fliken **[!UICONTROL Style]** och klicka på mallens bildområde.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klicka på **Välj bild**.
+1. Klicka på **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Markera bilden i Design Studio och klicka på **Välj**.
+1. Välj bilden i Design Studio och klicka på **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,15 +47,15 @@ Här väljer du och anpassar dina bilder i appen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klicka på **Ta bort**. Nu kan du välja en till.
+1. Klicka på **[!UICONTROL Remove]**. Nu kan du välja en till.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Välj en knapp i Bildegenskaper för att passa bilden efter höjd, bredd eller båda när bilden är på plats.
+1. Med den önskade bilden på plats i [!UICONTROL Image Properties] väljer du en knapp som passar bilden med Höjd, Bredd eller Båda.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Du kan också använda en bildkant. Standardinställningen är **Av**. Välj först en färg genom att klicka på den eller genom att ange siffrorna Hex eller RGB i färgväljaren.
+1. Du kan också använda en bildkant. Standardinställningen är **Av**. Välj först en färg genom att klicka på den eller genom att ange de hexadecimala eller RGB-numeriska värdena i färgväljaren.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -85,7 +85,7 @@ Här väljer du och anpassar dina bilder i appen.
 
    >[!NOTE]
    >
-   >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska visas på en plattform eller på en annan, låter du den andra vara kvar i standardinställningen eller väljer **Inget**.
+   >Om du vill trycka på åtgärder för bilder, knappar eller bakgrunder kan du ange olika åtgärder för Apple- och Android-plattformarna. Djuplänkar hanteras till exempel på olika sätt för Apple och Android. Om ditt meddelande endast ska skickas till den ena plattformen eller den andra ska du lämna den andra i standardinställningen eller välja **[!UICONTROL None]**.
 
 Bra jobbat! Nu är det dags att [skapa texten för ditt meddelande i appen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 

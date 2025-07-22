@@ -4,9 +4,9 @@ description: Lägg till en e-postmästare/kund - Marketo Docs - produktdokumenta
 title: Lägg till en e-postkampanj/kanal
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Så här kommer du igång.
 >
 >Mejl med Champion/Challenger fungerar bara med utlösande kampanjer och engagemangsprogram. Använd e-postprogrammets [A/B-testningsfunktion](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) för grupputskick.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ Så här kommer du igång.
    >
    >Läs mer om [e-postprogram](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) för engångsutskick.
 
-1. Klicka på **Nytt test** under **E-poståtgärder**.
+1. Klicka på **[!UICONTROL Email Actions]** under **[!UICONTROL New Test]**.
 
    ![](assets/chmapion2.jpg)
 

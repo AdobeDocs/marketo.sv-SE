@@ -4,9 +4,9 @@ description: Så här loggar du e-postmeddelanden till andra CRM-system - Market
 title: Så här loggar du e-postmeddelanden till andra CRM-system
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ Om din CRM ger dig en hemlig kopia-adress kan du använda CRM-avsnittet&quot;oth
 
 **Nästan alla CRM**:
 
-* Vår funktion för automatisk BCC fungerar med nästan alla CRM-postmeddelanden som du har skickat med Sales Connect till dina leads. Se bara till att din CRM ger dig en hemlig kopia-adress för att kunna utnyttja detta.
+* Vår funktion för automatisk BCC fungerar med nästan alla CRM-postmeddelanden som du har skickat med [!DNL Sales Connect] till dina leads. Se bara till att din CRM ger dig en hemlig kopia-adress för att kunna utnyttja detta.
 
-**Salesforce**:
+**[!DNL Salesforce]**:
 
 * Vi gör allt detta och mycket mer!
 
 ## Ansluta till andra CRM:er {#how-to-connect-to-other-crms}
 
-1. Klicka på **Inställningar**.
+1. Klicka på **[!UICONTROL Settings]**.
 1. Klicka på **CRM**.
-1. Klicka på **Anslut** under Andra CRM:er.
-1. Klicka på **Konfigurera** och klistra sedan in din BCC-adress under E-post till BCC.
-1. Klicka på **Spara** så sparas din BCC-adress i Sales Connect.
+1. Klicka på **[!UICONTROL Connect]** under Andra CRM:er.
+1. Klicka på **[!UICONTROL Configure]** och klistra sedan in din BCC-adress under E-post till BCC.
+1. Klicka på **[!UICONTROL Save]** så sparas din BCC-adress i [!DNL Sales Connect].
 
    E-postmeddelanden loggas nu i CRM via BCC.

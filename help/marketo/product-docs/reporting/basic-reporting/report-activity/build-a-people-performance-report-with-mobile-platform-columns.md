@@ -4,10 +4,10 @@ description: Bygg en rapport om personprestanda med Mobile Platform Columns - Ma
 title: Bygg en rapport om personprestanda med Mobile Platform-kolumner
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Följ de här stegen för att skapa en People Performance Report (rapport om per
 
 ## Skapa smarta mobillistor {#create-mobile-smart-lists}
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Följ de här stegen för att skapa en People Performance Report (rapport om per
 
    ![](assets/two-1.png)
 
-1. Välj **Ny lokal resurs** under **Ny**.
+1. Välj **[!UICONTROL New]** under **[!UICONTROL New Local Asset]**.
 
    ![](assets/three-1.png)
 
-1. Klicka på **Smart lista**.
+1. Klicka på **[!UICONTROL Smart List]**.
 
    ![](assets/four-1.png)
 
-1. Skriv ett namn och klicka på **Skapa**.
+1. Skriv ett namn och klicka på **[!UICONTROL Create]**.
 
    ![](assets/five-1.png)
 
-1. Hitta och dra filtret Öppen e-post till arbetsytan.
+1. Hitta och dra filtret [!UICONTROL Opened Email] till arbetsytan.
 
    ![](assets/six-1.png)
 
-1. Ange e-postadress till **är valfri**.
+1. Ange e-post till **[!UICONTROL is any]**.
 
    ![](assets/seven.png)
 
-1. Klicka på **Lägg till begränsning** och välj **Plattform**.
+1. Klicka på **[!UICONTROL Add Constraint]** och välj **[!UICONTROL Platform]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Vi använde filtret Öppen e-post i det här exemplet. Du kan också använda det klickade e-postfiltret på samma sätt som det har plattformsbegränsningen.
+   >Vi använde filtret [!UICONTROL Opened Email] i detta exempel. Du kan också använda filtret [!UICONTROL Clicked Email] på samma sätt som med plattformsbegränsningen.
 
-1. Ange **iOS** som plattform.
+1. Ange [!UICONTROL Platform] till **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Följ de här stegen för att skapa en People Performance Report (rapport om per
 
 ## Skapa en rapport om personprestanda {#create-a-people-performance-report}
 
-1. Under Marknadsföringsaktiviteter väljer du det program som innehåller de smarta listorna **iOS** och **Android**.
+1. Under Marknadsföringsaktiviteter väljer du det program som innehåller de smarta listorna **[!UICONTROL iOS]** och **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 
-1. Välj **Ny lokal resurs** under **Ny**.
+1. Välj **[!UICONTROL New]** under **[!UICONTROL New Local Asset]**.
 
    ![](assets/eleven.png)
 
-1. Klicka på **Rapport**.
+1. Klicka på **[!UICONTROL Report]**.
 
    ![](assets/twelve.png)
 
-1. Ange typen till **Personprestanda**.
+1. Ange typ till **[!UICONTROL People Performance]**.
 
    ![](assets/thirteen.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Följ de här stegen för att skapa en People Performance Report (rapport om per
 
 ## Lägg till smarta mobillistor som kolumner {#add-mobile-smart-lists-as-columns}
 
-1. Klicka på **Inställningar** i den rapport du just skapade och dra sedan **Anpassade kolumner** till arbetsytan.
+1. Klicka på **[!UICONTROL Setup]** i den rapport du just skapade och dra sedan **[!UICONTROL Custom Columns]** till arbetsytan.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Följ de här stegen för att skapa en People Performance Report (rapport om per
    >
    >Som standard tittar rapporten People Performance på de senaste 7 dagarna. Du kan ändra tidsramen genom att dubbelklicka på den.
 
-1. Sök efter och markera de smarta listor som du skapade tidigare och klicka på **Använd**.
+1. Sök efter och markera de smarta listor som du skapade tidigare och klicka på **[!UICONTROL Apply]**.
 
    ![](assets/sixteen.png)
 
-1. Klicka på **Rapport** för att köra rapporten och se dina data.
+1. Klicka på **[!UICONTROL Report]** om du vill köra rapporten och se dina data.
 
    ![](assets/seventeen.png)
 

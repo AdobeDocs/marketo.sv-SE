@@ -1,18 +1,18 @@
 ---
-description: Guiden Komma igång för Sales Connect Admins - Marketo Docs - produktdokumentation
-title: Starthandbok för Sales Connect-administratörer
+description: Starthandbok för [!DNL Sales Connect] administratörer - Marketo Docs - produktdokumentation
+title: Starthandbok för [!DNL Sales Connect] administratörer
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Starthandbok för Sales Connect-administratörer {#getting-started-guide-for-sales-connect-admins}
+# Starthandbok för [!DNL Sales Connect]-administratörer {#getting-started-guide-for-sales-connect-admins}
 
-Det här dokumentet tar dig igenom de inledande stegen för att konfigurera din nya Sales Connect-instans. Vissa av dessa steg kräver åtkomst som Marketo-administratör, Salesforce-administratör och Sales Connect-administratör. Följ våra guider nedan för att slutföra instanskonfigurationen.
+Det här dokumentet tar dig igenom de inledande stegen för att konfigurera din nya [!DNL Sales Connect]-instans. Vissa av dessa steg kräver åtkomst som Marketo-administratör, [!DNL Salesforce]-administratör och [!DNL Sales Connect]-administratör. Följ våra guider nedan för att slutföra instanskonfigurationen.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ När du har etablerat ditt Marketo Sales Connect-konto från Marketo och bjudit 
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Ansluta till Salesforce {#connecting-to-salesforce}
+## Ansluter till [!DNL Salesforce] {#connecting-to-salesforce}
 
-Alla användare måste ansluta till Salesforce för att kunna aktivera loggförsäljningsaktiviteter för säljarna, som e-post, samtal och uppgifter. När du ansluter till Salesforce som administratör har du dock möjlighet att konfigurera dina inställningar för aktivitetsloggning för hela teamet så att globala loggningsinställningar tillämpas för alla Sales Connect-användare.
+Alla användare måste ansluta till [!DNL Salesforce] separat för att kunna aktivera loggförsäljningsaktiviteter för Salesforce, som e-post, samtal och uppgifter. När du ansluter till Salesforce som administratör har du dock möjlighet att konfigurera dina inställningar för aktivitetsloggning för hela teamet så att globala loggningsinställningar tillämpas för alla [!DNL Sales Connect]-användare.
 
 Följ stegen i [den här artikeln](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} för att ansluta din Sales Connect-instans till din Salesforce-instans som administratör eller icke-administratör.
 
@@ -48,7 +48,7 @@ Om ni ansluter till Marketo kan era säljare utnyttja kraften i marknadsförings
 
 [Klicka här](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"} om du vill veta mer om hur du ansluter till Marketo och ger säljarna åtkomst till anslutningen.
 
-## Installerar Salesforce Customization Package {#installing-salesforce-customization-package}
+## Installerar anpassningspaket för [!DNL Salesforce] {#installing-salesforce-customization-package}
 
 En del av att säkerställa att försäljningen är aktiverad för framgång är att ha rätt funktioner på sin primära arbetsyta. Anpassningspaketet Sales Connect gör det möjligt att komma åt engagemangsfunktioner och viktiga attribut för försäljningsaktiviteter från Salesforce.
 

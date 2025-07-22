@@ -4,9 +4,9 @@ description: Clone a Program Analyzer - Marketo Docs - produktdokumentation
 title: Klona en programanalys
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 När du har sparat en analyserare är det enkelt att klona den och skapa en ny. Gå sedan in och redigera den nya om det behövs några ändringar.
 
-1. Klicka på rutan **Analyser**.
+1. Klicka på rutan **[!UICONTROL Analytics]**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klicka på rutan **Programanalys**.
+1. Klicka på rutan **[!UICONTROL Program Analyzer]**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Öppna listrutan Analyzer-åtgärder när den sparade analysen är öppen och välj **Klonanalys**.
+1. Öppna listrutan Analyzer-åtgärder när den sparade analysen är öppen och välj **[!UICONTROL Clone Analyzer]**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Välj plats för den klonade analyseraren i listrutorna **Klona till** och **Mapp** .
+1. Välj plats för den klonade analyseraren i listrutorna **[!UICONTROL Clone To]** och **[!UICONTROL Folder]**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Namnge den klonade analyseraren och klicka på **Klona**.
+1. Namnge den klonade analyseraren och klicka på **[!UICONTROL Clone]**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
@@ -41,4 +41,4 @@ När du har sparat en analyserare är det enkelt att klona den och skapa en ny. 
 
    >[!MORELIKETHIS]
    >
-   >[Skapa en programanalys](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Skapa en [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

@@ -4,9 +4,9 @@ description: Använda funktioner - Marketo Docs - produktdokumentation
 title: Använda persona
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en
 
 ## Lägg till en persona {#add-a-persona}
 
-1. Klicka på **Admin** i Min Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Min Marketo.
 
    ![](assets/one.png)
 
-1. Välj **Hantering av målkonto** i trädet.
+1. Välj **[!UICONTROL Target Account Management]** i trädet.
 
    ![](assets/using-personas-2.png)
 
-1. Klicka på **Redigera**.
+1. Klicka på **[!UICONTROL Edit]**.
 
    ![](assets/three.png)
 
@@ -33,27 +33,27 @@ Personer är ett bra sätt att segmentera ABM-målgrupper och -marknader för en
    >
    >Jobbtitelspersonalen inkluderas som standard. Den kan inte ändras eller tas bort.
 
-1. Om du vill lägga till fler profiler klickar du på **+Lägg till**.
+1. Om du vill lägga till fler profiler klickar du på **[!UICONTROL +Add]**.
 
    ![](assets/four.png)
 
-1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka på **Spara** när du är klar.
+1. Ge din persona ett namn och markera motsvarande fält i listrutan. Du kan lägga till upp till två ytterligare profiler. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Endast anpassade Salesforce-fält av typen &quot;picklist&quot; som har synkroniserats med din Marketo-instans är tillgängliga i listrutan för personfält när du skapar en persona.
+   >Endast anpassade Salesforce-fält av typen&quot;picklist&quot; som har synkroniserats med din Marketo-instans är tillgängliga i listrutan för personfält när du skapar en persona.
 
 ## Visa dina personuppgifter {#view-your-personas}
 
-Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
+Visa dina profiler genom att besöka en specifik [!UICONTROL Named Account].
 
-1. Välj önskat namngivet konto.
+1. Välj önskad [!UICONTROL Named Account].
 
    ![](assets/one-a.png)
 
-1. Klicka på fliken **Personas**.
+1. Klicka på fliken **[!UICONTROL Personas]**.
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ Visa dina personuppgifter genom att besöka ett specifikt namngivet konto.
 
    >[!NOTE]
    >
-   >X:et i Title Persona fungerar som ett jokertecken. &quot;CXO&quot; kommer till exempel att omfatta koncernchef, ekonomichef osv.
+   >X i [!UICONTROL Title Persona] fungerar som ett jokertecken. &quot;CXO&quot; kommer till exempel att omfatta koncernchef, ekonomichef osv.
 
 ## Persona-filter {#persona-filters}
 

@@ -4,9 +4,9 @@ description: Lägg till ett A/B-test - Marketo Docs - produktdokumentation
 title: Lägg till ett A/B-test
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Testning är ett bra sätt att optimera e-postmeddelanden för bättre engagemang. Så här kommer du igång.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Testning är ett bra sätt att optimera e-postmeddelanden för bättre engageman
 
    ![](assets/selectemailprogram.jpg)
 
-1. Klicka på **Lägg till A/B-test** under rutan **E-post**.
+1. Klicka på **[!UICONTROL Email]** under rutan **[!UICONTROL Add A/B Test]**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

@@ -4,16 +4,16 @@ description: Underförstådda Salesforce-åtgärder - Marketo Docs - produktdoku
 title: Underförstådda Salesforce-åtgärder
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Underförstådda Salesforce-åtgärder {#implied-salesforce-actions}
 
-När ett Salesforce-specifikt flödessteg körs, utförs ibland extra steg automatiskt. Här är reglerna, så du vet:
+När ett [!DNL Salesforce]-specifikt flödessteg körs, utförs ibland extra steg automatiskt. Här är reglerna, så du vet:
 
 Dessa regler gäller när personen inte befinner sig i [Salesforce.com](https://Salesforce.com){target="_blank"} som kontakt eller lead.
 
@@ -26,12 +26,12 @@ Dessa regler gäller när personen inte befinner sig i [Salesforce.com](https://
  </thead> 
  <tbody> 
   <tr> 
-   <td>Lägg till i SFDC-kampanj</td> 
+   <td>Lägg till i SFDC Campaign</td> 
    <td>Synkronisera person till SFDC</td> 
   </tr> 
   <tr> 
-   <td>Ändra status i SFDC-kampanj</td> 
-   <td>Synkronisera person till SFDC<br>Lägg till i SFDC-kampanj</td> 
+   <td>Ändra status i SFDC Campaign</td> 
+   <td>Synkronisera person till SFDC<br>Lägg till i SFDC Campaign</td> 
   </tr> 
   <tr> 
    <td>Ändra ägare</td> 
@@ -48,6 +48,6 @@ Dessa regler gäller när personen inte befinner sig i [Salesforce.com](https://
  </tbody> 
 </table>
 
-Du kan filtrera bort SFDC-poster i en smart lista med hjälp av filtret **[!UICONTROL SFDC Type]** med operatorn inställd på &quot;är inte tom&quot;. Alla SFDC-poster har ett värde i det här fältet.
+Du kan filtrera bort SFDC-poster i en smart lista med hjälp av filtret **[!UICONTROL SFDC Type]** med operatorn inställd på [!UICONTROL is not empty]. Alla SFDC-poster har ett värde i det här fältet.
 
-Kom ihåg att dessa automatiska åtgärder bara utförs om leadet inte finns i [Salesforce.com](https://salesforce.com){target="_blank"}
+Kom ihåg att dessa automatiska åtgärder bara utförs om leadet inte finns på [Salesforce.com](https://salesforce.com){target="_blank"}

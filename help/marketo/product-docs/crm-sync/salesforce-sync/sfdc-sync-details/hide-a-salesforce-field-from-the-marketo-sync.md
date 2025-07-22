@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719306
-description: Dölj ett Salesforce-fält från Marketo Sync - Marketo Docs - produktdokumentation
+description: Dölj ett Salesforce-fält i Marketo Sync - Marketo Docs - produktdokumentation
 title: Dölj ett Salesforce-fält från Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
-# Dölj ett Salesforce-fält från Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
+# Dölj ett [!DNL Salesforce]-fält från Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Alla fält i Salesforce är inte användbara för marknadsföring. Du kan optime
 
    >[!NOTE]
    >
-   >Om fältet som du döljer i Salesforce redan har synkroniserats med Marketo måste du dölja det i Marketo också om du inte vill använda det.
+   >Om fältet som du döljer i [!DNL Salesforce] redan har synkroniserats med Marketo måste du dölja det i Marketo också om du inte vill använda det.
 
    Så ja! Du kommer inte längre att se det här fältet i Marketo när nästa synkronisering är klar.
 

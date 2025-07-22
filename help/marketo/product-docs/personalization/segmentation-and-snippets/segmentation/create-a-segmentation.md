@@ -4,10 +4,10 @@ description: Skapa en segmentering - Marketo Docs - produktdokumentation
 title: Skapa en segmentering
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Med segmentering kan ni gruppera människor i olika profiler för rapportering och dynamiskt innehåll. Så här skapar du dem.
 
-1. Gå till **databas**.
+1. Gå till **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Klicka på **Nytt** och sedan på **Nytt segment**.
+1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Segmentation]**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
    >
    >Du kan skapa upp till 20 segment.
 
-1. Ange ett **namn**, klicka på **Lägg till segment** och ge det ett namn.
+1. Ange en **[!UICONTROL Name]**, klicka på **[!UICONTROL Add Segment]** och ge den ett namn.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -45,7 +45,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
    >
    >Om du får ett felmeddelande under godkännandet och behöver hjälp med att minska komplexiteten i din segmentering kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Dra och släpp segmenten runt om för att ändra deras ordning. Klicka på **Skapa** när du är klar.
+1. Dra och släpp segmenten runt om för att ändra deras ordning. Klicka på **[!UICONTROL Create]** när du är klar.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 

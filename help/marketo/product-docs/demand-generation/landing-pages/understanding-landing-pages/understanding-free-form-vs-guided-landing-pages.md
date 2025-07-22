@@ -4,9 +4,9 @@ description: Understanding Free-form vs Guided Landing Pages - Marketo Docs - Pr
 title: Förstå frihandssidor jämfört med sidor med guidad landning
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Den mall du väljer avgör vilket redigeringsläge för landningssidor du kommer
 ## Frihandssidor {#free-form-pages}
 
 * Dra och släpp det innehåll du vill, var du vill.
-* Mallen är som en SlideMaster i PowerPoint, bara en bakgrund.
+* Mallen är som en [!DNL SlideMaster] i [!DNL PowerPoint], bara en bakgrund.
 * Skapa en enkel mobilversion av sidan med en enkel musklickning.
 * Används bäst när du inte har så mycket tid eller tekniska resurser till ditt förfogande.
 

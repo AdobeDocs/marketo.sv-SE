@@ -4,20 +4,20 @@ description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
 title: Klona en webbkampanj
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Klona en webbkampanj {#clone-a-web-campaign}
 
-Använd klonfunktionen på webbkampanjsidan för att kopiera kampanjinställningarna och ändra innehållet för optimering av delad testning, eller klona en kampanj med samma innehåll och rikta den mot ett annat segment. Skapa webbkampanjer på några sekunder!
+Använd klonfunktionen på sidan [!UICONTROL Web Campaigns] för att kopiera kampanjinställningarna och ändra innehållet för optimering av delad testning, eller klona en kampanj med samma innehåll och rikta den mot ett annat segment. Skapa webbkampanjer på några sekunder!
 
 ## Skapa en klonkampanj {#create-a-clone-campaign}
 
-1. Gå till **Webbkampanjer**.
+1. Gå till **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

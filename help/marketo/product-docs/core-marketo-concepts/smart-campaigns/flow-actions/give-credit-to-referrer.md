@@ -6,9 +6,9 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ När du kör ett _hänvisningserbjudande_ eller en _utlottning_ kan du tillgodor
 * **Smart List-utlösare**
 * Anpassad JavaScript-händelse
 
-Om du väljer att använda alternativet **Smart List-utlösare** för att ange ett mål måste du använda flödessteget **Ge kredit till referent**.
+Om du väljer att använda alternativet **Smart List Trigger** för att ange ett mål måste du använda flödessteget **[!UICONTROL Give Credit to Referrer]**.
 
 ![](assets/give-credit-to-referrer-1.png)
 

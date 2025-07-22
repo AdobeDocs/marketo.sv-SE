@@ -4,9 +4,9 @@ description: Schemalägga om ett helt program från schemaläggningsvyn - Market
 title: Schemalägga om ett helt program från schemaläggningsvyn
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ När du klonar ett program eller en händelse med datum, vill du troligtvis sche
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Markera en ankarpunkt. Baserat på den här flytten flyttas alla andra poster tillsammans med den.
+1. Välj en [!UICONTROL Anchor Entry]. Baserat på den här flytten flyttas alla andra poster tillsammans med den.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Välj det nya startdatumet.
+1. Välj datumet [!UICONTROL New Start].
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

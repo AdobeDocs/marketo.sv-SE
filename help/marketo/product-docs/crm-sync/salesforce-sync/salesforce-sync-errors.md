@@ -1,16 +1,16 @@
 ---
-description: Salesforce-synkroniseringsfel - Marketo Docs - produktdokumentation
-title: Salesforce-synkroniseringsfel
+description: Salesforce Sync Errors - Marketo Docs - Produktdokumentation
+title: Salesforce Sync-fel
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
-# Salesforce-synkroniseringsfel {#salesforce-sync-errors}
+# [!DNL Salesforce] Synkroniseringsfel {#salesforce-sync-errors}
 
 Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Detta inkluderar fel som orsakas av fel vid synkronisering av inkompatibla data.
 
@@ -36,11 +36,11 @@ Visa en sammanfattning av de fel som uppstod under synkroniseringsprocessen. Det
 |---|---|
 | Misslyckades | Postnivå _eller_ jobbnivå |
 | Datum/tid för felet | Felinformation |
-| Feltyp | SFDC-returmeddelande |
+| Feltyp | SFDC Return message |
 
 >[!TIP]
 >
->Om du klickar på posten på postnivå visas det relaterade objektets Marketo- och Salesforce-ID. I vissa fall är meddelandet på post- och jobbnivåfelen direkt från Salesforce. Om du söker efter dem online kan du få mer information.
+>Om du klickar på posten på postnivå visas det relaterade objektets Marketo- och [!DNL Salesforce]-ID. I vissa fall är meddelandet på post- och jobbnivåfelen direkt från [!DNL Salesforce]. Om du söker efter dem online kan du få mer information.
 
 ## Synkroniseringsfel för filter {#filter-sync-errors}
 

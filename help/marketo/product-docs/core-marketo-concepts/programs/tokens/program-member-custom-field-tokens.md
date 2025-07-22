@@ -4,9 +4,9 @@ description: Anpassade fälttoken för programmedlem - Marketo Docs - produktdok
 title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -93,7 +93,7 @@ Du kan infoga token för anpassade fält för programmedlemmar i e-postmeddeland
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Sök efter och välj önskad token för anpassat fält för programmedlem. Ange ett standardvärde och klicka på Infoga.
+1. Sök efter och välj önskad token för anpassat fält för programmedlem. Ange en [!UICONTROL default value] och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

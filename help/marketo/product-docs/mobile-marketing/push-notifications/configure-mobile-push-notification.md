@@ -4,20 +4,20 @@ description: Konfigurera push-meddelanden för mobiler - Marketo Docs - produktd
 title: Konfigurera push-meddelanden för mobilen
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # Konfigurera push-meddelanden för mobilen {#configure-mobile-push-notification}
 
-1. Gå till området **Marknadsföringsaktiviteter**.
+1. Gå till området **[!UICONTROL Marketing Activities]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Markera din push-resurs och klicka på **Redigera utkast**.
+1. Välj din push-resurs och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Om ditt push-meddelande endast gäller för en plattform (t.ex. iOS) kan du utesluta den andra plattformen genom att manuellt skjuta dess väljare till **Inaktiverad**.
 
-1. Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Det finns tre typer av Tap-åtgärder:
+   >Det finns tre typer av [!UICONTROL Tap Actions]:
    >
    >**Starta appen** - **Den här appen** öppnar appens startsida när användaren trycker på meddelandet. **Anpassad** använder en djuplänk för att öppna andra områden i din app eller något annat program som du har länken till (mer information finns i [Deep Link URI:er](#deep-link-uris) nedan).
    >
-   >**Landningssida** - tar dig till en angiven Marketo-landningssida.
+   >**[!UICONTROL Landing Page]** - tar dig till en angiven Marketo-landningssida.
    >
-   >**Extern URL** - tar dig till en landningssida som inte är Marketo.
+   >**[!UICONTROL External URL]** - tar dig till en landningssida som inte är Marketo.
 
 1. Om du vill infoga en djuplänk för en anpassad knackningsåtgärd väljer du **Anpassad** och anger [djuplänkens URI](#deep-link-uris) i fältet.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Förhandsgranska den andra plattformen och klicka på **Slutför**.
+1. Förhandsgranska den andra plattformen och klicka på **[!UICONTROL Finish]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ En URI med djup länk består av tre delar: schemanamn, sökväg och identifiera
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

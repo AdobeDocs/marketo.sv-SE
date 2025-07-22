@@ -3,10 +3,10 @@ description: Konfigurera ON24-integrering med Marketo - Marketo Docs - produktdo
 title: Konfigurera ON24-integreringen med Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
@@ -16,37 +16,37 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
 ## Skapa en roll enbart för API {#create-an-api-only-role}
 
-1. Klicka på **Admin** i Min Marketo.
+1. Klicka på **[!UICONTROL Admin]** i Min Marketo.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. Klicka på **Användare och roller** under Säkerhet.
+1. Klicka på [!UICONTROL Security] under **[!UICONTROL Users & Roles]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Klicka på fliken **Roller** och sedan på **Ny roll**.
+1. Klicka på fliken **[!UICONTROL Roles]** och sedan på **[!UICONTROL New Role]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Ange ett rollnamn. Öppna menyn **Åtkomst-API** och välj&quot;Read-Write Custom Object&quot; och&quot;Read-Write Person&quot;. Klicka på **Skapa**.
+1. Ange [!UICONTROL Role Name]. Öppna menyn **[!UICONTROL Access API]** och välj [!UICONTROL Read-Write Custom Object] och [!UICONTROL Read-Write Person]. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Skapa en ny användare {#create-a-new-user}
 
-1. Klicka på fliken **Användare** och sedan på **Bjud in ny användare** i Användare och roller.
+1. Klicka på fliken [!UICONTROL Users & Roles] i **[!UICONTROL Users]** och klicka sedan på **[!UICONTROL Invite New User]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. Ange den nya användarens information och klicka på **Nästa**.
+1. Ange den nya användarens information och klicka på **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Välj den roll för endast ON24 API som du nyss skapade. Markera kryssrutan **Endast API**. Klicka på **Nästa**.
+1. Markera [!UICONTROL ON24 API Only Role (all workspaces)] som du nyss skapade. Markera kryssrutan **[!UICONTROL API Only]**. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Klicka på **Skicka**.
+1. Klicka på **[!UICONTROL Send]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,31 +56,31 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
 ## Konfigurera ON24-anslutning {#set-up-on24-connection}
 
-1. Klicka på **LaunchPoint** i administratörsavsnittet.
+1. Klicka på [!UICONTROL Admin] i avsnittet **[!UICONTROL LaunchPoint]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Klicka på **Ny** och sedan på **Ny tjänst**.
+1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Service]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Välj ett visningsnamn. Klicka på listrutan **Tjänst** och välj **Egen**. Ange en beskrivning. Klicka på listrutan Endast API-användare och välj den användare som du skapade [ i stegen ovan](#create-a-new-user). Klicka på **Skapa**.
+1. Välj en [!UICONTROL display name]. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]**. Ange [!UICONTROL description]. Klicka på listrutan [!UICONTROL API Only User] och välj den användare du skapade [ i stegen ovan](#create-a-new-user). Klicka på **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. Hitta den anpassade LaunchPoint-tjänst som du just skapade och klicka på Visa detaljer.
+1. Sök efter den anpassade [!DNL LaunchPoint]-tjänsten som du just skapade och klicka på [!UICONTROL View Details].
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. Markera, högerklicka, kopiera och spara klient-ID:t (du behöver det senare). Upprepa för Klienthemlighet.
+1. Markera, högerklicka, kopiera och spara [!UICONTROL Client ID] (du behöver det senare). Upprepa för [!UICONTROL Client Secret].
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
-1. Klicka på Webbtjänster i trädet till vänster.
+1. Klicka på **[!UICONTROL Web Services]** i trädet till vänster.
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. Under REST API markerar du, högerklickar, kopierar och sparar den första delen av Identity (fram till &#39;m&#39; på .com).
+1. Under [!UICONTROL REST API] markerar du, högerklickar, kopierar och sparar den första delen av [!UICONTROL Identity] (fram till &quot;m&quot; på .com).
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

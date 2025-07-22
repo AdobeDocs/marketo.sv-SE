@@ -4,9 +4,9 @@ description: Schemalägg ditt e-postprogram - Marketo Docs - produktdokumentatio
 title: Schemalägg ditt e-postprogram
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 När ditt e-postprogram har skapats, målgruppen har definierats och e-postmeddelandet har valts, vill du tala om för ditt program *när* ska skicka e-postmeddelandet. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Ange datumet under rutan **Schema**.
+1. Ange datumet under rutan **[!UICONTROL Schedule]**.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ När ditt e-postprogram har skapats, målgruppen har definierats och e-postmedde
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Du kan också välja att använda funktionerna [Mottagarens tidszon](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [Huvudstart](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
+1. Du kan också välja att använda funktionerna [[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) och/eller [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

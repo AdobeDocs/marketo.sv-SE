@@ -3,9 +3,9 @@ description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Om värdet är true skickas följande tokenkontexter till den underordnade kampa
 
 **API-interaktion**
 
-När du använder Schedule eller Request Campaign [ i API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
+När du använder Schedule eller Request Campaign [ i API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
 
 ## Saker att notera {#things-to-note}
 
@@ -89,7 +89,7 @@ Barnets kampanj är Mina token.
 
 ### Exempel ett - sant {#example-one-true}
 
-I steget Kör kampanjflöde i den första överordnade kampanjen är&quot;Använd överordnad kampanjtokenkontext&quot; inställd på **True**.
+I steget Kör kampanj i den första överordnade kampanjen är [!UICONTROL Use Parent Campaign Token Context] inställt på **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

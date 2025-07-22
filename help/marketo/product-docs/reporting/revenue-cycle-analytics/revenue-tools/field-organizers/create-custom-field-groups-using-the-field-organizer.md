@@ -4,10 +4,10 @@ description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs 
 title: Skapa anpassade fältgrupper med fältorganiseraren
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 0%
+source-wordcount: '951'
+ht-degree: 1%
 
 ---
 
@@ -36,19 +36,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - Strängredigeraren {#create-custom-field-group-string-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka på **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och markera ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Land används här.
+1. Klicka på **[!UICONTROL Field]** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). [!UICONTROL Country] används här.
 
    ![](assets/three.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/five.png)
 
-1. Som standard placeras alla datavärden i undergruppen&quot;Annat&quot;. Om du vill kategorisera datavärdena klickar du på **Lägg till grupp** för att skapa en undergrupp och ge den ett namn.
+1. Som standard placeras alla datavärden i undergruppen [!UICONTROL Other]. Om du vill kategorisera datavärdena klickar du på **[!UICONTROL Add Group]** för att skapa en undergrupp och ge den ett namn.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    >[!NOTE]
    >
-   >Om du vill ta bort en undergrupp klickar du bara på det röda X:et bredvid undergruppens namn. Om det finns datavärden i gruppen flyttas datavärdena till standardgruppen Andra.
+   >Om du vill ta bort en undergrupp klickar du bara på det röda X:et bredvid undergruppens namn. Om det finns datavärden i gruppen flyttas datavärdena till standardgruppen [!UICONTROL Other].
 
 1. Markera ett eller flera datavärden på arbetsytan och dra och släpp datavärdena i lämplig undergrupp.
 
@@ -92,19 +92,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - heltalsredigerare {#create-custom-field-group-integer-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka på **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och markera ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Årsintäkt används här.
+1. Klicka på **[!UICONTROL Field]** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). [!UICONTROL Annual Revenue] används här.
 
    ![](assets/nine.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/9.6.png)
 
-1. Klicka på det anpassade gruppnamnet som är standard ovanför heltalsredigeraren för att anpassa namnet. Du kan till exempel byta namn på Årlig intäktsgrupp till Årlig intäkt efter storlek. Klicka på **Spara**.
+1. Klicka på det anpassade gruppnamnet som är standard ovanför heltalsredigeraren för att anpassa namnet. Du kan till exempel byta namn på Årlig intäktsgrupp till Årlig intäkt efter storlek. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
    Med heltalsredigeraren kan du skapa flera undergrupper för att definiera varje undergrupp efter storlek. I det här exemplet kommer tre grupper att skapas för små, Medium och Enterprise.
 
-1. Om du vill lägga till din första grupp anger du ett namn i fältet **Gruppnamn** (exempel: Liten) och anger ett maxvärde i fältet **Gruppintervall** (exempel: 20000). Klicka på **Lägg till grupp**.
+1. Om du vill lägga till din första grupp anger du ett namn i fältet **[!UICONTROL Group Name]** (exempel: Liten) och anger ett maxvärde i fältet **[!UICONTROL Group Range]** (exempel: 20000). Klicka på **[!UICONTROL Add Group]**.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
 ## Skapa anpassad fältgrupp - datumredigerare {#create-custom-field-group-date-editor}
 
-1. Klicka på **Leaddatabas**.
+1. Klicka på **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klicka på **Ny** och välj **Ny fältorganisatör**.
+1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Klicka på **Fält** och markera ett standardfält eller anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). Anskaffningsdatum används här.
+1. Klicka på **[!UICONTROL Field]** och välj ett standardfält eller ett anpassat fält med en datatyp som mappar till strängredigeraren (se tabellen i föregående avsnitt). [!UICONTROL Acquisition Date] används här.
 
    ![](assets/fourteen.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ I följande tre avsnitt beskrivs hur du skapar en anpassad fältgrupp för en st
 
    ![](assets/14.6.png)
 
-1. Klicka på det anpassade gruppnamnet som är standard ovanför datumredigeraren för att anpassa namnet. Du kan till exempel ändra namnet&quot;Inköpsdatumgrupp&quot; till&quot;Inköpsdatumkategorier&quot;. Klicka på **Spara**.
+1. Klicka på det anpassade gruppnamnet som är standard ovanför datumredigeraren för att anpassa namnet. Du kan till exempel ändra namnet&quot;Inköpsdatumgrupp&quot; till&quot;Inköpsdatumkategorier&quot;. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/fifteen.png)
 
    Med datumredigeraren kan du skapa flera undergrupper och definiera varje undergrupp efter datum. I det här exemplet skapas tre grupper: Q1-15 Leads, Q2-15 Leads och Q3-15 Leads.
 
-1. Om du vill lägga till din första grupp anger du ett namn i fältet **Gruppnamn** (exempel: Q1-15 Leads) och anger ett datum i datumfältet som representerar det datum då leadet förvärvades den eller tidigare (exempel: 3/31/2015 för den sista dagen i Q1-15). Klicka på **Lägg till grupp**.
+1. Om du vill lägga till din första grupp anger du ett namn i fältet **[!UICONTROL Group Name]** (exempel: Q1-15 Leads) och ett datum i datumfältet som representerar det datum då leadet förvärvades den eller tidigare (exempel: 3/31/2015 för den sista dagen i Q1-15). Klicka på **[!UICONTROL Add Group]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >Du kan lägga till upp till tio undergrupper för att kategorisera datavärdena. Varje gruppintervallpost bygger på föregående post. Om du lämnar den sista gruppintervallposten tom för den sista anpassade undergruppen som du skapar, kommer inget slutdatumvärde att anges.
+   >Du kan lägga till upp till tio undergrupper för att kategorisera datavärdena. Varje [!UICONTROL Group Range]-post bygger på den föregående posten. Om du lämnar den sista [!UICONTROL Group Range]-posten tom för den sista anpassade undergruppen som du skapar, kommer inget slutdatumvärde att anges.
 
    I exemplet nedan visas en post för Q1 2015 som leder genom Q3.
 

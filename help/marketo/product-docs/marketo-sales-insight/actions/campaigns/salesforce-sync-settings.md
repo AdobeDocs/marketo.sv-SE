@@ -1,133 +1,133 @@
 ---
 description: Salesforce Sync Settings - Marketo Docs - produktdokumentation
-title: Synkroniseringsinställningar för Salesforce
+title: Salesforce Sync Settings
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 350490c93d8f2bcc278f9f3e82018a1db91a1146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 0%
+source-wordcount: '574'
+ht-degree: 1%
 
 ---
 
-# Synkroniseringsinställningar för Salesforce {#salesforce-sync-settings}
+# [!DNL Salesforce] Synkronisera inställningar {#salesforce-sync-settings}
 
-## Logga e-postaktivitet till Salesforce via API {#logging-email-activity-to-salesforce-via-api}
+## Loggar e-postaktivitet till [!DNL Salesforce] via API {#logging-email-activity-to-salesforce-via-api}
 
-Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av Salesforce eller Professional Edition om du har köpt Integration via Web Services API.
+Den här funktionen kräver att du finns i Enterprise/Unlimited Edition av [!DNL Salesforce] eller Professional Edition om du har köpt Integration via Web Services API.
 
 >[!PREREQUISITES]
 >
->Salesforce- och Sales Insight-åtgärder måste vara kopplade.
+>[!DNL Salesforce] och [!DNL Sales Insight Actions] måste vara anslutna.
 
-1. Klicka på kugghjulsikonen i Åtgärder för säljinsikter och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [!DNL Sales Insight Actions] och välj **[!UICONTROL Settings]**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
+1. Klicka på [!UICONTROL Admin Settings] under [!UICONTROL My Account] (eller **[!UICONTROL Salesforce]** om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-2.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-3.png)
 
-1. Klicka på pilen bredvid Logga e-postaktivitet till Salesforce.
+1. Klicka på pilen bredvid [!UICONTROL Log Email Activity] till [!DNL Salesforce].
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. Klicka på fliken **Salesforce API**. På det här kortet kan du ange din inställning för att logga information till Salesforce. Klicka på **Spara** när du är klar.
+1. Klicka på fliken **[!UICONTROL Salesforce API]**. På det här kortet kan du ange din inställning för loggningsinformation till [!DNL Salesforce]. Klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/salesforce-sync-settings-5.png)
 
-## Loggning av e-postaktivitet till Salesforce via e-post till Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## Loggar e-postaktivitet till [!DNL Salesforce] via e-post till [!DNL Salesforce] (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-När du har aktiverat&quot;E-post till Salesforce (BCC)&quot; får du en kopia av dina säljmeddelanden och dina e-postmeddelanden loggas som aktiviteter på affärsmöjligheter, leads och kontakter.
+När du har aktiverat [!UICONTROL Email to Salesforce (BCC)] får du en kopia av dina säljmeddelanden och dina e-postmeddelanden loggas som aktiviteter på affärsmöjligheter, leads och kontakter.
 
 >[!PREREQUISITES]
 >
->Salesforce- och Sales Insight-åtgärder måste vara kopplade.
+>[!DNL Salesforce] och [!DNL Sales Insight Actions] måste vara anslutna.
 
-**Logga dina e-postmeddelanden i Salesforce via e-post (BCC)**
+**Logga in dina e-postmeddelanden i [!DNL Salesforce] via e-post (BCC)**
 
-1. Klicka på kugghjulsikonen i Marketo Sales och välj **Settings**.
+1. I Marketo Sales klickar du på kugghjulsikonen och väljer **[!UICONTROL Settings]**.
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
+1. Klicka på [!UICONTROL Admin Settings] under [!UICONTROL My Account] (eller **[!UICONTROL Salesforce]** om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-7.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-8.png)
 
-1. Klicka på fliken **E-post till Salesforce (BCC)** och klicka på **Aktivera**.
+1. Klicka på fliken **[!UICONTROL Email to Salesforce (BCC)]** och klicka på **[!UICONTROL Activate]**.
 
    ![](assets/salesforce-sync-settings-9.png)
 
-Om din e-postadress till Salesforce inte kommer in av någon anledning, följer du de här stegen för att aktivera funktionen Kontroll av webbläsarkompatibilitet i ditt Salesforce-konto:
+Om din e-postadress till [!DNL Salesforce] av någon anledning inte kommer in följer du de här stegen för att aktivera funktionen Hemlig kopia i ditt [!DNL Salesforce]-konto:
 
-1. Logga in på din Salesforce-instans.
+1. Logga in på din [!DNL Salesforce]-instans.
 1. Hitta ditt användarnamn i det övre högra hörnet och välj listrutan.
-1. Välj **Mina inställningar**.
-1. Välj **E-post**.
-1. Välj **Min e-post till Salesforce**.
-1. På den här sidan visas ett fält med namnet&quot;E-post till Salesforce-adress&quot;. Om inget fylls i bredvid det bläddrar du nedåt till&quot;Mina godkända e-postadresser&quot;.
+1. Välj **[!UICONTROL My Settings]**.
+1. Välj **[!UICONTROL Email]**.
+1. Välj **[!UICONTROL My Email to Salesforce]**.
+1. På den här sidan visas ett fält med namnet [!UICONTROL Email to Salesforce Address]. Bläddra nedåt till [!UICONTROL My Acceptable Email Addresses] om inget fylls i bredvid det.
 1. Ange den eller de e-postadresser som du vill ska kopieras.
-1. Klicka på **Spara ändringar**.
+1. Klicka på **[!UICONTROL Save Changes]**.
 
-**Kan inte hitta min e-post till Salesforce i Mina inställningar**
+**Det går inte att hitta min e-postadress till [!DNL Salesforce] i Mina inställningar**
 
-Om du inte ser Min e-post till Salesforce under dina inställningar har administratören kanske inte aktiverat den. Det här kan hända om ditt team inte har använt Salesforce tidigare, eller om ditt team aldrig har använt den BCC-adress som Salesforce erbjuder.
+Om du inte ser Min e-post till [!DNL Salesforce] under dina inställningar har administratören kanske inte aktiverat den. Detta kan inträffa om ditt team inte har använt [!DNL Salesforce] tidigare eller om ditt team aldrig har använt den hemkontrolladress som [!DNL Salesforce] tillhandahåller.
 
 >[!NOTE]
 >
 >Du måste ha administratörsbehörighet för att kunna konfigurera detta.
 
-1. Klicka på **Konfigurera**.
-1. Klicka på **E-postadministration**.
-1. Klicka på **Skicka e-post till Salesforce**.
-1. Klicka på **Redigera**.
+1. Klicka på **[!UICONTROL Setup]**.
+1. Klicka på **[!UICONTROL Email Administration]**.
+1. Klicka på **[!UICONTROL Email to Salesforce]**.
+1. Klicka på **[!UICONTROL Edit]**.
 1. Markera rutan bredvid&quot;Aktiv&quot;.
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
-## Synkronisera uppgifter/påminnelser för försäljningsinsikter till Salesforce-uppgifter {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
+## Synkronisera [!DNL Sales Insight Actions] aktiviteter/påminnelser till [!DNL Salesforce] uppgifter {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Klicka på kugghjulsikonen i Åtgärder för säljinsikter och välj **Inställningar**.
+1. Klicka på kugghjulsikonen i [!DNL Sales Insight Actions] och välj **[!UICONTROL Settings]**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Klicka på **Salesforce** under Administratörsinställningar (eller &quot;Mitt konto&quot; om du inte är administratör).
+1. Klicka på [!UICONTROL Admin Settings] under [!UICONTROL My Account] (eller **[!UICONTROL Salesforce]** om du inte är administratör).
 
    ![](assets/salesforce-sync-settings-11.png)
 
-1. Klicka på fliken **Synkronisera inställningar**.
+1. Klicka på fliken **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-12.png)
 
-1. Klicka på pilen bredvid Synkronisera Marketo säljuppgifter/påminnelser till Salesforce-uppgifter.
+1. Klicka på pilen bredvid Synkronisera Marketo säljaktiviteter/påminnelser till [!DNL Salesforce] aktiviteter.
 
    ![](assets/salesforce-sync-settings-13.png)
 
-1. Välj önskat alternativ (&quot;Synkronisera inte till Salesforce-uppgifter&quot; är valt som standard).
+1. Välj önskat alternativ (&quot;Synkronisera inte till [!DNL Salesforce] uppgifter&quot; är valt som standard).
 
    ![](assets/salesforce-sync-settings-14.png)
 
-## Synkronisera åtgärder för försäljningsinsikter med Salesforce för första gången {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+## Synkroniserar [!DNL Sales Insight Actions] aktiviteter med [!DNL Salesforce] för första gången {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
-När du först aktiverar synkroniseringen mellan Sales Insight-åtgärder och Salesforce-uppgifter importerar vi dina Salesforce-uppgifter. Vi kommer inte att föra över några aktuella uppgifter som du har i Sales Insight Actions till Salesforce. För att minska problem och dubbletter är de enda uppgifter som synkroniseras från Sales Insight Actions till Salesforce uppgifter som skapas efter att du har synkroniserat Sales Insight Actions med SFDC.
+När du först aktiverar synkroniseringen mellan [!DNL Sales Insight Actions] och [!DNL Salesforce] aktiviteter importerar vi dina [!DNL Salesforce]-aktiviteter. Vi kommer inte att föra över några aktuella uppgifter som du har i [!DNL Sales Insight Actions] till [!DNL Salesforce]. För att undvika rörighet och dubbletter är de enda uppgifter som synkroniseras från [!DNL Sales Insight Actions] till [!DNL Salesforce] uppgifter som skapas efter att du har synkroniserat [!DNL Sales Insight Actions] med SFDC.
 
-Det här händer när du synkroniserar Sales Insight-åtgärder och SFDC-åtgärder:
+Det här händer när du synkroniserar [!DNL Sales Insight Actions]- och SFDC-uppgifter:
 
 När du klickar på Spara för uppgifter synkroniseras de om. Det här kommer att ta en stund från början.
 
-Påminnelser som har uppdaterats eller skapats under de senaste 24 timmarna hämtas in från SFDC till Sales Insight Actions. Synkroniseringen baseras på förfallodatum och alla dessa uppgifter synkroniseras på baksidan, men i kommandocentralen visas endast uppgifter som förfaller idag och imorgon.
+Påminnelser som har uppdaterats eller skapats under de senaste 24 timmarna hämtas in från SFDC till [!DNL Sales Insight Actions]. Synkroniseringen baseras på förfallodatum och alla dessa uppgifter synkroniseras på baksidan, men i kommandocentralen visas endast uppgifter som förfaller idag och imorgon.
 
-Om synkronisering har aktiverats tidigare och du tar bort några uppgifter i SFDC, tas allt som har tagits bort de senaste 15 dagarna bort från kommandocentralen.
+Om synkronisering har aktiverats tidigare och du tar bort åtgärder i SFDC, tas allt som har tagits bort de senaste 15 dagarna bort från kommandocentralen.
 
-Vi synkroniserar kontinuerligt uppgifter mellan Sales Insight Actions och SFDC så länge synkroniseringen är aktiverad.
+Vi synkroniserar kontinuerligt uppgifter mellan [!DNL Sales Insight Actions] och SFDC så länge synkroniseringen är aktiverad.
 
-Efter den första synkroniseringen kommer alla uppgifter som du skapar, redigerar, slutför eller tar bort i Sales Insight-åtgärder att synkroniseras med din uppgiftslista i Salesforce. Och allt som har skapats, redigerats, slutförts eller tagits bort i Salesforce kommer att uppdatera din uppgiftslista i Sales Insight-åtgärder.
+Efter den första synkroniseringen kommer alla uppgifter du skapar, redigerar, slutför eller tar bort i [!DNL Sales Insight Actions] att synkroniseras till din uppgiftslista i [!DNL Salesforce]. Och allt som har skapats, redigerats, slutförts eller tagits bort i [!DNL Salesforce] kommer att uppdatera din uppgiftslista i [!DNL Sales Insight Actions].
 
-Om du vill aktivera synkroniseringen markerar du bara synkroniseringsrutan på sidan Inställningar i webbprogrammet.
+Om du vill aktivera den här synkroniseringen markerar du bara synkroniseringsrutan på [!UICONTROL Settings]-sidan i webbprogrammet.

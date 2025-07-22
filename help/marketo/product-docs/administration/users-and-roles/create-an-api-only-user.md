@@ -4,20 +4,20 @@ description: Skapa en användare med endast API - Marketo Docs - produktdokument
 title: Skapa endast en API-användare
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '172'
 ht-degree: 2%
 
 ---
 
 # Skapa endast en API-användare {#create-an-api-only-user}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} måste du skapa en användare som bara har API. Så här gör du.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} måste du skapa en användare som bara har API. Så här gör du.
 
 >[!IMPORTANT]
 >
->Om du skapar Endast API-användare i en prenumeration som har konverterats till Adobe Identity, är dina steg olika och [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Om du skapar Endast API-användare i en prenumeration som har överförts till Adobe Identity, är dina steg olika och [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.c
 
    >[!TIP]
    >
-   >Lägg till en valfri orsak eller ett förfallodatum för åtkomst. Utgångsdatumet är praktiskt för korttidsanställda.
+   >Lägg till ett valfritt [!UICONTROL Reason]- eller [!UICONTROL Access Expiration]-datum. Utgångsdatumet är praktiskt för korttidsanställda.
 
 1. Markera rollen **[!UICONTROL API Only]** och markera kryssrutan **[!UICONTROL API Only]**. Klicka på **[!UICONTROL Next]**.
 

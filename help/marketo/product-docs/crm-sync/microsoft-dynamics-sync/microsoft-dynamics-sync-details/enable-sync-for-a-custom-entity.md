@@ -4,16 +4,16 @@ description: Aktivera synkronisering för en anpassad enhet - Marketo Docs - pro
 title: Aktivera synkronisering för en anpassad entitet
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # Aktivera synkronisering för en anpassad entitet {#enable-sync-for-a-custom-entity}
 
-Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Marketo Engage, så här aktiverar du synkroniseringen för den. **Administratörsbehörighet krävs**.
+Om du vill att anpassade entitetsdata från [!DNL Dynamics] ska vara tillgängliga i Marketo gör du så här för att aktivera synkronisering för den.
 
 >[!PREREQUISITES]
 >
@@ -40,11 +40,11 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
    >
    >Du måste inaktivera den globala synkroniseringen tillfälligt för att aktivera eller inaktivera en anpassad entitet.
 
-1. Klicka på **[!UICONTROL Dynamics Entities Sync]** under Databashantering.
+1. Klicka på länken [!UICONTROL Database Management] under **[!UICONTROL Dynamics Entities Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klicka på **[!UICONTROL Sync schema]**.
+1. Klicka på länken **[!UICONTROL Sync schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Om du vill att anpassade entitetsdata från Dynamics ska vara tillgängliga i Ma
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Markera de fält som du vill synkronisera eller använda som [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} och/eller utlösare (för poster som lagts till, _inte_ uppdaterat) i smarta listor. När du är klar klickar du på **[!UICONTROL Enable Sync]**.
+1. Markera de fält som du vill synkronisera eller använda som [begränsningar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) och/eller utlösare i smarta listor. När du är klar klickar du på **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 

@@ -4,9 +4,9 @@ description: Skapa en e-postanalysrapport som listar leads - Marketo Docs - prod
 title: Skapa en e-postanalysrapport som listar leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,33 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads 
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
 >Datamotorn som stöder RCA för e-postanalys ignorerar fler än 12 klick per person om de kommer från samma e-post och kampanj. Ta hänsyn till detta när du jämför e-postanalysrapporter med vanliga Marketo Analytics-rapporter.
 
-1. Starta **intäktsutforskaren**.
+1. Starta **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Klicka på **Skapa ny** och sedan på **Rapport**.
+1. Klicka på **[!UICONTROL Create New]** och sedan på **[!UICONTROL Report]**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Välj E-postanalys och klicka på **OK**.
+1. Markera **[!UICONTROL Email Analysis]** och klicka på **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Leta reda på den gula punkten för e-postnamnet, högerklicka på den och välj **Filter**.
+1. Hitta den **[!UICONTROL Email Name]** gula punkten, högerklicka på den och välj **[!UICONTROL Filter...]**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Dubbelklicka på den e-postadress du vill använda i listan och klicka på **OK**.
+1. Dubbelklicka på den e-postadress du vill använda i listan och klicka på **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Dra den gula punkten **E-postnamnet** till **Kolumner**.
+1. Dra den **[!UICONTROL Email Name]** gula punkten till **[!UICONTROL Columns]**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Följ de här stegen för att skapa en e-postanalysrapport som visar alla leads 
    >
    >Det finns många lead-/företagsattribut som du kan lägga till som kolumner, checka ut dem!
 
-1. Hitta den gula punkten **Fullständigt namn** och dra den till **Rader**.
+1. Hitta den **[!UICONTROL Full Name]** gula punkten och dra den till **[!UICONTROL Rows]**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Lägg till de **mått** du är intresserad av genom att dubbelklicka på dem.
+1. Lägg till **[!UICONTROL Measures]** som du är intresserad av genom att dubbelklicka på dem.
 
    ![](assets/report-that-lists-leads-8.png)
 

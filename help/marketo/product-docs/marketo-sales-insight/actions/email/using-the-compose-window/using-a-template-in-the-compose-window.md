@@ -3,9 +3,9 @@ description: Använda en mall i dispositionsfönstret - Marketo Docs - produktdo
 title: Använda en mall i dispositionsfönstret
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Söka efter och använda mallar {#finding-and-using-templates}
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Fyll i fältet Till.
+1. Fyll i fältet [!UICONTROL To].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Välj en kategori att söka i (eller markera Alla om du vill söka i alla kategorier).
+1. Välj en kategori att söka i (eller välj [!UICONTROL All] om du vill söka i alla kategorier).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst till dina mest använda mallar.
 
-1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **Disponera** i sidhuvudet).
+1. Skapa ditt e-postutkast (det finns flera sätt att göra detta, i det här exemplet väljer vi **[!UICONTROL Compose]** i sidhuvudet).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Klicka på ikonen **+** bredvid Favoriter.
+1. Klicka på ikonen **+** bredvid [!UICONTROL Favorites].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klicka på listrutan **Fäst en kategori** och välj önskad kategori.
+1. Klicka på listrutan **[!UICONTROL Pin a Category]** och välj önskad kategori.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ Använd **upp till fem** specifika mallkategorier för att få snabb åtkomst ti
 
    >[!NOTE]
    >
-   >**Favoriter** finns som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
+   >**[!UICONTROL Favorites]** finns där som standard. Den innehåller e-postmallar för favoriter, inte kategorier.
 
    Den valda kategorin är nu fäst.

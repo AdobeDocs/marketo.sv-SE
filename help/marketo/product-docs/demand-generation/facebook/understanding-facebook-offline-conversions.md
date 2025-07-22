@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11383945
 description: Understanding Facebook Offline Conversions - Marketo Docs - Product Documentation
-title: Förstå Facebook offlinekonverteringar
+title: Förstå offlinekonverteringar för Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Förstå Facebook offlinekonverteringar {#understanding-facebook-offline-conversions}
+# Förstå konverteringar offline för [!DNL Facebook] {#understanding-facebook-offline-conversions}
 
-Facebook Lead Ads-kampanjer genererar leads och skickar dem till Marketo för användning i marknadsföringskampanjer. Utan synlighet i offlinekonverteringar kan Facebook annonsörer dock inte veta vilka annonser som är mest effektiva. Här är ett exempel.
+Leadannonskampanjer på Facebook genererar leads och skickar dem till Marketo för användning i marknadsföringskampanjer. Utan synlighet i offlinekonverteringar kan annonseraren [!DNL Facebook] inte veta vilka annonser som är mest effektiva. Här är ett exempel.
 
 >[!NOTE]
 >
 >**Exempel**
 >
->Facebook Lead Ads har tre annonser.
+>[!UICONTROL Facebook Lead Ads] kör tre annonser.
 >
 >* Annons 1 genererar 20 leads
 >* Annons 2 genererar 30 leads
@@ -36,12 +36,12 @@ Facebook Lead Ads-kampanjer genererar leads och skickar dem till Marketo för an
 >
 >Utan offlinekonverteringar skulle annonsören förmodligen investera mer i annons 3. Med konverteringsdata offline kommer annonsören mer sannolikt att investera i annons 1.
 
-Du kan [konfigurera Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till Facebook.
+Du kan [konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till [!DNL Facebook].
 
-1. Kontrollera att [Facebook LaunchPoint-integreringen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
-1. Mappa faser i intäktscykelmodellen till offlinekonverteringsfaser i Facebook.
-1. När en Facebook-lead genereras från en Facebook Lead Ad och når en mappad fas skickar Marketo tillbaka konverteringsdata till Facebook flera gånger dagligen via ett säkert, automatiserat API. Data visas i Facebook Ads Manager Report.
+1. Kontrollera att [[!DNL Facebook] [!UICONTROL LaunchPoint]-integreringen ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
+1. Mappa faser i din intäktscykelmodell till offlinekonverteringsfaser på [!DNL Facebook].
+1. När en [!DNL Facebook]-lead genereras från en [!DNL Facebook]-lead-annons och når en mappad fas skickar Marketo tillbaka offlinekonverteringsdata till [!DNL Facebook] flera gånger dagligen via ett säkert, automatiserat API. Data visas i rapporten [!DNL Facebook] Ads Manager.
 
 >[!MORELIKETHIS]
 >
->[Konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[Konfigurera [!DNL Facebook] offlinekonverteringar](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

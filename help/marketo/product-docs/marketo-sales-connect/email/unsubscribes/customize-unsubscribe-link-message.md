@@ -4,9 +4,9 @@ description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokument
 title: Anpassa meddelande om att avbryta prenumeration på länk
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
 
 >[!NOTE]
 >
->Du kan inte använda en länk för att avbryta prenumerationen från tredje part med Sales Connect eftersom den här informationen inte kommer att hämtas tillbaka till vår databas.
+>Du kan inte använda en länk för att avbryta prenumerationen från tredje part med [!DNL Sales Connect] eftersom den här informationen inte kommer att hämtas tillbaka till vår databas.
 
 ## Anpassa meddelanden för dig själv {#customize-messaging-for-yourself}
 
-1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Välj **Avbeställ** under Mitt konto.
+1. Välj [!UICONTROL My Account] under **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Vi har alltid tillåtit team att anpassa sina länkmeddelanden för att avbryta 
    >
    >Det spelar ingen roll vilken URL:en är som hyperlänkas. När e-postmeddelandet skickas konverteras hyperlänken till länken för att avbryta prenumerationen.
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/five.png)
 
 ## Ange avbeställningsmeddelanden för ditt team {#set-unsubscribe-messaging-for-your-team}
 
-1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen i det övre högra hörnet och välj **Inställningar**.
+1. Logga in på [webbprogrammet](https://toutapp.com/login), klicka på kugghjulsikonen uppe till höger och välj **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 
-1. Välj **Avsluta prenumeration** under Administratörsinställningar.
+1. Välj [!UICONTROL Admin Settings] under **[!UICONTROL Unsubscribes]**.
 
    ![](assets/eight.png)
 
-1. Anpassa meddelandet och klicka på **Spara** när du är klar.
+1. Anpassa meddelandet och klicka på **[!UICONTROL Save]** när du är klar.
 
    ![](assets/seven.png)
 
-1. Välj **Jag ställer in standardmeddelandet för mitt team** så att meddelandet gäller för alla användare.
+1. Välj **[!UICONTROL I am setting the default messaging for my team]** om du vill att meddelandet ska gälla för alla användare.
 
    ![](assets/eleven.png)

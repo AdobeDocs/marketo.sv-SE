@@ -4,9 +4,9 @@ description: Skapa en token för e-postskript - Marketo Docs - produktdokumentat
 title: Skapa en e-postskripttoken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.apache.org/engine/1.7/user-guide.html) i dina e-postmeddelanden. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.a
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under fliken **Mina token** drar du i en **e-postskripttoken** .
+1. Dra en **[!UICONTROL My Tokens]**-token under fliken **[!UICONTROL Email Script]**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Namnge din e-postskripttoken och **klicka för att redigera** dess innehåll.
+1. Namnge din e-postskripttoken och **[!UICONTROL Click to Edit]** dess innehåll.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Använd trädet till höger för att dra i tokens för **person, möjlighet** eller **anpassat objekt**.
+1. Använd trädet till höger för att dra i **[!UICONTROL Person]**, **[!UICONTROL Opportunity]** eller **[!UICONTROL Custom Object]** token.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.a
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)
+   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för snabbhet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Snabbhetsverktyg, JavaScript](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Klicka på **Spara** när skriptet är klart.
+1. När skriptet är klart klickar du på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klicka på **Spara** en gång till.
+1. Klicka på **[!UICONTROL Save]** en gång till.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

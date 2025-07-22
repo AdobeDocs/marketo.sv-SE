@@ -4,9 +4,9 @@ description: Visa person- och kontoinformation och aktiviteter i Google Mail - M
 title: Visa person- och kontoinformation och aktiviteter i Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,9 @@ Klicka på ikonen Marketo för att expandera rutan.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Visa aktiviteter i Google Chrome {#view-activities-in-google-chrome}
+## Visa aktiviteter i [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-Du kan också använda rutan Global aktivitet i Google Chrome för att visa en fullständig lista över de senaste aktiviteterna som har utförts för alla personer som du nyligen har använt. Det här är en uppdatering i realtid som kontinuerligt visar antalet olästa aktiviteter på ikonen.
+Du kan också använda rutan Global aktivitet i [!DNL Google Chrome] för att se en fullständig lista över de senaste aktiviteterna som har utförts för alla personer som du nyligen har kontaktat. Det här är en uppdatering i realtid som kontinuerligt visar antalet olästa aktiviteter på ikonen.
 
 Klicka på ikonen Marketo för att öppna rutan.
 
@@ -49,4 +49,4 @@ Klicka på ikonen Marketo för att öppna rutan.
 
 >[!MORELIKETHIS]
 >
->[Använda Marketo Insights för Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Använda Marketo Insights för [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

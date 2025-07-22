@@ -4,9 +4,9 @@ description: Importera medlemmar från ett kalkylblad till ett program - Marketo
 title: Importera medlemmar från ett kalkylblad till ett program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Du kan importera en lista över personer som automatiskt blir medlemmar i ett pr
 
 ## Förbered din CSV-fil {#prepare-your-csv-file}
 
-1. Skapa en CSV-standardfil i Excel, som i exemplet nedan.
+1. Skapa en standard-CSV-fil i [!DNL Excel], som i exemplet nedan.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 

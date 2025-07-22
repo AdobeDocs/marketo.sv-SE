@@ -4,9 +4,9 @@ description: Dela samtalsinspelningar med teamet - Marketo Docs - produktdokumen
 title: Dela samtalsinspelningar med ditt team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Med en telefonförsäljning kan du spela in och spara dina samtalsinspelningar. 
 
 1. Öppna personuppgifterna.
 
-1. Sök efter samtalsaktiviteten i aktivitetslistan.
+1. Hitta [!UICONTROL Call Activity] under aktivitetslistan.
 
 1. Högerklicka på samtalsinspelningen och kopiera länkens URL.
 
-## Kopiera inspelningslänk från Salesforce-aktiviteten {#copy-recording-link-from-the-salesforce-task}
+## Kopiera inspelningslänk från aktiviteten [!DNL Salesforce] {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Du måste logga dina samtal till Salesforce för att få tillgång till den här länken.
+>Du måste logga in på [!DNL Salesforce] för att kunna få tillgång till den här länken.
 
-1. Navigera till uppgiften som skapats i Salesforce för anropet.
+1. Navigera till uppgiften som skapades i [!DNL Salesforce] för samtalet.
 
 1. Kopiera länken som visas i fältet Försäljningssamtalsinspelning.
 

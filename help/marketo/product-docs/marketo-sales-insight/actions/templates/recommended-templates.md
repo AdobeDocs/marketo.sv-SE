@@ -3,18 +3,18 @@ description: Rekommenderade mallar - Marketo Docs - produktdokumentation
 title: Rekommenderade mallar
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
 # Rekommenderade mallar {#recommended-templates}
 
-Sales Insight Action’s Recommended Templates hjälper dig att få rätt budskap samtidigt som du sparar tid. Detta ger ett större flöde när du skickar e-post och minskar osäkerheten när du försöker hitta rätt e-post för rätt person.
+[!DNL Sales Insight Action]s rekommenderade mallar hjälper dig att få rätt meddelanden samtidigt som du sparar tid. Detta ger ett större flöde när du skickar e-post och minskar osäkerheten när du försöker hitta rätt e-post för rätt person.
 
-1. Gå till fliken Mallar.
+1. Gå till fliken **[!UICONTROL Templates]**.
 
    ![](assets/recommended-templates-1.png)
 
@@ -22,11 +22,11 @@ Sales Insight Action’s Recommended Templates hjälper dig att få rätt budska
 
    ![](assets/recommended-templates-2.png)
 
-1. Klicka på **Redigera** på det rekommenderade mallkortet.
+1. Klicka på [!UICONTROL Recommended Template] på **[!UICONTROL Edit]**-kortet.
 
    ![](assets/recommended-templates-3.png)
 
-1. Markera kryssrutan **Skapa en rekommenderad mall** och klicka på **Spara**.
+1. Markera kryssrutan **[!UICONTROL Make a Recommended Template]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ Sales Insight Action’s Recommended Templates hjälper dig att få rätt budska
 
 ## Alla jämfört med {#all-vs-any}
 
-Välj **Alla** om du vill att mallen ska rekommenderas när alla villkor är uppfyllda. Välj **Valfri** om du vill att mallen ska rekommenderas när något av villkoren uppfylls.
+Välj **[!UICONTROL All]** om du vill att mallen ska rekommenderas när alla villkor är uppfyllda. Välj **[!UICONTROL Any]** om du vill att mallen ska rekommenderas när något av villkoren uppfylls.
 
 ## Ange villkor {#setting-criteria}
 
@@ -46,13 +46,13 @@ Dina villkor kommer att ange för vilka mallar som ska rekommenderas. Du kan ang
 
 Välj villkor nu. När villkoren för det dynamiska fältet är uppfyllda rekommenderas mallen. Välj mellan fyra olika villkor.
 
-**Lika med**: Värdet måste vara en exakt matchning (t.ex. Marketo är lika med Marketo)
+**[!UICONTROL Equals]**: Värdet måste vara en exakt matchning (t.ex. Marketo är lika med Marketo)
 
-**Är inte lika med**: Värdet måste vara något annat än en exakt matchning (t.ex. är Marketing Nation inte lika med Marketing)
+**[!UICONTROL Does not Equal]**: Värdet måste vara vad som helst men en exakt matchning (t.ex. är Marketing Nation inte lika med Marketing)
 
-**Innehåller**: Endast värdet behöver anges (t.ex. Marketo Rocks! innehåller Marketo)
+**[!UICONTROL Contains]**: Endast behöver innehålla värdet (t.ex. Marketo Rocks!) innehåller Marketo)
 
-**Innehåller inte**: Värdet får inte finnas i det dynamiska fältet (t.ex. Marketo Rocks! innehåller inte häftig)
+**[!UICONTROL Does Not Contain]**: Värdet får inte finnas i det dynamiska fältet (t.ex. Marketo Rocks!) innehåller inte häftig)
 
 ## Så här ser en rekommenderad mall ut {#what-a-recommended-template-looks-like}
 

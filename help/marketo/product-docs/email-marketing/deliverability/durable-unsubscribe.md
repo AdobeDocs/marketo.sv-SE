@@ -4,9 +4,9 @@ description: Hållbart avbrutet abonnemang - Marketo Docs - produktdokumentation
 title: Varaktigt avslut
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ När en ny person skapas kontrolleras den av Marketo mot huvudtabellen för e-po
 
 ## Ändra en e-postadress {#changing-an-email-address}
 
-Om du ändrar e-postadressen för en person till en e-postadress som du inte längre prenumererar på, kommer personen att avbeställa prenumerationen. Den här ändringen kan inträffa i antingen Marketo eller Salesforce.
+Om du ändrar e-postadressen för en person till en e-postadress som du inte längre prenumererar på, kommer personen att avbeställa prenumerationen. Den här ändringen kan inträffa i antingen Marketo eller [!DNL Salesforce].
 
 ## Återprenumerera {#re-subscribing}
 

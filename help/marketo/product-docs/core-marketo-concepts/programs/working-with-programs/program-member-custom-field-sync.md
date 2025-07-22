@@ -3,9 +3,9 @@ description: Synkronisering av anpassade fält för programmedlem - Marketo Docs
 title: Synkronisering av anpassat fält för programmedlem
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Skapar [anpassade programmedlemsfält](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Synkronisera en Salesforce-kampanj med ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Synkronisera en [!DNL Salesforce] kampanj med ett program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
 >Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 
-## Mappa Salesforce-fält till anpassade programmedlemsfält {#map-salesforce-fields-to-program-member-custom-fields}
+## Mappa Salesforce-fält till Anpassade fält för programmedlemmar {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Använd sökrutan för att hitta de Salesforce-fält som du vill mappa. I det här exemplet använder vi Do Not Call.
+1. Använd sökrutan för att hitta de [!DNL Salesforce] fält som du vill mappa. I det här exemplet använder vi Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Välj önskat anpassat fält för Marketo-programmedlem som ska mappas.
+1. Välj önskad Marketo [!UICONTROL Program Member Custom Field] att mappa.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >I listrutan visas endast anpassade fält för programmedlemmar som matchar datatypen för Salesforce-fältet.
+   >Listrutan visar bara [!UICONTROL Program Member Custom Fields] som matchar datatypen för fältet [!DNL Salesforce].
 
 1. Om du vill ha ytterligare fältkopplingar avmarkerar du sökrutan och upprepar steg 3 till 5.
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >Ändringar av programmedlemsdata i mappade fält synkroniseras mellan Marketo och Salesforce framåt.
+   >Ändringar av programmedlemsdata i mappade fält synkroniseras mellan Marketo och [!DNL Salesforce] framåt.
 
    >[!NOTE]
    >
-   >Om du byter namn på eller ändrar datatypen för ett fält i Salesforce tar vi bort alla mappningar av det fältet med det anpassade fältet för programmedlem. Men du kan mappa om det med det nya fältet efter granskning.
+   >Om du byter namn på eller ändrar datatypen för ett fält i [!DNL Salesforce] tar vi bort alla mappningar av det fältet med [!UICONTROL Program Member Custom Field]. Men du kan mappa om det med det nya fältet efter granskning.
 
 ## Ta bort mappning av Salesforce-fält från anpassade programmedlemsfält {#unmap-salesforce-fields-from-program-member-custom-fields}
 
@@ -98,7 +98,7 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
   </colgroup>
   <tbody>
     <tr>
-      <th>SFDC-datatyp</th>
+      <th>SFDC datatyp</th>
       <th>Datatyp för anpassat fält för programmedlem</th>
     </tr>
     <tr>
@@ -160,4 +160,4 @@ Om du vill frigöra ett fält för att ersätta det, eller bara göra en allmän
 >
 >* [Ändra programmedlemsdata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Visa data i programmedlemsrutnätet](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [SFDC-synkronisering - kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [SFDC Sync - kampanjsynkronisering](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

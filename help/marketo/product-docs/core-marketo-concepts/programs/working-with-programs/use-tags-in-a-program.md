@@ -4,10 +4,10 @@ description: Använd taggar i ett program - Marketo Docs - produktdokumentation
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Använda en tagg i ett program {#use-a-tag-in-a-program}
 
-1. Välj program. Klicka på **Konfigurera**.
+1. Välj program. Klicka på **[!UICONTROL Setup]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Redigera en tagg {#edit-a-tag}
 
-1. Gå till fliken **Inställningar**. Högerklicka på taggen. Välj **Redigera**.
+1. Gå till fliken **[!UICONTROL Setup]**. Högerklicka på taggen. Välj **[!UICONTROL Edit]**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Taggar är attribut som beskriver dina program och används för att gruppera pr
 
 ## Ta bort en tagg  {#delete-a-tag}
 
-1. Gå till fliken **Inställningar**. Högerklicka på taggen och välj **Ta bort**.
+1. Gå till fliken **[!UICONTROL Setup]**. Högerklicka på taggen och välj **[!UICONTROL Delete]**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Bekräfta genom att klicka på **Ta bort**.
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
    ![](assets/use-tags-in-a-program-11.png)
 

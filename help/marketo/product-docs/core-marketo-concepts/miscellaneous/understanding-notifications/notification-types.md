@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Meddelandetyper - Marketo Docs - produktdokumentation
 title: Meddelandetyper
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -24,13 +24,13 @@ CRM-synkroniseringsmeddelanden varnar dig för viktiga problem som har uppstått
 
 **[!DNL Microsoft Dynamics]**
 
-Dynamics-meddelanden skickas en gång var 24:e timme och innehåller leads som inte kunde synkroniseras under den tidsperioden. Vanliga orsaker till fel är dubblettleads (som ovan) eller felmatchningar av fältlängd.
+[!DNL Dynamics] meddelanden skickas en gång var 24:e timme och innehåller leads som inte kunde synkroniseras under den tidsperioden. Vanliga orsaker till fel är dubblettleads (som ovan) eller felmatchningar av fältlängd.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Om du använder Salesforce ser felmeddelanden ut ungefär som de nedan. Typiska fel är bland annat utgångna autentiseringsuppgifter och API-gränser har överskridits.
+Om du använder [!DNL Salesforce] ser synkroniseringsfelmeddelanden ut ungefär som nedan. Typiska fel är bland annat utgångna autentiseringsuppgifter och API-gränser har överskridits.
 
 ![](assets/salesforcesyncerror.png)
 
@@ -42,7 +42,7 @@ När folk blir utmattade i en ström skickar vi ett meddelande. Anmälan innehå
 
 ## Facebook {#facebook}
 
-Om du försöker skicka personer till Facebook utan att godkänna användarvillkoren eller om du försöker skicka personer till Facebook efter att du har tagit bort Marketo-appen.
+Om du försöker skicka personer till Facebook utan att acceptera användarvillkoren, eller om du försöker skicka personer till Facebook efter att du har tagit bort Marketo-appen.
 
 ## Rensa inaktiv utlösarkampanj {#idle-trigger-campaign-cleanup}
 
@@ -50,7 +50,7 @@ Inaktivera utlösta smarta kampanjer som inte längre får någon aktivitet. Lä
 
 ## LinkedIn {#linkedin}
 
-När Marketo inte kan skapa en ny publik, logga in eller skicka e-post till LinkedIn efter tre försök.
+När Marketo inte kan skapa en ny målgrupp loggar du in eller skickar e-post till LinkedIn efter tre försök.
 
 ![](assets/linkedin.png)
 
@@ -60,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/error-codes).
+>En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

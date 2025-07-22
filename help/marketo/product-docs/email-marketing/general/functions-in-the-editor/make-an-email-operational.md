@@ -4,9 +4,9 @@ description: Gör ett e-postmeddelande tillgängligt - Marketo Docs - produktdok
 title: Låt e-postmeddelanden fungera
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >Operativa e-postmeddelanden räknas inte in i kommunikationsgränser. Om någon till exempel bara kan få ett e-postmeddelande per vecka och du redan har skickat ett marknadsföringsmeddelande till dem, kan du ändå skicka ett användbart e-postmeddelande till dem om det behövs.
 
-1. Leta reda på e-postmeddelandet, markera det och klicka på **Redigera utkast**.
+1. Leta reda på din e-postadress, markera den och klicka på **[!UICONTROL Edit Draft]**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ E-postmeddelanden som används ignorerar statusen Avbeställ och Marknadsföring
 >
 >Du bör bara använda driftmeddelanden för viktiga e-postmeddelanden och automatiska svar. De är inte avsedda för marknadsföring via e-post.
 
-1. När redigeraren öppnas klickar du på **E-postinställningar**.
+1. När redigeraren öppnas klickar du på **[!UICONTROL Email Settings]**.
 
    ![](assets/two-1.png)
 
-1. Markera **Operational Email** och klicka på **Save**.
+1. Markera **[!UICONTROL Operational Email]** och klicka på **[!UICONTROL Save]**.
 
    ![](assets/three.png)
 

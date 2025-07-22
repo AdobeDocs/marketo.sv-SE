@@ -4,9 +4,9 @@ title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du har [skapat ett SMS-meddelande från Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} vill du använda utlösare och filter för Smart List i en smart kampanj för att få fördelarna. Så här gör du.
 
-1. Klicka på **Marknadsföringsaktiviteter** i Min Marketo.
+1. Klicka på **[!UICONTROL Marketing Activities]** i Min Marketo.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ Utlösaren **SMS Message Bounces** initierar ett flöde, som att skicka ett e-po
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Utlösaren **Prenumererar på Vibes List** initierar ett flöde när en person prenumererar.
+Utlösaren **[!UICONTROL Subscribes to Vibes List]** initierar ett flöde när en person prenumererar.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Utlösaren **Click Link in SMS Message** initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
+Utlösaren **[!UICONTROL Clicks Link in SMS Message]** initierar ett flöde när en person klickar på en länk i SMS-meddelandet.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS-filter {#sms-filters}
 
-Du kan också använda Vibes-filter i smarta listor. Filtret **Prenumererar på Vibes-listan** hittar alla som har *någonsin* prenumererat på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
+Du kan också använda Vibes-filter i smarta listor. Filtret **[!UICONTROL Subscribed to Vibes List]** hittar alla som har *någonsin* prenumererat på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ Filtret **Medlem i listan** hittar däremot _alla_ som prenumererar på Vibes oc
 
 >[!NOTE]
 >
->Alla SMS-filter innehåller begränsningen **Aktivitetsdatum** som standard.
+>Alla SMS-filter innehåller begränsningen **[!UICONTROL Date of Activity]** som standard.
 
 När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [definiera flödet](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 

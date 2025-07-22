@@ -4,9 +4,9 @@ description: Använda URL Builder - Marketo Docs - produktdokumentation
 title: Använda URL Builder
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Med URL Builder kan du skapa URL:er som kan fylla i Marketo dolda formulärfält
 >
 >Lär dig hur du skapar dolda fält i formulär och redigerar deras inställningar i [Ange ett formulärfält som dolt](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Välj en landningssida, klicka på **Åtgärder för landningssida**, hovra över **URL-verktyg** och klicka sedan på **URL Builder**.
+1. Välj en landningssida, klicka på **[!UICONTROL Landing Page Actions]**, hovra över **[!UICONTROL URL Tools]** och klicka sedan på **[!UICONTROL URL Builder]**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Markera de fält som du vill använda, ange värdet och klicka på **Uppdatera URL**.
+1. Markera de fält som du vill använda, ange värdet och klicka på **[!UICONTROL Update URL]**.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

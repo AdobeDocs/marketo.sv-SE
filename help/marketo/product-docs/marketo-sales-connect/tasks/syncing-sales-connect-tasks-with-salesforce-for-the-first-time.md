@@ -1,30 +1,30 @@
 ---
 unique-page-id: 14352541
-description: Synkroniserar Sales Connect-uppgifter med Salesforce för första gången - Marketo Docs - produktdokumentation
-title: Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången
+description: Synkronisera Sales Connect-uppgifter med Salesforce för första gången - Marketo Docs - produktdokumentation
+title: Synkronisera Sales Connect-aktiviteter med Salesforce för första gången
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-# Synkroniserar Sales Connect-aktiviteter med Salesforce för första gången {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+# Synkroniserar [!DNL Sales Connect] aktiviteter med [!DNL Salesforce] för första gången {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-När du först aktiverar synkroniseringen mellan Sales Connect- och Salesforce-uppgifter importerar vi dina Salesforce-uppgifter. Vi kommer **inte** att föra över aktuella uppgifter som du har i Sales Connect till Salesforce. För att minska problem och dubbletter är de enda uppgifter som synkroniseras från Sales Connect till Salesforce aktiviteter som skapas *efter* att du synkroniserat Sales Connect med SFDC.
+När du först aktiverar synkroniseringen mellan [!DNL Sales Connect] och [!DNL Salesforce] aktiviteter importerar vi dina [!DNL Salesforce]-aktiviteter. Vi kommer **inte** att föra över aktuella uppgifter som du har i [!DNL Sales Connect] till [!DNL Salesforce]. För att undvika rörighet och dubbletter är de enda uppgifter som synkroniseras från [!DNL Sales Connect] till [!DNL Salesforce] uppgifter som skapas *efter* att du har synkroniserat [!DNL Sales Connect] med SFDC.
 
-Det här händer när du synkroniserar Sales Connect- och SFDC-uppgifter:
+Det här händer när du synkroniserar [!DNL Sales Connect]- och SFDC-uppgifter:
 
 - När du klickar på Spara för uppgifter synkroniseras de om. Det här kommer att ta en stund från början.
 
-- Påminnelser som har uppdaterats eller skapats under de senaste 24 timmarna hämtas in från SFDC till Sales Connect. Synkroniseringen baseras på förfallodatum och alla dessa uppgifter synkroniseras på baksidan, men i kommandocentralen visas endast uppgifter som förfaller idag och imorgon.
+- Påminnelser som har uppdaterats eller skapats under de senaste 24 timmarna hämtas in från SFDC till [!DNL Sales Connect]. Synkroniseringen baseras på förfallodatum och alla dessa uppgifter synkroniseras på baksidan, men i kommandocentralen visas endast uppgifter som förfaller idag och imorgon.
 
-- Om synkronisering har aktiverats tidigare och du tar bort några uppgifter i SFDC, kommer allt som har tagits bort de senaste 15 dagarna att tas bort från kommandocentralen.
+- Om synkronisering har aktiverats tidigare och du tar bort åtgärder i SFDC, tas allt som har tagits bort de senaste 15 dagarna bort från kommandocentralen.
 
-- Vi synkroniserar kontinuerligt uppgifter mellan Sales Connect och SFDC så länge synkroniseringen är aktiverad.
+- Vi synkroniserar uppgifter mellan [!DNL Sales Connect] och SFDC hela tiden så länge synkroniseringen är aktiverad.
 
-Efter den första synkroniseringen kommer alla uppgifter du skapar, redigerar, slutför eller tar bort i Sales Connect att synkroniseras med din uppgiftslista i Salesforce. Och allt som du har skapat, redigerat, slutfört eller tagit bort i Salesforce kommer att uppdatera din uppgiftslista i Sales Connect.
+Efter den första synkroniseringen kommer alla uppgifter du skapar, redigerar, slutför eller tar bort i [!DNL Sales Connect] att synkroniseras till din uppgiftslista i [!DNL Salesforce]. Och allt som har skapats, redigerats, slutförts eller tagits bort i [!DNL Salesforce] kommer att uppdatera din uppgiftslista i [!DNL Sales Connect].
 
 Om du vill aktivera synkroniseringen markerar du bara synkroniseringsrutan på [inställningssidan](https://toutapp.com/login) i webbprogrammet.

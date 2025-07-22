@@ -4,9 +4,9 @@ description: Dela en modell mellan arbetsytor - Marketo Docs - Produktdokumentat
 title: Dela en modell över arbetsytor
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. Så här gör du.
 
-1. Gå till avsnittet **Analyser**.
+1. Gå till avsnittet **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Högerklicka på mappen **Mina modeller** och klicka på **Ny mapp**.
+1. Högerklicka på mappen **[!UICONTROL My Models]** och klicka på **[!UICONTROL New Folder]**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Dra modellerna som du vill dela till mappen **Dela**.
+1. Dra modellerna som du vill dela till **[!UICONTROL Share Folder]**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Högerklicka på mappen och klicka på **Dela mapp**.
+1. Högerklicka på mappen och klicka på **[!UICONTROL Share Folder]**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ Marketo ger dig möjlighet att dela en eller flera modeller över arbetsytorna. 
    >
    >Genom att dela en modell med en annan arbetsyta kan dessa användare köra rapporter baserade på modellen.
 
-1. Markera de arbetsytor som du vill dela mappen med och klicka på **Spara**.
+1. Markera de arbetsytor som du vill dela mappen med och klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

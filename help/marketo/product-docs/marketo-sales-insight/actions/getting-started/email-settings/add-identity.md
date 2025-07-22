@@ -3,10 +3,10 @@ description: Lägg till identitet - Marketo Docs - produktdokumentation
 title: Lägg till identitet
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ Lägg till en identitet när du har flera e-postadresser att skicka från.
 
    ![](assets/add-identity-1.png)
 
-1. Klicka på **E-postinställningar**.
+1. Klicka på **[!UICONTROL Email Settings]**.
 
    ![](assets/add-identity-2.png)
 
-1. Klicka på **Lägg till identitet**.
+1. Klicka på **[!UICONTROL Add Identity]**.
 
    ![](assets/add-identity-3.png)
 
-1. Ange informationen (e-post och namn är obligatoriska fält) och klicka på **Skapa**.
+1. Ange informationen (e-post och namn är obligatoriska fält) och klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-identity-4.png)
 
-1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. Verifiera genom att klicka på **Verifiera e-postadress**.
+1. Du får då ett e-postmeddelande om att du är säker på din e-postadress. Verifiera genom att klicka på **[!UICONTROL Verify Email Address]**.
 
    ![](assets/add-identity-5.png)
 

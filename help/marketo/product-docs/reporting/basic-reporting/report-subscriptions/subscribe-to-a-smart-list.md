@@ -4,9 +4,9 @@ description: Prenumerera på en smart lista - Marketo Docs - produktdokumentatio
 title: Prenumerera på en smart lista
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ Att prenumerera på smarta listor är ett bra sätt att hålla reda på personer
 
 Du kan skapa en prenumeration på en smart lista på två olika platser:
 
-* Marknadsföringsaktiviteter
-* Databas
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 Prenumerationer använder den fullständiga listan över personer när prenumerationen körs.
 
-Prenumerationer lever där din smarta lista finns, i marknadsföringsaktiviteter eller i databasen.
+Prenumerationer bor där din smarta lista finns, i [!UICONTROL Marketing Activities] eller [!UICONTROL Database].
 
 Du kan skapa flera prenumerationer från samma smarta lista.
 
@@ -36,39 +36,39 @@ Prenumerationer är specifika för arbetsytan. Den här listan över prenumerati
 
 ## Skapa en prenumeration på en smart lista {#create-a-smart-list-subscription}
 
-1. Gå till **databasen** eller **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Database]** eller **[!UICONTROL Marketing Activities]**.
 
    ![](assets/db.png)
 
-1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **Visa en lista över åtgärder** och välj **Ny prenumeration för smart lista**.
+1. Välj den smarta lista som du vill skapa en prenumeration för. Klicka på **[!UICONTROL List Actions]** och välj **[!UICONTROL New Smart List Subscription]**.
 
    ![](assets/three.png)
 
-1. Ge din prenumeration ett **namn** och välj eller ange e-postadresserna till **mottagarna**.
+1. Ge din prenumeration **[!UICONTROL Name]** och välj eller ange e-postadresserna till **[!UICONTROL Recipients]**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klicka på listan **Frekvens** och välj en frekvens.
+1. Klicka på listan **[!UICONTROL Frequency]** och välj en frekvens.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Ange datumet för **slutleverans**. Du kan välja **Aldrig** eller ett kalenderdatum.
+1. Ange datumet **[!UICONTROL End Delivery]**. Du kan välja **[!UICONTROL Never]** eller ett kalenderdatum.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klicka på **Format** och välj i listan.
+1. Klicka på **[!UICONTROL Format]** och välj i listan.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klicka på **Skapa**.
+1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Din nya smarta listprenumeration visas högst upp i listan på fliken Prenumerationer. Klicka på **Skicka** om du vill skicka nu och inte vänta tills den schemalagda e-postleveransen.
+1. Din nya smarta listprenumeration visas högst upp i listan på fliken Prenumerationer. Klicka på **[!UICONTROL Send]** om du vill skicka nu och inte vänta tills den schemalagda e-postleveransen.
 
    ![](assets/eight.png)
 
-1. Vi rekommenderar att du avmarkerar kryssrutan Aktiv för att inaktivera en prenumeration på en smart lista om ingen prenumererar på den.
+1. Vi rekommenderar att du avmarkerar kryssrutan **[!UICONTROL Active]** för att inaktivera en smart listprenumeration om ingen prenumererar på den.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ Mottagarna får ett mejl med möjlighet att ladda ned rapporten samt en länk di
 
 >[!NOTE]
 >
->Om inställningen [Säker prenumerationsadministratör](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) är **Ja** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
+>Om inställningen [Administratör för säker prenumeration](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) är **[!UICONTROL Yes]** kan bara personer med åtkomst till Marketo-instansen hämta rapporten.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ E-postmeddelandet innehåller även ytterligare information om de filter som anv
 
 ## Ta bort en prenumeration {#delete-a-subscription}
 
-Om du vill ta bort en prenumeration markerar du den på prenumerationsfliken och klickar på Ta bort prenumeration.
+Om du vill ta bort en prenumeration markerar du den på prenumerationsfliken och klickar på **[!UICONTROL Delete Subscription]**.
 
 ![](assets/twelve.png)
 

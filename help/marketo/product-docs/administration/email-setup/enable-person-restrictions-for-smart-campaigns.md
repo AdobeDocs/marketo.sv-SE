@@ -4,7 +4,7 @@ description: Aktivera personbegränsningar för smarta kampanjer - Marketo Docs 
 title: Aktivera personbegränsningar för smarta kampanjer
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%

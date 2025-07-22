@@ -4,10 +4,10 @@ description: Lägga till verktygstipsinstruktioner i ett formulärfält - Market
 title: Lägga till verktygstipsinstruktioner i ett formulärfält
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >Formuläret **Instruktioner** är små verktygstips som visas när besökaren hovrar över fältet.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Markera ditt **formulär** och klicka på **Redigera formulär**.
+1. Markera ditt **formulär** och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Markera fältet och ange **instruktioner**.
+1. Markera fältet och ange **[!UICONTROL Instructions]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

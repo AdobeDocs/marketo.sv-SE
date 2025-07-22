@@ -4,20 +4,20 @@ description: Synkroniseringsstatus - Marketo Docs - produktdokumentation
 title: Synkroniseringsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 # Synkroniseringsstatus {#sync-status}
 
-På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på den aktuella genomströmningen och eftersläpningen i synkroniseringsprocessen.
+Du kan hålla reda på synkroniseringsprocessens aktuella genomströmning och eftersläpning på flikarna [!UICONTROL Sync Status] och [!UICONTROL Sync Errors].
 
-## Fliken Synkroniseringsstatus {#sync-status-tab}
+## Fliken [!UICONTROL Sync Status] {#sync-status-tab}
 
-1. Klicka på **[!UICONTROL Admin]** och sedan på **[!UICONTROL Microsoft Dynamics]**.
+1. Klicka på **[!UICONTROL Admin]** och **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -45,9 +45,9 @@ På flikarna Synkroniseringsstatus och Synkroniseringsfel kan du hålla reda på
 
    >[!NOTE]
    >
-   >När du tittar på vyn Senaste timma visas kolumnerna Infogar och uppdateringar som inget. Detta är förväntat beteende.
+   >När du tittar på vyn [!UICONTROL Last Hour] visas kolumnerna [!UICONTROL Inserts] och [!UICONTROL Updates] N/A. Detta är förväntat beteende.
 
-## Fliken Synkroniseringsfel {#sync-errors-tab}
+## Fliken [!UICONTROL Sync Errors] {#sync-errors-tab}
 
 Sök, sök och exportera leads (och andra objekt) som inte kunde synkroniseras med information som åtgärd, riktning, felkod och felmeddelande.
 

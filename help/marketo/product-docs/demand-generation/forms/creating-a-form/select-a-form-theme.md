@@ -4,9 +4,9 @@ description: Välj ett formulärtema - Marketo Docs - produktdokumentation
 title: Välj ett formulärtema
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om?
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/editform.png)
 
-1. Gå till **Formulärinställningar**.
+1. Gå till **[!UICONTROL Form Settings]**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Växla fram och tillbaka för att välja **Formulärtemat** som du vill använda.
+1. Växla fram och tillbaka för att välja **[!UICONTROL Form Theme]** som du vill ha.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -45,11 +45,11 @@ Vi har skapat en massa fina teman för dina formulär. Vilken tycker du bäst om
    >
    >Du kan även [redigera CSS för ditt formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klicka på **Nästa** om du vill konfigurera andra formuläralternativ, eller klicka på **Slutför** om du bara vill ändra formulärtemat.
+1. Klicka på **[!UICONTROL Next]** om du vill konfigurera andra formuläralternativ, eller klicka på **[!UICONTROL Finish]** om du bara vill ändra formulärtemat.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-Hur enkelt var det där?! Du kan nu låta din HTML/CSS-bok samla in lite damm.
+Hur enkelt var det där?! Nu kan du låta din HTML/CSS-bok samla in damm.
 
 >[!MORELIKETHIS]
 >

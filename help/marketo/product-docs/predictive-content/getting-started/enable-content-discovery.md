@@ -4,23 +4,23 @@ description: Aktivera innehållsidentifiering - Marketo Docs - produktdokumentat
 title: Aktivera innehållsidentifiering
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Aktivera innehållsidentifiering {#enable-content-discovery}
 
-Funktionen för innehållsidentifiering identifierar och taggar automatiskt befintligt innehåll (inklusive fallstudier, blogginlägg, videor, pressmeddelanden etc.) från din webbplats och håller reda på antalet vyer av det här materialet.  Prediktivt innehåll använder det identifierade innehållet och använder prediktiv analys för att avgöra vilket innehåll som är ditt högsta resultat och rekommenderar det bästa innehållet till rätt person.
+Funktionen för innehållsidentifiering identifierar och taggar automatiskt befintligt innehåll (inklusive fallstudier, blogginlägg, videor, pressmeddelanden osv.) från din webbplats och spårar antalet visningar av det här materialet.  Prediktivt innehåll använder det identifierade innehållet och använder prediktiv analys för att avgöra vilket innehåll som är ditt högsta resultat och rekommenderar det bästa innehållet till rätt person.
 
-1. Gå till **Innehållsinställningar**.
+1. Gå till **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Gör innehållsidentifiering till **På**.
+1. Vrid [!UICONTROL Content Discovery] till **[!UICONTROL On]**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Om du ställer in Innehållsidentifiering till På identifieras ett PDF- eller videoinnehåll automatiskt när en webbbesökare klickar på filen eller tittar på videon. Innehållsdelen (URL, innehållsnamn och bild-URL) läggs till och spåras sedan under sidan Allt innehåll. När vi automatiskt identifierar en video identifierar vi en video när en webbbesökare klickar och tittar på en inbäddad video från YouTube, Vimeo eller Wistia. Om du vill identifiera annat innehåll automatiskt måste du [skapa innehållsmönster](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+Om du anger [!UICONTROL Content Discovery] till [!UICONTROL On] identifieras ett PDF- eller videoinnehåll automatiskt när en webbbesökare klickar på filen eller tittar på videon. Innehållsdelen (URL, innehållsnamn och bild-URL) läggs till och spåras sedan under sidan Allt innehåll. Vid automatisk identifiering av video identifierar vi en video när en webbbesökare klickar på och tittar på en inbäddad video från YouTube, [!DNL Vimeo] eller [!DNL Wistia]. Om du vill identifiera annat innehåll automatiskt måste du [skapa innehållsmönster](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

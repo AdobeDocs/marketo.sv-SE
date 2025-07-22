@@ -3,9 +3,9 @@ description: Utlösare och filter för försäljningsaktivitet - Marketo Docs - 
 title: Utlösare och filter för försäljningsaktivitet
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Följ stegen nedan för att lära dig hur du använder filter för försäljning
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. På fliken **Smart lista** söker du efter Försäljningsappar.
+1. Sök efter **[!UICONTROL Smart List]** på fliken [!UICONTROL Sales Apps].
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

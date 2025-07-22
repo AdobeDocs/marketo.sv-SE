@@ -1,31 +1,31 @@
 ---
-description: Konfigurera om Dynamics-autentiseringsmetod - Marketo Docs - produktdokumentation
-title: Konfigurera om Dynamics-autentiseringsmetod
+description: Konfigurera om  [!DNL Dynamics] autentiseringsmetod - Marketo Docs - produktdokumentation
+title: 'Konfigurera om autentiseringsmetoden  [!DNL Dynamics] '
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Konfigurera om Dynamics-autentiseringsmetod {#reconfigure-dynamics-authentication-method}
 
-Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
+Följ stegen nedan för att uppdatera din [!DNL Dynamics]-autentiseringsmetod.
 
 >[!PREREQUISITES]
 >
->Konfigurera programmet i Microsoft Dynamics och den aktiva katalogen (Azure AD/ADFS) med önskad autentiseringsmetod från någon av följande artiklar:
+>Konfigurera programmet i [!DNL Microsoft Dynamics] och den aktiva katalogen (Azure AD/ADFS) med önskad autentiseringsmetod från någon av följande artiklar:
 >
 >* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [Steg 2 av 4: Konfigurera Marketo-lösningen med Resursägarens lösenordskontrollanslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
+1. Klicka på **[!UICONTROL Admin]** i Marketo.
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Klicka på **[!DNL Microsoft Dynamics]** och sedan på **[!UICONTROL Disable Sync]**.
+1. Klicka på **Microsoft Dynamics** och sedan på **[!UICONTROL Disable Sync]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
@@ -56,7 +56,7 @@ Följ stegen nedan för att uppdatera din Dynamics-autentiseringsmetod.
 
    >[!NOTE]
    >
-   >Om du ser ett ![](assets/red-x.png) har det här steget ett problem. Se [Åtgärda problem med synkronisering av Dynamics-validering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md){target="_blank"} för att identifiera och åtgärda problem. Kör sedan synkroniseringsvalideringsstegen igen tills resultatet ser ut som bilden ovan.
+   >Om du ser ett ![](assets/red-x.png) har det här steget ett problem. Se [Åtgärda [!DNL Dynamics] Problem med synkronisering av validering](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) för att identifiera och åtgärda problem. Kör sedan synkroniseringsvalideringsstegen igen tills resultatet ser ut som bilden ovan.
 
 1. Klicka på **[!UICONTROL Confirm]** för att fortsätta.
 

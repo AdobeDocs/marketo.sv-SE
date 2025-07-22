@@ -4,10 +4,10 @@ description: Ändra formuläretikettposition - Marketo Docs - produktdokumentati
 title: Ändra formuläretikettposition
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 När du [skapar ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) kan du enkelt ändra placeringen av formulärfältsetiketterna. Så här gör du.
 
-1. Gå till **marknadsföringsaktiviteter**.
+1. Gå till **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Markera formuläret och klicka på **Redigera formulär**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Välj **Inställningar**.
+1. Välj **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Välj den **etikettposition** du vill ha.
+1. Markera de **[!UICONTROL Label Position]** du vill ha.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    Du har för närvarande två alternativ:
 
-   * Vänster (standard)
-   * Över
+   * [!UICONTROL Left] (standard)
+   * [!UICONTROL Above]
 
-1. Klicka på **Slutför**.
+1. Klicka på **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klicka på **Godkänn och stäng**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

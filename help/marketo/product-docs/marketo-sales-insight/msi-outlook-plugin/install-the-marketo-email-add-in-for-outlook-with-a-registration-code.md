@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: Installera Marketo e-posttillägg för Outlook med en registreringskod - Marketo Docs - Produktdokumentation
-title: Installera Marketo e-posttillägg för Outlook med en registreringskod
+description: Installera Marketo-tillägget för e-post för  [!DNL Outlook]  med en registreringskod - Marketo Docs - Produktdokumentation
+title: Installera Marketo e-posttillägg för  [!DNL Outlook] med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
 
-# Installera Marketo e-posttillägg för Outlook med en registreringskod {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installera Marketo e-posttillägg för [!DNL Outlook] med en registreringskod {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Om användarna har tillgång till administratörsinställningarna på sina bärbara datorer kan du skicka en registreringskod direkt till dem.
 
@@ -39,7 +39,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
    >[!NOTE]
    >
-   >För närvarande fungerar länkarna nedan bara i Microsoft Edge, eller genom att högerklicka i Chrome. Vi beklagar eventuella besvär.
+   >För närvarande fungerar länkarna nedan bara i [!DNL Microsoft Edge] eller genom att högerklicka i [!DNL Chrome]. Vi beklagar eventuella besvär.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
   </tr>
 </tbody></table>
 
-*Office 365-version: endast Windows-klient (i Windows 10, Enterprise eller Pro).
+*[!DNL Office] 365 version: [!DNL Windows] endast klient (på [!DNL Windows] 10, [!DNL Enterprise] eller [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Stäng Microsoft Outlook.
+1. Stäng [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    >
    >Om du får en säkerhetsvarning, oroa dig inte! Klicka bara på **Kör**.
 
-1. Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Fyll i **Förnamn**, **Efternamn**, **E-postadress**, kopiera och klistra sedan in **registreringskoden** från e-postmeddelandet i formuläret och klicka på **Nästa**.
+1. Fyll i **[!UICONTROL First Name]**, **[!UICONTROL Last Name]**, **[!UICONTROL Email Address]**, kopiera och klistra in **[!UICONTROL Registration code]** från e-postmeddelandet i formuläret och klicka på **[!UICONTROL Next]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Om du inte har fått någon inbjudan via e-post ber du Marketo-administratören 
    >
    >Om installationen misslyckas bör du kontakta din IT-avdelning för att kontrollera att HTTPS-trafik inte blockeras. Installationsprogrammet kräver att HTTPS-trafik är öppen.
 
-1. Klicka på **Nästa** om du vill installera på standardplatsen.
+1. Klicka på **[!UICONTROL Next]** om du vill installera på standardplatsen.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Klicka på **Nästa**.
+1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Om du får en säkerhetsfråga om en okänd utgivare klickar du på **Ja**.
+   >Om du får en säkerhetsfråga om en okänd utgivare klickar du på **[!UICONTROL Yes]**.
 
-1. Installationen är klar. Klicka på **Stäng**.
+1. Installationen är nu klar, klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Öppna nu Microsoft Outlook och se Marketo-knapparna.
+1. Öppna [!DNL Microsoft Outlook] och se Marketo-knapparna.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

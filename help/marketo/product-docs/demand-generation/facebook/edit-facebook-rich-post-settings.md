@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# Redigera inställningar för avancerat inlägg på Facebook {#edit-facebook-rich-post-settings}
+# Redigera inställningar för [!DNL Facebook] Rich Post {#edit-facebook-rich-post-settings}
 
-Anpassa inlägg när andra delar dig på Facebook.
+Anpassa inlägg när andra delar dig på [!DNL Facebook].
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo _sociala appar_ tillåter dina leads att dela dina landningssidor med si
 
 ## Välj alternativ för Rich Post {#select-rich-post-options}
 
-Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inlägg som genereras av delningar från din landningssida.
+Du kan ange vilka typer av sidinformation som ska användas i de [!DNL Facebook] avancerade inlägg som genereras av delningar från din landningssida.
 
-1. Välj **Facebook-meddelande** i redigeraren för din **YouTube**-video eller sociala knapp.
+1. Välj **[!UICONTROL Facebook Message]** i redigeraren för din **[!DNL YouTube*]*-video eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Välj bland följande alternativ för ditt Facebook-meddelande.
+1. Välj bland följande alternativ för ditt [!DNL Facebook]-meddelande.
 
    * Lägg till statiskt innehåll: Välj det här alternativet om du vill ange rubrik, bildtext och beskrivning manuellt.
 
@@ -43,23 +43,23 @@ Du kan ange vilka typer av sidinformation som ska användas i de Facebook-inläg
 
    >[!NOTE]
    >
-   >Dessa bör redan finnas i sidkällan, men för större kontroll kan du lägga till särskilda Facebook OG-taggar på landningssidan.
+   >Dessa bör redan finnas i sidkällan, men om du vill ha mer kontroll kan du lägga till specifika [!DNL Facebook] OG-taggar på landningssidan.
 
-   * Lägg inte till avancerat innehåll: Begränsar Facebook-inlägg från landningssidan till enbart huvudmeddelandet och länken.
+   * Lägg inte till omfattande innehåll: Begränsar [!DNL Facebook] inlägg från din landningssida till enbart huvudmeddelandet och länken.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Lägga till Facebooks OG-taggar på en landningssida {#add-facebook-og-tags-to-a-landing-page}
+## Lägg till [!DNL Facebook] OG-taggar på en landningssida {#add-facebook-og-tags-to-a-landing-page}
 
-Om du vill styra vilka sidelement som ska inkluderas i Facebook-delningarna från din landningssida kan du lägga till Facebooks OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
+Om du vill styra de sidelement som ska inkluderas i [!DNL Facebook]-delningarna från din landningssida kan du lägga till [!DNL Facebook] OG-taggar (Open Graph) för titel, bildtext och beskrivning på din landningssida.
 
-1. Öppna landningssidan som innehåller din **YouTube-video** eller sociala knapp.
+1. Öppna landningssidan som innehåller din **[!DNL YouTube]video** eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   **Startsidan för Designer** öppnas i ett nytt fönster.
+   **[!UICONTROL Landing Page Designer]** öppnas i ett nytt fönster.
 
-1. Välj **Åtgärder för landningssida** > **Redigera sidmetataggar**.
+1. Välj **[!UICONTROL Landing Page Actions]** > **[!UICONTROL Edit Page Meta Tags]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

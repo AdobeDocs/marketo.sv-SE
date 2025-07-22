@@ -4,15 +4,15 @@ description: Varför skickades inte alla mina kontakter till Sales Connect? - Ma
 title: Varför skickades inte alla mina kontakter till Sales Connect?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Varför skickades inte alla mina kontakter till Sales Connect? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
+# Varför publicerades inte alla mina kontakter till [!DNL Sales Connect]? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
-Om bara vissa av dina kontakter överförs är det möjligt att de som inte markerats som e-postavanmälan i ditt företags Salesforce-instans.
+Om bara vissa av dina kontakter förs över är det möjligt att de som inte markerats som e-postavanmälan i företagets [!DNL Salesforce]-instans.
 
-Se varningsikonen för detaljerade orsaker till varför hela gruppen inte trycktes över. Kontakta din SFDC-administratör av orsaker som rör ditt företags Salesforce-konfiguration.
+Se varningsikonen för detaljerade orsaker till varför hela gruppen inte trycktes över. Kontakta SFDC-administratören om du har frågor som rör konfigurationen av ditt företags [!DNL Salesforce].

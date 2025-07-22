@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728028
-description: "Lägg till [!DNL Zoom] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
-title: "Lägg till [!DNL Zoom] som en [!DNL LaunchPoint] tjänst"
+description: Lägg till [!DNL Zoom] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till [!DNL Zoom] som en [!DNL LaunchPoint] tjänst
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Marketo hanterar din registrering och närvaro av [!DNL Zoom].
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Zoom]** under **[!UICONTROL Service]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Service]** under **[!UICONTROL Zoom]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
@@ -55,7 +55,7 @@ Ditt [!DNL Zoom]-konto har synkroniserats med Marketo och finns i området [!UIC
 
 >[!CAUTION]
 >
->När du uppdaterar ditt lösenord i Zoom måste du även uppdatera ditt lösenord i Marketo.
+>När du uppdaterar ditt lösenord i [!DNL Zoom] måste du även uppdatera ditt lösenord i Marketo.
 
 >[!MORELIKETHIS]
 >

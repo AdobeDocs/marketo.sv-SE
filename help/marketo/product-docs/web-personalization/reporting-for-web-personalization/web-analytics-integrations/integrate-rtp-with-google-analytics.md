@@ -4,9 +4,9 @@ description: Integrera RTP med Google Analytics - Marketo Docs - produktdokument
 title: Integrera RTP med Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## Introduktion {#introduction}
 
-Analysera webbanalysen från en ny vinkel med hjälp av direkt dataflöde från Marketo Real-Time Personalization (RTP) till Google Analytics-kontot (GA). Mät era webbbesök i GA enligt organisationer, branscher och RTP-kampanjer. Se mätvärden som olika branscher eller RTP-segment i GA och hur de fungerar och genererar leads utifrån olika trafikkällor (sociala, betalda, organiska), analysera klickfrekvenser på kampanjer och mäta vilken effekt personaliseringskampanjer har på er webbplats. Utnyttja den här möjligheten för att utnyttja RTP-kontot maximalt
+Analysera webbanalysen från en ny vinkel med hjälp av direkt dataflöde från Marketo Real-Time Personalization (RTP) till ditt Google Analytics-konto (GA). Mät era webbbesök i GA enligt organisationer, branscher och RTP-kampanjer. Se mätvärden som olika branscher eller RTP-segment i GA och hur de fungerar och genererar leads utifrån olika trafikkällor (sociala, betalda, organiska), analysera klickfrekvenser på kampanjer och mäta vilken effekt personaliseringskampanjer har på er webbplats. Utnyttja den här möjligheten för att utnyttja RTP-kontot maximalt
 
 **RTP Audience Analytics**
 
@@ -66,11 +66,11 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 1. Lägg till e-postadressen rtp.ga2@gmail.com som en Läs och analysera-användare på ditt GA-konto. Mer information finns [här](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. I ditt RTP-konto. Gå till **Kontoinställningar**.
+1. I ditt RTP-konto. Gå till **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Kontoinställningar**, **Domän** och **Analytics**.
+1. Under **[!UICONTROL Account Settings]**, **[!UICONTROL Domain]** och **[!UICONTROL Analytics]**.
 
 1. Klicka på **Google Analytics**.
 
@@ -80,11 +80,11 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->För att kunna skicka segmentdata till GA markerar du kryssrutan **Skicka händelse till Google Analytics på segmentmatchning** på sidan [Redigera segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) på RTP-plattformen.
+>Om du vill skicka segmentdata till GA markerar du kryssrutan [[!UICONTROL Edit Segment] under ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)-sidan **[!UICONTROL Send Event to Google Analytics on Segment Match]** på RTP-plattformen.
 
 ## Konfigurera Google Analytics-rapporter med RTP-data {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -92,4 +92,4 @@ I Google Analytics kan du använda kontrollpaneler, GA-segmentering och rapporte
 
 * [Kontrollpanelerna](https://support.google.com/analytics/answer/1068216?hl=en) ger en översikt över webbplatsens prestanda.
 * Ett GA-segment är avsett att filtrera besökare i GA-gränssnittet och visa trafiken per segment. Se hur du skapar ett segment [här](https://support.google.com/analytics/answer/3124493?hl=en).
-* Skapar [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under Anpassning > Ny anpassad rapport.
+* Skapar [anpassade rapporter](https://support.google.com/analytics/answer/1033013?hl=en) för att visa och/eller konfigurera schemalagda e-postmeddelanden. Se under **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]**.

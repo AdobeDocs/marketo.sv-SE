@@ -4,9 +4,9 @@ description: Använd informationstoken för skicka-varning {{SP_Send_Alert_Info}
 title: Använda Skicka aviseringsinformationstoken
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
 ## Lägg till token SP_Send_Alert_Info i ett e-postmeddelande {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Markera e-postmeddelandet och klicka på **Redigera utkast**.
+1. Markera e-postmeddelandet och klicka på **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Placera markören där du vill att token ska vara och klicka sedan på knappen **Infoga token** .
+1. Placera markören där du vill att token ska vara och klicka sedan på knappen **[!UICONTROL Insert Token]**.
 
    ![](assets/three-3.png)
 
-1. Sök efter och välj token **`{{SP_Send_Alert_Info}}`** och klicka på **Infoga**.
+1. Sök efter och välj token **[!UICONTROL {{SP_Send_Alert_Info}}]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Klicka på **Spara**.
+1. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

@@ -4,32 +4,32 @@ description: Implementera RTP på Wordpress Enterprise - Marketo Docs - produktd
 title: Implementera RTP i Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 # Implementera RTP i Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Följ installationsanvisningarna nedan för att implementera RTP-taggen:
+Följ installationsanvisningarna nedan för att implementera [!UICONTROL RTP tag]:
 
-1. Gå till **Kontoinställningar**.
+1. Gå till **[!UICONTROL Account Settings]**.
 
    a. Om du redan har fått din JavaScript-tagg från supporten fortsätter du till steg 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Under Domän letar du reda på den relevanta domänen och klickar på **Generera tagg**.
+1. Under [!UICONTROL Domain] letar du reda på den relevanta domänen och klickar på **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Kopiera RTP JavaScript-taggen.
 
-1. Logga in på ditt WordPress-konto som administratör
+1. Logga in på ditt [!DNL WordPress]-konto som admin-användare
 
-   a. Gå till **Anpassad JavaScript** under **Utseende**.
+   a. Under **[!UICONTROL Appearance]** går du till **[!UICONTROL Custom JavaScript]**.
 b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Klistra in RTP Javascript-taggen direkt efter den befintliga koden.
    >
    >Infoga bara själva skriptet.
 
-1. Klicka på **Uppdatera**.
+1. Klicka på **[!UICONTROL Update]**.

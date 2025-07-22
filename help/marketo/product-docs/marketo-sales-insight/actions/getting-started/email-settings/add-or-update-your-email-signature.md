@@ -3,9 +3,9 @@ description: Lägg till eller uppdatera din e-postsignatur - Marketo Docs - prod
 title: Lägg till eller uppdatera din e-postsignatur
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Vi vill att e-postmeddelanden från Marketo Sales ska kännas som en sömlös upplevelse när de skickas från din egen e-postklient. Ett bra sätt att göra detta är att lägga till din e-postsignatur.
 
-1. Klicka på kugghjulsikonen och välj **Inställningar**.
+1. Klicka på kugghjulsikonen och välj **[!UICONTROL Settings]**.
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. Välj **E-postinställningar** under Mitt konto.
+1. Välj [!UICONTROL My Account] under **[!UICONTROL Email Settings]**.
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. På fliken **Adress och Signatur** väljer du den e-postadress som du vill skapa en signatur för.
+1. På fliken **[!UICONTROL Address and Signature]** väljer du den e-postadress som du vill skapa en signatur för.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. Klicka på **Redigera** på signaturkortet.
+1. Klicka på [!UICONTROL Signature] på **[!UICONTROL Edit]**-kortet.
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Ange önskad text (eller bilder) och klicka på **Spara**.
+1. Ange önskad text (eller bilder) och klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

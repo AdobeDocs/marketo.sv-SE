@@ -4,9 +4,9 @@ description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Om e-postprogram
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Skicka ut e-postmeddelanden, skapa A/B-tester och spåra alla resultat på ett o
 
 ## Kontrollpanelen {#control-panel}
 
-Fyra lådor håller dig fokuserad. **Målgruppen** definierar &quot;vem&quot;, **Email** anger &quot;vad&quot;, **Schedule** definierar &quot;when&quot; och **Approval** gör det klart att användas.
+Fyra lådor håller dig fokuserad. **[!UICONTROL Audience]** definierar&quot;vem&quot;, **[!UICONTROL Email]**, tillhandahåller&quot;vad&quot;, **[!UICONTROL Schedule]** definierar&quot;när&quot; och **[!UICONTROL Approval]** gör det klart att användas.
 
 ![](assets/emailprogram.png)
 

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
-description: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook - Marketo Docs - Produktdokumentation
-title: Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook
+description: Skicka och spåra ett e-postmeddelande med e-posttillägget för  [!DNL Outlook] - Marketo Docs - produktdokumentation
+title: Skicka och spåra ett e-postmeddelande med e-posttillägget för  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-# Skicka och spåra ett e-postmeddelande med e-posttillägget för Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Skicka och spåra ett e-postmeddelande med e-posttillägget för [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
+Du kan skicka och spåra e-postmeddelanden med Marketo direkt från [!DNL Outlook].
 
 >[!PREREQUISITES]
 >
->Om du inte har gjort det än installerar du e-posttillägget [Marketo för Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Installera [Marketo-e-posttillägget för [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) om du inte har gjort det än.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
    >
    >Om du inkluderar flera mottagare i e-postmeddelandet spåras alla aktiviteter under den första mottagaren.
 
-1. Skriv e-postmeddelandet som vanligt och klicka sedan på **Skicka och spåra**.
+1. Skriv e-postmeddelandet som vanligt och klicka sedan på **[!UICONTROL Send and Track]**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
 
    >[!TIP]
    >
-   >Om du vill använda en Marketo-mall läser du [Skicka och spåra från Outlook med en mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Om du vill använda en Marketo-mall läser du [Skicka och spåra från [!DNL Outlook] Använda en mall](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Ta en titt på förhandsgranskningen och klicka på **Skicka**.
+1. Titta på förhandsgranskningen och klicka på **[!UICONTROL Send]**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -51,11 +51,11 @@ Du kan skicka och spåra e-postmeddelanden med Marketo direkt från Outlook.
    >
    >Antispam-tekniken avvisar ofta öppningar och klickningar som inträffar inom 20 sekunder efter att e-postmeddelandet har skickats, så vänta åtminstone så länge med att öppna/klicka under testningen.
 
-   Om du vill se vem som har tagit emot e-postmeddelanden som skickats via Outlook skapar du en smart lista med hjälp av filtret&quot;Skickat e-post för försäljning&quot;.
+   Om du vill se vem som har tagit emot dina e-postmeddelanden som skickats via [!DNL Outlook] skapar du en smart lista med hjälp av filtret [!UICONTROL Was Sent Sales Email].
 
    ![](assets/was-sent-sales-email.png)
 
-Så enkelt är det! Även om det här e-postmeddelandet skickades av en säljares Outlook spåras det i Marketo.
+Så enkelt är det! Även om det här e-postmeddelandet skickades av en säljares [!DNL Outlook] spåras det i Marketo.
 
 >[!MORELIKETHIS]
 >

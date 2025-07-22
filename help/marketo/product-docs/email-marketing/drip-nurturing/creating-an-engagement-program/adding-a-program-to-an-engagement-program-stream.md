@@ -4,9 +4,9 @@ description: Lägga till ett program i en Engagement Program Stream - Marketo Do
 title: Lägga till ett program i en Engagement Program Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Det kan vara svårt att blanda e-post och program i ett engagemangsprogram. Du k
 
 >[!TIP]
 >
->Använd ett **Member of Engagement Program**-filter i den smarta listan.
+>Använd ett **[!UICONTROL Member of Engagement Program]**-filter i den smarta listan.
 
 ## Vad händer med dem som inte uppfyller villkoren i den smarta listan? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -47,9 +47,9 @@ Om någon filtreras bort från den smarta listan i ett kapslat programs smarta k
 
 Ett väldesignat kapslat program innehåller e-post, rapporter och smarta kampanjer. Det är vettigt att hålla ihop dessa.
 
-Den e-postadress du använder kan finnas i programmet, i ett annat program eller till och med i Design Studio. Var den finns beror på hur du vill använda den.
+Den e-postadress du använder kan finnas i programmet, i ett annat program eller till och med i [!UICONTROL Design Studio]. Var den finns beror på hur du vill använda den.
 
-Rapportera ändringar med e-postplats. Om e-postmeddelandet till exempel finns i Design Studio visas alla mätvärden på en rad i e-postprestandarapporten - de olika skiftningarna kombineras. I resultatrapporten för Engagement Stream visas dock de olika meddelandena separat.
+Rapportera ändringar med e-postplats. Om e-postmeddelandet till exempel finns i [!UICONTROL Design Studio] visas alla mått på en rad i e-postprestandarapporten, och de olika skiftningarna kombineras. I resultatrapporten för Engagement Stream visas dock de olika meddelandena separat.
 
 >[!CAUTION]
 >

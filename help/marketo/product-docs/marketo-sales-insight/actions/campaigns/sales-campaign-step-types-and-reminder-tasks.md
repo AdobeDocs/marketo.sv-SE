@@ -3,9 +3,9 @@ description: Stegtyper för säljkampanj och påminnelseuppgifter - Marketo Docs
 title: Stegtyper för säljkampanj och påminnelseaktiviteter
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Skapa ett nytt e-postmeddelande eller använd en befintlig mall.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Använd en mall** | Välj en av dina befintliga mallar |
+| **[!UICONTROL Use a Template]** | Välj en av dina befintliga mallar |
 |---|---|
-| **Spara som mall** | Spara e-postmeddelandet som du just komponerade som en ny mall |
+| **[!UICONTROL Save as Template]** | Spara e-postmeddelandet som du just komponerade som en ny mall |
 | **Lägg till innehåll** | Överför en fil till vår server och få en URL (som pekar på innehållet) som kan spåras i ditt e-postmeddelande |
 | **Bifoga filer** | Bifoga en fil från datorn till e-postmeddelandet (storleksgräns 23 MB) |
 
@@ -58,7 +58,7 @@ Aktiviteter är ett kraftfullt verktyg när du skickar en säljkampanj till en k
 
 Uppgiften att skicka ett e-postmeddelande och en uppgift att ringa en kontakt är det vanligaste användningsområdet för uppgifter i försäljningskampanjer.
 
-Du kan även göra en&quot;Task to Inmail&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
+Du kan även göra en&quot;Aktivitet till inpost&quot; till en kontakt i LinkedIn om det är en del av ditt arbetsflöde. Du kan även göra en anpassad uppgift för att påminna dig om att bjuda in dem till en glad timme, fråga om deras välgörenhetsevenemang eller incheckning efter spel 5 osv.
 
 >[!NOTE]
 >

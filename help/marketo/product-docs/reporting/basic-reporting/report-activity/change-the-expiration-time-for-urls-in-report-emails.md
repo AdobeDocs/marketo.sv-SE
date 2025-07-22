@@ -4,10 +4,10 @@ description: Ändra förfallotiden för URL:er i e-postrapporter - Marketo Docs 
 title: Ändra förfallotid för URL:er i e-postrapporter
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Länkar i prenumerationsmeddelanden för rapporter upphör att gälla efter tre dagar. Följ de här stegen för att ändra förfallotiden för länkarna.
 
-1. Klicka på **Inloggningsinställningar** under **Admin**.
+1. Klicka på **[!UICONTROL Admin]** under **[!UICONTROL Login Settings]**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klicka på knappen **Redigera förfallodatum för URL**.
+1. Klicka på knappen **[!UICONTROL Edit URL Expiration]**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Välj i listrutan hur många dagar innan länken upphör att gälla. Klicka på **Spara**.
+1. Välj i listrutan hur många dagar innan länken upphör att gälla. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

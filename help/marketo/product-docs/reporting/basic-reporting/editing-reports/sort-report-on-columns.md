@@ -4,9 +4,9 @@ description: Sorteringsrapport om kolumner - Marketo Docs - produktdokumentation
 title: Sortera rapport efter kolumner
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Använd kolumner för att sortera data i rapporten och göra de viktigaste siffrorna enkla att hitta.
 
-1. Gå till **Analytics** (eller **Marketing Activities**).
+1. Gå till **[!UICONTROL Analytics]** (eller **[!UICONTROL Marketing Activities]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Välj din rapport i navigeringsträdet och klicka på fliken **Rapport**.
+1. Välj din rapport i navigeringsträdet och klicka på fliken **[!UICONTROL Report]**.
 
    ![](assets/reports2.jpg)
 

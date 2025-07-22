@@ -4,16 +4,16 @@ description: Performance Insights FAQ - Marketo Docs - produktdokumentation
 title: Vanliga frågor om prestandainsikter
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
 
-# Vanliga frågor om prestandainsikter {#performance-insights-faq}
+# Vanliga frågor om [!UICONTROL Performance Insights] {#performance-insights-faq}
 
-## Vad är definitionen av&quot;framgång&quot; på fliken Engagement? {#what-is-the-definition-of-success-in-the-engagement-tab}
+## Vad är definitionen av &quot;lyckades&quot; på fliken [!UICONTROL Engagement]? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 Success är ett mått på meningsfull interaktion i Marketo. Syftet med ett program är att skapa en meningsfull interaktion med personen eller den potentiella kunden. Lyckade markeras när en person når den status som uppnår det målet. Det kan vara att delta i ett webbinarium, klicka på en länk i ett e-postmeddelande eller fylla i ett webbformulär. Hur bra det är varierar beroende på programkanalen.
 
@@ -23,7 +23,7 @@ Success är ett mått på meningsfull interaktion i Marketo. Syftet med ett prog
 
 ## Fungerar MPI tillsammans med CRM? {#will-mpi-work-with-any-crm}
 
-Ja. I praktiken interagerar inte MPI direkt med CRM för datasynkronisering. MPI använder data som lagras i Marketo Analytics-Datan Warehouse. Eftersom CRM-synkroniseringen görs i Lead Management-programmet visas data korrekt i alla CRM-system som Marketo stöder tillsammans med Lead Management-programmet. CRM-affärsmöjlighetsfälten måste dock mappas korrekt till Marketo affärsmöjlighetsfält.
+Ja. I praktiken interagerar inte MPI direkt med CRM för datasynkronisering. MPI använder data som lagras i Marketo Analytics Data Warehouse. Eftersom CRM-synkroniseringen görs i Lead Management-programmet visas data korrekt i alla CRM-system som Marketo stöder tillsammans med Lead Management-programmet. CRM-affärsmöjlighetsfälten måste dock mappas korrekt till Marketo affärsmöjlighetsfält.
 
 ## Jag har inga andra Marketing Analytics-produkter (ARB, RCE, RCA, Program Analysis). Fungerar MPI för mig? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -80,9 +80,9 @@ Du kanske också saknar möjligheter på grund av att programkostnaden saknas i 
 
 Anpassade fält, säljprojektstyp och ABM-filter är alla attribut som är relaterade till en affärsmöjlighet. Med kontrollpanelen för engagemang kan ni mäta ert engagemang och få leads oavsett om de är kopplade till en affärsmöjlighet eller inte. Eftersom instrumentpanelen för engagemang inte tar hänsyn till affärsmöjligheter, gäller inte anpassade fält, säljprojektstyp och ABM-filter.
 
-## Jag vill använda ett anpassat Salesforce-säljprojektsfält för intäktsrapportering i stället för standardfältet Salesforce-säljprojektsbelopp. Kommer MPI att tillåta mig att göra det? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## Jag vill använda ett anpassat fält för Salesforce-säljprojekt för intäktsrapportering i stället för standardfältet för Salesforce-säljprojektsbelopp. Kommer MPI att tillåta mig att göra det? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) kan mappa om Marketo fält för säljprojektsbelopp till ett anpassat Salesforce-säljprojektsfält så länge som fälttypen är valuta. Eftersom MPI pekar på beloppsfältet för Marketo-säljprojekt kan MPI använda data från det ommappade anpassade Salesforce-fältet.
+Ja. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) kan mappa om Marketo fält för säljprojektsbelopp till ett anpassat fält för Salesforce-säljprojekt så länge som fälttypen är valuta. Eftersom MPI pekar på beloppsfältet för Marketo-säljprojekt kan MPI använda data från det ommappade anpassade Salesforce-fältet.
 
 >[!NOTE]
 >
@@ -133,7 +133,7 @@ Med Program Analyzer kan ni jämföra era program över så många som fyra åtg
 
 ## Vad är skillnaden mellan MPI och Advanced Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-Advanced Report Builder (kallas ibland RCE) är utformat för självbetjäningsrapportering (eller ad hoc-rapportering), vanligtvis utförd av Marketing Operations. MPI är utformat för att ge marknadsledare och marknadsförare tillgång till prestandaanalys med ett enda klick. Minimal installation krävs.
+Advanced Report Builder (kallas ibland RCE) är utformat för självbetjäningsrapportering (eller ad hoc-rapportering), som vanligtvis utförs av Marketing Operations. MPI är utformat för att ge marknadsledare och marknadsförare tillgång till prestandaanalys med ett enda klick. Minimal installation krävs.
 
 ## Vad hände med alternativet Föregående år i bidragsfiltret? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 

@@ -3,16 +3,16 @@ description: Åsidosättning av prioritet för utlösarkampanjer - Marketo Docs 
 title: Åsidosättning av prioritet för utlösarkampanjer
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '222'
 ht-degree: 1%
 
 ---
 
 # Åsidosättning av prioritet för utlösarkampanjer {#priority-override-for-trigger-campaigns}
 
-Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten för utlösarkampanjer för att ange prioriteringar som bättre överensstämmer med affärsmålen.
+Administratörer kan åsidosätta den av Marketo Engage fastställda prioriteten för utlösarkampanjer för att ange prioriteringar som bättre överensstämmer med affärsmålen.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 >
 >Endast administratörer eller användare med administratörsansvar bör ha åtkomst till åsidosättande av kampanjprioritet.
 
-1. Klicka på **[!UICONTROL Users & Roles]** i området [!UICONTROL Admin].
+1. Klicka på **[!UICONTROL Admin]** i området **[!UICONTROL Users & Roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
@@ -36,7 +36,7 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Under [!UICONTROL Access Marketing Activities] väljer du **[!UICONTROL Edit Trigger Campaign Priority]**. Klicka på **[!UICONTROL Save]**.
+1. Under **[!UICONTROL Access Marketing Activities]** väljer du **[!UICONTROL Edit Trigger Campaign Priority]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -50,7 +50,7 @@ Administratörer kan åsidosätta den Marketo Engage-fastställda prioriteten f�
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   Den nya prioritetsnivån visas på fliken Schema.
+   Den nya prioritetsnivån visas på fliken **[!UICONTROL Schedule]**.
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 

@@ -4,9 +4,9 @@ description: Importera en icke-latinsk teckenlista - Marketo Docs - produktdokum
 title: Importera en icke-latinsk teckenlista
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Men när du importerar den till Marketo kanske du ser att de tecken som inte är
 
 Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan identifiera alla tecken som inte är latinska. Den goda nyheten är att du kan följa några enkla steg för att åtgärda det.
 
-1. Välj **Spara som..** på menyn **Arkiv** i Excel.
+1. Välj **[!UICONTROL Save As]..** på menyn **[!UICONTROL File]** i Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Välj **UTF-16 Unicode-text (.txt)** som **Format** -alternativ. Då kodas filen som den visas i Marketo.
+1. Välj **[!UICONTROL UTF-16 Unicode Text (.txt)]** som **[!UICONTROL Format]**-alternativ. Då kodas filen som den visas i Marketo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan i
 
    >[!TIP]
    >
-   >Du kan öppna textfilen med **Anteckningar** om du använder Windows eller **TextEdit** om du använder en Mac.
+   >Du kan öppna textfilen med **[!DNL Notepad]** om du använder Windows eller **[!DNL TextEdit]** om du använder en Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Detta beror på att filen inte har sparats på rätt sätt så att Marketo kan i
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Välj **Sök och ersätt..** på menyn **Redigera**.
+1. Välj **[!UICONTROL Find and Replace]..** på menyn **[!UICONTROL Edit]**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Motsvarande åtgärd för Windows-användare är: **Redigera > Ersätt..**
+   >Motsvarande åtgärd för Windows-användare är: **[!UICONTROL Edit]> [!UICONTROL Replace]..**
 
-1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Klicka sedan på **Alla**.
+1. Klistra in fliken som du kopierade i steg 4 i den första rutan (som ska ersättas) och skriv in ett kommatecken i den andra rutan (ersätt med). Klicka sedan på **[!UICONTROL All]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

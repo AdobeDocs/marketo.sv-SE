@@ -4,9 +4,9 @@ description: Skapa en ny kontolista - Marketo Docs - produktdokumentation
 title: Skapa en ny kontolista
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Skapa och överför en lista över organisations- och domännamn för att rikta 
 
 ## Skapa en ny kontolista {#create-a-new-account-list-1}
 
-1. Gå till **Kontolistor**.
+1. Gå till **[!UICONTROL Account Lists]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Välj **Skapa ny**.
+1. Välj **[!UICONTROL Create New]**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Välj **Bläddra** och överför CSV-filen (kontrollera att CSV-filen uppfyller villkoren). Lägg till ett **namn** och en **beskrivning**. Klicka på **Spara**.
+1. Välj **[!UICONTROL Browse]** och överför din CSV-fil (kontrollera att CSV-filen uppfyller villkoren). Lägg till en **[!UICONTROL List Name]** och **[!UICONTROL Description]**. Klicka på **[!UICONTROL Save]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ På sidan **Kontolistor** klickar du på ikonen **Redigera** i listan.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Välj **Bläddra** och överför din nya CSV-fil. Den här filen ersätter originalfilen. Klicka på **Spara**. Den nya överförda filen kommer att vara i ett väntande läge tills den godkänts av Marketo Support, och när den är i ett väntande läge förblir den ursprungliga filen aktiv.
+Välj **[!UICONTROL Browse...]** och överför din nya CSV-fil. Den här filen ersätter originalfilen. Klicka på **[!UICONTROL Save]**. Den nya överförda filen kommer att vara i ett väntande läge tills den godkänts av Marketo Support, och när den är i ett väntande läge förblir den ursprungliga filen aktiv.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ CSV-filen ersätter den befintliga filen. Den befintliga listan förblir aktiv t
 
 ## Ta bort en namngiven kontolista {#delete-a-named-account-list}
 
-1. På sidan **Kontolistor** klickar du på ikonen Ta bort för den lista du vill ta bort.
+1. På sidan **[!UICONTROL Account Lists]** klickar du på ikonen Ta bort för den lista du vill ta bort.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Ett meddelande visas som bekräftar om du vill ta bort listan. Klicka på **OK**.
+1. Ett meddelande visas som bekräftar om du vill ta bort listan. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 

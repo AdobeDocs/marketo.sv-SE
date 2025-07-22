@@ -4,9 +4,9 @@ description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
 >[!NOTE]
 >
->Den här funktionen är bara tillgänglig för dem som har både tillägget för målkontohantering och en licensierad TAM.
+>Den här funktionen är bara tillgänglig för dem som har både tillägget [!UICONTROL Target Account Management] och en licensierad TAM.
 
-## Skapa en smart kontolista {#create-an-account-smart-list}
+## Skapa en [!UICONTROL Account Smart List] {#create-an-account-smart-list}
 
-1. Gå till **Marknadsföringsaktiviteter** i Marketo.
+1. Gå till **[!UICONTROL Marketing Activities]** i Marketo.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,29 +29,29 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Klicka på listrutan **Ny** och välj **Ny lokal resurs**.
+1. Klicka på listrutan **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Klicka på **Smart lista för konto**.
+1. Klicka på **[!UICONTROL Account Smart List]**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Ange ett namn och klicka på **Skapa** (Beskrivning och Etiketter är valfria).
+1. Ange ett namn och klicka på **[!UICONTROL Create]** (Beskrivning och Etiketter är valfria).
 
    ![](assets/account-smart-lists-5.png)
 
-Din smarta kontolista har skapats. Anvisningar om hur du definierar regler finns nedan.
+[!UICONTROL Account Smart List] har skapats! Anvisningar om hur du definierar regler finns nedan.
 
-## Regler för smarta kontouppsättningar {#account-smart-list-rules}
+## Regler för [!UICONTROL Account Smart List] {#account-smart-list-rules}
 
-Smarta kontolistor fungerar på liknande sätt som vanliga smarta listor, med ett betydande undantag: behållare.
+[!UICONTROL Account Smart Lists] fungerar på ungefär samma sätt som vanliga smarta listor, med ett betydande undantag: behållare.
 
-1. Om du vill definiera den smarta listan för ditt konto klickar du på fliken **Smart lista för konto**.
+1. Klicka på fliken [!UICONTROL Account Smart List] om du vill definiera **[!UICONTROL Account Smart List Rules]**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Välj önskade kontofilter. I det här exemplet väljer vi _Branschen är sjukvård_.
+1. Välj önskade kontofilter. I det här exemplet är _[!UICONTROL Industry][!UICONTROL Healthcare]_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,32 +77,32 @@ Så här ser behållaren ut.
 >
 >Om du skapar en behållare med filter skapas en&quot;och&quot;-regel, vilket innebär att den bara returnerar alla resultat som kombineras. I det här exemplet har en vårdbransch som tillsammans med en annan i Kalifornien _och_ har någon som är listad som CFO. Om du inte vill använda behållare släpper du bara filtret nedanför/ovanför det befintliga.
 
-Och det är allt! Se avsnittet nedan för att se hur du kan använda din smarta kontolista.
+Och det är allt! Titta i avsnittet nedan för att se hur du kan utnyttja din [!UICONTROL Account Smart List].
 
 >[!TIP]
 >
->Precis som med vanliga smarta listor kan du använda avancerad logik för att förfina resultaten ytterligare. Du behöver minst tre filter för att göra det, och i Smarta listor för konto är en behållare (oavsett hur många filter den innehåller) lika med ett filter.
+>Precis som med vanliga smarta listor kan du använda avancerad logik för att förfina resultaten ytterligare. Du behöver minst tre filter för att göra det, och i [!UICONTROL Account Smart Lists] är en behållare (oavsett hur många filter den innehåller) lika med ett filter.
 
-## Åtgärder för smart lista för konto {#account-smart-list-actions}
+## [!UICONTROL Account Smart List] åtgärder {#account-smart-list-actions}
 
-På fliken Översikt i den smarta kontolistan finns några åtgärdsalternativ.
+På fliken Översikt i [!UICONTROL Account Smart List] ser du några åtgärdsalternativ.
 
-**Exportera**: Detta exporterar resultatet av din smarta kontolista som en CSV-fil.
+**[!UICONTROL Export]**: Detta exporterar resultaten av din [!UICONTROL Account Smart List] som en CSV.
 
-**Klona**: Skapar en kopia av din smarta kontolista.
+**[!UICONTROL Clone]**: Skapar en kopia av din [!UICONTROL Account Smart List].
 
-**Skicka till annonsnätverk**: Skickar listan till LinkedIn som en ny matchad publik.
+**[!UICONTROL Send to Ad Network]**: Skickar listan till [!DNL LinkedIn] som en ny matchad publik.
 
-Du kan också referera till din smarta kontolista i en smart kampanj/lista som är standard genom att använda filtret _Personmedlem i Smart lista_ för ditt konto.
+Du kan också referera till din [!UICONTROL Account Smart List] i en standardlista för smarta kampanjer/listor genom att använda filtret _[!UICONTROL People Member of Account Smart List]_.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->Resultaten från Smart lista över personmedlemmar för konto visar alla personer i det/de identifierade kontot/kontona, inte bara personer som hittas via filter för matchad person i den smarta listan över konton.
+>Resultaten av [!UICONTROL People Member of Account Smart List] visar alla personer i de identifierade kontona, inte bara personer som hittas via matchade personfilter i den smarta listan över konton.
 
 >[!NOTE]
 >
 >**Definition**
 >
->**Personmedlem i kontots smarta lista**: I det här fallet refererar ordet &quot;medlem&quot; till själva kontot, så &quot;personmedlem&quot; betyder de faktiska personerna (Marketo-poster) i dessa konton.
+>**[!UICONTROL People Member of Account Smart List]**: I det här fallet refererar ordet &quot;medlem&quot; till själva kontot, så &quot;personmedlem&quot; betyder de faktiska personerna (Marketo-poster) i dessa konton.

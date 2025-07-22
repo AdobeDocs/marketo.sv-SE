@@ -4,26 +4,26 @@ description: Performance Insights Contribution Overview - Marketo Docs - produkt
 title: Performance Insights Contribute Overview
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Performance Insights Contribute Overview {#performance-insights-contribution-overview}
+# Översikt över [!UICONTROL Performance Insights]-bidrag {#performance-insights-contribution-overview}
 
-I Marketo Performance Insights visas bidragsvyn som standard.
+I Marketo [!UICONTROL Performance Insights] visas bidragsvyn som standard.
 
 ![](assets/one-1.png)
 
-Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via Multi-Touch på intäktspanelen.
+Välj det mätvärde som du vill visa prestandan efter. I det här exemplet tittar vi på möjligheter som vunnits via **[!UICONTROL Multi-Touch]** på kontrollpanelen _[!UICONTROL Revenue]_.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Lär dig mer om [First Touch och Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Läs mer om [[!UICONTROL First-Touch] och [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi på det aktuella året (hittills i år).
 
@@ -31,7 +31,7 @@ Välj vilken period du vill se mätvärden för. I det här exemplet tittar vi p
 
 >[!NOTE]
 >
->Vi har tillfälligt tagit bort markeringen&quot;Föregående år&quot;. Du kan fortfarande välja att visa hela föregående års prestandadata genom att använda alternativet Anpassat intervall.
+>Vi har tillfälligt tagit bort markeringen&quot;Föregående år&quot;. Du kan fortfarande visa hela föregående års prestandadata genom att använda valet **[!UICONTROL Custom Range]**.
 
 Mätvärdena presenteras via två diagram: ring och bar.
 
@@ -47,7 +47,7 @@ I stapeldiagrammet visas programprestanda i alla kanaler (tio program i taget) f
 
 >[!TIP]
 >
->Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **Skala Y-axeln så att den passar**.
+>Om du vill att staplarna i diagrammet ska skalförändras uppåt när du bläddrar genom grupperna markerar du kryssrutan **[!UICONTROL Scale Y axis to fit]**.
 
 För musen över ett fält för mer information.
 
@@ -57,16 +57,16 @@ Markera en eller flera kanaler i ringdiagrammet, så visas alla program som är 
 
 ![](assets/eight.png)
 
-Datarutnätet nedan fungerar som ett kalkylblad och visar alla tillgängliga mått under den valda attribueringsmodellen (First-Touch/Multi-Touch). Kolumnen som innehåller det mätvärde du valde markeras.
+Datarutnätet nedan fungerar som ett kalkylblad och visar alla tillgängliga mått under den valda attribueringsmodellen ([!UICONTROL First-Touch]/[!UICONTROL Multi-Touch]). Kolumnen som innehåller det mätvärde du valde markeras.
 
 ![](assets/9.png)
 
-| **Vunna affärsmöjligheter** | Andelen kredit (i numeriskt värde) som programmet fick för att påverka den vunna affärsmöjligheten |
+| **[!UICONTROL Opportunities Won]** | Andelen kredit (i numeriskt värde) som programmet fick för att påverka den vunna affärsmöjligheten |
 |---|---|
-| **Vunnen intäkt** | Andelen kredit (i penningvärde) som programmet fick för att påverka den vunna affärsmöjligheten |
-| **Kostnad** | Total kostnad för programmet |
-| **Kostnad per affärsmöjlighet vunnen** | Förhållandet mellan kostnaden för programmet och den andel kredit (i numeriskt värde) som programmet fått för att påverka skapandet av nya möjligheter |
-| **Intäkter vunna till kostnadskvot** | Förhållandet mellan andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet |
+| **[!UICONTROL Revenue Won]** | Andelen kredit (i penningvärde) som programmet fick för att påverka den vunna affärsmöjligheten |
+| **[!UICONTROL Cost]** | Total kostnad för programmet |
+| **[!UICONTROL Cost Per Opportunity Won]** | Förhållandet mellan kostnaden för programmet och den andel kredit (i numeriskt värde) som programmet fått för att påverka skapandet av nya möjligheter |
+| **[!UICONTROL Revenue Won To Cost Ratio]** | Förhållandet mellan andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet |
 
 Utöka en kanal och se de tio viktigaste programmen, med de återstående programmen kombinerade.
 

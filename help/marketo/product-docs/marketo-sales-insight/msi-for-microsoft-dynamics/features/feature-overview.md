@@ -4,43 +4,18 @@ description: Funktionsöversikt - Marketo Docs - produktdokumentation
 title: Översikt över funktioner
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 4%
 
 ---
 
 # Översikt över funktioner {#feature-overview}
 
-Följande funktioner är tillgängliga i den nya MSI MSD-lösningen.
+Följande funktioner är tillgängliga i nya MSI MSD Solution.
 
-## Marketo Sales Insight panel in Lead layout  {#marketo-sales-insight-panel-in-lead-layout}
-
-* Stjärnor och flamman
-* Intressant stund
-* Webbaktivitet
-* Poäng
-* E-post (öppna och klicka)
-
-## Marketo Sales Insight, anpassade fält i leadlayout  {#marketo-sales-insight-custom-fields-in-lead-layout}
-
-* Leadpoäng
-* Relativa poäng
-* Prioritet
-* Akut
-
-## Marketo Sales Insight call to action button in Lead layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
-
-* Lägg till i Marketo Campaign
-* Skicka e-post till Marketo
-
-## Marketo Sales Insight bulk action button in Lead list view  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
-
-* Lägg till i Marketo Campaign
-* Skicka e-post till Marketo
-
-## Marketo Sales Insight panel in Contact layout  {#marketo-sales-insight-panel-in-contact-layout}
+## Panelen [!DNL Marketo Sales Insight] i Lead-layout  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Stjärnor och flamman
 * Intressant stund
@@ -48,24 +23,49 @@ Följande funktioner är tillgängliga i den nya MSI MSD-lösningen.
 * Poäng
 * E-post (öppna och klicka)
 
-## Marketo Sales Insight, anpassade fält i kontaktlayout  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## [!DNL Marketo Sales Insight] anpassade fält i lead-layout  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Leadpoäng
 * Relativa poäng
 * Prioritet
 * Akut
 
-## Marketo Sales Insight call to action button in Contact layout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## [!DNL Marketo Sales Insight] call to action-knapp i lead-layout  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Lägg till i Marketo Campaign
 * Skicka e-post till Marketo
 
-## Åtgärdsknappen Marketo Sales Insight bulk action button in Contact list view  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## [!DNL Marketo Sales Insight]-gruppåtgärdsknapp i vyn Lead-lista  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Lägg till i Marketo Campaign
 * Skicka e-post till Marketo
 
-## Marketo Sales Insight panel in Account Layout {#marketo-sales-insight-panel-in-account-layout}
+## Panelen [!DNL Marketo Sales Insight] i kontaktlayout  {#marketo-sales-insight-panel-in-contact-layout}
+
+* Stjärnor och flamman
+* Intressant stund
+* Webbaktivitet
+* Poäng
+* E-post (öppna och klicka)
+
+## [!DNL Marketo Sales Insight] anpassade fält i kontaktlayout  {#marketo-sales-insight-custom-fields-in-contact-layout}
+
+* Leadpoäng
+* Relativa poäng
+* Prioritet
+* Akut
+
+## [!DNL Marketo Sales Insight] call to action-knapp i kontaktlayout  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+
+* Lägg till i Marketo Campaign
+* Skicka e-post till Marketo
+
+## [!DNL Marketo Sales Insight]-gruppåtgärdsknapp i vyn Kontaktlista  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+
+* Lägg till i Marketo Campaign
+* Skicka e-post till Marketo
+
+## Panelen [!DNL Marketo Sales Insight] i kontolayout {#marketo-sales-insight-panel-in-account-layout}
 
 * Stjärnor och flamman
 * Intressant stund

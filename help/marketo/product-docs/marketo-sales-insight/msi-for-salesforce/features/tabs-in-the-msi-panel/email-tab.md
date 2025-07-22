@@ -3,9 +3,9 @@ description: Fliken E-post - Marketo Docs - produktdokumentation
 title: Fliken E-post
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ På fliken E-post visas en lista med alla e-postmeddelanden som skickas till en 
 * Öppnad
 * Klickat
 
-Ett e-postmeddelande med Marketo-ikonen bredvid ämnesraden visar att e-postmeddelandet har skickats från Marketo. Ett e-postmeddelande utan Marketo-ikonen anger att e-postmeddelandet skickades från Sales Insight.
+Ett e-postmeddelande med Marketo-ikonen bredvid ämnesraden visar att e-postmeddelandet har skickats från Marketo. Ett e-postmeddelande utan Marketo-ikonen indikerar att e-post skickades från [!DNL Sales Insight].
 
-Du kan klicka på knappen &quot;Kontrollera leveransstatus&quot; för att öppna en ny flik som visar leveransstatus för e-postmeddelanden:
+Du kan klicka på knappen [!UICONTROL Check Delivery Status] för att öppna en ny flik som visar leveransstatus för e-postmeddelanden:
 
 <table> 
  <tbody>
@@ -38,5 +38,5 @@ Du kan klicka på knappen &quot;Kontrollera leveransstatus&quot; för att öppna
 
 >[!NOTE]
 >
->* Leveransstatus för e-postmeddelanden som skickas från Sales Insight från Salesforce CRM är inte tillgänglig.
->* På den här fliken visas mallnamn för e-postmeddelanden som skickas från Marketo och ämnesraden för e-postmeddelanden som skickas från Sales Insight. Öppna i förhandsgranskningsläge om du vill visa ämnesraden för skickade e-postmeddelanden eller gå till e-postfliken i lead-/kontakt-/konto-/affärsmöjlighetspanelen.
+>* Leveransstatusen för e-postmeddelanden som skickas från [!DNL Sales Insight] från [!DNL Salesforce] CRM är inte tillgänglig.
+>* På den här fliken visas mallnamn för e-postmeddelanden som skickas från Marketo och ämnesraden för e-postmeddelanden som skickas från [!DNL Sales Insight]. Öppna i förhandsgranskningsläge om du vill visa ämnesraden för skickade e-postmeddelanden eller gå till e-postfliken i lead-/kontakt-/konto-/affärsmöjlighetspanelen.

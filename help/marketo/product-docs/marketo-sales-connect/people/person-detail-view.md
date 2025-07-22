@@ -4,9 +4,9 @@ description: Personinformationsvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ I persondetaljvyn finns en detaljerad profil för varje person i ditt MSC-konto.
 
 ## Åtkomst {#how-to-access}
 
-1. Klicka på fliken **Personer** för att få åtkomst till vyn med persondetaljer.
+1. Klicka på fliken **[!UICONTROL People]** om du vill få åtkomst till personinformationsvyn.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ Innehåller all kontaktinformation för personen.
 
 **Kontoinformation**
 
-* Kan lägga till en person i Salesforce
-* Hämta konto- och lead-/kontaktinformation från Salesforce
+* Kan lägga till en person i [!DNL Salesforce]
+* Hämta konto- och lead-/kontaktinformation från [!DNL Salesforce]
 
 **Anpassade fält**
 
@@ -76,19 +76,19 @@ Visar din utåtriktade historik. Inkluderar e-post, kampanjer och samtal.
 
 ![](assets/person-detail-view-5.png)
 
-**Försäljningskampanjer**
+**[!UICONTROL Sales Campaigns]**
 
 * Se alla aktiva eller slutförda kampanjer som den här personen tillhör
 
-**Marknadsföringskampanjer**
+**[!UICONTROL Marketing Campaigns]**
 
 * Se alla marknadsföringskampanjer som den här personen är medlem i
 
-**Försäljningsmejl**
+**[!UICONTROL Sales Emails]**
 
 * Visa e-postmeddelanden som du har skickat till den här personen och interaktionsstatistik
 
-**Försäljningssamtal**
+**[!UICONTROL Sales Calls]**
 
 * Visa alla samtal du har gjort till den här personen
 

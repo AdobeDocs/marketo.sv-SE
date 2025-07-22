@@ -4,9 +4,9 @@ description: Verifiera push-konfiguration - Marketo Docs - produktdokumentation
 title: Verifiera push-konfiguration
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
-1. Klicka på **Admin**.
+1. Klicka på **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Välj **Mobilappar**.
+1. Välj **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ Verifiera push-konfigurationen för att säkerställa att allt är synkat.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klicka på **Åtgärder för mobilappar** och välj **Verifiera push-konfiguration**.
+1. Klicka på **[!UICONTROL Mobile App Actions]** och välj **[!UICONTROL Verify Push Configuration]**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bekräfta att plattformarna lästes och klicka på **Stäng**.
+1. Bekräfta att plattformarna lästes och klicka på **[!UICONTROL Close]**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 
