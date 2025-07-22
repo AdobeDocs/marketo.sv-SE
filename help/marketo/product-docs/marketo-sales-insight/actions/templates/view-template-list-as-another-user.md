@@ -34,4 +34,4 @@ Som administratör kan du visa mallar som alla användare.
 
    >[!NOTE]
    >
-   >Du kan också använda filter eller sökfunktionen tillsammans med _[!UICONTROL View As]_för att visa vad som är mest relevant för dig.
+   >Du kan också använda filter eller sökfunktionen tillsammans med _[!UICONTROL View As]_&#x200B;för att visa vad som är mest relevant för dig.

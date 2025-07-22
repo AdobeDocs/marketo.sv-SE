@@ -36,7 +36,7 @@ Hur skapar ni en kampanj?
    >
    >Skapa en ny kategori genom att klicka på **+** bredvid **[!UICONTROL Categories]**.
 
-1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **[!UICONTROL  Continue]**.
+1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **[!UICONTROL &#x200B; Continue]**.
 
    ![](assets/three-1.png)
 

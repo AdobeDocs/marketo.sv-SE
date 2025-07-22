@@ -43,6 +43,7 @@ I det här inlägget beskrivs hur du konfigurerar och integrerar RTP-plattformen
    1. Välj **[!UICONTROL Account].**
    1. Välj **[!UICONTROL Property].**
    1. Välj **[!UICONTROL Custom Definitions]** och **[!UICONTROL Custom Dimensions]**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Lägg till en ny anpassad dimension. Klicka på **[!UICONTROL +New Custom Dimension]**

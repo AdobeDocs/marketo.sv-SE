@@ -15,7 +15,7 @@ ht-degree: 1%
 
 När ni automatiserar en kampanj vill ni förmodligen inte att era e-postmeddelanden ska skickas ut på en lördag eller söndag. Annars kan du hoppa över helger.
 
-1. Klicka på fliken [!DNL Sales Connect] i **[!UICONTROL  Campaigns]**.
+1. Klicka på fliken [!DNL Sales Connect] i **[!UICONTROL &#x200B; Campaigns]**.
 
    ![](assets/one-2.png)
 

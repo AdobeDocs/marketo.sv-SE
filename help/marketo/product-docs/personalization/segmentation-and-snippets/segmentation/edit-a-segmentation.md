@@ -53,7 +53,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till [!UICONTROL Draft] i ditt **** segment **[!UICONTROL Smart List]**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Gå till [!UICONTROL Draft] i ditt **&#x200B;**&#x200B;segment **[!UICONTROL Smart List]**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
