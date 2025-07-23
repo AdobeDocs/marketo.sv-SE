@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
 workflow-type: tm+mt
-source-wordcount: '9296'
+source-wordcount: '9294'
 ht-degree: 0%
 
 ---
@@ -1029,8 +1029,8 @@ ht-degree: 0%
          + [Funktionsjämförelse](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-postredigering](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Redigering av e-postmallar](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [Anpassat CSS-dokument](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Märkeskit-dok](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [Anpassad CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [Varumärkessats](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Testa e-poståtergivning med Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1668,7 +1668,7 @@ ht-degree: 0%
    + Prediktivt innehåll {#predictive-content}
       + [Sammanfattning av prediktivt innehåll](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definiera en smart lista för aktiviteter med prediktivt innehåll](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [Översikt över prediktiv innehållsanalys](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [Prediktiv Content Analytics-översikt](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + Komma igång {#getting-started}
          + [Inställningar för algoritmmål](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Skapa innehållsmönster](product-docs/predictive-content/getting-started/create-content-patterns.md)
