@@ -2,9 +2,10 @@
 description: Versionsinformation - maj 2025 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2025
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -29,16 +30,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:65%">Funktion</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
-  </tr>
-  <tr> 
-   <td><strong>E-posta innehåll i Personalization</strong>: Marketo Engage följer nu samma kamelversionssyntax som andra AEP-programtoken, vilket ger en konsekvent upplevelse för alla Adobe DX-produkter. Alla standardtoken, liksom Marketo Engage-specifika tokens som Medlem, Program och Mina token, är tillgängliga i nya Email Designer.</td> 
-   <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization Tokens</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong>Rollbaserad åtkomstkontroll för e-post-Designer Assets</strong>: En ny förbättring av det rollbaserade åtkomstkontrollssystemet (RBAC) ger mer detaljerade behörigheter och förbättrad användarhantering för resurser som drivs av nya Email Designer.</td> 
@@ -71,12 +62,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Integreringsuppdatering för offlinekonvertering för Facebook**: Den 29 maj 2025 migreras [Facebook-integreringen för offlinekonvertering](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} för Marketo Engage till det nya Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} , på grund av att Meta har ersatt [offlinekonverterings-API:t](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} i linje med Graph API-versionshantering. Mer information finns i Metas guide om att [skicka offlinehändelser via Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI för offline).
+* **Integreringsuppdatering för offlinekonvertering för Facebook**: Den 29 maj 2025 migreras [Facebook-integreringen för offlinekonvertering](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} för Marketo Engage till det nya Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} , på grund av att Meta har ersatt [offlinekonverterings-API:t](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} i linje med Graph API-versionshantering. Mer information finns i Metas guide om att [skicka offlinehändelser via Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI för offline).
 
 * **Ny analysfunktion - offentlig Beta**: [Avancerad BI-analys](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (kallades tidigare Intäktsutforskaren och avancerad Report Builder) började distribueras till alla nuvarande användare av intäktscykelutforskaren i mitten av april. Det nya verktyget erbjuder ett flexibelt gränssnitt för rapportering och visualisering av data från Marketo Engage, med detaljerad information om utveckling, prestanda och mycket annat. Den har bättre interaktivitet och visualisering, snabbare prestanda och en smidigare och mer intuitiv användarupplevelse.
 
 För att få tillgång till den här funktionen måste du ha köpt tillägget Avancerad BI Analytics. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
