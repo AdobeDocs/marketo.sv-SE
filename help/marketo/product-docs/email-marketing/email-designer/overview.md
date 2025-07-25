@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att
 
 +++Lär dig hur du kommer åt e-postdesignern
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -53,8 +53,6 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 * [Fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Lär dig hur du skapar och använder visuella innehållsfragment som återanvändbara komponenter för e-post och e-postmallar.
 
 * [Anpassningsbara fragment](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Lär dig hur du anpassar fragment genom att göra vissa fält redigerbara.
-
-* [Personalization Tokens](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Lär dig mer om det nya formatet för personaliseringstoken i den nya e-postdesignern.
 
 * [Arbeta med AEM-resurser](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Lär dig hur du enkelt får tillgång till dina digitala AEM-resurser som kan användas i Marketo Engage.
 
