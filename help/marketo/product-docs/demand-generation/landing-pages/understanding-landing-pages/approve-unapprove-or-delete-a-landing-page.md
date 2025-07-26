@@ -4,85 +4,73 @@ description: Godkänn, avgodkänn eller ta bort en landningssida - Marketo Docs 
 title: Godkänn, Avgodkänn eller Ta bort en landningssida
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
 # Godkänn, Avgodkänn eller Ta bort en landningssida {#approve-unapprove-or-delete-a-landing-page}
 
-Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sidor tillgängliga i resten av systemet. När du redigerar en godkänd landningssida sparar Marketo utkastet, men fortsätter att använda den godkända versionen tills du godkänner utkastet.
+Landningssidor är i utkastläge tills du godkänner dem. Godkännande gör sidor tillgängliga i resten av systemet. När du redigerar en godkänd landningssida sparar Marketo Engage utkastet, men fortsätter att använda den godkända versionen tills du godkänner utkastet.
 
 ## Godkänn en landningssida {#approve-a-landing-page}
 
-1. Välj en landningssida, gå till **[!UICONTROL Landing Page Actions]** och klicka på **[!UICONTROL Approve]**.
+1. Välj önskad landningssida och klicka på **[!UICONTROL Approve draft]**.
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 
    >[!TIP]
    >
-   >Du kan [godkänna flera sidor samtidigt](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) för att göra ditt liv enklare.
+   >Du kan [godkänna flera sidor samtidigt](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) om du vill.
 
-   ![](assets/image2014-9-16-15-3a28-3a22.png)
+Du kan också högerklicka på din landningssida i den vänstra navigeringen och välja **[!UICONTROL Approve]**.
 
-1. Du kan också högerklicka på landningssidan och klicka på **[!UICONTROL Approve]**.
-
-   ![](assets/image2014-9-16-15-3a30-3a4.png)
-
-   >[!NOTE]
-   >
-   >När landningssidans ikon har godkänts är den grön.
-
-## Avgodkänna en landningssida {#unapprove-a-landing-page}
-
-1. Välj en landningssida, gå till **[!UICONTROL Landing Page Actions]** och klicka på **[!UICONTROL Unapprove]**.
-
-   ![](assets/image2014-9-16-15-3a31-3a8.png)
-
-1. Du kan också högerklicka på landningssidan och klicka på **[!UICONTROL Unapprove]**.
-
-   ![](assets/image2014-9-16-15-3a31-3a34.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
 
 >[!NOTE]
 >
->Den ej godkända landningssidan publiceras inte längre på webben och kommer inte att generera någon ytterligare aktivitet. Besökare som inte har godkänt landningssidor och deras Facebook-flikar ser [återställningssidan](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>En godkänd landningssida har en grön bockmarkering.
+
+## Avgodkänna en landningssida {#unapprove-a-landing-page}
+
+1. Välj önskad landningssida och klicka på **[!UICONTROL Unapprove]**.
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-3.png)
+
+Du kan också högerklicka på din landningssida i den vänstra navigeringen och välja **[!UICONTROL Unapprove]**.
+
+![](assets/approve-unapprove-or-delete-a-landing-page-4.png)
+
+>[!NOTE]
+>
+>Din ej godkända landningssida publiceras inte längre på webben och genererar ingen ytterligare aktivitet. Besökare på icke godkända landningssidor och deras Facebook-flikar ser [återställningssidan](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Ta bort en landningssida {#delete-a-landing-page}
 
-1. Välj en landningssida, gå till **[!UICONTROL Landing Page Actions]** och klicka på **[!UICONTROL Delete]**.
+1. Välj önskad landningssida. Klicka på listrutan **[!UICONTROL Landing Page Actions]** och välj **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-16-15-3a49-3a59.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Du kan inte ta bort en godkänd landningssida. Ta bort godkännandet först.
+   >Du kan inte ta bort en godkänd landningssida. Du måste avgodkänna det först.
 
-1. Du kan också högerklicka på landningssidan och klicka på **[!UICONTROL Delete]**.
+Du kan också högerklicka på din landningssida i den vänstra navigeringen och välja **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-16-15-3a50-3a40.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-6.png)
 
 ## Ta bort flera landningssidor {#delete-multiple-landing-pages}
 
-Vill du ta bort mer än en landningssida åt gången? Så här gör du.
+1. Klicka på [!UICONTROL Design Studio] på huvudskärmen **[!UICONTROL Landing Pages]**.
 
-1. Klicka på [!UICONTROL Design Studio] i **[!UICONTROL Landing Pages]**.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-   ![](assets/one.png)
+1. Välj önskade landningssidor. Klicka på listrutan **[!UICONTROL Landing Page Actions]** och välj **[!UICONTROL Delete]**.
 
-1. Klicka på den första landningssidan som du vill ta bort och Skift-klicka sedan på den sista.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-   ![](assets/two.png)
+1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
-   >[!TIP]
-   >
-   >Du kan också använda Ctrl-klicka för att ta bort flera landningssidor som inte är sekventiella.
-
-1. Klicka på listrutan **[!UICONTROL Landing Page Actions]** och välj **[!UICONTROL Delete]**.
-
-   ![](assets/three.png)
-
-1. Klicka på **[!UICONTROL Delete]**.
-
-   ![](assets/four.png)
-
-Häftig! Nu vet du hur man godkänner, avgodkänner och tar bort landningssidor.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)
