@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '677'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>Skicka e-post till Designer - Stöd för att flytta Assets och ta bort program</strong>: Du kan snabbt flytta en e-postresurs mellan program. Nu kan du även ta bort program som innehåller nya e-postresurser för designern.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -53,8 +53,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>Skicka e-post till Designer - Firefox-stöd</strong>: Designer för e-post stöds nu helt i Mozilla Firefox. För bästa möjliga upplevelse bör du alltid hålla webbläsaren uppdaterad.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -63,8 +63,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>E-posta Designer - Simulera innehåll från egenskapssidan</strong>: Simulera innehåll för e-postresurser från <i>E-postegenskaper</i> utan att behöva gå tillbaka till redigeringsskärmen.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -73,8 +73,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>Skicka e-post till Designer - rollbaserad åtkomstkontroll för Assets</strong>: I majversionen implementerades rollbaserad åtkomstkontroll (RBAC) för behörighet att redigera, godkänna och ta bort. Läsbehörigheter är nu tillgängliga i den här versionen.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -83,8 +83,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>E-posta Designer - Redigera e-postegenskaper för publicerade e-postmeddelanden</strong>: Gör ändringar i <i>E-postegenskaper</i> även efter att e-postmeddelandet har publicerats.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -93,8 +93,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr> 
    <td><strong>E-posta Designer - Välj konfiguration för domändomän och domän-IP</strong>: Nu kan du välja en profileringsdomän och en domän-IP-konfiguration för varje e-postresurs.</td> 
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
+   <td>Levererat</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,7 +142,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Munchkin Cookies och ECID:n kan visas</strong>: Nu kan du se en lista över Munchkin cookie- och ECID-nummer (Experience Cloud Identity) på fliken _Info_ på en <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">personinformationssida</a>, vilket minskar beroendet av API-anrop för att få tillgång till informationen.</td>
+   <td><strong>Munchkin Cookies och ECID:n kan visas</strong>: Nu kan du se en lista över Munchkin cookie- och ECID-nummer (Experience Cloud Identity) på fliken _Info_ på en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">personinformationssida</a>, vilket minskar beroendet av API-anrop för att få tillgång till informationen.</td>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -152,12 +152,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Marketo Engage Identity End of Life**: I augusti 2025 börjar Adobe fasa ut stödet för Marketo Engage Identity (logga in via `login.marketo.com`). För att förhindra avbruten åtkomst till Marketo Engage måste du övergå till [Adobe Identity](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} senast den 30 september 2025.
+* **Marketo Engage Identity End of Life**: I augusti 2025 börjar Adobe fasa ut stödet för Marketo Engage Identity (logga in via `login.marketo.com`). För att förhindra avbruten åtkomst till Marketo Engage måste du övergå till [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} senast den 30 september 2025.
 
-   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphör 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console är avsedd för augusti 2025.
+   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphör 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console är avsedd för augusti 2025.
 
-   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphör den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphör den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 oktober 2025. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

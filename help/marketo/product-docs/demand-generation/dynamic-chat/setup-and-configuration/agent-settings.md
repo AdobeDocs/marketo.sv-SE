@@ -3,9 +3,9 @@ description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,9 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 
 >[!IMPORTANT]
 >
->[Tillgänglighetsväxlingen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** det du anger på fliken Live-chatttillgänglighet. Så om du är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver du inte ändra dina agentinställningar. Tillgängligheten växlar status tills du ändrar den manuellt eller tills nästa tidsblock i tillgängligheten nås.
+>* [Tillgänglighetsväxlingen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} i agentinkorgen **åsidosätter** vad som anges på fliken _Live-chatttillgänglighet_. Så om agenten är schemalagd som tillgänglig från 1p-5p men behöver ta en snabb paus vid 3p behöver de inte ändra sina agentinställningar. Tillgängligheten växlar status tills den ändras manuellt, tills nästa tidsblock i agentens tillgänglighet nås, eller tills midnatt om agentens angivna tidszon nås (mer information finns i nästa punkt).
+>
+>* När agenten använder alternativet för tillgänglighet för att ändra sin status till &quot;tillgänglig&quot; återställs deras status automatiskt (växlar till inte tillgänglig) vid midnatt om tidszonen som anges i deras tillgänglighetsschema. Om ingen tidszon anges används UTC (Coordinated Universal Time) som standard.
 
 >[!TIP]
 >
@@ -98,7 +100,7 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 
 ## Profilfoto för agent
 
-Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html).
+Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
 
 >[!NOTE]
 >

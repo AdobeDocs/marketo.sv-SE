@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att
 
 +++Lär dig hur du kommer åt e-postdesignern
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -114,4 +114,4 @@ Om du loggar in på Marketo Engage via [Adobe Experience Cloud](https://experien
 
 **Vilka webbläsare kan jag använda med nya e-post-Designer?**
 
-Du bör använda Google Chrome, Apple Safari eller Microsoft Edge. Fullt stöd för Mozilla Firefox kommer snart.
+Vi rekommenderar att du använder Google Chrome, Apple Safari, Microsoft Edge eller Mozilla Firefox nu.
