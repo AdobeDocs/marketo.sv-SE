@@ -6,9 +6,9 @@ description: Lär dig hur du använder SpamAssassin för att testa ditt e-postin
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ SpamAssassin analyserar ditt innehåll och tilldelar ett poängvärde baserat p�
 
    >[!IMPORTANT]
    >
-   >Om poängen är högre än 5 kan din e-postadress vara blockerad eller markerad som skräppost vid leverans.
+   >Om poängen är högre än 5 kan e-postmeddelandet blockeras av mottagaren eller markeras som skräppost vid leveransen.
 
 1. Om du anser att poängen är för höga kan du redigera ditt innehåll i e-postmeddelandet i Designer baserat på rapportens resultat och sedan köra **skräppostrapporten** igen.
 
@@ -53,4 +53,4 @@ När poängen är som du vill ha dem kan de skickas.
 
 >[!NOTE]
 >
->Spam score härleds via SpamAssassin, och reglerna ägs inte av Adobe. Mer information om dessa regler finns i [SpamAssassin-dokumentationen](https://spamassassin.apache.org/#_blank){target="_blank"}. En fullständig lista över fel [visas här](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
+>Spam score härleds via SpamAssassin, och **regler ägs inte av Adobe**. Mer information om dessa regler finns i [SpamAssassin-dokumentationen](https://spamassassin.apache.org/#_blank){target="_blank"}. En fullständig lista över fel [visas här](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
