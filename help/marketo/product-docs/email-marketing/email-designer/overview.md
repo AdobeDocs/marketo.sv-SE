@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Välkommen till nya Adobe Marketo Engage Email Designer.
 
-E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
+Designer för e-post är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ E-postdesignern är den senaste innovationen i Marketo Engage som är avsedd att
 
 ## Åtkomst {#how-to-access}
 
-+++Lär dig hur du kommer åt e-postdesignern
++++Lär dig hur du kommer åt e-postmeddelandet om Designer
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -64,13 +64,15 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 * [Testa e-poståtergivning med Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Utnyttja ditt Litmus-konto i Marketo Engage för att omedelbart se hur din e-post återges i vanliga e-postklienter.
 
+* [Spam Detection with SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Om du använder SpamAssassin i Marketo Engage kan du testa ditt e-postinnehåll och se sannolikheten för att Internet-leverantörer/postlådeleverantörer markerar det som skräppost.
+
 * [Funktionsjämförelse](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Jämför tillgängligheten för funktioner i den tidigare e-postredigeraren (e-postredigeraren 2.0) och nya e-post-Designer.
 
 ## Vanliga frågor och svar {#faq}
 
 **Kommer den gamla e-postredigeraren att fortsätta fungera? I så fall, hur länge?**
 
-Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postdesignern. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta fungera under hela 2025.
+Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postversionen av Designer. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta fungera under hela 2025.
 
 **Vilka program kan jag använda de nya e-postmeddelandena från Designer i?**
 
@@ -82,11 +84,11 @@ E-postmallar från den klassiska redigeraren kan inte refereras i den nya design
 
 **Kan jag enkelt flytta nya designerresurser till ett annat program?**
 
-Inte just nu. Men den funktionen kommer snart.
+Ja!
 
-**Kan resurser redigeras via API i den nya e-postdesignern?**
+**Kan resurser redigeras via API i den nya e-postversionen av Designer?**
 
-Assets som redigeras via API stöds för närvarande inte i den nya e-postdesignern.
+Assets som redigeras via API stöds för närvarande inte i nya Email Designer.
 
 **Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyper och färger)?**
 
@@ -100,7 +102,7 @@ Ja, absolut, mer anpassningsbart med vår WYSIWYG-redigerare (what-you-see-is-wh
 
 Det är WYSIWYG; HTML kunskap behövs inte. Du kan enkelt skapa mallar i designern, vilket minskar behovet av externa webbutvecklare. Du kan dock fortfarande uppdatera CSS och redigera enskilda avsnitt via HTML. Vi arbetar också på ett sätt att enkelt migrera mallar från den klassiska redigeraren till den nya designern.
 
-**Har den nya e-postdesignern stöd för AMP-språk?**
+**Stöder den nya e-postadressen Designer AMP-språk?**
 
 Det har för närvarande inget stöd för AMP.
 

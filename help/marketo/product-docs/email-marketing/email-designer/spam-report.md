@@ -1,21 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Spam Assassin
+title: Rapport om skräppost
 description: Lär dig hur du använder SpamAssassin för att testa ditt e-postinnehåll och se sannolikheten för att det markeras som skräppost.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Spam Assassin {#spam-assassin}
+# Rapport om skräppost {#email-spam-report}
 
 Med SpamAssassin i Marketo Engage kan du testa ditt e-postinnehåll och se sannolikheten för att Internet-leverantörer/postlådeleverantörer markerar det som skräppost.
 
@@ -23,24 +21,36 @@ SpamAssassin analyserar ditt innehåll och tilldelar ett poängvärde baserat p�
 
 ## Åtkomst till skräppostrapporten {#access-the-spam-report}
 
-1. Klicka på knappen **Skräppostrapport** på skärmen Simulera.
+1. Klicka på **Simulera innehåll** i ditt e-postmeddelande.
 
-SCREENSHOT
+   ![](assets/email-spam-report-1.png){width="600" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Om du inte redan har lagt till en testprofil måste du göra det direkt efter steg 1.
+
+1. Klicka på knappen **Spam-rapport**.
+
+   ![](assets/email-spam-report-2.png)
 
 1. En skräppostrapport genererar.
 
-SCREENSHOT
+   ![](assets/email-spam-report-3.png){width="600" zoomable="yes"}
 
 1. Kontrollera poängen och beskrivningarna för varje objekt.
 
->[!IMPORTANT]
->
->Om poängen är högre än 5 kan din e-postadress vara blockerad eller markerad som skräppost vid leverans.
+   >[!IMPORTANT]
+   >
+   >Om poängen är högre än 5 kan din e-postadress vara blockerad eller markerad som skräppost vid leverans.
 
-1. Om du anser att poängen är för höga redigerar du ditt innehåll i e-post-Designer och kör sedan skräppostrapporten igen tills poängen är där du vill att den ska vara.
+1. Om du anser att poängen är för höga kan du redigera ditt innehåll i e-postmeddelandet i Designer baserat på rapportens resultat och sedan köra **skräppostrapporten** igen.
 
-SCREENSHOT
+   ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
+
+När poängen är som du vill ha dem kan de skickas.
+
+![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->Spam score härleds via SpamAssassin, och reglerna ägs inte av Adobe. Mer information om dessa regler finns i [SpamAssassin-dokumentationen](https://spamassassin.apache.org/#_blank). En fullständig lista över fel [visas här](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com).
+>Spam score härleds via SpamAssassin, och reglerna ägs inte av Adobe. Mer information om dessa regler finns i [SpamAssassin-dokumentationen](https://spamassassin.apache.org/#_blank){target="_blank"}. En fullständig lista över fel [visas här](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
