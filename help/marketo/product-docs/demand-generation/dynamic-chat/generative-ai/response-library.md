@@ -3,7 +3,7 @@ description: Svarsbibliotek - Marketo Docs - produktdokumentation
 title: Svarsbibliotek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -56,7 +56,7 @@ På ett och samma ställe visar du alla dina frågor, deras godkännandestatus o
 
 ## Redigera och skicka frågor/svar gruppvis {#bulk-edit-and-upload-questions-responses}
 
-Instruktioner om hur du gör satsvisa redigeringar i den hämtade Excel-filen finns nedan. De visas även på fliken Uppgiftsinformation i filen.
+Instruktioner om hur du gör massredigeringar i den [hämtade Excel-filen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} finns nedan. De visas även på fliken Uppgiftsinformation i filen.
 
 <table>
 <thead>
