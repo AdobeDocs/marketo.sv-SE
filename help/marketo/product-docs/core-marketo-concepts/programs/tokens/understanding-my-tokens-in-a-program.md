@@ -4,9 +4,9 @@ description: Förstå mina token i ett program - Marketo Docs - produktdokumenta
 title: Förstå mina token i ett program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Exempel:
   </tr> 
   <tr> 
    <td>E-postmeddelande <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting" title="Följ länk" rel="nofollow">här</a>. </td> 
+   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Följ länk" rel="nofollow">här</a>. </td> 
   </tr> 
   <tr> 
    <td>Nummer <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ När du skapar en ny token kan andra objekt i trädet referera till den. Det fin
 Du kan göra globala variabler och sedan åsidosätta dem på lägre nivåer i trädet.
 
 När du flyttar program och mappar påverkas även tokens. Kontrollera alltid för att se till att referenser inte bryts under flyttningen.
+
+>[!IMPORTANT]
+>
+>Kapslade token stöds inte i [gruppkampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
