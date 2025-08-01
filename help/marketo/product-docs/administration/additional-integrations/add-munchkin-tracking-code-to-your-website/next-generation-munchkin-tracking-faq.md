@@ -46,8 +46,8 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 >[!NOTE]
 >
 >**Utlösare**: Besök webbsidan, webbsidan prissätter sidan
->>**Flöde**: Ändra poäng +10 och Intressant ögonblick
->>**Webb**: Sidan med priser visas
+>&#x200B;>**Flöde**: Ändra poäng +10 och Intressant ögonblick
+>&#x200B;>**Webb**: Sidan med priser visas
 >
 >Om en anonym person besöker prissidan med [!DNL Munchkin] V2 kommer han/hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >
