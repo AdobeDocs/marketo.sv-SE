@@ -3,9 +3,9 @@ description: Versionsinformation - mars 2022 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Följande funktioner kommer att börja släppas den **11 mars 2022**, med en fas
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**: Maximera alla möjligheter på webbplatsen genom att rikta in er på både leads och konton med proaktiva, engagerande och personliga konversationer. Med [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation med mera. Dynamic Chat ingår i alla Marketo Engage-paket och kommer att lanseras för alla Marketo Engage-användare i år.
+* **[!DNL Dynamic Chat]**: Maximera alla möjligheter på din webbplats genom att rikta in er på både leads och konton med proaktiva, engagerande och 1:1 personaliserade konversationer. Med [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} kan Marketo Engage-användare börja använda chatt som en viktig del av integrerade upplevelser över flera kanaler för B2B-marknadsföring och säljtillfällen. Funktioner: möjlighet att boka möten direkt i chatten, lead-routning, startmallar, dra-och-släpp-konversation med mera. Dynamic Chat ingår i alla Marketo Engage-paket och kommer att lanseras för alla Marketo Engage-användare i år.
 
 * **Förbättring av filtrering av aktivitetsfiltrering via e-post**: Som en förbättring av den tidigare släppta funktionen [Filtrering av aktivitetsfiltrering via e-post](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} kan du nu välja att logga aktiviteter som identifieras som bottar. Du kan sedan filtrera och utlösa åtgärder baserat på aktiviteter som identifieras som utförda av bots.
 

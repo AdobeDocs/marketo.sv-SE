@@ -4,7 +4,7 @@ description: Konfigurera en anpassad DKIM-signatur - Marketo Docs - produktdokum
 title: Konfigurera en anpassad DKIM-signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -41,12 +41,12 @@ Du kan anpassa DKIM-signaturen så att den återspeglar den eller de domäner du
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Väljare</b></td>
    <td>En unik sträng/identifierare som används för att hitta den offentliga nyckeldelen av DKIM-posten. Det kan vara en godtycklig sträng eller en unik identifierare som separerar och identifierar syftet med den DKIM-nyckeln/posten.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Nyckelstorlek</b></td>
    <td>Den säkerhetsnivå som du vill att din DKIM-signatur ska krypteras med.</td>
    </tr>

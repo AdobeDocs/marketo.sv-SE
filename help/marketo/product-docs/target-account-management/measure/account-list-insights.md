@@ -4,7 +4,7 @@ description: Kontolisteinsikter - Marketo Docs - produktdokumentation
 title: Kontolisteinsikter
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -29,17 +29,17 @@ Om du vill visa kontrollpanelen för en kontolista klickar du bara på dess namn
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td colspan="1">Se rörledningen över tiden. För att bestämma rörledningen över tid i vecka tar vi rörledningen på sista dagen.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intäkter</span></strong></td> 
-   <td><p>Se intäkterna över tid. För att fastställa intäkter över tid och vecka tar vi summan av alla intäkter som vunnits den veckan.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td colspan="1">Se rörledningen över tiden. För att bestämma rörledningen över tid i vecka tar vi rörledningen på sista dagen.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intäkter</span></strong></td>
+   <td><p>Se intäkterna över tid. För att fastställa intäkter över tid och vecka tar vi summan av alla intäkter som vunnits den veckan.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Fliken Namngivna konton {#named-accounts-tab}

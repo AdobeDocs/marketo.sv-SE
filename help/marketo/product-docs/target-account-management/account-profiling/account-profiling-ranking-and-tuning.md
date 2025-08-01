@@ -4,7 +4,7 @@ description: Rankning och justering av kontoprofilering - Marketo Docs - produkt
 title: Rankning och justering av kontoprofilering
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -27,37 +27,37 @@ Resultaten visar alla dina kända konton uppdelade efter grad. A är av högsta 
 
 Även om det är valfritt rekommenderar vi att du markerar kryssrutan Automatiskt befordra eftersom du då sparar mycket tid. Men om du vill gå igenom varje konto och [lägga till dem manuellt](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) lämnar du bara rutan avmarkerad.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Rankning</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Rankning</span></strong></td>
+   <td>
     <div>
-      Kontorangordningen baseras på kundprofilen Ideal. A är bäst, D är minst passad. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Propensitet</span></strong></td> 
-   <td> 
+      Kontorangordningen baseras på kundprofilen Ideal. A är bäst, D är minst passad.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Propensitet</span></strong></td>
+   <td>
     <div>
-      Uppskattad ökning av konverteringsgraden jämfört med ett icke-ICP-baserat urval av konton. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Konton (%)</span></strong></td> 
-   <td> 
+      Uppskattad ökning av konverteringsgraden jämfört med ett icke-ICP-baserat urval av konton.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Konton (%)</span></strong></td>
+   <td>
     <div>
-      Procentandel konton i modellindata som har den här rangordningen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% av modellbasen</span></strong></td> 
-   <td> 
+      Procentandel konton i modellindata som har den här rangordningen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% av modellbasen</span></strong></td>
+   <td>
     <div>
-      Procent av konton i modellbasen som har den här rangordningen. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Procent av konton i modellbasen som har den här rangordningen.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Modelljustering {#model-tuning}
@@ -72,86 +72,86 @@ Det finns flera flikar att välja mellan, vilket möjliggör en djupgående anpa
 
 **Indikatorkategorier**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Regelefterlevnad</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Regelefterlevnad</span></strong></td>
+   <td>
     <div>
-      Certifieringar, regelefterlevnadsrelaterade positioner/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Användning</span></strong></td> 
-   <td> 
+      Certifieringar, regelefterlevnadsrelaterade positioner/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Användning</span></strong></td>
+   <td>
     <div>
-      Driftsrelaterade positioner/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">HR</span></strong></td> 
-   <td> 
+      Driftsrelaterade positioner/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">HR</span></strong></td>
+   <td>
     <div>
       HR- eller löneprogramvara, HR-relaterade befattningar/anställning.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Teknik</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Teknik</span></strong></td>
+   <td>
     <div>
-      Teknik, ramverk, ingenjörsrelaterade positioner/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Försäljning</span></strong></td> 
-   <td> 
+      Teknik, ramverk, ingenjörsrelaterade positioner/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Försäljning</span></strong></td>
+   <td>
     <div>
-      Lösningar och programvara för försäljning, försäljningsrelaterade positioner/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Återgivning</span></strong></td> 
-   <td> 
+      Lösningar och programvara för försäljning, försäljningsrelaterade positioner/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Återgivning</span></strong></td>
+   <td>
     <div>
-      Avfallsindikatorer. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Avfallsindikatorer.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Maskinvaru- och programvarulösningar, tekniker, IT-relaterade befattningar/anställning.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Ekonomi</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Ekonomi</span></strong></td>
+   <td>
     <div>
-      Ekonomisk programvara, finansiella tjänster/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marknadsföring</span></strong></td> 
-   <td> 
+      Ekonomisk programvara, finansiella tjänster/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marknadsföring</span></strong></td>
+   <td>
     <div>
-      Marknadsföringsteknologier och programvara, marknadsrelaterade befattningar/anställning. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Business</span></strong></td> 
-   <td> 
+      Marknadsföringsteknologier och programvara, marknadsrelaterade befattningar/anställning.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Business</span></strong></td>
+   <td>
     <div>
-      Forbes eller Inc listings eller Business Partnership. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kundupplevelser och relationer</span></strong></td> 
-   <td> 
+      Forbes eller Inc listings eller Business Partnership.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Kundupplevelser och relationer</span></strong></td>
+   <td>
     <div>
       Kundframgångar och kundrelationer befattningar/anställning.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Håll pekaren över verktygstipsen om du vill se en beskrivning av varje kolumn.

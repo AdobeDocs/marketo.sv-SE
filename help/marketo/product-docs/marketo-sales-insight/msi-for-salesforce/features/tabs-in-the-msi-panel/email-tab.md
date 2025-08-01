@@ -3,7 +3,7 @@ description: Fliken E-post - Marketo Docs - produktdokumentation
 title: Fliken E-post
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Ett e-postmeddelande med Marketo-ikonen bredvid ämnesraden visar att e-postmedd
 
 Du kan klicka på knappen [!UICONTROL Check Delivery Status] för att öppna en ny flik som visar leveransstatus för e-postmeddelanden:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>E-post som skickas från Marketo</strong></td>

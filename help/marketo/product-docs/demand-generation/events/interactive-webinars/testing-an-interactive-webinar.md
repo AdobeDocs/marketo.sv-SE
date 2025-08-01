@@ -3,7 +3,7 @@ description: Testa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Testa ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: f73c052954b182255f53496bd2baadad7482ed1e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) -
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 1%
@@ -53,47 +53,47 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 
 1. Ange [!UICONTROL Field Label], [!UICONTROL Length] och [!UICONTROL Field Name] för fältet, vilket visas i tabellen nedan.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Fältetikett 
-    </div></th> 
-   <th> 
+      Fältetikett
+    </div></th>
+   <th>
     <div>
-      Fältnamn 
-    </div></th> 
-   <th> 
+      Fältnamn
+    </div></th>
+   <th>
     <div>
-      Datatyp 
-    </div></th> 
-   <th> 
+      Datatyp
+    </div></th>
+   <th>
     <div>
-      Fältattribut 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Poäng</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>Nummer</td> 
-   <td>Längd 10<br>Decimaler 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Anskaffningsdatum</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Datum/tid</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Anskaffningsprogram</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
- </tbody> 
+      Fältattribut
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Poäng</td>
+   <td>mkto71_Lead_Score</td>
+   <td>Nummer</td>
+   <td>Längd 10<br>Decimaler 0 </td>
+  </tr>
+  <tr>
+   <td>Anskaffningsdatum</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Datum/tid</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Anskaffningsprogram</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -134,93 +134,93 @@ Utför följande steg för vart och ett av de tre anpassade fälten för att lä
 1. Utför steg 3 till 10 för fälten Poäng, Inköpsdatum och Anskaffningsprogram på kontaktobjektet, precis som för lead-objektet.
 1. Du kan också använda ovanstående procedur för ytterligare anpassade fält från den här tabellen.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Fältetikett</th> 
-   <th>Fältnamn</th> 
-   <th>Datatyp</th> 
-   <th>Fältattribut</th> 
-  </tr> 
-  <tr> 
-   <td>ID för förvärvsprogram</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Nummer</td> 
-   <td>Längd 18<br>Decimaler 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Ursprunglig referens</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprunglig sökmotor</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprunglig sökfras</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprunglig Source-information</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ursprunglig Source-typ</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inaktuell ort</td> 
-   <td>mkto71_Insted_City</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Berört företag</td> 
-   <td>mkto71_Insted_Company</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Berört land</td> 
-   <td>mkto71_Insted_Country</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ingående metropolitområde</td> 
-   <td>mkto71_Insted_Metropolitan_Area</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Riktnummer för inkommande telefon</td> 
-   <td>mkto71_Insted_Phone_Area_Code</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Infört postnummer</td> 
-   <td>mkto71_Insted_Postal_Code</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ingångsregion</td> 
-   <td>mkto71_Insted_State_Region</td> 
-   <td>Text</td> 
-   <td>Längd 255</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Fältetikett</th>
+   <th>Fältnamn</th>
+   <th>Datatyp</th>
+   <th>Fältattribut</th>
+  </tr>
+  <tr>
+   <td>ID för förvärvsprogram</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Nummer</td>
+   <td>Längd 18<br>Decimaler 0 </td>
+  </tr>
+  <tr>
+   <td>Ursprunglig referens</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ursprunglig sökmotor</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ursprunglig sökfras</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ursprunglig Source-information</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ursprunglig Source-typ</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Inaktuell ort</td>
+   <td>mkto71_Insted_City</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Berört företag</td>
+   <td>mkto71_Insted_Company</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Berört land</td>
+   <td>mkto71_Insted_Country</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ingående metropolitområde</td>
+   <td>mkto71_Insted_Metropolitan_Area</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Riktnummer för inkommande telefon</td>
+   <td>mkto71_Insted_Phone_Area_Code</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Infört postnummer</td>
+   <td>mkto71_Insted_Postal_Code</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+  <tr>
+   <td>Ingångsregion</td>
+   <td>mkto71_Insted_State_Region</td>
+   <td>Text</td>
+   <td>Längd 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

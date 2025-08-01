@@ -4,7 +4,7 @@ description: Skicka ett exempelmejl - Marketo Docs - produktdokumentation
 title: Skicka ett exempelmeddelande
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
 ## Skicka ett exempelmeddelande {#send-a-sample-email-1}
 
-1. Hitta och välj din e-postadress. Klicka på listrutan **[!UICONTROL Email Actions]** och välj **[!UICONTROL Send Sample]**.\
+1. Hitta och välj din e-postadress. Klicka på listrutan **[!UICONTROL Email Actions]** och välj **[!UICONTROL Send Sample]**.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    >[!NOTE]
    >
-   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting).
+   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 

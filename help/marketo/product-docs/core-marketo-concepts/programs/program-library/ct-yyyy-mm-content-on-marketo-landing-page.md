@@ -3,7 +3,7 @@ description: CT-YYY-MM-Content on Marketo Landing Page - Marketo Docs - Product 
 title: CT-YYY-MM-Content on Marketo Landing Page
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -12,161 +12,161 @@ ht-degree: 0%
 
 # CT-YYY-MM-Content on Marketo Landing Page {#ct-yyyy-mm-content-on-marketo-landing-page}
 
-Det här exemplet är utformat som ett innehållsprogram som använder en landningssida för Marketo Engage med ett Marketo Engage-formulär som använder ett standardprogram för Marketo Engage. Formuläret är för att få tillgång till innehållet/erbjudandet. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
+Det här exemplet är utformat som ett innehållsprogram som använder en Marketo Engage Landing Page med ett Marketo Engage-formulär som använder ett Marketo Engage-standardprogram. Formuläret är för att få tillgång till innehållet/erbjudandet. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
 
-Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Status för medlemskap</th>
    <th>Analysbeteende</th>
    <th>Programtyp</th>
-  </tr> 
-  <tr> 
-   <td>Webbinnehåll</td> 
-   <td>01-medlem 
+  </tr>
+  <tr>
+   <td>Webbinnehåll</td>
+   <td>01-medlem
 <br/>02-Engaged-Success</td>
    <td>Inkluderande</td>
    <td>Standard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Mallnamn</th>
    <th>Resursnamn</th>
-  </tr> 
-  <tr> 
-   <td>E-post</td> 
+  </tr>
+  <tr>
+   <td>E-post</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
-  <tr> 
-   <td>Landningssida</td> 
+  <tr>
+   <td>Landningssida</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Registrering</td>
   </tr>
-  <tr> 
-   <td>Landningssida</td> 
+  <tr>
+   <td>Landningssida</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
-  <tr> 
-   <td>Formulär</td> 
+  <tr>
+   <td>Formulär</td>
    <td> </td>
    <td>FM - Innehållsregistreringsformulär</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>E-postprestanda</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>Prestanda för landningssida</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>00 - Capture Acquisition Program</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>01 - Ifyllt formulär</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>02 - Aktiverat (programmet lyckades)</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
-   <td>Assets - innehåller alla kreativa resurser 
+   <td>Assets - innehåller alla kreativa resurser
 <br/>(undermappar för e-post, landningssidor och Forms)  </td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Kampanjer - innehåller alla smarta kampanjer</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Rapporter</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ct-yyyy-mm-content-on-marketo-landing-page-1.png)
 
 ## Mina token inkluderade {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tokentyp</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tokentyp</th>
    <th>Tokennamn</th>
    <th>Värde</th>
-  </tr> 
-  <tr> 
-   <td>RTF</td> 
+  </tr>
+  <tr>
+   <td>RTF</td>
    <td><code>{{my.Content-Description}}</code></td>
-   <td>Dubbelklicka för mer information  
-<br/><code><--My Content Description Here--></code> 
-<br/>Redigera den här innehållsbeskrivningen på programnivå på fliken Mina token. 
-<br/>Du kommer att lära dig: 
+   <td>Dubbelklicka för mer information
+<br/><code><--My Content Description Here--></code>
+<br/>Redigera den här innehållsbeskrivningen på programnivå på fliken Mina token.
+<br/>Du kommer att lära dig:
 <li>Punkt 1</li>
 <li>Punkt 2</li>
 <li>Punkt 3</li></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.TackYouPageURL?without the http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Konfliktregler {#conflict-rules}

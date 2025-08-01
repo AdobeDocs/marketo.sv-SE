@@ -4,10 +4,10 @@ description: Skapa en guidad landningssidmall - Marketo Docs - produktdokumentat
 title: Skapa en mall för guidad landningssida
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 0%
+source-wordcount: '1263'
+ht-degree: 1%
 
 ---
 
@@ -32,12 +32,12 @@ Elementen deklareras genom att ett vanligt DOM-element läggs till i mallen och 
 
 Om du definierar ett område som RTF kan användare redigera innehållet [med Marketo RTF-redigerare](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-Attribut som krävs:\
-**klass**: &quot;mktoText&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoText&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
+Valfritt:
 Innehållet i ett element med klassen mktoText (om sådan finns) används som standardvärde för det redigerbara området.
 
 Exempel:
@@ -52,11 +52,11 @@ Det finns två alternativ för att definiera redigerbara bildelement. Du kan ant
 
 Attribut som krävs:
 
-class: &quot;mktoImg&quot;\
-id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+class: &quot;mktoImg&quot;
+id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 mktoName : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
+Valfritt:
 mktoImgClass: String. Värdet här läggs till i klassattributet för elementet `<img>` inuti div:n.
 
 Exempel:
@@ -65,12 +65,12 @@ Exempel:
 
 ## Alternativ 2 - Använd en `<img>` {#option-use-a-img}
 
-Attribut som krävs:\
-class: &quot;mktoImg&quot;\
-id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+class: &quot;mktoImg&quot;
+id: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 mktoName : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
+Valfritt:
 src: Sträng-URL. Detta används som standardvärde för bilden.
 
 Exempel:
@@ -79,22 +79,22 @@ Exempel:
 
 >[!NOTE]
 >
->När du använder versionen `<img>` innehåller den återgivna HTML ett genererat div-omslag runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas:inline-block.
+>När du använder versionen `<img>` innehåller den återgivna HTML en genererad div-wrapper runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen,&quot; och kommer att visas :inline-block.
 
 ## Formulär {#form}
 
-Exempel:Attribut som krävs:\
-**klass**: &quot;mktoForm&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Exempel på :Required-attribut:
+**class**: &quot;mktoForm&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Fragment {#snippet}
 
-Attribut som krävs:\
-**klass**: &quot;mktoSnippet&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoSnippet&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
@@ -103,9 +103,9 @@ Exempel:
 
 ## Knappen Dela {#share-button}
 
-Attribut som krävs:\
-**klass**: &quot;mktoShareButton&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoShareButton&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
@@ -129,9 +129,9 @@ Exempel:
 
 ## Röstning {#poll}
 
-Attribut som krävs:\
-**klass**: &quot;mktoPoll&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoPoll&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
@@ -140,9 +140,9 @@ Exempel:
 
 ## Hänvisning {#referral}
 
-Attribut som krävs:\
-**klass**: &quot;mktoReferral&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoReferral&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
@@ -151,9 +151,9 @@ Exempel:
 
 ## Dragningar {#sweepstakes}
 
-Attribut som krävs:\
-**klass**: &quot;mktoSweepstakes&quot;\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**klass**: &quot;mktoSweepstakes&quot;
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
 Exempel:
@@ -174,13 +174,13 @@ Variabler deklareras som metataggar inuti elementet `<head>` i mallen. Det finns
 
 ## Sträng {#string}
 
-Attribut som krävs:\
-**class** : &quot;mktoString&quot;,\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**class** : &quot;mktoString&quot;,
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
-**standard**: Strängvärde för attributet. Tomt om inget anges.\
+Valfritt:
+**standard**: Strängvärde för attributet. Tomt om inget anges.
 **allowHTML**: &quot;true&quot; eller &quot;false&quot;. Styr om värdet skrivs ut utan att HTML escape-konverteras. Standardvärdet är &quot;false&quot; om det tas bort.
 
 Exempel:
@@ -193,12 +193,12 @@ Exempel med alla attribut:
 
 ## Färg {#color}
 
-Attribut som krävs:\
-**class** : &quot;mktoColor&quot;,\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**class** : &quot;mktoColor&quot;,
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
+Valfritt:
 **standard**: En 7-siffrig HEX-teckenfärgkod. Exempel: &quot;#336699&quot;
 
 Exempel:
@@ -211,16 +211,16 @@ Exempel med alla attribut:
 
 ## Boolean {#boolean}
 
-Attribut som krävs:\
-**class** : &quot;mktoBoolean&quot;,\
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.\
+Attribut som krävs:
+**class** : &quot;mktoBoolean&quot;,
+**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
-Valfritt:\
-**standard**: Boolean-sträng. &quot;true&quot; eller &quot;false&quot; kontrollerar om värdet börjar i position ON eller OFF. &quot;false&quot; om inget anges.\
-**false_value**: Sträng. Det värde som ska infogas för variabeln när den är i AV-positionen. &quot;false&quot; om inget anges.\
-**true_value**: Sträng. Det värde som ska infogas för variabeln när den är på-positionen. &quot;true&quot; om inget anges.\
-**false_value_name**: Sträng. Det visningsnamn som ska visas i landningssidans redigerare när värdet är i AV-läge. &quot;AV&quot; om ej angivet.\
+Valfritt:
+**standard**: Boolean-sträng. &quot;true&quot; eller &quot;false&quot; kontrollerar om värdet börjar i position ON eller OFF. &quot;false&quot; om inget anges.
+**false_value**: Sträng. Det värde som ska infogas för variabeln när den är i AV-positionen. &quot;false&quot; om inget anges.
+**true_value**: Sträng. Det värde som ska infogas för variabeln när den är på-positionen. &quot;true&quot; om inget anges.
+**false_value_name**: Sträng. Det visningsnamn som ska visas i landningssidans redigerare när värdet är i AV-läge. &quot;AV&quot; om ej angivet.
 **true_value_name**: Sträng. Det visningsnamn som ska visas i landningssidans redigerare när värdet är på-positionen. &quot;ON&quot; om inte anges.
 
 Exempel:

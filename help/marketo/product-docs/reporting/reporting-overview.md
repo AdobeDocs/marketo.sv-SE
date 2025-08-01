@@ -3,7 +3,7 @@ description: Rapportöversikt - Marketo Docs - produktdokumentation
 title: Rapportöversikt
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -28,11 +28,11 @@ Använd Analytics och Sends för att få [kraftfulla insikter](/help/marketo/pro
 
 ## Avancerad BI Analytics-rapportering {#advanced-bi-analytics-reporting}
 
-_(kallades tidigare Inkomstcykelutforskaren/Avancerat Report Builder)_
+_(kallades tidigare Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta kontoteamet (din kontohanterare) för Adobe om du vill ha mer information.
+>Alla har inte köpt modulerna Advanced BI Analytics och Advanced Journey Analytics. Kontakta Adobe Account Team (din kontoansvarige) om du vill ha mer information.
 
 Spåra avkastningen på era marknadsföringssatsningar. Analysera e-post, människor, program, säljprojekt, modellresultatanalys (företag) och modellresultatanalys (leads). Med BI Explorer kan du skapa anpassade rapporter inom analysområdet och skapa diagram, diagram, pivoter och kontrollpaneler med dina data.
 

@@ -3,7 +3,7 @@ description: Avinstallera Salesforce Lightning Customization Package - Marketo D
 title: Avinstallera Salesforce Lightning Customization Package
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 2%
@@ -298,9 +298,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - datum för senaste marknadsföringsåtagande</td>
   <td>Tidstämpel för engagemang från marknadsföring</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -308,9 +308,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - Senaste marknadsföringsbesök</td>
   <td>Beskrivning av ärendet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -318,9 +318,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - senaste marknadsföringsengagemanget Source</td>
   <td>Source för marknadsföringsinsatser</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -328,9 +328,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - Typ av senaste marknadsföringsåtagande</td>
   <td>Typ av engagemang (t.ex. webbaktivitet)</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -338,9 +338,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - senaste aktivitet per försäljning</td>
   <td>Senaste utgående aktivitet som utfördes av säljteamet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -348,9 +348,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - senaste svar</td>
   <td>Senaste e-postsvar till försäljning via e-post</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -358,9 +358,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - aktuell försäljningskampanj</td>
   <td>Loggnamn för MSC-kampanjen som kontakten/leadet är på</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -378,9 +378,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>MSC - avanmäl dig</td>
   <td>Avanmäl dig</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Kryssruta</td>
  </tr>
@@ -396,9 +396,9 @@ Här är en lista över alla objekt som behöver tas bort från din [!DNL Salesf
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Skicka e-post från [!DNL Salesforce]</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
  </tr>
  <tr>

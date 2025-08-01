@@ -8,7 +8,7 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Adobe GenStudio for Performance Marketing är en generativ AI-first-applikation 
 
 >[!INFO]
 >
->Läs mer om [GenStudio for Performance Marketing](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+>Läs mer om [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
 
 ## Utnyttja GenStudio Capabilities i Marketo Engage {#leverage-genstudio-capabilities}
 
@@ -37,9 +37,9 @@ Exportera enkelt en mall som innehåller varumärkesriktlinjerna till GenStudio 
 
    ![Exporterar din HTML](assets/genstudio-integration-1.png)
 
-1. [Överför den exporterade HTML](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}-mallen till GenStudio for Performance Marketing.
+1. [Överför den exporterade HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}-mallen till GenStudio for Performance Marketing.
 
-1. I GenStudio använder du den här mallen för att [skapa flera e-postvarianter](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} med AI-uppmaningar och spara dem.
+1. I GenStudio använder du den här mallen för att [skapa flera e-postvarianter](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} med AI-uppmaningar och spara dem.
 
 ## Utnyttja GenStudio Experience i Marketo Engage {#leverage-genstudio-experiences}
 

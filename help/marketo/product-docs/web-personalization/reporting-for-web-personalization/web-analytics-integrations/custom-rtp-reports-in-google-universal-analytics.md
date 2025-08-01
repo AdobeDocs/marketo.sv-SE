@@ -4,7 +4,7 @@ description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs
 title: Anpassade RTP-rapporter i Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -64,41 +64,41 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. I avsnittet **Dimension-detaljnivåer** anger du de relevanta dimensionerna för varje flik enligt nedan.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Fliknamn 
-    </div></th> 
-   <th> 
+      Fliknamn
+    </div></th>
+   <th>
     <div>
       Dimension Drill down
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Bransch</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Grupp</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Kategori</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organisationer</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Bransch</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Grupp</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Kategori</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organisationer</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Ange inga filter och ange att den här rapporten ska vara tillgänglig för **[!UICONTROL All Web Site Data]** (eller ändra om det är relevant för det specifika Analytics-kontot).
@@ -137,86 +137,86 @@ I den här artikeln beskrivs hur du konfigurerar anpassade RTP-rapporter för Go
 
 1. I avsnittet **Dimension-detaljnivåer** anger du de relevanta dimensionerna för varje flik enligt nedan:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Fliknamn 
-    </div></th> 
-   <th> 
+      Fliknamn
+    </div></th>
+   <th>
     <div>
-      Dimension Drill down 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Alla engagemang</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Åtagande av ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagemang efter kategori</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagemang per grupp</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagemang per bransch</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension Drill down
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Alla engagemang</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Åtagande av ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagemang efter kategori</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagemang per grupp</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagemang per bransch</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Ange följande filter:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      Fält 
-    </div></th> 
-   <th> 
+      Fält
+    </div></th>
+   <th>
     <div>
-      Matcha typ 
-    </div></th> 
-   <th> 
+      Matcha typ
+    </div></th>
+   <th>
     <div>
-      Värden 
-    </div></th> 
-   <th colspan="1"> 
+      Värden
+    </div></th>
+   <th colspan="1">
     <div>
-      Kommentar 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Inkludera</p></td> 
-   <td><p><span class="uicontrol">Händelsekategori</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-kampanjer|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">Filtrerar alla andra anpassade händelser som inte är relaterade till RTP</td> 
-  </tr> 
-  <tr> 
-   <td>Exkludera</td> 
-   <td><span class="uicontrol">Händelseetikett</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">Gör att du kan filtrera från din rapportkampanj med # i kampanjnamnet</td> 
-  </tr> 
- </tbody> 
+      Kommentar
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Inkludera</p></td>
+   <td><p><span class="uicontrol">Händelsekategori</span></p></td>
+   <td>Regex</td>
+   <td>RTP-kampanjer|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">Filtrerar alla andra anpassade händelser som inte är relaterade till RTP</td>
+  </tr>
+  <tr>
+   <td>Exkludera</td>
+   <td><span class="uicontrol">Händelseetikett</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">Gör att du kan filtrera från din rapportkampanj med # i kampanjnamnet</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Ange att rapporten ska vara tillgänglig för **[!UICONTROL All Web Site Data]** (eller ändra om det behövs).

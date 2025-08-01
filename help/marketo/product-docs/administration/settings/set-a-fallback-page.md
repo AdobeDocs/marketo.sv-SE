@@ -4,7 +4,7 @@ description: Ange en reservsida - Marketo Docs - produktdokumentation
 title: Ange en återställningssida
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 1%
@@ -27,11 +27,10 @@ Reservsidor är den sista försvarslinjen om landningssidan är offline eller in
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Klicka på **[!UICONTROL Edit]** på fliken **[!UICONTROL Landing Pages]**.
+1. Klicka på **[!UICONTROL Landing Pages]** på fliken **[!UICONTROL Edit]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
 1. Ange **[!UICONTROL Fallback page]** i dialogrutan och klicka på **[!UICONTROL Save]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

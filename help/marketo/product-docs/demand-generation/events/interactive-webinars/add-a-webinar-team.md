@@ -3,7 +3,7 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Ett webbinarium i Interactive Webinars består av alla roller som bidrar till at
 
 >[!NOTE]
 >
->Presentatörer och andra i Marketo Engage mappar exakt till presentatörens och värddatorernas roller under webbseminariet i Adobe Connect. Deltagare kan ändra layouter och rutor, vilket inte presentatörer kan.
+>Presentatörer och medvärdar i Marketo Engage är exakt mappade till presentatörens och värdenas roller under webbseminariet i Adobe Connect. Deltagare kan ändra layouter och rutor, vilket inte presentatörer kan.
 
 Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har värdbehörigheter under leverans i Adobe Connect. Interna värdar har tillgång till både Interactive Webinar Event Program i Marketo och värdbehörigheter under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
 

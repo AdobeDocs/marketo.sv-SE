@@ -3,7 +3,7 @@ unique-page-id: 14352613
 description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
 title: Lägg till personer i din kampanj
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Det finns flera sätt att lägga till någon i en kampanj.
 
-Om du börjar kommunicera med en potentiell kund eller kund kan du använda Lägg till i kampanj från vilken sida som helst i vårt webbprogram eller från Salesforce.
+Om du börjar kommunicera med en potentiell kund eller kund kan du använda Lägg till i kampanj från vilken sida som helst i webbprogrammet eller från Salesforce.
 
-Det här flödet gör att du kan förhandsgranska, redigera och schemalägga ditt första e-postmeddelande i Campaign, och om din kampanj inleds med en uppgift köas dessa uppgifter åt dig i uppgiftslistan i webbprogrammet och i Salesforce.
+Med det här flödet kan du förhandsgranska, redigera och schemalägga ditt första e-postmeddelande i Campaign, och om din kampanj inleds med en uppgift kommer dessa uppgifter att placeras i kö åt dig i uppgiftslistan i webbprogrammet och i Salesforce.
 
 Du kan göra detta på fliken Kampanjer i webbprogrammet.
 

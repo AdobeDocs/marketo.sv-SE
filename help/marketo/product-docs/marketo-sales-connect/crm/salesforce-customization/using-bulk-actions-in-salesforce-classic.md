@@ -4,7 +4,7 @@ description: Använda gruppåtgärder i [!DNL Salesforce] Classic - Marketo Docs
 title: Använda gruppåtgärder i [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -35,11 +35,11 @@ Lär dig hur du utför massåtgärder, som att lägga till leads till en kampanj
 
 1. Ett MSC-e-postmeddelande visas. Den innehåller följande funktioner:
 
-   a. Fältet [!UICONTROL To] visar [!UICONTROL All Recipients] - detta motsvarar listan med leads som du har valt i Lead List-vyn\
-   b. Den här listan visas på den vänstra panelen med namnet [!UICONTROL Bulk Compose]. Du kan lägga till/ta bort mottagare här\
-   c. Du kan välja en mall eller skapa en egen e-postadress\
-   d. Du kan förhandsgranska dynamiska fält som ska fyllas i i ditt e-postmeddelande\
-   e. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
+   a. Fältet [!UICONTROL To] visar [!UICONTROL All Recipients] - detta motsvarar listan med leads som du har valt i Lead List-vyn
+b. Den här listan visas på den vänstra panelen med namnet [!UICONTROL Bulk Compose] - du kan lägga till/ta bort mottagare här
+c. Du kan välja en mall eller skapa en egen e-postadress
+d. Du kan förhandsgranska dynamiska fält som ska fyllas i i ditt e-postmeddelande
+e. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
 
    ![](assets/three-4.png)
 

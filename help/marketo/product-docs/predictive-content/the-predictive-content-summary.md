@@ -4,7 +4,7 @@ description: The Predictive Content Summary - Marketo Docs - Product Documentati
 title: Sammanfattning av prediktivt innehåll
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%

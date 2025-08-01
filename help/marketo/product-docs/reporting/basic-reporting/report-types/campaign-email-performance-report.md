@@ -4,7 +4,7 @@ description: Resultatrapport för e-postkampanj - Marketo Docs - produktdokument
 title: Resultatrapport för e-postkampanj
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%

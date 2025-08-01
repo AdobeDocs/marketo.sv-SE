@@ -4,7 +4,7 @@ description: Använda lead feed - Marketo Docs - produktdokumentation
 title: Använda lead-feed
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -29,45 +29,45 @@ När du visar det i [!DNL Salesforce] har varje objekt:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Objekt</p></td> 
-   <td><p>Beskrivning</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Lead/kontakt</p></td> 
-   <td><p>Person som hade detta intressanta ögonblick</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Händelsetyp</p></td> 
-   <td><p>Kategori för detta ögonblick - webb, e-post eller milstolpe</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Kontonamn</p></td> 
-   <td><p>Företag</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Tid</p></td> 
-   <td><p>När det här intressanta ögonblicket inträffade</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Händelsebeskrivning</p></td> 
-   <td><p>Orsak till detta intressanta ögonblick</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Prenumerera</p></td> 
-   <td><p>Ta emot e-postmeddelanden för händelser som detta</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Star</p></td> 
-   <td><p>Den här personen är ett Bästa val (hög prioritet)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Objekt</p></td>
+   <td><p>Beskrivning</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Lead/kontakt</p></td>
+   <td><p>Person som hade detta intressanta ögonblick</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Händelsetyp</p></td>
+   <td><p>Kategori för detta ögonblick - webb, e-post eller milstolpe</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Kontonamn</p></td>
+   <td><p>Företag</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Tid</p></td>
+   <td><p>När det här intressanta ögonblicket inträffade</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Händelsebeskrivning</p></td>
+   <td><p>Orsak till detta intressanta ögonblick</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Prenumerera</p></td>
+   <td><p>Ta emot e-postmeddelanden för händelser som detta</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Star</p></td>
+   <td><p>Den här personen är ett Bästa val (hög prioritet)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Hämta RSS-uppdateringar {#getting-rss-updates}

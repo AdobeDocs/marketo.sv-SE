@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Som standard markeras alla dina befintliga e-postmeddelanden och e-postmallar so
 
 Om din prenumeration har e-post v1.0 före flytten till [!DNL Email Editor 2.0] kommer du att uppleva följande beteende baserat på resursens aktuella tillstånd:
 
-**Godkänd** - Om du klickar på Redigera utkast skapas ett v2.0-utkast av det godkända e-postmeddelandet. Om du sedan godkänner utkastet från v2.0 blir det godkända tillståndet för e-postmeddelandet v2.0 och det finns inget sätt att återgå till v1.0.\
+**Godkänd** - Om du klickar på Redigera utkast skapas ett v2.0-utkast av det godkända e-postmeddelandet. Om du sedan godkänner utkastet från v2.0 blir det godkända tillståndet för e-postmeddelandet v2.0 och det finns inget sätt att återgå till v1.0.
 **Utkast** - Om du klickar på Redigera utkast markeras automatiskt utkastet som v2.0. I det här läget går det inte att ta bort och återställa till v1.0 eftersom det inte finns någon godkänd version av tillgången.
 **Godkänd med utkast** - Om du klickar på Redigera utkast markeras det utkastet automatiskt som v2.0. På grund av detta går det inte heller att återställa utkastet till v1.0.
 
@@ -40,14 +40,14 @@ Om din prenumeration har e-postmallar för version 1.0 innan du går över till 
 
 Om du godkänner en e-postmall som tidigare var v1.0 (i något av de ovanstående lägena) visas följande beteende:
 
-För befintliga e-postmeddelanden av version 1.0 som använder mallen (tidigare version 1.0):\
-**Godkänt v1.0-e-postmeddelande** - Ett v2.0-utkast kommer att skapas för det här e-postmeddelandet, men det nya godkända v2.0-mallen används fortfarande. Den får även eventuella malländringar.\
-**Utkast v1.0 e-post** - Utkastet förblir v1.0 tills du klickar på Redigera utkast. Därefter markeras den automatiskt som v2.0 och får eventuella malländringar.\
+För befintliga e-postmeddelanden av version 1.0 som använder mallen (tidigare version 1.0):
+**Godkänt v1.0-e-postmeddelande** - Ett v2.0-utkast kommer att skapas för det här e-postmeddelandet, men det nya godkända v2.0-mallen används fortfarande. Den får även eventuella malländringar.
+**Utkast v1.0 e-post** - Utkastet förblir v1.0 tills du klickar på Redigera utkast. Därefter markeras den automatiskt som v2.0 och får eventuella malländringar.
 **Godkänd med e-postmeddelande om utkast v1.0** - Utkastet förblir v1.0 tills du klickar på Redigera utkast. Därefter markeras den automatiskt som v2.0 och får eventuella malländringar.
 
-För befintliga v2.0-e-postmeddelanden som använder mallen (tidigare v1.0):\
-**Godkänt v2.0-e-postmeddelande** - Ett v2.0-utkast kommer att skapas för det här e-postmeddelandet, fortfarande&quot;använder&quot; den nyligen godkända mallen, och eventuella malländringar kommer att tas emot.\
-**Utkast v2.0 e-post** - Utkastet förblir som det är (v2.0) och tar emot eventuella malländringar.\
+För befintliga v2.0-e-postmeddelanden som använder mallen (tidigare v1.0):
+**Godkänt v2.0-e-postmeddelande** - Ett v2.0-utkast kommer att skapas för det här e-postmeddelandet, fortfarande&quot;använder&quot; den nyligen godkända mallen, och eventuella malländringar kommer att tas emot.
+**Utkast v2.0 e-post** - Utkastet förblir som det är (v2.0) och tar emot eventuella malländringar.
 **Godkänd med e-postmeddelande om utkast v2.0** - Utkastet ändras inte (v2.0) och eventuella malländringar tas emot.
 
 >[!CAUTION]

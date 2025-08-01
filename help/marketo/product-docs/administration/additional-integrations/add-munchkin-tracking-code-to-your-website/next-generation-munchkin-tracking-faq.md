@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Om du redan använder det här filtret i en smart lista (till exempel i en smart
 
 >[!NOTE]
 >
->**Utlösare**: Besök webbsidan, webbsidan prissätter sidan\
->**Flöde**: Ändra poäng +10 och intressant ögonblick
->&#x200B;>**Webb**: Sidan med priser visas
+>**Utlösare**: Besök webbsidan, webbsidan prissätter sidan
+>>**Flöde**: Ändra poäng +10 och Intressant ögonblick
+>>**Webb**: Sidan med priser visas
 >
 >Om en anonym person besöker prissidan med [!DNL Munchkin] V2 kommer han/hon inte att delta i kampanjen direkt. När den anonyma personen blir känd ska vi genomföra kampanjen mot henne. Hon kommer att:
 >

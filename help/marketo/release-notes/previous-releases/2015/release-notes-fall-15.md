@@ -4,9 +4,9 @@ description: Versionsinformation - hösten 2015 - Marketo Docs - produktdokument
 title: Versionsinformation - hösten 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Flera prenumerationer kan skapas i en smart lista. Det finns en begränsning på
 
 [Anpassade Marketo-objekt](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder för närvarande möjligheten att skapa ett anpassat 1:N-objekt i Marketo och koppla det till en lead eller ett företag.
+Skapa enkelt anpassade objekt från administratörsgränssnittet. Vi stöder för närvarande möjligheten att skapa ett anpassat :N-objekt i Marketo och ansluta det till en lead eller ett företag.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Vi gör flera förbättringar i textredigeraren. Efter att vi släppt den uppdat
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Verifiera synkronisering {#microsoft-dynamics-validate-sync}

@@ -3,7 +3,7 @@ description: Versionsinformation - juni 2022 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **[!DNL Salesforce]API-uppdatering**: I version [!DNL Salesforce] sommar 22 stöds inte längre API-versioner 21-30 av [!DNL Salesforce]. I den här Marketo Engage-versionen har alla [!DNL Sales Connect]-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [här](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} om du vill ha fullständig information om [!DNL Salesforce] API-pensionsplaner.
+* **[!DNL Salesforce]API-uppdatering**: I version [!DNL Salesforce] sommar 22 stöds inte längre API-versioner 21-30 av [!DNL Salesforce]. I den här Marketo Engage-versionen har alla [!DNL Sales Connect]-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [!DNL Salesforce]här[ om du vill ha fullständig information om ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} API-pensionsplaner.
 
 ## API-förbättringar {#api-enhancements}
 

@@ -4,7 +4,7 @@ description: Ändra en tidsram för rapport - Marketo Docs - produktdokumentatio
 title: Ändra en tidsram för rapport
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >Om du vill ange specifika datum väljer du **[!UICONTROL Custom]** i listrutan och anger datum i kalenderfälten **[!UICONTROL From]** och **[!UICONTROL To]**.
 
-   Klicka på fliken **[!UICONTROL Report]** för att visa rapporten för den valda tidsramen.\
+   Klicka på fliken **[!UICONTROL Report]** för att visa rapporten för den valda tidsramen.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

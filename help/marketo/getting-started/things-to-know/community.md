@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -56,13 +56,13 @@ SCREENSHOT
 
 ## Läs blogginlägg {#read-blog-posts}
 
-Det här avsnittet innehåller information som är mycket användbar både för användare av Marketo Engage (inklusive för flera olika Champions) och för anställda hos Marketo. Lämna kommentarerna längst ned när du behöver mer information.
+Det här avsnittet är fullt av användbar information från både Marketo Engage-användare (inklusive flera Champions) och Marketo-anställda. Lämna kommentarerna längst ned när du behöver mer information.
 
 SCREENSHOT
 
 ## Skicka en idé {#submit-an-idea}
 
-Om du någonsin kommer på en idé som du tror skulle förbättra Marketo Engage, skicka in den i det här avsnittet. Du kan också rösta på befintliga idéer.
+Om du någonsin kommer på en idé som du tror skulle förbättra Marketo Engage ska du skicka in den i det här avsnittet. Du kan också rösta på befintliga idéer.
 
 SCREENSHOT
 
@@ -78,7 +78,7 @@ Text
 
 SCREENSHOT
 
-## Sammanfoga prenumerationer på Marketo Engage {#merging-marketo-engage-subscriptions}
+## Slå samman Marketo Engage-prenumerationer {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
@@ -91,11 +91,11 @@ Skicka ett e-postmeddelande till `ccare@marketo.com` för att begära att data f
 Ange följande uppgifter i din begäran:
 
 * Din företags e-postadress
-* Den primära URL-adressen till användarprofilen som är associerad med Marketo Engage produktionsprenumerationen
+* Den primära URL-adressen till användarprofilen som är kopplad till Marketo Engage produktionsprenumeration
 * URL-adressen till användarprofilen som du vill skriva över och sammanfoga.
 
 Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När allt är klart ser du din engagemangshistorik i den huvudsakliga communityprofilen vid inloggning. Om du inte gör det loggar du ut från ditt konto och loggar in igen för att bekräfta.
 
 <br>
 
-Välkommen till Marketo Engage och ha kul när du utforskar Marketing Nation!
+Välkommen till Marketo Engage, och ha kul när du utforskar Marketing Nation!

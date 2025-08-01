@@ -4,7 +4,7 @@ description: Förstå säljprojektsanalys - Marketo Docs - produktdokumentation
 title: Förstå analysen av säljprojektspåverkan
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%

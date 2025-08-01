@@ -3,10 +3,10 @@ description: Versionsinformation - juli 2023 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juli 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från juli 2013. Se 
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
@@ -26,12 +26,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Engagement Map**: Engagement Map är ett visuellt verktyg som gör att du kan skapa och organisera återanvändbara kampanjer. Den är helt bakåtkompatibel, så alla befintliga kampanjer kan visas i den nya strukturen med en enkel musklickning. Kartor kan laddas ned och delas.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Översikt över Engagement Map</a></td>
   </tr>
@@ -40,12 +40,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Meddelanden - Webbtjänstfel**: Webbtjänstfelmeddelandet innehåller nu prenumerationsnamnet, vilket gör det enklare för dem som hanterar flera Marketo Engage-instanser. Vi har också lagt till en användarkolumn i tabellen som innehåller felkoder och räknare, så att du enkelt kan identifiera vilken API-användare som ansvarade för att generera ett specifikt fel när du anropar Marketo REST API.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -62,12 +62,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Chatta med Source för Dynamic Chat**: Chatt erbjuds nu som en källa för nya personposter och aktiviteter. Den här källan kan användas för att hjälpa användare att filtrera aktiviteter i smarta listor/kampanjer. Källan kan också blockeras från uppdateringar i fält.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -76,12 +76,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Förbättrade Dynamic Chat-aktiviteter**: Dynamic Chat-aktiviteter, filter och utlösare har förbättrats med ytterligare attribut och standardiserade namnkonventioner.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -94,12 +94,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Avbeställ tilläggsinställningar för Sales Insight-åtgärder**: Du har nu större kontroll över dina avbeställningsmeddelanden med nya konfigurationsalternativ för Avbeställ tillägg. Nya funktioner ger administratörerna kontroll över när, var och vilket meddelande om att avbeställa prenumerationen som kommer att visas i e-postmeddelandena om försäljningen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Lägg till inställningen för att avbryta prenumerationen</a></td>
   </tr>
@@ -108,12 +108,12 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Dynamiska fältförfrågningar för försäljningsinsikter**: Nu kan du uppmana ditt säljteam att anpassa specifika delar av ett e-postmeddelande ännu mer med nya fältförfrågningar som kan läggas till i e-postmallar i Sales Insight Actions.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Fältfrågor</a></td>
   </tr>
@@ -122,62 +122,62 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Dynamiska standardfält för försäljningsinsikter**: Med dynamiska standardfält kan du konfigurera ett reservvärde som ett dynamiskt fält kan matcha om det inte finns något tillgängligt värde att fylla i. Detta bidrar till att säkerställa att e-postmeddelanden skickas ut med all personalisering ifylld.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamiska fält</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Stöd för Dynamic Chat för Sales Insight**: Uppdateringar har gjorts för att stödja nya Dynamic Chat-attribut som introducerades i den här versionen för alla Dynamic Chat-användare.
+* **Dynamic Chat Support för Sales Insight**: Uppdateringar har gjorts för att ge stöd åt nya Dynamic Chat-attribut som introducerades i den här versionen för alla Dynamic Chat-användare.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Stöd för Dynamic Chat för Sales Insight-åtgärder**: Vi stöder nu Dynamic Chat-aktiviteter i lead-flödet samt meddelanden när en live-chatt dirigeras till en agent.
+* **Dynamic Chat support för Sales Insight-åtgärder**: Vi stöder nu Dynamic Chat-aktiviteter i lead-flödet samt meddelanden när en live-chatt dirigeras till en agent.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Utlösartoken för Dynamic Chat**: Nya utlösartoken introduceras för Dynamic Chat-aktiviteter som ska användas i intressanta ögonblick.
+* **Dynamic Chat utlösartoken**: Vi presenterar nya utlösartoken för Dynamic Chat-aktiviteter som ska användas i intressanta ögonblick.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Utlösartoken för Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Meddelanden {#announcements}
 
-* **Uppgradera till Google Analytics 4**: Marketo tidigare stöder Universal Analytics, som kommer att stoppa datainspelningen senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att få fullständigt stöd för integrering av Google Analytics 4 i RTP. I framtiden kommer användare att ha en unik alfanumerisk tagg (som finns i avsnittet `<head>` i html) på sina landningssidor som gör att Marketo kan skicka data till Google Analytics.
+* **Uppgradera till Google Analytics 4**: Marketo tidigare stöder Universal Analytics, som kommer att sluta spela in data senast 1 juli 2023. RTP-användare måste följa migreringsprocessen på sin Google Analytics-kontrollpanel för att kunna utnyttja stödet för integrering av Google Analytics 4 i RTP. I framtiden kommer användare att ha en unik alfanumerisk tagg (som finns i avsnittet `<head>` i html) på sina landningssidor som gör att Marketo kan skicka data till Google Analytics.
 
-* **_Webbseminarium om produktreleaser_**: [Juli och september 2023 om Marketo Engage ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webbseminarium om produktreleaser_**: [Juli och september 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

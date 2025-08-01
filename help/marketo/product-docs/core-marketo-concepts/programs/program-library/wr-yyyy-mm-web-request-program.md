@@ -3,7 +3,7 @@ description: WR-YYYY-MM-Web Request Program - Marketo Docs - Produktdokumentatio
 title: WR-YYYY-MM-Web Request Program
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,129 +12,129 @@ ht-degree: 0%
 
 # WR-YYYY-MM-Web Request Program {#wr-yyyy-mm-web-request-program}
 
-Det här är ett exempelprogram som är idealiskt för kontaktförfrågningar, offertförfrågningar, demonstrationsförfrågningar eller testförfrågningar med hjälp av ett Marketo Engage-standardprogram. Kan användas med Marketo landningssidor eller som ett inbäddat formulär på landningssidor som inte kommer från Marketo. Ett varningsmeddelande skickas till en angiven person när formuläret skickas in.
+Detta är ett exempelprogram som är idealiskt för kontaktförfrågningar, offertförfrågningar, demonstrationsförfrågningar eller testförfrågningar med hjälp av ett Marketo Engage standardprogram. Kan användas med Marketo landningssidor eller som ett inbäddat formulär på landningssidor som inte kommer från Marketo. Ett varningsmeddelande skickas till en angiven person när formuläret skickas in.
 
-Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Status för medlemskap</th>
    <th>Analysbeteende</th>
    <th>Programtyp</th>
-  </tr> 
-  <tr> 
-   <td>Webbförfrågan</td> 
+  </tr>
+  <tr>
+   <td>Webbförfrågan</td>
    <td>01 - Aktiverad - Slutförd</td>
    <td>Inkluderande</td>
    <td>Standard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Mallnamn</th>
    <th>Resursnamn</th>
   </tr>
-  <tr> 
-   <td>Formulär</td> 
+  <tr>
+   <td>Formulär</td>
    <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>E-post</td> 
+  <tr>
+   <td>E-post</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>Alert-WebRequest</td>
   </tr>
-  <tr> 
-   <td>Landningssida</td> 
+  <tr>
+   <td>Landningssida</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>01 - LP - Begäran</td>
   </tr>
-  <tr> 
-   <td>Landningssida</td> 
+  <tr>
+   <td>Landningssida</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Lathund för snabbstart</a></td>
    <td>02 - LP - Tack</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>Prestanda för landningssida</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>Ny person från webbförfrågan</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>Ny person från webbinariet</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
-   <td>Assets - Alla kreativa resurser 
+   <td>Assets - Alla kreativa resurser
 <br/>(undermappar för varningar och landningssidor)</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Kampanjer - omfattar alla smarta kampanjer</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Rapporter</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## Mina token inkluderade {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tokentyp</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tokentyp</th>
    <th>Tokennamn</th>
    <th>Värde</th>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>Kontakta oss</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.TackYouPageURL?without the http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Konfliktregler {#conflict-rules}

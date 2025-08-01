@@ -4,7 +4,7 @@ description: Installera [!DNL Salesforce] Anpassning för Professional Edition-k
 title: Installera [!DNL Salesforce] anpassning för Professional Edition-kunder
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%

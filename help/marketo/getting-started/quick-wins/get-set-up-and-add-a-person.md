@@ -4,9 +4,9 @@ description: Konfigurera och lägg till en person - Marketo Docs - produktdokume
 title: Konfigurera och lägg till en person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Det finns några saker att göra innan du börjar uppdraget.
 
-## Steg 1: Logga in i Marketo Engage {#step-log-in-to-marketo}
+## Steg 1: Logga in på Marketo Engage {#step-log-in-to-marketo}
 
 1. [Logga in på Marketo Engage](https://app.marketo.com){target="_blank"} med de inloggningsuppgifter som du fick via e-post.
 
@@ -77,4 +77,4 @@ Du är redo att börja ditt första uppdrag!
 
 <br> 
 
-[Uppgift 1: Skicka en e-postutsändning ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Uppgift 1: Skicka en e-postutbrytning ►](/help/marketo/getting-started/quick-wins/send-an-email.md)

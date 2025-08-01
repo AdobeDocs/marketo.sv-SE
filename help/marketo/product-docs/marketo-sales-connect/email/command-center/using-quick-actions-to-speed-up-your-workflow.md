@@ -4,7 +4,7 @@ description: Snabba upp arbetsflödet med snabba åtgärder - Marketo Docs - Pro
 title: Snabba upp arbetsflödet med hjälp av snabbåtgärder
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -28,59 +28,59 @@ Snabba e-poståtgärder är dynamiska och uppdateras beroende på de mest releva
 
 **Arkiverad**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>Flyttar tillbaka e-postmeddelandet till den levererade mappen och återaktiverar vyn/klickspårningen.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>Flyttar tillbaka e-postmeddelandet till den levererade mappen och återaktiverar vyn/klickspårningen.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Utkast och schemalagt**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>Öppnar e-postmeddelandet i dispositionsfönstret som ska redigeras.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>Öppnar e-postmeddelandet i dispositionsfönstret som ska redigeras.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Misslyckades, studsade och skräppost**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>Kommer omedelbart att försöka skicka om e-postmeddelandet.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>Kommer omedelbart att försöka skicka om e-postmeddelandet.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>E-postmeddelandet tas bort.<br><strong>Obs!</strong> E-postmeddelanden som skickades som en del av en kampanj kan inte tas bort.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Uppföljningsåtgärder**

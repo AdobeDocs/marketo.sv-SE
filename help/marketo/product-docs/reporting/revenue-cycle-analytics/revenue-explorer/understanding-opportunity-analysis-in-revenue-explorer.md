@@ -4,10 +4,10 @@ description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Do
 title: Förstå säljprojektsanalys i skatteutforskaren
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -55,7 +55,7 @@ Här är några rapporter som du kan skapa i området för säljprojektsanalys.
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimensioner och åtgärder för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
+## Dimensioner och mått för analys av affärsmöjligheter {#opportunity-analysis-dimensions-and-measures}
 
 Med säljprojektsanalys får du tillgång till alla lead-, företags- och affärsmöjlighetsrelaterade dimensioner och affärsmöjlighetsrelaterade mått. Använd de här dimensionerna för affärsmöjlighetsanalys och åtgärderna för att besvara specifika frågor i rapporten.
 

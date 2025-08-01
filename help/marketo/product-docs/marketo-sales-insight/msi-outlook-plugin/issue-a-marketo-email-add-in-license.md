@@ -4,7 +4,7 @@ description: Utfärda en Marketo-licens för e-posttillägg - Marketo Docs - Pro
 title: Utfärda en Marketo e-posttilläggslicens
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%

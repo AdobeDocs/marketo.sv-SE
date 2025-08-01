@@ -4,7 +4,7 @@ title: Använda en startsida för konversationsflöde
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda en startsida för konversationsflöde{#use-a-conversational-flow-landing-page}
 
-Genom att bädda in ett konversationsflöde i Dynamic Chat direkt på en landningssida i Marketo Engage kan besökare schemalägga ett möte via Dynamic Chat utan att behöva fylla i ett formulär eller interagera med en chattbot.
+Genom att bädda in ett Dynamic Chat Conversational Flow direkt i en Marketo Engage Landing Page kan besökarna boka ett möte via Dynamic Chat utan att behöva fylla i ett formulär eller interagera med en chattbot.
 
 >[!PREREQUISITES]
 >
@@ -47,4 +47,3 @@ ANMÄRKNINGAR FRÅN STEVE-MÖTET
 guidad lp, nytt div-id för mall, välj konverteringsflöde
 
 frihandstlp, ikonen för att ta över - caveat: add note - När du placerar cf i redigeraren visas inte en förhandsgranskning (ingen platshållare heller) - &quot;du kommer inte att se en förhandsgranskning&quot; - på sidofältet ser de att cf finns på sidan - guidad lp listar det som ett element - använd &quot;just nu&quot; när du förklarar - funktionen blir tillgänglig en vecka på 22 och
-

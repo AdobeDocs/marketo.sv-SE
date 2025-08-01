@@ -4,7 +4,7 @@ description: Konfigurera protokoll för Marketo Engage - Marketo Engage Docs - p
 title: Konfigurera protokoll för Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Lägg till landningssidan CNAME som de skickade dig till din DNS-post, så att `
 
 `2` **Lägg till CNAME för länkar för e-postspårning**
 
-Lägg till e-postmarknadsföringen CNAME skickade dig så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo Engage tilldelade, i formatet:\
+Lägg till e-postmarknadsföringen CNAME skickade dig så att `[YourEmailCNAME]` pekar på [MktoTrackingLink], standardspårningslänken som Marketo Engage tilldelade, i formatet:
 `[YourEmailCNAME].[YourDomain].com` I CNAME `[MktoTrackingLink]`
 
 Exempel:
@@ -92,11 +92,11 @@ Marknadsföringsteamet ska också ha skickat information om DKIM (Domain Keys Id
 
 1. Om du vill konfigurera SPF lägger du till följande rad i våra DNS-poster:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~all
 
-   Om det redan finns en SPF-post i vår DNS-post lägger du bara till följande:\
-   include: mktomail.com
+   Om det redan finns en SPF-post i vår DNS-post lägger du bara till följande:
+include: mktomail.com
 
    Ersätt CompanyDomain med huvuddomänen för din webbplats (t.ex. `(company.com/)`) och CorpIP med IP-adressen för företagets e-postserver (t.ex. &quot;255.255.255.255&quot;). Om du ska skicka e-post från flera domäner via Marketo Engage bör din IT-personal lägga till den här raden för varje domän (på en rad).
 
@@ -192,9 +192,9 @@ DMARC-poster har flera komponenter som kallas DMARC-taggar. Varje tagg har ett v
     <td>fo</td>
     <td>Valfritt</td>
     <td>Låter domänägaren ange rapportalternativ.</td>
-    <td>0: Generera en rapport om allt misslyckas 
-    <br>1: Generera en rapport om något misslyckas 
-    <br>d: Generera en rapport om DKIM misslyckas 
+    <td>0: Generera en rapport om allt misslyckas
+    <br>1: Generera en rapport om något misslyckas
+    <br>d: Generera en rapport om DKIM misslyckas
     <br>s: Generera en rapport om SPF misslyckas</td>
     <td>1 (rekommenderas för DMARC-rapporter)</td>
   </tr>

@@ -3,7 +3,7 @@ description: Använda Global Search - Marketo Docs - produktdokumentation
 title: Använda global sökning
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ Du dirigeras direkt till önskat e-postmeddelande.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Namn på objektet/målet</td> 
+   <td>1</td>
+   <td>Namn på objektet/målet</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Sökväg (vägbeskrivningar) till respektive objekt/mål</td> 
+   <td>2</td>
+   <td>Sökväg (vägbeskrivningar) till respektive objekt/mål</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Datum och tid då objektet/målet senast ändrades</td> 
+   <td>3</td>
+   <td>Datum och tid då objektet/målet senast ändrades</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Datum och tid då objektet/målet skapades</td> 
+   <td>4</td>
+   <td>Datum och tid då objektet/målet skapades</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Använd fokuserade filter för att begränsa sökresultaten</td> 
+   <td>5</td>
+   <td>Använd fokuserade filter för att begränsa sökresultaten</td>
   </tr>
  </tbody>
 </table>

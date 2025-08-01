@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1715'
+source-wordcount: '1714'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ För en snabbare och förbättrad designprocess kan du skapa fristående e-postm
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för medlemmar av nya Marketo Engage Email Designer beta. Sprid inte information.
+>Den här artikeln är endast avsedd för medlemmar av den nya betaversionen av Marketo Engage Email Designer. Sprid inte information.
 
 >[!PREREQUISITES]
 >
->Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ För en snabbare och förbättrad designprocess kan du skapa fristående e-postm
 
 ## Utforma en mall {#design-your-template}
 
-På sidan _Designa mallen_ kan du välja bland ett par alternativ. [Designa från grunden](#design-from-scratch), [importera din egen HTML](#import-html) eller [välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett som du redan har sparat). 
+På sidan _Designa mallen_ kan du välja bland ett par alternativ. [Designa från grunden](#design-from-scratch), [importera din egen HTML](#import-html) eller [välj en befintlig mall](#choose-a-template) (ett av våra exempel eller ett du redan har sparat).
 
 ![](assets/design-your-template-1.png)
 
@@ -62,11 +62,11 @@ Definiera innehållet genom att lägga till och flytta strukturella element med 
 
 1. Lägg till [struktur och innehåll](#add-structure-and-content).
 
-### Importera HTML {#import-your-html}
+### Importera din HTML {#import-your-html}
 
 Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Innehållet kan vara
 
-* En HTML-fil med en infogad formatmall
+* En HTML-fil med en inbyggd formatmall
 
 * En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
 
@@ -74,9 +74,9 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Inneh�
 >
 >ZIP-filstrukturen har inga begränsningar. Referenserna måste dock vara relativa och passa in i trädstrukturen i ZIP-mappen.
 
-1. På sidan _Designa mallen_ väljer du **Importera HTML**.
+1. Välj _Importera HTML_ på sidan **Designa din mall**.
 
-1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
+1. Dra och släpp önskad HTML- eller ZIP-fil (eller välj en fil på datorn) och klicka på **Importera**.
 
    ![](assets/import-your-html-1.png)
 
@@ -88,7 +88,7 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmallar. Inneh�
 
    >[!CAUTION]
    >
-   >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora stilar, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
+   >Om du använder en `<table>`-tagg som det första lagret i en HTML-fil kan du förlora format, inklusive inställningar för bakgrund och bredd i den översta lagertaggen.
 
 Du kan nu anpassa den importerade filen efter behov med den visuella e-postredigeraren.
 
@@ -138,7 +138,7 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
    >[!TIP]
    >
-   >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
+   >Välj kolumnkomponenten n:n för att definiera antalet kolumner du vill använda (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -182,13 +182,13 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
 1. Markera kolumnen i strukturkomponenten direkt på arbetsytan eller med _navigeringsträdet_ som visas till vänster.
 
-1. Klicka på verktyget _[!UICONTROL Select a column]_&#x200B;i kolumnverktygsfältet och välj det som du vill redigera.
+1. Klicka på verktyget _[!UICONTROL Select a column]_i kolumnverktygsfältet och välj det som du vill redigera.
 
-   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_&#x200B;och&#x200B;_[!UICONTROL Styles]_ till höger.
+   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_och_[!UICONTROL Styles]_ till höger.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_&#x200B;till höger och ändrar dem efter dina behov:
+1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_till höger och ändrar dem efter dina behov:
 
    * Ändra bakgrundsfärgen för **[!UICONTROL Background]** efter behov.
 
@@ -309,7 +309,7 @@ Om det finns aktiva varningar (fel/varningar för e-postmallen) klickar du på V
 
 ## Visa e-postmall som används av referenser {#email-template-used-by-references}
 
-Klicka på fliken **Används av** i e-postmallssammanfattningen för att visa information om var e-postmallen har använts i Marketo Engage.
+Klicka på fliken **Används av** i e-postmallssammanfattningen för att visa information om var den här e-postmallen har använts i Marketo Engage.
 
 ![](assets/email-template-used-by-references-1.png)
 

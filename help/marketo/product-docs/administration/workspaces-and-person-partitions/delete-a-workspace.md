@@ -4,7 +4,7 @@ description: Ta bort en Workspace - Marketo Docs - produktdokumentation
 title: Ta bort en Workspace
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 1%

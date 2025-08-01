@@ -1,17 +1,17 @@
 ---
 description: Använda Lägg till i säljkampanj gruppvis i Salesforce - Marketo Docs - produktdokumentation
-title: Använda Lägg till gruppvis i försäljningskampanj i Salesforce
+title: Använda Lägg till i grupp i försäljningskampanj i Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
-# Använda Lägg till gruppvis i försäljningskampanj i Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Använda Lägg till i grupp i försäljningskampanj i Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Lär dig hur du lägger till säljkampanjer satsvis i Salesforce för att skala din utgående kommunikation med hjälp av försäljningsåtgärder.
+Lär dig hur du kan lägga till flera i Sales Campaign i Salesforce för att skala din utgående kommunikation med hjälp av säljåtgärder.
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ Lär dig hur du lägger till säljkampanjer satsvis i Salesforce för att skala 
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har installerat det [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} till din Salesforce-instans och har konfigurerat [åtgärdsknapparna](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} för din kontakt- och leadlistevy i Salesforce.
+>Kontrollera att du har installerat det [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} till din Salesforce-instans och har konfigurerat [åtgärdsknapparna](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} på din kontakt- och leadlista i Salesforce.
 
 ## Lägg till gruppvis i försäljningskampanj i Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. Gå till hemsidan för Leads/Kontakter i Salesforce genom att klicka på fliken **Leads/Kontakter** .
+1. I Salesforce går du till hemsidan Leads/Kontakter genom att klicka på fliken **Leads/Kontakter** .
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 

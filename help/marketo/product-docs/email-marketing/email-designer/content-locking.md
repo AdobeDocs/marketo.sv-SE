@@ -6,7 +6,7 @@ description: Lär dig hur du låser innehåll i e-postmallar.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '831'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Du kan aktivera innehållslås för en e-postmall direkt i e-postmallen Designer
 
 1. Öppna eller skapa en e-postmall och gå till redigeringsskärmen i e-post-Designer.
 
-1. Aktivera alternativet **[!UICONTROL Governance]** i rutan **[!UICONTROL Body]** till höger.
+1. Aktivera alternativet **[!UICONTROL Body]** i rutan **[!UICONTROL Governance]** till höger.
 
 1. Välj önskat låsläge för mallen i listrutan **[!UICONTROL Mode]**:
 
@@ -75,7 +75,7 @@ Så här låser du en struktur i mallen:
 
 1. Välj den struktur som du vill låsa.
 
-1. Välj **[!UICONTROL Locked]** i listrutan **[!UICONTROL Lock type]**.
+1. Välj **[!UICONTROL Lock type]** i listrutan **[!UICONTROL Locked]**.
 
    ![](assets/content-locking-3.png){width="800" zoomable="yes"}
 
@@ -89,7 +89,7 @@ När du har låst en struktur kan inga ytterligare innehållskomponenter eller f
 
 1. Aktivera alternativet **[!UICONTROL Use specific locking]**.
 
-1. Välj **[!UICONTROL Editable]** i listrutan **[!UICONTROL Lock type]**. Välj **[!UICONTROL Editable content only]** om du vill tillåta redigering av innehåll när du låser format. [Lär dig att låsa komponenter](#lock-components)
+1. Välj **[!UICONTROL Lock type]** i listrutan **[!UICONTROL Editable]**. Välj **[!UICONTROL Editable content only]** om du vill tillåta redigering av innehåll när du låser format. [Lär dig att låsa komponenter](#lock-components)
 
    ![](assets/content-locking-4.png){width="800" zoomable="yes"}
 

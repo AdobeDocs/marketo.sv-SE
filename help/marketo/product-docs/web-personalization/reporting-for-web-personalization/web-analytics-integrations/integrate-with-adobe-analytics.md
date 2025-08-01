@@ -4,7 +4,7 @@ description: Integrera med Adobe Analytics - Marketo Docs - produktdokumentation
 title: Integrera med Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Gör så här för att konfigurera dessa variabler i AA:
 
 1. Gå till **[!UICONTROL Admin Tools]** i ditt AA-konto.
 1. Välj **[!UICONTROL Report Suite]** som ska användas med integreringen.
-1. Under **[!UICONTROL Edit Settings]** går du till **[!UICONTROL Conversion]** och väljer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Välj [Konverteringsvariabeln](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (vi rekommenderar):
+1. Under **[!UICONTROL Edit Settings]** går du till **[!UICONTROL Conversion]** och väljer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Välj [Konverteringsvariabeln](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (vi rekommenderar):
 
    1. Evar # 20 for Industry Custom Conversions
    1. Evar # 21 for Organization Custom Conversions
@@ -220,7 +220,7 @@ Dina rapporter visas på kontrollpanelen.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Sök efter Impressions för att visa segmenterings- och kampanjnamn som representerar antalet visningar för kampanjen.\
+1. Sök efter Impressions för att visa segmenterings- och kampanjnamn som representerar antalet visningar för kampanjen.
    ![](assets/sitecatalyst1.png)
 
 1. Sök efter konvertering om du vill visa segment- och kampanjnamn som representerar antalet klick för kampanjen.

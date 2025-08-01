@@ -4,7 +4,7 @@ description: Använda RTF-redigeraren - Marketo Docs - produktdokumentation
 title: Använda RTF-redigeraren
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 1%
@@ -41,19 +41,19 @@ Rotblockelementets inställning definierar vilka taggar som omsluter innehållet
 
    Om du har `<div class=“mktEditable”></div>` i en e-postmall visas följande HTML Source-beteende när du öppnar avsnittet och skriver&quot;Text Goes Here&quot; i redigeraren:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>Ingen</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Text Goes Here&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Text Goes Here&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>Text Goes Here<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>Ingen</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Text Goes Here&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Text Goes Here&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>Text Goes Here<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

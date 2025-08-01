@@ -4,7 +4,7 @@ description: Återannonsering med Web Personalization Data - Marketo Docs - prod
 title: Återannonsering med Web Personalization Data
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -26,30 +26,30 @@ Web Personalization lägger för närvarande till data till följande återmarkn
 
 [!DNL Web Personalization] skickar följande data till återmarknadsföringsplattformarna för att skapa målgrupper och köra återmarknadsföringskampanjer:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] Data</th> 
-  </tr> 
-  <tr> 
-   <th><p>Bransch</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Grupp (Enterprise, SMB)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Kategori (Fortune 500/1000, Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM-lista (lista över namngivna konton)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Segmenterad publik (baserad på segment)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Webbkampanjer klickade</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] Data</th>
+  </tr>
+  <tr>
+   <th><p>Bransch</p></th>
+  </tr>
+  <tr>
+   <th><p>Grupp (Enterprise, SMB)</p></th>
+  </tr>
+  <tr>
+   <th><p>Kategori (Fortune 500/1000, Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM-lista (lista över namngivna konton)</p></th>
+  </tr>
+  <tr>
+   <th><p>Segmenterad publik (baserad på segment)</p></th>
+  </tr>
+  <tr>
+   <th><p>Webbkampanjer klickade</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## Remarketing-konfiguration {#remarketing-configuration}

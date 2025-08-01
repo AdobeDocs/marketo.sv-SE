@@ -4,7 +4,7 @@ description: Personaliserad Remarketing i Facebook - Marketo Docs - produktdokum
 title: Personaliserad marknadsföring på Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >[!PREREQUISITES]
 >
 >* Slutför installationen av [återmarknadsföring med Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Granska [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
 
 ## Skapar en publik i [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
 ## RTP-datapunkter i [!DNL Facebook] {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Händelsenamn</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP Remarketing</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>Parameter</th> 
-        <th>Värde</th> 
-       </tr> 
-       <tr> 
-        <td>ABM-lista</td> 
-        <td>(Namn på kontobaserad lista)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Kategori</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Grupp</td> 
-        <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
-       </tr> 
-       <tr> 
-        <td>Bransch</td> 
-        <td><p>Försvar</p><p>Utbildning</p><p>Finansiella tjänster</p><p>Offentlig sektor</p><p>Sjukvård, farmakologi, bioteknik</p><p>Programvara och Internet</p><p>etc.. (enligt RTP-branschalternativ)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Segmenterad publik</td> 
-        <td colspan="1">(Namn på segmenterad publik som skapats i RTP)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Händelsenamn</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP Remarketing</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>Parameter</th>
+        <th>Värde</th>
+       </tr>
+       <tr>
+        <td>ABM-lista</td>
+        <td>(Namn på kontobaserad lista)</td>
+       </tr>
+       <tr>
+        <td colspan="1">Kategori</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Grupp</td>
+        <td colspan="1"><p>Enterprise</p><p>SMB</p></td>
+       </tr>
+       <tr>
+        <td>Bransch</td>
+        <td><p>Försvar</p><p>Utbildning</p><p>Finansiella tjänster</p><p>Offentlig sektor</p><p>Sjukvård, farmakologi, bioteknik</p><p>Programvara och Internet</p><p>etc.. (enligt RTP-branschalternativ)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Segmenterad publik</td>
+        <td colspan="1">(Namn på segmenterad publik som skapats i RTP)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Rikta in er målgrupp med en annons {#target-your-audience-with-an-ad}

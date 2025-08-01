@@ -3,9 +3,9 @@ description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumenta
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---

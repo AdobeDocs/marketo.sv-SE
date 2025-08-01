@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7512272
-description: "Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation"
-title: "Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst"
+description: Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+title: Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Lägg till [!DNL Webex] som en [!DNL LaunchPoint]-tjänst {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage hanterar din registrering och närvaro för ditt [!DNL Webex]-webbinarium. Du måste ha en befintlig prenumeration på [[!UICONTROL Webex]](https://www.webex.com/).
+Marketo Engage hanterar din registrering och närvaro av ditt [!DNL Webex]-webbinarium. Du måste ha en befintlig prenumeration på [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo Engage hanterar din registrering och närvaro för ditt [!DNL Webex]-web
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Webex Webinars]** i listrutan **[!UICONTROL Service]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Service]** i listrutan **[!UICONTROL Webex Webinars]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
@@ -43,7 +43,7 @@ Marketo Engage hanterar din registrering och närvaro för ditt [!DNL Webex]-web
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. När inloggningen är klar stängs fliken och _Ny tjänst_ i Marketo Engage får värdet &quot;WebBinars-kontot är inställt&quot;. Klicka på **[!UICONTROL Create]**.
+1. När inloggningen är klar stängs fliken och _Ny tjänst_-spärren i Marketo Engage kommer att läsa &quot;Webbseminariekontot är inställt&quot;. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

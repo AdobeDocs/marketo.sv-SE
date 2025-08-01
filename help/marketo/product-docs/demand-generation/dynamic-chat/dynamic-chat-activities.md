@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] aktiviteter - Marketo Docs - produktdokumentation'
 title: '[!DNL Dynamic Chat] aktiviteter'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>Engagerad med ett konversationsflöde/dialog</b></td>
-    <td>Ett ärende inträffar första gången en webbbesökare klickar på en fråga i ett Dialog- eller konversationsflöde (klicka på ett flervalsalternativ, skicka information, boka ett möte, öppna ett dokument osv.). Om en besökare öppnar en dialogruta eller ett konversationsflöde, men inte klickar på en fråga, loggas <b>inte</b> ett ärende. 
+    <td>Ett ärende inträffar första gången en webbbesökare klickar på en fråga i ett Dialog- eller konversationsflöde (klicka på ett flervalsalternativ, skicka information, boka ett möte, öppna ett dokument osv.). Om en besökare öppnar en dialogruta eller ett konversationsflöde, men inte klickar på en fråga, loggas <b>inte</b> ett ärende.
     <br>En engagemangshändelse per besökare, per session.</td>
   </tr>
    <tr>

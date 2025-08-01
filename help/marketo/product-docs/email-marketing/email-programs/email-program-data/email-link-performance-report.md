@@ -4,7 +4,7 @@ description: Resultatrapport för e-postlänk - Marketo Docs - produktdokumentat
 title: Resultatrapport för e-postlänk
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Skapa en prestandarapport för e-postlänkar för att se hur bra länkarna i din
 
 [Kolumner som är tillgängliga](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postlänkens prestanda inkluderar:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">Grupperat efter e-postnamn.<br>Klicka på plustecknet (+) om du vill se alla länkar i det e-postmeddelandet.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Antalet gånger som länken klickades på.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Av det totala antalet klick på alla länkar i det e-postmeddelandet, procent på den här länken.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Antalet unika personer som klickade på länken.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Procentandel av det totala antalet unika personer som klickade på länkar i det e-postmeddelandet på den här länken.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">Grupperat efter e-postnamn.<br>Klicka på plustecknet (+) om du vill se alla länkar i det e-postmeddelandet.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Antalet gånger som länken klickades på.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Av det totala antalet klick på alla länkar i det e-postmeddelandet, procent på den här länken.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Antalet unika personer som klickade på länken.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Procentandel av det totala antalet unika personer som klickade på länkar i det e-postmeddelandet på den här länken.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

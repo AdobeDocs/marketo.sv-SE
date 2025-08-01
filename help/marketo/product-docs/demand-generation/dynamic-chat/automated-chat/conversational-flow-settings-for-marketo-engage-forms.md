@@ -3,7 +3,7 @@ description: Konversationsflödesinställningar för Marketo Engage Forms - Mark
 title: Konversationsflödesinställningar för Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Konversationsflödesinställningar för Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
-Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Chat Conversational Flows. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.
+Förvandla Marketo Engage Forms till en dialog genom att integrera dem med Dynamic Chat Conversational Flows. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.
 
 >[!AVAILABILITY]
 >
->Medlem i Smart List eller Medlem i List-kriterier kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Medlem i kriterierna Smart List eller Medlem i List kräver Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Hitta och välj ett formulär (eller skapa ett nytt).
 
@@ -54,7 +54,7 @@ Skapa samtal mellan Marketo Engage Forms genom att integrera dem med Dynamic Cha
    >
    >Besökarens webbläsare måste vara en känd person som cookie innan formuläret skickas in för att bli berättigad till medlem i en statisk/smart lista.
 
-   **VALFRITT STEG**: Klicka på signaturen **+** i varje steg om du vill lägga till fler attribut, så att du kan begränsa målgruppen (attributen är de fält som du har valt för formuläret). I det här exemplet riktar vi oss till Adobe Technical Writers i Kalifornien.
+   **VALFRITT STEG**: Klicka på signaturen **+** i varje steg om du vill lägga till fler attribut, så att du kan begränsa målgruppen (attributen är de fält som du har valt för formuläret). I detta exempel riktar vi oss till Adobe Technical Writers i Kalifornien.
 
    ![](assets/conversational-flow-settings-8.png)
 

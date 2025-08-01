@@ -4,10 +4,10 @@ description: Uppdateringar av Marketo Terminology - Marketo Docs - produktdokume
 hide: true
 hidefromtoc: true
 title: Uppdateringar av Marketo Terminologi
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,52 +23,52 @@ Så vad har ändrats?
 
 Den största förändringen är namnbytet av lead/leads till person/personer.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Gammal</strong></td> 
-   <td><strong>Nytt</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Gammal</strong></td>
+   <td><strong>Nyhet</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 I vissa fall tas ordet&quot;Lead&quot; helt enkelt bort.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Gammal</strong></td> 
-   <td><strong>Nytt</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Gammal</strong></td>
+   <td><strong>Nyhet</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Lead och person **är samma sak**.
@@ -85,27 +85,27 @@ Tokens med ordet lead i dem **ändras inte**. Vi ber om ursäkt för all förvir
 
 Fält som innehåller termen Lead har ersatts med Person eller ordet Lead har tagits bort. Ett anmärkningsvärt undantag är dock fältet&quot;Leadägare&quot;. Det kallas nu&quot;försäljningsägare&quot;.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Gammal</strong></td> 
-   <td><strong>Nytt</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Gammal</strong></td>
+   <td><strong>Nyhet</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -114,27 +114,27 @@ Fält som innehåller termen Lead har ersatts med Person eller ordet Lead har ta
 
 ## Real-Time Personalization (RTP) är nu Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Gammal</strong></td> 
-   <td><strong>Nytt</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Gammal</strong></td>
+   <td><strong>Nyhet</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Förutom namnändringen består den nu av fyra separata program:

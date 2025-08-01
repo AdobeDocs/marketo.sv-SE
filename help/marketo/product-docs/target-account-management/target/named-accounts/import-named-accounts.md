@@ -4,7 +4,7 @@ description: Importera [!UICONTROL Named Accounts] - Marketo Docs - produktdokum
 title: Importera [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ Har du redan en CSV-fil full med potentiella målkonton? Importera dem direkt ti
 
 Scenarier när du tar bort [!UICONTROL by Account Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importerar post med befintligt <span class="uicontrol">namn på konto</span></strong></td> 
-   <td><p>Vi uppdaterar den befintliga posten</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importerar post med nytt namn för <span class="uicontrol">namngivet konto</span></strong></td> 
-   <td>Vi ska skapa en ny post</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importerar post med befintligt <span class="uicontrol">namn på konto</span></strong></td>
+   <td><p>Vi uppdaterar den befintliga posten</p></td>
+  </tr>
+  <tr>
+   <td><strong>Importerar post med nytt namn för <span class="uicontrol">namngivet konto</span></strong></td>
+   <td>Vi ska skapa en ny post</td>
+  </tr>
+ </tbody>
 </table>
 
 Scenarier när du tar bort [!UICONTROL by Domain Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importerar post med ett nytt kontonamn och ett nytt domännamn</strong></td> 
-   <td>Vi skapar ett nytt <span class="uicontrol">namngivet konto</span> med den angivna informationen</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importerar post med ett befintligt kontonamn och befintligt domännamn</strong></td> 
-   <td>Vi uppdaterar det befintliga <span class="uicontrol">namngivna kontot</span></td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importerar post med ett nytt kontonamn och befintligt domännamn</strong></td> 
-   <td>Vi lägger till det nya kontonamnet till det befintliga <span class="uicontrol">namngivna kontot</span> som matchar domännamnet och uppdaterar annan information (t.ex. bransch, stat)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importerar post med befintligt <span class="uicontrol">namn på konto</span> och nytt domännamn</strong></td> 
-   <td>Vi lägger till det nya domännamnet till det befintliga <span class="uicontrol">namngivna kontot</span> som matchar kontonamnet och uppdaterar annan information (t.ex. bransch, stat)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importerar post med ett nytt kontonamn och ett nytt domännamn</strong></td>
+   <td>Vi skapar ett nytt <span class="uicontrol">namngivet konto</span> med den angivna informationen</td>
+  </tr>
+  <tr>
+   <td><strong>Importerar post med ett befintligt kontonamn och befintligt domännamn</strong></td>
+   <td>Vi uppdaterar det befintliga <span class="uicontrol">namngivna kontot</span></td>
+  </tr>
+   <tr>
+   <td><strong>Importerar post med ett nytt kontonamn och befintligt domännamn</strong></td>
+   <td>Vi lägger till det nya kontonamnet till det befintliga <span class="uicontrol">namngivna kontot</span> som matchar domännamnet och uppdaterar annan information (t.ex. bransch, stat)</td>
+  </tr>
+  <tr>
+   <td><strong>Importerar post med befintligt <span class="uicontrol">namn på konto</span> och nytt domännamn</strong></td>
+   <td>Vi lägger till det nya domännamnet till det befintliga <span class="uicontrol">namngivna kontot</span> som matchar kontonamnet och uppdaterar annan information (t.ex. bransch, stat)</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

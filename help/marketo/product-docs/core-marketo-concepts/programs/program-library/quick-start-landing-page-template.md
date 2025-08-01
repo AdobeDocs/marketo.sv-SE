@@ -3,7 +3,7 @@ description: Quick Start Landing Page Template - Marketo Docs - produktdokumenta
 title: Startsidmall för snabbstart
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Startsidmall för snabbstart {#quick-start-landing-page-template}
 
-Vissa av startprogrammen i referensbiblioteket för Marketo Engage innehåller en enkel, lättanvänd och anpassningsbar Landing Page-mall som gör att du snabbt kan skapa landningssidor för ett antal olika användningsområden.
+Vissa av startprogrammen i Marketo Engage Reference Library innehåller en enkel, lättanvänd och anpassningsbar Landing Page-mall som gör att man snabbt kan skapa landningssidor för ett antal olika användningsområden.
 
 >[!TIP]
 >
 >Läs mer om [guidade sidmallar för landning](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Sammanfattning av avsnitt {#sections-summary}
 

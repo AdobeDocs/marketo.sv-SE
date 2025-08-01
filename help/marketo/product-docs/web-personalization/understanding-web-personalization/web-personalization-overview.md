@@ -4,7 +4,7 @@ description: Översikt över Web Personalization - Marketo Docs - produktdokumen
 title: Personalization - översikt
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 0%
@@ -66,13 +66,13 @@ På fliken Organisationer visas all information (namn, plats, aktivitet och tids
 
 Den högra panelen på sidan Organisationer har följande funktioner och insikter:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Ikon för kalkylblad</strong>: I den övre högra delen av panelen hämtas organisationstabellen i CSV-format av ikonen, så att den kan användas offline</p><p><strong>[!UICONTROL Set Email Alert]</strong>: Skickar e-post till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>[!UICONTROL Leads]</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>[!UICONTROL Share]</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter öppnar ett nytt fönster med ytterligare information från respektive webbsida som ger ytterligare information om den valda organisationen</p><p><strong>[!UICONTROL Search]</strong>: Visar det nyckelord som används om besökaren kom fram via en sökmotor</p><p><strong>[!UICONTROL Referrers]</strong>: Visar URL-länken för sidan som refererade trafiken till din plats</p><p><strong>[!UICONTROL Visitors]</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>[!UICONTROL Clickstream]</strong>: Visar en tabell över användaraktivitet och URL-sökväg på webbplatsen och hur länge användaren besökt varje sida</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Ikon för kalkylblad</strong>: I den övre högra delen av panelen hämtas organisationstabellen i CSV-format av ikonen, så att den kan användas offline</p><p><strong>[!UICONTROL Set Email Alert]</strong>: Skickar e-post till den inloggade användaren varje gång den valda organisationen besöker webbplatsen</p><p><strong>[!UICONTROL Leads]</strong>: Öppnar lead-tabellen för den valda organisationen</p><p><strong>[!UICONTROL Share]</strong>: Öppnar ett popup-fönster där du kan skicka e-post och dela information om organisationen som besökte webbsidan</p><p><strong>Platsikon</strong>: Visar land och ort för den valda organisationen</p><p><strong>Länkar</strong>: Jigsaw, whis, Linkedin, Google, Twitter öppnar ett nytt fönster med ytterligare information från respektive webbsida som ger ytterligare information om den valda organisationen</p><p><strong>[!UICONTROL Search]</strong>: Visar det nyckelord som används om besökaren kom fram via en sökmotor</p><p><strong>[!UICONTROL Referrers]</strong>: Visar URL-länken för sidan som refererade trafiken till din plats</p><p><strong>[!UICONTROL Visitors]</strong>: Visar antalet besök, antalet sidor som har visats av den valda organisationen och deras e-postadress (om de har fyllt i ett sändningsformulär) samt tid och datum för det senaste besöket</p><p><strong>[!UICONTROL Clickstream]</strong>: Visar en tabell över användaraktivitet och URL-sökväg på webbplatsen och hur länge användaren besökt varje sida</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **Dela organisationer**
@@ -93,35 +93,35 @@ Besökarsidan visar alla detaljer och onlinebeteenden för varje besökare som k
 
 Den högra panelen på sidan [!UICONTROL Visitors] ger följande insikter:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Namn</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Kalkylbladsikon</strong></td> 
-   <td colspan="1" rowspan="1">Ikonen finns längst upp till höger på panelen och hämtar tabellen Besökare i CSV-format för användning offline</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Organisationsnamn</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td> 
-   <td colspan="1" rowspan="1">Gör att du kan konfigurera ett Campaign-CTA som är kopplat till den valda besökaren</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Plats</strong></td> 
-   <td colspan="1">Visar besökarens land, delstat och ort</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Visar en tabell över besökarens aktivitet och URL-sökväg på webbplatsen och hur länge besökaren besökte varje sida</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Namn</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Kalkylbladsikon</strong></td>
+   <td colspan="1" rowspan="1">Ikonen finns längst upp till höger på panelen och hämtar tabellen Besökare i CSV-format för användning offline</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Organisationsnamn</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td>
+   <td colspan="1" rowspan="1">Gör att du kan konfigurera ett Campaign-CTA som är kopplat till den valda besökaren</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Plats</strong></td>
+   <td colspan="1">Visar besökarens land, delstat och ort</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Visar en tabell över besökarens aktivitet och URL-sökväg på webbplatsen och hur länge besökaren besökte varje sida</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Realtid {#real-time}
@@ -134,37 +134,37 @@ På sidan Realtid visas besökare på webbplatsen i realtid och aktiviteten mät
 
 Realtidssidan delas upp i sex informativa tabeller över besöksinformation på plats:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Namn</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> Representerar antalet besökare som för närvarande finns på webbplatsen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> Ett live-linjediagram som visar antalet klick på din webbplats per minut</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">En kort version av organisationsregistret</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">Antalet besökare som för närvarande är på plats och som matchar valda segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">URL-adressen till de sidor som för närvarande visas av besökare på platsen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">Hänvisnings-URL som tog besökaren till din webbplats</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Namn</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> Representerar antalet besökare som för närvarande finns på webbplatsen</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> Ett live-linjediagram som visar antalet klick på din webbplats per minut</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">En kort version av organisationsregistret</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">Antalet besökare som för närvarande är på plats och som matchar valda segment</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">URL-adressen till de sidor som för närvarande visas av besökare på platsen</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">Hänvisnings-URL som tog besökaren till din webbplats</td>
+  </tr>
+ </tbody>
 </table>

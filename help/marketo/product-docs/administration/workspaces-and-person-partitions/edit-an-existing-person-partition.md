@@ -4,7 +4,7 @@ description: Redigera en befintlig personpartition - Marketo Docs - produktdokum
 title: Redigera en befintlig personpartition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 1%

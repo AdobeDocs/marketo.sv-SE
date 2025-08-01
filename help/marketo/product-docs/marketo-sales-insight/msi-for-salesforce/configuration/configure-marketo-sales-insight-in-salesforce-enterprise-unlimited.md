@@ -4,7 +4,7 @@ description: Lär dig konfigurera Marketo Sales Insight i Salesforce Enterprise/
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited editions gen
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoSoapAPI`). Ange URL:en för fjärrplatsen, som är din Marketo-värd-URL från panelen _[!UICONTROL Soap API Configuration]_&#x200B;i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoSoapAPI`). Ange URL:en för fjärrplatsen, som är din Marketo-värd-URL från panelen _[!UICONTROL Soap API Configuration]_i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +75,7 @@ Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited editions gen
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoAPI`). Ange URL:en för fjärrplatsen, som är din API-URL från panelen _[!UICONTROL Rest API Configuration]_&#x200B;i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Rest API.
+1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoAPI`). Ange URL:en för fjärrplatsen, som är din API-URL från panelen _[!UICONTROL Rest API Configuration]_i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Rest API.
 
    >[!NOTE]
    >

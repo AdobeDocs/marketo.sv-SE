@@ -2,7 +2,7 @@
 description: Versionsinformation - maj 2022 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%

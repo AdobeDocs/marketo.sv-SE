@@ -2,7 +2,7 @@
 description: Loggning Sales Activity Attributes to Salesforce - Marketo Docs - Product Documentation
 title: Loggar attribut för försäljningsaktivitet till Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 3%

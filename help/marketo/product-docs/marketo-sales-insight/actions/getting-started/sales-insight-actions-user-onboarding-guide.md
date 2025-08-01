@@ -3,7 +3,7 @@ description: Sales Insight Actions User Onboarding Guide - Marketo Docs - produk
 title: Handbok om User Onboarding för Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 2%

@@ -3,7 +3,7 @@ description: Översikt - Marketo Docs - produktdokumentation
 title: Översikt över dialogrutan
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

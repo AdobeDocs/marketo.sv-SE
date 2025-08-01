@@ -6,7 +6,7 @@ description: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredig
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
    >
    >* Om du vill sortera tabellen efter någon av kolumnerna klickar du på kolumnrubriken. Pilen i rubrikraden anger den aktuella sorteringskolumnen och -ordningen.
 
-1. Klicka på **[!UICONTROL Edit in Adobe Express]** på fliken _Detaljer_ i bilden.
+1. Klicka på _på fliken_ Detaljer **[!UICONTROL Edit in Adobe Express]** i bilden.
 
    ![Klicka på knappen Redigera i Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
@@ -70,7 +70,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
    >
    >* Om du vill sortera tabellen efter någon av kolumnerna klickar du på kolumnrubriken. Pilen i rubrikraden anger den aktuella sorteringskolumnen och -ordningen.
 
-1. Markera kryssrutan bredvid bilden som du vill redigera. Välj **[!UICONTROL Edit in Adobe Express]** i listrutan **[!UICONTROL Image and file actions]**.
+1. Markera kryssrutan bredvid bilden som du vill redigera. Välj **[!UICONTROL Image and file actions]** i listrutan **[!UICONTROL Edit in Adobe Express]**.
 
    ![Markera kryssrutan bredvid bildnamnet och använd listrutan Bilder och filåtgärder](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
@@ -84,7 +84,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
 
 ### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/se/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
 
 >[!IMPORTANT]
 >

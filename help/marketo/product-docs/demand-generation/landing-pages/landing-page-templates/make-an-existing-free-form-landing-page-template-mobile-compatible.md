@@ -4,7 +4,7 @@ description: Gör en befintlig mall för landningssida i friform kompatibel - Ma
 title: Gör en befintlig mall för landningssida i friform kompatibel
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 1%

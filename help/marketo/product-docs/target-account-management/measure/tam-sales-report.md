@@ -4,7 +4,7 @@ description: TAM Sales Report - Marketo Docs - Product Documentation
 title: TAM-försäljningsrapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -30,35 +30,35 @@ Rapporten delar:
 
 ## Försäljningsrapportnyckel {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td>
+   <td>
     <div>
-      Trend varje vecka efter kontopoäng (väljs i konfiguration), följt av aktuellt kontopoäng 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Försäljningsförlopp</span></strong></td> 
-   <td> 
+      Trend varje vecka efter kontopoäng (väljs i konfiguration), följt av aktuellt kontopoäng
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Försäljningsförlopp</span></strong></td>
+   <td>
     <div>
-      Trend varje vecka efter pipeline, följt av den totala aktuella pipeline och antalet öppna möjligheter 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Sidvyer</span></strong></td> 
-   <td> 
+      Trend varje vecka efter pipeline, följt av den totala aktuella pipeline och antalet öppna möjligheter
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Sidvyer</span></strong></td>
+   <td>
     <div>
-      Veckovis trend för sidvisningar, följt av totalt antal sidvisningar och unika besökare 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intressanta ögonblick</span></strong></td> 
-   <td> 
+      Veckovis trend för sidvisningar, följt av totalt antal sidvisningar och unika besökare
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intressanta ögonblick</span></strong></td>
+   <td>
     <div>
-      Totalt antal intressanta stunder som har inträffat under veckan 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Totalt antal intressanta stunder som har inträffat under veckan
+    </div></td>
+  </tr>
+ </tbody>
 </table>

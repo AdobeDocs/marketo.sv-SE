@@ -4,7 +4,7 @@ description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -43,21 +43,21 @@ Ange en tidsfördröjning (i totalt antal sekunder) för webbkampanjer att reage
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>Visar kampanjen när besökaren rullar nedanför vecket. Campaign försvinner när besökaren rullar tillbaka ovanför falsen.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>Visar kampanj när besökaren rullar till en förbestämd procentandel av sidan.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Visar kampanjen när besökaren rullar till förbestämd topppixel på sidan.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>Visar kampanjen när besökaren rullar nedanför vecket. Campaign försvinner när besökaren rullar tillbaka ovanför falsen.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>Visar kampanj när besökaren rullar till en förbestämd procentandel av sidan.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Visar kampanjen när besökaren rullar till förbestämd topppixel på sidan.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Avsluta metod {#exit-intent}

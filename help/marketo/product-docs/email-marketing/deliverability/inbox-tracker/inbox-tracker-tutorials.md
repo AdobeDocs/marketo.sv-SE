@@ -1,22 +1,22 @@
 ---
 description: Testa, övervaka och förstå leveransproblem med Inbox Tracker.
-title: Inkorgsspåraren Tutorials
+title: Självstudiekurser för Inkorgsspåraren
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Inkorgsspåraren Tutorials {#inbox-tracker-tutorials}
+# Självstudiekurser för Inkorgsspåraren {#inbox-tracker-tutorials}
 
 Testa, övervaka och förstå leveransproblem med e-postleveransverktyg som drivs av Inkorgsspårningsplattformen Bird (tidigare MessageBird). Inkorgsspåraren är ett enskilt program som kombinerar intelligensen i ditt program och framsynen av e-poståtergivning/inkorgstestning för att maximera e-postens prestanda.
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av det här kraftfulla verktyget.
 
@@ -34,7 +34,7 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
-* [Kontrollpanelsöversikt](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
+* [Kontrollpanel - översikt](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
 * [Kontrollpanel (slutbarhet)](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
 
@@ -56,7 +56,7 @@ Bird har skapat flera utbildningsvideor som hjälper dig att få ut det mesta av
 
 ## Varumärkesskydd för Inkorgsspåraren {#inbox-tracker-brand-protection}
 
-* [Kontrollpanel](https://veed.io/view/287b425f-2ec8-470b-b993-a654b92b759d){target="_blank"}
+* [Instrumentpanel](https://veed.io/view/287b425f-2ec8-470b-b993-a654b92b759d){target="_blank"}
 
 * [Domäninformation](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 0%
@@ -147,7 +147,7 @@ Använd komponenten **[!UICONTROL Image]** för att infoga en bildfil från dato
 
 1. Klicka på **[!UICONTROL Settings]** på fliken **[!UICONTROL Browse]** för att välja en bildfil från dina resurser eller på **[!UICONTROL Import media]** för att överföra en resurs till Adobe Experience Manager Assets.
 
-   Mer information om [!DNL Adobe Experience Manager Assets] finns i [Adobe Experience Manager Assets-dokumentationen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=sv-SE){target="_blank"}.
+   Mer information om [!DNL Adobe Experience Manager Assets] finns i [Adobe Experience Manager Assets-dokumentationen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -209,4 +209,3 @@ Lär dig hur du lägger till anpassade erbjudanden i ett e-postmeddelande i `[th
 >[!IMPORTANT]
 >
 >Om ett beslut om erbjudande som används i ett kundmeddelande ändras måste du avpublicera resan och publicera den på nytt.  På så sätt säkerställs att ändringarna införlivas i kundens budskap och att meddelandet överensstämmer med de senaste uppdateringarna.
-

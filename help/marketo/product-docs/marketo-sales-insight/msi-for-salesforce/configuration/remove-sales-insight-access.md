@@ -3,7 +3,7 @@ description: Ta bort Sales Insight Access - Marketo Docs - produktdokumentation
 title: Ta bort åtkomst till Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 1%
@@ -20,53 +20,53 @@ Behörighet till de objekt som nämns nedan, apex-klasser och visualforce-sidor 
 
 **Objektinställningar**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Visa detaljer</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Vyer</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>GroupWebActivityCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>IntressantMomentsCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] Konfig</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>Värden</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Visa detaljer</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Vyer</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>GroupWebActivityCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>IntressantMomentsCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] Konfig</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>Värden</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Läs, skapa, redigera, ta bort, visa alla, ändra alla</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex-klassåtkomst: 159 Apex-klasser som börjar med &quot;mkto_si&quot;

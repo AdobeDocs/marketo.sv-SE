@@ -4,7 +4,7 @@ description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - 
 title: Tilldela personpartitioner med tilldelningsregler
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -25,7 +25,7 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
 >[!NOTE]
 >
->Endast personer som har skapats i Marketo från din CRM och via SOAP API:t får tilldelningsregler tillämpade på dem.
+>Endast personer som har skapats i Marketo från din CRM och via SOAP API får tilldelningsregler tillämpade på dem.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ När du använder personpartitioner ska du ställa in tilldelningsregler för at
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Klicka på **[!UICONTROL Assignment Rules]** på fliken **[!UICONTROL Person Partitions]**.
+1. Klicka på **[!UICONTROL Person Partitions]** på fliken **[!UICONTROL Assignment Rules]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 

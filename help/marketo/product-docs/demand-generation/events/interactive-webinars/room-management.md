@@ -3,7 +3,7 @@ description: Rumshantering - Marketo Docs - produktdokumentation
 title: Rumshantering
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -67,7 +67,7 @@ På fliken Innehåll kan du visa de överförda filerna, deras typ, storlek, sen
 <table><tbody>
   <tr>
     <td><b>Typ</td>
-    <td>Visar filtypen PDF, JPG, PNG osv.</td>
+    <td>Visar filtypen som PDF, JPG, PNG osv.</td>
   </tr>
   <tr>
     <td><b>Storlek</td>

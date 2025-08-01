@@ -4,7 +4,7 @@ description: Lägg till leads till en anpassad målgrupp på Facebook - Marketo 
 title: Lägg till leads till en anpassad målgrupp på Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Har du redan en anpassad målgrupp i [!DNL Facebook] och vill du lägga till fle
 
    >[!NOTE]
    >
-   >**[!UICONTROL Add leads to audience]**: endast [!DNL Facebook] målgrupper med en anpassad undertyp är tillgängliga.\
+   >**[!UICONTROL Add leads to audience]**: endast [!DNL Facebook] målgrupper med en anpassad undertyp är tillgängliga.
    >**[!UICONTROL Remove leads from audience]**: tar bort leads i din statiska eller smarta lista från en [!DNL Facebook]-målgrupp.
 
 1. När du är klar uppdateras statusen.

@@ -4,7 +4,7 @@ description: Instrumentpaneler för Performance Insights - Marketo Docs - produk
 title: Instrumentpaneler för prestandainsikter
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ Kontrollpanelen [!UICONTROL Pipeline] visar kanalprestanda med hjälp av första
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Nya möjligheter</span></strong></p></td> 
-   <td><p>Den del av krediten som programmet fick för att påverka skapandet av nya möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline skapad</span></strong></p></td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Det kan vara en bråkdel av summan om det finns flera leads.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Öppen pipeline</span></strong></p></td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter som fortfarande är öppna. Det kan vara en bråkdel av summan om det finns flera leads.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Förväntade intäkter</span></strong></p></td> 
-   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med värdet för affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Kostnad per affärstillfälle skapad</span></strong></p></td> 
-   <td><p>Den del av kostnaden för programmet som påverkade nya möjligheter dividerat med det totala antalet nya möjligheter som skapats.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline skapad till kostnadsförhållande</span></strong></p></td> 
-   <td><p>Den del av krediten som ett program fick för att påverka skapandet av nya möjligheter dividerat med den del av kostnaden för det program som påverkade skapandet av möjligheter.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Nya möjligheter</span></strong></p></td>
+   <td><p>Den del av krediten som programmet fick för att påverka skapandet av nya möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline skapad</span></strong></p></td>
+   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Det kan vara en bråkdel av summan om det finns flera leads.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Öppen pipeline</span></strong></p></td>
+   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter som fortfarande är öppna. Det kan vara en bråkdel av summan om det finns flera leads.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Förväntade intäkter</span></strong></p></td>
+   <td><p>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av möjligheter. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med värdet för affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Kostnad per affärstillfälle skapad</span></strong></p></td>
+   <td><p>Den del av kostnaden för programmet som påverkade nya möjligheter dividerat med det totala antalet nya möjligheter som skapats.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline skapad till kostnadsförhållande</span></strong></p></td>
+   <td><p>Den del av krediten som ett program fick för att påverka skapandet av nya möjligheter dividerat med den del av kostnaden för det program som påverkade skapandet av möjligheter.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ Kontrollpanelen [!UICONTROL Revenue] visar kanalprestanda med hjälp av första-
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Vunna affärsmöjligheter</span></strong></p></td> 
-   <td><p>Den del av krediten som ett program tog emot för att påverka en vunnen affärsmöjlighet.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Vinst på intäkt</span></strong></p></td> 
-   <td><p>Andelen kredit (i penningvärde) som tagits emot för att påverka en vunnen affärsmöjlighet.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Kostnad per affärsmöjlighet vunnen</span></strong></p></td> 
-   <td><p>Den del av kostnaden för programmet som påverkade nya möjligheter dividerat med det totala antalet nya möjligheter som skapats.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Intäkter vunna till kostnadskvot</span></strong></p></td> 
-   <td><p>Andelen kredit (i penningvärde) som erhållits för att påverka en vunnen möjlighet dividerat med den del av kostnaden för programmet som påverkade nya möjligheter.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Vunna affärsmöjligheter</span></strong></p></td>
+   <td><p>Den del av krediten som ett program tog emot för att påverka en vunnen affärsmöjlighet.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Vinst på intäkt</span></strong></p></td>
+   <td><p>Andelen kredit (i penningvärde) som tagits emot för att påverka en vunnen affärsmöjlighet.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Kostnad per affärsmöjlighet vunnen</span></strong></p></td>
+   <td><p>Den del av kostnaden för programmet som påverkade nya möjligheter dividerat med det totala antalet nya möjligheter som skapats.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Intäkter vunna till kostnadskvot</span></strong></p></td>
+   <td><p>Andelen kredit (i penningvärde) som erhållits för att påverka en vunnen möjlighet dividerat med den del av kostnaden för programmet som påverkade nya möjligheter.</p></td>
+  </tr>
+ </tbody>
 </table>

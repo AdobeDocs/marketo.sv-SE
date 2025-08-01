@@ -4,7 +4,7 @@ description: Redigera inställningar för landningssida - Marketo Docs - produkt
 title: Redigera inställningar för landningssida
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Du kan redigera ditt domännamn och din reservsida, aktivera eller inaktivera f�
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. Klicka på **[!UICONTROL Edit]** i avsnittet **[!UICONTROL Landing Pages]**.
+1. Klicka på **[!UICONTROL Landing Pages]** i avsnittet **[!UICONTROL Edit]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 

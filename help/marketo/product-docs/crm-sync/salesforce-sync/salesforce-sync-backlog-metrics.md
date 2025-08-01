@@ -2,7 +2,8 @@
 description: Salesforce Sync Backlog Metrics - Marketo Docs - produktdokumentation
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
-source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -83,7 +84,7 @@ Statistiken visar genomströmning och eftersläpningsstatus för varje objekttyp
 
 ## Vad orsakar synkronisering av eftersläpningar {#what-causes-sync-backlogs}
 
-Oavsett om uppdateringen görs på Marketo Engage eller CRM-sidan kommer den att utlösa att posten synkroniseras igen för att uppdatera informationen på andra sidan genom den vanliga synkroniseringscykeln mellan Marketo Engage och CRM. När en uppdatering görs av en post i Salesforce genereras en tidsstämpel för systemändring, som kallas SysModStamp. Detta medför att en ändring som ska synkroniseras köas.
+Oavsett om uppdateringen görs på Marketo Engage- eller CRM-sidan, kommer den att utlösa att posten synkroniseras igen för att uppdatera informationen på andra sidan genom den vanliga synkroniseringscykeln mellan Marketo Engage och CRM. När en uppdatering görs av en post i Salesforce genereras en tidsstämpel för systemändring, som kallas SysModStamp. Detta medför att en ändring som ska synkroniseras köas.
 
 När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändras) ändras många poster, vilket ger nya SysModStamps. Ett stort antal personregisteruppdateringar måste sedan synkroniseras igen mellan Marketo Engage och CRM, vilket ibland skapar en tillfällig eftersläpning.
 
@@ -97,9 +98,9 @@ När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändr
 
 **Fält som uppdateras ofta**: Vissa fält har ofta uppdaterats. Till exempel valutafält som är föremål för valutaändringar. Granska om de behöver synkroniseras eller om fälten ska utformas på ett annat sätt. Om du har andra fält som uppdateras ofta och inte behövs döljer du dem för synkroniseringsanvändaren. Diskutera med era SFDC-administratörsintegreringar som kanske uppdaterar fält.
 
-**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
+**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
 
-**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
+**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
 
 **Granska synkroniseringsfel**: Undantagshantering kan göra synkroniseringen långsammare. Att granska användarmeddelanden och åtgärda fel kan förbättra synkroniseringshälsan.
 

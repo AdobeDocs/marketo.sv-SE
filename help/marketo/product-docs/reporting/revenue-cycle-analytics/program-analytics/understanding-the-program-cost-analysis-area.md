@@ -4,10 +4,10 @@ description: Så här fungerar analysområdet för programkostnader - Marketo Do
 title: Förstå området för programkostnadsanalys
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Hur mycket spenderade jag per program och månad?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimensioner och åtgärder för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
+## Dimensioner och mått för programkostnadsanalys {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ Hur mycket spenderade jag per program och månad?
 
 ## medlemskap {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Mät</th> 
-   <th>Beskrivning</th> 
-  </tr> 
-  <tr> 
-   <td>% nya namn</td> 
-   <td>Procentandel leads som förvärvats av ett program</td> 
-  </tr> 
-  <tr> 
-   <td>Medlemmar</td> 
-   <td>Totalt antal leads i ett program</td> 
-  </tr> 
-  <tr> 
-   <td>Nya namn</td> 
-   <td>Totalt antal nya namn som hämtats av ett program</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Mät</th>
+   <th>Beskrivning</th>
+  </tr>
+  <tr>
+   <td>% nya namn</td>
+   <td>Procentandel leads som förvärvats av ett program</td>
+  </tr>
+  <tr>
+   <td>Medlemmar</td>
+   <td>Totalt antal leads i ett program</td>
+  </tr>
+  <tr>
+   <td>Nya namn</td>
+   <td>Totalt antal nya namn som hämtats av ett program</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Programattribut {#program-attributes}

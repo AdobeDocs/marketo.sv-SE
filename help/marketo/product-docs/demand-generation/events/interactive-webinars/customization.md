@@ -3,7 +3,7 @@ description: Anpassning av interaktiva webbinarier - Marketo Docs - produktdokum
 title: Anpassning av interaktiva webbinarier
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Du kan anpassa följande alternativ:
 
 ## Bevilja behörigheter {#grant-permissions}
 
-Innan någon användare i organisationen kan anpassa dina interaktiva webbinarier måste Marketo Engage-administratören först lägga till åtkomst till den eller de roller som du vill ha.
+Innan någon användare i organisationen kan anpassa dina interaktiva webbinarier måste en Marketo Engage-administratör först lägga till åtkomst till den eller de roller som du vill ha.
 
 1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
 

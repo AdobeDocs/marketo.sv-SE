@@ -4,7 +4,7 @@ description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
 
 **Gruppera e-post jämfört med Markera och skicka**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>Skicka</span><span> Typ</span> </p></th> 
-   <th><p><span>Maximalt antal </span><span>E</span><span>e-postmeddelanden</span> </p></th> 
-   <th><p><span>Startade </span><span>Skickat av</span></p></th> 
-   <th><p><span>Massvis </span><span>Redigera e-post</span> </p></th> 
-   <th><p><span>Redigera</span><span> Varje e-postadress </span><span>unikt</span> </p></th> 
-   <th><p><span>Mallar och </span><span>Stöd för dynamiska fält</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>Gruppera e-post</span> </p></td> 
-   <td><p><span>1 000</span> </p></td> 
-   <td><p><span>Markera en grupp och klicka på </span><span> på knappen </span><span>"Gruppåtgärder"</span><span>, eller skriv gruppnamnet i fältet Till. </span> </p></td> 
-   <td><p><span>Ja</span> </p></td> 
-   <td><p><span>Nej</span> </p></td> 
-   <td><p><span>Ja</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>Markera </span><span>och </span><span>Skicka</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>Markera personer i rutnätet och klicka på knappen"E-posta markerade" i åtgärdsfältet</span><span>, o</span><span>r skriv mottagare i e-postmeddelandet </span><span>sidebar</span><span>.</span></p></td> 
-   <td><p><span>Ja</span> </p></td> 
-   <td><p><span>Ja</span> </p></td> 
-   <td><p><span>Ja</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>Skicka</span><span> Typ</span> </p></th>
+   <th><p><span>Maximalt antal </span><span>E</span><span>e-postmeddelanden</span> </p></th>
+   <th><p><span>Startade </span><span>Skickat av</span></p></th>
+   <th><p><span>Massvis </span><span>Redigera e-post</span> </p></th>
+   <th><p><span>Redigera</span><span> Varje e-postadress </span><span>unikt</span> </p></th>
+   <th><p><span>Mallar och </span><span>Stöd för dynamiska fält</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>Gruppera e-post</span> </p></td>
+   <td><p><span>1 000</span> </p></td>
+   <td><p><span>Markera en grupp och klicka på </span><span> på knappen </span><span>"Gruppåtgärder"</span><span>, eller skriv gruppnamnet i fältet Till. </span> </p></td>
+   <td><p><span>Ja</span> </p></td>
+   <td><p><span>Nej</span> </p></td>
+   <td><p><span>Ja</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>Markera </span><span>och </span><span>Skicka</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>Markera personer i rutnätet och klicka på knappen"E-posta markerade" i åtgärdsfältet</span><span>, o</span><span>r skriv mottagare i e-postmeddelandet </span><span>sidebar</span><span>.</span></p></td>
+   <td><p><span>Ja</span> </p></td>
+   <td><p><span>Ja</span> </p></td>
+   <td><p><span>Ja</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Använder gruppe-post**

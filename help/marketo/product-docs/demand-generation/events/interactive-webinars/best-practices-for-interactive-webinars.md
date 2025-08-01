@@ -3,7 +3,7 @@ description: Best Practices for Interactive Webinars - Marketo Docs - Product Do
 title: Best Practices for Interactive Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * **Q&amp;A Pod**: Namnet på deltagaren som skickade frågan och namnet på värden/presentatör som svarade kan båda vara dolda. Detta kan du göra genom att avmarkera Sekretessalternativen under avsnittet Q&amp;A Pod i rumsinställningarna.
 
-* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/se/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder panelen Chatt.
+* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder chattpanelen.
 
 * **Privat chatt**: Inaktivera privat chatt för att förhindra att deltagare kan pinga en annan deltagare. Detta kan du göra genom att avmarkera&quot;Tillåt deltagare att chatta privat&quot; under avsnittet&quot;Chatt&quot; i rumsinställningarna.
 
@@ -103,7 +103,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * Deltagare kan gå in i rummet 15 min före den schemalagda starten. Växla till lobbylayouten 15 min före den schemalagda starten för deltagare som kommer tidigt.
 
-* Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. [Klicka här](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om du vill se en kort video i värd- och presentationsområdet.
+* Använd värd- och presentationsområdet som ett backstage-område för att koordinera privat. [Klicka här](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om du vill se en kort video i värdområdet och presentationsområdet.
 
 * Använd Förbered-läget för att göra eventuella sista-minuten-ändringar privat. [Klicka här](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om du vill se en kort video om Förbered läge.
 
@@ -113,7 +113,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 ## Efterleverans {#post-delivery}
 
-* När webbinariet har levererats kommer engagemangsdata tillsammans med inspelningen att göras tillgängliga i Marketo Engage i allmänhet inom 1-2 timmar. Validera inspelningen och bekräfta om webbinariets samtliga videoutdata har spelats in på rätt sätt så att de kan användas för att dela med publiken samt spåra on-demand-webbinaridata.
+* När webbinariet har levererats kommer engagemangsdata tillsammans med inspelningen att göras tillgängliga i Marketo Engage i allmänhet inom 1 till 2 timmar. Validera inspelningen och bekräfta om webbinariets samtliga videoutdata har spelats in på rätt sätt så att de kan användas för att dela med publiken samt spåra on-demand-webbinaridata.
 
 * Skapa närliggande kampanjer för att ytterligare kvalificera deltagarleads baserat på deras engagemang med hjälp av filter/utlösare för interaktiva webbinarier och ha Tack/mist ni kampanjer för att ge mer information från evenemanget, inspelningslänken, händelsestatistik och framtida evenemang för att uppmana No-Shows att återansluta till organisationen. Aktiviteter för no-Shows som besöker inspelningen kan spåras som en del av On-Demand-webbinarier och ytterligare webbkampanjer kan skapas för No-Shows via On-Demand-webbinarier (filter/utlösare).
 

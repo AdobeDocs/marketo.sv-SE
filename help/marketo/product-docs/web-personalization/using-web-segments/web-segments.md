@@ -4,7 +4,7 @@ description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -23,35 +23,35 @@ I [!DNL Web Personalizatio] kan en besökare matcha mer än ett segment. Om det 
 
 **DIAGRAM:** På sidan Segment visas ett stapeldiagram över de valda segmenten utifrån antalet besökare från segmentet (y-axeln) och segmentnamnet (x-axeln).
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Namn</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Namn</strong></td> 
-   <td colspan="1" rowspan="1">Segmentets titel</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Matchar</strong></p></td> 
-   <td colspan="1" rowspan="1">Antalet besökare som uppfyller segmentets anpassade, definierade villkor</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td> 
-   <td colspan="1" rowspan="1">Gör att du kan konfigurera ett Campaign-CTA som är kopplat till den valda söktermen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Besökare</strong></td> 
-   <td colspan="1">En förhandsgranskning av besökstabellen som är associerad med den valda söktermen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Visar en tabell över besökarens aktivitet och URL-sökväg på webbplatsen och hur länge besökaren besökte varje sida </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Namn</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Namn</strong></td>
+   <td colspan="1" rowspan="1">Segmentets titel</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Matchar</strong></p></td>
+   <td colspan="1" rowspan="1">Antalet besökare som uppfyller segmentets anpassade, definierade villkor</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Ange kampanj</strong></td>
+   <td colspan="1" rowspan="1">Gör att du kan konfigurera ett Campaign-CTA som är kopplat till den valda söktermen</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Besökare</strong></td>
+   <td colspan="1">En förhandsgranskning av besökstabellen som är associerad med den valda söktermen</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Visar en tabell över besökarens aktivitet och URL-sökväg på webbplatsen och hur länge besökaren besökte varje sida </td>
+  </tr>
+ </tbody>
 </table>
 
 Se [Skapa och visa segmentetiketter](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -187,7 +187,7 @@ Välj i en [lista över namngivna konton](/help/marketo/product-docs/web-persona
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Uteslut ISP**
 
@@ -286,7 +286,7 @@ Lägg till det händelsevärde som du vill ha som mål. Till exempel från datak
 
 **API för användarkontext**
 
-Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

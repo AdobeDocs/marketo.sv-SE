@@ -4,7 +4,7 @@ description: Lägg till [!DNL Munchkin] spårningskod på din webbplats - Market
 title: Lägg till [!DNL Munchkin] spårningskod på din webbplats
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Marketo anpassade JavaScript-spårningskod, [!DNL Munchkin], spårar alla person
 
    >[!TIP]
    >
-   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 

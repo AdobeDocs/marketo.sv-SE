@@ -4,7 +4,7 @@ description: Command Center Overview - Marketo Docs - produktdokumentation
 title: Översikt över kommandocentralen
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ I e-postavsnittet i [!UICONTROL Command Center] kan du hantera all din e-postakt
 
 I e-postavsnittet får du en fågelöversikt över alla dina e-postmeddelanden och förenklar deras organisation med primära flikar och underflikar som fungerar som mappar där dina e-postmeddelanden lagras automatiskt baserat på deras status.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Primär</span> </strong></p></td> 
-   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Sekundär</span> </strong></p></td> 
-   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Beskrivning</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg : Blå"><strong title="">Skickat</strong></td> 
-   <td title="Bakgrundsfärg : Blå">[!UICONTROL Delivered]</td> 
-   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har levererats till mottagaren.</td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg : Blå"><br></td> 
-   <td title="Bakgrundsfärg : Blå">[!UICONTROL Archived]</td> 
-   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har arkiverats av användaren för att inaktivera spårning av e-postmeddelanden.</td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg: Grå"><strong title="">Väntande</strong></td> 
-   <td title="Bakgrundsfärg: Grå">[!UICONTROL Scheduled]</td> 
-   <td title="Bakgrundsfärg: Grå">E-postmeddelanden som är schemalagda att skickas ut. När ett e-postmeddelande har skickats flyttas det till den levererade mappen.</td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg: Grå"><br></td> 
-   <td title="Bakgrundsfärg: Grå">[!UICONTROL Draft]</td> 
-   <td title="Bakgrundsfärg: Grå"><p>E-postmeddelanden som har sparats som ett utkast.<br><strong>Obs!</strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-postmeddelanden och gruppmeddelanden) sparas inte som utkast.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg: Grå"><br></td> 
-   <td title="Bakgrundsfärg: Grå">[!UICONTROL In Progress]</td> 
-   <td title="Bakgrundsfärg: Grå">Det här är ett mellanläge som e-postmeddelanden går in i när de är i sändningsrörelsen. E-postmeddelanden får bara vara under utveckling en stund.</td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg : Blå"><strong title="">Olevererad</strong></td> 
-   <td title="Bakgrundsfärg : Blå">[!UICONTROL Failed]</td> 
-   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som inte har levererats.</td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg : Blå"><br></td> 
-   <td title="Bakgrundsfärg : Blå">[!UICONTROL Bounced]</td> 
-   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har avvisats från mottagarnas e-postserver. <br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Bakgrundsfärg : Blå"><br></td> 
-   <td title="Bakgrundsfärg : Blå">[!UICONTROL Spam]</td> 
-   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Primär</span> </strong></p></td>
+   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Sekundär</span> </strong></p></td>
+   <td title="Bakgrundsfärg: Grå"><p title=""><strong><span>Beskrivning</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg : Blå"><strong title="">Skickat</strong></td>
+   <td title="Bakgrundsfärg : Blå">[!UICONTROL Delivered]</td>
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har levererats till mottagaren.</td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg : Blå"><br></td>
+   <td title="Bakgrundsfärg : Blå">[!UICONTROL Archived]</td>
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som har arkiverats av användaren för att inaktivera spårning av e-postmeddelanden.</td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg: Grå"><strong title="">Väntande</strong></td>
+   <td title="Bakgrundsfärg: Grå">[!UICONTROL Scheduled]</td>
+   <td title="Bakgrundsfärg: Grå">E-postmeddelanden som är schemalagda att skickas ut. När ett e-postmeddelande har skickats flyttas det till den levererade mappen.</td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg: Grå"><br></td>
+   <td title="Bakgrundsfärg: Grå">[!UICONTROL Draft]</td>
+   <td title="Bakgrundsfärg: Grå"><p>E-postmeddelanden som har sparats som ett utkast.<br><strong>Obs!</strong> Endast enstaka e-postmeddelanden kan sparas som utkast. Massutskick (Markera och skicka e-postmeddelanden och gruppmeddelanden) sparas inte som utkast.</p></td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg: Grå"><br></td>
+   <td title="Bakgrundsfärg: Grå">[!UICONTROL In Progress]</td>
+   <td title="Bakgrundsfärg: Grå">Det här är ett mellanläge som e-postmeddelanden går in i när de är i sändningsrörelsen. E-postmeddelanden får bara vara under utveckling en stund.</td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg : Blå"><strong title="">Olevererad</strong></td>
+   <td title="Bakgrundsfärg : Blå">[!UICONTROL Failed]</td>
+   <td title="Bakgrundsfärg : Blå">E-postmeddelanden som inte har levererats.</td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg : Blå"><br></td>
+   <td title="Bakgrundsfärg : Blå">[!UICONTROL Bounced]</td>
+   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har avvisats från mottagarnas e-postserver. <br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td>
+  </tr>
+  <tr>
+   <td title="Bakgrundsfärg : Blå"><br></td>
+   <td title="Bakgrundsfärg : Blå">[!UICONTROL Spam]</td>
+   <td title="Bakgrundsfärg : Blå"><p>E-postmeddelanden som har markerats som skräppost manuellt av mottagaren.<br><strong>Obs!</strong> Detta upptäcks bara om du är en äldre ToutApp-användare och har åtkomst till MSC-servrar som en leveranskanal.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Hantera uppgifter {#manage-tasks}

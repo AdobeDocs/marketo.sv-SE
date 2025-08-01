@@ -3,16 +3,16 @@ description: Marketo Engage Modern UX Overview - Marketo Docs - produktdokumenta
 title: Marketo Engage Modern UX - översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Marketo Engage Modern UX - översikt {#overview}
 
-Välkommen till Adobe Marketo Engage Modern UX (användarupplevelse), ett uppdaterat gränssnitt som ger förbättrad användarvänlighet och ett nytt utseende på hela Marketo Engage-plattformen.
+Välkommen till Adobe Marketo Engage Modern UX (användarupplevelse), ett uppdaterat gränssnitt som ger förbättrad användarvänlighet och ett nytt utseende på Marketo Engage-plattformen.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Det nya gränssnittet har förbättrad och utökad ikonografi.
 
 **Global navigering**
 
-Farväl superboll. Du har nu snabb åtkomst till alla Marketo Engage i huvudsektionen.
+Farväl superboll. Nu har du snabb tillgång till alla Marketo Engage huvudavsnitt.
 
 ![](assets/overview-5.png)
 
@@ -54,112 +54,112 @@ Det finns massor av nya trädfunktioner.
 
 **Marketo Classic jämfört med nya Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Funktion</th> 
-   <th>Klassisk</th> 
-   <th>Nästa-gen</th> 
+   <th>Funktion</th>
+   <th>Klassisk</th>
+   <th>Nästa-gen</th>
   </tr>
   <tr>
-   <td>Använda flera filter samtidigt</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Använda flera filter samtidigt</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Trädnod för kombinerat utkast och godkännande</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Trädnod för kombinerat utkast och godkännande</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Skapa lokala resurser i programmappar</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Skapa lokala resurser i programmappar</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Dubbelklicka för att expandera/komprimera trädnoder</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Dubbelklicka för att expandera/komprimera trädnoder</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Dra och släpp från träd till engagemangsström</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Dra och släpp från träd till engagemangsström</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Dra och släpp inuti trädet</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Dra och släpp inuti trädet</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filtrera efter resurstyp och lägen</td> 
-   <td><i>delvis</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filtrera efter resurstyp och lägen</td>
+   <td><i>delvis</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Markera bakgrunden för att visa hierarkin i fokusläget</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Markera bakgrunden för att visa hierarkin i fokusläget</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Markera nyckelord under sökning</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Markera nyckelord under sökning</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Vågrät rullning</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Vågrät rullning</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Hovringstillstånd för trädnoder</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Hovringstillstånd för trädnoder</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Komprimera hela trädet snabbt</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Komprimera hela trädet snabbt</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Komprimera snabbt till rotnod</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Komprimera snabbt till rotnod</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Realtidsuppdatering</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Realtidsuppdatering</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Träd med resizeable</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Träd med resizeable</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Sök i arkiverade mappar</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Sök i arkiverade mappar</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Söksträng som har sparats vid global sökning från trädsökning</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Söksträng som har sparats vid global sökning från trädsökning</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Visa alla arbetsytor i ett enda träd</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Visa alla arbetsytor i ett enda träd</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Statusmärke och verktygstips</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Statusmärke och verktygstips</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Söklogik för "Word börjar med"</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Söklogik för "Word börjar med"</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Ta en titt på nya Global Nav.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Ingen mer superball listruta</td> 
+   <td>1</td>
+   <td>Ingen mer superball listruta</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Alla tidigare superkulobjekt listade</td> 
+   <td>2</td>
+   <td>Alla tidigare superkulobjekt listade</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>Om du har flera prenumerationer klickar du på ditt undernamn för att enkelt byta till ett annat</td> 
+   <td>3</td>
+   <td>Om du har flera prenumerationer klickar du på ditt undernamn för att enkelt byta till ett annat</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Global sökning - du kan nu söka i hela instansen härifrån</td> 
+   <td>4</td>
+   <td>Global sökning - du kan nu söka i hela instansen härifrån</td>
   </tr>
  </tbody>
 </table>
@@ -200,4 +200,4 @@ Ta en titt på nya Global Nav.
 >
 >Om du använder sökningen i trädet genereras endast resultat från det avsnitt du är i (t.ex. marknadsföringsaktiviteter). Om du vill söka i hela instansen använder du den globala sökningen.
 
-Upplev det nya Marketo Engage!
+Njut av den nya Marketo Engage-upplevelsen!

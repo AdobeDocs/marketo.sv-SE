@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147154
 description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - produktdokumentation
-title: Synkronisera en SFDC-kampanj med ett program
+title: Synkronisera en SFDC Campaign med ett program
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Synkronisera en SFDC-kampanj med ett program {#sync-an-sfdc-campaign-with-a-program}
+# Synkronisera en SFDC Campaign med ett program {#sync-an-sfdc-campaign-with-a-program}
 
 Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampanjer för att behålla samma lista över personer i båda systemen, inklusive deras status. Kom så börjar vi!
 
@@ -21,7 +21,7 @@ Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampan
 
 >[!CAUTION]
 >
->När du synkroniserar en SFDC-kampanj med ett Marketo Engage-program inaktiveras de underliggande SFDC-åtgärderna (t.ex. lägg till i SFDC Campaign, Synkronisera med SFDC) för underordnade kampanjer i programmet.
+>När en SFDC-kampanj synkroniseras med ett Marketo Engage-program inaktiveras de underförstådda SFDC-åtgärderna (t.ex. Lägg till i SFDC Campaign, Synkronisera med SFDC) för programmets underordnade kampanjer.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
@@ -49,4 +49,4 @@ Med Marketo Engage kan du synkronisera dina program med [!DNL Salesforce] kampan
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   Underbar! Nu synkroniseras alla programstatusändringar i Marketo till SFDC-kampanjen och vice versa.
+   Underbar! Nu synkroniseras alla programstatusändringar i Marketo med SFDC kampanj och vice versa.

@@ -3,7 +3,7 @@ description: Hantering av användare och licenser - Marketo Docs - produktdokume
 title: Hantering av användare och licenser
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Lär dig hur du lägger till och tar bort användare och visar dina aktuella lic
 
 ## Licensanvändning {#license-usage}
 
-Interactive Webinars erbjuder specifika licenser för att skapa event som drivs av Adobe Connect. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta kontogruppen på Adobe (din kontohanterare) för att få ytterligare licenser.
+Interactive Webinars erbjuder specifika licenser för att skapa event som drivs av Adobe Connect. Varje gång en licens läggs till visas en ny ruta för licensanvändning. Marketo-administratörer kan visa (inte redigera) licenserna genom att följa stegen nedan. Kontakta Adobe Account Team (er Account Manager) för att få ytterligare licenser.
 
 1. Gå till området **Admin**.
 
@@ -66,34 +66,34 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>Startdatum</b></td>
    <td width="80%">Datum då licensen börjar.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Förfallodatum</b></td>
    <td width="80%">Datum när licensen upphör att gälla.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Typ</b></td>
    <td width="80%">Den typ av licens som köpts. Det finns tre typer: licens för delade händelser, licens för delade rum, ytterligare lagringslicens.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Händelsekapacitet</b></td>
    <td width="80%">Det högsta antalet deltagare som kan inrymmas i en händelse.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Totalt antal händelser</b></td>
    <td width="80%">Det totala antalet händelser som har etablerats med den här licensen.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Förbrukade händelser</b></td>
    <td width="80%">Det totala antalet slutförda händelser.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Lagringskapacitet</b></td>
-   <td width="80%">Mängd tillgängligt lagringsutrymme för lagring av inspelningar, säkerheter, hero images, dokumentation och andra resurser.</td>
+   <td width="80%">Mängd tillgängligt lagringsutrymme för lagring av inspelningar, kollateraler, hjältebilder, dokumentation och andra resurser.</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
 
 ## Användaråtkomst {#user-access}
 
-Interaktiva webbinarier kan reglera användningen genom att ge Marketo Engage behörigheter att skapa och leverera interaktiva webbinarier. En Interactive Webinar-användare (eller icke-användare) kan dock fortfarande ha läs-/redigeringsåtkomst till händelseprogram för interaktiva webbinarier som skapats av andra användare.
+Interaktiva webbinarier kan reglera användningen genom att ge Marketo Engage-användare tillstånd att skapa och leverera interaktiva webbinarier. En Interactive Webinar-användare (eller icke-användare) kan dock fortfarande ha läs-/redigeringsåtkomst till händelseprogram för interaktiva webbinarier som skapats av andra användare.
 
 Marketo-användare som har fått tillstånd att använda interaktiva webbinarier och som är ägare till ett visst händelseprogram för interaktiva webbinarier kan utföra alla interaktiva webbinarifunktioner som är relaterade till det programmet. Detta inkluderar: skapa, komma åt, ändra, klona, flytta och ta bort programmet. Men när användaren inte längre är en interaktiv webbinäranvändare, kan ägaren av programmet komma åt och flytta programmet, men inte utföra några andra funktioner.
 

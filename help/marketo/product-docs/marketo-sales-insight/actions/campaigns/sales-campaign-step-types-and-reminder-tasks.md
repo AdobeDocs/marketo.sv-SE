@@ -3,7 +3,7 @@ description: Stegtyper för säljkampanj och påminnelseuppgifter - Marketo Docs
 title: Stegtyper för säljkampanj och påminnelseaktiviteter
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%

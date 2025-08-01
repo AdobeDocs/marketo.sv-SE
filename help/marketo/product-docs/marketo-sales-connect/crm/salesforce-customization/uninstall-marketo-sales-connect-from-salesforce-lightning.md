@@ -2,7 +2,7 @@
 description: Avinstallera Marketo Sales Connect från Salesforce Lightning - Marketo Docs - produktdokumentation
 title: Avinstallera Marketo Sales Connect från Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 0%
@@ -185,7 +185,7 @@ När du har tagit bort alla objekt från ditt Salesforce-konto följer du stegen
 
 Du är redo!
 
-Här är en lista över alla objekt som behöver tas bort från Salesforce-instansen:
+Här är en lista över alla objekt som behöver tas bort från din Salesforce-instans:
 
 ## Anpassningsinformation för Sales Connect {#sales-connect-customization-details}
 
@@ -297,9 +297,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - datum för senaste marknadsföringsåtagande</td>
   <td>Tidstämpel för engagemang från marknadsföring</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -307,9 +307,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - Senaste marknadsföringsbesök</td>
   <td>Beskrivning av ärendet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -317,9 +317,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - senaste marknadsföringsengagemanget Source</td>
   <td>Source för marknadsföringsinsatser</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -327,9 +327,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - Typ av senaste marknadsföringsåtagande</td>
   <td>Typ av engagemang (t.ex. webbaktivitet)</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -337,9 +337,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - senaste aktivitet per försäljning</td>
   <td>Senaste utgående aktivitet som utfördes av säljteamet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -347,9 +347,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - senaste svar</td>
   <td>Senaste e-postsvar till försäljning via e-post</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -357,9 +357,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - aktuell försäljningskampanj</td>
   <td>Loggnamn för MSC-kampanjen som kontakten/leadet är på</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -377,9 +377,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>MSC - avanmäl dig</td>
   <td>Avanmäl dig</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Kryssruta</td>
  </tr>
@@ -395,9 +395,9 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
   <td>Skicka MSC-e-post</td>
   <td>Skicka e-postmeddelanden från Salesforce</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
  </tr>
  <tr>
@@ -416,7 +416,7 @@ Här är en lista över alla objekt som behöver tas bort från Salesforce-insta
  </tr>
  <tr>
   <td>Ring med MSC</td>
-  <td>Ring säljsamtal från Salesforce</td>
+  <td>Ring Salesforce</td>
   <td>
   <p>Kontakt
   <p>Lead</td>

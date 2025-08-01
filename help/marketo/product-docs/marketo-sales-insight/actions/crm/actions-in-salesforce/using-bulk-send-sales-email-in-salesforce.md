@@ -2,7 +2,7 @@
 description: Använda massutskick av e-post för försäljning i Salesforce - Marketo Docs - produktdokumentation
 title: Använda massutskick av e-post för försäljning i Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Använda massutskick av e-post för försäljning i Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
-Lär dig hur du skickar massutskick i Salesforce för att skalförändra din utgående kommunikation med hjälp av försäljningsåtgärder.
+Lär dig hur du skickar massutskick i Salesforce för att skala din utgående kommunikation med hjälp av säljåtgärder.
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skalförändra din utg
 
 >[!PREREQUISITES]
 >
->Kontrollera att du har installerat det [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} till din Salesforce-instans och har konfigurerat [åtgärdsknapparna](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} för din kontakt- och leadlistevy i Salesforce.
+>Kontrollera att du har installerat det [senaste Sales Insight-paketet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} till din Salesforce-instans och har konfigurerat [åtgärdsknapparna](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} på din kontakt- och leadlista i Salesforce.
 
 ## Skicka massutskick via e-post i Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
@@ -55,7 +55,7 @@ Lär dig hur du skickar massutskick i Salesforce för att skalförändra din utg
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-3.png)
 
-## Skicka massutskick i Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
+## Skicka massutskick via e-post i Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
 
 1. Klicka på fliken **Leads/Kontakter** i Salesforce.
 

@@ -3,7 +3,7 @@ description: Skapa ett SMS-meddelande - Marketo Docs - Produktdokumentation
 title: Skapa ett SMS-meddelande
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Så här skapar du ett SMS-meddelande.
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig som tillägg för ditt Adobe Marketo Engage-konto. För att den ska kunna tillhandahållas på rätt sätt måste den köpas via Adobe. Kontakta kontoteamet (din kontoansvarige) för mer information. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas genom att [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales).
+>Den här funktionen är tillgänglig som tillägg för ditt Adobe Marketo Engage-konto. För att det ska kunna etableras på rätt sätt måste det köpas via Adobe. Kontakta Adobe Account Team (din kontoansvarige) för mer information. Integrering av Marketo Vibes SMS finns i USA och Kanada. I andra länder kan en anslutning via Marketo Webhooks användas genom att [kontakta Vibes direkt](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
@@ -72,7 +72,7 @@ Så här skapar du ett SMS-meddelande.
 
    >[!NOTE]
    >
-   >De två spårningslänkarna är markerade som standard. Om du avmarkerar enbart Include mkt_tok kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo Landing Pages och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person avanmäler sig).
+   >De två spårningslänkarna är markerade som standard. Om du avmarkerar enbart Include mkt_tok kan länken fortfarande spåras, men efter omdirigeringen kommer mål-URL:en inte att innehålla frågesträngsparametern mkt_tok. Den här parametern används av Marketo landningssidor och Munchkin för att säkerställa korrekt spårning av personaktiviteter (som när en person avanmäler sig).
 
 1. Om du vill använda en extern URL i stället väljer du **Extern URL**, anger/klistrar in URL-adressen och klickar på **Infoga**.
 

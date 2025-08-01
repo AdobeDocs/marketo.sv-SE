@@ -4,7 +4,7 @@ description: Understanding Revenue Models - Marketo Docs - Product Documentation
 title: Förstå intäktsmodeller
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -57,15 +57,15 @@ Alla företag är olika. Du kan lägga till saker i modellen genom att dra från
 
 Det här ser ut som en låda och är det mest grundläggande av faser. Analyserna kommer att hålla reda på inflöde, utflöde och balans i detta skede.
 
-## SLA-scen {#sla-stage}
+## SLA Stage {#sla-stage}
 
-Detta är en förkortning av **servicenivåavtalet**. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
+Detta är en förkortning av **Service level agreement**-scenen. Avsikten här är att vissa faser som du vill tillämpa en tidsgräns.
 
 >[!NOTE]
 >
 >**Exempel**
 >
->När en lead fyller i ett&quot;Kontakta mig&quot;-formulär och du skickar ett meddelande till en säljare kanske du vill ha ett 72-timmars SLA. Du kommer att kunna hålla reda på intrång och skala rep för att lämna en bra ledare i Communicado.
+>När en lead fyller i ett&quot;Kontakta mig&quot;-formulär och du skickar ett varningsmeddelande till en säljare kan du behöva en 72-timmars SLA. Du kommer att kunna hålla reda på intrång och skala rep för att lämna en bra ledare i Communicado.
 
 ## Gate Stage {#gate-stage}
 
@@ -101,7 +101,7 @@ Lost är en bra en att lägga till, men lägg märke till att den inte är på d
 >
 >* [Använder Gate-steg för intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Använda SLA-faser i inkomstmodellen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Använda intäktsmodellen SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Rapport om din intäktsmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

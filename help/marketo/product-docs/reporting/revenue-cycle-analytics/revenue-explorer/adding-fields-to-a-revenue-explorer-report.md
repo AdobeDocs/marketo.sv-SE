@@ -4,7 +4,7 @@ description: Lägga till fält i en Intresseutforskarrapport - Marketo Docs - pr
 title: Lägga till fält i en Intresseutforskarrapport
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Anpassa intäktsutforskarrapporter genom att dra och släppa mått- och mätfält på arbetsytan.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Fälttyp</th> 
-   <th>Beskrivning</th> 
-  </tr> 
-  <tr> 
-   <td>Gult fält eller Dimension</td> 
-   <td><p>Gula fält är rapportens mått (rader och kolumner).</p><p>Du kan till exempel skapa en rapport som visar din lead-status eller ditt skapandedatum i kolumner.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Blå fält eller mått</td> 
-   <td><p>Blå fält är mätvärden som analyseras i era data.</p><p>Detta kan till exempel vara det genomsnittliga lead-poängen för dina leads eller antalet dagar som en lead hade en affärsmöjlighet.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Fälttyp</th>
+   <th>Beskrivning</th>
+  </tr>
+  <tr>
+   <td>Gult fält eller Dimension</td>
+   <td><p>Gula fält är rapportens mått (rader och kolumner).</p><p>Du kan till exempel skapa en rapport som visar din lead-status eller ditt skapandedatum i kolumner.</p></td>
+  </tr>
+  <tr>
+   <td>Blå fält eller mått</td>
+   <td><p>Blå fält är mätvärden som analyseras i era data.</p><p>Detta kan till exempel vara det genomsnittliga lead-poängen för dina leads eller antalet dagar som en lead hade en affärsmöjlighet.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Hitta de gula fält som du vill använda och dra dem till Rader.

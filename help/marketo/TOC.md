@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 0%
@@ -287,7 +287,7 @@ ht-degree: 0%
             + [Schemalägg en batchsmart kampanj att köras senare](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Schemalägg en återkommande batchkampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Konfigurera en utlösare smart kampanj för försäljning med&quot;Campaign is Requested&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [Använder logik för standardregel för smart lista](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+            + [Använda logik för standardregel för smart lista](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Flödesåtgärder {#flow-actions}
             + [Lägg till ett flödessteg i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [Ändra ordning på flödesstegen i en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
@@ -1489,7 +1489,7 @@ ht-degree: 0%
          + Skicka ett e-postmeddelande {#send-a-sales-email}
             + [E-postspårning - översikt](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Uppgifter {#tasks}
-            + [Synkronisering av påminnelseaktivitet med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [Synkronisera påminnelseuppgifter med Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Mallar {#templates}
             + [Lägg till hyperlänkad text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Dynamiska fält](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

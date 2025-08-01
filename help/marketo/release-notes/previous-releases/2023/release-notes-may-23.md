@@ -2,10 +2,10 @@
 description: Versionsinformation - maj 2023 - Marketo Docs - produktdokumentation
 title: Versionsinformation - maj 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från maj 23. Se om 
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
@@ -25,30 +25,30 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 </br>
 
-* **Adobe Experience Cloud-gränssnitt**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar i en enda användarsession.
+* **Adobe Experience Cloud-gränssnitt**: Justerar Marketo Engage mot Experience Cloud för att skapa en enhetlig navigeringsupplevelse över flera Experience Cloud-lösningar under en och samma användarsession.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud-gränssnitt - översikt</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud Interface Overview</a></td>
   </tr>
   </tbody>
 </table>
 
 * **Marketo Engage Help Center**: Hjälpcentret ger Marketo Engage-användare en central plats där de kan hitta hjälpresurser inifrån produkten. Dessutom ger Help Center möjlighet att aktivera produktguider som förklarar hur man utnyttjar de viktigaste funktionerna.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
-   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Help Center</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Hjälpcenter</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,22 +63,22 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
 
 * **Interaktiva webbinarier (begränsad tillgänglighet från början)**:
 
-Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att ge marknadsförarna en inbyggd och smidig upplevelse när de ska skapa, hantera och leverera event i Marketo Engage. Anpassa webbinarier efter typ av händelse och lägg till presentatörer om det behövs. Få omfattande engagemangsinsikter genom Adobe Connect funktioner som live-omröstningar, chatt, frågor och svar, webblänksklickningar, dokumentnedladdningar med mera. Hämta webbinariets inspelning direkt i Marketo Engage och utvärdera resultatet med hjälp av omfattande instrumentpanelsmätningar.
+Interaktiva webbinarier stärker upplevelsen av event och webbinarier genom att erbjuda en inbyggd och smidig upplevelse för marknadsförare att skapa, hantera och leverera evenemang inom Marketo Engage. Anpassa webbinarier efter typ av händelse och lägg till presentatörer om det behövs. Få omfattande engagemangsinsikter genom Adobe Connect funktioner som live-omröstningar, chatt, frågor och svar, webblänksklickningar, dokumentnedladdningar med mera. Hämta webbinariet direkt i Marketo Engage och utvärdera resultatet med hjälp av omfattande instrumentpanelsmätningar.
 
 Interaktiva webbinarier lanseras gradvis. Om du vill begära åtkomst tidigare fyller du i [det här formuläret](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Startades</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=sv-SE">Översikt över interaktiva webbinarier</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Översikt över interaktiva webbinarier</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Meddelanden {#announcements}
 
-* **_Webbseminarium om produktreleaser_**: [Mars och maj 2023 om Marketo Engage ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webbseminarium om produktreleaser_**: [Mars och maj 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

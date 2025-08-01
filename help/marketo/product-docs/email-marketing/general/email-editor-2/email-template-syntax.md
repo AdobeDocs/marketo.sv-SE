@@ -4,7 +4,7 @@ description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Syntax för e-postmall {#email-template-syntax}
 
-I Marketo nya e-postupplevelse 2.0 består e-postmallar av valfri kombination av element, variabler, moduler eller behållare. Var och en definieras genom att lägga till Marketo-specifik syntax i HTML. Gamla (v1.0) e-postmallar stöds i e-postredigeraren 2.0, men inte alla funktioner i den nya redigeraren.
+I Marketo nya e-postupplevelse 2.0 består e-postmallar av valfri kombination av element, variabler, moduler eller behållare. Var och en definieras genom att lägga till Marketo-specifik syntax i din HTML. Gamla (v1.0) e-postmallar stöds i e-postredigeraren 2.0, men inte alla funktioner i den nya redigeraren.
 
 Marketo e-postsyntax fungerar bara i mallar och enskilda e-postmeddelanden. Det fungerar **inte** om det är inbäddat i utdrag eller RTF-token.
 
@@ -40,7 +40,7 @@ Om du definierar ett område som RTF kan användare redigera innehållet [med Ma
 
 ### Alternativ 1 - mktEditable {#option-mkteditable}
 
-Eftersom e-postredigeraren 2.0 är bakåtkompatibel kan vissa gamla e-postmallar ange RTF-element genom att lägga till class=&quot;mktEditable&quot; för valfritt HTML-element. Detta stöds fortfarande och elementets ID används som visningsnamn i e-postredigeraren.
+Eftersom e-postredigeraren 2.0 är bakåtkompatibel kan vissa gamla e-postmallar ange RTF-element genom att lägga till class=&quot;mktEditable&quot; i alla HTML-element. Detta stöds fortfarande och elementets ID används som visningsnamn i e-postredigeraren.
 
 Attribut som krävs
 
@@ -53,7 +53,7 @@ Valfria attribut
 
 Standardvärde
 
-Innehållet i elementet HTML (om det finns) med class=&quot;mktEditable&quot; används som standardvärde för Rich Text-elementet.
+Innehållet i HTML-elementet (om det finns) med class=&quot;mktEditable&quot; används som standardvärde för Rich Text-elementet.
 
 Exempel:
 
@@ -71,7 +71,7 @@ Attribut som krävs
 
 Standardvärde
 
-Innehållet i elementet HTML (om det finns) med class=&quot;mktoText&quot; används som standardvärde för Rich Text-elementet.
+Innehållet i HTML-elementet (om det finns) med class=&quot;mktoText&quot; används som standardvärde för Rich Text-elementet.
 
 Exempel:
 
@@ -79,7 +79,7 @@ Exempel:
 
 ## Bilder {#images}
 
-Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som `<img>` ska infogas i, eller en `<img>` -tagg. Om du vill att slutanvändaren ska välja en bild som returnerar bild-URL:en (till skillnad från DOM), se&quot;bildvariabler&quot; i avsnittet nedan. Följande två alternativ infogar ett `<img>`-element i HTML.
+Det finns två alternativ för att definiera redigerbara bildelement. Du kan antingen använda en `<div>`, som anger en behållare som `<img>` ska infogas i, eller en `<img>` -tagg. Om du vill att slutanvändaren ska välja en bild som returnerar bild-URL:en (till skillnad från DOM), se&quot;bildvariabler&quot; i avsnittet nedan. Följande två alternativ infogar ett HTML `<img>`-element.
 
 ### Alternativ 1 - Använd en `<div>` {#option-use-a-div}
 
@@ -286,7 +286,7 @@ Exempel:
 
 ## HTML Block {#html-block}
 
-Om du anger en variabel som ett HTML-block kan slutanvändaren mata in ordagrant HTML från e-postredigeraren. Du anger en HTML Block-variabel med `<meta>` med class=&quot;mktoHTML&quot;
+Om du anger en variabel som ett HTML-block kan slutanvändaren mata in ordagrant HTML inifrån e-postredigeraren. Du anger en HTML Block-variabel med `<meta>` med class=&quot;mktoHTML&quot;
 
 Attribut som krävs
 

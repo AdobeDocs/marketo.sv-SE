@@ -4,7 +4,7 @@ description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokument
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -35,67 +35,67 @@ Om du inte använder Marketo Sales Insight kan Marketo Engage skapa Salesforce A
    >
    >När Marketo väl har aktiverats kommer det att gå tre månader framåt i aktivitetshistoriken. Beroende på mängden data kan _det här ta flera dagar att slutföra_. Uppdateringar som inträffar under den initiala aktivitetspush-åtgärden kan fördröjas tills den initiala aktivitetssynkroniseringen har slutförts.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <thead> 
-  <tr> 
-   <th>Typ av aktivitet</th> 
-   <th>Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Filled out form]</td> 
-   <td>Fyll i alla Marketo-formulär</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Added to list]</td> 
-   <td><p>Flödessteg: lades till i en statisk lista</p></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email sent]</td> 
-   <td>Flödessteg: Skickades ett e-postmeddelande</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email delivered]</td> 
-   <td>Har tagit emot ett e-postmeddelande (inte studsat)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email opened]</td> 
-   <td>Öppnade ett e-postmeddelande (utan blockerade bilder)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Clicked link in email]</td> 
-   <td>Klicka på en länk i ett e-postmeddelande som skickats av Marketo</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Removed from list]</td> 
-   <td>Flödessteg: togs bort från en statisk lista</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Remove from flow]</td> 
-   <td>Flödessteg: Ta bort från flöde</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email sent]</td> 
-   <td>Skickades via Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email opened]</td> 
-   <td>Öppnade ett e-postmeddelande som skickats via Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Click link in sales email]</td> 
-   <td>Klicka på en länk i ett e-postmeddelande som skickats via Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email received]</td> 
-   <td>Ett e-postmeddelande togs emot och loggades av säljaren i MSI Outlook-plugin-programmet</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <thead>
+  <tr>
+   <th>Typ av aktivitet</th>
+   <th>Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Filled out form]</td>
+   <td>Fyll i alla Marketo-formulär</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Added to list]</td>
+   <td><p>Flödessteg: lades till i en statisk lista</p></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email sent]</td>
+   <td>Flödessteg: Skickades ett e-postmeddelande</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email delivered]</td>
+   <td>Har tagit emot ett e-postmeddelande (inte studsat)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email opened]</td>
+   <td>Öppnade ett e-postmeddelande (utan blockerade bilder)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Clicked link in email]</td>
+   <td>Klicka på en länk i ett e-postmeddelande som skickats av Marketo</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Removed from list]</td>
+   <td>Flödessteg: togs bort från en statisk lista</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Remove from flow]</td>
+   <td>Flödessteg: Ta bort från flöde</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email sent]</td>
+   <td>Skickades via Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email opened]</td>
+   <td>Öppnade ett e-postmeddelande som skickats via Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Click link in sales email]</td>
+   <td>Klicka på en länk i ett e-postmeddelande som skickats via Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email received]</td>
+   <td>Ett e-postmeddelande togs emot och loggades av säljaren i MSI Outlook-plugin-programmet</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

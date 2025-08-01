@@ -4,7 +4,7 @@ description: Understanding Content Analytics - Marketo Docs - Product Documentat
 title: Förstå Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -35,39 +35,39 @@ Du kan också exportera en fil i CSV-format genom att klicka på ikonen .
 
 Analystabellen innehåller följande information:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Namn</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
-   <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
-   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Innehållsrekommendationer</a>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Antalet visningar från webbbesökare på innehållsresursen. Hur många gånger det visats, öppnats, visats eller laddats ned. Klicka på antalet i vykolumnen för att gå ned och se vem som visade innehållet</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
-   <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Analysikon</strong></p><p><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
-   <td colspan="1">Se fler analyser av innehållet</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
-   <td colspan="1">Tar bort innehåll från Content Analytics</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Namn</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td>
+   <td colspan="1" rowspan="1">Namnet på resursen för digitalt innehåll. Klicka på <strong>Titel</strong> för att öppna innehålls-URL:en på en ny flik.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Rekommendation </strong><strong>Ikon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td>
+   <td colspan="1">Anger om innehållsdelen har lagts till för <a href="#">Innehållsrekommendationer</a>.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td>
+   <td colspan="1" rowspan="1"><p>Antalet visningar från webbbesökare på innehållsresursen. Hur många gånger det visats, öppnats, visats eller laddats ned. Klicka på antalet i vykolumnen för att gå ned och se vem som visade innehållet</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td>
+   <td colspan="1" rowspan="1">Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Analysikon</strong></p><p><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td>
+   <td colspan="1">Se fler analyser av innehållet</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Ta bort ikon</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td>
+   <td colspan="1">Tar bort innehåll från Content Analytics</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Visa ytterligare Content Analytics {#view-additional-content-analytics}
@@ -86,7 +86,7 @@ Ytterligare innehållsanalyser är:
 
 * **[!UICONTROL Views]**: Vyer av den aktuella innehållsdelen för det valda tidsintervallet
 * **[!UICONTROL Direct Conversions]**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
+* **[!UICONTROL Conversion Rate]****:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
 
 **[!UICONTROL Trends]**
 

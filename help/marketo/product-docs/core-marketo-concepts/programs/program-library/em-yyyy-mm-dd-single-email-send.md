@@ -3,7 +3,7 @@ description: EM-YYY-MM-DD-Single Email Send - Marketo Docs - Product Documentati
 title: EM-YYY-MM-DD-Single Email Send
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 1%
@@ -12,106 +12,106 @@ ht-degree: 1%
 
 # EM-YYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
 
-I det här exemplet skickas ett enda e-postmeddelande med ett e-postprogram för Marketo Engage. E-postmeddelandet kan innehålla ett A/B-test eller inte.
+I det här exemplet skickas ett e-postmeddelande med ett Marketo Engage e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Status för medlemskap</th>
    <th>Analysbeteende</th>
    <th>Programtyp</th>
-  </tr> 
-  <tr> 
-   <td>E-post</td> 
-   <td>01-medlem 
+  </tr>
+  <tr>
+   <td>E-post</td>
+   <td>01-medlem
 <br/>02-Engaged-Success</td>
    <td>Inkluderande</td>
    <td>E-post</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Mallnamn</th>
    <th>Resursnamn</th>
-  </tr> 
-  <tr> 
-   <td>E-post</td> 
+  </tr>
+  <tr>
+   <td>E-post</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>E-postprestanda</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>E-postlänkens prestanda</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>01-engagerad (programmet lyckades)</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
-   <td>Assets - Alla kreativa resurser 
+   <td>Assets - Alla kreativa resurser
 <br/>(undermappar för e-post- och landningssidor)  </td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Kampanjer - omfattar alla smarta kampanjer</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Rapporter</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/em-yyyy-mm-dd-single-email-send-1.png)
 
 ## Mina token inkluderade {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tokentyp</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tokentyp</th>
    <th>Tokennamn</th>
    <th>Värde</th>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Konfliktregler {#conflict-rules}

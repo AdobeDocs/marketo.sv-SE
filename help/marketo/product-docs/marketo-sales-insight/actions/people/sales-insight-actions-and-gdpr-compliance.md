@@ -3,7 +3,7 @@ description: Sales Insight Actions and GDPR Compliance - Marketo Docs - Product 
 title: Försäljningsåtgärder och GDPR-efterlevnad
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1307'
 ht-degree: 0%
@@ -123,44 +123,44 @@ När du har valt rätt Source Type för de valda kontakterna visas ett bekräfte
 
 Du kan exportera kontaktinformation från persondetaljvyn. Vid export hämtas en CSV-fil med följande kolumner:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL First Name]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Last Name]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Updated At]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Created At]</td> 
-   <td>[!UICONTROL Exported At]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!DNL Salesforce] ID</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL First Name]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Last Name]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Updated At]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Created At]</td>
+   <td>[!UICONTROL Exported At]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!DNL Salesforce] ID</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -179,9 +179,9 @@ Om du vill exportera kontaktinformation klickar du på de tre lodräta prickarna
 
 Ett vanligt missförstått område i GDPR är kontakter som avslutar prenumerationen på organisationens databas. För att följa nya regler om skydd av data för dem som väljer att avbryta prenumerationen har följande funktioner inkluderats i [!DNL Sales Insight Actions]:
 
-**Avanmäl länkar:** Avbeställningslänkar läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.\
-**Avsluta synkronisering:** Användare kan synkronisera avanmälan till och från sin CRM (Salesforce) för att se till att avanmälningarna är aktuella.\
-**Avanmälningshistorik:** Användare kan se tidigare avanmälningar och avanmälningar i persondetaljvyn.\
+**Avanmäl länkar:** Avbeställningslänkar läggs automatiskt till i alla e-postmeddelanden som skickas från webbprogrammet Sales Connect för att säkerställa att kontakterna kan avanmäla sig.
+**Avsluta synkronisering:** Användare kan synkronisera avanmälan till och från sin CRM (Salesforce) för att se till att avanmälningarna är aktuella.
+**Avanmälningshistorik:** Användare kan se tidigare avanmälningar och avanmälningar i persondetaljvyn.
 **Ta bort prenumerationer:** Om du väljer att avbryta prenumerationen måste användaren ha administratörsbehörighet och bekräfta att kontakten har gett nytt samtycke för att kontakta dem.
 
 ## Framtida uppdateringar {#future-updates}

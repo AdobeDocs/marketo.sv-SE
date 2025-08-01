@@ -3,10 +3,10 @@ description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -16,7 +16,7 @@ Här nedan hittar du alla funktioner som ingår i versionen från 22 oktober. Se
 
 >[!AVAILABILITY]
 >
->Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta din Marketo Engage-representant om du vill veta mer.
+>Funktioner som anges av en stjärna (![stjärna](assets/yellow-star.png)) är betalda tillägg. Kontakta Marketo Engage om du vill veta mer.
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
@@ -26,28 +26,28 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 </br>
 
-* **Synkronisering av anpassat fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som har hämtats för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.) med kampanjmedlemsfält i Salesforce.
+* **Synkronisering av anpassade fält för programmedlem**: Möjlighet att dubbelriktat synkronisera utökningsbara fält som har hämtats för en programmedlem (t.ex. deltagarinställningar under händelseregistrering som mat, sessioner, spår osv.) med fält för kampanjmedlem i Salesforce.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synkronisering av anpassat fält för programmedlem</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Integrering av Privacy Service i Adobe**: Harmonisera med Privacy Service för att automatisera kompatibiliteten med dataintegritetsregler för olika Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage som har anslutit sig till Adobe Identity Management System.
+* **Adobe Privacy Service-integrering**: Harmonisera med Privacy Service för att automatisera kompatibiliteten med dataintegritetsregler för alla Experience Cloud-produkter. För närvarande är den här tjänsten endast tillgänglig för Marketo Engage-kunder som har anslutit sig till Adobe Identity Management System.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
@@ -63,12 +63,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    * Information om landningssidmall
    * E-postmallslista
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
@@ -77,12 +77,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Förbättrad användning per flik i Information om e-postmall**: I den nya versionen visas ytterligare information om resurser som använder e-postmallen, inklusive Resursstatus, Senast ändrad och Senast ändrad av. Du kan också söka efter, sortera och filtrera listan som används av resurser.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -91,12 +91,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Rapportera resursfiltermoduler**: Ny design för rapportkonfigurationsmoduler som visar ett nytt resursträd på konfigurationsmenyn och ett filter för Skapad och ändrad den.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>
@@ -109,12 +109,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Masslead-import: Salesperson-association**: Paritet med lead REST API för att kunna associera leads med säljare under bulklead-importprocessen, vilket minskar komplexiteten och antalet API-anrop som krävs.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Import av massutr</a></td>
   </tr>
@@ -127,16 +127,16 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Sales Insight-integrering med Dynamic Chat**: Insikter-instrumentpanelen innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
+* **Sales Insight Integration with Dynamic Chat**: Insights Dashboard innehåller nu Dynamic Chat-aktiviteter i det smarta rutnätet tillsammans med en sammanfattning och detaljerade kort varje vecka.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrering med Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat Integration</a></td>
   </tr>
   </tbody>
 </table>
@@ -145,42 +145,42 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 Följande funktioner följer ett Agile-format och släpps på olika datum före eller efter standardreleasedatum. Kontrollera status för respektive funktion nedan.
 
-* **Dialogrutan Ordna automatiskt strömmar för Dynamic Chat**: Förbättra arbetsytan i din fullmatade dialog genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
+* **Dialogrutorna Ordna automatiskt strömmar för Dynamic Chat**: Förbättra arbetsytan i din fullmatade dialog genom att ordna allt på arbetsytan i ett rent och lättläst format med en knapptryckning genom att ordna automatiskt.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Strömma Designer-ikoner</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Möteslänkar för Dynamic Chat**: Alternativ för att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökare.
+* **Möteslänkar för Dynamic Chat**: Möjlighet att automatiskt inkludera en Teams- eller Meet-länk för Google och Outlook i varje kalenderinbjudan som skickas till besökare.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, float) gör att du kan utnyttja fler befintliga Marketo Engage-fält i Dynamic Chat för saker som målanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
+* **Stöd för ytterligare datatyper för Dynamic Chat**: Tre nya datatyper (boolesk, heltal, flyttal) gör att du kan utnyttja fler befintliga Marketo Engage-fält i Dynamic Chat för saker som målanpassning baserat på poängen eller fråga besökarna ja/nej-frågor.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Levererat</td>
    <td>n/a</td>
   </tr>

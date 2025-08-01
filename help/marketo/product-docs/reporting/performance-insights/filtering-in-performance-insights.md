@@ -4,7 +4,7 @@ description: Filtrering i Performance Insights - Marketo Docs - produktdokumenta
 title: Filtrera i Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,37 +45,37 @@ Du kan ta bort ett filter när som helst genom att klicka på X:et bredvid det. 
 
 ## Tillgängliga filter {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM-kontolista</span></strong></td> 
-   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina kontolistor till MPI och visas via filtret ABM-kontolista. Du kan välja en kontolista om du vill filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Läs mer om kontolistor för ABM.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Namngivet ABM-konto</span></strong></td> 
-   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om namngivna konton för ABM.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Anpassat attribut</span></strong></td> 
-   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">som du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Performance Insights.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Investeringsperiod</span></strong></p></td> 
-   <td colspan="1"><p>Tidsram för programkostnad.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Möjligheter</span></strong></p></td> 
-   <td colspan="1"><p>Affärsmöjlighetstyp som konfigurerats för objektet säljprojekt i din Salesforce-konfiguration (CRM).</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Programkod</span></strong></p></td> 
-   <td><p>Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Lär dig hur du arbetar med programtaggar här.</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Workspace</span></strong></td> 
-   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som program, landningssidor, e-post med mera. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Läs mer om arbetsytor här.</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM-kontolista</span></strong></td>
+   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina kontolistor till MPI och visas via filtret ABM-kontolista. Du kan välja en kontolista om du vill filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Läs mer om kontolistor för ABM.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Namngivet ABM-konto</span></strong></td>
+   <td colspan="1">Om du använder Marketo ABM synkroniseras alla dina namngivna konton till MPI och visas via filtret"ABM Named Account". Du kan välja ett namngivet konto för att filtrera resultaten till dessa konton.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Läs mer om namngivna konton för ABM.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Anpassat attribut</span></strong></td>
+   <td colspan="1"><p>De här bestäms av dig. Alla fält <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">som du aktiverar</a> för affärsmöjlighetsanalysen kan filtreras på i Performance Insights.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Investeringsperiod</span></strong></p></td>
+   <td colspan="1"><p>Tidsram för programkostnad.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Möjligheter</span></strong></p></td>
+   <td colspan="1"><p>Affärsmöjlighetstyp som konfigurerats för objektet säljprojekt i din Salesforce-konfiguration (CRM).</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Programkod</span></strong></p></td>
+   <td><p>Taggar används för att beskriva program. Ni kan skapa så många ni behöver, var och en med unika värden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Lär dig hur du arbetar med programtaggar här.</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Workspace</span></strong></td>
+   <td><p>Arbetsytor är separata områden i Marketo som innehåller marknadsföringsresurser, som program, landningssidor, e-post med mera. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Läs mer om arbetsytor här.</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

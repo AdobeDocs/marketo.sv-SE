@@ -4,7 +4,7 @@ description: Använd kontrollpanelen för e-postprogram - A/B-testvy - Marketo D
 title: Använd kontrollpanelen för e-postprogram - A/B-testvy
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

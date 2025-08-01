@@ -3,7 +3,7 @@ description: On Demand Webinars - Marketo Docs - produktdokumentation
 title: On-Demand-webbinarier
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # On-Demand-webbinarier {#on-demand-webinars}
 
-On-Demand Webinars fångar och förfinar leads som registrerats för ditt event och inte deltog, men vill få information om evenemanget genom att titta på inspelningen. Information som Namn, E-post-ID och Bevakningsdatum/varaktighet kan hämtas i Marketo Engage och användas som mål för de här no-show-leads.
+On-Demand Webinars fångar och förfinar leads som registrerats för ditt event och inte deltog, men vill få information om evenemanget genom att titta på inspelningen. Information som Namn, E-post-ID och Bevakningsdatum/varaktighet kan hämtas i Marketo Engage och användas som mål för dessa leads.
 
 URL:en för webbinariet Joining som delades med de registrerade före evenemanget kan användas för att titta på inspelningen on demand. När en registrant som inte deltog i live-evenemanget (t.ex. en lead med programstatus som &quot;No-Show&quot;) klickar på webbinariets anslutnings-URL, ändras leadets programstatus från &quot;No-Show&quot; till &quot;Attended On-Demand&quot;. Programstatusen för de leads som tittade på händelsen live och har statusen &quot;Attended&quot; påverkas inte om de bestämmer sig för att besöka URL:en Joining och titta på inspelningen on demand.
 
-Adobe Connect, den teknik som driver Interactive Webinars, håller reda på besökets längd liksom hur länge ledtrådarna som tittar på inspelningen ska vara och rapporterar informationen till Marketo Engage dagligen. Spårning för On-Demand-webbinarier stoppas 30 dagar efter händelsen. Längden kan inte ändras.
+Adobe Connect, den teknik som driver Interactive Webinars, håller reda på såväl besöket som hur länge tittarna ser på filmerna och rapporterar om informationen till Marketo Engage dagligen. Spårning för On-Demand-webbinarier stoppas 30 dagar efter händelsen. Längden kan inte ändras.
 
-Marketo Engage tillhandahåller bevakningsstatistik för On Demand-webbinarier på fliken Dashboard med hjälp av följande widgetar:
+Marketo Engage tillhandahåller bevakningsstatistik för On Demand Webinars på fliken Dashboard med hjälp av följande widgetar:
 
 * On-Demand Summary: Detta ger en sammanfattning av antalet besökare (no-Shows) som tittar på inspelningen efter händelsen på en viss dag(ar)
 

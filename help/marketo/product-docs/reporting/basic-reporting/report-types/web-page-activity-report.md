@@ -4,7 +4,7 @@ description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentati
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -38,46 +38,46 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
    >
    >Om du vill ta reda på vem som besöker webbplatsen mest [sorterar du rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} i kolumnen _Sidvyer_ och väljer Sortera fallande.
 
-   [Marketo lägger till anonyma](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.\
+   [Marketo lägger till anonyma](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.
    [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} för en aktivitetsrapport för webbsida är:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Kolumner</th> 
-   <th>Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Person</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Kolumner</th>
+   <th>Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Person</td>
    <td>Besökarens namn, titel och företag.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Klicka på</a></strong> om du vill visa besökta sidor.</td>
-  </tr> 
-  <tr> 
-   <td>Första/sista besök (tidszon)</td> 
-   <td>Datum och tid för det första/sista besöket av någon från det här företaget.</td> 
-  </tr> 
-  <tr> 
-   <td>Sidvyer</td> 
+  </tr>
+  <tr>
+   <td>Första/sista besök (tidszon)</td>
+   <td>Datum och tid för det första/sista besöket av någon från det här företaget.</td>
+  </tr>
+  <tr>
+   <td>Sidvyer</td>
    <td>Antal sidor som har lästs in av den här besökaren.</td>
-  </tr> 
-  <tr> 
-   <td>HTTP-referens</td> 
-   <td>URL-adressen till sidan som innehåller länken besökaren följde till sidan.</td> 
-  </tr> 
-  <tr> 
-   <td>Inmatningssida</td> 
-   <td>Första sidan för personen som besöktes </td> 
-  </tr> 
-  <tr> 
-   <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i fet stil</strong> anger att det är företaget, inte Internet-leverantören. </td> 
-  </tr> 
-  <tr> 
-   <td>Infört land, delstat/region och ort</td> 
-   <td>Besökarens geografiska plats, som framgår av deras IP-adress.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP-referens</td>
+   <td>URL-adressen till sidan som innehåller länken besökaren följde till sidan.</td>
+  </tr>
+  <tr>
+   <td>Inmatningssida</td>
+   <td>Första sidan för personen som besöktes </td>
+  </tr>
+  <tr>
+   <td>Införstått företag eller Internet-leverantör</td>
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <strong>Namn i fet stil</strong> anger att det är företaget, inte Internet-leverantören. </td>
+  </tr>
+  <tr>
+   <td>Infört land, delstat/region och ort</td>
+   <td>Besökarens geografiska plats, som framgår av deras IP-adress.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

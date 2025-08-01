@@ -4,7 +4,7 @@ description: Skapa en mall för landningssida i fri form - Marketo Docs - Produk
 title: Skapa en mall för landningssida i fri form
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -43,7 +43,7 @@ För landningssidor i fri form krävs mindre teknisk kunskap än för deras styr
 
    >[!NOTE]
    >
-   >Välj **[!UICONTROL Disable Munchkin Tracking]** om du vill förhindra att formulär fylls i i i förväg eller om du bara inte vill spåra webbbeteende på en viss sida.\
+   >Välj **[!UICONTROL Disable Munchkin Tracking]** om du vill förhindra att formulär fylls i i i förväg eller om du bara inte vill spåra webbbeteende på en viss sida.
    >Välj **[!UICONTROL Validate Mobile Compatibility]** för att kontrollera att koden är kompatibel med mobila enheter.
 
    >[!MORELIKETHIS]

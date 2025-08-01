@@ -3,7 +3,7 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -26,7 +26,7 @@ När besökare begär att få chatta med en agent via din dialogruta har agenter
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 
@@ -49,25 +49,25 @@ Om du klickar på live-chattkortet i strömmen kan du välja hur besökaren ska 
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round Robin</b></td>
    <td>Chatt tilldelas agenter i sekventiell ordning.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agent</b></td>
    <td>Välj en specifik agent som ska ta emot chatten.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Anpassade regler</b></td>
    <td>Alla anpassade regler rullas igenom när man överväger var besökaren ska dirigeras. Om besökaren inte är berättigad till någon anpassad regel får han/hon <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">meddelandet </a> om live-chattåtergång.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Team</b></td>
    <td>Välj ett specifikt team som ska få chatten. Om du väljer det här alternativet tilldelas det runt en robat i teamet.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Live Chat-meddelanden {#live-chat-notifications}
@@ -102,7 +102,7 @@ När en live-chatt dirigeras till en agent visas en blå banderoll högst upp p�
 >
 >Du kan också konfigurera webbläsarmeddelanden, som meddelar dig om du inte är inloggad på Dynamic Chat.
 >
->* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Aktivera webbläsarmeddelanden i [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Aktivera webbläsarmeddelanden i [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Misslyckade åtgärdsmeddelanden {#failed-action-notifications}

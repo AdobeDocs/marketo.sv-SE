@@ -4,9 +4,9 @@ short-description: Har du just kommit igång med Adobe Marketo Engage? Lär dig 
 title: Installationssteg
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1681'
+source-wordcount: '1664'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så m
 
 * **Förse spårningslänkarna**. Du kan välja en CNAME att använda din egen domän (i stället för Marketo) i de länkar som du inkluderar i e-postmeddelanden från Marketo. Detta stärker er domänprofilering och ökar förtroendet och leveransförmågan hos era mottagare.
 * **Lägg till Marketo i företagets e-post tillåtelselista**. Det är en vanlig god praxis att skicka testmeddelanden till testkonton innan e-post skickas till verkliga personer. Genom att tillåtslista Marketo kan du förhindra att testmeddelanden blockeras eller flaggas som skräppost.
-* **Konfigurera SPF och DKIM**. Dessa tekniker säkerställer att dina e-postmeddelanden från Marketo inte är skräppost. Följ de här stegen för att [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) så att du inte kan avvisa dina Marketo-e-postmeddelanden från skräppostfilter.
+* **Konfigurera SPF och DKIM**. Dessa tekniker säkerställer att dina e-postmeddelanden från Marketo inte är skräppost. Följ de här stegen för att [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) för att förhindra att mottagarnas skräppostfilter avvisar e-postmeddelanden från Marketo.
 * **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan konfigurerat detta. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
 * **Rekommenderade inställningar för Från adress.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till företagsdomänen i stället för att skicka från företagsdomänen. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo mailstream och vice versa. Om du skickar e-post från `something@nonexistentdomain.com` filtreras eller blockeras e-postmeddelandet. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
 
@@ -146,8 +146,7 @@ Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera
 
 `3)` Tillåtslista Marketo.
 
-    * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till de IP-adresser som anges nedan:
-
+    * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till IP-adresserna som listas nedan:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -206,7 +205,7 @@ Med vänlig hälsning
 
 `----------------------------------------------`
 
-Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-avdelningen att utföra dessa uppgifter. Du kan fortsätta till nästa steg, men kom ihåg att du måste gå tillbaka till det här steget för att slutföra konfigurationen av Marketo Engage.
+Skicka e-postmeddelandet till IT. Vi förstår att det kan ta lite tid för IT-avdelningen att utföra dessa uppgifter. Du kan fortsätta till nästa steg, men kom ihåg att du måste gå tillbaka till det här steget för att slutföra installationen av Marketo Engage.
 
 ## Slutför Marketo-installationen när IT-avdelningen är klar {#complete-your-marketo-setup-after-it-finishes}
 
@@ -263,15 +262,15 @@ Välj något av följande, beroende på vilken CRM ditt företag använder.
 >
 >Är du en [!DNL Launch Pack]-kund? Du kan hoppa över det här steget. Din konsult kommer att ge dig [!DNL Munchkin] kodinstruktioner i dokumentet med IT-installationsanvisningar.
 
-Marketo Engage har en anpassad spårningsfunktion (JavaScript) (kallas [!DNL Munchkin]) som du kan använda för att spåra personaktiviteter på en webbsida. [!DNL Munchkin] krävs för att integrera din webbplats i Marketo. Följ de här stegen för att [lägga till [!DNL Munchkin] spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage har en anpassad spårningsfunktion för JavaScript (kallas [!DNL Munchkin]) som du kan använda för att spåra personaktiviteter på en webbsida. [!DNL Munchkin] krävs för att integrera din webbplats i Marketo. Följ de här stegen för att [lägga till [!DNL Munchkin] spårningskod på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
->Du måste ha erfarenhet av HTML för att kunna lägga till spårningskoden.
+>Du måste använda HTML för att lägga till spårningskoden.
 
 ## Prestandaförväntningar {#performance-expectations}
 
-Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [produktbeskrivningen för Marketo Engage](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

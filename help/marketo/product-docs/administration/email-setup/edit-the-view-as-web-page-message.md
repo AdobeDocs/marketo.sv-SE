@@ -4,7 +4,7 @@ description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdok
 title: Redigera meddelandet Visa som webbsida
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Så här gör du om du behöver redigera texten [Visa som en webbsida](/help/mar
 >
 >Undvik följande:
 >
->* Lägga till ytterligare URL:er i någon av rutorna HTML
+>* Lägga till ytterligare URL:er i någon av HTML-rutorna
 >* Placera HTML i textversionen
 
 Där har du den. Skicka testmejl för att säkerställa formatering.

@@ -2,7 +2,7 @@
 description: Avinstallera Marketo Sales Connect från Salesforce Classic - Marketo Docs - produktdokumentation
 title: Avinstallera Marketo Sales Connect från Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 0%
@@ -255,9 +255,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - Senaste marknadsföringsåtagande</td>
   <td>Senaste inkommande engagemang från marknadsföring</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -265,9 +265,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - datum för senaste marknadsföringsåtagande</td>
   <td>Tidstämpel för engagemang från marknadsföring</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -275,9 +275,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - Senaste marknadsföringsbesök</td>
   <td>Beskrivning av ärendet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -285,9 +285,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - senaste marknadsföringsengagemanget Source</td>
   <td>Source för marknadsföringsinsatser</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -295,9 +295,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - Typ av senaste marknadsföringsåtagande</td>
   <td>Typ av engagemang (t.ex. webbaktivitet)</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -305,9 +305,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - senaste aktivitet per försäljning</td>
   <td>Senaste utgående aktivitet som utfördes av säljteamet</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -315,9 +315,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - senaste svar</td>
   <td>Senaste e-postsvar till försäljning via e-post</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -325,9 +325,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - aktuell försäljningskampanj</td>
   <td>Loggnamn för MSC-kampanjen som kontakten/leadet är på</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Text</td>
  </tr>
@@ -335,9 +335,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - senaste försäljningsåtagande</td>
   <td>Senaste inkommande ärende från försäljning</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Data och tid</td>
  </tr>
@@ -345,9 +345,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>MSC - avanmäl dig</td>
   <td>Avanmäl dig</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
   <td>Kryssruta</td>
  </tr>
@@ -363,9 +363,9 @@ Här är en lista över alla objekt som behöver tas bort från din Salesforce-i
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Skicka e-post från [!DNL Salesforce]</td>
   <td>
-  <p>Konto 
-  <p>Kontakt 
-  <p>Lead 
+  <p>Konto
+  <p>Kontakt
+  <p>Lead
   <p>Möjligheter</td>
  </tr>
  <tr>

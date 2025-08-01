@@ -4,7 +4,7 @@ title: Lägg till vibes som en LaunchPoint-tjänst
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Lägg till vibes som en LaunchPoint-tjänst {#add-vibes-as-a-launchpoint-service}
 
-Du kan skicka SMS-meddelanden till de personer som har valt att delta i era Vbörjar-SMS-kampanjer och använda SMS-aktivitet för att utlösa och filtrera kampanjer navitativt i er Marketo Engage-instans. Först måste du lägga till Vibes som en LaunchPoint-tjänst.
+Du kan skicka SMS-meddelanden till de personer som har valt att delta i dina VIP-SMS-kampanjer och använda SMS-aktivitet för att utlösa och filtrera kampanjer internt i din Marketo Engage-instans. Först måste du lägga till Vibes som en LaunchPoint-tjänst.
 
 >[!NOTE]
 >

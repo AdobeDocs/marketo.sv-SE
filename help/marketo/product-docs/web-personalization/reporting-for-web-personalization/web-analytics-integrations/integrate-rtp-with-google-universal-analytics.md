@@ -4,7 +4,7 @@ description: Integrera RTP med Google Universal Analytics - Marketo Docs - produ
 title: Integrera RTP med Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -43,7 +43,6 @@ I det här inlägget beskrivs hur du konfigurerar och integrerar RTP-plattformen
    1. Välj **[!UICONTROL Account].**
    1. Välj **[!UICONTROL Property].**
    1. Välj **[!UICONTROL Custom Definitions]** och **[!UICONTROL Custom Dimensions]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Lägg till en ny anpassad dimension. Klicka på **[!UICONTROL +New Custom Dimension]**
@@ -52,34 +51,34 @@ I det här inlägget beskrivs hur du konfigurerar och integrerar RTP-plattformen
 
 1. Lägg till följande **[!UICONTROL Custom Dimensions]:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Anpassat Dimension-namn</strong></p></td> 
-   <td><p><strong>Omfång</strong></p></td> 
-   <td><p><strong>Aktiv</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-organisation</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Bransch</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-kategori</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-grupp</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Anpassat Dimension-namn</strong></p></td>
+   <td><p><strong>Omfång</strong></p></td>
+   <td><p><strong>Aktiv</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-organisation</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Bransch</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-kategori</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-grupp</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

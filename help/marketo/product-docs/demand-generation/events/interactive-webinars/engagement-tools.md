@@ -4,7 +4,7 @@ title: Engagement Tools in Interactive Webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -21,25 +21,25 @@ SCREENSHOT
 
 ### Dela {#share}
 
-En delningsruta används för att dela innehåll i rummet. Den kan användas för att dela skärm, dokument och whiteboardtavlor. Filtyper som kan delas och visas i en delningsruta är presentation (PPT, PPTX), dokument (PDF), ljud (MP3), video (MP4), bilder (JPG, PNG), anpassad ruta (POD, ZIP). Allt överfört innehåll finns kvar i rummet och är lätt tillgängligt. Om du vill veta mer om Dela-rutan kan du läsa den här hjälpartikeln för Adobe och den här videon.
+En delningsruta används för att dela innehåll i rummet. Den kan användas för att dela skärm, dokument och whiteboardtavlor. Filtyper som kan delas och visas i en delningsruta är presentationer (PPT, PPTX), dokument (PDF), ljud (MP3), video (MP4), bilder (JPG, PNG), anpassade poder (POD, ZIP). Allt överfört innehåll finns kvar i rummet och är lätt tillgängligt. Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om Dela-rutan.
 
 SCREENSHOT
 
 Anteckningar
 
-Anteckningsrutan används av värden och presentatörer för att dela information och föra anteckningar i rummet. Det har stöd för formaterad text och anteckningarna kan också exporteras (som värd) från podmenyn. Läs den här hjälpartikeln och den här videon om du vill veta mer om anteckningsrutan.
+Anteckningsrutan används av värden och presentatörer för att dela information och föra anteckningar i rummet. Det har stöd för formaterad text och anteckningarna kan också exporteras (som värd) från podmenyn. Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om anteckningsrutan.
 
 SCREENSHOT
 
 Deltagare
 
-Deltagarfliken används för att hantera deltagare, deras aktiviteter och behörigheter under evenemanget. Värdar och presentatörer kan övervaka deltagarnas namn, roller och status (t.ex. Utökad hand eller Godkänn). Poden används också för att hantera grupperingssessioner. Läs den här hjälpartikeln och den här videon om du vill veta mer om deltagarrutan.
+Deltagarfliken används för att hantera deltagare, deras aktiviteter och behörigheter under evenemanget. Värdar och presentatörer kan övervaka deltagarnas namn, roller och status (t.ex. Utökad hand eller Godkänn). Poden används också för att hantera grupperingssessioner. Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om deltagarrutan.
 
 SCREENSHOT
 
 Video
 
-Videobilden används för att dela webbkameramatningar. Webbkamerorna kan ordnas i ett rutnät, en filmremsa eller en högtalarvy. Läs den här hjälpartikeln om du vill veta mer om videobilden.
+Videobilden används för att dela webbkameramatningar. Webbkamerorna kan ordnas i ett rutnät, en filmremsa eller en högtalarvy. Läs den här Adobe-hjälpartikeln om du vill veta mer om videobilden.
 
 SCREENSHOT
 
@@ -47,9 +47,9 @@ Chatt
 
 Chattrutan används för att kommunicera med andra deltagare i rummet. Chattarna i chattrutan behålls tills de tas bort. Chattarna kan skickas med e-post till värden för att behålla dem. Deltagarna kan justera teckenstorleken för chattarna i sina chattrutor.
 
-En chattruta som läggs till i värd- och presentationsområdet kan användas för att kommunicera privat med presentationsteamet. Mer information om Chat-rutan finns i den här hjälpartikeln för Adobe och i den här videon.
+En chattruta som läggs till i värd- och presentationsområdet kan användas för att kommunicera privat med presentationsteamet. Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om chattrutan.
 
-OBS! En chattruta spelas alltid in. Använd en chattpanel om du inte vill att chattarna ska vara en del av inspelningen. Läs den här hjälpartikeln om du vill veta mer om chattrutan. [Länka detta till Chatt i inspelningsavsnittet på den nya sidan Delivering Interactive Webinar ].
+OBS! En chattruta spelas alltid in. Använd en chattpanel om du inte vill att chattarna ska vara en del av inspelningen. Läs den här Adobe-hjälpartikeln om du vill veta mer om chattrutan. [Länka detta till Chatt i inspelningsavsnittet på den nya sidan Delivering Interactive Webinar ].
 
 SCREENSHOT
 
@@ -65,13 +65,13 @@ Presentatörsvyn för Frågor och svar-rutan kan också flyttas till värd- och 
 
 SCREENSHOT
 
-Läs den här hjälpartikeln och den här videon om du vill veta mer om Frågor och svar-rutan.
+Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om Frågor och svar.
 
 SCREENSHOT
 
 Röstning
 
-Poängen används för att ställa frågor från deltagarna under sessionen. Omröstningsrutan har stöd för flera valmöjligheter, flera svar och frågor av typen kort svar. Värdar kan välja att sända resultat till deltagare. Läs den här hjälpartikeln och den här videon om du vill veta mer om omröstningsrutan.
+Poängen används för att ställa frågor från deltagarna under sessionen. Omröstningsrutan har stöd för flera valmöjligheter, flera svar och frågor av typen kort svar. Värdar kan välja att sända resultat till deltagare. Läs den här Adobe-hjälpartikeln och den här videon om du vill veta mer om omröstningsrutan.
 
 SCREENSHOT
 

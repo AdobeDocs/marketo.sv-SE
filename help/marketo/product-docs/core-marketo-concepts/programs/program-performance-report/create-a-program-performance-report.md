@@ -4,7 +4,7 @@ description: Skapa en prestandarapport för program - Marketo Docs - produktdoku
 title: Skapa en rapport om programprestanda
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -27,29 +27,29 @@ Se bra statistik om dina program med den här rapporten.
 
 Kolumnerna i en rapport om programprestanda omfattar:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Kolumn</th> 
-   <th>Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Kanal</td> 
-   <td>Kanaltypen för programmet.</td> 
-  </tr> 
-  <tr> 
-   <td>Nya namn</td> 
-   <td>Nya personer som förvärvats av programmet.</td> 
-  </tr> 
-  <tr> 
-   <td>Lyckades</td> 
-   <td>Antal medlemmar som lyckades enligt programstatusvärdena. </td> 
-  </tr> 
-  <tr> 
-   <td>Total kostnad</td> 
-   <td><p>Summan av alla periodkostnader inom programmet.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Kolumn</th>
+   <th>Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Kanal</td>
+   <td>Kanaltypen för programmet.</td>
+  </tr>
+  <tr>
+   <td>Nya namn</td>
+   <td>Nya personer som förvärvats av programmet.</td>
+  </tr>
+  <tr>
+   <td>Lyckades</td>
+   <td>Antal medlemmar som lyckades enligt programstatusvärdena. </td>
+  </tr>
+  <tr>
+   <td>Total kostnad</td>
+   <td><p>Summan av alla periodkostnader inom programmet.</p></td>
+  </tr>
+ </tbody>
 </table>

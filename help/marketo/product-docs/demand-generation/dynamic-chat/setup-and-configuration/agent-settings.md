@@ -3,7 +3,7 @@ description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 0%
@@ -63,17 +63,17 @@ Ange din tidszon och tid/dag i veckan som du vill ha för att ta emot mötesbokn
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Mötets längd</b></td>
    <td>Anger hur lång tid besökarna ska se i dina tillgängliga mötesplatser.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Bufferttid mellan möten</b></td>
    <td>Den tid du anger som buffert efter mötet. Om du anger det i 30 minuter kan ingen boka ett möte med dig förrän 30 minuter efter det schemalagda slutet av ett möte i kalendern.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]
@@ -100,7 +100,7 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 
 ## Profilfoto för agent
 
-Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html).
+Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
 
 >[!NOTE]
 >

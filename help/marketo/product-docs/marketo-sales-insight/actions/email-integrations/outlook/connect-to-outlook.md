@@ -2,7 +2,7 @@
 description: Anslut till Outlook - Marketo Docs - produktdokumentation
 title: Anslut till Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -45,15 +45,15 @@ Att ansluta till Outlook innebär att du får svarsspårning, åtkomst till leve
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Kallas även Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Kallas även Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Lokal Exchange</strong></td> 
-      <td>Inkluderar Exchange 2013 och 2016</td> 
+      <td><strong>Lokal Exchange</strong></td>
+      <td>Inkluderar Exchange 2013 och 2016</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ Att ansluta till Exchange On-Premise innebär att du får svarsspårning, åtkom
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Kallas även Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Kallas även Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Lokal Exchange</strong></td> 
-      <td>Inkluderar Exchange 2013 och 2016</td> 
+      <td><strong>Lokal Exchange</strong></td>
+      <td>Inkluderar Exchange 2013 och 2016</td>
      </tr>
     </tbody>
    </table>
@@ -146,7 +146,7 @@ Du kan behöva samarbeta med IT-avdelningen för att få tillstånd att tillåta
 Beroende på ditt IT-teams önskemål och aktuella konfiguration är det bäst att rådfråga dem om hur de ska bevilja åtkomst. Nedan finns några artiklar som kan vägleda konversationen.
 
 * Global samtycke: [Integrerade appar och Azure AD för Microsoft 365-administratörer](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Användarsamtycke: [Konfigurera hur användare godkänner program](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Administratörssamtycke: [Konfigurera arbetsflödet för administratörsgodkännande](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Aktivera eller inaktivera användargodkännande: [Hantera användargodkännande för appar i Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Användarsamtycke: [Konfigurera hur användare godkänner program](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* Administratörssamtycke: [Konfigurera arbetsflödet för administratörsgodkännande](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Aktivera eller inaktivera användargodkännande: [Hantera användargodkännande för appar i Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Hantera med Microsoft Defender: [Hantera OAuth-appar](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

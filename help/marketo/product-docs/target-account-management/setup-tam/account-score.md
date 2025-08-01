@@ -4,7 +4,7 @@ description: Kontopoäng - Marketo Docs - produktdokumentation
 title: Kontopoäng
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -23,19 +23,19 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 
 ## Vanliga exempel {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Resultat för kontoengagemang</strong></td> 
+   <td><strong>Resultat för kontoengagemang</strong></td>
    <td>Djup på engagemanget baserat på beteendeaktiviteter som spåras i olika kanaler (t.ex. e-post, webben och annonser) från personer i specifika målkonton.</td>
   </tr>
   <tr>
    <td><strong>Räntepoäng för kontoprodukt</strong></td>
-   <td>Personer från målkonton som visar intresse för innehållet från en viss produkt (t.ex. nedladdning av ett faktablad).</td> 
+   <td>Personer från målkonton som visar intresse för innehållet från en viss produkt (t.ex. nedladdning av ett faktablad).</td>
   </tr>
   <tr>
    <td><strong>Resultat för webbengagemang för konto</strong></td>
-   <td>Personer från målkonton som besöker webbkanalen. Samma poäng kan skapas för att mäta kanalengagemang från e-post, annonser eller andra kanaler.</td> 
+   <td>Personer från målkonton som besöker webbkanalen. Samma poäng kan skapas för att mäta kanalengagemang från e-post, annonser eller andra kanaler.</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 >
 >Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poäng från leads till kontouppgifter. Vi kommer till exempel att ta två av de ovanstående exemplen (_Intressepoäng för kontoprodukt_ och _Resultat för webbengagemang_).
 >
->Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.\
->Tilldela sedan dessa lead scores till respektive kontopoäng:\
->Räntepoäng för kontoprodukt = SUM (Lead Product Interest Score)\
->Konto Web Engagement Score = SUM (Lead Web Engagement Score)
+>Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.
+>>Tilldela sedan dessa lead scores till respektive kontopoäng:
+>>Räntepoäng för kontoprodukt = SUM (Lead Product Interest Score)
+>>Konto Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >

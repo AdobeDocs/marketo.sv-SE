@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2949469
-description: Installationssteg - Marketo Docs - produktdokumentation
+description: Konfigurationssteg – Marketo Docs – Produktdokumentation
 title: Installationssteg
 hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '2069'
+source-wordcount: '2052'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Vissa steg kräver hjälp från IT-avdelningen.
 
 >[!IMPORTANT]
 >
->Om din Marketo-prenumeration skapades den 31 juli 2023 eller redan har migrerats till [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} gäller stegen för att lägga till en användare som beskrivs nedan inte dig. Se [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} i stället.
+>Om din Marketo-prenumeration skapades den 31 juli 2023 eller redan har migrerats till [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} gäller stegen nedan inte dig. Se [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} i stället.
 
 Logga in på Marketo [här](https://app.marketo.com/){target="_blank"} med de inloggningsuppgifter som du fick via e-post.
 
@@ -132,7 +132,7 @@ Välj en CNAME för dina landningssidor. Några exempel:
 
 Den första delen (i fet stil) är `[LandingPageCNAME]`. Du behöver det i steg 5.
 
-Om du vill hämta det Munchkin-ID som du ska ersätta med landningssidan CNAME går du till administratörsområdet.
+Om du vill hämta det Munchkin-ID som du ska ersätta med landningssidan CNAME går du till administrationsområdet.
 
 ![](assets/setup-steps-9.png)
 
@@ -158,7 +158,7 @@ Du kan vidta flera åtgärder för att se till att e-postmeddelandena når så m
 
 * **Förse spårningslänkarna**. Du kan välja en CNAME att använda din egen domän (i stället för Marketo) i de länkar som du inkluderar i e-postmeddelanden från Marketo. Detta stärker er domänprofilering och ökar förtroendet och leveransförmågan hos era mottagare.
 * **Lägg till Marketo i företagets e-posttillåtelselista.** Det är en vanlig god vana att skicka testmeddelanden till testkonton innan e-post skickas till verkliga personer. Genom att tillåtslista Marketo kan du förhindra att testmeddelanden blockeras eller flaggas som skräppost.
-* **Konfigurera SPF och DKIM.** Dessa tekniker försäkrar mottagarna om att dina Marketo-e-postmeddelanden inte är skräppost. Följ de här stegen för att [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) så att du inte kan avvisa dina Marketo-e-postmeddelanden från skräppostfilter.
+* **Konfigurera SPF och DKIM.** Dessa tekniker försäkrar mottagarna om att dina Marketo-e-postmeddelanden inte är skräppost. Följ de här stegen för att [Konfigurera en SPF och DKIM för din e-postleverans](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) för att förhindra att mottagarnas skräppostfilter avvisar e-postmeddelanden från Marketo.
 * **Konfigurera en MX-post för din domän.** Med en MX-post kan du ta emot e-post till domänen som du skickar e-post från för att bearbeta svar och automatiska svar. Om du skickar från din företagsdomän har du förmodligen redan konfigurerat detta. Annars kan du vanligtvis konfigurera så att den mappar till företagets domäns MX-post.
 * **Rekommenderade inställningar för Från adress.** Du måste använda en giltig, befintlig och fungerande e-postdomän i Från adress i alla e-postkampanjer. Det kan vara bra att konfigurera en underdomän till företagsdomänen i stället för att skicka från företagsdomänen. Detta säkerställer att problem från företagets e-postström inte påverkar Marketo mailstream och vice versa. Om du skickar e-post från `something@nonexistentdomain.com` filtreras eller blockeras e-postmeddelandet. Alla domäner som används i avsändarens Från-adress måste ha ett giltigt och fungerande postmaster@- och missbruk@-konto.
 
@@ -220,14 +220,13 @@ Bästa IT-administratör!
 
 Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera med våra medarbetare. För att e-postleveransen ska bli så bra som möjligt måste vi göra följande ändringar:
 
-`1)` Lägg till en DNS-post (CNAME) för **[LandingPageCNAME]** för våra landningssidor.**[CompanyDomain]**.com, som pekar på **[Munchkin ID]**.mktoweb.com.
+`1)` Lägg till en DNS-post (CNAME) för **[LandingPageCNAME]** för våra landningssidor.**[CompanyDomain]**.com, pekar på **[Munchkin ID]**.mktoweb.com.
 
 `2)` Lägg till en DNS-post (CNAME) för **[EmailTrackingCNAME]** för våra spårningslänkar i e-post.**[CompanyDomain]**.com, pekar på **[MktoTrackingLink]**.
 
 `3)` Tillåtslista Marketo.
 
-    * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till de IP-adresser som anges nedan:
-
+    * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till IP-adresserna som listas nedan:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -351,6 +350,6 @@ Marketo har en anpassad spårningsfunktion för JavaScript (kallas [!DNL Munchki
 
 ## Prestandaförväntningar {#performance-expectations}
 
-Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [produktbeskrivningen för Marketo Engage](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Alla installationssteg är klara. Det enda som återstår är att dyka in och använda Marketo!

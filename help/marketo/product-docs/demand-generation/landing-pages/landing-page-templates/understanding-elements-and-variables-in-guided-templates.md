@@ -4,7 +4,7 @@ description: Förstå element och variabler i guidade mallar - Marketo Docs - pr
 title: Förstå element och variabler i guidade mallar
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -41,21 +41,21 @@ Variabler är tokenliknande attribut som kan anpassas från den guidade redigera
 
 Det finns tre typer av variabler: strängvariabler, färgvariabler och booleska variabler.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>Sträng</td> 
-   <td><p>Redigerbar text</p><p>Exempel: Titlar, datum, knappetiketter</p></td> 
-  </tr> 
-  <tr> 
-   <td>Färg</td> 
-   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td> 
-  </tr> 
-  <tr> 
-   <td>Boolean</td> 
-   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (Sant/falskt)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>Sträng</td>
+   <td><p>Redigerbar text</p><p>Exempel: Titlar, datum, knappetiketter</p></td>
+  </tr>
+  <tr>
+   <td>Färg</td>
+   <td><p>Redigerbar hexkod för färg</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Bakgrundsfärg, teckensnittsfärg, kantfärg</p></td>
+  </tr>
+  <tr>
+   <td>Boolean</td>
+   <td><p>En spake som styr läge på/av för objekt eller format på landningssidan</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Exempel: Visa sidfot (Ja/Nej), Antal kolumner (1/2), Bädda in Google Analytics (Sant/falskt)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

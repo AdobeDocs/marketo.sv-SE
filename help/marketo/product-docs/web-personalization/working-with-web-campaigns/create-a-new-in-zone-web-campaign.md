@@ -4,7 +4,7 @@ description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentati
 title: Skapa en ny webbkampanj i zonen
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -37,45 +37,45 @@ En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment o
    >
    >Sedan söker du efter det ID som är kopplat till det här avsnittet på webbplatsen, som är markerat eftersom du undersöker elementet. Om du till exempel högerklickar i Chrome och den markerade texten säger `<div id="featured-slider">` är &quot;featured-slider&quot; det som du bör skriva i &quot;zone id&quot;-avsnittet. Vanligtvis används &quot;div id&quot;, men alla ID:n kan också användas, till exempel h1 id, p id osv.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Namn</th> 
-   <th colspan="1" rowspan="1">Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> Zon-id </strong></td> 
-   <td colspan="1" rowspan="1"><p>Ange namnet på det ID som finns i HTML-koden för det webbplatselement som kampanjen ersätter.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Fäst </strong></p></td> 
-   <td colspan="1" rowspan="1">Kryssrutan Fäst är markerad som standard för In Zone-kampanjen och behåller In Zone-kampanjen i sin Zon-id-position under besökarens session på webbplatsen. Vi rekommenderar att alltid ha en In Zone inställd på Sticky.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Toning</strong> </p></td> 
-   <td colspan="1" rowspan="1">Om du markerar kryssrutan Använd effekt och toning tonas zonens id-område ut på webbplatsen. Om In Zone är en grafisk banderoll läses sidan först in och sedan aktiveras kampanjen med en toningseffekt.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Glidande</strong></td> 
-   <td colspan="1">Om du markerar kryssrutan Använd effekt och alternativet Glidande visas en glidning för zonen med id-nummer på webbplatsen. Om In Zone är en grafisk banderoll läses sidan först in och sedan aktiveras kampanjen med en glidande effekt från vänster till höger.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> RTF-redigerare  </strong></td> 
-   <td colspan="1">Med RTF-redigeraren kan du formatera, länka och infoga bilder. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Läs mer här</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Förhandsgranska på plats   </strong></td> 
-   <td colspan="1">Förhandsgranska kampanjer innan de lanseras. <br> 
-    <ul> 
-     <li> URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li> 
-     <li>Enhet - Förhandsgranska hur kampanjen kommer att se ut på olika enheter: Stationär dator, Mobilt stående, Mobilt liggande, Stående surfplatta, Stående liggande.</li> 
-     <li> Förhandsgranska - Klicka på <strong>Förhandsgranska</strong> för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar.</li> 
-     <li> Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Namn</th>
+   <th colspan="1" rowspan="1">Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> Zon-id </strong></td>
+   <td colspan="1" rowspan="1"><p>Ange namnet på det ID som finns i HTML-koden för det webbplatselement som kampanjen ersätter.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Fäst </strong></p></td>
+   <td colspan="1" rowspan="1">Kryssrutan Fäst är markerad som standard för In Zone-kampanjen och behåller In Zone-kampanjen i sin Zon-id-position under besökarens session på webbplatsen. Vi rekommenderar att alltid ha en In Zone inställd på Sticky.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Toning</strong> </p></td>
+   <td colspan="1" rowspan="1">Om du markerar kryssrutan Använd effekt och toning tonas zonens id-område ut på webbplatsen. Om In Zone är en grafisk banderoll läses sidan först in och sedan aktiveras kampanjen med en toningseffekt.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Glidande</strong></td>
+   <td colspan="1">Om du markerar kryssrutan Använd effekt och alternativet Glidande visas en glidning för zonen med id-nummer på webbplatsen. Om In Zone är en grafisk banderoll läses sidan först in och sedan aktiveras kampanjen med en glidande effekt från vänster till höger.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> RTF-redigerare  </strong></td>
+   <td colspan="1">Med RTF-redigeraren kan du formatera, länka och infoga bilder. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Läs mer här</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Förhandsgranska på plats   </strong></td>
+   <td colspan="1">Förhandsgranska kampanjer innan de lanseras. <br>
+    <ul>
+     <li> URL - Ange en exempel-URL där kampanjen körs för att se ett förhandsgranskningsexempel på hur kampanjen skulle se ut live.</li>
+     <li>Enhet - Förhandsgranska hur kampanjen kommer att se ut på olika enheter: Stationär dator, Mobilt stående, Mobilt liggande, Stående surfplatta, Stående liggande.</li>
+     <li> Förhandsgranska - Klicka på <strong>Förhandsgranska</strong> för att öppna ett nytt fönster med exempel-URL:en för att se hur kampanjen reagerar.</li>
+     <li> Dela - Använd knappen Dela för att skicka ett e-postmeddelande till en kollega med en länk för att se proxykampanjen.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

@@ -3,7 +3,7 @@ description: Lägg till inställningen för att avbryta prenumerationen - Market
 title: Lägg till inställningen för att avbryta prenumerationen
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

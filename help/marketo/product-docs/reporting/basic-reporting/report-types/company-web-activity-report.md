@@ -4,7 +4,7 @@ description: Företagets webbaktivitetsrapport - Marketo Docs - produktdokumenta
 title: Webbaktivitetsrapport för företag
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -33,43 +33,43 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_&#x200B;och väljer **[!UICONTROL Sort Descending]**.
+   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_och väljer **[!UICONTROL Sort Descending]**.
 
    [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Kolumner</th> 
-   <th>Beskrivning</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Företag</td> 
-   <td>Besökarnas företag.<br> <strong>Namn i fet stil</strong> har bekräftats vara företagsnamn av minst en person.</td> 
-  </tr> 
-  <tr> 
-   <td>Införstått företag eller Internet-leverantör</td> 
-   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i fet stil</strong> anger att det är företaget, inte Internet-leverantören. </td> 
-  </tr> 
-  <tr> 
-   <td>Sidvyer</td> 
-   <td>Antal sidor som besökarna har läst in.</td> 
-  </tr> 
-  <tr> 
-   <td>Folk</td> 
-   <td>Antal personer från det här företaget som besökte din webbplats.</td> 
-  </tr> 
-  <tr> 
-   <td>Land, delstat/region och ort</td> 
-   <td>Företagets geografiska plats.</td> 
-  </tr> 
-  <tr> 
-   <td>Första/sista besök (tidszon)</td> 
-   <td>Datum och tid för det första/sista besöket av någon från det här företaget.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Kolumner</th>
+   <th>Beskrivning</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Företag</td>
+   <td>Besökarnas företag.<br> <strong>Namn i fet stil</strong> har bekräftats vara företagsnamn av minst en person.</td>
+  </tr>
+  <tr>
+   <td>Införstått företag eller Internet-leverantör</td>
+   <td>Företaget, vilket framgår av besökarnas IP-adress. <br> <strong>Namn i fet stil</strong> anger att det är företaget, inte Internet-leverantören. </td>
+  </tr>
+  <tr>
+   <td>Sidvyer</td>
+   <td>Antal sidor som besökarna har läst in.</td>
+  </tr>
+  <tr>
+   <td>Folk</td>
+   <td>Antal personer från det här företaget som besökte din webbplats.</td>
+  </tr>
+  <tr>
+   <td>Land, delstat/region och ort</td>
+   <td>Företagets geografiska plats.</td>
+  </tr>
+  <tr>
+   <td>Första/sista besök (tidszon)</td>
+   <td>Datum och tid för det första/sista besöket av någon från det här företaget.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

@@ -4,7 +4,7 @@ description: E-postinsikter skickar en översikt - Marketo Docs - produktdokumen
 title: E-postinsikter - skicka översikt
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Till höger på sidan finns det flera uppgifter om dina skickade e-postmeddeland
 
 **[!UICONTROL Type]** anger vilken typ av resurs som används.
 **[!UICONTROL Recipient]** är antalet personer som har fått e-postmeddelandet.
-**[!UICONTROL Delivery Metrics]** ger dig en snabb vy över hur många e-postmeddelanden som har levererats, väntar eller har studsat.\
+**[!UICONTROL Delivery Metrics]** ger dig en snabb vy över hur många e-postmeddelanden som har levererats, väntar eller har studsat.
 **[!UICONTROL Engagement Metrics]** ger dig en snabb vy över hur många mottagare som har öppnat, klickat på och avbrutit prenumerationen på ett e-postmeddelande.
 **[!UICONTROL Score]** är ditt e-postmeddelandes [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 

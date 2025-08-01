@@ -4,7 +4,7 @@ description: Insikter om namngivna konton - Marketo Docs - produktdokumentation
 title: Insikter om namngivna konton
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ Instrumentpanelen samlar viktiga insikter på kontonivå från alla personer på
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td> 
-   <td><p>Se interaktion mellan veckor baserat på alla kontopoäng du har skapat i <span class="uicontrol">Admin</span>. Du kan jämföra dessa kontopoäng sida vid sida. För att fastställa ett veckoengagemang tar vi det största engagemanget från vilken veckodag som helst.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td>Se rörledningen över tiden. För att bestämma rörledningen över tid i vecka tar vi rörledningen på sista dagen.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intäkter</span></strong></td> 
-   <td>Se intäkterna över tid. För att fastställa intäkter över tid och vecka tar vi summan av alla intäkter som vunnits den veckan.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Kontopoäng</span></strong></td>
+   <td><p>Se interaktion mellan veckor baserat på alla kontopoäng du har skapat i <span class="uicontrol">Admin</span>. Du kan jämföra dessa kontopoäng sida vid sida. För att fastställa ett veckoengagemang tar vi det största engagemanget från vilken veckodag som helst.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td>Se rörledningen över tiden. För att bestämma rörledningen över tid i vecka tar vi rörledningen på sista dagen.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intäkter</span></strong></td>
+   <td>Se intäkterna över tid. För att fastställa intäkter över tid och vecka tar vi summan av alla intäkter som vunnits den veckan.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

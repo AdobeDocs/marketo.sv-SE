@@ -3,7 +3,7 @@ description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -16,41 +16,41 @@ Att skicka e-postmeddelanden i grupp är ett bra sätt att öka engagemanget hos
 
 **Gruppera e-post jämfört med Markera och skicka**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Typ av överföring</th> 
-   <th>Max antal e-postmeddelanden</th> 
-   <th>Initierad sändning av</th> 
-   <th>Massredigera e-postmeddelanden</th> 
-   <th>Redigera alla e-postmeddelanden unikt</th> 
-   <th>Stöd för mallar och dynamiska fält</th> 
-  </tr> 
-  <tr> 
-   <td>Gruppe-post</td> 
-   <td>1 000</td> 
-   <td>Markera en grupp och klicka på knappen [!UICONTROL Group Actions] eller skriv gruppnamnet i fältet Till.</td> 
-   <td>Ja</td> 
-   <td>Nej</td> 
-   <td>Ja</td> 
-  </tr> 
-  <tr> 
-   <td>Markera och skicka</td> 
-   <td>200</td> 
-   <td>Markera personer i rutnätet och klicka på knappen [!UICONTROL Email Selected] i åtgärdsfältet, eller skriv in mottagare i det stora sidofältet för e-post.</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Typ av överföring</th>
+   <th>Max antal e-postmeddelanden</th>
+   <th>Initierad sändning av</th>
+   <th>Massredigera e-postmeddelanden</th>
+   <th>Redigera alla e-postmeddelanden unikt</th>
+   <th>Stöd för mallar och dynamiska fält</th>
+  </tr>
+  <tr>
+   <td>Gruppe-post</td>
+   <td>1 000</td>
+   <td>Markera en grupp och klicka på knappen [!UICONTROL Group Actions] eller skriv gruppnamnet i fältet Till.</td>
+   <td>Ja</td>
+   <td>Nej</td>
+   <td>Ja</td>
+  </tr>
+  <tr>
+   <td>Markera och skicka</td>
+   <td>200</td>
+   <td>Markera personer i rutnätet och klicka på knappen [!UICONTROL Email Selected] i åtgärdsfältet, eller skriv in mottagare i det stora sidofältet för e-post.</td>
+   <td>Ja</td>
+   <td>Ja</td>
+   <td>Ja</td>
+  </tr>
+ </tbody>
 </table>
 
 **Använder gruppe-post**

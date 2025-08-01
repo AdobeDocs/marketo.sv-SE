@@ -3,7 +3,7 @@ description: OP-Acquisition-API - Marketo Docs - Produktdokumentation
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -12,52 +12,52 @@ ht-degree: 0%
 
 # OP-Acquisition-API {#op-acquisition-api}
 
-Det här exempelprogrammet är avsett för operativa processer för att spåra förvärv av poster från API-källor med hjälp av ett Marketo Engage-standardprogram.
+Det här exempelprogrammet är avsett för driftsprocesser som ska spåra förvärv av poster från API-källor med hjälp av ett Marketo Engage-standardprogram.
 
 ## Kanalsammanfattning {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Status för medlemskap</th>
    <th>Analysbeteende</th>
    <th>Programtyp</th>
-  </tr> 
-  <tr> 
-   <td>Operativ</td> 
+  </tr>
+  <tr>
+   <td>Operativ</td>
    <td>01-medlem</td>
    <td>Operativ</td>
    <td>Standard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Mallnamn</th>
    <th>Resursnamn</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>Ange anskaffning - batch</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>Ange förvärv - utlösare</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Kampanjer (innehåller alla smarta kampanjer)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)

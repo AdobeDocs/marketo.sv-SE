@@ -2,7 +2,7 @@
 title: Marketo Product Docs
 description: Lär er hur ni lyfter er marknadsföring till nästa nivå med dessa Marketo produktdokument. Kom igång med en självstudiekurs för Marketo och läs andra populära artiklar.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 8%

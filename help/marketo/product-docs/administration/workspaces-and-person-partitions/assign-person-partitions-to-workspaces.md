@@ -4,7 +4,7 @@ description: Tilldela personpartitioner till arbetsytor - Marketo Docs - produkt
 title: Tilldela personpartitioner till arbetsytor
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%

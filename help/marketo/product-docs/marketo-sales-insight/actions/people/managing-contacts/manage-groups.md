@@ -3,7 +3,7 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 
 ## Grupptyper {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Grupp</th> 
-   <th>Beskrivning</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>Alla kontakter från alla användare som är synliga för dig.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>Mina kontakter: Alla kontakter du äger.<br>Avbeställ: Kontakter som har avanmält sig från att ta emot korrespondens.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>Grupper som du har skapat. De kan innehålla dina kontakter eller kontakter som har delats med dig.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Grupper som har delats med och/eller av dig. De kan innehålla kontakter som dina teamkamrater äger eller kontakter som du har delat med dem.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Grupp</th>
+   <th>Beskrivning</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>Alla kontakter från alla användare som är synliga för dig.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>Mina kontakter: Alla kontakter du äger.<br>Avbeställ: Kontakter som har avanmält sig från att ta emot korrespondens.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>Grupper som du har skapat. De kan innehålla dina kontakter eller kontakter som har delats med dig.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Grupper som har delats med och/eller av dig. De kan innehålla kontakter som dina teamkamrater äger eller kontakter som du har delat med dem.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Skapa en grupp {#create-a-group}

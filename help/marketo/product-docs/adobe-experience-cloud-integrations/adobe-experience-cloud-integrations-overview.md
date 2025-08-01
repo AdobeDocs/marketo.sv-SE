@@ -3,7 +3,7 @@ description: Adobe Experience Cloud Integrations Overview - Marketo Docs - produ
 title: Adobe Experience Cloud Integrations - översikt
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Adobe Experience Cloud Integrations - översikt{#adobe-experience-cloud-integrations-overview}
 
-Adobe erbjuder en robust lösning för efterfrågad marknadsföring som börjar med inbyggd målgruppssynkronisering för alla Adobe Experience Cloud-produkter. Utnyttja unika B2B-centrerade data i hela Adobe Audience Manager och frigör kraftfulla användningsfall för efterfrågad marknadsföring och outnyttjad potential för befintliga Adobe-program.
+Adobe erbjuder en robust lösning för efterfrågad marknadsföring som börjar med synkronisering av målgrupper mellan Adobe Experience Cloud-produkterna. Utnyttja unika B2B-centrerade data i hela Adobe Audience Manager och frigör kraftfulla användningsexempel för efterfrågad marknadsföring och outnyttjad potential för befintliga Adobe-program.
 
 >[!NOTE]
 >
->Integreringarna, som innefattar Audience Manager och [!DNL Adobe Real-Time CDP Marketo Connecter], kan kräva mappning av IMS-organisationen i Marketo Engage. [Lär dig hur du konfigurerar organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>Integreringarna, som innefattar Audience Manager och [!DNL Adobe Real-Time CDP Marketo Connecter], kan kräva mappning av IMS-organisationen i Marketo Engage. [Lär dig hur du konfigurerar Adobe organisationsmappning](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
 
@@ -26,7 +26,7 @@ Adobe erbjuder en robust lösning för efterfrågad marknadsföring som börjar 
 
 * [Skicka en lista till Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Gör att ni kan synkronisera statiska listor över kända personer från Marketo Engage till flera AEC-program, vilket förbättrar befintliga program, låser upp nya användningsfall och ordnar flerkanalskampanjer. Integrationen omfattar: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager och Adobe Advertising Cloud.
+Gör att ni kan synkronisera statiska listor över kända personer från Marketo Engage till flera AEC-program, vilket förbättrar befintliga program, låser upp nya användningsfall och skapar flerkanalskampanjer. Integrationen innefattar Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager och Adobe Advertising Cloud.
 
 **Marketo-integrering med Adobe Experience Manager**
 

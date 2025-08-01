@@ -3,7 +3,7 @@ description: Skicka en lista till Google - Marketo Docs - produktdokumentation
 title: Skicka en lista till Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Skicka en lista till Google {#send-a-list-to-google}
 
-För dem som använder Google Customer Match följer du stegen nedan för att skicka en statisk Marketo Engage-lista till ditt Google-konto.
+För dem som använder Google Customer Match följer du stegen nedan för att skicka en statisk lista från Marketo Engage till ditt Google-konto.
 
 1. I Marketo Engage söker du efter och markerar önskad lista.
 
@@ -38,7 +38,7 @@ För dem som använder Google Customer Match följer du stegen nedan för att sk
    >
    >* Om du väljer **Håll målgruppsmedlemskapet synkroniserat** uppdateras listan när den ändras i din instans. Vi lägger till/tar bort personer från målgruppen när de läggs till/tas bort från den statiska listan.
    >
-   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD. För dem som planerar att överföra data för användare i Europeiska ekonomiska samarbetsområdet (EES) har Google sammanställt en lista med [vanliga frågor ](https://support.google.com/google-ads/answer/14310715){target="_blank"} samt ytterligare information som beskriver [EU:s policy för användargodkännande](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Om du markerar kryssrutan längst ned skickas medgivandestatusen som GRANTED för användardata som skickas till Google Ads för reklam och annonspersonalisering. Om du inte markerar alternativet skickas medgivandestatusen som OSPECIFIERAD. För dem som planerar att överföra data för användare i Europeiska ekonomiska samarbetsområdet (EES) har Google sammanställt en lista med [vanliga frågor](https://support.google.com/google-ads/answer/14310715){target="_blank"} samt ytterligare information som beskriver [EU:s policy för användargodkännande](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Klicka på **Uppdatera**.
 

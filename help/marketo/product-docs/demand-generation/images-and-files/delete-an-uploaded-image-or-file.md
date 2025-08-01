@@ -4,7 +4,7 @@ description: Ta bort en överförd bild eller fil - Marketo Docs - produktdokume
 title: Ta bort en överförd bild eller fil
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

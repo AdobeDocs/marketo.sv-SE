@@ -4,7 +4,7 @@ description: Använda uppgifter i kampanjer - Marketo Docs - produktdokumentatio
 title: Använda uppgifter i kampanjer
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

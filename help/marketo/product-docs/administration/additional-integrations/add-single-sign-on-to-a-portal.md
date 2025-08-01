@@ -4,7 +4,7 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -71,7 +71,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
    >
    >Om du inte ser **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]** kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Klicka på **[!UICONTROL Edit]** under avsnittet **[!UICONTROL SAML Settings]**.
+1. Klicka på **[!UICONTROL SAML Settings]** under avsnittet **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
@@ -93,7 +93,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
 ## Uppdatera inställningar för omdirigeringssida {#update-redirect-page-settings}
 
-1. Klicka på **[!UICONTROL Edit]** under avsnittet **[!UICONTROL Redirect Pages]**.
+1. Klicka på **[!UICONTROL Redirect Pages]** under avsnittet **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 

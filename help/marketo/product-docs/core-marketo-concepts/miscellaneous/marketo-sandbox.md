@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - produktdokumentation
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -16,7 +16,7 @@ En Marketo Engage-sandlåda är ytterligare en instans som används för testnin
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har synkroniserats med din produktionsinstans. Använd CRM-sandlådan för synkroniseringen och följ samma steg som den ursprungliga synkroniseringen.
 
@@ -29,7 +29,7 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 
 >[!CAUTION]
 >
->Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta kontogruppen på Adobe (din kontoansvarige) för mer information.
+>Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta Adobe Account Team (din kontoansvarige) om du vill ha mer information.
 
 ## Instanskopia {#instance-copy}
 

@@ -4,7 +4,7 @@ description: Tillåt användaråtkomst till en Workspace - Marketo Docs - produk
 title: Tillåt användaråtkomst till en Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tillåt användaråtkomst till en Workspace {#allow-user-access-to-a-workspace}
 
-Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geografisk separation). De separerar resurserna (smarta listor, program osv.) för varje team. Så här ger du en användare åtkomst till en eller flera arbetsytor.
+Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geografisk separation). De delar upp resurserna (smarta listor, program osv.) för varje team. Så här ger du en användare åtkomst till en eller flera arbetsytor.
 
 >[!NOTE]
 >
@@ -46,4 +46,3 @@ Arbetsytor kan vara av vilken anledning som helst (t.ex. affärsenhet eller geog
 När du har sparat ändringarna bör du se uppdateringen.
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
-

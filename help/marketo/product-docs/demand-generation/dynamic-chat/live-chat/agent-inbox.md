@@ -3,7 +3,7 @@ description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Agenter kan avsluta en session manuellt genom att klicka på knappen **Avsluta s
 
 >[!NOTE]
 >
->Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Kortkommandon, som drivs av det generativa AI-biblioteket [Response](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), är ett bra sätt att få hjälp direkt när du chattar med en besökare. Skriv bara ett snedstreck (`/`) i textrutan och välj `ask` eller `search`.
 
@@ -120,7 +120,7 @@ Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en
 
 >[!NOTE]
 >
->Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Den här funktionen är en del av den generativa AI-funktionen som är tillgänglig via Dynamic Chat Prime-prenumerationen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Samtalssammanfattning genererar en snabb sammanfattning för dig i realtid, inklusive ämnen som besökaren har uttryckt intresse för. Den finns längst ned till höger på alla chattskärmar.
 
@@ -128,4 +128,4 @@ Samtalssammanfattning genererar en snabb sammanfattning för dig i realtid, inkl
 
 >[!NOTE]
 >
->En slutförd konversationssammanfattning finns också i aktivitetsloggen för besökarens personpost i Marketo Engage-databasen.
+>En slutförd konversationssammanfattning finns också i aktivitetsloggen för besökarens personpost i din Marketo Engage-databas.

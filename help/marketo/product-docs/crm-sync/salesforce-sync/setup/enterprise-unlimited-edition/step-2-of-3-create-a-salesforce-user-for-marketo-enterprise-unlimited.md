@@ -4,7 +4,7 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterpri
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -121,25 +121,25 @@ I den här artikeln ställer du in användarbehörigheter i profilen [!DNL Sales
 
 1. När du har inaktiverat alla onödiga fält måste du kontrollera **[!UICONTROL Read Access and Edit Access]** efter följande objektfält. Klicka på **[!UICONTROL Save]** när du är klar.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Objekt</th> 
-   <th>Fält</th> 
-  </tr> 
-  <tr> 
-   <td>Konto</td> 
-   <td>Typfält</td> 
-  </tr> 
-  <tr> 
-   <td>Händelse</td> 
-   <td>Alla fält</td> 
-  </tr> 
-  <tr> 
-   <td>Uppgift</td> 
-   <td>Alla fält</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Objekt</th>
+   <th>Fält</th>
+  </tr>
+  <tr>
+   <td>Konto</td>
+   <td>Typfält</td>
+  </tr>
+  <tr>
+   <td>Händelse</td>
+   <td>Alla fält</td>
+  </tr>
+  <tr>
+   <td>Uppgift</td>
+   <td>Alla fält</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

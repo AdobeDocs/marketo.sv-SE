@@ -1,16 +1,16 @@
 ---
 description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
-title: Vanliga frågor om Dynamic Chat
+title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
 
 ---
 
-# Vanliga frågor om Dynamic Chat {#dynamic-chat-faq}
+# DYNAMIC CHAT FAQ {#dynamic-chat-faq}
 
 Nedan finns svar på några vanliga frågor om Dynamic Chat.
 
@@ -24,11 +24,11 @@ Dynamic Chat JavaScript-fragmentet kan installeras på alla webbplatser och på 
 
 **Hur länge lagras data för rapportering?**
 
-90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssidan](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 
-Ja. Dynamic Chat stöder följande språk: franska, spanska, tyska, japanska, nederländska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [Ändra språk](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat har stöd för följande språk: franska, spanska, tyska, japanska, nederländska, italienska, brasiliansk portugisiska, koreanska, förenklad kinesiska och traditionell kinesiska. Läs mer i [Ändra språk](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Stöder du AI/NLP-funktioner?**
 
@@ -52,7 +52,7 @@ När du har nått 90 % av gränsen för antalet aktiva konversationer får Dynam
 
 **Om en besökare interagerar med en dialogruta och sedan ansluter till en Live-agent, räknas det som ett eller två engagemang?**
 
-För kunder med Select-paketet räknas detta som två separata åtaganden - en för Dialog-interaktionen och en för live-chattinteraktionen. För kunder med Prime-paketet räknas inte live-chattengagemang separat, så detta räknas bara som ett engagemang.
+För kunder med Select-paketet räknas detta som två separata åtaganden - en för Dialog-interaktionen och en för live-chattinteraktionen. För kunder som har Prime-paketet räknas inte live-chattengagemang separat, så detta räknas bara som ett engagemang.
 
 **Hur ofta återställs gränsen för deltagande konversationer?**
 
@@ -62,25 +62,25 @@ Gränsen för aktiverad konversation återställs den första i varje kalenderm�
 
 Dialogrutorna är avsedda att visas för en besökare endast en gång. Så när en besökare kommer till slutet av en viss gren i en dialogruta anses den dialogrutan vara fullständig och visas aldrig för besökaren igen.
 
-**När jag klickar på rutan Dynamic Chat i Min Marketo och loggar in på Adobe Experience Cloud, varför får jag då följande meddelande? &quot;_Din Adobe ID verkar inte vara länkad till dina Adobe Experience Cloud-lösningskonton_.&quot;**
+**När jag klickar på Dynamic Chat-rutan i Min Marketo och loggar in på Adobe Experience Cloud, varför får jag då följande meddelande? &quot;_Din Adobe ID verkar inte vara länkad till dina Adobe Experience Cloud-lösningskonton_.&quot;**
 
-Detta innebär troligtvis att du inte har lagts till som Dynamic Chat i Adobe Admin Console. Kontakta antingen en systemadministratör för din Adobe-organisation eller en produktadministratör för Dynamic Chat för att begära åtkomst till Dynamic Chat.
+Detta innebär troligtvis att du inte har lagts till som Dynamic Chat-användare i Adobe Admin Console. Kontakta antingen en systemadministratör för din Adobe-organisation eller en produktadministratör för Dynamic Chat för att begära åtkomst till Dynamic Chat.
 
 **Hur får jag åtkomst till utskriften för en engagerad konversation?**
 
-Dynamic Chat-transkript kan nås för alla kända leads som har interagerat med en Dynamic Chat-dialog via aktiviteten&quot;Engaged with Dialog&quot; i Marketo Engage, och vars konversationsstatus är antingen&quot;Completed&quot; eller&quot;Dropped&quot;.
+Dynamic Chat-transkriberingar kan användas för alla kända leads som har deltagit i en Dynamic Chat-dialogruta via aktiviteten&quot;Engaged with Dialog&quot; i Marketo Engage och vars konversationsstatus är antingen&quot;Completed&quot; eller&quot;Dropped&quot;.
 
 **När en besökare har anslutit till en dialogruta, kan de då starta om konversationen eller gå tillbaka till en tidigare fråga?**
 
-Det finns för närvarande inget systematiskt sätt att starta om en konversation eller gå tillbaka till en tidigare punkt, men detta är på Dynamic Chat färdplan.
+Det finns för närvarande inget systematiskt sätt att starta om en konversation eller gå tillbaka till en tidigare punkt, men detta ligger på Dynamic Chat färdplan.
 
 **Kan Dynamic Chat integreras med Salesforce?**
 
-Dynamic Chat integreras med Salesforce via Marketo Engage Salesforce-integreringen.
+Dynamic Chat kan integreras med Salesforce via Marketo Engage Salesforce-integrering.
 
 **Min kalender är ansluten i Dynamic Chat och jag ingår i routningsreglerna, så varför får jag inga möten?**
 
-Detta tyder troligen på att din kalenderanslutning måste autentiseras på nytt. Det här inträffar oftast när du ändrar lösenordet för din kalenderleverantör och Dynamic Chat förlorar anslutningen. Du kan bara gå till sidan Agentinställningar i Dynamic Chat och klicka på &quot;Återautentisera kalender&quot;.
+Detta tyder troligen på att din kalenderanslutning måste autentiseras på nytt. Detta inträffar oftast när du ändrar lösenordet för din kalenderleverantör och Dynamic Chat förlorar anslutningen. Du kan bara gå till sidan Agentinställningar i Dynamic Chat och klicka på &quot;Återautentisera kalender&quot;.
 
 **Vad är skillnaden mellan en dialog och ett konversationsflöde?**
 
@@ -92,7 +92,7 @@ Ja! [Lär dig hur](https://nation.marketo.com/t5/product-blogs/using-dynamic-cha
 
 **Vad betyder termer som &quot;Engaged&quot; eller &quot;People Acquired&quot; egentligen?**
 
-Det finns flera termer i Dynamic Chat. Definitioner för många av dem finns i hjälpartiklar i respektive område.
+Det finns flera termer som används i Dynamic Chat. Definitioner för många av dem finns i hjälpartiklar i respektive område.
 
 * Analystermer som&quot;Personer som förvärvats&quot; [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
 * Smart List-utlösare/filterdefinitioner [finns här](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
@@ -100,4 +100,4 @@ Det finns flera termer i Dynamic Chat. Definitioner för många av dem finns i h
 
 **Kan jag använda Dynamic Chat utan Marketo Engage?**
 
-Nej. Dynamic Chat är ett separat program från Marketo Engage, men de två är oupplösligt sammanlänkade.
+Nej. Även om Dynamic Chat är ett separat program från Marketo Engage är de två ofrånkomligen sammanlänkade.

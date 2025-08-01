@@ -4,7 +4,7 @@ description: Om systemhanterade fält - Marketo Docs - produktdokumentation
 title: Förstå systemhanterade fält
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%
@@ -97,7 +97,7 @@ Nedan finns några möjliga värden och vad de betyder.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Personen upptäcktes från Salesforce-synkroniseringen</td>
+    <td>En person upptäcktes från Salesforce-synkroniseringen</td>
   </tr>
   <tr>
     <td>Webbsidesbesök</td>
@@ -132,8 +132,8 @@ Nedan finns några möjliga värden och vad de betyder.
     <td>Personen synkroniserades från Webkrok som en kontakt</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
-    <td>Personen upptäcktes av Marketo Engage Munchkins API</td>
+    <td>MUNCHKIN API</td>
+    <td>Personen upptäcktes av Marketo Engage Munchkin API</td>
   </tr>
   <tr>
     <td>Social app</td>
@@ -184,8 +184,8 @@ Nedan finns några möjliga värden och vad de betyder.
     <td>Personen har angetts manuellt i databasen</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
-    <td>Bli en person med Marketo Munchkins API</td>
+    <td>MUNCHKIN API</td>
+    <td>Bli en person med Marketo Munchkin API</td>
   </tr>
   <tr>
     <td>Social app</td>

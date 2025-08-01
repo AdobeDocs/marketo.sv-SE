@@ -4,7 +4,7 @@ description: Ta bort ett flödessteg - Marketo Docs - produktdokumentation
 title: Ta bort ett flödessteg
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -42,8 +42,8 @@ Först tar vi grunderna. Så här tar du bort ett oönskat flödessteg från en 
    1. **Kördes redan utan väntesteg**.Inga personer påverkas eftersom kampanjen är vilande efter körning.
    1. **Körs just nu**. Ändringar kan orsaka oväntat beteende beroende på tidpunkten och informationen för borttagningen. Vi rekommenderar att du INTE redigerar en batchkampanj som aktivt körs. Lär dig hur du [avbryter en smart kampanj som körs](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} i nödfall.
 
-   1. **Kördes redan med väntesteg.** Flera detaljer om den här.\
-      När en person går in i ett vänteläge sänker personen längden och anger vilket NUMBER-STEG han/hon ska gå tillbaka till. Se exemplet nedan.
+   1. **Kördes redan med väntesteg.** Flera detaljer om den här.
+När en person går in i ett vänteläge sänker personen längden och anger vilket NUMBER-STEG han/hon ska gå tillbaka till. Se exemplet nedan.
 
    **Utlös smarta kampanjer**
 

@@ -3,7 +3,7 @@ description: Återanropsfunktioner - Marketo Docs - produktdokumentation
 title: Återanropsfunktioner
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -16,12 +16,12 @@ Du kan använda Dynamic Chat widget-återanropsfunktioner för att skicka konver
 
 ## Komma igång {#getting-started}
 
-Den här händelsen anger att widgeten Dynamic Chat är klar att användas och utlöses när alla skript som är relaterade till Dynamic Chat läses in på webbsidan.
+Den här händelsen anger att Dynamic Chat-widgeten är klar att användas och utlöses när alla skript som är relaterade till Dynamic Chat läses in på webbsidan.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    // code here will execute when chatbot scripts are loaded in a webpage 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    // code here will execute when chatbot scripts are loaded in a webpage
+});
 ```
 
 ## Konversationshändelser {#conversation-events}
@@ -33,12 +33,12 @@ Dessa händelser är relaterade till en konversation som är riktad till en viss
 En konversation (t.ex. en dialogruta) som riktar sig till en webbplatsbesökare är löst och chattbot visas för dem.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // code here will execute when the chatbot is loaded for a visitor 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // code here will execute when the chatbot is loaded for a visitor
+    });
+});
 ```
 
 ### Konversationen har aktiverats {#conversation-engaged}
@@ -46,12 +46,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Besökaren var engagerad (t.ex. med sitt första svar) med chattbot.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when a visitor engages with the chatbot 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => {
+ // code here will execute when a visitor engages with the chatbot
+     });
+});
 ```
 
 ### Konversationen har slutförts {#conversation-completed}
@@ -59,12 +59,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Besökaren har nått slutet av konversationen.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when a conversation is completed 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => {
+ // code here will execute when a conversation is completed
+     });
+});
 ```
 
 ### Konversationen har avslutats
@@ -72,12 +72,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Besökaren har avslutat konversationen innan han eller hon är klar.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when a conversation is closed 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => {
+ // code here will execute when a conversation is closed
+    });
+});
 ```
 
 Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
@@ -124,12 +124,12 @@ Dessa händelser utlöses när en besökare som deltar i en konversation lämnar
 Den här händelsen utlöses när en besökare anger sitt telefonnummer under konversationen.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
- // code here will execute when a visitor provides their phone number 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => {
+ // code here will execute when a visitor provides their phone number
+    });
+});
 ```
 
 ### E-post-ID {#email-id}
@@ -137,12 +137,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Den här händelsen utlöses när en besökare anger sin e-postadress under konversationen.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
- // code here will execute when a visitor provides their email address 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => {
+ // code here will execute when a visitor provides their email address
+    });
+});
 ```
 
 Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
@@ -191,12 +191,12 @@ Nedan visas de händelser som hör till den här kategorin.
 Den här händelsen utlöses när en besökare bokar ett möte i en agentkalender.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
- // code here will execute when a meeting is booked 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => {
+ // code here will execute when a meeting is booked
+    });
+});
 ```
 
 Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
@@ -257,12 +257,12 @@ Nedan visas de händelser som hör till den här kategorin.
 Den här händelsen utlöses när en besökare väljer alternativet att chatta med en live-agent och en tillgänglig agent håller på att lösas.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => {
+ // code here will execute when a visitor requests a live chat
+    });
+});
 ```
 
 ### Live-chatten har initierats {#live-chat-initiated}
@@ -270,12 +270,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Den här händelsen utlöses när en besökare väljer alternativet att chatta med en live-agent och en agent godkänner chatten.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepts the chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => {
+ // code here will execute after a live agent accepts the chat
+    });
+});
 ```
 
 ### Live-chatt avslutad {#live-chat-ended}
@@ -283,12 +283,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Den här händelsen utlöses när en konversation mellan en besökare och den aktiva agenten avslutas.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
- // code here will execute when a live chat is ended 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => {
+ // code here will execute when a live chat is ended
+    });
+});
 ```
 
 ### Timeout för live-chatt {#live-chat-timeout}
@@ -296,12 +296,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Den här händelsen utlöses när en live-chattkonversation avbryts på grund av att besökaren slutar svara eller att de har släppts.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandons a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => {
+ // code here will execute when a visitor abandons a live chat
+    });
+});
 ```
 
 Parametern `event` är ett objekt med metadata relaterade till konversationen. Du kan komma åt dessa metadata genom att gå till `event.data`.
@@ -347,18 +347,18 @@ Här är några viktiga metadatavärden som du kan komma åt:
 </tbody>
 </table>
 
-Om du vill skicka någon av dessa händelser till en analysplattform som Adobe Analytics eller Google Analytics måste du lägga till deras respektive spårningsanrop i dessa Dynamic Chat-händelser. Det skulle se ut ungefär som exemplet nedan.
+Om du vill skicka något av dessa event till en analysplattform som Adobe Analytics eller Google Analytics måste du lägga till deras respektive spårningsanrop i dessa Dynamic Chat-event. Det skulle se ut ungefär som exemplet nedan.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // Enter Adobe Analytics or Google Analytics function here 
-    ga('send', 'event', { 
-      eventCategory: Dynamic Chat Conversations', 
-      eventAction: 'Conversation Triggered', 
-      eventLabel: event.data.payload.id, 
-    }); 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // Enter Adobe Analytics or Google Analytics function here
+    ga('send', 'event', {
+      eventCategory: Dynamic Chat Conversations',
+      eventAction: 'Conversation Triggered',
+      eventLabel: event.data.payload.id,
+    });
+    });
+});
 ```

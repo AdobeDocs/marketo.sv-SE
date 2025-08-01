@@ -3,7 +3,7 @@ description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Produktdokumentati
 title: TS-YYYY-MM-DD Tradeshow Program
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Detta är ett exempel på ett program för bildspel med inbjudningar och uppföljningsmejl som använder ett Marketo Engage Event Program.
 
-Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontaktar du kontogruppen på Adobe eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanal</th>
    <th>Status för medlemskap</th>
    <th>Analysbeteende</th>
    <th>Programtyp</th>
-  </tr> 
-  <tr> 
-   <td>Händelse</td> 
-   <td>01-Inbjuden 
+  </tr>
+  <tr>
+   <td>Händelse</td>
+   <td>01-Inbjuden
    <br/>02-Väntelistat
    <br/>03-Registrerad
    <br/>04-Besökta monter
@@ -37,145 +37,145 @@ Om du vill ha mer strategihjälp eller hjälp med att anpassa ett program kontak
    <td>Inkluderande</td>
    <td>Händelse</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Programmet innehåller följande Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Typ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Typ</th>
    <th>Mallnamn</th>
    <th>Resursnamn</th>
-  </tr> 
-  <tr> 
-   <td>E-post</td> 
+  </tr>
+  <tr>
+   <td>E-post</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>01-Email-Tack</td>
   </tr>
-   <tr> 
-   <td>E-post</td> 
+   <tr>
+   <td>E-post</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-postmall för snabbstart</a></td>
    <td>02a- E-post - inbjudan</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>E-postprestanda</td>
   </tr>
-  <tr> 
-   <td>Lokal rapport</td> 
+  <tr>
+   <td>Lokal rapport</td>
    <td> </td>
    <td>Programprestanda</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>00 - Capture Acquisition Program</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>01 - Skicka inbjudan</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>02 - Skicka uppföljningsmejl</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td> </td>
    <td>03 - Engagerad av uppföljningsmejl (lyckades)</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
-   <td>Assets - Alla kreativa resurser 
+   <td>Assets - Alla kreativa resurser
 <br/>(undermappar för e-post- och landningssidor)</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Kampanjer - omfattar alla smarta kampanjer</td>
   </tr>
-  <tr> 
-   <td>Mapp</td> 
+  <tr>
+   <td>Mapp</td>
    <td> </td>
    <td>Rapporter</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## Mina token inkluderade {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tokentyp</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tokentyp</th>
    <th>Tokennamn</th>
    <th>Värde</th>
   </tr>
-  <tr> 
-   <td>Kalenderfil</td> 
+  <tr>
+   <td>Kalenderfil</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Dubbelklicka för detaljer</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>RTF</td> 
+   <tr>
+   <td>RTF</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>Text</td> 
+   <tr>
+   <td>Text</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Varumärke</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Konfliktregler {#conflict-rules}

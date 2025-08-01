@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -110,7 +110,7 @@ Text
 
    >[!NOTE]
    >
-   >Om du inte redan har gjort det blir du ombedd att logga in på ditt AEM.
+   >Om du inte redan har gjort det blir du ombedd att logga in på ditt AEM-konto.
 
 1. Text
 

@@ -4,7 +4,7 @@ description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - pr
 title: Använda gruppåtgärder i Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -39,10 +39,10 @@ Lär dig hur du utför massåtgärder, som att lägga till leads till en kampanj
 
 1. Ett MSC-e-postmeddelande visas. Den innehåller följande funktioner:
 
-   a. Fältet [!UICONTROL To] visar&quot;Alla kvitton&quot; - det motsvarar listan med leads som du har valt i Lead List-vyn\
-   b. Den här listan visas i den vänstra panelen, med namnet&quot;Massdisposition&quot; - du kan lägga till/ta bort mottagare här\
-   c. Du kan välja en mall eller skapa en egen e-postadress\
-   d. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
+   a. Fältet [!UICONTROL To] visar&quot;Alla kvitton&quot; - det motsvarar listan med leads som du har valt i Lead List-vyn
+b. Den här listan visas i den vänstra panelen, med namnet&quot;Massdisposition&quot; - du kan lägga till/ta bort mottagare här
+c. Du kan välja en mall eller skapa en egen e-postadress
+d. Du kan skicka e-postmeddelandet direkt eller schemalägga att skicka det senare
 
    ![](assets/three-5.png)
 

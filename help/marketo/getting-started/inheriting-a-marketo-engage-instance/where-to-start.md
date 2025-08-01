@@ -3,7 +3,7 @@ description: Lär dig hur du optimerar och skalförändrar en befintlig Marketo 
 title: Var ska jag börja?
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -28,21 +28,21 @@ Se till att du är korrekt konfigurerad i Marketing Nation Community.
 
 Om du redan har en Marketing Nation-profil hos ett tidigare företag följer du de här stegen för att föra över den historiken till din nya profil.
 
-1. Skapa en användarprofil/användarprofil med din e-postadress som har tillgång till din nuvarande Marketo Engage-prenumeration.
+1. Skapa en användarprofil/användarprofil med din e-postadress som har tillgång till din aktuella Marketo Engage-prenumeration.
 
 1. [När du har skapat din profil](https://nation.marketo.com/){target="_blank"} med din nya företagsinformation skickar du en begäran till `ccare@marketo.com` om att data från din gamla community-profil ska sammanfogas med din nya.
 
 1. Ange följande uppgifter i din begäran:
 
 * Din gamla e-postadress till företaget som är kopplad till din gamla community-profil
-* Din nya e-postadress för företag som är kopplad till den aktuella Marketo Engage-prenumerationen
+* Din nya e-postadress som är kopplad till den aktuella Marketo Engage-prenumerationen
 * Ditt nya användarnamn/URL för användarprofilen
 
 Vårt communityteam sammanfogar dina communityprofiler på 4-6 arbetsdagar. När det är klart ser du din engagemangshistorik i den nya communityprofilen när du loggar in. Om du inte gör det loggar du ut från ditt konto och loggar in igen för att bekräfta.
 
-## Jumpstart din ärvda Marketo Engage-instans  {#jumpstart-your-inherited-marketo-engage-instance}
+## Snabbstarta din ärvda Marketo Engage-instans  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe, med synpunkter från Marketo Champions, har sammanställt flera checklistor för instansgranskning som ärvts av Marketo Engage för att hjälpa dig att komma igång. Lär dig navigera på olika områden i Marketo Engage och utföra de olika uppgifter som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
+Adobe, med synpunkter från Marketo Champions, har sammanställt flera checklistor för Marketo Engage Inherited Instance Audit som hjälper dig att komma igång. Lär dig navigera i de olika områdena av Marketo Engage och utföra de olika åtgärder som krävs för att utföra en granskning, med länkar till rekommenderad hjälpdokumentation.
 
 Du kan även [hämta checklistor](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) i kalkylbladsformulär.
 
@@ -66,4 +66,4 @@ Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via l
 
 * Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Titta på **[kursvideor](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}** om olika aspekter av Marketo Engage.
+* Titta på **[kuraterade självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** om olika aspekter av Marketo Engage.

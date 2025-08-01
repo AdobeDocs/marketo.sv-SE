@@ -4,7 +4,7 @@ description: Understanding the Program Opportunity Analysis Area - Marketo Docs 
 title: Understanding the Program Opportunity Analysis Area
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -59,45 +59,45 @@ Framgångsrelaterade åtgärder tillskriver alla program som bidrar till att ett
 
 Precis som med förvärvet ändras värdet av att bidra till försäljningen av en lead över tiden, och är noll tills något inköp görs av leadet.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Attributionsmått - säljprojektsrelaterade (FT eller MT)*</th> 
-   <th>Beskrivning</th> 
-  </tr> 
-  <tr> 
-   <td>Affärsmöjlighet</td> 
-   <td>Den del av kostnaden för programmet som påverkade affärsmöjligheten. Kostnaden kan delas upp om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Skapade affärsmöjligheter</td> 
-   <td>Den del av krediten som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Vunna affärsmöjligheter</td> 
-   <td>Den del av krediten som programmet fick för att påverka den vunna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline skapad</td> 
-   <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline skapad - fortfarande öppen</td> 
-   <td>Andelen kredit (i penningvärde) som programmet tog emot för att påverka skapandet av den öppna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Förväntade intäkter</td> 
-   <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med affärsmöjlighetsvärdet. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
-  <tr> 
-   <td>Intäkter från investeringar</td> 
-   <td>Detta är andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet.</td> 
-  </tr> 
-  <tr> 
-   <td>Vinst på intäkt</td> 
-   <td>Andelen kredit (i penningvärde) som programmet fick för att påverka vunna möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Attributionsmått - säljprojektsrelaterade (FT eller MT)*</th>
+   <th>Beskrivning</th>
+  </tr>
+  <tr>
+   <td>Affärsmöjlighet</td>
+   <td>Den del av kostnaden för programmet som påverkade affärsmöjligheten. Kostnaden kan delas upp om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Skapade affärsmöjligheter</td>
+   <td>Den del av krediten som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Vunna affärsmöjligheter</td>
+   <td>Den del av krediten som programmet fick för att påverka den vunna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Pipeline skapad</td>
+   <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Pipeline skapad - fortfarande öppen</td>
+   <td>Andelen kredit (i penningvärde) som programmet tog emot för att påverka skapandet av den öppna affärsmöjligheten. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Förväntade intäkter</td>
+   <td>Den del av krediten (i penningvärde) som programmet fick för att påverka skapandet av affärsmöjligheten. Förväntad intäkt är sannolikheten för affärsmöjligheten multiplicerad med affärsmöjlighetsvärdet. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+  <tr>
+   <td>Intäkter från investeringar</td>
+   <td>Detta är andelen kredit (i penningvärde) som programmet fått för att påverka vunna möjligheter och kostnaden för programmet.</td>
+  </tr>
+  <tr>
+   <td>Vinst på intäkt</td>
+   <td>Andelen kredit (i penningvärde) som programmet fick för att påverka vunna möjligheter. Det kan vara en bråkdel om flera leads är inblandade.</td>
+  </tr>
+ </tbody>
 </table>
 
 _&#42;(FT) = First-Touch Attribution, används för mått på lead-förvärv; (MT) = Multi-Touch Attribution, används för mått på lead-lyckade_
@@ -124,66 +124,66 @@ Marketo ger krediter utan att man behöver göra dubbelräkning i alla program. 
 
 De andra tillgängliga åtgärderna återspeglar programmets övergripande resultat.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Attributionsmått - programrelaterat</th> 
-   <th>Beskrivning</th> 
-  </tr> 
-  <tr> 
-   <td>Antal affärsmöjligheter som är associerade med programmet</td> 
-   <td><p>Det totala antalet affärsmöjligheter som har gett ett program någon form av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Genomsnittligt antal lyckade försök per avslutad affärsmöjlighet</td> 
-   <td>Genomsnittligt antal lyckade program innan affärsmöjligheten stängdes. <br></td> 
-  </tr> 
-  <tr> 
-   <td>Genomsnittligt antal lyckade försök per projekt som skapats</td> 
-   <td>Genomsnittligt antal lyckade program innan affärsmöjligheten skapades.</td> 
-  </tr> 
-  <tr> 
-   <td>Nya namn</td> 
-   <td>Det totala antalet nya namn, det vill säga nya leads, som förvärvats av programmet.</td> 
-  </tr> 
-  <tr> 
-   <td>Programkostnad</td> 
-   <td>Total kostnad för programmet.</td> 
-  </tr> 
-  <tr> 
-   <td>Slutfört (totalt)</td> 
-   <td>Det totala antalet programmedlemmar som lyckades.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Attributionsmått - programrelaterat</th>
+   <th>Beskrivning</th>
+  </tr>
+  <tr>
+   <td>Antal affärsmöjligheter som är associerade med programmet</td>
+   <td><p>Det totala antalet affärsmöjligheter som har gett ett program någon form av attribueringskrediter. Möjligheterna kan påverkas av ett eller flera leads och av ett eller flera program.</p></td>
+  </tr>
+  <tr>
+   <td>Genomsnittligt antal lyckade försök per avslutad affärsmöjlighet</td>
+   <td>Genomsnittligt antal lyckade program innan affärsmöjligheten stängdes. <br></td>
+  </tr>
+  <tr>
+   <td>Genomsnittligt antal lyckade försök per projekt som skapats</td>
+   <td>Genomsnittligt antal lyckade program innan affärsmöjligheten skapades.</td>
+  </tr>
+  <tr>
+   <td>Nya namn</td>
+   <td>Det totala antalet nya namn, det vill säga nya leads, som förvärvats av programmet.</td>
+  </tr>
+  <tr>
+   <td>Programkostnad</td>
+   <td>Total kostnad för programmet.</td>
+  </tr>
+  <tr>
+   <td>Slutfört (totalt)</td>
+   <td>Det totala antalet programmedlemmar som lyckades.</td>
+  </tr>
+ </tbody>
 </table>
 
-## Dimensioner för analys av affärsmöjligheter (gula prickar) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Analysdimensioner för programsäljprojekt (gula prickar) {#program-opportunity-analysis-dimensions-yellow-dots}
 
 Måtten (blå punkter) beräknas, och det krävs en viss tanke och förklaring för att kunna använda dem, medan dimensioner (gula punkter) är beskrivande. Här är de tillgängliga dimensionerna.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Kategori</th> 
-   <th>Visningsetikett</th> 
-  </tr> 
-  <tr> 
-   <td>Attribut för affärsmöjlighet</td> 
-   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägarnamn<br>Affärsmöjlighetens stadium<br>Affärsmöjlighetstyp</td> 
-  </tr> 
-  <tr> 
-   <td>Tidsram för affärsmöjlighet</td> 
-   <td>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td> 
-  </tr> 
-  <tr> 
-   <td>Programattribut</td> 
-   <td>Programkanal<br>Programnamn</td> 
-  </tr> 
-  <tr> 
-   <td>Tidsram för programkostnad</td> 
-   <td>Kostnadsår/kvartal/månad</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Kategori</th>
+   <th>Visningsetikett</th>
+  </tr>
+  <tr>
+   <td>Attribut för affärsmöjlighet</td>
+   <td>Affärsmöjligheten har stängts<br>Affärsmöjlighetens namn*<br>Affärsmöjlighetens ägarnamn<br>Affärsmöjlighetens stadium<br>Affärsmöjlighetstyp</td>
+  </tr>
+  <tr>
+   <td>Tidsram för affärsmöjlighet</td>
+   <td>Affärsmöjligheten stängd år/kvartal/månad<br>Skapad affärsmöjlighet år/kvartal/månad</td>
+  </tr>
+  <tr>
+   <td>Programattribut</td>
+   <td>Programkanal<br>Programnamn</td>
+  </tr>
+  <tr>
+   <td>Tidsram för programkostnad</td>
+   <td>Kostnadsår/kvartal/månad</td>
+  </tr>
+ </tbody>
 </table>
 
 *&#42;Alla affärsmöjligheter som gav någon typ av attribueringskrediter till ett program. Möjligheter kan påverkas av ett eller flera leads och av ett eller flera program.*

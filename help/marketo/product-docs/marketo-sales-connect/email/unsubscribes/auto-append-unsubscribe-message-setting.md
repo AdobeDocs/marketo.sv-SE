@@ -3,7 +3,7 @@ description: Lägg till inställningen för att avbryta prenumerationen - Market
 title: Lägg till inställningen för att avbryta prenumerationen
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
