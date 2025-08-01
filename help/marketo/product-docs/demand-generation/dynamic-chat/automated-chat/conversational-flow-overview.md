@@ -82,7 +82,7 @@ Anpassa konversationsutlösaren (kallas även Konversationer SDK) i den nedre de
 
 >[!TIP]
 >
->Se [Konversationer SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in action!
+>Se [Konversationer SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=sv-SE){target="_blank"} in action!
 
 >[!MORELIKETHIS]
 >

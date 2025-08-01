@@ -98,9 +98,9 @@ När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändr
 
 **Fält som uppdateras ofta**: Vissa fält har ofta uppdaterats. Till exempel valutafält som är föremål för valutaändringar. Granska om de behöver synkroniseras eller om fälten ska utformas på ett annat sätt. Om du har andra fält som uppdateras ofta och inte behövs döljer du dem för synkroniseringsanvändaren. Diskutera med era SFDC-administratörsintegreringar som kanske uppdaterar fält.
 
-**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
+**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
 
-**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
+**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
 
 **Granska synkroniseringsfel**: Undantagshantering kan göra synkroniseringen långsammare. Att granska användarmeddelanden och åtgärda fel kan förbättra synkroniseringshälsan.
 
