@@ -3,7 +3,7 @@ description: OP-Scoring-Behavior - Marketo Docs - produktdokumentation
 title: OP-Scoring-Beteende
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 4%

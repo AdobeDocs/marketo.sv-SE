@@ -4,9 +4,9 @@ description: Versionsinformation -juli 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -juli 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Har du skapat flera personaliserade RTP-kampanjer och märkt att vissa av dem ka
 
 **Åtkomst till företagsobjekt via REST API**: REST API ger nu åtkomst till Marketo Company-objektet (alias Account). Det innebär att du kan läsa, uppdatera och ta bort företagsobjekt som du har skapat i Marketo och associera leads med sådana företag med det uppdaterade [!DNL Lead]-API:t.
 
-Lär dig [mer]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) i vår referenshandbok för företags-API:t.
+Lär dig [mer]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) i vår referenshandbok för företags-API:t.
 
 ## E-postleverans {#access-email-deliverability}
 

@@ -3,7 +3,7 @@ description: OP-Scoring-Demographic - Marketo Docs - produktdokumentation
 title: OP-Scoring-Demographic
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 8%

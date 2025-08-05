@@ -4,7 +4,7 @@ description: Information om användaråtkomst - Marketo Docs - produktdokumentat
 title: Information om användaråtkomst
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

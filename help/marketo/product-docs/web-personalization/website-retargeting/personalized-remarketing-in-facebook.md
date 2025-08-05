@@ -4,7 +4,7 @@ description: Personaliserad Remarketing i Facebook - Marketo Docs - produktdokum
 title: Personaliserad marknadsföring på Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >[!PREREQUISITES]
 >
 >* Slutför installationen av [återmarknadsföring med Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Granska [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
 
 ## Skapar en publik i [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
 1. Klicka på **[!UICONTROL Tools]** och välj **[!UICONTROL Audiences]**.
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. Klicka på **[!UICONTROL Create a Custom Audience]**.
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. Välj **[!UICONTROL Website Traffic]**.
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
 1. Välj [!UICONTROL Website traffic] i listan **[!UICONTROL Custom Combination]**.
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. Välj **[!UICONTROL Event]** i listan Inkludera.
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
 1. I listan [!UICONTROL Event] väljer du **[!UICONTROL RTP Remarketing]** och väljer en parameter.
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. I det här exemplet väljer du [!UICONTROL Industry] som ska innehålla **[!UICONTROL Education]**. Ange **[!UICONTROL Education]** och redigera **[!UICONTROL In the Last]** till 180 dagar. Ange målgruppsnamn: **Utbildningsbranschen**. Klicka på **[!UICONTROL Create Audience]**.
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. Du har nu skapat en ny anpassad målgrupp med RTP-data i [!DNL Facebook].
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## RTP-datapunkter i [!DNL Facebook] {#rtp-data-points-in-facebook}
 

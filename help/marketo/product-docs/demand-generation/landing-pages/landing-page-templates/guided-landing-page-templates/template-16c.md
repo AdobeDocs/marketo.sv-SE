@@ -4,7 +4,7 @@ description: Mall 16C - Marketo Docs - produktdokumentation
 title: Mall 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 16C {#template-16c}
 
-Högerklicka för att [hämta mall 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=sv-SE)
+Högerklicka för att [hämta mall 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=sv-SE)
+[Mall 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

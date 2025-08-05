@@ -2,7 +2,7 @@
 description: Versionsinformation - augusti 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible]. 
- 
+* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible].
+
 * **Förbättrad snabbkontrollpanel**: Vi har lagt till ett nytt snabbmätnings- och instrumentpanelsfilter för djupare insikter. Den här instrumentpanelen används av marknadsförare för att förstå hur snabbt leads och affärstillfällen kan komma i fas för steg och hur effektiva olika former av marknadsföring och säljengagemang är.
 
 * **Ny kohort Waterfall Journey-instrumentpanel**: Detta gör att marknadsförarna kan se förloppet för en vald kohort genom en klassisk uppsättning efterfrågansvattenfall, vilket ger en snabb förståelse för konverteringsgrader och underförstådda stegvisa konverteringsorsaker på scen-för-steg-basis.

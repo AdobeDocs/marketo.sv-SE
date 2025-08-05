@@ -4,7 +4,7 @@ description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Det finns flera saker du måste göra för att göra dig redo för evenemanget.
 
 >[!IMPORTANT]
 >
->Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Den 2 oktober 2023 tog Adobe bort Marketo Events-appen från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo kan du inte längre komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Skapa en ny Marketo-roll {#create-a-new-marketo-role}
 
@@ -49,7 +49,7 @@ Det går snabbt att ställa in dina händelsedatum.
 
 ## Lägg till personer i din aktivitet {#add-people-to-your-event}
 
-Nu när du känner till _when_ är det dags att lägga till *who*.
+Nu när du känner till _when_ är det dags att lägga till _who_.
 
 1. Om du redan har en lista över personer klickar du på panelen **[!UICONTROL Database]** i Min Marketo.
 

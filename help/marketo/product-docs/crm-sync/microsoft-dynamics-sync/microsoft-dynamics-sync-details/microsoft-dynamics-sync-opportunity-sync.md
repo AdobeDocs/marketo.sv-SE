@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Produktd
 title: Microsoft Dynamics Sync -Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ Kontakten/kontot kan kopplas till säljprojekt på två sätt:
    * Om kontaktvärdet anges och kontot lämnas tomt skapar Marketo ett `opportunitycontactrole` och anger kontot för affärsmöjligheten till kontaktens konto. Om kontakten inte har något konto lämnas fältet tomt.
    * Om kontovärdet anges och kontakten lämnas tom, kommer Marketo endast att ställa in kontot för affärsmöjligheten på det här kontot.
    * Om båda värdena anges väljs kontot som värde för kundens ID, vilket innebär att beteendet är detsamma som ovan.
-
 
 * Via intressenter: Dynamics använder anslutningar för att koppla samman möjligheter till kontakt via intressenter från skapandesidan för affärsmöjligheter. För detta skapar vi en `opportunitycontactrole`-post för varje ny intressent.

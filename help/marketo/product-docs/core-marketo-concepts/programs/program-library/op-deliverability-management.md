@@ -3,7 +3,7 @@ description: OP-Deliverability Management - Marketo Docs - produktdokumentation
 title: OP-Deliverability Management
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%

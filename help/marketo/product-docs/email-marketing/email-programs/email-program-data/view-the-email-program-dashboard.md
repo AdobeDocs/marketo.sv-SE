@@ -4,7 +4,7 @@ description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdok
 title: Visa kontrollpanelen för e-postprogram
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Om du har lagt till ett A/B-test i ditt e-postprogram och testet körs för när
 
 ## Vy för e-postprogram {#email-program-view}
 
-Om du inte lade till ett A/B-test *eller* om testet är över ska följande visas:
+Om du inte lade till ett A/B-test _eller_ om testet är över ska följande visas:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

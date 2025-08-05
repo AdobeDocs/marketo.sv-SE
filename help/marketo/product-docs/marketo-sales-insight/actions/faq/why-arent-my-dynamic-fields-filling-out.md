@@ -3,9 +3,9 @@ description: Varför fylls inte mina dynamiska fält ut? - Marketo Docs - produk
 title: Varför fylls inte mina dynamiska fält ut?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Det finns tre typer av dynamiska fält i Sales Insight Actions: Basic, Custom oc
 
 [!DNL Salesforce] fält: t.ex. `{{sfdc_account_name}}`
 
-* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till sidan [Inställningar]&#x200B;(https://toutapp.com/login{target="_blank"}) och klicka på **Hantera** bredvid CRM.
+* Se till att den är korrekt ansluten med Sales Insight Actions. Gå till sidan [Inställningar]&#x200B;(<https://toutapp.com/login{target="_blank"}> och klicka på **Hantera** bredvid CRM.
 
 **Felsökning av grundläggande och anpassade fält**
 

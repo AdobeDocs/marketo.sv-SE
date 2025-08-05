@@ -4,7 +4,7 @@ description: Mall 9A - Marketo Docs - produktdokumentation
 title: Mall 9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 9A {#template-9a}
 
-Högerklicka för att [hämta mall 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=sv-SE)
+Högerklicka för att [hämta mall 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=sv-SE)
+[Mall 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)

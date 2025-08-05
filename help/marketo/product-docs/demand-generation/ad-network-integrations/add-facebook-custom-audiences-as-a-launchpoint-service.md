@@ -4,7 +4,7 @@ description: Lägg till [!DNL Facebook] anpassade målgrupper som en [!DNL Launc
 title: Lägg till  [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint] tjänst
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Med den här integreringen kan du skicka målgruppsdata från Marketo statiska o
 
    >[!NOTE]
    >
-   >Du _måste_ använda ett [!DNL Facebook] Business Manager-konto för att integreringen av anpassade målgrupper ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [[!DNL Facebook] hjälpen](https://www.facebook.com/business/help/1710077379203657).
+   >Du *måste* använda ett [!DNL Facebook] Business Manager-konto för att integreringen av anpassade målgrupper ska fungera. Mer information om hur du konfigurerar ett Business Manager-konto finns i [[!DNL Facebook] hjälpen](https://www.facebook.com/business/help/1710077379203657).
 
 1. Om du uppmanas till det klickar du på **[!UICONTROL OK]** för att godkänna Marketo-programinstallationen i [!DNL Facebook].
 

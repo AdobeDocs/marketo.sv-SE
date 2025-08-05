@@ -3,7 +3,7 @@ description: CT-YYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Product
 title: CT-YYY-MM-Content Non-Marketo Landing Page
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

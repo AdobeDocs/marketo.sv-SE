@@ -4,7 +4,7 @@ description: Mall 2C - Marketo Docs - produktdokumentation
 title: Mall 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 2C {#template-2c}
 
-Högerklicka för att [hämta mall 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=sv-SE)
+Högerklicka för att [hämta mall 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=sv-SE)
+[Mall 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

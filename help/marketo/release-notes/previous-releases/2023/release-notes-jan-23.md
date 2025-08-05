@@ -3,7 +3,7 @@ description: Versionsinformation - januari 2023 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 5%
@@ -41,6 +41,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Förbättrat som används av komponenten för information om e-postmallar och information om fragment**: Fliken Nytt som används av användargränssnitt innehåller ytterligare information om de använda resurserna, till exempel när de senast ändrades och av vem. Du kan enkelt utföra analyser med hjälp av sök-, sorterings- och filtreringsfunktionerna. Den nya gränssnittskomponenten kommer att införlivas med resurserna E-postmall och Kodfragment.
@@ -88,7 +89,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td>Levererat</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=sv-SE">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

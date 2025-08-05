@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionsinformation -vinter '19 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ Inkludera upp till fem CC-adresser per mottagare i e-postmeddelanden som skickas
 * **E-posttjänst**: Få bättre levererbarhet och förbättrad svarsspårning, funktioner för schemalagd e-post och massutskick av e-post genom att ansluta till [!DNL Microsoft Outlook] (antingen via Office365 eller på plats via fliken E-postanslutning).
 * **Nya administratörsinställningar**: Två administratörssidor har lagts till för att optimera försäljningsengagemangsinstansen
 
-   * _Teamhantering_ stöder en smidig kontokonfigurationsprocess genom att tillåta administratörer att redigera prenumerationer och team.
-   * _Med Salesforce Admin Settings_ kan team konfigurera sina SFDC-synkroniseringar snabbare och enklare än någonsin.
+   * *Teamhantering* stöder en smidig kontokonfigurationsprocess genom att tillåta administratörer att redigera prenumerationer och team.
+   * *Med Salesforce Admin Settings* kan team konfigurera sina SFDC-synkroniseringar snabbare och enklare än någonsin.
 
 * **OWA-plugin för[!DNL Windows]**: Med ett enda tillägg stöds alla [!DNL Windows Office365]-klienter i Sales Engage, vilket ger möjlighet att använda Live Feed i Outlook. Det nya plugin-programmet finns i Microsoft Store.
 * **Activity Pusher**: Synkronisera Sales Engage med Marketo huvudplattform för att utnyttja marknadsföringsinsikter i realtid.

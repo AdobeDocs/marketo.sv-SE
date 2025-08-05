@@ -4,7 +4,7 @@ description: Mall 4A - Marketo Docs - produktdokumentation
 title: Mall 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 4A {#template-4a}
 
-Högerklicka för att [hämta mall 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=sv-SE)
+Högerklicka för att [hämta mall 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=sv-SE)
+[Mall 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

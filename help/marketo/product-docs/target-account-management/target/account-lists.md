@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Lists] - Marketo Docs - produktdokumentation'
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Förutom kontolistor kan du även skapa dynamiska kontolistor som genereras frå
 
 >[!NOTE]
 >
->De här stegen gäller endast för kontolistor. _Dynamiska_-kontolistor använder namnet på deras associerade CRM-kontovyer.
+>De här stegen gäller endast för kontolistor. *Dynamiska*-kontolistor använder namnet på deras associerade CRM-kontovyer.
 
 1. Välj det konto du vill byta namn på, klicka på listrutan **[!UICONTROL Account List Actions]** och välj **[!UICONTROL Rename Account List]**.
 

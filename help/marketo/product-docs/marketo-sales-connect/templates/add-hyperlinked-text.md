@@ -4,9 +4,9 @@ description: Lägg till hyperlänkad text - Marketo Docs - produktdokumentation
 title: Lägg till hyperlänkad text
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '45'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 2%
 
 1. Klicka på länkknappen i redigeraren.
 
-1. Ange den URL som du vill länka den till (t.ex. &quot;https://www.mywebsite.com&quot;).
+1. Ange den URL som du vill länka den till (t.ex. <https://www.mywebsite.com>).
 
 1. Klicka på **[!UICONTROL OK]**.

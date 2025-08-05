@@ -4,7 +4,7 @@ description: Mall 5C - Marketo Docs - produktdokumentation
 title: Mall 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 5C {#template-5c}
 
-Högerklicka för att [hämta mall 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=sv-SE)
+Högerklicka för att [hämta mall 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=sv-SE)
+[Mall 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)

@@ -3,7 +3,7 @@ description: Lär dig de bästa sätten att implementera en ny Marketo Engage-in
 title: Var ska jag börja?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Kom igång i communityn:
 1. Klicka på **Fortsätt med Adobe ID** och välj din primära prenumeration på inloggningssidan.
 1. Fyll i din community-profil när du loggar in.
 1. När du har skickat in informationen kommer du att hamna på communityhemsidan och vara snäll och gå!
-

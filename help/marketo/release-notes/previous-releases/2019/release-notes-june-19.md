@@ -4,7 +4,7 @@ description: Versionsinformation -juni 19 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juni 19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -68,4 +68,4 @@ Följande funktioner förväntas släppas under det andra kalenderkvartalet och 
 * **Direktintegrering**: Förstå hur direkta konversationer påverkar kundens resa. [!DNL Bizible] hämtar även e-postadresser från konversationer för att antingen skapa ett nytt lead eller ansluta kontaktytan till ett befintligt lead.
 * **Lokalisering**: [!DNL Bizible] finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
-***Webbseminarium om produktreleaser*** Titta på inspelningen av vårt webbinarium om produktreleaser från juni [här](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webbseminarium om produktreleaser**_ Titta på inspelningen av vårt webbinarium om produktreleaser från juni [här](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

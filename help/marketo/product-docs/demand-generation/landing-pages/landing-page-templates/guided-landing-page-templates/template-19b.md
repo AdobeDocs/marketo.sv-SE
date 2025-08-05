@@ -4,7 +4,7 @@ description: Mall 19B - Marketo Docs - produktdokumentation
 title: Mall 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 19B {#template-19b}
 
-Högerklicka för att [hämta mall 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=sv-SE)
+Högerklicka för att [hämta mall 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=sv-SE)
+[Mall 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

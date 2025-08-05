@@ -4,7 +4,7 @@ description: '[!DNL Sales Insight] för icke-ursprungliga [!DNL Salesforce] inte
 title: '[!DNL Sales Insight] för icke-ursprungliga [!DNL Salesforce] integreringar'
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1200'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
 >
 >* Funktionen &quot;MSI Non-Native&quot; (MSI utan inbyggt) aktiverad för din Marketo-instans innan du börjar konfigurera MSI. Om den inte är det och du redan har köpt funktionen kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Om du ännu inte har köpt den här funktionen kontaktar du Adobe Account Team (din kontoansvarige).
 >* Ett Salesforce-konto med [MSI-paket konfigurerat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
+>* Marketo REST API [har konfigurerats](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De exponerade CRUD-API:erna kommer att utgöra grunden för den icke-ursprungliga synkroniseringen.
 >* Läs [det här blogginlägget](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} för att få en förståelse för objektet och relationerna.
 >* Ställ in [!DNL Salesforce]-objekt så att de visar den globalt unika identifieraren som inte är skiftlägeskänslig för 18 tecken i stället för den globalt unika identifieraren för 15 tecken.
 
@@ -53,12 +53,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody>
    </table>
 
-   * API-dokumentation för säljare: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API-dokumentation för säljare: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * API-dokumentation för synkronisering av säljaren: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce]-konton till Marketo.
 
-   Ett Marketo-företag måste uppgraderas för kontot [!DNL Salesforce]. Fälten _externalCompanyId_ och _externalSalesPersonId_ är obligatoriska för företagets upsert.
+   Ett Marketo-företag måste uppgraderas för kontot [!DNL Salesforce]. Fälten *externalCompanyId* och *externalSalesPersonId* är obligatoriska för företagets upsert.
 
    <table>
     <colgroup>
@@ -85,12 +85,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody>
    </table>
 
-   * API-dokumentation för företag: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-dokumentation för företag: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API-dokumentation för synkronisering av företag: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce] leads/kontakter till Marketo.
 
-   Du måste infoga en Marketo-lead för [!DNL Salesforce]-lead/kontakt. Fälten _externalPersonId_, _externalSalesPersonId_ och _externalCompanyId_ krävs för att ladda upp lead.
+   Du måste infoga en Marketo-lead för [!DNL Salesforce]-lead/kontakt. Fälten *externalPersonId*, *externalSalesPersonId* och *externalCompanyId* krävs för att ladda upp lead.
 
    <table>
     <colgroup>
@@ -122,12 +122,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody>
    </table>
 
-   * API-dokumentation för leads: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API-dokumentation för leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
    * API-dokumentation för synkronisering av leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synkronisera [!DNL Salesforce] affärsmöjligheter med Marketo.
 
-   Du måste bekräfta en Marketo-möjlighet för affärsmöjligheten [!DNL Salesforce]. Fälten _externalOpportunityId_, _externalCompanyId_ och _externalSalesPersonId_ krävs för att bekräfta affärsmöjligheten.
+   Du måste bekräfta en Marketo-möjlighet för affärsmöjligheten [!DNL Salesforce]. Fälten *externalOpportunityId*, *externalCompanyId* och *externalSalesPersonId* krävs för att bekräfta affärsmöjligheten.
 
    <table>
     <colgroup>
@@ -159,12 +159,12 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody>
    </table>
 
-   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera [!DNL Salesforce] kontaktroller till Marketo.
 
-   [!DNL Salesforce] Kontaktroller för ett [!DNL Salesforce]-säljprojekt kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger fälten _externalOpportunityId_, _role_ och _leadId_.
+   [!DNL Salesforce] Kontaktroller för ett [!DNL Salesforce]-säljprojekt kan sedan synkroniseras via Marketo-säljprojektsrollen. Posten för säljprojektsrollen anger fälten *externalOpportunityId*, *role* och *leadId*.
 
    <table>
     <colgroup>
@@ -196,14 +196,14 @@ Om ditt Adobe Marketo Engage-konto är anslutet till [!DNL Salesforce] via en an
     </tbody>
    </table>
 
-   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-dokumentation för säljprojekt: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-dokumentation för synkroniseringsmöjligheter: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synkronisera de senast intressanta tids-/MSI-bedömningsfälten till SFDC.
 
    När dina [!DNL Salesforce]-objekt har synkroniserats korrekt till Marketo kan du dra nytta av MSI-funktionerna. Fälten Senaste intressanta MSI-stund/poäng visas i REST API för leads. Dessa fält beräknas av MSI och är skrivskyddade.
 
-   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till [!DNL Salesforce] med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av _externalPersonId_ som filterType och skicka [!DNL Salesforce] lead-GUID som filterValue.
+   Fälten Senaste intressanta stund/poäng i en Marketo Lead måste synkroniseras regelbundet till [!DNL Salesforce] med REST API Lead-slutpunkten. Fråga den här slutpunkten efter en Marketo Lead med hjälp av *externalPersonId* som filterType och skicka [!DNL Salesforce] lead-GUID som filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|

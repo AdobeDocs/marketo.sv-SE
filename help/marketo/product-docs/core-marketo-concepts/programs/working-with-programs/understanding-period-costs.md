@@ -4,7 +4,7 @@ description: Förstå periodkostnader - Marketo Docs - produktdokumentation
 title: Förstå periodkostnader
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Tänk dig en händelse, som ett webbinarium, som inträffar i mars. Nya människ
 
    ![](assets/graph1.png)
 
-   ...kontakter som lagts till under månaderna före och efter räknas *endast* till mars.
+   ...kontakter som lagts till under månaderna före och efter räknas _endast_ till mars.
 
    ![](assets/graph2.png)
 

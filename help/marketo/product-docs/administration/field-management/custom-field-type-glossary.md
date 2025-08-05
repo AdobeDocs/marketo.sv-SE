@@ -4,9 +4,9 @@ description: Anpassad fälttypsordlista - Marketo Docs - produktdokumentation
 title: Ordlista för anpassad fälttyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelnamn:** Alternativ e-postadress - Behåll en alternativ e-postadress för dina personer (det går inte att skicka e-post till det här fältet, t.ex. standardfältet för e-postadress, det är en speciell adress)
 
-**Exempelvärden:** name@company.com
+**Exempelvärden:** <name@company.com>
 
 **Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom
 
@@ -133,6 +133,6 @@ När du skapar ett anpassat fält i Marketo har du en lista med typer att välja
 
 **Exempelnamn:** Blogg - skapa ett fält för lagring av personbloggens URL
 
-**Exempelvärde:** www.myblog.com
+**Exempelvärde:** &lt;www.myblog.com>
 
 **Operatorer**: är, inte, börjar med, inte med, innehåller, inte innehåller, är tom, är inte tom

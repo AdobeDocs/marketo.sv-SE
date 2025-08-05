@@ -3,7 +3,7 @@ description: Använda SMS-alternativ i en smart kampanj - Marketo Docs - produkt
 title: Använda SMS-alternativ i en smart kampanj
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Utlösaren **Click Link in SMS Message** initierar ett flöde när en person kli
 
 Filtret **Prenumererar på Vibes-listan** hittar alla som har *någonsin* prenumererat på Vibes. Detta inkluderar både personer som inte längre är prenumererade och borttagna, även om borttagna personer utelämnas från flödet. Det här filtret passar bäst för rapportering.
 
-Filtret **Medlem i listan** hittar däremot _alla_ som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
+Filtret **Medlem i listan** hittar däremot *alla* som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
 
 >[!NOTE]
 >

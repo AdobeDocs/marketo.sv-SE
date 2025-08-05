@@ -3,9 +3,9 @@ description: Översikt över e-postspårning - Marketo Docs - produktdokumentati
 title: E-postspårning - översikt
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Spåra svar görs genom att titta på ett meddelande-ID som finns i alla e-postm
 
 Om [!DNL Sales Connect] inte kan spåra den potentiella kundens svar på ditt e-postmeddelande kan den inte stoppa en kampanj baserat på svarsidentifiering eller logga svaret på Salesforce. Vad menar vi med e-postadresser som kan svara?
 
-Det innebär att om du skickar e-post till flynn@flynnsarcade.com och han/hon svarar med kevinf@flynnsarcade.com kan vi spåra svaret. Om du dessutom skickar e-post till flynn@flynnsarcade.com och CC alan@encom.com, och Alan skriver tillbaka dig, kommer den också att upptäcka svaret och avsluta kampanjen.
+Det innebär att om du skickar e-post till <flynn@flynnsarcade.com> och han svarar med <kevinf@flynnsarcade.com> kan vi spåra svaret. Om du dessutom skickar e-post till <flynn@flynnsarcade.com> och CC <alan@encom.com> och Alan skriver tillbaka dig, upptäcks även svaret och kampanjen avslutas.
 
 ## Spåra e-postbilagor {#how-to-track-your-email-attachments}
 

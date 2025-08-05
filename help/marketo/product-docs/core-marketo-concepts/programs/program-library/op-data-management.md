@@ -3,7 +3,7 @@ description: OP-Data Management - Marketo Docs - produktdokumentation
 title: OP-Data Management
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%

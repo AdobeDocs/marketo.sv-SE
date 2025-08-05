@@ -4,7 +4,7 @@ description: Webbsegment - Marketo Docs - produktdokumentation
 title: Webbsegment
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -177,7 +177,7 @@ Markera rutan bredvid **[!UICONTROL Profile Segmentation]** under avsnittet **[!
 * **Är från dessa företag (specifika namn)**
 
    * Välj företag att rikta in på i listrutan Välj företag att lägga till.
-   * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det rekommenderas _alltid_ att använda namngivna kontolistor i stället för att ange namnen manuellt för att få bättre matchningar (se nedan).
+   * Du kan ange det exakta organisationsnamn som du vill ha som mål. *Det rekommenderas *alltid* att använda namngivna kontolistor i stället för att ange namnen manuellt för att få bättre matchningar (se nedan).
 
 **Lista över namngivna konton**
 
@@ -187,7 +187,7 @@ Välj i en [lista över namngivna konton](/help/marketo/product-docs/web-persona
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Uteslut ISP**
 
@@ -286,7 +286,7 @@ Lägg till det händelsevärde som du vill ha som mål. Till exempel från datak
 
 **API för användarkontext**
 
-Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

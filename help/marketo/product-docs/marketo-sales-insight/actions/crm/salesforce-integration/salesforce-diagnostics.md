@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Marketo Docs - produktdokumentation
 title: Salesforce Diagnostics
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '1339'
 ht-degree: 0%
 
 ---
@@ -181,7 +181,7 @@ En del av vår [!DNL Salesforce]-integrering innehåller en [!DNL Salesforce]-di
 **Fel:** TXN_SECURITY_NO_ACCESS
 **Kategori:** Åtkomst/validering
 **Meddelande:** Den begärda åtgärden tillåts inte på grund av en säkerhetsprincip i organisationen. Kontakta administratören.
-**Vad händer:** Någon typ av säkerhetsbegränsning har konfigurerats - se https://developer.salesforce.com/forums/?id=&quot;post-ID&quot;
+**Vad händer:** Någon typ av säkerhetsbegränsning har konfigurerats - se <https://developer.salesforce.com/forums/?id="record> ID&quot;
 **Felsökningssteg:** Tala med din [!DNL Salesforce] -administratör och se vilken begränsning som kan gälla.
 
 **Fel:** UNABLE_TO_LOCK_ROW

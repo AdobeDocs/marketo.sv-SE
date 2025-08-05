@@ -6,9 +6,9 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo _sociala appar_ tillåter dina leads att dela dina landningssidor med si
 
 Du kan ange vilka typer av sidinformation som ska användas i de [!DNL Facebook] avancerade inlägg som genereras av delningar från din landningssida.
 
-1. Välj **[!UICONTROL Facebook Message]** i redigeraren för din **[!DNL YouTube*]*-video eller sociala knapp.
+1. Välj **[!UICONTROL Facebook Message]** i redigeraren för din _[!DNL YouTube_]_-video eller sociala knapp.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

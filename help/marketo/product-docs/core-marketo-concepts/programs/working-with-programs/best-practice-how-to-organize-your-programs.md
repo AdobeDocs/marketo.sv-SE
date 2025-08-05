@@ -4,7 +4,7 @@ description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktd
 title: Bästa praxis -Så här organiserar du dina program
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 0%
@@ -30,9 +30,9 @@ I marknadsföringsaktiviteter bör du använda mappar för att ordna dina progra
 >* Aktiva marknadsföringsprogram
 >   * E-post
 >   * Händelser
->      * Live Events/Roadshows
->      * Varumärken
->      * Webbinarier
+>     * Live Events/Roadshows
+>     * Varumärken
+>     * Webbinarier
 >   * Nyhetsbrev
 >   * Nätur
 >   * Webbinnehåll
@@ -48,8 +48,8 @@ I marknadsföringsaktiviteter bör du använda mappar för att ordna dina progra
 >   * Begärda försäljningskampanjer
 >* **Arkiv**
 >   * Arkivera händelser
->      * Arkiv 2012
->      * Arkiv 2013
+>     * Arkiv 2012
+>     * Arkiv 2013
 
 Var och en av dessa nämns i exemplet är en mapp. Lägg märke till att de alla är unikt namngivna. Du kan ha duplicerade (enklare) namn på mappar INUTI-program, men inte i roten av trädet.
 

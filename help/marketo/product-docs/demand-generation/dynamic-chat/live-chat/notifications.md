@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -45,6 +45,5 @@ Om agenter fortfarande inte får meddelanden efter att de har tillåtit dem i si
 [Meddelanden: Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Meddelanden: Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
-
 
 MEDDELADE MSI-ÅTGÄRDER NÅGONSIN???

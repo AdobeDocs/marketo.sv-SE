@@ -4,7 +4,7 @@ title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Du kan också använda Vibes-filter i smarta listor. Filtret **[!UICONTROL Subsc
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Filtret **Medlem i listan** hittar däremot _alla_ som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
+Filtret **Medlem i listan** hittar däremot *alla* som prenumererar på Vibes och är lämpligast att använda i smarta kampanjer eller listor.
 
 ![](assets/image001.png)
 

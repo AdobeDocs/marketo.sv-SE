@@ -6,7 +6,7 @@ description: Lär dig hur du lägger till anpassad CSS i ditt e-postinnehåll di
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -132,7 +132,6 @@ Nedan finns exempel på giltig CSS.
 
 +++
 
-
 +++ Exempel på ogiltig CSS
 
 Om ogiltig CSS anges visas ett felmeddelande som anger att CSS inte kan sparas. Nedan finns exempel på ogiltig CSS.
@@ -200,7 +199,6 @@ Din anpassade CSS läggs till i slutet av avsnittet `<head>` som en del av en `<
 ```
 
 +++
-
 
 Den anpassade CSS-koden tolkas eller valideras inte av e-postfönstret för Designer **[!UICONTROL Settings]**. Den är helt oberoende och kan bara ändras med alternativet **[!UICONTROL Add Custom CSS]**.
 
