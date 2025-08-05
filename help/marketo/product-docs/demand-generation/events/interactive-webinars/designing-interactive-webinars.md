@@ -3,9 +3,9 @@ description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentati
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
    >[!TIP]
    >
-   >Ditt webbinarium kommer att vara inställt på standardspråket i din Marketo Engage-instans, men du kan ändra språk per webbinarium med hjälp av listrutan ovanför förhandsvisningen.
+   >Ditt webbinarium kommer att vara inställt på standardspråket i din Marketo Engage-instans, men du kan ändra språk per webbinarium med hjälp av listrutan ovanför förhandsgranskningen.
 
 1. Du kan välja olika layouter att förhandsgranska. Klicka på **Använd mall** om du vill fortsätta.
 
@@ -62,7 +62,7 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Mer information om rum och mallar finns i avsnittet&quot;Mallar och layouter för mötesrum&quot; i [den här hjälpartikeln för Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Mer information om rum och mallar finns i avsnittet&quot;Mallar och layouter för mötesrum&quot; i [den här Adobe-hjälpartikeln](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. När du är klar med designen av ditt webbinarium klickar du på **Avsluta rum**.
 
@@ -75,3 +75,7 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 **Layout**: Avser olika sätt att ordna de flera komponenter som krävs för att säkerställa att webbinariet fungerar korrekt i en viss mall. En och samma mall kan ha flera layouter att välja mellan. De viktigaste komponenterna i webbinariet är desamma för alla mallar. Det arrangemang du valt passar bäst för din eller presentatörens stil/behov.
 
 **Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar samt Frågor och svar.
+
+>[!MORELIKETHIS]
+>
+>[Lär dig hur du lägger till presentatörer och/eller värdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

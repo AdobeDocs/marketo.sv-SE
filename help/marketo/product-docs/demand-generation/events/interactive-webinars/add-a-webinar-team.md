@@ -3,7 +3,7 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Ett webbinarium i Interactive Webinars består av alla roller som bidrar till att det webbinarium som finns i Adobe Connect kan levereras utan problem. Detta omfattar både presentatörer och andra.
 
->[!NOTE]
->
->Presentatörer och medvärdar i Marketo Engage är exakt mappade till presentatörens och värdenas roller under webbseminariet i Adobe Connect. Deltagare kan ändra layouter och rutor, vilket inte presentatörer kan.
-
-Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har värdbehörigheter under leverans i Adobe Connect. Interna värdar har tillgång till både Interactive Webinar Event Program i Marketo och värdbehörigheter under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
-
 >[!PREREQUISITES]
 >
 >* [Skapa ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
 >* [Designa ditt interaktiva webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+
+Presentatören är en extern roll som deltar i framtagningen av webbinariet, medan andra kan vara presentatörer och hantera administrativa aspekter av webbseminariedistributionen. Medvärdarna kan vara både interna och externa. Externa värdar har inte tillgång till Interactive Webinar Event Programs i Marketo, men har värdbehörigheter under leverans i Adobe Connect. Interna värdar har tillgång till både Interactive Webinar Event Program i Marketo och värdbehörigheter under leveransen. Detta säkerställer att de interna värdarna kan ta del av Interactive Webinars Event Program när den som skapade det interaktiva webbinariet inte längre är med i Interactive Webinars användaruppsättning, eller inte ens en Marketo-användare.
+
+>[!NOTE]
+>
+>Presentatörer och medvärdar i Marketo Engage är exakt mappade till presentatörens och värdenas roller under webbseminariet i Adobe Connect. Deltagare kan ändra layouter och rutor, vilket inte presentatörer kan.
 
 ## Lägg till en medvärd {#add-a-co-host}
 

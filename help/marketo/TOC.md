@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 0%
@@ -729,8 +729,8 @@ ht-degree: 0%
             + [Best Practices for Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [Hantering av användare och licenser](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Skapa ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [Lägg till ett webbinarium](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Designa interaktiva webbinarier](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Lägg till ett webbinarium](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Testa ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [Leverera ett interaktivt webbinarium](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Mallar](product-docs/demand-generation/events/interactive-webinars/templates.md)

@@ -3,9 +3,9 @@ description: Skapa ett interaktivt webbinarium - Marketo Docs - produktdokumenta
 title: Skapa ett interaktivt webbinarium
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -65,11 +65,3 @@ Skapa ett interaktivt webbinarium i några enkla steg.
 >Vi rekommenderar att två på varandra följande händelser fördelas 30 minuter (om inte licensen har stöd för samtidiga webbinarier) som en buffert om föregående webbinarium sträcker sig över den schemalagda tiden.
 
 Nu är det dags att [designa ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
-
->[!IMPORTANT]
->
->Vi rekommenderar att du designar ditt webbinarium _innan_ lägger till presentatörer eller andra värdar.
-
->[!MORELIKETHIS]
->
->[Lär dig hur du lägger till presentatörer och/eller värdar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
