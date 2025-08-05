@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 13B {#template-13b}
 
-Högerklicka för att [hämta mall 13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+Högerklicka för att [hämta mall 13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=sv-SE)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+[Mall 13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=sv-SE)

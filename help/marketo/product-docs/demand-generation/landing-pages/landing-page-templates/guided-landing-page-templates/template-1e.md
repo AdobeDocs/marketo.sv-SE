@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 1E {#template-1e}
 
-Högerklicka för att [hämta mall 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+Högerklicka för att [hämta mall 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=sv-SE)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+[Mall 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=sv-SE)

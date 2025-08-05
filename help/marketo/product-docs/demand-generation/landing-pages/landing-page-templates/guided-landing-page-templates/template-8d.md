@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 8D {#template-8d}
 
-Högerklicka för att [hämta mall 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+Högerklicka för att [hämta mall 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=sv-SE)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+[Template 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=sv-SE)
