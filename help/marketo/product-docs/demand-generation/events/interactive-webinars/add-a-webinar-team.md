@@ -3,9 +3,9 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Lägg till ett webbinarium {#add-a-webinar-team}
 
 Ett webbinarium i Interactive Webinars består av alla roller som bidrar till att det webbinarium som finns i Adobe Connect kan levereras utan problem. Detta omfattar både presentatörer och andra.
-
->[!IMPORTANT]
->
->Vi rekommenderar att du [utformar ditt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _innan_ lägger till presentatörer eller värdar.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> Ikonen ![Kopiera värd-URL](assets/icon-copy-join-url.png) kopierar koordinatens anslutnings-URL, och ikonen ![Skicka en inbjudan via e-post](assets/icon-send-invitation-email.png) skickar ett e-postmeddelande till koordinatgruppen med en inbjudan.
+
 ## Lägg till en presentatör {#add-a-presenter}
 
 1. Klicka på **Lägg till presentatörer** på sidan Översikt för det interaktiva webbinariet.
@@ -70,9 +70,9 @@ Presentatören är en extern roll som deltar i framtagningen av webbinariet, med
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->När du har lagt till ett webbinarium kan du klicka på kopieringsikonen bredvid varje användare för att kopiera (och sedan dela) deras kopplade URL:er.
+> Ikonen ![Kopiera presentatörens URL](assets/icon-copy-join-url.png) kopierar presentatörens anslutande URL, och ikonen ![Skicka en inbjudan via e-post](assets/icon-send-invitation-email.png) skickar ett e-postmeddelande till presentatören med en inbjudan.
 
 >[!MORELIKETHIS]
 >
