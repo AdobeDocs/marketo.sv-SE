@@ -36,7 +36,7 @@ Vi har omarbetat logiken för live-chattroutning i Dynamic Chat för att säkers
 
 * **Routningsregelspecifikt beteende**
 
-_**Kontoroutning**_
+_&#x200B;**Kontoroutning**&#x200B;_
 
 Om en besökares e-postdomän mappar till ett känt konto prioriteras alltid den mappade agenten.
 
@@ -54,7 +54,7 @@ Om agenten inte är tillgänglig:
 
 Routningsregeln på kortnivå (t.ex. Team, Custom) beaktas endast om Kontoroutning inte är giltig (ingen matchande domän eller agent).
 
-_**Anpassad routning/teamroutning**_
+_&#x200B;**Anpassad routning/teamroutning**&#x200B;_
 
 Dessa regler kan returnera flera berättigade agenter.
 
@@ -68,7 +68,7 @@ Om ingen av agenterna engagerar:
 -or-
 * Visar standardfelmeddelandet.
 
-_**Round Robin Routing**_
+_&#x200B;**Round Robin Routing**&#x200B;_
 
 När det används som en primär routningsregel:
 
@@ -78,7 +78,7 @@ När det används som en primär routningsregel:
 
 Om Round Robin används som reserv aktiveras den bara om inga agenter har lösts från den primära regeln.
 
-_**Upplevelseflöde för besökare**_
+_&#x200B;**Upplevelseflöde för besökare**&#x200B;_
 
 Systemet kontrollerar om kontodirigering är relevant.
 
@@ -102,7 +102,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 ##### Användningsfall {#use-cases}
 
-_**Kontoroutning**_
+_&#x200B;**Kontoroutning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _**Kontoroutning**_
   </tr>
 </tbody></table>
 
-_**Anpassad routning**_
+_&#x200B;**Anpassad routning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _**Anpassad routning**_
   </tr>
 </tbody></table>
 
-_**Teamroutning**_
+_&#x200B;**Teamroutning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _**Teamroutning**_
   </tr>
 </tbody></table>
 
-_**Round Robin Routing**_
+_&#x200B;**Round Robin Routing**&#x200B;_
 
 <table><thead>
   <tr>

@@ -68,4 +68,4 @@ Följande funktioner förväntas släppas under det andra kalenderkvartalet och 
 * **Direktintegrering**: Förstå hur direkta konversationer påverkar kundens resa. [!DNL Bizible] hämtar även e-postadresser från konversationer för att antingen skapa ett nytt lead eller ansluta kontaktytan till ett befintligt lead.
 * **Lokalisering**: [!DNL Bizible] finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
-_**Webbseminarium om produktreleaser**_ Titta på inspelningen av vårt webbinarium om produktreleaser från juni [här](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Webbseminarium om produktreleaser**&#x200B;_ Titta på inspelningen av vårt webbinarium om produktreleaser från juni [här](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

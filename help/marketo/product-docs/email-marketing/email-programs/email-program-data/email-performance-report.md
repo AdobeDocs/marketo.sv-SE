@@ -76,11 +76,11 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 
 * **Regel 1**: Varje e-postaktivitetspost är inställd på en, och bara en, av följande: _Levererad_, _Hård studsad_, _Mjuk studsad_ eller _Väntande_.
 
-* **Regel 2**: Om e-postposten visar _[!UICONTROL Opened]_räknas den som_ Levererad _.
+* **Regel 2**: Om e-postposten visar _[!UICONTROL Opened]_&#x200B;räknas den som_ Levererad _.
 
-* **Regel 3**: Om e-postposten visar _[!UICONTROL Clicked Email]_eller_[!UICONTROL Unsubscribed]_ räknas den som _Levererad_ och _Öppnad_.
+* **Regel 3**: Om e-postposten visar _[!UICONTROL Clicked Email]_&#x200B;eller&#x200B;_[!UICONTROL Unsubscribed]_ räknas den som _Levererad_ och _Öppnad_.
 
-* **Regel 4**: Om e-postmeddelandet är _[!UICONTROL Opened]_ignoreras studenterna. Om e-postmeddelandet inte har öppnats har_ Hård studsning _högre prioritet än_ Mjuk studsad _och_ Levererad _.
+* **Regel 4**: Om e-postmeddelandet är _[!UICONTROL Opened]_&#x200B;ignoreras studenterna. Om e-postmeddelandet inte har öppnats har_ Hård studsning _högre prioritet än_ Mjuk studsad _och_ Levererad _.
 
 * **Regel 5**: Om ingen e-postaktivitet tas emot tre dagar efter att den skickades, betraktas den som _Avbruten_.
 
