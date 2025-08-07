@@ -4,20 +4,20 @@ description: Skapa ett formulär - Marketo Docs - produktdokumentation
 title: Skapa ett formulär
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Skapa ett formulär {#create-a-form}
 
-Skapa och använd ett formulär på en landningssida för att generera nya namn. Det är väldigt enkelt - så här kommer du igång.
+Skapa och använd ett formulär på en landningssida för att generera nya namn eller hämta önskade data.
 
 >[!NOTE]
 >
->Läs vad Marketo gör för att [skydda dina formulär](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Läs vad Marketo Engage gör för att [skydda dina formulär](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
@@ -41,9 +41,7 @@ Skapa och använd ett formulär på en landningssida för att generera nya namn.
 
 >[!TIP]
 >
->De flesta kunder skapar ett nytt formulär för varje landningssida, men du kan också skapa ett formulär som ska användas med flera landningssidor. Det är helt och hållet upp till dig!
-
-Söt! Nu när formuläret har skapats kan vi klä på det.
+>De flesta användare skapar ett nytt formulär för varje landningssida, men du kan också skapa ett formulär som ska användas med flera landningssidor. Det är helt och hållet upp till dig!
 
 >[!MORELIKETHIS]
 >
