@@ -3,9 +3,9 @@ description: Hantering av användare och licenser - Marketo Docs - produktdokume
 title: Hantering av användare och licenser
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
   </tr>
   <tr>
    <td width="20%"><b>Förbrukade händelser</b></td>
-   <td width="80%">Det totala antalet slutförda händelser.</td>
+   <td width="80%">Alla slutförda och schemalagda händelser. <a href="#things-to-note">läs mer</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Lagringskapacitet</b></td>
@@ -98,13 +98,13 @@ Interactive Webinars erbjuder specifika licenser för att skapa event som drivs 
   </tbody>
 </table>
 
-**Saker att notera**
+### Saker att notera {#things-to-note}
+
+* Varje gång en händelse skapas räknas den som&quot;förbrukad&quot; från respektive licens (om det inte är en delad rumslicens). &quot;Shared Event License&quot; ges om det finns både &quot;Shared Event License&quot; och &quot;Shared Room License&quot; med samma kapacitet. Om händelsen inte har levererats och händelseprogrammet tas bort före den schemalagda tiden fylls antalet händelser på igen. Om händelsen inte levereras och Event Program inte tas bort före den schemalagda tidpunkten fylls händelsen inte på igen.
 
 * Typen&quot;Additional Storage License&quot; ger bara lagringsutrymme, därför kommer värdet i alla fält _förutom_ som lagringskapacitet att listas som &quot;-&quot;.
 
 * Typen &quot;Shared Room License&quot; har obegränsat antal händelser och &quot;Additional Storage License&quot; (Tilläggslicens för lagring) erbjuder bara lagring, så fältet Total Events för dessa licenser listas helt enkelt som &quot;-&quot;.
-
-* Varje gång en händelse skapas räknas den som&quot;förbrukad&quot; från respektive licens (om det inte är en delad rumslicens). &quot;Shared Event License&quot; ges företräde om det finns både &quot;Shared Event License&quot; och &quot;Shared Room License&quot; med samma kapacitet. Om händelsen inte har levererats och om händelseprogrammet tas bort före den schemalagda tiden, fylls antalet händelser på genom att en händelse dras ifrån Använda händelser.
 
 * När en licens har tömts finns dess panel kvar på skärmen Interaktiva webbinarier i administratörsavsnittet där&quot;Totalt antal händelser&quot; och&quot;Använda händelser&quot; har samma värde. Först när licensen upphör att gälla tas den bort från skärmen.
 

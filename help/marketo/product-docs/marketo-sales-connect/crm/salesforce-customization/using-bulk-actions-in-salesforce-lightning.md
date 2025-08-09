@@ -4,7 +4,7 @@ description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - pr
 title: Använda gruppåtgärder i Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 8364c0ebe19bce0d837a96283bea31d593ef4171
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -18,8 +18,8 @@ Lär dig hur du utför massåtgärder, som att lägga till leads till en kampanj
 >[!PREREQUISITES]
 >
 >Uppdatera till den senaste versionen av paketet [!DNL Sales Connect] och installera gruppåtgärdsknapparna i din lead-/kontaktvy.
->* [Instruktioner på engelska] (assets/SF+Guide+for+Lightning-EN)
->* [Instruktioner på japanska] (assets/SF+Guide+for+Lightning-JA)
+>* [Instruktioner på engelska](assets/sf-guide-for-lightning-en.pdf)
+>* [Instruktioner på japanska](assets/sf-guide-for-lightning-ja.pdf)
 
 >[!NOTE]
 >
