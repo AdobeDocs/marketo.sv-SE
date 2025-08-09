@@ -18,9 +18,9 @@ Lär dig hur du utför massåtgärder, som att lägga till leads till en kampanj
 >[!PREREQUISITES]
 >
 >Uppdatera till den senaste versionen av paketet [!DNL Sales Connect] och installera gruppåtgärdsknapparna i din lead-/kontaktvy.
->* [Instruktioner på engelska](assets/SF+Guide+for+Lightning-EN)
->* [Instruktioner på japanska, koreanska, kinesiska](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [Instruktioner på spanska, franska, tyska, italienska, svenska](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [Instruktioner på engelska] (assets/SF+Guide+for+Lightning-EN)
+>* [Instruktioner på japanska, koreanska, kinesiska] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Instruktioner på spanska, franska, tyska, italienska, svenska] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
