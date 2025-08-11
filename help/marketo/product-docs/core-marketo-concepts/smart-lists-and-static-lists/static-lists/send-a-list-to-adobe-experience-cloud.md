@@ -4,9 +4,9 @@ description: Skicka en lista till Adobe Experience Cloud - Marketo Docs - produk
 title: Skicka en lista till Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '783'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->En HIPAA-färdig distribution av en Marketo Engage-instans kan inte använda den här funktionen.
+>En HIPAA-klar distribution av en Marketo Engage-instans kan inte använda den här funktionen.
 
 >[!PREREQUISITES]
 >
->[Konfigurera organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[Konfigurera Adobe organisationsmappning](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Målprogram som stöds {#supported-destination-applications}
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 * Adobe Analytics (_endast_ om du äger en Adobe Audience Manager-licens)
 * Adobe Audience Manager
 * Adobe Experience Manager
-* Adobe Real-time Customer Data Platform
+* Adobe Real-Time Customer Data Platform
 * Adobe Target
 
 ## Skicka en statisk lista {#how-to-send-a-static-list}
@@ -52,7 +52,7 @@ En statisk lista är bara det, statiskt. Listan i Adobe Experience Cloud ändras
 
    >[!NOTE]
    >
-   >Det kan ta upp till 6-8 timmar för publiken att bli fullt utnyttjad i Adobe.
+   >Det kan ta upp till 6-8 timmar för målgruppsmedlemskap att fullt ut fylla i Adobe.
 
 ## Skicka en synkroniserad lista {#how-to-send-a-synced-list}
 
@@ -70,7 +70,7 @@ Synkronisering av en lista innebär att när du uppdaterar en lista i Marketo sy
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Klicka på **OK**.
+1. Klicka på **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -92,13 +92,15 @@ Du kan när som helst stoppa synkroniseringen av listan.
 
 ## Saker att notera {#things-to-note}
 
-**Delning till Adobe Analytics**
+### Dela till Adobe Analytics {#sharing-to-adobe-analytics}
 
-* För kunder som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Läs [Adobe Audience Manager dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE){target="_blank"} om du vill ha mer information om hur du konfigurerar det här.
+* För användare som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till dina Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Mer information om hur du konfigurerar det här finns i [Adobe Audience Manager-dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}.
 
-* Om en lista är tom, eller om det inte finns några personer med ECID-värden, skickas listnamnet inte för referens utanför Marketo Engage.
+* När en lista har överförts från Marketo till Adobe Audience Manager kan den även nås av Adobe Target. Konfigurationen [måste aktiveras i Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
-**Trait Usage för Adobe Audience Manager-kunder**
+* Om en lista är tom, eller inte har några personer med ECID-värden, skickas inte listnamnet för referens utanför Marketo.
+
+### Trait Usage för Adobe Audience Manager-kunder {#trait-usage-aam}
 
 När du initierar en listexport i Marketo kommer du att märka att följande ändringar återspeglas i din Adobe Audience Manager-instans:
 
@@ -110,11 +112,11 @@ När du initierar en listexport i Marketo kommer du att märka att följande än
 
 **Varför skiljer sig liststorleken i Marketo från den i Adobe?**
 
-Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munchkin-cookies med motsvarande Adobe ECID-cookie. Marketo kan bara dela medlemskapsdata för personer som Marketo har synkroniserat ett ECID för. För att få bästa möjliga resultat rekommenderar vi att du läser in Marketo munchkin.js-spårningsskript parallellt med spårningskoden för Adobe visitor.js på alla sidor som du är intresserad av att spåra i marknadsföringssyfte.
+Under huven fungerar målgruppsintegreringen genom att synkronisera Marketo Munchkin-cookies med motsvarande Adobe ECID-cookie. Marketo kan bara dela medlemskapsdata för personer som Marketo har synkroniserat ett ECID för. För att få bästa möjliga resultat rekommenderar vi att du läser in spårningsskript för Marketo munchkin.js parallellt med spårningskoden för Adobe visitor.js på alla sidor som du är intresserad av att spåra i marknadsföringssyfte.
 
 **Hur fungerar cookie-synkroniseringen?**
 
-När cookie-synkronisering är aktiverat för din Marketo-prenumeration försöker Marketo munchkin.js hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med ECID:n för Adobe.
+När synkroniseringen av cookies är aktiverad för din Marketo-prenumeration försöker Marketo munchkin.js hämta och lagra Adobe ECID:n för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med Adobe ECID:n.
 
 Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en personprofil, som identifieras med ett vanligt textmeddelande. Exakt hur detta fungerar [beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
