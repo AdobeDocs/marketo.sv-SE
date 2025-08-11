@@ -4,28 +4,32 @@ description: Lägg till ett fält i ett formulär - Marketo Docs - produktdokume
 title: Lägga till ett fält i ett formulär
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Lägga till ett fält i ett formulär {#add-a-field-to-a-form}
 
-När du har [skapat formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) och [markerat ett tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kanske du vill lägga till fler fält som användare kan fylla i. Så här gör du.
+När du har [skapat formuläret](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} och [markerat ett tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} kanske du vill lägga till fler fält som användare kan fylla i. Så här gör du.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
+1. Markera formuläret och klicka på **[!UICONTROL Edit Draft]**
 
-   ![](assets/editform-1.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
-1. Klicka på **+**-tecknet.
+   >[!NOTE]
+   >
+   >Om det önskade formuläret är i läget _Godkänd_ måste du först klicka på **Skapa utkast**.
 
-   ![](assets/image2014-9-15-17-18-17.png)
+1. Klicka på **+**-tecknet i formuläret.
+
+   ![](assets/add-a-field-to-a-form-3.png)
 
    >[!NOTE]
    >
@@ -33,18 +37,20 @@ När du har [skapat formuläret](/help/marketo/product-docs/demand-generation/fo
 
 1. Sök efter och markera det fält som du vill lägga till i formuläret.
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. Lägg till så många fält du behöver och klicka på **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. Klicka nu på **[!UICONTROL Approve and Close]**.
+1. Klicka på **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >Var noga med att godkänna alla utkast till landningssidor som har skapats på grund av formulärändringar.
 
-Inte dåligt alls. Fortsätt med det goda arbetet! Vad tycker vi om att [göra ett formulärfält obligatoriskt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) härnäst?
+>[!MORELIKETHIS]
+>
+>[Gör ett formulärfält obligatoriskt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
