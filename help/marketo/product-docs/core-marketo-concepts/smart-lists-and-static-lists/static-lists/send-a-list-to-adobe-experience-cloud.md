@@ -4,9 +4,9 @@ description: Skicka en lista till Adobe Experience Cloud - Marketo Docs - produk
 title: Skicka en lista till Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
+source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '782'
 ht-degree: 1%
 
 ---
@@ -94,9 +94,9 @@ Du kan när som helst stoppa synkroniseringen av listan.
 
 ### Dela till Adobe Analytics {#sharing-to-adobe-analytics}
 
-* För användare som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till dina Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Mer information om hur du konfigurerar det här finns i [Adobe Audience Manager-dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE){target="_blank"}.
+* För användare som äger både Adobe Audience Manager och Adobe Analytics kommer denna integrering att göra det möjligt att dela målgrupper från Marketo till dina Adobe Analytics Report Suites, men det finns några ytterligare konfigurationsåtgärder som måste vidtas i Adobe Audience Manager för att detta ska vara möjligt. Mer information om hur du konfigurerar det här finns i [Adobe Audience Manager-dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}.
 
-* När en lista har överförts från Marketo till Adobe Audience Manager kan den även nås av Adobe Target. Konfigurationen [måste aktiveras i Adobe Target](https://experienceleague.adobe.com/sv/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* När en lista har överförts från Marketo till Adobe Audience Manager kan den även nås av Adobe Target. Konfigurationen [måste aktiveras i Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Om en lista är tom, eller inte har några personer med ECID-värden, skickas inte listnamnet för referens utanför Marketo.
 
