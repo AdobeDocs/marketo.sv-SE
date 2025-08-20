@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Designer för e-post är den senaste innovationen i Marketo Engage som är avsed
 
 ## Åtkomst {#how-to-access}
 
-+++Lär dig hur du kommer åt e-postmeddelandet om Designer
++++Lär dig hur du får tillgång till e-postprogrammet Designer
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -58,7 +58,7 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 * [Redigera bilder med Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredigerare med Adobe Express.
 
-* [Använd AI-assistenten](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
+* [Använd AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Använd Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 
 * [Lås innehåll i e-postmallar](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Lär dig hur du låser innehåll i e-postmallar, vilket förhindrar oavsiktliga redigeringar och borttagningar.
 

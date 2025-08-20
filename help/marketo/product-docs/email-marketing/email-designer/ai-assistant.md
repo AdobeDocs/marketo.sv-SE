@@ -1,27 +1,27 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Använda AI-assistenten
+title: Använd AI-assistenten
 description: Utnyttja Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
 
-# Använda AI-assistenten {#use-the-ai-assistant}
+# Använd AI-assistenten {#use-ai-assistant}
 
-AI-assistenten i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generativa AI-teknologi och ett bibliotek med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringssteg, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
+AI Assistant i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generativa AI-teknologi och ett bibliotek med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringssteg, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
 
 >[!PREREQUISITES]
 >
 >AI-assistenten är inte aktiverad som standard. Du måste först godkänna villkoren för Core Gen-AI och de kompletterande villkoren för att använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
-Det finns tre primära användningsområden för AI-assistenten:
+Det finns tre primära användningsområden för AI Assistant:
 
 * [Skapa en ämnesrad](#create-a-subject-line) för ditt e-postmeddelande
 * [Skapa innehåll för ett visst avsnitt](#create-content-for-a-specific-section) i e-postmeddelandet
@@ -37,7 +37,7 @@ När e-postmeddelandet har skapats finns ämnesraden i kolumnen _Detaljer_ till 
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Aktivera alternativet **Använd referensinnehåll** för AI-assistenten för att anpassa nytt innehåll baserat på det valda innehållet.
+Aktivera alternativet **Använd referensinnehåll** för AI Assistant för att anpassa nytt innehåll baserat på det valda innehållet.
 
 Ange uppmaningen att anpassa ämnesraden. Ange relevanta textinställningar och överför alla varumärkesresurser som du vill använda som referens för att skapa en lämplig ämnesrad.
 
@@ -93,7 +93,7 @@ När e-postmeddelandet har skapats kan du ändra vissa avsnitt, bilder eller tex
 
 ![](assets/use-the-ai-assistant-7.png)
 
-I det här exemplet använder vi en vårdmall. Om den befintliga bilden av hälso- och sjukvårdsexperten inte uppfyller dina behov kan du instruera AI-assistenten att skapa en egen bild av en sjukvårdsexpert. Markera bara bildinnehållet och klicka sedan på AI-assistenten.
+I det här exemplet använder vi en vårdmall. Om den befintliga bilden av hälso- och sjukvårdsexperten inte uppfyller dina behov kan du instruera AI-assistenten att skapa en egen bild av en sjukvårdsexpert. Välj bara bildinnehåll och klicka sedan på AI-assistenten.
 
 ![](assets/use-the-ai-assistant-8.png)
 
