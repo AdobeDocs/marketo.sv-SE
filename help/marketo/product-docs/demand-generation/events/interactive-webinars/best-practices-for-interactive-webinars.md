@@ -3,7 +3,7 @@ description: Best Practices for Interactive Webinars - Marketo Docs - Product Do
 title: Best Practices for Interactive Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 När du kör virtuella event, oavsett om de riktar sig till en liten eller stor publik, är det viktigt att allt går som planerat. Med olika steg som krävs för att planera och genomföra ett evenemang, från förberedelser, befordran, leverans och uppföljning, kan det ibland kännas som mycket.
 
-Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp vid planering, design och produktion av framgångsrika och engagerande webbinarier. Dessa tips hjälper dig att få ut det mesta av interaktiva webbinarier med Adobe Connect.
+Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp vid planering, design och produktion av framgångsrika och engagerande webbinarier. Dessa tips hjälper dig att få ut mesta möjliga av interaktiva webbinarier med Adobe Connect.
 
 ## Förberedelse före händelse {#pre-event-preparation}
 
@@ -85,7 +85,7 @@ Vi har sammanställt en lista över de bästa metoderna som kan vara till hjälp
 
 * **Q&amp;A Pod**: Namnet på deltagaren som skickade frågan och namnet på värden/presentatör som svarade kan båda vara dolda. Detta kan du göra genom att avmarkera Sekretessalternativen under avsnittet Q&amp;A Pod i rumsinställningarna.
 
-* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/se/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder chattpanelen.
+* **Panelen Chatt**: Panelen Chatt är ett chattområde som inte ingår i sessionsinspelningar. Om du inte vill att chattar ska visas i inspelningar använder du panelen Chatt i stället för Chattruta. [Klicka här](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om du vill läsa mer om hur du använder chattpanelen.
 
 * **Privat chatt**: Inaktivera privat chatt för att förhindra att deltagare kan pinga en annan deltagare. Detta kan du göra genom att avmarkera&quot;Tillåt deltagare att chatta privat&quot; under avsnittet&quot;Chatt&quot; i rumsinställningarna.
 
