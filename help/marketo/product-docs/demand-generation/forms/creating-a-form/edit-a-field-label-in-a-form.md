@@ -4,9 +4,9 @@ description: Redigera en fältetikett i ett formulär - Marketo Docs - Produktdo
 title: Redigera en fältetikett i ett formulär
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Du kan ändra etiketten för ett formulär till vad som helst - du kan till och 
 
    >[!NOTE]
    >
-   >Om formuläret inte har godkänts än klickar du på **Redigera utkast**.
+   >Om formuläret inte har godkänts klickar du på **Redigera utkast**.
 
 1. Markera fältet och redigera sedan **[!UICONTROL Label]**. Fälten i Formulärinställningar motsvarar de etiketter du har angett.
 

@@ -4,39 +4,45 @@ description: Gör ett formulärfält obligatoriskt - Marketo Docs - produktdokum
 title: Gör ett formulärfält obligatoriskt
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
 
 # Gör ett formulärfält obligatoriskt {#make-a-form-field-required}
 
-När du [lägger till fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
+När du [lägger till fält i ett formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} kanske du vill göra några av dem obligatoriska för personen som fyller i dem. Så här gör du.
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-4.png)
+   ![](assets/make-a-form-field-required-1.png)
 
-1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
+1. Markera formuläret och klicka på **[!UICONTROL Create draft]**.
 
-   ![](assets/editform-2.png)
+   ![](assets/make-a-form-field-required-2.png)
+
+   >[!NOTE]
+   >
+   >Om formuläret inte har godkänts klickar du på **Redigera utkast**.
 
 1. Markera fältet som du vill göra obligatoriskt och markera **[!UICONTROL Is Required]**.
 
-   ![](assets/image2014-9-15-17-3a30-3a44.png)
+   ![](assets/make-a-form-field-required-3.png)
 
 1. Snyggt gjort! Klicka på **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a30-3a58.png)
+   ![](assets/make-a-form-field-required-4.png)
 
 1. Klicka på **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a31-3a11.png)
+   ![](assets/make-a-form-field-required-5.png)
 
 >[!NOTE]
 >
->Glöm inte att [godkänna alla landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som det här formuläret lever på så att ändringarna kan publiceras.
+>Glöm inte att [godkänna alla landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} som det här formuläret lever på för att ändringarna ska publiceras.
 
-Behöver du [ändra ordning på de fält som du har lagt till i formuläret](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+>[!MORELIKETHIS]
+>
+>[Ändra ordning på de fält som du har lagt till i formuläret](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
