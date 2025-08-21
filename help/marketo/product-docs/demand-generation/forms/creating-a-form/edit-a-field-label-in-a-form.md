@@ -4,9 +4,9 @@ description: Redigera en fältetikett i ett formulär - Marketo Docs - Produktdo
 title: Redigera en fältetikett i ett formulär
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '111'
 ht-degree: 1%
 
 ---
@@ -17,30 +17,32 @@ Du kan ändra etiketten för ett formulär till vad som helst - du kan till och 
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Markera formuläret och klicka på **[!UICONTROL Edit Form]**.
+1. Markera formuläret och klicka på **[!UICONTROL Create draft]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >Om formuläret inte har godkänts än klickar du på **Redigera utkast**.
 
 1. Markera fältet och redigera sedan **[!UICONTROL Label]**. Fälten i Formulärinställningar motsvarar de etiketter du har angett.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >Om du vill bli snygg kan du klicka på ![pennan](assets/image2014-9-15-17-3a27-3a7.png). Då öppnas en textredigerare med bilder, länkar med mera.
+   >Klicka på ikonen ![penna](assets/icon-pencil.png) för att öppna RTF-redigeraren.
 
 1. Klicka på **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Klicka på **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->Glöm inte att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) som har skapats av formulärändringarna.
-
-Där har du den! Litet för barn blir du en mästare på att skapa formulär.
+>Glöm inte att [godkänna landningssidans utkast](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} som skapas av formulärändringarna.
