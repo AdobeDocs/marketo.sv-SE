@@ -4,9 +4,9 @@ description: Förhandsgranska ett formulär - Marketo Docs - produktdokumentatio
 title: Förhandsgranska ett formulär
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Innan du publicerar kan du se formuläret i den här snabba och enkla formulärf
 
 1. Gå till **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Hitta och markera formuläret.
+1. Markera formuläret och klicka på **[!UICONTROL Preview]**.
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. Klicka på **[!UICONTROL Form Actions]** under **[!UICONTROL Preview]**.
+   >[!NOTE]
+   >
+   >Om formuläret inte har godkänts klickar du på **Förhandsgranska utkast**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. Formulärredigeraren öppnas i _förhandsgranskningsläget_.
 
-1. Formulärredigeraren öppnas i **[!UICONTROL preview]**-läge.
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Klicka på **[!UICONTROL Edit Draft]** om du vill gå tillbaka till _redigeringsläget_.
 
-1. Klicka på **[!UICONTROL Edit Draft]** för att gå tillbaka till läget **[!UICONTROL edit]**.
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Växla enkelt tillbaka genom att klicka på **[!UICONTROL Preview Draft]**.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-Var inte det enkelt? Nu vet du hur du förhandsgranskar formuläret när du gör ändringar.
+   ![](assets/preview-a-form-5.png)
