@@ -34,7 +34,7 @@ Använd delen &quot;På den här sidan&quot; till höger för att gå direkt til
 
 _Om användaren måste migreras_ - E-postadressen måste uppdateras i Marketo Engage för att uppfylla Adobe säkerhetsprincip och verifieras igen. Marketo-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Användaren finns inte i katalogen {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för 
 
 _Om användaren måste migreras_ - Användaren måste läggas till i Active Directory med rätt behörigheter av en systemadministratör. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Inaktiv användare {#inactive-user}
 
@@ -54,7 +54,7 @@ _Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för 
 
 _Om användaren måste migreras_ - Användarens status och korrekta behörigheter måste återställas av en systemadministratör. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Ogiltig domän {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Om användaren måste migreras_ (och domänanvändningen är aktiverad i migrer
 
 _Om användaren måste migreras_ (och domänanvändningen är aktiverad i en annan organisation) måste en systemadministratör för organisationen där domänen har tagits i anspråk lägga till användarens e-postadress i undantagslistan. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Type2E-fel {#type2e-failure}
 
@@ -102,7 +102,7 @@ _Om användaren måste migreras_
 
 1. Om konsolen inte är tillgänglig kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) för att köra migreringen igen.
 
-_Om användaren **inte**behöver migreras_
+_Om användaren **inte**&#x200B;behöver migreras_
 
 * Marketo Engage Admin bör hoppa över användaren i migreringskonsolen.
 * När alla användare har migrerats eller hoppats över klickar du på **[!UICONTROL Migration Complete]** för att slutföra.
