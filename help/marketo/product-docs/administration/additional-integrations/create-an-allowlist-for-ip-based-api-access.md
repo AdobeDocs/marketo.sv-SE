@@ -4,9 +4,9 @@ description: Skapa ett Tillåtelselista för IP-baserad API-åtkomst - Marketo D
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '158'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,12 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >
 >**Administratörsbehörigheter krävs**
 
+>[!NOTE]
+>
+>Den här funktionen fungerar oberoende av Marketo Engage IP-baserade inloggningsbegränsningar (ersätts av Admin Console IP Access List*) och fortsätter att fungera efter [Adobe IMS-migreringen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>> 
+>>&#42;Den allmänna IP-åtkomstlistan är planerad att vara tillgänglig under det fjärde kvartalet 2025.
+
 1. Gå till området **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
@@ -27,7 +33,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Klicka **[!UICONTROL Edit],** eller klicka **[!UICONTROL Edit IP Restrictions]** i det övre vänstra hörnet i området **[!UICONTROL IP Restrictions]**.
+1. Klicka **[!UICONTROL IP Restrictions]**, **[!UICONTROL Edit]eller klicka** i det övre vänstra hörnet i området **[!UICONTROL Edit IP Restrictions]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
