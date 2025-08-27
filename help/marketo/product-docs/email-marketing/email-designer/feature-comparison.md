@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -259,11 +259,11 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Snabb skriptning</td>
     <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
+    <td>Behövs inte</td>
   </tr>
   <tr>
-    <td>Varumärkessats</td>
-    <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
+    <td>Handlebar skript</td>
+    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Inte tillgängligt</td>
     <td>Planerat för tredje kvartalet 25</td>
   </tr>
@@ -272,6 +272,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Möjlighet att införa arbetsflöden för godkännande av e-post inom Marketo Engage.</td>
     <td>Inte tillgängligt</td>
     <td>Planerat för kvartal 4 25</td>
+  </tr>
+  <tr>
+    <td>Varumärkessats</td>
+    <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
+    <td>Inte tillgängligt</td>
+    <td>Planerat för första kvartalet 2016</td>
   </tr>
   <tr>
     <td>Experimentation (A/B-testning)</td>
