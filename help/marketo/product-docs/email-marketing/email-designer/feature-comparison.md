@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -177,6 +177,17 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrera med Litmus</a> för att se hur dina e-postmeddelanden kommer att visas i olika e-postklienter.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
+    <tr>
+    <td>Integrering med GenStudio</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">integrera med GenStudio</a>.</td>
+    <td>Inte tillgängligt</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
+    <td>Integrering av skräppostresurser</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">identifiera potential för att e-postmeddelanden markeras som skräppost</a> före leverans.</td>
+    <td>Inte tillgängligt</td>
+    <td>Tillgänglig</td>
   </tr>
   <tr>
     <td>Personalization Editor</td>
@@ -227,12 +238,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Kommer snart</td>
   </tr>
   <tr>
-    <td>Integrering med Gen Studio</td>
-    <td>Kan integreras med Gen Studio.</td>
-    <td>Inte tillgängligt</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>
     <td>Möjlighet att flytta, ta bort och importera e-postprogram tillsammans med e-postresurser.</td>
     <td>Tillgänglig</td>
@@ -254,23 +259,11 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Snabb skriptning</td>
     <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Behövs inte</td>
-  </tr>
-   <tr>
-    <td>Handlebar skript</td>
-    <td>Möjlighet att använda Handlebar-skript i e-postmeddelanden.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för tredje kvartalet 25</td>
+    <td>Kommer snart</td>
   </tr>
   <tr>
     <td>Varumärkessats</td>
     <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för tredje kvartalet 25</td>
-  </tr>
-  <tr>
-    <td>Integrering av skräppostresurser</td>
-    <td>Möjlighet att upptäcka om e-postmeddelanden kan markeras som skräppost före leverans.</td>
     <td>Inte tillgängligt</td>
     <td>Planerat för tredje kvartalet 25</td>
   </tr>

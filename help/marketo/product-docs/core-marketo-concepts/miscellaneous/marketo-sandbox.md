@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - produktdokumentation
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 
 >[!CAUTION]
 >
->Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics Sync. Om du behöver uppdatera din Dynamics CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta Adobe Account Team (din kontoansvarige) om du vill ha mer information.
+>Vi stöder för närvarande inte uppdatering av sandlådan för Marketo Dynamics _eller_ Salesforce Sync. Om du behöver uppdatera din CRM-sandlåda krävs en ny Marketo-sandlåda. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 ## Instanskopia {#instance-copy}
 
