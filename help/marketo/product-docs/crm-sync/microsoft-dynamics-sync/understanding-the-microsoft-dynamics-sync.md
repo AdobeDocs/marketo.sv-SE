@@ -4,9 +4,9 @@ description: Förstå  [!DNL Microsoft Dynamics] synkronisering - Marketo Docs -
 title: Förstå Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Förstå synkroniseringen av [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
 Marketo och [!DNL Microsoft Dynamics] går ihop. Vi synkroniserar era sälj- och marknadsföringsdata.
-
->[!NOTE]
->
->Marketo stöder endast SSL-certifikat som för närvarande är kompatibla med Java 7.
 
 >[!CAUTION]
 >

@@ -2,9 +2,9 @@
 description: Engagement Map Tab - Marketo Docs - Product Documentation
 title: Fliken Åtagandekarta
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Engagement Map representeras av en serie utlösar-, filter- och flödeskort. Om du klickar på varje kort visas ytterligare information.
 
-Utlösaröversikt: Kortet visar antalet utlösare i kampanjen. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med följande information:
+Utlösaröversikt: Kortet visar antalet utlösare i kampanjen. När du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med följande information:
 
 * Kampanj som utlösaren tillhör
 * Lista med utlösarnamn
@@ -39,24 +39,24 @@ Filter: Om du klickar på det här kortet visas en utfällbar panel med följand
 Flödessteg: Om ett flödessteg innehåller alternativ visas namnet på flödessteget på det här kortet. Om du klickar på den visas en utfällbar panel med följande information:
 
 * Kampanj som flödessteget tillhör
-* Lista med urvalsvillkor som är kopplade till flödessteget
+* Lista med urvalsvillkor som är associerade med flödessteget
 * Redigera flödessteg
 
-Flödessteg: Om ett flödessteg _inte_ innehåller några alternativ visas de attribut som är kopplade till flödessteget på det här kortet. Om du klickar på den visas en utfällbar panel med följande information:
+Flödessteg: Om ett flödessteg _inte_ innehåller några alternativ visar det här kortet de attribut som är kopplade till flödessteget. Om du klickar på den visas en utfällbar panel med följande information:
 
 * Kampanj som flödessteget tillhör
-* Lista med attribut som är kopplade till flödessteget
+* Lista med attribut som är associerade med flödessteget
 * Redigera flödessteg
 
   ![](assets/engagement-map-tab-5.png)
 
 ## Flödessteg för att köra och begära kampanjer {#flow-step-for-execute-and-request-campaigns}
 
-* Om steget Kör eller Begär kampanjflöde inte innehåller några alternativ visas kampanjens namn på kortet. Om du klickar på kortet visas en utfällbar panel med följande information:
+* Om steget Kör eller Begär kampanjflöde inte innehåller några alternativ visas kampanjens namn på kortet. När du klickar på kortet visas en utfällbar panel med följande information:
 
    * Kampanj som flödessteget tillhör
    * Redigera flödessteg
-   * Lista med attribut som är kopplade till flödessteget
+   * Lista med attribut som är associerade med flödessteget
    * Knappen Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj för begäran/körning
 
 >[!NOTE]
@@ -66,14 +66,14 @@ Flödessteg: Om ett flödessteg _inte_ innehåller några alternativ visas de at
 * Om steget Kör eller Begär kampanjflöde innehåller alternativ visas en utfällbar panel med följande information när du klickar på kortet:
 
    * Kampanj som flödessteget tillhör
-   * Lista med urvalsvillkor som är kopplade till flödessteget
+   * Lista med urvalsvillkor som är associerade med flödessteget
    * Redigera flödessteg
 
-* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på _choice_-kortet utökas kampanjen som är kopplad till det specifika valet samt en utfällbar panel med följande information visas:
+* Om en körnings- eller begärandekampanj innehåller alternativ expanderas klickningen på flödeskortet för att visa alla alternativ på enskilda kort. Om du klickar på _choice_-kortet expanderas kampanjen som är associerad med det specifika valet och en utfällbar panel med följande information visas:
 
    * Campaign som valet tillhör
    * Redigera alternativ
-   * Lista med urvalsvillkor som är kopplade till flödessteget
+   * Lista med urvalsvillkor som är associerade med flödessteget
    * Visa lista, som öppnar en lista med kampanjer som använder den specifika kampanj/körningskampanj
 
   ![](assets/engagement-map-tab-10.png)
@@ -86,10 +86,10 @@ Nedan visas ett exempel på en Smart Campaign,&quot;Campaign A&quot;, som inneh�
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Om du klickar på det körda kampanjflödeskortet expanderas det och visar information om&quot;Campaign B&quot;.
+1. Om du klickar på det körda kampanjflödeskortet expanderas det så att information om&quot;Campaign B&quot; visas.
 1. &quot;Campaign B&quot; innehåller ett filter som delar upp publiken i två grupper: kvalificerade och inte kvalificerade.
-1. Kvalificerad publik går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
-1. Alla målgrupper (kvalificerade och inte kvalificerade) går tillbaka till&quot;Campaign A&quot; och går vidare till nästa Flow Step.
+1. En kvalificerad publik går igenom de flödessteg som är kopplade till&quot;Campaign B&quot;.
+1. Alla målgrupper (kvalificerade och inte kvalificerade) går tillbaka till&quot;Campaign A&quot; och fortsätter till nästa Flow Step.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -136,7 +136,7 @@ Nedan visas ett exempel på en varning på ett Choice-kort som visas i steg-kort
 
 **Fel i filterkort kan innehålla:**
 
-* Ett fel i Smart List som gör att kvalificerade målgrupper inte visas
+* Ett fel i Smart List som gör att en kvalificerad målgrupp inte visas
 
 * Ett fel i filterlogiken
 

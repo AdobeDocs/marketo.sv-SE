@@ -3,7 +3,7 @@ description: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM - Marketo
 title: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 1%
@@ -18,9 +18,8 @@ ht-degree: 1%
 
 Marketo Engage använder en uppsättning fält för att samla in viss typ av marknadsföringsrelaterad information. Om du vill ha dessa data i [!DNL Veeva] CRM följer du instruktionerna nedan.
 
-`1.` Skapa ett anpassat fält i [!DNL Veeva] CRM för kontaktobjekten: Poäng
-
-`2.` Du kan skapa ytterligare fält om du vill (se tabellen nedan).
+1. Skapa ett anpassat fält i [!DNL Veeva] CRM för kontaktobjekten: Poäng
+1. Du kan skapa ytterligare fält om du vill (se tabellen nedan).
 
 Alla dessa anpassade fält är valfria och behöver inte synkronisera Marketo Engage och [!DNL Veeva] CRM.
 

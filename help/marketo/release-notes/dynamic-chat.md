@@ -3,9 +3,9 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '3408'
+source-wordcount: '3414'
 ht-degree: 1%
 
 ---
@@ -104,7 +104,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -141,7 +141,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
 <tbody>
   <tr>
     <td>Idealiskt</td>
-    <td>Anpassad logik löser en lista över agenter. Den första agenten är tillgänglig och accepterar chatt.</td>
+    <td>Anpassad logik löser en lista med agenter. Den första agenten är tillgänglig och accepterar chatt.</td>
     <td>Chatten ansluter till den första agenten.</td>
   </tr>
   <tr>
@@ -152,11 +152,11 @@ _&#x200B;**Anpassad routning**&#x200B;_
   <tr>
     <td>Ingen återställningsagent</td>
     <td>Två agenter har lösts. Ingen accepterar chatt, återgång har angetts till möteskalendern.</td>
-    <td>Första testade agentens kalender visas eller standardåtergångsmeddelandet visas.</td>
+    <td>En agentkalender som provas först visas eller så visas standardåtergångsmeddelandet.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>
@@ -193,13 +193,13 @@ _&#x200B;**Round Robin Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Idealiskt</td>
-    <td>Round Robin-poolen har flera agenter. Den andra agenten accepterar chatt efter första steget.</td>
+    <td>Round Robin-poolen har flera agenter. Den andra agenten godkänner chatt efter första steget.</td>
     <td>Chatten ansluter till den andra agenten.</td>
   </tr>
   <tr>
     <td>Reservfall (Round Robin)</td>
     <td>Inga agenter är tillgängliga i Round Robin-poolen. Möteskalendern är aktiverad.</td>
-    <td>Kalendern visas för den första agenten i listan (om den är konfigurerad), eller så visas ett felmeddelande.</td>
+    <td>Kalendern visas för den första agenten i listan (om den är konfigurerad), eller så visas reservmeddelandet.</td>
   </tr>
   <tr>
     <td>Ingen återställningsagent</td>
@@ -344,7 +344,7 @@ Så när en besökare med cookie abc kommer till en sida och anger ett e-post-ID
     <td>Känd person</td>
     <td>xyz</td>
     <td>Annat än befintlig person</td>
-    <td>det här scenariot är inte möjligt som om det är en ny cookie från   standard betraktas som ny anonym profil</td>
+    <td>det här scenariot är inte möjligt som om det är en ny cookie från   standard som betraktas som en ny anonym profil</td>
   </tr>
 </tbody></table>
 

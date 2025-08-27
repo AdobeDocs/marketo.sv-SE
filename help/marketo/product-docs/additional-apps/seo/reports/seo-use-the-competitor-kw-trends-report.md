@@ -4,10 +4,10 @@ description: SEO - Använd rapporten Competitor KW Trends Report - Marketo Docs 
 title: SEO - Använd KW-trendrapport för konkurrent
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -49,10 +49,6 @@ I det här diagrammet kan du se hur många procent av nyckelorden som har rankat
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
 ## Exporterar data {#exporting-data}
-
->[!TIP]
->
->Du kan exportera den här rapporten till skrivbordet.
 
 1. Klicka på **[!UICONTROL Export CSV]** eller **[!UICONTROL Export PDF]**.
 

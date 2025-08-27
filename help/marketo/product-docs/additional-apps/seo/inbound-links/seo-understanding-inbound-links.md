@@ -4,16 +4,16 @@ description: SEO - Förstå inkommande länkar - Marketo Docs - produktdokumenta
 title: SEO - Förstå inkommande länkar
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
 # SEO - Förstå [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-[!UICONTROL Inbound links] anger för sökmotorer att din webbplats är värd att referera till. Det är bra!
+[!UICONTROL Inbound links] anger för sökmotorer att din webbplats är värd att referera till.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 | [!UICONTROL Links from my site] | Anger om din webbplats länkar till den URL:en. |
 | [!UICONTROL PageRank] | Identifierar att URL-adresser rangordnas i sökningar (1 - 10) |
 
-Söt! Nu när du förstår inkommande länkar kan vi föreslå fler möjligheter till inkommande länkar för din webbplats.
+Nu när du förstår inkommande länkar kan vi föreslå fler möjligheter till inkommande länkar för din webbplats.
 
 >[!MORELIKETHIS]
 >

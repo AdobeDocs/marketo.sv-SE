@@ -3,9 +3,9 @@ description: Synkronisera en målgrupp från Adobe Experience Cloud - Marketo Do
 title: Synkronisera en publik från Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Konfigurera organisationsmappning för Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[Konfigurera Adobe organisationsmappning](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Synkronisera en publik {#how-to-sync-an-audience}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **Hur fungerar cookie-synkroniseringen?**
 
-När cookie-synkronisering är aktiverat för din Marketo-prenumeration försöker Marketo munchkin.js hämta och lagra ECID:n för Adobe för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med ECID:n för Adobe.
+När cookie-synkronisering är aktiverat för din Marketo-prenumeration försöker Marketo munchkin.js att hämta och lagra Adobe ECID:n för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med Adobe ECID:n.
 
 Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett vanligt e-postmeddelande. Exakt hur detta fungerar [ beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
@@ -60,4 +60,4 @@ En person kan inte heller synkronisera över om vi inte kan koppla ett ECID-cook
 
 **Är detta en engångssynkronisering?**
 
-Du behöver bara initiera synkroniseringen en gång. Därefter synkroniseras posterna automatiskt. Den första synkroniseringen kan ta upp till 24 timmar. Om du fortsätter kommer nya poster att synkroniseras inom 2-3 timmar.
+Du behöver bara initiera synkroniseringen en gång. Därefter synkroniseras posterna automatiskt. Den första synkroniseringen kan ta upp till 24 timmar. Nya poster synkroniseras om 2-3 timmar.

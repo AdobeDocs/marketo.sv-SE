@@ -4,9 +4,9 @@ description: Anpassa en presentation - Marketo Docs - produktdokumentation
 title: Anpassa en presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 >[!AVAILABILITY]
 >
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Ställ in kalenderpresentationen så att den återspeglar de mål och aktivitete
 
 ## Välja vyer {#choosing-the-views}
 
-Presentations bläddrar igenom olika [filterdefinitioner](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} som du väljer. Dra in så många vyer du vill och anpassa frekvensen.
+Presentationer bläddrar igenom olika [filterdefinitioner](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} som du väljer. Dra in så många vyer du vill och anpassa frekvensen.
 
 1. I det högra trädet drar du i de olika vyer som du vill rotera genom i presentationen.
 
@@ -36,7 +36,7 @@ Presentations bläddrar igenom olika [filterdefinitioner](/help/marketo/product-
 
 ## Lägg till ett mål {#add-a-goal}
 
-Presentations är den grym när de visar upp era teammål. Det är bara att dra över olika [anpassade mål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} eller [smarta listmål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Du kan använda upp till 10.
+Presentationer är de mest fantastiska när de visar upp dina teammål. Det är bara att dra över olika [anpassade mål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} eller [smarta listmål](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Du kan använda upp till 10.
 
 1. Dra från det högra trädet in olika mål som du vill ska visas i presentationen.
 

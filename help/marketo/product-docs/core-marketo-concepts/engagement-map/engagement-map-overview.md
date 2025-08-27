@@ -2,9 +2,9 @@
 description: Översikt över Engagement Map - Marketo Docs - produktdokumentation
 title: Översikt över Engagement Map
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Navigera till en befintlig kampanj och klicka på knappen **Åtagandekarta** .
 
 ![](assets/engagement-map-overview-2.png)
 
-När du är på Engagement Map visas två flikar: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} och [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Det finns två flikar i engagemangskartan: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} och [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -33,9 +33,9 @@ När du är på Engagement Map visas två flikar: [Engagement Map](/help/marketo
 
 **Utlösare**: I kampanjer som innehåller utlösare har kartan ett kort för utlösaröversikt. Om du klickar på den visas ett kort för varje utlösare samt en utfällbar panel med ytterligare information.
 
-**Filter**: I kampanjer som innehåller filter kommer kartan att innehålla ett filteröversiktskort. Om du klickar på den visas en utfällbar panel med ytterligare information om varje filter.
+**Filter**: I kampanjer som innehåller filter innehåller kartan ett kort för filteröversikt. Om du klickar på den visas en utfällbar panel med ytterligare information om varje filter.
 
-**Flödessteg**: Varje kampanj kommer att innehålla ett kort för varje flödessteg. Om du klickar på dem visas en utfällbar panel med ytterligare information.
+**Flödessteg**: Varje kampanj innehåller ett kort för varje flödessteg. Om du klickar på dem visas en utfällbar panel med ytterligare information.
 
 **Alternativ**: Om ett flödessteg innehåller ett eller flera alternativ visas ett kort för varje val när du klickar på flödeskortet, samt en utfällbar panel med ytterligare information.
 
@@ -57,11 +57,11 @@ Den övre navigeringen innehåller följande funktioner:
 
 * Knappen Aktivera/inaktivera för utlösarkampanjer
 
-* Redigera smart lista - du kommer att navigeras till gränssnittet Smart lista på en ny flik där du kan lägga till eller redigera filter och/eller utlösare
+* Redigera smart lista - Du kommer att navigeras till gränssnittet Smart lista på en ny flik där du kan lägga till eller redigera filter och/eller utlösare
 
 * Redigera flöde - du kommer att navigeras till Flödesgränssnittet på en ny flik där du kan lägga till eller redigera dina flödessteg
 
-* Export - Detta hämtar en bild av kampanjvisualiseringen. Den nedladdade versionen återspeglar alla grenar som du har expanderat
+* Export - Detta hämtar en bild av kampanjvisualiseringen. Den nedladdade versionen visar alla grenar som du har expanderat
 
 * Visa kampanjmedlemmar - En ny flik med information om kampanjmedlemmar öppnas.
 

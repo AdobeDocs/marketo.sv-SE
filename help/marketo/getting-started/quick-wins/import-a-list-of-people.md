@@ -4,9 +4,9 @@ description: Importera en lista med människor - Marketo Docs - produktdokumenta
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[Konfigurera och lägg till en person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-I den här självstudiekursen får du lära dig att importera personer från en kalkylbladsfil till Marketo.
+I den här självstudiekursen får du lära dig hur du importerar personer från en kalkylbladsfil till Marketo.
 
 ## Steg 1: Hämta och redigera ett kalkylblad {#step-download-and-edit-a-spreadsheet}
 
@@ -71,7 +71,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
 ## Steg 3: Importera ditt kalkylblad till Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Klicka på **[!UICONTROL New]** och välj **[!UICONTROL New Local Asset]** i **My Tradeshow Program**.
+1. Klicka på **och välj** i **[!UICONTROL New]** My Tradeshow Program **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -83,7 +83,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Klicka på **[!UICONTROL List Actions]** i listan **[!UICONTROL Tradeshow Attendees]** och välj **[!UICONTROL Import List]**.
+1. Klicka på **[!UICONTROL Tradeshow Attendees]** i listan **[!UICONTROL List Actions]** och välj **[!UICONTROL Import List]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -127,7 +127,7 @@ I den här självstudiekursen får du lära dig att importera personer från en 
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Gå tillbaka till **My Tradeshow Program** och klicka på fliken **[!UICONTROL Members]**. Du kommer att se alla de personer du just importerat.
+1. Gå tillbaka till **My Tradeshow Program** och klicka på fliken **[!UICONTROL Members]**. Du ser alla personer som du just importerat.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -141,6 +141,6 @@ Deltagarna i ditt varumärke är nu medlemmar i ditt Marketo-program!
 
 <br> 
 
-[◄ 4: Automatiskt svar via e-post](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Mission 4: Automatiskt svar via e-post](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Uppgift 6: Drift, Drift, Sköldpaddor ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Uppdrag 6: Dripp, Dripp, Struktur ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

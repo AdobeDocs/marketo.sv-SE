@@ -4,22 +4,22 @@ description: Skapa ett anpassat  [!DNL Dynamics] synkroniseringsfilter - Marketo
 title: Skapa ett anpassat  [!DNL Dynamics] synkroniseringsfilter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # Skapa ett anpassat [!DNL Dynamics]-synkroniseringsfilter {#create-a-custom-dynamics-sync-filter}
 
-Vill du inte synkronisera allt i Dynamics CRM till Marketo Engage? Oroa dig inte! Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
+Med Marketo kan du konfigurera ett synkroniseringsfilter och bara synkronisera en del av dina poster.
 
 ## Översikt {#overview}
 
 Så här konfigurerar du ett [!DNL Dynamics]-synkroniseringsfilter:
 
-1. Skapa ett eget booleskt fält med namnet new_synctomkto i Dynamics CRM för alla objekt (lead, kontakt, konto, möjlighet och andra anpassade entiteter).
+1. Skapa ett anpassat fält med två alternativ (booleskt) med namnet `new_synctomkto` i Dynamics CRM för alla objekt (lead, kontakt, konto, affärsmöjlighet och andra anpassade entiteter).
 1. Tilldela det här fältet värdet Ja/Nej.
 
 Du måste göra dessa ändringar i Dynamics CRM, inte i databasen eller Marketo.
@@ -140,10 +140,6 @@ Här är några implementeringsdetaljer vi trodde att du borde veta:
 * Starta en synkroniseringsåtgärd
 
   När värdet **SyncToMkto** ändras från **No** till **Yes** meddelar [!DNL Dynamics] Marketo omedelbart att synkronisera den här posten. Om posten redan finns uppdaterar Marketo den. Annars skapar Marketo posten.
-
-  >[!TIP]
-  >
-  >En `Create [StartSync]`-åtgärd läggs till i Marketo-loggen när detta händer.
 
 * Stoppa en synkroniseringsåtgärd
 

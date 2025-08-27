@@ -4,16 +4,16 @@ description: Om sökmotoroptimering - Marketo Docs - produktdokumentation
 title: Om sökmotoroptimering
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 # Om sökmotoroptimering {#understanding-search-engine-optimization}
 
-SEO (Search Engine Optimization) är en samling metodtips som hjälper dig att visa dina sidor för personer som använder sökmotorer. Marketo SEO-app hjälper dig att förbättra.
+SEO (Search Engine Optimization) är en samling metodtips som hjälper dig att visa dina sidor för personer som använder sökmotorer. Marketo SEO-app hjälper er att förbättra.
 
 Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
@@ -25,7 +25,7 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 **Inkommande länkar**: Länkar på andra platser som dirigerar trafik till din plats. Ju högre anseende den länkade webbplatsen har, desto värdefullare är den här inkommande länken.
 
-**SERP-rankning**: Står för sökmotorns resultatsida. Sökmotorer returnerar flera resultatsidor. SERP-rankningen är den sida länken visas på. Det finns vanligtvis 10 resultat per sida.
+**SERP-rankning**: Står för sökmotorns resultatsida. Sökmotorer returnerar flera resultatsidor. SERP-rankningen är den sida som länken visas på. Det finns vanligtvis 10 resultat per sida.
 
 **Sökmotorvy**: Sättet som en sökmotordator uppfattar din webbplats i motsats till hur en människa uppfattar den.
 
@@ -39,7 +39,7 @@ Först och främst bör du lära dig grunderna med den här praktiska ordlistan.
 
 **Villkor för långtidssökning**: Superspecifika nyckelord. Dessa används cirka 70 % av tiden.
 
-(Exempel: Minimalistkvinnor som kör skor storlek 9)
+(Exempel: Minimalistisk kvinnas löpskor storlek 9)
 
 **Optimeringsresultat**: Optimeringsresultat är en Marketo-poäng som mäter alla sidor på din webbplats på en skala från 1 till 100. Det bygger på en sammanställning av dussintals bästa metoder. En bakgrundsmusik på 70 eller högre anger att sajten är ganska optimerad.
 

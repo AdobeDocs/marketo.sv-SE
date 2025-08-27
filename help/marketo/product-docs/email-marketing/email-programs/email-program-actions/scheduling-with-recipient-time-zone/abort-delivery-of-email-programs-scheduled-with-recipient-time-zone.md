@@ -4,9 +4,9 @@ description: Avbryt leverans av e-postprogram som schemalagts med mottagartidszo
 title: Avbryt leverans av e-postprogram som schemalagts med mottagartidszon
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 I nödfall kan du avbryta leveransen av ett e-postprogram som redan har börjat köras med Mottagarens tidszon aktiverad.
 
-Eftersom e-postprogram som schemaläggs med mottagartidszon kan köras i upp till 24 timmar kommer eventuella efterföljande utskick att avbrytas om leveransen avbryts.
+Eftersom e-postprogram som schemaläggs med mottagartidszonen kan köras i upp till 24 timmar kommer eventuella efterföljande utskick att avbrytas om leveransen avbryts.
 
-1. Markera det e-postprogram som du vill avbryta och klicka sedan på **[!UICONTROL Abort Delivery]** under rutan [!UICONTROL Approval] på kontrollpanelen.
+1. Välj det e-postprogram som du vill avbryta och klicka sedan på **[!UICONTROL Abort Delivery]** under rutan [!UICONTROL Approval] på kontrollpanelen.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -33,7 +33,7 @@ Eftersom e-postprogram som schemaläggs med mottagartidszon kan köras i upp til
    >
    >Avbrutna e-postmeddelanden visas **inte** som ett mjukt studs *förrän* den tid de ursprungligen var schemalagda att levereras i sina respektive tidszoner. Fram tills dess visas de som&quot;Skicka e-post&quot;.
 
-1. I rutnätet kan du klicka på valfritt e-postmeddelande för att visa aktivitetsinformation. Om du avbryter en sändning ser popup-fönstret med information ut så här:
+1. I rutnätet kan du klicka på valfritt e-postmeddelande för att visa aktivitetsinformation. För en avbruten sändning ser popup-fönstret med information ut så här:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
