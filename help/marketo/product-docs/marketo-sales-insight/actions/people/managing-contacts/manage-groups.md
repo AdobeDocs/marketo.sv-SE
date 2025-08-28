@@ -3,9 +3,9 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -57,26 +57,6 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 
    Så ja!
 
-## Lägg till kontakter i en {#add-contacts-to-a-}
-
-1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill lägga till personer i.
-
-
-
-1. Klicka på **[!UICONTROL Group Actions]** och välj **[!UICONTROL Create Contact and add to Group]**.
-
-   ![](assets/manage-groups-4.png)
-
-1. Fyll i kontaktinformationen och klicka på **Skapa** (eller **Skapa och lägg till ny** om du vill lägga till en annan).
-
-   ![](assets/manage-groups-5.png)
-
-   Och du är klar!
-
-   >[!NOTE]
-   >
-   >Du kan behöva klicka på Uppdatera för att se nya kontakter som lagts till.
-
 ## Lägg till kontakter i en grupp {#add-contacts-to-a-group}
 
 1. Under _Grupper_ väljer du **Alla personer**.
@@ -98,7 +78,6 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 1. Markera gruppen som du vill lägga till dem i och klicka på **Lägg till**.
 
    ![](assets/manage-groups-7.png)
-
 
 ## Dela en grupp {#share-a-group}
 
