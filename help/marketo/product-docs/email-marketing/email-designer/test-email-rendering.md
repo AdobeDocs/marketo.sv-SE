@@ -6,9 +6,9 @@ description: Marketo Engage-användare kan integrera sitt Litmus-konto för att 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,11 @@ Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Eng
 
 >[!AVAILABILITY]
 >
->Den här funktionen är tillgänglig för alla Marketo Engage-användare som har ett aktivt Litmus-konto på [Enterprise Plan](https://www.litmus.com/pricing/enterprise){target="_blank"} -kontot.
+>Den här funktionen är tillgänglig för alla Marketo Engage-användare som har ett aktivt Litmus-konto.
 
-## Så här använder du {#how-to-use}
+## Litmus Enterprise Users {#litmus-enterprise}
+
+Följande steg gäller för användare av [Litmus Enterprise-planen](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. På skärmen _Redigera e-postinnehåll_ klickar du på knappen **Simulera innehåll** .
 
@@ -62,3 +64,27 @@ Utnyttja ditt [Litmus](https://www.litmus.com/email-testing)-konto i Marketo Eng
 **VALFRITT STEG**: Om du bestämmer dig för att göra ändringar i e-postmeddelandet måste du klicka på **Återge e-post** för att visa dem. Se även till att klicka på knappen **Testa igen** längst upp till höger på skärmen _Förhandsvisa e-post_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus Core-användare {#litmus-core}
+
+Följande steg gäller för användare av [Litmus Core-planen](https://www.litmus.com/pricing/){target="_blank"}.
+
+1. Hämta testets e-postadress i ditt Litmus-konto genom att klicka på knappen **Kopiera testadress** på skärmen _Testa_.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. I Marketo Engage går du till skärmen _Redigera e-postinnehåll_ för det önskade e-postmeddelandet och klickar på knappen **Simulera innehåll** .
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. Markera testmottagarna och klicka på knappen **Skicka korrektur** .
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. Ange den litermus-e-postadress du kopierade i steg 1 och klicka på **Skicka korrektur** igen.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Granska e-postmeddelandet i ditt Litmus-konto (i mappen för den e-postadress som du kopierade från Litmus).
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
