@@ -3,9 +3,9 @@ description: Hantera grupper - Marketo Docs - produktdokumentation
 title: Hantera grupper
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 
    Så ja!
 
-## Lägg till kontakter i en grupp {#add-contacts-to-a-group}
+## Lägg till kontakter i en {#add-contacts-to-a-}
 
 1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill lägga till personer i.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. Klicka på **[!UICONTROL Group Actions]** och välj **[!UICONTROL Create Contact and add to Group]**.
 
@@ -77,19 +77,42 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
    >
    >Du kan behöva klicka på Uppdatera för att se nya kontakter som lagts till.
 
+## Lägg till kontakter i en grupp {#add-contacts-to-a-group}
+
+1. Under _Grupper_ väljer du **Alla personer**.
+
+   ![](assets/manage-groups-3.png)
+
+1. Sök efter personen eller personerna som du vill lägga till.
+
+   ![](assets/manage-groups-4.png)
+
+1. Markera kryssrutan bredvid deras namn för att markera dem.
+
+   ![](assets/manage-groups-5.png)
+
+1. Klicka på ikonen för fler åtgärder (![](assets/icon-more-actions.png)) och välj **Lägg till personer i grupp**.
+
+   ![](assets/manage-groups-6.png)
+
+1. Markera gruppen som du vill lägga till dem i och klicka på **Lägg till**.
+
+   ![](assets/manage-groups-7.png)
+
+
 ## Dela en grupp {#share-a-group}
 
 1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill dela.
 
-   ![](assets/manage-groups-6.png)
+   ![](assets/manage-groups-8.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-7.png)
+   ![](assets/manage-groups-9.png)
 
 1. Klicka på listrutan, välj det team som du vill dela gruppen med och klicka på **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-8.png)
+   ![](assets/manage-groups-10.png)
 
    Du äger fortfarande gruppen, men den visas nu under _Team Groups_.
 
@@ -97,15 +120,15 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 
 1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill ta bort delningen för.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. Klicka på **X** bredvid det team du delade gruppen med och klicka sedan utanför det modala.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    Gruppen delas inte.
 
@@ -113,26 +136,26 @@ Lär dig hantera dina grupper i [!DNL Sales Insight Actions].
 
 1. På sidan [!UICONTROL People] söker du efter och markerar gruppen som du vill byta namn på.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Edit]**.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. Skriv det nya namnet och klicka på **[!UICONTROL Save]**.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## Ta bort en grupp {#delete-a-group}
 
 1. På sidan Personer söker du efter och markerar gruppen som du vill ta bort.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. Klicka på punkten (tre lodräta punkter) och välj **[!UICONTROL Delete]**.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. Bekräfta genom att klicka på **[!UICONTROL Delete]**.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
