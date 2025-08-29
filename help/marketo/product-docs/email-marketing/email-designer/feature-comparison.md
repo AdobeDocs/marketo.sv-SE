@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -259,13 +259,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Snabb skriptning</td>
     <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Behövs inte</td>
-  </tr>
-  <tr>
-    <td>Handlebar skript</td>
-    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för tredje kvartalet 25</td>
+    <td>Kommer snart</td>
   </tr>
   <tr>
     <td>Arbetsflöden för godkännande av innehåll</td>
