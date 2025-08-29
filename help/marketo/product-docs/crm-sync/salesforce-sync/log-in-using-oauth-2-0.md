@@ -3,9 +3,9 @@ description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -76,7 +76,7 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    >[!CAUTION]
    >
-   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce, aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av Salesforce-inloggningsuppgifter eller -prenumeration. Om du vill använda Oauth 2.0 kan du kontakta Adobe Account Team (din kontoansvarige).
+   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce, aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av Salesforce-inloggningsuppgifter eller -prenumeration. Om du vill att Oauth 2.0 ska vara konfigurerad för din Salesforce-autentisering kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. Ett popup-fönster med inloggningssidan för Salesforce visas. Ange dina Marketo Sync-användaruppgifter och logga in.
 
