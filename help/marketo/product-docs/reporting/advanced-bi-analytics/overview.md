@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -236,23 +236,13 @@ Följande standardrapporter finns som exempel på dina anpassade rapporter.
 
 ## Saker att notera {#note}
 
-* Den klassiska&quot;Revenue Explorer&quot;-upplevelsen kommer att bli permanent inaktuell den 10 juni 2025. Under tiden kan ni få tillgång till, skapa, uppdatera och ta bort rapporter i båda upplevelserna.
+* Dina anpassade rapporter har replikerats från den klassiska upplevelsen till den nya upplevelsen med de märkbara beteendeförändringar som nämns i avsnittet [Om den nya upplevelsen](#learning-the-new-experience) nedan.
 
-* Dina anpassade rapporter kommer att replikeras från den klassiska upplevelsen till den nya upplevelsen med de märkbara beteendeförändringar som omnämns i avsnittet [Om den nya upplevelsen](#learning-the-new-experience) nedan.
+* Instrumentpaneler i den klassiska upplevelsen kunde inte överföras och behövde återskapas i den nya upplevelsen. De kan återskapas som rapporter i den nya upplevelsen och filtren i den nya upplevelsen hämtar automatiskt möjliga värden.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >Replikering av anpassade rapporter kommer att utföras i grupper. När dina anpassade rapporter har replikerats till den nya upplevelsen måste alla ändringar som görs i den klassiska upplevelsen även tillämpas manuellt på motsvarande rapporter i den nya upplevelsen för att säkerställa konsekvens mellan de båda upplevelserna. En informationsanteckning om det ovanstående kommer att visa sig i den klassiska upplevelsen när kundrapporterna replikeras.
-
-   * Kontrollpaneler i den klassiska upplevelsen kan inte överföras och måste återskapas i den nya upplevelsen. De bör återskapas som rapporter i den nya upplevelsen och filtren i den nya upplevelsen hämtar automatiskt möjliga värden i stället för att du måste ange alla möjliga värden manuellt i den klassiska upplevelsen.
-
-     >[!NOTE]
-     >
-     >Kontrollpanelen i den nya upplevelsen är bara en samling rapporter på en enda sida. Det främsta värdet med kontrollpanelen i den nya upplevelsen är att ni kan presentera analytiska insikter över olika rapporteringsområden.
-
-* Dina e-postprenumerationer i den klassiska upplevelsen kommer att replikeras till den nya upplevelsen. E-postprenumerationerna i den klassiska upplevelsen kommer att fortsätta att fungera tills den klassiska upplevelsen är borttagen den 10 juni 2025.
-
-* Befintliga användare av Intresseutforskaren har automatiskt tillgång till den nya avancerade BI Analytics-upplevelsen.
+  >Kontrollpanelen i den nya upplevelsen är bara en samling rapporter på en enda sida. Det främsta värdet med kontrollpanelen i den nya upplevelsen är att ni kan presentera analytiska insikter över olika rapporteringsområden.
 
 * Du kan skapa **upp till 700 rapporter** i avancerad BI-analys.
 
@@ -282,13 +272,9 @@ Nedan följer förändringar i den nya upplevelsen (Advanced BI Analytics) från
 
 * Strängtypsfiltren är nu skiftlägeskänsliga.
 
-* Körningsformelfältet i den klassiska upplevelsen stöds inte längre.
-
-* E-postprenumerationen inkluderar PDF-exporten i stället för HTML i rapporten. Den nya e-postprenumerationen kommer inte att innehålla rapportdefinitionen.
+* E-postprenumerationen inkluderar PDF-exporten i stället för HTML i rapporten. Den nya e-postprenumerationen innehåller inte rapportdefinitionen.
 
 * Den djupa länken i rapporten stöds inte just nu.
-
-* PDF export är synkron i den nya upplevelsen jämfört med att vara asynkron i den klassiska upplevelsen.
 
 >[!NOTE]
 >
