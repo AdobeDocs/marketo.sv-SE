@@ -4,9 +4,9 @@ description: Lär dig konfigurera Marketo Sales Insight i Salesforce Enterprise/
 title: Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '801'
 ht-degree: 1%
 
 ---
@@ -53,6 +53,20 @@ Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited editions gen
    >
    >Låt det här fönstret vara öppet. Du behöver den här informationen senare för att konfigurera Salesforce.
 
+## Fyll i nya referenser för Rest API {#populate-new-rest-api-credentials}
+
+1. När du fyller i Rest API-autentiseringsuppgifter för första gången ändras knappen _Visa_ till _Redigera_. Klicka på knappen **Redigera**.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5a.png)
+
+1. Ett meddelande visas som bekräftar att du vill återskapa API-autentiseringsuppgifter. Klicka på **Spara**.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
+
+1. När de nya autentiseringsuppgifterna har fyllts i uppdaterar du dem på fliken _Marketo Config_ i din Salesforce-instans.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
+
 ## Konfigurera [!DNL Sales Insight] i [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
 1. Klicka på **[!UICONTROL Setup]** i Salesforce.
@@ -67,7 +81,7 @@ Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited editions gen
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoSoapAPI`). Ange URL:en för fjärrplatsen, som är din Marketo-värd-URL från panelen _[!UICONTROL Soap API Configuration]_&#x200B;i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
+1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoSoapAPI`). Ange URL:en för fjärrplatsen, som är din Marketo-värd-URL från panelen _[!UICONTROL Soap API Configuration]_i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +89,7 @@ Konfigurera Marketo Sales Insight i Salesforce Enterprise/Unlimited editions gen
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoAPI`). Ange URL:en för fjärrplatsen, som är din API-URL från panelen _[!UICONTROL Rest API Configuration]_&#x200B;i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Rest API.
+1. Ange namnet på fjärrplatsen (det kan vara något som liknar `MarketoAPI`). Ange URL:en för fjärrplatsen, som är din API-URL från panelen _[!UICONTROL Rest API Configuration]_i Marketo Engage. Klicka på&#x200B;**[!UICONTROL Save]**. Du har nu skapat fjärrplatsinställningar för Rest API.
 
    >[!NOTE]
    >
