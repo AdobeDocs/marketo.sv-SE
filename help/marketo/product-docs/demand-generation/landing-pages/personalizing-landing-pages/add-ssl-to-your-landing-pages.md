@@ -4,9 +4,9 @@ description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokum
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
+source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Följ stegen nedan för att aktivera SSL för din standarddomän.
 
 >[!NOTE]
 >
->* Kolumnen för SSL-certifikat i listan visar certifikatstatus för alla domänalias som skapats efter att den här funktionen släpptes (25 april 2025). Om SSL har aktiverats för en domän via Marketo Support finns certifikatet kvar, men visas inte i tabellen. Den här tabellen visar endast SSL-certifikat för domäner som lagts till med stegen i den här artikeln.
->
->* Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.
+>Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.
 
 ## Felmeddelanden {#error-messages}
 
@@ -101,12 +99,10 @@ Här nedan hittar du felmeddelanden som du kan få tillsammans med deras definit
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 
 * **Befintliga SSL:er**: När du lägger till en domän söker systemet efter befintliga SSL:er, som kan ha skapats manuellt tidigare. Om du råkar ut för den här valideringen skapar du din domän utan att välja SSL-skapande, så ansluter vi dem åt dig. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ha mer information/alternativ.
 
-* **Det går inte att lägga till certifikat till befintliga domäner**: Det går inte att lägga till certifikat till befintliga domäner just nu. För befintliga domäner, eller om du har missat att markera rutan för SSL-certifikat, måste du kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} för att få certifikatet tillagt.
-
-* **Borttagning av domäner**: Om du tar bort en domän tas SSL-certifikatet bort automatiskt.
+* **Borttagning av domäner**: SSL-certifikatet tas inte bort när domänen **tas bort automatiskt.** Skyddsplanen förhindrar användarfel som gör att en webbplats saknar SSL-certifikat. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ta bort SSL-certifikaten.
