@@ -4,9 +4,9 @@ description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokum
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,27 @@ Följ stegen nedan för att aktivera SSL för din standarddomän.
 
 >[!NOTE]
 >
->Det kan ta upp till tre minuter innan SSL är i READY-läge. Du måste uppdatera sidan för att ändringarna ska visas.
+>Det kan ta upp till tre minuter innan SSL är i tillståndet READY. Uppdatera sidan för att ändringarna ska visas.
+
+## Redigera SSL:er till befintliga domänalias
+
+Följ de här stegen för att aktivera SSL för dina befintliga domänalias.
+
+1. Expandera _[!UICONTROL Admin]_i den vänstra navigeringen i området **[!UICONTROL Integration]**och välj **[!UICONTROL Landing Pages]**.
+
+1. På sidan väljer du fliken **[!UICONTROL Rules]** överst.
+
+1. Markera den domänaliasrad som du vill redigera och klicka på **[!UICONTROL Add SSL]** överst.
+
+   ![Admin area - Integration > Landing Pages - Rules tab - select domain alias](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. Klicka på **[!UICONTROL Confirm]** i dialogrutan.
+
+   ![Lägg till SSL - Bekräfta](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>Det kan ta upp till tre minuter innan SSL är i tillståndet READY. Uppdatera sidan för att ändringarna ska visas.
 
 ## Felmeddelanden {#error-messages}
 
@@ -99,7 +119,7 @@ Här nedan hittar du felmeddelanden som du kan få tillsammans med deras definit
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 
