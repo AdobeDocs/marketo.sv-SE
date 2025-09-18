@@ -3,7 +3,7 @@ description: Versionsinformation - oktober 2024 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -92,7 +92,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **API-uppdatering för massextrahering**: Vi har åtgärdat ett fel i API:t för gruppextrahering som inkluderar alternativet columnHeaderNames, som gör att du kan ange anpassade kolumnrubriknamn i den exporterade filen. Tidigare kunde kolumnrubriknamn som innehöll icke-ASCII-tecken bli skadade.
 
-* **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 oktober 2025. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Resten av API-parametern access_token har tagits bort**: Frågeparametern access_token som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 januari 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med hjälp av Authorization-huvudet [ enligt beskrivningen här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR-kodborttagning**: Den 4 oktober 2024 kommer QR-kodfunktionen som används i push-meddelanden och meddelanderesurser i appen att bli inaktuell. Detta inkluderar användning av QR-koder för en ny testenhet samt skapande av nya resurser med QR-koder. Genom att ta bort funktioner med lägre användning kan vi omfördela deras resurser till det övergripande underhållet av Marketo Engage.
 

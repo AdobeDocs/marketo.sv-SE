@@ -4,10 +4,10 @@ description: Skapa en guidad landningssidmall - Marketo Docs - produktdokumentat
 title: Skapa en mall för guidad landningssida
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 0%
 
 ---
 
@@ -126,39 +126,6 @@ Attribut som krävs:
 Exempel:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Röstning {#poll}
-
-Attribut som krävs:
-**klass**: &quot;mktoPoll&quot;
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-**mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
-
-Exempel:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Hänvisning {#referral}
-
-Attribut som krävs:
-**klass**: &quot;mktoReferral&quot;
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-**mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
-
-Exempel:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Dragningar {#sweepstakes}
-
-Attribut som krävs:
-**klass**: &quot;mktoSweepstakes&quot;
-**id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
-**mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
-
-Exempel:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Redigerbara variabler {#editable-variables}
 
