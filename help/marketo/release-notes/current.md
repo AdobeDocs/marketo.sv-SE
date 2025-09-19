@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Skicka e-post till Designer - Innehåll i Collaboration-arbetsflöde</strong>: Nu kan du kommentera och samarbeta med andra Marketo-användare i en e-postresurs. Tagga teammedlemmar (Marketo-användare som har rätt resursbehörigheter) så får de ett e-postmeddelande eller ett pulsmeddelande.</td>
+   <td><strong>Skicka e-post till Designer - Innehåll i Collaboration Workflow</strong>: Nu kan du kommentera och samarbeta med andra Marketo-användare i en e-postresurs. Tagga teammedlemmar (Marketo-användare som har rätt resursbehörigheter) så får de ett e-postmeddelande eller ett pulsmeddelande.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -62,7 +62,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-posta Designer - mörkt läge</strong>: Nu kan du använda mörkt läge, som gör att e-postklienter och appar som stöds kan visa e-postmeddelanden med mörkare bakgrunder och ljusare färger för text, knappar och andra gränssnittselement.</td>
+   <td><strong>E-posta Designer - mörkt läge</strong>: Nu kan du använda mörkt läge, som gör att e-postklienter och appar kan visa e-postmeddelanden med mörkare bakgrund och ljusare färger för text, knappar och andra gränssnittselement.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -84,14 +84,14 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Växla tillbaka till snabbskriptning i den nya e-postversionen av Designer**: Adobe Marketo Engage har släppt en funktion som heter _Villkorligt innehåll_ för den nya e-postversionen av Designer i juni. Funktionen drivs av Handlebar-skriptning i stället för Snabb skriptning, i ett försök att ge lite mer flexibilitet i ditt dynamiska innehåll. Men när vi upptäckte att det orsakade att vissa tokens inte löstes korrekt bestämde vi oss för att tillfälligt inaktivera det. [Läs mer](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
-* **Marketo Engage Identity End of Life**: I augusti 2025 började Adobe fasa ut stödet för Marketo Engage Identity (logga in via `login.marketo.com`). För att förhindra avbruten åtkomst till Marketo Engage måste du övergå till [Adobe Identity](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} senast den 30 september 2025.
+* **Marketo Engage Identity End of Life**: I augusti 2025 började Adobe fasa ut stödet för Marketo Engage Identity (logga in via `login.marketo.com`). För att förhindra avbruten åtkomst till Marketo Engage måste du övergå till [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} senast den 30 september 2025.
 
-   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console kommer snart.
+   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console kommer snart.
 
-   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 * **Borttagning av _Framåt till en vän_-funktion**: 29 september 2025 kommer funktionen _Framåt till en vän_ i e-postmeddelanden från Marketo Engage 2.0 (den gamla e-postredigeraren) att vara helt inaktuell för alla prenumerationer. Detta påverkar token &quot;Vidarebefordra till en vän&quot; och &quot;Vidarebefordra till en vän&quot; i e-postmeddelanden som redan har skickats eller kommer att skickas med denna token. [Läs mer](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop är inaktuell och kommer inte att vara tillgänglig efter den 31 januari 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop är inaktuell och kommer inte att vara tillgänglig efter den 31 januari 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 januari 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 januari 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
