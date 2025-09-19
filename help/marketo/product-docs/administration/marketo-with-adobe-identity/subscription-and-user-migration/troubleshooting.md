@@ -3,9 +3,9 @@ description: Felsökningsguide för migrering av Adobe IMS-användare - Marketo 
 title: Felsökningsguide för Adobe IMS User Migration
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 31af9ceaaa63b8a286c660ab4e37f9ad40be85f5
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Använd delen &quot;På den här sidan&quot; till höger för att gå direkt til
 
 _Om användaren måste migreras_ - E-postadressen måste uppdateras i Marketo Engage för att uppfylla Adobe säkerhetsprincip och verifieras igen. Marketo-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Användaren finns inte i katalogen {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administrat�
 
 _Om användaren måste migreras_ - Användaren måste läggas till i Active Directory med rätt behörigheter av en systemadministratör. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Inaktiv användare {#inactive-user}
 
@@ -54,7 +54,7 @@ _Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administrat�
 
 _Om användaren måste migreras_ - Användarens status och korrekta behörigheter måste återställas av en systemadministratör. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Ogiltig domän {#invalid-domain}
 
@@ -62,21 +62,25 @@ _Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administrat�
 
 **Lösning**:
 
-_Om användaren måste migreras_ (och domänanvändningen är aktiverad i migreringsorganisationen) måste e-postadressen uppdateras i Marketo Engage för att uppfylla principen för domäntvingande (DE). Alternativt kan systemadministratören antingen [flytta domänen](https://helpx.adobe.com/se/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} till en annan katalog som inte är aktiverad för Domain Enforcement (DE), eller [skapa en ny katalog](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"} som inte finns under DE-principen. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
+_Om användaren måste migreras_ (och domänanvändningen är aktiverad i migreringsorganisationen) måste e-postadressen uppdateras i Marketo Engage för att uppfylla principen för domäntvingande (DE). Alternativt kan systemadministratören antingen [flytta domänen](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} till en annan katalog som inte är aktiverad för Domain Enforcement (DE), eller [skapa en ny katalog](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} som inte finns under DE-principen. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
 _Om användaren måste migreras_ (och domänanvändningen är aktiverad i en annan organisation) måste en systemadministratör för organisationen där domänen har tagits i anspråk lägga till användarens e-postadress i undantagslistan. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
-_Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
+_Om användaren **inte**behöver migreras_ - Marketo Engage-administratör för att hoppa över användaren i migreringskonsolen. Knappen&quot;Slutförd migrering&quot; visas när alla användare räknas med genom att migrera eller hoppa över. Klicka på knappen för att slutföra användarmigreringsprocessen.
 
 ### Type2E-fel {#type2e-failure}
 
-**Rotorsak**: Det gick inte att skapa ett federerat användarkonto (för enkel inloggning) under användarmigreringen eftersom det redan finns en Adobe ID för samma e-postadress som en enskild användare.
+**Rotorsak**: Om ett Federated-konto (T3) har konfigurerats för organisationen och det redan finns ett individuellt konto (T1) för användaren, misslyckas alla försök att skapa (om tillämpligt) och länka ett konto med endast tillstånd (T2e) till det federerade kontot med felkoden FAILED_TO_CREATE_TYPE2E_USER.
 
 **Lösning**:
 
-1. Ta bort den enskilda användaren från Adobe-organisationen. Obs! Användaren förlorar åtkomsten till alla produkter och måste få ny behörighet senare.
+1. Ta bort den enskilda användaren från Adobe-organisationen. _Obs! Användaren förlorar åtkomsten till alla produkter och måste få ny behörighet senare. Om detta är skadligt kan du kontakta Adobe Support._
 1. Kör om användarmigreringen så att ett federerat användarkonto skapas för den här användaren.
-1. Lägg till användaren i de produkter som han/hon tidigare hade tillgång till.
+1. Kontot för endast berättigande skapas (om tillämpligt) och länkas till Federated-kontot som dess autentiseringskonto.
+
+**Läs mer**
+* [Konfigurera identitet utan enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Konfigurera identitet med enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo-migrering misslyckades {#pendo-migration-failed}
 
@@ -102,7 +106,7 @@ _Om användaren måste migreras_
 
 1. Om konsolen inte är tillgänglig kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) för att köra migreringen igen.
 
-_Om användaren **inte**&#x200B;behöver migreras_
+_Om användaren **inte**behöver migreras_
 
 * Marketo Engage Admin bör hoppa över användaren i migreringskonsolen.
 * När alla användare har migrerats eller hoppats över klickar du på **[!UICONTROL Migration Complete]** för att slutföra.
