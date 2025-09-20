@@ -3,7 +3,7 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
