@@ -55,7 +55,7 @@ Nepp! Vi har gjort en massa enkla självstudiekurser. [Kom igång här](/help/ma
 
 ## Finns det en lista över saker som täcker gränser, som hur många e-postmeddelanden jag kan skicka på en vecka? {#list-of-limits}
 
-Det finns. Statiska gränser (och andra parametrar) beskrivs [i den här artikeln](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Det finns. Statiska gränser (och andra parametrar) beskrivs [i den här artikeln](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hur länge håller Marketo fast vid mina data? {#data-retention-policy}
 
