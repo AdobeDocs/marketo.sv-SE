@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 5D {#template-5d}
 
-Högerklicka för att [hämta mall 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Högerklicka för att [hämta mall 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=sv-SE)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+[Template 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=sv-SE)

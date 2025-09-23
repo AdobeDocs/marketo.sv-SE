@@ -47,6 +47,6 @@ Ge nu bara inbäddningskoden till webbutvecklaren och låt dem lägga till den p
 
 >[!NOTE]
 >
->Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem på sidan [Forms 2.0-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Om din utvecklare vill anpassa utseendet eller få åtkomst till avancerade API-funktioner kan du visa dem på sidan [Forms 2.0-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Snyggt jobb! Vill du att inbäddningskoden [ska innehålla ljuslådekod](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Det är lätt också!

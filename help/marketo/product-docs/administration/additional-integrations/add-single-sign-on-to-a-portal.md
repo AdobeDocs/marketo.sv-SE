@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 17C {#template-17c}
 
-Högerklicka för att [hämta mall 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+Högerklicka för att [hämta mall 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=sv-SE)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[Template 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=sv-SE)

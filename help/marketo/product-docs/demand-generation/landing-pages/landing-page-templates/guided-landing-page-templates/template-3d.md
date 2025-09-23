@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 3D {#template-3d}
 
-Högerklicka för att [hämta mall-3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Högerklicka för att [hämta mall-3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=sv-SE)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=sv-SE)

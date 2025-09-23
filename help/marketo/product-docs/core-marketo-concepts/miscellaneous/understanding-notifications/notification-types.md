@@ -60,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/error-codes).

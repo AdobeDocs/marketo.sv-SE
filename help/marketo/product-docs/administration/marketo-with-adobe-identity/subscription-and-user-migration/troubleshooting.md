@@ -62,7 +62,7 @@ _Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administrat�
 
 **Lösning**:
 
-_Om användaren måste migreras_ (och domänanvändningen är aktiverad i migreringsorganisationen) måste e-postadressen uppdateras i Marketo Engage för att uppfylla principen för domäntvingande (DE). Alternativt kan systemadministratören antingen [flytta domänen](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} till en annan katalog som inte är aktiverad för Domain Enforcement (DE), eller [skapa en ny katalog](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} som inte finns under DE-principen. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
+_Om användaren måste migreras_ (och domänanvändningen är aktiverad i migreringsorganisationen) måste e-postadressen uppdateras i Marketo Engage för att uppfylla principen för domäntvingande (DE). Alternativt kan systemadministratören antingen [flytta domänen](https://helpx.adobe.com/se/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} till en annan katalog som inte är aktiverad för Domain Enforcement (DE), eller [skapa en ny katalog](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"} som inte finns under DE-principen. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
 _Om användaren måste migreras_ (och domänanvändningen är aktiverad i en annan organisation) måste en systemadministratör för organisationen där domänen har tagits i anspråk lägga till användarens e-postadress i undantagslistan. Marketo Engage-administratör kör sedan användarmigreringen för den här användaren igen från migreringskonsolen.
 
@@ -79,8 +79,8 @@ _Om användaren **inte**&#x200B;behöver migreras_ - Marketo Engage-administrat�
 1. Kontot för endast berättigande skapas (om tillämpligt) och länkas till Federated-kontot som dess autentiseringskonto.
 
 **Läs mer**
-* [Konfigurera identitet utan enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [Konfigurera identitet med enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [Konfigurera identitet utan enkel inloggning](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Konfigurera identitet med enkel inloggning](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo-migrering misslyckades {#pendo-migration-failed}
 

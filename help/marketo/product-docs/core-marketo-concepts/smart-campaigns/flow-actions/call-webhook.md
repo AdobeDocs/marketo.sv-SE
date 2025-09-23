@@ -23,7 +23,7 @@ Med webbhooks kan du interagera med tredjepartstjänster. Skicka/ta emot informa
 
 >[!NOTE]
 >
->Lär dig mer om de många fascinerande saker som [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} kan göra för dig.
+>Lär dig mer om de många fascinerande saker som [Webhooks](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} kan göra för dig.
 
 1. Välj en webkrok i listrutan.
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 7D {#template-7d}
 
-Högerklicka för att [hämta mall 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+Högerklicka för att [hämta mall 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=sv-SE)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+[Template 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=sv-SE)
