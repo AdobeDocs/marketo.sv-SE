@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ditt [!DNL  Sales Connect]-konto kan inte redan vara anslutet till [!DNL Salesforce] när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
+>Ditt [!DNL &#x200B; Sales Connect]-konto kan inte redan vara anslutet till [!DNL Salesforce] när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
 
 1. I [!DNL Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 

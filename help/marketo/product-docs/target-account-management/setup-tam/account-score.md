@@ -47,9 +47,9 @@ I B2B-inköpsprocessernas komplexa värld är det sällan en enskild person fatt
 >Om du vill beräkna kontopoäng måste du först skapa poängpoäng. Marketo TAM samlar automatiskt in poäng från leads till kontouppgifter. Vi kommer till exempel att ta två av de ovanstående exemplen (_Intressepoäng för kontoprodukt_ och _Resultat för webbengagemang_).
 >
 >Skapa först fält för lead-poäng som hämtar relevant information från varje lead i ett målkonto.
->>Tilldela sedan dessa lead scores till respektive kontopoäng:
->>Räntepoäng för kontoprodukt = SUM (Lead Product Interest Score)
->>Konto Web Engagement Score = SUM (Lead Web Engagement Score)
+>&#x200B;>Tilldela sedan dessa lead scores till respektive kontopoäng:
+>&#x200B;>Räntepoäng för kontoprodukt = SUM (Lead Product Interest Score)
+>&#x200B;>Konto Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >

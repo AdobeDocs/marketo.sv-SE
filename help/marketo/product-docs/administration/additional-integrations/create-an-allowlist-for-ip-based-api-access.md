@@ -22,8 +22,8 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >[!NOTE]
 >
 >Den här funktionen fungerar oberoende av Marketo Engage IP-baserade inloggningsbegränsningar (ersätts av Admin Console IP Access List*) och fortsätter att fungera efter [Adobe IMS-migreringen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->> 
->>&#42;Den allmänna IP-åtkomstlistan är planerad att vara tillgänglig under det fjärde kvartalet 2025.
+>&#x200B;> 
+>&#x200B;>&#42;Den allmänna IP-åtkomstlistan är planerad att vara tillgänglig under det fjärde kvartalet 2025.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

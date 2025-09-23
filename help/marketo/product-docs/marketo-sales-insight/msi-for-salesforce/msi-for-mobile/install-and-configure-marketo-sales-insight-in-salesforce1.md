@@ -33,7 +33,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] i [!DNL Salesforce1] innehåller: [!DNLBest Bets], lead feed, Intressant ögonblick och Add to Marketo Campaign.
+>[!DNL Marketo Sales Insight] i [!DNL Salesforce1] innehåller: [!DNL Best Bets], lead feed, Intressant ögonblick och Add to Marketo Campaign.
 
 ## Aktivera mobilappen [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 

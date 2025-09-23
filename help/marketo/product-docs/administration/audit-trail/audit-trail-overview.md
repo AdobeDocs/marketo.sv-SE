@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Granskningsspår] Översikt - Marketo Docs - produktdokumentation
+description: Granskningsspår&rbrack; Översikt - Marketo Docs - produktdokumentation
 title: Översikt över granskningsspår
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

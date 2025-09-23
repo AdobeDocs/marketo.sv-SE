@@ -45,9 +45,9 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
 Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
-1. Välj _[!UICONTROL Admin]_i området **[!UICONTROL Email]**.
+1. Välj _[!UICONTROL Admin]_&#x200B;i området **[!UICONTROL Email]**.
 
-1. Markera domänraden på fliken _[!UICONTROL Domain]_och klicka på&#x200B;**[!UICONTROL Add SSL]**.
+1. Markera domänraden på fliken _[!UICONTROL Domain]_&#x200B;och klicka på&#x200B;**[!UICONTROL Add SSL]**.
 
    ![Admin - E-post - Domän - Lägg till SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 

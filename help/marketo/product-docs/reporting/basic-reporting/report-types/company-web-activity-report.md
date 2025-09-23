@@ -33,7 +33,7 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_och väljer **[!UICONTROL Sort Descending]**.
+   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_&#x200B;och väljer **[!UICONTROL Sort Descending]**.
 
    [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 
