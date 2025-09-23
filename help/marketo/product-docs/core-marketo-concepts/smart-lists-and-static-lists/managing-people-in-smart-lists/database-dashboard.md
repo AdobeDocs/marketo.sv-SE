@@ -4,7 +4,7 @@ description: Databaskontrollpanel - Marketo Docs - produktdokumentation
 title: Kontrollpanel för databas
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

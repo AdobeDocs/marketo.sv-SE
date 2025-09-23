@@ -3,7 +3,7 @@ description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdok
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
 ht-degree: 0%

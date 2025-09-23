@@ -4,7 +4,7 @@ description: Testa Facebook-annonser för datorintegrering med Marketo - Marketo
 title: Testa Facebook-annonser för integrering med Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%

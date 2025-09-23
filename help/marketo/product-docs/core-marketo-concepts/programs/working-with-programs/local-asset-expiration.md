@@ -3,7 +3,7 @@ description: Förfallotid för lokala tillgångar - Marketo Docs - produktdokume
 title: Förfallotid för lokal resurs
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%

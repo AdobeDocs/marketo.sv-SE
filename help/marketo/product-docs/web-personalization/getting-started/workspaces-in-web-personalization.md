@@ -4,7 +4,7 @@ description: Workspaces in Web Personalization - Marketo Docs - produktdokumenta
 title: Arbetsytor i Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

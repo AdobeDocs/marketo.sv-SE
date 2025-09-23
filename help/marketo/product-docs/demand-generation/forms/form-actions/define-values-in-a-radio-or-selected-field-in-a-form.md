@@ -4,7 +4,7 @@ description: Definiera värden i ett alternativfält eller markerat fält i ett 
 title: Definiera värden i ett alternativfält eller markerat fält i ett formulär
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 1%

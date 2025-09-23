@@ -4,7 +4,7 @@ description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentati
 title: Skapa en ny webbkampanj i zonen
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%

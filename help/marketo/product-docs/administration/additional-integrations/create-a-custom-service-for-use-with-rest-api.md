@@ -4,7 +4,7 @@ description: Skapa en anpassad tjänst för användning med ReST API - Marketo D
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
+>Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 

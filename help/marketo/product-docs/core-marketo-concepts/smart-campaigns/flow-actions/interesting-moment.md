@@ -4,7 +4,7 @@ description: Intressant stund - Marketo Docs - produktdokumentation
 title: Intressant stund
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

@@ -3,10 +3,10 @@ description: Exportera roller och behörigheter - Marketo Docs - produktdokument
 title: Exportera roller och behörigheter
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

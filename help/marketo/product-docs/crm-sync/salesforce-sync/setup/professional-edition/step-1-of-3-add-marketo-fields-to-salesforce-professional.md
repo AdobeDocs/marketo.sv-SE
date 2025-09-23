@@ -4,7 +4,7 @@ description: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional) -
 title: Steg 1 av 3 -Lägg till Marketo-fält i Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 1%

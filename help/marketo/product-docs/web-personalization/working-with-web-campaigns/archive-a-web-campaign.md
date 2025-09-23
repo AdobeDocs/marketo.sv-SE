@@ -4,7 +4,7 @@ description: Arkivera en webbkampanj - Marketo Docs - Produktdokumentation
 title: Arkivera en webbkampanj
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentati
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

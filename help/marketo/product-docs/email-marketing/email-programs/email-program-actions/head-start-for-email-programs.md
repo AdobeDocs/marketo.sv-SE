@@ -4,7 +4,7 @@ description: Head Start for Email Programs - Marketo Docs - Product Documentatio
 title: Head Start for Email Programs
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%

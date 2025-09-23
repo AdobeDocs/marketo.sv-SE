@@ -3,7 +3,7 @@ description: Aktivera CAPTCHA i Marketo Forms - Marketo Docs - produktdokumentat
 title: Aktivera CAPTCHA i Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%

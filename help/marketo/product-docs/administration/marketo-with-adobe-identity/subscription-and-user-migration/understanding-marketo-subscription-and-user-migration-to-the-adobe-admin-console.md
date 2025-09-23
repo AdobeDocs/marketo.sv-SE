@@ -3,7 +3,7 @@ description: Understanding Marketo Subscription and User Migration to the Adobe 
 title: Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1571'
 ht-degree: 0%
@@ -123,4 +123,4 @@ Om du vill ha ytterligare support för din prenumeration eller din användarmigr
 >* [Migrerar till Adobe Identity Overview](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Användarinloggning med Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management - frågor och svar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [Migrerar till Adobe Identity Management-självstudiekurs](https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [Migrerar till Adobe Identity Management-självstudiekurs](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}

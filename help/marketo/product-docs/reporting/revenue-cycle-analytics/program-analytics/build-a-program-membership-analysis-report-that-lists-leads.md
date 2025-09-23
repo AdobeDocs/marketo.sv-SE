@@ -4,7 +4,7 @@ description: Skapa en analysrapport för programmedlemskap som listar leads - Ma
 title: Skapa en analysrapport för programmedlemskap som listar leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Se hur enkelt det var?
 
 ![](assets/seven.png)
 
-Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_&#x200B;för att se vilka medlemmarna är.
+Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_för att se vilka medlemmarna är.
 
 >[!TIP]
 >

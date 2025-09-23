@@ -2,7 +2,7 @@
 unique-page-id: 557080
 description: Personalization - Marketo Docs - produktdokumentation
 title: Personalisering
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 2%

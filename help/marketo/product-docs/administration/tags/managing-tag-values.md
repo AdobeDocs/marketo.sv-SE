@@ -4,7 +4,7 @@ description: Hantera taggvärden - Marketo Docs - Produktdokumentation
 title: Hantera taggvärden
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Taggar kan användas i äldre program. Du kan ta bort dem för framtida bruk gen
 
    ![](assets/managing-tag-values-8.png)
 
-1. Välj **[!UICONTROL Hide]** under **[!UICONTROL Tag Actions]**.
+1. Välj **[!UICONTROL Tag Actions]** under **[!UICONTROL Hide]**.
 
    ![](assets/managing-tag-values-9.png)
 

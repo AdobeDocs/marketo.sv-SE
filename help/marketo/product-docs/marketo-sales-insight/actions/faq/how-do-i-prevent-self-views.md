@@ -3,7 +3,7 @@ description: Hur förhindrar jag självvisningar - Marketo Docs - produktdokumen
 title: Hur kan jag förhindra självvisningar?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%

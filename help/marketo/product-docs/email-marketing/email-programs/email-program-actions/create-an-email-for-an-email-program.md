@@ -4,7 +4,7 @@ description: Skapa ett e-postmeddelande för ett e-postprogram - Marketo Docs - 
 title: Skapa ett e-postmeddelande för ett e-postprogram
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

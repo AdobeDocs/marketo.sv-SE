@@ -4,7 +4,7 @@ description: Sales Insight Email Performance Report - Marketo Docs - produktdoku
 title: E-postresultatrapport för Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 2%

@@ -4,7 +4,7 @@ description: Förhandsgranska ett fragment - Marketo Docs - produktdokumentation
 title: Förhandsgranska ett kodavsnitt
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

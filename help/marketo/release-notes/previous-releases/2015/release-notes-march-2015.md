@@ -4,7 +4,7 @@ description: Versionsinformation -mars 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -mars 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Länka ditt [[!DNL Google AdWords] konto till Marketo](/help/marketo/product-doc
 
 ## Nya REST API:er för resurs {#new-asset-rest-apis}
 
-[Nya REST API:er för resurs](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/assets)
+[Nya REST API:er för resurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Vi har nu stöd för att skapa och redigera e-post, mallar, mina tokens, filer och fragment [via API](https://developer.adobe.com/marketo-apis/api/asset/)!
 

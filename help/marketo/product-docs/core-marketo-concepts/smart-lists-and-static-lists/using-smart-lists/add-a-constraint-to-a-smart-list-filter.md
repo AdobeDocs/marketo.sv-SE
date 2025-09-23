@@ -4,7 +4,7 @@ description: Lägg till en begränsning i ett smart listfilter - Marketo Docs - 
 title: Lägga till en begränsning i ett smart listfilter
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -30,7 +30,7 @@ I det här exemplet lägger vi till begränsningar i ett **[datavärde ändrat](
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-2.png)
 
-1. Välj **[!UICONTROL Previous Value]** under **[!UICONTROL Add Constraint]**.
+1. Välj **[!UICONTROL Add Constraint]** under **[!UICONTROL Previous Value]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-3.png)
 
@@ -38,7 +38,7 @@ I det här exemplet lägger vi till begränsningar i ett **[datavärde ändrat](
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-4.png)
 
-1. Välj **[!UICONTROL New Value]** under **[!UICONTROL Add Constraint]**.
+1. Välj **[!UICONTROL Add Constraint]** under **[!UICONTROL New Value]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-5.png)
 

@@ -4,7 +4,7 @@ description: Understanding Content Analytics - Marketo Docs - Product Documentat
 title: Förstå Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Ytterligare innehållsanalyser är:
 
 * **[!UICONTROL Views]**: Vyer av den aktuella innehållsdelen för det valda tidsintervallet
 * **[!UICONTROL Direct Conversions]**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
+* **[!UICONTROL Conversion Rate]****:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
 
 **[!UICONTROL Trends]**
 

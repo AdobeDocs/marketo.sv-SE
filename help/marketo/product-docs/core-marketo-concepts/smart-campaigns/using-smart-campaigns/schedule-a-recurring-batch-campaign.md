@@ -4,16 +4,16 @@ description: Schemalägg en återkommande batchkampanj - Marketo Docs - produktd
 title: Schemalägg en återkommande batchkampanj
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Schemalägg en återkommande batchkampanj {#schedule-a-recurring-batch-campaign}
 
-Med Återkommande kan ni köra en gruppkampanj enligt ett regelbundet schema. Exempel: en gång i veckan, tisdagar klockan 10:00.
+Med Återkommande kan ni köra en gruppkampanj enligt ett regelbundet schema. Exempel: en gång i veckan, tisdagar klockan 10:00 förmiddag.
 
 1. Välj Smart Campaign, gå till fliken **[!UICONTROL Schedule]** och klicka på **[!UICONTROL Schedule Recurrence]**.
 

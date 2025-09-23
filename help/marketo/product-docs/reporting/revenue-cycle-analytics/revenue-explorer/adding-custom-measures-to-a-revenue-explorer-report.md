@@ -4,7 +4,7 @@ description: Lägga till anpassade mått i en Intresseutforskarrapport - Marketo
 title: Lägga till anpassade mått i en Intresseutforskarrapport
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

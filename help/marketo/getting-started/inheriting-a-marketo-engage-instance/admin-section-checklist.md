@@ -3,7 +3,7 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   <tr>
    <td>Prenumeration och Marketo Engage produktadministratör</td>
    <td><li>Har din Marketo Engage-prenumeration migrerats till <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> än?
-<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/se/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
+<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
 <li>Har du accepterat inbjudan till Marketo Engage Product Admin? E-postmeddelandet skickas när rollen tilldelas i Adobe Admin Console.
 <br/>     Om inte, leta efter <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> välkomstmeddelandet </a> i din inkorg och acceptera inbjudan att aktivera din Adobe ID.</li></td>
   </tr>
@@ -281,7 +281,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td>Munchkin</td>
    <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte en Marketo Engage-landningssida)?</li>
 <li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>-webbläsarbegäran aktiverad?</li>
-<li>Är ditt <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> konfigurerat?
+<li>Är ditt <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> konfigurerat?
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">webbsidesaktivitetsrapport</a>.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (om tillämpligt)</td>
-<td>Om du följer stegen nedan måste du ha tillgång till <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Om du inte har konfigurerat en Adobe ID än <a href="https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html" target="_blank">lär dig hur du gör det här</a>.
+<td>Om du följer stegen nedan måste du ha tillgång till <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Om du inte har konfigurerat en Adobe ID än <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">lär dig hur du gör det här</a>.
 <br/>
 <li>Har du accepterat inbjudan till <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat produktadministratör</a>? E-postmeddelandet skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du är utsedd som systemadministratör.
 <br/>     Om inte, sök efter välkomstmeddelandet i din inkorg och acceptera inbjudan att konfigurera din Adobe ID.</li>

@@ -4,7 +4,7 @@ description: Godkänn ditt meddelande i appen - Marketo Docs - produktdokumentat
 title: Godkänn ditt meddelande i appen
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%

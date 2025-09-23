@@ -4,7 +4,7 @@ description: Installera e-postplugin-programmet Sales Connect för Gmail - Marke
 title: Installera e-postplugin-programmet Sales Connect för Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

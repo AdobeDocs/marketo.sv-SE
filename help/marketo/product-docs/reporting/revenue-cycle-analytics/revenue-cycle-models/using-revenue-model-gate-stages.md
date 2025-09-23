@@ -4,7 +4,7 @@ description: Using Revenue Model Gate Stages - Marketo Docs - Product Documentat
 title: Använda intäktsmodellens Gate-stadier
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%

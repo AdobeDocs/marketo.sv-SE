@@ -3,7 +3,7 @@ description: Sales Insight Actions User Onboarding Checklist - Marketo Docs - pr
 title: Sales Insight Actions User Onboarding Checklist
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Om du letar efter resurser om hur du kommer igång med Marketo Sales Insight Act
 
 <br/>
 
-Checklistan hjälper dig och ditt team att samordna aktiveringen, konfigurationen och introduktionen av din nya instans av Sales Insight Actions. Du måste göra uppdateringar i Marketo, Salesforce och Marketo Sales Insight Actions för att slutföra installationen, så se till att samordna med administratören för varje system.
+Checklistan hjälper dig och ditt team att samordna aktiveringen, konfigurationen och introduktionen av din nya instans av Sales Insight Actions. Du måste göra uppdateringar i Marketo, Salesforce och Marketo Sales Insight Actions för att slutföra installationen, så se till att samordna med administratören för respektive system.

@@ -4,7 +4,7 @@ description: Sidkolumner - Marketo Docs - produktdokumentation
 title: Sidkolumner för personer
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 3%

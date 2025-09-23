@@ -4,7 +4,7 @@ description: Schemalägg ditt meddelande i appen - Marketo Docs - produktdokumen
 title: Schemalägg ditt meddelande i appen
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

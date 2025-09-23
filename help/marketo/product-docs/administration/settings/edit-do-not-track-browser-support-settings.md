@@ -4,7 +4,7 @@ description: Redigera "Do Not Track" Browser Support Settings - Marketo Docs - P
 title: Redigera inställningar för stöd för Do Not Track-webbläsare
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%

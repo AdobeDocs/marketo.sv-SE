@@ -3,7 +3,7 @@ description: Agentinställningar - Marketo Docs - produktdokumentation
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 
 ## Profilfoto för agent
 
-Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html).
+Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
 
 >[!NOTE]
 >

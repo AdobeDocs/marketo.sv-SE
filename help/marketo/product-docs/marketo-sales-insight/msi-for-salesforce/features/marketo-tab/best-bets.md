@@ -3,7 +3,7 @@ description: Bästa val - Marketo Docs - produktdokumentation
 title: Bästa val
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%

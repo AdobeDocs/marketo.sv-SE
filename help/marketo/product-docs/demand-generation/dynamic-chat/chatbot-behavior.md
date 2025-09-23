@@ -3,7 +3,7 @@ description: Chatbot Behavior - Marketo Docs - produktdokumentation
 title: Chatbot-beteende
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1680'
 ht-degree: 0%

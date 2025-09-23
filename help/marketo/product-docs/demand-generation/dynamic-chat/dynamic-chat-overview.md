@@ -3,7 +3,7 @@ description: Dynamic Chat Overview - Marketo Docs - produktdokumentation
 title: Dynamic Chat - översikt
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Med Dynamic Chat kan ni utnyttja ett lättanvänt gränssnitt för att nå ut ti
 
 >[!TIP]
 >
->Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=sv-SE){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
+>Besök [den här sidan](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om du vill se självstudiekurser om Dynamic Chat.
 
 ## Integreringar {#integrations}
 
@@ -88,7 +88,7 @@ När du uppdaterar språket ändras allt i själva programmet utom orden som du 
 
 ## Dynamic Chat datalagringsbegränsningar {#dynamic-chat-data-retention-limits}
 
-Nedan finns bara några begränsningar/parametrar inom Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Nedan finns bara några begränsningar/parametrar inom Dynamic Chat. En fullständig lista finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datatyp</th>

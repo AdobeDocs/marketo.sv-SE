@@ -4,7 +4,7 @@ description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: Kör kampanj - Marketo Docs - produktdokumentation
 title: Kör kampanj
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Om värdet är true skickas följande tokenkontexter till den underordnade kampa
 
 **API-interaktion**
 
-När du använder Schedule eller Request Campaign [ i API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
+När du använder Schedule eller Request Campaign [ i API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
 
 ## Saker att notera {#things-to-note}
 

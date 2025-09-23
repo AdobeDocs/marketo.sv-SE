@@ -4,7 +4,7 @@ description: Blockera fältuppdateringar vid listimport från otillförlitliga k
 title: Blockera fältuppdateringar vid listimport från otillförlitliga källor
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Du kan lita på data i vissa listor mer än andra. Ibland kan du ha tvivelaktiga
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Hitta det fält du vill använda, markera det och klicka sedan på **[!UICONTROL Block Field Updates]** under **[!UICONTROL Field Actions]**.
+1. Hitta det fält du vill använda, markera det och klicka sedan på **[!UICONTROL Field Actions]** under **[!UICONTROL Block Field Updates]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 

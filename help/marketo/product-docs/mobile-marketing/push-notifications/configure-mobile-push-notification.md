@@ -4,7 +4,7 @@ description: Konfigurera push-meddelanden för mobiler - Marketo Docs - produktd
 title: Konfigurera push-meddelanden för mobilen
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -81,7 +81,7 @@ En URI med djup länk består av tre delar: schemanamn, sökväg och identifiera
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

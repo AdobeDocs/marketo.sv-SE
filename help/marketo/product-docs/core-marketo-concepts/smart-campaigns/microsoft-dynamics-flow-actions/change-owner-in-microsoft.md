@@ -4,7 +4,7 @@ description: Ändra ägare i Microsoft - Marketo Docs - produktdokumentation
 title: Ändra ägare i Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

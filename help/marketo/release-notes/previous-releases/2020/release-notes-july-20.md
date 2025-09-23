@@ -4,7 +4,7 @@ description: Versionsinformation -juli 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -juli 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 0%
@@ -63,6 +63,6 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 * **Resurs-API:t &quot;_method&quot; - parameterborttagning**: Efter september 2020 kommer Resurs-API-slutpunkter inte längre acceptera &quot;_method&quot; för att skicka frågeparametrar i ett POST-brödtext för att kringgå URI-längdbegränsningar. För att tillgodose begäranden som kräver den här parametern ökas URI-gränserna för tillgångs-API:er från 8 kB till 65 kB.
 * **[[!DNL Munchkin] Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: I den här versionen av Munchkin JavaScript Client, version 159, börjar borttagningen av metoden [!DNL Munchkin] Associate Lead. Om den anropas får du ett varningsmeddelande om att metoden kommer att tas bort i en framtida version. När metoden tagits bort kommer den inte längre att fungera och försök att använda den kommer att misslyckas. Marketo Engage-kunder som nyligen har använt den här metoden får ett separat meddelande om hur de använder den.
-* **Stöd för Internet Explorer**: Som tidigare meddelats upphör Marketo Engage support för Internet Explorer 11 den **31 juli 2020**. Vi fortsätter att stödja [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL &#x200B; Apple Safari] och [!DNL Microsoft Edge].
+* **Stöd för Internet Explorer**: Som tidigare meddelats upphör Marketo Engage support för Internet Explorer 11 den **31 juli 2020**. Vi fortsätter att stödja [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL  Apple Safari] och [!DNL Microsoft Edge].
 * **Sky Default Experience**: Alternativet för administratörer eller användare att ange [!DNL Marketo Sky] som standardupplevelse kommer att tas bort i den här versionen som förberedelse för en uppdatering av den primära användarupplevelsen. Mer information om uppdateringen av den primära upplevelsen, som planeras senare i år, kommer att finnas tillgänglig i juli. Användare som har angett [!DNL Marketo Sky] som standardupplevelse, eller som har beviljats åtkomst till [!DNL Marketo Sky], kan fortsätta få åtkomst till [!DNL Marketo Sky] från en panel på startsidan för My Marketo.
 * **Stöd för EdgeHTML (ej Chromium) [!DNL Microsoft Edge]**: Marketo Engage stöder inte längre EdgeHTML-versioner av Microsoft Edge i slutet av 2020. Från och med 1 januari 2021 stöder vi endast den senaste Chromium-versionen av Microsoft Edge.

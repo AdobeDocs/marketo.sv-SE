@@ -3,7 +3,7 @@ description: Syncing Call and Call Key Messages - Marketo Docs - produktdokument
 title: Synkronisera samtal och ringa nyckelmeddelanden
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 0%

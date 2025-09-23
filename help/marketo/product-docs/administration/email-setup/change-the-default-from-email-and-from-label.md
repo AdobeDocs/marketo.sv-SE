@@ -4,7 +4,7 @@ description: Ändra standardvärdet från e-post och från etikett - Marketo Doc
 title: Ändra standard från e-post och från etikett
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 1%

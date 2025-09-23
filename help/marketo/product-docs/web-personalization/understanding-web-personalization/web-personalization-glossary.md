@@ -4,7 +4,7 @@ description: Personalization-ordlista för webben - Marketo Docs - produktdokume
 title: Personalization-ordlista för webben
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%

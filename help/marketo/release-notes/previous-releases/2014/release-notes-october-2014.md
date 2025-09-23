@@ -4,7 +4,7 @@ description: Versionsinformation -oktober 2014 - Marketo Docs - produktdokumenta
 title: Versionsinformation -oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Använd API för att dra igång nya aktiviteter eller ändringar av leads:
 * Hämta aktivitetstyper
 * Hämta växlingstoken
 
-Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
+Fullständig information kommer att finnas tillgänglig efter releasen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Skicka Marketo-e-post för [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Använd ett nytt samtal som spårar besökarens historik. Anpassa kampanjer base
 * Produkter som är intresserade av
 * Vilka RTP-kampanjer de har sett
 
-Mer information finns på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Mer information finns på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).

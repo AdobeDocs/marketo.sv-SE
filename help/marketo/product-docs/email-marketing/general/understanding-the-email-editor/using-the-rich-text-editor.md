@@ -4,7 +4,7 @@ description: Använda RTF-redigeraren - Marketo Docs - produktdokumentation
 title: Använda RTF-redigeraren
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 1%

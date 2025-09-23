@@ -4,7 +4,7 @@ description: Versionsinformation -juni 2014 - Marketo Docs - produktdokumentatio
 title: Versionsinformation -juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -35,7 +35,7 @@ När du skickar ett test-e-postmeddelande från [!DNL Sales Insight] går det in
 
 ## Lead REST API {#lead-rest-api}
 
-Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. Om du vill komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api) för mer information om hur du använder API:t.
+Skapa, läs och uppdatera leads programmatiskt via vårt nya ReST-API. Om du vill komma igång med ReST måste du [skapa en anpassad tjänst](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) i Marketo. Gå sedan till [utvecklarwebbplatsen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) för mer information om hur du använder API:t.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns - uppdatering {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

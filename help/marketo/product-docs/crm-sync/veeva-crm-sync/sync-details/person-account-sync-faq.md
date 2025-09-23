@@ -3,7 +3,7 @@ description: Synkronisering av personkonto - frågor och svar - Marketo Docs - p
 title: Vanliga frågor om synkronisering av personkonto
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%

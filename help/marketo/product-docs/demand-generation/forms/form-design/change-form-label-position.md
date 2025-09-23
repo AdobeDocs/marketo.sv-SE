@@ -4,10 +4,10 @@ description: Ändra formuläretikettposition - Marketo Docs - produktdokumentati
 title: Ändra formuläretikettposition
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

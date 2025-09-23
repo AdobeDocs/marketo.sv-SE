@@ -4,7 +4,7 @@ description: SEO - Hantera listor - Marketo Docs - Produktdokumentation
 title: SEO - Hantera listor
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%

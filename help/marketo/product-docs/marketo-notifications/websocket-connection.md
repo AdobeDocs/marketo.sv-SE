@@ -4,7 +4,7 @@ title: Meddelande - Webbsocketanslutning
 hide: true
 hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
-source-git-commit: eb3e7983f7521d025dff1f5d79b8caeaeb0f622c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

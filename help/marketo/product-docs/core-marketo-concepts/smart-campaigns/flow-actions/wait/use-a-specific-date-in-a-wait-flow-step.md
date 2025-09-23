@@ -4,7 +4,7 @@ description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs 
 title: Använd ett specifikt datum i ett vänteflödessteg
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan använda flödessteget [!UICONTROL Wait] om du vill pausa en persons resa via en smart kampanj till ett visst datum.
 
-1. Dra över flödessteget **[!UICONTROL Wait]** på fliken Smart Campaign **[!UICONTROL Flow]**.
+1. Dra över flödessteget **[!UICONTROL Flow]** på fliken Smart Campaign **[!UICONTROL Wait]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ Du kan använda flödessteget [!UICONTROL Wait] om du vill pausa en persons resa
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Välj **[!UICONTROL Date]** i listrutan **[!UICONTROL Type]**.
+1. Välj **[!UICONTROL Type]** i listrutan **[!UICONTROL Date]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 

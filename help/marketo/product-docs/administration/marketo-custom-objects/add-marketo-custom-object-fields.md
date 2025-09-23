@@ -4,7 +4,7 @@ description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdo
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%

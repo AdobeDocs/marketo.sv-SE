@@ -3,7 +3,7 @@ description: E-postmallar för transaktionsförsäljning - Marketo Docs - Produk
 title: E-postmallar för transaktionsförsäljning
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Om ditt team skickar ut transaktionsbaserade eller icke-kommersiella e-postmedde
 
 ## Saker att notera {#things-to-note}
 
-* Icke-kommersiella e-postmeddelanden kommer att kringgå avbeställningar av försäljning och [avbeställningskontroll av Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, men kommer inte att kringgå [blockerade domäner](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Icke-kommersiella e-postmeddelanden kommer att kringgå avbrutna säljabonnemang och [Marketo Engage-avanmälningskontroll](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, men kommer inte att kringgå [blockerade domäner](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
 * Meddelanden om att avbeställa prenumerationen läggs inte automatiskt till i icke-kommersiella e-postmeddelanden, även om inställningen [append unsubscribe message admin ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} är aktiverad. Det `{{team_unsubscribe}}` [dynamiska fältet](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} kommer dock fortfarande att fylla i teamets meddelande om att avbryta prenumerationen.
 

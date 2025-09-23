@@ -4,7 +4,7 @@ description: Versionsinformation -mars 2012 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - mars 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Instrumentpanelsfunktion - översikt - Marketo Docs - produktdokume
 title: Översikt över funktionen Insikt i instrumentpanelen
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1473'
 ht-degree: 0%

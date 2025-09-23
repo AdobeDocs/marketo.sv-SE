@@ -4,7 +4,7 @@ description: Lägg till ett befintligt namngivet konto i en kontolista - Marketo
 title: Lägg till ett befintligt namngivet konto i en kontolista
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

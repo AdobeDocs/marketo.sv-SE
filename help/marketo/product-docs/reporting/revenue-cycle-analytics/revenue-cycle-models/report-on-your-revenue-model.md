@@ -4,7 +4,7 @@ description: Rapport om din intäktsmodell - Marketo Docs - produktdokumentation
 title: Rapport om din intäktsmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

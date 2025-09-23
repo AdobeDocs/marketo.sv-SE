@@ -4,7 +4,7 @@ description: Hitta URL:en till en överförd bild eller fil - Marketo Docs - pro
 title: Hitta URL-adressen till en överförd bild eller fil
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 1%

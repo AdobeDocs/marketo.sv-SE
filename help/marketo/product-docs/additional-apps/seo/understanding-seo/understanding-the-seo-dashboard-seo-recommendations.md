@@ -4,14 +4,14 @@ description: Förstå SEO Dashboard -SEO Recommendations - Marketo Docs - produk
 title: Förstå SEO Dashboard -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Förstå SEO Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Förstå SEO-instrumentpanelen: SEO-rekommendationer {#understanding-the-seo-dashboard-seo-recommendations}
 
 Använd kontrollpanelen för att få en översikt över hur nyckelordsrankningarna är trending och hur bra webbplatsen är optimerad för SEO.
 

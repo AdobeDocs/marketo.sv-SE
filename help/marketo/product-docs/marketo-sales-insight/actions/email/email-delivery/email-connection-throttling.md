@@ -3,7 +3,7 @@ description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentat
 title: Begränsning för e-postanslutning
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%

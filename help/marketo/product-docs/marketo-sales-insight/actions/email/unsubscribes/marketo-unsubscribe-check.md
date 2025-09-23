@@ -3,7 +3,7 @@ description: Marketo Unsubscribe Check - Marketo Docs - produktdokumentation
 title: Avbeställ Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

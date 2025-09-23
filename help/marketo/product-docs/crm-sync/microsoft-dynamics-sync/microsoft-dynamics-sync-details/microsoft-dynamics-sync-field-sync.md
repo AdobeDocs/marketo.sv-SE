@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumen
 title: Microsoft Dynamics Sync -Field Sync
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%

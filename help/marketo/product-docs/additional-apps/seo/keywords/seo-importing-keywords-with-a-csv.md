@@ -4,7 +4,7 @@ description: SEO - Importera nyckelord med en CSV - Marketo Docs - Produktdokume
 title: SEO - Importera nyckelord med en CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%

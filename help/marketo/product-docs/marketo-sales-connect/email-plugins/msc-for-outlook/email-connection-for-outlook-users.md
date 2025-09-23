@@ -4,7 +4,7 @@ description: E-postanslutning för Outlook-användare - Marketo Docs - Produktdo
 title: E-postanslutning för Outlook-användare
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%

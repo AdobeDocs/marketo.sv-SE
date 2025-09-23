@@ -4,7 +4,7 @@ description: Graderingsresultat från intäktsutforskaren - Marketo Docs - produ
 title: Diagramresultat från intäktsutforskaren
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%

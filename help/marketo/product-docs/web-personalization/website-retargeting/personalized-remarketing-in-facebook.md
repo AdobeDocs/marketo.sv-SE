@@ -4,10 +4,10 @@ description: Personaliserad Remarketing i Facebook - Marketo Docs - produktdokum
 title: Personaliserad marknadsföring på Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >[!PREREQUISITES]
 >
 >* Slutför installationen av [återmarknadsföring med Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Granska [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
+>* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
 
 ## Skapar en publik i [!DNL Facebook] {#creating-an-audience-in-facebook}
 

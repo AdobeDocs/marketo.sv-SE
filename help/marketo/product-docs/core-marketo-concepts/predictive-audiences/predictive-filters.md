@@ -3,7 +3,7 @@ description: Prediktiva filter - Marketo Docs - produktdokumentation
 title: Prediktiva filter
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -58,6 +58,6 @@ Klicka på ikonen **+** för att enkelt lägga till flera program/smarta listor 
 * Prediktiva filter är inte tillgängliga för utlösarkampanjer.
 * Kloning eller rörliga kampanjer som innehåller prediktiva filter stöds inte.
 * Du kan använda upp till 5 prediktiva filter i en smart lista.
-* Om Marketo Engage påträffar ett fel vid utvärderingen av prediktiva filter avbryts kampanjkörningen automatiskt och du får ett meddelande i Marketo meddelandecenter.
+* Om Marketo Engage stöter på ett fel vid utvärderingen av prediktiva filter avbryts kampanjkörningen automatiskt och du får ett meddelande i Marketo meddelandecenter.
 * Prediktiva filter har för närvarande en indatagräns på 1 miljon kvalificerade personer.
 * Du kan ha upp till 50 aktiva program med prediktiva filter.

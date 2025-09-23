@@ -4,7 +4,7 @@ description: Spåra e-postbilagor - Marketo Docs - produktdokumentation
 title: Spåra e-postbilagor
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

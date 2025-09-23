@@ -4,7 +4,7 @@ description: Sorteringsrapport om kolumner - Marketo Docs - produktdokumentation
 title: Sortera rapport efter kolumner
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

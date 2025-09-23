@@ -3,7 +3,7 @@ description: E-postverifiering - Marketo Docs - produktdokumentation
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # E-postverifiering {#email-verification}
 
-Adobe Marketo Engage-prenumerationer kräver att alla användare som inte är API-baserade, inklusive administratörer för Marketo Engage, verifierar sin e-postadress.
+Adobe Marketo Engage-prenumerationer kräver att alla användare som inte är API-baserade, inklusive Marketo Engage-administratörer, verifierar sin e-postadress.
 
 ## Varför den här funktionen introducerades {#why-this-feature-was-introduced}
 
-Marketo Engage fortsätter lanseringen av e-postverifiering som förberedelse för migrering av kunder till Adobe Business Platform, inklusive användarmigrering till Adobe ID:n. Den här funktionen förbättrar säkerheten för befintliga användarkonton i Marketo Engage. För att en Marketo Engage-användare ska kunna vara kopplad till rätt Adobe ID måste befintliga Marketo Engage-användare verifiera sin e-postadress. En Marketo Engage-användare måste ha en verifierad e-postadress för att kunna migreras till en Adobe ID. Om en Marketo Engage-användare inte verifierar sin e-postadress kan de inte migreras till en Adobe ID och förlorar åtkomsten till en Marketo-prenumeration när användarmigreringen för prenumerationen är klar.
+Marketo Engage fortsätter lanseringen av e-postverifiering som förberedelse för migrering av kunder till Adobe Business Platform, inklusive migrering av användare till Adobe ID:n. Den här funktionen förbättrar säkerheten för befintliga Marketo Engage-användarkonton. För att säkerställa att en Marketo Engage-användare är kopplad till rätt Adobe ID måste befintliga Marketo Engage-användare verifiera sin e-postadress. En Marketo Engage-användare måste ha en verifierad e-postadress för att kunna migreras till en Adobe ID. Om en Marketo Engage-användare inte verifierar sin e-postadress kan de inte migreras till en Adobe ID och förlorar åtkomsten till en Marketo-prenumeration när användarmigreringen för prenumerationen är klar.
 
 ## Användarinbjudan {#user-invite}
 
@@ -56,7 +56,7 @@ I kolumnen **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** visar e-posts
 
 ## Inloggnings-ID för flera användare {#multiple-user-login-ids}
 
-Endast ett användarkonto kan kopplas till en e-postadress. Om det finns flera användarkonton som är associerade med en enda e-postadress måste konflikten lösas i Marketo Engage och alla användarinloggningar som är associerade med e-postadressen visas, liksom tre lösningsalternativ:
+Endast ett användarkonto kan kopplas till en e-postadress. Om det finns flera användarkonton som är kopplade till en e-postadress måste konflikten lösas och alla användarinloggningar som är kopplade till e-postadressen visas, liksom tre lösningsalternativ:
 
 * Använd den aktuella e-postadressen för det aktuella användarens inloggnings-ID
 * Använd ett nytt e-postmeddelande för det aktuella användarens inloggnings-ID

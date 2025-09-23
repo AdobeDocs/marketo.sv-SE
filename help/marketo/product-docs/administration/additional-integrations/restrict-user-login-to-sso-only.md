@@ -4,7 +4,7 @@ description: Begränsa användarinloggning till enbart enkel inloggning - Market
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%

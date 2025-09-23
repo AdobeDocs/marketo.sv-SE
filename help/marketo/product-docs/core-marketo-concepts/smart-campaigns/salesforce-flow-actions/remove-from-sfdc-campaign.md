@@ -4,7 +4,7 @@ description: Ta bort från SFDC Campaign - Marketo Docs - produktdokumentation
 title: Ta bort från SFDC Campaign
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

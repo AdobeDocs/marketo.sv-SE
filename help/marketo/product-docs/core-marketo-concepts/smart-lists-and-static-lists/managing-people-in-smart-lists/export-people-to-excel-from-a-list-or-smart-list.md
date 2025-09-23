@@ -4,7 +4,7 @@ description: Exportera personer till Excel från en lista eller smart lista - Ma
 title: Exportera personer till Excel från en lista eller smart lista
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

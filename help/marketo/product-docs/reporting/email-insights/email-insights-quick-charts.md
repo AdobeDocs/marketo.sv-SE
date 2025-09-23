@@ -4,7 +4,7 @@ description: Snabbdiagram för e-postinsikter - Marketo Docs - produktdokumentat
 title: Snabbdiagram för e-postinsikter
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%

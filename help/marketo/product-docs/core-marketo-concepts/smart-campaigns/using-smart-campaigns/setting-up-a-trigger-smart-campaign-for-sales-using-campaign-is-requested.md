@@ -4,7 +4,7 @@ description: Konfigurera en utlösare smart kampanj för försäljning med"Campa
 title: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -32,7 +32,7 @@ En av de coolaste funktionerna i Marketo är möjligheten att låta säljarna de
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Källalternativen anger vilken typ av begäran som kommer att utföras. Välj **[!UICONTROL Sales Insight]** för Salesforce-funktioner.
+1. Källalternativen anger vilken typ av begäran som kommer att utföras. För Salesforce-funktioner måste du välja **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >

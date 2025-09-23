@@ -4,7 +4,7 @@ description: Skapa en Salesforce Priority Call-rapport med Sales Connect Data - 
 title: Skapa en Salesforce Priority Call-rapport med Sales Connect-data
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

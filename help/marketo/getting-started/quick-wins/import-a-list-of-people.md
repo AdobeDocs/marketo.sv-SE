@@ -4,7 +4,7 @@ description: Importera en lista med människor - Marketo Docs - produktdokumenta
 title: Importera en lista med personer
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 0%

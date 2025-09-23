@@ -4,7 +4,7 @@ description: Växla synlighet för ett formulärfält dynamiskt - Marketo Docs -
 title: Växla synlighet för ett formulärfält dynamiskt
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -69,6 +69,6 @@ Och det är allt! När man fyller i blanketten och väljer USA som land visas f�
 
 >[!IMPORTANT]
 >
->Formulärfältets beteende fungerar sömlöst när fältvärden anges/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
+>Formulärfältets beteende fungerar sömlöst när fältvärden anges/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
 >
 >Villkorliga fält kanske inte fungerar som förväntat om fältvärdena ändras av andra externa skript än Forms 2.0 JavaScript API.

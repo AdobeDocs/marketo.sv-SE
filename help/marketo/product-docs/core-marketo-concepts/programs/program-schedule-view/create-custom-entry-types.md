@@ -4,7 +4,7 @@ description: Skapa anpassade anmälningstyper - Marketo Docs - produktdokumentat
 title: Skapa anpassade posttyper
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 2%

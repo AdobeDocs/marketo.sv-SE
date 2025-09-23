@@ -4,7 +4,7 @@ description: Personinformationsvy - Marketo Docs - produktdokumentation
 title: Persondetaljvy
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%

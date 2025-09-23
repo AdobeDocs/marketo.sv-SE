@@ -4,7 +4,7 @@ description: SEO - Lägg till/ta bort sidproblem från en lista - Marketo Docs -
 title: SEO - Lägg till/ta bort sidproblem från en lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Du kan ordna dina sidproblem i listor. Du kan också ta bort sidproblem från en
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Klicka på **[!UICONTROL Issues]** på fliken **[!UICONTROL Pages]**.
+1. Klicka på **[!UICONTROL Pages]** på fliken **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 

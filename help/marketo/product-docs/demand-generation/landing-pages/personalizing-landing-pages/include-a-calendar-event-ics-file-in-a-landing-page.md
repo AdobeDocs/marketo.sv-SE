@@ -4,7 +4,7 @@ description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - 
 title: Inkludera en ICS-fil för kalenderhändelse på en landningssida
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

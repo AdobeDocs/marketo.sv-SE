@@ -4,7 +4,7 @@ description: Avbryt en schemalagd återkommande batchkampanjkörning - Marketo D
 title: Avbryt en schemalagd återkommande batchkampanjkörning
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Rapport - Marketo Docs - produktdokumentation
 title: Rapport om personer efter status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

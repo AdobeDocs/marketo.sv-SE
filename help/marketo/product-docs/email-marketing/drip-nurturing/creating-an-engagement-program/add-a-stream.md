@@ -4,7 +4,7 @@ description: Lägg till en ström - Marketo Docs - produktdokumentation
 title: Lägg till en ström
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 1%

@@ -4,7 +4,7 @@ description: Change Revenue Stage - Marketo Docs - Product Documentation
 title: Ändra intäktsfas
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

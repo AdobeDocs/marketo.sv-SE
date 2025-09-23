@@ -4,7 +4,7 @@ description: Change Person Partition - Marketo Docs - Product Documentation
 title: Ändra personpartition
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%

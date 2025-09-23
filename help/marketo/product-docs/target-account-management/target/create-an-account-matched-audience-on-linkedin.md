@@ -4,7 +4,7 @@ description: Skapa en kontomatchad publik på  [!DNL LinkedIn] - Marketo Docs - 
 title: Skapa en kontomatchad publik på  [!DNL LinkedIn]
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%

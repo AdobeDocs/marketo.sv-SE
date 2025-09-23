@@ -4,7 +4,7 @@ description: Ersätta en överförd bild eller fil - Marketo Docs - produktdokum
 title: Ersätta en överförd bild eller fil
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

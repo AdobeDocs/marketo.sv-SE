@@ -4,7 +4,7 @@ description: Använd en Marketo-lista eller smart lista som ett LinkedIn Audienc
 title: Använd en Marketo-lista eller smart lista som ett LinkedIn-målsegment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%

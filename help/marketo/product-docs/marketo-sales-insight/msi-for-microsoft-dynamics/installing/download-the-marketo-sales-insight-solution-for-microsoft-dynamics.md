@@ -4,10 +4,10 @@ description: Ladda ned Marketo Sales Insight Solution for Microsoft Dynamics - M
 title: Ladda ned Marketo Sales Insight Solution för Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

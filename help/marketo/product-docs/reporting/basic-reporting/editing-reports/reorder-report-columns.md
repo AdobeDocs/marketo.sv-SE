@@ -4,7 +4,7 @@ description: Ändra ordning på rapportkolumner - Marketo Docs - produktdokument
 title: Sortera om rapportkolumner
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
@@ -44,7 +44,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importera" src="getting-started/assets/getting-started.png" />
+       <img alt="Import" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. Skicka e-post</a>
     </div>
@@ -70,7 +70,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/email-auto-response.md">
-       <img alt="Importera" src="getting-started/assets/getting-started-5.png" />
+       <img alt="Import" src="getting-started/assets/getting-started-5.png" />
        </a>
     <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatiskt svar för e-post</a>
     </div>
@@ -98,7 +98,7 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/personalize-an-email.md">
-       <img alt="Importera" src="getting-started/assets/getting-started-8.png" />
+       <img alt="Import" src="getting-started/assets/getting-started-8.png" />
        </a>
     <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Anpassa ett e-postmeddelande</a>
     </div>
@@ -127,4 +127,4 @@ Utför dessa uppdrag för att lära dig grunderna i Marketo Engage.
 
 ## STEG 4 Grattis! Du är redo för Nation  {#congrats-youre-ready-for-the-nation}
 
-Kolla in [Marketing Nation](https://nation.marketo.com){target="_blank"}!
+Ta en titt på [Marketing Nation](https://nation.marketo.com){target="_blank"}!

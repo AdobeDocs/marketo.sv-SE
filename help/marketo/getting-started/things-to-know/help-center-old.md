@@ -4,7 +4,7 @@ title: Hjälpcenter
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 5%
@@ -13,11 +13,11 @@ ht-degree: 5%
 
 # Hjälpcenter {#help-center}
 
-Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) kan du få tillgång till användbara genomgångar i produkter ordnade efter erfarenhetsnivå.
+Hjälpcentret i Adobe Marketo Engage är en central plats där du kan få hjälp. Förutom att länka ut till olika resurser (t.ex. [produktdokumentation](/help/marketo/home.md){target="_blank"}, [versionsinformation](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) kan du få tillgång till hjälpsamma produktgenomgångar ordnade efter erfarenhetsnivå.
 
 ## Åtkomst {#how-to-access}
 
-När du har loggat in i Marketo Engage klickar du på hjälpikonen.
+När du har loggat in på Marketo Engage klickar du på hjälpikonen.
 
 ![](assets/help-center-1.png)
 
@@ -49,7 +49,7 @@ Guiderna fungerar som snabbgenomgångar för populära funktioner.
 
 ### Nyheter {#whats-new}
 
-Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Engage.
+Fliken Nyheter innehåller all information om Marketo Engage senaste utgåva.
 
 ![](assets/help-center-7.png)
 
@@ -59,6 +59,6 @@ Fliken Nyheter innehåller alla detaljer om den senaste versionen av Marketo Eng
 
 ### Resurser {#resources}
 
-På fliken Resurser får du snabb och direkt åtkomst till olika sätt att få ytterligare hjälp med instansen Marketo Engage.
+På fliken Resurser får du snabb och direkt tillgång till olika sätt att få hjälp med din Marketo Engage-instans.
 
 ![](assets/help-center-8.png)

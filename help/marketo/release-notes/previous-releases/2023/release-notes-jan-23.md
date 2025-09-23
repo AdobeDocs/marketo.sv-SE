@@ -3,7 +3,7 @@ description: Versionsinformation - januari 2023 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 5%
@@ -89,7 +89,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td>Levererat</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=sv-SE">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

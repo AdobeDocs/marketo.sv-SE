@@ -4,7 +4,7 @@ description: Hämta bilderna från en webbsida - Marketo Docs - produktdokumenta
 title: Hämta bilderna från en webbsida
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%

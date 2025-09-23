@@ -4,7 +4,7 @@ description: Understanding Dynamic Content - Marketo Docs - Product Documentatio
 title: Dynamiskt innehåll
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -46,7 +46,7 @@ När du har skapat olika segment kan du lägga till dynamiska innehållsblock p�
 >**Exempel**
 >
 >* Du kan använda ett fragment som en signatur i ett e-postmeddelande. Ändra text dynamiskt beroende på mottagarens plats.
->* På landningssidor har du ett standardiserat område för att ringa in till åtgärd med olika länkar för kunder jämfört med potentiella kunder. Uppdatera hundratals leverantörer centralt.
+>* På landningssidor har du ett vanligt call-to-action-område med olika länkar för kunder jämfört med potentiella kunder. Uppdatera hundratals leverantörer centralt.
 
 Prova det och berätta din historia för oss!
 

@@ -3,7 +3,7 @@ description: CT-YYY-MM-Content on Marketo Landing Page - Marketo Docs - Product 
 title: CT-YYY-MM-Content on Marketo Landing Page
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%

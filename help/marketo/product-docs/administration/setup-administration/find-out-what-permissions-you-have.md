@@ -4,7 +4,7 @@ description: Ta reda på vilka behörigheter du har - Marketo Docs - produktdoku
 title: Ta reda på vilka behörigheter du har
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

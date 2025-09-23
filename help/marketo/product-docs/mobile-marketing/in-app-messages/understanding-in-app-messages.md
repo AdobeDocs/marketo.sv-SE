@@ -4,7 +4,7 @@ description: Om meddelanden i appen - Marketo Docs - produktdokumentation
 title: Förstå meddelanden i appen
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 Använd meddelanden i appen för att interagera direkt med kunderna medan de använder appen. När de öppnar eller utför en anpassad åtgärd kan du presentera ett kampanjerbjudande. Med ett klick tar de sig till en landningssida, en extern webbplats eller en djuplänk, där de kan lära sig mer och göra ett inköp. Eller så kan du klicka för att helt enkelt stänga meddelandet.  Du kan också använda meddelanden i appen som påminnelser till dina kunder om att till exempel slutföra deras profil eller informera dem om nya appfunktioner.
 

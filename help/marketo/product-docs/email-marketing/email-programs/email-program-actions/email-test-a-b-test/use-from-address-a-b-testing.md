@@ -4,7 +4,7 @@ description: Använd A/B-testning från adress - Marketo Docs - produktdokumenta
 title: Använd A/B-testning från adress
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%

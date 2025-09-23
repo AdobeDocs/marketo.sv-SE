@@ -4,7 +4,7 @@ description: Skicka e-post från huvudägaren - Marketo Docs - Produktdokumentat
 title: Skicka e-post från lead-ägaren
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

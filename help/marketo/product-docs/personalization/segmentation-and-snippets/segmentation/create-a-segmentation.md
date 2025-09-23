@@ -4,7 +4,7 @@ description: Skapa en segmentering - Marketo Docs - produktdokumentation
 title: Skapa en segmentering
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 1%

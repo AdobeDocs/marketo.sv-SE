@@ -4,7 +4,7 @@ description: Hur Spåra svar fungerar - Marketo Docs - Produktdokumentation
 title: Hur Svara Tracking fungerar
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

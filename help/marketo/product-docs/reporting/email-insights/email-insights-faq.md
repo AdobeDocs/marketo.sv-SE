@@ -4,7 +4,7 @@ description: Vanliga frågor om e-postinsikter - Marketo Docs - produktdokumenta
 title: Vanliga frågor om e-postinsikter
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%

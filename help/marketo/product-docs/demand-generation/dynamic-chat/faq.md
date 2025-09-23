@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo Docs - produktdokumentation
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Dynamic Chat JavaScript-fragmentet kan installeras på alla webbplatser och på 
 
 **Hur länge lagras data för rapportering?**
 
-90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dagar. En fullständig lista över begränsningar/parametrar finns på Marketo Engage [produktbeskrivningssida](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Har Dynamic Chat stöd för andra språk än engelska?**
 

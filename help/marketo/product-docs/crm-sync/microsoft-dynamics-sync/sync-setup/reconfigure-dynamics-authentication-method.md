@@ -3,7 +3,7 @@ description: Konfigurera om  [!DNL Dynamics] autentiseringsmetod - Marketo Docs 
 title: 'Konfigurera om autentiseringsmetoden  [!DNL Dynamics] '
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%

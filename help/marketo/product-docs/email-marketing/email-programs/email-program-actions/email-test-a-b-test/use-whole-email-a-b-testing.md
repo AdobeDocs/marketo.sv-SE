@@ -4,7 +4,7 @@ description: Använd A/B-testning i hele-post - Marketo Docs - produktdokumentat
 title: Använd A/B-testning i"hele-post"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e
 
 1. Välj ditt andra e-postmeddelande.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klicka på **[!UICONTROL Add]** om du vill använda den andra e-postadressen. Dra skjutreglaget för att välja vilken procentandel av publiken du vill ska få A/B-testet och klicka på **[!UICONTROL Next]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

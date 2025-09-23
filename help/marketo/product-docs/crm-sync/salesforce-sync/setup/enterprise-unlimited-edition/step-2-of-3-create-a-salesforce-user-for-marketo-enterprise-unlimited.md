@@ -4,7 +4,7 @@ description: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterpri
 title: Steg 2 av 3 - Skapa en Salesforce-användare för Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%

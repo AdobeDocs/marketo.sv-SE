@@ -4,7 +4,7 @@ description: SFDC Sync - synkronisering av lead-/kontoägare - Marketo Docs - pr
 title: SFDC Sync - synkronisering av lead-/kontoägare
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

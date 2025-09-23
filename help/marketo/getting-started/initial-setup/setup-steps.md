@@ -4,7 +4,7 @@ short-description: Har du just kommit igång med Adobe Marketo Engage? Lär dig 
 title: Installationssteg
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1663'
 ht-degree: 1%
@@ -147,7 +147,6 @@ Vårt marknadsföringsteam använder nu Marketo-plattformen för att kommunicera
 `3)` Tillåtslista Marketo.
 
     * Om vi använder IP-adresser i e-postadressen Tillåtelselista lägger du till IP-adresserna som listas nedan:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -271,7 +270,7 @@ Marketo Engage har en anpassad spårningsfunktion för JavaScript (kallas [!DNL 
 
 ## Prestandaförväntningar {#performance-expectations}
 
-Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/se/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Vad kan du förvänta dig när det gäller prestanda från Marketo? Den kan variera beroende på hur stora och komplexa era marknadsföringskampanjer är. Men du kan förvänta dig prestandanivåer som är jämförbara med vad som beskrivs i standardkolumnen i flera av tabellerna i [Marketo Engage produktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Kolumnerna&quot;Prestanda&quot; och&quot;Prestanda plus&quot; hänvisar till prestandanivåpaket som ger [högre prestandanivåer](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

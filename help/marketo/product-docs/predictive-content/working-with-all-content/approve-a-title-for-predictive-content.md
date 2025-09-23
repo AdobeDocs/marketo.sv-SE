@@ -4,7 +4,7 @@ description: Godkänn en titel för prediktivt innehåll - Marketo Docs - produk
 title: Godkänn en titel för prediktivt innehåll
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

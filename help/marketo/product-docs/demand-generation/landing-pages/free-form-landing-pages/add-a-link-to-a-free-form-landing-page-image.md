@@ -4,7 +4,7 @@ description: Lägg till en länk till en landningssidbild i fri form - Marketo D
 title: Lägg till en länk till en landningssidbild med valfri form
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

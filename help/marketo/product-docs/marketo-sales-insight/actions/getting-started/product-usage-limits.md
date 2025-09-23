@@ -3,7 +3,7 @@ description: Begränsningar för produktanvändning - Marketo Docs - produktdoku
 title: Begränsningar för produktanvändning
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 12%
@@ -151,7 +151,7 @@ Nedan hittar du begränsningar för användning av utökade säljengagemangsfunk
   <td>1</td>
  </tr>
  <tr>
-  <td>SFDC-anslutning</td>
+  <td>SFDC Connection</td>
   <td>per användare</td>
   <td>1</td>
  </tr>

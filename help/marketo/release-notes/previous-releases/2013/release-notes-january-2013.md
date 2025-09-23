@@ -4,7 +4,7 @@ description: Versionsinformation -januari 2013 - Marketo Docs - produktdokumenta
 title: Versionsinformation - januari 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Operatorordlista för smarta listfilter - Marketo Docs - produktdok
 title: Ordlista för operatorer för smarta listfilter
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -118,7 +118,7 @@ Skriv bara in numret och enheten så fungerar det!
 
 >[!CAUTION]
 >
->När du skapar en smart lista med hjälp av ett datumfältfilter (t.ex. Födelsedatum, Skapat den SFDC) och använder begränsningarna **[!UICONTROL before]**, **[!UICONTROL on or before]** eller **[!UICONTROL in past before]**, kommer den smarta listan även att innehålla personer som inte har något värde i det datumfältet.
+>När du skapar en smart lista med ett datumfältfilter (t.ex. Födelsedatum, Skapat av SFDC) och använder begränsningarna **[!UICONTROL before]**, **[!UICONTROL on or before]** eller **[!UICONTROL in past before]**, kommer den smarta listan även att innehålla personer som inte har något värde i det datumfältet.
 
 Använd följande diagram för att förstå skillnaden mellan datumoperatorerna.
 

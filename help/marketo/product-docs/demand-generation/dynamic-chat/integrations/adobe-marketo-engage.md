@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo Docs - produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Ansluta Dynamic Chat {#connecting-dynamic-chat}
 
-När du har slutfört den [första konfigurationen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} är det dags att utföra engångs-synkroniseringen som ansluter Dynamic Chat till din Adobe Marketo Engage-prenumeration.
+När du har slutfört den [första konfigurationen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} är det dags att utföra engångssynkroniseringen som ansluter Dynamic Chat till din Adobe Marketo Engage-prenumeration.
 
 >[!NOTE]
 >
->Dynamic Chat stöder synkronisering av [Marketo-inbyggda](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} och anpassade personfält och företagsfält.
+>Dynamic Chat har stöd för synkronisering av [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} och anpassade personfält och företagsfält.
 
 1. Klicka på panelen **[!UICONTROL Dynamic Chat]** i Min Marketo.
 
@@ -28,7 +28,7 @@ När du har slutfört den [första konfigurationen](/help/marketo/product-docs/d
    >
    >Om du inte ser rutan kan du kontakta Marketo Admin.
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Välj **[!UICONTROL Integrations]** om du vill ansluta din Marketo-instans.
 
@@ -38,7 +38,7 @@ När du har slutfört den [första konfigurationen](/help/marketo/product-docs/d
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Välj upp till 50 attribut (standardfält eller anpassade fält) från din Marketo-instans för synkronisering med Dynamic Chat för målgruppsanpassning, datamappning och personalisering. Klicka på **[!UICONTROL Next]** när du är klar.
+1. Välj upp till 50 attribut (standardfält eller anpassade fält) från din Marketo-instans för att synkronisera med Dynamic Chat för målgruppsanpassning, datamappning och personalisering. Klicka på **[!UICONTROL Next]** när du är klar.
 
    ![](assets/adobe-marketo-engage-4.png)
 
@@ -54,7 +54,7 @@ När du har slutfört den [första konfigurationen](/help/marketo/product-docs/d
 
 Så här lägger du till ytterligare attribut efter den första synkroniseringen.
 
-1. Kontrollera att fliken **[!UICONTROL Adobe Marketo Engage]** är markerad i **[!UICONTROL Integrations]** och klicka på **[!UICONTROL Add Attribute]**.
+1. Kontrollera att fliken **[!UICONTROL Integrations]** är markerad i **[!UICONTROL Adobe Marketo Engage]** och klicka på **[!UICONTROL Add Attribute]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
@@ -74,7 +74,7 @@ Så här tar du bort ett attribut efter den första synkroniseringen.
 >
 >Du kan bara se alternativet att ta bort ett attribut om det inte används av några dialogrutor.
 
-1. Kontrollera att fliken **[!UICONTROL Adobe Marketo Engage]** är markerad i **[!UICONTROL Integrations]** och klicka på det attribut du vill ta bort.
+1. Kontrollera att fliken **[!UICONTROL Integrations]** är markerad i **[!UICONTROL Adobe Marketo Engage]** och klicka på det attribut du vill ta bort.
 
    ![](assets/adobe-marketo-engage-9.png)
 

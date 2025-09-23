@@ -4,7 +4,7 @@ description: Versionsinformation - maj 2015 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - maj 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%

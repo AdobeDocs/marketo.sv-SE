@@ -4,7 +4,7 @@ description: Pausa personer i ett engagemangsprogram - Marketo Docs - produktdok
 title: Pausa personer i ett engagemangsprogram
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

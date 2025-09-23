@@ -4,7 +4,7 @@ description: Using the Success Path Analyzer - Marketo Docs - Product Documentat
 title: Använda sökvägsanalysen
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Använd taggar i ett program - Marketo Docs - produktdokumentation
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

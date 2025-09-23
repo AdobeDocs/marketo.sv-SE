@@ -4,7 +4,7 @@ description: Guided Landing Page Template List - Marketo Docs - Product Document
 title: Lista med guidade landningssidmallar
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%

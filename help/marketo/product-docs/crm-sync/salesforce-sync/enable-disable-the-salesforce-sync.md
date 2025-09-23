@@ -4,7 +4,7 @@ description: Aktivera/inaktivera Salesforce Sync - Marketo Docs - produktdokumen
 title: Aktivera/inaktivera Salesforce Sync
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

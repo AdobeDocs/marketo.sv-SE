@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360352
 description: Konfigurera dina SOAP API-inställningar - Marketo Docs - produktdokumentation
-title: Konfigurera SOAP API-inställningar
+title: Konfigurera dina SOAP API-inställningar
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
 
 ---
 
-# Konfigurera SOAP API-inställningar {#configuring-your-soap-api-settings}
+# Konfigurera dina SOAP API-inställningar {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
@@ -35,8 +35,8 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->Din SOAP och [!UICONTROL User ID] är unika. Skicka inte skärmbilden i den här artikeln till din utvecklare.
+>Din SOAP-slutpunkt och [!UICONTROL User ID] är unika. Skicka inte skärmbilden i den här artikeln till din utvecklare.
 
 >[!MORELIKETHIS]
 >
->[SOAP API-dokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API-dokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

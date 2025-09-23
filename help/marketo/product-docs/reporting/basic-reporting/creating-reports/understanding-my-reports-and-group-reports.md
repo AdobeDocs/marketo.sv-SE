@@ -4,7 +4,7 @@ description: Förstå mina rapporter och grupprapporter - Marketo Docs - produkt
 title: Förstå mina rapporter och grupprapporter
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentati
 title: Godkänn ett kodfragment utan utkast
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Inget utkast utlöses varje gång ett fragment godkänns. Detta inkluderar ett f
 
    ![](assets/approve-the-snippet-2.png)
 
-1. Välj **[!UICONTROL Approve draft]** i listrutan **[!UICONTROL Snippet actions]**.
+1. Välj **[!UICONTROL Snippet actions]** i listrutan **[!UICONTROL Approve draft]**.
 
    ![](assets/approve-the-snippet-3.png)
 

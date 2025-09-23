@@ -3,7 +3,7 @@ description: Alternativ för massutskick - Marketo Docs - produktdokumentation
 title: Alternativ för massutskick
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%

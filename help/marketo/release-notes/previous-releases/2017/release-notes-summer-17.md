@@ -4,7 +4,7 @@ description: Versionsinformation -Sommaren 17 - Marketo Docs - Produktdokumentat
 title: Versionsinformation - Sommaren 17
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%

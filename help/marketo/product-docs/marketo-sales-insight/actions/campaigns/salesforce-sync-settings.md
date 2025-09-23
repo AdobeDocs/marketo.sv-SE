@@ -3,7 +3,7 @@ description: Salesforce Sync Settings - Marketo Docs - produktdokumentation
 title: Salesforce Sync Settings
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 1%

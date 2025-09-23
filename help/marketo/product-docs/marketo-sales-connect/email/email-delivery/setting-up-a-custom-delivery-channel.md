@@ -4,7 +4,7 @@ description: Konfigurera en anpassad leveranskanal - Marketo Docs - produktdokum
 title: Konfigurera en anpassad leveranskanal
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%

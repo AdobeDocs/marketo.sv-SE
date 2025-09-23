@@ -3,7 +3,7 @@ description: Ändra eller ta bort ett interaktivt webbinarium - Marketo Docs - p
 title: Ändra eller ta bort ett interaktivt webbinarium
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Lär dig hur du gör ändringar i ditt interaktiva webbinarium.
 
    >[!NOTE]
    >
-   >Du kan bara spara ett klonat interaktivt webbinarium som interaktivt webbinarium just nu. Spara ett klonat webbinarium som Partner Webinar (t.ex. Zoom, ON24 osv.) kommer snart.
+   >Du kan bara spara ett klonat interaktivt webbinarium som interaktivt webbinarium just nu. Det kommer snart att finnas ett klonat webbinarium som Partner Webinar (t.ex. Zoom, ON24 osv.).
 
 1. Välj inställningar för det klonade webbinariet och klicka på **Klona**.
 

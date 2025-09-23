@@ -4,7 +4,7 @@ description: Gör Marketo Sync User a Marketing User - Marketo Docs - Product Do
 title: Gör Marketo Sync User till marknadsföringsanvändare
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 1%
@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # Gör Marketo Sync User till marknadsföringsanvändare {#make-marketo-sync-user-a-marketing-user}
 
-[Marketo-synkroniseringsanvändaren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} måste vara en Marketing-användare för Salesforce-kampanjsynkroniseringen för att fungera korrekt. Så här gör du för att göra användaren till en marknadsföringsanvändare i Salesforce.
+[Marketo-synkroniseringsanvändaren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} måste vara en Marketing-användare för att Salesforce kampanjsynkronisering ska fungera korrekt. Så här gör du för att göra användaren till marknadsföringsanvändare i Salesforce.
 
 >[!NOTE]
 >
 >**Administratörsbehörigheter krävs**
 
-1. Logga in i Salesforce. Sök efter användare i det vänstra sökfältet och klicka på **[!UICONTROL Users]** under **[!UICONTROL Managing Users]**.
+1. Logga in på Salesforce. Sök efter användare i det vänstra sökfältet och klicka på **[!UICONTROL Users]** under **[!UICONTROL Managing Users]**.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 

@@ -4,7 +4,7 @@ description: Performance Insights Overview - Marketo Docs - produktdokumentation
 title: Översikt över prestandainsikter
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%

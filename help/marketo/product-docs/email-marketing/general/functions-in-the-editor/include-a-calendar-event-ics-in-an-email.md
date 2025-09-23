@@ -4,7 +4,7 @@ description: Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande - Mark
 title: Inkludera en kalenderhändelse (.ics) i ett e-postmeddelande
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 1%

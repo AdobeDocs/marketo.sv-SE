@@ -3,7 +3,7 @@ description: Översikt över interaktiva webbinarier - Marketo Docs - produktdok
 title: Översikt över interaktiva webbinarier
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Interactive Webinars-funktionen är vår inbyggda webbinariplattform i Marketo E
 
 ## Vad är interaktiva webbinarier? {#what-is-interactive-webinars}
 
-Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att tillhandahålla en inbyggd och smidig upplevelse som gör att du kan skapa, hantera och leverera event i Marketo Engage. När du [skapar ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} finns det flera färdiga mötesmallar att välja mellan, som alla är anpassningsbara (du kan också skapa och använda anpassade mallar). Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
+Interaktiva webbinarier stärker upplevelsen av befintliga event och webbinarier genom att tillhandahålla en inbyggd och smidig upplevelse så att du kan skapa, hantera och leverera event inom Marketo Engage. När du [skapar ett interaktivt webbinarium](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} finns det flera färdiga mötesmallar att välja mellan, som alla är anpassningsbara (du kan också skapa och använda anpassade mallar). Deltagarna kan dela datorskärmar/filer, chatta med varandra, sända ljud och video samt delta i interaktiva onlineaktiviteter.
 
 Interaktiva webbinarier erbjuder [tre olika licenser](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, var och en med olika funktioner och kapacitet.
 
@@ -38,7 +38,7 @@ Interaktiva webbinarier finns på alla sex språk som stöds av Marketo: engelsk
 
 **Jag har uttömt det antal interaktiva webbinarier som ingår. Hur får jag fler sessioner eller mer kapacitet?**
 
-Du måste kontakta kontoteamet på Adobe (din kontoansvarige) för att få hjälp.
+Du måste kontakta Adobe Account Team (din kontoansvarige) för att få hjälp.
 
 **Kan jag som Marketo-administratör styra vilka av mina Marketo-användare som kan skapa interaktiva webbinarier?**
 

@@ -4,7 +4,7 @@ description: Ta bort en programstatus från en programkanal - Marketo Docs - pro
 title: Ta bort en programstatus från en programkanal
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Programstatus är kontrollpunkter via en programsökväg (kanal). Om du gör en 
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Markera kanalen som du vill ta bort en status från och klicka sedan på **[!UICONTROL Edit]** under **[!UICONTROL Tag Actions]**.
+1. Markera kanalen som du vill ta bort en status från och klicka sedan på **[!UICONTROL Tag Actions]** under **[!UICONTROL Edit]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 

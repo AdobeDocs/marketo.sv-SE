@@ -4,7 +4,7 @@ description: Kontobaserad webbmarknadsföring med TAM - Marketo Docs - Produktdo
 title: Kontobaserad webbmarknadsföring med TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%

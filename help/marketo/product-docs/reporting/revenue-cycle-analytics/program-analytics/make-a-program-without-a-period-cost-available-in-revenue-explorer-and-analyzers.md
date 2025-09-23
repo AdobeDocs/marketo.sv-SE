@@ -4,7 +4,7 @@ description: Gör ett program utan periodkostnad tillgängligt i Intresseutforsk
 title: Gör ett program utan periodkostnad tillgängligt i Intäktsutforskaren och analytiker
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%

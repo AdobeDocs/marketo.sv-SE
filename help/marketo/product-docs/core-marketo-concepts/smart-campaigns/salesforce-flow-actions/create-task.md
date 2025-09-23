@@ -4,7 +4,7 @@ description: Skapa aktivitet - Marketo Docs - produktdokumentation
 title: Skapa uppgift
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Som marknadsförare har ni information som kan hjälpa försäljningen att sluta
 
 >[!NOTE]
 >
->När Marketo Sync-användaren skapar uppgifter är **[!UICONTROL Due In]** ett obligatoriskt fält för uppgiften som ska skapas i Salesforce. Marketo anger fem dagar som standard om det inte finns något värde.
+>När Marketo Sync User skapar uppgifter är **[!UICONTROL Due In]** ett obligatoriskt fält för uppgiften som ska skapas i Salesforce. Marketo anger fem dagar som standard om det inte finns något värde.
 
 Som standard ser flödessteget ut så här:
 

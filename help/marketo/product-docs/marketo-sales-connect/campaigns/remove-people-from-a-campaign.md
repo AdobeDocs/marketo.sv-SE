@@ -4,7 +4,7 @@ description: Ta bort personer från en kampanj - Marketo Docs - produktdokumenta
 title: Ta bort personer från en kampanj
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Använd kontrollpanelen för e-postprogram - Marketo Docs - produkt
 title: Använda kontrollpanelen för e-postprogram
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%

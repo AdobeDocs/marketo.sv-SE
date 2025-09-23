@@ -4,7 +4,7 @@ description: Filtrera Assets i en Campaign-e-postrapport - Marketo Docs - produk
 title: Filtrera Assets i en kampanjrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

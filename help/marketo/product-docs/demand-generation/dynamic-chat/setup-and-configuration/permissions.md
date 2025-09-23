@@ -3,7 +3,7 @@ description: Behörigheter - Marketo Docs - produktdokumentation
 title: Behörigheter
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Det finns fem standardprofiler med fördefinierade behörigheter som du kan redi
 
 ## Redigera befintliga behörigheter {#edit-existing-permissions}
 
-1. Klicka på **Dynamic Chat** i [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Klicka på [Dynamic Chat](https://adminconsole.adobe.com/){target="_blank"} i **Adobe Admin Console**.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ Nu kan du upprepa den här processen för alla andra Dynamic Chat-områden.
 
 ## Skapa en profil {#create-a-profile}
 
-1. Klicka på **Dynamic Chat** i [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Klicka på [Dynamic Chat](https://adminconsole.adobe.com/){target="_blank"} i **Adobe Admin Console**.
 
    ![](assets/permissions-8.png)
 
@@ -75,7 +75,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
 <table>
 <thead>
   <tr>
-    <th style="width:25%">Dynamic Chat</th>
+    <th style="width:25%">Dynamic Chat Area</th>
     <th>Behörigheter</th>
   </tr>
 </thead>
@@ -84,10 +84,10 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
     <td>Konversationshantering</td>
     <td><li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publish-dialogrutor</li>
+    <li>Publicera dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publish konversationsflöden</li></td>
+    <li>Publicera konversationsflöden</li></td>
   </tr>
   <tr>
     <td>Live Chatt</td>
@@ -129,7 +129,7 @@ Här nedan finns en lista med alla tillgängliga behörigheter för varje områd
 </tbody>
 </table>
 
-**&#42;** är för närvarande endast tillgängligt för Dynamic Prime-användare
+**&#42;** är för närvarande endast tillgängligt för användare av Dynamic Prime
 
 <p>
 
@@ -150,10 +150,10 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <td><i>Konversationshantering</i>
     <li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publish-dialogrutor</li>
+    <li>Publicera dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publish konversationsflöden</li>
+    <li>Publicera konversationsflöden</li>
     <br>
     <i> Live-chatt </i>
     <li>n/a</li>
@@ -238,10 +238,10 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
     <td><i>Konversationshantering</i>
     <li>Visa dialogrutor</li>
     <li>Hantera dialogrutor (skapa, ta bort)</li>
-    <li>Publish-dialogrutor</li>
+    <li>Publicera dialogrutor</li>
     <li>Visa konversationsflöden</li>
     <li>Hantera konversationsflöden (skapa, ta bort)</li>
-    <li>Publish konversationsflöden</li>
+    <li>Publicera konversationsflöden</li>
     <br>
     <i> Live-chatt </i>
     <li>n/a</li>
@@ -309,4 +309,4 @@ Nedan visas de fem standardprofilerna och de behörigheter som är aktiverade so
 </tbody>
 </table>
 
-**&#42;** är för närvarande endast tillgängligt för Dynamic Prime-användare
+**&#42;** är för närvarande endast tillgängligt för användare av Dynamic Prime

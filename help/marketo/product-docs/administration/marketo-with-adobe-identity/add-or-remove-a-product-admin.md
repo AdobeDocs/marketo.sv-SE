@@ -3,7 +3,7 @@ description: Lägg till eller ta bort en produktadministratör - Marketo Docs - 
 title: Lägg till eller ta bort en produktadministratör
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**System**-administratörer skapas bara på organisationsnivå i Adobe. Om du tror att du behöver mer än en kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>**System**-administratörer skapas bara på Adobe Org-nivå. Om du tror att du behöver mer än en kontaktar du [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Lägg till en produktadministratör {#add-a-product-admin}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Klicka på **+**-tecknet. Klicka på nedtryckningen bredvid den önskade Marketo Engage-prenumerationen (om det finns fler än en) och välj önskad produktprofil.
+1. Klicka på **+**-tecknet. Klicka på nedtryckningen bredvid önskad Marketo Engage-prenumeration (om det finns fler än en) och välj önskad produktprofil.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -66,7 +66,7 @@ Användaren får sedan två e-postmeddelanden. Det första e-postmeddelandet med
 
 >[!NOTE]
 >
->När produktadministratörsanvändaren läggs till i Marketo Engage via Adobe Admin Console får användaren rollen produktadministratör för Adobe i prenumerationen.
+>När produktadministratörsanvändaren läggs till i Marketo Engage via Adobe Admin Console får användaren Adobe produktadministratörsroll i prenumerationen.
 
 ## Ta bort en administratör {#remove-a-user}
 

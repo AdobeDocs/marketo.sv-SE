@@ -4,10 +4,10 @@ description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo
 title: Gör ditt avbeställningsmeddelande dynamiskt för språk
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '434'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. Klicka på **[!UICONTROL New Segmentation]** i listrutan **[!UICONTROL New]**.
+1. Klicka på **[!UICONTROL New]** i listrutan **[!UICONTROL New Segmentation]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
@@ -71,7 +71,7 @@ Standardmeddelandet och länken för att avbryta prenumerationen är på engelsk
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Klicka på **[!UICONTROL New Snippet]** i listrutan **[!UICONTROL New]**.
+1. Klicka på **[!UICONTROL New]** i listrutan **[!UICONTROL New Snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 

@@ -4,7 +4,7 @@ description: Använd indatamaskering på ett fält i ett formulär - Marketo Doc
 title: Använda indatamaskering på ett fält i ett formulär
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%

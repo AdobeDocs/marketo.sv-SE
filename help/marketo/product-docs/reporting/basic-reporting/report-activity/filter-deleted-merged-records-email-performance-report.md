@@ -2,7 +2,8 @@
 description: Filtrera sammanfogade/borttagna poster i en e-postrapport - Marketo Docs - Produktdokumentation
 title: Filtrera sammanfogade/borttagna poster i en e-postrapport
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

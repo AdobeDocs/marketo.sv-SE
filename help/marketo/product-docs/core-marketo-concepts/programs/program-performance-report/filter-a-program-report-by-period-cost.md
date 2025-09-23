@@ -4,7 +4,7 @@ description: Filtrera en programrapport efter periodkostnad - Marketo Docs - pro
 title: Filtrera en programrapport efter periodkostnad
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

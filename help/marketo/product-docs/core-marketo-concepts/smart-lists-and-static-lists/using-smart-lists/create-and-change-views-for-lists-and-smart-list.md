@@ -4,7 +4,7 @@ description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs 
 title: Skapa och ändra vyer för listor och smarta listor
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Redigera prediktivt innehåll för rekommendationsfältet - Marketo
 title: Redigera prediktivt innehåll för rekommendationsfältet
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 2%

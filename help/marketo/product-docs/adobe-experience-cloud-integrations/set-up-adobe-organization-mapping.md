@@ -4,7 +4,7 @@ description: Konfigurera Adobe organisationsmappning - Marketo Docs - produktdok
 title: Konfigurera Adobe organisationsmappning
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 1%
@@ -36,7 +36,7 @@ För att kunna synkronisera med Adobe-program som Audience Manager, B2B CDP Mark
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=sv-SE){target="_blank"}) och klicka på **[!UICONTROL OK]**.
+1. Ange ditt Adobe IMS-organisations-ID (läs om hur du hittar [här](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) och klicka på **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

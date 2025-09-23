@@ -3,7 +3,7 @@ description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
 title: NL-ÅÅÅ-MM-Newsletter
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 1%

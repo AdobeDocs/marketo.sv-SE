@@ -4,7 +4,7 @@ description: Redigera och ta bort anpassade Marketo-objektfält - Marketo Docs -
 title: Redigera och ta bort anpassade Marketo-objektfält
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

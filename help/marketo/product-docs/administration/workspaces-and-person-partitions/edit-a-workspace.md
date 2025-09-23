@@ -4,7 +4,7 @@ description: Redigera en Workspace - Marketo Docs - produktdokumentation
 title: Redigera en Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%

@@ -4,10 +4,10 @@ description: E-postrapport, kampanjprestanda på flera arbetsytor - Marketo Docs
 title: E-postrapport, kampanjprestanda i flera arbetsytor
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

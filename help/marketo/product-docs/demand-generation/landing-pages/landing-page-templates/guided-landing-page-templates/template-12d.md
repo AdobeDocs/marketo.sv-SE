@@ -4,7 +4,7 @@ description: Mall 12D - Marketo Docs - produktdokumentation
 title: Mall 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 12D {#template-12d}
 
-Högerklicka för att [hämta mall 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=sv-SE)
+Högerklicka för att [hämta mall 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=sv-SE)
+[Mall 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)

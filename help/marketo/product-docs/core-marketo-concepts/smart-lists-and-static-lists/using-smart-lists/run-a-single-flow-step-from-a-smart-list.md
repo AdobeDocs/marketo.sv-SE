@@ -4,7 +4,7 @@ description: Köra ett enda flödessteg från en smart lista - Marketo Docs - pr
 title: Köra ett enda flödessteg från en smart lista
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 1%

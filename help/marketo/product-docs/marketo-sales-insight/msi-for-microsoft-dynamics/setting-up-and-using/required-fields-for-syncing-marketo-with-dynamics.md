@@ -4,7 +4,7 @@ description: Obligatoriska fält för synkronisering av Marketo med Dynamics - M
 title: Obligatoriska fält för synkronisering av Marketo med Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 1%

@@ -3,10 +3,10 @@ unique-page-id: 2953207
 description: Skapa ny kampanjmapp - Marketo Docs - produktdokumentation
 title: Skapa ny kampanjmapp
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

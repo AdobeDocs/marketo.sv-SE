@@ -4,7 +4,7 @@ description: Skapa en användare med endast API - Marketo Docs - produktdokument
 title: Skapa endast en API-användare
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Skapa endast en API-användare {#create-an-api-only-user}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} måste du skapa en användare som bara har API. Så här gör du.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} måste du skapa en användare som bara har API. Så här gör du.
 
 >[!IMPORTANT]
 >

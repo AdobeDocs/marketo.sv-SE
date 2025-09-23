@@ -3,7 +3,7 @@ description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Ändra medlemsuppgifter för program
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

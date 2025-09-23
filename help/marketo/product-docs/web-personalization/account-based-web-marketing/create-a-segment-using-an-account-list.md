@@ -4,7 +4,7 @@ description: Skapa ett segment med hjälp av en kontolista - Marketo Docs - prod
 title: Skapa ett segment med hjälp av en kontolista
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

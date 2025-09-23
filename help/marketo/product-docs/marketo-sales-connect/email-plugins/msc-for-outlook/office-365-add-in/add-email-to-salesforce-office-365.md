@@ -4,7 +4,7 @@ description: Lägg till e-post till Salesforce (Office 365) - Marketo Docs - Pro
 title: Lägg till e-post till Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

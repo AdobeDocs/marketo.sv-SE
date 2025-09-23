@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: HTML-kodning av token i e-post - Marketo Docs - produktdokumentation
-title: HTML-kodning av token i e-postmeddelanden
+description: HTML Encode Tokens in emails - Marketo Docs - produktdokumentation
+title: HTML Encode Tokens in emails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
 
 ---
 
-# HTML-kodning av token i e-postmeddelanden {#html-encode-tokens-in-emails}
+# HTML Encode Tokens in emails {#html-encode-tokens-in-emails}
 
 Aktivera/inaktivera token för personer och företag som används i e-postmeddelanden.
 

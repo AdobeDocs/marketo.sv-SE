@@ -3,7 +3,7 @@ description: Stream Designer - Marketo Docs - produktdokumentation
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 0%
@@ -145,7 +145,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-11.png)
 
-1. Eftersom det är ett mål drar du kortet _[!UICONTROL Goal]_&#x200B;nedanför mötesbokningen.
+1. Eftersom det är ett mål drar du kortet _[!UICONTROL Goal]_nedanför mötesbokningen.
 
    ![](assets/stream-designer-12.png)
 

@@ -4,7 +4,7 @@ description: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbeg
 title: Lägg till/ta bort anpassat objektfält som smart lista/utlösarbegränsningar
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

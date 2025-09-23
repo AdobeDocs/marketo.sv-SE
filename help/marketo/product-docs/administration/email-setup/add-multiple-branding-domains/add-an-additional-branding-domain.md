@@ -4,7 +4,7 @@ description: Lägg till en extra varumärkesdomän - Marketo Docs - produktdokum
 title: Lägg till en extra varumärkesdomän
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
 Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
-1. Välj _[!UICONTROL Admin]_&#x200B;i området **[!UICONTROL Email]**.
+1. Välj _[!UICONTROL Admin]_i området **[!UICONTROL Email]**.
 
-1. Markera domänraden på fliken _[!UICONTROL Domain]_&#x200B;och klicka på&#x200B;**[!UICONTROL Add SSL]**.
+1. Markera domänraden på fliken _[!UICONTROL Domain]_och klicka på&#x200B;**[!UICONTROL Add SSL]**.
 
    ![Admin - E-post - Domän - Lägg till SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,7 +91,7 @@ Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 

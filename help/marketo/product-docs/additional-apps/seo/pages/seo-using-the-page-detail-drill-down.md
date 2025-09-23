@@ -4,7 +4,7 @@ description: SEO - Använda detaljgranskning - Marketo Docs - produktdokumentati
 title: SEO - Använda detaljnivå för sidan nedåt
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 | [!UICONTROL Facebook Likes] | Antal gånger som den här sidresursen har gillats på [!DNL Facebook]. |
 | [!UICONTROL Facebook Clicks] | Antal klick från [!DNL Facebook share]. |
 
-## [!UICONTROL Keyword(s) that Page is Optimized For] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Keyword(s) that Page is Optimized For]  {#keyword-s-that-page-is-optimized-for}
 
 Här [väljer du vilket nyckelord du vill optimera sidan för ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 

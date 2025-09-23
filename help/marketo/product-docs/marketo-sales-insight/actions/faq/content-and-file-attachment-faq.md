@@ -3,7 +3,7 @@ description: Innehåll och bifogade filer - Frågor och svar - Marketo Docs - Pr
 title: Vanliga frågor om innehåll och bifogad fil
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%

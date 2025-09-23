@@ -4,7 +4,7 @@ description: Skapa ett evenemang med Adobe Connect - Marketo Docs - produktdokum
 title: Skapa ett evenemang med Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%

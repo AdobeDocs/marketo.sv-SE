@@ -4,7 +4,7 @@ description: Skräddarsy och visa uppvärmningsrutnät - Marketo Docs - produktd
 title: Anpassa och visa värmestödraster
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%

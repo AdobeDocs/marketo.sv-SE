@@ -4,7 +4,7 @@ description: Versionsinformation -höst 17 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
@@ -86,10 +86,10 @@ Spara tid genom att återanvända kreativa resurser och bilder i flera kanaler i
 
 ## Integrering  {#integration}
 
-**[API för e-postförhandsgranskning](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)**
+**[API för e-postförhandsgranskning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Nu kan du förgranska e-post utanför Marketo via fjärranslutning, vilket förenklar processen för lokalisering av e-postinnehåll och minskar antalet fel.
 
-**[Ersätt HTML API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)**
+**[Ersätt HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Utvecklare kan fjärruppdatera HTML-innehåll för e-postresurser, så att de kan arbeta i ett enda system för att underhålla resurser.

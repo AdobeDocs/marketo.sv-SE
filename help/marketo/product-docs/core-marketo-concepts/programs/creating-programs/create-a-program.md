@@ -4,7 +4,7 @@ description: Skapa ett program - Marketo Docs - produktdokumentation
 title: Skapa ett program
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

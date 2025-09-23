@@ -4,7 +4,7 @@ description: Skicka ett mobilpush-meddelande - Marketo Docs - produktdokumentati
 title: Skicka ett mobilpush-meddelande
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 3%

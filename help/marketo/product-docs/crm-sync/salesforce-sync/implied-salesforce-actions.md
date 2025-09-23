@@ -4,7 +4,7 @@ description: Underförstådda Salesforce-åtgärder - Marketo Docs - produktdoku
 title: Underförstådda Salesforce-åtgärder
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Visa kvalificerade personer i en smart kampanj - Marketo Docs - pro
 title: Visa kvalificerade personer i en smart kampanj
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

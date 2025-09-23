@@ -1,18 +1,18 @@
 ---
-description: Logga samtalsorsaker och samtalsresultat för Salesforce - Marketo Docs - produktdokumentation
-title: Logga samtalsorsaker och samtalsresultat till Salesforce
+description: Log Call Reasons and Call Outcome to Salesforce - Marketo Docs - Product Documentation
+title: Logga samtalsorsaker och samtalsresultat för Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# Logga samtalsorsaker och samtalsresultat till Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Logga samtalsorsaker och samtalsresultat för Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-Om du vill logga samtalsresultat och anropa orsaker till Salesforce för rapporterings- eller synlighetssyften kan du skapa ett anpassat aktivitetsfält för varje. Varje fält måste ha ett specifikt API-namn (kallas fältnamn i Salesforce).
+Om du vill logga samtalsresultat och ringa skäl till Salesforce för rapportering eller synlighet kan du skapa ett anpassat aktivitetsfält för varje. Varje fält måste ha ett specifikt API-namn (kallas fältnamn i Salesforce).
 
 * Namn på utdatafält för anrop: mktosales_call_result
 * Fältnamn för anropsorsaker: mktosales_call_reason
@@ -21,7 +21,7 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
 ## Salesforce Classic {#salesforce-classic}
 
-### Skapa anpassat aktivitetsfält i Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
+### Skapa fält för anpassad aktivitet i Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
 1. Klicka på **Konfigurera** i Salesforce.
 
@@ -63,7 +63,7 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### Lägg till anpassat aktivitetsfält till aktivitetssidlayout i Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### Lägg till anpassat aktivitetsfält i aktivitetssidlayouten i Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
@@ -97,7 +97,7 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
 ### Skapa anpassat aktivitetsfält i Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. I Salesforce klickar du på kugghjulsikonen uppe till höger och väljer **Inställningar**.
+1. I Salesforce klickar du på kugghjulsikonen längst upp till höger och väljer **Konfigurera**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
@@ -121,9 +121,9 @@ Om du vill använda dessa fält måste du först skapa fältet som ett anpassat 
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### Lägg till anpassat aktivitetsfält i aktivitetssidlayout i Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Lägg till anpassat aktivitetsfält i uppgiftssidlayouten i Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. I Salesforce klickar du på kugghjulsikonen uppe till höger och väljer **Inställningar**.
+1. I Salesforce klickar du på kugghjulsikonen längst upp till höger och väljer **Konfigurera**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 

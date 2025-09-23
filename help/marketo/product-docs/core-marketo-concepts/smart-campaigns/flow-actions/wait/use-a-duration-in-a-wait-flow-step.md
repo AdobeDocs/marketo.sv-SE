@@ -4,7 +4,7 @@ description: Använd en varaktighet i ett vänteflödessteg - Marketo Docs - pro
 title: Använd en varaktighet i ett vänteflödessteg
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Du kan använda vänteflödessteget för att pausa en persons resa genom en smart kampanj under en viss tidsperiod. Du kan också ange villkor för veckodag och tidpunkt när den slutar.
 
-1. Dra över flödessteget **[!UICONTROL Wait]** på fliken Smart Campaign **[!UICONTROL Flow]**.
+1. Dra över flödessteget **[!UICONTROL Flow]** på fliken Smart Campaign **[!UICONTROL Wait]**.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 

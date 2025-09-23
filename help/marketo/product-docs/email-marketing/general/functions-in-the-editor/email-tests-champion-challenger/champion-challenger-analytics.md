@@ -4,7 +4,7 @@ description: Champion/Challenger -Configure Report Alerts - Marketo Docs - produ
 title: Champion/Challenger -Configure Report Alerts
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

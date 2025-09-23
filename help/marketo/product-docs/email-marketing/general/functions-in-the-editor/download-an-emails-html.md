@@ -4,7 +4,7 @@ description: Ladda ned en e-postadress till HTML - Marketo Docs - produktdokumen
 title: Ladda ned en HTML för e-post
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%

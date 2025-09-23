@@ -4,10 +4,10 @@ description: Skapa ett anpassat mål - Marketo Docs - produktdokumentation
 title: Skapa ett anpassat mål
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -25,7 +25,7 @@ Precis som för presentationer är målen [arbetsyta](/help/marketo/product-docs
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Välj fliken **[!UICONTROL Goals]**.
+1. Klicka på fliken **[!UICONTROL Goals]**.  
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 

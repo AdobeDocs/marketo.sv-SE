@@ -3,7 +3,7 @@ description: Landningssidhuvuden - Marketo Docs - produktdokumentation
 title: Landningssidhuvuden
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Följ stegen nedan för att anpassa några av HTTP-rubrikerna i dina domäner f�
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Här kan du ange om värdbaserade resurser i Marketo Engage kan bäddas in på externa webbsidor eller inte</td>
+  <td>Här kan du ange om värdbaserade Marketo Engage-resurser kan bäddas in på externa webbsidor eller inte</td>
  </tr>
 </table>
 

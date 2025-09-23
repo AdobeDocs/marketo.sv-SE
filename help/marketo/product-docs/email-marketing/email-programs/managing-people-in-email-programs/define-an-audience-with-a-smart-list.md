@@ -4,7 +4,7 @@ description: Definiera en målgrupp med en smart lista - Marketo Docs - produktd
 title: Definiera en publik med en smart lista
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%

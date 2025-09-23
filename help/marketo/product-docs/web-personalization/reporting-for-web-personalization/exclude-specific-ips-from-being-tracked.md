@@ -4,7 +4,7 @@ description: Undanta specifika IP-adresser från att spåras - Marketo Docs - pr
 title: Undanta specifika IP-adresser från spårning
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

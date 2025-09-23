@@ -4,7 +4,7 @@ description: Aktivera innehållsidentifiering - Marketo Docs - produktdokumentat
 title: Aktivera innehållsidentifiering
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

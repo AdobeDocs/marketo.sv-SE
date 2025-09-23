@@ -4,9 +4,9 @@ description: Versionsinformation -feb '20 - Marketo Docs - produktdokumentation
 title: Versionsinformation -feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -59,4 +59,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 * **Resurs-API-parametern &quot;_method&quot;**: Efter september 2020 accepterar inte längre resurs-API-slutpunkter&quot;_method&quot; att skicka frågeparametrar i ett POST-brödtext för att kringgå URI-längdbegränsningar. För att tillgodose begäranden som kräver den här parametern ökas URI-gränsen för tillgångs-API:er från 6KiB till 65KiB, så att långa URI:er för begäran kan skickas.
 * **Supportborttagning för Internet Explorer**: Från och med juliversionen den 31 juli 2020 stöds inte längre Marketo Engage användargränssnitt i Internet Explorer.
 
-**_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) den 3 mars klockan 11:00 PT/2:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.
+**_Webbseminarium om produktreleaser_** [Besök oss](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) den 3 mars 11:00AM PT/2:00PM ET för ett live-webbinarium som våra produktteam är värd för och läs mer om funktionerna i den här versionen.

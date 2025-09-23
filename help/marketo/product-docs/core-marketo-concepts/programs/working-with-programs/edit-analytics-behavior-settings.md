@@ -4,7 +4,7 @@ description: Redigera inställningar för analysbeteende - Marketo Docs - produk
 title: Redigera inställningar för analysbeteende
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Du kan ställa in [analysbeteendet på adminnivå i kanalerna](/help/marketo/pro
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Dra [!UICONTROL Analytics Behavior] till arbetsytan på fliken **[!UICONTROL Setup]**.
+1. Dra **[!UICONTROL Setup]** till arbetsytan på fliken [!UICONTROL Analytics Behavior].
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

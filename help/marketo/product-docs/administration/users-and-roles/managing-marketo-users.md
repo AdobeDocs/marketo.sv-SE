@@ -4,7 +4,7 @@ description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Skapa användare {#create-users}
 

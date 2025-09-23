@@ -3,7 +3,7 @@ description: Lägg till eller ta bort en användare - Marketo Docs - produktdoku
 title: Lägg till eller ta bort en användare
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >En användare _måste_ läggas till i en produktprofil för att få åtkomst till Marketo Engage.
+   >En användare _måste_ läggas till i en produktprofil för att få tillgång till Marketo Engage.
 
 1. Klicka på **[!UICONTROL Save]**.
 
@@ -54,7 +54,7 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
 >[!NOTE]
 >
->När användaren läggs till Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, så görs det i Marketo Engage, [ enligt beskrivningen här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>När användaren läggs till i Marketo Engage via Adobe Admin Console får användaren rollen&quot;Standardanvändare&quot; i standardarbetsytan för prenumerationen. Om användarens roll på arbetsytan behöver justeras, så görs det i Marketo Engage, [enligt beskrivningen här](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Ta bort en användare {#remove-a-user}
 
@@ -86,9 +86,9 @@ Användaren får sedan ett e-postmeddelande om att logga in på Marketo Engage.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-Användaren får sedan ett e-postmeddelande som meddelar att han/hon inte längre har åtkomst till Marketo Engage.
+Användaren får sedan ett e-postmeddelande som meddelar att de inte längre har tillgång till Marketo Engage.
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
->* [Hantera användare individuellt](https://helpx.adobe.com/se/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

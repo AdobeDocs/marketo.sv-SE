@@ -4,7 +4,7 @@ description: Ange hur webbkampanjen visas - Marketo Docs - Produktdokumentation
 title: Ange hur webbkampanjen ska visas
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

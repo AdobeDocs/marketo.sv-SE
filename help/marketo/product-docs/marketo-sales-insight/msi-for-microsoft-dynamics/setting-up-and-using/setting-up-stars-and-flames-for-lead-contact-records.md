@@ -4,7 +4,7 @@ description: Stjärnor och flamma för lead-/kontaktposter - Marketo Docs - prod
 title: Stjärnor och flamma för lead-/kontaktposter
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

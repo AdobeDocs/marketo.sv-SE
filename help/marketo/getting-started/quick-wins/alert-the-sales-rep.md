@@ -4,7 +4,7 @@ description: Meddela säljaren - Marketo Docs - produktdokumentation
 title: Meddela säljaren
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%

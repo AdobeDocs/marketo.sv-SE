@@ -4,7 +4,7 @@ description: Boka en batchvis smart kampanj att köra senare - Marketo Docs - pr
 title: Schemalägg en batchsmart kampanj att köras senare
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

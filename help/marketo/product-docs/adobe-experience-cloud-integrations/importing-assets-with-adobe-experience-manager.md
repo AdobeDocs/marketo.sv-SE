@@ -4,7 +4,7 @@ description: Importera Assets med Adobe Experience Manager - Marketo Docs - prod
 title: Importera Assets med Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Importera Assets med Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM till Marketo [!DNL Design Studio]. **Administratörsbehörighet krävs**.
+Med resursväljaren kan Marketo-kunder komma åt, välja och importera AEM-resurser till Marketo [!DNL Design Studio]. **Administratörsbehörighet krävs**.
 
 >[!AVAILABILITY]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!PREREQUISITES]
 >
->Kontrollera att du redan har utfört [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Kontrollera att du redan har utfört [AEM-konfigurationen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >

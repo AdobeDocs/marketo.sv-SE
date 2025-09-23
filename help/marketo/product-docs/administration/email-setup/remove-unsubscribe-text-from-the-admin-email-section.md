@@ -4,7 +4,7 @@ description: Ta bort avanmälan av text från Admin Email Section - Marketo Docs
 title: Ta bort Avbeställ text från Admin Email Section
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Ta bort Avbeställ text från Admin > E-postavsnitt {#remove-unsubscribe-text-from-the-admin-email-section}
 
-Den enda anledningen till att du någonsin helt bör ta bort innehållet som inte längre är prenumerant i området **[!UICONTROL Admin]** > **[!UICONTROL Email]** är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. Kommentaren HTML visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
+Den enda anledningen till att du någonsin helt bör ta bort innehållet som inte längre är prenumerant i området **[!UICONTROL Admin]** > **[!UICONTROL Email]** är om du väljer att skapa länken för att avbryta prenumerationen i e-postmallarna. Textrutan har en validering som inte tillåter att du sparar utan innehåll. Du kan kringgå detta genom att lägga till en liten HTML-kommentar. HTML-kommentaren visas inte i e-postklienten eftersom den återger e-postmeddelandet i HTML och kommentarerna utelämnas. Så här gör du.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

@@ -4,7 +4,7 @@ description: Navigera i marknadsföringskalendern - Marketo Docs - produktdokume
 title: Navigera i marknadsföringskalendern
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

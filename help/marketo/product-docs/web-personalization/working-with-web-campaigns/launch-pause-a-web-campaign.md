@@ -4,7 +4,7 @@ description: Starta/pausa en webbkampanj - Marketo Docs - Produktdokumentation
 title: Starta/pausa en webbkampanj
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%

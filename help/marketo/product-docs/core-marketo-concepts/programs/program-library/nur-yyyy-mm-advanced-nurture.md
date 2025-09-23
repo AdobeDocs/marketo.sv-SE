@@ -3,7 +3,7 @@ description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - produktdokumentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 1%

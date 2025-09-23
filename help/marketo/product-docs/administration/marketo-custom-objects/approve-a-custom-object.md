@@ -4,7 +4,7 @@ description: Godkänn ett anpassat objekt - Marketo Docs - produktdokumentation
 title: Godkänn ett anpassat objekt
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

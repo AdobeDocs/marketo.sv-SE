@@ -3,7 +3,7 @@ description: Konfigurera MSI-vyer - Marketo Docs - produktdokumentation
 title: Konfigurera MSI-vyer
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

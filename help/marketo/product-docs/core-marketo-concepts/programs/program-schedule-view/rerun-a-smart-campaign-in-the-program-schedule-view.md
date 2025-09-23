@@ -4,7 +4,7 @@ description: Kör en smart kampanj igen i programschemavy - Marketo Docs - produ
 title: Kör en smart kampanj igen i programschemavyn
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

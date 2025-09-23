@@ -4,7 +4,7 @@ description: Byt namn på en smart kampanj - Marketo Docs - produktdokumentation
 title: Byta namn på en smart kampanj
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%

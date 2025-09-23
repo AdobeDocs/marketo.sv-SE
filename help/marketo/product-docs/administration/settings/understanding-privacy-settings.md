@@ -4,7 +4,7 @@ description: Sekretessinställningar - Marketo Docs - produktdokumentation
 title: Sekretessinställningar
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%

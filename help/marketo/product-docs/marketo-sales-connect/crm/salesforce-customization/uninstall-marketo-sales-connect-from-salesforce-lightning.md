@@ -2,10 +2,10 @@
 description: Avinstallera Marketo Sales Connect från Salesforce Lightning - Marketo Docs - produktdokumentation
 title: Avinstallera Marketo Sales Connect från Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

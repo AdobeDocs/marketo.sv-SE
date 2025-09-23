@@ -4,7 +4,7 @@ description: Använd dynamiskt innehåll i en landningssida i fri form - Marketo
 title: Använd dynamiskt innehåll på en landningssida i fri form
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

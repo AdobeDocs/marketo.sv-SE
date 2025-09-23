@@ -4,7 +4,7 @@ description: Skapa underordnade kampanjer och lokala Assets - Marketo Docs - pro
 title: Skapa underordnade kampanjer och lokala Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%

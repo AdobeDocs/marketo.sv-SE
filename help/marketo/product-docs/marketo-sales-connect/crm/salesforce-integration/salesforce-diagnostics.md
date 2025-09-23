@@ -4,7 +4,7 @@ description: Salesforce Diagnostics - Marketo Docs - produktdokumentation
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1322'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Lägg till enkel inloggning på en portal - Marketo Docs - produktd
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

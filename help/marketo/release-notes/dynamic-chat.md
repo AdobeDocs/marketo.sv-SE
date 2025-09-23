@@ -3,7 +3,7 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '3414'
 ht-degree: 1%
@@ -104,7 +104,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>

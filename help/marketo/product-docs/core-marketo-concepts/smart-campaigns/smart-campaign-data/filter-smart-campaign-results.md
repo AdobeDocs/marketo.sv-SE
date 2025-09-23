@@ -4,7 +4,7 @@ description: Filtrera resultat från smarta kampanjer - Marketo Docs - produktdo
 title: Filtrera resultat för smart kampanj
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Filtrera resultaten från Smart Campaign för att se specifika aktiviteter som �
 
 ## Filtrera efter sparade filter {#filter-by-saved-filters}
 
-1. Klicka på **[!UICONTROL Filter]** på fliken Smart Campaign **[!UICONTROL Results]** och välj ett sparat filter.
+1. Klicka på **[!UICONTROL Results]** på fliken Smart Campaign **[!UICONTROL Filter]** och välj ett sparat filter.
 
    ![](assets/filter-smart-campaign-results-1.png)
 

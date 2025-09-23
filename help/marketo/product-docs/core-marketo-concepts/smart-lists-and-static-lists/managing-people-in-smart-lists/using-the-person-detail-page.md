@@ -4,7 +4,7 @@ description: Använda personinformationssidan - Marketo Docs - produktdokumentat
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 14%
@@ -60,7 +60,7 @@ Personinformation kategoriseras på följande flikar:
 
 >[!NOTE]
 >
->Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
+>Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 

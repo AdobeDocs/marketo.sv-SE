@@ -4,7 +4,7 @@ description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Ma
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%

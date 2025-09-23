@@ -4,7 +4,7 @@ description: Företagets webbaktivitetsrapport - Marketo Docs - produktdokumenta
 title: Webbaktivitetsrapport för företag
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_&#x200B;och väljer **[!UICONTROL Sort Descending]**.
+   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_och väljer **[!UICONTROL Sort Descending]**.
 
    [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 

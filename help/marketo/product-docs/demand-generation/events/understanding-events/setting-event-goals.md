@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Ge evenemangen specifika mål och se hur de fungerar.
 
 >[!IMPORTANT]
 >
->Alla har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Skapa ett händelseprogram.
 

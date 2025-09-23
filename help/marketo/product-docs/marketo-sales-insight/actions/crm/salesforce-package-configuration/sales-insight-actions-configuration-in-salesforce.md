@@ -2,7 +2,7 @@
 description: Sales Insight Actions Configuration in Salesforce - Marketo Docs - Product Documentation
 title: Konfiguration av Sales Insight Actions i Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

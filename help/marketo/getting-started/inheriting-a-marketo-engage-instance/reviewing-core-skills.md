@@ -4,7 +4,7 @@ description: Granska nyckelkompetenser - Marketo Docs - produktdokumentation
 title: Granska nyckelkompetenser
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

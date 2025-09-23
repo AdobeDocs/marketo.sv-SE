@@ -4,7 +4,7 @@ description: Komma igång med TAM - Marketo Docs - produktdokumentation
 title: Komma igång med TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: f8b48bca528946095edbe0a1f724fcc0763aa4dd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%

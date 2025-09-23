@@ -3,9 +3,9 @@ description: Versionsinformation - jan 2021 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **Begränsning av e-postanslutning (BETA)**: Förbättra e-postleveransen och skala din 1:1-försäljningskommunikation med e-postanslutningsbegränsning för [!DNL Sales Connect]. Vår nya begränsningsteknik hanterar automatiskt e-posttajmning för att skapa sömlösa upplevelser för [!DNL Exchange]- och Gmail-användare. Minska eller eliminera användningen av massutskick från tredje part.
+* **Begränsning av e-postanslutning (BETA)**: Förbättra e-postleveransen och skala din :1-säljkommunikation med begränsning av e-postanslutning för [!DNL Sales Connect]. Vår nya begränsningsteknik hanterar automatiskt e-posttajmning för att skapa sömlösa upplevelser för [!DNL Exchange]- och Gmail-användare. Minska eller eliminera användningen av massutskick från tredje part.
 * **Spårning av studsande e-postanslutning**: Få insikt i lead-kvalitet och prestanda för e-postmallar med den nya studsrapporten för e-post. [!DNL Exchange]- och Gmail-användare kan välja att ta emot studsmeddelanden som samlas in till Live-feed, e-postmappar, mallanalys och kampanjanalys.
 * **Profilsidkonfiguration**: Hantera användarinställningar enkelt på den nya profilsidan. Ändra lösenord, redigera geopositionerings- och språkinställningar och granska integreringsstatus på ett och samma ställe.
 * **Mallhantering**: Ordna e-postmallar för försäljning i kategorier med en ny dra och släpp-funktion som ger snabb åtkomst till relevanta mallar och minskar söktiden.
@@ -83,4 +83,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 **_Webbseminarium om produktreleaser_**
 
-Vill du veta mer om de här funktionerna och förbättringarna? Var noga med att [registrera dig nu](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) och delta i vårt live-webbinarium den 21 januari klockan 13:00 PT/17:00 ET för att fördjupa dig i dessa innovationer.
+Vill du veta mer om de här funktionerna och förbättringarna? Var noga med att [registrera dig nu](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) och gå med oss den 21 januari klockan 12:00 PT/4:00 PM för ett live webbinarium med vårt produktteam för att fördjupa dig i dessa innovationer.:00

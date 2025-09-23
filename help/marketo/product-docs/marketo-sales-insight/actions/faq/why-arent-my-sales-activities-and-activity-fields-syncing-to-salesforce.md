@@ -2,7 +2,7 @@
 description: Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce? - Marketo Docs - produktdokumentation
 title: Varför synkroniseras inte mina försäljningsaktiviteter och aktivitetsfält till Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%

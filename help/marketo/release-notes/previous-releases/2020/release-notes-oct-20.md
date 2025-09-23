@@ -4,7 +4,7 @@ description: Versionsinformation - okt 20 - Marketo Docs - produktdokumentation
 title: Versionsinformation - 20 okt
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%

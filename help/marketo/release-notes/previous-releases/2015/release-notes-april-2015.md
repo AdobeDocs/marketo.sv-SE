@@ -4,7 +4,7 @@ description: Versionsinformation -April 2015 - Marketo Docs - produktdokumentati
 title: Versionsinformation -april 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%

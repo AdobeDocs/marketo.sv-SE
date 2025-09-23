@@ -4,7 +4,7 @@ description: E-postrapporter - Marketo Docs - produktdokumentation
 title: E-postrapporter
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%

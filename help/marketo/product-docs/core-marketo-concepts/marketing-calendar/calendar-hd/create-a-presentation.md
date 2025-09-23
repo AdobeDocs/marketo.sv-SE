@@ -4,7 +4,7 @@ description: Skapa en presentation - Marketo Docs - produktdokumentation
 title: Skapa en presentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 1%
@@ -13,12 +13,12 @@ ht-degree: 1%
 
 # Skapa en presentation {#create-a-presentation}
 
-Skapa en presentation för att projicera teamets kalendervyer och mål på en HDTV. Presentations är Workspace-specifikt.
+Skapa en presentation för att projicera teamets kalendervyer och mål på en HDTV. Presentationer är Workspace-specifika.
 
 >[!AVAILABILITY]
 >
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 1. Gå till **[!UICONTROL Calendar]**.
 

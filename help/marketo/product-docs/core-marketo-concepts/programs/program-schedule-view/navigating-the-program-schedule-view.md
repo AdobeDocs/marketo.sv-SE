@@ -4,7 +4,7 @@ description: Navigera i programschemavy - Marketo Docs - produktdokumentation
 title: Navigera i programschemavy
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

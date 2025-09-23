@@ -3,7 +3,7 @@ description: Komma igång med prediktiva målgrupper - Marketo Docs - produktdok
 title: Komma igång med prediktiva målgrupper
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -30,7 +30,7 @@ AI/ML-modellernas prestanda beror på informationen i din prenumeration. Ju ofta
 
 ## Tillgänglighet
 
-Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket för Prime eller Ultimate. Om du vill veta mer om hur du får tillgång till den här funktionen kontaktar du kontoteamet på Adobe (din kontoansvarige).
+Prediktiva målgrupper inkluderas och aktiveras automatiskt för instanser som använder prispaket från Prime eller Ultimate. Om du vill veta mer om hur du får tillgång till den här funktionen kontaktar du Adobe Account Team (din kontohanterare).
 
 1. När funktionen har lagts till i din instans går du till sidan **[!UICONTROL Predictive Audiences]** i området **[!UICONTROL Admin]** i Marketo.
 

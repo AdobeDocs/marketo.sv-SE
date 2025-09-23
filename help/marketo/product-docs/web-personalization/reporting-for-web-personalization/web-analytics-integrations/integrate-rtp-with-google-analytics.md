@@ -4,7 +4,7 @@ description: Integrera RTP med Google Analytics - Marketo Docs - produktdokument
 title: Integrera RTP med Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 0%

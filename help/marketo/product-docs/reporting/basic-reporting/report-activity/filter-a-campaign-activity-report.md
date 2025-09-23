@@ -4,7 +4,7 @@ description: Filtrera en kampanjaktivitetsrapport - Marketo Docs - produktdokume
 title: Filtrera en kampanjaktivitetsrapport
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

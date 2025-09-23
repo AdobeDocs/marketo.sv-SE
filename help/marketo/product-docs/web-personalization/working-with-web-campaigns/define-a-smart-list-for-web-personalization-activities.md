@@ -4,7 +4,7 @@ description: Definiera en smart lista för Personalization-aktiviteter på webbe
 title: Definiera en smart lista för Personalization-aktiviteter på webben
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Ta bort innehåll - Marketo Docs - produktdokumentation
 title: Ta bort innehåll
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%

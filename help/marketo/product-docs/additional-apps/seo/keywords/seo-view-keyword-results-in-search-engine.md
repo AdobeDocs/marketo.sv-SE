@@ -4,7 +4,7 @@ description: SEO - Visa nyckelordsresultat i sökmotorn - Marketo Docs - produkt
 title: SEO - Visa nyckelordsresultat i sökmotorn
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 1%

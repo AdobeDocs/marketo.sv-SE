@@ -3,7 +3,7 @@ description: Versionsinformation - september 2023 - Marketo Docs - produktdokume
 title: Versionsinformation - september 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%

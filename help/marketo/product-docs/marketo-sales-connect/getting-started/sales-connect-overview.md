@@ -4,7 +4,7 @@ description: Sales Connect Overview - Marketo Docs - produktdokumentation
 title: Översikt över Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%

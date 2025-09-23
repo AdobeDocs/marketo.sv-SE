@@ -4,7 +4,7 @@ description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - produktdokumen
 title: Konfigurera LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

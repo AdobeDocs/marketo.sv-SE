@@ -3,7 +3,7 @@ description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
 ht-degree: 5%

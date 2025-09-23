@@ -4,7 +4,7 @@ description: Skapa en anpassad flik för personinformationssidan - Marketo Docs 
 title: Skapa en anpassad flik för personinformationssidan
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

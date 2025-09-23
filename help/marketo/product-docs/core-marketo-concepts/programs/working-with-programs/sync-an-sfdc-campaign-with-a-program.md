@@ -4,7 +4,7 @@ description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - produ
 title: Synkronisera en SFDC Campaign med ett program
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

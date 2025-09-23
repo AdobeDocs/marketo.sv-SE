@@ -4,7 +4,7 @@ description: Plugin-versioner för  [!DNL Microsoft Dynamics] MSI - Marketo Docs
 title: Plug-in-versioner för  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%

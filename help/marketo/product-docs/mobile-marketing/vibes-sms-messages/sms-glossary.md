@@ -3,7 +3,7 @@ description: SMS-ordlista - Marketo Docs - produktdokumentation
 title: SMS-ordlista
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -32,10 +32,10 @@ Nedan visas några vanliga termer som du kommer att stöta på när du använder
   </tr>
   <tr>
     <td>Företagsnyckel</td>
-    <td>company_key är en unik alfanumerisk identifierare för ditt plattformskonto. Om du har flera företagskonton på Vibes-plattformen (till exempel underordnade konton) kan du ha flera company_keys. Varje instans av Marketo Engage kan endast mappas till en Vibes company_key.</td>
+    <td>company_key är en unik alfanumerisk identifierare för ditt plattformskonto. Om du har flera företagskonton på Vibes-plattformen (till exempel underordnade konton) kan du ha flera company_keys. Varje instans av Marketo Engage kan mappas till endast en Vibes-företagsnyckel.</td>
   </tr>
   <tr>
-    <td>CTA (uppmaning)</td>
+    <td>CTA (call to action)</td>
     <td>Digitala eller fysiska skyltar eller ordningstecken för att få abonnenter att delta i ett återkommande textmeddelandeprogram eller en prenumerationslista. Kan placeras online, på sociala medier, i e-post, i tryck osv.</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Nedan visas några vanliga termer som du kommer att stöta på när du använder
   </tr>
   <tr>
     <td>Händelse</td>
-    <td>En händelse är en definierad förekomst som kan skickas till Vibes-plattformen och användas för att utlösa API-utlösta åtgärder, inklusive meddelandeutskick. Varje händelse innehåller data som är specifika för händelsen, inklusive en event_type, som används för att avgöra vilken API-utlöst meddelandekampanj den motsvarar. Händelse-API:t kan utlösas via Webkrok i Marketo Engage. Läs mer med vår <a href="https://developer-platform.vibes.com/reference/event-api">Event API-referens</a>.</td>
+    <td>En händelse är en definierad förekomst som kan skickas till Vibes-plattformen och användas för att utlösa API-utlösta åtgärder, inklusive meddelandeutskick. Varje händelse innehåller data som är specifika för händelsen, inklusive en event_type, som används för att avgöra vilken API-utlöst meddelandekampanj den motsvarar. Händelse-API:t kan utlösas via webkrok i Marketo Engage. Läs mer med vår <a href="https://developer-platform.vibes.com/reference/event-api">Event API-referens</a>.</td>
   </tr>
   <tr>
     <td>Nyckelord</td>

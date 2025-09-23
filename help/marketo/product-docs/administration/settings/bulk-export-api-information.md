@@ -3,7 +3,7 @@ description: API-information för massexport - Marketo Docs - produktdokumentati
 title: API-information för massexport
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # API-information för massexport {#bulk-export-api-information}
 
-Lär dig hur du kontrollerar hur mycket [kapacitet för API:t för massutdrag](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
+Lär dig hur du kontrollerar hur mycket [API-kapacitet för massextrahering](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} har tagits upp av din Marketo Engage-instans under de senaste sju dagarna.
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Lär dig hur du kontrollerar hur mycket [kapacitet för API:t för massutdrag](h
 
 >[!NOTE]
 >
->Allokeringen för din Marketo Engage-instans återställs dagligen kl. 12.00 CST.
+>Allokeringen för din Marketo Engage-instans återställs dagligen med 01.00 CST.:00

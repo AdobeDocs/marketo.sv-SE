@@ -4,7 +4,7 @@ description: Se lead feed in Salesforce1 - Marketo Docs - produktdokumentation
 title: Se lead-feed i Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Mall 11D - Marketo Docs - produktdokumentation
 title: Mall 11D
 exl-id: ca4ab098-6fc6-48a6-b2b2-0e1f075ea168
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 11D {#template-11d}
 
-Högerklicka för att [hämta mall 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=sv-SE)
+Högerklicka för att [hämta mall 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
 
 ![](assets/template-11d.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=sv-SE)
+[Mall 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)

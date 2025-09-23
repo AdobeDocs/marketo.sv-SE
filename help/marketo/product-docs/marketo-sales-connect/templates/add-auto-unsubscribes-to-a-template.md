@@ -4,7 +4,7 @@ description: Lägg till automatisk avanmälan i en mall - Marketo Docs - produkt
 title: Lägga till automatisk uppsägning av prenumerationer i en mall
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

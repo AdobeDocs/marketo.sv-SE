@@ -4,7 +4,7 @@ description: Implementera RTP i Wordpress - Marketo Docs - produktdokumentation
 title: Implementera RTP i Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

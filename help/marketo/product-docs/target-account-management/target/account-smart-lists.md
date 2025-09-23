@@ -4,7 +4,7 @@ description: Smarta kontolistor - Marketo Docs - produktdokumentation
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%

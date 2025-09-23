@@ -3,7 +3,7 @@ description: Massåtgärder för människor - Marketo Docs - produktdokumentatio
 title: Massåtgärder för personer
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

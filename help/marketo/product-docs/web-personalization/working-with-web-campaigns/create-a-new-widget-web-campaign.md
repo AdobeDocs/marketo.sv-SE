@@ -4,7 +4,7 @@ description: Skapa en ny webbkampanj för widget - Marketo Docs - Produktdokumen
 title: Skapa en ny webbkampanj för widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: Utlösare och filter för försäljningsaktivitet - Marketo Docs - 
 title: Utlösare och filter för försäljningsaktivitet
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

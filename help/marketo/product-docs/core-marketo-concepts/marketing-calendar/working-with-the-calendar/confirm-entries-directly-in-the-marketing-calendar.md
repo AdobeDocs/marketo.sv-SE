@@ -4,7 +4,7 @@ description: Bekräfta transaktioner direkt i marknadsföringskalendern - Market
 title: Bekräfta transaktioner direkt i marknadsföringskalendern
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

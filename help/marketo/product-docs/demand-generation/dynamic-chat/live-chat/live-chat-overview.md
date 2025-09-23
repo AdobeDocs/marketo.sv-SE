@@ -3,7 +3,7 @@ description: Live Chat Overview - Marketo Docs - produktdokumentation
 title: Översikt över live-chatt
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -26,7 +26,7 @@ När besökare begär att få chatta med en agent via din dialogruta har agenter
 
 >[!NOTE]
 >
->Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
+>Agentavataren använder profilbilden från agentens Adobe-kontoprofil. Följ [de här stegen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} för att uppdatera bilden.
 
 ## Använda chattkortet {#using-the-live-chat-card}
 

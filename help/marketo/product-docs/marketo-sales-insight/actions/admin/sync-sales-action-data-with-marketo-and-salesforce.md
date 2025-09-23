@@ -2,7 +2,7 @@
 description: Synkronisera säljåtgärdsdata med Marketo och Salesforce - Marketo Docs - produktdokumentation
 title: Synkronisera säljåtgärdsdata med Marketo och Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 0%

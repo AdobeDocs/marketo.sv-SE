@@ -2,7 +2,7 @@
 description: Bildredigerare - Marketo Docs - produktdokumentation
 title: Bildredigeraren
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

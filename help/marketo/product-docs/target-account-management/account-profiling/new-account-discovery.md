@@ -4,7 +4,7 @@ description: Ny kontoidentifiering - Marketo Docs - produktdokumentation
 title: Ny kontoidentifiering
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%

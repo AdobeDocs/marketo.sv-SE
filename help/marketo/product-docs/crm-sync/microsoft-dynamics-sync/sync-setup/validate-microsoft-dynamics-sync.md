@@ -4,7 +4,7 @@ description: Verifiera [!DNL Microsoft Dynamics] synkronisering - Marketo Docs -
 title: Verifiera [!DNL Microsoft Dynamics] synkronisering
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

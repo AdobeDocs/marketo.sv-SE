@@ -4,7 +4,7 @@ description: Schemalägg engagemangsprogram med mottagartidszon - Marketo Docs -
 title: Schemalägg engagemangsprogram med mottagartidszon
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

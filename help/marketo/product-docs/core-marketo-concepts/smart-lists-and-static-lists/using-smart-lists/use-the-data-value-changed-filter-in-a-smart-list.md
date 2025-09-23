@@ -4,7 +4,7 @@ description: Använd filtret Datavärdet ändrat i en smart lista - Marketo Docs
 title: Använd det datavärde som har ändrats i en smart lista
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

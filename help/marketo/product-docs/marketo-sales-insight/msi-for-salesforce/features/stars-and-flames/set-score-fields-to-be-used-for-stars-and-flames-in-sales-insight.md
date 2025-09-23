@@ -4,7 +4,7 @@ description: Ange poängfält som ska användas för staplar och flamma i Sales 
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

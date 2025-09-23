@@ -4,9 +4,9 @@ description: Versionsinformation - jan 2020 - Marketo Docs - produktdokumentatio
 title: Versionsinformation - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildredigering](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=sv-SE#design-studio): Få åtkomst till Adobe redigeringsfunktioner utan att behöva lämna Marketo Engage. Med den här nya funktionen kan du enkelt förbättra, beskära och lägga till text i bilder direkt i [!UICONTROL Design Studio].
+* [Bildredigering](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Få åtkomst till Adobe redigeringsfunktioner utan att behöva lämna Marketo Engage. Med den här nya funktionen kan du enkelt förbättra, beskära och lägga till text i bilder direkt i [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 >
 >* **ITP 2.1+ [!DNL Munchkin] Uppdatering**: På grund av ändringar i cookie-principen för [!DNL Safari], begränsas möjligheten för [!DNL Munchkin] att spåra användare mellan sessioner på samma domän av ITP till antingen 1 eller 7 dagar baserat på webbläsarversionen som används av besökaren. Därför implementerar vi en ny webbtjänst som tillåter att Munchkin cookies ställs in med en Set-Cookie-rubrik via HTTP-svar. Mer information om hur du implementerar den nya tjänsten finns [här](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) den 3 mars klockan 11:00 PT/2:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.
+**_Webbseminarium om produktreleaser_** [Besök oss](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) den 3 mars 11:00AM PT/2:00PM ET för ett live-webbinarium som våra produktteam är värd för och läs mer om funktionerna i den här versionen.

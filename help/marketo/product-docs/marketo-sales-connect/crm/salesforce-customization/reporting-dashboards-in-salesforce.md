@@ -4,7 +4,7 @@ description: Rapportera instrumentpaneler i Salesforce - Marketo Docs - produktd
 title: Rapportera instrumentpaneler i Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

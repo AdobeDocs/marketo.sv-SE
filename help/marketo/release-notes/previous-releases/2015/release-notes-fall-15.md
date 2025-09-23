@@ -4,7 +4,7 @@ description: Versionsinformation - hösten 2015 - Marketo Docs - produktdokument
 title: Versionsinformation - hösten 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
 ht-degree: 0%

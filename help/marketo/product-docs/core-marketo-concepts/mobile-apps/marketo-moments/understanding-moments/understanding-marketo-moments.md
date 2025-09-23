@@ -4,7 +4,7 @@ description: Understanding Marketo Moments - Marketo Docs - Product Documentatio
 title: Förstå Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Nu ligger kraften i Marketo i dina händer, bokstavligen! Förhandsgranska och s
 
 >[!IMPORTANT]
 >
->Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo, kommer du inte längre att kunna komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Den 2 oktober 2023 tog Adobe bort appen Marketo Moments från alla appbutiker. Om appen redan är installerad på din surfplatta/mobila enhet kan du fortsätta använda den tills vidare. När din Marketo Engage-instans har migrerats till Adobe Identity för autentisering av Marketo kan du inte längre komma åt appen. [Läs mer](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >

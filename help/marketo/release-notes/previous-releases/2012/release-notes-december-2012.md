@@ -4,7 +4,7 @@ description: Versionsinformation - december 2012 - Marketo Docs - produktdokumen
 title: Versionsinformation - december 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%

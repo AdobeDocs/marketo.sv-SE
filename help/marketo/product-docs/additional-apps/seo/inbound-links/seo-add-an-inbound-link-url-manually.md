@@ -4,7 +4,7 @@ description: SEO - Lägg till en inkommande länk-URL manuellt - Marketo Docs - 
 title: SEO - Lägg till en URL för inkommande länk manuellt
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 2%

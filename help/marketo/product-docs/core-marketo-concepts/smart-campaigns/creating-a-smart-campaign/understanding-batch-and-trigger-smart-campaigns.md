@@ -4,7 +4,7 @@ description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Pr
 title: Förstå smarta kampanjer i grupp och utlösare
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Telefon, lokal närvaro - Marketo Docs - produktdokumentation
 title: Lokal närvaro för telefonförsäljning
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

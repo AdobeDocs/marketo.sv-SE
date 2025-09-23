@@ -4,10 +4,10 @@ description: Skicka till  [!DNL Sales Connect] - Marketo Docs - produktdokumenta
 title: Skjut till  [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

@@ -4,7 +4,7 @@ description: Visa kampanjlistan som en annan användare - Marketo Docs - Produkt
 title: Visa kampanjlistan som en annan användare
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

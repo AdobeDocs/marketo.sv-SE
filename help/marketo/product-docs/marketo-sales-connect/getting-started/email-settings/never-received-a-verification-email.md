@@ -4,7 +4,7 @@ description: Har aldrig fått ett bekräftelsemeddelande via e-post - Marketo Do
 title: Har aldrig fått någon bekräftelsemeddelande
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

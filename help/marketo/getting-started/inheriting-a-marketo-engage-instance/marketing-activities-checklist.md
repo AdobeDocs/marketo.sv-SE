@@ -3,7 +3,7 @@ description: Ärvd checklista för instansmarknadsföringsaktiviteter - Marketo 
 title: Ärvd checklista för instansmarknadsföringsaktiviteter
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 0%
@@ -157,7 +157,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   </tr>
   <tr>
    <td>Prenumerations-/Preference Center</td>
-   <td><li>Har du konfigurerat ett <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=sv-SE" target="_blank">prenumerations-/inställningscenter</a>? Fungerar den som den ska?</li></td>
+   <td><li>Har du konfigurerat ett <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">prenumerations-/inställningscenter</a>? Fungerar den som den ska?</li></td>
   </tr>
   <tr>
    <td>Intressanta stunder (om tillämpligt)</td>

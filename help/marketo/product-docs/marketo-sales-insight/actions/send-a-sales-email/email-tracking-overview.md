@@ -3,7 +3,7 @@ description: Översikt över e-postspårning - Marketo Docs - produktdokumentati
 title: E-postspårning - översikt
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%

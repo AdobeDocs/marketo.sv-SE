@@ -4,7 +4,7 @@ description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 of 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 1%

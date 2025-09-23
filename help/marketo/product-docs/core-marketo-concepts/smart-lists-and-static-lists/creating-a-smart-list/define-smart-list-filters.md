@@ -4,7 +4,7 @@ description: Definiera smarta listfilter - Marketo Docs - produktdokumentation
 title: Definiera smarta listfilter
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Låt oss definiera de här filtren för att hitta alla i Kalifornien med en poä
 
    >[!NOTE]
    >
-   >Du kanske lagrar både &quot;Kalifornien&quot; och &quot;CA&quot;. Lär dig hur du [lägger till flera värden i ett Smart List-filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"} om du vill filtrera efter båda värdena och inkludera _alla_ personer från Kalifornien.
+   >Du kanske lagrar både &quot;Kalifornien&quot; och &quot;CA&quot;. Lär dig hur du _lägger till flera värden i ett Smart List-filter_ om du vill filtrera efter båda värdena och inkludera [alla](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"} personer från Kalifornien.
 
 1. Välj operatorn **[!UICONTROL greater than]** och ange &quot;50&quot;.
 

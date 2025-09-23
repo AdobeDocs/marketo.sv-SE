@@ -4,9 +4,9 @@ description: Versionsinformation -August 19 - Marketo Docs - Produktdokumentatio
 title: Versionsinformation - augusti 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -50,4 +50,4 @@ Följande funktioner är icke-kvartalsvisa och kommer att släppas under det tre
 >
 >**Kontrollera att alla klientsystem är TLS 1.2-kompatibla före den 13 december 2019** om du vill behålla din Marketo Engage-åtkomst. Mer detaljerad information finns [här](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webbseminarium om produktreleaser_** [Följ oss](https://engage.marketo.com/August_19_Release_Webinar.html) den 28 augusti klockan 1:00 PT/4:00 ET för ett live-webbinarium som är värd för vårt produktteam och läs mer om funktionerna i den här versionen.
+**_Webbseminarium om produktreleaser_** [Besök oss](https://engage.marketo.com/August_19_Release_Webinar.html) den 28 augusti kl. 1:00PM PT/4:00PM ET för ett live-webbinarium som leds av vårt produktteam och läs mer om funktionerna i den här versionen.

@@ -4,7 +4,7 @@ description: Versionsinformation - oktober 2013 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Följande funktioner ingår i oktober 2013-versionen.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK finns också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) är till för utvecklare som vill skapa integreringar i Marketo. Du kan referera till olika integreringsalternativ, som Munchkin JavaScript API:er, SOAP API-kodexempel, webbhooks och e-postskript. En Java SDK finns också tillgänglig på [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## [!DNL BrightTALK]-händelseadaptern har uppdaterats {#updated-brighttalk-event-adapter}
 

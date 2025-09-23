@@ -4,7 +4,7 @@ description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo 
 title: Skapa transaktioner direkt i marknadsföringskalendern
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

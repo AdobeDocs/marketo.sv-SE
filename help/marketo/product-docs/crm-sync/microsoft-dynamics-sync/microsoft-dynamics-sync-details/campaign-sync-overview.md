@@ -3,7 +3,7 @@ description: Kampanjsynkronisering - Marketo Docs - produktdokumentation
 title: Kampanjsynkronisering - översikt
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

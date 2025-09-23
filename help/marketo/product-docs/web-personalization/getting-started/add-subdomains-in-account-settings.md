@@ -4,7 +4,7 @@ description: Lägg till underdomäner i Kontoinställningar - Marketo Docs - Pro
 title: Lägg till underdomäner i kontoinställningar
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%

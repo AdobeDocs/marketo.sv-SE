@@ -4,7 +4,7 @@ short-description: Lär dig termer för Marketo Engage och deras definitioner s�
 title: Marketo Engage ordlista
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 0%
@@ -261,7 +261,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
   </tr>
   <tr>
    <td colspan="1"><strong>Dokument</strong></td>
-   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home" rel="nofollow">dokument för utvecklare</a> och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">supportdokument</a>.</td>
+   <td colspan="1">Dokumenten är korta för dokument och är hjälpartiklar som kunderna kan använda för att bättre förstå produkten. Marketo har flera olika typer av dokument: produktdokument (den webbplats du för närvarande är på), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">dokument för utvecklare</a> och <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">supportdokument</a>.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domänbaserad meddelandeautentisering, rapportering och överensstämmelse (DMARC)</strong></td>
@@ -444,7 +444,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Känd person</strong></a></td>
-   <td><p>Persondata i Marketo <strong>databas</strong> betraktas som kända persondata. Det finns flera olika sätt för någon att ange din databas, bland annat: CRM-synkronisering, ifyllning av ett formulär, import/manuell ifyllning av listor, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare <strong>cookies</strong> (och är anonyma) via Marketo <strong>Munchkin</strong> webbspårning och mappas sedan till motsvarande kända personpost när en identifierbar åtgärd inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketo-associerade lead-API:er i både <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> och <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">6&rbrace; Resterande API </a></p></td>
+   <td><p>Persondata i Marketo <strong>databas</strong> betraktas som kända persondata. Det finns flera olika sätt för någon att ange din databas, bland annat: CRM-synkronisering, ifyllning av ett formulär, import/manuell ifyllning av listor, programmatisk (övriga API-/partnerintegrationer) med mera. Webbbesökare <strong>cookies</strong> (och är anonyma) via Marketo <strong>Munchkin</strong> webbspårning och mappas sedan till motsvarande kända personpost när en identifierbar åtgärd inträffar (t.ex. klickade på en spårad länk i ett Marketo-e-postmeddelande, fyllde i ett formulär med deras e-postadress eller mappas manuellt via Marketo-associerade lead-API:er i både <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> och <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">6} Resterande API </a></p></td>
   </tr>
  </tbody>
 </table>
@@ -535,7 +535,7 @@ Nedan finns definitioner för många av de termer du kan stöta på när du anv�
    <td>Kallas även MSD. En av de två CRM:erna Marketo har en inbyggd integrering med (se <a href="#c"><strong>CRM</strong></a>).</td>
   </tr>
   <tr>
-   <td><strong><a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
    <td>Marketo egen spårningskod för JavaScript. Här spåras alla personer som besöker er webbplats. Detta inkluderar anonyma besökare (tillsammans med deras IP-adresser och annan information). </td>
   </tr>
   <tr>

@@ -4,7 +4,7 @@ description: Attribution Example 1 - Marketo Docs - Product Documentation
 title: Attribut - exempel 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

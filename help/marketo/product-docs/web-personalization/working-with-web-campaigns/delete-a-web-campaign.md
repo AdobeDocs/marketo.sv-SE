@@ -4,7 +4,7 @@ description: Ta bort en webbkampanj - Marketo Docs - produktdokumentation
 title: Ta bort en webbkampanj
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

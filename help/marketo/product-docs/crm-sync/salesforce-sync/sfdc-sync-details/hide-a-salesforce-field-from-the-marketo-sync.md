@@ -4,7 +4,7 @@ description: Dölj ett Salesforce-fält i Marketo Sync - Marketo Docs - produktd
 title: Dölj ett Salesforce-fält från Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 1%

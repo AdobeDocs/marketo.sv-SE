@@ -4,7 +4,7 @@ description: Förstå anonym aktivitet och människor - Marketo Docs - produktdo
 title: Förstå anonym aktivitet och människor
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%

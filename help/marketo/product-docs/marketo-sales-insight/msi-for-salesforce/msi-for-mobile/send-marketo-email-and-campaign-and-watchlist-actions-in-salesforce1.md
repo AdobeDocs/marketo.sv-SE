@@ -4,7 +4,7 @@ description: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärd
 title: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

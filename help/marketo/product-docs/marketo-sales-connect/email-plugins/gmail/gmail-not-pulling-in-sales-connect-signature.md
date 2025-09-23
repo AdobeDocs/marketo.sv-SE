@@ -4,7 +4,7 @@ description: Gmail Not Pulling In Sales Connect Signature - Marketo Docs - Produ
 title: Gmail hämtar inte in Sales Connect-signatur
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

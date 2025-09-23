@@ -3,7 +3,7 @@ description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%

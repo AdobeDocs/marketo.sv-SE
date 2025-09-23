@@ -2,7 +2,7 @@
 description: Anslut till Gmail - Marketo Docs - produktdokumentation
 title: Anslut till Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

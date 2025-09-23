@@ -4,7 +4,7 @@ description: Ange er målgrupp för meddelanden i appen - Marketo Docs - produkt
 title: Ange målgrupp för meddelanden i appen
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%

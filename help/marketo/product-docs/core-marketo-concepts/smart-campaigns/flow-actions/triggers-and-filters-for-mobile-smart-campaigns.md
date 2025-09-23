@@ -4,7 +4,7 @@ description: Utlösare och filter för smarta mobilkampanjer - Marketo Docs - pr
 title: Utlösare och filter för smarta mobilkampanjer
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Mobilappen har öppnats/öppnats
 
 Har/haft aktivitet för mobilappar
 
-Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} och [för iOS](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Dessa är ett kraftfullt sätt att spåra anpassad mobilaktivitet. Du måste arbeta med utvecklaren för att ställa in spårning [för Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} och [för iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Har aktivitet för mobilappar - utlösare
 

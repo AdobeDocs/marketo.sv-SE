@@ -3,7 +3,7 @@ description: Mätvärden och dimensioner - Marketo Docs - produktdokumentation
 title: Mätvärden och mått
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 3%

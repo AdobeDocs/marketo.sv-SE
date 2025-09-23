@@ -3,7 +3,7 @@ description: Administratörsinstallation - Marketo Docs - produktdokumentation
 title: Administratörsinställningar
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Administratörsinställningar {#admin-setup}
 
-När du har lagts till som systemadministratör för Adobe till Marketo Engage i en Adobe organisation behöver du utföra den första konfigurationen i några få steg.
+När du har lagts till som Adobe-systemadministratör för Marketo Engage i en Adobe-organisation behöver du utföra den första konfigurationen i några få steg.
 
 ## Inledande konfiguration {#initial-setup}
 
@@ -20,15 +20,15 @@ När du har lagts till som systemadministratör för Adobe till Marketo Engage i
 
    ![](assets/admin-setup-1.png)
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
 ## Skapa en produktprofil {#create-a-product-profile}
 
-När systemadministratören har öppnat Admin Console är det dags att skapa en produktprofil. Så här får dina användare/administratörer åtkomst till Marketo Engage.
+När systemadministratören har kommit åt Admin Console är det dags att skapa en produktprofil. Så här får dina användare/administratörer tillgång till Marketo Engage.
 
-1. Klicka på **Marketo Engage** under **[!UICONTROL Products and Services]** på sidan **[!UICONTROL Overview]**.
+1. Klicka på **[!UICONTROL Overview]** Marketo Engage **[!UICONTROL Products and Services]** under **på sidan**.
 
    ![](assets/admin-setup-3.png)
 

@@ -4,7 +4,7 @@ description: Clone a Program Analyzer - Marketo Docs - produktdokumentation
 title: Klona en programanalys
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

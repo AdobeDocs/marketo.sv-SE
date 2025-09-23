@@ -3,7 +3,7 @@ description: Förstå teamfliken - Marketo Docs - produktdokumentation
 title: Förstå teamfliken
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

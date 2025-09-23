@@ -4,10 +4,10 @@ description: Landningssida med ett formulär - Marketo Docs - produktdokumentati
 title: Landningssida med ett formulär
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Välj mappen **Learning** som skapades i den [föregående snabbwin](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Klicka på **[!UICONTROL New Program]** under **[!UICONTROL New]**.
+1. Välj mappen **Learning** som skapades i den [föregående snabbwin](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Klicka på **[!UICONTROL New]** under **[!UICONTROL New Program]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -179,6 +179,6 @@ Snyggt gjort! Nu när vi har skapat ett program går vi vidare och skapar lite i
 
 <br> 
 
-[◄ uppdrag 1: Skicka e-postutsändning](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Mission 1: Skicka en e-postutbrytning](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Uppdrag 3: Enkel poängsättning ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Uppgift 3: Enkel poängsättning ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

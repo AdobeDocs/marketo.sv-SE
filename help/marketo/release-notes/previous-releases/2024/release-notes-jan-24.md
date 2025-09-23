@@ -3,7 +3,7 @@ description: Versionsinformation - januari 2024 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 0%

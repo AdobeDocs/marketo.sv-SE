@@ -3,7 +3,7 @@ description: Adobe Experience Cloud Interface Overview - Marketo Docs - produktd
 title: Adobe Experience Cloud Interface Overview
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -44,11 +44,11 @@ De som har tillgång till flera Adobe-produkter kan enkelt växla mellan dem.
 
 **Meddelanden och meddelanden**
 
-Visa och interagera med produktspecifika meddelanden och allmänna produktmeddelanden för Adobe direkt i programmet.
+Visa och interagera med produktspecifika meddelanden och allmänna produktmeddelanden från Adobe direkt i programmet.
 
 ![](assets/unified-shell-overview-4.png)
 
-**Inställningar för Adobe**
+**Adobe-inställningar**
 
 Klicka på din profilikon om du vill ändra språk eller andra inställningar för hela Adobe.
 
@@ -56,13 +56,13 @@ Klicka på din profilikon om du vill ändra språk eller andra inställningar f�
 
 ## Vanliga frågor och svar {#faq}
 
-**Jag kan inte logga in på [!DNL Marketo Engage] via Experience Cloud. Vad kan problemet vara?**
+**Jag kan inte logga in på [!DNL Marketo Engage] via Experience Cloud-gränssnittet. Vad kan problemet vara?**
 
 Om du kan logga in på Adobe Experience Cloud, men sedan ser felet&quot;Det gick inte att läsa in sidan&quot;, kan problemet finnas på [!DNL Marketo Engage]-sidan. Kontakta [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) om du behöver hjälp.
 
 **Vart gick användarhistorik, global sökning, Marketo-meddelanden och aktivitetsfältet?**
 
-Dessa funktioner har flyttats från den övre navigeringen till ett nytt fält på den vänstra sidan i gränssnittet Experience Cloud.
+De här funktionerna har flyttats från den övre navigeringen till ett nytt fält på den vänstra sidan i Experience Cloud-gränssnittet.
 
 ![](assets/unified-shell-overview-6.png)
 

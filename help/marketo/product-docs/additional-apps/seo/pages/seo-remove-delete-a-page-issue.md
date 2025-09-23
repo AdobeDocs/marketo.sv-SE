@@ -4,7 +4,7 @@ description: SEO - Ta bort/ta bort ett sidproblem - Marketo Docs - produktdokume
 title: SEO - Ta bort/ta bort ett sidproblem
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Alla sidproblem kan inte vara användbara för dig. Så här tar du bort en såd
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicka på **[!UICONTROL Issues]** i avsnittet [!UICONTROL Pages].
+1. Klicka på [!UICONTROL Pages] i avsnittet **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 

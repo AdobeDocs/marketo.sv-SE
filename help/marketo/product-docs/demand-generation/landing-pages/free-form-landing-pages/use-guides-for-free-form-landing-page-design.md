@@ -4,7 +4,7 @@ description: Använd guider för landningssiddesign i fri form - Marketo Docs - 
 title: Använd stödlinjer för landningssiddesign i friform
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

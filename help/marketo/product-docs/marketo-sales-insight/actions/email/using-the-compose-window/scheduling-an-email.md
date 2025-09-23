@@ -1,7 +1,7 @@
 ---
 description: Schemalägga ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Schemalägga ett e-postmeddelande
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

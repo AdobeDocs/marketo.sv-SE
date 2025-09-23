@@ -4,7 +4,7 @@ description: Registrera en app med Azure för att hämta ditt klient-ID/program-
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

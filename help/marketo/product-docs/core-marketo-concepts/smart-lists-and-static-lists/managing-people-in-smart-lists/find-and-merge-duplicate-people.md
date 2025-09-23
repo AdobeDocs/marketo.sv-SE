@@ -4,7 +4,7 @@ description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdo
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

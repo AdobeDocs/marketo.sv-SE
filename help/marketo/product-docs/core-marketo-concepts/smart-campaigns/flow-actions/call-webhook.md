@@ -4,7 +4,7 @@ description: Ring Webkrok - Marketo Docs - produktdokumentation
 title: Ring webkrok
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Med webbhooks kan du interagera med tredjepartstjänster. Skicka/ta emot informa
 
 >[!NOTE]
 >
->Lär dig mer om de många fascinerande saker som [Webhooks](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} kan göra för dig.
+>Lär dig mer om de många fascinerande saker som [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} kan göra för dig.
 
 1. Välj en webkrok i listrutan.
 

@@ -4,7 +4,7 @@ description: Skicka avisering - Marketo Docs - produktdokumentation
 title: Skicka avisering
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

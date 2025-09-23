@@ -4,7 +4,7 @@ description: Översikt över väljaren för e-postmallar - Marketo Docs - Produk
 title: Översikt över väljaren för e-postmall
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%

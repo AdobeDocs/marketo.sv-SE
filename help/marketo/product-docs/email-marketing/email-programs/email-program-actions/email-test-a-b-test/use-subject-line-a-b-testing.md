@@ -4,7 +4,7 @@ description: Använd"Subject line" A/B-testning - Marketo Docs - produktdokument
 title: Använd A/B-testning på ämnesraden
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

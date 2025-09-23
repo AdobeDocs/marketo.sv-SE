@@ -4,7 +4,7 @@ description: Använd segmentfilter i en smart lista - Marketo Docs - produktdoku
 title: Använda segmentfilter i en smart lista
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Leta upp aktivitetsloggen för en person - Marketo Docs - produktdo
 title: Leta reda på aktivitetsloggen för en person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

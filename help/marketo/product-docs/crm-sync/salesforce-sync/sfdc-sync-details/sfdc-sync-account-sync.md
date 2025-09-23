@@ -4,7 +4,7 @@ description: SFDC Sync - Account Sync - Marketo Docs - produktdokumentation
 title: SFDC Sync - kontosynkronisering
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

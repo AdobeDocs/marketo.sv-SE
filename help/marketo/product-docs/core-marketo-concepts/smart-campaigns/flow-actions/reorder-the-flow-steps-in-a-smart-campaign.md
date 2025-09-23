@@ -4,7 +4,7 @@ description: Ändra ordning på flödesstegen i en smart kampanj - Marketo Docs 
 title: Ändra ordning på flödesstegen i en smart kampanj
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%

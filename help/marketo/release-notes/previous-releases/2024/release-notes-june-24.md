@@ -3,7 +3,7 @@ description: Versionsinformation - juni 2024 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juni 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 1%

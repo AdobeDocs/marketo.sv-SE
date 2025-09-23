@@ -3,7 +3,7 @@ description: Säkerhetsinställningar - Marketo Docs - produktdokumentation
 title: Skyddsinställningar
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdok
 title: Redigera meddelandet Visa som webbsida
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

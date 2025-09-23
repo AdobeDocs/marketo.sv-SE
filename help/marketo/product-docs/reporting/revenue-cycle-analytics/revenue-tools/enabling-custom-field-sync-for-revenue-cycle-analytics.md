@@ -4,7 +4,7 @@ description: Aktivera anpassad fältsynkronisering för intäktscykelanalys - Ma
 title: Aktivera anpassad fältsynkronisering för intäktscykelanalys
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 1%

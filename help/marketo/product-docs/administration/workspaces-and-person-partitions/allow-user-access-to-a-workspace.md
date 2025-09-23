@@ -4,7 +4,7 @@ description: Tillåt användaråtkomst till en Workspace - Marketo Docs - produk
 title: Tillåt användaråtkomst till en Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

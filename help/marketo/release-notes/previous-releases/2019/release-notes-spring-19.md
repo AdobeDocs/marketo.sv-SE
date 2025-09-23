@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Versionsinformation - våren 2019 - Marketo Docs - produktdokumentation
 title: Versionsinformation - våren 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%

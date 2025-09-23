@@ -4,7 +4,7 @@ description: Kör en batchsmart kampanj nu | Fliken Schema - Marketo Docs - prod
 title: Kör en batchsmart kampanj nu | Fliken Schema
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

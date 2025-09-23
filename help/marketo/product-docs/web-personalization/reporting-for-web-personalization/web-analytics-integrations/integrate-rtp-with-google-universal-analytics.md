@@ -4,7 +4,7 @@ description: Integrera RTP med Google Universal Analytics - Marketo Docs - produ
 title: Integrera RTP med Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -43,7 +43,6 @@ I det här inlägget beskrivs hur du konfigurerar och integrerar RTP-plattformen
    1. Välj **[!UICONTROL Account].**
    1. Välj **[!UICONTROL Property].**
    1. Välj **[!UICONTROL Custom Definitions]** och **[!UICONTROL Custom Dimensions]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Lägg till en ny anpassad dimension. Klicka på **[!UICONTROL +New Custom Dimension]**

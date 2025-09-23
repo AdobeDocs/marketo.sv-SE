@@ -4,7 +4,7 @@ description: Skapa en händelse med Marketo ON24-adaptern - Marketo Docs - produ
 title: Skapa en händelse med Marketo ON24-adaptern
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Du bör känna till byggstenarna och den rekommenderade sekvensen för att skapa
 
 >[!NOTE]
 >
->Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Förutsättningar {#prerequisites}
 

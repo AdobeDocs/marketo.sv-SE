@@ -4,7 +4,7 @@ description: Ändra typ av anpassat Marketo-fält - Marketo Docs - produktdokume
 title: Ändra typ av anpassat Marketo-fält
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Så här ändrar du fälttypen för ett anpassat fält.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. Klicka på **[!UICONTROL Change Type]** i listrutan **[!UICONTROL Field Actions]**.
+1. Klicka på **[!UICONTROL Field Actions]** i listrutan **[!UICONTROL Change Type]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 

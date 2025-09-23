@@ -4,7 +4,7 @@ description: Så här installerar du anpassningar i din Salesforce-sandlåda - M
 title: Installera anpassningar i din Salesforce-sandlåda
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 1%

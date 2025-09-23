@@ -4,7 +4,7 @@ description: Varför skickades inte alla mina kontakter till Sales Connect? - Ma
 title: Varför skickades inte alla mina kontakter till Sales Connect?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

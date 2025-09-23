@@ -4,7 +4,7 @@ description: Klona en testgrupp för landningssidor - Marketo Docs - produktdoku
 title: Klona en testgrupp för en landningssida
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

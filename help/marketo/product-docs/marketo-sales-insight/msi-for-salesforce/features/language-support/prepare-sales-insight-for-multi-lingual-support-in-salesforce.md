@@ -4,10 +4,10 @@ description: Förbered Sales Insight for Multi-Lingual Support in Salesforce - M
 title: Förbered Sales Insight for Multi-Lingual Support in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

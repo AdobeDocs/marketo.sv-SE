@@ -4,7 +4,7 @@ description: Skapa ett nytt händelseprogram - Marketo Docs - produktdokumentati
 title: Skapa ett nytt händelseprogram
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%

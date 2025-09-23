@@ -4,7 +4,7 @@ description: Steg 3 av 3 -Connect Marketo and Salesforce (Professional) - Market
 title: Steg 3 av 3 -Connect Marketo och Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%

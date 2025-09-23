@@ -4,7 +4,7 @@ description: Filtrering i Performance Insights - Marketo Docs - produktdokumenta
 title: Filtrera i Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%

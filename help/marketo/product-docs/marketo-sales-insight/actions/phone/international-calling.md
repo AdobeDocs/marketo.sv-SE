@@ -3,7 +3,7 @@ description: Internationellt telefonsamtal - Marketo Docs - produktdokumentation
 title: Internationellt samtal
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 11%

@@ -4,7 +4,7 @@ description: Förstå attribut - Marketo Docs - produktdokumentation
 title: Förstå attribut
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Lägg till person i Blockeringslista - Marketo Docs - produktdokume
 title: Lägg till person i Blockeringslista
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -4,7 +4,7 @@ description: Programplanvy - anmälningstyper - Marketo Docs - produktdokumentat
 title: Inmatningstyper för programschemavy
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

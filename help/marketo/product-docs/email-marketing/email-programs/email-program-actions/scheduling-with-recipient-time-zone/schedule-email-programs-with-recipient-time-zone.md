@@ -4,7 +4,7 @@ description: Schemalägg e-postprogram med mottagartidszon - Marketo Docs - prod
 title: Schemalägg e-postprogram med mottagartidszon
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '792'
 ht-degree: 0%

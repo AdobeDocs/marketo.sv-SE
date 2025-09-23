@@ -4,7 +4,7 @@ description: Filtrering i granskningsspår - Marketo Docs - produktdokumentation
 title: Filtrera i granskningsspår
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Filtrera efter tidsram, resurstyp, användare, åtgärd med mera.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Välj **[!UICONTROL Audit Trail]** under **[!UICONTROL Security]**.
+1. Välj **[!UICONTROL Security]** under **[!UICONTROL Audit Trail]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 

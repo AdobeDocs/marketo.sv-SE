@@ -4,7 +4,7 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1103'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Det finns _många_ möjliga kombinationer av strömmar. Den här artikeln inneh�
 
 >[!PREREQUISITES]
 >
->Innan du kan använda dokumentkortet måste du först [konfigurera det](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} i ditt Adobe-konto.
+>Innan du kan använda dokumentkortet måste du [konfigurera det](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} i ditt Adobe-konto.
 
 ## Strömma Designer-kort {#stream-designer-cards}
 
@@ -35,7 +35,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Dokument</strong></td>
-  <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökares engagemang i dokument (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
+  <td>Gör att du kan bädda in PDF-dokument i dialogrutor och spåra besökarnas engagemang (hur många sidor som visades, om dokumentet hämtades och/eller eventuella söktermer som användes).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Information Capture</strong></td>
@@ -43,7 +43,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  </tr>
  <tr>
   <td style="width:25%"><strong>Mötesbokning</strong></td>
-  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka på <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa ett <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till att inte skriva över ett standardfält i Marketo Engage).</td>
+  <td>Ger besökaren en kalender med tillgängliga datum för att schemalägga ett möte. Välj kalendertillgänglighet via resursallokering, en specifik agent eller med anpassade regler. Klicka på <b>Lägg till attribut</b> om du vill hämta agentens namn eller e-postadress och tilldela den till chattbesökarens personpost för framtida frågor (tips: skapa ett <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">anpassat fält</a> för att mappa agentens information till så att den inte skriver över ett Marketo Engage-standardfält).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Mål</strong></td>
@@ -52,7 +52,7 @@ Stream Designer innehåller flera kort som du kan lägga till för att forma cha
  <tr>
   <td style="width:25%"><strong>Åtgärd*</strong></td>
   <td>På samma sätt som dolda fält i ett formulär kan du med åtgärdskortet fylla i alla lead- eller företagsattribut (som har datatypen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) med implicita värden som du vill hämta mot en lead-post. Du kan lägga till åtgärdskortet när som helst i konversationen och uppdatera respektive attribut med ett värde eller inbyggda tokens som automatiskt fyller i respektive värde.
-  <p><i>* Action card kräver Dynamic Chat Prime. Kontakta kontoteamet (din kontoansvarige) för mer information.</i></td>
+  <p><i>* Action card kräver Dynamic Chat Prime. Kontakta Adobe Account Team (din kontoansvarige) för mer information.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chatt</strong></td>
@@ -192,7 +192,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-21.png)
 
-1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till PDF som du redan har värdtjänster för och klicka på **[!UICONTROL Save]**.
+1. I det här exemplet skapar vi ett nytt dokument. Ge den ett namn, ange URL:en till den PDF som du redan har som värd och klicka på **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 

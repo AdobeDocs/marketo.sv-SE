@@ -3,7 +3,7 @@ description: Versionsinformation - mars 2022 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 0%

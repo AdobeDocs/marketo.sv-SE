@@ -4,7 +4,7 @@ description: Avbeställ historikkort - Marketo Docs - produktdokumentation
 title: Avbeställ historikkort
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Ta bort en profileringsdomän - Marketo Docs - produktdokumentation
 title: Ta bort en profileringsdomän
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 1%

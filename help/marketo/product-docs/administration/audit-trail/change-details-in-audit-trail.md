@@ -4,7 +4,7 @@ description: Ändra detaljer i granskningsspår - Marketo Docs - produktdokument
 title: Ändra detaljer i granskningsspår
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 0%

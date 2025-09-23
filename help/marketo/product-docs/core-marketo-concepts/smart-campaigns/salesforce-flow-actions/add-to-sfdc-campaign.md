@@ -4,7 +4,7 @@ description: Lägg till i SFDC Campaign - Marketo Docs - produktdokumentation
 title: Lägg till i SFDC Campaign
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

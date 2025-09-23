@@ -4,7 +4,7 @@ description: Schemalägg om en batchvis smart kampanj i programschemavy - Market
 title: Schemalägg om en batchvis smart kampanj i programschemavy
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

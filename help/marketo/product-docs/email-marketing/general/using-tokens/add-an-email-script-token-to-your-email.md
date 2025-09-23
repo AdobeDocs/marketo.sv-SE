@@ -4,7 +4,7 @@ description: Lägg till en e-postskripttoken i din e-post - Marketo Docs - produ
 title: Lägg till en e-postskripttoken i din e-post
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%

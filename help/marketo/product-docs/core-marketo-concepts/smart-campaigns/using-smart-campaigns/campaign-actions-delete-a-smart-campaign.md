@@ -4,7 +4,7 @@ description: Kampanjåtgärder -Ta bort en smart kampanj - Marketo Docs - Produk
 title: Kampanjåtgärder -Ta bort en smart kampanj
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Om du har en gammal Smart Campaign som du inte längre behöver kan du ta bort d
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigera till din inaktiva smarta kampanj. Välj **[!UICONTROL Delete]** i listrutan **[!UICONTROL Campaign Actions]**.
+1. Navigera till din inaktiva smarta kampanj. Välj **[!UICONTROL Campaign Actions]** i listrutan **[!UICONTROL Delete]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 

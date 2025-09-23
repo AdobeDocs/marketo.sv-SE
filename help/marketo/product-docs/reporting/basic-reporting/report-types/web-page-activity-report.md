@@ -4,7 +4,7 @@ description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentati
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Lägg till säljprojektskolumner i en lead-rapport - Marketo Docs -
 title: Lägg till säljprojektskolumner i en lead-rapport
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%

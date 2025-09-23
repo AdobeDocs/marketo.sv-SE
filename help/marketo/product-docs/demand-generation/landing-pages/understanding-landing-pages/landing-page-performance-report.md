@@ -4,7 +4,7 @@ description: Prestandarapport för landningssida - Marketo Docs - produktdokumen
 title: Prestandarapport för landningssida
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Definiera en målgrupp genom att importera en lista - Marketo Docs 
 title: Definiera en publik genom att importera en lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%

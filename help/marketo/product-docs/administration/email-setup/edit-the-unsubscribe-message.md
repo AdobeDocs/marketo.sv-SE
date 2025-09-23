@@ -4,7 +4,7 @@ description: Redigera avbeställningsmeddelandet - Marketo Docs - produktdokumen
 title: Redigera avbeställningsmeddelandet
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -44,7 +44,7 @@ När du skickar marknadsföringsmeddelanden (icke-[operativ](/help/marketo/produ
 
 >[!TIP]
 >
->Du kan anpassa positionen för det avbrutna HTML i ditt e-postmeddelande genom att använda [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Du kan anpassa positionen för det avbrutna HTML-abonnemanget i ditt e-postmeddelande genom att använda [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Avbeställ standardtext {#default-unsubscribe-text}
 

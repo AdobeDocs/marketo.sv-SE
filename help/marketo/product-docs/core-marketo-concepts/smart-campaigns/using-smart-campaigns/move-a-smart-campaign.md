@@ -4,7 +4,7 @@ description: Flytta en smart kampanj - Marketo Docs - produktdokumentation
 title: Flytta en smart kampanj
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

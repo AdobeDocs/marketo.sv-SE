@@ -4,7 +4,7 @@ description: Prenumerera på en grundläggande rapport - Marketo Docs - produktd
 title: Prenumerera på en grundläggande rapport
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

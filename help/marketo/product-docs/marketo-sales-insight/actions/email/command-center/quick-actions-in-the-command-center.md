@@ -3,7 +3,7 @@ description: Snabbåtgärder i kommandocentralen - Marketo Docs - produktdokumen
 title: Snabbåtgärder i kommandocentralen
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%

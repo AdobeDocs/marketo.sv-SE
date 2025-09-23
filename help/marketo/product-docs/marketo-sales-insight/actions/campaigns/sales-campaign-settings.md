@@ -3,7 +3,7 @@ description: Inställningar för försäljningskampanj - Marketo Docs - produktd
 title: Inställningar för försäljningskampanj
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%

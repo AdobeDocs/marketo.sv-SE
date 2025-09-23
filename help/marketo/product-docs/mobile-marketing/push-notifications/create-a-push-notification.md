@@ -4,10 +4,10 @@ description: Skapa ett push-meddelande - Marketo Docs - produktdokumentation
 title: Skapa ett push-meddelande
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

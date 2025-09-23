@@ -4,7 +4,7 @@ description: Inkommande filter - Marketo Docs - produktdokumentation
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Vi uppdaterar regelbundet databasen som används för IP-adresssökningar för att säkerställa att de härledda fältsvärdena förblir aktuella. Databasuppdateringar kan medföra nya härledda fältvärden som du kan behöva lägga till i filterdefinitioner för smarta listor.
 >
->Databasuppdateringar kan utföras under en [Marketo Engage-produktversion](/help/marketo/release-notes/release-schedule.md){target="_blank"}. När en uppdatering görs innehåller versionsinformationen för [Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"} en förklaring till eventuella ändringar i härledda fältvärden.
+>Databasuppdateringar kan utföras under en [Marketo Engage-produktrelease](/help/marketo/release-notes/release-schedule.md){target="_blank"}. När en uppdatering görs innehåller [versionsinformationen för Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} en förklaring till eventuella ändringar i härledda fältvärden.
 
 ![](assets/inferred-filters-1.png)
 

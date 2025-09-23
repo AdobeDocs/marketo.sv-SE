@@ -4,7 +4,7 @@ description: Konfigurera kontoprofilering - Marketo Docs - produktdokumentation
 title: Konfigurera kontoprofilering
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 3%

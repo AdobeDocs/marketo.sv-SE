@@ -4,7 +4,7 @@ description: Lägg till meddelandebilder i appen - Marketo Docs - produktdokumen
 title: Lägg till meddelandebilder i appen
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%

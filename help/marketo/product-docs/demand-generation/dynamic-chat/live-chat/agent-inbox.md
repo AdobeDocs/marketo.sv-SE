@@ -3,7 +3,7 @@ description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: Lägg till hyperlänkad text - Marketo Docs - produktdokumentation
 title: Lägg till hyperlänkad text
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Följ stegen nedan för att lära dig hur du lägger till hyperlänkar i e-postm
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Ange den URL som du vill att den ska länkas till (t.ex. `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=sv-SE`). Välj om du vill att URL-adressen ska öppnas i samma eller ett nytt fönster och klicka på **[!UICONTROL Save]**.
+1. Ange den URL som du vill att den ska länkas till (t.ex. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Välj om du vill att URL-adressen ska öppnas i samma eller ett nytt fönster och klicka på **[!UICONTROL Save]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

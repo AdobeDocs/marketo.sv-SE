@@ -4,7 +4,7 @@ description: Klona en Marketo Example Revenue Model - Marketo Docs - produktdoku
 title: Klona en Marketo exempelintäktsmodell
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documen
 title: Definiera villkor för A/B-testvinnare
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -40,7 +40,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=sv-SE" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
+   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
    </tr>
    </table>
 

@@ -4,9 +4,9 @@ description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktd
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '528'
 ht-degree: 0%
 
 ---

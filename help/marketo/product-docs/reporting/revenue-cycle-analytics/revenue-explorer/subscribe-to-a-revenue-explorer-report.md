@@ -4,7 +4,7 @@ description: Prenumerera på en rapport från Intresseutforskaren - Marketo Docs
 title: Prenumerera på en rapport om skatteutforskaren
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

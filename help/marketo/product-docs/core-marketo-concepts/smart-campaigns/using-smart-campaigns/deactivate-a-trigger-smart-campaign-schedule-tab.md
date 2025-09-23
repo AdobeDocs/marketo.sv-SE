@@ -4,7 +4,7 @@ description: Inaktivera en utlösare för smart kampanj | Fliken Schema - Market
 title: Inaktivera en utlösare för smart kampanj | Fliken Schema
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

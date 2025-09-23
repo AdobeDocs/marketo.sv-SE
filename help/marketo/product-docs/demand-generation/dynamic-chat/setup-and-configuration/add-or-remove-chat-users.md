@@ -3,7 +3,7 @@ description: Lägg till eller ta bort chattanvändare - Marketo Docs - produktdo
 title: Lägg till eller ta bort chattanvändare
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 1%
@@ -108,5 +108,5 @@ Om den nyligen tillagda chattanvändarens Marketo-roll inte redan har [!DNL Dyna
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
->* [Hantera användare individuellt](https://helpx.adobe.com/se/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

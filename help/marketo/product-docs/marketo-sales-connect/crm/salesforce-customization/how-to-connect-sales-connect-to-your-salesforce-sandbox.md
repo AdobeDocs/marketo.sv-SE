@@ -4,7 +4,7 @@ description: Ansluta säljare Ansluta till din Salesforce-sandlåda - Marketo Do
 title: Ansluta säljanslutning till din Salesforce-sandlåda
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ditt [!DNL &#x200B; Sales Connect]-konto kan inte redan vara anslutet till [!DNL Salesforce] när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
+>Ditt [!DNL  Sales Connect]-konto kan inte redan vara anslutet till [!DNL Salesforce] när du upprättar en anslutning till sandlådan. Om det är det [kontrollerar du att du kopplar från](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) innan du följer stegen i den här artikeln.
 
 1. I [!DNL Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 

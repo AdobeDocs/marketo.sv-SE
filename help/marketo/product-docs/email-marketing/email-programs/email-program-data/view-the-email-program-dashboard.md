@@ -4,7 +4,7 @@ description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdok
 title: Visa kontrollpanelen för e-postprogram
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%

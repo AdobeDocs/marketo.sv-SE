@@ -4,7 +4,7 @@ description: Ta bort poster direkt i marknadsföringskalendern - Marketo Docs - 
 title: Radera transaktioner direkt i marknadsföringskalendern
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

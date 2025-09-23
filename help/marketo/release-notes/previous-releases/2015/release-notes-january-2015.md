@@ -4,7 +4,7 @@ description: Versionsinformation -januari 2015 - Marketo Docs - produktdokumenta
 title: Versionsinformation - januari 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Tre nya anrop till lead- och aktivitetsREST API:
 * Hämta leads per program-ID
 * Hämta borttagna leads
 
-Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home)
+Det finns också ett nytt alternativ för Synkronisera lead, som gör att leadet ändras asynkront för ett snabbare API-anrop. Fullständig information finns tillgänglig efter lanseringen på [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **Stöd för anpassade objekt för e-postskript**
 
@@ -62,6 +62,6 @@ Alternativen för RTP-tagg under Kontoinställningar har uppdaterats till att om
 1. Asynkron tagg utan CDN
 1. Synkron tagg utan CDN
 
-För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Mer information om hur du distribuerar RTP-taggen finns [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+För bästa prestanda bör du placera taggen högst upp i sidhuvudet på webbsidan efter `<head>`. Alla taggar tillåter användning av [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Mer information om hur du distribuerar RTP-taggen finns [här](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

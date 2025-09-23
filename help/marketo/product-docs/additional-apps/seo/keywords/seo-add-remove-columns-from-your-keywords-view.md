@@ -4,7 +4,7 @@ description: SEO - Lägg till/ta bort kolumner från nyckelordsvyn - Marketo Doc
 title: SEO - Lägg till/ta bort kolumner från nyckelordsvyn
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 1%

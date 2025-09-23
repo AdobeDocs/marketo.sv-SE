@@ -4,10 +4,10 @@ description: AB Testa din webbkampanj - Marketo Docs - Produktdokumentation
 title: AB Testa webbkampanjen
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

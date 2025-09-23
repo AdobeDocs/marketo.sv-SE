@@ -4,7 +4,7 @@ description: Anpassade RTP-instrumentpaneler i Google Universal Analytics - Mark
 title: Anpassade RTP-instrumentpaneler i Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -248,7 +248,7 @@ Skapa en ny instrumentpanel med namnet **RTP Engagement Dashboard** och definier
      <li>Namn: <strong>Impressions av CTA</strong></li>
      <li>Typ: <strong><span class="uicontrol">Tabell</span></strong></li>
      <li><span class="uicontrol">Visa följande kolumner</span>: <strong><span class="uicontrol">Etikett för händelse</span> | <span class="uicontrol">Totalt antal händelser</span> | <span class="uicontrol">Användare</span></strong></li>
-     <li>Filter:<br><strong>[<span class="uicontrol">visa endast</span>] <span class="uicontrol">Händelsekategori</span> (<span class="uicontrol">exakt matchande</span>): RTP-kampanjer</strong><br><strong>[<span class="uicontrol">visa endast</span>] <span class="uicontrol">Händelseåtgärd</span> (<span class="uicontrol">exakt matchning</span>): intryck</strong><strong>[<span class="uicontrol"> 17&rbrace;visa inte</span>] <span class="uicontrol">händelseetikett</span> (<span class="uicontrol">innehåller</span>): #</strong></li>
+     <li>Filter:<br><strong>[<span class="uicontrol">visa endast</span>] <span class="uicontrol">Händelsekategori</span> (<span class="uicontrol">exakt matchande</span>): RTP-kampanjer</strong><br><strong>[<span class="uicontrol">visa endast</span>] <span class="uicontrol">Händelseåtgärd</span> (<span class="uicontrol">exakt matchning</span>): intryck</strong><strong>[<span class="uicontrol"> 17}visa inte</span>] <span class="uicontrol">händelseetikett</span> (<span class="uicontrol">innehåller</span>): #</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>

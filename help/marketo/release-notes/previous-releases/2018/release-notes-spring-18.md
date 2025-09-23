@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Versionsinformation -Spring '18 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%

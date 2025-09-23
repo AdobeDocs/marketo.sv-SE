@@ -4,7 +4,7 @@ description: Clone a List or Smart List - Marketo Docs - Product Documentation
 title: Klona en lista eller smart lista
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -19,7 +19,7 @@ I stället för att skapa en smart lista från början kan du spara tid genom at
 
    ![](assets/clone-a-list-or-smart-list-1.png)
 
-1. Markera den smarta lista som du vill klona. Klicka på **[!UICONTROL Clone Smart List]** under **[!UICONTROL List Actions]**.
+1. Markera den smarta lista som du vill klona. Klicka på **[!UICONTROL List Actions]** under **[!UICONTROL Clone Smart List]**.
 
    ![](assets/clone-a-list-or-smart-list-2.png)
 

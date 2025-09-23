@@ -4,7 +4,7 @@ description: Steg 2 av 3 - Konfigurera Sync User for Marketo (2013 On-Premises) 
 title: Steg 2 av 3 - Konfigurera Synkronisera användare för Marketo (lokal version 2013)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

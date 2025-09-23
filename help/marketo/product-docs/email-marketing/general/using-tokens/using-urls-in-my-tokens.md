@@ -4,7 +4,7 @@ description: Använda URL:er i Mina token - Marketo Docs - Produktdokumentation
 title: Använda URL:er i Mina token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%

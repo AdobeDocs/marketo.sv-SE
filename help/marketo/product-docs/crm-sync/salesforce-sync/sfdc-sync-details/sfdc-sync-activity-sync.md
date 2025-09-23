@@ -4,7 +4,7 @@ description: SFDC Sync - Activity Sync - Marketo Docs - produktdokumentation
 title: SFDC Sync - aktivitetssynkronisering
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

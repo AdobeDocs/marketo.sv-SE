@@ -4,7 +4,7 @@ description: Åtgärda problem med synkronisering av Dynamics-validering - Marke
 title: Åtgärda problem med synkronisering av Dynamics-validering
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Om du har en ![x](assets/delete.png) här kontrollerar du att URL:en är giltig.
 
 ## Användarnamn och lösenord är giltiga {#username-and-password-are-valid}
 
-Om du har en ![x](assets/delete.png) här kontrollerar du att dina Microsoft Dynamics-autentiseringsuppgifter är giltiga. För webb-API S2S-autentisering måste användarnamnet i Marketo matcha [e-postadressen](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) för programanvändaren i CRM. För andra typer bör det matcha användarnamnet för Synkronisera användare.
+Om du har ![x](assets/delete.png) här kontrollerar du att dina Microsoft Dynamics-autentiseringsuppgifter är giltiga. För webb-API S2S-autentisering måste användarnamnet i Marketo matcha [e-postadressen](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) för programanvändaren i CRM. För andra typer bör det matcha användarnamnet för Synkronisera användare.
 
 ## Synkroniseringsanvändaren har tilldelats användarrollen Marketo Sync {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
@@ -83,7 +83,7 @@ Om du har en ![x](assets/delete.png) här kan det vara en av de tre frågorna ne
 
 ## Marketo-lösningen är korrekt installerad {#marketo-solution-is-properly-installed}
 
-Om du har en ![x](assets/delete.png) här går du till Microsoft Dynamics för att verifiera att Marketo-installationen finns där. Se steg 1 i installationsdokumentationen för Microsoft Dynamics.
+Om du har en ![x](assets/delete.png) här går du till Microsoft Dynamics och kontrollerar att Marketo-installationen finns där. Se steg 1 i installationsdokumentationen för Microsoft Dynamics.
 
 1. Klicka på inställningsikonen i Dynamics och välj **Avancerade inställningar**.
 

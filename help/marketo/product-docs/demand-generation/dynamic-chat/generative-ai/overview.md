@@ -3,7 +3,7 @@ description: Generativ AI-översikt - Marketo Docs - produktdokumentation
 title: Generativ AI i Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Ta bort från flöde - Marketo Docs - produktdokumentation
 title: Ta bort från flöde
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

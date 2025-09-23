@@ -4,7 +4,7 @@ description: Innan du skapar push-meddelanden och meddelanden i appen - Marketo 
 title: Innan du skapar push-meddelanden och meddelanden i appen
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Det är inte svårt att skapa push-meddelanden och meddelanden i appen, men du m
 
 1. Marketo Admin [skickar sedan ett kodfragment till utvecklaren](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. Utvecklaren hämtar SDK och inkluderar kodfragment och andra metoder för [Android](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) eller [iOS](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
+1. Utvecklaren hämtar SDK och inkluderar kodfragment och andra metoder för [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) eller [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. Som standard utlöses meddelanden i appen när appen öppnas. Om du vill utlösa meddelanden för andra händelser, till exempel när en viss sida visas eller en viss knapp skickas, måste utvecklaren lägga till anpassade händelser i koden (se [Anpassade händelser för meddelanden i appen](#CustomEvents) nedan).
 
-1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) eller [ för certifiering och lösenord för iOS](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) och skickar den till Marketo Admin.
+1. Utvecklaren [genererar nyckel och projektnummer för server-API för Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) eller [ för certifiering och lösenord för iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) och skickar den till Marketo Admin.
 
 1. Marketo Admin konfigurerar push-meddelandeåtkomst [med Server-API-nyckeln (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) eller [ med certifikatet (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 

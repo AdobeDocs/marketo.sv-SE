@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100272
-description: Publish a Custom Activity - Marketo Docs - produktdokumentation
-title: Publish en anpassad aktivitet
+description: Publicera en anpassad aktivitet - Marketo Docs - produktdokumentation
+title: Publicera en anpassad aktivitet
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 1%
 
 ---
 
-# Publish en anpassad aktivitet {#publish-a-custom-activity}
+# Publicera en anpassad aktivitet {#publish-a-custom-activity}
 
 Du har din anpassade aktivitet precis som du vill ha den. Nu är det dags att publicera det!
 

@@ -3,7 +3,7 @@ description: Inledande installation - Marketo Docs - produktdokumentation
 title: Inledande konfiguration
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Följ stegen nedan för att konfigurera Dynamic Chat.
 
    ![](assets/initial-setup-1.png)
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 

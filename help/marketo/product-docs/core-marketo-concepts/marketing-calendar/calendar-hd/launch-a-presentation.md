@@ -4,7 +4,7 @@ description: Starta en presentation - Marketo Docs - produktdokumentation
 title: Starta en presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -18,7 +18,7 @@ När du har angett vyer och rotationsfrekvens för presentationen är det dags a
 >[!AVAILABILITY]
 >
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!PREREQUISITES]
 >

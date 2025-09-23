@@ -4,7 +4,7 @@ description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo 
 title: Skapa och använda ett sammanfogat strängfält (formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Skapa och använda ett sammanfogat strängfält (formel) {#create-and-use-a-concatenated-string-formula-field}
 
-Du kan kombinera värden från flera fält eller skapa ett villkorsstyrt värde med ett formelfält i Marketo Engage.
+Du kan kombinera värden från flera fält eller skapa ett villkorsvärde med hjälp av ett Marketo Engage-formelfält.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

@@ -3,7 +3,7 @@ description: Hur fungerar platsspårning - Marketo Docs - produktdokumentation
 title: Hur fungerar platsspårning
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

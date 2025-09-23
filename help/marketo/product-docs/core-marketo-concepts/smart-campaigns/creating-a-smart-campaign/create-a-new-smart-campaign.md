@@ -4,7 +4,7 @@ description: Skapa en ny smart kampanj - Marketo Docs - produktdokumentation
 title: Skapa en ny smart kampanj
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

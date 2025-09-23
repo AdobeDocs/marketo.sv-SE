@@ -4,7 +4,7 @@ description: Statiska listor - Marketo Docs - produktdokumentation
 title: Statiska listor
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

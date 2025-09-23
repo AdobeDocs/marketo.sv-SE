@@ -3,7 +3,7 @@ description: Salesforce Diagnostics - Marketo Docs - produktdokumentation
 title: Salesforce Diagnostics
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1339'
 ht-degree: 0%

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1487'
+source-wordcount: '1486'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för medlemmar av nya Marketo Engage Email Designer beta. Sprid inte information.
+>Den här artikeln är endast avsedd för medlemmar av den nya betaversionen av Marketo Engage Email Designer. Sprid inte information.
 
 >[!PREREQUISITES]
 >
->Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du kontoteamet (din kontoansvarige) på Adobe eller [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Skapa ett e-postmeddelande {#create-an-email}
 
@@ -64,7 +64,7 @@ Så där ja. Nu är det dags att designa e-postmeddelanden.
 
 När du börjar från början i e-postredigeraren använder du alternativen nedan för att definiera ditt innehåll.
 
-1. Välj **Designa från grunden** på sidan _Skapa ditt e-postmeddelande_.
+1. Välj _Designa från grunden_ på sidan **Skapa ditt e-postmeddelande**.
 
 1. Lägg till [struktur och innehåll](#add-structure-and-content) i e-postmeddelandet.
 
@@ -78,7 +78,7 @@ När du börjar från början i e-postredigeraren använder du alternativen neda
 
 Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. Innehållet kan vara
 
-* En HTML-fil med en infogad formatmall
+* En HTML-fil med en inbyggd formatmall
 
 * En ZIP-fil som innehåller en HTML-fil, formatmallen (.css) och bilder
 
@@ -88,7 +88,7 @@ Du kan importera befintligt HTML-innehåll för att utforma e-postmeddelandet. I
 
 1. Välj **Importera HTML** på mallsidan.
 
-1. Dra och släpp HTML- eller ZIP-filen (eller välj en fil på datorn) och klicka på **Importera**.
+1. Dra och släpp önskad HTML- eller ZIP-fil (eller välj en fil på datorn) och klicka på **Importera**.
 
    ![](assets/authoring-import-your-html-1.png)
 
@@ -144,7 +144,7 @@ Välj en av de färdiga mallarna för att snabbt komma igång med designen av e-
 
    >[!TIP]
    >
-   >Markera n:n-kolumnkomponenten för att definiera hur många kolumner du vill ha (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
+   >Välj kolumnkomponenten n:n för att definiera antalet kolumner du vill använda (mellan tre och 10). Du kan också definiera bredden på varje kolumn genom att flytta pilarna under kolumnen.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -188,13 +188,13 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
 1. Markera kolumnen i strukturkomponenten direkt på arbetsytan eller med _navigeringsträdet_ som visas till vänster.
 
-1. Klicka på verktyget _[!UICONTROL Select a column]_&#x200B;i kolumnverktygsfältet och välj det som du vill redigera.
+1. Klicka på verktyget _[!UICONTROL Select a column]_i kolumnverktygsfältet och välj det som du vill redigera.
 
-   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_&#x200B;och&#x200B;_[!UICONTROL Styles]_ till höger.
+   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_och_[!UICONTROL Styles]_ till höger.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_&#x200B;till höger och ändrar dem efter dina behov:
+1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_till höger och ändrar dem efter dina behov:
 
    * Ändra bakgrundsfärgen för **[!UICONTROL Background]** efter behov.
 

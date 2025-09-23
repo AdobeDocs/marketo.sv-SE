@@ -4,7 +4,7 @@ description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%

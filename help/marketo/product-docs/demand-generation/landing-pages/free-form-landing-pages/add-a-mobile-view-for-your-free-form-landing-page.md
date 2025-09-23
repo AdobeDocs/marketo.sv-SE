@@ -4,7 +4,7 @@ description: Lägg till en mobilvy för din startsida med kostnadsfria formulär
 title: Lägg till en mobilvy för din startsida med kostnadsfria formulär
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 2%

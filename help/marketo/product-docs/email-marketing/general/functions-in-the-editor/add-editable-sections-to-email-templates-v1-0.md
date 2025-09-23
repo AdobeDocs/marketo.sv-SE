@@ -4,7 +4,7 @@ description: Lägg till redigerbara avsnitt i e-postmallar v1.0 - Marketo Docs -
 title: Lägg till redigerbara avsnitt i e-postmallar v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Regler:
 
 1. HTML måste alltid vara giltigt.
 1. Klassen **mktEditable** måste inkluderas.
-1. ID:t måste vara unikt i HTML.
+1. ID:t måste vara unikt i denna HTML.
 1. Inga blanksteg i ID:t.
 
 >[!CAUTION]

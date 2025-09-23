@@ -4,7 +4,7 @@ description: Blockera uppdateringar till ett fält - Marketo Docs - produktdokum
 title: Blockera uppdateringar till ett fält
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Genom att blockera uppdateringar av ett fält kan du skriva till fältet en gån
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Sök efter fältet, markera det och klicka sedan på **[!UICONTROL Block Field Updates]** under **[!UICONTROL Field Actions]**.
+1. Sök efter fältet, markera det och klicka sedan på **[!UICONTROL Field Actions]** under **[!UICONTROL Block Field Updates]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 

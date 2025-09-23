@@ -4,7 +4,7 @@ description: SFDC Sync - Lead Sync - Marketo Docs - Produktdokumentation
 title: SFDC Sync - Lead Sync
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

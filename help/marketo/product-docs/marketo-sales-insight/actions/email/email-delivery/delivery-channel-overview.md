@@ -3,7 +3,7 @@ description: Översikt över leveranskanalen - Marketo Docs - produktdokumentati
 title: Översikt över leveranskanalen
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%

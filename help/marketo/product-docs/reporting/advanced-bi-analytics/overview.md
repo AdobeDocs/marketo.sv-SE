@@ -3,7 +3,7 @@ description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentatio
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 0%
@@ -98,7 +98,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Klicka på ikonen Mer (**..**)
+1. Klicka på ikonen Mer (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 
@@ -237,7 +237,6 @@ Följande standardrapporter finns som exempel på dina anpassade rapporter.
 ## Saker att notera {#note}
 
 * Dina anpassade rapporter har replikerats från den klassiska upplevelsen till den nya upplevelsen med de märkbara beteendeförändringar som nämns i avsnittet [Om den nya upplevelsen](#learning-the-new-experience) nedan.
-
 * Instrumentpaneler i den klassiska upplevelsen kunde inte överföras och behövde återskapas i den nya upplevelsen. De kan återskapas som rapporter i den nya upplevelsen och filtren i den nya upplevelsen hämtar automatiskt möjliga värden.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Följande standardrapporter finns som exempel på dina anpassade rapporter.
   >Om du har fler än 700 rapporter i Intresseutforskaren har vissa rapporter kombinerats med andra och konsoliderats via sidor i rapporten.
   >
   >* Om en rapport hade en e-postprenumeration kombinerades den inte.
-  >
   >* Resten av rapporterna i _samma mapp_ kombinerades till en eller flera rapporter, per rapportområde. Om det fanns mer än fem rapporter för rapporteringsområdet, konsoliderades de i mer än en sammanslagen rapport.
-  >
   >* Varje kombinerad rapport har högst fem sidor.
 
 * Det finns en begränsning på 1 miljon rader per fråga för en given visualisering. Om din fråga överskrider det felet får du följande fel: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Du kan åtgärda detta genom att minska datumintervallet och/eller justera filtren i rapporten för att minska antalet rader i frågeresultatet.

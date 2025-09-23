@@ -4,7 +4,7 @@ description: Skapa en mall för landningssida i fri form - Marketo Docs - Produk
 title: Skapa en mall för landningssida i fri form
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Använda periodkostnader i ett program - Marketo Docs - produktdoku
 title: Använda periodkostnader i ett program
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

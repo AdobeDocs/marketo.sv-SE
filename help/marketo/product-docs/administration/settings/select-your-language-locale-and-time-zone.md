@@ -4,20 +4,20 @@ description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentat
 title: Välj språk, språk och tidszon
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Välj språk, språk och tidszon {#select-your-language-locale-and-time-zone}
 
-Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ändrar du Marketo Engage prenumerations språk, språk och tidszon.
+Engelska inte ditt första språk? Oroa dig inte, vi har dig täckt. Så här ändrar du språk, språk och tidszon för din Marketo Engage-prenumeration.
 
 >[!IMPORTANT]
 >
->Om din Marketo Engage-prenumeration har migrerats till [Marketo med Adobe-identitet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} gäller endast [tidszonen](#change-your-time-zone) i den här artikeln för dig. Om du vill ändra språk och/eller språkområde måste du komma åt dessa inställningar i din [Adobe-kontoprofil](https://account.adobe.com/profile){target="_blank"}.
+>Om din Marketo Engage-prenumeration har migrerats till [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} gäller endast [tidszonen](#change-your-time-zone) i den här artikeln för dig. Om du vill ändra språk och/eller språkområde måste du komma åt dessa inställningar i din [Adobe-kontoprofil](https://account.adobe.com/profile){target="_blank"}.
 
 ## Språk som stöds {#supported-languages}
 

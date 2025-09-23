@@ -3,7 +3,7 @@ description: Versionsinformation - mars 2023 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%

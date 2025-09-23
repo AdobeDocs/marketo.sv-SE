@@ -4,7 +4,7 @@ description: Det gick inte att logga in på Salesforce - Marketo Docs - produktd
 title: Loggade inte till Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

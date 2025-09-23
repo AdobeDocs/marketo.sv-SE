@@ -4,9 +4,9 @@ description: Anpassa ett e-postmeddelande - Marketo Docs - produktdokumentation
 title: Anpassa ett e-postmeddelande
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -103,6 +103,6 @@ Grattis, du har personaliserat din e-post!
 
 <br> 
 
-[◄ 6: Drift, Drift, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄ Mission 6: Drip, Drip, Struktur](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 [Uppgift 8: Meddela säljaren ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)

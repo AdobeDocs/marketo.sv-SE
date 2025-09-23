@@ -4,7 +4,7 @@ description: Redigera en Event Channel - Marketo Docs - produktdokumentation
 title: Redigera en händelsekanal
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%

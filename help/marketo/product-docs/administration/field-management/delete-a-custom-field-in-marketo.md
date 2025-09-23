@@ -4,7 +4,7 @@ description: Ta bort ett anpassat fält i Marketo - Marketo Docs - produktdokume
 title: Ta bort ett anpassat fält i Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 1%

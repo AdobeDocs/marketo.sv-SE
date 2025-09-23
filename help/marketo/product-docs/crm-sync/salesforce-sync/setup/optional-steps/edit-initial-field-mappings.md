@@ -4,7 +4,7 @@ description: Redigera ursprungliga fältmappningar - Marketo Docs - produktdokum
 title: Redigera ursprungliga fältmappningar
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

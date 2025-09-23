@@ -4,9 +4,9 @@ description: Drip, Drip, Naturvård - Marketo Docs - Produktdokumentation
 title: Drip, Drift, Struktur
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Du kan enkelt skapa ett avancerat och sofistikerat vårdsystem i Marketo. Så h�
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Klicka på **[!UICONTROL Approve and Close]** under **[!UICONTROL Email Actions]**.
+1. Klicka på **[!UICONTROL Email Actions]** under **[!UICONTROL Approve and Close]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -166,6 +166,6 @@ Nu är det dags att skapa en ström av innehåll för engagemangsprogrammet med 
 
 <br> 
 
-[◄ 5: Importera en lista över människor](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Mission 5: Importera en lista över människor](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Mission 7: Personalisera ett e-postmeddelande ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Uppgift 7: Anpassa ett e-postmeddelande ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

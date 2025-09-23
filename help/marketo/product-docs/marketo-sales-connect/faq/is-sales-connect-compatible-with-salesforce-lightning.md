@@ -4,7 +4,7 @@ description: Är Sales Connect kompatibelt med Salesforce Lightning? - Marketo D
 title: Är Sales Connect kompatibelt med Salesforce Lightning?
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

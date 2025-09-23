@@ -4,10 +4,10 @@ description: Verifiera push-konfiguration - Marketo Docs - produktdokumentation
 title: Verifiera push-konfiguration
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

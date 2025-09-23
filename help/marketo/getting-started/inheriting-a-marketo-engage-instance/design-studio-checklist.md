@@ -3,7 +3,7 @@ description: Ärvd checklista för instansdesign Studio - Marketo Docs - produkt
 title: Ärvd checklista för instansdesign Studio
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr>
    <td>Globala landningssidor</td>
    <td><li>Hur många globala <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landningssidor</a> finns det? Används de av program?</li>
-   <li>Har du konfigurerat en <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=sv-SE" target="_blank">prenumerationscentral</a>?
+   <li>Har du konfigurerat en <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">prenumerationscentral</a>?
    <br/>     Om inte kan du skapa en.</li></td>
   </tr>
   <tr>

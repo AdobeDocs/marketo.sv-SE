@@ -1,19 +1,19 @@
 ---
-description: Lägg till åtgärdsknappar i Salesforce-listvyn - Marketo Docs - produktdokumentation
-title: Lägg till åtgärdsknappar i Salesforce-listvyn
+description: Lägg till åtgärdsknappar i Salesforce listvy - Marketo Docs - produktdokumentation
+title: Lägg till åtgärdsknappar i Salesforce listvy
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# Lägg till åtgärdsknappar i Salesforce-listvyn {#add-action-buttons-to-salesforce-list-view}
+# Lägg till åtgärdsknappar i Salesforce listvy {#add-action-buttons-to-salesforce-list-view}
 
 >[!NOTE]
 >
->**Salesforce-administratörsbehörighet krävs.**
+>**Salesforce Admin-behörigheter krävs.**
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ De åtgärdsknappar som ska installeras är:
 
 ## I Salesforce Lightning {#salesforce-lightning}
 
-1. Navigera till [Salesforce.com](https://salesforce.com){target="_blank"}.
+1. Gå till [Salesforce.com](https://salesforce.com){target="_blank"}.
 1. Klicka på **Konfigurera**.
 1. Välj Objektshanteraren.
 1. I rutan Snabbsökning söker du efter det objekt som du vill redigera (Lead eller Kontakt) och väljer objektnamn.
@@ -38,7 +38,7 @@ De åtgärdsknappar som ska installeras är:
 
 ## I Salesforce Classic {#salesforce-classic}
 
-1. Navigera till [Salesforce.com](https://salesforce.com){target="_blank"}.
+1. Gå till [Salesforce.com](https://salesforce.com){target="_blank"}.
 1. Klicka på **Konfigurera**.
 1. I rutan Snabbsökning söker du efter det objekt som du vill redigera (Lead eller Kontakt) och markerar det.
 1. Klicka för att redigera listvyn (lead eller kontakt).
@@ -49,5 +49,5 @@ De åtgärdsknappar som ska installeras är:
 >[!MORELIKETHIS]
 >
 >* [Använda massutskick av e-post för försäljning i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
->* [Använder Lägg till gruppvis i försäljningskampanj i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [Installera Marketo Sales Insight-paket i Salesforce-AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Använder Lägg till i grupp i försäljningskampanj i Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
+>* [Installera Marketo Sales Insight-paketet i Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

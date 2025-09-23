@@ -4,7 +4,7 @@ description: Rapporttyper för Intäktsutforskaren - Marketo Docs - produktdokum
 title: Rapporttyper för intäktsutforskaren
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

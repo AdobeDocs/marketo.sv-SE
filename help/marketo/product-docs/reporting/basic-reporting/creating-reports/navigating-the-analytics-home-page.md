@@ -4,7 +4,7 @@ description: Navigera på analysstartsidan - Marketo Docs - produktdokumentation
 title: Navigera på analysstartsidan
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
