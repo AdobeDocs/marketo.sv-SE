@@ -4,9 +4,9 @@ description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdo
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage deduplicerar automatiskt när nya personer kommer in i systemet. 
 
 >[!PREREQUISITES]
 >
->Om du söker efter och sammanfogar dubbletter används [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Du kan söka efter och sammanfoga dubbletter genom att använda [inbyggda/systemsmarta listor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo Engage deduplicerar automatiskt när nya personer kommer in i systemet. 
    >
    >Du kan ha två eller flera dubbletter för samma person - markera alla samtidigt.
 
-1. Du kommer att se värdena mellan posterna som _inte_ matchar. Välj det värde som du vill behålla för varje fält. Klicka på **[!UICONTROL Merge]** när du är klar. Om du inte vill ha något av värdena kan du kontrollera **[!UICONTROL Custom]** och ange ett värde.
+1. Värdena mellan poster som inte matchar visas. _Välj det värde du vill behålla för varje fält_. Klicka på **[!UICONTROL Merge]** när du är klar. Om du inte vill ha något av värdena kan du kontrollera **[!UICONTROL Custom]** och ange ett värde.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >När man sammanfogar personer manuellt blir den första personen&quot;vinnaren&quot;. Så om du sammanfogar post-ID:n 198 och 1999 på fliken Folk och klickar på 199 först blir 199 post-ID:t för de sammanfogade personerna. Detta gäller även om fler än två poster sammanfogas.
+   >* Till skillnad från Salesforce sammanfogas _inte_ när du sammanfogar personer i Marketo. Du väljer de värden som du vill behålla.
+   >
+   >* När man sammanfogar personer manuellt blir den första personen&quot;vinnaren&quot;. Så om du sammanfogar post-ID:n 198 och 1999 på fliken Folk och klickar på 199 först blir 199 post-ID:t för de sammanfogade personerna. Detta gäller även om fler än två poster sammanfogas.
 
    >[!TIP]
    >
