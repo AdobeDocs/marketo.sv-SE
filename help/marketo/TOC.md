@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
 workflow-type: tm+mt
-source-wordcount: '9306'
+source-wordcount: '9308'
 ht-degree: 0%
 
 ---
@@ -1032,6 +1032,7 @@ ht-degree: 0%
          + [Anpassad CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Varumärkesteman](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Använd varumärke](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [Mörkt läge](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testa e-poståtergivning med Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeta med AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
