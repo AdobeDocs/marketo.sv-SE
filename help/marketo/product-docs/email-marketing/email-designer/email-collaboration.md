@@ -5,9 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -16,43 +17,50 @@ ht-degree: 0%
 
 Med e-postsamarbete och kommentering kan marknadsföringsteam smidigt granska, diskutera och färdigställa e-postresurser i Adobe Marketo Engage Email Designer. I stället för att dela utkast över externa verktyg (som chatt, e-posttrådar, kalkylblad etc.) kan du kommentera, föreslå ändringar och åtgärda feedback i realtid. Detta effektiviserar arbetsflödet, minskar antalet fel och säkerställer att alla intressenter är uppdaterade innan en e-postkampanj skickas.
 
+## Behörigheter {#permissions}
 
-## Aktivera Collaboration {#enable-collaboration}
-
-1. När du skapar eller redigerar ett e-postmeddelande i e-postprogrammet Designer visas alternativet&quot;Collaboration&quot; till höger.
-
-   SCREENSHOT
-
-1. På så sätt kan teammedlemmar gå in i granskningsläge för samarbete.
-
-   SCREENSHOT
+Användare som har redigeringsbehörighet för en e-postresurs kan kommentera, tagga och visa kommentarer. Användare med skrivskyddad behörighet för e-postresurser kan **inte** lägga till eller visa kommentarer.
 
 ## Lägg till kommentarer {#add-comments}
 
-1. Klicka på en struktur, en kolumn eller ett innehåll (text, bild, knapp osv.) över ett redigerbart avsnitt i e-post-Designer.
+1. När du skapar eller redigerar ett e-postmeddelande i e-postprogrammet klickar du på en struktur, en kolumn eller ett innehåll (text, bild, knapp osv.) över ett redigerbart avsnitt.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-1.png)
 
-1. Klicka på kommentarsikonen ().
+1. Klicka på kommentarsikonen.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-2.png)
 
 1. Skriv feedback, frågor eller förslag.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Tagga lagkamrater med @mentions (t.ex. &quot;@John, uppdatera Winter Newsletter&quot;).
 
+## Visa alla kommentarer {#view-all-comments}
+
+1. Klicka på ikonen _Collaboration_ till höger.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Svara snabbt på eller gilla en kommentar.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Klicka på ikonen **..** om du vill se fler åtgärder.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Lös kommentarer {#resolve-comments}
 
 Varje kommentarstråd innehåller:
 
-* Svar: Fortsätt diskutera.
-* Lös: Markera kommentaren som adresserad.
-* Lös upp: Om fler redigeringar behövs.
-* Ta bort: Kopplar loss kommentaren från designelementet (som valdes när kommentaren skapades)
+* Svar: Fortsätt diskussionen
+* Lös: Markera kommentaren som löst
+* Lös upp: Om fler redigeringar behövs
+* Ta bort: Tar bort kommentaren från dess designelement
 * Ta bort: Tar bort kommentaren permanent
 
 >[!NOTE]
@@ -68,10 +76,6 @@ Meddelanden utlöses för:
 * Nya kommentarer
 * Meningar (@username)
 * Lösningar
-
-## Behörigheter {#permissions}
-
-Användare som har redigeringsbehörighet för en e-postresurs kan kommentera, tagga och visa kommentarer. Användare med skrivskyddad behörighet för e-postresurser kan **inte** lägga till eller visa kommentarer.
 
 ## Bästa praxis {#best-practices}
 
