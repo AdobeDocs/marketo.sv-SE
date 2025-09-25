@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ Följ stegen nedan för att definiera egna inställningar för mörkt läge.
 
 1. När du är nöjd med ändringarna för mörkt läge klickar du på **[!UICONTROL Simulate Content]**.
 
-   ![](assets/dark-mode-simulate.png)
+   SCREENSHOT
 
 1. Välj **[!UICONTROL Render email]** och anslut till ditt Litmus-konto. Du kan se den slutliga återgivningen i mörkt läge för olika e-postklienter. Läs mer om [E-poståtergivning](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
