@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Använd AI-assistenten
-description: Utnyttja Adobe generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
+description: Utnyttja Adobes generativa AI-teknik för att lägga till användbar text och/eller bilder i e-postmeddelanden.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
 source-wordcount: '726'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
