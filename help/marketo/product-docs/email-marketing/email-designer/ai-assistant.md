@@ -6,10 +6,10 @@ description: Utnyttja Adobes generativa AI-teknik för att lägga till användba
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 2%
+source-wordcount: '814'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,33 @@ AI Assistant i Marketo Engage Email Designer hjälper dig att skapa aktuella, h�
 
 >[!PREREQUISITES]
 >
->AI-assistenten är inte aktiverad som standard. Du måste först godkänna villkoren för Core Gen-AI och de kompletterande villkoren för att använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
+>AI-assistenten är inte aktiverad som standard. Du måste först godkänna villkoren för [Core Gen-AI och de kompletterande villkoren](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} för att kunna använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
+
+## Konfigurera behörigheter {#set-up-permissions}
+
+_Efter_ som följer ovanstående krav måste Marketo-administratörer ge åtkomst till specifika användare/roller innan användarna kan se GenAI-knapparna.
+
+1. I Marketo Engage klickar du på **Admin** och väljer **Användare och roller**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Dubbelklicka på önskad roll på fliken **Roller**.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Under _Access Design Studio_ markerar du kryssrutan **Access AI Assistant** och klickar på **Spara**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Klicka på fliken Användare och välj den användare som du vill ge åtkomst till.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Välj den roll du valde i steg 3 och den önskade arbetsytan (om tillämpligt). Klicka på **Spara**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Användningsexempel {#use-cases}
 
 Det finns tre primära användningsområden för AI Assistant:
 

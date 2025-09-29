@@ -4,7 +4,7 @@ title: Framtagning av e-post
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
 source-wordcount: '1721'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Lär dig hur du skapar, anpassar och förhandsgranskar e-postmeddelanden i nya M
 
 >[!PREREQUISITES]
 >
->Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} för att du ska kunna komma åt den nya e-postdesignern. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Skapa ett e-postmeddelande {#create-an-email}
 
@@ -195,7 +195,7 @@ Redigeraren återger fragmentet i avsnittet/elementet i e-poststrukturen. Fragme
 >
 >Om du vill att fragmentet ska uppta hela den vågräta layouten i e-postmeddelandet lägger du till en :1-kolumnstruktur och drar och släpper fragmentet i den.
 
-När e-postmeddelandet har sparats visas det på fliken _[!UICONTROL Used By]_&#x200B;på sidan med fragmentinformation. Fragment som läggs till i en e-postmall kan inte redigeras i mallen. Källfragmentet definierar innehållet.
+När e-postmeddelandet har sparats visas det på fliken _[!UICONTROL Used By]_på sidan med fragmentinformation. Fragment som läggs till i en e-postmall kan inte redigeras i mallen. Källfragmentet definierar innehållet.
 
 ### Lägg till Assets {#add-assets}
 
@@ -227,13 +227,13 @@ I exemplet nedan beskrivs stegen för att justera utfyllnad och lodrät justerin
 
 1. Markera kolumnen i strukturkomponenten direkt på arbetsytan eller med _navigeringsträdet_ som visas till vänster.
 
-1. Klicka på verktyget _[!UICONTROL Select a column]_&#x200B;i kolumnverktygsfältet och välj det som du vill redigera.
+1. Klicka på verktyget _[!UICONTROL Select a column]_i kolumnverktygsfältet och välj det som du vill redigera.
 
-   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_&#x200B;och&#x200B;_[!UICONTROL Styles]_ till höger.
+   Du kan också välja det i strukturträdet. De redigerbara parametrarna för den kolumnen visas på flikarna _[!UICONTROL Settings]_och_[!UICONTROL Styles]_ till höger.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_&#x200B;till höger och ändrar dem efter dina behov:
+1. Om du vill redigera kolumnegenskaperna klickar du på fliken _[!UICONTROL Styles]_till höger och ändrar dem efter dina behov:
 
    * Ändra bakgrundsfärgen för **[!UICONTROL Background]** efter behov.
 
