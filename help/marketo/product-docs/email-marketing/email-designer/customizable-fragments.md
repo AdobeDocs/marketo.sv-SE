@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -51,29 +51,29 @@ Gör så här för att göra delar av ett visuellt fragment redigerbara:
 1. Spara ändringarna när du är klar.
 
 När du har lagt till fragmentet i ett e-postmeddelande kan användarna anpassa alla redigerbara fält som är konfigurerade i fragmentet.
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## Lägga till redigerbara fält i HTML-komponenter och uttrycksfragment {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-Om du vill göra delar av en HTML-komponent eller ett uttrycksfragment redigerbara måste du använda en specifik syntax i uttrycksredigeraren. Detta innebär att deklarera en _variabel_ med ett standardvärde som användare kan åsidosätta efter att ha lagt till fragmentet i innehållet.
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-Anta till exempel att du vill skapa ett fragment som ska läggas till i dina e-postmeddelanden, och tillåta användare att anpassa en viss färg som används på olika platser, till exempel ramar eller knappars bakgrundsfärger. När du skapar fragmentet måste du deklarera en variabel med ett _unikt ID_ (t.ex. &quot;färg&quot;) och anropa den på de önskade platserna i fragmentinnehållet där du vill använda den här färgen. När du lägger till fragmentet i innehållet kan användarna anpassa färgen som används där variabeln refereras.
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-För HTML-komponenter kan bara specifika element bli redigerbara fält. Expandera avsnittet nedan om du vill ha mer information.
++++Editable elements in HTML components:
 
-+++Redigerbara element i HTML-komponenter:
+The elements below can become editable fields in an HTML component:
 
-Elementen nedan kan bli redigerbara fält i en HTML-komponent:
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* En del av text
-* En fullständig URL för länk eller bild (fungerar inte med delar av en URL)
-* Hela CSS-egenskapen (fungerar inte med partiell egenskap)
-
-I koden nedan kan till exempel varje element som är markerat med rött bli en egenskap:
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[Fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
