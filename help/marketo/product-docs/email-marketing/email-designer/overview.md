@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Designer för e-post är den senaste innovationen i Marketo Engage som är avsed
 
 +++Lär dig hur du får tillgång till e-postprogrammet Designer
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -72,7 +72,7 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 **Kommer den gamla e-postredigeraren att fortsätta fungera? I så fall, hur länge?**
 
-Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postversionen av Designer. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta fungera under hela 2025.
+Ja, den gamla (klassiska) e-postredigeraren kommer att finnas parallellt med den nya e-postversionen av Designer. E-postmeddelanden som skapats i den klassiska redigeraren kommer att finnas kvar. Det finns inget datum för när den klassiska redigeraren kommer att bli inaktuell just nu, men den kommer att fortsätta att fungera under 2026. Vi kommer att göra flera månaders varsel innan vi ersätter den gamla redigeraren.
 
 **Vilka program kan jag använda de nya e-postmeddelandena från Designer i?**
 
