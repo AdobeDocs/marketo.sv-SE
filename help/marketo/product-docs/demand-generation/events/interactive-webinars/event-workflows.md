@@ -3,9 +3,9 @@ description: Event Workflows - Marketo Docs - Product Documentation
 title: Arbetsflöden för händelser
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ När webbinariet är klart går du till fliken Kontrollpanel för att se de samm
 
 ## Manuell synkronisering {#manual-sync}
 
-Med interaktiva webbinarier kan du få tillgång till dina interaktionsdata från Adobe Connect om du inte har fått dem automatiskt inom två timmar efter att webbinariet har slutförts. Knappen Synkronisera nu visas på sidan Översikt. Om du klickar på **Synkronisera nu** aktiveras en pull från Adobe Connect för att fylla i data i Marketo Engage. När synkroniseringen har utförts försvinner knappen och fliken Kontrollpanel fylls i.
+Med interaktiva webbinarier kan du få tillgång till dina interaktionsdata från Adobe Connect om du inte har fått dem automatiskt inom två timmar efter att webbinariet har slutförts. Trettio dagar efter leveransdatumet för det interaktiva webbinariet visas alternativet Synkronisera aktivitet på begäran till höger om rubriken för webbinariets _Dashboard_. När du klickar på den aktiveras en pull från Adobe Connect för att fylla i data i Marketo Engage. Den synkroniserar data från datumet för ditt webbinarium till det datum du klickar på **Synkronisera aktivitet på begäran**.
 
 ## Kontrollpanelwidgetar {#dashboard-widgets}
 
