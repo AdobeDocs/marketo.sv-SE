@@ -60,7 +60,7 @@ Om värdet är true skickas följande tokenkontexter till den underordnade kampa
 
 **API-interaktion**
 
-När du använder Schedule eller Request Campaign [ i API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
+När du använder Schedule eller Request Campaign [&#x200B; i API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) kan du båda skicka värden för Mina token, som åsidosätter de värden som angetts för dessa token i kampanjen som du anropar. Om den kampanjen sedan kör en annan kampanj och anger &quot;Use Parent Context to True&quot;, används de värden som skickas via API:t i stället för de värden som anges i programmet.
 
 ## Saker att notera {#things-to-note}
 

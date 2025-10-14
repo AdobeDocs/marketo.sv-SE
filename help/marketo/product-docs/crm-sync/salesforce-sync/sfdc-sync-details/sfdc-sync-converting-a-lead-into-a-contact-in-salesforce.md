@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SFDC Sync: Konverterar en lead till en kontakt i [!DNL Salesforce] {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Tänk dig tre olika scenarier i [!DNL Salesforce]: (använder inte [ Konvertera personflödessteg ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) i Marketo)
+Tänk dig tre olika scenarier i [!DNL Salesforce]: (använder inte [&#x200B; Konvertera personflödessteg &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) i Marketo)
 
 1. Konverterar en lead till en **ny kontakt och ett nytt konto**
 1. Konverterar en lead till en **ny kontakt** i ett **befintligt konto**

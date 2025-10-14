@@ -23,7 +23,7 @@ Följande funktioner kommer att börja släppas den **6 maj 2022**, med en stegv
 
 ## Integrering med CRM {#native-crm-integration}
 
-**[Integrering med CRM ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begränsad tillgänglighet)**: Förbättra interaktionen med vårdpersonal genom att synkronisera aktiviteter mellan Veeva CRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
+**[Integrering med CRM &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (begränsad tillgänglighet)**: Förbättra interaktionen med vårdpersonal genom att synkronisera aktiviteter mellan Veeva CRM och Marketo Engage via inbyggd integrering. Tack vare den här integreringen kan marknadsförarna skapa mer personaliserade och sömlösa upplevelser över flera kanaler för hälso- och sjukvårdspersonal. Kontakta din Customer Success Manager om du är intresserad av att delta.
 
 ## Flerkanalsmarknadsföring {#cross-channel-orchestration}
 

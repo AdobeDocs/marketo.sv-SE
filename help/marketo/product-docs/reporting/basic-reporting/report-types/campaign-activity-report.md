@@ -31,7 +31,7 @@ Se hur dina [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/
 >
 >Om du vill hitta de kampanjer som har bearbetat flest personer, till exempel [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} på _Totalt antal bearbetade personer_ och väljer **Sortera fallande**.
 
-**[Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport omfattar**:
+**[Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport omfattar**:
 
 <table><thead>
   <tr>

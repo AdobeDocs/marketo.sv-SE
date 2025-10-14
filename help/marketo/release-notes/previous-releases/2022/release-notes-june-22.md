@@ -63,7 +63,7 @@ Följande funktioner kommer att börja släppas den **24 juni 2022**, med en fas
 
 ![(stjärna)](assets/yellow-star.png)
 
-* **[!DNL Salesforce]API-uppdatering**: I version [!DNL Salesforce] sommar 22 stöds inte längre API-versioner 21-30 av [!DNL Salesforce]. I den här Marketo Engage-versionen har alla [!DNL Sales Connect]-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [!DNL Salesforce]här[ om du vill ha fullständig information om ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} API-pensionsplaner.
+* **[!DNL Salesforce]API-uppdatering**: I version [!DNL Salesforce] sommar 22 stöds inte längre API-versioner 21-30 av [!DNL Salesforce]. I den här Marketo Engage-versionen har alla [!DNL Sales Connect]-begäranden som använder äldre API-versioner uppdaterats så att de hålls i en version som stöds. Klicka [!DNL Salesforce]här[&#x200B; om du vill ha fullständig information om &#x200B;](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} API-pensionsplaner.
 
 ## API-förbättringar {#api-enhancements}
 

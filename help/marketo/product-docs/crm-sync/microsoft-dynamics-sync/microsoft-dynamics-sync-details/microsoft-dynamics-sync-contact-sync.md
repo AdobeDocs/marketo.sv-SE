@@ -25,7 +25,7 @@ Kontaktsynkroniseringen är dubbelriktad. Om du ändrar en kontakt i [!DNL Dynam
 
 ## Kan jag skapa en kontakt med Marketo? {#can-i-create-a-contact-using-marketo}
 
-Ja. [Så här ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
+Ja. [Så här &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >

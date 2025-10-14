@@ -46,7 +46,7 @@ Du kan se mycket information om dina sidor med detaljnivån nedåt.
 
 ## [!UICONTROL Keyword(s) that Page is Optimized For]  {#keyword-s-that-page-is-optimized-for}
 
-Här [väljer du vilket nyckelord du vill optimera sidan för ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Här [väljer du vilket nyckelord du vill optimera sidan för &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

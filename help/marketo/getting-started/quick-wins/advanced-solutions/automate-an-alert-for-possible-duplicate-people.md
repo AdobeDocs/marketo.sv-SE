@@ -32,7 +32,7 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
 
    >[!TIP]
    >
-   >[Använd token ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} för att skicka aviseringsinformation för att inkludera en länk till personen i CRM.
+   >[Använd token &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} för att skicka aviseringsinformation för att inkludera en länk till personen i CRM.
 
    >[!CAUTION]
    >

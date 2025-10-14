@@ -23,7 +23,7 @@ Följande funktioner ingår i aprilversionen 2015. Kontrollera om det finns funk
 >
 >Den här funktionen kommer att släppas tisdagen den 28 april.
 
-Den nya [[!UICONTROL Analytics]-startsidan ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
+Den nya [[!UICONTROL Analytics]-startsidan &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) ger snabb åtkomst för att köra ad hoc-rapporter över tillgängliga rapporttyper.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 

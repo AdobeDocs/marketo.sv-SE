@@ -31,7 +31,7 @@ Integrera dina Marketo Engage-användare med dina LinkedIn-målgrupper.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Klicka på ikonen _Skicka via Lägg till Bridge_ ![ -](assets/icon-ad-bridge.png) längst ned i listan.
+1. Klicka på ikonen _Skicka via Lägg till Bridge_ ![&#x200B; -](assets/icon-ad-bridge.png) längst ned i listan.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 

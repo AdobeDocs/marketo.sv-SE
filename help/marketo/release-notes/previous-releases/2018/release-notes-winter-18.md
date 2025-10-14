@@ -86,7 +86,7 @@ Innehåll som rekommenderas via Marketo optimerade ContentAI-algoritmer generera
 
 ## Integrering {#integration}
 
-**[Aktivera/inaktivera kampanj-API ](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Aktivera/inaktivera kampanj-API &#x200B;](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Detta nya API gör att ni kan aktivera och inaktivera utlösarkampanjer via fjärranslutning, så att ni nu kan skapa helt automatiserade programmallar. Skapa en programmall en gång, automatisera kloningen, uppdatera marknadsföringsmaterialet och nu aktivera/schemalägga smarta kampanjer.
 

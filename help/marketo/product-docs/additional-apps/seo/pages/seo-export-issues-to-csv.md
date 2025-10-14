@@ -23,7 +23,7 @@ Du kan exportera dina [sidutgivningsdata](/help/marketo/product-docs/additional-
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Det här är [detaljnivån för ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** är en lista över alla problem med den aktuella sidan.
+   Det här är [detaljnivån för &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** är en lista över alla problem med den aktuella sidan.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 

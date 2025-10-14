@@ -64,7 +64,7 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Välj en [!UICONTROL display name]. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]**. Ange [!UICONTROL description]. Klicka på listrutan [!UICONTROL API Only User] och välj den användare du skapade [ i stegen ovan](#create-a-new-user). Klicka på **[!UICONTROL Create]**.
+1. Välj en [!UICONTROL display name]. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]**. Ange [!UICONTROL description]. Klicka på listrutan [!UICONTROL API Only User] och välj den användare du skapade [&#x200B; i stegen ovan](#create-a-new-user). Klicka på **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

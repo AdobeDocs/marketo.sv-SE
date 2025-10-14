@@ -41,5 +41,5 @@ Med rapporten [!UICONTROL Revenue Explorer] kan du spåra avkastningen på dina 
 
 >[!MORELIKETHIS]
 >
->* [Lägger till fält i en [!UICONTROL Revenue Explorer] rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Lägga till anpassade mått i en [!UICONTROL Revenue Explorer] rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [Lägger till fält i en [!UICONTROL Revenue Explorer] rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Lägga till anpassade mått i en [!UICONTROL Revenue Explorer] rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

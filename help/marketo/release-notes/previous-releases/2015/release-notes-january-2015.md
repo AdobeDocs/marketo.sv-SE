@@ -21,7 +21,7 @@ Följande funktioner ingår i januari 2015-versionen. Kontrollera om det finns f
 
 Du kan nu [skapa mobilvyer för landningssidor](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) inifrån landningssidans redigerare. Leverera ert budskap effektivt oavsett enhet och öka engagemanget genom att skräddarsy ert innehåll för enkel användning oavsett var ni är. Den här funktionen kommer gradvis att lanseras under veckan efter releasen.
 
-[-landande sidgenomgång - ](https://youtu.be/aPQHlG2X6c0)
+[-landande sidgenomgång - &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
 **Nya REST API-anrop**
 

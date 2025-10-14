@@ -21,7 +21,7 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 >
 >Om du vill hämta aktiviteter från din webbplats i Marketo måste du först konfigurera [up [!DNL Munchkin] på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [!UICONTROL Company Web Activity] [rapport ](report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [!UICONTROL Company Web Activity] [rapport &#x200B;](report-type-overview.md).
 
 1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
 
@@ -35,7 +35,7 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
    >
    >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_&#x200B;och väljer **[!UICONTROL Sort Descending]**.
 
-   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
+   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 
 <table>
  <thead>

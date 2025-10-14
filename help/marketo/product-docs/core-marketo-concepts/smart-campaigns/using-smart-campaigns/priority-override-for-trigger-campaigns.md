@@ -16,7 +16,7 @@ Administratörer kan åsidosätta den av Marketo Engage fastställda prioriteten
 
 >[!NOTE]
 >
->Den här funktionen är bara tillgänglig för utlösarkampanjer och för användare som har beviljats behörigheten [&quot;Redigera utlösarkampanjprioritet&quot; ](#grant-priority-override-access).
+>Den här funktionen är bara tillgänglig för utlösarkampanjer och för användare som har beviljats behörigheten [&quot;Redigera utlösarkampanjprioritet&quot; &#x200B;](#grant-priority-override-access).
 
 >[!CAUTION]
 >

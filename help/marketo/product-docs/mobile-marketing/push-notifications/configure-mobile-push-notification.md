@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. Ange meddelandetext eller välj tokeikonen för att lägga till tokens (i den här redigeraren formateras [ eftersom de vanligtvis är ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) - du kan använda flera token). Välj en **Tryck på åtgärd**.
+1. Ange meddelandetext eller välj tokeikonen för att lägga till tokens (i den här redigeraren formateras [&#x200B; eftersom de vanligtvis är &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) - du kan använda flera token). Välj en **Tryck på åtgärd**.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
