@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Detta är ett exempelprogram som är idealiskt för kontaktförfrågningar, offertförfrågningar, demonstrationsförfrågningar eller testförfrågningar med hjälp av ett Marketo Engage standardprogram. Kan användas med Marketo landningssidor eller som ett inbäddat formulär på landningssidor som inte kommer från Marketo. Ett varningsmeddelande skickas till en angiven person när formuläret skickas in.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

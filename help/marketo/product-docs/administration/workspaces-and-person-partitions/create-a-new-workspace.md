@@ -30,7 +30,7 @@ Så här skapar du en ny arbetsyta.
 
 >[!TIP]
 >
->Om du vill veta mer om Workspace bästa praxis kontaktar du [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Om du vill veta mer om Workspace bästa praxis kontaktar du [Marketo Professional Services](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"}.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

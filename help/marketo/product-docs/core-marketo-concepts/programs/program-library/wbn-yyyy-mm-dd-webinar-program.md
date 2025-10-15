@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Det här är ett exempel på ett webbinarium med registreringshantering, tre inbjudningar via e-post, påminnelser till deltagande och uppföljningsmejl med hjälp av ett Marketo Engage Event Program.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

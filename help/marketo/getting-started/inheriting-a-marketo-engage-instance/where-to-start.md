@@ -64,6 +64,6 @@ Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via l
 
 * Kommunicera med och lär av andra Marketo Engage-användare i **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
-* Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"}**.
 
 * Titta på **[kuraterade självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}** om olika aspekter av Marketo Engage.

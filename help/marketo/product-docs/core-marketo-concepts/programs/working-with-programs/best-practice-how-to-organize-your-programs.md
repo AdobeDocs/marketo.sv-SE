@@ -121,4 +121,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Vi har behandlat grunderna här, men överväg att skaffa ytterligare tjänster från [Marketo Engage-experter](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} för att finjustera och konfigurera dig själv för att lyckas.
+Som du ser finns det mycket kraft i Marketo. Vi har behandlat grunderna här, men överväg att skaffa ytterligare tjänster från [Marketo Engage-experter](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"} för att finjustera och konfigurera dig själv för att lyckas.

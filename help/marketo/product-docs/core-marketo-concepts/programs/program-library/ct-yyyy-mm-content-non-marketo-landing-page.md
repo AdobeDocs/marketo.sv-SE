@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Det här är ett exempel på ett innehållsprogram med ett Marketo Engage-formulär för att hämta innehåll på en icke-Marketo Engage landningssida som använder ett Marketo Engage-standardprogram. Det här programmet är avsett att fungera med ett Marketo Engage-formulär som är inbäddat på din webbplats. Länken till erbjudandet/innehållet kan skickas i ett tackmeddelande.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

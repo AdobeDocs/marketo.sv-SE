@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Marketo Engage Reference Library innehåller flera startprogram som du kan importera direkt till din Marketo-instans för att snabbt komma igång med att skapa program som kan hjälpa ditt team.
 
-Biblioteket innehåller program som e-post, engagemang, event, poängsättning, leveransbarhet och driftsättning. Alla program har utvecklats av Adobe Product Team och granskats av vårt [globala Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} -team för att maximera kvaliteten och effektiviteten.
+Biblioteket innehåller program som e-post, engagemang, event, poängsättning, leveransbarhet och driftsättning. Alla program har utvecklats av Adobe Product Team och granskats av vårt [globala Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} -team för att maximera kvaliteten och effektiviteten.
 
 ## Exempel på tillgängliga program {#available-program-examples}
 

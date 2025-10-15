@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Det här är ett exempel på enkla strukturprogram, som använder Marketo Engage Engagement Program, med cadenced content to drip over time to your database while utilizing streams to guide records through travel based on behavior based on behavior.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 
