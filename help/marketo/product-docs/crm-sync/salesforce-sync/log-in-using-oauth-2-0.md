@@ -3,10 +3,10 @@ description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 0%
 
 ---
 
@@ -18,35 +18,51 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 >
 >Om du vill ansluta Marketo och [!DNL Salesforce] med OAuth loggar du in på Marketo via en privat webbläsare (incognito) för att undvika att ansluta till [!DNL Salesforce] med fel användarnamn.
 
-## Konfigurera ansluten app {#set-up-connected-app}
+## Konfigurera externt klientprogram {#set-up-external-client-app}
 
-1. Gå till Appar, App Manager och klicka på **[!UICONTROL New Connected App]** under Konfigurera i plattformsverktygen i Salesforce.
-
-   ![](assets/setting-up-oauth-2-1.png)
-
-1. Fyll i informationen och klicka på **[!UICONTROL Save]**.
-
-   ![](assets/setting-up-oauth-2-2.png)
-
-1. Klicka i kryssrutan **[!UICONTROL Enable OAuth Settings]**. Ange `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` för återanrops-URL. Markera alla tillgängliga OAuth-scope och klicka på **[!UICONTROL Add]**.
-
-   ![](assets/setting-up-oauth-2-3.png)
-
-1. Klicka på **[!UICONTROL Save]**.
-
-   ![](assets/setting-up-oauth-2-4.png)
-
-1. Klicka på **[!UICONTROL Continue]**.
-
-   ![](assets/setting-up-oauth-2-5.png)
-
-1. Copy the Consumer Key and Consumer Secret (you will need them later for use in Marketo Engage).
-
-   ![](assets/setting-up-oauth-2-6.png)
-
->[!CAUTION]
+>[!NOTE]
 >
->Rulla nedåt medan du fortfarande är på sidan Ny ansluten app och kontrollera att kryssrutan Kräv korrekturnyckel för kodutbyte (PKCE) är _INTE_ markerad, eftersom det skulle störa installationen.
+>Från september 2025 började Salesforce begränsa användningen av [anslutna appar](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. För befintliga användare som har konfigurerat en ansluten app baserat på vår dokumentation kan du antingen lägga till behörigheten Godkänn avinstallerade anslutna appar i profilen för Marketo Sync-användaren eller skapa en ny extern klientapp enligt instruktionerna nedan.
+
+1. Klicka på kugghjulsikonen i Salesforce och välj **Inställningar**.
+
+   ![](assets/log-in-using-oauth-1.png)
+
+1. Skriv `App Manager` i rutan Snabbsökning och välj sedan **App Manager**.
+
+   ![](assets/log-in-using-oauth-2.png)
+
+1. Klicka på **Ny extern klientapp**.
+
+   ![](assets/log-in-using-oauth-3.png)
+
+1. Fyll i informationen under _Grundläggande information_. Ange _Distributionsstatus_ till **Lokal**.
+
+   ![](assets/log-in-using-oauth-4.png)
+
+1. Expandera avsnittet **API (Aktivera OAuth-inställningar)** och markera kryssrutan **[!UICONTROL Enable OAuth]**. Ange _för_&#x200B;Återanrops-URL`https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Markera alla tillgängliga OAuth-scope och klicka på högerpilen för att lägga till dem.
+
+   ![](assets/log-in-using-oauth-5.png)
+
+1. Kontrollera att inga rutor är markerade under _Flödesaktivering_.
+
+   ![](assets/log-in-using-oauth-6.png)
+
+1. Under _Säkerhet_ kontrollerar du att bara **Kräv hemlighet för webbserverflöde** och **Kräv hemlighet för uppdateringstokenflöde** är markerade.
+
+   ![](assets/log-in-using-oauth-7.png)
+
+1. Hoppa över de fyra sista avsnitten och klicka på **Skapa**.
+
+   ![](assets/log-in-using-oauth-8.png)
+
+1. När den nya externa klientappen har skapats klickar du på fliken **Inställningar** och expanderar avsnittet **OAuth-inställningar** .
+
+   ![](assets/log-in-using-oauth-9.png)
+
+1. Klicka på knappen **Konsumentnyckel och konsumenthemlighet** och be en ny flik att öppna. Kopiera och spara båda siffrorna (du behöver dem senare för att använda dem i Marketo Engage).
+
+   ![](assets/log-in-using-oauth-10.png)
 
 ## Konfigurera Marketo {#set-up-marketo}
 
@@ -64,47 +80,47 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
 1. Klicka på **[!UICONTROL CRM]** och sedan på **[!UICONTROL Sync with Salesforce]** i avsnittet Marketo Admin.
 
-   ![](assets/setting-up-oauth-2-7.png)
+   ![](assets/log-in-using-oauth-11.png)
 
 1. Lägg till information om konsumentnyckel och hemlighet som du tidigare spelat in och klicka på och **[!UICONTROL Save]**.
 
-   ![](assets/setting-up-oauth-2-8.png)
+   ![](assets/log-in-using-oauth-12.png)
 
 1. Klicka på knappen **[!UICONTROL Login with Salesforce]** på synkroniseringssidan för Marketo Salesforce.
 
-   ![](assets/setting-up-oauth-2-9.png)
+   ![](assets/log-in-using-oauth-13.png)
 
    >[!CAUTION]
    >
-   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce, aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av Salesforce-inloggningsuppgifter eller -prenumeration. Om du vill att Oauth 2.0 ska vara konfigurerad för din Salesforce-autentisering kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support).
+   >Om du ser fält för användarnamn/lösenord/token och inte en inloggningsknapp för Salesforce, aktiveras din Marketo-prenumeration för grundläggande autentisering. Se [Konfigurera Marketo med grundläggande autentisering](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. När synkroniseringen börjar med en uppsättning inloggningsuppgifter sker ingen växling av Salesforce-inloggningsuppgifter eller -prenumeration. Om du vill att Oauth 2.0 ska vara konfigurerad för din Salesforce-autentisering kontaktar du [Marketo support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Ett popup-fönster med inloggningssidan för Salesforce visas. Ange dina Marketo Sync-användaruppgifter och logga in.
 
-   ![](assets/setting-up-oauth-2-10.png)
+   ![](assets/log-in-using-oauth-14.png)
 
 1. Ange verifieringskoden som du fick via e-post (skickas av Salesforce) och klicka på **[!UICONTROL Verify]**.
 
-   ![](assets/setting-up-oauth-2-11.png)
+   ![](assets/log-in-using-oauth-15.png)
 
 1. När verifieringen är klar visas åtkomstsidan och begär åtkomst. Klicka på **[!UICONTROL Allow]**.
 
-   ![](assets/setting-up-oauth-2-12.png)
+   ![](assets/log-in-using-oauth-16.png)
 
 1. Om några minuter visas ett popup-fönster i Marketo. Klicka på **[!UICONTROL Confirm Credentials]**.
 
-   ![](assets/setting-up-oauth-2-13.png)
+   ![](assets/log-in-using-oauth-17.png)
 
 1. När fältsynkroniseringen är klar klickar du på **[!UICONTROL Start Salesforce Sync]**.
 
-   ![](assets/setting-up-oauth-2-14.png)
+   ![](assets/log-in-using-oauth-18.png)
 
 1. Klicka på **[!UICONTROL Start Sync]**.
 
-   ![](assets/setting-up-oauth-2-15.png)
+   ![](assets/log-in-using-oauth-19.png)
 
 Din synkronisering mellan Marketo och [!DNL Salesforce] pågår.
 
-![](assets/setting-up-oauth-2-16.png)
+![](assets/log-in-using-oauth-20.png)
 
 >[!MORELIKETHIS]
 >
