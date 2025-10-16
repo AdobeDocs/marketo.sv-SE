@@ -18,7 +18,7 @@ Vill du få en varning varje gång en dubblettperson skapas? Så här konfigurer
 1. [Skapa en ny smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definiera följande smarta lista:
 
 * Utlösare: **[!UICONTROL Person is Created]**
-* Filter: **[!UICONTROL Duplicate Fields]**. Fältnamn **[!UICONTROL is][!UICONTROL Full Name]**
+* Filter: **[!UICONTROL Duplicate Fields]**. Fältnamn **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

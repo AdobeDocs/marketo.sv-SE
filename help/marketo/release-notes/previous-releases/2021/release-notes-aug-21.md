@@ -63,7 +63,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible].
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible].
 
 * **Förbättrad snabbkontrollpanel**: Vi har lagt till ett nytt snabbmätnings- och instrumentpanelsfilter för djupare insikter. Den här instrumentpanelen används av marknadsförare för att förstå hur snabbt leads och affärstillfällen kan komma i fas för steg och hur effektiva olika former av marknadsföring och säljengagemang är.
 
