@@ -3,9 +3,9 @@ description: Logga in med OAuth 2.0 - Marketo Docs - produktdokumentation
 title: Logga in med OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,11 @@ Salesforce använder OAuth-protokollet för att tillåta användare av program a
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. När den nya externa klientappen har skapats klickar du på fliken **Inställningar** och expanderar avsnittet **OAuth-inställningar** .
+1. När den nya externa klientappen har skapats väljer du fliken **Inställningar** och expanderar avsnittet **OAuth-inställningar** .
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Klicka på knappen **Konsumentnyckel och konsumenthemlighet** och be en ny flik att öppna. Kopiera och spara båda siffrorna (du behöver dem senare för att använda dem i Marketo Engage).
+1. Klicka på knappen **Konsumentnyckel och hemlighet** och be en ny flik att öppna. Kopiera och spara båda siffrorna (du behöver dem senare för att använda dem i Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
