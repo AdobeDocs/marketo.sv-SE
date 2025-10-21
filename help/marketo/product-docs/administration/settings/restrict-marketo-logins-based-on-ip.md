@@ -21,7 +21,7 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) stöder [IP-baserad åtkomstkontroll](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. För att övergången ska gå smidigt kommer befintliga Marketo Engage IP-begränsningar att vara aktiva, inklusive Adobe ID-användare till och med Q1 2026 i prenumerationer där den här funktionen är aktiverad.
+>Adobe Admin Console (AAC) stöder [IP-baserad åtkomstkontroll](https://helpx.adobe.com/se/enterprise/using/ip-based-access.html){target="_blank"}. För att övergången ska gå smidigt kommer befintliga Marketo Engage IP-begränsningar att vara aktiva, inklusive Adobe ID-användare till och med Q1 2026 i prenumerationer där den här funktionen är aktiverad.
 >
 >* Du kan konfigurera AAC IP-baserad åtkomst när som helst.
 >* Både AAC- och Marketo Engage-begränsningar kan köras samtidigt. Använd samma IP-tillåtelselista för kompatibilitet.
