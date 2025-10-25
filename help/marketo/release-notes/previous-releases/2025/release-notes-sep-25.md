@@ -1,20 +1,17 @@
 ---
-description: Aktuell versionsinformation – Marketo Docs – Produktdokumentation
-title: Aktuell versionsinformation
-hide: true
-hidefromtoc: true
+description: Versionsinformation - september 2025 - Marketo Docs - produktdokumentation
+title: Versionsinformation - september 2025
 feature: Release Information
-exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 1%
+source-wordcount: '706'
+ht-degree: 0%
 
 ---
 
-# Versionsinformation: oktober 2025 {#release-notes-oct-25}
+# Versionsinformation: september 2025 {#release-notes-sep-25}
 
-Här nedan hittar du alla funktioner som ingår i versionen från 25 oktober. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Här nedan hittar du alla funktioner som ingår i versionen från 25 september. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -24,7 +21,7 @@ Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner ingår i standardversionscykeln och kommer att släppas den **31 oktober 2025**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den 19 september 2025 **, med en fasad utrullning av återstående funktioner under de följande veckorna.** Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,7 +31,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Mallimporterare</strong>: Importera e-postmallar från den klassiska e-postredigeraren för att skapa mallar som är kompatibla med nya e-post-Designer i Design Studio.</td>
+   <td><strong>Bevaring av webbinariaktivitet på begäran</strong>: Interaktiva webbinarier-användare har nu tillgång till konsoldata för webbinariet på begäran i mer än 30 dagar (tidigare var det bara upp till 30 dagar från dagen för webbinariet).</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -44,40 +41,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-posta Designer - villkorligt innehåll</strong>: Paritetsfunktionen för den nya e-postfunktionen Designer, som gör att du kan skapa e-postpersonalisering utöver token.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Skicka e-post till Designer - A/B-testning</strong>: Paritetsfunktionen för den nya e-postversionen av Designer, så att du kan utföra A/B-tester för att se vilka typer av innehåll som får bäst svar.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Skicka e-post till Designer - varumärkesteman</strong>: Nu kan du definiera varumärkesteman i Marketo Engage. Formatkonfigurationer kan återanvändas och användas i alla e-postmallar och andra e-postresurser för enhetlig varumärkesexponering.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>Mejla Designer - bild till HTML Converter</strong>: Nu kan du överföra en kompatibel PNG/JPEG-bildfil av ett e-postmeddelande och den konverteras automatiskt till HTML för användning i den nya e-postversionen av Designer.</td>
+   <td><strong>Skicka e-post till Designer - Innehåll i Collaboration Workflow</strong>: Nu kan du kommentera och samarbeta med andra Marketo-användare i en e-postresurs. Tagga teammedlemmar (Marketo-användare som har rätt resursbehörigheter) så får de ett e-postmeddelande eller ett pulsmeddelande.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -87,7 +51,27 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Skicka e-post till Designer - klona e-poståtgärd</strong>: Nu kan du klona ett e-postmeddelande till en annan programmapp i marknadsföringsaktiviteter och snabbt återanvända befintliga e-postmeddelanden.</td>
+   <td><strong>Skicka e-post till Designer - AI Assistant-behörigheter</strong>: Marketo-administratörer kan ge vissa användare åtkomst till GenAI-funktioner.</td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Konfigurera behörigheter</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-posta Designer - mörkt läge</strong>: Nu kan du använda mörkt läge, som gör att e-postklienter och appar kan visa e-postmeddelanden med mörkare bakgrund och ljusare färger för text, knappar och andra gränssnittselement.</td>
+   <td>Levererat</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Mörkt läge</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-post-Designer - Omdirigeringskorrigeringar</strong>: Vissa användare hade problem med omdirigering av URL:er för e-postmeddelanden som skapats med den nya Designer-versionen (det gick inte alltid att klistra in URL:er direkt eller bokmärka e-postresurser). Problemet har åtgärdats. Dessutom kommer länkar till e-postresurser från <b>E-postmallar</b> &gt; <b>Detaljer</b> &gt; <b>Används av</b> att dirigera om till motsvarande e-postresurs.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -107,7 +91,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
    * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Borttagning av _Framåt till en vän_-funktion**: 29 september 2025 togs funktionen _Framåt till en vän_ bort helt för alla prenumerationer i e-postmeddelanden från Marketo Engage 2.0 (den gamla e-postredigeraren). Detta påverkade token &quot;Vidarebefordra till en vän&quot; och &quot;Vidarebefordra till en vän&quot; i e-postmeddelanden som redan har eller var planerade att skickas med token. [Läs mer](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **Borttagning av _Framåt till en vän_-funktion**: 29 september 2025 kommer funktionen _Framåt till en vän_ i e-postmeddelanden från Marketo Engage 2.0 (den gamla e-postredigeraren) att vara helt inaktuell för alla prenumerationer. Detta påverkar token &quot;Vidarebefordra till en vän&quot; och &quot;Vidarebefordra till en vän&quot; i e-postmeddelanden som redan har skickats eller kommer att skickas med denna token. [Läs mer](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop är inaktuell och kommer inte att vara tillgänglig efter den 31 januari 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
