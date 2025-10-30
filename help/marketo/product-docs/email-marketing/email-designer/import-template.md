@@ -5,18 +5,19 @@ title: Import av mallar
 description: Lär dig hur du importerar dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '723'
 ht-degree: 0%
 
 ---
 
 # Import av mallar {#template-import}
 
-Importera smidigt dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer som bevarar designen och snabbar upp mallframtagningen med välbekanta, återanvändbara strukturer.
+Importera smidigt dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer som bevarar designen och snabbar upp mallframtagningen med välbekanta, återanvändbara strukturer. Granska [bästa praxis](#best-practices) och läs mer om [begränsningar och åtgärder](#limitations-and-remedies).
 
 1. Gå till **Design Studio**.
 
@@ -77,6 +78,8 @@ Det är en bra idé att skapa fragment av repeterbara avsnitt för senare bruk.
 * Efter importen kan du spara återanvändbara avsnitt som fragment och godkänna dem för användning av e-postförfattare. Använd varumärkesteman för att upprätthålla enhetlighet och regelefterlevnad.
 
 * Du kan fortsätta använda QuickTime-skript och överväg att implementera om äldre fragment med en kombination av fragment och villkorligt innehåll för att få bättre flexibilitet och kontroll.
+
+## Begränsningar och åtgärder {#limitations-and-remedies}
 
 <table><thead>
   <tr>
