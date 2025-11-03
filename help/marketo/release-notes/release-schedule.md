@@ -4,9 +4,9 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '126'
 ht-degree: 8%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 8%
 
 **Status**:
 
-* Schema - Vi planerar att släppa funktionerna och förbättringarna på angivet datum
-* Pågår - vi håller på att lansera funktionerna i den här versionen
-* Skickat - Versionen är klar
+* **I schemat** - Vi planerar att släppa funktionerna och förbättringarna på det angivna datumet
+* **Pågår** - Vi håller på att lansera funktionerna i den här versionen
+* **Levererad** - Versionen är klar
 
 _Releasedatum/funktioner kan komma att ändras_
 
@@ -33,20 +33,6 @@ _Releasedatum/funktioner kan komma att ändras_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">25 januari</a></td>
-   <td>17 januari 2025</td>
-   <td>Levererat</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">25 mars</a></td>
-   <td>28 mars 2025</td>
-   <td>Levererat</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">25 april</a></td>
-   <td>25 april</td>
-   <td>Levererat</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">25 maj</a></td>
    <td>23 maj 2025</td>
@@ -71,6 +57,10 @@ _Releasedatum/funktioner kan komma att ändras_
    <td><a href="/help/marketo/release-notes/current.md">25 oktober</a></td>
    <td>31 oktober 2025</td>
    <td>Pågår</td>
+  </tr>
+  <td>26 januari</td>
+   <td>30 januari 2026</td>
+   <td>Enligt schema</td>
   </tr>
  </tbody>
 </table>
