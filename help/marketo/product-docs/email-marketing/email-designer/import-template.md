@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
 
 # Import av mallar {#template-import}
 
-Importera smidigt dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer som bevarar designen och snabbar upp mallframtagningen med välbekanta, återanvändbara strukturer. Granska [bästa praxis](#best-practices) och läs mer om [begränsningar och åtgärder](#limitations-and-remedies).
+Importera enkelt dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer, bevara dina designer och snabba upp mallframtagningen med välbekanta, återanvändbara strukturer. Granska [bästa praxis](#best-practices) och läs mer om [begränsningar och åtgärder](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>De klassiska e-postmallarna har utvecklats med kostnadsfria HTML, så importören kanske inte alltid importerar alla komponenter perfekt. Granska de importerade mallarna för att se till att alla avsnitt är redigerbara och korrekt mappade. Om ett område inte kan markeras återskapar du det för bästa resultat.
+
+## Importera en mall {#import-a-template}
 
 1. Gå till **Design Studio**.
 
-   SCREENSHOT
+   ![](assets/import-template-1.png)
 
 1. Klicka på **E-postmallar** och välj **E-postmallar (ny)**.
 
-   SCREENSHOT
+   ![](assets/import-template-2.png)
 
 1. Klicka på **Skapa mall**.
 
-   SCREENSHOT
+   ![](assets/import-template-3.png)
 
 1. Ange ett _namn_ och (valfritt) _Beskrivning_.
 
-   SCREENSHOT
+   ![](assets/import-template-4.png)
 
-1. Klicka på **Marketo-mallarna** och välj de befintliga mallarna som har skapats i den klassiska e-postredigeraren.
+1. Klicka på fliken **Marketo-mallar** och välj bland de mallar som har skapats i den klassiska e-postredigeraren.
 
-   SCREENSHOT
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Endast godkända mallar och mallar som har delats med den aktuella arbetsytan är tillgängliga för import.
 
-1. Välj önskad mall.
+1. Klicka på **Använd mallen**.
 
-   SCREENSHOT
-
-1. Klicka på Använd den här mallen.
-
-   SCREENSHOT
+   ![](assets/import-template-6.png)
 
 1. Den importerade mallen öppnas i e-post-Designer.
 
@@ -61,19 +63,19 @@ Det är en bra idé att skapa fragment av repeterbara avsnitt för senare bruk.
 
 1. Klicka på knappen **..Mer** överst och välj **Spara som fragment**.
 
-   SCREENSHOT
+   ![](assets/import-template-7.png)
 
 1. Markera en komponent eller struktur och klicka på **Skapa**.
 
-   SCREENSHOT
+   ![](assets/import-template-8.png)
 
 1. Ange ett namn (och en valfri beskrivning) och klicka på **Spara**.
 
-   SCREENSHOT
+   ![](assets/import-template-9.png)
 
 ## Bästa praxis {#best-practices}
 
-* Eftersom freestyle HTML kan variera avsevärt kan det hända att importören inte alltid tolkar alla komponenter perfekt. Granska de importerade mallarna för att se till att alla avsnitt är redigerbara och korrekt mappade. Om en del inte är markeringsbar återskapar du den delen för bästa resultat.
+* De klassiska e-postmallarna har utvecklats med kostnadsfria HTML, så importören kanske inte alltid importerar alla komponenter perfekt. Granska de importerade mallarna för att se till att alla avsnitt är redigerbara och korrekt mappade. Om ett område inte kan markeras återskapar du det för bästa resultat.
 
 * Efter importen kan du spara återanvändbara avsnitt som fragment och godkänna dem för användning av e-postförfattare. Använd varumärkesteman för att upprätthålla enhetlighet och regelefterlevnad.
 
@@ -113,7 +115,7 @@ Det är en bra idé att skapa fragment av repeterbara avsnitt för senare bruk.
   <tr>
     <td>Punktpunkter stöds inte internt.</td>
     <td>Designer-e-postmeddelandet innehåller för närvarande inga punktlistor.</td>
-    <td>Överväg att implementera punkter med alternativa tekniker.</td>
+    <td>Överväg att återskapa punkter med alternativa tekniker.</td>
   </tr>
   <tr>
     <td>Lodrät justering förvrängs om behållarens innehåll inte respekterar attributvärdet valign.</td>
@@ -141,8 +143,8 @@ Det är en bra idé att skapa fragment av repeterbara avsnitt för senare bruk.
     <td>Vi rekommenderar att du testar din e-post med alternativet <b>Skicka korrektur</b> på skärmen <i>Simulera innehåll</i> .</td>
   </tr>
   <tr>
-    <td>Fragmenten i den gamla mallen fungerar inte i e-post-Designer.</td>
+    <td>Fragment i den gamla mallen fungerar inte i e-post-Designer.</td>
     <td>Designer-e-postmeddelandet stöder inte fragment.</td>
-    <td>Implementera dina fragment på nytt som fragment i kombination med villkorat innehåll.</td>
+    <td>Återskapa dina fragment som fragment kopplade till villkorsstyrt innehåll.</td>
   </tr>
 </tbody></table>
