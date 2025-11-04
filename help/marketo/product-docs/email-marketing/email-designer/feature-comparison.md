@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
@@ -262,21 +262,21 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Kommer snart</td>
   </tr>
   <tr>
-    <td>Arbetsflöden för godkännande av innehåll</td>
-    <td>Möjlighet att införa arbetsflöden för godkännande av e-post inom Marketo Engage.</td>
-    <td>Inte tillgängligt</td>
-    <td>Planerat för kvartal 4 25</td>
-  </tr>
-  <tr>
     <td>Varumärkessats</td>
     <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
     <td>Inte tillgängligt</td>
-    <td>Planerat för första kvartalet 2016</td>
+    <td>Kommer snart</td>
   </tr>
   <tr>
     <td>Experimentation (A/B-testning)</td>
     <td>Möjlighet att testa e-postmeddelanden innan de skickas till er målgrupp.</td>
     <td>Tillgänglig</td>
+    <td>Kommer snart</td>
+  </tr>
+  <tr>
+    <td>Arbetsflöden för godkännande av innehåll</td>
+    <td>Möjlighet att införa arbetsflöden för godkännande av e-post inom Marketo Engage.</td>
+    <td>Inte tillgängligt</td>
     <td>TBD</td>
   </tr>
   <tr>
