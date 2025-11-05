@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -208,6 +208,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgängligt i Assets referens</td>
   </tr>
   <tr>
+    <td>E-postmallskonverterare</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">importera befintliga Marketo-mallar</a> till nya e-post-Designer.</td>
+    <td>Behövs inte</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
     <td>Dra och släpp på arbetsytan</td>
     <td>Dra och släpp struktur och innehåll på arbetsytan.</td>
     <td>Endast moduler</td>
@@ -241,12 +247,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>
     <td>Möjlighet att flytta, ta bort och importera e-postprogram tillsammans med e-postresurser.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
-    <td>Marketo Template Converter/Import</td>
-    <td>Möjlighet att konvertera befintliga Marketo-mallar så att de passar nya Designer för e-post.</td>
-    <td>Behövs inte</td>
     <td>Kommer snart</td>
   </tr>
   <tr>

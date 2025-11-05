@@ -6,9 +6,7 @@ description: Lär dig hur du importerar dina befintliga e-postmallar från den k
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-hide: true
-hidefromtoc: true
-source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
