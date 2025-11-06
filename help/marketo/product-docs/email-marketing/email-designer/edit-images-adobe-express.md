@@ -6,7 +6,7 @@ description: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredig
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 0%
@@ -84,7 +84,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
 
 ### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/se/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
 
 >[!IMPORTANT]
 >
@@ -109,7 +109,7 @@ Funktionerna är tillgängliga till vänster på bildsidan.
 
 1. Gör önskade ändringar och klicka på **Använd** när du är klar.
 
-![Ändra storlek på bildfönstret så att alla tillgängliga alternativ visas](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Ändra storlek på bildfönstret med alla tillgängliga alternativ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
