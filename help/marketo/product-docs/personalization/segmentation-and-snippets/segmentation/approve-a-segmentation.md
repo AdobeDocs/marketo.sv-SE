@@ -4,9 +4,9 @@ description: Godkänn en segmentering - Marketo Docs - produktdokumentation
 title: Godkänn en segmentering
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -26,22 +26,23 @@ En segmentering måste godkännas innan den kan användas.
 
 1. Gå till **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. Klicka på **[!UICONTROL Segmentation Actions]** i segmenteringen och sedan på **[!UICONTROL Approve]**.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >Statusen ändras till [!UICONTROL Approving] med ett snurrhjul ( ![](assets/image2014-9-15-15-3a31-3a43.png)) medan godkännandet pågår.
+   >Statusen ändras till _Godkänner_ medan godkännandet pågår.
 
    >[!CAUTION]
    >
-   >Godkännandet kan ta några minuter till mer än en dag, beroende på databasens storlek.
+   >Godkännandet kan ta från några minuter till en dag eller två för att slutföra, beroende på databasens storlek.
 
-   När det har godkänts ändras [!UICONTROL Status] från [!UICONTROL Approving] till [!UICONTROL Approved].
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. När det har godkänts ändras [!UICONTROL Status] från [!UICONTROL Approving] till [!UICONTROL Approved].
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ En segmentering måste godkännas innan den kan användas.
 
 1. Fliken **[!UICONTROL People]** i **[!UICONTROL Segment]** visar nu den slutliga listan över personer för segmentet.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >

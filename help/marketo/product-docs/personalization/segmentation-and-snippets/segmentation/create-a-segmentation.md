@@ -4,9 +4,9 @@ description: Skapa en segmentering - Marketo Docs - produktdokumentation
 title: Skapa en segmentering
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 1%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Med segmentering kan ni gruppera människor i olika profiler för rapportering och dynamiskt innehåll. Så här skapar du dem.
 
-1. Gå till **[!UICONTROL Database]**.
+1. Gå till din **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Klicka på **[!UICONTROL New]** och sedan på **[!UICONTROL New Segmentation]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
 
 1. Ange en **[!UICONTROL Name]**, klicka på **[!UICONTROL Add Segment]** och ge den ett namn.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
 
 1. Lägg till så många segment du vill (upp till 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Med segmentering kan ni gruppera människor i olika profiler för rapportering o
 
 1. Dra och släpp segmenten runt om för att ändra deras ordning. Klicka på **[!UICONTROL Create]** när du är klar.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
