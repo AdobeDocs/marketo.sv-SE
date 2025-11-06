@@ -4,9 +4,9 @@ description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
 title: Schemalägg A/B-testet
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -25,35 +25,35 @@ När du har lagt till ett A/B-test i ett e-postprogram och definierat vinnarkrit
 
 1. Välj datumet **[!UICONTROL Send Test]**.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. Välj **[!UICONTROL Send Test]**-tid.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >Sändnings- och sändningsvinnaren måste vara minst fyra timmars ifrån. För större utskick kanske du vill vänta i 24 timmar så att du hinner uppnå bra resultat.
 
-1. Gör samma sak för **[!UICONTROL Send Winner]**. Ange meddelandemottagare (valfritt) och klicka på **[!UICONTROL Next]**.
+1. Upprepa steg 1 och 2 för _Skicka-vinnare_. Ange meddelandemottagare (valfritt) och klicka på **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
    >Endast testgruppen får testvarianterna.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Om du väljer att deklarera en vinnare manuellt definierar du **Rapportdatum/tid för sändning** i stället för **Slutdatum/tid för utskick**.
 
-   Suverän! Du är klar. Granska sammanfattningen och klicka på **[!UICONTROL Close]**.
+1. Granska sammanfattningen och klicka på **[!UICONTROL Close]**.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    Du kommer att märka att **[!UICONTROL Schedule]**-panelen nu har uppdaterats.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

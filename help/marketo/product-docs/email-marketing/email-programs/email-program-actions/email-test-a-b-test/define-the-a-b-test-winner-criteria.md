@@ -4,9 +4,9 @@ description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documen
 title: Definiera villkor för A/B-testvinnare
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
 1. Standardalternativen för **[!UICONTROL Winner Criteria]** visas först.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=sv-SE" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
+   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
    </tr>
    </table>
 
@@ -50,7 +50,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
 1. Du kan också anpassa dina villkor genom att välja **[!UICONTROL Custom Conversion]** och klicka på **[!UICONTROL Edit]**.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
@@ -58,27 +58,25 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
 1. Ett fönster öppnas. Hitta den utlösare du vill ha och dra den till arbetsytan.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Definiera utlösaren.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo tillåter bara utlösare/filter för personer som har fått e-postmeddelandet från det här e-postprogrammet, så du behöver inte lägga till filtret&quot;Har skickats e-post&quot;. När du använder en e-postrelaterad utlösare/filter måste du dessutom se till att&quot;är någon&quot; som operator.
 
-1. Klicka på **[!UICONTROL Close]**.
+1. Stäng det nya fönstret (eller fliken) som öppnades. Smart List sparas automatiskt.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Bra! Nu är det dags att bestämma hur vinnaren ska vara bestämd.
+Nu är det dags att bestämma hur vinnaren ska vara bestämd.
 
 ## Deklarera vinnare {#declare-winner}
 
 1. Välj ett av de två tillgängliga alternativen.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
 
 1. Automatiskt är grymt och är standardalternativet. Klicka bara på **[!UICONTROL Next]**.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Om du väljer **[!UICONTROL Manual]** skickas testet ut och du väntar på att du ska deklarera en vinnare. Du får en rapport över resultaten.
 
-Perfekt! Nu ska vi [schemalägga A/B-testet](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Nu ska vi [schemalägga A/B-testet](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
