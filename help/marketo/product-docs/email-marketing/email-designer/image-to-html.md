@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1272'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Genom att utnyttja generativ AI-teknik analyserar konverteraren bild till HTML l
 >[!PREREQUISITES]
 >
 >* Du måste först godkänna villkoren för [Core Gen-AI och de kompletterande villkoren](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} för att kunna använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
->* Du måste ha behörighet för _Åtkomstnamn_ och _Åtkomst till e-postmall_ aktiverad [&#x200B; i din Marketo-roll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Du måste ha behörighet för _Åtkomst till e-postmall_ samt för _Redigera/generera e-postmall_ aktiverat [i din Marketo-roll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertera en bild {#convert-an-image}
 
@@ -46,14 +46,6 @@ Följ stegen nedan om du vill konvertera en bild till en helt anpassningsbar e-p
 1. Ange ett _mallnamn_ och en valfri beskrivning. Du kan också välja vilken varumärkesstil du vill använda. Överför eller dra och släpp den önskade bilden.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI KAN JAG DELETE DEN HÄR BILDTAGGEN...
-
-   >[!CAUTION]
-   >
-   >När du överför en bild för konvertering tas **allt innehåll som för närvarande läggs till i e-postmeddelandet bort och ersätts** med den genererade mallen. Om du har befintligt innehåll i ditt e-postmeddelande måste du spara det innan du fortsätter med bildkonverteringen.
-
-   DEEPTHI can I DELETE THIS CAUTION TAGG^^^
 
 1. Bläddra nedåt och markera kryssrutan _Överföringsfilen innehåller inte.._. Klicka på **Konvertera**.
 
