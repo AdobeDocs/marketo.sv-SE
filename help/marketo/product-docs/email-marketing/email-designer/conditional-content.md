@@ -5,9 +5,7 @@ title: Villkorligt innehåll
 description: Använd villkorsstyrt innehåll i e-postmeddelanden för att dynamiskt visa innehåll beroende på mottagaren.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

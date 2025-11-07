@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
@@ -233,9 +233,9 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Dynamiskt innehåll/villkorligt innehåll</td>
-    <td>Möjlighet att skapa varianter av e-postmeddelanden baserat på målgruppen.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">skapa varianter</a> i e-postmeddelanden baserat på målgruppen.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
+    <td>Tillgänglig</td>
   </tr>
   <tr>
     <td>Bild till HTML</td>
