@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -26,15 +26,15 @@ Med villkorligt innehåll kan ni dynamiskt styra vilket innehåll som ska ses av
 
 1. Öppna det önskade e-postmeddelandet och klicka på **Redigera e-postinnehåll**.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. Markera det innehåll som du vill villkora (i det här exemplet väljer vi rubrikbilden). Klicka på ikonen _Aktivera villkorligt innehåll_ .
 
    ![](assets/conditional-content-2.png)
 
-1. Lådan blir orange. Klicka på ikonen _Välj villkor_ () till vänster för att definiera varianten.
+1. Lådan blir orange. Klicka på ikonen _Markera villkor_ till vänster för att definiera varianten.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. Välj önskat segment och klicka på **Markera**.
 
@@ -46,11 +46,11 @@ Med villkorligt innehåll kan ni dynamiskt styra vilket innehåll som ska ses av
 
 1. Välj lämplig bild och klicka på **Välj**.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. Den nya bilden visas. Det är en bra idé att byta namn på varianten så att den blir lättare att identifiera.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. Om du vill lägga till ytterligare varianter (valfritt) klickar du på **Lägg till variant** och följer samma steg.
 
