@@ -38,7 +38,7 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
 >[!NOTE]
 >
->Rutan _[!UICONTROL Send to]_är bara till för att du ska kunna ange en e-postadress. Den visar inte en lista över befintliga prenumeranter.
+>Rutan _[!UICONTROL Send to]_&#x200B;är bara till för att du ska kunna ange en e-postadress. Den visar inte en lista över befintliga prenumeranter.
 
 I vissa fall visas ett meddelande med länken&quot;Se hela listan&quot; för att hämta en kommaavgränsad fil (CSV), t.ex. filen Microsoft Dynamics Sync Errors. Marketo Engage sparar dessa CSV-filer i 30 dagar. Om du försöker hämta filen efter 30 dagar får du ett 404-fel.
 
