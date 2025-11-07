@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '883'
 ht-degree: 0%
 
 ---
@@ -226,12 +226,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Dra och släpp fragment</td>
   </tr>
   <tr>
-    <td>Globala teman</td>
-    <td>Möjlighet att använda godkända teman i hela organisationen för att säkerställa enhetlighet i element som format, färg, teckenstorlek osv.</td>
-    <td>Inte tillgängligt</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
     <td>Dynamiskt innehåll/villkorligt innehåll</td>
     <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">skapa varianter</a> i e-postmeddelanden baserat på målgruppen.</td>
     <td>Tillgänglig</td>
@@ -239,9 +233,9 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Bild till HTML</td>
-    <td>Möjlighet att konvertera en bild till HTML och sedan använda den för att skapa e-postmeddelanden.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">konvertera en bild till HTML</a> och sedan använda den för att skapa e-postmeddelanden.</td>
     <td>Inte tillgängligt</td>
-    <td>Kommer snart</td>
+    <td>Tillgänglig</td>
   </tr>
   <tr>
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>
@@ -264,6 +258,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   <tr>
     <td>Varumärkessats</td>
     <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
+    <td>Inte tillgängligt</td>
+    <td>Kommer snart</td>
+  </tr>
+  <tr>
+    <td>Globala teman</td>
+    <td>Möjlighet att använda godkända teman i hela organisationen för att säkerställa enhetlighet i element som format, färg, teckenstorlek osv.</td>
     <td>Inte tillgängligt</td>
     <td>Kommer snart</td>
   </tr>

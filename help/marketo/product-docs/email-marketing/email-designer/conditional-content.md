@@ -5,9 +5,9 @@ title: Villkorligt innehåll
 description: Använd villkorsstyrt innehåll i e-postmeddelanden för att dynamiskt visa innehåll beroende på mottagaren.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Med villkorligt innehåll kan ni dynamiskt styra vilket innehåll som ska ses av
 
    ![](assets/conditional-content-2.png)
 
-1. Lådan blir orange. Klicka på ikonen _Markera villkor_ till vänster för att definiera varianten.
+1. Markeringsrutan blir orange. Klicka på ikonen _Markera villkor_ (![](assets/icon-select-condition.png)) till vänster för att definiera varianten.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ Med villkorligt innehåll kan ni dynamiskt styra vilket innehåll som ska ses av
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. Den nya bilden visas. Det är en bra idé att byta namn på varianten så att den blir lättare att identifiera.
+1. Den nya bilden visas. Det är en bra idé att byta namn på varianten så att den blir lättare att identifiera. Klicka bara på ellipsen och välj **Byt namn**.
+
+   >[!NOTE]
+   >
+   >Om du klickar på ellipsen kan du även visa det definierade villkoret för varianten samt duplicera den. Om du har fler än en variant blir ett borttagningsalternativ tillgängligt. Om du bara har en variant kan du ta bort den genom att helt enkelt klicka på ikonen _Aktivera villkorligt innehåll_ (nu står det _Inaktivera villkorligt innehåll_ när du hovrar över den).
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
