@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Understanding Notifications - Marketo Docs - Product Documentation
 title: Förstå meddelanden
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Du kan prenumerera på meddelanden om du vill få dem via e-post.
 
 >[!NOTE]
 >
->Rutan **[!UICONTROL Send to]** är bara till för att du ska kunna ange en e-postadress. Den visar inte en lista över befintliga prenumeranter.
+>Rutan _[!UICONTROL Send to]_är bara till för att du ska kunna ange en e-postadress. Den visar inte en lista över befintliga prenumeranter.
 
 I vissa fall visas ett meddelande med länken&quot;Se hela listan&quot; för att hämta en kommaavgränsad fil (CSV), t.ex. filen Microsoft Dynamics Sync Errors. Marketo Engage sparar dessa CSV-filer i 30 dagar. Om du försöker hämta filen efter 30 dagar får du ett 404-fel.
 
