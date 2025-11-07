@@ -5,9 +5,9 @@ title: Villkorligt innehåll
 description: Använd villkorsstyrt innehåll i e-postmeddelanden för att dynamiskt visa innehåll beroende på mottagaren.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Med villkorligt innehåll kan ni dynamiskt styra vilket innehåll som ska ses av
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. Den nya bilden visas. Det är en bra idé att byta namn på varianten så att den blir lättare att identifiera. Klicka bara på ellipsen och välj **Byt namn**.
+1. Den nya bilden visas. Det är en bra idé att byta namn på varianten så att den blir lättare att identifiera. Klicka på ellipsen och välj **Byt namn**.
 
    >[!NOTE]
    >
