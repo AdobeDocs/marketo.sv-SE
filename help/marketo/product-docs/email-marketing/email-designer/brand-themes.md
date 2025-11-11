@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1226'
 ht-degree: 0%
 
 ---
@@ -25,132 +25,134 @@ Den här funktionen gör att marknadsförarna kan använda visuellt tilltalande,
 
 * När du skapar ett e-postmeddelande från grunden kan du välja att börja bygga ditt innehåll med ett tema för att snabbt tillämpa en specifik formatering som passar ert varumärke och er design. Om du väljer läget Klassisk kan du inte använda några teman om du inte återställer e-postmeddelandet.
 
-* Fragment är inte korskompatibla mellan teman och klassiska lägen. Om du vill kunna använda ett fragment i ett innehåll där ett tema används, måste det här fragmentet skapas i temaläget.
+* Fragment är inte korskompatibla mellan teman och klassiska lägen. Om du vill kunna använda ett fragment i ett innehåll där ett tema används måste det skapas i temaläget.
 
-* Uppdateringen av teman kommer inte automatiskt att överlappa alla resurser som använder dem. Användarna måste redigera enskilda objekt för att temat ska uppdateras.
+* Uppdatering av ett tema kommer inte automatiskt att överlappa alla resurser som använder dem. Du måste redigera enskilda objekt för att kunna uppdatera temat.
 
-* När teman tas bort påverkas inte de resurser som använder dem.
+* När du tar bort teman påverkas inte resurserna som använder dem.
 
-## Skapa varumärkesteman
+## Skapa ett varumärkestema {#create-a-brand-theme}
 
-Det går att skapa märkesteman på mallpanelen i redigeraren. Du kan nå den här panelen när du skapar en ny mall eller i Ändra design inifrån redigeraren.
+1. Följ stegen för att [skapa en e-postmall](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-SCREENSHOT
+1. Välj _Skapa eller redigera teman_ på skärmen **Utforma mallen**.
 
-Klicka på Ändra din design.
+   ![](assets/brand-themes-1.png)
 
-SCREENSHOT
+1. Välj standardtemat som bas att skapa från grunden och klicka på **Skapa**.
 
-Klicka på Skapa eller redigera teman
+   ![](assets/brand-themes-2.png)
 
-SCREENSHOT
+1. Arbetsytan öppnas så att du kan redigera olika delar av temat.
 
-Välj standardtemat som bas för att skapa från grunden och klicka på Skapa. Temat kommer att innehålla element av alla typer av text, knappar och behållare så att du kan se ändringarna när du ställer in temat.
+   ![](assets/brand-themes-3.png)
 
-Obs! Du kan redigera befintliga teman med alternativknappen Egna teman.
+## Inställningar
 
-SCREENSHOT
+Alla inställningsalternativ är tillgängliga via ikonerna till höger. Låt oss granska var och en av dem.
 
-Arbetsytan öppnas så att du kan redigera olika delar av temat.
-
-SCREENSHOT
+![](assets/brand-themes-4.png)
 
 ### Allmänna inställningar {#general-settings}
 
 Ge temat ett namn och justera visningsrutans storlek.
 
-SCREENSHOT
+![](assets/brand-themes-5.png)
 
-### Färginställningar {#color-settings}
+### Färger {#colors}
 
-Därefter justerar du färgpaletten till höger.
+När du gör färgjusteringar bör du observera de ändringar som görs på huvudpanelen.
 
-Obs! När du gör ändringar bör du observera att ändringarna gäller huvudpanelen.
+![](assets/brand-themes-6.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>En uppsättning färgrutor har redan konfigurerats för dig baserat på standardtemat.
 
-Redigera färgpaletten.
+Klicka på **Redigera**.
 
-Observera att en uppsättning färgrutor redan har konfigurerats för dig baserat på standardtemat.
+![](assets/brand-themes-7.png)
 
 Du kan välja mellan en förinställning eller konfigurera varje färg i uppsättningen separat. Om du väljer paletten blir dessa färger tillgängliga under de olika färginställningarna senare.
 
-SCREENSHOT
+![](assets/brand-themes-8.png)
 
-När du har konfigurerat förinställningarna klickar du på den bakre symbolen.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
 
-Redigera varianten och använd sedan pennsymbolen bredvid Variant 1.
+Om du vill redigera en variant klickar du på pennikonen.
 
-Obs! Du kan skapa upp till 6 varianter.
+![](assets/brand-themes-.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>Du kan skapa upp till sex varianter.
 
-På redigeringspanelen kan du ange färger för olika element.
+Det finns flera tillgängliga element som du kan anpassa.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-Inställningarna finns i grupper under följande rubriker.
+Variantinställningar grupperas i följande kategorier:
 
-Allmänt
-Rubriker
-Stycken
-Knappar
+* Allmänt
+* Rubriker
+* Stycken
+* Knappar
 
-### Allmänna inställningar för NAMN {#general-name-settings}
+**Allmänt**
 
-Med de här inställningarna kan du ange färger för brödtext, strukturer, bakgrunder, behållare, stödraster, bilder och liknande.
+Med de här inställningarna kan du ange färger för brödtext, strukturer, bakgrunder, behållare, bilder med mera.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Rubrik {#heading}
+**Rubrik**
 
-Det här avsnittet gäller endast för text av typen Rubrik, där du kan ange text- och kantfärger för varje rubriktyp.  Du kan ange rubriker med 6 teckenstorlekar.
+Ange text- och kantfärger för varje rubriktyp, från Rubrik 1 till Rubrik 6.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Stycke {#paragraph}
+**Stycke**
 
-Det här avsnittet gäller endast för text av typen Stycke, där du kan ställa in text- och kantfärger för varje stycketyp.  Du kan ange tre förinställningar för styckeinställningar.
+Ange text- och kantfärger för upp till tre stycketyper.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Knappar {#buttons}
+**Knappar**
 
-Det här avsnittet gäller enbart för knappar för Fyllningsfärg, Kantfärg och Textfärg.  Du kan ange 3 förinställningar för knappinställningar, som kallas primär, sekundär och tertiär.
+Ange fyllnings-, kant- och textfärg för tre olika knapptyper: Primär, Sekundär och Högre.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 ### Textinställningar {#text-settings}
 
-Under den här inställningen kan du ange teckensnittstyper och storlekar för Global, Headings och Paragraphs.
+Ange teckensnittstyper och storlekar för globala rubriker och stycken.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Globala textinställningar {#global-text-settings}
+**Global**
 
 Under Globala textinställningar väljer du Formulärbibliotek mellan Standard och Google teckensnittsbibliotek.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 Under Standard väljer du bland olika teckensnittsfamiljer.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 På samma sätt visas under Google Fonts alternativ för att välja mellan de teckensnitt som stöds.
 
-### Inställningar för rubriktext {#heading-text-settings}
+**Rubriker**
 
 Här kan du ange teckensnittsbibliotek, familj, storlek, textstil och textjustering för de olika rubriktyperna.
 
 SCREENSHOT
 
-### Inställningar för stycketext {#paragraph-text-settings}
+**Stycken**
 
 Här kan du ange teckensnittsbibliotek, familj, storlek, textstil och textjustering för de olika styckeförinställningarna.
 
 SCREENSHOT
 
-### Mellanrumsinställningar {#spacing-settings}
+### Mellanrum och kantlinje {#spacing-and-border}
 
 Under det här alternativet kan du ange utfyllnad och marginal för olika typer av struktur eller knapp.  Välj typ i den första listrutan och fortsätt sedan att ange utfyllnad och/eller marginal för det elementet. Upprepa den här i ett steg om det behövs.
 
