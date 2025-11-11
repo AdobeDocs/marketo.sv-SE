@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: RUBRIK
-description: BESKRIVNING.
+title: Varumärkesteman
+description: Lär dig hur du skapar och hanterar riktlinjer för varumärken.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -77,21 +77,17 @@ Du kan välja mellan en förinställning eller konfigurera varje färg i uppsät
 
 ![](assets/brand-themes-8.png)
 
-När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen &#x200B;](assets/icon-back-arrow.png)) för att gå tillbaka.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
 
 Om du vill redigera en variant klickar du på pennikonen.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >Du kan skapa upp till sex varianter.
 
-Det finns flera tillgängliga element som du kan anpassa.
-
-![](assets/brand-themes-.png)
-
-Variantinställningar grupperas i följande kategorier:
+Det finns flera tillgängliga element som du kan anpassa. Variantinställningar grupperas i följande kategorier:
 
 * Allmänt
 * Rubriker
@@ -102,55 +98,49 @@ Variantinställningar grupperas i följande kategorier:
 
 Med de här inställningarna kan du ange färger för brödtext, strukturer, bakgrunder, behållare, bilder med mera.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Rubrik**
 
 Ange text- och kantfärger för varje rubriktyp, från Rubrik 1 till Rubrik 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Stycke**
 
 Ange text- och kantfärger för upp till tre stycketyper.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Knappar**
 
 Ange fyllnings-, kant- och textfärg för tre olika knapptyper: Primär, Sekundär och Högre.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Textinställningar {#text-settings}
 
 Ange teckensnittstyper och storlekar för globala rubriker och stycken.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Global**
 
-Under Globala textinställningar väljer du Formulärbibliotek mellan Standard och Google teckensnittsbibliotek.
+Välj mellan Standard- eller Google-teckensnittsbibliotek och deras respektive teckensnittsfamiljer.
 
-![](assets/brand-themes-.png)
-
-Under Standard väljer du bland olika teckensnittsfamiljer.
-
-![](assets/brand-themes-.png)
-
-På samma sätt visas under Google Fonts alternativ för att välja mellan de teckensnitt som stöds.
+![](assets/brand-themes-15.png)
 
 **Rubriker**
 
-Här kan du ange teckensnittsbibliotek, familj, storlek, textstil och textjustering för de olika rubriktyperna.
+Ange teckensnittsbibliotek, familj, storlek, textformat och textjusteringar för olika rubriktyper.
 
-SCREENSHOT
+![](assets/brand-themes-16.png)
 
 **Stycken**
 
-Här kan du ange teckensnittsbibliotek, familj, storlek, textstil och textjustering för de olika styckeförinställningarna.
+Ange teckensnittsbibliotek, familj, storlek, textformat och textjusteringar för olika styckeförinställningar.
 
-SCREENSHOT
+![](assets/brand-themes-17.png)
 
 ### Mellanrum och kantlinje {#spacing-and-border}
 
