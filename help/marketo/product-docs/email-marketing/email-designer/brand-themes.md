@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1097'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,7 @@ Med varumärkesteman kan du enkelt skapa återanvändbart innehåll som passar e
 
 Den här funktionen gör att marknadsförarna kan använda visuellt tilltalande, varumärkesenhetliga e-postmeddelanden snabbare och enklare, samtidigt som de erbjuder avancerade anpassningsalternativ för unika designbehov.
 
-## Saker att notera {#things-to-note}
-
-* När du skapar ett e-postmeddelande från grunden kan du välja att börja bygga ditt innehåll med ett tema för att snabbt tillämpa en specifik formatering som passar ert varumärke och er design. Om du väljer läget Klassisk kan du inte använda några teman om du inte återställer e-postmeddelandet.
-
-* Fragment är inte korskompatibla mellan teman och klassiska lägen. Om du vill kunna använda ett fragment i ett innehåll där ett tema används måste det skapas i temaläget.
-
-* Uppdatering av ett tema kommer inte automatiskt att överlappa alla resurser som använder dem. Du måste redigera enskilda objekt för att kunna uppdatera temat.
-
-* När du tar bort teman påverkas inte resurserna som använder dem.
-
-## Skapa ett varumärkestema {#create-a-brand-theme}
+## Skapa ett tema {#create-a-theme}
 
 1. Följ stegen för att [skapa en e-postmall](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -47,7 +37,7 @@ Den här funktionen gör att marknadsförarna kan använda visuellt tilltalande,
 
    ![](assets/brand-themes-3.png)
 
-## Inställningar
+## Inställningar {#settings}
 
 Alla inställningsalternativ är tillgängliga via ikonerna till höger. Låt oss granska var och en av dem.
 
@@ -77,7 +67,7 @@ Du kan välja mellan en förinställning eller konfigurera varje färg i uppsät
 
 ![](assets/brand-themes-8.png)
 
-När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen &#x200B;](assets/icon-back-arrow.png)) för att gå tillbaka.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
 
 Om du vill redigera en variant klickar du på pennikonen.
 
@@ -144,214 +134,263 @@ Ange teckensnittsbibliotek, familj, storlek, textformat och textjusteringar för
 
 ### Mellanrum och kantlinje {#spacing-and-border}
 
-Under det här alternativet kan du ange utfyllnad och marginal för olika typer av struktur eller knapp.  Välj typ i den första listrutan och fortsätt sedan att ange utfyllnad och/eller marginal för det elementet. Upprepa den här i ett steg om det behövs.
+Välj mellan flera olika strukturer och anpassa deras marginaler, utfyllnad eller kant.
 
-SCREENSHOT
+![](assets/brand-themes-18.png)
 
-Typer av strukturer är följande:
+I exemplet nedan anpassar vi en behållare.
 
-SCREENSHOT
+**Marginaler**
 
-Inställningar för ett exempelelement, till exempel Behållare.
+![](assets/brand-themes-19.png)
 
-Marginaler
+**Utfyllnad**
 
-SCREENSHOT
+![](assets/brand-themes-20.png)
 
-Utfyllnad
+**Hörn**
 
-SCREENSHOT
+![](assets/brand-themes-21.png)
 
-Hörn
-
-SCREENSHOT
-
-Kantlinjer
+**Kantlinjer**
 
 Visa alternativ för storlek, format och position genom att växla ramen till PÅ.
 
-SCREENSHOT
+![](assets/brand-themes-22.png)
 
-Alternativ för format
+Nedan visas några visuella exempel på hur du ändrar kantlinjeformatet.
 
-SCREENSHOT
+<table><thead>
+  <tr>
+    <th>Typ</th>
+    <th>Storlek och format</th>
+    <th>Effekt</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Streckad</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Prickad</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Heldragen</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Exempel på effekter för format i rutan
+Justera vilka kanter som ska visas eller döljas. I exemplet nedan är den övre kanten dold.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Justera om ramen visas eller döljs med hjälp av kantlinjeposition
-
-Exempel: Överkanten är dold i exemplet nedan.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Upprepa inställningarna för inställning av marginal, utfyllnad, hörn och kantlinjer för olika typer av strukturer.
+<table><thead>
+  <tr>
+    <th>Placeringsinställning</th>
+    <th>Effekt</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Knappinställningar {#button-settings}
 
-Under det här alternativet kan du ange olika element för knappar (andra än färg), som knappform, knappradie, knapptext och knappstorlekar. Du kan ange dessa för tre förinställningar - primär, sekundär och tertiär.
+Ange element som inte är färgade för knappar, t.ex. form, radie, text och storlek. De tre förinställningarna är Primär, Sekundär och Tertiär.
 
-SCREENSHOT
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Inställning</th>
+    <th>Beskrivning</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Kantlinje &gt; Kantradie</td>
+    <td>Hörnkrökning för knappkant</td>
+  </tr>
+  <tr>
+    <td>Kant &gt; Kantstorlek </td>
+    <td>Knappens kantlinjetjocklek</td>
+  </tr>
+  <tr>
+    <td>Kant &gt; Kantstil</td>
+    <td>Knappens kantlinjeformat (streckad, heldragen, prickad osv.)</td>
+  </tr>
+  <tr>
+    <td>Primär/sekundär/tertiär</td>
+    <td>Tillåter inställningar för tre förinställningar av knappkonfigurationer</td>
+  </tr>
+  <tr>
+    <td>STORLEK &gt; Höjd</td>
+    <td>Höjdinställning för knappen</td>
+  </tr>
+  <tr>
+    <td>STORLEK &gt; Bredd</td>
+    <td>Knappens breddinställning</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Teckensnittsfamilj</td>
+    <td>Val av teckensnittsfamilj för knapptext</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Teckensnittsbibliotek</td>
+    <td>Val av teckensnittsbibliotek för knapptext</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Teckenstorlek</td>
+    <td>Teckensnittsstorlek för knapptext</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Textjustering</td>
+    <td>Justering för knapptext</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Textformat</td>
+    <td>Textformat (fet, kursiv, understruken, genomstruken) för knapptext</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Delare {#divider}
 
-### Delningsinställningar {#divider-settings}
+Ange typ av linje- och behållarinställningar för avgränsaren.
 
-I det här exemplet kan du ange inställningar för linjetyp och behållarinställningar för avgränsare.
-
-SCREENSHOT
+![](assets/brand-themes-28.png)
 
 ### Stödrasterinställningar {#grid-settings}
 
-Använd kolumnmellanrum för att styra mellanrummet i rutnätet.
+Använd _Kolumnmellanrum_ för att styra mellanrummet i rutnätet.
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-Klicka på Spara när du är klar.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-SCREENSHOT
+Klicka på **Spara** när du är klar.
 
-## Redigera varumärkesteman {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-Det går att skapa märkesteman på mallpanelen i redigeraren. Du kan nå den här panelen när du skapar en ny mall eller i Ändra design inifrån redigeraren.
+## Redigera ett befintligt tema {#edit-a-brand-theme}
 
-SCREENSHOT
+1. Följ stegen för att [skapa en e-postmall](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-Klicka på Ändra din design.
+1. Välj _Skapa eller redigera teman_ på skärmen **Utforma mallen**.
 
-SCREENSHOT
+   ![](assets/brand-themes-33.png)
 
-Klicka på Skapa eller redigera teman
+1. Klicka på fliken **Mina teman**.
 
-SCREENSHOT
+   ![](assets/brand-themes-34.png)
 
-Välj Egna teman om du vill visa en lista med anpassade teman som skapats i din organisation. Välj ett tema och klicka på Redigera.
+1. Välj önskat tema. Knappen _Skapa_ blir en _Redigera_-knapp. Klicka på **Redigera**.
 
-SCREENSHOT
+   ![](assets/brand-themes-35.png)
 
-Arbetsytan är nu öppen för redigering.
+1. Arbetsytan öppnas för redigering. Gör önskade ändringar i något av alternativen som finns i **[Inställningar](#settings)**.
 
-SCREENSHOT
-
-Ändra inställningarna under avsnitten till höger.
-
-SCREENSHOT
-
-Klicka på Spara när du är klar.
-
-SCREENSHOT
+>[!TIP]
+>
+>Kom ihåg att spara ditt arbete!
 
 ## Använda varumärkesteman {#using-brand-themes}
 
-De varumärkesteman som skapas/redigeras är klara att användas för e-post, e-postmallar och fragment.
+Utnyttja teman i mejl, mejlmallar och fragment.
 
-Adobe Marketo Engage: De varumärkesteman som skapas/redigeras är klara att användas för e-post, e-postmallar och fragment som skapas med den nya e-postredigeraren.
-
-Du kan skapa strukturer och komponenter i redigeraren och tillämpa vilket varumärke som helst och någon av deras varianter.
+Du kan skapa strukturer och komponenter i redigeraren och tillämpa vilket som helst av varumärkets teman och deras varianter.
 
 ### I dina e-postmeddelanden {#in-your-emails}
 
-Skapa e-postmallar från grunden
+1. Följ stegen för att [skapa ett e-postmeddelande](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-* Börja med&quot;Skapa e-post&quot;/&quot;Skapa e-postmall&quot; och välj alternativet&quot;Designa från grunden&quot;
+1. Klicka på **Redigera e-postinnehåll** när du har skapat det.
 
-* Välj Använd teman i modalen som visas
+   ![](assets/brand-themes-36.png)
 
-SCREENSHOT
+1. Välj **Design från grunden**.
 
-Obs! Det är bara den e-postadress som skapas med det här alternativet som kan utnyttja de varumärkesteman som definierats i föregående avsnitt
+   ![](assets/brand-themes-37.png)
 
-* Det här nya alternativet visas till höger, vilket gör att du kan använda varumärkesteman i ditt e-postmeddelande
+1. Välj **Använd teman** (det bör vara markerat som standard) och klicka på **Bekräfta**.
 
-SCREENSHOT
+   ![](assets/brand-themes-38.png)
 
-* Du kan välja bland teman från Adobe eller egna teman som skapats för dina varumärken
+>[!NOTE]
+>
+>Det är bara e-postmeddelanden som skapas med det här alternativet som kan utnyttja de varumärkesteman du har definierat.
 
-SCREENSHOT
+1. Klicka på ikonen _Teman_ i det högra sidfältet.
 
-* Designa e-postinnehåll på arbetsytan och välj ett tema som ska användas på innehållet
+   ![](assets/brand-themes-39.png)
 
-* Ett e-postmeddelande får endast innehålla ett varumärkestema
+1. Välj bland Adobe teman eller teman som du redan har skapat.
 
-* För alla komponenter som skapas i den här resursen kan du använda något av de formatalternativ som är tillgängliga i temat från fliken Stilar i den högra rutan
+   ![](assets/brand-themes-40.png)
 
-* t.ex. kan en CTA konfigureras som primär/sekundär/tertiär
+   >[!NOTE]
+   >
+   >* Designa e-postinnehåll på arbetsytan och välj ett tema som ska användas på innehållet.
+   >* Ett e-postmeddelande kan bara innehålla ett varumärkestema.
+   >* För alla komponenter som skapas i den här resursen kan du använda något av de formatalternativ som är tillgängliga i temat från fliken Stilar i den högra rutan (t.ex. kan en call-to-action konfigureras som primär/sekundär/tertiär).
 
-SCREENSHOT
+1. Implementera de designer du vill ha. Du kan till exempel markera en textkomponent om du vill använda någon av rubrikerna eller styckeformaten som du har definierat i temat.
 
-* Du kan t.ex. markera en textkomponent om du vill använda någon av rubrikerna/styckeformaten enligt temat
+   ![](assets/brand-themes-41.png)
 
-SCREENSHOT
+   >[!NOTE]
+   >
+   >Fliken Stil skiljer sig från ett vanligt e-postmeddelande med manuell formatering där det finns mer kreativ frihet att formatera en komponent.
 
-* Observera att nu ser det annorlunda ut på fliken Stil jämfört med ett vanligt e-postmeddelande med manuell formatering där det finns mer kreativ frihet att formatera en komponent
+### Gör en mall kompatibel med teman {#make-a-template-compatible}
 
-### Skapa e-post-/e-postmallar från en mall
+1. Sök efter och välj önskad mall.
 
-* Du kan använda teman när du skapar en e-postmall eller e-postmall från en befintlig e-postmall som också skapades med teman
+1. Klicka på **Redigera e-postmall**.
 
-* Börja med Skapa e-post/Skapa e-postmall och välj en av e-postmallarna som skapats med teman i avsnittet Sparade mallar
+   ![](assets/brand-themes-42.png)
 
-* Nu används temat som används i den sparade e-postmallen automatiskt
+1. Klicka på ikonen _Teman_ och klicka på **Generera tema från innehåll**.
 
-SCREENSHOT
+   ![](assets/brand-themes-43.png)
 
-* Du kan också ändra temat i den här e-postmallen via alternativet Teman i det högra fältet
+1. Fönstret _Skapa ett tema_ öppnas. Marketo Engage identifierar automatiskt formatelement och konsoliderar dem till ett nytt tema.
 
-SCREENSHOT
+   ![](assets/brand-themes-44.png)
 
-* Du kan också använda valfri variant av ett tema för innehållet
+1. Ge temat ett namn.
 
-SCREENSHOT
+1. Gör önskade ändringar (precis som när du skapar ett tema från grunden). Klicka på **Spara** när du är klar.
 
-SCREENSHOT
+   ![](assets/brand-themes-45.png)
 
 ### I dina fragment {#in-your-fragments}
 
-Börja med Skapa nytt fragment
+1. Följ stegen för att [skapa ett fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment).
 
-Välj önskat tema och använd samma tema från alternativet &quot;Teman&quot; i den högra sidlisten
+1. Utforma ditt innehållstema med alternativen i **[Inställningar](#settings)**.
 
-SCREENSHOT
+Allt fragmentinnehåll som skapas på arbetsytan därefter kommer att anta det valda temat. Du kan också använda valfri variant av ett tema för innehållet.
 
-Allt fragmentinnehåll som skapas på arbetsytan därefter kommer att anta det valda temat
+När fragmentet har publicerats kan det användas i alla e-post-/e-postmallar som skapas med teman.
 
-Du kan också använda valfri variant av ett tema för innehållet
+## Saker att notera {#things-to-note}
 
-När det här fragmentet har publicerats kan det användas i alla e-postmallar som skapas med teman
+* När du skapar ett e-postmeddelande från grunden kan du välja att börja bygga ditt innehåll med ett tema för att snabbt tillämpa en specifik formatering som passar ert varumärke och er design. Om du väljer läget Klassisk kan du inte använda några teman om du inte återställer e-postmeddelandet.
+
+* Fragment är inte korskompatibla mellan teman och klassiska lägen. Om du vill kunna använda ett fragment i ett innehåll där ett tema används måste det skapas i temaläget.
+
+* Uppdatering av ett tema kommer inte automatiskt att överlappa alla resurser som använder dem. Du måste redigera enskilda objekt för att kunna uppdatera temat.
+
+* När du tar bort teman påverkas inte resurserna som använder dem.
