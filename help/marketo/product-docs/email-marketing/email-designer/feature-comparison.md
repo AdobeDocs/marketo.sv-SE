@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -232,6 +232,12 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
   </tr>
   <tr>
+    <td>Varumärkesteman</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">använda godkända teman</a> i hela organisationen för att säkerställa konsekvens i element som format, färg, teckenstorlek osv.</td>
+    <td>Inte tillgängligt</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
     <td>Bild till HTML</td>
     <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">konvertera en bild till HTML</a> och sedan använda den för att skapa e-postmeddelanden.</td>
     <td>Inte tillgängligt</td>
@@ -253,18 +259,6 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Snabb skriptning</td>
     <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
-    <td>Varumärkessats</td>
-    <td>Möjlighet att förbättra e-postmeddelanden som speglar varumärkesriktlinjerna.</td>
-    <td>Inte tillgängligt</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
-    <td>Globala teman</td>
-    <td>Möjlighet att använda godkända teman i hela organisationen för att säkerställa enhetlighet i element som format, färg, teckenstorlek osv.</td>
-    <td>Inte tillgängligt</td>
     <td>Kommer snart</td>
   </tr>
   <tr>
