@@ -67,7 +67,7 @@ Du kan välja mellan en förinställning eller konfigurera varje färg i uppsät
 
 ![](assets/brand-themes-8.png)
 
-När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen &#x200B;](assets/icon-back-arrow.png)) för att gå tillbaka.
 
 Om du vill redigera en variant klickar du på pennikonen.
 
