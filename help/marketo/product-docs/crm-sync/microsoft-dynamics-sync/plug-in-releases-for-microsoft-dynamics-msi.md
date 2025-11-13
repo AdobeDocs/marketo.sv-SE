@@ -4,9 +4,9 @@ description: Plugin-versioner för  [!DNL Microsoft Dynamics] MSI - Marketo Docs
 title: Plug-in-versioner för  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,9 @@ Och det är allt! Efter uppgraderingen visas bara en MSI-lösning.
    <td>2.00.31</td>
    <td>Förändringar av sidnumrering i anonym webbaktivitet.
    <p>
-   Kryptera hemlig nyckelinformation från användarvyn. Lösenordet måste ändras efter att det nya paketet har importerats för att krypteringen ska kunna ske.</td>
+   Kryptera hemlig nyckelinformation från användarvyn. Lösenordet måste ändras efter att det nya paketet har importerats för att krypteringen ska kunna ske.
+   <p>
+   När du uppdaterar MSI for Dynamics-plugin-programmet bör du uppdatera både den hemliga nyckeln för SOAP API och MSI-inloggningsuppgifterna som en uppdatering för att säkerställa att inga åtkomstbehörigheter äger rum med det nya paketet som installeras.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
