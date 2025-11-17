@@ -5,9 +5,9 @@ description: Välkommen till nya Adobe Marketo Engage Email Designer.
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
+source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '659'
 ht-degree: 1%
 
 ---
@@ -18,15 +18,11 @@ Välkommen till nya Adobe Marketo Engage Email Designer.
 
 Designer för e-post är den senaste innovationen i Marketo Engage som är avsedd att ge en förbättrad upplevelse när det gäller att skapa e-postmallar och e-postmallar, vilket förbättrar produktiviteten och effektiviteten genom att tillhandahålla en visuell dra-och-släpp-redigerare tillsammans med färdiga standardmallar. Skapa enkelt anpassade e-postmallar utan att behöva spendera pengar på leverantörer.
 
->[!NOTE]
->
->Det går att komma åt e-post-Designer i alla större webbläsare, men för närvarande stöds inte alla funktioner i Firefox.
-
 ## Åtkomst {#how-to-access}
 
 +++Lär dig hur du får tillgång till e-postprogrammet Designer
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
