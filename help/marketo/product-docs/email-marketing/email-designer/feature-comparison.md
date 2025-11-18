@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 0%
 
 ---
@@ -244,22 +244,22 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
   </tr>
   <tr>
+    <td>Snabb skriptning</td>
+    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
+    <td>Tillgänglig</td>
+    <td>Tillgänglig</td>
+  </tr>
+  <tr>
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>
     <td>Möjlighet att flytta, ta bort och importera e-postprogram tillsammans med e-postresurser.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
+    <td>Tillgänglig</td>
   </tr>
   <tr>
     <td>Roller och behörigheter</td>
     <td>Möjlighet att lägga till roller och behörigheter för e-post, e-postmallar och fragment.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
-  </tr>
-  <tr>
-    <td>Snabb skriptning</td>
-    <td>Möjlighet att använda Snabb skriptning i e-postmeddelanden.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
   </tr>
   <tr>
     <td>Experimentation (A/B-testning)</td>
