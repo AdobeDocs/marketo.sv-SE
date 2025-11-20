@@ -68,7 +68,7 @@ Marknadsförarna kan ge användare möjlighet att anmäla sig genom att använda
 
 Marknadsförarna kan skydda sin integritet genom att spåra användare med en anonym IP-adress. Om du vill göra det lägger du till den här koden i RTP- eller [!DNL Munchkin] JavaScript-koden som är inbäddad på webbplatsen.
 
-* För [!DNL Munchkin] lägger du bara till `{"anonymizeIP",true}` i funktionen [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* För [!DNL Munchkin] lägger du bara till `{"anonymizeIP",true}` i funktionen [init](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * För Web Personalization (RTP) lägger du till detta i javascript:
 
