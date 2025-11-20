@@ -104,7 +104,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_**Kontoroutning**_
+_&#x200B;**Kontoroutning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _**Kontoroutning**_
   </tr>
 </tbody></table>
 
-_**Anpassad routning**_
+_&#x200B;**Anpassad routning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _**Anpassad routning**_
   </tr>
 </tbody></table>
 
-_**Teamroutning**_
+_&#x200B;**Teamroutning**&#x200B;_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _**Teamroutning**_
   </tr>
 </tbody></table>
 
-_**Round Robin Routing**_
+_&#x200B;**Round Robin Routing**&#x200B;_
 
 <table><thead>
   <tr>
