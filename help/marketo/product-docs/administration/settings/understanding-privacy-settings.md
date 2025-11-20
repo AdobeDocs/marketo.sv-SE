@@ -4,9 +4,9 @@ description: Sekretessinställningar - Marketo Docs - produktdokumentation
 title: Sekretessinställningar
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -68,11 +68,7 @@ Marknadsförarna kan ge användare möjlighet att anmäla sig genom att använda
 
 Marknadsförarna kan skydda sin integritet genom att spåra användare med en anonym IP-adress. Om du vill göra det lägger du till den här koden i RTP- eller [!DNL Munchkin] JavaScript-koden som är inbäddad på webbplatsen.
 
-* För [!DNL Munchkin] lägger du bara till {&quot;anonymizeIP&quot;,true} i init-funktionen.
-
-  >[!NOTE]
-  >
-  >Om du vill använda den här parametern måste [!DNL Munchkin] V2 vara aktiverat. Kontakta [Marketo Support](https://nation.marketo.com/community/support_solutions) om du vill aktivera den för din prenumeration.
+* För [!DNL Munchkin] lägger du bara till `{"anonymizeIP",true}` i funktionen [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * För Web Personalization (RTP) lägger du till detta i javascript:
 
