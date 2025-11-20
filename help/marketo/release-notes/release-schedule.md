@@ -4,16 +4,16 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
+source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '131'
 ht-degree: 8%
 
 ---
 
 # Versionsschema {#release-schedule}
 
-**Utgåva**: Månad/år för varje release. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
+**Utgåva**: Månaden/året för varje utgåva. När versionsinformationen är tillgänglig länkas den i tabellen nedan.
 
 **Releasedatum**: Lanseringen börjar vanligtvis på tisdag i versionsveckan, och mer av uppgraderingen sker på fredag kväll. Det listade datumet gäller uppdateringen på fredag.
 
@@ -34,7 +34,7 @@ _Releasedatum/funktioner kan komma att ändras_
   </tr>
   <tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">25 maj</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maj '25</a></td>
    <td>23 maj 2025</td>
    <td>Levererat</td>
   </tr>
@@ -51,16 +51,22 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">25 september</a></td>
    <td>19 september 2025</td>
-   <td>Levererat</td>
+   <td>Levereras</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">25 oktober</a></td>
+   <td><a href="/help/marketo/release-notes/current.md">Oktober '25</a></td>
    <td>31 oktober 2025</td>
    <td>Pågår</td>
   </tr>
+  <tr>
   <td>26 januari</td>
    <td>30 januari 2026</td>
    <td>Enligt schema</td>
+  </tr>
+  <tr>
+  <td>February '26</td>
+   <td>February 20, 2026</td>
+   <td>I tidtabell</td>
   </tr>
  </tbody>
 </table>
