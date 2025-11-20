@@ -104,7 +104,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>
@@ -498,7 +498,7 @@ Knuffa webbbesökarna med en call-to-action för att slutföra konversationerna.
 
 ### Konversationsflöden är nu tillgängliga för alla användare {#conversational-flows-available-to-all-users}
 
-Gör formulären och landningssidorna mer konvergerande och korta säljprocessen genom att tillåta kvalificerade leads att boka ett möte eller chatta med försäljningen direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla Dynamic Chat-användare.
+Gör dina formulär och landningssidor mer konvergerande och korta försäljningen av funnel genom att tillåta kvalificerade leads att boka ett möte eller chatta med försäljningen direkt efter att ett formulär har skickats in med Conversational Forms, nu helt tillgängligt&#42; för alla Dynamic Chat-användare.
 
 _&#42;Tidigare tillgänglig som utvärderingsfunktion med 100 livstidsåtaganden. Konversationsflödesåtaganden räknas nu mot månadsgränsen på 250 aktiverade konversationer för användare i Select-paketet._
 
