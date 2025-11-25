@@ -1,12 +1,11 @@
 ---
-unique-page-id: 7512454
 description: Konfigurera push-meddelanden för mobiler - Marketo Docs - produktdokumentation
 title: Konfigurera push-meddelanden för mobilen
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -27,13 +26,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om ditt push-meddelande endast gäller för en plattform (t.ex. iOS) kan du utesluta den andra plattformen genom att manuellt skjuta dess väljare till **Inaktiverad**.
+   >Om ditt push-meddelande endast gäller för en plattform (till exempel iOS) kan du utesluta den andra plattformen genom att manuellt skjuta dess väljare till **Inaktiverad**.
 
 1. Klicka på **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. Ange meddelandetext eller välj tokeikonen för att lägga till tokens (i den här redigeraren formateras [&#x200B; eftersom de vanligtvis är &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) - du kan använda flera token). Välj en **Tryck på åtgärd**.
+1. Ange meddelandetext eller välj tokeikonen för att lägga till tokens (i den här redigeraren formateras [ eftersom de vanligtvis är ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) - du kan använda flera token). Välj en **Tryck på åtgärd**.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
@@ -55,11 +54,7 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >Meddelanden och Tryck på Åtgärder ser likadana ut på båda plattformarna.
-
-1. Endast för iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
+1. För iOS markerar du kryssrutan för att ange att programmet ska spela upp ett ljud när meddelandet kommer. Android spelar upp ljudet automatiskt.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-Grattis! Nu är push-meddelandet klart att skickas.
+Push-meddelandet är klart att skickas.
+
+Om du får felmeddelandet `Limited Access: You do not have sufficient privileges to perform this action` kontrollerar du att behörigheten **Access Design Studio** > `Access Landing Page` har angetts för användaren, plus minst ett av följande:
+
+* Godkänn push-meddelande
+* Ta bort push-meddelande
+* Redigera push-meddelande
 
 ## Deep Link URIs {#deep-link-uris}
 
@@ -81,7 +82,7 @@ En URI med djup länk består av tre delar: schemanamn, sökväg och identifiera
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera URI:er för djuplänk, så be utvecklaren att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt platser. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Programmets djuplänksstruktur kan dock skilja sig från ovanstående exempel. Din utvecklare har många alternativ för att definiera djuplänks-URI:er, så be din utvecklare att skicka URI:er (länkar) till de sidor som du är intresserad av att använda. Detta garanterar att de URI:er som du anger i push-meddelanden pekar på rätt plats. Din utvecklare kan [hitta mer information här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
