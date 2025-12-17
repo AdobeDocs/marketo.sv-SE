@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>
     <td>Möjlighet att flytta, ta bort och importera e-postprogram tillsammans med e-postresurser.</td>
     <td>Tillgänglig</td>
-    <td>Tillgänglig</td>
+    <td>Inte tillgängligt</td>
   </tr>
   <tr>
     <td>Roller och behörigheter</td>
