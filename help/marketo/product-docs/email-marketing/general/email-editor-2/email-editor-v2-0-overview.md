@@ -4,16 +4,20 @@ description: E-postredigeraren v2.0 - översikt - Marketo Docs - produktdokument
 title: E-postredigerare v2.0 - översikt
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
 
 # E-postredigerare v2.0 - översikt {#email-editor-v2-overview}
 
-När du bestämmer dig för att aktivera [!DNL Email Editor v2.0] kommer du att märka flera nya funktioner.
+Översikt över den klassiska e-postredigeraren.
+
+>[!IMPORTANT]
+>
+>Även om det inte finns något exakt datum kommer den klassiska e-postredigeraren förmodligen att bli inaktuell någon gång under 2026 (vi kommer att meddela ett exakt datum när vi har det). Vi rekommenderar att du börjar använda det avancerade [e-postprogrammet Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} eftersom det har många funktioner som inte finns i den klassiska redigeraren.
 
 **Väljare för e-postmall**
 
