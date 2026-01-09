@@ -70,7 +70,7 @@ När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det f�
 
    >[!NOTE]
    >
-   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt ](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt ](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
+   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt &#x200B;](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt &#x200B;](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
    >
    >* Om du inte är nöjd med den inledande sammanfattningen kan du klicka på knappen **[!UICONTROL Regenerate summary]** så skapas en annan version.
 
