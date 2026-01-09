@@ -4,9 +4,9 @@ description: SEO - Förstå sidor - Marketo Docs - produktdokumentation
 title: SEO - Förstå sidor
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,20 @@ ht-degree: 0%
 
 ## Sidoptimeringsresultat/Att göra-widget {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 Sidan [!UICONTROL Optimization Score] är en allmän rankning av hur bra sidan är optimerad för sökning, på en skala från 1 till 100. Det bygger på dussintals bästa metoder inom SEO.
 
 * 0 - 35 = Inte väl optimerad
 * 35 - 70 = På höger spår
 * 70 - 100 = Gör bra!
 
->[!TIP]
+>[!IMPORTANT]
 >
->Klicka på länken [!UICONTROL High Impact] i rutan [!UICONTROL To Do] så dirigeras du om till [!UICONTROL Issues tab] och visas problem med hög prioritet som ska lösas.
+>Den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen. Exportera alla relevanta uppgifter den 30 mars eller före den 30 mars. [Läs mer](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportproblem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportera nyckelordstrender](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Fliken [!UICONTROL Pages] {#pages-tab}
 

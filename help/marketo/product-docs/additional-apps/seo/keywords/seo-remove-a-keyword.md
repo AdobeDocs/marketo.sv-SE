@@ -4,9 +4,9 @@ description: SEO - Ta bort ett nyckelord - Marketo Docs - produktdokumentation
 title: SEO - Ta bort ett nyckelord
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 0%
 # SEO - Ta bort ett nyckelord {#seo-remove-a-keyword}
 
 Om du har ett nyckelord som du inte vill fortsätta att optimera för gör du så här för att ta bort det.
+
+>[!IMPORTANT]
+>
+>Den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen. Exportera alla relevanta uppgifter den 30 mars eller före den 30 mars. [Läs mer](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportproblem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportera nyckelordstrender](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Klicka för att gå till avsnittet **[!UICONTROL Keywords]**.
 
