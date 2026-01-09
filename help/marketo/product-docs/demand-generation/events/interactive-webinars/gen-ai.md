@@ -3,9 +3,9 @@ description: GenAI Features - Marketo Docs - produktdokumentation
 title: GenAI-funktioner
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Generera kapitel och sammanfattningar automatiskt för dina inspelade webbinarie
 * **Automatisk kapitelgenerering**: AI-baserad teknik skapar kapitel för ditt webbinariinnehåll.
 
 * **AI-genererad sammanfattning**: Få en automatisk textsammanfattning av ditt webbinarium.
+
+* **AI-baserad blogggenerering**: Gör att du automatiskt kan generera blogginnehåll efter ditt varumärke från dina webbinarier.
 
 * **Redigerbart innehåll**: Ändra genererade kapitel och sammanfattningar om det behövs, med hjälp av manuella och AI-baserade redigeringsfunktioner.
 
@@ -68,7 +70,7 @@ När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det f�
 
    >[!NOTE]
    >
-   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt &#x200B;](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt &#x200B;](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
+   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt ](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt ](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
    >
    >* Om du inte är nöjd med den inledande sammanfattningen kan du klicka på knappen **[!UICONTROL Regenerate summary]** så skapas en annan version.
 
@@ -109,6 +111,8 @@ Utnyttja Smart Campaign/List-filter och/eller triggers för att se vad varje tit
 * Om du tar bort eller sammanfogar kapitel påverkas bara kapitelstacken, inte själva videoinnehållet. Dessa åtgärder är permanenta.
 
 * GenAI-funktionerna är flexibla och kan användas med olika webbsideredigerare, inte bara de i Marketo Engage.
+
+* Endast seminarier i seminarium kommer att finnas tillgängliga för blogggenerering. Seminarium är endast tillgängliga för konton med en Event Module- eller Seminar-licens (Delat rum/evenemang).
 
 * Förhandsgranska alltid ändringarna för att säkerställa önskad funktionalitet och utseende.
 

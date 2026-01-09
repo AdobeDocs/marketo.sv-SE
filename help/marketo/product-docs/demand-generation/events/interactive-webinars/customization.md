@@ -3,9 +3,9 @@ description: Anpassning av interaktiva webbinarier - Marketo Docs - produktdokum
 title: Anpassning av interaktiva webbinarier
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Innan någon användare i organisationen kan anpassa dina interaktiva webbinarie
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Anpassa rummets gränssnitt {#customize-the-room-interface}
+## Anpassa rummets gränssnitt {#customize-the-room-interface}
 
 Du kan anpassa utseendet på sessionsrummet genom att ändra logotyp, klickbar omdirigeringslänk och färger. Ändringarna återspeglas i alla evenemang och rum i organisationen.
 
@@ -134,3 +134,11 @@ Använd växlingsknappen för att kontrollera tillgängligheten för dessa stand
 ![](assets/interactive-webinars-customization-13.png)
 
 Välj **Använd** om du vill spara ändringarna eller **Återställ till standard** om du vill återställa standardinställningarna.
+
+### Skapa anpassningsbara teman {#create-customizable-themes}
+
+* Administratörer kan skapa/hantera teman med egna logotyper, färger och videobakgrunder.
+
+* Värdar kan välja teman när de skapar rum eller uppdatera dem senare från informationssidan för rum (**Room top bar** > **More menu** > **View room information**).
+
+Läs mer om [Teman](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

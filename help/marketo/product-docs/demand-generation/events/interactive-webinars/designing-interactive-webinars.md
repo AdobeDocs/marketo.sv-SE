@@ -3,9 +3,9 @@ description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentati
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,11 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
 **Layout**: Avser olika sätt att ordna de flera komponenter som krävs för att säkerställa att webbinariet fungerar korrekt i en viss mall. En och samma mall kan ha flera layouter att välja mellan. De viktigaste komponenterna i webbinariet är desamma för alla mallar. Det arrangemang du valt passar bäst för din eller presentatörens stil/behov.
 
-**Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar samt Frågor och svar.
+**Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar och Frågor och svar.
+
+      **Undersökningsruta**: Gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt i en livesession. Survey Pod (enkät-Pod) ger fler möjligheter att presentera olika frågor samtidigt, vilket ger ett effektivare och mer sammanhängande sätt att samla in deltagarnas insikter. [Läs mer](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **Resurspanel**: Ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner. [Läs mer](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
