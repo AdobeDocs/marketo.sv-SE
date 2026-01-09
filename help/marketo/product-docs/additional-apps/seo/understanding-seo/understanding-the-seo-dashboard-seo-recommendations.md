@@ -30,7 +30,7 @@ Du kan även ta reda på hur du kan förbättra med hjälp av avsnittet [!UICONT
 
 ## [!UICONTROL Top Page Optimization Issues] {#top-page-optimization-issues}
 
-Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Detta visar fem effektiva sätt att börja optimera webbplatsen direkt! Klicka bara på någon av länkarna för att visa den fullständiga [detaljnivån &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
