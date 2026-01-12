@@ -4,9 +4,9 @@ description: Steg 3 av 3 - Anslut Marketo och Salesforce (Enterprise/Unlimited) 
 title: Steg 3 av 3 - Anslut Marketo och Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ I den här artikeln konfigurerar du Marketo att synkronisera med den konfigurera
 
    >[!CAUTION]
    >
-   >Om du ser en inloggningsknapp för [!DNL Salesforce] i stället för användarnamn/lösenord/token-fält aktiveras din Marketo-prenumeration för OAuth. [se den här artikeln](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Så snart synkroniseringen börjar med en uppsättning autentiseringsuppgifter växlar **inte [!DNL Salesforce]-autentiseringsuppgifter eller prenumeration**. Kontakta din Customer Success Manager om du vill använda grundläggande autentisering.
+   >Om du ser en inloggningsknapp för [!DNL Salesforce] i stället för användarnamn/lösenord/token-fält aktiveras din Marketo-prenumeration för OAuth. [se den här artikeln](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Så snart synkroniseringen börjar med en uppsättning autentiseringsuppgifter växlar **inte [!DNL Salesforce]-autentiseringsuppgifter eller prenumeration**. Om du vill använda grundläggande autentisering kontaktar du kontohanteraren.
 
 1. Läs varningen och klicka sedan på **[!UICONTROL Confirm Credentials]**.
 
