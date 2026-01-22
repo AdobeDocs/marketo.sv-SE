@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 0%
 
 ---
@@ -259,7 +259,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Experimentation (A/B-testning)</td>
     <td>Möjlighet att testa e-postmeddelanden innan de skickas till er målgrupp.</td>
     <td>Tillgänglig</td>
-    <td>Kommer snart</td>
+    <td>Tillgänglig</td>
   </tr>
   <tr>
     <td>Arbetsflöden för godkännande av innehåll</td>
