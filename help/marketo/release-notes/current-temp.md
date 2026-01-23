@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 2%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>Skicka e-post till Designer - Hantera varumärken (beta)</strong>: Generera e-postinnehåll baserat på din organisations/varumärkes specifika riktlinjer för copywriting.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -44,7 +44,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>Skicka e-post till Designer - AI Assistant Enhancement</strong>: Nu kan du lägga till varumärkesresurser direkt i din uppmaning och be modellen referera till den källan för att generera innehåll, i stället för att manuellt lägga till en varumärkesresurs som en fil.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -54,7 +54,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>E-posta Designer - visuella förhandsvisningar för fragment</strong>: Alla publicerade fragment visas nu som miniatyrbilder, vilket gör det mycket snabbare att identifiera det du behöver.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -64,7 +64,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>Skicka e-post till Designer - Punkter</strong>: Nu kan du skapa punkter på flera nivåer när du redigerar ett e-postmeddelande i Designer för e-post.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -74,7 +74,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>E-posta Designer - Villkorligt innehåll</strong>: Paritet med funktionen <i>Dynamiskt innehåll</i> i den gamla e-postredigeraren.
+   <ul>
+   <li>Villkorligt innehåll gäller nu för segmentering i delade mappar.</li>
+   <li>Segmenteringar sorteras nu i alfabetisk ordning.</li>
+   </ul>
+   </td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -84,17 +89,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>FUNKTIONSTITEL</strong>: Funktionsbeskrivning.</td>
+   <td><strong>Skicka e-post till Designer - mappar</strong>: Nu kan du ordna dina resurser som skapats med e-post-Designer (e-post, e-postmallar, fragment) med mappar.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -102,26 +97,30 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 </table>
 <br/>
 
-## Adobe Connect Features {#adobe-connect-features}
+## Funktioner för icke-standard-releasecykel {#non-standard-release-cycle-features}
 
-Dessa funktioner har redan släppts av Adobe Connect team. Marketo Engage [Interaktiva webbinarier](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} drivs av Adobe Connect. Därför gäller funktionerna nedan endast användare av interaktiva webbinarier.
+Följande funktioner släpptes utanför Marketo Engage standardversionscykel.
 
-* **Survey Pod**: Adobe Connect 12.11 introducerar en ny Survey Pod som gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt under en live-session.
+### Interaktiva webbinarier {#interactive-webinars}
+
+* **Undersökningsruta**: Med en ny undersökningsruta kan värdarna utforma och leverera strukturerade feedbackformulär direkt i en livesession.
 
 * **Resurspanel**: Den nya resurspanelen ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner.
 
-* **Förbättrat rumsgränssnitt**: I Adobe Connect 12.11 introduceras ett uppdaterat och modernare rumsgränssnitt som bygger på Adobe senaste Spectrum 2-designramverk och som anpassar sig till det visuella språk som används i andra Adobe-produkter som Creative Cloud och Experience Cloud.
+* **Förbättrat rumsgränssnitt**: Dra nytta av ett uppdaterat och modernare rumsgränssnitt som bygger på Adobe senaste Spectrum 2-ramverk och som är anpassat till det visuella språk som används i andra Adobe-produkter som Creative Cloud och Experience Cloud.
 
-Fullständig information finns i [versionsinformationen för Adobe Connect 12.11](https://helpx.adobe.com/se/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Mer information finns på [den här sidan](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Meddelanden {#announcements}
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Marketo Community Migration Complete**: Den nya Adobe Experience League-communityn finns nu tillgänglig! [Flera förbättringar](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} har gjorts för att göra Marketo Community ännu bättre. [Kolla in det](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Marketo Engage Identity End of Life**:
 
-   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console kommer snart.
+   * _Borttagning av IP-begränsningar_: Stöd för [Begränsa Marketo-inloggningar baserat på IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. En ny platsbaserad åtkomstkontrollsfunktion för Adobe Identity i Adobe Admin Console kommer snart.
 
-   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Borttagning av enkel inloggning (SSO)_: Stöd för [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} upphörde den 30 juli 2025. Funktionen kommer att fortsätta att fungera tills övergången till Adobe Identity är klar. Single Sign-On för Adobe Identity i Adobe Admin Console måste konfigureras separat. Inställningssteg finns i [Konfigurera identitet och enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
