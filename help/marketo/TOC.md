@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9331'
 ht-degree: 0%
 
 ---
@@ -661,7 +661,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1036,6 +1036,7 @@ ht-degree: 0%
          + [Anpassad CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Varumärkesteman](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Använd varumärke](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [Hantera varumärke](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Mörkt läge](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testa e-poståtergivning med Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
