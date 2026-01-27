@@ -7,7 +7,7 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
 workflow-type: tm+mt
 source-wordcount: '1326'
 ht-degree: 0%
@@ -23,7 +23,6 @@ I [!DNL Marketo Engage] har du nu möjlighet att ange och ordna din varumärkesi
 >[!AVAILABILITY]
 >
 >Du måste godkänna [användaravtalet](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} innan du kan använda AI-assistenten i Adobe Marketo Engage. Kontakta Adobe om du vill ha mer information.
-
 
 ## Få tillgång till varumärken {#generative-access}
 
@@ -51,7 +50,7 @@ Så här tilldelar du behörigheter för varumärken:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **Spara**.
 
-1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 
