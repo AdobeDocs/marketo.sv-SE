@@ -253,7 +253,7 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 * DKIM-justerad DMARC - För att kunna konfigurera DKIM-anpassade DMARC måste du:
 
-   * Konfigurera DKIM för Från: Meddelandets domän. Använd instruktionerna [ i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurera DKIM för Från: Meddelandets domän. Använd instruktionerna [&#x200B; i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
 
 * DMARC-justerad SPF - Om du vill konfigurera DMARC-justerad SPF via varumärkesanpassad retursökväg måste du:
