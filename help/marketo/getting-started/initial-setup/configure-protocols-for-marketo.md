@@ -4,9 +4,9 @@ description: Konfigurera protokoll för Marketo Engage - Marketo Engage Docs - p
 title: Konfigurera protokoll för Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '2131'
+source-wordcount: '2129'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Den här processen kan ta upp till tre arbetsdagar att slutföra.
 När marknadsföringsgruppen använder Marketo Engage för att skicka testmeddelanden (en bra metod innan de skickar ut e-postmeddelanden) blockeras ibland testmeddelandena av skräppostskydd som förlitar sig på avsändarens IP-adresser för att bekräfta att e-postmeddelandet är giltigt. Lägg till Marketo Engage i tillåtelselista för att försäkra dig om att dessa testmeddelanden kommer fram.
 
 Lägg till de här IP-adresserna till ditt företag i tillåtelselista:
-
-103.237.104.0/22
 
 130.248.172.0/24
 
@@ -255,7 +253,7 @@ Det finns två typer av justering för DMARC - DKIM-justering och SPF-justering.
 
 * DKIM-justerad DMARC - För att kunna konfigurera DKIM-anpassade DMARC måste du:
 
-   * Konfigurera DKIM för Från: Meddelandets domän. Använd instruktionerna [&#x200B; i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Konfigurera DKIM för Från: Meddelandets domän. Använd instruktionerna [ i den här artikeln](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Konfigurera DMARC för FROM:/DKIM-domänen som konfigurerats tidigare
 
 * DMARC-justerad SPF - Om du vill konfigurera DMARC-justerad SPF via varumärkesanpassad retursökväg måste du:
@@ -300,9 +298,6 @@ Följande tabeller omfattar alla Marketo Engage-servrar som gör utgående samta
  <tbody>
   <tr>
    <th>IP-block (CIDR-notering)</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

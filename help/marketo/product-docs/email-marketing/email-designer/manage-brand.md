@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1319'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Varumärkesriktlinjerna är en detaljerad uppsättning regler och standarder som bygger upp ett varumärkes visuella och verbala identitet. De fungerar som referenser för att upprätthålla en enhetlig varumärkesrepresentation på alla marknadsförings- och kommunikationsplattformar.
 
-I [!DNL Marketo Engage] har du nu möjlighet att ange och ordna din varumärkesinformation manuellt eller överföra varumärkesriktlinjer för automatisk informationshämtning.
+Ange och ordna varumärkesinformation manuellt eller överför riktlinjer för varumärken för automatisk informationshämtning.
 
 >[!AVAILABILITY]
 >
@@ -50,7 +50,7 @@ Så här tilldelar du behörigheter för varumärken:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **Spara**.
 
-1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 
