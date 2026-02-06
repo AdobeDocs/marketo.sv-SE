@@ -198,4 +198,4 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 * **Verifiering via e-post för användare med endast enkel inloggning**: Användare med endast enkel inloggning har verifierats automatiskt, vilket gör att de kan använda ett otillgängligt e-postkonto. Från och med mitten av januari kommer alla befintliga användare med enkel inloggning att bli overifierade och ombeds att verifiera sin e-post via en länk som vi skickar till e-postkontot. Alla nya användare med enkel inloggning behöver bara verifiera sina e-postadresser framöver.
 
-* Se webbinariet [January 2024 Marketo Engage Release ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Se webbinariet [January 2024 Marketo Engage Release &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
