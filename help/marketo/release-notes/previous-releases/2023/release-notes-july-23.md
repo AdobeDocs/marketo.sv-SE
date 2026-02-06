@@ -3,7 +3,7 @@ description: Versionsinformation - juli 2023 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juli 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 4%
@@ -32,7 +32,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Översikt över Engagement Map</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Lägg till inställningen för att avbryta prenumerationen</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Fältfrågor</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamiska fält</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   </tbody>

@@ -3,7 +3,7 @@ description: Versionsinformation - april 2024 - Marketo Docs - produktdokumentat
 title: Versionsinformation - april 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -33,7 +33,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr>
    <td><strong>Förbättringar av interaktiva webbinarier</strong>: Nu kan du ge värdar och presentatörer möjlighet att lägga till en titel på ett webbinarium, byta namn på ett rum och manuellt synkronisera engagemangsdata efter att evenemanget har levererats.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Skapa ett interaktivt webbinarium</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuell synkronisering</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <li>Skapa lista</li>
    <li>Exportera kampanjaktivitet</li>
    </td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beskrivningar av rollbehörigheter</a></td>
   </tr>
  </tbody>

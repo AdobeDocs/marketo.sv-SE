@@ -3,7 +3,7 @@ description: Versionsinformation - januari 2023 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 5%
@@ -37,7 +37,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=sv-SE">Marketo Measure Ultimate</a></td>
+   <td>Frisläppt</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">API-information för massexport</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Möten</a></td>
   </tr>
   </tbody>

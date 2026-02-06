@@ -3,7 +3,7 @@ description: Versionsinformation - juli 2024 - Marketo Docs - produktdokumentati
 title: Versionsinformation - juli 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr>
    <td><strong>Engagement Dashboard för interaktiva webbinarier</strong>: Skaffa en sammanställd vy för webbinariets prestanda samt en heltäckande bild av engagemanget för varje deltagare under webbinariet så att ni kan bestämma vilka som leder till mål med hjälp av Marketo Engage verktyg för samordning.</td>
-    <td>Levererat</td>
+    <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Instrumentpanel för engagemang</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr>
    <td><strong>Rumshantering för interaktiva webbinarier</strong>: Få tillgång till enskilda rum som har skapats (och gör ändringar om det behövs) samt få tillgång till innehållet och inspelningen (och rensa dem om det behövs för att optimera lagringen).</td>
-    <td>Levererat</td>
+    <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Rumshantering</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr>
    <td><strong>Anpassning av webbinarium för interaktiva webbinarier</strong>: Skapa en enhetlig varumärkesupplevelse som godkänts av organisationen genom att använda ett gemensamt rumsgränssnitt, mellanskärmar (t.ex. bakgrunder för deltagande på skärmen) samt anpassade videobakgrunder, så att webbinaristrategi enklare kan anpassas efter varumärkesstrategin.</td>
-    <td>Levererat</td>
+    <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Anpassning av interaktiva webbinarier</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
      <tr>
    <td><strong>Marketo REST API-ändring</strong>: Vi introducerar en mindre ändring i <a href="https://developers.marketo.com/rest-api/user-management/">API:t för användarhantering</a>. Både slutpunkterna <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Bläddra bland användare</a> och <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Ta bort användare</a> har nu stöd för <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">målkontohanteringsanvändare</a>.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
  </tbody>

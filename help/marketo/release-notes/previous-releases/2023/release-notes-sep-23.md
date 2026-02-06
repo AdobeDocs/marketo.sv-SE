@@ -3,7 +3,7 @@ description: Versionsinformation - september 2023 - Marketo Docs - produktdokume
 title: Versionsinformation - september 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td><strong>Marketo Reference Library</strong>: Med Marketo Engage Program Reference Library kan användare importera "example"-program och andra resurser som motsvarar bästa praxis som Adobe rekommenderar. Vårt produkthanteringsteam har uppdaterat biblioteket helt och hållet, vilket ger mer värdefulla verktyg för dem som vill komma igång snabbt.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Översikt över programimportbiblioteket</a></td>
   </tr>
    <tr>
@@ -41,7 +41,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td><strong>Används av räkningskolumn för Design Studio Assets</strong>: Kolumnen Används av antal för listvyer i Design Studio markerar antalet resurser som används. Detta gäller för kodfragment, e-postmallar, Forms och mallar för landningssidor.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr>
    <td><strong>Används av flikförbättringar för Design Studio Assets</strong>: Fliken Används av förbättring ger en mer detaljerad bild av typen och namnet på en resurs, tillsammans med var den används. Detta gäller för e-postinformation samt bilder och filinformation.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr>
    <td><strong>Lokalisering för interaktiva webbinarier</strong>: Det gör att du kan visa information om händelseprogrammet för Marketo Interactive Webinar på det språk du vill, samt välja leveransspråk om du vill att det ska skilja sig från språket för den Marketo-användare som skapade Event Program.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Vanliga frågor om interaktiva webbinarier</a></td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr>
    <td><strong>Hantering av användaråtkomst för interaktiva webbinarier</strong>: Med Hantering av användaråtkomst kan användare av interaktiva webbinarier bara få åtkomst till de händelseprogram de har behörighet till, vilket förhindrar obehörig åtkomst.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Användaråtkomst</a></td>
   </tr>
  </tbody>
@@ -90,8 +90,8 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr>
    <td><strong>Marketo + Workfront-integrering</strong>: För dem som har Marketo och Workfront kan du nu använda Workfront Fusion Templates för att integrera de två produkterna och låsa upp nya automatiseringsarbetsflöden för att effektivisera kampanjkörningen.</td>
-   <td>Levererat</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=sv-SE" target="_blank">Granska och godkänn utkast</a></td>
+   <td>Frisläppt</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Granska och godkänn utkast</a></td>
   </tr>
  </tbody>
 </table>
@@ -108,7 +108,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr>
    <td><strong>Åtgärdskort i Stream Designer</strong>: Marknadsförare kan använda åtgärdskort i Dialog-strömmen för att skicka dolda värden till Marketo Engage personpost när besökare interagerar med en dialogruta.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Strömma Designer-kort</a></td>
   </tr>
    <tr>
@@ -118,7 +118,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr>
    <td><strong>Forms för konversationer med Marketo Engage Forms</strong>: Skapa Marketo Engage Forms-konversationer genom att integrera dem med Dynamic Chat Conversational Flows. Hitta leads direkt med hjälp av formulärdata eller Smart List-medlemskap för mötesbokningar, rapporter eller anpassade mål.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms</a></td>
   </tr>
    <tr>
@@ -128,7 +128,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Konversationer SDK</strong>: Omvandla alla typer av formulär, landningssidor eller nästan alla webbsidor till engagerande mötesbokningar.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Konversationer SDK</a></td>
   </tr>
    <tr>
@@ -138,7 +138,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr>
    <td><strong>Inställningar för anpassad mötesbokning</strong>: Agenter kan ange anpassade inställningar för mötesbokning, till exempel tillgänglighet, möteslängd och buffringstid mellan möten.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Inställningar för anpassad mötesbokning</a></td>
   </tr>
    <tr>
@@ -148,7 +148,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr>
    <td><strong>Reservinställningar</strong>: Administratörer kan ange anpassade reservinställningar för att definiera vad besökare ser när agenter inte är tillgängliga för chatt.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Reservregler</a></td>
   </tr>
    <tr>
@@ -158,7 +158,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Global Performance Dashboard</strong>: Se hur bra dina dialogrutor fungerar, inklusive engagemangs- och prestandamått (totalt och över en tid), högpresterande sidor och högpresterande dialogrutor.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#global-performance-dashboard" target="_blank">Instrumentpanel för globala prestanda</a></td>
   </tr>
    <tr>
@@ -168,7 +168,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr>
    <td><strong>Live-chatt</strong>: Webbbesökare kan chatta med säljarna i realtid för att få sina frågor besvarade.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Översikt över live-chatt</a></td>
   </tr>
    <tr>
@@ -178,7 +178,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr>
    <td><strong>Live Chat Performance Dashboard</strong>: Visa hur många konversationer som dina säljare har haft och vilka team som presterar bäst.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chatt Performance Dashboard</a></td>
   </tr>
    <tr>
@@ -188,7 +188,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Marketo Engage Smart List-målgruppsanpassning</strong>: Marknadsförarna kan ange medlemmar i Marketo Engage Smart Lists som målgruppskriterier i dialogrutan.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#membership" target="_blank">medlemskap</a></td>
   </tr>
    <tr>
@@ -198,7 +198,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
   <tr>
    <td><strong>Instrumentpanel för mötesprestanda</strong>: Se hur många möten som bokas och vem de bokas med.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#meeting-performance-dashboard" target="_blank">Instrumentpanel för mötesprestanda</a></td>
   </tr>
    <tr>
@@ -208,7 +208,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
    <tr>
    <td><strong>Nya Dynamic Chat-aktiviteter</strong>: Nya aktiviteter som stöder konversationsflöden, live-chatt och andra nya funktioner.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Dynamic Chat-aktiviteter</a></td>
   </tr>
    <tr>
@@ -218,7 +218,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Live Chat-meddelanden i realtid</strong>: När besökare begär live-chatt får agenter meddelanden i realtid i appen och webbläsaren.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live Chat-meddelanden</a></td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Team</strong>: Skapa team med agenter som besökare kan dirigeras till för live-chatt eller mötesbokningar.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#teams" target="_blank">Team</a></td>
   </tr>
   <tr>
@@ -238,7 +238,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Utlösartoken för nya aktiviteter</strong>: Det finns nya utlösartokens som stöder de nya aktiviteterna för Dynamic Chat.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
   </tr>
     <tr>
    <td><strong>Resurssida för konversationsflöde</strong>: På sidan Design Studio-resurser visas nu Dynamic Chat konversationsflöden. Se vilka flöden som kan integreras i Marketo Engage-resurser och koppla direkt till redigeraren.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   <tr>

@@ -3,7 +3,7 @@ description: Versionsinformation - oktober 2022 - Marketo Docs - produktdokument
 title: Versionsinformation - oktober 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
 ht-degree: 5%
@@ -34,7 +34,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synkronisering av anpassat fält för programmedlem</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Växla av/på</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Import av massutr</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat Integration</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Strömma Designer-ikoner</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>

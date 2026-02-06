@@ -4,10 +4,10 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 
 * **I schemat** - Vi planerar att släppa funktionerna och förbättringarna på det angivna datumet
 * **Pågår** - Vi håller på att lansera funktionerna i den här versionen
-* **Levererad** - Versionen är klar
+* **Fullständigt** - Versionen är klar
 
 _Releasedatum/funktioner kan komma att ändras_
 
@@ -33,29 +33,24 @@ _Releasedatum/funktioner kan komma att ändras_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">25 juli</a></td>
-   <td>11 juli 2025</td>
-   <td>Levererat</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">25 augusti</a></td>
    <td>22 augusti 2025</td>
-   <td>Levererat</td>
+   <td>Complete</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">25 september</a></td>
    <td>19 september 2025</td>
-   <td>Levererat</td>
+   <td>Complete</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">25 oktober</a></td>
    <td>31 oktober 2025</td>
-   <td>Pågår</td>
+   <td>Complete</td>
   </tr>
   <tr>
-  <td>26 januari</td>
+  <td><a href="/help/marketo/release-notes/current.md">26 januari</a></td>
    <td>30 januari 2026</td>
-   <td>Enligt schema</td>
+   <td>Pågår</td>
   </tr>
   <tr>
   <td>26 februari</td>
@@ -70,6 +65,16 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr>
   <td>26 maj</td>
    <td>1 maj 2026</td>
+   <td>Enligt schema</td>
+  </tr>
+  <tr>
+  <td>26 maj (andra versionen)</td>
+   <td>22 maj 2026</td>
+   <td>Enligt schema</td>
+  </tr>
+  <tr>
+  <td>26 juni</td>
+   <td>26 juni 2026</td>
    <td>Enligt schema</td>
   </tr>
  </tbody>

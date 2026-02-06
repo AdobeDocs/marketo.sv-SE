@@ -3,7 +3,7 @@ description: Versionsinformation - januari 2024 - Marketo Docs - produktdokument
 title: Versionsinformation - januari 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
     <tr>
    <td><strong>On-Demand-webbinarier för interaktiva webbinarier</strong>: Med On-Demand-webbinarier kan du publicera webbinariet och spåra dess besök/bevakningar. Detta hjälper dig att få fler leads genom registranter som inte deltar i webbinariet (ej showen) men som fortfarande är intresserade av att ta reda på mer och visa inspelningen.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-webbinarier</a></td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
     <tr>
    <td><strong>Filtrerar startaktivitet för e-post</strong>: Förbättrar hämtning av startaktivitet för e-postinteraktion genom att du kan välja hur aggressiv du vill att filtrering av robotidentifiering ska vara.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrerar e-postsatsaktivitet</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    </tr>
     <tr>
    <td><strong>API-uppdatering för massradsimport</strong>: En mindre justering har gjorts av beteendet för API:t för massradsimport när <b>id</b> anges som <b>lookupField</b> när jobb skapas. Om en personpost som är länkad till angivet <b>id</b> inte hittas i Marketo Engage-databasen, kommer ingen postuppdatering att ske eftersom posten inte kan hittas. Det uppdaterade beteendet inkluderar nu ökning av antalet i egenskapen <b>numOfRowsFailed</b> i svaret, vilket signalerar att åtgärden har misslyckats i sådana fall.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    </tr>
   <tr>
    <td><strong>Deltagare för interaktiva webbinarier</strong>: Deltagare i teamavsnittet för webbinarier i Interactive Webinars gör det möjligt för den som skapat interaktiva webbinarier att lägga till interna eller externa användare i programmet för interaktiva webbinarier för att dela det administrativa ansvaret och leveransansvaret.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Lägga till ett webbinarium</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
     <tr>
    <td><strong>Ta bort en användare i interaktiva webbinarier</strong>: En Marketo Engage-administratör kan nu ta bort en eller flera användare i interaktiva webbinarier.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
  </tbody>
@@ -160,7 +160,7 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
     </tr>
     <tr>
    <td><strong>Manuell avbruten chatt</strong>: Både besökare och agenter kan nu avsluta en live-chattsession manuellt.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
   <tr>
@@ -198,4 +198,4 @@ Alla funktioner nedan följer ett Agile-format och släpps på olika datum före
 
 * **Verifiering via e-post för användare med endast enkel inloggning**: Användare med endast enkel inloggning har verifierats automatiskt, vilket gör att de kan använda ett otillgängligt e-postkonto. Från och med mitten av januari kommer alla befintliga användare med enkel inloggning att bli overifierade och ombeds att verifiera sin e-post via en länk som vi skickar till e-postkontot. Alla nya användare med enkel inloggning behöver bara verifiera sina e-postadresser framöver.
 
-* Se webbinariet [January 2024 Marketo Engage Release &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Se webbinariet [January 2024 Marketo Engage Release ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

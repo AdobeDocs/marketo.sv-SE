@@ -3,7 +3,7 @@ description: Versionsinformation - september 2023 - Marketo Docs - produktdokume
 title: Versionsinformation - september 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td><strong>Ny design för rapportkonfiguration i modernt användargränssnitt</strong>: När du konfigurerar en rapportresurs får du ett <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nytt resursträd</a> på konfigurationsmenyn samt möjlighet att filtrera på det datum som skapas och ändras.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr>
    <td><strong>Tjänsten Compute Formula Flow Step </strong>: Compute Formula är en tjänst för flödessteg som bygger på Adobe IO Runtime-plattform för användning med Marketo Engage Smart Campaigns. De som har IO-runtime kan driftsätta tjänsten och installera den i sina Marketo Engage-prenumerationer, så att de kan beräkna Excel-liknande formler i Marketo Engage Smart Campaigns.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Användarhandbok för beräkning av formel</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
    <tr>
    <td><strong>Hämta inspelning och tilldela en medvärd i interaktiva webbinarier</strong>: Du kan nu lägga till en extern medvärd för webbinariet om den ursprungliga värden inte är tillgänglig. Nu kan du även ladda ned webbinariet.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Hämta inspelning</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Skapa ett interaktivt webbinarium</a></li></td>
   </tr>

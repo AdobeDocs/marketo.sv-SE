@@ -3,7 +3,7 @@ description: Versionsinformation - mars 2023 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -34,7 +34,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -62,7 +62,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -80,7 +80,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -102,7 +102,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -130,7 +130,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -144,7 +144,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -158,7 +158,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -172,7 +172,7 @@ Följande funktioner följer ett Agile-format och släpps på olika datum före 
    <td><b>Dokumentationsuppdateringar</b></td>
   </tr>
   <tr>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
   </tbody>

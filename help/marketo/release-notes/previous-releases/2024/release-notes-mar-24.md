@@ -3,7 +3,7 @@ description: Versionsinformation - mars 2024 - Marketo Docs - produktdokumentati
 title: Versionsinformation - mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
   </tr>
   <tr>
    <td><strong>Avancerad logik för konversationsflöde</strong>: Lägg till ytterligare fält för utvärdering i ett enda val för konversationsflödesuppföljning.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationsflödesinställningar för Marketo Engage Forms</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    </tr>
     <tr>
    <td><strong>Ändra ordning på logik för konversationsflöde</strong>: I Marketo Engage Forms kan du nu ändra ordning på alternativen för konversationsflöde i stället för att behöva ta bort och lägga tillbaka.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationsflödesinställningar för Marketo Engage Forms</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
     <tr>
    <td><strong>API-aktivitetsmetadata</strong>:
    Metadata som User Agent, Platform och Device ingår nu i webb- och e-postaktiviteter, vilket ger enhetliga insikter i dessa aktiviteter via Marketo REST API.</td>
-   <td>Levererat</td>
+   <td>Frisläppt</td>
    <td>n/a</td>
   </tr>
  </tbody>
@@ -64,4 +64,4 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **Hämta API-korrigering för programmedlem**: En ändring gjordes nyligen för att korrigera beteendet för slutpunkten [Hämta programmedlemmar](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"}. Tidigare, när filtertypen `updatedAt` användes för att ange ett datumintervall, fanns det en risk för att programmedlemsposter som uppdaterats inom det intervallet inte inkluderades i svaret. Dessutom fanns det en risk att poster för programmedlemskap som uppdaterats utanför det angivna datumintervallet felaktigt togs med i svaret. Båda problemen har lösts.
 
-* **Borttagning av plugin-programmet för kontoinsikt**: Adobe tar bort plugin-programmet [Account Insight &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} från Chrome Web Store den 8 april 2024. Befintliga användare: du kan fortsätta använda plugin-programmet tills du migrerar din Marketo Engage-instans till Adobe Identity och Admin Console. Den här ändringen **påverkar inte** andra TAM-funktioner/data i Marketo Engage eller e-postplugin-programmen för Chrome och Outlook som fungerar med Sales Insight. [Läs mer](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Borttagning av plugin-programmet för kontoinsikt**: Adobe tar bort plugin-programmet [Account Insight ](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} från Chrome Web Store den 8 april 2024. Befintliga användare: du kan fortsätta använda plugin-programmet tills du migrerar din Marketo Engage-instans till Adobe Identity och Admin Console. Den här ändringen **påverkar inte** andra TAM-funktioner/data i Marketo Engage eller e-postplugin-programmen för Chrome och Outlook som fungerar med Sales Insight. [Läs mer](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
