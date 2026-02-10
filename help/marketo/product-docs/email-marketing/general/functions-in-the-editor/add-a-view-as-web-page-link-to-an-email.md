@@ -4,9 +4,9 @@ description: Lägg till en länk för Visa som webbsida i ett e-postmeddelande -
 title: Lägg till en länk för Visa som webbsida i ett e-postmeddelande
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ E-postmeddelanden har begränsade funktioner (begränsad CSS och inga JavaScript
 
 >[!NOTE]
 >
->Visa som webbsida är inte aktiverat när du skapar ett nytt e-postmeddelande. Om du aktiverar den och klonar e-postmeddelandet kopieras den här inställningen.
+>* Visa som webbsida är inte aktiverat när du skapar ett nytt e-postmeddelande. Om du aktiverar den och klonar e-postmeddelandet kopieras den här inställningen.
+>
+>* Länkarna &quot;Visa som webbsida&quot; går ut efter sex månader.
 
 1. Välj din e-postadress och klicka på **[!UICONTROL Edit Draft]**.
 
