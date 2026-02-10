@@ -4,9 +4,9 @@ description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - produktdokumen
 title: Konfigurera LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,13 @@ ht-degree: 0%
 
 Använd LinkedIn Lead Gen Forms för att köra annonskampanjer i LinkedIn och generera leads för Marketo.
 
->[!IMPORTANT]
->
->LinkedIn uppgraderar sina Marketing API:er som används av Marketo Engage LinkedIn-integreringar. Dessa ändringar kräver omautentisering av alla LinkedIn LaunchPoint-tjänster i **Admin** > **LaunchPoint** -menyn mellan 7 juni och 15 december 2024 för att undvika avbrott i tjänsten. Mer information finns i [Vanliga frågor om migrering](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
-
 >[!NOTE]
 >
->**Administratörsbehörigheter krävs**
-
->[!NOTE]
+>* **Administratörsbehörigheter krävs**
 >
->En LinkedIn-lead kommer inte till Marketo Engage om den matchar en befintlig personpost i Marketo som är kopplad till en företagspost som skapats med företags-API:er, och Marketo-prenumerationen inte är ansluten till någon CRM.
+>* När du skapar LinkedIn Lead Gen-formulär ska du kontrollera att formulärnamnet inte bara innehåller numeriska tecken. Formulärnamnet måste vara antingen alfabetiskt eller alfanumeriskt.
+>
+>* En LinkedIn-lead kommer inte till Marketo Engage om den matchar en befintlig personpost i Marketo som är kopplad till en företagspost som skapats med företags-API:er, och Marketo-prenumerationen inte är ansluten till någon CRM.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

@@ -4,9 +4,9 @@ description: Ställ in Facebook-annonser - Marketo Docs - produktdokumentation
 title: Konfigurera Facebook-annonser
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
 >[!NOTE]
 >
->**Administratörsbehörigheter krävs**
+>* **Administratörsbehörigheter krävs**
+>
+>* När du skapar formulär för Lead Ads på Facebook ska du kontrollera att formulärnamnet inte bara innehåller numeriska tecken. Formulärnamnet måste vara antingen alfabetiskt eller alfanumeriskt.
 
 >[!AVAILABILITY]
 >
@@ -67,7 +69,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta in data från anpassade frågor för Lead Ads &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta in data från anpassade frågor för Lead Ads ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
 
    >[!CAUTION]
    >
