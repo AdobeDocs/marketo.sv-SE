@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 0%
 
 ---
@@ -661,7 +661,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1971,6 +1971,8 @@ ht-degree: 0%
    + [Dynamic Chat Release](release-notes/dynamic-chat.md)
    + [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
    + Tidigare versioner {#previous-releases}
+      + 2026 {#2026}
+         + [Versionsinformation: 26 januari](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Versionsinformation: 25 januari](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionsinformation: 25 mars](release-notes/previous-releases/2025/release-notes-mar-25.md)
