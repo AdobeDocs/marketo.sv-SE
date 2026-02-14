@@ -139,7 +139,7 @@ Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Skapa program för att säkerställa att du följer datasekretess- och skräppostlagar som <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA osv.</a></li>
+    <td><li>Skapa program för att säkerställa att du följer datasekretess- och skräppostlagar som <a href="https://business.adobe.com/se/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA osv.</a></li>
     <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Kom alltid ihåg att rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr>

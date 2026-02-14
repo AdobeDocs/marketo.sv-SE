@@ -141,7 +141,7 @@ Ordna avsnittet marknadsföringsaktiviteter på rätt sätt så att andra kan hi
   <tr>
    <td>Sekretess och efterlevnad</td>
    <td><li>Har ni program för att säkerställa att ni följer datasekretess och skräppostlagar?
-   <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> GDPR </a> , CASL, CAN-SPAM, CCPA osv.</li>
+   <br/>     Överväg <a href="https://business.adobe.com/se/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> GDPR </a> , CASL, CAN-SPAM, CCPA osv.</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
   <tr>

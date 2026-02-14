@@ -58,7 +58,7 @@ Kom ihåg att [hämta checklistorna](/help/marketo/getting-started/implementing-
   </tr>
   <tr>
     <td>Sekretess och efterlevnad</td>
-    <td><li>Behåll dina formulär <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">enligt den allmänna dataskyddsförordningen (GDPR)</a>.</li></td>
+    <td><li>Behåll dina formulär <a href="https://business.adobe.com/se/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">enligt den allmänna dataskyddsförordningen (GDPR)</a>.</li></td>
   </tr>
   <tr>
     <td>Datainsamling</td>

@@ -95,7 +95,7 @@ Genom att strukturera mallar och skapa globala formulär, kodfragment och bilder
   <tr>
    <td>Sekretess och efterlevnad</td>
    <td><li>Anpassar er formulärstrategi er efter företagets datasekretess och krav på deltagande?
-   <br/>     Överväg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> General Data Protection Regulation (GDPR)</a>, Canada's Anti-Spam Law (CASL), The Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), osv., för efterlevnad av regler.</li>
+   <br/>     Överväg <a href="https://business.adobe.com/se/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> General Data Protection Regulation (GDPR)</a>, Canada's Anti-Spam Law (CASL), The Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), osv., för efterlevnad av regler.</li>
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Kom ihåg att alltid rådfråga ditt juridiska team om dessa frågor. Fråga teamet om tidigare initiativ för att upprätthålla regelefterlevnaden innan du gör några ändringar.</td>
   </tr>
  </tbody>
