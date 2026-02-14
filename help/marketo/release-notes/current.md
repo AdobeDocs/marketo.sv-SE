@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -67,22 +67,12 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Hantering av plocklistor</strong>: Ange de värden som kan användas i fält i Marketo-gränssnittet.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Meddelanden {#announcements}
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
