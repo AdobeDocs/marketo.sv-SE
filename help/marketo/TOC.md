@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: b7904b6375be98a3794e0b6b2cd3cde0b4b0eefd
+source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 0%
       + [Ikonordlista](getting-started/things-to-know/icon-glossary.md)
       + [Klassisk ikon - ordlista](getting-started/things-to-know/classic-icon-glossary.md)
       + [Hjälpcenter](getting-started/things-to-know/help-center.md)
+      + [AI Assistant för produktkunskap](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Marketing Nation Community](getting-started/things-to-know/community.md)
    + Snabbvinningar {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
@@ -661,7 +662,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1362,7 +1363,7 @@ ht-degree: 0%
             + [Mina dynamiska fält fylls inte ut](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Referera dig själv i ett dynamiskt fält](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
-      + Åtgärder {#actions}
+      + Instruktioner {#actions}
          + [Funktionsöversikt för Sales Insight](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Komma igång {#getting-started}
             + [Handbok om User Onboarding för Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
