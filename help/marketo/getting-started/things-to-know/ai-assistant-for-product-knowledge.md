@@ -40,4 +40,4 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
 
 ## Snabbstart: 60-sekunders videoöversikt {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480119?captions=swe&learn=on){transcript=true}
