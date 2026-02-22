@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
 
 1. Logga in på Marketo Engage via [Adobe Experience Cloud](https://experience.adobe.com/).
 
-1. Välj AI-assistentikonen i sidhuvudet.
+1. Välj AI-assistentikonen till höger om sidhuvudet.
 
    SCREENSHOT
 
-1. Skriv den önskade prompten i promptfönstret med det naturliga språket.
+1. Ange önskad uppmaning med ett naturligt språk.
 
    SCREENSHOT
 
@@ -36,7 +36,7 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
 
    >[!TIP]
    >
-   >Använd den här ikonen (ikonbilden här) för att expandera skärmen och den här ikonen (ikonbilden här) för att visa prompthistoriken. &lt;— HUR LÅNGT BACK? FINNS DET EN INSTÄLLNING?
+   >Använd den här ikonen (ikonbilden här) för att expandera skärmen och den här ikonen (ikonbilden här) för att visa historiken eller starta en ny konversation.
 
 ## Snabbstart: 60-sekunders videoöversikt {#video}
 
