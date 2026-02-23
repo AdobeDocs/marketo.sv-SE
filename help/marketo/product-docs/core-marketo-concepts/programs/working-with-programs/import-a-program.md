@@ -4,9 +4,9 @@ description: Importera ett program - Marketo Docs - produktdokumentation
 title: Importera ett program
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ Ett program kan importeras från en Marketo Engage-prenumeration till en annan. 
 
 >[!CAUTION]
 >
->Program som har smarta listor som innehåller utlösaren&quot;Anpassat objekt är uppdaterat&quot; kommer att göra att importen misslyckas. Ta bort den här utlösaren från alla smarta listor innan du följer stegen som beskrivs nedan.
+>
+>* När du importerar ett program hoppas e-postmeddelanden/landningssidor som innehåller fragment eller [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} över.
+>
+>* Program som har smarta listor som innehåller utlösaren&quot;Anpassat objekt är uppdaterat&quot; kommer att göra att importen misslyckas. Ta bort den här utlösaren från alla smarta listor innan du följer stegen som beskrivs nedan.
 
 ## Importera ett program {#importing-a-program}
 
@@ -82,7 +85,3 @@ Program använder externa resurser som e-postmallar, mallar för landningssidor,
 >Bildtypen mina tokens stöds inte för programimporter. Om ett program som har bildtypen mina tokens importeras, kommer _no_-tokens att gå igenom.
 
 **Programtaggar:** Du kan använda konfliktregler för att styra hur programtaggar som inte finns i målkontot behandlas. Om du använder standardregeln skapas programtaggarna, eller så kan du välja att ignorera taggarna.
-
->[!CAUTION]
->
->När du importerar ett program hoppas e-postmeddelanden/landningssidor som innehåller [dynamiskt innehåll](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} över.
