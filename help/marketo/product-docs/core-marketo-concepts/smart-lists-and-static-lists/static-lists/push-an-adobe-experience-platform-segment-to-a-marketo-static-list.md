@@ -3,7 +3,7 @@ description: Överför ett Adobe Experience Platform-segment till en Marketo Sta
 title: Överför ett Adobe Experience Platform-segment till en Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 >[!PREREQUISITES]
 >
 >* [Redigera API-rollen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} och kontrollera att den har behörigheten **Read-Write Person** (finns i listrutan Åtkomst-API).
->* [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} i Marketo.
+>* [Skapa en API-användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} i Marketo.
 >* Gå till **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Sök efter namnet på rollen som du just skapade och klicka på **[!UICONTROL View Details]**. Kopiera och spara informationen i **[!UICONTROL Client ID]** och **[!UICONTROL Client Secret]**, eftersom du kan behöva den för steg 7.
 >* Skapa en statisk lista i Marketo eller sök efter och välj en som du redan har skapat. Du behöver dess ID.
 
@@ -99,7 +99,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    >[!NOTE]
    >
-   >Du kan mappa attribut från Experience Platform till alla attribut som din organisation har tillgång till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
+   >Du kan mappa attribut från Experience Platform till alla attribut som din organisation har tillgång till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** igen och upprepa steg 15 två gånger. Välj **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
 
