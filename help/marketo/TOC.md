@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9336'
 ht-degree: 0%
 
 ---
@@ -233,7 +233,6 @@ ht-degree: 0%
          + [Hantera taggvärden](product-docs/administration/tags/managing-tag-values.md)
       + Användare och roller {#users-and-roles}
          + [Skapa en användarroll endast för API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-         + [Skapa endast en API-användare](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Skapa, ta bort, redigera och ändra en användarroll](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-postverifiering](product-docs/administration/users-and-roles/email-verification.md)
          + [Exportera en lista med användare och roller](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -662,7 +661,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)

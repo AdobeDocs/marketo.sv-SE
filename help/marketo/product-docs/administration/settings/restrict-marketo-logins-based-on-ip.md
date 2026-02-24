@@ -4,7 +4,7 @@ description: Begränsa Marketo-inloggningar baserat på IP - Marketo Docs - prod
 title: Begränsa Marketo-inloggningar baserat på IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -21,12 +21,12 @@ Du kan begränsa eller göra det möjligt för användare att få åtkomst till 
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) stöder [IP-baserad åtkomstkontroll](https://helpx.adobe.com/se/enterprise/using/ip-based-access.html){target="_blank"}. För att övergången ska gå smidigt kommer befintliga Marketo Engage IP-begränsningar att vara aktiva, inklusive Adobe ID-användare till och med Q1 2026 i prenumerationer där den här funktionen är aktiverad.
+>Adobe Admin Console (AAC) stöder [IP-baserad åtkomstkontroll](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. För att övergången ska gå smidigt kommer befintliga Marketo Engage IP-begränsningar att vara aktiva, inklusive Adobe ID-användare till och med Q1 2027 i prenumerationer där den här funktionen är aktiverad.
 >
 >* Du kan konfigurera AAC IP-baserad åtkomst när som helst.
 >* Både AAC- och Marketo Engage-begränsningar kan köras samtidigt. Använd samma IP-tillåtelselista för kompatibilitet.
 >
->Efter 1:a kvartalet 2026 upphör begränsningarna för Marketo Engage IP. IP-baserad åtkomst hanteras exklusivt via AAC och måste konfigureras för att framtvinga inloggningsbegränsningar. Ett slutligt övergångsdatum kommer att tillkännages senare.
+>Efter första kvartalet 2027 kommer Marketo Engage IP-begränsningar att upphöra. IP-baserad åtkomst hanteras exklusivt via AAC och måste konfigureras för att framtvinga inloggningsbegränsningar. Ett slutligt övergångsdatum kommer att tillkännages senare.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
