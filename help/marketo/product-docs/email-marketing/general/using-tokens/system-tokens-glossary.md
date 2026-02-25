@@ -27,7 +27,7 @@ Token `{{system.date}}` återger aktuellt datum vid körning så här: **8 aug 2
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.time {#system-time}
@@ -38,7 +38,7 @@ Token `{{system.time}}` återger aktuell tid vid körning så här: **04:34 PM (
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.dateTime {#system-datetime}
@@ -49,7 +49,7 @@ Token `{{system.dateTime}}` återger aktuellt datum och aktuell tid vid körning
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.unsubscribeLink {#system-unsubscribelink}
