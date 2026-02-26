@@ -4,7 +4,8 @@ title: Prenumerera på systemstatusmeddelanden
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -35,7 +36,7 @@ I fältet _Datacenter_ är bokstäverna datacenter och siffrorna pod. I exemplet
 
 I steg 7 av [skapa en prenumeration](#create-a-subscription) skulle den här användaren välja den regionala platsen **Marketo Ashburn** och pod **ab49**.
 
-<table style="width:225px;">
+<table style="width:300px;">
   <tr>
     <th colspan="2">Förkortningar för datacenter</th>
   </tr>
@@ -85,7 +86,7 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
 
 1. Klicka på ikonen ![plustecken](assets/icon-plus-sign.png) bredvid _Experience Cloud_ för att expandera menyn. Gör samma sak för _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
 1. Markera de produkterbjudanden/tjänster som du vill få meddelanden om och klicka på **Fortsätt**.
 
@@ -93,7 +94,7 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
    >
    >Markera _Adobe Marketo Engage_ om du vill markera alla.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
 1. Välj önskade händelsetyper.
 
@@ -101,26 +102,26 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>Problem med huvudservice</b></td>
+   <td style="width:40%;"><b>Problem med huvudservice</b></td>
    <td>Otillgängliga tjänster eller allvarliga prestandaförsämringar för flera användare på produktionssystem.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Problem med deltjänst</b></td>
+   <td style="width:40%;"><b>Problem med deltjänst</b></td>
    <td>Otillgänglig delvis tjänst eller måttlig prestandaförsämring för flera användare på produktionssystem.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Serviceunderhåll</b></td>
+   <td style="width:40%;"><b>Serviceunderhåll</b></td>
    <td>Text</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Meddelanden</b></td>
+   <td style="width:40%;"><b>Meddelanden</b></td>
    <td>Meddelanden gällande..</td>
    </tr>
    </table>
 
 1. Välj önskad regional plats och miljö. Klicka på **Fortsätt**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
 
 1. Välj din prenumerationsinställning, **E-post** eller **Slack**, och klicka på **Fortsätt**.
 
