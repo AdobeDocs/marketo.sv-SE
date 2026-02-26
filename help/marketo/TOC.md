@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9334'
 ht-degree: 0%
 
 ---
@@ -31,10 +31,11 @@ ht-degree: 0%
    + Saker att veta {#things-to-know}
       + [Marketo Engage ordlista](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Ikonordlista](getting-started/things-to-know/icon-glossary.md)
-      + [Klassisk ikon - ordlista](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Klassisk ikonordlista](getting-started/things-to-know/classic-icon-glossary.md)
       + [Hjälpcenter](getting-started/things-to-know/help-center.md)
+      + [Prenumerera på meddelanden om systemstatus](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
       + [AI Assistant för produktkunskap](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Marketing Nation Community](getting-started/things-to-know/community.md)
+      + [Marknadsföringslands-community](getting-started/things-to-know/community.md)
    + Snabbvinningar {#quick-wins}
       + [Konfigurera och lägg till en person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Skicka e-post](getting-started/quick-wins/send-an-email.md)
@@ -661,7 +662,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
