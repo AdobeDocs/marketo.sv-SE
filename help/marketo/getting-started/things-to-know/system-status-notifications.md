@@ -4,7 +4,7 @@ title: Prenumerera på systemstatusmeddelanden
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -85,7 +85,7 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
 
 1. Klicka på ikonen ![plustecken](assets/icon-plus-sign.png) bredvid _Experience Cloud_ för att expandera menyn. Gör samma sak för _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. Markera de produkterbjudanden/tjänster som du vill få meddelanden om och klicka på **Fortsätt**.
 
@@ -93,7 +93,7 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
    >
    >Markera _Adobe Marketo Engage_ om du vill markera alla.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. Välj önskade händelsetyper.
 
@@ -120,7 +120,7 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
 
 1. Välj önskad regional plats och miljö. Klicka på **Fortsätt**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. Välj din prenumerationsinställning, **E-post** eller **Slack**, och klicka på **Fortsätt**.
 
