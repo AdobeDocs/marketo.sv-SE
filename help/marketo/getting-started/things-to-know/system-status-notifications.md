@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
 # Prenumerera på meddelanden om systemstatus {#subscribe-to-system-status-notifications}
 
-INTRO TEXT
+Lär dig hur du prenumererar på olika statusmeddelanden för att hålla dig uppdaterad om aktuella problem.
 
 >[!PREREQUISITES]
 >
@@ -100,28 +100,32 @@ När du har [identifierat ditt datacenter och din pod/server](#identify) följer
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Problem med huvudservice</b></td>
+   <td style="width:35%;"><b>Problem med huvudservice</b></td>
    <td>Otillgängliga tjänster eller allvarliga prestandaförsämringar för flera användare på produktionssystem.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Problem med deltjänst</b></td>
+   <td style="width:35%;"><b>Problem med deltjänst</b></td>
    <td>Otillgänglig delvis tjänst eller måttlig prestandaförsämring för flera användare på produktionssystem.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Serviceunderhåll</b></td>
-   <td>Text</td>
+   <td style="width:35%;"><b>Serviceunderhåll</b></td>
+   <td>Schemalagda fönster för att utföra produktunderhåll som kan påverka produktens tillgänglighet eller prestanda.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Meddelanden</b></td>
-   <td>Meddelanden gällande..</td>
+   <td style="width:35%;"><b>Meddelanden</b></td>
+   <td>Global, produktfamilj eller produktrelaterade budskap som har stor effekt.</td>
    </tr>
    </table>
 
-1. Välj önskad regional plats och miljö. Klicka på **Fortsätt**.
+1. Välj den regionala platsen och miljön. Klicka på **Fortsätt**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >Om du missade att hitta detta kan du läsa [Identifiera ditt datacenter](#identify).
 
 1. Välj din prenumerationsinställning, **E-post** eller **Slack**, och klicka på **Fortsätt**.
 
