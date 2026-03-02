@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
 
 1. Välj AI-assistentikonen till höger om sidhuvudet.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Ange önskad uppmaning med ett naturligt språk.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Klicka på den blå pilen för att skicka uppmaningen.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Använd den här ikonen (ikonbilden här) för att expandera skärmen och den här ikonen (ikonbilden här) för att visa historiken eller starta en ny konversation.
+   >Använd den här ikonen ![](assets/icon-arrows.png) för att expandera skärmen och den här ikonen ![](assets/icon-conversation-history.png) för att visa din historik eller starta en ny konversation.
 
 ## Snabbstart: 60-sekunders videoöversikt {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480119?captions=swe&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
