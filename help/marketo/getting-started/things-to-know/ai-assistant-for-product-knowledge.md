@@ -42,4 +42,4 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
 
 Se hur AI Assistant för produktkunskap fungerar på ungefär en minut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480119?captions=swe&learn=on){transcript=true}
