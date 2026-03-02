@@ -2,12 +2,10 @@
 description: Prenumerera på systemstatusmeddelanden - Marketo Engage Docs - produktdokumentation
 title: Prenumerera på systemstatusmeddelanden
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -22,8 +20,6 @@ Lär dig hur du prenumererar på olika statusmeddelanden för att hålla dig upp
 
 ## Identifiera ditt datacenter {#identify}
 
-+++Identifiera ditt datacenter och din pod/server
-
 1. Klicka på **Mitt konto** i avsnittet **Admin** i Marketo Engage.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Lär dig hur du prenumererar på olika statusmeddelanden för att hålla dig upp
 
 I fältet _Datacenter_ är bokstäverna datacenter och siffrorna pod. I exemplet ovan är användaren i vårt Ashburn-datacenter på punkt 49.
 
-I steg 7 av [skapa en prenumeration](#create-a-subscription) skulle den här användaren välja den regionala platsen **Marketo Ashburn** och pod **ab49**.
+I steg 7 i [avsnittet nedan](#create-a-subscription) skulle den här användaren välja den regionala platsen **Marketo Ashburn** och pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Förkortningar för datacenter</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>London</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Förkortningar för datacenter**
+
+ab: Ashburn
+sj: San Jose
+sn: Sydney
+go: London
+nld: Amsterdam
 
 >[!TIP]
 >
 >Den här metoden kan också användas för att identifiera vilken Real Time Personalization (RTP)-pod/server som din prenumeration finns på.
-
-+++
 
 ## Skapa en prenumeration {#create-a-subscription}
 

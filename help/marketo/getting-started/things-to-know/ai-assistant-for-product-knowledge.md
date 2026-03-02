@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Med AI Assistant för produktkunskap kan era team agera snabbare, samarbeta effe
    >
    >Använd den här ikonen ![](assets/icon-arrows.png) för att expandera skärmen och den här ikonen ![](assets/icon-conversation-history.png) för att visa din historik eller starta en ny konversation.
 
-## Snabbstart: 60-sekunders videoöversikt {#video}
+## Snabbstart: videoöversikt {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480119?captions=swe&learn=on){transcript=true}
+Se hur AI Assistant för produktkunskap fungerar på ungefär en minut.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
