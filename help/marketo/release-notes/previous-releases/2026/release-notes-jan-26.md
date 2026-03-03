@@ -88,14 +88,14 @@ Följande funktioner släpptes utanför Marketo Engage standardversionscykel.
 
 * **Förbättrat rumsgränssnitt**: Dra nytta av ett uppdaterat och modernare rumsgränssnitt som bygger på Adobe senaste Spectrum 2-ramverk och som är anpassat till det visuella språk som används i andra Adobe-produkter som Creative Cloud och Experience Cloud.
 
-Mer information finns på [den här sidan](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Mer information finns på [den här sidan](https://helpx.adobe.com/se/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=sv){target="_blank"}.
 
-* **Marketo Community Migration Complete**: Den nya Adobe Experience League-communityn finns nu tillgänglig! [Flera förbättringar](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} har gjorts för att göra Marketo Community ännu bättre. [Kolla in det](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
+* **Marketo Community Migration Complete**: Den nya Adobe Experience League-communityn finns nu tillgänglig! [Flera förbättringar](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=sv){target="_blank"} har gjorts för att göra Marketo Community ännu bättre. [Kolla in det](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=sv){target="_blank"}.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
