@@ -3,7 +3,7 @@ description: Prenumerera på systemstatusmeddelanden - Marketo Engage Docs - pro
 title: Prenumerera på systemstatusmeddelanden
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -30,15 +30,15 @@ Lär dig hur du prenumererar på olika statusmeddelanden för att hålla dig upp
 
 I fältet _Datacenter_ är bokstäverna datacenter och siffrorna pod. I exemplet ovan är användaren i vårt Ashburn-datacenter på punkt 49.
 
-I steg 7 i [avsnittet nedan](#create-a-subscription) skulle den här användaren välja den regionala platsen **Marketo Ashburn** och pod **ab49**.
+I steg 7 i [avsnittet nedan](#create-a-subscription) skulle användaren välja den regionala platsen **Marketo Ashburn** och pod **ab49**.
 
 **Förkortningar för datacenter**
 
-ab: Ashburn
-sj: San Jose
-sn: Sydney
-go: London
-nld: Amsterdam
+* ab: Ashburn
+* sj: San Jose
+* sn: Sydney
+* go: London
+* nld: Amsterdam
 
 >[!TIP]
 >
