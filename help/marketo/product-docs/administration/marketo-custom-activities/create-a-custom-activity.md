@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098479
-description: Skapa en anpassad aktivitet - Marketo Docs - produktdokumentation
+description: Steg för att skapa en ny anpassad aktivitet som namn, API-namn, filter- och utlösardefinition samt primärt fält.
 title: Skapa en anpassad aktivitet
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 2%
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 

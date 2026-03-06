@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359898
-description: Ta reda på vilka behörigheter du har - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar dina nuvarande Marketo-behörigheter.
 title: Ta reda på vilka behörigheter du har
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

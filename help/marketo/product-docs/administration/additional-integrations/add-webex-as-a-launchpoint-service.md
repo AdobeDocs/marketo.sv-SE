@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
-description: Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+description: Lägg till [!DNL Webex] webbinarier som en LaunchPoint-tjänst för att synkronisera registrering och närvaro med Marketo.
 title: Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 3%
+source-wordcount: '101'
+ht-degree: 2%
 
 ---
 

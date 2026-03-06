@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360327
-description: Tilldela personpartitioner med tilldelningsregler - Marketo Docs - produktdokumentation
+description: Så här ställer du in tilldelningsregler för att dirigera personer från CRM till rätt personpartitioner.
 title: Tilldela personpartitioner med tilldelningsregler
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---

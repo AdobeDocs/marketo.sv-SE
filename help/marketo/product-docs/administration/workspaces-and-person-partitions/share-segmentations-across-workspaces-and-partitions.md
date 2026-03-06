@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515767
-description: Dela segment mellan arbetsytor och partitioner - Marketo Docs - produktdokumentation
+description: Regler och steg för att dela segmenteringar mellan arbetsytor och partitioner, inklusive begränsningar och tips för att skapa segmenteringar i standardarbetsytan.
 title: Dela segment mellan arbetsytor och partitioner
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---

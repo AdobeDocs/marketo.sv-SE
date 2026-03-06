@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360198
-description: Skapa, ta bort, redigera och ändra en användarroll - Marketo Docs - produktdokumentation
+description: Steg för att skapa, ta bort och redigera användarroller, inklusive namngivning av roller, val av behörigheter och vilka systemroller som inte kan ändras.
 title: Skapa, ta bort, redigera och ändra en användarroll
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---

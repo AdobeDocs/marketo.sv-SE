@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950660
-description: Skapa egna taggar - Marketo Docs - produktdokumentation
+description: Så här skapar du en ny taggtyp med värden, väljer vilka programtyper den gäller för och anger taggen som krävs eller som valfri.
 title: Skapa egna taggar
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---

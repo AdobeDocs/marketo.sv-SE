@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360352
-description: Konfigurera dina SOAP API-inställningar - Marketo Docs - produktdokumentation
+description: Ange krypteringsnyckeln för SOAP API och hämta slutpunktsinformation i Admin Web Services för utvecklare.
 title: Konfigurera dina SOAP API-inställningar
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -39,4 +39,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[SOAP API-dokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API-dokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

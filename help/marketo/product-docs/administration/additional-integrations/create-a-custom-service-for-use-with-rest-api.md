@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360350
-description: Skapa en anpassad tjänst för användning med ReST API - Marketo Docs - produktdokumentation
+description: Skapa en anpassad LaunchPoint-tjänst som är länkad till en API-användare för ReST API-integrering.
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
+>Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 

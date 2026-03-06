@@ -1,11 +1,11 @@
 ---
-description: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer - Marketo Docs - produktdokumentation
+description: Så här skapar och hanterar du endast API-användare i Marketo Engage när din prenumeration använder Adobe IMS.
 title: Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

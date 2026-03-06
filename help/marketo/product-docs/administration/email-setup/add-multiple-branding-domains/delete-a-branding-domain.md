@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378041
-description: Ta bort en profileringsdomän - Marketo Docs - produktdokumentation
+description: Ta bort en profileringsdomän från tabellen E-postadministratör (ange en annan primär först om du tar bort den primära).
 title: Ta bort en profileringsdomän
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '66'
 ht-degree: 1%
 
 ---

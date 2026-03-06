@@ -1,11 +1,11 @@
 ---
-description: Lägg till eller ta bort en produktadministratör - Marketo Docs - produktdokumentation
+description: Steg för att lägga till eller ta bort produktadministratörer i Adobe Admin Console.
 title: Lägg till eller ta bort en produktadministratör
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

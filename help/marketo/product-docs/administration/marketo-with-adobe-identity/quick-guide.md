@@ -1,11 +1,11 @@
 ---
-description: Snabbguide - Marketo Docs - produktdokumentation
+description: Snabb referens med länkar för att konfigurera Marketo Engage med Adobe Identity, inklusive installation av systemadministratör, användarhantering, användare med endast API samt inloggning.
 title: Snabbguide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Endast Marketo Engage API-användare måste skapas och hanteras i Marketo Engage
 
 ## Lägg till användare via CSV {#add-users-via-csv}
 
-[Importera en CSV](https://helpx.adobe.com/se/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importera en CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Användarinloggning {#user-sign-in}
 

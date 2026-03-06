@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504893
-description: Lägg till [!DNL Google AdWords] som en [!DNL Launchpoint] tjänst med ett hanterarkonto - Marketo Docs - produktdokumentation
+description: Integrera flera [!DNL Google AdWords] konton med Marketo med ett Manager-konto i LaunchPoint.
 title: Lägg till [!DNL Google AdWords] som en [!DNL Launchpoint] tjänst med ett hanterarkonto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 1%
+source-wordcount: '280'
+ht-degree: 2%
 
 ---
 
 # Lägg till [!DNL Google AdWords] som en [!DNL Launchpoint]-tjänst med ett hanterarkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Sedan kan du från användargränssnittet i [!DNL AdWords] enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Från gränssnittet [!DNL AdWords] kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
 
 Om du har flera [!DNL Google Adwords]-konton kan du använda en [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (tidigare kallad [!DNL My Client Center]) för att integrera dem med Marketo.
 
@@ -21,7 +21,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
 >[!AVAILABILITY]
 >
->Alla användare i Marketo Engage har inte köpt den här funktionen. Kontakta kontoteamet (din kontoansvarige) för mer information.
+>Alla Marketo Engage-användare har inte köpt den här funktionen. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
    >[!NOTE]
    >
-   >[Autotaggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste vara markerad för att den här funktionen ska fungera. Den måste aktiveras inuti [!DNL AdWords].
+   >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste vara markerat för att den här funktionen ska fungera. Den måste aktiveras inuti [!DNL AdWords].
 
 1. Klicka på **[!UICONTROL Next]**.
 

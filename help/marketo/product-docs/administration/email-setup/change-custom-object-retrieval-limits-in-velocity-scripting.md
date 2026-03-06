@@ -1,11 +1,11 @@
 ---
-description: Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting] - Marketo Docs - produktdokumentation
+description: Öka eller minska den överordnade gränsen för hämtning av anpassade objekt för  [!DNL Velocity]  skript i e-postmeddelanden (10 till 100).
 title: Ändra hämtningsgränser för anpassade objekt i  [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Om du använder [!DNL Velocity Script] för att visa anpassade objektdata i e-po
 
 ## Vad är [!DNL Velocity] {#what-is-velocity}
 
-[[!DNL Apache Velocity]](https://velocity.apache.org/) är ett språk som bygger på [!DNL Java] och som är utformat för att skapa mallar och skript för HTML. Marketo tillåter att den används i e-postsammanhang genom att använda [skripttokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Detta ger bland annat åtkomst till data som lagras i anpassade objekt.
+[[!DNL Apache Velocity]](https://velocity.apache.org/) är ett språk som bygger på [!DNL Java] och som är utformat för att skapa mallar och skript för HTML-innehåll. Marketo tillåter att den används i e-postsammanhang genom att använda [skripttokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Detta ger bland annat åtkomst till data som lagras i anpassade objekt.
 
 Du kan referera till överordnade och underordnade anpassade objekt som är direkt kopplade till lead- eller kontaktpersonen, men inte till anpassade objekt på tredje nivån. För varje anpassat objekt är de 10 senast uppdaterade posterna per person/kontakt tillgängliga vid körning och beställs från den senast uppdaterade (vid 0) till den äldsta (vid 9).
 
@@ -30,7 +30,7 @@ Du kan referera till överordnade och underordnade anpassade objekt som är dire
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. Ange en ny [!UICONTROL Parent Retrieval Limit] i tabellen [!UICONTROL Custom Object Retrieval Limits] och klicka på **[!UICONTROL Save Changes]**.
+1. Ange en ny [!UICONTROL Custom Object Retrieval Limits] i tabellen [!UICONTROL Parent Retrieval Limit] och klicka på **[!UICONTROL Save Changes]**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 

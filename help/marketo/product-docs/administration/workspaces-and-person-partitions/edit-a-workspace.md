@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380986
-description: Redigera en Workspace - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar en arbetsytans huvudpartition, primära personpartition och primär varumärkesdomän.
 title: Redigera en Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---

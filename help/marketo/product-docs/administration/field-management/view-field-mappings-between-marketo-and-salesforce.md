@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360344
-description: Visa fältmappningar mellan Marketo och [!DNL Salesforce] - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar vilka  [!DNL Salesforce] fält som har mappats till Marketo-fält i Admin Field Management.
 title: Visa fältmappningar mellan Marketo och  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 1%
 
 ---

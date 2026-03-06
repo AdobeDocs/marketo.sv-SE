@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360215
-description: Aktivera anpassade URL:er för ditt konto - Marketo Docs - produktdokumentation
+description: Steg för att aktivera anpassade URL:er för din prenumeration för användning i e-postmeddelanden och andra kampanjer.
 title: Aktivera anpassade URL:er för ditt konto
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 2%
 
 ---

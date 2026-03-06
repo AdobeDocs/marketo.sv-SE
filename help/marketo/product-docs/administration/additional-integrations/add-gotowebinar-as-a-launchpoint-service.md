@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512289
-description: Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+description: Lägg till  [!DNL GoToWebinar]  som en LaunchPoint-tjänst så att Marketo hanterar registrering och närvaro i webbinariet.
 title: Lägg till [!DNL GoToWebinar] som en [!DNL LaunchPoint] tjänst
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '137'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Marketo hanterar din registrering och närvaro av [!DNL GoToWebinar].
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL GoToWebinar]** under **[!UICONTROL Service]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Service]** under **[!UICONTROL GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 

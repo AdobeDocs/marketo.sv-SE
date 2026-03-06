@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360325
-description: Tillåt användaråtkomst till en Workspace - Marketo Docs - produktdokumentation
+description: Steg som ger en användare åtkomst till en eller flera arbetsytor.
 title: Tillåt användaråtkomst till en Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

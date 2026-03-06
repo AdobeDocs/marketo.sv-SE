@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099785
-description: Redigera prenumerationsinställningar - Marketo Docs - produktdokumentation
+description: Så här ger du din Marketo-prenumeration ett unikt visningsnamn så att du kan skilja olika prenumerationer åt.
 title: Redigera prenumerationsinställningar
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '90'
 ht-degree: 2%
 
 ---

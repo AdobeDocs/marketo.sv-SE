@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: Sekretessinställningar - Marketo Docs - produktdokumentation
+description: Översikt över sekretess- och spårningsalternativ, inklusive Do Not Track-stöd för webbläsare, cookies för avanmälan och anonymiserad IP-spårning för webbbesökare.
 title: Sekretessinställningar
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Marknadsförarna kan ge användare möjlighet att anmäla sig genom att använda
 
 Marknadsförarna kan skydda sin integritet genom att spåra användare med en anonym IP-adress. Om du vill göra det lägger du till den här koden i RTP- eller [!DNL Munchkin] JavaScript-koden som är inbäddad på webbplatsen.
 
-* För [!DNL Munchkin] lägger du bara till `{"anonymizeIP",true}` i funktionen [init](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* För [!DNL Munchkin] lägger du bara till `{"anonymizeIP",true}` i funktionen [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * För Web Personalization (RTP) lägger du till detta i javascript:
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360245
-description: Ta bort avanmälan av text från Admin Email Section - Marketo Docs - Product Documentation
+description: Ta bort standardinnehållet för avanmälan från Admin Email genom att använda en HTML-kommentar när du skapar länken i mallar.
 title: Ta bort Avbeställ text från Admin Email Section
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---

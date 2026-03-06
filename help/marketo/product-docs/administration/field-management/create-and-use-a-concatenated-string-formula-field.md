@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: Skapa och använda ett sammanfogat strängfält (formel) - Marketo Docs - produktdokumentation
+description: Kombinera värden från flera fält eller skapa villkorsstyrda värden med formelfält i Marketo Engage.
 title: Skapa och använda ett sammanfogat strängfält (formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360356
-description: Lägg till enkel inloggning på en portal - Marketo Docs - produktdokumentation
+description: Aktivera enkel SAML 2.0-inloggning så att identitetsleverantören autentiserar användare för Marketo (gäller inte för Adobe IMS).
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller inte prenumerationer på Adobe Identity. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. Adobe Admin Console stöder endast SP-initierade just nu. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

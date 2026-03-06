@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360278
-description: Ta bort en programstatus från en programkanal - Marketo Docs - produktdokumentation
+description: Så här tar du bort en programstatus från en kanal i Admin under Taggar, bland annat när du måste dölja en status i stället för att ta bort den.
 title: Ta bort en programstatus från en programkanal
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: Lägg till Marketo anpassade objektlänkfält - Marketo Docs - produktdokumentation
+description: Så här lägger du till länkfält för att koppla anpassade objekt till personer eller företag för en-till-många- och många-till-många-strukturer, inklusive användning av mellanliggande objekt.
 title: Lägg till Marketo anpassade objektlänkfält
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '664'
 ht-degree: 0%
 
 ---

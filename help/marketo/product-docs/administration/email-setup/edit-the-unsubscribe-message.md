@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360251
-description: Redigera avbeställningsmeddelandet - Marketo Docs - produktdokumentation
+description: Ändra standardtexten för att avbryta prenumerationen och länkar som lagts till i marknadsföringsmeddelanden i Admin Email.
 title: Redigera avbeställningsmeddelandet
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

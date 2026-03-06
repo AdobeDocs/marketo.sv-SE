@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360287
-description: Skapa ett anpassat fält i Marketo - Marketo Docs - produktdokumentation
+description: Steg för att skapa ett nytt anpassat fält i Marketo Engage för att lagra och samla in data för människor eller företag.
 title: Skapa ett anpassat fält i Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ Så här skapar du ett nytt anpassat fält i Marketo Engage för att lagra/hämt
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Ange _[!UICONTROL Name]_&#x200B;så som du vill att den ska visas i Marketo (_[!UICONTROL API Name]_ genereras automatiskt). Välj noggrant eftersom namnet inte kan ändras när du har sparat. Klicka på **[!UICONTROL Create]** när du är klar.
+1. Ange _[!UICONTROL Name]_så som du vill att den ska visas i Marketo (_[!UICONTROL API Name]_ genereras automatiskt). Välj noggrant eftersom namnet inte kan ändras när du har sparat. Klicka på **[!UICONTROL Create]** när du är klar.
 
 >[!CAUTION]
 >

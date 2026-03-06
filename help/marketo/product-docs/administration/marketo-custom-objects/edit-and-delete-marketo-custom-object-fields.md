@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: Redigera och ta bort anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
+description: Redigera eller ta bort fält i ett ej godkänt anpassat objekt med fältåtgärder.
 title: Redigera och ta bort anpassade Marketo-objektfält
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---

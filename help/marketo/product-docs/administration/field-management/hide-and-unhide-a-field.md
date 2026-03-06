@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360333
-description: Dölj och visa ett fält - Marketo Docs - produktdokumentation
+description: Dölj fält från Marketo-gränssnittet när de inte längre behövs eller visa dem för att visa dem igen.
 title: Dölja och visa ett fält
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---

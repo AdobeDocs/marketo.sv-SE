@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360203
-description: Skapa en användarroll endast för API - Marketo Docs - produktdokumentation
+description: Så här skapar du en användarroll för enbart API för REST API-integrering genom att definiera ett rollnamn och välja de API-åtkomstbehörigheter som ska beviljas.
 title: Skapa en användarroll endast för API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # Skapa en användarroll endast för API {#create-an-api-only-user-role}
 
-Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api) är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
+Om du vill integrera med Marketo via [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) är det bästa sättet att [tilldela en användare rollen Endast API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) och sedan [skapa en anpassad tjänst för användning med REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Så här skapar du användarrollen enbart för API.
 
 >[!NOTE]
 >

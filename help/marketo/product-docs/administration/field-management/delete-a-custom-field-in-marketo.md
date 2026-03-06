@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360339
-description: Ta bort ett anpassat fält i Marketo - Marketo Docs - produktdokumentation
+description: Så här tar du bort ett anpassat fält från att användas genom att dölja det från användargränssnittet när det inte längre behövs.
 title: Ta bort ett anpassat fält i Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 1%
 
 ---

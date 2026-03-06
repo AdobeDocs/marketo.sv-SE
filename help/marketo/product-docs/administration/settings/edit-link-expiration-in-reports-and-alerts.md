@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360213
-description: Redigera förfallodatum för länk i rapporter och aviseringar - Marketo Docs - produktdokumentation
+description: Hur du ändrar antalet dagslänkar i e-postmeddelanden om rapportprenumerationer är fortfarande giltiga.
 title: Redigera förfallodatum för länk i rapporter och aviseringar
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---

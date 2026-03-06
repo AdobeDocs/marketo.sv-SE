@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377408
-description: Lägg till en extra varumärkesdomän med arbetsytor - Marketo Docs - produktdokumentation
+description: Lägg till ytterligare profileringsdomäner och tilldela en primär domän per arbetsyta när du använder arbetsytor.
 title: Lägg till en extra varumärkesdomän med arbetsytor
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---

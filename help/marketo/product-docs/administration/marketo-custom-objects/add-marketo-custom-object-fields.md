@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: Lägg till anpassade Marketo-objektfält - Marketo Docs - produktdokumentation
+description: Steg för att lägga till fält i ett anpassat objekt, inklusive visningsnamn, beskrivning och datatyp.
 title: Lägg till anpassade Marketo-objektfält
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---

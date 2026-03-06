@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360321
-description: Ändra namnet på en Workspace - Marketo Docs - produktdokumentation
+description: Lär dig hur du byter namn på en arbetsyta.
 title: Ändra namnet på en Workspace
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---

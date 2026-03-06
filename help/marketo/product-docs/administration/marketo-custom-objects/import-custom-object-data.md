@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099680
-description: Importera anpassade objektdata - Marketo Docs - produktdokumentation
+description: Steg för att importera anpassade objektdata med hjälp av en CSV-fil, inklusive val av anpassat objekt, borttagningsläge och fältmappning.
 title: Importera anpassade objektdata
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '224'
 ht-degree: 1%
 
 ---

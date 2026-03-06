@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359909
-description: Hantera användarroller och behörigheter - Marketo Docs - Produktdokumentation
+description: Ange, skapa och redigera användarroller, tilldela roller till användare och styr vilka områden och funktioner varje Marketo-användare har tillgång till.
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---

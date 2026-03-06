@@ -1,11 +1,11 @@
 ---
-description: Användarinloggning med Adobe ID - Marketo Docs - produktdokumentation
+description: Steg som användare med Adobe Identity ska logga in på Marketo Engage med länken Continue with AdobeID och inloggningsuppgifterna för Adobe.
 title: Användarinloggning med Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

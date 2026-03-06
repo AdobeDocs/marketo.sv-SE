@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360272
-description: Skapa ett nytt programmärke och taggvärden - Marketo Docs - Produktdokumentation
+description: Så här skapar du en anpassad programtagg och tilldelar värden, väljer programtyper och skapar den tagg som behövs när du skapar nya program.
 title: Skapa en ny programtagg och taggvärden
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

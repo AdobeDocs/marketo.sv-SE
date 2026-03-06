@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359904
-description: Välj språk, språk och tidszon - Marketo Docs - Produktdokumentation
+description: Lär dig hur du ändrar språk, språk och tidszon.
 title: Välj språk, språk och tidszon
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: Använda ett universellt ID för prenumerationsinloggning - Marketo Docs - produktdokumentation
+description: Hur man med Universellt ID kan komma åt flera Marketo-prenumerationer med en och samma inloggning, växla mellan dem och hur lösenordsprinciper och profildata fungerar för alla prenumerationer.
 title: Använda ett universellt ID för prenumerationsinloggning
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---

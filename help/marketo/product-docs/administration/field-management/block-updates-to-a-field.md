@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360291
-description: Blockera uppdateringar till ett fält - Marketo Docs - produktdokumentation
+description: Blockera uppdateringar av ett fält så att det första värdet som skrivs behålls under hela postens livstid.
 title: Blockera uppdateringar till ett fält
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512292
-description: Lägg till [!DNL Level 3 Web Meeting] som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+description: Lägg till  [!DNL Level 3 Web Meeting]  som en LaunchPoint-tjänst för att hantera registrering och närvaro i Marketo.
 title: Lägg till [!DNL Level 3 Web Meeting] som en [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '82'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Marketo hanterar din registrering och närvaro av [!DNL Level 3 Web Meeting].
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Level 3 Web Meeting]** under **[!UICONTROL Service]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Service]** under **[!UICONTROL Level 3 Web Meeting]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 

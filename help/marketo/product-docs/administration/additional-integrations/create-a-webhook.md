@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360360
-description: Skapa en [!DNL Webhook] - Marketo Docs - produktdokumentation
+description: Skapa en webkrok i Admin för att ringa webbtjänster från tredje part för SMS, persondata med mera.
 title: Skapa en  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -51,4 +51,4 @@ Använd [!DNL Webhooks] om du vill dra nytta av webbtjänster från tredje part 
 
 >[!NOTE]
 >
->Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

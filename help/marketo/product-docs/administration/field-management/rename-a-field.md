@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360293
-description: Byt namn på ett fält - Marketo Docs - produktdokumentation
+description: Steg för att byta namn på ett anpassat fält i Marketo efter att ha tagit bort all användning i formulär, smarta listor och kampanjer.
 title: Byta namn på ett fält
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

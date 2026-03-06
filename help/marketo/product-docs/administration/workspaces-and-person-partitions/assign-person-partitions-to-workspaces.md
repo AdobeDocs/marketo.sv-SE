@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360317
-description: Tilldela personpartitioner till arbetsytor - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar vilka personpartitioner som tilldelas till en arbetsyta.
 title: Tilldela personpartitioner till arbetsytor
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '131'
 ht-degree: 1%
 
 ---

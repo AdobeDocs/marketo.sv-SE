@@ -1,11 +1,11 @@
 ---
-description: Administratörsinstallation - Marketo Docs - produktdokumentation
+description: Inledande installationssteg för Adobe systemadministratörer efter att de har lagts till i Marketo Engage, inklusive att skapa en produktprofil i Adobe Admin Console.
 title: Administratörsinställningar
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ När du har lagts till som Adobe-systemadministratör för Marketo Engage i en A
 
    ![](assets/admin-setup-1.png)
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 

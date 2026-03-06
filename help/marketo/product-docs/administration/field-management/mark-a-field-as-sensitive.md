@@ -1,11 +1,11 @@
 ---
-description: Markera ett fält som känsligt - Marketo Docs - produktdokumentation
+description: Markera fält som känsliga så att deras värden aldrig är förifyllda i formulär för att skydda användardata.
 title: Markera ett fält som känsligt
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---

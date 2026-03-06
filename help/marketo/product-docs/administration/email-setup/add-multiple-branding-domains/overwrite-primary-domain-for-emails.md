@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378051
-description: Skriv över primär domän för e-post - Marketo Docs - produktdokumentation
+description: Åsidosätt den primära varumärkesdomänen för enskilda e-postmeddelanden för att ändra hur länkar märks när de skickas.
 title: Skriv över primär domän för e-postmeddelanden
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

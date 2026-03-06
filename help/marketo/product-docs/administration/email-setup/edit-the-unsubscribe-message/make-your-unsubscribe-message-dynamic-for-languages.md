@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848782
-description: Gör ditt avbeställningsmeddelande dynamiskt för språk - Marketo Docs - produktdokumentation
+description: Använd dynamiskt innehåll och segmentering för att visa meddelandet och länken för att avbryta prenumerationen på olika språk.
 title: Gör ditt avbeställningsmeddelande dynamiskt för språk
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---

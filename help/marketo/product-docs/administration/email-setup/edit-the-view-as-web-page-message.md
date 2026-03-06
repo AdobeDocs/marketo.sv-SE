@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360253
-description: Redigera meddelandet"Visa som webbsida" - Marketo Docs - Produktdokumentation
+description: Anpassa länktexten Visa som webbsida och HTML i Admin Email samtidigt som du bevarar de variabler som krävs.
 title: Redigera meddelandet Visa som webbsida
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Länkrubriker för e-postspårning - Marketo Docs - Produktdokumentation
+description: Anpassa länkrubriker för e-postspårning i Admin under E-post, inklusive Strict-Transport-Security för HTTPS, med riktlinjer för IT-granskning.
 title: Länkrubriker för e-postspårning
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 

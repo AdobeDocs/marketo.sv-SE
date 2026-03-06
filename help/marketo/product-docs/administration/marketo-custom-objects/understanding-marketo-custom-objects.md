@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Förstå anpassade Marketo-objekt - Marketo Docs - produktdokumentation
+description: Översikt över anpassade objekt för att spåra företagsspecifika mått, inklusive 1:N- och många-till-många-relationer, filter, utlösare och var de ska nås i Admin.
 title: Förstå anpassade Marketo-objekt
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---

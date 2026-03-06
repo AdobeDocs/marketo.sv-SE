@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360358
-description: Begränsa användarinloggning till enbart enkel inloggning - Marketo Docs - produktdokumentation
+description: Kräv enkel inloggning för alla användare så att de inte kan kringgå enkel inloggning via administratörsinställningarna (gäller inte Adobe IMS).
 title: Begränsa användarinloggning till enbart enkel inloggning
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---

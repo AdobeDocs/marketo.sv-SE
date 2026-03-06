@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360311
-description: Skapa en ny Workspace - Marketo Docs - produktdokumentation
+description: Steg för att skapa en ny arbetsyta, som att namnge den, välja personpartitioner, välja en primär varumärkesdomän och ange språk för arbetsytan.
 title: Skapa en ny Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '208'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Så här skapar du en ny arbetsyta.
 
 >[!TIP]
 >
->Om du vill veta mer om Workspace bästa praxis kontaktar du [Marketo Professional Services](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"}.
+>Om du vill veta mer om Workspace bästa praxis kontaktar du [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

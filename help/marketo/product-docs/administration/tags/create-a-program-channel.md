@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950682
-description: Skapa en programkanal - Marketo Docs - produktdokumentation
+description: Steg för att skapa en programkanal med status och progressionssteg, inklusive programtyp, lyckad status och alternativ för mobilincheckning för händelser.
 title: Skapa en programkanal
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---

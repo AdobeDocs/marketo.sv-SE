@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: Hantera Marketo-användare - Marketo Docs - produktdokumentation
+description: Steg för att skapa och ta bort användare, återställa lösenord och redigera användarinformation och behörigheter för prenumerationer som inte använder Adobe Identity.
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '381'
 ht-degree: 1%
 
 ---

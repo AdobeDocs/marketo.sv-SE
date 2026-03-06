@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093690
-description: Redigera och ta bort ett anpassat Marketo-objekt - Marketo Docs - produktdokumentation
+description: Steg för att redigera eller ta bort ett anpassat objekt.
 title: Redigera och ta bort ett anpassat Marketo-objekt
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 1%
 
 ---

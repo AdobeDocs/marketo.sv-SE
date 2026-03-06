@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: Skapa anpassade Marketo-objekt - Marketo Docs - produktdokumentation
+description: Steg för att skapa anpassade Marketo-objekt för en-till-många- eller många-till-många-strukturer, inklusive visningsnamn, API-namn och Visa i lead-detalj.
 title: Skapa anpassade Marketo-objekt
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '629'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    >[!NOTE]
    >
-   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Skapa ett anpassat objekt för en många till många-struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 
    >[!NOTE]
    >
-   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 Nästa steg är att skapa ett mellanliggande objekt (se nedan). Innan dess måste du skapa ett fält som du kan länka till.
 

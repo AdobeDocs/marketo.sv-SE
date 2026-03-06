@@ -1,11 +1,11 @@
 ---
-description: E-postverifiering - Marketo Docs - produktdokumentation
+description: Översikt över e-postverifiering för Marketo Engage-användare, inklusive varför det krävs, inbjudningsflöde, verifieringsmejl och lösning av flera inloggnings-ID:n.
 title: E-postverifiering
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---

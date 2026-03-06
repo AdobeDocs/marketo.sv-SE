@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848747
-description: Beskrivningar av rollbehörigheter - Marketo Docs - produktdokumentation
+description: Referenslista över alla rollbehörigheter i Marketo, inklusive Access Admin, Access API och andra behörighetsgrupper som du kan tilldela när du skapar eller redigerar roller.
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1468'
 ht-degree: 0%
 
 ---

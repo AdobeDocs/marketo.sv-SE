@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472615
-description: Om systemhanterade fält - Marketo Docs - produktdokumentation
+description: Lär dig mer om icke redigerbara systemhanterade fält på personinformationssidan och vad varje fälttyp betyder.
 title: Förstå systemhanterade fält
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '532'
 ht-degree: 1%
 
 ---

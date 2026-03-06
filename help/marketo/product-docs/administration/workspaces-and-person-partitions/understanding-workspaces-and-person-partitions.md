@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360309
-description: Förstå arbetsytor och personpartitioner - Marketo Docs - produktdokumentation
+description: Läs om hur arbetsytor organiserar marknadsföringsresurser och hur personpartitioner fungerar som separata databaser.
 title: Arbetsytor och personpartitioner
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---

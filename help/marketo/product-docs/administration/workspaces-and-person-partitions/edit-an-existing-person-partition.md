@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360323
-description: Redigera en befintlig personpartition - Marketo Docs - produktdokumentation
+description: Steg för att redigera ett personpartitionsnamn och arbetsytetilldelningar.
 title: Redigera en befintlig personpartition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---

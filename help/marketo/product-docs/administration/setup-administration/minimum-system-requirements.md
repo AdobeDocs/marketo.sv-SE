@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359900
-description: Lägsta systemkrav - Marketo
+description: Maskinvaru- och programvarukrav för att använda Marketo Engage, inklusive operativsystem, skärmupplösning, webbläsare och tillåtelselista via nätverk.
 title: Lägsta systemkrav
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

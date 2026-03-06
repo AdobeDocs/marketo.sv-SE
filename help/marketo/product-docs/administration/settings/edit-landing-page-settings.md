@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359918
-description: Redigera inställningar för landningssida - Marketo Docs - produktdokumentation
+description: Så här redigerar du domännamn, reservsida, formulärifyllning och andra alternativ för landningssidor.
 title: Redigera inställningar för landningssida
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---

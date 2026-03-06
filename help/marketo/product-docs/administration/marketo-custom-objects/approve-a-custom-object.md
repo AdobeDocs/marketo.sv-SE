@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094188
-description: Godkänn ett anpassat objekt - Marketo Docs - produktdokumentation
+description: Så här godkänner du nya eller redigerade anpassade objekt i Admin, inklusive krav för ett-till-många, många-till-många och mellanliggande objekt.
 title: Godkänn ett anpassat objekt
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---

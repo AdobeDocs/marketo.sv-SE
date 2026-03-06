@@ -1,11 +1,11 @@
 ---
-description: Lägg till eller ta bort en användare - Marketo Docs - produktdokumentation
+description: Så här lägger du till eller tar bort Marketo Engage-användare i Adobe Admin Console genom att välja en produktprofil och hantera fliken Användare.
 title: Lägg till eller ta bort en användare
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -90,5 +90,5 @@ Användaren får sedan ett e-postmeddelande som meddelar att de inte längre har
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-användare](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
->* [Hantera användare individuellt](https://helpx.adobe.com/se/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-användare](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Hantera användare individuellt](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

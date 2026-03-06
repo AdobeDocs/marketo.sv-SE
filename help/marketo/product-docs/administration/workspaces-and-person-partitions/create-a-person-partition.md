@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360315
-description: Skapa en personpartition - Marketo Docs - produktdokumentation
+description: Steg för att skapa en ny personpartition, namnge den och tilldela den till arbetsytor.
 title: Skapa en personpartition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 1%
 
 ---

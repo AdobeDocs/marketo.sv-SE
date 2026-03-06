@@ -1,12 +1,12 @@
 ---
-description: Exportera alla objektmetadata - Marketo Docs - produktdokumentation
+description: Exportera alla objekt och deras metadata inklusive huvudfält, anpassade objekt, aktiviteter, kanaler och taggar som CSV.
 title: Exportera alla objektmetadata
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 4%
+source-wordcount: '78'
+ht-degree: 3%
 
 ---
 

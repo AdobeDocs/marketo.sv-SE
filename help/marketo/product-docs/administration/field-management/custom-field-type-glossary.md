@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: Anpassad fälttypsordlista - Marketo Docs - produktdokumentation
+description: Referens för anpassade fälttyper i Marketo, inklusive Boolean, Valuta, Datum, E-post, Formel med flera.
 title: Ordlista för anpassad fälttyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---

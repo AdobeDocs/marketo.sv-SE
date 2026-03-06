@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360185
-description: Ändra säkerhetsinställningarna för lösenord - Marketo Docs - produktdokumentation
+description: Ange lösenordsprincip för prenumeration, inklusive mallar, förfallodatum och tidsgräns för inaktiva sessioner.
 title: Ändra lösenordsinställningarna
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

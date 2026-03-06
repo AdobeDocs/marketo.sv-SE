@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360305
-description: Skapa en anpassad flik för personinformationssidan - Marketo Docs - produktdokumentation
+description: Så här skapar du en anpassad layout för personinformationssidan.
 title: Skapa en anpassad flik för personinformationssidan
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

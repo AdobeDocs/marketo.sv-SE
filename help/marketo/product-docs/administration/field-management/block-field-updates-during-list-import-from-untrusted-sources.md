@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360335
-description: Blockera fältuppdateringar vid listimport från otillförlitliga källor - Marketo Docs - produktdokumentation
+description: Blockera nyckelfält från att skrivas över under listimporter från otillförlitliga källor för att skydda befintliga data.
 title: Blockera fältuppdateringar vid listimport från otillförlitliga källor
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

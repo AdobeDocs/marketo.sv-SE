@@ -1,11 +1,11 @@
 ---
-description: Filtrering av e-postsatsaktivitet - Marketo Docs - produktdokumentation
+description: Filtrera eller logga e-postrobotaktivitet för att förhindra uppblåsta öppningar och klick med IAB-listmatchning och närhetsmönster.
 title: Filtrerar e-postsatsaktivitet
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
