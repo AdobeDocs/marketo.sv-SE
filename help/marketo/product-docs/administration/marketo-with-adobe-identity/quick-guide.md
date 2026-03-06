@@ -39,7 +39,7 @@ Endast Marketo Engage API-användare måste skapas och hanteras i Marketo Engage
 
 ## Lägg till användare via CSV {#add-users-via-csv}
 
-[Importera en CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importera en CSV](https://helpx.adobe.com/se/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Användarinloggning {#user-sign-in}
 

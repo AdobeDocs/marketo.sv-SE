@@ -21,7 +21,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
 >[!NOTE]
 >
->Den här funktionen fungerar oberoende av Marketo Engage [IP-baserade inloggningsbegränsningar](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} som ersätts av Admin Console [IP-baserade åtkomstkontroll](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Den kommer att fortsätta fungera som den är efter Adobe IMS-migreringen.
+>Den här funktionen fungerar oberoende av Marketo Engage [IP-baserade inloggningsbegränsningar](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} som ersätts av Admin Console [IP-baserade åtkomstkontroll](https://helpx.adobe.com/se/enterprise/using/ip-based-access.html){target="_blank"}. Den kommer att fortsätta fungera som den är efter Adobe IMS-migreringen.
 
 1. Gå till området **[!UICONTROL Admin]**.
 

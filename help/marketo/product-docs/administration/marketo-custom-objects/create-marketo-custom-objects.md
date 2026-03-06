@@ -63,7 +63,7 @@ I det här exemplet visas ett anpassat bildobjekt som kan användas i en en-till
 
    >[!NOTE]
    >
-   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Skapa ett anpassat objekt för en många till många-struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ I det här exemplet visas ett anpassat kursobjekt som du använder för att skap
 
    >[!NOTE]
    >
-   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Du kan bara fylla i anpassade Marketo-objekt via en listimport eller [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api).
 
 Nästa steg är att skapa ett mellanliggande objekt (se nedan). Innan dess måste du skapa ett fält som du kan länka till.
 
