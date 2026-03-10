@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727818
-description: Använda funktioner - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder personer för att segmentera ABM-målgrupper och marknadsföra till specifika undergrupper. Lägg till profiler i Admin och använd dem i smarta listfilter.
 title: Använda persona
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---

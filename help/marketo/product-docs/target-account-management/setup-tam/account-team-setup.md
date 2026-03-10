@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384433
-description: Installation av kontoteam - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar kontoteam och mappar CRM-kontoroller till TAM. Välj vilka fält för användarsökning som ska bli medlemmar i kontogruppen.
 title: Kontouppsättningsinställningar
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355609
-description: Ny kontoidentifiering - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar nya konton att rikta dig mot med hjälp av AI-baserade rekommendationer från din idealiska kundprofil. Identifiera och spara nya målkonton i kontolistor.
 title: Ny kontoidentifiering
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: Bjud in användare att få tillgång till [!UICONTROL Account Insight] - Marketo Docs - produktdokumentation
+description: Lär dig hur du bjuder in användare att få åtkomst till Account Insight. Bjud in via CRM eller e-post och ge Konto Insight åtkomst från fliken Försäljningsanvändare.
 title: Bjud in användare att få åtkomst till [!UICONTROL Account Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---

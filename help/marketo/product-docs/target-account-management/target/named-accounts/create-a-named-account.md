@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615781
-description: Skapa ett namngivet konto - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett namngivet konto manuellt i TAM. Använd listrutan Nytt, välj Skapa namngivet konto och fyll i önskade fält.
 title: Skapa ett namngivet konto
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---

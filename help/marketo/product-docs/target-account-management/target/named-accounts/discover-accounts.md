@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: Upptäck konton - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar potentiella målkonton från dina CRM- eller Marketo-företag. Lägg till valda konton som namngivna konton och associera personer automatiskt.
 title: Identifiera konton
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384438
-description: TAM Report Setup - Marketo Docs - Product Documentation
+description: Lär dig hur du ställer in e-postadressen till TAM-försäljningsrapporten varje vecka för kontoteam. Välj leveransdag, sorteringsordning och vilka kontoägare eller teammedlemmar som ska ta emot den.
 title: Inställningar för TAM-rapport
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '166'
 ht-degree: 3%
 
 ---

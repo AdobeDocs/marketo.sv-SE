@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Named Account] Översikt - Marketo Docs - produktdokumentation'
+description: Lär dig mer om namngivna konton och hur de håller personer från målföretagen. Visa aktuella attributdata för alla namngivna konton på kontrollpanelen.
 title: '[!UICONTROL Named Account] Översikt'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '245'
 ht-degree: 3%
 
 ---

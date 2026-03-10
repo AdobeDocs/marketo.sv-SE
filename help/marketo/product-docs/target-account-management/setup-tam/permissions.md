@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380778
-description: Behörigheter - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in TAM-behörigheter för användare och roller. Bevilja Access Target-kontohantering och åtkomst till ABM-administratör för att kontrollera vem som kan använda TAM.
 title: Behörigheter
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 1%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 

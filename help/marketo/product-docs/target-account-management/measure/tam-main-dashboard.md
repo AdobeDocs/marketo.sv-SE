@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380783
-description: TAM Main Dashboard - Marketo Docs - produktdokumentation
+description: Lär dig mer om huvudinstrumentpanelen för TAM och en sammanfattning av målkontots arbete. Filtrera efter kontolista och fördjupa dig i lista eller namngivna kontoinsikter.
 title: TAM Main Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

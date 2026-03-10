@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Kontofilter - Marketo Docs - produktdokumentation
+description: Lär dig identifiera och engagera namngivna konton och personer med kontobaserade filter. Använd TAM-filter i smarta kampanjer för att inrikta er på rätt konton.
 title: Kontofilter
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

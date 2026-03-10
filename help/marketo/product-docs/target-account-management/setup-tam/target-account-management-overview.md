@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Target Account Management] - Marketo Docs - produktdokumentation'
+description: Läs om kontohantering för Marketo Target och hur den förenar försäljning och marknadsföring med målkonton. Kom igång med licensiering och konfigurering.
 title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

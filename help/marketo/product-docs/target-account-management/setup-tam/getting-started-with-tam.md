@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12255457
-description: Komma igång med TAM - Marketo Docs - produktdokumentation
+description: Lär dig hur du kommer igång med TAM när det har lagts till i din instans. Följ stegen för att ange behörigheter, konfigurera kontouppgifter, skapa namngivna konton och mycket mer.
 title: Komma igång med TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---

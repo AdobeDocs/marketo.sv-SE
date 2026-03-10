@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381156
-description: Lead till kontomatchning - Marketo Docs - produktdokumentation
+description: Läs mer om kontomatchning och hur Marketo matchar leder till namngivna konton i nära realtid. Lös svaga träffar och aktivera nya leads.
 title: Lead till kontomatchning
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Account Lists] - Marketo Docs - produktdokumentation'
+description: Lär dig mer om kontolistor och hur de grupperar namngivna konton för målinriktning. Skapa statiska listor eller dynamiska listor från CRM-kontovyer.
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

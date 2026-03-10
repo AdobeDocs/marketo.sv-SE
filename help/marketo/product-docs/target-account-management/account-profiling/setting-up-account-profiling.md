@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: Konfigurera kontoprofilering - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar kontoprofilering och skapar din idealiska kundprofilmodell i TAM. Kom igång med fliken Modell och bygg din första modell.
 title: Konfigurera kontoprofilering
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 3%
+source-wordcount: '176'
+ht-degree: 2%
 
 ---
 

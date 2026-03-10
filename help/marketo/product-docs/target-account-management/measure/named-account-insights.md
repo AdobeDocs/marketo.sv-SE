@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: Insikter om namngivna konton - Marketo Docs - produktdokumentation
+description: Lär dig mer om instrumentpanelen för namngivna konton och dess 360-gradersvy över målkonton. Visa engagemang, möjligheter, kontoteam och ICP-indikatorer.
 title: Insikter om namngivna konton
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---

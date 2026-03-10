@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385183
-description: TAM Sales Report - Marketo Docs - Product Documentation
+description: Läs mer om TAM Sales Report, ett veckovis e-postmeddelande med de viktigaste kontona och deras trender. Ta emot poäng, pipeline, sidvisningar och intressanta ögonblick.
 title: TAM-försäljningsrapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

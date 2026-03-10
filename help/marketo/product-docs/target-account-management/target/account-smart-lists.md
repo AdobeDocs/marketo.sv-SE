@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: Smarta kontolistor - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar smarta kontolistor för att identifiera värdefulla konton. Definiera konto- och personfilter och använd resultatet i kampanjer eller export.
 title: Smarta kontouppsättningar
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Välj önskade kontofilter. I det här exemplet är _[!UICONTROL Industry]&#x200B;[!UICONTROL Healthcare]_.
+1. Välj önskade kontofilter. I det här exemplet är _[!UICONTROL Industry][!UICONTROL Healthcare]_.
 
    ![](assets/account-smart-lists-7.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: Konfigurera Account Insight - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar Account Insight för säljteam. Konfigurera hur namngivna konton och engagerade personer prioriteras på fliken Försäljning.
 title: Ställ in kontoinsikter
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 2%
 
 ---
 

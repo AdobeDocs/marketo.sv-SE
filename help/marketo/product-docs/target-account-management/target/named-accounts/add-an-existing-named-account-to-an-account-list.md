@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615798
-description: Lägg till ett befintligt namngivet konto i en kontolista - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till ett befintligt namngivet konto i en kontolista. Använd åtgärder för namngivet konto och välj Lägg till i kontolistan med önskad lista.
 title: Lägg till ett befintligt namngivet konto i en kontolista
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

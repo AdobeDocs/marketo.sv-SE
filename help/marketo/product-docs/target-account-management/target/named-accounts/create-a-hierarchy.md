@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795734
-description: Skapa en hierarki - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en hierarki med ett namngivet konto manuellt när du inte använder en CRM. Länka konton till ett överordnat namngivet konto med hjälp av Gruppera efter hierarki.
 title: Skapa en hierarki
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---

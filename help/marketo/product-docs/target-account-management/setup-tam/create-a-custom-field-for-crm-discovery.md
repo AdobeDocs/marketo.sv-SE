@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12978647
-description: Skapa ett anpassat fält för CRM-identifiering - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett anpassat fält för namngivet konto, mappar det till din CRM och använder det i CRM-kontoidentifiering. Se mappade data i Identifiera CRM-rutnät.
 title: Skapa ett anpassat fält för CRM-identifiering
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

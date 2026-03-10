@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695924
-description: Rankning och justering av kontoprofilering - Marketo Docs - produktdokumentation
+description: Förstå hur kontoprofilering rangordnar företag efter ditt ICP och lägger till indikatordata till namngivna konton. Finjustera modellen och marknadsför kontona.
 title: Rankning och justering av kontoprofilering
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---
