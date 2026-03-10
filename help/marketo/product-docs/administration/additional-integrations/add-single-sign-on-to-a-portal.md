@@ -25,7 +25,7 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller **inte** för prenumerationer på Adobe Identity. Tidigare inställningar kan visas (från före IMS-migreringen), men de gäller inte längre. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller **inte** för prenumerationer på Adobe Identity. Tidigare inställningar kan visas (från före IMS-migreringen), men de gäller inte längre. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
