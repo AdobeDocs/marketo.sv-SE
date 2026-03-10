@@ -51,7 +51,7 @@ Så här identifierar du snabbt och korrekt dina värdefulla konton.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Välj önskade kontofilter. I det här exemplet är _[!UICONTROL Industry][!UICONTROL Healthcare]_.
+1. Välj önskade kontofilter. I det här exemplet är _[!UICONTROL Industry]&#x200B;[!UICONTROL Healthcare]_.
 
    ![](assets/account-smart-lists-7.png)
 
