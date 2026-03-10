@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571819
-description: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises) - Marketo Docs - produktdokumentation
+description: Lär dig hur du ansluter Marketo och Dynamics 2013 lokalt i det sista steget. Ange synkroniseringsanvändarinformation i Marketo Admin och aktivera synkroniseringen.
 title: Steg 3 av 3 - Connect Marketo and Dynamics (2013 On-Premises)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---

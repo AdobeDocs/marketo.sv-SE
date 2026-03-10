@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504770
-description: Visa URL för organisationstjänsten - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar URL:en för organisationstjänsten i Microsoft Dynamics. Använd Avancerade inställningar och Developer Resources för att kopiera URL:en för Marketo-synkroniseringskonfiguration.
 title: Visa URL för organisationstjänsten
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---

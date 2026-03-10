@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: Matcha programstatus och Salesforce Campaign-status före synkronisering - Marketo Docs - produktdokumentation
+description: Lär dig matcha Marketo programstatus med Salesforce kampanjmedlemmars status innan du synkroniserar. Åtgärda fel och mappa statusvärden så att programmen synkroniseras med kampanjer.
 title: Matcha programstatus och Salesforce Campaign-status före synkronisering
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

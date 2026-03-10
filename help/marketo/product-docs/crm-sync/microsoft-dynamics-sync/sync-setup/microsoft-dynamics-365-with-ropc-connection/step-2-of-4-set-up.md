@@ -1,11 +1,11 @@
 ---
-description: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+description: Lär dig hur du konfigurerar Marketo-lösningen med ROPC-anslutningen. Skapa synkroniseringsanvändaren i Dynamics och tilldela Marketo Sync-användarrollen för autentisering.
 title: Steg 2 av 4 - Konfigurera Marketo Solution med Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!IMPORTANT]
 >
->Språkinställningen för synkroniseringsanvändaren [&#x200B; ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Gå tillbaka till fliken [!UICONTROL Enabled Users] och uppdatera användarlistan.
 

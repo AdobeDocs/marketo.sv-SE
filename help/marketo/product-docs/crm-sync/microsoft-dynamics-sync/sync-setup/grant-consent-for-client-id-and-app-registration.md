@@ -1,11 +1,11 @@
 ---
-description: Bevilja samtycke för klient-ID och appregistrering - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner klient-ID och appregistrering som används för Dynamics-synkronisering. Bygg auktoriserings-URI och tilldela delegerade användarbehörigheter för synkroniseringsanvändaren.
 title: Bevilja samtycke för klient-ID och appregistrering
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Följ stegen nedan för att lära dig hur du beviljar nödvändigt medgivande/ti
 
    >[!NOTE]
    >
-   >Om du redan är inloggad på Azure som administratör på en annan flik måste du använda en annan webbläsare eller ett annat Incognito-läge för att logga in som synkroniseringsanvändare.
+   >Om du redan är inloggad på Azure som administratör på en annan flik måste du använda en annan webbläsare eller ett annat Incognito-läge för att logga in som Synkronisera användare.
 
 1. Klicka på **[!UICONTROL Accept]**.
 
@@ -71,9 +71,9 @@ Följ stegen nedan för att lära dig hur du beviljar nödvändigt medgivande/ti
 
 ## Bevilja samtycke för alla användare {#grant-consent-for-all-users}
 
-Som administratör kan du även godkänna ett programs delegerade behörigheter för alla användare i din klientorganisation. Administrativt samtycke förhindrar att dialogrutan för samtycke visas för varje användare i klienten och kan göras i Azure-portalen av användare med administratörsrollen. Lär dig vilka administratörsroller som kan [ge tillstånd till delegerade behörigheter här](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Som administratör kan du även godkänna ett programs delegerade behörigheter för alla användare i din klientorganisation. Administrativt samtycke förhindrar att dialogrutan för samtycke visas för alla användare i klienten och kan göras i Azure-portalen av användare med administratörsrollen. Lär dig vilka administratörsroller som kan [ge tillstånd till delegerade behörigheter här](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
-1. Gå till programmets startsida på din Azure-portal.
+1. Gå till programstartsidan på din Azure-portal.
 
 1. Klicka på [!UICONTROL Manage] under **[!UICONTROL API Permissions]**.
 

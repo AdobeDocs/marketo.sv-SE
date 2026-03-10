@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571807
-description: Steg 2 av 3 - Konfigurera Marketo Sync-användare i [!DNL Dynamics] (2011 On-Premises) - Marketo Docs - Produktdokumentation
+description: Lär dig hur du konfigurerar Marketo synkroniseringsanvändare lokalt i Dynamics 2011. Skapa användaren och tilldela Marketo Sync-användarrollen i Dynamics.
 title: Steg 2 av 3 - Konfigurera Marketo Sync-användare i  [!DNL Dynamics] (2011 On-Premises)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!IMPORTANT]
 >
->Språkinställningen för synkroniseringsanvändaren [&#x200B; ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Välj **[!UICONTROL Settings]** på den nedre vänstra menyn.
 

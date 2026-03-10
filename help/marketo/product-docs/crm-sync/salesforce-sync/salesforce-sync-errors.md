@@ -1,11 +1,11 @@
 ---
-description: Salesforce Sync Errors - Marketo Docs - Produktdokumentation
+description: Lär dig hur du visar och filtrerar Salesforce synkroniseringsfel i Marketo. Se fel på post- och jobbnivå och använd felinformation för att felsöka synkroniseringsproblem.
 title: Salesforce Sync-fel
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---

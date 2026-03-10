@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504739
-description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 of 3 - Marketo Docs - Product Documentation
+description: Lär dig hur du konfigurerar Marketo synkroniseringsanvändare för Dynamics 2015 lokalt. Skapa användaren och tilldela Marketo Sync-användarrollen i Dynamics.
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 2 of 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!IMPORTANT]
 >
->Språkinställningen för synkroniseringsanvändaren [&#x200B; ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Klicka på **[!UICONTROL Settings]** under **[!UICONTROL Security]**.
 

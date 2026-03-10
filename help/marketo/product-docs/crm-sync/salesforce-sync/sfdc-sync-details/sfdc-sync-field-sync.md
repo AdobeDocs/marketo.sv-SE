@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: SFDC Sync - Field Sync - Marketo Docs - produktdokumentation
+description: Läs om vilka Salesforce-fält som synkroniseras med Marketo och hur SFDC Type och isDeleted fungerar. Lägg till nya fält i Salesforce först så att de synkroniseras till Marketo automatiskt.
 title: SFDC Sync - fältsynkronisering
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

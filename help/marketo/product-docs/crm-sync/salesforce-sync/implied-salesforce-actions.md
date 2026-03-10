@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719304
-description: Underförstådda Salesforce-åtgärder - Marketo Docs - produktdokumentation
+description: Förstå vilka flödessteg i Salesforce som utlöser automatisk synkronisering av person till SFDC eller andra åtgärder. Lär dig reglerna för Lägg till i kampanj, Ändra ägare, Skapa aktivitet och Konvertera person.
 title: Underförstådda Salesforce-åtgärder
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719283
-description: Förstå Salesforce Sync - Marketo Docs - produktdokumentation
+description: Se hur Salesforce-synkroniseringen håller Marketo- och Salesforce-data synkroniserade. Se vad som synkroniseras och hur dubbelriktad synkronisering fungerar för leads och kontakter.
 title: Förstå Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---

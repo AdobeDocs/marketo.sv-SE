@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782944
-description: Gör Marketo Sync User a Marketing User - Marketo Docs - Product Documentation
+description: Lär dig hur du gör Marketo-synkroniseringsanvändare till marknadsföringsanvändare i Salesforce. Markera kryssrutan Marknadsförare så att synkroniseringen av Salesforce-kampanjer fungerar som den ska.
 title: Gör Marketo Sync User till marknadsföringsanvändare
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 0%
 
 ---
 

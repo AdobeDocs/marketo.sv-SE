@@ -1,12 +1,12 @@
 ---
-description: Aktivera kampanjsynkronisering - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar kampanjsynkronisering mellan Microsoft Dynamics och Marketo. Aktivera alternativet i Admin så att Marketo-program synkroniseras med Dynamics-kampanjer.
 title: Aktivera kampanjsynkronisering
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 

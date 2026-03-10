@@ -1,11 +1,11 @@
 ---
-description: Steg 1 av 4 - Installera Marketo Solution med Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+description: Lär dig hur du installerar Marketo-lösningen i Dynamics 365 med ROPC-anslutning. Importera lösningen från Office 365 och slutför installationen.
 title: Steg 1 av 4 - Installera Marketo Solution med Resource Owner Password Control Connection
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---

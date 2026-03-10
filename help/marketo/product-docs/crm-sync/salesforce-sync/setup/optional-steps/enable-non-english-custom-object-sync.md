@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719302
-description: Aktivera icke-engelsk anpassad objektsynkronisering - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar anpassad objektsynkronisering när Marketo-synkroniseringsanvändare använder ett icke-engelskt språk. Ställ in användarspråket för synkronisering på engelska i Salesforce och uppdatera schemat.
 title: Aktivera icke-engelsk anpassad objektsynkronisering
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---

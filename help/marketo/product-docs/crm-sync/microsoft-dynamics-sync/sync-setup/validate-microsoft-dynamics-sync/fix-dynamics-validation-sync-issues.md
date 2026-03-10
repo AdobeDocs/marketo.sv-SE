@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095429
-description: Åtgärda problem med synkronisering av Dynamics-validering - Marketo Docs - produktdokumentation
+description: Lär dig hur du åtgärdar problem med synkronisering av Dynamics-validering när verktyget Validera synkronisering rapporterar fel. Felsök URL:er, autentiseringsuppgifter, synkronisera användarroll och andra konfigurationssteg.
 title: Åtgärda problem med synkronisering av Dynamics-validering
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---

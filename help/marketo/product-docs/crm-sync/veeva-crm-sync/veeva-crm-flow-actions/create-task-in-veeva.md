@@ -1,11 +1,11 @@
 ---
-description: Skapa aktivitet i [!DNL Veeva] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar uppgifter i Veeva från Marketo för att informera säljarna om vad de ska göra och när. Använd steget Skapa uppgiftsflöde och anpassa ämne, beskrivning och förfallodatum.
 title: Skapa aktivitet i  [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

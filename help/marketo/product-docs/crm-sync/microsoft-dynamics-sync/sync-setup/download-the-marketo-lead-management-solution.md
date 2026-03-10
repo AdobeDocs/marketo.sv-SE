@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848922
-description: Ladda ned Marketo Lead Management Solution - Marketo Docs - produktdokumentation
+description: Lär dig hur du hämtar Marketo Lead Management-lösningen för Microsoft Dynamics.
 title: Ladda ned Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '100'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719294
-description: Synkronisera anpassade aktiviteter - Marketo Docs - Produktdokumentation
+description: Lär dig hur du anpassar vilka aktiviteter som Marketo skickar till Salesforce. Aktivera aktivitetstyper i Admin- och Sync-alternativ för att skapa Salesforce-aktivitetshistorik från händelser.
 title: Synkronisera anpassade aktiviteter
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---

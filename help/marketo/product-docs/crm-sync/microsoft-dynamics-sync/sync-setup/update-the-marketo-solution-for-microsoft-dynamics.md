@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6849029
-description: Uppdatera Marketo-lösningen för  [!DNL Microsoft Dynamics] - Marketo Docs - produktdokumentation
+description: Lär dig hur du uppdaterar Marketo lösning för Microsoft Dynamics. Hämta den senaste lösningen från Admin och importera den över den befintliga versionen i Dynamics.
 title: Uppdatera Marketo-lösningen för  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---

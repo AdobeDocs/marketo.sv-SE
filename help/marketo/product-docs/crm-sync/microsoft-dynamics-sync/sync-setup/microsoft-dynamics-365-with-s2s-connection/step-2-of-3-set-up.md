@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection - Marketo Docs - Produktdokumentation
+description: Lär dig hur du konfigurerar Marketo-lösningen med Server till Server-anslutning för Dynamics 365. Skapa en klientapp i Azure AD och ge tillstånd till synkroniseringsanvändaren.
 title: Steg 2 av 3 - Konfigurera Marketo Solution med Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 För federerade [!DNL Azure AD] till [!DNL ADFS Onprem] måste en identifieringsprincip för hemsfär skapas för det specifika programmet. Med den här principen omdirigerar [!DNL Azure AD] autentiseringsbegäran till federationstjänsten. Synkronisering av lösenordshash måste aktiveras i [!DNL AD Connect] för detta. Mer information finns i [[!DNL OAuth] med [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) och [Ange en tredje princip för ett program](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=Denna%20rapport%20innehåller även%20federerade%20är%20federerade%20till%20Azure%20AD.){target="_blank"}.
+Ytterligare referenser [finns här](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Konfigurera Marketo Solution {#configure-marketo-solution}
 

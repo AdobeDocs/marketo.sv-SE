@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: Ange ett standardprefix för anpassat fält - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in standardprefixet för anpassade fält på nytt i Microsoft Dynamics. Använd inställningar och anpassningar så att Marketo egna fält synkroniseras korrekt.
 title: Ange ett standardprefix för anpassat fält
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571830
-description: Steg 3 av 3 - Ansluta Marketo-lösningen med Server to Server Connection - Marketo Docs - Produktdokumentation
+description: Lär dig hur du ansluter Marketo-lösningen till Dynamics 365 med Server till Server-anslutning. Ange synkroniseringsanvändarinformation i Marketo Admin och validera innan du aktiverar synkronisering.
 title: Steg 3 av 3 - Ansluta Marketo Solution med Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---

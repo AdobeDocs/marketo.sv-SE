@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983390
-description: Registrera en app med Azure för att hämta ditt klient-ID/program-ID - Marketo Docs - produktdokumentation
+description: Lär dig hur du registrerar ett program hos Azure för att synkronisera ditt klient-ID och program-ID för Dynamics. Använd Azure Active Directory och App-registreringar för autentisering.
 title: Registrera en app med Azure för att hämta ditt klient-ID/program-ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory utökar dina lokala kataloger till molnet, vilket ger st�
 
 ## Registrera en ny app {#registering-a-new-app}
 
-1. [Logga in](https://login.microsoftonline.com/){target="_blank"} på Microsoft Azure-hanteringsportalen med ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att expandera **[!UICONTROL Admin]**-objektet i den vänstra navigeringsrutan och välja **[!UICONTROL Azure AD]**.
+1. [Logga in](https://login.microsoftonline.com/){target="_blank"} på Microsoft Azure hanteringsportal med ett konto med administratörsbehörighet. Du kan även komma åt Microsoft Azure-portalen via administrationscentret för Office 365 genom att expandera **[!UICONTROL Admin]**-objektet i den vänstra navigeringsrutan och välja **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >

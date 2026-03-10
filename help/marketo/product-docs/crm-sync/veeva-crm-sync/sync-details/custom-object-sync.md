@@ -1,13 +1,13 @@
 ---
-description: Synkronisering av anpassade objekt - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar anpassad objektsynkronisering från Veeva CRM till Marketo Engage. Aktivera anpassade objekt i Admin och använd dem i Smarta listor och utlösare.
 title: Synkronisering av anpassat objekt
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719308
-description: Lägg till ett befintligt Salesforce-fält i Marketo Sync - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett befintligt Salesforce-fält i Marketo-synkroniseringen. Gör fältet synligt för synkroniseringsanvändaren i Salesforce så att det synkroniseras i nästa cykel.
 title: Lägg till ett befintligt Salesforce-fält i Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Produktdokumentation
+description: Läs mer om Dynamics-synkroniseringsfiltret Kvalificera process när du konverterar ett lead till en kontakt. Förstå hur filtervärden för lead- och kontaktsynkronisering påverkar Marketo-synkroniseringen.
 title: Microsoft Dynamics Sync-filter -Kvalificera
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

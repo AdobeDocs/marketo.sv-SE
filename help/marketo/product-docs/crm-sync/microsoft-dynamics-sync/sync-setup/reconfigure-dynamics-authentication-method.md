@@ -1,11 +1,11 @@
 ---
-description: Konfigurera om  [!DNL Dynamics] autentiseringsmetod - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar om autentiseringsmetoden Dynamics i Marketo. Inaktivera synkronisering, använd Konfigurera om ny autentiseringsmetod och validera autentiseringsuppgifter för webb-API eller ROPC.
 title: 'Konfigurera om autentiseringsmetoden  [!DNL Dynamics] '
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Följ stegen nedan för att uppdatera din [!DNL Dynamics]-autentiseringsmetod.
 
 >[!PREREQUISITES]
 >
->Konfigurera programmet i [!DNL Microsoft Dynamics] och den aktiva katalogen (Azure AD/ADFS) med önskad autentiseringsmetod från någon av följande artiklar:
+>Konfigurera programmet i [!DNL Microsoft Dynamics] och den aktiva katalogen (Azure AD/ADFS) med den autentiseringsmetod du vill använda från någon av följande artiklar:
 >
 >* [Steg 2 av 3: Konfigurera Marketo Solution med Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [Steg 2 av 4: Konfigurera Marketo-lösningen med Resursägarens lösenordskontrollanslutning](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

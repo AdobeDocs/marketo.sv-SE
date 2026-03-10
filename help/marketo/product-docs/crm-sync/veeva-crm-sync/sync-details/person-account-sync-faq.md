@@ -1,11 +1,11 @@
 ---
-description: Synkronisering av personkonto - frågor och svar - Marketo Docs - produktdokumentation
+description: Få hjälp med synkronisering av personkonton mellan Marketo Engage och Veeva CRM. Lär dig hur personkonton synkroniseras som företag och personer och använder filtret Är personkonto.
 title: Vanliga frågor om synkronisering av personkonto
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---

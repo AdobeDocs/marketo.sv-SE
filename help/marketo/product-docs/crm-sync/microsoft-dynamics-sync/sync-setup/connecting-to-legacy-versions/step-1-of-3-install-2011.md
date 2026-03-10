@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: Steg 1 av 3 - Installera Marketo Solution (2011 On-Premises) - Marketo Docs - produktdokumentation
+description: Lär dig installera Marketo-lösningen för Dynamics 2011 lokalt. Importera lösningen och slutför installationsstegen i Dynamics.
 title: Steg 1 av 3 - Installera Marketo Solution (On-Premises 2011)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '260'
 ht-degree: 1%
 
 ---

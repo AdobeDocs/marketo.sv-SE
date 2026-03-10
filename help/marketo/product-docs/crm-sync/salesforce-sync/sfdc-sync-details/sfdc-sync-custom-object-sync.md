@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953471
-description: SFDC Sync - Sync Custom Object Sync - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar anpassad objektsynkronisering från Salesforce till Marketo. Aktivera anpassade objekt och använd dem i smarta listor, utlösare och kampanjer.
 title: SFDC Sync - anpassad objektsynkronisering
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---

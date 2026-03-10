@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin-versioner för  [!DNL Microsoft Dynamics] - Marketo Docs - produktdokumentation
+description: Läs mer om Marketo pluginreleaser för Microsoft Dynamics. Hitta versionshistorik och ladda ned den senaste Marketo-lösningen för din Dynamics-instans.
 title: Marketo Plugin-versioner för  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När du först synkroniserar till [!DNL Microsoft Dynamics] hämtar du den senaste versionen av plugin-programmen för Marketo. Marketo uppdaterar regelbundet dessa plugin-program så att du kan gå tillbaka till samma ställe och ladda ned den nya versionen.
 
-[Hämta det senaste plugin-programmet &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) som motsvarar din [!DNL Dynamics]-version.
+[Hämta det senaste plugin-programmet ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) som motsvarar din [!DNL Dynamics]-version.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 

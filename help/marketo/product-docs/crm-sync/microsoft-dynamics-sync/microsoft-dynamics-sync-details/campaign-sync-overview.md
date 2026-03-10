@@ -1,11 +1,11 @@
 ---
-description: Kampanjsynkronisering - Marketo Docs - produktdokumentation
+description: Läs om kampanjsynkronisering mellan Microsoft Dynamics och Marketo. Använd Lägg till i Microsoft Campaign och Ta bort från Microsoft Campaign för att flöda åtgärder och utlösare.
 title: Kampanjsynkronisering - översikt
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099102
-description: Plugin-versioner för  [!DNL Microsoft Dynamics] MSI - Marketo Docs - produktdokumentation
+description: Läs mer om plugin-program för Microsoft Dynamics MSI. Hitta versionshistorik och ladda ned den senaste Marketo-lösningen för din Dynamics-version.
 title: Plug-in-versioner för  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---

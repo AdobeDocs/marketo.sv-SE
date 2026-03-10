@@ -1,11 +1,11 @@
 ---
-description: Salesforce Sync Backlog Metrics - Marketo Docs - produktdokumentation
+description: Lär dig mer om statistik för Salesforce-synkronisering av eftersläpning och hur du övervakar poster som väntar på synkronisering. Se trender för eftersläpning och genomströmning efter objekttyp i Admin och Salesforce.
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,9 @@ När en stor mängd uppdateringar görs (till exempel när ett fältvärde ändr
 
 **Fält som uppdateras ofta**: Vissa fält har ofta uppdaterats. Till exempel valutafält som är föremål för valutaändringar. Granska om de behöver synkroniseras eller om fälten ska utformas på ett annat sätt. Om du har andra fält som uppdateras ofta och inte behövs döljer du dem för synkroniseringsanvändaren. Diskutera med era SFDC-administratörsintegreringar som kanske uppdaterar fält.
 
-**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
+**Anpassade objekt**: Granska [anpassade objekt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} regelbundet och aktivera synkronisering och inaktivera objekt som inte längre behöver synkroniseras.
 
-**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
+**Aktiviteter**: [Granska om några aktiviteter](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} har aktiverat synkronisering som kan tas bort från synkroniseringen.  De här aktiviteterna synkroniseras bara en gång per dag och lead.
 
 **Granska synkroniseringsfel**: Undantagshantering kan göra synkroniseringen långsammare. Att granska användarmeddelanden och åtgärda fel kan förbättra synkroniseringshälsan.
 

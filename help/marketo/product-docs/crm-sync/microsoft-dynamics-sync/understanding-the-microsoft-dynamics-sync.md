@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098625
-description: Förstå  [!DNL Microsoft Dynamics] synkronisering - Marketo Docs - produktdokumentation
+description: Läs om hur Microsoft Dynamics-synkroniseringen håller Marketo- och Dynamics-data synkroniserade. Se vad som synkroniseras och hur dubbelriktad synkronisering fungerar för leads och kontakter.
 title: Förstå Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---

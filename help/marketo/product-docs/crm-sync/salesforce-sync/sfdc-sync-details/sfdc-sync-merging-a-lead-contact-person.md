@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: SFDC Sync - sammanfoga en lead/kontakt/person - Marketo Docs - produktdokumentation
+description: Förstå hur sammanfogning av leads, kontakter och personer i Salesforce och Marketo fungerar. Lär dig sammanfogningsregler för bakgrundsmusik, fältvärden och aktivitetsloggar.
 title: SFDC Sync - sammanfoga en lead/kontakt/person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---

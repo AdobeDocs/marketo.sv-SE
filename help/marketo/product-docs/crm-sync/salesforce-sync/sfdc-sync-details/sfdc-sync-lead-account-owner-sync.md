@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953463
-description: SFDC Sync - synkronisering av lead-/kontoägare - Marketo Docs - produktdokumentation
+description: Läs om hur lead- och kontoägarfält synkroniseras från Salesforce till Marketo. Ändra huvudägare i Marketo och använd ägardata i flödesåtgärder och smarta listor.
 title: SFDC Sync - synkronisering av lead-/kontoägare
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---

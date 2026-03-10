@@ -1,11 +1,11 @@
 ---
-description: Installera Marketo för [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3 - Marketo Docs - produktdokumentation
+description: Lär dig ansluta Marketo till Dynamics 2016 eller Dynamics 365 lokalt i steg 3. Ange synkroniseringsinloggningsuppgifter i Marketo Admin och aktivera synkroniseringen.
 title: Installera Marketo för  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Steg 3 av 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---

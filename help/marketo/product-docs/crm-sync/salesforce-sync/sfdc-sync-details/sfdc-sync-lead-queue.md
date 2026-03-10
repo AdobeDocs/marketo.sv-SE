@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7516241
-description: SFDC Sync - lead queue - Marketo Docs - produktdokumentation
+description: Läs om hur du tilldelar personer till Salesforce ledköer från Marketo. Använd Synkronisera person till SFDC eller Ändra ägarflödesåtgärder för lead-distribution.
 title: SFDC Sync - lead-kö
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

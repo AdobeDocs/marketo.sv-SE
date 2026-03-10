@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571809
-description: Steg 3 av 3 - Connect [!DNL Microsoft Dynamics] med Marketo (2011 On-Premises) - Marketo Docs - produktdokumentation
+description: Lär dig hur du ansluter Microsoft Dynamics 2011 lokalt med Marketo i det sista steget. Ange synkroniseringsanvändarinformation i Marketo Admin och aktivera synkroniseringen.
 title: Steg 3 av 3 - Anslut [!DNL Microsoft Dynamics] med Marketo (lokal version 2011)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---

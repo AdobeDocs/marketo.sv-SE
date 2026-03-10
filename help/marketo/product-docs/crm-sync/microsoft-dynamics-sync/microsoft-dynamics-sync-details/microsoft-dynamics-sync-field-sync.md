@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Produktdokumentation
+description: Läs om hur fältsynkronisering fungerar mellan Microsoft Dynamics och Marketo. Förstå dubbelriktad synkronisering för leads och kontakter och enkelriktad synkronisering för andra enheter.
 title: Microsoft Dynamics Sync -Field Sync
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

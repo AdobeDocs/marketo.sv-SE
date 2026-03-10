@@ -1,11 +1,11 @@
 ---
-description: Steg 2 av 3 - Skapa en [!DNL Veeva] CRM-användare för Marketo Engage - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skapar en veeva CRM-användare för Marketo Engage-synkronisering. Ange sidlayout, skapa synkroniseringsanvändare och tilldela behörigheter för fältuppdateringar.
 title: Steg 2 av 3 - Skapa en veeva CRM-användare för Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---

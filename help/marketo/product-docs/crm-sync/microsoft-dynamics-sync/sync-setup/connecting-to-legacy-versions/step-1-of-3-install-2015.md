@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504736
-description: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 of 3 - Marketo Docs - Product Documentation
+description: Lär dig hur du installerar Marketo-lösningen för Dynamics 2015 lokalt. Importera lösningen och slutför installationsstegen i Dynamics.
 title: Installera Marketo för Microsoft Dynamics 2015 On-Premises Step 1 of 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---

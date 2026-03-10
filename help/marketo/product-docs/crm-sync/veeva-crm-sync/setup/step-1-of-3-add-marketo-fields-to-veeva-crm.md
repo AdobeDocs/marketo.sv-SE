@@ -1,11 +1,11 @@
 ---
-description: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till Marketo-fält i Veeva CRM innan du ansluter. Skapa bakgrundsmusiken och valfria marknadsföringsfält för kontaktobjekt i Veeva.
 title: Steg 1 av 3 - Lägg till Marketo-fält i [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---

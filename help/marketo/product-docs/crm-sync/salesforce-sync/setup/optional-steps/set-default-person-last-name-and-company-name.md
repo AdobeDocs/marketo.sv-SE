@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719291
-description: Ange standardperson, efternamn och företagsnamn - Marketo Docs - produktdokumentation
+description: Lär dig hur du anger standardnamn för efternamn och företagsnamn för Salesforce-synkronisering. Använd administratörs- och synkroniseringsalternativen så att partiella poster synkroniseras med standardvärden.
 title: Ange standardpersonens efternamn och företagsnamn
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

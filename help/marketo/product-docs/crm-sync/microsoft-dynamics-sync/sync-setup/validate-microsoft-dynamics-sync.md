@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783322
-description: Verifiera [!DNL Microsoft Dynamics] synkronisering - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör verktyget Validera synkronisering för att verifiera din Microsoft Dynamics- och Marketo-konfiguration. Kontrollera checklistan i sju steg i Admin innan du skapar den slutliga anslutningen.
 title: Verifiera [!DNL Microsoft Dynamics] synkronisering
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
