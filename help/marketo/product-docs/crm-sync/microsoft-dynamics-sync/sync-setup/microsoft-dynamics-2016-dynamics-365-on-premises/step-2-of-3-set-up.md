@@ -74,7 +74,7 @@ Tilldela endast Marketo Sync User-rollen till Marketo sync-användaren. Du behö
 
 >[!IMPORTANT]
 >
->Språkinställningen för synkroniseringsanvändaren [ ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>Språkinställningen för synkroniseringsanvändaren [&#x200B; ska anges till engelska](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Klicka på **[!UICONTROL Settings]** under **[!UICONTROL Security]**.
 
