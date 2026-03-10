@@ -3,9 +3,9 @@ description: Agent Inbox - Marketo Docs - produktdokumentation
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ I det övre högra hörnet av skärmen Agent Inbox kan du ange att din status ä
 >
 >Inga aktiva chattar påverkas om du anger att din status är otillgänglig.
 
-## Live Chat-meddelanden {#live-chat-notifications}
+## Live Chatt-meddelanden {#live-chat-notifications}
 
 Läs mer om meddelanden i [Live Chat-översikten](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
@@ -116,6 +116,12 @@ Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en
 
    ![](assets/agent-inbox-16.png)
 
+## Hämta transkript {#download-transcript}
+
+När en live-chatt avslutas klickar du på knappen **Hämta utskrift** längst ned i chattfönstret och en .txt-fil av konversationen hämtas automatiskt till mappen Hämtningar.
+
+![](assets/agent-inbox-17.png)
+
 ## Samtalssammanfattning {#conversation-summary}
 
 >[!NOTE]
@@ -124,7 +130,7 @@ Längst ned i chattfönstret finns en ikon som gör att du kan dela din eller en
 
 Samtalssammanfattning genererar en snabb sammanfattning för dig i realtid, inklusive ämnen som besökaren har uttryckt intresse för. Den finns längst ned till höger på alla chattskärmar.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
