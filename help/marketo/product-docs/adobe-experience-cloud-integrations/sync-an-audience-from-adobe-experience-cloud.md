@@ -1,11 +1,11 @@
 ---
-description: Synkronisera en målgrupp från Adobe Experience Cloud - Marketo Docs - Produktdokumentation
+description: Lär dig synka en målgrupp från Adobe Experience Cloud till Marketo Engage. Hämta målgrupper från Audience Library till Marketo-databasen för användning i kampanjer och program.
 title: Synkronisera en publik från Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 När cookie-synkronisering är aktiverat för din Marketo-prenumeration försöker Marketo munchkin.js att hämta och lagra Adobe ECID:n för den Adobe IMS-organisation som du angav under integreringsinställningen och matcha dessa ECID:n med motsvarande Marketo cookie-identifierare. Detta gör att Marketo anonyma användarprofiler kan berikas med Adobe ECID:n.
 
-Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett vanligt e-postmeddelande. Exakt hur detta fungerar [&#x200B; beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Ytterligare ett steg krävs för att koppla den anonyma användarprofilen till en lead-profil, som identifieras med ett vanligt e-postmeddelande. Exakt hur detta fungerar [ beskrivs här](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Varför skiljer sig liststorleken i Marketo från den i Adobe?**
 

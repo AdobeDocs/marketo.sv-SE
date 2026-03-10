@@ -1,11 +1,11 @@
 ---
-description: Adobe Experience Cloud Integrations Overview - Marketo Docs - produktdokumentation
+description: Läs om Adobe Experience Cloud integrering med Marketo Engage, inklusive synkning av målgrupper och Audience Manager. Konfigurera integreringar och frigöra efterfrågad marknadsföring inom B2B för olika Adobe-appar.
 title: Adobe Experience Cloud Integrations - översikt
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
