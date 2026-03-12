@@ -6,9 +6,9 @@ description: Lär dig hur du skapar och använder visuella innehållsfragment so
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1902'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ Eftersom ett fragment som för närvarande används av en e-post- eller e-postma
 Du kan ta bort ett fragment på något av följande sätt:
 
 * Klicka på **[!UICONTROL Delete]** från fragmentinformationen till höger.
-* Klicka på ellipsen bredvid fragmentet på listsidan _[!UICONTROL Fragments]_&#x200B;och välj **[!UICONTROL Delete]**.
+* Klicka på ellipsen bredvid fragmentet på listsidan _[!UICONTROL Fragments]_och välj **[!UICONTROL Delete]**.
 
 Åtgärden öppnar en bekräftelsedialogruta. Du kan avbryta processen genom att klicka på **[!UICONTROL Cancel]** eller klicka på **[!UICONTROL Delete]** för att bekräfta borttagningen.
 
@@ -190,7 +190,7 @@ Du kan ta bort ett fragment på något av följande sätt:
 
 >[!TAB Utkast]
 
-1. Klicka på fragmentnamnet på listsidan _[!UICONTROL Fragments]_&#x200B;för att öppna det.
+1. Klicka på fragmentnamnet på listsidan _[!UICONTROL Fragments]_för att öppna det.
 
    En förhandsgranskning av det visuella innehållet visas, med fragmentinformationen till höger.
 
@@ -206,7 +206,7 @@ Du kan ta bort ett fragment på något av följande sätt:
 
 >[!TAB Publicerad]
 
-1. Klicka på fragmentnamnet på listsidan _[!UICONTROL Fragments]_&#x200B;för att öppna det.
+1. Klicka på fragmentnamnet på listsidan _[!UICONTROL Fragments]_för att öppna det.
 
    En förhandsgranskning av det visuella innehållet visas, med fragmentinformationen till höger.
 
@@ -258,7 +258,7 @@ Så här uppdaterar du innehållet:
 
 Du kan duplicera ett fragment på något av följande sätt:
 
-* Klicka på ikonen _[!UICONTROL Fragments]_&#x200B;Mer_ (_..**) bredvid fragmentnamnet på listsidan**&#x200B;och välj **[!UICONTROL Duplicate]**.
+* Klicka på ikonen _[!UICONTROL Fragments]_Mer_ (_..**) bredvid fragmentnamnet på listsidan**och välj **[!UICONTROL Duplicate]**.
 * Klicka på **[!UICONTROL ... More]** längst upp till höger på sidan med fragmentinformation och välj **[!UICONTROL Duplicate]**.
 
 ![Duplicera fragmentet](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -299,9 +299,9 @@ Fragmentets innehåll uppdateras dynamiskt i strukturen för att återge hur inn
 
 >[!TIP]
 >
->Om du vill att fragmentet ska uppta hela den vågräta layouten i e-postmeddelandet lägger du till en [!UICONTROL 1:1 kolumn &#x200B;]-struktur och drar och släpper fragmentet i den.
+>Om du vill att fragmentet ska uppta hela den vågräta layouten i e-postmeddelandet lägger du till en [!UICONTROL 1:1 kolumn ]-struktur och drar och släpper fragmentet i den.
 
-När e-post-/e-postmallen har sparats visas den på fragmentinformationssidan när fliken _[!UICONTROL Used By]_&#x200B;har valts. Tillagda fragment kan inte redigeras i e-postmeddelandet eller mallen. Det publicerade källfragmentet definierar innehållet.
+När e-post-/e-postmallen har sparats visas den på fragmentinformationssidan när fliken _[!UICONTROL Used By]_har valts. Tillagda fragment kan inte redigeras i e-postmeddelandet eller mallen. Det publicerade källfragmentet definierar innehållet.
 
 ## Fragmentåtgärder vid e-post- och mallutveckling {#fragment-actions-during-email-and-template-authoring}
 
@@ -312,6 +312,10 @@ När ett fragment läggs till i en e-postmall eller e-postmall kan dess innehål
 * **[!UICONTROL Duplicate]** - Detta duplicerar fragmentet i samma e-postadress eller e-postmall i redigeraren. Det duplicerade fragmentet läggs till precis nedanför originalet.
 * **[!UICONTROL Open Fragment]** - Då öppnas en ny webbläsarflik med fragmentredigeringssidan och information.
 * **[!UICONTROL Break inheritance]** - Detta bryter arvet av fragmentet (och dess ändringar) från källan. Använd den här åtgärden om du vill göra fragmentinnehållet tillgängligt som oberoende och redigerbart innehåll i e-post- eller e-postmallen. Den här åtgärden tar också bort e-post- eller e-postmallen från referensen _Används av_ för det ursprungliga fragmentet.
+
+>[!NOTE]
+>
+>Om _Synkronisering med HTML_ är inaktiverat i e-postmeddelandet återspeglas inte ändringar som gjorts (inklusive att bryta arv) i textinnehållet.
 
 När du markerar fragmentet på redigeringssidan är de här åtgärderna tillgängliga från kontextverktygsfältet och egenskapspanelen till höger.
 
