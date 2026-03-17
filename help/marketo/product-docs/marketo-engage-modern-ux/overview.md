@@ -1,11 +1,11 @@
 ---
-description: Marketo Engage Modern UX Overview - Marketo Docs - produktdokumentation
+description: Läs om Marketo Engage Modern UX och dess uppdaterade gränssnitt med förbättrad användarvänlighet och ett nytt utseende och känsla.
 title: Marketo Engage Modern UX - översikt
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '452'
 ht-degree: 1%
 
 ---

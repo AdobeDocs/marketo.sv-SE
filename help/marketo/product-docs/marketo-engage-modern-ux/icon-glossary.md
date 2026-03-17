@@ -1,13 +1,13 @@
 ---
-description: Ikonordlista - Marketo Docs - produktdokumentation
+description: Lär dig mer om ikonerna i Marketo Engage Modern UX och hur de mappas från Classic. Använd den här ordlistan för att identifiera tillgångstyper, kampanjtillstånd och programtyper.
 title: Ikonordlista
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '261'
 ht-degree: 5%
 
 ---
@@ -408,7 +408,7 @@ Nedan visas ikonerna för det nya Adobe Marketo Engage-gränssnittet. Om du beh�
  </tbody>
 </table>
 
-## Assets {#assets}
+## Resurser {#assets}
 
 <table>
  <tbody>

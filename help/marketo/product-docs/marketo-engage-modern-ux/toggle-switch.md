@@ -1,11 +1,13 @@
 ---
-description: Växla - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder växlingsknappen för att växla mellan Marketo Classic och Modern UX. Konfigurera åtkomst för roller i Admin och aktivera den för enskilda eller alla funktioner.
 title: Växla av/på
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
