@@ -16,7 +16,7 @@ Interactive Webinars in Marketo Sales Insight gör dina webbinarier tillgänglig
 
 >[!PREREQUISITES]
 >
->Den här funktionen stöds bara för dem som har köpt tillägget [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html).
+>Den här funktionen stöds bara för dem som har köpt tillägget [Marketo Sales Insight](https://business.adobe.com/se/products/marketo/sales-intelligence-engagement.html).
 
 När aktiviteterna registreras i Marketo Engage (när webbinariet har slutförts i Adobe Connect) synkroniseras de i realtid till Salesforce via MSI-pluginen.
 

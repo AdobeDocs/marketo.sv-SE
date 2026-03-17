@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 11C {#template-11c}
 
-Högerklicka för att [hämta mall 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+Högerklicka för att [hämta mall 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=sv-SE)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -26,4 +26,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[Mall 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=sv-SE)

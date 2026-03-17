@@ -141,4 +141,4 @@ Välj **Använd** om du vill spara ändringarna eller **Återställ till standar
 
 * Värdar kan välja teman när de skapar rum eller uppdatera dem senare från informationssidan för rum (**Room top bar** > **More menu** > **View room information**).
 
-Läs mer om [Teman](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Läs mer om [Teman](https://helpx.adobe.com/se/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

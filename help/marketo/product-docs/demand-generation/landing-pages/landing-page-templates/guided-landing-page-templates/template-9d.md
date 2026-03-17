@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 9D {#template-9d}
 
-Högerklicka för att [hämta mall 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Högerklicka för att [hämta mall 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=sv-SE)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[Template 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=sv-SE)

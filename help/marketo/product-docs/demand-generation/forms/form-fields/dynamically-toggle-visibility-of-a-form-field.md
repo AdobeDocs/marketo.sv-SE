@@ -69,6 +69,6 @@ Och det är allt! När man fyller i blanketten och väljer USA som land visas f�
 
 >[!IMPORTANT]
 >
->Formulärfältets beteende fungerar sömlöst när fältvärden anges/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
+>Formulärfältets beteende fungerar sömlöst när fältvärden anges/uppdateras via anpassade skript med [API-funktioner](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} i Forms 2.0.
 >
 >Villkorliga fält kanske inte fungerar som förväntat om fältvärdena ändras av andra externa skript än Forms 2.0 JavaScript API.

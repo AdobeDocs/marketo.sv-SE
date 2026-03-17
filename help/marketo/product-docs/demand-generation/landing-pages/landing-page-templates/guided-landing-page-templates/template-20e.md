@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mall 20E {#template-20e}
 
-Högerklicka för att [hämta mall 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Högerklicka för att [hämta mall 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=sv-SE)
 
 ![](assets/template-20e.png)
 
@@ -28,4 +28,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=sv-SE)

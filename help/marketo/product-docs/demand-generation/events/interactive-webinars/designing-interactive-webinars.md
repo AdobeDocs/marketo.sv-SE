@@ -76,9 +76,9 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
 **Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar och Frågor och svar.
 
-      **Undersökningsruta**: Gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt i en livesession. Survey Pod (enkät-Pod) ger fler möjligheter att presentera olika frågor samtidigt, vilket ger ett effektivare och mer sammanhängande sätt att samla in deltagarnas insikter. [Läs mer](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Undersökningsruta**: Gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt i en livesession. Survey Pod (enkät-Pod) ger fler möjligheter att presentera olika frågor samtidigt, vilket ger ett effektivare och mer sammanhängande sätt att samla in deltagarnas insikter. [Läs mer](https://helpx.adobe.com/se/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Resurspanel**: Ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner. [Läs mer](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Resurspanel**: Ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner. [Läs mer](https://helpx.adobe.com/se/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
