@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949844
-description: Skapa ett nytt händelseprogram - Marketo Docs - produktdokumentation
+description: Lär dig skapa ett nytt eventprogram i Marketo. Konfigurera ditt program, välj en kanal och konfigurera händelseinställningar.
 title: Skapa ett nytt händelseprogram
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359734
-description: Förhandsgranska en landningssida med dynamiskt innehåll - Marketo Docs - produktdokumentation
+description: Lär dig förhandsgranska en landningssida med dynamiskt innehåll i Marketo. Se hur innehållet ändras för olika segment.
 title: Förhandsgranska en landningssida med dynamiskt innehåll
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

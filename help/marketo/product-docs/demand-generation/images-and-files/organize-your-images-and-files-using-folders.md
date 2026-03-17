@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359880
-description: Ordna dina bilder och filer med hjälp av mappar - Marketo Docs - Produktdokumentation
+description: Lär dig organisera bilder och filer med hjälp av mappar i Marketo. Skapa mappar i Design Studio för att hålla ordning på materialet.
 title: Ordna dina bilder och filer med hjälp av mappar
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

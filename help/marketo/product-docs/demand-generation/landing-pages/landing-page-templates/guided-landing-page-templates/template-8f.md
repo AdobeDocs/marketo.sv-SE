@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783975
-description: Mall 8F - Marketo Docs - produktdokumentation
+description: Lär dig mer om den guidade mallen för landningssidor i mall 8F. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Mall 8F {#template-8f}
 
-Högerklicka för att [hämta mall 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=sv-SE)
+Högerklicka för att [hämta mall 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=sv-SE)
+[Template 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

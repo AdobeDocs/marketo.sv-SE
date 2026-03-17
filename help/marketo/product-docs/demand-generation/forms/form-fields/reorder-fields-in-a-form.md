@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359592
-description: Ändra ordning på fält i ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar ordning på fält i ett Marketo-formulär. Dra och släpp för att ändra ordningen på formulärfält.
 title: Ändra ordning på fält i ett formulär
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---

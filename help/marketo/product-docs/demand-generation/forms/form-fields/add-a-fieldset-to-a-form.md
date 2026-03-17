@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359594
-description: Lägg till en fältuppsättning i ett formulär - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till en fältuppsättning i ett Marketo-formulär. Gruppera relaterade fält tillsammans med en rubrik för bättre layout.
 title: Lägga till en FieldSet i ett formulär
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

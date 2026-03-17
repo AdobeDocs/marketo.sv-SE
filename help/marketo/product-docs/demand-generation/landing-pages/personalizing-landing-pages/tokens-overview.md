@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950799
-description: Översikt över token - Marketo Docs - produktdokumentation
+description: Lär dig mer om tokens för anpassning av Marketo landningssidor. Använd variabler för att infoga dynamiskt innehåll och personalisera upplevelsen.
 title: Översikt över token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---

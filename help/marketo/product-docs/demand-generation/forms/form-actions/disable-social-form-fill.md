@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098242
-description: Inaktivera ifyllning av sociala formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du inaktiverar ifyllning av sociala formulär i ett Marketo-formulär. Inaktivera alternativet för besökare att skicka in via sitt sociala nätverk.
 title: Inaktivera ifyllning av sociala formulär
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---

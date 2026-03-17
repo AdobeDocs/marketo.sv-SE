@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472283
-description: Anpassa mobilvyn för din startsida med kostnadsfria formulär - Marketo Docs - Produktdokumentation
+description: Lär dig hur du anpassar mobilvyn för en landningssida utan formulär i Marketo. Justera layout och innehåll för mobilbesökare.
 title: Anpassa mobilvyn för din startsida med kostnadsfria formulär
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---

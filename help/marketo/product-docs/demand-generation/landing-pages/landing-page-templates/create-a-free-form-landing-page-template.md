@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097969
-description: Skapa en mall för landningssida i fri form - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skapar en landningssidmall i fri form i Marketo. Skapa en återanvändbar mall i Design Studio för framtida landningssidor.
 title: Skapa en mall för landningssida i fri form
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

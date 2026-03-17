@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: Skapa underordnade kampanjer och lokala Assets - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar underordnade kampanjer och lokala resurser för ON24-händelser i Marketo. Ordna program för olika regioner och språk.
 title: Skapa underordnade kampanjer och lokala Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '661'
 ht-degree: 1%
 
 ---

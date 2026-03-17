@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980661
-description: Lägg till Google kundmatchning som en [!DNL LaunchPoint] tjänst - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till Google Customer Match som en LaunchPoint-tjänst. Skicka Marketo-målgrupper till Google för målgruppsanpassning med AdWords, YouTube, Search och Gmail.
 title: Lägg till Google kundmatchning som en [!DNL LaunchPoint] tjänst
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

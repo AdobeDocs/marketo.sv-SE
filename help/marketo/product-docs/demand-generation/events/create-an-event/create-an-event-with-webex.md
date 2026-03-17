@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: Skapa en händelse med  [!DNL Webex] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett event med Webex i Marketo. Konfigurera WebBex-integrering och synkronisera händelse- eller mötesdata med Marketo.
 title: Skapa en händelse med  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---

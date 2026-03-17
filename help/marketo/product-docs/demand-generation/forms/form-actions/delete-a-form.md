@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359637
-description: Ta bort ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort ett formulär i Marketo. Ta bort formulär som du inte längre behöver från din instans.
 title: Ta bort ett formulär
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

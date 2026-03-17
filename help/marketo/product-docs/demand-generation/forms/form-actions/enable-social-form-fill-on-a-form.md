@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359616
-description: Aktivera ifyllning av sociala formulär på ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur man aktiverar ifyllnad av sociala formulär så att besökare kan skicka in formulär via sitt sociala nätverk. Få extra leads och ge besökarna en snabbare upplevelse.
 title: Aktivera ifyllning av sociala formulär i ett formulär
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 1%
 
 ---

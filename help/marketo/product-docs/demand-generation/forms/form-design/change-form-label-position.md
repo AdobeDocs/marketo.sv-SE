@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359612
-description: Ändra formuläretikettposition - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar formuläretikettens position i Marketo. Placera etiketter ovanför, under eller till vänster eller höger om fält.
 title: Ändra formuläretikettposition
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '125'
 ht-degree: 2%
 
 ---

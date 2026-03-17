@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: Skapa en händelse med  [!DNL GotoWebinar] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en händelse med GotoWebinar i Marketo. Konfigurera integreringen och synkroniseringen av registreringen av webbinarier med Marketo.
 title: Skapa en händelse med  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---

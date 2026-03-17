@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: Lägg till ett nytt formulär på en landningssida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett nytt formulär på en startsida i Marketo. Infoga ett Marketo-formulär för att hämta leads på sidan.
 title: Lägga till ett nytt formulär på en startsida med valfri form
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

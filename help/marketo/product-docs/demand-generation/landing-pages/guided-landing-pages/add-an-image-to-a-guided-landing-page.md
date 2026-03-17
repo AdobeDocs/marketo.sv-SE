@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515027
-description: Lägg till en bild på en guidad landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en bild på en guidad landningssida i Marketo. Infoga och konfigurera bildelement i mallen.
 title: Lägga till en bild på en landningssida med stödlinjer
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

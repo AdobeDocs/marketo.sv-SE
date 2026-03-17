@@ -1,11 +1,11 @@
 ---
-description: Aktivera CAPTCHA i Marketo Forms - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar CAPTCHA för Marketo-formulär. Minska mängden skräppost med reCAPTCHA eller andra CAPTCHA-alternativ.
 title: Aktivera CAPTCHA i Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---

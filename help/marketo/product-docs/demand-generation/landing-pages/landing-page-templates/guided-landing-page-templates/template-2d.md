@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516478
-description: Mall 2D - Marketo Docs - produktdokumentation
+description: Läs mer om den guidade mallen för landningssidor i mallformat 2D. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Mall 2D {#template-2d}
 
-Högerklicka för att [hämta mall 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=sv-SE)
+Högerklicka för att [hämta mall 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=sv-SE)
+[Mall 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

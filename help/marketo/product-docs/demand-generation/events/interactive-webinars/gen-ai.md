@@ -1,11 +1,11 @@
 ---
-description: GenAI Features - Marketo Docs - produktdokumentation
+description: Läs mer om funktionerna i GenAI i Interactive Webinars. Använd AI för att förbättra webbinnehåll, sammanfattningar eller engagemang.
 title: GenAI-funktioner
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ När du har godkänt villkoren i Adobe GenAI är nästa steg att aktivera det f�
 
    >[!NOTE]
    >
-   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt &#x200B;](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt &#x200B;](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
+   >* Om du vill kan du klassificera kvaliteten på de genererade kapitlen/sammanfattningen med ikonerna _tummen uppåt_ ![Tummen uppåt ](assets/icon-thumbs-up.png) eller _tummen nedåt_ ![Tummen nedåt ](assets/icon-thumbs-down.png) . Du kan också flagga problematiskt innehåll genom att klicka på flaggikonen ![Flaggikon](assets/icon-flag.png) .
    >
    >* Om du inte är nöjd med den inledande sammanfattningen kan du klicka på knappen **[!UICONTROL Regenerate summary]** så skapas en annan version.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359858
-description: Lägg till bilder och filer i Marketo - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till bilder och filer i Marketo. Ladda upp material till Design Studio för användning i e-post, landningssidor och formulär.
 title: Lägg till bilder och filer i Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359675
-description: Inaktivera förifyllning för ett formulärfält - Marketo Docs - produktdokumentation
+description: Lär dig hur du inaktiverar förifyllning för ett formulärfält i Marketo. Stoppa kända besökardata från att autofylla fältet.
 title: Inaktivera förifyllning för ett formulärfält
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---

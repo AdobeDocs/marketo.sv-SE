@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359862
-description: Sök i överförda bilder och filer - Marketo Docs - produktdokumentation
+description: Lär dig söka efter överförda bilder och filer i Marketo. Hitta materialet snabbt i Design Studio efter namn eller filter.
 title: Sök efter överförda bilder och filer
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

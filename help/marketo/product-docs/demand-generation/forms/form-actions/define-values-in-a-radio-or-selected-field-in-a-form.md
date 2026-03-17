@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: Definiera värden i ett alternativfält eller markerat fält i ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar värden i ett alternativfält eller listrutefält i ett Marketo-formulär. Ange de alternativ besökarna kan välja bland.
 title: Definiera värden i ett alternativfält eller markerat fält i ett formulär
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

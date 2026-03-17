@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: Konfigurera LinkedIn Lead Gen Forms - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar LinkedIn Lead Gen Forms med Marketo. Koppla samman LinkedIn och synkronisera lead-annonser till Marketo via LaunchPoint.
 title: Konfigurera LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---

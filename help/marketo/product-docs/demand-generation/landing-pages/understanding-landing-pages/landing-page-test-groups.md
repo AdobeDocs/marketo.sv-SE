@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: Testgrupper på landningssidan - Marketo Docs - produktdokumentation
+description: Läs om testgrupper av landningssidor i Marketo. Kör A/B- eller multivariata tester för att jämföra landningssidans prestanda.
 title: Testgrupper för landningssida
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

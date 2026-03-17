@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359724
-description: Godkänn flera landningssidor samtidigt - Marketo Docs - produktdokumentation
+description: Lär dig godkänna flera landningssidor samtidigt i Marketo. Granska godkända sidor för att få dem att publiceras snabbt.
 title: Godkänn flera landningssidor samtidigt
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---

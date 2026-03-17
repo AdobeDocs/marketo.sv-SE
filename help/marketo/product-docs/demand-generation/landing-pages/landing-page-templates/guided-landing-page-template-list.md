@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515616
-description: Guided Landing Page Template List - Marketo Docs - Product Documentation
+description: Läs mer om den guidade listan över landningssidmallar i Marketo. Bläddra bland och hämta mallar för dina landningssidor.
 title: Lista med guidade landningssidmallar
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---

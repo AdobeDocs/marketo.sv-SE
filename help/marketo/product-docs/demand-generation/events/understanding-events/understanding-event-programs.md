@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: Om händelseprogram - Marketo Docs - produktdokumentation
+description: Läs om eventprogram i Marketo. Förstå struktur, kanaler och hur man planerar och kör event och webbinarier.
 title: Om händelseprogram
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 2%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 

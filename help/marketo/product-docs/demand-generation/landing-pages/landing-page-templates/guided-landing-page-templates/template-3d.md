@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8160090
-description: Mall 3D - Marketo Docs - produktdokumentation
+description: Lär dig mer om mallsidans guidade landningssidmall för 3D. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Mall 3D {#template-3d}
 
-Högerklicka för att [hämta mall-3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=sv-SE)
+Högerklicka för att [hämta mall-3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=sv-SE)
+[Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: Prestandarapport för landningssida - Marketo Docs - produktdokumentation
+description: Läs mer om landningssidans resultatrapport i Marketo. Visa besök, konverteringar och andra mätvärden för era landningssidor.
 title: Prestandarapport för landningssida
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---

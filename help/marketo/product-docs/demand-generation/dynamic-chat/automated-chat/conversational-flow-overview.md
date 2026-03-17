@@ -1,11 +1,11 @@
 ---
-description: Översikt över konversationsflöde - Marketo Docs - produktdokumentation
+description: Lär dig mer om konversationsflöden och hur de skiljer sig från dialogrutor. Designflöden som triggas av besökaråtgärder och använder dem i formulär eller popup-fönster.
 title: Översikt över konversationsflöde
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Anpassa konversationsutlösaren (kallas även Konversationer SDK) i den nedre de
 
 >[!TIP]
 >
->Se [Konversationer SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=sv-SE){target="_blank"} in action!
+>Se [Konversationer SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in action!
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949865
-description: Skapa ett evenemang med Adobe Connect - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett event med Adobe Connect i Marketo. Ställ in integrerings- och synkroniseringsdata för registrering och närvaro.
 title: Skapa ett evenemang med Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---

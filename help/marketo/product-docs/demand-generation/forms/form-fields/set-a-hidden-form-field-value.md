@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: Ange ett dolt formulärfältsvärde - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in ett dolt formulärfältsvärde i Marketo. Skicka statiska värden eller tokenvärden med formuläröverföringen.
 title: Ange ett dolt formulärfältsvärde
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

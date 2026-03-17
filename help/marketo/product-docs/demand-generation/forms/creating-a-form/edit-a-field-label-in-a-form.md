@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: Redigera en fältetikett i ett formulär - Marketo Docs - Produktdokumentation
+description: Lär dig hur du redigerar en fältetikett i ett Marketo-formulär. Ändra etikettexten som visas bredvid ett formulärfält.
 title: Redigera en fältetikett i ett formulär
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---

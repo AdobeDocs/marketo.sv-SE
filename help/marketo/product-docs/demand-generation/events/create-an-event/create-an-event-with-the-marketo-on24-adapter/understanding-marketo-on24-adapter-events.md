@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096658
-description: Förstå Marketo On24-adapterhändelser - Marketo Docs - produktdokumentation
+description: Läs mer om Marketo ON24-adaptern och hur den ansluter ON24-webbinarier till Marketo. Förstå händelsetyper och synkroniseringsbeteenden.
 title: Om Marketo On24-nätverkskortshändelser
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Möteslista - Marketo Docs - produktdokumentation
+description: Läs om Dynamic Chat möteslista där besökare bokar möten. Visa vem som har bokat, vilken agent och mötesstatus.
 title: Möteslista
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

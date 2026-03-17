@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359701
-description: Skapa en landningssida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en landningssida i fri form i Marketo. Skapa sidan som en programresurs eller i Design Studio för globalt bruk.
 title: Skapa en landningssida med valfri form
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Skicka en lista till ett annonsnätverk - Marketo Docs - produktdokumentation
+description: Lär dig skicka en statisk lista till LinkedIn, Facebook eller Google. Använd liståtgärder och Skicka till annonsnätverk för att välja målgrupp och synkroniseringsalternativ.
 title: Skicka en lista till ett annonsnätverk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 

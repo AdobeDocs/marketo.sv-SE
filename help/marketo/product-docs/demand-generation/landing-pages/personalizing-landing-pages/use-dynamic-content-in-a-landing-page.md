@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359532
-description: Använd dynamiskt innehåll på en landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder dynamiskt innehåll på en Marketo landningssida. Visa olika innehåll för olika segment eller besökare.
 title: Använd dynamiskt innehåll på en landningssida
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---

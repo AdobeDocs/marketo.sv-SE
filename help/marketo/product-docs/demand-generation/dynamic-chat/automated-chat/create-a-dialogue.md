@@ -1,11 +1,11 @@
 ---
-description: Skapa en dialogruta - Marketo Docs - produktdokumentation
+description: Lär dig skapa en ny dialogruta i Dynamic Chat. Välj en mall, ange namn och prioritet och skapa sedan en ström för din konversation.
 title: Skapa en dialogruta
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---

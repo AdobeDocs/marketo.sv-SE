@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: Godkänn, avgodkänn eller ta bort en landningssida - Marketo Docs - produktdokumentation
+description: Lär dig godkänna, avgodkänna eller ta bort en landningssida i Marketo. Styr vilka sidor som ska vara aktiva och ta bort dem som du inte längre behöver.
 title: Godkänn, Avgodkänn eller Ta bort en landningssida
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---

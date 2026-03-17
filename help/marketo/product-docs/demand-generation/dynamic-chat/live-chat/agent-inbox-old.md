@@ -1,12 +1,12 @@
 ---
-description: Agent Inbox - Marketo Docs - produktdokumentation
+description: Läs mer om Agent Inbox där fältkonversationer i live-chattagenter görs. Visa aktiva och tidigare chattar, besökarinformation och ange tillgänglighetsstatus.
 title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---

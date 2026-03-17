@@ -1,11 +1,11 @@
 ---
-description: Konversationsflödesinställningar för Marketo Engage Forms - Marketo Docs - produktdokumentation
+description: Lär dig hur du kan konvertera Marketo-formulär med Dynamic Chat Conversational Flow. Kvalificera leads för mötesbokningar och anpassade mål med hjälp av formulär- eller listdata.
 title: Konversationsflödesinställningar för Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---

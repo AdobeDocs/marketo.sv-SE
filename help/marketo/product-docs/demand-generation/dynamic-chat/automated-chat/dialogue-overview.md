@@ -1,11 +1,11 @@
 ---
-description: Översikt - Marketo Docs - produktdokumentation
+description: Läs om Dialogrutor som individuella chattsamtal i Dynamic Chat. Definiera var de visas, vilka som ser dem och övervaka effektiviteten i rapporter.
 title: Översikt över dialogrutan
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---

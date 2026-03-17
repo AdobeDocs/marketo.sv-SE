@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504180
-description: Använd en Marketo-lista eller smart lista som ett LinkedIn Audience-segment - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder en lista eller smart lista från Marketo som ett LinkedIn-målgruppssegment. Skicka listor till LinkedIn för annonsanpassning via Ad Bridge.
 title: Använd en Marketo-lista eller smart lista som ett LinkedIn-målsegment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Integrera dina Marketo Engage-användare med dina LinkedIn-målgrupper.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Klicka på ikonen _Skicka via Lägg till Bridge_ ![&#x200B; -](assets/icon-ad-bridge.png) längst ned i listan.
+1. Klicka på ikonen _Skicka via Lägg till Bridge_ ![ -](assets/icon-ad-bridge.png) längst ned i listan.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 

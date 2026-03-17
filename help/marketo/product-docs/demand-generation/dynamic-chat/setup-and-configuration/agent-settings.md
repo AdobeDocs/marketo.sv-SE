@@ -1,11 +1,11 @@
 ---
-description: Agentinställningar - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar agentkalender och möte eller live-chatttillgänglighet i Dynamic Chat. Anslut Outlook eller Gmail för schemaläggning av möten.
 title: Agentinställningar
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Ange din tidszon och tid/veckodag som tillgänglig för att ta emot chattar live
 
 ![](assets/agent-settings-5.png)
 
-Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (om du har [konfigurerat det &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Om du är inloggad på appen får du ett meddelande i appen om en inkommande chatt. Om du inte är inloggad får du ett webbläsarmeddelande (om du har [konfigurerat det ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
@@ -100,7 +100,7 @@ Om du är inloggad på appen får du ett meddelande i appen om en inkommande cha
 
 ## Profilfoto för agent
 
-Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/se/manage-account/using/edit-adobe-account-personal-profile.html).
+Även om en agent kan överföra sitt eget profilfoto utförs inte den åtgärden i Dynamic Chat. De måste navigera till `account.adobe.com/profile`. Läs mer här: [Uppdatera din kontoprofil](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
 
 >[!NOTE]
 >

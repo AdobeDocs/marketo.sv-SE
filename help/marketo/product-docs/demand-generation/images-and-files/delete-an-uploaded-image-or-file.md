@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359873
-description: Ta bort en överförd bild eller fil - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en överförd bild eller fil från Marketo. Ta bort material du inte längre behöver från Design Studio.
 title: Ta bort en överförd bild eller fil
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

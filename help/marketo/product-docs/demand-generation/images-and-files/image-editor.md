@@ -1,10 +1,10 @@
 ---
-description: Bildredigerare - Marketo Docs - produktdokumentation
+description: Läs om bildredigeraren i Marketo Design Studio. Beskär, ändra storlek på och gör grundläggande redigeringar av bilder utan att behöva lämna Marketo.
 title: Bildredigeraren
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---

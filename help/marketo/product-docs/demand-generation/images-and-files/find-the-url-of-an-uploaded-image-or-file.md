@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359870
-description: Hitta URL:en till en överförd bild eller fil - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar URL-adressen till en överförd bild eller fil i Marketo. Hämta resursens URL för användning i e-postmeddelanden eller externa sidor.
 title: Hitta URL-adressen till en överförd bild eller fil
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '77'
 ht-degree: 1%
 
 ---

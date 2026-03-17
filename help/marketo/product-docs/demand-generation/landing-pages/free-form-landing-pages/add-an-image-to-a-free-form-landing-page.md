@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359703
-description: Lägg till en bild på en landningssida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en bild på en landningssida i friform i Marketo. Infoga och placera bilder från Design Studio.
 title: Lägga till en bild på en landningssida med valfri form
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---

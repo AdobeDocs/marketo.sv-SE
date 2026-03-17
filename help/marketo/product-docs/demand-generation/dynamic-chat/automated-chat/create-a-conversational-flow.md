@@ -1,11 +1,11 @@
 ---
-description: Skapa ett konversationsflöde - Marketo Docs - produktdokumentation
+description: Lär dig skapa ett nytt konversationsflöde i Dynamic Chat. Välj en mall, ange namn och språk och skapa sedan en ström för flödet.
 title: Skapa ett konversationsflöde
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---

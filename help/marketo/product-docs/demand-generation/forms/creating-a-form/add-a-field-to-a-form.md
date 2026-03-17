@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359543
-description: Lägg till ett fält i ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett fält i ett formulär i Marketo. Lägg till formulärfält och mappa dem till person- eller företagsattribut.
 title: Lägga till ett fält i ett formulär
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

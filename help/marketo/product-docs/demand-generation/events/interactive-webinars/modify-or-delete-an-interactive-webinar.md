@@ -1,11 +1,11 @@
 ---
-description: Ändra eller ta bort ett interaktivt webbinarium - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar eller tar bort ett interaktivt webbinarium i Marketo. Uppdatera inställningar eller ta bort webbinarier när de inte längre behövs.
 title: Ändra eller ta bort ett interaktivt webbinarium
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

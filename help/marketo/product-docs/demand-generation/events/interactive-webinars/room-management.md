@@ -1,11 +1,11 @@
 ---
-description: Rumshantering - Marketo Docs - produktdokumentation
+description: Läs om rumshantering för interaktiva webbinarier. Skapa och hantera webbinarium och styr åtkomst och inställningar.
 title: Rumshantering
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---

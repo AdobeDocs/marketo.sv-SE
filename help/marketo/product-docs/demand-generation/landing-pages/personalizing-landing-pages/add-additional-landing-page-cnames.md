@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359798
-description: Lägg till fler CNAME-filer för landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ytterligare CNAME-filer på landningssidan i Marketo. Använd flera anpassade domäner för dina landningssidor.
 title: Lägg till ytterligare CNAME för landningssida
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---

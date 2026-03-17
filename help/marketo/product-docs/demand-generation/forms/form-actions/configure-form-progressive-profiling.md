@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359646
-description: Konfigurera progressiv formulärprofilering - Marketo Docs - Produktdokumentation
+description: Lär dig hur du konfigurerar progressiv profilering i ett Marketo-formulär. Visa olika fält över tiden för att samla in mer data utan långa formulär.
 title: Konfigurera progressiv profilering av formulär
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---

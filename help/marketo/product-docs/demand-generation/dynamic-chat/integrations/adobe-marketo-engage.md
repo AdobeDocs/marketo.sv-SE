@@ -1,11 +1,11 @@
 ---
-description: Adobe Marketo Engage - Marketo Docs - produktdokumentation
+description: Lär dig ansluta Dynamic Chat till din Marketo Engage-prenumeration. Utför engångssynkroniseringen och välj person- och företagsattribut för målinriktning.
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ När du har slutfört den [första konfigurationen](/help/marketo/product-docs/d
 
 >[!NOTE]
 >
->Dynamic Chat har stöd för synkronisering av [Marketo native](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} och anpassade personfält och företagsfält.
+>Dynamic Chat har stöd för synkronisering av [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} och anpassade personfält och företagsfält.
 
 1. Klicka på panelen **[!UICONTROL Dynamic Chat]** i Min Marketo.
 
@@ -28,7 +28,7 @@ När du har slutfört den [första konfigurationen](/help/marketo/product-docs/d
    >
    >Om du inte ser rutan kan du kontakta Marketo Admin.
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Dynamic Chat. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Välj **[!UICONTROL Integrations]** om du vill ansluta din Marketo-instans.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359732
-description: Använd dynamiskt innehåll i en landningssida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder dynamiskt innehåll på en startsida i fri form i Marketo. Visa olika innehåll för olika segment.
 title: Använd dynamiskt innehåll på en landningssida i fri form
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Testa ett interaktivt webbinarium - Marketo Docs - produktdokumentation
+description: Lär dig hur du testar ett interaktivt webbinarium innan du publicerar. Verifiera att registrerings-, innehålls- och interaktionsverktygen fungerar som förväntat.
 title: Testa ett interaktivt webbinarium
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

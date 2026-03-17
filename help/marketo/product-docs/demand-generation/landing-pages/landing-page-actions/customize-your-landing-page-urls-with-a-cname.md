@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359746
-description: Anpassa dina URL:er för landningssidor med en CNAME - Marketo Docs - produktdokumentation
+description: Lär dig hur du anpassar URL:er för landningssidor med en CNAME i Marketo. Använd din egen domän för länkar till landningssidor.
 title: Anpassa URL:er för landningssidor med en CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---

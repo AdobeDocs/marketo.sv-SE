@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: Skapa ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig skapa ett formulär i Marketo. Lägg till fält, konfigurera formuläret och använd det på landningssidor eller på webbplatsen för att fånga leads.
 title: Skapa ett formulär
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 

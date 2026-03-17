@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783926
-description: Mall 5E - Marketo Docs - produktdokumentation
+description: Lär dig mer om den guidade mallen för landningssidor i mall 5E. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Mall 5E {#template-5e}
 
-Högerklicka för att [hämta mall 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=sv-SE)
+Högerklicka för att [hämta mall 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=sv-SE)
+[Template 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)

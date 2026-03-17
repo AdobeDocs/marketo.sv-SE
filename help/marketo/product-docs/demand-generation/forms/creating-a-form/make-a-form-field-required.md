@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359569
-description: Gör ett formulärfält obligatoriskt - Marketo Docs - produktdokumentation
+description: Lär dig hur du gör ett formulärfält obligatoriskt i Marketo. Kräv att besökarna fyller i fältet innan formuläret skickas.
 title: Gör ett formulärfält obligatoriskt
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 2%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 

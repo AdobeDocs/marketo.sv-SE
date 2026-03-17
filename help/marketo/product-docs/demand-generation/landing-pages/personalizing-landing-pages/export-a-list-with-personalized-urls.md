@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359815
-description: Exportera en lista med anpassade URL:er - Marketo Docs - produktdokumentation
+description: Lär dig hur du exporterar en lista med anpassade URL:er från Marketo. Hämta en lista över mottagare med deras unika URL:er för landningssidan.
 title: Exportera en lista med anpassade URL:er
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---

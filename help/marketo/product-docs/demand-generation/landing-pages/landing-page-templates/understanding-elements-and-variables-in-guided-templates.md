@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515069
-description: Förstå element och variabler i guidade mallar - Marketo Docs - produktdokumentation
+description: Lär dig mer om element och variabler i Marketo guidade mallar för landningssidor. Definiera vad som är redigerbart och hur innehåll placeras.
 title: Förstå element och variabler i guidade mallar
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ När du redigerar en guidad landningssida visas elementen om de har markerats so
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Lotteriet Marketo
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-kodfragment
 
-## Variabel {#variables}
+## Variabler {#variables}
 
 Variabler är tokenliknande attribut som kan anpassas från den guidade redigeraren på landningssidan, som visas nedan.
 

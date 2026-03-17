@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359866
-description: Hämta bilderna från en webbsida - Marketo Docs - produktdokumentation
+description: Lär dig hämta bilder från en webbsida till Marketo. Importera bilder från en webbadress i Design Studio.
 title: Hämta bilderna från en webbsida
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515107
-description: Lägg till ett formulär på en guidad landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett formulär på en guidad landningssida i Marketo. Infoga ett formulärelement och välj ditt Marketo-formulär.
 title: Lägga till ett formulär på en landningssida med stödlinjer
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

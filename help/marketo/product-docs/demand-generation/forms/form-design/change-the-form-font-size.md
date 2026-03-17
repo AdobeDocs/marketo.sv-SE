@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359610
-description: Ändra teckenstorlek för formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar teckenstorleken i Marketo. Justera storleken på texten i formuläretiketter och fält.
 title: Ändra teckenstorlek för formulär
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '117'
 ht-degree: 1%
 
 ---

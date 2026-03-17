@@ -1,11 +1,11 @@
 ---
-description: Lägg till ett webbinarium - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett webbinarium i Interactive Webinars. Utse teammedlemmar som kan hjälpa er att skapa, hantera och leverera webbinarier.
 title: Lägg till ett webbinarium
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---

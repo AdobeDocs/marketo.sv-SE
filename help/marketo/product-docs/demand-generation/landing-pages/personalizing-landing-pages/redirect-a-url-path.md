@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359826
-description: Omdirigera en URL-sökväg - Marketo Docs - produktdokumentation
+description: Lär dig hur du omdirigerar en URL-sökväg för Marketo landningssidor. Skicka gamla sökvägar till nya URL:er eller landningssidor.
 title: Omdirigera en URL-sökväg
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

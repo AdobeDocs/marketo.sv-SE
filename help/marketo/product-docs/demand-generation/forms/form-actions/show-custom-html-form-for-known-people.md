@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359644
-description: Visa anpassat HTML-formulär för kända personer - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar anpassade HTML för kända personer i ett Marketo-formulär. Visa olika innehåll eller meddelanden för kända besökare.
 title: Visa anpassat HTML-formulär för kända personer
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '244'
 ht-degree: 1%
 
 ---

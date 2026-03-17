@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8162243
-description: Mall 5A - Marketo Docs - produktdokumentation
+description: Lär dig mer om mallen för landningssidor i mall 5A. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Mall 5A {#template-5a}
 
-Högerklicka för att [hämta mall 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=sv-SE)
+Högerklicka för att [hämta mall 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=sv-SE)
+[Mall 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

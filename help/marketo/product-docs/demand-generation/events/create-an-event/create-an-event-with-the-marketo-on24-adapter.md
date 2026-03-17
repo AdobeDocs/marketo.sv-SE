@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: Skapa en händelse med Marketo ON24-adaptern - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en händelse med Marketo ON24-adaptern. Anslut On24-webbinarier till Marketo och synkronisera registrering och närvaro.
 title: Skapa en händelse med Marketo ON24-adaptern
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Du bör känna till byggstenarna och den rekommenderade sekvensen för att skapa
 
 >[!NOTE]
 >
->Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Mer information om Marketo API:er finns i [Marketo API-dokumentationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Förutsättningar {#prerequisites}
 

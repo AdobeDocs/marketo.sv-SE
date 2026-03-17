@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359400
-description: Välj ett formulärtema - Marketo Docs - produktdokumentation
+description: Lär dig hur du väljer ett formulärtema i Marketo. Välj ett tema för att styra utseendet och känslan i formuläret.
 title: Välj ett formulärtema
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

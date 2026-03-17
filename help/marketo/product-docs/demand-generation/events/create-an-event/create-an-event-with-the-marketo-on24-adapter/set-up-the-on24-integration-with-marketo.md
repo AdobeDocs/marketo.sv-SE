@@ -1,11 +1,11 @@
 ---
-description: Konfigurera ON24-integrering med Marketo - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar ON24-integreringen med Marketo. Anslut ditt ON24-konto så att du kan synkronisera webbinarier och registreringsdata.
 title: Konfigurera ON24-integreringen med Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Så här konfigurerar du din ON24-händelseintegrering.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Välj en [!UICONTROL display name]. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]**. Ange [!UICONTROL description]. Klicka på listrutan [!UICONTROL API Only User] och välj den användare du skapade [&#x200B; i stegen ovan](#create-a-new-user). Klicka på **[!UICONTROL Create]**.
+1. Välj en [!UICONTROL display name]. Klicka på listrutan **[!UICONTROL Service]** och välj **[!UICONTROL Custom]**. Ange [!UICONTROL description]. Klicka på listrutan [!UICONTROL API Only User] och välj den användare du skapade [ i stegen ovan](#create-a-new-user). Klicka på **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

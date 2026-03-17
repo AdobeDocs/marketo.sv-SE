@@ -1,11 +1,11 @@
 ---
-description: Anpassning av interaktiva webbinarier - Marketo Docs - produktdokumentation
+description: Läs om hur du anpassar interaktiva webbinarier i Marketo. Konfigurera branding, layout och alternativ som passar er organisation och era händelser.
 title: Anpassning av interaktiva webbinarier
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Välj **Använd** om du vill spara ändringarna eller **Återställ till standar
 
 * Värdar kan välja teman när de skapar rum eller uppdatera dem senare från informationssidan för rum (**Room top bar** > **More menu** > **View room information**).
 
-Läs mer om [Teman](https://helpx.adobe.com/se/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Läs mer om [Teman](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

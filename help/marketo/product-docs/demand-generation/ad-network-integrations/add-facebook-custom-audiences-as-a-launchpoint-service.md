@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720257
-description: Lägg till [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint] tjänst - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till anpassade målgrupper på Facebook som en LaunchPoint-tjänst. Skicka Marketo-listor till Facebook för användning som anpassade målgrupper i annonskampanjer.
 title: Lägg till  [!DNL Facebook] anpassade målgrupper som en [!DNL LaunchPoint] tjänst
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---

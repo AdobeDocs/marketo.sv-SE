@@ -1,11 +1,11 @@
 ---
-description: Lär dig hur du skapar och implementerar mallar i interaktiva webbinarier.
+description: Lär dig hur du skapar och implementerar mallar i interaktiva webbinarier. Använd mallar för att standardisera webbseminariedesign och snabba upp framtagningen.
 title: Mallar för interaktiva webbinarier
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '306'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Skapa lättanvända mallar i interaktiva webbinarier för att producera innehål
 
 ## Bevilja behörigheter {#grant-permissions}
 
-Innan någon användare i organisationen kan komma åt mallar för dina interaktiva webbinarier måste Marketo Engage-administratören först lägga till åtkomst till den eller de roller som du vill ha.
+Innan någon användare i organisationen kan komma åt mallar för dina interaktiva webbinarier måste en Marketo Engage-administratör först lägga till åtkomst till den eller de roller som du vill ha.
 
 1. Klicka på **[!UICONTROL Admin]** i Marketo Engage.
 

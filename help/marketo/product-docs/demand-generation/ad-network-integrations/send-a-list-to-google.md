@@ -1,11 +1,11 @@
 ---
-description: Skicka en lista till Google - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar en statisk lista från Marketo till Google för kundmatchning. Välj en lista, välj Google och ett annonskonto och synkronisera målgruppen om du vill.
 title: Skicka en lista till Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---

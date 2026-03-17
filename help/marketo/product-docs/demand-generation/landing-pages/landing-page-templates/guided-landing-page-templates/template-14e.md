@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437813
-description: Mall 14E - Marketo Docs - Produktdokumentation
+description: Läs mer om mallen för landningssidor i mall 14E. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Mall 14E {#template-14e}
 
-Högerklicka för att [hämta mall 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=sv-SE)
+Högerklicka för att [hämta mall 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Template 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=sv-SE)
+[Template 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

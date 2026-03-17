@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359803
-description: Aktivera anpassade URL:er för en landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar anpassade URL:er för en Marketo-landningssida. Låt varje mottagare ha en unik spårbar URL.
 title: Aktivera anpassade URL:er för en landningssida
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---

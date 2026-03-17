@@ -1,11 +1,11 @@
 ---
-description: Designa interaktiva webbinarier - Marketo Docs - produktdokumentation
+description: Läs om hur du utformar interaktiva webbinarier i Marketo. Planera innehåll, layout och engagemangselement för effektiva webbinarier.
 title: Designa interaktiva webbinarier
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '577'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,9 @@ Lär dig hur du utformar ett webbinarium som passar dina behov.
 
 **Pod**: En komponent i en mall som utför en viss aktivitet under webbinariet. Du kan till exempel ställa in och leverera en omröstning för att samla deltagarnas svar i en aktivitet som kan utföras av en omröstning. På samma sätt kan chattsamtal med deltagarna för att förmedla ett meddelande eller för att interagera med dem via ett ögonblick vara en aktivitet som levereras via chattblocket. Det finns flera andra fönster tillgängliga, t.ex. Dela, Anteckningar, Video, Chatt, Deltagarlista, Filer, Webblänkar, Omröstningar och Frågor och svar.
 
-      **Undersökningsruta**: Gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt i en livesession. Survey Pod (enkät-Pod) ger fler möjligheter att presentera olika frågor samtidigt, vilket ger ett effektivare och mer sammanhängande sätt att samla in deltagarnas insikter. [Läs mer](https://helpx.adobe.com/se/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Undersökningsruta**: Gör det möjligt för värdar att utforma och leverera strukturerade feedbackformulär direkt i en livesession. Survey Pod (enkät-Pod) ger fler möjligheter att presentera olika frågor samtidigt, vilket ger ett effektivare och mer sammanhängande sätt att samla in deltagarnas insikter. [Läs mer](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Resurspanel**: Ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner. [Läs mer](https://helpx.adobe.com/se/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Resurspanel**: Ersätter de tidigare rutorna för filer och webblänkar, vilket ger ett enda enhetligt sätt att dela resurser under livesessioner. [Läs mer](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: Ställ in Facebook-annonser - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar Facebook Lead Ads med Marketo. Anslut ditt Facebook-konto och synkronisera lead-annonser till Marketo.
 title: Konfigurera Facebook-annonser
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Använd [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/
 
    >[!TIP]
    >
-   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta in data från anpassade frågor för Lead Ads &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
+   >Genom att ändra mappningarna kan du anpassa var informationen om annonser för leads lagras i Marketo. Du kan även [hämta in data från anpassade frågor för Lead Ads ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
 
    >[!CAUTION]
    >

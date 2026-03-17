@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359657
-description: Ändra ett formulärs språkversion - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar en formulärspråkinställning i Marketo. Ange formulärspråk och regionalt format för etiketter och validering.
 title: Ändra språkinställning för ett formulär
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

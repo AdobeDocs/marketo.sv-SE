@@ -1,13 +1,13 @@
 ---
-description: Ange händelsemål - Marketo Docs - produktdokumentation
+description: Lär dig ställa in händelsemål i Marketo händelsemöten. Definiera framgångsmått och spåra framstegen mot era händelsemål.
 title: Ange händelsemål
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11376700
-description: Lägg till leads till en anpassad målgrupp på Facebook - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till leads till en anpassad målgrupp på Facebook från Marketo. Skicka listmedlemmar till Facebook för annonsanpassning.
 title: Lägg till leads till en anpassad målgrupp på Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

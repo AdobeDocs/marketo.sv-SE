@@ -1,11 +1,11 @@
 ---
-description: Svarsbibliotek - Marketo Docs - produktdokumentation
+description: Lär dig hantera svarsbiblioteket för generativ AI i Dynamic Chat. Lägg till, redigera och godkänn frågor och svar för chattkampanjer.
 title: Svarsbibliotek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---

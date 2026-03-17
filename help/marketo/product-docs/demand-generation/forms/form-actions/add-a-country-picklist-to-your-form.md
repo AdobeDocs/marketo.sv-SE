@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949966
-description: Lägg till en landsväljarlista i ditt formulär - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till en landslista i ditt Marketo-formulär. Ge besökarna en listruta för att välja land.
 title: Lägg till en landsväljarlista i formuläret
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---

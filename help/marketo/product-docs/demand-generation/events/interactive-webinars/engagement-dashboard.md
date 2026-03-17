@@ -1,11 +1,11 @@
 ---
-description: Engagement Dashboard - Marketo Docs - produktdokumentation
+description: Läs mer om Instrumentpanelen för interaktivt webbseminarium. Visa deltagarnas engagemangsmått och insikter under och efter era webbinarier.
 title: Instrumentpanel för engagemang
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1712'
 ht-degree: 0%
 
 ---
@@ -294,14 +294,14 @@ Förstå kriterierna för att klassificera engagemangsnivån för varje deltagar
   </tr></thead>
 <tbody>
   <tr>
-    <td>Hög</td>
+    <td>Högt</td>
     <td>Deltagare som uppfyller alla följande kriterier:
     <li>Närvaron varar minst 80 % av den totala händelselängden.</li>
     <li>Alla flervalsfrågor (MCQs) och flersvarsfrågor (MA) besvaras, minst en fil laddas ned eller så är antalet chatt fem eller fler.</li>
     <li>Deltagaren har ställt minst en fråga i rutan Frågor och svar.</li></td>
   </tr>
   <tr>
-    <td>Medium</td>
+    <td>Medelsvåra:</td>
     <td>Deltagare som uppfyller alla följande kriterier:
     <li>Deltagarens engagemang är inte bestämt som högt.</li>
     <li>Närvaron varar minst 60 % av den totala händelselängden.</li>
@@ -313,7 +313,7 @@ Förstå kriterierna för att klassificera engagemangsnivån för varje deltagar
     </td>
   </tr>
   <tr>
-    <td>Låg</td>
+    <td>Lågt</td>
     <td>Alla deltagare är inte klassificerade som antingen höga eller medelstora.</td>
   </tr>
 </tbody></table>

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359654
-description: Ändra språk för ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar språk i ett Marketo-formulär. Visa formuläretiketter och meddelanden på ett annat språk för er målgrupp.
 title: Ändra språket i ett formulär
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---

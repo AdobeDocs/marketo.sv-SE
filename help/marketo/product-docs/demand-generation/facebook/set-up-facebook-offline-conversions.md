@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383953
-description: Konfigurera offlinekonverteringar för Facebook - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar offlinekonverteringar för Facebook i Marketo. Skicka konverteringsdata från Marketo till Facebook för annonsoptimering.
 title: Konfigurera offlinekonverteringar för Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---

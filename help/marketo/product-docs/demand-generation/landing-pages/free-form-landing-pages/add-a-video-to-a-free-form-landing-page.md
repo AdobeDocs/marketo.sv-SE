@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359722
-description: Lägg till en video på en startsida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en video på en startsida i frihandsformat i Marketo. Bädda in videoinnehåll på landningssidan.
 title: Lägga till en video på en startsida i frihandsformat
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

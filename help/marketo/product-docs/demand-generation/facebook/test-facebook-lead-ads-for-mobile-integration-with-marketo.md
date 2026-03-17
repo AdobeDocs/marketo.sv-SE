@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098759
-description: Testa Facebook-annonser för mobilintegrering med Marketo - Marketo Docs - produktdokumentation
+description: Lär dig hur du testar Facebook Lead Ads-mobilintegrering med Marketo. Verifiera att lead-annonser skickas från mobilsynkroniseringen korrekt.
 title: Testa Facebook-annonser för mobilintegrering med Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---

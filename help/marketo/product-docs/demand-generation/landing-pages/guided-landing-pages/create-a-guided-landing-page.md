@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515266
-description: Skapa en guidad landningssida - Marketo Docs - produktdokumentation
+description: Lär dig skapa en guidad landningssida i Marketo. Välj en mall och bygg sidan med den guidade redigeraren.
 title: Skapa en guidad landningssida
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728023
-description: Skapa en händelse med  [!DNL Zoom] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en händelse med Zoom i Marketo. Konfigurera zoomintegreringen och synkronisera möten eller webbinarier med ditt eventprogram.
 title: Skapa en händelse med  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---

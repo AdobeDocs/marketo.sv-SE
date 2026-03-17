@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359718
-description: Lägg till en social knapp på en startsida i fri form - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en social knapp på en startsida i friform i Marketo. Lägg till dela eller följ knappar på sidan.
 title: Lägga till en social knapp på en startsida i friform
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---

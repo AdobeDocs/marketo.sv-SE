@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359673
-description: Lägga till verktygstipsinstruktioner i ett formulärfält - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till verktygstipsinstruktioner i ett formulärfält i Marketo. Visa extra hjälp när besökarna hovrar över ett fält.
 title: Lägga till verktygstipsinstruktioner i ett formulärfält
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---

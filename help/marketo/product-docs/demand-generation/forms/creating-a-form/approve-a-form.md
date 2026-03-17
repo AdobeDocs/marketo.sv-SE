@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359578
-description: Godkänn ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig godkänna ett formulär i Marketo. Godkänn formuläret så att det kan användas på landningssidor och börja hämta leads.
 title: Godkänn ett formulär
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

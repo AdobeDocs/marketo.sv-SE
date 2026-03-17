@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359540
-description: Inkludera en ICS-fil för kalenderhändelse på en landningssida - Marketo Docs - produktdokumentation
+description: Lär dig hur du inkluderar en ICS-fil för en kalenderhändelse på en Marketo-landningssida. Låt besökarna lägga till händelsen i kalendern.
 title: Inkludera en ICS-fil för kalenderhändelse på en landningssida
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

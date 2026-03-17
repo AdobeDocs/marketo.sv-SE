@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783903
-description: Mall 4B - Marketo Docs - produktdokumentation
+description: Läs mer om mallen för landningssidor i mall 4B. Ladda ned och använd den för Marketo landningssidor.
 title: Mall 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Mall 4B {#template-4b}
 
-Högerklicka för att [hämta mall 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=sv-SE)
+Högerklicka för att [hämta mall 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -29,4 +29,4 @@ Den här mallen innehåller följande innehåll:
 
 **Högerklicka nedan för att hämta den här mallen:**
 
-[Mall 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=sv-SE)
+[Mall 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)

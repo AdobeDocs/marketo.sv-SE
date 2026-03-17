@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: Skapa en händelse med  [!DNL Level 3 Web Meeting] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en händelse med Level 3 Web Meeting i Marketo. Konfigurera integreringen och synkroniseringen av registreringen av webbmöten med Marketo.
 title: Skapa en händelse med  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359810
-description: Aktivera anpassade URL:er för ditt konto - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar anpassade URL:er för ditt Marketo-konto. Konfigurera funktionen så att du kan använda anpassade URL:er på landningssidor.
 title: Aktivera anpassade URL:er för ditt konto
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359604
-description: Ändra storlek på etikett/fältbredd i ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar storlek på etikett och fältbredd i ett Marketo-formulär. Justera bredden på etiketter och indataområden.
 title: Ändra storlek på etikett/fältbredd i ett formulär
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

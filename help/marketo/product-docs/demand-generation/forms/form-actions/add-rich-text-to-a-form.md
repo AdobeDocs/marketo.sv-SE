@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359618
-description: Lägg till RTF i ett formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till formaterad text i ett Marketo-formulär. Infoga rubriker, länkar eller instruktioner ovanför eller nedanför formulärfält.
 title: Lägga till RTF i ett formulär
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 

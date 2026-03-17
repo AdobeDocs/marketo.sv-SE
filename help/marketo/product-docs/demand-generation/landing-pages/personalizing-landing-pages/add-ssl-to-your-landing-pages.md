@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359828
-description: Lägg till SSL på era landningssidor - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till SSL på Marketo landningssidor. Aktivera HTTPS för säkra URL:er för landningssidor.
 title: Lägg till SSL på era landningssidor
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Följ stegen nedan för att aktivera SSL för din standarddomän.
 
 Följ de här stegen för att aktivera SSL för dina befintliga domänalias.
 
-1. Expandera _[!UICONTROL Admin]_&#x200B;i den vänstra navigeringen i området **[!UICONTROL Integration]**&#x200B;och välj **[!UICONTROL Landing Pages]**.
+1. Expandera _[!UICONTROL Admin]_i den vänstra navigeringen i området **[!UICONTROL Integration]**och välj **[!UICONTROL Landing Pages]**.
 
 1. På sidan väljer du fliken **[!UICONTROL Rules]** överst.
 
@@ -119,7 +119,7 @@ Här nedan hittar du felmeddelanden som du kan få tillsammans med deras definit
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 

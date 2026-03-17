@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370892
-description: Testa Facebook-annonser för datorintegrering med Marketo - Marketo Docs - produktdokumentation
+description: Lär dig hur du testar skrivbordsintegrering med Facebook Lead Ads med Marketo. Verifiera att lead-annonser skickas från skrivbordet synkroniseras korrekt.
 title: Testa Facebook-annonser för integrering med Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---

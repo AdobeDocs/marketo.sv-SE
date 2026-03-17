@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720856
-description: Lägg till en mobilvy för din startsida med kostnadsfria formulär - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en mobilvy för din startsida i frihandsformat i Marketo. Optimera sidlayouten för mobila enheter.
 title: Lägg till en mobilvy för din startsida med kostnadsfria formulär
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '134'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359671
-description: Lägg till tipstext i ett formulärfält - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till tips i ett formulärfält i Marketo. Visa platshållare eller hjälptext som vägleder besökarna.
 title: Lägga till tipstext i ett formulärfält
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '119'
 ht-degree: 1%
 
 ---

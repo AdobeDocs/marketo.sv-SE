@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359716
-description: Förhandsgranska en landningssida - Marketo Docs - produktdokumentation
+description: Lär dig förhandsgranska en landningssida i Marketo. Se hur sidan ser ut och beter sig innan den publiceras.
 title: Förhandsgranska en landningssida
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

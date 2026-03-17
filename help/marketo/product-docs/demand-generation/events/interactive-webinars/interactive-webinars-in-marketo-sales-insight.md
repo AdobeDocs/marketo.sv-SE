@@ -1,11 +1,11 @@
 ---
-description: Interaktiva webbinarier i Marketo Sales Insight - Marketo Docs - produktdokumentation
+description: Läs om hur du använder interaktiva webbinarier med Marketo Sales Insight. Koppla webbinariet till försäljningen för bättre leads.
 title: Interaktiva webbinarier i Marketo Sales Insight
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Interactive Webinars in Marketo Sales Insight gör dina webbinarier tillgänglig
 
 >[!PREREQUISITES]
 >
->Den här funktionen stöds bara för dem som har köpt tillägget [Marketo Sales Insight](https://business.adobe.com/se/products/marketo/sales-intelligence-engagement.html).
+>Den här funktionen stöds bara för dem som har köpt tillägget [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html).
 
 När aktiviteterna registreras i Marketo Engage (när webbinariet har slutförts i Adobe Connect) synkroniseras de i realtid till Salesforce via MSI-pluginen.
 
