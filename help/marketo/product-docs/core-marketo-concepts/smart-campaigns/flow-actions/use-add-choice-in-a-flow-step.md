@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146980
-description: Använd Lägg till val i ett flödessteg - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder Lägg till val i ett flödessteg. Förse kampanjflödet baserat på villkor med vallogik.
 title: Använd Lägg till alternativ i ett flödessteg
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

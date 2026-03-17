@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: Anpassa en presentation - Marketo Docs - produktdokumentation
+description: Lär dig hur du anpassar en presentation av en marknadsföringskalender med vyer och mål. Ange rotationsfrekvens och visa vad som är viktigast för ditt team.
 title: Anpassa en presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---

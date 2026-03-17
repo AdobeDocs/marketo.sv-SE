@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147129
-description: Skapa en prestandarapport för program - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en rapport om programprestanda. Skapa rapporter för att se programmets avkastning, framgång och medlemsstatistik.
 title: Skapa en rapport om programprestanda
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

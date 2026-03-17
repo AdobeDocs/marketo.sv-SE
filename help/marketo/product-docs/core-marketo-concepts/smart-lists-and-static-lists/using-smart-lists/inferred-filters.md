@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953188
-description: Inkommande filter - Marketo Docs - produktdokumentation
+description: Läs mer om härledda filter i Smarta listor. Förstå hur Marketo ger filter från länkade resurser.
 title: Inkommande filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

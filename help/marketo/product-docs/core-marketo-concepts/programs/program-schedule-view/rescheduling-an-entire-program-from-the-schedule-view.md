@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147138
-description: Schemalägga om ett helt program från schemaläggningsvyn - Marketo Docs - produktdokumentation
+description: Lär dig hur du schemalägger om ett helt program från schemaläggningsvyn. Flytta alla poster till nya datum samtidigt.
 title: Schemalägga om ett helt program från schemaläggningsvyn
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

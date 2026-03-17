@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: Redigera kvalificeringsregler i en smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar kvalificeringsregler i en Smart Campaign. Ändra hur många gånger folk kan gå igenom kampanjen.
 title: Redigera kvalificeringsregler i en smart kampanj
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---

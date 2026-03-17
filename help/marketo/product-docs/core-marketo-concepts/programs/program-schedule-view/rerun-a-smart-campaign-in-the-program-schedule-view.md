@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953331
-description: Kör en smart kampanj igen i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör en smart kampanj igen från programschemavy. Kör en batchkampanj igen på begäran.
 title: Kör en smart kampanj igen i programschemavyn
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

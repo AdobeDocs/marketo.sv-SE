@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953348
-description: Skapa tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar tävlingsbidrag direkt i marknadsföringskalendern med programfokus. Lägg till grundläggande inlägg, e-postprogram eller smarta kampanjer.
 title: Skapa transaktioner direkt i marknadsföringskalendern
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---

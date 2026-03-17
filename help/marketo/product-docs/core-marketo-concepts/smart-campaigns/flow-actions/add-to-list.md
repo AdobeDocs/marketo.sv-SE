@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146952
-description: Lägg till i lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till personer i en lista med flödessteget Lägg till i lista. Använd det för att skapa listor från kampanjåtgärder.
 title: Lägg till i listan
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -20,5 +20,3 @@ Det här flödessteget används för att lägga till personer i listor.
 Sök efter och välj den lista som du vill lägga till dina personer i.
 
 ![](assets/add-to-list-2.png)
-
-Ganska enkelt!

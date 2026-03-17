@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952636
-description: Hitta duplicerade personer med anpassad logik - Marketo Docs - produktdokumentation
+description: Lär dig hur du söker efter duplicerade personer med anpassad logik. Skapa en smart lista för att identifiera dubbletter utifrån dina kriterier.
 title: Sök efter duplicerade personer med anpassad logik
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

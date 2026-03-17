@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: Definiera smart lista för smart kampanj | Utlösare - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar den smarta listan för en utlösare för en smart kampanj. Ange filter som kvalificerar personer för utlösaren.
 title: Definiera smart lista för smart kampanj | Utlösare
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Låt en Smart Campaign köras på en person i taget baserat på live-händelser 
    >
    >Med flera utlösare går en person igenom flödet om _ANY_ någon av utlösarna aktiveras.
 
-Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

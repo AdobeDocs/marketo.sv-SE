@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7516612
-description: Mobilappar - Marketo Docs - produktdokumentation
+description: Läs om Marketo mobilappar som Event Check-in och Marketo Moments. Kolla in deltagarna och se viktiga insikter när de är som mest viktiga.
 title: Mobilappar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783557
-description: Markerar det klart - Marketo Docs - produktdokumentation
+description: Lär dig hur du markerar ett ögonblick som det är gjort i appen Marketo Moments. Rensa objekt från listan när du är klar.
 title: Markera färdig
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 

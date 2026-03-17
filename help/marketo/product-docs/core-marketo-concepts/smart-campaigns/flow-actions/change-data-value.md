@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146960
-description: Ändra datavärde - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar ett datavärde i ett flödessteg för en smart kampanj. Uppdatera person- eller företagsfält i flödet.
 title: Ändra datavärde
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---

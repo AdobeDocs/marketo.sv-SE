@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147136
-description: Redigera poster i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar poster i programschemavy. Ändra datum, namn och information för schemalagda objekt.
 title: Redigera poster i programschemavy
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

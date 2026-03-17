@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147126
-description: Använda hemfliken Program - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder fliken Program - startsida. Se programöversikt, prestanda och nyckeldetaljer på ett och samma ställe.
 title: Använda fliken Program
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---

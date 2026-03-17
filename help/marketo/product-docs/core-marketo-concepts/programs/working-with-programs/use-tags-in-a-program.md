@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147150
-description: Använd taggar i ett program - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder taggar i ett program. Lägg till taggar för att ordna program och aktivera filtrering i kalendern och rapporterna.
 title: Använd taggar i ett program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '168'
 ht-degree: 2%
 
 ---

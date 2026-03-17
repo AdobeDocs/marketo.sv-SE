@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: Smarta listor - Marketo Docs - produktdokumentation
+description: Läs om smarta listor för att hitta grupper med personer som har filter i Marketo. Skapa och använd smarta listor i kampanjer, program och rapporter.
 title: Smarta listor
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949413
-description: Lägg till en begränsning i ett smart listfilter - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till en begränsning i ett Smart List-filter. Förfina filtren med ytterligare villkor om du vill ha mer exakta listor.
 title: Lägga till en begränsning i ett smart listfilter
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

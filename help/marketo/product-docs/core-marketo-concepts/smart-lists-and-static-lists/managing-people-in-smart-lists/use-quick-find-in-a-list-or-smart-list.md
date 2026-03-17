@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: Använd Snabbsökning i en lista eller smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder Snabbsökning i en lista eller Smart List. Sök efter en viss person efter namn eller e-postadress i listan.
 title: Använd snabbsökning i en lista eller smart lista
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

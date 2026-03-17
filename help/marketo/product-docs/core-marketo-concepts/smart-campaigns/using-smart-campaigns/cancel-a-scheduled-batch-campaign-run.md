@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147058
-description: Avbryt en schemalagd batchkampanjkörning - Marketo Docs - produktdokumentation
+description: Lär dig hur du avbryter en schemalagd batchkampanjkörning. Ta bort en schemalagd engångskörning så att den inte körs.
 title: Avbryt en schemalagd batchkampanjkörning
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---

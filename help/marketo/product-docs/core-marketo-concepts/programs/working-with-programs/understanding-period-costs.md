@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504676
-description: Förstå periodkostnader - Marketo Docs - produktdokumentation
+description: Läs mer om periodkostnader i program för att spåra utgifter. Tilldela kostnader till programperioder för rapportering och avkastning.
 title: Förstå periodkostnader
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---

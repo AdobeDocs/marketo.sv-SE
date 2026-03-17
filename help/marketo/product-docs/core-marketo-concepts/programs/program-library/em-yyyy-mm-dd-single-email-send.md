@@ -1,11 +1,11 @@
 ---
-description: EM-YYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
+description: Programmall för skicka e-post. Använd det för att skicka engångskampanjer via e-post med en tydlig namnkonvention.
 title: EM-YYY-MM-DD-Single Email Send
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '290'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 I det här exemplet skickas ett e-postmeddelande med ett Marketo Engage e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

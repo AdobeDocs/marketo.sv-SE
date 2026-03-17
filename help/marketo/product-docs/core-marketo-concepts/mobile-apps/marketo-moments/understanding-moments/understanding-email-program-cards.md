@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: Understanding Email Program Cards - Marketo Docs - Product Documentation
+description: Läs mer om e-postprogramkort i Marketo Moments. Visa status för e-postprogram och vidta åtgärder från mobilappen.
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

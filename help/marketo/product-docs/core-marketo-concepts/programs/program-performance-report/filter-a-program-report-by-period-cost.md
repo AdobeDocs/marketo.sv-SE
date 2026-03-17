@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147237
-description: Filtrera en programrapport efter periodkostnad - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar en programrapport efter periodkostnad. Visa programresultat för specifika kostnadsperioder.
 title: Filtrera en programrapport efter periodkostnad
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

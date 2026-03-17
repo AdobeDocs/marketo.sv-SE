@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: Förhandsgranska ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du förhandsgranskar ett e-postmeddelande i Marketo Moments. Visa hur e-postmeddelandet kommer att se ut innan det skickas från mobilappen.
 title: Förhandsgranska e-post
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 1%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355569
-description: Anpassade fält för programmedlemmar - Marketo Docs - produktdokumentation
+description: Läs mer om anpassade fält för programmedlemmar. Lagra och använd anpassade data för varje person i ett program.
 title: Anpassade fält för programmedlem
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
+* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har någon, kommer förlorarens värde att användas.
 * Ändringstypen tillåts inte i fält för programmedlemsinformation.
 * Begränsningen &quot;contains&quot; Smart List stöds inte för anpassade fält för programmedlem.

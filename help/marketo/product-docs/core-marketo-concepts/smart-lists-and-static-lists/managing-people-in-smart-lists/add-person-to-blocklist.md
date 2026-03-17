@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438139
-description: Lägg till person i Blockeringslista - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en person i blockeringslista. Förhindra att e-postmeddelanden skickas till specifika personer eller domäner.
 title: Lägg till person i Blockeringslista
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147042
-description: Bifoga data i ett fält - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till data i ett fält i ett flödessteg. Lägg till text i befintliga fältvärden utan att skriva över.
 title: Lägg till data i ett fält
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

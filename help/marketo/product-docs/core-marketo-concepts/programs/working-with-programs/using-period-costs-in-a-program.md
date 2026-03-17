@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147118
-description: Använda periodkostnader i ett program - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder periodkostnader i ett program. Lägg till och tilldela kostnader till programperioder för avkastningsrapportering.
 title: Använda periodkostnader i ett program
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---

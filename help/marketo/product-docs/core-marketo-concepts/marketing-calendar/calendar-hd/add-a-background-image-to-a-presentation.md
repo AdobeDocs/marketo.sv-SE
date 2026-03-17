@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504437
-description: Lägg till en bakgrundsbild i en presentation - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en bakgrundsbild i en Marketing Calendar-presentation. Anpassa presentationen genom att välja en bild i biblioteket.
 title: Lägga till en bakgrundsbild i en presentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

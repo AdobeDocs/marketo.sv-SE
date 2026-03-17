@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147021
-description: Ändra ägare - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar Salesforce ägare i ett flödessteg. Tilldela en ny lead- eller kontaktägare när personer går in i flödet.
 title: Ändra ägare
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

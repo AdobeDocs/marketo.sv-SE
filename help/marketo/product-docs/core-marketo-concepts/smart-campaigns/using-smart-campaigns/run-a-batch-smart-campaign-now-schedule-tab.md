@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146933
-description: Kör en batchsmart kampanj nu | Fliken Schema - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör en batch med Smart Campaign nu från fliken Schema. Kör kampanjen direkt i stället för att schemalägga den.
 title: Kör en batchsmart kampanj nu | Fliken Schema
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

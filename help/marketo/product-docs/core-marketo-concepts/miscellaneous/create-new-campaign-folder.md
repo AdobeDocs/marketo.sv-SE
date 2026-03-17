@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953207
-description: Skapa ny kampanjmapp - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en ny kampanjmapp i marknadsföringsaktiviteter. Organisera arbetsytan med kampanjmappar för automatisering och resurser.
 title: Skapa ny kampanjmapp
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 1%
 
 ---

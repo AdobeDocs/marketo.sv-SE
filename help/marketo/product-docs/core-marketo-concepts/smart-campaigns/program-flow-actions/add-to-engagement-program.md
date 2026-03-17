@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147011
-description: Lägg till i Engagement Program - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till personer i ett engagemangsprogram med ett flödessteg. Lägg till medlemmar i en ström när de kommer in i flödet.
 title: Lägg till i engagemangsprogram
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

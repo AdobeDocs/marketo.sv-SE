@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: Redigera tävlingsbidrag direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar poster direkt i marknadsföringskalendern. Använd programfokus för att schemalägga om, byta namn på eller ändra information om tävlingsbidraget.
 title: Redigera poster direkt i marknadsföringskalendern
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: Skapa och ändra vyer för listor och smarta listor - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och ändrar vyer för listor och smarta listor. Anpassa vilka kolumner som ska visas på fliken Personer.
 title: Skapa och ändra vyer för listor och smarta listor
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: Navigera i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig navigera i programschemavy. Gå igenom tid och visa schemalagda bidrag i programmet.
 title: Navigera i programschemavy
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147001
-description: Använda logik för standardregel för smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder standardlogik för regler för smarta listor i en smart kampanj. Kombinera filter med AND-logik för kvalificering.
 title: Använda logik för standardregel för smart lista
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

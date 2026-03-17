@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953415
-description: Använda personinformationssidan - Marketo Docs - produktdokumentation
+description: Lär dig använda personinformationssidan. Visa och redigera leadinformation, aktivitet och kör flödessteg från ett ställe.
 title: Använda personinformationssidan
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 14%
+source-wordcount: '537'
+ht-degree: 13%
 
 ---
 
@@ -60,7 +60,7 @@ Personinformation kategoriseras på följande flikar:
 
 >[!NOTE]
 >
->Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
+>Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 

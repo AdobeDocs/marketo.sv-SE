@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504120
-description: Starta en presentation - Marketo Docs - produktdokumentation
+description: Lär dig hur du startar en presentation av en marknadsföringskalender när du har angett vyer och rotation. Visa den på en HDTV eller en extern skärm.
 title: Starta en presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---

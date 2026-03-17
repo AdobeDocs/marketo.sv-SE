@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514985
-description: Schemalägg om en batchvis smart kampanj i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig hur du schemalägger om en grupp med smarta kampanjer i programschemavy. Ändra när en batchkampanj körs.
 title: Schemalägg om en batchvis smart kampanj i programschemavy
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

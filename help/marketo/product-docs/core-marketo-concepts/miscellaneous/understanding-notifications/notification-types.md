@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953243
-description: Meddelandetyper - Marketo Docs - produktdokumentation
+description: Läs mer om meddelandetyper i Marketo, inklusive kampanjfel, CRM-synkronisering och engagemang. Förstå vad varje varning betyder.
 title: Meddelandetyper
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '247'
 ht-degree: 1%
 
 ---
@@ -60,4 +60,4 @@ Du meddelas när du når din dagliga kvot. Kvotmängden återställs varje natt 
 
 >[!NOTE]
 >
->En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/error-codes).
+>En del felkoder som du kan få beskrivs i [Utvecklardokumentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147029
-description: Ändra status i SFDC Campaign - Marketo Docs - Produktdokumentation
+description: Lär dig hur du ändrar status i en Salesforce-kampanj med ett flödessteg. Uppdatera medlemsstatus i den länkade SFDC-kampanjen.
 title: Ändra status i SFDC Campaign
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

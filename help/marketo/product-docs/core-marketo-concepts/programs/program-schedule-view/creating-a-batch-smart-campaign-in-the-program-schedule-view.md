@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147142
-description: Skapa en batchvis smart kampanj i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en grupp med smarta kampanjer från programschemavy. Lägg till och konfigurera en gruppkampanjpost.
 title: Skapa en batchsmart kampanj i programschemavy
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---

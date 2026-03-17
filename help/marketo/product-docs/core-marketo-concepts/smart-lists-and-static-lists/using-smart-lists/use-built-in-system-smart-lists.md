@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: Använd inbyggda/systemsmarta listor - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder inbyggda smarta listor och systemsmarta listor. Använd färdiga listor som All People eller All Unsubscribed i kampanjer.
 title: Använd inbyggda/systemsmarta listor
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---

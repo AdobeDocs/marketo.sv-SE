@@ -1,14 +1,14 @@
 ---
 unique-page-id: 30081815
-description: Konfigurera Adobe Experience Manager-integrering - Marketo Docs - produktdokumentation
+description: Lär dig konfigurera Adobe Experience Manager-integrering med Marketo. Konfigurera AEM så att du kan komma åt och importera material till Design Studio.
 title: Konfigurera Adobe Experience Manager-integrering
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---

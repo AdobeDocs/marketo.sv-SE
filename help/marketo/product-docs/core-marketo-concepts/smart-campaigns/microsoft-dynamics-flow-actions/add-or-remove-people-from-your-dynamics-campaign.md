@@ -1,11 +1,11 @@
 ---
-description: Lägg till eller ta bort personer från din [!DNL Dynamics] kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till eller tar bort personer från en Microsoft Dynamics-kampanj med ett flödessteg. Synkronisera Marketo med Dynamics-kampanjer.
 title: Lägg till eller ta bort personer från din [!DNL Dynamics] kampanj
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---

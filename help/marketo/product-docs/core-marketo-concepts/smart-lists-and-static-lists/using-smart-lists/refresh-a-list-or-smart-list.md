@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557318
-description: Uppdatera en lista eller smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du uppdaterar en lista eller smart lista. Uppdatera personerna i listan så att de återspeglar aktuella filterresultat eller medlemskap.
 title: Uppdatera en lista eller smart lista
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---

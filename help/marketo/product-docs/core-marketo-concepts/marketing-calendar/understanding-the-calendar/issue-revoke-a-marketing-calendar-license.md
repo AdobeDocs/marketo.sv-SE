@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147255
-description: Utfärda/återkalla en licens för en marknadsföringskalender - Marketo Docs - produktdokumentation
+description: Lär dig hur du utfärdar eller återkallar en licens för en marknadsföringskalender för användare. Bevilja eller ta bort kalenderåtkomst.
 title: Utfärda/återkalla en licens för en marknadsföringskalender
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 1%
 
 ---

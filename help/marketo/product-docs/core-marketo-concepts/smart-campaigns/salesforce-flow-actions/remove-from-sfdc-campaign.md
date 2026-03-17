@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147036
-description: Ta bort från SFDC Campaign - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort personer från en Salesforce-kampanj med ett flödessteg. Ta bort medlemmar från SFDC kampanj i flödet.
 title: Ta bort från SFDC Campaign
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---

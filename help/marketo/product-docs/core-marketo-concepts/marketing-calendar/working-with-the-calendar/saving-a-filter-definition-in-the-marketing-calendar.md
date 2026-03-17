@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147296
-description: Spara en filterdefinition i marknadsföringskalendern - Marketo Docs - produktdokumentation
+description: Lär dig hur du sparar en filterdefinition i marknadsföringskalendern. Spara filter för att snabbt växla mellan olika filterdefinitioner.
 title: Spara en filterdefinition i marknadsföringskalendern
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---

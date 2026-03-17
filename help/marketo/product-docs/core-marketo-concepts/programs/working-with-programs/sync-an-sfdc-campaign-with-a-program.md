@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147154
-description: Synkronisera en SFDC-kampanj med ett program - Marketo Docs - produktdokumentation
+description: Lär dig synkronisera en Salesforce-kampanj med ett Marketo-program. Synkronisera medlemsstatus mellan SFDC och Marketo.
 title: Synkronisera en SFDC Campaign med ett program
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146935
-description: Aktivera en utlösare för smart kampanj | Fliken Schema - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar en utlösare för Smart Campaign på fliken Schema. Aktivera kampanjen så att den börjar lyssna efter utlösare.
 title: Aktivera en utlösare för smart kampanj | Fliken Schema
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953364
-description: Förstå/aktivera programfokus - Marketo Docs - produktdokumentation
+description: Förstå hur ni kan använda Program Focus för att interagera med Marketing Calendar-poster. Aktivera fokus på ett program för att skapa, redigera, ta bort eller bekräfta inlägg.
 title: Förstå/aktivera programfokus
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

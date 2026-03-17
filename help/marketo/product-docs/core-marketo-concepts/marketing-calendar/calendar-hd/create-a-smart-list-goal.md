@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504128
-description: Skapa ett smart listmål - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar målet Smart List i marknadsföringskalendern. Följ upp utvecklingen med mål som uppdateras automatiskt varannan timme i presentationer.
 title: Skapa ett mål för en smart lista
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---

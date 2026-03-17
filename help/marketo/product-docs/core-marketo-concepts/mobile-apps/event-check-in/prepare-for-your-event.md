@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: Förbered dig för ditt event - Marketo Docs - produktdokumentation
+description: Lär dig hur du förbereder dig för en händelse med en incheckning. Konfigurera appen och synkronisera ditt händelseprogram innan deltagarna kommer fram.
 title: Förbered dig för ditt evenemang
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953358
-description: Ta bort poster direkt i marknadsföringskalendern - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort poster direkt från marknadsföringskalendern.
 title: Radera transaktioner direkt i marknadsföringskalendern
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---

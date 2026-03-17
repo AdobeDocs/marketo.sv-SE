@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146987
-description: Ta bort ett flödessteg - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort ett flödessteg från en smart kampanj. Ta bort åtgärder som du inte längre behöver från flödet.
 title: Ta bort ett flödessteg
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---

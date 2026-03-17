@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: Clone a Program - Marketo Docs - produktdokumentation
+description: Lär dig klona ett program och alla dess resurser. Skapa en kopia i en kampanjmapp eller arbetsyta utan att behöva bygga om manuellt.
 title: Klona ett program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---

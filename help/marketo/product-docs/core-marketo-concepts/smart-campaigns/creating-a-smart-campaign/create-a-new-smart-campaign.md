@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146931
-description: Skapa en ny smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en ny smart kampanj. Ställ in utlösare för en smart lista och lägg till flödessteg för att automatisera åtgärder.
 title: Skapa en ny smart kampanj
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -39,5 +39,5 @@ Smarta kampanjer är det viktigaste verktyget i Marketo Engage. De kan aktiveras
 
    >[!MORELIKETHIS]
    >
-   >* [Definiera smart lista för smart kampanj | Grupp &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Definiera smart lista för smart kampanj | Utlösare &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

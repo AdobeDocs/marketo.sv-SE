@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147316
-description: Skapa en person manuellt - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en person manuellt i databasen. Lägg till en ny lead eller kontakt med e-post- och fältvärden.
 title: Skapa en person manuellt
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

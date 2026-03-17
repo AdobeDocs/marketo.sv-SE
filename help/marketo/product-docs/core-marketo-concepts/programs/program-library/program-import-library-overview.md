@@ -1,11 +1,11 @@
 ---
-description: Översikt över programimportbiblioteket - Marketo Docs - produktdokumentation
+description: Läs mer om Program Import Library och mallprogram. Använd mallar för att snabbt skapa program utifrån bästa praxis.
 title: Översikt över programimportbiblioteket
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Marketo Engage Reference Library innehåller flera startprogram som du kan importera direkt till din Marketo-instans för att snabbt komma igång med att skapa program som kan hjälpa ditt team.
 
-Biblioteket innehåller program som e-post, engagemang, event, poängsättning, leveransbarhet och driftsättning. Alla program har utvecklats av Adobe Product Team och granskats av vårt [globala Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} -team för att maximera kvaliteten och effektiviteten.
+Biblioteket innehåller program som e-post, engagemang, event, poängsättning, leveransbarhet och driftsättning. Alla program har utvecklats av Adobe Product Team och granskats av vårt [globala Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} -team för att maximera kvaliteten och effektiviteten.
 
 ## Exempel på tillgängliga program {#available-program-examples}
 

@@ -1,13 +1,13 @@
 ---
-description: Enstaka flödesåtgärder från personinformationssidan - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör en enskild flödesåtgärd från personinformationssidan. Kör ett flödessteg för en person på begäran.
 title: Enstaka flödesåtgärder från personinformationssidan
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

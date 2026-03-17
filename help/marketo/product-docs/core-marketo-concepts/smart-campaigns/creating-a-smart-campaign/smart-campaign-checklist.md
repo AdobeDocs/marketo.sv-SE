@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: Checklista för smarta kampanjer - Marketo Docs - produktdokumentation
+description: Få hjälp med checklistan för Smart Campaign. Använd den här listan för att verifiera att kampanjen är korrekt konfigurerad innan den aktiveras.
 title: Kontrolllista för smart kampanj
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---

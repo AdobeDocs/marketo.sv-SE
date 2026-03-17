@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147324
-description: Rensa fältvärden - Marketo Docs - produktdokumentation
+description: Lär dig hur du rensar fältvärden i ett flödessteg för en smart kampanj. Ta bort värden från person- eller företagsfält.
 title: Rensa fältvärden
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

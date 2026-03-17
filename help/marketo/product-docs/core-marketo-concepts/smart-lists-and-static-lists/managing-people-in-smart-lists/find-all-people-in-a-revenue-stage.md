@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557331
-description: Hitta alla personer på en intäktsscen - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar alla i ett intäktsskede. Använd intäktsfasfiltret för att skapa en lista eller ett segment.
 title: Söka efter alla personer i en intäktsfas
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

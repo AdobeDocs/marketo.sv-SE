@@ -1,12 +1,12 @@
 ---
-description: OP-Lead Management - Marketo Docs - produktdokumentation
+description: mall för operativt program för ledarhantering. Använd den för att hantera leadlivscykeln och poängsättningen.
 title: OP-Lead Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 0%
+source-wordcount: '272'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Detta är ett exempel på arbetsflöden för bästa praxis för leadhantering, m
 >
 >I Marketo Engage kallas poster i din databas för personer/person. Leadhanteringen i det här exemplet gäller posterna i CRM.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html) .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) .
 
 ## Kanalsammanfattning {#channel-summary}
 

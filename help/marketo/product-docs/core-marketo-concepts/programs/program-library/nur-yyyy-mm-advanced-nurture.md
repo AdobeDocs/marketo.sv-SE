@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - produktdokumentation
+description: Programmall för avancerad struktur. Använd den för näring av flera strömmar med en namnkonvention.
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Detta är ett exempel på avancerade utbildningsprogram som använder Marketo Engage Engagement Program. Kapslade e-postprogram hindrar människor från att ta emot innehåll som de redan har konsumerat eller styr vilken typ av innehåll de ska använda i varje ström. Attributrapportering kan köras för varje enskilt kapslat e-postprogram. Kanaler: &quot;Inturer&quot; och en dedikerad &quot;Inurture Email&quot;-kanal för kapslade e-postprogram skickar ett nyhetsbrev via Marketo Engage e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

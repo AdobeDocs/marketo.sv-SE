@@ -1,11 +1,11 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketo landningssida - Marketo Docs - produktdokumentation
+description: Advertising Marketo landningssida online. Använd det för betalda kampanjer med Marketo-sidor.
 title: OA-YYY-MM-Online Advertising Marketo startsida
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Detta är ett exempel på ett program för onlinereklam, som en Marketo Landing Page med registreringsblankett och ett Marketo standardprogram. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

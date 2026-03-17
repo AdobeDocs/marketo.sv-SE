@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147089
-description: Programförståelse - Marketo Docs - produktdokumentation
+description: Läs om program i Marketo för att ordna kampanjer och resurser. Använd program för att gruppera e-post, landningssidor och smarta kampanjer.
 title: Förstå program
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

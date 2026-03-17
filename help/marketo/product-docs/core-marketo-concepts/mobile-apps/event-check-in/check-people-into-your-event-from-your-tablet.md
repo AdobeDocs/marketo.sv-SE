@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Checka in personer i ditt event från din surfplatta - Marketo Docs - produktdokumentation
+description: Lär dig hur du checkar in personer i ett evenemang från en surfplatta. Använd appen Händelsekontroll för att skanna och checka in deltagare.
 title: Checka in personer i din aktivitet från surfplattan
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '828'
 ht-degree: 0%
 
 ---

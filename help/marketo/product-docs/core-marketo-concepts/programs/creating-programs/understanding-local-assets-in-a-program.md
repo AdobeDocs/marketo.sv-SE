@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147093
-description: Understanding Local Assets in a Program - Marketo Docs - Product Documentation
+description: Lär dig mer om lokala resurser i ett program. Förstå hur e-post, landningssidor och andra resurser finns inuti program.
 title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: Bästa praxis -Hur du organiserar program - Marketo Docs - Produktdokumentation
+description: Få hjälp med de effektivaste strategierna för att ordna dina program. Strukturera kampanjmappar och program för tydlighet och skalbarhet.
 title: Bästa praxis -Så här organiserar du dina program
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -121,4 +121,4 @@ En del människor kan till och med abstrahera större delen av texten i e-postme
 
 ## Sammanfattning {#summary}
 
-Som du ser finns det mycket kraft i Marketo. Vi har behandlat grunderna här, men överväg att skaffa ytterligare tjänster från [Marketo Engage-experter](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"} för att finjustera och konfigurera dig själv för att lyckas.
+Som du ser finns det mycket kraft i Marketo. Vi har behandlat grunderna här, men överväg att skaffa ytterligare tjänster från [Marketo Engage-experter](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} för att finjustera och konfigurera dig själv för att lyckas.

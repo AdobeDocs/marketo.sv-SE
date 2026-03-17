@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147031
-description: Ta bort person från SFDC - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en person från Salesforce med ett flödessteg. Ta bort leadet eller kontakten från SFDC när de kommer in i flödet.
 title: Ta bort person från SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

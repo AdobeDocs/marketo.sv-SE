@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Anpassade fälttoken för programmedlem - Marketo Docs - produktdokumentation
+description: Lär dig mer om anpassade fälttoken för programmedlemmar. Använd variabler för att infoga medlemsdata i e-postmeddelanden och landningssidor.
 title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

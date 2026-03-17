@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514898
-description: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested" - Marketo Docs - Product Documentation
+description: Lär dig hur du ställer in en utlösande smart kampanj för försäljning med Campaign begärs. Låt säljkampanjer begära leads från CRM.
 title: Konfigurera en utlösare smart kampanj för försäljning med"Campaign is Requested"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: E-postmall för snabbstart - Marketo Docs - produktdokumentation
+description: E-postmall för snabbstart. Använd det för att snabbt skapa e-postmeddelanden från en färdig mall.
 title: E-postmall för snabbstart
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Marketo Engage e-postredigerare har funktioner som hjälper dig att ändra layou
 
 * **Variabler**: När en modul är markerad visas variabler till höger om redigeraren. De kan användas för att justera attribut i modulen som inte är så lätt att redigera via bild- eller textelement.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Modulsammanfattning {#modules-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557322
-description: Köra ett enda flödessteg från en smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör ett enda flödessteg från en smart lista. Kör en flödesåtgärd för valda personer från listan.
 title: Köra ett enda flödessteg från en smart lista
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---

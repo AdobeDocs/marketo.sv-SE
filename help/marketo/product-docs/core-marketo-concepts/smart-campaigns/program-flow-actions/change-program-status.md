@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147007
-description: Ändra programstatus - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar programstatus i ett flödessteg. Ange medlemskapsstatus till Slutfört, eller någon annan status, när de anger flödet.
 title: Ändra programstatus
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

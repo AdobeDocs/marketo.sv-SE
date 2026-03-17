@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360496
-description: Lägg till flera värden i ett smart listfilter - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till flera värden i ett Smart List-filter. Matcha något av flera värden i ett filter för flexibilitet.
 title: Lägga till flera värden i ett smart listfilter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---

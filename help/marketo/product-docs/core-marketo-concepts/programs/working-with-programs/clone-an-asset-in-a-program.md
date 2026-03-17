@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147152
-description: Clone an Asset in a Program - Marketo Docs - Product Documentation
+description: Lär dig hur du klonar en resurs i ett program. Skapa en kopia av ett e-postmeddelande, en landningssida eller annan lokal resurs.
 title: Klona en resurs i ett program
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

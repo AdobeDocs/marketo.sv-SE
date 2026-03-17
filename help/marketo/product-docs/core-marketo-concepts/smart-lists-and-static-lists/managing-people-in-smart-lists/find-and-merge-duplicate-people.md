@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: Sök och sammanfoga duplicerade personer - Marketo Docs - produktdokumentation
+description: Lär dig hur du söker efter och sammanfogar duplicerade personer. Kombinera dubblettposter i en och rensa databasen.
 title: Sök och sammanfoga duplicerade personer
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---

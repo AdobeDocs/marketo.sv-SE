@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557316
-description: Definiera smarta listfilter - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar smarta listfilter. Ange filterbegränsningar och värden för att bestämma vem som visas i listan.
 title: Definiera smarta listfilter
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

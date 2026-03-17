@@ -1,11 +1,11 @@
 ---
-description: Synkronisering av anpassade fält för programmedlem - Marketo Docs - produktdokumentation
+description: Läs mer om anpassad fältsynkronisering med Salesforce. Synkronisera anpassade medlemsdata med CRM.
 title: Synkronisering av anpassat fält för programmedlem
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

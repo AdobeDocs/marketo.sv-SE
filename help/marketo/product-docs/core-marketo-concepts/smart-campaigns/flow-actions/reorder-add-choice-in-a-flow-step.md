@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: Ändra ordning på Lägg till alternativ i ett flödessteg - Marketo Docs - Produktdokumentation
+description: Lär dig hur du ändrar ordning på alternativen Lägg till alternativ i ett flödessteg. Ändra ordningen på urvalsgrenarna i kampanjen.
 title: Ändra ordning på Lägg till alternativ i ett flödessteg
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

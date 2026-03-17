@@ -1,12 +1,12 @@
 ---
-description: Skapa en concierge - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en Brand Concierge och lägger till kunskapskällor. Konfigurera ditt första möte med produktkataloger eller webbplatslänkar.
 title: Skapa ett koncierge
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 0%
 
 ---

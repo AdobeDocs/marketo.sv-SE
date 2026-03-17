@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147116
-description: Hantera mina token - Marketo Docs - produktdokumentation
+description: Lär dig hur du hanterar Mina token i ett program. Skapa och använd tokens för att personalisera programinnehåll och e-post.
 title: Hantera mina token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---

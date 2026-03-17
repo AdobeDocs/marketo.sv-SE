@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147134
-description: Flytta poster i programschemavy - Marketo Docs - produktdokumentation
+description: Lär dig hur du flyttar poster i programschemavy. Dra och släpp för att schemalägga om poster i kalendern.
 title: Flytta poster i programschemavy
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---

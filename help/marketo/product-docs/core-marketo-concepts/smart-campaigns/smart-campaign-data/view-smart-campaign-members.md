@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146937
-description: Visa medlemmar i smarta kampanjer - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar medlemmar i Smart Campaign. Se vilka som är med i kampanjen och deras status i flödet.
 title: Visa medlemmar i smarta kampanjer
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

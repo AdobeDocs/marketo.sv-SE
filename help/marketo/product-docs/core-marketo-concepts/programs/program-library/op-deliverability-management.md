@@ -1,12 +1,12 @@
 ---
-description: OP-Deliverability Management - Marketo Docs - produktdokumentation
+description: Mall för operativt program för leveranshantering. Använd det för att upprätthålla e-postleveransen.
 title: OP-Deliverability Management
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Detta är ett exempel på arbetsflöden för hantering av bästa praxis för lev
 >
 >Kräver det anpassade strängfältet&quot;Orsak till pausad marknadsföring&quot; för import. [Läs mer](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

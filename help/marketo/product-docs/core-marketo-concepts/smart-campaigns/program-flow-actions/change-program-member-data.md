@@ -1,11 +1,11 @@
 ---
-description: Change Program Member Data - Marketo Docs - Product Documentation
+description: Lär dig hur du ändrar programmedlemsdata i ett flödessteg. Uppdatera medlemsstatus eller anpassade fält för personer i ett program.
 title: Ändra medlemsuppgifter för program
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---

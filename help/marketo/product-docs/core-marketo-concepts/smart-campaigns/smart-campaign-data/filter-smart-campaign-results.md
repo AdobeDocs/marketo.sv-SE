@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147068
-description: Filtrera resultat från smarta kampanjer - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar resultaten för Smart Campaign. Begränsa de personer som visas i kampanjresultatvyn efter villkor.
 title: Filtrera resultat för smart kampanj
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

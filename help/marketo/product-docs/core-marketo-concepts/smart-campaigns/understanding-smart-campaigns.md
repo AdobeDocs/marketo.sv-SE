@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953120
-description: Om smarta kampanjer - Marketo Docs - produktdokumentation
+description: Läs om smarta kampanjer för automatisering i Marketo. Använd triggers och flödessteg för att automatisera leadnäring och åtgärder.
 title: Om smarta kampanjer
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 12%
+source-wordcount: '261'
+ht-degree: 11%
 
 ---
 

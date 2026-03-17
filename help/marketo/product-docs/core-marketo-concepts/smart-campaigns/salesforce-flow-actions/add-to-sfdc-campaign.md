@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147034
-description: Lägg till i SFDC Campaign - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till personer i en Salesforce-kampanj med ett flödessteg. Synkronisera Marketo-leads till SFDC-kampanjer.
 title: Lägg till i SFDC Campaign
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

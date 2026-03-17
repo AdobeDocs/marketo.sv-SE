@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146954
-description: Ta bort från lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort personer från en lista med ett flödessteg. Använd den för att synkronisera listor med beteenden eller status.
 title: Ta bort från lista
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---

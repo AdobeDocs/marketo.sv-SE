@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11387513
-description: Skapa en statisk lista - Marketo Docs - produktdokumentation
+description: Lär dig skapa en statisk lista i Marketo. Lägg till en lista i databasen och lägg till personer manuellt eller genom att importera.
 title: Skapa en statisk lista
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

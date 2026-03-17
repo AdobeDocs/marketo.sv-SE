@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146944
-description: Lägg till ett flödessteg i en smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett flödessteg i en smart kampanj. Infoga åtgärder som skicka e-post, ändra datavärde eller lägg till i listan.
 title: Lägg till ett flödessteg i en smart kampanj
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

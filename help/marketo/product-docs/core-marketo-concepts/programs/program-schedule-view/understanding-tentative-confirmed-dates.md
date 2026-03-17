@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: Introduktion till preliminära/bekräftade datum - Marketo Docs - produktdokumentation
+description: Lär dig mer om preliminära och bekräftade datum i programplaneringsvyn. Förstå när poster är låsta och när de körs.
 title: Förstå preliminära/bekräftade datum
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

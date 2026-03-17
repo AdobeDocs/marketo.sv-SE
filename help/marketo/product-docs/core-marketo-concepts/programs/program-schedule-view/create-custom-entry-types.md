@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147245
-description: Skapa anpassade anmälningstyper - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar anpassade anmälningstyper i programschemavy. Lägg till anmälningstyper som matchar processen.
 title: Skapa anpassade posttyper
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 

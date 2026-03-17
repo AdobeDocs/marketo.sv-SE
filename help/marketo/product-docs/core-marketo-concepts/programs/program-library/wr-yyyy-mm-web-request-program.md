@@ -1,12 +1,12 @@
 ---
-description: WR-YYYY-MM-Web Request Program - Marketo Docs - Produktdokumentation
+description: Programmall för webbförfrågan. Använd det för att skicka material och formulär.
 title: WR-YYYY-MM-Web Request Program
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Detta är ett exempelprogram som är idealiskt för kontaktförfrågningar, offertförfrågningar, demonstrationsförfrågningar eller testförfrågningar med hjälp av ett Marketo Engage standardprogram. Kan användas med Marketo landningssidor eller som ett inbäddat formulär på landningssidor som inte kommer från Marketo. Ett varningsmeddelande skickas till en angiven person när formuläret skickas in.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

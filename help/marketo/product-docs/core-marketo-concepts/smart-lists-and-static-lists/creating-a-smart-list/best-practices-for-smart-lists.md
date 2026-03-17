@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512524
-description: Best Practices for Smart Lists - Marketo Docs - produktdokumentation
+description: Få hjälp med de effektivaste strategierna för smarta listor. Bygg snabbare och exaktare listor med dessa tips.
 title: Bästa praxis för smarta listor
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---

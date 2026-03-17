@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: Taggar - Marketo Docs - produktdokumentation
+description: Läs mer om taggar för att ordna och filtrera program. Använd taggar för att kategorisera program och filtrera rapporter.
 title: Taggar
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---

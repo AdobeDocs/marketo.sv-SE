@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514027
-description: Synkronisera person till Microsoft - Marketo Docs - produktdokumentation
+description: Lär dig hur du synkroniserar en person till Microsoft Dynamics med ett flödessteg. Överför lead-data till Dynamics när de matar in flödet.
 title: Synkronisera person till Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 1%
+source-wordcount: '83'
+ht-degree: 2%
 
 ---
 

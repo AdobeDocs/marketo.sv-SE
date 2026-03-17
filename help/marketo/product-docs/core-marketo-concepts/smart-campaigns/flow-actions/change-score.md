@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146962
-description: Change Score - Marketo Docs - Product Documentation
+description: Lär dig hur du ändrar lead-poäng i ett flödessteg. Lägg till eller ta bort poäng från en personpoäng i kampanjen.
 title: Ändra poäng
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

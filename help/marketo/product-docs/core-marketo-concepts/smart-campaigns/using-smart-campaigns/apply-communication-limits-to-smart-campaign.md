@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147064
-description: Använd kommunikationsbegränsningar för Smart Campaign - Marketo Docs - produktdokumentation
+description: Lär dig hur du tillämpar kommunikationsbegränsningar på en smart kampanj. Se hur många e-postmeddelanden eller tider som folk kan köra genom kampanjen.
 title: Använd kommunikationsbegränsningar för smart kampanj
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---

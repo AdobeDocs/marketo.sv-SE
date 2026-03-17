@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147025
-description: Använda en webkrok i en smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder en webbkrok i en Smart Campaign. Anropa en extern URL och skicka persondata från ett flödessteg.
 title: Använda en webkrok i en smart kampanj
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Använda en webkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
-Om du vill använda en [webkrok](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
+Om du vill använda en [webkrok](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
 
 >[!AVAILABILITY]
 >

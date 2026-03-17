@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953405
-description: Redigera inställningar för analysbeteende - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar inställningar för analysbeteende för ett program. Konfigurera hur framgångar och intäkter för programmen spåras.
 title: Redigera inställningar för analysbeteende
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

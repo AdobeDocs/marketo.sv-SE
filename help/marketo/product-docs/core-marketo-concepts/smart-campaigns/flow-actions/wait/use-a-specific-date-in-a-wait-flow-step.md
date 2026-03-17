@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146976
-description: Använd ett specifikt datum i ett vänteflödessteg - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder ett specifikt datum i ett vänteflödessteg. Pausa flödet tills ett fast datum och en fast tid.
 title: Använd ett specifikt datum i ett vänteflödessteg
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: Begär kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder flödessteget i Begär kampanj. Utlös en annan kampanj som ska köras när någon kommer till det här steget.
 title: Begär kampanj
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---

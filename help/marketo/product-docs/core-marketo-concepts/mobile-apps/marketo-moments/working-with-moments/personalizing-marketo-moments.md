@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: Anpassa Marketo Moments - Marketo Docs - produktdokumentation
+description: Lär dig hur du personaliserar Marketo Moments. Anpassa vilka kort och insikter som visas i mobilappsvyn.
 title: Anpassa Marketo Moments
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 1%
 
 ---
 

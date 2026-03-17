@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146972
-description: Schemalägg en återkommande batchkampanj - Marketo Docs - produktdokumentation
+description: Lär dig schemalägga en återkommande batchkampanj. Ställ in kampanjen så att den körs varje dag, vecka eller månad enligt ett schema.
 title: Schemalägg en återkommande batchkampanj
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---

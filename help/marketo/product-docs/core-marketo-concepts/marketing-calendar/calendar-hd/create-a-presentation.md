@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503971
-description: Skapa en presentation - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en presentation av en marknadsföringskalender för projektvisningar på en HDTV. Skapa arbetsytespecifika presentationer för ditt team.
 title: Skapa en presentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---

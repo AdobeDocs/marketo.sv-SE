@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093348
-description: Om smarta kampanjkort - Marketo Docs - produktdokumentation
+description: Läs om Smart Campaign-kort i Marketo Moments. Visa kampanjstatus och flödessteg från mobilappen.
 title: Förstå smarta kampanjkort
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---

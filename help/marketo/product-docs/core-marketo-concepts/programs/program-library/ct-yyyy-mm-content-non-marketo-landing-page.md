@@ -1,12 +1,12 @@
 ---
-description: CT-YYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Product Documentation
+description: Programmall för icke-Marketo landningssida. Använd det för innehåll på externa landningssidor.
 title: CT-YYY-MM-Content Non-Marketo Landing Page
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 1%
+source-wordcount: '401'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Det här är ett exempel på ett innehållsprogram med ett Marketo Engage-formulär för att hämta innehåll på en icke-Marketo Engage landningssida som använder ett Marketo Engage-standardprogram. Det här programmet är avsett att fungera med ett Marketo Engage-formulär som är inbäddat på din webbplats. Länken till erbjudandet/innehållet kan skickas i ett tackmeddelande.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147049
-description: Byt namn på en smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du byter namn på en smart kampanj. Ändra kampanjnamnet i kampanjinställningarna eller högerklicka på menyn.
 title: Byta namn på en smart kampanj
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

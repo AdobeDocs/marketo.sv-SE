@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7516639
-description: Ge användare åtkomst till incheckningsprogrammet - Marketo Docs - produktdokumentation
+description: Lär dig hur du ger användarna åtkomst till appen för händelseschning. Tilldela rollen för kontroll av mobilhändelser så att de kan checka in deltagare.
 title: Ge användare åtkomst till incheckningsappen
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---

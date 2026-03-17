@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147017
-description: Skapa aktivitet - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en Salesforce-uppgift i ett flödessteg. Skapa en uppgift för leadägaren när någon kommer in i flödet.
 title: Skapa uppgift
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

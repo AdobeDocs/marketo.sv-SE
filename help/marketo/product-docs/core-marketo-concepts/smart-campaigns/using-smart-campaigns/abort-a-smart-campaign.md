@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147053
-description: Avbryt en smart kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du avbryter en smart kampanj. Stoppa en pågående batchkampanj och förhindra att fler personer kommer in.
 title: Avbryta en smart kampanj
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

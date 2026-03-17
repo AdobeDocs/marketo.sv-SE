@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146995
-description: Använd token i flödessteg - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder variabler i flödessteg. Infoga dynamiska värden i flödessteginnehåll och e-postmeddelanden.
 title: Använd token i flödessteg
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
