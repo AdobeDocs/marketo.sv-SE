@@ -68,7 +68,7 @@ Du kan utnyttja dessa programspecifika data i smarta listor via [utlösare](/hel
 * Objektet Program Member kan ha upp till 20 anpassade fält. Dessa fält är tillgängliga för alla program.
 * När du tar bort en medlem i ett program och har data i det anpassade fältet Programmedlem, rensas data från det fältet.
 * Om du vill visa data klickar du på fliken Medlemmar i programmet och skapar en anpassad vy som innehåller dessa fält.
-* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
+* Import och export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} och [API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/home){target="_blank"} stöds. Exporterar endast arbete i programmedlemslistor, inte statiska listor.
 * När du sammanfogar två personer används vinnarens anpassade fältdata för programmedlemmen. Men om vinnaren inte har någon, kommer förlorarens värde att användas.
 * Ändringstypen tillåts inte i fält för programmedlemsinformation.
 * Begränsningen &quot;contains&quot; Smart List stöds inte för anpassade fält för programmedlem.

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Detta är ett exempel på ett program för onlinereklam, som en Marketo Landing Page med registreringsblankett och ett Marketo standardprogram. Länken till erbjudandet kan visas på tacksidan, skickas i ett tackmeddelande eller båda.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

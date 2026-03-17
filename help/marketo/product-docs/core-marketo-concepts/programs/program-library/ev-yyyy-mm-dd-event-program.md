@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Detta är ett exempel på ett eventprogram med en registreringssida, tre inbjudningsmejl och uppföljningsmejl som använder ett Marketo Engage Event Program. Passar för alla evenemang där du behöver registrera dig, inklusive reklamutskick, luncher, middagar eller presentationer vid mässor.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

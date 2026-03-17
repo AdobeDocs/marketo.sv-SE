@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Detta är ett exempel på avancerade utbildningsprogram som använder Marketo Engage Engagement Program. Kapslade e-postprogram hindrar människor från att ta emot innehåll som de redan har konsumerat eller styr vilken typ av innehåll de ska använda i varje ström. Attributrapportering kan köras för varje enskilt kapslat e-postprogram. Kanaler: &quot;Inturer&quot; och en dedikerad &quot;Inurture Email&quot;-kanal för kapslade e-postprogram skickar ett nyhetsbrev via Marketo Engage e-postprogram. E-postmeddelandet kan innehålla ett A/B-test eller inte.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

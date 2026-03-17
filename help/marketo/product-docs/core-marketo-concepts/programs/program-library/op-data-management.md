@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Det här är ett exempel på enkla arbetsflöden för datahantering med bästa praxis, med ett standardprogram, som hjälper dig att hantera datakonsekvens för poster i din Marketo Engage-databas.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Kanalsammanfattning {#channel-summary}
 

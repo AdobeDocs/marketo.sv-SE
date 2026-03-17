@@ -24,7 +24,7 @@ Marketo Engage e-postredigerare har funktioner som hjälper dig att ändra layou
 
 * **Variabler**: När en modul är markerad visas variabler till höger om redigeraren. De kan användas för att justera attribut i modulen som inte är så lätt att redigera via bild- eller textelement.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html){target="_blank"} .
 
 ## Modulsammanfattning {#modules-summary}
 

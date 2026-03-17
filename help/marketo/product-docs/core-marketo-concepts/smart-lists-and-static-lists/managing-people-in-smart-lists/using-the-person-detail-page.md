@@ -60,7 +60,7 @@ Personinformation kategoriseras på följande flikar:
 
 >[!NOTE]
 >
->Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
+>Du kan också se säljprojektsinformationen [infogad via API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/opportunities) för instanser som inte har synkroniserats med en CRM.
 
 ## Redigera ett fält {#editing-a-field}
 

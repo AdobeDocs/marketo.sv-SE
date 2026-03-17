@@ -46,7 +46,7 @@ Exempel:
   </tr>
   <tr>
    <td>E-postmeddelande <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Följ länk" rel="nofollow">här</a>. </td>
+   <td>Använd denna token för att köra ett Velocity-skript i dina e-postmeddelanden. Läs mer <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting" title="Följ länk" rel="nofollow">här</a>. </td>
   </tr>
   <tr>
    <td>Nummer <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

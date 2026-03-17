@@ -99,7 +99,7 @@ Med den här funktionen kan du överföra segment som finns i din Adobe Experien
 
    >[!NOTE]
    >
-   >Du kan mappa attribut från Experience Platform till alla attribut som din organisation har tillgång till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
+   >Du kan mappa attribut från Experience Platform till alla attribut som din organisation har tillgång till i Marketo Engage. Använd [Beskriv API-begäran](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} för att hämta attributfält som din organisation har åtkomst till.
 
 1. Mappa efternamn och företagsnamn genom att klicka på **[!UICONTROL Add New Mapping]** igen och upprepa steg 15 två gånger. Välj **[!UICONTROL lastName]** och sedan **[!UICONTROL companyName]**.
 

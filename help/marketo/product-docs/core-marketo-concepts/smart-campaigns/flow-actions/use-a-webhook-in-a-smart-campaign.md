@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Använda en webkrok i en smart kampanj {#use-a-webhook-in-a-smart-campaign}
 
-Om du vill använda en [webkrok](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
+Om du vill använda en [webkrok](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} lägger du till den i en [smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} som en flödesåtgärd.
 
 >[!AVAILABILITY]
 >

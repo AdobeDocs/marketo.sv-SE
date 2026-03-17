@@ -18,7 +18,7 @@ Detta är ett exempel på arbetsflöden för bästa praxis för leadhantering, m
 >
 >I Marketo Engage kallas poster i din databas för personer/person. Leadhanteringen i det här exemplet gäller posterna i CRM.
 
-Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) .
+Om du vill ha mer hjälp eller hjälp med att anpassa ett program kontaktar du Adobe Account Team eller går till sidan [Adobe Professional Services](https://business.adobe.com/se/customers/consulting-services/main.html) .
 
 ## Kanalsammanfattning {#channel-summary}
 
