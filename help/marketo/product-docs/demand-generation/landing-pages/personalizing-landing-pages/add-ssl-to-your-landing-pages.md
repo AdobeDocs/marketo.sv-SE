@@ -65,7 +65,7 @@ Följ stegen nedan för att aktivera SSL för din standarddomän.
 
 Följ de här stegen för att aktivera SSL för dina befintliga domänalias.
 
-1. Expandera _[!UICONTROL Admin]_i den vänstra navigeringen i området **[!UICONTROL Integration]**och välj **[!UICONTROL Landing Pages]**.
+1. Expandera _[!UICONTROL Admin]_&#x200B;i den vänstra navigeringen i området **[!UICONTROL Integration]**&#x200B;och välj **[!UICONTROL Landing Pages]**.
 
 1. På sidan väljer du fliken **[!UICONTROL Rules]** överst.
 

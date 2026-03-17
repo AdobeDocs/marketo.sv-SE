@@ -38,7 +38,7 @@ Leadannonskampanjer på Facebook genererar leads och skickar dem till Marketo f�
 
 Du kan [konfigurera offlinekonverteringar för Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) för att skicka offlineannonsprestanda till [!DNL Facebook].
 
-1. Kontrollera att [[!DNL Facebook] [!UICONTROL LaunchPoint]-integreringen ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
+1. Kontrollera att [[!DNL Facebook] [!UICONTROL LaunchPoint]-integreringen &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) är uppdaterad.
 1. Mappa faser i din intäktscykelmodell till offlinekonverteringsfaser på [!DNL Facebook].
 1. När en [!DNL Facebook]-lead genereras från en [!DNL Facebook]-lead-annons och når en mappad fas skickar Marketo tillbaka offlinekonverteringsdata till [!DNL Facebook] flera gånger dagligen via ett säkert, automatiserat API. Data visas i rapporten [!DNL Facebook] Ads Manager.
 

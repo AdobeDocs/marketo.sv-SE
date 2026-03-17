@@ -92,7 +92,7 @@ Broadcast Control lägger till ett virtuellt grönt rum i din interaktiva webbin
 
 Sändningskontroller kan ställas in så att inspelningen startar automatiskt när du lämnar det gröna rummet. Detta garanterar att värdarna inte behöver komma ihåg att starta och stoppa inspelningen manuellt. Om du pausar eller stoppar sändningen pausas eller stoppas även inspelningen. Allt är automatiskt.
 
-Läs mer om sändningskontroller [ i den här videon](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Läs mer om sändningskontroller [&#x200B; i den här videon](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chatt i inspelningar {#chats-in-recordings}
 
@@ -122,7 +122,7 @@ Så här använder du läget Förbered:
 
 Detta stänger av Förbered-läge och återställer dig till den aktiva layouten.
 
-Läs mer om Förbered läge [ i den här videon](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}.
+Läs mer om Förbered läge [&#x200B; i den här videon](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}.
 
 >[!NOTE]
 >

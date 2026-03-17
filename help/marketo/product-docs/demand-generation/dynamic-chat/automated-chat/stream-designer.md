@@ -145,7 +145,7 @@ Du kan skapa strömmar för dialogrutor eller [Forms](/help/marketo/product-docs
 
    ![](assets/stream-designer-11.png)
 
-1. Eftersom det är ett mål drar du kortet _[!UICONTROL Goal]_nedanför mötesbokningen.
+1. Eftersom det är ett mål drar du kortet _[!UICONTROL Goal]_&#x200B;nedanför mötesbokningen.
 
    ![](assets/stream-designer-12.png)
 

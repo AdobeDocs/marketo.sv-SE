@@ -46,7 +46,7 @@ Det finns _många_ attributkombinationer att välja mellan. I exemplet nedan rik
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
+1. _[!UICONTROL Is]_&#x200B;är inställt som standard. I fältet Välj värden skriver du in CA (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ Det finns ett enkelt sätt att specifikt rikta in sig på personer som inte finn
    >
    >[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies och placerar dem i systemet när någon besöker din webbplats. Vi slår upp deras IP-adresser i en särskild databas och drar nytta av all slags bra information.
 
-1. _[!UICONTROL Is]_är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
+1. _[!UICONTROL Is]_&#x200B;är inställt som standard. I fältet Välj värden skriver du NY (du kan också klicka på listrutan och välja från listan).
 
    ![](assets/audience-criteria-15.png)
 
