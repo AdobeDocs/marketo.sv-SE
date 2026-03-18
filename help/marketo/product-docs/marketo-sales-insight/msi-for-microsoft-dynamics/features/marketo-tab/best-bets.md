@@ -19,6 +19,6 @@ Genom att klicka på punktmenyn under åtgärdskolumnen kan du använda interakt
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-Du kan också välja flera leads på fliken [!DNL Best Bets] och välja _[!UICONTROL Send Marketo Email]_eller_[!UICONTROL Add to Marketo Campaign]_.
+Du kan också välja flera leads på fliken [!DNL Best Bets] och välja _[!UICONTROL Send Marketo Email]_&#x200B;eller&#x200B;_[!UICONTROL Add to Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

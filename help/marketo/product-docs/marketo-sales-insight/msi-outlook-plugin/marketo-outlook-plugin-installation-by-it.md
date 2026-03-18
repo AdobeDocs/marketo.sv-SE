@@ -17,7 +17,7 @@ Ibland kräver företagets policyer att IT-teamet installerar all programvara p�
 
 >[!PREREQUISITES]
 >
->[Konfigurera ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) företagsnyckeln.
+>[Konfigurera &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) företagsnyckeln.
 
 Kör följande kommandorad som System eller ett administratörskonto med växeln /i som ska installeras.
 

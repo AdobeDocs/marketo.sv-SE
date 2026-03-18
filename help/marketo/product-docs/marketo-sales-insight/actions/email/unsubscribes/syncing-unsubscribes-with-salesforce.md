@@ -97,6 +97,6 @@ E-postavanmälan är ett standardfält i [!DNL Salesforce] som kan installeras f
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Insight-paketet [ från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Insight-paketet [&#x200B; från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 När du har installerat Marketo Sales Insight-paketet från AppExchange till Salesforce ser du Marketo avanmälningsfält.
