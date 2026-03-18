@@ -19,5 +19,5 @@ Fem [!DNL Sales Connect]-knappar läggs till högst upp på Gmail-sidan när du 
 |---|---|
 | **[!UICONTROL Live Feed]-knapp** | Öppnar din [!DNL Sales Connect] [Live-feed](https://toutapp.com/next#live) där du kan få information om spårning i realtid i dina e-postmeddelanden. |
 | **[!UICONTROL Tasks]-knapp** | Visar en listruta med alla dina uppgifter. |
-| **[!UICONTROL Templates and Conversations]knappar** | Öppnar [- och ](https://toutapp.com/login)-sidan för ditt [!UICONTROL Templates]webbprogram[!UICONTROL Conversations]. Allt på din Gmail-sida. |
+| **[!UICONTROL Templates and Conversations]knappar** | Öppnar [- och &#x200B;](https://toutapp.com/login)-sidan för ditt [!UICONTROL Templates]webbprogram[!UICONTROL Conversations]. Allt på din Gmail-sida. |
 | **[!UICONTROL Sales Gong]-knapp** | Låter dig fira dina stängda/vunna avtal med dina teamkamrater. |

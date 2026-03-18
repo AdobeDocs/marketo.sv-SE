@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Koppla från Salesforce från ditt Sales Connect-konto {#disconnect-salesforce-from-your-sales-connect-account}
 
-Ibland kan du behöva koppla från ditt [!DNL  Salesforce]-konto från ditt [!DNL Sales Connect]-konto. Så här gör du.
+Ibland kan du behöva koppla från ditt [!DNL &#x200B; Salesforce]-konto från ditt [!DNL Sales Connect]-konto. Så här gör du.
 
 ## Koppla från Salesforce som administratör {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,7 +21,7 @@ Ibland kan du behöva koppla från ditt [!DNL  Salesforce]-konto från ditt [!DN
 
    ![](assets/one-1.png)
 
-1. Klicka på [!UICONTROL  Admin Settings] under **[!UICONTROL Salesforce]**.
+1. Klicka på [!UICONTROL &#x200B; Admin Settings] under **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
@@ -31,7 +31,7 @@ Ibland kan du behöva koppla från ditt [!DNL  Salesforce]-konto från ditt [!DN
 
 ## Koppla från Salesforce som icke-administratör {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. I [!DNL  Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
+1. I [!DNL &#x200B; Sales Connect] klickar du på kugghjulsikonen i det övre högra hörnet och väljer **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 

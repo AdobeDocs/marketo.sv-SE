@@ -23,7 +23,7 @@ När [!UICONTROL Sharing Settings] är aktiverat kan bara administratörer dela 
 
 ## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. Gå till sidan [ i ](https://toutapp.com/login)webbprogrammet[!UICONTROL Settings].
+1. Gå till sidan [&#x200B; i &#x200B;](https://toutapp.com/login)webbprogrammet[!UICONTROL Settings].
 
    ![](assets/one-2.png)
 
