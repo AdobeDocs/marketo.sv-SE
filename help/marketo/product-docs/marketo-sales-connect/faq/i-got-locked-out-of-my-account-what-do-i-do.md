@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352494
-description: Jag har låst ut mitt konto. Vad ska jag göra? - Marketo Docs - produktdokumentation
+description: Få hjälp när du har låst ditt Sales Connect-konto. Lär dig hur du återställer ditt lösenord eller kontaktar supporten för att återfå åtkomsten.
 title: Jag har låst ut mitt konto. Vad ska jag göra?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Synkronisera påminnelseuppgifter med Salesforce - Marketo Docs - produktdokumentation
+description: Förstå hur påminnelseuppgifter för Sales Connect synkroniseras med Salesforce. Lär dig synkroniseringsbeteenden och var åtgärder visas i Salesforce.
 title: Synkronisera påminnelseuppgifter med Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Om du vill aktivera synkroniseringen markerar du bara synkroniseringsrutan på [
 
 >[!NOTE]
 >
->Ämnesfältet för en aktivitet kan uppdateras i [!DNL Sales Connect] och den uppdateringen synkroniseras i ämnesfältet [!DNL Salesforce] för motsvarande synkroniserade uppgift, om du använder det dynamiska fältet `{{activity_subject}}` i inställningarna för anpassning av [&#x200B; aktivitetsinformation &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) . Omvänt synkroniseras alla uppdateringar som görs i ämnesfältet i [!DNL Salesforce] *inte* till ämnesfältet [!DNL Sales Connect] för påminnelseaktiviteten.
+>Ämnesfältet för en aktivitet kan uppdateras i [!DNL Sales Connect] och den uppdateringen synkroniseras i ämnesfältet [!DNL Salesforce] för motsvarande synkroniserade uppgift, om du använder det dynamiska fältet `{{activity_subject}}` i inställningarna för anpassning av [ aktivitetsinformation ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) . Omvänt synkroniseras alla uppdateringar som görs i ämnesfältet i [!DNL Salesforce] *inte* till ämnesfältet [!DNL Sales Connect] för påminnelseaktiviteten.

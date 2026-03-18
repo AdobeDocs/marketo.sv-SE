@@ -1,11 +1,11 @@
 ---
-description: Konfigurera Salesforce Activity Detail Customization - Marketo Docs - Produktdokumentation
+description: Lär dig hur du konfigurerar anpassning av aktivitetsinformation för Salesforce för Sales Connect. Anpassa hur aktiviteter visas i Salesforce.
 title: Konfigurera anpassning av aktivitetsinformation för Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---

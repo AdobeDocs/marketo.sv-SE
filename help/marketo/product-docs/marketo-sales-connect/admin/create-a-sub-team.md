@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352406
-description: Skapa en undergrupp - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skapar ett underteam i Sales Connect och lägger till personer i det. Ordna mallar, kampanjer och grupper.
 title: Skapa ett underteam
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---

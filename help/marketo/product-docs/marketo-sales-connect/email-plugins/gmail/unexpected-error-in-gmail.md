@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352545
-description: Oväntat fel i Gmail - Marketo Docs - produktdokumentation
+description: Få hjälp när du ser ett oväntat fel i Sales Connect Gmail plugin. Felsöka anslutnings- och plugin-fel.
 title: Oväntat fel i Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---

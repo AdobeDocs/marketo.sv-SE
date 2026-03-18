@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352627
-description: Ta bort en mallkategori - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en mallkategori i Sales Connect. Ta bort en kategori och flytta eller ta bort mallarna om du vill.
 title: Ta bort en mallkategori
 exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---

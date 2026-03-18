@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352630
-description: Ta bort en mall - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en mall i Sales Connect. Ta bort mallar som du inte längre behöver från ditt konto eller din kategori.
 title: Ta bort en mall
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---

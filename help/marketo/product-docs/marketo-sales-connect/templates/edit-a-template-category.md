@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352506
-description: Redigera en mallkategori - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar en mallkategori i Sales Connect. Byt namn på eller uppdatera kategoriinställningar och delning.
 title: Redigera en mallkategori
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---

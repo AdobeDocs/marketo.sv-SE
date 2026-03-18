@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352463
-description: Lägg till kopplingsknappar för försäljning i  [!DNL Salesforce] - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till Sales Connect-knappar i Salesforce. Placera Connect-knapparna i Salesforce för snabb åtkomst till Sales Connect-åtgärder.
 title: Lägg till säljkopplingsknappar i Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

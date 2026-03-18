@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352430
-description: Så här loggar du e-postmeddelanden till andra CRM-system - Marketo Docs - produktdokumentation
+description: Lär dig hur du loggar Sales Connect-e-postmeddelanden till andra CRM:er än Salesforce. Få alternativ för loggning av aktivitet i CRM.
 title: Så här loggar du e-postmeddelanden till andra CRM-system
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

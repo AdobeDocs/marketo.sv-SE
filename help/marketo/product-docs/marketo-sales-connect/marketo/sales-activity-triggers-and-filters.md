@@ -1,11 +1,11 @@
 ---
-description: Utlösare och filter för försäljningsaktivitet - Marketo Docs - produktdokumentation
+description: Läs mer om utlösare och filter för försäljningsaktiviteter i Marketo. Använd aktiviteten Sales Connect för att utlösa smarta kampanjer och filter.
 title: Utlösare och filter för försäljningsaktivitet
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

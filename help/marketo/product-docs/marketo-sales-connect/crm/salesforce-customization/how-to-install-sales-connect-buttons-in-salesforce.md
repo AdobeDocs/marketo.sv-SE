@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352473
-description: Så här installerar du Sales Connect-knappar i Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du installerar Sales Connect-knappar i Salesforce. Lägg till knapparna Push to Sales Connect och andra i Salesforce.
 title: Så här installerar du Sales Connect-knappar i Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '112'
 ht-degree: 4%
 
 ---

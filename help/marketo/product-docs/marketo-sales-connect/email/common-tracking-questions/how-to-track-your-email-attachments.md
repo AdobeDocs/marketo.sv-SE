@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352537
-description: Spåra e-postbilagor - Marketo Docs - produktdokumentation
+description: Lär dig spåra e-postbilagor i Sales Connect. Gör bilagor spårbara och se när mottagarna öppnar eller laddar ned dem.
 title: Spåra e-postbilagor
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---

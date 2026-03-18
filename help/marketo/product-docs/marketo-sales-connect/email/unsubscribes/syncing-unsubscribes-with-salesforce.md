@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746188
-description: Synkronisera avbeställningar med Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du synkroniserar Sales Connect-avbeställningar med Salesforce. Synkronisera avanmälningsstatus så att du inte skickar e-post till kontakter som avanmäler prenumerationen.
 title: Synkronisera Avsluta prenumeration med Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 1%
+source-wordcount: '401'
+ht-degree: 0%
 
 ---
 

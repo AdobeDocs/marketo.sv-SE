@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081250
-description: Hantera grupper - Marketo Docs - produktdokumentation
+description: Lär dig hur du hanterar grupper i Sales Connect. Skapa, redigera, dela och ordna kontaktgrupper för kampanjer och utåtriktad marknadsföring.
 title: Hantera grupper
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---

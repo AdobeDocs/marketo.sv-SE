@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45416564
-description: Aktivera samtalsinspelning - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar samtalsinspelning i Sales Connect. Aktivera inspelning för telefonförsäljning och följ villkoren för tvåpartsgodkännande.
 title: Aktivera samtalsinspelning
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

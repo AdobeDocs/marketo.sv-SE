@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352411
-description: Har aldrig fått ett bekräftelsemeddelande via e-post - Marketo Docs - produktdokumentation
+description: Få hjälp om du aldrig fått ett bekräftelsemeddelande via Sales Connect. Felsök och begär ett nytt bekräftelsemeddelande.
 title: Har aldrig fått någon bekräftelsemeddelande
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---

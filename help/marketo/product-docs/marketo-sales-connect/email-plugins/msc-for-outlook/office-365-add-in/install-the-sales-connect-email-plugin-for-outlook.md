@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352455
-description: Installera e-postplugin-programmet Sales Connect för Outlook - Marketo Docs - produktdokumentation
+description: Lär dig hur du installerar e-postplugin-programmet Sales Connect för Outlook. Lägg till plugin-programmet för att skicka spårade e-postmeddelanden och använda mallar från Outlook.
 title: Installera e-postplugin-programmet Sales Connect för Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

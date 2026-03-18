@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Intressanta ögonblick i Sales Connect - Marketo Docs - produktdokumentation
+description: Förstå intressanta ögonblick i Sales Connect och Marketo. Lär dig hur säljaktiviteten skapar stunder som flödar till Live Feed.
 title: Intressanta stunder i Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---

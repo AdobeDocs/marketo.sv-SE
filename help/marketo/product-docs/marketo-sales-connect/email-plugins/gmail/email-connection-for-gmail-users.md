@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728401
-description: E-postanslutning för Gmail-användare - Marketo Docs - Produktdokumentation
+description: Läs mer om e-postanslutning för Gmail-användare i Sales Connect. Anslut Gmail för att skicka spårade e-postmeddelanden och loggaktiviteter till Salesforce.
 title: Email Connection för Gmail-användare
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---

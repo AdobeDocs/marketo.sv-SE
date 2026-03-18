@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746690
-description: Stegtyper för kampanjer - Marketo Docs - produktdokumentation
+description: Läs mer om steg för kampanjer i Sales Connect. Lägg till e-post, samtal, InMail eller anpassade åtgärder för att skapa flerkanalskampanjer.
 title: Typer av kampanjsteg
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---

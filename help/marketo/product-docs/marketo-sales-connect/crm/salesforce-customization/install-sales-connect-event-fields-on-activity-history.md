@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352475
-description: Installera händelsefält för anslutning av försäljning på aktivitetshistorik - Marketo Docs - produktdokumentation
+description: Lär dig hur du installerar händelsefält för Sales Connect på Salesforce aktivitetshistorik. Lägg till anpassade fält för att spåra Sales Connect-händelser.
 title: Installera händelsefält för försäljningsanslutning i aktivitetshistorik
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '247'
 ht-degree: 2%
 
 ---

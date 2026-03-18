@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352609
-description: Inaktivera en kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du stänger av en Sales Connect-kampanj när en mottagare svarar. Avsluta kampanjer för en person eller ta bort flera personer samtidigt från den skickade mappen.
 title: Inaktivera en kampanj
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

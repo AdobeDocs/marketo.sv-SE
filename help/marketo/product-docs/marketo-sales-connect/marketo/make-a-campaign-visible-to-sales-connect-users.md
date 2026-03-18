@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745655
-description: Gör en kampanj synlig för användare av Sales Connect - Marketo Docs - produktdokumentation
+description: Lär dig hur du gör en Marketo-kampanj synlig för användare av Sales Connect. Dela marknadsföringskampanjer så att säljarna kan lägga till leads från Sales Connect.
 title: Gör en kampanj synlig för användare av Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352633
-description: Favorit a Template - Marketo Docs - Product Documentation
+description: Lär dig hur du favoriter en mall i Sales Connect. Fäst mallarna överst i listan för snabb åtkomst vid disposition.
 title: Favorera en mall
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

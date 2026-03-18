@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45417460
-description: Tilldela uppgifter till teammedlemmar - Marketo Docs - produktdokumentation
+description: Lär dig hur du tilldelar uppgifter till teammedlemmar i Sales Connect. Delegera e-post- eller samtalsuppgifter från kommandocentralen eller direktflödet.
 title: Tilldela uppgifter till teammedlemmar
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352619
-description: Använda uppgifter i kampanjer - Marketo Docs - produktdokumentation
+description: Förstå hur uppgifter fungerar i Sales Connect-kampanjer. Använd e-post, samtal, InMail och anpassade åtgärder och hantera dem i kommandocentralen eller Salesforce.
 title: Använda uppgifter i kampanjer
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---

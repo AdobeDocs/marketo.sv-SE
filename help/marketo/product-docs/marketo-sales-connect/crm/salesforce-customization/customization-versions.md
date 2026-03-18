@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746655
-description: Anpassningsversioner - Marketo Docs - produktdokumentation
+description: Läs mer om anpassning av Sales Connect för Salesforce. Förstå versionshistorik och hur man uppdaterar eller återställer anpassningar.
 title: Anpassningsversioner
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---

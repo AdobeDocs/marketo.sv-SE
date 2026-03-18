@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352489
-description: Det gick inte att logga in på aktivitetshistorik - Marketo Docs - produktdokumentation
+description: Få hjälp när Sales Connect-aktiviteten inte loggade in på Salesforce Activity History. Felsöka saknade samtal eller e-post i aktivitetshistoriken.
 title: Loggade inte till aktivitetshistorik
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

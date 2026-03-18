@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
+description: Lär dig mer om innehålls- och mallinteraktionsstatistik i Sales Connect. Se hemliga vapen, mallar för högsta och lägsta engagemang samt bilagor.
 title: Fliken Innehåll
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---

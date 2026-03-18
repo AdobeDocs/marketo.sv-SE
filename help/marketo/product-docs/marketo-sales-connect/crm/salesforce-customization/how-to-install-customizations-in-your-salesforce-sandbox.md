@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368208
-description: Så här installerar du anpassningar i din Salesforce-sandlåda - Marketo Docs - produktdokumentation
+description: Lär dig hur du installerar Sales Connect-anpassningar i din Salesforce-sandlåda. Distribuera knappar och fält till sandlådan för testning.
 title: Installera anpassningar i din Salesforce-sandlåda
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---

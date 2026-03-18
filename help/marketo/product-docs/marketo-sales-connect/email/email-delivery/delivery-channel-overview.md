@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352407
-description: Översikt över leveranskanalen - Marketo Docs - produktdokumentation
+description: Förstå leveranskanalerna i Sales Connect. Lär dig hur e-post skickas och skillnaden mellan anslutning och anpassade kanaler.
 title: Översikt över leveranskanalen
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---

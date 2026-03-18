@@ -1,11 +1,11 @@
 ---
-description: Säljaktivitetsordlista - Marketo Docs - produktdokumentation
+description: Läs mer om försäljningsaktivitetsvillkor för Sales Connect. Använd den här ordlistan för aktivitetstyper som synkroniseras med Marketo och Salesforce.
 title: Säljaktivitetsordlista
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '339'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356584
-description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar e-postmeddelanden via gruppmeddelanden i Sales Connect. Skicka ett e-postmeddelande till en grupp och spåra engagemang per mottagare.
 title: Skicka e-post via gruppe-post
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352447
-description: Lägg till e-post till Salesforce (Office 365) - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till ett e-postmeddelande till Salesforce från Outlook Office 365-pluginprogrammet. Logga skickade eller mottagna e-postmeddelanden till rätt Salesforce-post.
 title: Lägg till e-post till Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

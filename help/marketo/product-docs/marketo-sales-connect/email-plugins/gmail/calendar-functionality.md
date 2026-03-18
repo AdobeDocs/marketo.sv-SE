@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352443
-description: Kalenderfunktioner - Marketo Docs - produktdokumentation
+description: Läs om kalenderfunktionerna i Sales Connect Gmail. Schemalägg möten och synkronisera med Google Calendar.
 title: Kalenderfunktioner
 exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352618
-description: Skapa en kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en Sales Connect-kampanj med e-post, samtal, InMail och anpassade åtgärdssteg. Ordna, schemalägg och mät materialet på ett ställe.
 title: Skapa en kampanj
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Hur skapar ni en kampanj?
    >
    >Skapa en ny kategori genom att klicka på **+** bredvid **[!UICONTROL Categories]**.
 
-1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **[!UICONTROL &#x200B; Continue]**.
+1. Kategorin som du valde markeras. Om du ångrar dig klickar du på listrutan och väljer en annan. När du är klar klickar du på **[!UICONTROL  Continue]**.
 
    ![](assets/three-1.png)
 

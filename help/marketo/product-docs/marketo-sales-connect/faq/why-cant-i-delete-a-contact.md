@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352488
-description: Varför kan jag inte ta bort en kontakt? - Marketo Docs - produktdokumentation
+description: Få hjälp när du inte kan ta bort en kontakt i Sales Connect. Förstå behörigheter och när kontakter låses från att tas bort.
 title: Varför kan jag inte ta bort en kontakt?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

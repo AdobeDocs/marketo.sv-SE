@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352601
-description: Referera dig själv i ett dynamiskt fält - Marketo Docs - produktdokumentation
+description: Lär dig hur du refererar dig själv i ett dynamiskt fält för Sales Connect. Använd avsändarens namn eller information i mallanpassning.
 title: Referera dig själv i ett dynamiskt fält
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

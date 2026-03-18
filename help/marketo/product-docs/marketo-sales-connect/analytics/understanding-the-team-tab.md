@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Fliken [!UICONTROL Team] - Marketo Docs - produktdokumentation
+description: Förstå teamflikarna och mätvärdena för hela teamet i Sales Connect. Visa e-postmeddelanden som skickats med mallar, maximal engagemangstid, avslutade avtal och rankningslista.
 title: Fliken [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

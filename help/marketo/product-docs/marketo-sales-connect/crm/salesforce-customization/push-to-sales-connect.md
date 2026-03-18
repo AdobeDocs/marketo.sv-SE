@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352477
-description: Skicka till  [!DNL Sales Connect] - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder knappen Skicka till säljanslutning i Salesforce. Lägg till leads eller kontakter från Salesforce till Sales Connect med ett klick.
 title: Skjut till  [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 2%
+source-wordcount: '164'
+ht-degree: 1%
 
 ---
 

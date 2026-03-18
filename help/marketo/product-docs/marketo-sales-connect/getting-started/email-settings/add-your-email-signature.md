@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352410
-description: Lägg till din e-postsignatur - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till din e-postsignatur i Sales Connect. Konfigurera en standardsignatur för säljmeddelanden som skickas från webbprogrammet eller plugin-program.
 title: Lägg till din e-postsignatur
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

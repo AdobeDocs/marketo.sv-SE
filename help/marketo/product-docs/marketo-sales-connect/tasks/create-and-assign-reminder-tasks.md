@@ -1,11 +1,11 @@
 ---
-description: Skapa och tilldela påminnelseuppgifter - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och tilldelar påminnelseuppgifter i Sales Connect. Ange uppföljningsuppgifter för dig själv eller för teammedlemmar.
 title: Skapa och tilldela påminnelseuppgifter
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---

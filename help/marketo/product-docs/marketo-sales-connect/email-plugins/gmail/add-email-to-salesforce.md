@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352483
-description: Lägg till e-post till Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett e-postmeddelande till Salesforce från plugin-programmet Gmail. Logga skickade eller mottagna e-postmeddelanden till rätt Salesforce-post.
 title: Lägg till e-post i Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

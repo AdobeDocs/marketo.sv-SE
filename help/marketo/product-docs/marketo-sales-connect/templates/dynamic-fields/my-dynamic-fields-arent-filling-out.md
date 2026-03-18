@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352602
-description: Mina dynamiska fält fylls inte i - Marketo Docs - produktdokumentation
+description: Få hjälp när dynamiska fält inte fylls i i Sales Connect. Felsök varför sammanfogningsfält visar tomma eller felaktiga data.
 title: Mina dynamiska fält fylls inte ut
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

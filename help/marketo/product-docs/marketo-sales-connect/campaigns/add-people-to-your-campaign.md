@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till personer i en Sales Connect-kampanj från webbappen, personsidan eller Gmail och Outlook. Förhandsgranska, redigera och schemalägg det första e-poststeget.
 title: Lägg till personer i din kampanj
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

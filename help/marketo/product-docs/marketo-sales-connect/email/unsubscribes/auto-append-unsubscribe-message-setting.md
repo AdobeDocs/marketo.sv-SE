@@ -1,11 +1,11 @@
 ---
-description: Lägg till inställningen för att avbryta prenumerationen - Marketo Docs - Produktdokumentation
+description: Läs mer om inställningen för att automatiskt lägga till ett meddelande om att avbryta prenumerationen i Sales Connect. Lägg till en länk för att avbryta prenumerationen automatiskt till säljmeddelanden.
 title: Lägg till inställningen för att avbryta prenumerationen
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---

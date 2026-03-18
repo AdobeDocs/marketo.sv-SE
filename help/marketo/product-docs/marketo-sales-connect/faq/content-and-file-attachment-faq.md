@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746661
-description: Innehåll och bifogade filer - Frågor och svar - Marketo Docs - Produktdokumentation
+description: Få svar på frågor om innehåll och bifogade filer i Sales Connect. Lär dig storleksbegränsningar, spårning och alternativ för bilagor.
 title: Vanliga frågor om innehåll och bifogad fil
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---

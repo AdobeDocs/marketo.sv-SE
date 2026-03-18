@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357302
-description: E-postkolumner och e-postsidlayout - Marketo Docs - Produktdokumentation
+description: Läs mer om e-postkolumner och layout för e-postsidor i Sales Connect. Anpassa vilka kolumner som ska visas i kommandocentralen och i e-postvyn.
 title: E-postkolumner och sidlayout för e-post
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Du kan konfigurera alla tillgängliga kolumner så att de visas i e-postavsnitte
    <td>Det datum då e-postmeddelandet skickades.</td>
   </tr>
   <tr>
-   <td>[!UICONTROL Follow Up] Åtgärder</td>
+   <td>[!UICONTROL Follow Up] Instruktioner</td>
    <td>Snabbåtgärdsknappar som kan användas för uppföljning via e-post, telefon, iMail eller uppgift.</td>
   </tr>
   <tr>

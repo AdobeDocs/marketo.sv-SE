@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: Använda gruppåtgärder i Salesforce Lightning - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder gruppåtgärder i Salesforce Lightning med Sales Connect. Skicka flera leads eller kontakter till Sales Connect samtidigt.
 title: Använda gruppåtgärder i Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---

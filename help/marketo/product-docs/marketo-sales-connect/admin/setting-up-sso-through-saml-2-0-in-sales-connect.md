@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352405
-description: Konfigurera enkel inloggning via SAML 2.0 i [!DNL Sales Connect] - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar enkel inloggning via SAML 2.0 i Sales Connect. Få krav och konfigurationssteg för din SSO-leverantör och unika domän.
 title: Konfigurera enkel inloggning via SAML 2.0 i [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

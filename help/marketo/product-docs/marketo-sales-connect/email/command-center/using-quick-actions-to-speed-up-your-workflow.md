@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357306
-description: Snabba upp arbetsflödet med snabba åtgärder - Marketo Docs - Produktdokumentation
+description: Lär dig hur du kan använda snabba åtgärder i Sales Connect för att snabba upp arbetsflödet. Utför vanliga uppgifter från kommandocentralen med ett enda klick.
 title: Snabba upp arbetsflödet med hjälp av snabbåtgärder
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---

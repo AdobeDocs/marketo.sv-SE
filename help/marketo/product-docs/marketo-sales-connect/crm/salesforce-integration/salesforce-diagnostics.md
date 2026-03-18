@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Salesforce Diagnostics - Marketo Docs - produktdokumentation
+description: Läs mer om Salesforce diagnostik för Sales Connect. Felsöka anslutnings- och synkroniseringsproblem mellan Sales Connect och Salesforce.
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 0%
 
 ---

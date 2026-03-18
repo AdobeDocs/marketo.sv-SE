@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746143
-description: Delningsinställningar - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar delningsinställningar för att styra vem som kan dela mallar och vilka kategorier.
 title: Delningsinställningar
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ När [!UICONTROL Sharing Settings] är aktiverat kan bara administratörer dela 
 
 ## Konfigurera delningsinställningar {#configure-your-sharing-settings}
 
-1. Gå till sidan [&#x200B; i &#x200B;](https://toutapp.com/login)webbprogrammet[!UICONTROL Settings].
+1. Gå till sidan [ i ](https://toutapp.com/login)webbprogrammet[!UICONTROL Settings].
 
    ![](assets/one-2.png)
 

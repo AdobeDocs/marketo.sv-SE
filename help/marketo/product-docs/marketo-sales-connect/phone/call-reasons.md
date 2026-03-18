@@ -1,11 +1,11 @@
 ---
-description: Samtalsorsaker - Marketo Docs - produktdokumentation
+description: Förstå samtalsorsaker i Sales Connect. Ange och logga varför du anropade så resultat synkroniseras korrekt till Salesforce.
 title: Samtalsorsaker
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---

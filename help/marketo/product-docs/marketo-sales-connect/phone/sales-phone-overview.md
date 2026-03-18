@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352438
-description: Telefonöversikt - Marketo Docs - produktdokumentation
+description: Läs mer om telefonförsäljning i Sales Connect. ringa samtal från appen, logga in på Salesforce och använd samtalsinspelning och lokal närvaro.
 title: Telefonöversikt, försäljning
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

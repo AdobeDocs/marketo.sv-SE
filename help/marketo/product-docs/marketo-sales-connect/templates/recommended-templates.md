@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352510
-description: Rekommenderade mallar - Marketo Docs - produktdokumentation
+description: Läs mer om rekommenderade mallar i Sales Connect. Se vilka mallar som ger bäst engagemang och använd dem för att nå ut.
 title: Rekommenderade mallar
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---

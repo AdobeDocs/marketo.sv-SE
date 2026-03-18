@@ -1,12 +1,12 @@
 ---
-description: Meddelande - Websocket-anslutning - Marketo Docs - Produktdokumentation
+description: Meddelandeinformation för Marketo Engage-användare som tog emot meddelandet Det går inte att upprätta en webbsocketanslutning
 title: Meddelande - Webbsocketanslutning
 hide: true
 hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

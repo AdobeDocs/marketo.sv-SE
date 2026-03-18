@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352484
-description: Så här åtgärdar du"Vi kunde inte autentisera din begäran" vid anslutning till Salesforce - Marketo Docs - produktdokumentation
+description: Få hjälp med att åtgärda felet Det gick inte att autentisera din begäran vid anslutning av Sales Connect till Salesforce. Felsök autentiseringsproblem.
 title: Så här åtgärdar du"Vi kunde inte autentisera din begäran" vid anslutning till Salesforce
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '157'
 ht-degree: 3%
 
 ---

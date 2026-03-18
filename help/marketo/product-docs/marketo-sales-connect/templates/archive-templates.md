@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352640
-description: Arkivmallar - Marketo Docs - produktdokumentation
+description: Lär dig arkivera mallar i Sales Connect. Arkivera gamla mallar så att de är tillgängliga, men rensa inte bort den aktiva listan.
 title: Arkivmallar
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352486
-description: Varför skickas inga kontakter till Sales Connect? - Marketo Docs - produktdokumentation
+description: Få hjälp när inga kontakter skickas till Sales Connect från Salesforce. Felsöka anslutning och synkroniseringsinställningar.
 title: Varför skickas inga kontakter till Sales Connect?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---

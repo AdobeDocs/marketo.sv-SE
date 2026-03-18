@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352629
-description: Anpassa mallvy - Marketo Docs - Produktdokumentation
+description: Lär dig hur du anpassar mallvyn i Sales Connect. Ändra vilka kolumner och filter som ska visas i malllistan.
 title: Anpassa mallvy
 exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356587
-description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en bifogad fil eller spårbart innehåll i e-postmeddelandet Sales Connect. Bifoga filer eller lägg till spårade länkar i dispositionsfönstret.
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---

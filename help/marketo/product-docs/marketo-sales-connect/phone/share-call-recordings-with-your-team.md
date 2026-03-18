@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352437
-description: Dela samtalsinspelningar med teamet - Marketo Docs - produktdokumentation
+description: Lär dig hur du delar Sales Connect-samtalsinspelningar med ditt team. Få tillgång till och dela inspelade inbjudningar till utbildning eller uppföljning.
 title: Dela samtalsinspelningar med ditt team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

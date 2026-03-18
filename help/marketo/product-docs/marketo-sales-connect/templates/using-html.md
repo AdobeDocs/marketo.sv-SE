@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352594
-description: Använda HTML - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder HTML i mallar för Sales Connect. Lägg till anpassad HTML för formatering, länkar eller avancerad layout i mallarna.
 title: Använda HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---

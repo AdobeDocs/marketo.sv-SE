@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352536
-description: How View Tracking Works - Marketo Docs - Product Documentation
+description: Förstå hur vyspårning fungerar i Sales Connect. Lär dig när ett e-postmeddelande räknas som visat och hur öppningar spåras.
 title: Hur spårning fungerar
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317367
-description: Visa kampanjlistan som en annan användare - Marketo Docs - Produktdokumentation
+description: Lär dig hur du visar kampanjlistan som en annan användare i Sales Connect. Använd listrutan Visa som administratör för att visa en användares kampanjer.
 title: Visa kampanjlistan som en annan användare
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

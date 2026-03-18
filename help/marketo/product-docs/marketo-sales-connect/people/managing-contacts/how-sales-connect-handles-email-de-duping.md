@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352514
-description: How Sales Connect Handles Email Deduplicing - Marketo Docs - Product Documentation
+description: Förstå hur Sales Connect hanterar e-postborttagning. Lär dig hur duplicerade kontakter sammanfogas eller hanteras vid synkronisering.
 title: Hur Sales Connect hanterar e-postborttagning av dubbletter
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352439
-description: Så här lägger du till en mall - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en mall när du skapar från Gmail med Sales Connect. Infoga en mall och anpassa den innan den skickas.
 title: Lägga till en mall
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---

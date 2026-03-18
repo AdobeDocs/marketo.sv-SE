@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356590
-description: Lägga till högdagerinnehåll i ditt e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till högdagerinnehåll i ditt Sales Connect-e-postmeddelande. Infoga spårbara högdagerlänkar och bilagor i dispositionsfönstret.
 title: Lägga till högdagerinnehåll i e-postmeddelandet
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
