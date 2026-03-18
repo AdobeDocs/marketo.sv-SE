@@ -25,7 +25,7 @@ E-postdesignern har ett annat format än den klassiska e-postredigeraren när de
 
 ## Primär användning {#primary-use-case}
 
-Den här förbättringen är främst till nytta för övergången från [hastighetsskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} till Handlebar-skript. Den nya e-postdesignern har bara stöd för det nya tokenformatet. Det uppdaterade formatet eliminerar blanksteg och lägger till en reviderad standardtextstruktur, vilket ger en smidigare och effektivare skriptupplevelse.
+Den här förbättringen är främst till nytta för övergången från [hastighetsskript](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting){target="_blank"} till Handlebar-skript. Den nya e-postdesignern har bara stöd för det nya tokenformatet. Det uppdaterade formatet eliminerar blanksteg och lägger till en reviderad standardtextstruktur, vilket ger en smidigare och effektivare skriptupplevelse.
 
 ## Tokenupplevelse {#token-experience}
 

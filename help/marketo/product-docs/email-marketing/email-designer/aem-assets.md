@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Samla marknadsförings- och kreativa arbetsflöden med Adobe Experience Manager Assets. Den är inbyggd i Marketo Engage, så du kan enkelt komma åt _Assets as a Cloud Service_ och upptäcka och använda digitala resurser för att fylla i dina meddelanden.
 
-Adobe Experience Manager _Assets as a Cloud Service_ är en lättanvänd molnlösning för effektiv hantering av digitala resurser och dynamiska media. Läs mer i dokumentationen för [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview).
+Adobe Experience Manager _Assets as a Cloud Service_ är en lättanvänd molnlösning för effektiv hantering av digitala resurser och dynamiska media. Läs mer i dokumentationen för [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/overview).
 
 >[!PREREQUISITES]
 >
->* Licenser för _Assets as a Cloud Service_ och Dynamic Media krävs för integreringen. Kontrollera att [Dynamiska media med Open API är aktiverat](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Beroende på ditt kontrakt och din konfiguration kan du komma åt Adobe Experience Manager _Assets as a Cloud Service_ direkt från Marketo Engage när du utformar visuellt innehåll.
+>* Licenser för _Assets as a Cloud Service_ och Dynamic Media krävs för integreringen. Kontrollera att [Dynamiska media med Open API är aktiverat](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Beroende på ditt kontrakt och din konfiguration kan du komma åt Adobe Experience Manager _Assets as a Cloud Service_ direkt från Marketo Engage när du utformar visuellt innehåll.
 
 >[!NOTE]
 >
->För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>För närvarande stöds endast bildresurser från _Adobe Experience Manager Assets_ i Marketo Engage. Ändringar av mediefilerna måste göras från Adobe Experience Manager Assets centrala arkiv. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Länka till dina AEM Cloud-tjänster {#link-to-your-aem-cloud-services}
 
@@ -51,7 +51,7 @@ Innan du kan använda den här funktionen måste du först länka AEM Cloud Serv
    >
    >* Endast databaser som har kopplats till samma IMS-organisation som din Marketo Engage-prenumeration visas.
    >
-   >* Marketo Engage stöder endast databaser från leveransnivån. Om du använder redigeringsnivån och vill konvertera den kontaktar du [Adobe Experience Manager Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage stöder endast databaser från leveransnivån. Om du använder redigeringsnivån och vill konvertera den kontaktar du [Adobe Experience Manager Support](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Du måste lägga till ett [certifikat för tjänstautentiseringsuppgifter](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) för att konfigurera databasen. Klicka på knappen **+ Lägg till certifikat**.
 
@@ -89,7 +89,7 @@ Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange A
 
 >[!IMPORTANT]
 >
->En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>En administratör måste lägga till användare som behöver tillgång till resurser i produktprofilerna Assets Consumer Users och/eller Assets Users. [Läs mer](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicka på ikonen _Experience Manager Resursväljare_ i den vänstra sidofältet i den visuella innehållsredigeraren. Detta ändrar verktygspanelen till en lista med tillgängliga resurser i den valda databasen.
 

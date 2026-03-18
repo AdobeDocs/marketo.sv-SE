@@ -40,7 +40,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
+   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=sv-SE" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
    </tr>
    </table>
 

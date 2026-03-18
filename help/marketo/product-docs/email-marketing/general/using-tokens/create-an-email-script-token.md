@@ -49,7 +49,7 @@ För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.a
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för snabbhet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Snabbhetsverktyg, JavaScript](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
