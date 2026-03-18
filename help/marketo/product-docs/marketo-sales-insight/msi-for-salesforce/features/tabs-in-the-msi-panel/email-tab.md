@@ -1,11 +1,11 @@
 ---
-description: Fliken E-post - Marketo Docs - produktdokumentation
+description: Läs mer om fliken E-post på panelen Marketo Sales Insight. Visa skickade e-postmeddelanden, öppningar, klickningar och svar för leadet eller kontakten.
 title: Fliken E-post
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

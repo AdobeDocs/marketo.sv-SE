@@ -1,10 +1,10 @@
 ---
-description: Lägg till åtgärdsknappar i Salesforce listvy - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till knapparna Skicka e-post och Lägg till i Försäljningskampanj i listvyer för Salesforce. Konfigurera i Lightning eller Classic via layouter för List View-knappar.
 title: Lägg till åtgärdsknappar i Salesforce listvy
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---

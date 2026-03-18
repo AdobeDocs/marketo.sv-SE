@@ -1,11 +1,11 @@
 ---
-description: Bästa val - Marketo Docs - produktdokumentation
+description: Läs mer om Bästa val i Marketo Sales Insight för Dynamics. Se vilka leads som är mest engagerade och redo för utåtriktad verksamhet.
 title: Bästa val
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Genom att klicka på punktmenyn under åtgärdskolumnen kan du använda interakt
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-Du kan också välja flera leads på fliken [!DNL Best Bets] och välja _[!UICONTROL Send Marketo Email]_&#x200B;eller&#x200B;_[!UICONTROL Add to Marketo Campaign]_.
+Du kan också välja flera leads på fliken [!DNL Best Bets] och välja _[!UICONTROL Send Marketo Email]_eller_[!UICONTROL Add to Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

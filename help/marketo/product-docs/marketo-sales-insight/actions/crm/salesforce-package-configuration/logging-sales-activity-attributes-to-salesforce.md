@@ -1,11 +1,11 @@
 ---
-description: Loggning Sales Activity Attributes to Salesforce - Marketo Docs - Product Documentation
+description: Lär dig hur du lägger till anpassade aktivitetsfält för Sales Insight-åtgärder i Salesforce. Skapa anpassade aktivitetsfält i inställningarna för att logga samtalsresultat, orsaker och mycket annat.
 title: Loggar attribut för försäljningsaktivitet till Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 3%
+source-wordcount: '241'
+ht-degree: 2%
 
 ---
 

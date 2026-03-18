@@ -1,11 +1,11 @@
 ---
-description: Översikt över analyssidan - Marketo Docs - produktdokumentation
+description: Läs mer om fliken Analytics och e-postinteraktionsdata för Sales Insight Actions. Visa status för individer och team på flikarna Me, Team och Content.
 title: Översikt över analyssidan
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---

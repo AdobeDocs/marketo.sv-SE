@@ -1,11 +1,11 @@
 ---
-description: Bästa val - Marketo Docs - produktdokumentation
+description: Läs mer om Bästa val på fliken Marketo i Salesforce. Se vilka leads som är mest engagerade och redo för utåtriktad försäljning.
 title: Bästa val
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

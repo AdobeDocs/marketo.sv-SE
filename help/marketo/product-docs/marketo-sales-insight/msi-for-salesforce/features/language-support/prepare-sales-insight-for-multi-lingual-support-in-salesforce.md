@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7516460
-description: Förbered Sales Insight for Multi-Lingual Support in Salesforce - Marketo Docs - Product Documentation
+description: Lär dig hur du förbereder Marketo Sales Insight för flerspråkig support i Salesforce. Ställ in språk och språkområde för globala användare.
 title: Förbered Sales Insight for Multi-Lingual Support in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---

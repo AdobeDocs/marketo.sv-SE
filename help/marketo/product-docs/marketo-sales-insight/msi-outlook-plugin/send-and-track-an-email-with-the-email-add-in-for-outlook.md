@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: Skicka och spåra ett e-postmeddelande med e-posttillägget för  [!DNL Outlook] - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar och spårar ett e-postmeddelande med Marketo e-posttillägg för Outlook. Disponera från Outlook och se vyer, klickningar och svar.
 title: Skicka och spåra ett e-postmeddelande med e-posttillägget för  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Verifiera din e-postadress - Marketo Docs - produktdokumentation
+description: Lär dig hur du verifierar din e-postadress i Sales Insight Actions. Slutför verifieringen så att ni kan skicka spårade säljmejl.
 title: Verifiera din e-postadress
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 

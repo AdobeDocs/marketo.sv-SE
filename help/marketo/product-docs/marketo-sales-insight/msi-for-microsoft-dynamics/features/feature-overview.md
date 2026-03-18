@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357043
-description: Funktionsöversikt - Marketo Docs - produktdokumentation
+description: Läs om Marketo Sales Insight-funktioner för Microsoft Dynamics. Visa poängsättning, aktiviteter och åtgärder för lead i Dynamics CRM.
 title: Översikt över funktioner
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '181'
 ht-degree: 4%
 
 ---

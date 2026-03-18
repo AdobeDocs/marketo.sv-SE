@@ -1,11 +1,11 @@
 ---
-description: Samtalsorsaker - Marketo Docs - produktdokumentation
+description: Läs mer om samtalsorsaker i Sales Insight Actions. Ange en orsak när du ringer ett samtal så att det loggas i Marketo och Salesforce.
 title: Samtalsorsaker
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Skicka e-post via e-post i grupp - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar e-postmeddelanden via gruppmeddelanden. E-posta flera mottagare samtidigt med alternativ för spårning och personalisering.
 title: Skicka e-post via gruppe-post
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

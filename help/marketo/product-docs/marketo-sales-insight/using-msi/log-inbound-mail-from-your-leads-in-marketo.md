@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949285
-description: Logga inkommande e-post från dina leads i Marketo - Marketo Docs - produktdokumentation
+description: Lär dig hur du loggar inkommande e-post från leads i Marketo. Hämta in och attributera svar och inkommande e-post till rätt lead-post.
 title: Logga inkommande e-post från dina leads i Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

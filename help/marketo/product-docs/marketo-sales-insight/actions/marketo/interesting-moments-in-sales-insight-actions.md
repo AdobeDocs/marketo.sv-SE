@@ -1,11 +1,11 @@
 ---
-description: Intressanta ögonblick i Sales Insight Actions - Marketo Docs - Product Documentation
+description: Läs om intressanta ögonblick i Sales Insight Actions. Förstå hur viktiga aktiviteter loggas och visas i Marketo och Salesforce.
 title: Intressanta stunder i Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---

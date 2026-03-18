@@ -1,11 +1,11 @@
 ---
-description: Aktivera samtalsinspelning - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar samtalsinspelning i Sales Insight Actions. Aktivera inspelning och följ medgivande från två parter där det behövs.
 title: Aktivera samtalsinspelning
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949711
-description: Installera Marketo-tillägget för e-post för  [!DNL Outlook]  med en registreringskod - Marketo Docs - Produktdokumentation
+description: Lär dig hur du installerar Marketo e-posttillägg för Outlook med en registreringskod. Skaffa tillägget för användare som har en registreringskod.
 title: Installera Marketo e-posttillägg för  [!DNL Outlook] med en registreringskod
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '532'
 ht-degree: 2%
 
 ---

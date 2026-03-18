@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981050
-description: Lås försäljningsmall - Marketo Docs - produktdokumentation
+description: Lär dig hur du låser en försäljningsmall i Marketo Sales Insight. Förhindra ändringar i en mall så att försäljningen använder den godkända versionen.
 title: Lås försäljningsmall
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '198'
 ht-degree: 1%
 
 ---

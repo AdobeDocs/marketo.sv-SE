@@ -1,11 +1,11 @@
 ---
-description: Förstå alternativ för att skicka säljkampanjer via e-post - Marketo Docs - produktdokumentation
+description: Förstå sändningsalternativ för e-poststeg i säljkampanjen. Välj när du vill skicka, schemalägga sändningstid eller skapa en uppgift som du vill skicka själv för första och följande steg.
 title: Om sändningsalternativ för försäljningskampanj för e-poststeg
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 0%
 
 ---
@@ -75,5 +75,5 @@ För efterföljande dagar/steg i din säljkampanj finns följande alternativ:
 >[!MORELIKETHIS]
 >
 >[Skapa en säljkampanj](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Inställningar för försäljningskampanj &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[Stegtyper för säljkampanj och påminnelseaktiviteter](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Inställningar för försäljningskampanj ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

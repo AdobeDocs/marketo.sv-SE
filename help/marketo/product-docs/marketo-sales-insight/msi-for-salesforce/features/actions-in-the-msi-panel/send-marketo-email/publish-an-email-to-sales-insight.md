@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: Publicera ett e-postmeddelande till Sales Insight - Marketo Docs - produktdokumentation
+description: Lär dig hur du publicerar ett e-postmeddelande från Marketo till Sales Insight. Gör en e-postmall från Marketo tillgänglig för säljare på MSI-panelen.
 title: Publicera ett e-postmeddelande till Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---

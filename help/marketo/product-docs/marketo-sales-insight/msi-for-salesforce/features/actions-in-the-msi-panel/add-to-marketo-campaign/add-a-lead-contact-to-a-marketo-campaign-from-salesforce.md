@@ -1,11 +1,11 @@
 ---
 unique-page-id: 10099167
-description: Välj en åtgärd i Sales Insight - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett lead eller en kontakt i en Marketo-kampanj från Salesforce. Använd MSI-panelen för att lägga till i kampanjen från posten.
 title: Välj en åtgärd i Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---

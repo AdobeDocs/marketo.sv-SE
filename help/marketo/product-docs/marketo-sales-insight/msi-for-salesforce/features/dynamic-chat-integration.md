@@ -1,11 +1,11 @@
 ---
-description: Dynamic Chat Integration - Marketo Docs - produktdokumentation
+description: Läs om Dynamic Chat integrering med Marketo Sales Insight. Se chattaktivitet och engagemang på MSI-panelen i Salesforce.
 title: Dynamic Chat Integration
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---

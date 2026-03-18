@@ -1,11 +1,11 @@
 ---
-description: Innehåll och bifogade filer - Frågor och svar - Marketo Docs - Produktdokumentation
+description: Få svar på vanliga frågor om innehåll och bifogade filer i säljmeddelanden. Lär dig storleksbegränsningar, spårning och bästa praxis.
 title: Vanliga frågor om innehåll och bifogad fil
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---

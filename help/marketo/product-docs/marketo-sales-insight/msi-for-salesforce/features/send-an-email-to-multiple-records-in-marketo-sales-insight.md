@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472672
-description: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar e-post till flera poster från Marketo Sales Insight i Salesforce. E-posta alla kontakter på ett konto eller en affärsmöjlighet.
 title: Skicka ett e-postmeddelande till flera poster i Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

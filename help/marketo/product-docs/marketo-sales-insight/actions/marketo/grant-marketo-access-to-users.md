@@ -1,11 +1,11 @@
 ---
-description: Bevilja Marketo åtkomst till användare - Marketo Docs - produktdokumentation
+description: Lär dig hur du ger Marketo åtkomst till användare i Sales Insight Actions. Låt användarna se Marketo data och använda Marketo-anslutna funktioner.
 title: Ge Marketo åtkomst till användare
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---

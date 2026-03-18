@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511931
-description: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1 - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar e-post från Marketo och använder kampanjer och bevakningsåtgärder i Salesforce Mobile. Använd MSI-åtgärder på mobilen.
 title: Skicka Marketo e-post- och kampanjåtgärder och bevakningsåtgärder i Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---

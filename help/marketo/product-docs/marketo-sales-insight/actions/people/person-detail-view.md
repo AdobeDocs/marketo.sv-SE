@@ -1,13 +1,13 @@
 ---
-description: Personinformationsvy - Marketo Docs - produktdokumentation
+description: Förstå persondetaljvyn i Sales Insight Actions. Se kontaktinformation, aktivitetshistorik och snabbåtgärder för en lead eller kontakt.
 title: Persondetaljvy
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---

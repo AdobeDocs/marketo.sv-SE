@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357050
-description: Uppgraderar ditt MSI-paket - Marketo Docs - produktdokumentation
+description: Lär dig hur du uppgraderar ditt Marketo Sales Insight-paket i Salesforce. Skaffa den senaste versionen och tillämpa uppgraderingen.
 title: Uppgraderar ditt MSI-paket
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---

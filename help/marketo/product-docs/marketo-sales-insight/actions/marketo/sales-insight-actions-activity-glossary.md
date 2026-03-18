@@ -1,11 +1,11 @@
 ---
-description: Sales Insight Actions Activity Glossary - Marketo Docs - Product Documentation
+description: Läs mer om aktivitetstyper och villkor för Sales Insight Actions. Använd ordlistan för att förstå aktiviteter som synkroniseras med Marketo och Salesforce.
 title: Aktivitetsordlista för Sales Insight Actions
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Anpassa Avbeställ länkmeddelande - Marketo Docs - Produktdokumentation
+description: Lär dig hur du anpassar avbeställningsmeddelandet i e-postmeddelanden. Redigera den text som användarna ser när de avanmäler sig.
 title: Anpassa meddelande om att avbryta prenumeration på länk
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---

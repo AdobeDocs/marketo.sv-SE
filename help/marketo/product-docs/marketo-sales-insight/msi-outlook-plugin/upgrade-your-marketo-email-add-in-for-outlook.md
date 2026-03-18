@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: Uppgradera ditt Marketo-tillägg för e-post för  [!DNL Outlook] - Marketo Docs - produktdokumentation
+description: Lär dig hur du uppgraderar Marketo e-posttillägg för Outlook. Skaffa den senaste versionen för nya funktioner och korrigeringar.
 title: Uppgradera ditt Marketo-e-posttillägg för  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 7%
 
 ---

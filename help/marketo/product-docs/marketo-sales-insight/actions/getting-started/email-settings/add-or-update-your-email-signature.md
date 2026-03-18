@@ -1,11 +1,11 @@
 ---
-description: Lägg till eller uppdatera din e-postsignatur - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till eller uppdaterar din e-postsignatur i Sales Insight Actions. Ange en standardsignatur.
 title: Lägg till eller uppdatera din e-postsignatur
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Hur förhindrar jag självvisningar - Marketo Docs - produktdokumentation
+description: Lär dig hur du förhindrar att självvisningar räknar i e-postspårning. Undvik att blåsa upp öppningsstatistik när du visar dina egna e-postmeddelanden.
 title: Hur kan jag förhindra självvisningar?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949281
-description: Utfärda en Marketo-licens för e-posttillägg - Marketo Docs - Produktdokumentation
+description: Lär dig hur du utfärdar en Marketo e-posttilläggslicens för Outlook. Bevilja licenser så att användarna kan installera och använda tillägget.
 title: Utfärda en Marketo e-posttilläggslicens
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---

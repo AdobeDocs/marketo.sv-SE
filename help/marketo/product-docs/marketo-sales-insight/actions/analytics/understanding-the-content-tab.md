@@ -1,11 +1,11 @@
 ---
-description: Förstå fliken Innehåll - Marketo Docs - produktdokumentation
+description: Lär dig mer om innehålls- och mallinteraktionsstatistik i Sales Insight Actions. Se Secret Weapon, Highest and Lowest Engagement samt bilagor och länkar.
 title: Fliken Innehåll
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

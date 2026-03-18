@@ -1,11 +1,11 @@
 ---
-description: Varför fylls inte mina dynamiska fält ut? - Marketo Docs - produktdokumentation
+description: Felsök när dynamiska fält inte fyller i mallar. Kontrollera Salesforce-anslutning och fältmappning för kopplingsfält.
 title: Varför fylls inte mina dynamiska fält ut?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---

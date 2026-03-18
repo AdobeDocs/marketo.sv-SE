@@ -1,11 +1,11 @@
 ---
-description: Mallengagemang - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar mallengagemang på fliken Analysinnehåll. Se mått för Secret Weapon, Highest Engagement och Lowest Engagement efter datumintervall.
 title: Mallengagemang
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---

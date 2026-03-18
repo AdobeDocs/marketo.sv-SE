@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355600
-description: Avinstallera MSI från din MS [!DNL Dynamics] Instance - Marketo Docs - produktdokumentation
+description: Lär dig hur du avinstallerar Marketo Sales Insight från din MS Dynamics-instans. Ta bort lösningen och tvätta vid behov.
 title: Avinstallera MSI från din MS [!DNL Dynamics] instans
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 

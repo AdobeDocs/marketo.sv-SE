@@ -1,11 +1,11 @@
 ---
-description: Kampanjen har avslutats - Marketo Docs - produktdokumentation
+description: Förstå varför schemalagda kampanjmejl misslyckas och kampanjen har avslutats. Hitta orsaker som studsar, svar eller manuellt kampanjslut.
 title: Kampanjen har avslutats
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---

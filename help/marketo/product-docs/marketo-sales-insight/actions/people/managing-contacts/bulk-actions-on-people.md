@@ -1,11 +1,11 @@
 ---
-description: Massåtgärder för människor - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör massåtgärder på personer i Sales Insight Actions. Lägg till i kampanj, skicka e-post eller ta bort flera kontakter samtidigt.
 title: Massåtgärder för personer
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---

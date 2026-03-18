@@ -1,11 +1,11 @@
 ---
-description: Information om användaråtkomst - Marketo Docs - produktdokumentation
+description: Förstå vad administratörer och icke-administratörer har åtkomst till i Sales Insight Actions. Jämför behörigheter för mallar, kampanjer, analyser och personer.
 title: Information om användaråtkomst
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---

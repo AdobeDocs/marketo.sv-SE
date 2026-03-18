@@ -1,10 +1,10 @@
 ---
-description: Anslut till Outlook - Marketo Docs - produktdokumentation
+description: Lär dig hur du ansluter Outlook till Sales Insight-åtgärder. Skicka och spåra e-postmeddelanden från Outlook med integrering av funktionsmakron.
 title: Anslut till Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---

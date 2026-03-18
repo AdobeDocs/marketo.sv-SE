@@ -1,11 +1,11 @@
 ---
-description: Konfigurera MSI-vyer - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in MSI-vyer i Microsoft Dynamics. Konfigurera vilka Marketo Sales Insight-flikar och data som ska visas för användare.
 title: Konfigurera MSI-vyer
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---

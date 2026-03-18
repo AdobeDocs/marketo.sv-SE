@@ -1,13 +1,13 @@
 ---
-description: Disponera massutskick med Select and Send - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och skickar massutskick med Select och Send. Välj kontakter på personsidan och skicka personaliserade e-postmeddelanden i stor skala.
 title: Disponera massutskick med Markera och skicka
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---

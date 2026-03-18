@@ -1,11 +1,11 @@
 ---
-description: Sales Insight Actions User Onboarding Checklist - Marketo Docs - produktdokumentation
+description: Använd checklistan för registrering av användare i Sales Insight Actions för att komma igång. Följ upp installationssteg och aktivering för nya användare.
 title: Sales Insight Actions User Onboarding Checklist
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: Se lead feed in Salesforce1 - Marketo Docs - produktdokumentation
+description: Lär dig hur du ser lead-flödet i Salesforce Mobile (Salesforce1). Visa lead-aktivitet i realtid i MSI-panelen på mobilen.
 title: Se lead-feed i Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Hur fungerar platsspårning - Marketo Docs - produktdokumentation
+description: Förstå hur platsspårning fungerar för e-postmeddelanden. Lär dig vilka platsdata som samlas in och hur de används.
 title: Hur fungerar platsspårning
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

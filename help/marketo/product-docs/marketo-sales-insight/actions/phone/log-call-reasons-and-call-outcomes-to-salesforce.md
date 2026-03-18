@@ -1,11 +1,11 @@
 ---
-description: Log Call Reasons and Call Outcome to Salesforce - Marketo Docs - Product Documentation
+description: Lär dig hur du loggar samtalsorsaker och ringer resultat till Salesforce. Se till att samtalsaktivitet och attribut synkroniseras med CRM.
 title: Logga samtalsorsaker och samtalsresultat för Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---

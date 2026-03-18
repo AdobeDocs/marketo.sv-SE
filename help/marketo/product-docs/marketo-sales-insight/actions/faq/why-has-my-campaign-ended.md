@@ -1,10 +1,10 @@
 ---
-description: Varför har min kampanj upphört? - Marketo Docs - produktdokumentation
+description: Förstå varför er försäljningskampanj slutade. Lär dig mer om manuell avslutning, svarsinställningar, studsborttagning och automatiska slutvillkor.
 title: Varför har min kampanj upphört?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

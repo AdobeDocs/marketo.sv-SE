@@ -1,10 +1,10 @@
 ---
-description: Anslut till Gmail - Marketo Docs - produktdokumentation
+description: Lär dig hur du ansluter Gmail till Sales Insight Actions. Skicka och spåra säljmejl från Gmail med integrering av funktionsmakron.
 title: Anslut till Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Internationellt telefonsamtal - Marketo Docs - produktdokumentation
+description: Läs mer om internationella samtal i Sales Insight Actions. ringa och logga samtal till internationella nummer från återförsäljaren.
 title: Internationellt samtal
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '404'
 ht-degree: 11%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Advanced Search Overview - Marketo Docs - Product Documentation
+description: Lär dig hur du använder avancerad sökning i kommandocentralen för att hitta e-postmeddelanden och uppgifter. Filtrera efter datum, avsändare, status och andra villkor.
 title: Översikt över avancerad sökning
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -83,13 +83,13 @@ Det finns tre e-poststatusar att välja mellan. Typen/aktivitetsalternativen än
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Skickat**&#x200B;_
+_**Status: Skickat**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtrerar efter din skickade e-postaktivitet. Du kan välja [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] och/eller [!UICONTROL replies]/[!UICONTROL no replies].
 
-_&#x200B;**Status: Väntande**&#x200B;_
+_**Status: Väntande**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtrerar efter alla väntande e-postmeddelanden.
  </tr>
 </table>
 
-_&#x200B;**Status: Olevererad**&#x200B;_
+_**Status: Olevererad**_
 
 ![](assets/advanced-search-overview-12.png)
 

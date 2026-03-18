@@ -1,11 +1,11 @@
 ---
-description: Sales Insight Actions and GDPR Compliance - Marketo Docs - Product Documentation
+description: Läs om Sales Insight Actions och GDPR Compliance. Förstå datahantering och alternativ för att stödja sekretess och samtycke.
 title: Försäljningsåtgärder och GDPR-efterlevnad
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1307'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ På efterlevnadskortet kan användare spåra den rättsliga grunden för att beh
 
 Det finns många alternativ att välja bland:
 
-* Godkännande
+* Samtycke
 * Legitimalt intresse
 * Kontraktets utförande
 * Efterlevnad av lagstadgade skyldigheter

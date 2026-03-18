@@ -1,11 +1,11 @@
 ---
-description: Command Center Overview - Marketo Docs - produktdokumentation
+description: Läs mer om kommandocentralen för hantering av e-postmeddelanden och uppgifter. Visa skickade e-postmeddelanden, tilldela uppgifter och använd snabbåtgärder i Sales Insight Actions.
 title: Översikt över kommandocentralen
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---

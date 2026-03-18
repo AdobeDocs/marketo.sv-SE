@@ -1,11 +1,11 @@
 ---
-description: Ta bort Sales Insight Access - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort Sales Insight-åtkomst från användare eller profiler i Salesforce. Återkalla åtkomst när användare inte längre behöver MSI.
 title: Ta bort åtkomst till Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '342'
 ht-degree: 1%
 
 ---

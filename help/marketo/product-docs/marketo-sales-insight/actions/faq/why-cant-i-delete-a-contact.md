@@ -1,11 +1,11 @@
 ---
-description: Varför kan jag inte ta bort en kontakt? - Marketo Docs - produktdokumentation
+description: Ta reda på varför du inte kan ta bort en kontakt i Sales Insight Actions. Läs mer om ägarskap och begränsningar för att ta bort kontakter.
 title: Varför kan jag inte ta bort en kontakt?
 exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

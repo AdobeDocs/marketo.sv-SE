@@ -1,12 +1,12 @@
 ---
-description: Alternativ för massutskick - Marketo Docs - produktdokumentation
+description: Läs om alternativen för massutskick i Sales Insight Actions. Skicka till flera mottagare med gruppmejl, markera och skicka eller kampanjer.
 title: Alternativ för massutskick
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

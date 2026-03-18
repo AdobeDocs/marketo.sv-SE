@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: Auktorisera Marketo [!DNL Outlook] Plugin - Marketo Docs - produktdokumentation
+description: Lär dig hur du auktoriserar plugin-programmet för Marketo Outlook. Slutför OAuth så att användare kan skicka och spåra e-post från Outlook.
 title: Auktorisera Marketo [!DNL Outlook] Plugin-programmet
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

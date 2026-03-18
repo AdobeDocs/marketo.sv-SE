@@ -1,14 +1,14 @@
 ---
-description: Lägg till i marknadsföringskampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till kontakter i en marknadsföringskampanj för Marketo från Sales Insight Actions. Välj kontakter och lägg till dem i kampanjen.
 title: Lägg till i marknadsföringskampanj
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '308'
+ht-degree: 0%
 
 ---
 

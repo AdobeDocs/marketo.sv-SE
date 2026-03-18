@@ -1,11 +1,11 @@
 ---
-description: Använda HTML - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder HTML i e-postmallar för Sales Insight Actions. Lägg in anpassade HTML för formatering och avancerat material.
 title: Använda HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

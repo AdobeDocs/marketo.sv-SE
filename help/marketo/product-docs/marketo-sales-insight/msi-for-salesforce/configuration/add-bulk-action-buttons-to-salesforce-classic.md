@@ -1,12 +1,12 @@
 ---
-description: Lägg till gruppåtgärdsknappar i Salesforce Classic - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till gruppåtgärdsknappar i listvyer i Salesforce Classic. Lägg till Skicka e-post för försäljning och Lägg till i säljkampanjer.
 title: Lägg till gruppåtgärdsknappar i Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: Skicka ett e-postmeddelande från Marketo från Microsoft Dynamics - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar ett e-postmeddelande från Microsoft Dynamics till Marketo. Skapa och skicka spårade e-postmeddelanden från MSI-panelen i Dynamics.
 title: Skicka ett e-postmeddelande från Marketo till Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---

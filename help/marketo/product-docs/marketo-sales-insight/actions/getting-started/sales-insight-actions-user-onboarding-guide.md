@@ -1,12 +1,12 @@
 ---
-description: Sales Insight Actions User Onboarding Guide - Marketo Docs - produktdokumentation
+description: Lär dig hur du kommer igång som ny användare av Sales Insight Actions. Slutför installationen och koppla e-post, Salesforce och Marketo.
 title: Handbok om User Onboarding för Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360303
-description: Anpassa stjärnor och flamma - Marketo Docs - produktdokumentation
+description: Läs om hur du anpassar stjärnor och lågor i Marketo Sales Insight. Konfigurera hur lead-poäng och hur viktigt det är i Salesforce.
 title: Anpassa stjärnor och flamma
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

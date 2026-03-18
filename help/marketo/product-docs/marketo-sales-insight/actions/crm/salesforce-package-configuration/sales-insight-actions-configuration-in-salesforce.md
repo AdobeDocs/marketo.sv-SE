@@ -1,10 +1,10 @@
 ---
-description: Sales Insight Actions Configuration in Salesforce - Marketo Docs - Product Documentation
+description: Lär dig hur du konfigurerar Sales Insight-åtgärder i Salesforce. Lägg till fjärrplatser, aktivera MSI-åtgärder och ange API-hemlig nyckel.
 title: Konfiguration av Sales Insight Actions i Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---

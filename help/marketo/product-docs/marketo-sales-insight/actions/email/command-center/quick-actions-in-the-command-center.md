@@ -1,11 +1,11 @@
 ---
-description: Snabbåtgärder i kommandocentralen - Marketo Docs - produktdokumentation
+description: Läs mer om snabbåtgärder i kommandocentralen för e-post och uppgifter om försäljning. Använd åtgärder för att snabbt svara, markera slutförda eller hantera objekt.
 title: Snabbåtgärder i kommandocentralen
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Synkronisera avbeställningar med Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du synkroniserar avbeställningar mellan Sales Insight Actions och Salesforce. Se till att avanmälningsstatusen är konsekvent mellan olika system.
 title: Synkronisera Avsluta prenumeration med Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -97,6 +97,6 @@ E-postavanmälan är ett standardfält i [!DNL Salesforce] som kan installeras f
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Insight-paketet [&#x200B; från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Fältet Marketo Sales Opt Out är ett anpassat fält som är tillgängligt för användare som har installerat Marketo Sales Insight-paketet [ från AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 När du har installerat Marketo Sales Insight-paketet från AppExchange till Salesforce ser du Marketo avanmälningsfält.

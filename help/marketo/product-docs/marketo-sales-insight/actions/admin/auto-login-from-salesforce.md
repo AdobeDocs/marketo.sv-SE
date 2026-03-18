@@ -1,11 +1,11 @@
 ---
-description: Automatisk inloggning från Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar automatisk inloggning från Salesforce så att användare automatiskt kan autentisera till Sales Insight Actions. Ställ in Inloggningshantering på Endast Salesforce och anslut konton.
 title: Logga in automatiskt från Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

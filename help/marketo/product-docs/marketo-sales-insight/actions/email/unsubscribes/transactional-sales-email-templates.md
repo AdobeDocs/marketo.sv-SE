@@ -1,11 +1,11 @@
 ---
-description: E-postmallar för transaktionsförsäljning - Marketo Docs - Produktdokumentation
+description: Lär dig mer om e-postmallar för transaktionsförsäljning och när du inte behöver avbeställa prenumerationer. Används för transaktionsmeddelanden som är en-till-en.
 title: E-postmallar för transaktionsförsäljning
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Om ditt team skickar ut transaktionsbaserade eller icke-kommersiella e-postmedde
 
 * Icke-kommersiella e-postmeddelanden kommer att kringgå avbrutna säljabonnemang och [Marketo Engage-avanmälningskontroll](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, men kommer inte att kringgå [blockerade domäner](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
-* Meddelanden om att avbeställa prenumerationen läggs inte automatiskt till i icke-kommersiella e-postmeddelanden, även om inställningen [append unsubscribe message admin &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} är aktiverad. Det `{{team_unsubscribe}}` [dynamiska fältet](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} kommer dock fortfarande att fylla i teamets meddelande om att avbryta prenumerationen.
+* Meddelanden om att avbeställa prenumerationen läggs inte automatiskt till i icke-kommersiella e-postmeddelanden, även om inställningen [append unsubscribe message admin ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} är aktiverad. Det `{{team_unsubscribe}}` [dynamiska fältet](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} kommer dock fortfarande att fylla i teamets meddelande om att avbryta prenumerationen.
 
 ## Konfigurera en e-postmall för icke-kommersiell användning {#configure-an-email-template-for-non-commercial-use}
 

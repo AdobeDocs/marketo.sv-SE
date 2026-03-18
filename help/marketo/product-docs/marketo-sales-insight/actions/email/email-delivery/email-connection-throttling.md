@@ -1,11 +1,11 @@
 ---
-description: Begränsning av e-postanslutning - Marketo Docs - produktdokumentation
+description: Förstå begränsningar för e-postanslutningar och sändningsgränser i Sales Insight Actions. Lär dig hur strypning påverkar leveransen och hur du håller dig inom gränserna.
 title: Begränsning för e-postanslutning
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---

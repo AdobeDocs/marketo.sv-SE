@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950396
-description: Prioritet, Urklipp, Relativ poäng och Bästa val - Marketo Docs - Produktdokumentation
+description: Läs om prioritet, brådskande frågor, relativ poäng och bästa val i Marketo Sales Insight. Förstå poängsättning av leads på MSI-panelen.
 title: Prioritet, Urklipp, Relativa poäng och Bästa val
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---

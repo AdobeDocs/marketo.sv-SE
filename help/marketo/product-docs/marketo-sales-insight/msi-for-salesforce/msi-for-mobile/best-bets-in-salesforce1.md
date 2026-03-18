@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511959
-description: Bästa val i Salesforce1 - Marketo Docs - produktdokumentation
+description: Läs mer om de bästa valen i Salesforce Mobile (Salesforce1). Se de främsta engagerade leads i Marketo Sales Insight-mobilupplevelse.
 title: Bästa val i Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

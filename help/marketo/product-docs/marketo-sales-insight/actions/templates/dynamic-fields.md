@@ -1,11 +1,11 @@
 ---
-description: Dynamiska fält - Marketo Docs - produktdokumentation
+description: Lär dig mer om dynamiska fält i mallar för Sales Insight Actions. Använd kopplingsfält för att anpassa e-postmeddelanden med kontakt- och avsändardata.
 title: Dynamiska fält
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---

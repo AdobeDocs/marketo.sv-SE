@@ -1,11 +1,11 @@
 ---
-description: Lägg till Sales Insight-åtkomst till profiler - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till Sales Insight-åtkomst till Salesforce-profiler. Ge användare åtkomst till Marketo Sales Insight-paketet.
 title: Lägg till åtkomst till profiler för Sales Insight
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---

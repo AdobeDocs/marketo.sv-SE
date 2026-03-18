@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: Lägg till personer i din kampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till eller tar bort personer från säljkampanjer från webbprogrammet, Salesforce eller inkorgen. Ange svars- och studsalternativ för att avsluta kampanjer automatiskt.
 title: Lägg till personer i din kampanj
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---

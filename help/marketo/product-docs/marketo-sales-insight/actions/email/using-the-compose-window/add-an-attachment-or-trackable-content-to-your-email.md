@@ -1,11 +1,11 @@
 ---
-description: Lägg till en bifogad fil eller spårbart innehåll i din e-post - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till bilagor eller spårbart innehåll i säljmeddelanden. Bifoga filer eller lägg till spårbara länkar och innehåll för ärendespårning.
 title: Lägg till en bifogad fil eller spårbart innehåll i din e-post
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---

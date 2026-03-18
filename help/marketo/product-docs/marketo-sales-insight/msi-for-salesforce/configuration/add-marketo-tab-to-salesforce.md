@@ -1,11 +1,11 @@
 ---
-description: Lägg till Marketo Tab i Salesforce - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till fliken Marketo i Salesforce. Gör fliken Marketo Sales Insight synlig för användare i Salesforce.
 title: Lägg till Marketo Tab i Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---

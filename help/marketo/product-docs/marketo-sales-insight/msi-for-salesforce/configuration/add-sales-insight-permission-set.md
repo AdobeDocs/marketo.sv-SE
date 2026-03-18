@@ -1,11 +1,11 @@
 ---
-description: Lägg till behörighetsuppsättning för Sales Insight - Marketo Docs - produktdokumentation
+description: Lär dig lägga till behörighetsuppsättningen Sales Insight i Salesforce. Tilldela uppsättningen till användare som behöver åtkomst till Marketo Sales Insight.
 title: Lägg till behörighetsuppsättning för försäljningsinsikter
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---

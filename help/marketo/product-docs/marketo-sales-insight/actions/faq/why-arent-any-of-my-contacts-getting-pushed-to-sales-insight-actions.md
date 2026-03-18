@@ -1,11 +1,11 @@
 ---
-description: Varför skickas inte mina kontakter till försäljningsåtgärder? - Marketo Docs - produktdokumentation
+description: Felsök när inga kontakter synkroniseras till Sales Insight-åtgärder. Kontrollera leverantörstilldelning och anslutningskrav.
 title: Varför skickas inte mina kontakter till försäljningsåtgärder?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

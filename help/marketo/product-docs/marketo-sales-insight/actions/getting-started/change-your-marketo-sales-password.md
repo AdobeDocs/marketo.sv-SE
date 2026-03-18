@@ -1,11 +1,11 @@
 ---
-description: Ändra ditt Marketo-lösenord - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar ditt Marketo-lösenord i Sales Insight Actions. Uppdatera lösenordet i Inställningar när du inte använder inloggningen Endast Salesforce.
 title: Ändra ditt Marketo-lösenord
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---

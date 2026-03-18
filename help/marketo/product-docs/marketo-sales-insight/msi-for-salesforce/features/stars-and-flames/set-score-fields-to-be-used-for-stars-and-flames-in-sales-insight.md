@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360301
-description: Ange poängfält som ska användas för staplar och flamma i Sales Insight - Marketo Docs - produktdokumentation
+description: Lär dig hur du anger poängfält för stjärnor och lågor i Sales Insight. Mappa Marketo poängfält till MSI-visningen i Salesforce.
 title: Ange poängfält som ska användas för staplar och flamma i Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Marketo Unsubscribe Check - Marketo Docs - produktdokumentation
+description: Läs mer om Marketo Unsubscribe Check så att säljarna inte kan mejla personer som avbeställt prenumerationer i Marketo.
 title: Avbeställ Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---

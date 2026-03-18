@@ -1,11 +1,11 @@
 ---
-description: Salesforce Sync Settings - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar Salesforce synkroniseringsinställningar för loggning av e-postaktivitet.
 title: Salesforce Sync Settings
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '578'
 ht-degree: 1%
 
 ---

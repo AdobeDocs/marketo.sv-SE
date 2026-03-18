@@ -1,11 +1,11 @@
 ---
-description: Har Sales Insight Actions en iPhone eller Android App? - Marketo Docs - produktdokumentation
+description: Se om Sales Insight Actions har en mobilapp för iPhone eller Android. Lär dig använda funktionsmakron på mobila enheter.
 title: Har Sales Insight Actions en iPhone eller Android App?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---

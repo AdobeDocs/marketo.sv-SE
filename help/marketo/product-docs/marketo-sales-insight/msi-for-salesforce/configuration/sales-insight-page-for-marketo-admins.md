@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762409
-description: Sales Insight Page for Marketo Admins - Marketo Docs - produktdokumentation
+description: Läs mer om sidan Sales Insight för Marketo-administratörer. Åtkomst till inställningar för åtgärdskonfiguration och MSI.
 title: Sales Insight Page for Marketo Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---

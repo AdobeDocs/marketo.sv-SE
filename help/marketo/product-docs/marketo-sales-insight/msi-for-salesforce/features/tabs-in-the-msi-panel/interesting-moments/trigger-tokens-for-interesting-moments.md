@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: Utlösartoken för intressanta ögonblick - Marketo Docs - produktdokumentation
+description: Lär dig mer om utlösande tokens för intressanta stunder i Marketo. Konfigurera vilka aktiviteter som skapar intressanta ögonblick på MSI-panelen.
 title: Utlösartoken för intressanta ögonblick
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---

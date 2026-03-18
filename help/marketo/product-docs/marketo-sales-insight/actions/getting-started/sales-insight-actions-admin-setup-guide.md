@@ -1,11 +1,11 @@
 ---
-description: Sales Insight Actions Admin Setup Guide - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in Sales Insight Actions som administratör. Konfigurera Marketo-anslutning, datasynkronisering och bjuda in användare.
 title: Handbok för administration av Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '613'
 ht-degree: 0%
 
 ---

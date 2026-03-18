@@ -1,11 +1,11 @@
 ---
-description: Avinstallera Salesforce Lightning Customization Package - Marketo Docs - produktdokumentation
+description: Lär dig hur du avinstallerar anpassningspaketet Salesforce Lightning för Sales Insight. Ta bort paketet från din Salesforce-instans vid behov.
 title: Avinstallera Salesforce Lightning Customization Package
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '1005'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511512
-description: Installera och konfigurera Marketo Sales Insight i Salesforce1 - Marketo Docs - produktdokumentation
+description: Lär dig installera och konfigurera Marketo Sales Insight i Salesforce Mobile (Salesforce1). Använd MSI på mobila enheter.
 title: Installera och konfigurera Marketo Sales Insight i Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '290'
 ht-degree: 5%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] i [!DNL Salesforce1] innehåller: [!DNL Best Bets], lead feed, Intressant ögonblick och Add to Marketo Campaign.
+>[!DNL Marketo Sales Insight] i [!DNL Salesforce1] innehåller: [!DNLBest Bets], lead feed, Intressant ögonblick och Add to Marketo Campaign.
 
 ## Aktivera mobilappen [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 

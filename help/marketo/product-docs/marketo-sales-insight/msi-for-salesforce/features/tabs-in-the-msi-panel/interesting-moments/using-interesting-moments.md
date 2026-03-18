@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: Använda intressanta stunder - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder intressanta stunder på MSI-panelen. Visa och tolka viktiga aktiviteter som indikerar lead-engagemang.
 title: Använda intressanta stunder
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---

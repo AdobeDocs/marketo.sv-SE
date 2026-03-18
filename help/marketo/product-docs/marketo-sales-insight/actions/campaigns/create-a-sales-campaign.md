@@ -1,11 +1,11 @@
 ---
-description: Skapa en försäljningskampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en säljkampanj med e-post, samtal, InMail och anpassade uppgiftssteg. Ordna, skala och mät utåtriktad verksamhet.
 title: Skapa en försäljningskampanj
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---

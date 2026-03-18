@@ -1,11 +1,11 @@
 ---
-description: Skapa ett team - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett team i Sales Insight Actions för att dela mallar, kampanjer och grupper.
 title: Skapa ett team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
