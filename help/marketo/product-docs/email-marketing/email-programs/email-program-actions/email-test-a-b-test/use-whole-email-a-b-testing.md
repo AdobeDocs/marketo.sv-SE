@@ -45,11 +45,11 @@ Du kan enkelt A/B-testa dina e-postmeddelanden. Ett bra test är testet **Hela e
 
 1. Välj ditt andra e-postmeddelande.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klicka på **[!UICONTROL Add]** om du vill använda den andra e-postadressen. Dra skjutreglaget för att välja vilken procentandel av publiken du vill ska få A/B-testet och klicka på **[!UICONTROL Next]**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

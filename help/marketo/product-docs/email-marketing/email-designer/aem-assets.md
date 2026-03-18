@@ -81,7 +81,7 @@ Om din miljö har en eller flera anslutningar till resurskatalogen kan du ange A
 
 ![Välj AEM Assets som bildkälla i dialogrutan Skapa](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` i avsnittet _[!UICONTROL Body]_till höger.
+* När du öppnar en befintlig innehållsresurs väljer du `AEM Assets` i avsnittet _[!UICONTROL Body]_&#x200B;till höger.
 
 ![Välj AEM Assets som bildkälla i egenskaperna](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 

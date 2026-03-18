@@ -35,7 +35,7 @@ Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad, specifi
    >
    >Knappen **[!UICONTROL Add custom CSS]** är bara tillgänglig när **[!UICONTROL Body]** är markerad. Du kan dock använda anpassade CSS-format på alla komponenter i innehållet.
 
-1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden [ är giltig och följer rätt syntax ](#use-valid-css). Klicka på **Spara** när du är klar.
+1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden [&#x200B; är giltig och följer rätt syntax &#x200B;](#use-valid-css). Klicka på **Spara** när du är klar.
 
    ![](assets/custom-css-2.png)
 
