@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359789
-description: Clone a Stream - Marketo Docs - produktdokumentation
+description: Lär dig hur du klonar en engagemangsprogramström för testning. Klona från strömmens kugghjulsikon och ställ in stängsel på den nya strömmen.
 title: Klona en ström
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

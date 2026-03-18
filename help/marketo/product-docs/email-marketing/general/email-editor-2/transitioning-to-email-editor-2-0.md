@@ -1,14 +1,14 @@
 ---
 unique-page-id: 11373011
-description: Övergång till e-postredigeraren 2.0 - Marketo Docs - produktdokumentation
+description: Läs om hur du går över till E-postredigeraren 2.0. Förstå förändringar och hur man går från den klassiska redigeraren till den nya.
 title: Övergår till Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---

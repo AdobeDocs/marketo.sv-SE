@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359647
-description: Understanding Engagement Programs - Marketo Docs - Product Documentation
+description: Läs om engagemangsprogram, strömmar, innehåll, datatypsbyte och stängsel i Marketo. Förstå hur vårdsprogram systematiskt presenterar innehåll.
 title: Förstå engagemangsprogram
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

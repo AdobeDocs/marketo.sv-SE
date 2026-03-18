@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900597
-description: Definiera en målgrupp genom att importera en lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar en målgrupp i ett e-postprogram genom att importera en lista. Använd statiska eller överförda listor för att rikta in dig på din sändning.
 title: Definiera en publik genom att importera en lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---

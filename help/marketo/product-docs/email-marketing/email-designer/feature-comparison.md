@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Jämförelse av e-postfunktioner i Designer och e-postredigeraren
-description: Använd den här tabellen för att jämföra tillgängligheten av funktioner i vår tidigare e-postredigerare (Email Editor 2.0) och i vår nya e-postredigerare för Designer.
+description: Läs om skillnaderna mellan e-postredigeraren 2.0 och nya e-postprogrammet Designer. Använd tabellen för att jämföra tillgängligheten för funktioner.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---

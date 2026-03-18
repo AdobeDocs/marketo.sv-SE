@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359453
-description: Redigera din e-postadress - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar din e-postadress (från namn, e-post, svar till, ämne). Ange rubrikfälten i e-postredigeraren.
 title: Redigera din e-postrubrik
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504840
-description: Avbryt e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du avbryter ett e-postprogram före eller under sändning. Stoppa leveransen och hantera den återstående publiken efter behov.
 title: Avbryt e-postprogram
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Lägg till anpassad CSS i e-postinnehållet
-description: Lär dig hur du lägger till anpassad CSS i ditt e-postinnehåll direkt i e-post-Designer i Marketo Engage.
+description: Lär dig hur du lägger till anpassad CSS i e-postinnehåll i e-postprogrammet för Designer. Stila dina e-postmeddelanden med anpassad kod i Marketo Engage.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '591'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Lägg in egen CSS direkt i Marketo Engage Email Designer för avancerad, specifi
    >
    >Knappen **[!UICONTROL Add custom CSS]** är bara tillgänglig när **[!UICONTROL Body]** är markerad. Du kan dock använda anpassade CSS-format på alla komponenter i innehållet.
 
-1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden [&#x200B; är giltig och följer rätt syntax &#x200B;](#use-valid-css). Klicka på **Spara** när du är klar.
+1. Ange din CSS-kod i det dedikerade textområdet som visas. Kontrollera att den anpassade CSS-koden [ är giltig och följer rätt syntax ](#use-valid-css). Klicka på **Spara** när du är klar.
 
    ![](assets/custom-css-2.png)
 
@@ -220,13 +220,13 @@ Om din anpassade CSS inte används provar du med förslagen nedan.
 
 * Kontrollera om stiltaggen `global-custom` har attributet `data-disabled` inställt på `true`. I så fall används inte den anpassade CSS:en.
 
-+++ Exempel:
+  +++ Exempel:
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * Kontrollera att CSS inte åsidosätts av andra CSS-regler.
 
@@ -234,7 +234,7 @@ Om din anpassade CSS inte används provar du med förslagen nedan.
 
    * Överväg att lägga till `!important` i dina deklarationer för att säkerställa att de har företräde.
 
-+++ Exempel:
+     +++ Exempel:
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ Om din anpassade CSS inte används provar du med förslagen nedan.
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

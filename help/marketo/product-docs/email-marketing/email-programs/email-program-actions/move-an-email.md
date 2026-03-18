@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098691
-description: Flytta ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du flyttar ett e-postmeddelande till ett annat program eller en annan mapp. Flytta e-postresurser utan att förstöra själva resursen.
 title: Flytta ett e-postmeddelande
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 

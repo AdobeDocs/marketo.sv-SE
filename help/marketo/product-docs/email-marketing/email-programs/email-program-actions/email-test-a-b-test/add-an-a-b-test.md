@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359491
-description: Lägg till ett A/B-test - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett A/B-test i ett e-postprogram. Välj vad som ska testas (ämne, innehåll, från eller datum/tid) och ange vinnarvillkor.
 title: Lägg till ett A/B-test
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---

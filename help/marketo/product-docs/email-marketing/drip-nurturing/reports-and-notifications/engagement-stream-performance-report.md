@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359955
-description: Prestandarapport för Engagement Stream - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och kör rapporten Engagement Stream Performance. Filtrera efter e-postprogram och visa detaljerad strömstatistik.
 title: Resultatrapport för engagemangsström
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---

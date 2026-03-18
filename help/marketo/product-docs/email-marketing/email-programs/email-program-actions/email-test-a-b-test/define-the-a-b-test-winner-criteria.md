@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359545
-description: Definiera A/B Test Winner Criteria - Marketo Docs - Product Documentation
+description: Lär dig definiera kriterier för A/B-testvinnare. Ange mätvärden och tröskelvärden som avgör vilken variant som vinner testet.
 title: Definiera villkor för A/B-testvinnare
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ När du [lägger till ett A/B-test](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=sv-SE" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
+   <td>Med <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">engagemangspoäng</a> kan du avgöra hur effektivt ditt innehåll är.</td>
    </tr>
    </table>
 

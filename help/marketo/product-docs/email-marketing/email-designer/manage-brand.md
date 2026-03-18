@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: Marketo
 title: Hantera varumärke
-description: Lär dig skapa och hantera riktlinjer för ert varumärke
+description: Läs om hur du skapar och hanterar varumärkesriktlinjer i e-postmeddelandet om Designer. Konfigurera och uppdatera varumärkesinställningar för dina e-postmeddelanden.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1319'
+source-wordcount: '1330'
 ht-degree: 0%
 
 ---
@@ -50,7 +51,7 @@ Så här tilldelar du behörigheter för varumärken:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **Spara**.
 
-1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 

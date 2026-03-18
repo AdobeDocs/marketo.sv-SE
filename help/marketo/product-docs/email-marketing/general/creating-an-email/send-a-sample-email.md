@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147352
-description: Skicka ett exempelmejl - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar ett exempelmejl för att testa innehåll före start. Använd e-postredigeraren för att skicka en testkopia till dig själv eller andra.
 title: Skicka ett exempelmeddelande
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Det går snabbt och enkelt att skicka exempel på e-postmeddelanden. Mer informa
 
    >[!NOTE]
    >
-   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting).
+   >Utlösarfältet gäller endast för dem som använder [e-postskript](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Skicka ett exempelmeddelande baserat på ett segment {#send-a-sample-email-based-on-a-segment}
 

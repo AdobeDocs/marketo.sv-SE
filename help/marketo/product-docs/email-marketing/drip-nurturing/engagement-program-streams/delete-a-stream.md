@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359936
-description: Ta bort en ström - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en ström från ett engagemangsprogram. Flytta ut personer först vid behov och bekräfta för att undvika att förlora historiska data.
 title: Ta bort en ström
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

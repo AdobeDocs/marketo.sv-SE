@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912163
-description: Skapa ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig skapa e-postmeddelanden i Marketo. Välj en mall eller börja från grunden i Design Studio eller ett e-postprogram.
 title: Skapa ett e-postmeddelande
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---

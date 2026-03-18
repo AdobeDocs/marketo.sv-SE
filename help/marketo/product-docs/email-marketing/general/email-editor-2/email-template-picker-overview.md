@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912237
-description: Översikt över väljaren för e-postmallar - Marketo Docs - Produktdokumentation
+description: Läs mer om väljaren för e-postmallar i e-postredigeraren 2.0. Välj bland mallar när du skapar nya e-postmeddelanden.
 title: Översikt över väljaren för e-postmall
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---

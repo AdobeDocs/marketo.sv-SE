@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder dedikerade IP-adresser för att skicka e-post i Marketo. Få coachning på IP-uppvärmning och DNS-konfiguration från leverantörskonsulter.
 title: Använd dina dedikerade IP-adresser för att skicka e-postmeddelanden
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---

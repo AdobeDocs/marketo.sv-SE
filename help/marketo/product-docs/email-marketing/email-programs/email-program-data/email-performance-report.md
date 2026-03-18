@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359467
-description: E-postprestandarapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och använder rapporten E-postprestanda. Spåra öppningar, klick, studsar och andra e-postmått.
 title: Rapport om e-postprestanda
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -76,11 +76,11 @@ I allmänhet försöker vi använda sunt förnuft för att registrera denna stat
 
 * **Regel 1**: Varje e-postaktivitetspost är inställd på en, och bara en, av följande: _Levererad_, _Hård studsad_, _Mjuk studsad_ eller _Väntande_.
 
-* **Regel 2**: Om e-postposten visar _[!UICONTROL Opened]_&#x200B;räknas den som_ Levererad _.
+* **Regel 2**: Om e-postposten visar _[!UICONTROL Opened]_räknas den som_ Levererad _.
 
-* **Regel 3**: Om e-postposten visar _[!UICONTROL Clicked Email]_&#x200B;eller&#x200B;_[!UICONTROL Unsubscribed]_ räknas den som _Levererad_ och _Öppnad_.
+* **Regel 3**: Om e-postposten visar _[!UICONTROL Clicked Email]_eller_[!UICONTROL Unsubscribed]_ räknas den som _Levererad_ och _Öppnad_.
 
-* **Regel 4**: Om e-postmeddelandet är _[!UICONTROL Opened]_&#x200B;ignoreras studenterna. Om e-postmeddelandet inte har öppnats har_ Hård studsning _högre prioritet än_ Mjuk studsad _och_ Levererad _.
+* **Regel 4**: Om e-postmeddelandet är _[!UICONTROL Opened]_ignoreras studenterna. Om e-postmeddelandet inte har öppnats har_ Hård studsning _högre prioritet än_ Mjuk studsad _och_ Levererad _.
 
 * **Regel 5**: Om ingen e-postaktivitet tas emot tre dagar efter att den skickades, betraktas den som _Avbruten_.
 

@@ -1,13 +1,14 @@
 ---
 title: Konvertera bilder till HTML-mallar
-description: Använd det här kodfria verktyget för att omvandla en bild till en redigerbar e-postmall.
+description: Lär dig hur du konverterar en bild till en redigerbar e-postmall från HTML. Använd kodningsverktyget för bild-till-HTML i e-post-Designer.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1281'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Genom att utnyttja generativ AI-teknik analyserar konverteraren bild till HTML l
 >[!PREREQUISITES]
 >
 >* Du måste först godkänna villkoren för [Core Gen-AI och de kompletterande villkoren](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} för att kunna använda Gen-AI-funktionen i e-postprogrammet för Designer. Kontakta Adobe Account Team (din kontoansvarige) för mer information.
->* Du måste ha behörighet för _Åtkomst till e-postmall_ samt för _Redigera/generera e-postmall_ aktiverat [i din Marketo-roll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Du måste ha behörighet för _Åtkomst till e-postmall_ samt för _Redigera/generera e-postmall_ aktiverat [i din Marketo-roll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertera en bild {#convert-an-image}
 

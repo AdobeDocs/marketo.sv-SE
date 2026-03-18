@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger -Deklarera en mästare - Marketo Docs - produktdokumentation
+description: Lär dig hur du deklarerar en tävling för ditt e-posttest. Välj vinnande variant och skicka resten av publiken till vinnaren.
 title: Champion/Challenger - Deklarera en mästare
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

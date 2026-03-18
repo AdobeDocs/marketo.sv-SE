@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359469
-description: Visa kontrollpanelen för e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar kontrollpanelen för e-postprogram. Se prestandamått och programstatus i korthet.
 title: Visa kontrollpanelen för e-postprogram
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

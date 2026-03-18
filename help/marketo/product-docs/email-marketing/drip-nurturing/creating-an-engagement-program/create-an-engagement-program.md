@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359652
-description: Skapa ett engagemangsprogram - Marketo Docs - produktdokumentation
+description: Lär dig skapa ett engagemangsprogram i Marketo för e-postmarknadsföring. Välj Engagement som programtyp och lägg in strömmar och innehåll.
 title: Skapa ett engagerande program
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

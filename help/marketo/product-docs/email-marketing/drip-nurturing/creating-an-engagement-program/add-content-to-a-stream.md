@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359659
-description: Lägg till innehåll i en ström - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till e-post eller program i en engagemangsprogramström. Använd knappen Lägg till innehåll eller plusikonen för att skapa din näring.
 title: Lägg till innehåll i en ström
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

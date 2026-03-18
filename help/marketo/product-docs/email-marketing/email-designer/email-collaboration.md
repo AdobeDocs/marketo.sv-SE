@@ -1,12 +1,12 @@
 ---
-description: E-postsamarbete - Marketo Docs - produktdokumentation
+description: Läs mer om e-postsamarbete och kommentarer i e-postprogrammet Designer. Granska, kommentera och åtgärda feedback med teamet i realtid.
 title: E-postsamarbete
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---

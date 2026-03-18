@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359782
-description: Lägg till personer i ett engagemangsprogram - Marketo Docs - produktdokumentation
+description: Läs om hur människor blir medlemmar i engagemangsprogram. Använd flödessteg, formulär, import eller Salesforce-kampanjer för att lägga till medlemmar.
 title: Lägg till personer i ett engagemangsprogram
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

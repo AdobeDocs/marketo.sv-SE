@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359553
-description: Lägg till en e-postmästare/kund - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till ett e-posttest för Champion/Challenger. Konfigurera flera varianter och definiera hur vinnaren ska väljas.
 title: Lägg till en e-postkampanj/kanal
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

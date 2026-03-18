@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147354
-description: Gör ett e-postmeddelande tillgängligt - Marketo Docs - produktdokumentation
+description: Lär dig hur du kan få ett e-postmeddelande att fungera så att du kan nå personer som inte har prenumererat. Används för transaktionell eller obligatorisk kommunikation.
 title: Låt e-postmeddelanden fungera
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---

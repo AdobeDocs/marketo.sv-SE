@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: Importera en icke-latinsk teckenlista - Marketo Docs - produktdokumentation
+description: Lär dig hur du importerar listor med icke-latinska tecken för e-postprogram. Säkerställ kodning och formatering för internationella målgrupper.
 title: Importera en icke-latinsk teckenlista
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---

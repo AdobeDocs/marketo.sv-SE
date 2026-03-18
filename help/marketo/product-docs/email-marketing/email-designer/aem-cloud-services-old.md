@@ -1,11 +1,11 @@
 ---
 title: Connect Experience Manager doc
-description: Lär dig hur du ansluter Adobe Experience Manager Cloud Services till Adobe Marketo Engage så att du kan utnyttja dina AEM-resurser.
+description: Lär dig hur du ansluter AEM Cloud Services till Marketo Engage. Använd dina AEM-resurser när du skapar e-postmeddelanden i designern.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

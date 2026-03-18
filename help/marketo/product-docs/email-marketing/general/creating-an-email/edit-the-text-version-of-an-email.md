@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11372054
-description: Redigera textversionen av ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar textversionen av ett e-postmeddelande. Uppdatera den oformaterade textversionen för hjälpmedel och återgångsvisning.
 title: Redigera textversionen av ett e-postmeddelande
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---

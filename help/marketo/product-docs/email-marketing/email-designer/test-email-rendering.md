@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Testa e-poståtergivning med Litmus
-description: Marketo Engage-användare kan integrera sitt Litmus-konto för att smidigt testa innehåll som skickas i olika e-postklienter.
+description: Lär dig hur du testar e-poståtergivning mellan klienter med Litmus. Integrera ditt Litmus-konto för att förhandsgranska innehåll i olika e-postklienter.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---

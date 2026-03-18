@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900593
-description: Skapa ett e-postmeddelande för ett e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett e-postmeddelande för ett e-postprogram. Lägg till en ny e-postresurs och välj en mall eller befintlig e-post.
 title: Skapa ett e-postmeddelande för ett e-postprogram
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

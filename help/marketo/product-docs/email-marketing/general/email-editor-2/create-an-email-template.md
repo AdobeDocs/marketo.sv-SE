@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096400
-description: Skapa en e-postmall - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skapar en e-postmall i e-postredigeraren 2.0. Bygg återanvändbara mallar med moduler och redigerbara avsnitt.
 title: Skapa en e-postmall
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---

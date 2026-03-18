@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359947
-description: Överför personer mellan engagemangsströmmar - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in övergångsregler för att flytta människor mellan interaktionsströmmar. Definiera regler för den ström som du vill hämta till.
 title: Överför personer mellan engagemangsströmmar
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---

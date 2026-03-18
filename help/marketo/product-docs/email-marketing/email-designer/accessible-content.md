@@ -1,13 +1,14 @@
 ---
 title: Utforma tillgängligt innehåll
-description: Lär dig hur du utformar tillgängligt innehåll för e-postmeddelanden i Adobe Marketo Engage.
+description: Lär dig hur du utformar tillgängligt e-postinnehåll i Marketo Engage. Använd bästa praxis så att e-postmeddelanden fungerar för alla mottagare.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: e-post, design, tillgänglighet
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1359'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---

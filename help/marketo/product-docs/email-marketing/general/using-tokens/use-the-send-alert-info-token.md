@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
-description: Använd informationstoken för skicka-varning {{SP_Send_Alert_Info}} - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder token Skicka aviseringsinformation i e-postmeddelanden. Infoga sändningsinformation som tid och programnamn dynamiskt.
 title: Använda Skicka aviseringsinformationstoken
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

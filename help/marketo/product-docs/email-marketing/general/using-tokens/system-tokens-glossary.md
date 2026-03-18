@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147344
-description: Systemtokens - ordlista - Marketo Docs - produktdokumentation
+description: Läs mer om systemtokens som finns i Marketo e-postmeddelanden. Använd ordlistan för att hitta rätt token för personalisering.
 title: Ordlista för systemtoken
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Token `{{system.date}}` återger aktuellt datum vid körning så här: **8 aug 2
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.time {#system-time}
@@ -38,7 +38,7 @@ Token `{{system.time}}` återger aktuell tid vid körning så här: **04:34 PM (
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.dateTime {#system-datetime}
@@ -49,7 +49,7 @@ Token `{{system.dateTime}}` återger aktuellt datum och aktuell tid vid körning
 
 * [Ändra flödessteg för datavärde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * Flödessteget [Intressant stund](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}
-* [Skapa &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
+* [Skapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flödessteg för aktivitet
 * Innehållet i ett e-postmeddelande eller en mall
 
 ## system.unsubscribeLink {#system-unsubscribelink}

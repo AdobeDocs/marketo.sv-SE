@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953419
-description: Använda RTF-redigeraren - Marketo Docs - produktdokumentation
+description: Lär dig använda textredigeraren för e-postinnehåll. Formatera text, lägg till länkar och formatera innehåll i e-postredigeraren.
 title: Använda RTF-redigeraren
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '672'
 ht-degree: 1%
 
 ---

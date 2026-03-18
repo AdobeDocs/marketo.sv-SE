@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371065
-description: Lägg till moduler i din e-post - Marketo Docs - produktdokumentation
+description: Läs om hur du lägger till moduler i e-postmeddelanden i e-postredigeraren 2.0. Infoga och ordna innehållsmoduler för att skapa din layout.
 title: Lägg till moduler i din e-post
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

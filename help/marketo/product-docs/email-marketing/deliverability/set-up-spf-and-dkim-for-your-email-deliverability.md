@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720710
-description: Konfigurera SPF och DKIM för e-postleverans - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar SPF och DKIM i din DNS för att förbättra e-postleveransen. Tillåt att Marketo skickar för din räkning och minska antalet skräppostflaggor.
 title: Konfigurera SPF och DKIM för e-postleverans
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---

@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: RUBRIK
-description: Lär dig hur du kan effektivisera e-postgenereringen med återanvändbara teman och moduler, vilket ger en enhetlig design och effektivitet.
+description: Lär dig hur du använder varumärkesteman i e-postmeddelanden för enhetlig design. Använd återanvändbara teman och moduler i e-post-Designer.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---

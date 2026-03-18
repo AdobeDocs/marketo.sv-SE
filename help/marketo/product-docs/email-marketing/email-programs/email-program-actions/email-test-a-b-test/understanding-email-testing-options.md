@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359483
-description: Understanding Email Testing Options - Marketo Docs - Product Documentation
+description: Lär dig mer om e-posttestningsalternativ för A/B-tester. Förstå ämnesrad, hela e-postmeddelanden, från adress och datum-/tidstestning.
 title: Om alternativ för e-posttestning
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

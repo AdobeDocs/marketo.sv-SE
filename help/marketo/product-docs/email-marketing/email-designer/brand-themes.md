@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Varumärkesteman
-description: Lär dig hur du skapar och hanterar riktlinjer för varumärken.
+description: Lär dig hur du skapar och hanterar varumärkesriktlinjer i Marketo Engage. Skapa varumärkesteman för enhetlig e-postdesign.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1107'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Du kan välja mellan en förinställning eller konfigurera varje färg i uppsät
 
 ![](assets/brand-themes-8.png)
 
-När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen &#x200B;](assets/icon-back-arrow.png)) för att gå tillbaka.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
 
 Om du vill redigera en variant klickar du på pennikonen.
 

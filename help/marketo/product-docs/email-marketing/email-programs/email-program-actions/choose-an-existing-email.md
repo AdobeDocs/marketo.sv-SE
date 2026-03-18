@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359451
-description: Välj en befintlig e-postadress - Marketo Docs - produktdokumentation
+description: Lär dig hur du väljer ett befintligt e-postmeddelande för ett e-postprogram. Välj från Design Studio eller lokal e-post för programmet.
 title: Välj en befintlig e-postadress
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

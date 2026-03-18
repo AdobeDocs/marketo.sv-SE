@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951167
-description: Visa e-postprogramresultat - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar resultat och prestanda för e-postprogram. Öppna, klicka, studsa och andra mätvärden för programmet.
 title: Visa resultat för e-postprogram
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---

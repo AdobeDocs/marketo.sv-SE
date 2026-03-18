@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359787
-description: Lägg till en ström - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en ny ström till ditt engagemangsprogram i Marketo. Lägg till upp till 25 strömmar per program från fliken Strömmar.
 title: Lägg till en ström
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '68'
 ht-degree: 1%
 
 ---

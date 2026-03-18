@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900560
-description: Lägg till en länk för Visa som webbsida i ett e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till länken Visa som webbsida i ett e-postmeddelande. Låt mottagarna öppna e-postmeddelandet i en webbläsare med en beständig länk.
 title: Lägg till en länk för Visa som webbsida i ett e-postmeddelande
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

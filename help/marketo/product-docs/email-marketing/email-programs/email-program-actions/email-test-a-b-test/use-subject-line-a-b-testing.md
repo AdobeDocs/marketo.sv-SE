@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359494
-description: Använd"Subject line" A/B-testning - Marketo Docs - produktdokumentation
+description: Lär dig hur du kör A/B-tester på ämnesraden i e-postprogram. Testa olika ämnesrader och välj en vinnare utifrån prestation.
 title: Använd A/B-testning på ämnesraden
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

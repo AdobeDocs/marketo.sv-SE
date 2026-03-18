@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359549
-description: Använd kontrollpanelen för e-postprogram - A/B-testvy - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder A/B-testvyn på kontrollpanelen för e-postprogram. Övervaka testvarianter och prestanda innan du deklarerar en vinnare.
 title: Använd kontrollpanelen för e-postprogram - A/B-testvy
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---

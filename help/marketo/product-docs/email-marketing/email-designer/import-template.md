@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Import av mallar
-description: Lär dig hur du importerar dina befintliga e-postmallar från den klassiska redigeraren till nya Email Designer.
+description: Lär dig hur du importerar e-postmallar från den klassiska redigeraren till e-post-Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---

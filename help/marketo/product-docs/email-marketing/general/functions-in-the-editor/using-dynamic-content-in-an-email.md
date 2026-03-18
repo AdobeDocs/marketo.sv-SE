@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950617
-description: Använda dynamiskt innehåll i ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder dynamiskt innehåll i ett e-postmeddelande. Visa olika innehåll för olika segment baserat på regler och attribut.
 title: Använda dynamiskt innehåll i ett e-postmeddelande
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---

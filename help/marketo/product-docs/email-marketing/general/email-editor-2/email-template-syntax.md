@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371040
-description: Syntax för e-postmall - Marketo Docs - Produktdokumentation
+description: Läs mer om syntaxen för e-postmallar i e-postredigeraren 2.0. Använd rätt syntax för moduler och redigerbara avsnitt i mallar.
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '2449'
+source-wordcount: '2462'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ Exempel:
 
 `<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
-## Variabel {#variables}
+## Variabler {#variables}
 
 Variabler är som tokens. Du definierar dem först i avsnittet `<head>` i din e-postmall med `<meta>` -taggar och använder dem sedan så många gånger som du vill i hela mallen. Eftersom de är definierade i mallen kan slutanvändaren ändra sina värden enligt sina regler. Observera att du kan definiera en variabel som lokal eller global i omfattningen. Om du använder en variabel i en &quot;modul&quot; (se nedan) och en slutanvändare duplicerar den modulen, kommer lokala variabler att ha oberoende värden, medan globala variabler gäller för båda modulerna.
 

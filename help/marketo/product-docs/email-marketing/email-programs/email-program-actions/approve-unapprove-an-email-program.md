@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359462
-description: Godkänn/avgodkänn ett e-postprogram - Marketo Docs - Produktdokumentation
+description: Lär dig godkänna eller avgodkänna ett e-postprogram. Slutför godkännandearbetsflödet så att programmet kan schemaläggas och skickas.
 title: Godkänn/avgodkänn ett e-postprogram
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

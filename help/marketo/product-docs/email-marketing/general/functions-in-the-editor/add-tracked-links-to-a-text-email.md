@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: Lägg till spårade länkar i ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till spårade länkar i e-postmeddelanden som bara innehåller text. Aktivera länkspårning så att du kan mäta klick i e-postrapporter.
 title: Lägg till spårade länkar i ett e-postmeddelande
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---

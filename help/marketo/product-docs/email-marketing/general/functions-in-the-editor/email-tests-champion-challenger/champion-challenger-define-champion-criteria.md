@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Product Documentation
+description: Lär dig hur du definierar Champion-villkor för e-posttester. Ange reglerna som avgör vilken variant som vinner Champion/Challenger-testet.
 title: Champion/Challenger - Definiera tävlingskriterier
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

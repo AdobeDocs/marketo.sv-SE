@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359685
-description: The Engagement Dashboard - Marketo Docs - produktdokumentation
+description: Lär dig mer om Engagement Dashboard och hur det visar innehållets prestanda. Visa överflödiga widgetar, engagemang över tid och de högsta engagemangswidgetarna.
 title: Instrumentpanelen för engagemang
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---

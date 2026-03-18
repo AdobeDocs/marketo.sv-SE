@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Innehållskomponenter
-description: BESKRIVNING.
+description: Lär dig mer om innehållskomponenter för att personalisera e-postlayout. Lägg till och formatera komponenter i strukturkomponenter i e-postprogrammet Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Följ stegen nedan för att lägga till innehållskomponenter i e-postmeddelande
 
 Om du vill tillämpa en viss formatering på en grupp innehållskomponenter kan du lägga till en **[!UICONTROL Container]**-komponent och sedan lägga till den eller de innehållskomponenter som du vill använda. På så sätt kan du tillämpa ett distinkt format på behållaren, vilket skiljer sig från det format som tillämpas på innehållskomponenterna i behållaren.
 
-Lägg till exempel till en **[!UICONTROL Container]**-komponent och lägg sedan till en [&#x200B; Button](#button) -komponent i den behållaren. Du kan använda en specifik bakgrund för behållaren och en annan för knappen.
+Lägg till exempel till en **[!UICONTROL Container]**-komponent och lägg sedan till en [ Button](#button) -komponent i den behållaren. Du kan använda en specifik bakgrund för behållaren och en annan för knappen.
 
 SCREENSHOT
 
@@ -147,7 +147,7 @@ Använd komponenten **[!UICONTROL Image]** för att infoga en bildfil från dato
 
 1. Klicka på **[!UICONTROL Settings]** på fliken **[!UICONTROL Browse]** för att välja en bildfil från dina resurser eller på **[!UICONTROL Import media]** för att överföra en resurs till Adobe Experience Manager Assets.
 
-   Mer information om [!DNL Adobe Experience Manager Assets] finns i [Adobe Experience Manager Assets-dokumentationen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=sv-SE){target="_blank"}.
+   Mer information om [!DNL Adobe Experience Manager Assets] finns i [Adobe Experience Manager Assets-dokumentationen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >

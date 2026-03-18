@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900577
-description: Skapa en token för e-postskript - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en e-postskripttoken. Definiera anpassade tokens som genererar dynamiska värden i dina e-postmeddelanden.
 title: Skapa en e-postskripttoken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ För avancerade utvecklare kan du använda [hastighetsskript](https://velocity.a
 
 1. Skriv ditt skript i Snabbhet. Här är några användbara resurser:
 
-   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/email-scripting)
+   * [E-postskriptdokumentation för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Användarhandbok för snabbhet](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Referenshandbok för snabbhet](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Snabbhetsverktyg, JavaScript](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

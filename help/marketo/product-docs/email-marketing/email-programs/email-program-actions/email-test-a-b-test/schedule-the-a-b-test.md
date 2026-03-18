@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359547
-description: Schemalägg A/B-testet - Marketo Docs - produktdokumentation
+description: Lär dig schemalägga ett A/B-test för ett e-postprogram. Ange sändningstid och när vinnaren ska deklareras.
 title: Schemalägg A/B-testet
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---

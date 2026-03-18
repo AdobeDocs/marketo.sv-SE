@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359596
-description: Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar eller inaktiverar kommunikationsbegränsningar i ett e-postprogram. Styr hur ofta personer kan få e-post från programmet.
 title: Aktivera/inaktivera kommunikationsbegränsningar i ett e-postprogram
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---

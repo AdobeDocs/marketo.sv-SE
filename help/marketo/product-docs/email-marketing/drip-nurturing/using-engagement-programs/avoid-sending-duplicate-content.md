@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096409
-description: Undvik att skicka duplicerat innehåll - Marketo Docs - produktdokumentation
+description: Lär dig mer om scenarier som förhindrar eller tillåter dubbla e-postmeddelanden i engagemangsprogram. Använd regler för programmedlemskap och CEE för att undvika upprepningar.
 title: Undvik att skicka duplicerat innehåll
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 3%
 
 ---
 

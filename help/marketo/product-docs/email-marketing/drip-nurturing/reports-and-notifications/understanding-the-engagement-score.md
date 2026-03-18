@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359890
-description: Så här fungerar Engagement Score - Marketo Docs - produktdokumentation
+description: Lär dig mer om poängen för engagemang (0 till 100) och hur det mäter innehållets effektivitet. Använd kontrollpanelen för att jämföra innehållsprestanda.
 title: Så här fungerar engagemanget
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359455
-description: Schemalägg ditt e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du schemalägger ditt e-postprogram. Ange datum och tid för leverans och använd eventuellt mottagartidszon.
 title: Schemalägg ditt e-postprogram
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,11 @@
 solution: Marketo Engage
 product: marketo
 title: Rapport om skräppost
-description: Lär dig hur du använder SpamAssassin för att testa ditt e-postinnehåll och se sannolikheten för att det markeras som skräppost.
+description: Lär dig hur du använder SpamAssassin för att testa om e-postinnehåll är sannolikt för skräppost. Kontrollera dina e-postmeddelanden innan du skickar iväg dem för att förbättra leveransen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
-description: Resultatrapport för e-postlänk - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och använder rapporten för prestanda för e-postlänkar. Se hur varje länk i e-postmeddelandet fungerar för klick och engagemang.
 title: Resultatrapport för e-postlänk
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---

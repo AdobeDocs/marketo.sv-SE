@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359669
-description: Aktivera och inaktivera ströminnehåll - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar och inaktiverar ströminnehåll för engagemangssändningar.
 title: Aktivera och inaktivera ströminnehåll
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---

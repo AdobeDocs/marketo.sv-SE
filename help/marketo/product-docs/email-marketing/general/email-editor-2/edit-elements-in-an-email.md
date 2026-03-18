@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900558
-description: Redigera element i ett e-postmeddelande - Marketo Docs - produktdokumentation
+description: Lär dig redigera element i e-postmeddelanden i e-postredigeraren 2.0. Ändra text, bilder och andra moduler i e-postlayouten.
 title: Redigera element i ett e-postmeddelande
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---

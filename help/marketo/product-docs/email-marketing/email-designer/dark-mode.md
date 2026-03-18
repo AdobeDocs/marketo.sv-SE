@@ -1,11 +1,12 @@
 ---
-description: Mörkt läge - Marketo Docs - produktdokumentation
+description: Lär dig hur du utformar e-postmeddelanden för mörkt läge i e-post-Designer. Ange anpassad visning av mörkt läge för stöd av e-postklienter.
 title: Mörkt läge
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ I **[!UICONTROL Dark mode]** kan du definiera specifika anpassade inställningar
 
 I mörkt läge kan e-postklienter och appar som stöder e-post visa e-postmeddelanden med mörkare bakgrund och ljusare färger för text, knappar och andra gränssnittselement. Den minskar ögonbelastningen, sparar batteritid och förbättrar läsbarheten i miljöer med svag belysning för en mer bekväm visning.
 
-## Guardrails {#guardrails}
+## Skyddsräcken {#guardrails}
 
 Återgivning i mörkt läge kan variera avsevärt i olika e-postklienter.
 

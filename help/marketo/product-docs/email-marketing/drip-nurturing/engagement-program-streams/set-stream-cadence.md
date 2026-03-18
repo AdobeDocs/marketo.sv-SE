@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359665
-description: Set Stream Cadence - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in strömavslut för engagemangsprogram. Schemalägg vecko- eller månadsvisa datatypsbyte och använd mottagartidszonen om så önskas.
 title: Ange strömavslut
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---

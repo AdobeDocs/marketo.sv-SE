@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11372299
-description: E-postredigeraren v2.0 - översikt - Marketo Docs - produktdokumentation
+description: Läs mer om e-postredigeraren v2.0 och dess funktioner. Skapa och redigera e-postmeddelanden med den modulbaserade redigeraren och mallväljaren.
 title: E-postredigerare v2.0 - översikt
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---

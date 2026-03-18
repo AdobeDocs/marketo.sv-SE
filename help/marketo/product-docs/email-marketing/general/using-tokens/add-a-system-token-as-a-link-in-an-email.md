@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900573
-description: Lägg till en systemtoken som en länk i ett e-postmeddelande - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till en systemtoken som en länk i ett e-postmeddelande. Använd variabler i länk-URL:er för att avbryta prenumerationen eller andra dynamiska länkar.
 title: Lägg till en systemtoken som en länk i ett e-postmeddelande
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---

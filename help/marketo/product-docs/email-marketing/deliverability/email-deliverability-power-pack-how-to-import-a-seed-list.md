@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099077
-description: Lär dig hur du importerar en startvärdeslista till din Marketo Engage-instans.
+description: Lär dig hur du importerar en startvärdeslista till Marketo Engage för testning av inkorgsplacering. Använd Everest för att ladda ned och lägga till en lista för leveranskampanjer.
 title: Power Pack för e-postleverans - Så här importerar du en dirigeringslista
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Redigera bilder med Adobe Express
-description: Lär dig hur du redigerar bilder i Adobe Marketo Engage e-postredigerare med Adobe Express.
+description: Lär dig hur du redigerar bilder i e-postprogrammet Designer med Adobe Express. Öppna och förfina bilder utan att lämna Marketo Engage.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,7 @@ Det finns två sätt att öppna Adobe Express-redigeraren:
 
 ### Användare med en Enterprise-licens {#users-with-an-enterprise-license}
 
-Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/se/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
+Om du har en Enterprise-licens för Adobe Express har du tillgång till den fullständiga Express-redigeraren. Du kan justera bildinställningar som färg, intensitet, skärpa, kontrast, storlek och mycket mer. Med alternativet AI Magic kan du ta bort bakgrunder, infoga och ta bort objekt samt radera delar av en bild. Gå till [Adobe Express användarhandbok](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om du vill veta mer om de olika inställningarna.
 
 >[!IMPORTANT]
 >

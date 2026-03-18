@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147340
-description: Skicka e-post från huvudägaren - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skickar e-post från leadägarens adress. Använd alternativet Skicka från lead-ägare så att e-postmeddelanden visar rätt avsändare.
 title: Skicka e-post från lead-ägaren
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---

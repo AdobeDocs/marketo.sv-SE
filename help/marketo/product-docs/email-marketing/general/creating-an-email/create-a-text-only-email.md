@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900556
-description: Skapa ett e-postmeddelande med endast text - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett e-postmeddelande som bara innehåller text i Marketo. Använd textversionen för vanliga textkampanjer eller som reserv.
 title: Skapa ett e-postmeddelande med endast text
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

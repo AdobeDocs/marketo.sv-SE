@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900591
-description: Skapa ett e-postprogram - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett e-postprogram i Marketo. Skapa målgrupper, e-post, scheman och godkännanden på ett och samma ställe.
 title: Skapa ett e-postprogram
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---

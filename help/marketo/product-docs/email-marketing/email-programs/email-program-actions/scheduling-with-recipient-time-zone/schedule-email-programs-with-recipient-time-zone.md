@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: Schemalägg e-postprogram med mottagartidszon - Marketo Docs - produktdokumentation
+description: Lär dig hur du schemalägger e-postprogram med mottagarens tidszon. Ange leverans inom 25 timmar eller senare och välj tidszonsbeteende.
 title: Schemalägg e-postprogram med mottagartidszon
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
