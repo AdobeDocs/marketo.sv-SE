@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512445
-description: Verifiera push-konfiguration - Marketo Docs - produktdokumentation
+description: Lär dig hur du verifierar push-konfigurationen så att din mobilapp synkroniseras. Bekräfta plattformarna i Admin och börja skicka push-meddelanden.
 title: Verifiera push-konfiguration
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '82'
 ht-degree: 1%
 
 ---

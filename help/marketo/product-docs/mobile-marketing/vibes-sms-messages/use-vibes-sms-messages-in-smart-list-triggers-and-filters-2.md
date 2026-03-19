@@ -1,12 +1,12 @@
 ---
-description: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter - Marketo Docs - Produktdokumentation
+description: Lär dig hur du använder Vibes SMS-utlösare och filter i Smarta kampanjer. Definiera när du ska skicka eller filtrera efter prenumeration och listmedlemskap.
 title: Använd Vibes SMS-meddelanden i Smart List-utlösare och -filter
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -72,5 +72,5 @@ När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [
 
 >[!MORELIKETHIS]
 >
->* [Definiera smart lista för smart kampanj | Utlösare &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

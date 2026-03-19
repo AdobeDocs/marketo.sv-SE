@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096523
-description: Visa kontrollpanelen för push-meddelanden - Marketo Docs - produktdokumentation
+description: Lär dig hur du visar kontrollpanelen för push-meddelanden. Se Total Sent (Totalt skickat), Total Taps (Totalt antal) och Tryck på Decay (Minska) för dina push-kampanjer.
 title: Visa kontrollpanelen för push-meddelanden
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

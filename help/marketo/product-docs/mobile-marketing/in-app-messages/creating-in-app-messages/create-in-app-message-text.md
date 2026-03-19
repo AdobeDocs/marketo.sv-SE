@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: Skapa meddelandetext i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar meddelandetext och format i appen. Redigera text, färger, storlek, justering, tokens och tryckåtgärder för huvudtext och stödlinjer.
 title: Skapa meddelandetext i appen
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---

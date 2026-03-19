@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512448
-description: Skicka SDK-kod till en utvecklare - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar SDK-kod till utvecklaren. Använd åtgärder för mobilappar för att skicka kodfragment för Android- och iOS-inställningar via e-post.
 title: Skicka SDK-kod till en utvecklare
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 1%
 
 Innan du kan skapa meddelanden i appen eller push-meddelanden måste utvecklaren ha konfigurerat och initierat Mobile App SDK för Android- och iOS-plattformarna.
 
-* [Instruktioner för Android](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Instruktioner för iOS](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Instruktioner för Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instruktioner för iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Skicka SDK-kod till en utvecklare {#send-sdk-code-to-a-developer-1}
 

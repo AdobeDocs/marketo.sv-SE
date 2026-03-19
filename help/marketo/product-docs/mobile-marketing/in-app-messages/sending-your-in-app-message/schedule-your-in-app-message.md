@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370503
-description: Schemalägg ditt meddelande i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du schemalägger ditt meddelande i appen. Ange ett framtida startdatum och starttid eller kör omedelbart, med valfritt slutdatum.
 title: Schemalägg ditt meddelande i appen
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

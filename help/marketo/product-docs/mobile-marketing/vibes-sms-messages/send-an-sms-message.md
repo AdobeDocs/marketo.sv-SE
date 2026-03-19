@@ -1,11 +1,11 @@
 ---
-description: Skicka ett SMS-meddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar ett SMS-meddelande via en batch eller en utlösarkampanj. Definiera smart lista, lägg till SMS-flödessteg och schemalägg eller aktivera.
 title: Skicka ett SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

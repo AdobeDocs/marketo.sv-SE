@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096158
-description: Autentisera säkerhet för mobil åtkomst - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar Access Key (Åtkomstnyckel) och Access Secret (Åtkomstsäkerhet) för mobilappssäkerhet. Ange koder för IT så att appinloggningar verifieras.
 title: Autentisera säkerhet för mobil åtkomst
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

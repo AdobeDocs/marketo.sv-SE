@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783141
-description: Skicka ett push-meddelandeexempel - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar ett push-meddelandeexempel för att verifiera att det fungerar. Välj en testenhet eller lägg till en och skicka sedan exemplet från redigeraren.
 title: Skicka ett push-meddelandeexempel
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---

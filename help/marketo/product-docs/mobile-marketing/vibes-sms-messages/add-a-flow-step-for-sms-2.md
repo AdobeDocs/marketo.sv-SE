@@ -1,12 +1,12 @@
 ---
-description: Lägg till ett flödessteg för SMS - Marketo Docs - Produktdokumentation
+description: Lär dig hur du lägger till SMS-flödessteg i smarta kampanjer. Använd Skicka SMS-meddelande, Prenumerera på Vibes-lista eller Avbeställ utskick från Vibes-lista.
 title: Lägg till ett flödessteg för SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---

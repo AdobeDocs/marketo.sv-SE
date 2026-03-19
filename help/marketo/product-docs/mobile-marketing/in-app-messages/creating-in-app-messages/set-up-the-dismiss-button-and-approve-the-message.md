@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: Konfigurera knappen Stäng och godkänn meddelandet - Marketo Docs - Product Documentation
+description: Lär dig hur du konfigurerar knappen för att stänga och godkänner meddelandet i appen. Konfigurera färg, design och tryck på åtgärder, förhandsgranska och godkänn för att starta.
 title: Konfigurera knappen Stäng och godkänn meddelandet
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---

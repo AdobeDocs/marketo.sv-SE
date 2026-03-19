@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: Godkänn ditt meddelande i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner ditt meddelande i appen för att starta det. Pausa, återuppta eller stoppa programmet och övervaka prestandan med kontrollpanelen i appen.
 title: Godkänn ditt meddelande i appen
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---

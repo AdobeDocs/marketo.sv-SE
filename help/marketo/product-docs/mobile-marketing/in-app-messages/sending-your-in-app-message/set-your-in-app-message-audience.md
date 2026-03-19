@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: Ange er målgrupp för meddelanden i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du anger målgrupp för meddelanden i appen. Redigera den smarta listan, välj app och utlösare, ange visningsgräns och lägg till filter.
 title: Ange målgrupp för meddelanden i appen
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---

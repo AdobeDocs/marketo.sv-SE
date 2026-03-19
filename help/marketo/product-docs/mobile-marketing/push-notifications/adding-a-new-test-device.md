@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783146
-description: Lägga till en ny testenhet - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en ny testenhet för push-meddelanden. Använd en URL eller QR-kod för att ansluta enheten och skicka testpush-meddelanden.
 title: Lägga till en ny testenhet
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---

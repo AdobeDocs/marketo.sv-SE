@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: Skapa ett push-meddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett push-meddelande. Lägg till det som en lokal resurs i programmet och konfigurera och anpassa det sedan för din mobilapp.
 title: Skapa ett push-meddelande
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 

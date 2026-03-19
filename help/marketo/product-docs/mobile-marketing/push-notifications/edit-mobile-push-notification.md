@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512460
-description: Redigera mobilpush-meddelanden - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar ett mobilt push-meddelande. Öppna marknadsföringsaktiviteter, markera push-resursen och använd Redigera utkast för att göra ändringar.
 title: Redigera mobilpush-meddelanden
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: Skicka ett mobilpush-meddelande - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar ett push-meddelande till en mobil. Använd en smart kampanj med Smart List och Flow för att schemalägga push till er målgrupp.
 title: Skicka ett mobilpush-meddelande
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: '104'
+ht-degree: 2%
 
 ---
 

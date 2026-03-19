@@ -1,12 +1,12 @@
 ---
-description: Förväntat beteende - Marketo Docs - produktdokumentation
+description: Lär dig mer om förväntat beteende för prediktiva målgrupper i Marketo Sky. Förstå datasekretess, tidsåtgång för aktivering och filterbegränsningar.
 title: Förväntat beteende
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---

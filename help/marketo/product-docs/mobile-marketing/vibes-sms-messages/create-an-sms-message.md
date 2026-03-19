@@ -1,11 +1,11 @@
 ---
-description: Skapa ett SMS-meddelande - Marketo Docs - Produktdokumentation
+description: Lär dig hur du skapar ett SMS-meddelande. Lägg in text, variabler och länkar i redigeraren och följ teckenbegränsningar och efterlevnadskrav.
 title: Skapa ett SMS-meddelande
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Skapa ett meddelande i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett meddelande i appen. Lägg till den som en lokal resurs i marknadsföringsaktiviteter, namnge den, välj en layout och bygg upp ditt budskap.
 title: Skapa ett meddelande i appen
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---

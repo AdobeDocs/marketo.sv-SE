@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: Välj en layout för ditt meddelande i appen - Marketo Docs - produktdokumentation
+description: Läs mer om de sex meddelandelayouterna i appen. Välj popup-fönster eller helskärmsmallar om du vill skapa ett meddelande med bilder och knappar.
 title: Välj en layout för ditt meddelande i appen
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---

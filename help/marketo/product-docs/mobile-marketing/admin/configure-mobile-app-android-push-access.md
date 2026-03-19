@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512432
-description: Konfigurera Android Push Access för mobilappar - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar Android push-åtkomst för din mobilapp. Ange nyckel för server-API och projektnummer från utvecklaren i Admin.
 title: Konfigurera Android Push Access för mobilappar
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '91'
 ht-degree: 3%
 
 ---

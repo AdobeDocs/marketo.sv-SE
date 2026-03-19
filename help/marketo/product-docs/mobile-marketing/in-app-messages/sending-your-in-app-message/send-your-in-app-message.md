@@ -1,11 +1,11 @@
 ---
-description: Skicka ditt meddelande i appen - Marketo Docs - produktdokumentation
+description: Lär dig hur du skickar meddelanden i appen. Skapa ett program, använd Kontrollpanelen för att ange målgrupp och meddelande och godkänn sedan för att starta programmet.
 title: Skicka ditt meddelande i appen
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
