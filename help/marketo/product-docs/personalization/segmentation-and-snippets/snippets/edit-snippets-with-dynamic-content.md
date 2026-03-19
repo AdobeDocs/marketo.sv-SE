@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359466
-description: Redigera fragment med dynamiskt innehåll - Marketo Docs - produktdokumentation
+description: Lär dig redigera utdrag med dynamiskt innehåll med hjälp av segmentering. Lägg till segment efter i ett fragment och tillämpa olika innehåll per segment i Design Studio.
 title: Redigera fragment med dynamiskt innehåll
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

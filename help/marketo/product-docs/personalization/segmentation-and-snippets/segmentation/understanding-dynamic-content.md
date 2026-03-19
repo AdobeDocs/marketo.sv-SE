@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: Understanding Dynamic Content - Marketo Docs - Product Documentation
+description: Läs om Marketo dynamiska innehåll för att personalisera landningssidor och e-postmeddelanden efter segment. Förstå segmentering, dynamiska innehållsblock och återanvändbara textutdrag.
 title: Dynamiskt innehåll
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---

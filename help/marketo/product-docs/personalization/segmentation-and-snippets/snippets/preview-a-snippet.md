@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359498
-description: Förhandsgranska ett fragment - Marketo Docs - produktdokumentation
+description: Lär dig hur du förhandsgranskar ett fragment för att verifiera innehåll för varje segment. Använd Design Studio och Fragment för förhandsgranskning för att kontrollera dynamiskt innehåll före godkännande.
 title: Förhandsgranska ett kodavsnitt
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

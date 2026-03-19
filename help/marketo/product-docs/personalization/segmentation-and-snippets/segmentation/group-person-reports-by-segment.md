@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359492
-description: Grupppersonrapporter efter segment - Marketo Docs - produktdokumentation
+description: Lär dig hur du grupperar personrapporter efter olika segment i dina segmenteringar. Använd fliken Rapportinställningar och gruppera personer efter för att välja en segmentering och visa resultaten.
 title: Gruppera personrapporter efter segment
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

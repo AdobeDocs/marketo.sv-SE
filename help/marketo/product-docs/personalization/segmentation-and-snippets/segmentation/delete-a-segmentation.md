@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359510
-description: Ta bort en segmentering - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en segmentering som du inte längre behöver. Ta bort resursassociationer, avgodkänn segmenteringen och använd sedan Segmenteringsåtgärder för att ta bort.
 title: Ta bort en segmentering
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

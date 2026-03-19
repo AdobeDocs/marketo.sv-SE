@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359459
-description: Skapa ett utdrag - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett fragment för dynamiskt innehåll på e-postmeddelanden och landningssidor. Skapa ett nytt kodfragment och lägg till innehåll för återanvändning mellan resurser.
 title: Skapa ett fragment
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 4%
+source-wordcount: '89'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359488
-description: Gruppera e-postrapporter efter segment - Marketo Docs - produktdokumentation
+description: Lär dig hur du grupperar din rapport om e-postprestanda efter segmenteringar. Använd fliken Inställningar för rapport om e-postprestanda för att använda en eller två segmenteringar för gruppering.
 title: Gruppera e-postrapporter efter segment
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---

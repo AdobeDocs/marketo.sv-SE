@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359516
-description: Avgodkänn ett kodfragment - Marketo Docs - produktdokumentation
+description: Lär dig hur du avgodkänner ett fragment för att göra ändringar eller ta bort det. Ta bort resursassociationer och använd sedan Utdragsåtgärder för att avgodkänna och ange utkaststatus.
 title: Avgodkänna ett kodavsnitt
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

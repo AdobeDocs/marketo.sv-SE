@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Godkänn ett utdrag utan utkast - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner ett kodfragment med alternativ som inte är utkast. Välj Uppdatera alla eller Skapa utkast när du godkänner för att styra hur resurser som använder fragmentet uppdateras.
 title: Godkänn ett kodfragment utan utkast
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---

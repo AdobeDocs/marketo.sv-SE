@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359463
-description: Godkänn ett kodfragment - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner ett fragment så att det kan användas i e-postmeddelanden och på landningssidor. Använd Design Studio och Fragmentåtgärder för att ändra status från Utkast till Godkänt.
 title: Godkänn ett fragment
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

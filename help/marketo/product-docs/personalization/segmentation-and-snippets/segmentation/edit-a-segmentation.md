@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359474
-description: Redigera en segmentering - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar en segmentering genom att skapa ett utkast och ändra segment eller regler. Lägg till, redigera eller ta bort segment och definiera regler för smart lista i utkastet.
 title: Redigera en segmentering
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Det är enkelt att ändra befintliga segment. Här är det låga ner.
 
 ## Redigera segmentregler {#edit-segment-rules}
 
-1. Gå till [!UICONTROL Draft] i ditt **&#x200B;**&#x200B;segment **[!UICONTROL Smart List]**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Gå till [!UICONTROL Draft] i ditt **** segment **[!UICONTROL Smart List]**. Använd regler som liknar [Definierar segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: Godkänn en segmentering - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner en segmentering så att den kan användas för dynamiskt innehåll och rapportering. Använd databas- och segmenteringsåtgärder för att godkänna efter att segmentreglerna har definierats.
 title: Godkänn en segmentering
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---

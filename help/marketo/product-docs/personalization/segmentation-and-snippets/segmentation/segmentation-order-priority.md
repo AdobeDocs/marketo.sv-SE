@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359500
-description: Prioritet för segmenteringsorder - Marketo Docs - produktdokumentation
+description: Lär dig mer om prioritet för segmenteringsorder och hur det avgör vilket segment en person tillhör. Redigera segmentordningen i databasen för att styra utvärderingen av segment.
 title: Prioritet för segmenteringsordning
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Det är viktigt att förstå hur **order** anger prioriteten för utvärdering a
 >[!PREREQUISITES]
 >
 >[Skapa en segmentering](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Definiera segmentregler](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

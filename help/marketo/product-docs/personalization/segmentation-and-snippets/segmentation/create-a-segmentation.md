@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: Skapa en segmentering - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en segmentering för att gruppera människor för rapportering och dynamiskt innehåll. Lägg till segment i databasen, ange ordning och definiera segmentregler.
 title: Skapa en segmentering
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---

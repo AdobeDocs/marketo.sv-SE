@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359514
-description: Klona ett kodfragment - Marketo Docs - produktdokumentation
+description: Lär dig hur du klonar ett fragment för att skapa en kopia som du kan ändra. Använd funktionsmakron för Design Studio och kodfragment för att klona och anpassa innehåll för e-post och landningssidor.
 title: Klona ett fragment
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---

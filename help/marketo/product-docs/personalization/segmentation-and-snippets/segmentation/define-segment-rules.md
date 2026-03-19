@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359449
-description: Definiera segmentregler - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar segmentregler som kategoriserar personer i grupper som inte kan båda anges. Lägg till smarta listfilter, förhandsgranska personer (utkast) och godkänn segment för dynamiskt innehåll.
 title: Definiera segmentregler
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
