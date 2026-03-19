@@ -72,5 +72,5 @@ När du har konfigurerat Vibes-utlösare och -filter i din smarta lista kan du [
 
 >[!MORELIKETHIS]
 >
->* [Definiera smart lista för smart kampanj | Utlösare ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Definiera smart lista för smart kampanj | Utlösare &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Söka efter och lägga till filter i en smart lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
