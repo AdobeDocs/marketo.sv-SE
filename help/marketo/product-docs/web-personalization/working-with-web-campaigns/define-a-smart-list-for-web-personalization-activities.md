@@ -57,10 +57,10 @@ Använd en utlösare för att skicka ett e-postmeddelande eller en varning, elle
    >
    >Med flera utlösare går en person igenom flödet om någon av utlösarna aktiveras.
 
-   Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Om du vill köra kampanjen på en uppsättning personer samtidigt ska du lära dig hur du [Definiera smart lista för smart kampanj | Grupp &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definiera smart lista för smart kampanj | Grupp &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Definiera en smart lista för aktiviteter med prediktivt innehåll](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

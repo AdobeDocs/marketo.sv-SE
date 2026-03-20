@@ -84,7 +84,7 @@ Mät era RTP-kampanjer och korrelera dem med det övergripande genomsnittliga an
 
 >[!NOTE]
 >
->Om du vill skicka segmentdata till GA markerar du kryssrutan [[!UICONTROL Edit Segment] under ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)-sidan **[!UICONTROL Send Event to Google Analytics on Segment Match]** på RTP-plattformen.
+>Om du vill skicka segmentdata till GA markerar du kryssrutan [[!UICONTROL Edit Segment] under &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)-sidan **[!UICONTROL Send Event to Google Analytics on Segment Match]** på RTP-plattformen.
 
 ## Konfigurera Google Analytics-rapporter med RTP-data {#setting-up-google-analytics-reports-with-rtp-data}
 

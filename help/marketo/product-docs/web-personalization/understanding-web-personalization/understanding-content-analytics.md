@@ -86,7 +86,7 @@ Ytterligare innehållsanalyser är:
 
 * **[!UICONTROL Views]**: Vyer av den aktuella innehållsdelen för det valda tidsintervallet
 * **[!UICONTROL Direct Conversions]**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
-* **[!UICONTROL Conversion Rate]****:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
+* **[!UICONTROL Conversion Rate]**&#x200B;**:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
 
 **[!UICONTROL Trends]**
 

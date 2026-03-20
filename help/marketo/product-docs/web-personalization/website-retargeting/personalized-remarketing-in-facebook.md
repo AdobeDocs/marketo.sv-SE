@@ -18,7 +18,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 >[!PREREQUISITES]
 >
 >* Slutför installationen av [återmarknadsföring med Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Granska [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
+>* Granska [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-dokumentationen om anpassade målgrupper](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) och ommarketing.
 
 ## Skapar en publik i [!DNL Facebook] {#creating-an-audience-in-facebook}
 

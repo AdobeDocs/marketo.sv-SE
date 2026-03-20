@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: Lär dig hur du ställer in konverteringar för [!dnl google adwords] i intäktsmodellen i Marketo Engage med set dnl google. Slutför nästa steg med den här guiden.
+description: Lär dig hur du ställer in konverteringar för [ !dnl google adwords] i intäktsmodellen i Marketo Engage med set dnl google. Slutför nästa steg med den här guiden.
 title: Ange  [!DNL Google AdWords] konverteringar i intäktsmodellen
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics

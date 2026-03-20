@@ -34,7 +34,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klicka på **[!UICONTROL Sequences]** och **[!UICONTROL Find the RTP Data]** under [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events] i Audience Builder.
+1. Klicka på **[!UICONTROL Sequences]** och **[!UICONTROL Find the RTP Data]** under [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events] i Audience Builder.
 
 >[!TIP]
 >

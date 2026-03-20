@@ -62,5 +62,5 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Konfigurera en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

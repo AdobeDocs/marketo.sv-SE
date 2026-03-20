@@ -39,7 +39,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
    >Om du vill ta reda på vem som besöker webbplatsen mest [sorterar du rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} i kolumnen _Sidvyer_ och väljer Sortera fallande.
 
    [Marketo lägger till anonyma](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.
-   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} för en aktivitetsrapport för webbsida är:
+   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} för en aktivitetsrapport för webbsida är:
 
 <table>
  <thead>

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-postrapporter {#email-reports}
 
-Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [[!UICONTROL User Settings] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [[!UICONTROL User Settings] &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Personalization e-postrapporter {#web-personalization-email-reports}
 

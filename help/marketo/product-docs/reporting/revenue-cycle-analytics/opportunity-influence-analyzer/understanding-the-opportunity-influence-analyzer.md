@@ -41,5 +41,5 @@ Om du vill behålla det här beteendet bör du ta bort dubbletter av dina data i
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

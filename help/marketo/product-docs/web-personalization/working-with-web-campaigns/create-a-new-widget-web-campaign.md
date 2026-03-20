@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Skapa en ny webbkampanj för widget {#create-a-new-widget-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [ i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [&#x200B; i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering. Widgetens webbkampanj är en text eller en banderoll som visas på den lodräta sidan av webbsidan med möjlighet att expandera och dra samman, samtidigt som den är fast på webbplatsens sida under hela besöket.
 
 ## Skapa en webbkampanj för widget {#create-a-widget-web-campaign}
 

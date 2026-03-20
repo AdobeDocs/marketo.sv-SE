@@ -47,7 +47,7 @@ Se hur enkelt det var?
 
 ![](assets/seven.png)
 
-Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_för att se vilka medlemmarna är.
+Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_&#x200B;för att se vilka medlemmarna är.
 
 >[!TIP]
 >

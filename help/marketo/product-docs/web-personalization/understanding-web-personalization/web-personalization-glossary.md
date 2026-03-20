@@ -23,7 +23,7 @@ Vissa insikter om världen och språket för [!DNL Marketo Web Personalization].
 | **ISP** | Internetleverantör |
 | **Känd besökare** | En webbbesökare som har fyllt i ett formulär och lämnat sina uppgifter (e-postadress) på webbplatsen eller klickat på en länk i ett Marketo-mejl. |
 | **Kontolista** | En lista med nyckelkonton/organisationsnamn. Kallas även Account-Based Marketing (ABM). |
-| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [&quot;Ange ett segment&quot; ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segment** | En samling besökare som uppfyller de angivna villkoren som definieras på sidan [&quot;Ange ett segment&quot; &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Delad testning** | Ett testexperiment med två eller flera varianter för att mäta skillnaden i resultat. Målet är att identifiera förändringar på webbsidor som ökar eller maximerar ett intressant resultat. |
 | **Jokertecken** | Ett jokertecken (&#42; används) som används före eller efter en sträng för att ersätta andra tecken i en sträng. Se exemplen nedan. |
 

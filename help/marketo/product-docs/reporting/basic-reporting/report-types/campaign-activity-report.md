@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Se hur dina [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} fungerar.
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Kampanjaktivitet** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen **Kampanjaktivitet** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
 1. [Ange tidsramen för rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} och klicka på fliken **Rapport** .
 
@@ -31,7 +31,7 @@ Se hur dina [smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/
 >
 >Om du vill hitta de kampanjer som har bearbetat flest personer, till exempel [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} på _Totalt antal bearbetade personer_ och väljer **Sortera fallande**.
 
-**[Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport omfattar**:
+**[Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en kampanjaktivitetsrapport omfattar**:
 
 <table><thead>
   <tr>

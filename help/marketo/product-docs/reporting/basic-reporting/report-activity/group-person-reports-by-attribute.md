@@ -37,7 +37,7 @@ Du kan gruppera dina personrapporter utifrån vilket person- eller företagsattr
 
    >[!TIP]
    >
-   >Om du väljer ett attribut som har ett numeriskt värde, till exempel _[!UICONTROL Created At]_eller_[!UICONTROL Annual Revenue]_, väljer du måtten i listrutan **[!UICONTROL Units]** till höger.
+   >Om du väljer ett attribut som har ett numeriskt värde, till exempel _[!UICONTROL Created At]_&#x200B;eller&#x200B;_[!UICONTROL Annual Revenue]_, väljer du måtten i listrutan **[!UICONTROL Units]** till höger.
 
    Så ja! Klicka på fliken **[!UICONTROL Report]** om du vill visa rapporten grupperad i enlighet med detta.
 

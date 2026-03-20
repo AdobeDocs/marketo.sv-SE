@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alla rapporter i **[!UICONTROL My Reports]** är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
 
-1. Klicka på önskad **[!UICONTROL Analytics]** sparad rapport[ i området ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. Klicka på önskad **[!UICONTROL Analytics]** sparad rapport[&#x200B; i området &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 

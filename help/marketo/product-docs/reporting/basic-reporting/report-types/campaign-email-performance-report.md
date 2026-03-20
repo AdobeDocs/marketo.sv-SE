@@ -27,7 +27,7 @@ Kör en rapport om prestanda för e-postkampanjer om du vill visa prestandatills
    >
    >Klicka på namnet på ett e-postmeddelande för att öppna det i E-postförhandsgranskaren.
 
-   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postprestanda för en kampanj är:
+   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postprestanda för en kampanj är:
 
    | Kolumn | Beskrivning |
    |---|---|
