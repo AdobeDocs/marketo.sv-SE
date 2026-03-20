@@ -187,7 +187,7 @@ Välj i en [lista över namngivna konton](/help/marketo/product-docs/web-persona
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Uteslut ISP**
 
@@ -286,7 +286,7 @@ Lägg till det händelsevärde som du vill ha som mål. Till exempel från datak
 
 **API för användarkontext**
 
-Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
