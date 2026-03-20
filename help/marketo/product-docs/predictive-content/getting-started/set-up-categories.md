@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: Ställ in kategorier - Marketo Docs - produktdokumentation
+description: Ställ in kategorier i Predictive Content för att gruppera prediktiva resultat på webben eller i e-post. Skapa kategoritaggar i innehållsinställningarna för enkel filtrering och sökning.
 title: Ställ in kategorier
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

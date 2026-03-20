@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: Förstå prediktivt innehåll - Marketo Docs - produktdokumentation
+description: Lär dig mer om godkända förtexter för prediktivt innehåll, aktiverade källor, klickningar och konverteringsdata. Använd filter och datum för att jämföra hur rekommendationer fungerar för webben och e-post.
 title: Förstå prediktivt innehåll
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

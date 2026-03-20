@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: Skapa innehållsmönster - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar URL-mönster så att Predictive Content automatiskt identifierar HTML-sidor som besökare kan visa eller klicka på. Lägg till banor och kategorier under URL-mönster för innehållsinställningar.
 title: Skapa innehållsmönster
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---

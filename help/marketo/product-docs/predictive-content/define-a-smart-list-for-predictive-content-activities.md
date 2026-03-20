@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: Definiera en smart lista för aktiviteter med prediktivt innehåll - Marketo Docs - produktdokumentation
+description: Lär dig hur du definierar smarta listor med prediktiva innehållsaktiviteter för multimedia, rekommendationsfältet och e-post. Utlös kampanjer och filtrera personer som klickar på det rekommenderade innehållet.
 title: Definiera en smart lista för aktiviteter med prediktivt innehåll
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Du kan använda prediktiva innehållsaktiviteter i utlösare och filter när du 
 
    >[!MORELIKETHIS]
    >
-   >* [Definiera smart lista för smart kampanj | Grupp &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definiera smart lista för smart kampanj | Grupp ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Lägg till ett flödessteg i en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Definiera en smart lista för Personalization-aktiviteter på webben](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
    >* [Aktivera prediktivt innehåll för multimedia för webben](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

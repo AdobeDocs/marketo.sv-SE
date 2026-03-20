@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981204
-description: Predictive Content Analytics Overview - Marketo Docs - Product Documentation
+description: Lär dig mer om Predictive Content Analytics Dashboards för de bästa vyerna, konverteringsgrad, trendinnehåll och förslag. Filtrera efter attribut, ange datumintervall och exportera data för att förfina innehållsstrategin.
 title: Prediktiv Content Analytics-översikt
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

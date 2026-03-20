@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384651
-description: Lägg till nytt innehåll - Marketo Docs - produktdokumentation
+description: Lägg till nytt innehåll manuellt på sidan Allt innehåll i Predictive Content. Ange titel, URL, bild och kategorier och godkänn sedan för rekommendationer.
 title: Lägg till nytt innehåll
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384663
-description: Avgodkänn en titel för prediktivt innehåll - Marketo Docs - produktdokumentation
+description: Lär dig hur du avgodkänner en titel för Prediktivt innehåll på sidan Allt innehåll eller på popup-menyn Redigera innehåll. Ta bort titeln från sidan Predictive Content när det behövs.
 title: Avgodkänn en titel för prediktivt innehåll
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

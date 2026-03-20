@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: Aktivera prediktivt innehåll för multimedia för webben - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar mallar för prediktivt innehåll för multimedia på din webbplats. Aktivera titlarna individuellt eller gruppvis och bädda sedan in och anpassa JavaScript per utvecklardokument.
 title: Aktivera prediktivt innehåll för multimedia för webben
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ När du har förberett innehållets titel, beskrivning och bild för multimedia 
 
 ## Anpassa JavaScript-koden och bädda in den på din webbplats  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [&#x200B; på webbplatsen för Marketo-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
+Mer information finns i dokumentationen för Rekommendationsmallen för multimedia [ på webbplatsen för Marketo-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Detta förklarar hur du anpassar mallen för webbplatsen.
 
 Klistra in JavaScript-koden på webbplatsen där du vill att mallen ska visas.
 

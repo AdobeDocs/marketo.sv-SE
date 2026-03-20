@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385938
-description: Redigera prediktivt innehåll för e-post - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in prediktivt innehåll för e-postmeddelanden med bild, knappetikett och kategorier. Aktivera godkänt innehåll för e-post i redigeraren för prediktivt innehåll.
 title: Redigera prediktivt innehåll för e-postmeddelanden
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---

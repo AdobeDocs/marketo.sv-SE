@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745750
-description: Inställningar för algoritmmål - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in målet för algoritmen Predictive Content till Click eller Conversions i Content Settings. Justera AI mot era affärsmål för att maximera innehållets prestanda.
 title: Inställningar för algoritmmål
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---

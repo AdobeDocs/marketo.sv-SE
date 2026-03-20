@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: Redigera prediktivt innehåll för multimedia - Marketo Docs - produktdokumentation
+description: Lär dig hur du ställer in prediktivt innehåll för multimedia med beskrivningar, sRGB-bilder och kategorier. Aktivera godkänt innehåll för webbrekommendationer.
 title: Redigera prediktivt innehåll för multimedia
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---

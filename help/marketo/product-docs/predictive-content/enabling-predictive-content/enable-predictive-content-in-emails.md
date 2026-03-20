@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: Aktivera prediktivt innehåll i e-postmeddelanden - Marketo Docs - produktdokumentation
+description: Lär dig hur du gör e-postbilder prediktiva med ContentAI när titlarna har godkänts och redigerats. Öppna redigeringsprogrammet för e-post 2.0, aktivera varje bild, välj kategorier, förhandsgranska och slutför.
 title: Aktivera prediktivt innehåll i e-postmeddelanden
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---

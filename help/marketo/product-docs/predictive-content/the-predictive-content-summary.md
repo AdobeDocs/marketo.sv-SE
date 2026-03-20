@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384634
-description: The Predictive Content Summary - Marketo Docs - Product Documentation
+description: Lär dig mer om kontrollpanelen för sammanfattning av prediktivt innehåll och dess tabeller, diagram och viktiga mätvärden. Se toppinnehåll, konverteringsgrader, trender och kategoriengagemang för att optimera rekommendationerna.
 title: Sammanfattning av prediktivt innehåll
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: Aktivera innehållsidentifiering - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar innehållsidentifiering så att Predictive Content automatiskt identifierar och taggar innehåll från din webbplats. Spåra vyer av PDF:er, videoklipp med mera för att få rekommendationer.
 title: Aktivera innehållsidentifiering
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

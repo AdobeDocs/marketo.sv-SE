@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720108
-description: Aktivera innehållsrekommendationsfältet - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar och utformar Content Recommendationsfältet med prediktiv analys för varje URL. Använd Innehållsinställningar för att växla mellan sidor och anpassa färger och banor.
 title: Aktivera innehållsrekommendationsfältet
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
