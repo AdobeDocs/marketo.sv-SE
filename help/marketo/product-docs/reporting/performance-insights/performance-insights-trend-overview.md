@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: Trendöversikt för Performance Insights - Marketo Docs - produktdokumentation
+description: Lär dig mer om Performance Insights Trend view som visar kanalprestandatender över tid med ringdiagram och linjediagram. Analysera trender för 12 månader för att identifiera enhetliga vinnande strategier.
 title: Prestandainsikter - trendöversikt
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

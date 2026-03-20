@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360397
-description: Prenumerera på en rapport från Intresseutforskaren - Marketo Docs - produktdokumentation
+description: Läs om hur du prenumererar på en rapport från en utforskare i Marketo Engage, inklusive prenumerationer på en utforskare. Slutför nästa steg med den här guiden.
 title: Prenumerera på en rapport om skatteutforskaren
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: Webbsegment - Marketo Docs - produktdokumentation
+description: Lär dig mer om webbsegment i Marketo Engage, inklusive segmentfliken, som visar alla anpassade segment. Slutför nästa steg med den här guiden.
 title: Webbsegment
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1998'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ Välj i en [lista över namngivna konton](/help/marketo/product-docs/web-persona
 
 >[!NOTE]
 >
->Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Siffran inom hakparenteser bredvid namnet Namngiven kontolista används som indexreferens för listan för Web Personalization [Läs API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Uteslut ISP**
 
@@ -286,7 +286,7 @@ Lägg till det händelsevärde som du vill ha som mål. Till exempel från datak
 
 **API för användarkontext**
 
-Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Personalization API-anrop [för webben läser mer om det här.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

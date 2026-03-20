@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720236
-description: Skapa ett segment med hjälp av en kontolista - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar ett segment med hjälp av en kontolista i Marketo Engage genom att skapa ett segment med hjälp av en kontolista. Slutför nästa steg med den här guiden.
 title: Skapa ett segment med hjälp av en kontolista
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 

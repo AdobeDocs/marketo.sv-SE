@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Performance Insights Contribution Overview - Marketo Docs - produktdokumentation
+description: Läs om vyn Performance Insights Contribution som utvärderar marknadsföringens bidrag till intäkterna genom interaktion, pipeline och intäktsmått. Visa kanal- och programprestanda med ring- och Bar-diagram.
 title: Performance Insights Contribute Overview
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---

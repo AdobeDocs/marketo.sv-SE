@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511980
-description: Spara en rapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du sparar standardrapporter och visar dem igen senare genom att välja Spara som från rapportåtgärder. Ordna sparade rapporter i mappar i Mina rapporter eller Grupprapporter.
 title: Spara en rapport
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512105
-description: Klona en rapport till grupprapporter - Marketo Docs - produktdokumentation
+description: Lär dig hur du klonar rapporter från Mina rapporter till Gruppera rapporter så att de blir synliga för alla arbetsyteanvändare. Dela rapporter med teamet med alternativet Klona till.
 title: Klona en rapport till grupprapporter
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alla rapporter i **[!UICONTROL My Reports]** är bara synliga för dig. Vad händer om du vill göra rapporten tillgänglig för alla andra? Så här kan du göra:
 
-1. Klicka på önskad **[!UICONTROL Analytics]** sparad rapport[&#x200B; i området &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. Klicka på önskad **[!UICONTROL Analytics]** sparad rapport[ i området ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 

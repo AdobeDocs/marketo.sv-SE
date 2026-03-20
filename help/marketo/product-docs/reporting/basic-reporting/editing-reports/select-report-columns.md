@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359994
-description: Välj Rapportkolumner - Marketo Docs - produktdokumentation
+description: Lär dig hur du väljer vilka kolumner som ska visas i dina rapporter genom att välja bland tillgängliga alternativ. Anpassa rapportvyer genom att klicka på kolumnrubriker och välja Kolumner.
 title: Välj rapportkolumner
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---

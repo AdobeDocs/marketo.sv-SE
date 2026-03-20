@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: Skapa en ny webbkampanj i zonen - Marketo Docs - Produktdokumentation
+description: Skapa webbkampanjer i In Zone som ersätter webbplatselement baserade på zon-ID med personaliserat innehåll eller grafiska banners. Använd zon-ID:n för att ange specifika delar av webbplatsen.
 title: Skapa en ny webbkampanj i zonen
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---

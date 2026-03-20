@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360199
-description: Group Person Reports by Attribute - Marketo Docs - produktdokumentation
+description: Läs mer om grupppersonrapporter efter attribut i Marketo Engage, inklusive grupppersonrapporter efter attribut. Slutför nästa steg med den här guiden.
 title: Gruppera personrapporter efter attribut
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Du kan gruppera dina personrapporter utifrån vilket person- eller företagsattr
 
    >[!TIP]
    >
-   >Om du väljer ett attribut som har ett numeriskt värde, till exempel _[!UICONTROL Created At]_&#x200B;eller&#x200B;_[!UICONTROL Annual Revenue]_, väljer du måtten i listrutan **[!UICONTROL Units]** till höger.
+   >Om du väljer ett attribut som har ett numeriskt värde, till exempel _[!UICONTROL Created At]_eller_[!UICONTROL Annual Revenue]_, väljer du måtten i listrutan **[!UICONTROL Units]** till höger.
 
    Så ja! Klicka på fliken **[!UICONTROL Report]** om du vill visa rapporten grupperad i enlighet med detta.
 

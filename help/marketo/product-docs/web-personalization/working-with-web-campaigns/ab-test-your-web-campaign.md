@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719404
-description: AB Testa din webbkampanj - Marketo Docs - Produktdokumentation
+description: Lär dig mer om hur du testar webbkampanjer direkt i Marketo Engage, inklusive hur du testar webbkampanjer. Slutför nästa steg med den här guiden.
 title: AB Testa webbkampanjen
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---

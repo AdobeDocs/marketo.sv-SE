@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949168
-description: Använda mallar för att skapa webbkampanjer - Marketo Docs - produktdokumentation
+description: Lär dig använda mallar för att skapa webbkampanjer i Marketo Engage med hjälp av mallar för att skapa webbkampanjer. Slutför nästa steg med den här guiden.
 title: Använda mallar för att skapa webbkampanjer
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718687
-description: Godkänn/avgodkänn en intäktsmodell - Marketo Docs - produktdokumentation
+description: Lär dig hur du godkänner/avgodkänner en intäktsmodell i Marketo Engage genom att godkänna en intäktsmodell. Slutför nästa steg med den här guiden.
 title: Godkänn/avgodkänn en intäktsmodell
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 1%
 
 ---
 

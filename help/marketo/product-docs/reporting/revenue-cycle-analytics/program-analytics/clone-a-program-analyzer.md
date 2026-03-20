@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383877
-description: Clone a Program Analyzer - Marketo Docs - produktdokumentation
+description: Lär dig hur du klonar en programanalys i Marketo Engage med klona en programanalysfunktion för klon-a-program-analys. Slutför nästa steg med den här guiden.
 title: Klona en programanalys
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

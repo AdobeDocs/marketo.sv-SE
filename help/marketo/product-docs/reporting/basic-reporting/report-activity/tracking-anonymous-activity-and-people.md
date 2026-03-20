@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360181
-description: Spåra anonym aktivitet och människor - Marketo Docs - produktdokumentation
+description: Läs om hur du spårar anonyma aktiviteter och personer i Marketo Engage, inklusive spårning av anonym aktivitet och andra aktiviteter. Slutför nästa steg med den här guiden.
 title: Spåra anonym aktivitet och människor
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Första gången någon besöker en [landningssida](/help/marketo/product-docs/de
 
    * Klicka på en [länk i ett Marketo-mejl](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Fyller i ett [formulär](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) från Marketo.
-   * Använder Marketo [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
+   * Använder Marketo [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) eller [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (för utvecklare) för att associera en anonym aktivitet med en känd post.
 
    Ett namn i databasen kan vara knutet till många cookies eftersom användare ofta använder olika enheter och webbläsare för att besöka webbplatsen.
 

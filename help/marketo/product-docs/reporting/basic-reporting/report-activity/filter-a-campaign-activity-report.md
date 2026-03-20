@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360184
-description: Filtrera en kampanjaktivitetsrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar en kampanjaktivitetsrapport i Marketo Engage med hjälp av filter för en kampanjaktivitetsrapport. Slutför nästa steg med den här guiden.
 title: Filtrera en kampanjaktivitetsrapport
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---

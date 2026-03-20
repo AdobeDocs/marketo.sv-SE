@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719336
-description: Användarinställningar - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar användarinställningar, inklusive tidszon, e-postrapporter, lösenord, mobilmeddelanden och inställningar för personliga regioner. Anpassa Personalization-upplevelsen på webben och exportinställningarna.
 title: Användarinställningar
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---

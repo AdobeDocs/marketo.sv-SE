@@ -1,11 +1,11 @@
 ---
-description: Rapportöversikt - Marketo Docs - produktdokumentation
+description: Läs mer om Marketo Engage rapporteringsmoduler, inklusive grundläggande rapporter, e-postinsikter, prestandainsikter och avancerade BI-analyser. Upptäck vilken rapporteringslösning som passar era behov.
 title: Rapportöversikt
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Några av fördelarna med avancerad BI Analytics-rapportering:
 
 ## Avancerad reseanalys {#advanced-journey-analytics}
 
-Intäktscykelmodeller: Modellera alla faser i hela intäktstratten och hur de övergår mellan dessa faser, från det att du först interagerar med en lead hela vägen tills leadet är en vinnande kund.
+Intäktscykelmodeller: Modellera alla faser i era intäkter från funnel och hur de övergår mellan dessa faser, från det att ni först interagerar med en lead hela vägen tills leadet är en vinnande kund.
 
 Success Path Analyzer: Få en visuell representation av hastighet och flöde genom intäktscykelmodellen. Success Path Analyzer kräver att du skapar intäktscykelmodeller.
 

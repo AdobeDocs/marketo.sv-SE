@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504383
-description: Lägga till fält i en Intresseutforskarrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till fält i en intäktsutforskarrapport i Marketo Engage, inklusive hur du lägger till fält till en intäkt. Slutför nästa steg med den här guiden.
 title: Lägga till fält i en Intresseutforskarrapport
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

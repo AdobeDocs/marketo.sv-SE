@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514126
-description: Attribution Example 1 - Marketo Docs - Product Documentation
+description: Lär dig mer om attribueringsexempel 1 i Marketo Engage, inklusive attribueringsexempel 1. Slutför nästa steg med den här guiden.
 title: Attribut - exempel 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

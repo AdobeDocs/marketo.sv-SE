@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095347
-description: Skydda inställningen för prenumerationsadministratörer - Marketo Docs - produktdokumentation
+description: Lär dig hur du skyddar prenumerationsadministratörsinställningar så att du måste logga in innan du kan hämta rapporter. Konfigurera det här säkerhetsalternativet i Inställningar för administratörsinloggning för rapportinställningar för smart lista.
 title: Skydda inställningen för prenumerationsadministration
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---

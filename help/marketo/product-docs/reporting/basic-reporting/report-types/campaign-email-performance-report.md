@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360188
-description: Resultatrapport för e-postkampanj - Marketo Docs - produktdokumentation
+description: Läs mer om rapporten Campaign Email Performance som grupperar e-poststatistik efter smart kampanj. Spåra öppningar, klick, studsar och avbeställningar för att mäta kampanjens effektivitet.
 title: Resultatrapport för e-postkampanj
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Kör en rapport om prestanda för e-postkampanjer om du vill visa prestandatills
    >
    >Klicka på namnet på ett e-postmeddelande för att öppna det i E-postförhandsgranskaren.
 
-   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postprestanda för en kampanj är:
+   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en rapport om e-postprestanda för en kampanj är:
 
    | Kolumn | Beskrivning |
    |---|---|

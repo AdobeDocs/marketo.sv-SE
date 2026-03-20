@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375276
-description: Anpassade dimensioner för e-postinsikter - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till upp till 10 anpassade dimensioner i e-postinsikter med hjälp av segmenteringar och programtaggar. Välj mått noga eftersom de inte kan tas bort eller ersättas när de har lagts till.
 title: Anpassade dimensioner för e-postinsikter
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359963
-description: Skapa en rapport i ett program - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en rapport inom ett program för att analysera människor, program, landningssidor, e-post och sociala resurser. Kör rapporter direkt från marknadsföringsaktiviteter eller fliken Analytics.
 title: Skapa en rapport i ett program
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

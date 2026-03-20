@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093041
-description: Redigera en prenumeration på en smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du redigerar prenumerationer på smarta listor genom att uppdatera mottagare, frekvens, kolumner, leveransdatum och format. Gör ändringar direkt på fliken Prenumerationer.
 title: Redigera en prenumeration på en smart lista
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---

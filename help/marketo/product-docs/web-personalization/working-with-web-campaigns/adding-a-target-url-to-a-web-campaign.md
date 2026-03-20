@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6094879
-description: Lägga till en mål-URL i en webbkampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till en mål-URL till en webbkampanj i Marketo Engage, inklusive hur du lägger till en mål-URL till en webbplats. Slutför nästa steg med den här guiden.
 title: Lägga till en mål-URL i en webbkampanj
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '238'
 ht-degree: 1%
 
 ---

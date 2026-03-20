@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360030
-description: Ta bort en rapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort rapporter som du inte längre behöver genom att högerklicka på dem i navigeringsträdet. Håll din rapportarbetsyta organiserad genom att ta bort inaktuella rapporter.
 title: Ta bort en rapport
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

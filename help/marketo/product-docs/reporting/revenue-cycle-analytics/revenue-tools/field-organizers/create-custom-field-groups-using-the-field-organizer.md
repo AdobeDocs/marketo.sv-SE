@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: Skapa anpassade fältgrupper med fältorganiseraren - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar anpassade fältgrupper med fältorganiseraren i Marketo Engage genom att skapa anpassade fältgrupper. Slutför nästa steg med den här guiden.
 title: Skapa anpassade fältgrupper med fältorganiseraren
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 1%
+source-wordcount: '966'
+ht-degree: 2%
 
 ---
 

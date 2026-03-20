@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719350
-description: Visa segment från en viss etikett - Marketo Docs - produktdokumentation
+description: Läs om hur du visar segment från en viss etikett i Marketo Engage, inklusive hur du visar segment från en viss etikett. Slutför nästa steg med den här guiden.
 title: Visa segment från en viss etikett
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---

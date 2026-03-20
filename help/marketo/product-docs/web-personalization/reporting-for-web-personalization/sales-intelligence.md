@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096420
-description: Sales Intelligence - Marketo Docs - produktdokumentation
+description: Läs om funktioner för säljinformation som ger värdefull information om webbbesökare och organisationer. Spåra, övervaka och ta emot aviseringar om viktiga organisationer och konton per region.
 title: Försäljningsinformation
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---

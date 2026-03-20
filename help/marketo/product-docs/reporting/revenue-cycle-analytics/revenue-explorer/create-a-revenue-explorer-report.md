@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504047
-description: Skapa en rapport om intäktsutforskaren - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en intäktsutforskarrapport i Marketo Engage genom att skapa en intäktsutforskare. Slutför nästa steg med den här guiden.
 title: Skapa en rapport för intäktsutforskaren
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -41,5 +41,5 @@ Med rapporten [!UICONTROL Revenue Explorer] kan du spåra avkastningen på dina 
 
 >[!MORELIKETHIS]
 >
->* [Lägger till fält i en [!UICONTROL Revenue Explorer] rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Lägga till anpassade mått i en [!UICONTROL Revenue Explorer] rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [Lägger till fält i en [!UICONTROL Revenue Explorer] rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Lägga till anpassade mått i en [!UICONTROL Revenue Explorer] rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

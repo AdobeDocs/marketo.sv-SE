@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Performance Insights Overview - Marketo Docs - produktdokumentation
+description: Lär dig mer om Performance Insights som hjälper till att optimera kanalmixning och identifiera långsiktiga trender för enhetliga vinnande strategier. Analysera bidrag, trender och exportera data till PowerPoint eller Excel.
 title: Översikt över prestandainsikter
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---

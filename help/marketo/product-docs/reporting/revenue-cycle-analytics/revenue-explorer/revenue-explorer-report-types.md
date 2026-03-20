@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504922
-description: Rapporttyper för Intäktsutforskaren - Marketo Docs - produktdokumentation
+description: Läs mer om rapporttyper för intäktsutforskaren i Marketo Engage, inklusive rapporttyper för intäktsutforskaren. Slutför nästa steg med den här guiden.
 title: Rapporttyper för intäktsutforskaren
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

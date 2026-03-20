@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718681
-description: Starta spårning efter konto i intäktsdokumentet Modeler - Marketo Docs - produktdokumentation
+description: Läs om hur du börjar spåra efter konto i intäktsmodelleraren i Marketo Engage, inklusive spårning efter konto. Slutför nästa steg med den här guiden.
 title: Starta spårning efter konto i Intresse-Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---

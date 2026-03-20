@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099411
-description: Översikt över analys av e-postinsikter - Marketo Docs - produktdokumentation
+description: Läs om Analytics för e-postinsikter som utforskar sammanställda tidsseriedata för e-postleverans och engagemangsmått. Använd diagram och guidade insikter för att identifiera relevanta prestandadrivrutiner.
 title: Översikt över analys av e-postinformation
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

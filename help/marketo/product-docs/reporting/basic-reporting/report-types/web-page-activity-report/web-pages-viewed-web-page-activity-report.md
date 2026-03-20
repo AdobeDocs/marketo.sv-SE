@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360052
-description: Visade webbsidor, aktivitetsrapport för webbsida - Marketo Docs - produktdokumentation
+description: Lär dig mer om visade webbsidor, aktivitetsrapport för webbsidor i Marketo Engage, inklusive visade webbsidor. Slutför nästa steg med den här guiden.
 title: Visade webbsidor, aktivitetsrapport för webbsida
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

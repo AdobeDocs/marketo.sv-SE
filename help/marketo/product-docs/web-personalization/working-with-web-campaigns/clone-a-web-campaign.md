@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093157
-description: Klona en webbkampanj - Marketo Docs - Produktdokumentation
+description: Lär dig hur du klonar en webbkampanj i Marketo Engage med klona en webbkampanj klon-a-web campaign. Slutför nästa steg med den här guiden.
 title: Klona en webbkampanj
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

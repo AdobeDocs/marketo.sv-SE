@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: Vanliga frågor om e-postinsikter - Marketo Docs - produktdokumentation
+description: Hitta svar på vanliga frågor om e-postinsikter, inklusive mätberäkningar, anpassade dimensioner och enhetsfiltrering. Förstå hur e-postinsikter skiljer sig från andra rapporteringsverktyg.
 title: Vanliga frågor om e-postinsikter
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---

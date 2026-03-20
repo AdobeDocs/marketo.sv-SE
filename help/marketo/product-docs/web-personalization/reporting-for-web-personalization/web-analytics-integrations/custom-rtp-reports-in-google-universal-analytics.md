@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504218
-description: Anpassade RTP-rapporter i Google Universal Analytics - Marketo Docs - produktdokumentation
+description: Läs mer om anpassade rapporter om rtp i Google Universal Analytics i Marketo Engage, inklusive anpassade rapporter om rtp i. Slutför nästa steg med den här guiden.
 title: Anpassade RTP-rapporter i Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 1%
+source-wordcount: '376'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949162
-description: Aktivera/inaktivera rapportprenumerationer - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar eller inaktiverar rapportprenumerationer för Web Personalization-e-postrapporter. Välj rapporter och frekvenser i Användarinställningar för att anpassa dina automatiska e-postmeddelanden.
 title: Aktivera/inaktivera rapportprenumerationer
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '80'
 ht-degree: 1%
 
 ---

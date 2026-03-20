@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360055
-description: E-postrapport, kampanjprestanda på flera arbetsytor - Marketo Docs - produktdokumentation
+description: Läs mer om rapportmejl, kampanjresultat på olika arbetsytor i Marketo Engage, inklusive rapportmejl, kampanj. Slutför nästa steg med den här guiden.
 title: E-postrapport, kampanjprestanda i flera arbetsytor
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---

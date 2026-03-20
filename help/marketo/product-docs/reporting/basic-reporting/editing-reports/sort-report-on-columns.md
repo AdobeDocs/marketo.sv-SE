@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359996
-description: Sorteringsrapport om kolumner - Marketo Docs - produktdokumentation
+description: Lär dig hur du sorterar rapportdata efter kolumner för att markera de viktigaste siffrorna. Klicka på kolumnrubriker på fliken Rapport för att välja stigande eller fallande sorteringsordning.
 title: Sortera rapport efter kolumner
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

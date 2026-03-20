@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571886
-description: Using the Success Path Analyzer - Marketo Docs - Product Documentation
+description: Lär dig hur du använder sökvägsanalysen i Marketo Engage med hjälp av sökvägsanalysen. Slutför nästa steg med den här guiden.
 title: Använda sökvägsanalysen
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---

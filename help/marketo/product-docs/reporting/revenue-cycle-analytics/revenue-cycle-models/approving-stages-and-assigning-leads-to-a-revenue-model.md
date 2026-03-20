@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: Godkänna faser och tilldela leads till en intäktsmodell - Marketo Docs - produktdokumentation
+description: Läs om hur du godkänner faser och tilldelar leads till en intäktsmodell i Marketo Engage, inklusive godkännande av faser och. Ta nästa steg tryggt.
 title: Godkänna faser och tilldela leads till en intäktsmodell
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 1%
 
 ---

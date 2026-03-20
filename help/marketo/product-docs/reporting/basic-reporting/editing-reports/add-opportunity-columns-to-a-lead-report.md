@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360018
-description: Lägg till säljprojektskolumner i en lead-rapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till kolumner med affärsmöjligheter för att leda rapporter för att visa affärsmöjlighetsstatistik och mätvärden. Visa affärsmöjlighetsdata, inklusive belopp, konverteringsgrader och information om försäljningscykel.
 title: Lägg till säljprojektskolumner i en lead-rapport
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---

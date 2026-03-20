@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7513141
-description: Navigera på analysstartsidan - Marketo Docs - produktdokumentation
+description: Lär dig hur du navigerar på startsidan för Analytics för att komma åt olika rapporttyper och gå tillbaka till hemvyn. Välj rapporttyper och hantera din rapportarbetsyta.
 title: Navigera på analysstartsidan
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

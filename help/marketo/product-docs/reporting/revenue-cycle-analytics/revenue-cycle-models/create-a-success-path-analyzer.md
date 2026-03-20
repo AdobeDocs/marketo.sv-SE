@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360411
-description: Skapa en Success Path Analyzer - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en framgångsrik bananalys i Marketo Engage med hjälp av en sökvägsanalys. Slutför nästa steg med den här guiden.
 title: Skapa en lyckad sökvägsanalys
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---

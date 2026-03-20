@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360394
-description: Exportera data för påverkansanalys för affärsmöjlighet - Marketo Docs - produktdokumentation
+description: Lär dig hur du exporterar data från affärsmöjlighetsanalys i Marketo Engage med hjälp av exportaffärsmöjlighetsanalys. Ta nästa steg tryggt.
 title: Exportera data för påverkansanalys för affärsmöjlighet
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

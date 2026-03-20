@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: Filtrering i Performance Insights - Marketo Docs - produktdokumentation
+description: Lär dig filtrera Performance Insights-data efter ABM-kontolistor, anpassade attribut, typ av affärsmöjlighet, programtaggar och arbetsyta. Använd flera filter för att hämta specifik information och uppdatera diagram.
 title: Filtrera i Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---

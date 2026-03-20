@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360401
-description: Jämför kanaleffektivitet med programanalys - Marketo Docs - produktdokumentation
+description: Lär dig hur du jämför kanaleffektivitet med programanalys i Marketo Engage, inklusive jämförelsekanal. Slutför nästa steg med den här guiden.
 title: Jämför kanaleffektiviteten med programanalysen
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---

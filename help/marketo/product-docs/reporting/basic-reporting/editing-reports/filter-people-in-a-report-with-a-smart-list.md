@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360016
-description: Filtrera personer i en rapport med en smart lista - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar personer i rapporter med hjälp av smarta listor för att begränsa resultatet utifrån specifika personattribut. Använd filter på fliken Smart lista för olika rapporttyper.
 title: Filtrera personer i en rapport med en smart lista
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

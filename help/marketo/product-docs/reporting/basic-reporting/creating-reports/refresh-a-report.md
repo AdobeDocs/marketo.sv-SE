@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472328
-description: Uppdatera en rapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du uppdaterar rapporter manuellt för att få de senaste data, även om rapporter uppdateras automatiskt var 24:e timme. Använd uppdateringsknappen eller rapportåtgärdsmenyn för att uppdatera resultaten.
 title: Uppdatera en rapport
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

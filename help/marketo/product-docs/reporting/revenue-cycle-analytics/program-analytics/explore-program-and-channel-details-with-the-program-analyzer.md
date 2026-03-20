@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: Utforska program- och kanalinformation med Program Analyzer - Marketo Docs - Produktdokumentation
+description: Läs mer om hur du utforskar program- och kanalinformation med programanalysen i Marketo Engage, inklusive utforska programmet. Slutför nästa steg med den här guiden.
 title: Utforska program- och kanalinformation med Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

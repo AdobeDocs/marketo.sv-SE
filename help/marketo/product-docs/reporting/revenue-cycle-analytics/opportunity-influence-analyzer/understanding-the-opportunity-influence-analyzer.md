@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718648
-description: Förstå säljprojektsanalys - Marketo Docs - produktdokumentation
+description: Lär dig mer om hur du förstår hur affärsmöjlighetsanalysen fungerar i Marketo Engage, inklusive hur du förstår. Slutför nästa steg med den här guiden.
 title: Förstå analysen av säljprojektspåverkan
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -41,5 +41,5 @@ Om du vill behålla det här beteendet bör du ta bort dubbletter av dina data i
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Skapa en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

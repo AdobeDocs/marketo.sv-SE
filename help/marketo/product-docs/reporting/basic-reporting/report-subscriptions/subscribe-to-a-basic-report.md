@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359987
-description: Prenumerera på en grundläggande rapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du prenumererar e-postadresser på grundläggande rapporter för att få automatiska uppdateringar och dela rapporter med ditt team. Ange prenumerationsfrekvens på fliken Prenumerationer.
 title: Prenumerera på en grundläggande rapport
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

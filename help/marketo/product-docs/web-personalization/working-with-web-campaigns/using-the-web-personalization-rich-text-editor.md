@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719179
-description: Använda Personalization RTF-redigeraren - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder en webbredigeringsredigerare för webbanpassning i Marketo Engage med hjälp av webbredigering på webben. Ta nästa steg tryggt.
 title: Använda Personalization RTF-redigeraren
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---

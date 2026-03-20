@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719410
-description: Ta bort en webbkampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort en webbkampanj i Marketo Engage med hjälp av Ta bort en webbkampanj (delete-a-web). Slutför nästa steg med den här guiden.
 title: Ta bort en webbkampanj
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

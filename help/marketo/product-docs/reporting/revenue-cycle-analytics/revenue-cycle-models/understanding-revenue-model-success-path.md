@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718664
-description: Understanding Revenue Model Success Path - Marketo Docs - produktdokumentation
+description: Lär dig mer om framgångarna inom intäktsmodellen i Marketo Engage, inklusive att förstå intäktsmodellens framgångar. Ta nästa steg tryggt.
 title: Förstå lyckad affärsmodell
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Exempelfaser på en lyckad sökväg:
 
 ## Detaljer {#detours}
 
-Eftersom inte alla leads följer en linjär&quot;lyckad väg&quot;, bör du även definiera dina&quot;omdirigeringsfaser&quot; för att fånga leads som inte är kvalificerade eller som kräver några vårdområden innan de blir klara. Exempel:
+Eftersom inte alla leads följer en linjär&quot;lyckad väg&quot;, bör du även definiera dina&quot;omdirigeringsfaser&quot; för att fånga leads som inte är kvalificerade eller som kräver några vårdområden innan de blir klara. Till exempel:
 
 | **DETTA SCENNAMN** | **DEFINITION** |
 |---|---|

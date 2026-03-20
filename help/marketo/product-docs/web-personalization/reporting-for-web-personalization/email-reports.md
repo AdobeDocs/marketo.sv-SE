@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719338
-description: E-postrapporter - Marketo Docs - produktdokumentation
+description: Läs mer om automatiserade e-postrapporter för Personalization för webben, inklusive organisationer, människor, de bästa kampanjerna och sammanfattningsrapporter. Anpassa vilka rapporter du får i Användarinställningar.
 title: E-postrapporter
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
 # E-postrapporter {#email-reports}
 
-Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [[!UICONTROL User Settings] &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Information om hur du anpassar vilken automatiserad e-postrapport som användaren får finns i avsnittet [[!UICONTROL User Settings] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Personalization e-postrapporter {#web-personalization-email-reports}
 

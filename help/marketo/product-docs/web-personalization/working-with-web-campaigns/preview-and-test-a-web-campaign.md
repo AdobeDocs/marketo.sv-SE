@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092925
-description: Förhandsgranska och testa en webbkampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du förhandsgranskar och testar en webbkampanj i Marketo Engage genom att förhandsgranska och testa en webbkampanj. Slutför nästa steg med den här guiden.
 title: Förhandsgranska och testa en webbkampanj
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '386'
 ht-degree: 1%
 
 ---

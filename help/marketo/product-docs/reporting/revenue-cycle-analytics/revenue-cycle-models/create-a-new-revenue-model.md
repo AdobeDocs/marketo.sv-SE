@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718656
-description: Skapa en ny intäktsmodell - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en ny intäktsmodell i Marketo Engage genom att skapa en ny intäktsmodell. Ta nästa steg tryggt.
 title: Skapa en ny inkomstmodell
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

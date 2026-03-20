@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: Filtrering i e-postinsikter - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar e-postinsikter efter målgrupp, innehåll, plattform, enhetstyp och datumintervall. Använd flera filter för att gå djupare in i specifika mätvärden och jämföra prestanda.
 title: Filtrera i e-postinsikter
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

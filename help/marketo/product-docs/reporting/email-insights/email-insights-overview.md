@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: Översikt över e-postinsikter - Marketo Docs - produktdokumentation
+description: Lär dig mer om e-postinsikter som ger kraftfulla analyser från historiska e-postdata via avsnitten Analytics och Sends. Utforska leverans- och engagemangsmått med avancerade filtreringsalternativ.
 title: E-postinsikter - översikt
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---

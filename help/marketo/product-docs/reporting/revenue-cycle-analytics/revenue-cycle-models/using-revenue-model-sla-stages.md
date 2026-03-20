@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718668
-description: Använda intäktsmodellen SLA Stages - Marketo Docs - produktdokumentation
+description: Lär dig hur du använder intäktsmodellsfaser i Marketo Engage med intäktsmodellsfaser. Slutför nästa steg med den här guiden.
 title: Använda intäktsmodellen för SLA-scener
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---

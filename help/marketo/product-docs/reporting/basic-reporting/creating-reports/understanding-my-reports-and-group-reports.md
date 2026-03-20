@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511725
-description: Förstå mina rapporter och grupprapporter - Marketo Docs - produktdokumentation
+description: Lär dig mer om skillnaden mellan Mina rapporter, som bara är synliga för dig, och Grupprapporter, som är synliga för alla arbetsyteanvändare. Ordna dina sparade rapporter effektivt.
 title: Förstå mina rapporter och grupprapporter
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

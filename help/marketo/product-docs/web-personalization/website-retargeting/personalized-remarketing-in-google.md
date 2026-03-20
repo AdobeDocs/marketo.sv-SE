@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720810
-description: Personaliserad Remarketing i Google - Marketo Docs - produktdokumentation
+description: Läs om personaliserad återmarknadsföring i Google i Marketo Engage, inklusive personaliserad återmarknadsföring i Google. Slutför nästa steg med den här guiden.
 title: Personaliserad marknadsföring i Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '239'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ Med personligt anpassad marknadsföring kan ni återengagera era användare med 
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klicka på **[!UICONTROL Sequences]** och **[!UICONTROL Find the RTP Data]** under [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events] i Audience Builder.
+1. Klicka på **[!UICONTROL Sequences]** och **[!UICONTROL Find the RTP Data]** under [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events] i Audience Builder.
 
 >[!TIP]
 >

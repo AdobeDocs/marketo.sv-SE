@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098884
-description: Filtrera webbkampanjer - Marketo Docs - produktdokumentation
+description: Lär dig filtrera webbkampanjer i Marketo Engage med filterwebbkampanjer, webbkampanjer och webbkampanjer. Slutför nästa steg med den här guiden.
 title: Filtrera webbkampanjer
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 

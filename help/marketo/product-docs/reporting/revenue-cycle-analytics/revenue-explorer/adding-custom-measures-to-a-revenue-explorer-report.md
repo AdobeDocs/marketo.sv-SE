@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097747
-description: Lägga till anpassade mått i en Intresseutforskarrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till anpassade mått i en intäktsutforskarrapport i Marketo Engage, inklusive hur du lägger till anpassade mått. Slutför nästa steg med den här guiden.
 title: Lägga till anpassade mått i en Intresseutforskarrapport
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

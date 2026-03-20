@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360405
-description: Skapa en analysrapport för programmedlemskap som listar leads - Marketo Docs - produktdokumentation
+description: Lär dig hur du bygger en analysrapport om programmedlemskap som listar leads i Marketo Engage med att skapa ett program. Slutför nästa steg med den här guiden.
 title: Skapa en analysrapport för programmedlemskap som listar leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Se hur enkelt det var?
 
 ![](assets/seven.png)
 
-Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_&#x200B;för att se vilka medlemmarna är.
+Du kan snabbt lägga till ett lead-attribut som _[!UICONTROL Full Name]_för att se vilka medlemmarna är.
 
 >[!TIP]
 >

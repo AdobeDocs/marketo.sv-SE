@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360008
-description: Visa personer eller anonyma besökare i webbrapporter - Marketo Docs - produktdokumentation
+description: Lär dig mer om hur du visar människor eller anonyma besökare i webbrapporter i Marketo Engage, inklusive webbannonsörer och webbannonsörer. Slutför nästa steg med den här guiden.
 title: Visa personer eller anonyma besökare i webbrapporter
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

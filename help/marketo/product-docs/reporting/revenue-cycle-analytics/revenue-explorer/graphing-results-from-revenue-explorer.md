@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: Graderingsresultat från intäktsutforskaren - Marketo Docs - produktdokumentation
+description: Lär dig mer om hur du skapar diagram över resultat från intäktsutforskaren i Marketo Engage, inklusive hur du tar fram diagram över intäkterna. Slutför nästa steg med den här guiden.
 title: Diagramresultat från intäktsutforskaren
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

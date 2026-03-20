@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360235
-description: Skapa en säljprojektsanalys - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en analys av affärsmöjligheter i Marketo Engage genom att skapa ett inflytande över affärsmöjligheterna. Slutför nästa steg med den här guiden.
 title: Skapa en analys av affärsmöjlighet
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -62,5 +62,5 @@ Använd säljprojektsanalys för att visa hur marknadsföringen bidrar till ett 
 
 >[!MORELIKETHIS]
 >
->* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Konfigurera en analys av affärsmöjlighet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

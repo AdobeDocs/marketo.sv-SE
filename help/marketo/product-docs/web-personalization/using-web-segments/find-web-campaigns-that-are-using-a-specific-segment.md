@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719396
-description: Hitta webbkampanjer som använder ett visst segment - Marketo Docs - produktdokumentation
+description: Lär dig hur du hittar webbkampanjer som använder ett visst segment i Marketo Engage med hjälp av sök efter webbkampanjer. Ta nästa steg tryggt.
 title: Hitta webbkampanjer som använder ett visst segment
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---

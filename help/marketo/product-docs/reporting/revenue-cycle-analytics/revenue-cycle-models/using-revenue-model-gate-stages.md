@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: Using Revenue Model Gate Stages - Marketo Docs - Product Documentation
+description: Lär dig hur du använder intäktsmodellens gate-faser i Marketo Engage med hjälp av intäktsmodellens gate-faser. Slutför nästa steg med den här guiden.
 title: Använda intäktsmodellens Gate-stadier
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

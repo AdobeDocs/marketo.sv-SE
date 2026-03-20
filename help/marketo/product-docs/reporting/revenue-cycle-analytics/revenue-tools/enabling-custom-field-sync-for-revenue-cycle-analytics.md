@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571888
-description: Aktivera anpassad fältsynkronisering för intäktscykelanalys - Marketo Docs - produktdokumentation
+description: Läs om hur du aktiverar anpassad fältsynkronisering för intäktscykelanalys i Marketo Engage, inklusive aktivering av anpassade fält. Ta nästa steg tryggt.
 title: Aktivera anpassad fältsynkronisering för intäktscykelanalys
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---

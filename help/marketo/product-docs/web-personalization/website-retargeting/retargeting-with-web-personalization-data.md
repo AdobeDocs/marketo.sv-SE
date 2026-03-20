@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720796
-description: Återannonsering med Web Personalization Data - Marketo Docs - produktdokumentation
+description: Lär dig mer om återmarknadsföring med webbpersonaliseringsdata i Marketo Engage, inklusive återmarknadsföring med dnl-webben. Slutför nästa steg med den här guiden.
 title: Återannonsering med Web Personalization Data
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '395'
 ht-degree: 1%
 
 ---

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Understanding Revenue Models - Marketo Docs - Product Documentation
+description: Läs om hur du förstår intäktsmodeller i Marketo Engage, inklusive intäktsmodeller. Slutför nästa steg med den här guiden.
 title: Förstå intäktsmodeller
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 0%
 
 ---
 
 # Förstå intäktsmodeller {#understanding-revenue-models}
 
-Intäktscykelmodeller lyfter marknadsföringen till nästa nivå. De modellerar alla faser i hela intäktstratten - från det att ni först interagerar med en lead tills den ledande kunden vinner.
+Intäktscykelmodeller lyfter marknadsföringen till nästa nivå. De modellerar alla faser i era intäkter från funnel - från det att ni först interagerar med en lead tills den ledande posten är en vinnande kund.
 
 ## Mental Model (How to think about this thing) {#mental-model-how-to-think-about-this-thing}
 

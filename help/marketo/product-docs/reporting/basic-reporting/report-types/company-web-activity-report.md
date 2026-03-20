@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360005
-description: Företagets webbaktivitetsrapport - Marketo Docs - produktdokumentation
+description: Läs mer om företagswebbaktivitetsrapporter som visar vilka företag som besöker din webbplats grupperade efter företag. Visa kända eller anonyma besökare och spåra sidvisningar, personer och geografisk plats.
 title: Webbaktivitetsrapport för företag
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 >
 >Om du vill hämta aktiviteter från din webbplats i Marketo måste du först konfigurera [up [!DNL Munchkin] på din webbplats](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [!UICONTROL Company Web Activity] [rapport &#x200B;](report-type-overview.md).
+1. [Skapa en rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) och välj rapporttypen [!UICONTROL Company Web Activity] [rapport ](report-type-overview.md).
 
 1. Välj att [visa kända eller anonyma personer](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) i rapporten.
 
@@ -33,9 +33,9 @@ Skapa en [webbsidesaktivitetsrapport](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_&#x200B;och väljer **[!UICONTROL Sort Descending]**.
+   >Om du vill hitta de företag som besöker webbplatsen mest [sorterar du din rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) i kolumnen _[!UICONTROL Page Views]_och väljer **[!UICONTROL Sort Descending]**.
 
-   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
+   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) för en webbaktivitetsrapport för företag är:
 
 <table>
  <thead>

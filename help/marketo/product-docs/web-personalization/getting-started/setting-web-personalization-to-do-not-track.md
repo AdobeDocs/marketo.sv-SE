@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382593
-description: Ställa in Web Personalization till Do Not Track - Marketo Docs - produktdokumentation
+description: Läs om hur du ställer in webbpersonalisering så att den inte spåras i Marketo Engage, inklusive att ställa in webbpersonalisering på. Slutför nästa steg med den här guiden.
 title: Ange att webb-Personalization inte ska spåras
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

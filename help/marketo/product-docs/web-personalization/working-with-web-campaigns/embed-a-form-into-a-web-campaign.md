@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095554
-description: Bädda in ett formulär i en webbkampanj - Marketo Docs - produktdokumentation
+description: Lär dig hur du bäddar in ett formulär i en webbkampanj i Marketo Engage, inklusive hur du bäddar in ett formulär i en webbkampanj. Slutför nästa steg med den här guiden.
 title: Bädda in ett formulär i en webbkampanj
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
@@ -85,4 +85,4 @@ Så här lägger du till CSS-kod i skriptet:
 >
 >* [Redigera CSS för ett formulärtema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Visa tackmeddelande utan en uppföljningsstartsida](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615749
-description: Exportera webbkampanjdata - Marketo Docs - produktdokumentation
+description: Lär dig hur du exporterar webbkampanjdata i Marketo Engage med hjälp av exportdata för webbkampanjer och webbkampanjdata. Slutför nästa steg med den här guiden.
 title: Exportera webbkampanjdata
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

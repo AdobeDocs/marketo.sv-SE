@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359971
-description: Aktivitetsrapport för webbsida - Marketo Docs - produktdokumentation
+description: Läs mer om aktivitetsrapporter för webbsidor som visar vem som besöker webbplatsen med detaljerad besöksinformation. Visa kända eller anonyma personer och spåra sidvisningar, anmälningssidor och referenser.
 title: Aktivitetsrapport för webbsida
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Du kan välja att visa kända personer eller anonyma personer, men inte båda ty
    >Om du vill ta reda på vem som besöker webbplatsen mest [sorterar du rapporten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} i kolumnen _Sidvyer_ och väljer Sortera fallande.
 
    [Marketo lägger till anonyma](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} webbplatsbesökare i din databas och du kan välja att visa dem i den här rapporten. Det ger mycket information trots att de är anonyma.
-   [Kolumner som du kan välja &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} för en aktivitetsrapport för webbsida är:
+   [Kolumner som du kan välja ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} för en aktivitetsrapport för webbsida är:
 
 <table>
  <thead>

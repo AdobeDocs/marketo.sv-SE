@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504520
-description: Ta bort ett fält i en Intresseutforskarrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du tar bort ett fält i en intäktsutforskarrapport i Marketo Engage, inklusive hur du tar bort ett fält i en intäktsrapport. Slutför nästa steg med den här guiden.
 title: Ta bort ett fält i en Intresseutforskarrapport
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Understanding Content Analytics - Marketo Docs - Product Documentation
+description: Lär dig mer om innehållsanalys i Marketo Engage, inklusive att förstå innehållsanalyser. Slutför nästa steg med den här guiden.
 title: Förstå Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Ytterligare innehållsanalyser är:
 
 * **[!UICONTROL Views]**: Vyer av den aktuella innehållsdelen för det valda tidsintervallet
 * **[!UICONTROL Direct Conversions]**: Webbbesökare som tittade på innehållet och fyllde i ett formulär vid samma besök.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
+* **[!UICONTROL Conversion Rate]****:** En procentuell konverteringsgrad beräknad av Direct-konverteringar dividerat med klick
 
 **[!UICONTROL Trends]**
 

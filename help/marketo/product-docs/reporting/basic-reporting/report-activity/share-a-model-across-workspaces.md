@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360205
-description: Dela en modell mellan arbetsytor - Marketo Docs - Produktdokumentation
+description: Lär dig hur du delar en modell mellan arbetsytor i Marketo Engage, inklusive hur du delar en modell mellan arbetsytor. Slutför nästa steg med den här guiden.
 title: Dela en modell över arbetsytor
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

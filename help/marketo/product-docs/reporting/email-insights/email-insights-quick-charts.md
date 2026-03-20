@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099415
-description: Snabbdiagram för e-postinsikter - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar och sparar snabbdiagram som miniatyrer för ofta använda diagramvyer i e-postinsikter. Spara upp till 20 anpassade diagram och öppna dem snabbt via ikonen Snabbdiagram.
 title: Snabbdiagram för e-postinsikter
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---

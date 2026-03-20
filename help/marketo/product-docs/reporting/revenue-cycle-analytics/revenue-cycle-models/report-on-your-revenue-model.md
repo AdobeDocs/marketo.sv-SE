@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360429
-description: Rapport om din intäktsmodell - Marketo Docs - produktdokumentation
+description: Läs mer om hur du rapporterar om intäktsmodellen i Marketo Engage, inklusive en rapport om intäktsmodellen. Slutför nästa steg med den här guiden.
 title: Rapport om din intäktsmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -43,4 +43,4 @@ För varje intäktscykelmodell kan du generera en rapport om hur många leads so
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Varför är detta användbart? Modellen visar er sälj- och marknadsföringstratt. Håll koll på deras saldon över tiden för att identifiera flaskhalsar innan de blir ett problem.
+Varför är detta användbart? Modellen visar er försäljning och marknadsföring av funnel. Håll koll på deras saldon över tiden för att identifiera flaskhalsar innan de blir ett problem.

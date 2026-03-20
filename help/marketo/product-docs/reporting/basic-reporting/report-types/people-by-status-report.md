@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360012
-description: Rapport - Marketo Docs - produktdokumentation
+description: Lär dig mer om rapporter för personer efter status som visar hur många personer som visas i varje månad för personstatusvärdet. Spåra processen och identifiera flaskhalsar i funnel.
 title: Rapport om personer efter status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---

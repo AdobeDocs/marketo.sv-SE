@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Skapa en ny dialogruta - Webbkampanj - Marketo Docs - Produktdokumentation
+description: Skapa webbkampanjer i dialog för att personalisera innehåll i realtid med popup-meddelanden på er webbplats. Anpassa dialogformat, positioner, animeringar och visningsinställningar för att engagera besökarna.
 title: Skapa en ny webbkampanj för dialog
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504725
-description: Spara en rapport från Intresseutforskaren - Marketo Docs - produktdokumentation
+description: Läs om hur du sparar en rapport om intäktsutforskaren i Marketo Engage, inklusive hur du sparar en rapport om intäktsutforskaren. Slutför nästa steg med den här guiden.
 title: Spara en rapport i skatteutforskaren
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---

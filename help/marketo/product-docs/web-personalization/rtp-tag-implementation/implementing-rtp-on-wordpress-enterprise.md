@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720215
-description: Implementera RTP på Wordpress Enterprise - Marketo Docs - produktdokumentation
+description: Lär dig hur du implementerar rtp på wordpress enterprise i Marketo Engage, inklusive implementering av rtp på wordpress. Slutför nästa steg med den här guiden.
 title: Implementera RTP i Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '109'
+ht-degree: 0%
 
 ---
 

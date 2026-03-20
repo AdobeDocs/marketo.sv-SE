@@ -1,11 +1,11 @@
 ---
-description: Advanced BI Analytics Overview - Marketo Docs - produktdokumentation
+description: Läs om Advanced BI Analytics, ett flexibelt rapporteringsgränssnitt med omfattande visualiseringar och snabbare prestanda för Marketo Engage-data. Skapa anpassade rapporter med interaktiva kontrollpaneler och exportalternativ.
 title: Översikt över avancerad BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1058'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Lär dig hur du exporterar specifika avsnitt i rapporten.
 
 I följande video visas ett exempel på en flersidig, detaljerad rapportupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451686/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standardrapporter i avancerad BI-analys {#standard-reports}
 

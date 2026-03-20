@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571890
-description: Aktivera anpassade fältgrupper för modellprestandaanalys (leads) - Marketo Docs - produktdokumentation
+description: Lär dig hur du aktiverar anpassade fältgrupper för modellresultatanalys (leads) i Marketo Engage med hjälp av Aktivera anpassade fält. Slutför nästa steg med den här guiden.
 title: Aktivera anpassade fältgrupper för modellresultatanalys (leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360240
-description: Konfigurera en säljprojektsanalys - Marketo Docs - produktdokumentation
+description: Lär dig hur du konfigurerar en analys av affärsmöjlighet i Marketo Engage med hjälp av Konfigurera en affärsmöjlighet. Slutför nästa steg med den här guiden.
 title: Konfigurera en analys av affärsmöjlighet
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ När du har [skapat en analys av affärsmöjlighet](/help/marketo/product-docs/r
 
 >[!MORELIKETHIS]
 >
->[Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Berätta för marknadsföringsberättelsen med en analys av affärsmöjlighet ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

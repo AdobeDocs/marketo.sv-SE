@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360201
-description: Lägg till anpassade kolumner i en personrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du lägger till anpassade kolumner i personrapporter med hjälp av smarta listor som filter. Förbättra dina rapporter med ytterligare mätvärden genom att dra anpassade kolumner på fliken Inställningar.
 title: Lägg till anpassade kolumner i en personrapport
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

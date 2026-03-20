@@ -1,11 +1,11 @@
 ---
-description: Mätvärden och dimensioner - Marketo Docs - produktdokumentation
+description: Lär dig mer om tillgängliga mätvärden och dimensioner för avancerade BI Analytics-rapporter, inklusive e-post-, lead-, program- och affärsmöjlighetsanalyser. Skapa anpassade rapporter med dessa dataelement.
 title: Mätvärden och mått
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
  <tbody>
     <tr>
       <th>Analysrapport</th>
-      <th colspan="3" scope="colgroup">Dimensioner</th>
+      <th colspan="3" scope="colgroup">Mått</th>
       <th>Åtgärder (M)</th>
     </tr>
     <tr>
@@ -279,7 +279,7 @@ Här nedan hittar du alla mätvärden och dimensioner som är tillgängliga för
 
 ## Detaljerade mått och mätvärden för analysrapporten ovan {#detailed-dimensions-and-metrics}
 
-### Dimensioner {#dimensions}
+### Mått {#dimensions}
 
 <table>
   <tbody>

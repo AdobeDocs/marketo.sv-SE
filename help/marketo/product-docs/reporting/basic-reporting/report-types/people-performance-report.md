@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360014
-description: Prestandarapport - Marketo Docs - produktdokumentation
+description: Läs mer om rapporter om publiceringsprestanda som mäter databastillväxt över tid och grupperar människor efter attribut. Analysera era program och utforska detaljerad ledinformation med detaljfunktioner.
 title: Prestandarapport för människor
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---

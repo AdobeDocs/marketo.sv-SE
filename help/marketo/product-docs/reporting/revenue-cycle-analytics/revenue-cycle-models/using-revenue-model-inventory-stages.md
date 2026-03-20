@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718666
-description: Using Revenue Model Inventory Stages - Marketo Docs - Product Documentation
+description: Lär dig hur du använder lagerfaser i intäktsmodellen i Marketo Engage med hjälp av lagerfaser i intäktsmodellen. Slutför nästa steg med den här guiden.
 title: Använda intäktsmodelllagerfaser
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---

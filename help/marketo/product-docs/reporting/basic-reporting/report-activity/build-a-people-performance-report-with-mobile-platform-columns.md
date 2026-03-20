@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951220
-description: Bygg en rapport om personprestanda med Mobile Platform Columns - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en rapport om personprestanda med mobilplattformskolumner i Marketo Engage genom att skapa en person. Slutför nästa steg med den här guiden.
 title: Bygg en rapport om personprestanda med Mobile Platform-kolumner
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---

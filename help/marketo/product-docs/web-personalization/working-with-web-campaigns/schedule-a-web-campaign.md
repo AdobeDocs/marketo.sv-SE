@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: Boka en webbkampanj - Marketo Docs - produktdokumentation
+description: Lär dig mer om schemaläggning av webbkampanjer i Marketo Engage, inklusive schemaläggning av webbkampanjer. Slutför nästa steg med den här guiden.
 title: Schemalägg en webbkampanj
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360227
-description: Filtrera Assets i en Campaign-e-postrapport - Marketo Docs - produktdokumentation
+description: Lär dig hur du filtrerar resurser i ett kampanjmejl i Marketo Engage med filterresurser i ett kampanjmejl. Slutför nästa steg med den här guiden.
 title: Filtrera Assets i en kampanjrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

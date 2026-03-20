@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381689
-description: Kontobaserad webbmarknadsföring med TAM - Marketo Docs - Produktdokumentation
+description: Läs om kontobaserad webbmarknadsföring med team i Marketo Engage, inklusive kontobaserad webbmarknadsföring med team. Slutför nästa steg med den här guiden.
 title: Kontobaserad webbmarknadsföring med TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---

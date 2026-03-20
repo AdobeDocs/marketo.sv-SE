@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: Skapa en ny kontolista - Marketo Docs - produktdokumentation
+description: Lär dig hur du skapar en ny kontolista i Marketo Engage genom att skapa en ny kontolista skapa-a-new-account-list. Slutför nästa steg med den här guiden.
 title: Skapa en ny kontolista
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 1%
+source-wordcount: '409'
+ht-degree: 0%
 
 ---
 

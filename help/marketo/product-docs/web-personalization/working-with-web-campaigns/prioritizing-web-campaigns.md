@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8782266
-description: Prioritera webbkampanjer - Marketo Docs - Produktdokumentation
+description: Läs om hur du prioriterar webbkampanjer i Marketo Engage, inklusive prioritering av webbkampanjer. Slutför nästa steg med den här guiden.
 title: Prioritera webbkampanjer
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---

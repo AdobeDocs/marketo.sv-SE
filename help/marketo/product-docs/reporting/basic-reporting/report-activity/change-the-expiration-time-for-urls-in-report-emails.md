@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360032
-description: Ändra förfallotiden för URL:er i e-postrapporter - Marketo Docs - produktdokumentation
+description: Lär dig mer om hur du ändrar förfallotiden för URL:er i rapportmeddelanden i Marketo Engage, inklusive hur du ändrar förfallotiden. Slutför nästa steg med den här guiden.
 title: Ändra förfallotid för URL:er i e-postrapporter
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '112'
+ht-degree: 0%
 
 ---
 

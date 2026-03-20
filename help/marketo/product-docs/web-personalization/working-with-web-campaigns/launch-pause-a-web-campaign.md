@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719406
-description: Starta/pausa en webbkampanj - Marketo Docs - Produktdokumentation
+description: Lär dig mer om att starta/pausa en webbkampanj i Marketo Engage, inklusive att starta en webbkampanj. Slutför nästa steg med den här guiden.
 title: Starta/pausa en webbkampanj
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Starta/pausa en webbkampanj {#launch-pause-a-web-campaign}
 
-En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [&#x200B; i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
+En webbkampanj är en anpassad reaktion som är kopplad till ett visst segment och kan vara en [dialogruta](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) på din webbplats, en [ i zonersättning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), en widgetfunktion eller en e-postavisering.
 
 Du kan starta eller pausa en webbkampanj på två sätt från sidan [!UICONTROL Web Campaigns] eller sidan [!UICONTROL Set Web Campaigns].
 

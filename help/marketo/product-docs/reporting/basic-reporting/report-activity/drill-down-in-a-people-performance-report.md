@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360035
-description: Detaljerad rapport om personprestanda - Marketo Docs - produktdokumentation
+description: Lär dig hur du detaljerar i rapporter om personprestanda om du vill se ytterligare personinformation genom att markera en rad och välja ett attribut. Utforska detaljerade lead-data på en ny rapportflik.
 title: Öka detaljnivån i en rapport om personprestanda
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

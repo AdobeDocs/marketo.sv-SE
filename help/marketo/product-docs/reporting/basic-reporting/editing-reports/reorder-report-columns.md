@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359999
-description: Ändra ordning på rapportkolumner - Marketo Docs - produktdokumentation
+description: Lär dig hur du ändrar ordning på rapportkolumner genom att dra och släppa dem på nya positioner. Anpassa kolumnordningen på fliken Rapport för att prioritera de viktigaste data.
 title: Sortera om rapportkolumner
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

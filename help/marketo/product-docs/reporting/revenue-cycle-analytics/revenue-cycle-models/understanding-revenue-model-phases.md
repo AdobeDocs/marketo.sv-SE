@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718660
-description: Understanding Revenue Model Phases - Marketo Docs - Product Documentation
+description: Lär dig mer om intäktsmodellfaser i Marketo Engage, inklusive att förstå intäktsmodellfaser. Slutför nästa steg med den här guiden.
 title: Förstå intäktsmodellfaser
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '73'
 ht-degree: 1%
 
 ---
 
 # Förstå intäktsmodellfaser {#understanding-revenue-model-phases}
 
-Med faser kan du gruppera ett antal steg. Ibland återspeglar flera steg i en modell en fas i en tratt.
+Med faser kan du gruppera ett antal steg. Ibland återspeglar flera steg i en modell en fas i en funnel.
 
 ![—](assets/image2015-6-12-16-3a56-3a40.png)
 

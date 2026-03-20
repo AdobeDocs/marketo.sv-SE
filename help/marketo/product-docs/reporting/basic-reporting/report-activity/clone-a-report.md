@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360028
-description: Clone a Report - Marketo Docs - produktdokumentation
+description: Lär dig hur du klonar rapporter för att skapa dubbletter för anpassning utan att ändra originalet. Använd Rapportåtgärder eller högerklicka för att klona och namnge den nya rapporten.
 title: Klona en rapport
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
