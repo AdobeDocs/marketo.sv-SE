@@ -18,11 +18,11 @@ Startar du ett nytt jobb eller tar över en befintlig instans från en annan adm
 
 Kontrollera att du är korrekt konfigurerad i Marketo Engage Community.
 
-* [**Konfigurera din profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} genom att fylla i obligatoriska fält (företag, lösningsspecialiseringar, land osv.)
+* [**Konfigurera din profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=sv){target="_blank"} genom att fylla i obligatoriska fält (företag, lösningsspecialiseringar, land osv.)
 
-* Läs upp [**Adobe Experience League Community guidelines**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
+* Läs upp [**Adobe Experience League Community guidelines**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=sv){target="_blank"}.
 
-* Lär dig hur du [**skickar in ett supportärende**](https://experienceleague.adobe.com/en/support#home){target="_blank"} och bekräftar att du har konfigurerats som [supportadministratör](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Lär dig hur du [**skickar in ett supportärende**](https://experienceleague.adobe.com/sv/support#home){target="_blank"} och bekräftar att du har konfigurerats som [supportadministratör](https://experienceleague.adobe.com/sv/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Slå samman dina Marketo Engage Community-profiler {#merge-your-community-profiles}
 
@@ -73,10 +73,10 @@ Du kan även [hämta checklistor](/help/marketo/getting-started/inheriting-a-mar
 
 Behöver du mer hjälp? Kontakta oss eller andra Marketo Engage-användare via länkarna nedan.
 
-* Kontakta **[Marketo Engage kundsupport](https://experienceleague.adobe.com/en/support){target="_blank"}** om du behöver teknisk hjälp med något som inte fungerar som det ska.
+* Kontakta **[Marketo Engage kundsupport](https://experienceleague.adobe.com/sv/support){target="_blank"}** om du behöver teknisk hjälp med något som inte fungerar som det ska.
 
-* Kommunicera med och lär av andra Marketo Engage-användare i **[Adobe Marketo Engage Community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
+* Kommunicera med och lär av andra Marketo Engage-användare i **[Adobe Marketo Engage Community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=sv){target="_blank"}**.
 
-* Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Om du behöver hjälp med att få ut så mycket som möjligt av din Marketo Engage-instans kan du kontakta **[Adobe Professional Services](https://business.adobe.com/se/products/marketo/services-support.html){target="_blank"}**.
 
-* Titta på **[kuraterade självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** om olika aspekter av Marketo Engage.
+* Titta på **[kuraterade självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}** om olika aspekter av Marketo Engage.
