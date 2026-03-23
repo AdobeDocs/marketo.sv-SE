@@ -20,7 +20,7 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 ### Hämta transkript {#download-transcript}
 
-Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Mer information](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Mer information](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version från juni 2025 {#june-2025-release}
 
