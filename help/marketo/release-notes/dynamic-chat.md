@@ -20,11 +20,11 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 ### Tidsgräns för besökarens väntetid {#visitor-wait-time}
 
-Ange en maximal tid (mellan 10 och 500 sekunder) som en besökare väntar på att bli ansluten till en live-agent innan besökaren får ett reservmeddelande. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Ange en maximal tid (mellan 10 och 500 sekunder) som en besökare väntar på att bli ansluten till en live-agent innan besökaren får ett reservmeddelande. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Hämta transkript {#download-transcript}
 
-Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version från juni 2025 {#june-2025-release}
 
