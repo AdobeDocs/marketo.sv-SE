@@ -3,9 +3,9 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
 workflow-type: tm+mt
-source-wordcount: '3414'
+source-wordcount: '3438'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,12 @@ ht-degree: 1%
 Adobe Dynamic Chat-releaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar metod för driftsättning av funktioner. Ibland finns det flera releaser på en månad, så var vänlig och kika regelbundet efter den senaste informationen.
 
 Standardsidan för versionsinformation för Marketo Engage [finns här](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version från mars 2026 {#march-2026-release}
+
+### Hämta transkript {#download-transcript}
+
+Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Mer information](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version från juni 2025 {#june-2025-release}
 
@@ -104,7 +110,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -130,7 +136,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -156,7 +162,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -182,7 +188,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>
