@@ -6,9 +6,9 @@ description: Lär dig hur du använder AI-assistenten för att lägga till text 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '876'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ AI Assistant i Marketo Engage Email Designer hjälper dig att skapa aktuella, h�
 ## Konfigurera behörigheter {#set-up-permissions}
 
 _Efter_ som följer ovanstående krav måste Marketo-administratörer ge åtkomst till specifika användare/roller innan användarna kan se GenAI-knapparna.
+
++++Lär dig hur du ställer in behörigheter
 
 1. I Marketo Engage klickar du på **Admin** och väljer **Användare och roller**.
 
@@ -44,6 +46,8 @@ _Efter_ som följer ovanstående krav måste Marketo-administratörer ge åtkoms
 1. Välj den roll du valde i steg 3 och den önskade arbetsytan (om tillämpligt). Klicka på **Spara**.
 
    ![](assets/use-the-ai-assistant-0e.png)
+
++++
 
 ## Användningsfall {#use-cases}
 
@@ -119,19 +123,27 @@ När e-postmeddelandet har skapats kan du ändra vissa avsnitt, bilder eller tex
 
 ![](assets/use-the-ai-assistant-7.png)
 
-I det här exemplet använder vi en vårdmall. Om den befintliga bilden av hälso- och sjukvårdsexperten inte uppfyller dina behov kan du instruera AI-assistenten att skapa en egen bild av en sjukvårdsexpert. Välj bara bildinnehåll och klicka sedan på AI-assistenten.
+I det här exemplet använder vi en finansiell mall. Om en eller flera av de befintliga bilderna inte uppfyller dina behov kan du instruera AI-assistenten att skapa en ny bild baserat på din beskrivning. Markera önskad bild och klicka på AI-assistentikonen.
 
 ![](assets/use-the-ai-assistant-8.png)
 
-Ange relevanta uppgifter i meddelandet, t.ex.&quot;generate an image for a medical expert&quot;, och lägg till önskad anpassning. Du kan också använda promptbiblioteket (till höger om uppmaningen) om du inte är säker på vad du ska ange.
-
-När du har klickat på **Generera** skapas flera varianter att välja mellan.
+Ange relevanta uppgifter i uppmaningen, t.ex.&quot;En bank som sitter vid sitt skrivbord med massor av kontanter&quot;. Du kan också använda promptbiblioteket (till höger om uppmaningen) om du inte är säker på vad du ska ange. Klicka på **Bildinställningar**.
 
 ![](assets/use-the-ai-assistant-9.png)
 
-Textdelar av e-postmeddelandet kan också ändras på samma sätt som bilden.
+Klicka på växlingsknappen för att aktivera _Generera bilder med AI_ och ändra sedan önskade inställningar, inklusive vilken modell som ska användas (Adobe Firefly eller Gemini 2.5 Nano Banana). När du är klar klickar du på **Generera**.
 
 ![](assets/use-the-ai-assistant-10.png)
+
+Flera varianter skapas. Välj din favorit och klicka på **Använd**.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>Om ingen av bilderna uppfyller dina behov klickar du på **Generera** igen för att skapa nya versioner.
+
+Textdelar av e-postmeddelandet kan också ändras på samma sätt som bilden.
 
 ## Skapa ett helt e-postmeddelande från en vald mall {#create-an-entire-email}
 
@@ -139,18 +151,18 @@ Det här alternativet är bara tillgängligt om e-postmeddelandet har skapats me
 
 Välj en mall utan att markera någon komponent i mallen och klicka på AI-assistentknappen i e-postens Designer.
 
-![](assets/use-the-ai-assistant-11.png)
+![](assets/use-the-ai-assistant-12.png)
 
 Ange den relevanta uppmaningen och välj textinställningar, varumärkesresurser och eventuella bildinställningar som du vill använda för e-postmeddelandet.
 
-![](assets/use-the-ai-assistant-12.png)
+![](assets/use-the-ai-assistant-13.png)
 
 Om du vill generera bilder med Firefly väljer du Bildinställningar och väljer alternativet **Generera bilder med AI**.
 
-![](assets/use-the-ai-assistant-13.png)
+![](assets/use-the-ai-assistant-14.png)
 
 Välj önskad _innehållstyp_, _färg och ton_, _ljus_ och _komposition_ för att skapa Gen-AI-bilder för e-postmeddelandet. Klicka på **Generera** när du är klar.
 
-![](assets/use-the-ai-assistant-14.png)
+![](assets/use-the-ai-assistant-15.png)
 
 Se hur en variant kommer att se ut i ditt e-postmeddelande genom att klicka på **Förhandsgranska**. Välj en variation genom att klicka på **Använd**.
