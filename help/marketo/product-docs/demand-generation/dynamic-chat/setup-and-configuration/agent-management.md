@@ -3,9 +3,9 @@ description: Läs mer om Agenthantering i Dynamic Chat. Visa agenter, hantera te
 title: Agenthantering
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -77,3 +77,17 @@ Välj ett standardmeddelande (systemmeddelande) eller skriv ett anpassat meddela
 >[!TIP]
 >
 >När du skapar ett anpassat meddelande kan du formatera teckensnittet, använda länkar och till och med infoga känslolägesikoner! `:)`
+
+## Inställningar {#settings}
+
+### Samtidig chattbegränsning {#concurrent-live-chat}
+
+Ange antalet samtidiga aktiva chattar som en agent kan ta samtidigt. Kan anges mellan 1 och 10.
+
+![](assets/agent-management-10.png)
+
+### Tidsgräns för besökarens väntetid {#visitor-wait-time}
+
+Styr den maximala tiden en besökare väntar (i sekunder) på att bli ansluten till en live-agent innan besökaren får ett reservmeddelande. Kan ställas in mellan 10 och 500 sekunder.
+
+![](assets/agent-management-11.png)

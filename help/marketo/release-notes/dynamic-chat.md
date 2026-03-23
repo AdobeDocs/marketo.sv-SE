@@ -3,9 +3,9 @@ description: Dynamic Chat versionsinformation – Marketo Docs – Produktdokume
 title: Dynamic Chat versionsinformation
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '3438'
+source-wordcount: '3474'
 ht-degree: 1%
 
 ---
@@ -18,9 +18,13 @@ Standardsidan för versionsinformation för Marketo Engage [finns här](/help/ma
 
 ## Version från mars 2026 {#march-2026-release}
 
+### Tidsgräns för besökarens väntetid {#visitor-wait-time}
+
+Ange en maximal tid (mellan 10 och 500 sekunder) som en besökare väntar på att bli ansluten till en live-agent innan besökaren får ett reservmeddelande. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### Hämta transkript {#download-transcript}
 
-Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Mer information](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Du kan nu hämta en TXT-fil av din chattutskrift när en live-chatt avslutas. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version från juni 2025 {#june-2025-release}
 
@@ -110,7 +114,7 @@ Round Robin-reservlösningar beaktas endast när inga berättigade agenter hitta
 
 <p>
 
-_&#x200B;**Kontoroutning**&#x200B;_
+_**Kontoroutning**_
 
 <table><thead>
   <tr>
@@ -136,7 +140,7 @@ _&#x200B;**Kontoroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Anpassad routning**&#x200B;_
+_**Anpassad routning**_
 
 <table><thead>
   <tr>
@@ -162,7 +166,7 @@ _&#x200B;**Anpassad routning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Teamroutning**&#x200B;_
+_**Teamroutning**_
 
 <table><thead>
   <tr>
@@ -188,7 +192,7 @@ _&#x200B;**Teamroutning**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin Routing**&#x200B;_
+_**Round Robin Routing**_
 
 <table><thead>
   <tr>
