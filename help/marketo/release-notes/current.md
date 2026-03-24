@@ -3,22 +3,22 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: de55f86fdad952d7be1e134d67d865c377a8c1e4
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '458'
+ht-degree: 2%
 
 ---
 
-# Versionsinformation: februari 2026 {#release-notes-jan-26}
+# Versionsinformation: mars 2026 {#release-notes-mar-26}
 
-Här nedan hittar du alla funktioner som finns i februari 26. Se om det finns funktioner i Adobe Marketo Engage Edition.
+Här nedan hittar du alla funktioner som ingår i mars 26. Se om det finns funktioner i Adobe Marketo Engage Edition.
 
 Versionsinformationen för Adobe Dynamic Chat [finns här](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Standardfunktioner för lanseringscykel {#standard-release-cycle-features}
 
-Följande funktioner ingår i standardversionscykeln och kommer att släppas den **20 februari 2026**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
+Följande funktioner ingår i standardversionscykeln och kommer att släppas den **27 mars 2026**, med en fasad utrullning av återstående funktioner under de följande veckorna. Versionsfunktioner och datum kan komma att ändras. Kontrollera status bredvid varje funktion.
 
 <table style="table-layout:auto">
  <tbody>
@@ -26,31 +26,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <th style="width:65%">Funktion</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
-  </tr>
-  <tr>
-   <td><strong>Skicka e-post till Designer - mappåtgärder</strong>: Paritet med den gamla e-postredigeraren.
-   <ul>
-   <li>Dela och arkivera mappåtgärder för e-post till Designer-resurser.</li>
-   <li>Dela mappar mellan arbetsytor, högerklicka på en mapp för att skapa en ny resurs, flytta resurser via dra och släpp.</li>
-   </ul>
-   </td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Skicka e-post till Designer - API</strong>: Nu kan du använda API-anrop för e-post-Designer.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
   </tr>
   <tr>
    <td><strong>Skicka e-post till Designer - Hantera varumärken (beta)</strong>: Generera e-postinnehåll baserat på din organisations/varumärkes specifika riktlinjer för copywriting.</td>
@@ -63,7 +38,8 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Skicka e-post till Designer - Kvalitetskontroll av varumärket</strong>: Utvärdera den allmänna innehållskvaliteten för att identifiera potentiella problem med läsbarhet, innehållets enhetlighet och effektivitet, oberoende av varumärkesriktlinjerna.</td>
+   <td><strong>Mejla Designer - Varumärkesjustering</strong>: Använd innehållskvalitetskontrollen för e-postmeddelanden för att mäta den allmänna läsbarheten och kohesiteten i dina meddelanden.
+   </td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -73,7 +49,41 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Skicka e-post till Designer - AI Assistant Image Generation</strong>: Förutom Firefly kan du nu använda Nano Banana-modeller för att generera bilder med AI Assistant för e-postinnehåll.</td>
+   <td><strong>E-posta Designer - Outlook-återgivningskorrigering</strong>: Den här uppdateringen åtgärdar återgivningsproblem, särskilt i MS Outlook. I expertläget kan du göra mindre HTML-/CSS-redigeringar eller lägga till script-taggar i e-postmeddelandet (det bästa sättet är att inte göra några andra ändringar i e-postmeddelandets HTML för att behålla de visuella elementen som de är).
+   </td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Skicka e-post till Designer - snabbåtgärder</strong>: <i>Paritet med den gamla e-postredigeraren</i>. Snabbåtgärder är nu tillgängliga för alla e-postresurser i Designer (e-post, e-postmallar, fragment). Följande snabbåtgärder stöds: Duplicera, Ta bort, Flytta, Skapa/redigera utkast.
+   </td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Hantering av plocklistor</strong>: Nu kan du ange värden som kan användas i fält i Marketo Engage.
+   </td>
+   <td><i>Kommer snart</i></td>
+   <td><i>Kommer snart</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Push-meddelanden</strong>: Omdirigerings-URL:er som konfigurerats i push-meddelanden har nu stöd för Marketo Engage-tokens (gäller endast <i>Starta program-URL:er</i>).
+   </td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -83,8 +93,10 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=sv){target="_blank"}.
+* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 mars 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **REST API-sammanslagningslead-gräns**: Från och med 31 mars 2026 resulterar anrop som innehåller fler än 25 ID:n i leadIds-parametern i ett API-anrop för sammanslagningsleads i en felkod på 1080 och anropet hoppas över. Jobb som kräver sammanslagning av mer än 25 poster till ett bör delas upp i flera jobb för att säkerställa att dessa samtal blir framgångsrika.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör den 31 mars 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 juli 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 juli 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

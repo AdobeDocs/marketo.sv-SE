@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '9334'
-ht-degree: 0%
+source-wordcount: '9338'
+ht-degree: 1%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 0%
          + Rapporter {#reports}
             + [SEO - Använd KW-trendrapport för konkurrent](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Använd rapporten om nyckelordstrender](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-   + Administrering {#administration}
+   + Administration {#administration}
       + Inställningar {#setup}
          + [Ta reda på vilka behörigheter du har](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Lägsta systemkrav](product-docs/administration/setup-administration/minimum-system-requirements.md)
@@ -271,7 +271,7 @@ ht-degree: 0%
             + [Kontrolllista för smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Använda smarta kampanjer {#using-smart-campaigns}
             + [Avbryta en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
-            + [Aktivera en utlösare för smart kampanj | Fliken Schema](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Aktivera en utlösare för smart kampanj | fliken Schema](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [Använd kommunikationsbegränsningar för smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
             + [Automatisk rensning av utlösarkampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [Kampanjåtgärder: Klona en smart kampanj](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
@@ -585,7 +585,7 @@ ht-degree: 0%
             + [Microsoft Dynamics Sync-filter: Lägg samman](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
             + [Microsoft Dynamics Sync-filter: Kvalificera](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Ange ett standardprefix för anpassat fält](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
-         + [Registrera en app med Azure för att hämta ditt klient-ID/program-ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
+         + [Registrera en app hos Azure för att hämta ditt klient-ID/program-ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Ta bort en lead eller kontakt](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce Sync {#salesforce-sync}
          + [Förstå Salesforce Sync](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
@@ -662,7 +662,7 @@ ht-degree: 0%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1699,7 +1699,7 @@ ht-degree: 0%
          + [Redigera prediktivt innehåll för e-postmeddelanden](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Redigera prediktivt innehåll för multimedia](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Redigera prediktivt innehåll för rekommendationsfältet](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Rapportering {#reporting}
+   + Rapporter {#reporting}
       + [Rapportöversikt](product-docs/reporting/reporting-overview.md)
       + Grundläggande rapportering {#basic-reporting}
          + Skapa rapporter {#creating-reports}
@@ -1973,6 +1973,7 @@ ht-degree: 0%
    + Tidigare versioner {#previous-releases}
       + 2026 {#2026}
          + [Versionsinformation: 26 januari](release-notes/previous-releases/2026/release-notes-jan-26.md)
+         + [Versionsinformation: 26 februari](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + 2025 {#2025}
          + [Versionsinformation: 25 januari](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionsinformation: 25 mars](release-notes/previous-releases/2025/release-notes-mar-25.md)
