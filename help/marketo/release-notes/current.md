@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '462'
 ht-degree: 2%
 
 ---
@@ -38,8 +38,7 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Mejla Designer - Varumärkesjustering</strong>: Använd innehållskvalitetskontrollen för e-postmeddelanden för att mäta den allmänna läsbarheten och kohesiteten i dina meddelanden.
-   </td>
+   <td><strong>Skicka e-post till Designer - Kvalitetskontroll av varumärket</strong>: Utvärdera den allmänna innehållskvaliteten för att identifiera potentiella problem med läsbarhet, innehållets enhetlighet och effektivitet, oberoende av varumärkesriktlinjerna.</td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -93,10 +92,10 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 ## Meddelanden {#announcements}
 
-* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=sv){target="_blank"}.
+* **Borttagning av SEO-funktioner**: tisdagen den 31 mars 2026 kommer Marketo Engage att ersätta sökmotoroptimeringsfunktionen (SEO). Om du inte aktivt använder SEO behöver du inte göra någonting. Om du nyligen har använt SEO kan du exportera dina data. [Läs mer](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **REST API-sammanslagningslead-gräns**: Från och med 31 mars 2026 resulterar anrop som innehåller fler än 25 ID:n i leadIds-parametern i ett API-anrop för sammanslagningsleads i en felkod på 1080 och anropet hoppas över. Jobb som kräver sammanslagning av mer än 25 poster till ett bör delas upp i flera jobb för att säkerställa att dessa samtal blir framgångsrika.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 juli 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 juli 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 juli 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 juli 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
