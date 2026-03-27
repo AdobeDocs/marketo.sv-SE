@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
-ht-degree: 0%
+source-wordcount: '1256'
+ht-degree: 1%
 
 ---
 
@@ -27,37 +27,33 @@ Ange och ordna varumärkesinformation manuellt eller överför riktlinjer för v
 
 ## Få tillgång till varumärken {#generative-access}
 
-För att få åtkomst till menyn **[!UICONTROL Brands]** i [!DNL Adobe Marketo Engage] måste användarna beviljas behörigheterna **[!UICONTROL Manage brand kit]** eller **[!UICONTROL Enable AI assistant]**.
+Användarna måste beviljas de behörigheter som krävs för att få åtkomst till menyn **[!UICONTROL Brands]** i [!DNL Adobe Marketo Engage].
 
 +++  Lär dig hur du tilldelar varumärkesrelaterade behörigheter
 
-Så här tilldelar du behörigheter för varumärken:
+### Användare och roller {#users-and-roles}
 
-1. Gå till fliken **Roller** i produkten **Behörigheter** och välj önskad **roll**.
+1. I _Admin_ väljer du **Användare och roller**.
 
-1. Klicka på **Redigera** om du vill ändra behörigheterna.
+1. Välj önskad roll.
 
-1. Lägg till resursen **AI Assistant** och välj sedan **Hantera varumärkespaket** eller **[!UICONTROL Enable Ai assistant]** i listrutan.
+1. Klicka för att expandera menyn **Access Design Studio**.
 
-   Observera att behörigheten **[!UICONTROL Enable Ai assistant]** endast ger skrivskyddad åtkomst till menyn **[!UICONTROL Brands]**.
+1. Välj **Access AI Assistant** och klicka på **Spara**.
 
-   SCREENSHOT
+### Administratör
 
-1. Klicka på **Spara** om du vill använda ändringarna.
+1. Klicka på Ny upplevelse i området Admin.
 
-   Alla användare som redan har tilldelats den här rollen får sina behörigheter automatiskt uppdaterade.
+1. Klicka på _Redigera_ bredvid **Hantera dina varumärken**.
 
-1. Om du vill tilldela den här rollen till nya användare går du till fliken **Användare** på kontrollpanelen **Roller** och klickar på **Lägg till användare**.
-
-1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **Spara**.
-
-1. Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+NÄSTA?
 
 +++
 
 ## Skapa och hantera ert varumärke {#create-brand-kit}
 
-Om du vill skapa och hantera varumärkesriktlinjerna kan du antingen ange detaljerna själv eller överföra dokumentet med varumärkesriktlinjer så att informationen extraheras automatiskt:
+Om du vill skapa och hantera varumärkesriktlinjerna kan du antingen ange detaljerna själv eller överföra dokumentet med varumärkesriktlinjer så att informationen extraheras automatiskt.
 
 1. Klicka på **[!UICONTROL Brands]** på menyn **[!UICONTROL Create brand]**.
 
