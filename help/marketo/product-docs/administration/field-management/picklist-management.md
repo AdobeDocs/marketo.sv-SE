@@ -4,9 +4,10 @@ title: Hantering av plocklistor
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Varje plocklistepost har ett visningsvärde och ett skickat värde. Visningsvär
 
 ## Automatiskt föreslå {#autosuggest}
 
+När inställningen _Managed Picklist_ är aktiverad föreslår Filter, Flow Step Choices och Change Data Value automatiskt värden från den hanterade plocklistan. När den här inställningen är inaktiverad föreslås bara ohanterade värden.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Växla mellan hanterade och ohanterade plocklistor {#switching}
 
 De flesta prenumerationer på Marketo Engage innehåller data från innan Managed Picklists introducerades. Om du vill använda värden i smarta listor eller flödessteg från den här listan med ohanterade versioner (t.ex. från den fullständiga uppsättningen värden som finns i poster i din databas), växlar du inställningen Hanterad plocklista i den smarta listan eller Campaign-vyn. När du aktiverar det här alternativet visas endast de hanterade värdena i listan. När du stänger av den används den ohanterade listan och värden föreslås automatiskt baserat på befintliga värden i databasen.
 
-### Formulärväljare (välj textfält) {#form-picklists}
+## Formulärväljare (välj textfält) {#form-picklists}
 
 Precis som Seeded- och CRM-Managed Picklists, sprids värdena för Managed Picklists till Forms när du använder fälttypen Select. För ett fält med en hanterad lista väljer du det fältet och ställer in fälttypen på _Select_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Här visas uppsättningen med hanterade plocklistevärden som har definierats för det fältet.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
