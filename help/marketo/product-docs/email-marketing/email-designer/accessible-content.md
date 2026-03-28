@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 keywords: e-post, design, tillgänglighet
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 0%
@@ -283,7 +283,8 @@ Skärmläsarna läser:
 
 <!--for Landing Pages-->
 
-<!--## Provide keyboard navigation and focus support {#keyboard}
+<!--
+## Provide keyboard navigation and focus support {#keyboard}
 
 Providing keyboard navigation and focus support allows people who cannot use a mouse to fully access and interact with content. It also improves overall usability by giving all users a clear and consistent way to move through information.
 
@@ -311,4 +312,5 @@ Providing keyboard navigation and focus support allows people who cannot use a m
     * Ensure checkboxes and buttons respond to the Enter and Space keys. 
     * Validate the interaction using the keyboard alone: 
         * Enter or Space should toggle checkboxes.
-        * Enter or Space should trigger the buttons.-->
+        * Enter or Space should trigger the buttons.
+-->

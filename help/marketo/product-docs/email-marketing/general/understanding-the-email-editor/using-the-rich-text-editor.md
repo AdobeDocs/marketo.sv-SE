@@ -4,7 +4,7 @@ description: Lär dig använda textredigeraren för e-postinnehåll. Formatera t
 title: Använda RTF-redigeraren
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 1%
@@ -39,7 +39,7 @@ Rotblockelementets inställning definierar vilka taggar som omsluter innehållet
 
    ![](assets/four.png)
 
-   Om du har `<div class=“mktEditable”></div>` i en e-postmall visas följande HTML Source-beteende när du öppnar avsnittet och skriver&quot;Text Goes Here&quot; i redigeraren:
+   Om du har `<div class="mktEditable"></div>` i en e-postmall visas följande HTML Source-beteende när du öppnar avsnittet och skriver&quot;Text Goes Here&quot; i redigeraren:
 
 <table>
  <tbody>
@@ -79,7 +79,8 @@ Här är de funktioner du hittar i en RTE.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **Mörkare och tjockare**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *Vinklad, för betoning eller citat* s. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | Placerar en linje under texten. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Använd den här listrutan för att utforma text och bilder. Centrera dem, välj vänster- eller högerjustering eller lägg kanten på kanten med fullständig justering. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Välj punkter eller nummer i listrutan. Punkter är bra med listor och siffror med steg. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Använd den här listrutan för att utforma text och bilder. Centrera dem, välj vänster- eller högerjustering eller lägg kanten på kanten med fullständig justering. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Välj punkter eller nummer i listrutan. Punkter är bra med listor och siffror med steg. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | Välj mer eller mindre indrag. Använd för stycken eller text som du vill sticka ut. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | Lägg in en länk till en webbplats eller annat innehåll och gör enkelt ändringar i den. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | En bild säger mer än tusen ord. Släpp in en. Klicka på kameraikonen för att bläddra i Design Studio. Du kan släppa bilder sida vid sida. |

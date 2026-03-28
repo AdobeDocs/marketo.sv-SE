@@ -4,7 +4,7 @@ description: Lär dig mer om anpassade fälttoken för programmedlemmar. Använd
 title: Anpassade fälttoken för programmedlem
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
@@ -19,7 +19,7 @@ På baksidan av funktionerna för anpassade fält för programmedlemmar utökas 
 
 PMCF-token stöds under medlemsdomänen för tokens-familjen.
 
-Medlemstoken används för fält som omfattas av programmedlemmens tillämpningsområde. I nuläget används medlemstoken även för att infoga unika värden från integrerade tjänstpartner. `{{member.webinar url}}`-token löser automatiskt personens unika bekräftelse-URL som genererats av tjänstprovidern. {{member.registration code}} matchar registreringskoden som tillhandahålls av tjänsteleverantören.
+Medlemstoken används för fält som omfattas av programmedlemmens tillämpningsområde. I nuläget används medlemstoken även för att infoga unika värden från integrerade tjänstpartner. `{{member.webinar url}}`-token löser automatiskt personens unika bekräftelse-URL som genererats av tjänstprovidern. `{{member.registration code}}` matchar registreringskoden som tillhandahålls av tjänsteleverantören.
 
 >[!NOTE]
 >

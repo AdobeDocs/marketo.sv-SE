@@ -4,7 +4,7 @@ description: Läs mer om attribueringsexempel 4 i Marketo Engage, inklusive attr
 title: Attribut - exempel 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Läs följande scenario och försök fastställa vilka tal som ska finnas i rutn
 
 * 11 april | Michelle laddar ned e-bok (innehåll) - Klart
 * 15 april | John deltar (webbinarium) - Klart
-* 22 april | (Möjlighet 1) har skapats för $3 000
-* 24 april | (Möjlighet 2) skapades för 5 000 USD
+* 22 april | (möjlighet 1) skapad för 3 000 USD
+* 24 april | (möjlighet 2) skapad för 5 000 USD
 * 25 april | John och Michelle är associerade med **båda** Optys
 * 29 april | [Opty 1] är Closed-Won
 
-| Programnamn | (Innehåll) | (webbinarium) |
-|---|---|---|
+| Programnamn | (Innehåll) | (webbinarium) | | |
+|---|---|---|---|---|
 |   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
 | (MT) Opty har skapats | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline skapad | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

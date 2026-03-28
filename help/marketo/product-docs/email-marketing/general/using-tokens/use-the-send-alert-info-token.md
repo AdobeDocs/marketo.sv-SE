@@ -4,7 +4,7 @@ description: Lär dig hur du använder token Skicka aviseringsinformation i e-po
 title: Använda Skicka aviseringsinformationstoken
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Följande information ingår i `{{SP_Send_Alert_Info}}`:
 
    ![](assets/three-3.png)
 
-1. Sök efter och välj token **[!UICONTROL {{SP_Send_Alert_Info}}]** och klicka på **[!UICONTROL Insert]**.
+1. Sök efter och välj token **[!UICONTROL `{{SP_Send_Alert_Info}}`]** och klicka på **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
