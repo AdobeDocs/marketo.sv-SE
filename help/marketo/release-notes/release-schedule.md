@@ -4,7 +4,7 @@ description: Versionsschema – Marketo Docs – produktdokumentation
 title: Versionsschema
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f97e0e03b6b0fe0635c57e01be4f5785f0519691
+source-git-commit: 8422914df5727690fd5d4a53209648704529eec8
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 7%
@@ -55,7 +55,7 @@ _Releasedatum/funktioner kan komma att ändras_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">26 mars</td>
    <td>27 mars 2026</td>
-   <td>Enligt schema</td>
+   <td>Pågår</td>
   </tr>
   <tr>
   <td>26 maj</td>
