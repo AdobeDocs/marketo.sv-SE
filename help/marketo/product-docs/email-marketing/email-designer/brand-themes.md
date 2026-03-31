@@ -6,7 +6,7 @@ description: Lär dig hur du skapar och hanterar varumärkesriktlinjer i Marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Du kan välja mellan en förinställning eller konfigurera varje färg i uppsät
 
 ![](assets/brand-themes-8.png)
 
-När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen &#x200B;](assets/icon-back-arrow.png)) för att gå tillbaka.
+När du är klar med redigeringen klickar du på bakåtpilen (![bakåtpilen ](assets/icon-back-arrow.png)) för att gå tillbaka.
 
 Om du vill redigera en variant klickar du på pennikonen.
 
@@ -73,7 +73,7 @@ Om du vill redigera en variant klickar du på pennikonen.
 
 >[!NOTE]
 >
->Du kan skapa upp till sex varianter.
+>Du kan skapa upp till fyra varianter.
 
 Det finns flera tillgängliga element som du kan anpassa. Variantinställningar grupperas i följande kategorier:
 
