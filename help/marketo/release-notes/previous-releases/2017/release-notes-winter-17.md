@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Versionsinformation -vinter '17 - Marketo Docs - produktdokumentation
 title: Versionsinformation -vinter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Exportera all information och alla analyser i webbkampanjen i ett CSV-format. Se
 
 ## Lokalisering {#localization}
 
-Apparna Web Personalization, [!UICONTROL Predictive Content] och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språkområde](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) för att visa ditt innehåll på dessa språk.
+Apparna Web Personalization, [!UICONTROL Predictive Content] och Email Insights finns nu på japanska, tyska och spanska. Du [väljer språk och språkområde](/help/marketo/product-docs/administration/settings/change-time-zone.md) för att visa ditt innehåll på dessa språk.
 
 ![](assets/japanese-web-personalization.png)
 

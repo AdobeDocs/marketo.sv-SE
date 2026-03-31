@@ -4,9 +4,9 @@ description: Hur administratörer visar och redigerar standardinställningar fö
 title: Ange standardplatsinställningar för en prenumeration
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ I den här artikeln beskrivs hur en administratör kan visa och redigera standar
 
 ## Ange standardplatsinställningar för en prenumeration {#set-default-location-settings-for-a-subscription-1}
 
-När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användare kan alltid [ändra sina inställningar för språk, språk och tidszon](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) i sina enskilda konton.
+När en administratör ändrar standardplatsinställningarna ärver nyskapade användare dessa inställningar. Användare kan [ändra sin tidszon](/help/marketo/product-docs/administration/settings/change-time-zone.md) i sina enskilda konton.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -65,4 +65,4 @@ Om du ändrar standardspråkområdet för dina användare kanske du också vill 
 
 >[!MORELIKETHIS]
 >
->* [Välj språk, språk och tidszon](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Ändra din tidszon](/help/marketo/product-docs/administration/settings/change-time-zone.md)

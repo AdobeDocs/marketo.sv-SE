@@ -4,7 +4,7 @@ description: Lär dig hur du schemalägger e-postprogram med mottagarens tidszon
 title: Schemalägg e-postprogram med mottagartidszon
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Detta ger dig två alternativ:
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**: Om e-postmeddelandet är schemalagt att skickas på tisdag klockan 9:00am får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet *onsdag* kl. 9:00am.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: Om e-postmeddelandet är schemalagt att skickas på tisdag kl. 9:00am får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet *baserat på dina inställningar för prenumerationstidszon*. Om dina [prenumerationstidszonsinställningar](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) är inställda på PDT America/Los Angeles får dessa mottagare fortfarande e-postmeddelandet på tisdag klockan 9:00am PDT (oavsett tid i deras egna tidszoner).
+>* **[!UICONTROL Deliver using the program's default set time]**: Om e-postmeddelandet är schemalagt att skickas på tisdag kl. 9:00am får kvalificerade personer som bor i tidszoner där den schemalagda tiden redan har passerat e-postmeddelandet *baserat på dina inställningar för prenumerationstidszon*. Om dina [prenumerationstidszonsinställningar](/help/marketo/product-docs/administration/settings/change-time-zone.md) är inställda på PDT America/Los Angeles får dessa mottagare fortfarande e-postmeddelandet på tisdag klockan 9:00am PDT (oavsett tid i deras egna tidszoner).
 
 >[!NOTE]
 >

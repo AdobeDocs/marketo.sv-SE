@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Versionsinformation -Spring '17 - Marketo Docs - Produktdokumentation
 title: Versionsinformation - våren 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -86,13 +86,13 @@ Arkiv är en ny webbkampanjstatus som gör att du kan arkivera [!UICONTROL Web C
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Lokalisering](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
 ## Prediktiva förbättringar {#predictive-enhancements}
 
-**[Lokalisering](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Lokalisering](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Prediktivt innehåll finns nu på alla språk som stöds av Marketo (engelska, japanska, tyska, spanska, franska och portugisiska).
 
