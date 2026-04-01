@@ -6,14 +6,14 @@ description: Lär dig hur du använder AI-assistenten för att lägga till text 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
+source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
-# Använd AI-assistenten {#use-ai-assistant}
+# AI Assistant för e-post i Designer {#ai-assistant-email-designer}
 
 AI Assistant i Marketo Engage Email Designer hjälper dig att skapa aktuella, högpresterande och intuitiva e-postmeddelanden. Detta uppnås genom Adobe generativa AI-teknologi och ett bibliotek med Firefly för bildgenerering som hjälper till att skapa lämpligt innehåll för en viss individ/köpgrupp, marknadsföringssteg, kommunikationsstrategi, ton osv. Specifika varumärkesresurser kan också användas för att skapa innehåll.
 
