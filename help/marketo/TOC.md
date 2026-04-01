@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '9337'
+source-wordcount: '9340'
 ht-degree: 1%
 
 ---
@@ -663,7 +663,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1049,7 +1049,7 @@ ht-degree: 1%
          + [GenStudio Integration för Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Låsning av innehåll](product-docs/email-marketing/email-designer/content-locking.md)
          + [E-posta Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
-         + [AI-assistenten](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [AI Assistant för e-post i Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Skräppostrapport via e-post med SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + E-postprogram {#email-programs}
          + Skapa ett e-postprogram {#creating-an-email-program}

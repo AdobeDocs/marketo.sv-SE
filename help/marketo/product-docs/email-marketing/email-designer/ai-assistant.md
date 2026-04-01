@@ -6,9 +6,9 @@ description: Lär dig hur du använder AI-assistenten för att lägga till text 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,21 @@ _Efter_ som följer ovanstående krav måste Marketo-administratörer ge åtkoms
 
 ## Användningsfall {#use-cases}
 
-Det finns tre primära användningsområden för AI Assistant:
+Det finns några primära användningsområden för AI Assistant:
 
-* [Skapa en ämnesrad](#create-a-subject-line) för ditt e-postmeddelande
+* [Skapa en ämnesrad och/eller en preheader](#create-a-subject-line-preheader) för ditt e-postmeddelande
 * [Skapa innehåll för ett visst avsnitt](#create-content-for-a-specific-section) i e-postmeddelandet
 * [Skapa ett helt e-postmeddelande](#create-an-entire-email) från en markerad mall
 
-## Skapa en ämnesrad {#create-a-subject-line}
+## Skapa en ämnesrad/preheader {#create-a-subject-line-preheader}
 
-När ett e-postmeddelande skapas med Designer New Email anger du en tillfällig ämnesrad.
+Du kan använda AI-assistenten för att skapa en ämnesrad, en prerubrik eller båda.
 
 ![](assets/use-the-ai-assistant-1.png)
+
+Exemplet nedan visar ämnesraden. För en förrubrik kan du följa samma steg genom att klicka i kryssrutan _Förrubrik_ (visas i bilden ovan).
+
+När ett e-postmeddelande skapas med Designer New Email anger du en tillfällig ämnesrad.
 
 När e-postmeddelandet har skapats finns ämnesraden i kolumnen _Detaljer_ till höger. Klicka på AI-assistentknappen ( ![Filterikon](assets/icon-ai-assistant.png) ) bredvid om du vill ha hjälp med att skapa en ny ämnesrad med Gen AI-funktionen.
 
