@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9333'
 ht-degree: 1%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 1%
          + [Ange en återställningssida](product-docs/administration/settings/set-a-fallback-page.md)
          + [Ange standardplatsinställningar för en prenumeration](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Sekretessinställningar](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Använda ett universellt ID för prenumerationsinloggning](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Taggar {#tags}
          + [Skapa en ny programtagg och taggvärden](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Skapa en programkanal](product-docs/administration/tags/create-a-program-channel.md)
@@ -663,7 +662,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)

@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionsinformation -höst 16 - Marketo Docs - produktdokumentation
 title: Versionsinformation - höst 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Med integreringen av [!DNL Facebook] offlinekonverteringar skickas konverterings
 
 ![](assets/facebook.png)
 
-## [Universellt ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## Universellt ID {#universal-id}
 
 Med ett universellt ID kan du komma åt flera Marketo-prenumerationer med en enda inloggning och snabbt växla mellan prenumerationer. Du kan använda en enda community-profil för alla dina prenumerationer.
 

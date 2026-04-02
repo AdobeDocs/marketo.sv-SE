@@ -2,9 +2,9 @@
 description: Versionsinformation - augusti 2021 - Marketo Docs - produktdokumentation
 title: Versionsinformation - augusti 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Följande funktioner finns på en icke-kvartalsvis cykel och kommer att släppas
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms-integrering**: Nu kan marknadsförare utföra intäktsattribuering på konverteringar som inträffar när [!DNL LinkedIn] hämtar formulär genom sina Lead Gen Forms-annonsenheter. Dessa insikter kan sedan användas för att optimera formulärprestanda och investeringar i betalda medier. [!DNL LinkedIn] Lead Gen Forms är ett av [!DNL LinkedIn]s snabbast växande betalmediepresentationer och denna nya funktion ingår i vår befintliga [!DNL LinkedIn] Ads-integrering med [!DNL Bizible].
 
 * **Förbättrad snabbkontrollpanel**: Vi har lagt till ett nytt snabbmätnings- och instrumentpanelsfilter för djupare insikter. Den här instrumentpanelen används av marknadsförare för att förstå hur snabbt leads och affärstillfällen kan komma i fas för steg och hur effektiva olika former av marknadsföring och säljengagemang är.
 
@@ -75,13 +75,13 @@ Det här avsnittet innehåller nya funktioner för användare av Bizible som har
 
 * **[!DNL Bizible]Integrering med Adobe Privacy Service** (tillgängligt i september 2021): Integreringen av [!DNL Bizible] med Adobe Privacy Service centraliserar kompatibiliteten med viktiga sekretessregler (som GDPR) för Adobe Experience Cloud-program. Du kan nu utnyttja den här tjänsten och hantera alla sekretessförfrågningar centralt så att ändringsförfrågningar som kommer in i [!DNL Bizible] och andra Adobe-produkter återspeglas i alla program.
 
-* **[!DNL Bizible]i Adobe Unified Shell**: [!DNL Bizible] När Adobe Unified Shell används får användarna nya funktioner som visas i programmets namnlist i [!DNL Bizible] och som ger bättre åtkomst till supportresurser och programväxling. Adobe Unified Shell hjälper dig att skapa en konsekvent upplevelse mellan [!DNL Bizible] och andra Adobe Experience Cloud-program.
+* **[!DNL Bizible]i Adobe Unified Shell**: Om Adobe Unified Shell används i [!DNL Bizible] får användarna nya funktioner som visas i programmets namnlist i [!DNL Bizible] och som ger bättre åtkomst till supportresurser och programväxling. Adobe Unified Shell hjälper dig att skapa en konsekvent upplevelse mellan [!DNL Bizible] och andra Adobe Experience Cloud-program.
 
 * **[!DNL Bizible]Domänägarskap och självhantering**: [!DNL Bizible] -användare kan använda Adobe Admin Console för att hantera de domäner som de vill att [!DNL Bizible] ska spåra. Detta ger självbetjäning till en tidigare manuell process och ger en konsekvent upplevelse av hur domänägarskap och spårning hanteras i Adobe Experience Cloud-program.
 
 ## Meddelanden {#announcements}
 
-* **Uppdatera till universella ID-inställningar för prenumeration**: Alla Marketo Engage-prenumerationer kommer att vara enhetliga när det gäller stöd för universella ID för att ge stöd för kommande Marketo Engage- och Adobe Identity-integrering för befintliga användare. Mer information [finns här](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **Uppdatera till universella ID-inställningar för prenumeration**: Alla Marketo Engage-prenumerationer kommer att vara enhetliga när det gäller stöd för universella ID för att ge stöd för kommande Marketo Engage- och Adobe Identity-integrering för befintliga användare.
 
 **_Webbseminarium om produktreleaser_**
 
