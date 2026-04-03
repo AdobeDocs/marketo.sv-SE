@@ -5,7 +5,7 @@ description: Läs mer om e-postprogrammet Designer och dess dra-och-släpp-redig
 title: Översikt
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Designer för e-post är den senaste innovationen i Marketo Engage som är avsed
 
 +++Lär dig hur du får tillgång till e-postprogrammet Designer
 
-Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) för att du ska kunna komma åt den nya e-postversionen av Designer. Om du inte har gjort det än och vill begära att det ska gå fort kontaktar du Adobe Account Team (din kontoansvarige) eller [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Lägg till användare {#add-users}
 
@@ -54,7 +54,7 @@ Din Marketo Engage-prenumeration måste migreras till [Adobe Identity Management
 
 * [Konverterare för bild till HTML](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Överför en kompatibel PNG/JPEG-bildfil från ett e-postmeddelande och den konverteras automatiskt till HTML för användning i det nya e-postDesigner.
 
-* [Varumärkesteman](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Definiera varumärkesteman i Marketo Engage. Formatkonfigurationer kan återanvändas och användas i alla e-postmallar och andra e-postresurser för enhetlig varumärkesexponering.
+* [Varumärkesteman](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: Definiera varumärkesteman i Marketo Engage. Formatkonfigurationer kan återanvändas och användas i alla e-postmallar och andra e-postresurser för enhetlig varumärkesexponering.
 
 * [Mallimporterare](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: Importera e-postmallar från den klassiska e-postredigeraren för att skapa mallar som är kompatibla med nya e-post-Designer i Design Studio.
 
@@ -84,7 +84,7 @@ Assets som redigeras via API stöds för närvarande inte i nya Email Designer.
 
 **Finns det något sätt att framtvinga varumärkning (teckensnitt, logotyper och färger)?**
 
-Ja! Skapa och hantera varumärkesriktlinjer med [varumärkesteman](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
+Ja! Skapa och hantera varumärkesriktlinjer med [varumärkesteman](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md).
 
 **Kommer moduler för mallar att bli mer anpassningsbara och skalbara?**
 

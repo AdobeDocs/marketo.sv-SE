@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 0%
@@ -233,7 +233,7 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
   </tr>
   <tr>
     <td>Varumärkesteman</td>
-    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">använda godkända teman</a> i hela organisationen för att säkerställa konsekvens i element som format, färg, teckenstorlek osv.</td>
+    <td>Möjlighet att <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">använda godkända teman</a> i hela organisationen för att säkerställa konsekvens i element som format, färg, teckenstorlek osv.</td>
     <td>Inte tillgängligt</td>
     <td>Tillgänglig</td>
   </tr>
