@@ -21,10 +21,10 @@ Du kan exportera dina sidutgivningsdata till en CSV-fil om du vill dela den info
 >
 >Den 31 mars 2026 tog Marketo Engage [bort funktionen Sökmotoroptimering](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) är fortfarande tillgänglig under en begränsad tid. Exportera alla data genom att följa stegen i artiklarna nedan.
 >
->* [Exportproblem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Exportera nyckelordstrender](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportproblem](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportera nyckelordstrender](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Gå till avsnittet **[!UICONTROL Pages]**.
 
