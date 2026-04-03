@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
+source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9342'
 ht-degree: 1%
 
 ---
@@ -662,7 +662,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1050,7 +1050,7 @@ ht-degree: 1%
          + Varumärken {#brands}
             + [Varumärkesteman](product-docs/email-marketing/email-designer/brands/brand-themes.md)
             + [Använd varumärke](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Hantera varumärken](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Skapa och hantera varumärken](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [Anpassa era varumärken](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [Märkesjustering](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + E-postprogram {#email-programs}
