@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9333'
+source-wordcount: '9339'
 ht-degree: 1%
 
 ---
@@ -662,7 +662,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1035,9 +1035,6 @@ ht-degree: 1%
          + [Konvertera bilder till HTML-mallar](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Design Accessible Content](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Anpassad CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Varumärkesteman](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [Använd varumärke](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [Hantera varumärke](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Mörkt läge](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testa e-poståtergivning med Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1050,6 +1047,12 @@ ht-degree: 1%
          + [E-posta Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI Assistant för e-post i Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Skräppostrapport via e-post med SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + Varumärken {#brands}
+            + [Varumärkesteman](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Använd varumärke](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Hantera varumärken](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Anpassa era varumärken](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Hantera varumärken](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + E-postprogram {#email-programs}
          + Skapa ett e-postprogram {#creating-an-email-program}
             + [Skapa ett e-postprogram](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
