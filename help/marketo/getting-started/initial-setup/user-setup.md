@@ -113,7 +113,7 @@ Om du vill använda [Dynamic Chat](https://experienceleague.adobe.com/docs/marke
 <tbody>
   <tr>
     <td>Adobe Marketo statusuppdateringar</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">Prenumerera på Adobe Marketo Engage statusuppdateringar</a>.</li></td>
+    <td><li><a href="https://status.adobe.com/sv-se/cloud/experience_cloud">Prenumerera på Adobe Marketo Engage statusuppdateringar</a>.</li></td>
   </tr>
   <tr>
     <td>Meddelanden</td>

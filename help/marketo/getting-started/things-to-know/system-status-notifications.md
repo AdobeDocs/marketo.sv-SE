@@ -48,7 +48,7 @@ I steg 7 i [avsnittet nedan](#create-a-subscription) skulle användaren välja d
 
 När du har [identifierat ditt datacenter och din pod/server](#identify) följer du stegen nedan för att skapa en prenumeration.
 
-1. På [status.adobe.com](https://status.adobe.com) klickar du på **Hantera prenumerationer**.
+1. På [status.adobe.com](https://status.adobe.com/sv-se) klickar du på **Hantera prenumerationer**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
