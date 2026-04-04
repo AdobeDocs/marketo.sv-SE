@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 1%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 1%
 + Produktdokument {#product-docs}
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
-         + Förstå SEO {#understanding-seo}
-            + [Om sökmotoroptimering](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Förstå SEO-instrumentpanelen: SEO-rekommendationer](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Förstå SEO-instrumentpanelen: SEO-ögonblicksbild](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - Lägg till en plats/ta bort en plats](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - Lägg till konkurrenter](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - Hantera listor](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - Välj region/land för sökmotorn](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - Ange e-postaviseringsinställningar](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Nyckelord {#keywords}
-            + [SEO - Lägg till nyckelord](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - Lägg till/ta bort kolumner från nyckelordsvyn](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - Lägg till/ta bort nyckelord från en lista](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Exporterar nyckelordsresultat](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - filtrera nyckelordsresultat](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - Hämta föreslagna nyckelord](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - Importera nyckelord med en CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - diagram över nyckelordstrender](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - Optimera specifika sidor med riktade nyckelord](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - Ta bort ett nyckelord](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - Förstå nyckelord](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - Visa nyckelordsresultat i en sökmotor](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Sidor {#pages}
-            + [SEO - Lägg till anteckningar till sidproblem](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - lägg till sidor](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - Lägg till/ta bort sida från lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - Lägg till/ta bort sidproblem från en lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - Exportera problem till CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - Ta bort/ta bort ett sidproblem](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - Ta bort/ta bort en sida](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - Förstå sidor](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - Använda detaljnivå för sidan nedåt](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Inkommande länkar {#inbound-links}
-            + [SEO - Lägg till en URL för inkommande länk manuellt](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - Lägg till/ta bort en URL för inkommande länk från en lista](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - Hämta förslag på inkommande länk](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - Ta bort/ta bort en URL för inkommande länk](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - Förstå inkommande länkar](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Rapporter {#reports}
             + [SEO - Använd KW-trendrapport för konkurrent](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Använd rapporten om nyckelordstrender](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -662,7 +628,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
