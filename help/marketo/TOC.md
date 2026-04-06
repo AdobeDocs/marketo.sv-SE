@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 1%
@@ -58,12 +58,12 @@ ht-degree: 1%
       + [Ärvd instans: Dokumentera konfigurationen](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Granska nyckelkompetenser](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Produktdokument {#product-docs}
-   + Marketo MCP {#marketo-mcp}
-      + [Översikt](product-docs/marketo-mcp/overview.md)
-      + [Inställningar och inställningar](product-docs/marketo-mcp/settings-setup.md)
+   + Marketo AI {#marketo-ai}
+      + [Översikt](product-docs/marketo-ai/overview.md)
+      + [Inställningar och inställningar](product-docs/marketo-ai/settings-setup.md)
       + Agenter {#agents}
-         + [Importera leads](product-docs/marketo-mcp/agents/import-leads.md)
-         + [Program-QA](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importera leads](product-docs/marketo-ai/agents/import-leads.md)
+         + [Program-QA](product-docs/marketo-ai/agents/program-qa.md)
    + Ytterligare program {#additional-apps}
       + SEO {#seo}
          + Nyckelord {#keywords}
@@ -634,7 +634,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
