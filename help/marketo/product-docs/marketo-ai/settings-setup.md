@@ -4,10 +4,10 @@ title: Inställningar och inställningar
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 0%
 
 Intro text.
 
+## Inställningar {#settings}
+
+Följ stegen nedan för att ansluta NAME till ditt Marketo Engage-konto.
+
+1. Klicka på **Skapa med AI** i Min Marketo.
+
+SCREENSHOT
+
+1. Klicka på kugghjulsikonen
+
+INSTANSEN BEHÖVER INTE REDAN VARA ANSLUTEN
+
 ## Anslutning {#connection}
 
 Följ stegen nedan för den första konfigurationen av NAMN PÅ MARKETO MCP på fliken Anslutning.
 
-+++
++++Inledande installationssteg
 
 Text
 
