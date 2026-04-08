@@ -4,7 +4,7 @@ title: Marketo Engage AI - översikt
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -31,6 +31,14 @@ I mittkonsolen finns sju funktioner för agenter som hjälper dig med olika uppg
 
 ## Agenter {#agents}
 
+### Program-QA {#program-qa}
+
+Validera Marketo Engage-programmen mot vedertagna standarder och hitta eventuella problem före lanseringen. [Läs mer](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importera leads {#import-leads}
+
+Importera och deduplicera leadlistor till din Marketo Engage-databas med hjälp av fältmappning. [Läs mer](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Undersök lead (kommer snart) {#investigate-lead}
 
 Upptäck varför någon inte har kvalificerat sig för ett program eller gått igenom livscykeln.
@@ -42,14 +50,6 @@ Skapa ett programinställningsdokument som andra kan använda från en kampanjra
 ### Skapa program (kommer snart) {#create-program}
 
 Generera ett helt Marketo Engage-program med hjälp av en kampanjöversikt, komplett med e-post, landningssida och Smart Campaign.
-
-### Program-QA {#program-qa}
-
-Validera Marketo Engage-programmen mot vedertagna standarder och hitta eventuella problem före lanseringen. [Läs mer](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importera leads {#import-leads}
-
-Importera och deduplicera leadlistor till din Marketo Engage-databas med hjälp av fältmappning. [Läs mer](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalisera data (kommer snart) {#normalize-data}
 
