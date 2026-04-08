@@ -4,9 +4,9 @@ title: Inställningar och inställningar
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '189'
 ht-degree: 1%
 
 ---
@@ -15,58 +15,56 @@ ht-degree: 1%
 
 Intro text.
 
+## Behörigheter {#permissions}
+
+För att få åtkomst till Marketo AI måste administratörer först aktivera rollbehörigheter.
+
+1. I My Marketo klickar du på **Admin** och sedan på **Användare och roller**.
+
+   ![](assets/settings-setup-1.png)
+
+1. Välj önskad roll på fliken _Roller_ och klicka på **Redigera roll**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Bläddra nedåt och markera kryssrutan **Åtkomstbygge med AI** och klicka på **Spara**.
+
+   ![](assets/settings-setup-3.png)
+
 ## Inställningar {#settings}
 
-Följ stegen nedan för att ansluta NAME till ditt Marketo Engage-konto.
+1. Klicka på rutan **Bygg med AI** i My Marketo.
 
-1. Klicka på **Skapa med AI** i Min Marketo.
+   ![](assets/settings-setup-4.png)
 
-SCREENSHOT
+1. Klicka på kugghjulet.
 
-1. Klicka på kugghjulsikonen
+   ![](assets/settings-setup-5.png)
 
-INSTANSEN BEHÖVER INTE REDAN VARA ANSLUTEN
+### Anslutning {#connection}
 
-## Anslutning {#connection}
+Fliken innehåller inte redigerbara fält. Här visas kontoinformation som ditt Munchkin ID och IMS-företag.
 
-Följ stegen nedan för den första konfigurationen av NAMN PÅ MARKETO MCP på fliken Anslutning.
+![](assets/settings-setup-6.png)
 
-+++Inledande installationssteg
+### Organisationsregler {#organizational-rules}
 
-Text
+Definiera riktlinjer och begränsningar för organisationen som Marketo AI följer när du skapar eller ändrar Marketo Engage-resurser.
 
-SCREENSHOT
-
-Text
-
-SCREENSHOT
-
-+++
-
-## Organisationsregler {#organizational-rules}
-
-Definiera riktlinjer och begränsningar för organisationen som MARKETO MCP följer när du skapar eller ändrar Marketo-resurser.
-
-Text
-
-SCREENSHOT
-
-Text
-
-SCREENSHOT
+![](assets/settings-setup-7.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
 >Regler använder Markdown-format med YAML-förhandsgranskning. Globala regler gäller för alla arbetsytor. Workspace-regler åsidosätter globala inställningar.
 
-## Integreringar {#integrations}
+### Integreringar (kommer snart) {#integrations}
 
-Konfigurera anslutningar till externa tjänster och API:er (KOMMER SNART).
+Konfigurera anslutningar till externa tjänster och API:er.
 
 _Den här fliken kan visas i användargränssnittet, men kan ännu inte användas. Kom tillbaka för uppdateringar_.
 
-## Meddelanden {#notifications}
+### Meddelanden (kommer snart) {#notifications}
 
-Hantera varningsinställningar och meddelandekanaler (KOMMER SNART).
+Hantera aviseringsinställningar och meddelandekanaler.
 
 _Den här fliken kan visas i användargränssnittet, men kan ännu inte användas. Kom tillbaka för uppdateringar_.
