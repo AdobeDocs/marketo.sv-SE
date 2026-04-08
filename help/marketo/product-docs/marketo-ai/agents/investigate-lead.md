@@ -3,9 +3,9 @@ description: Kommer snart.
 title: Undersök lead
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Upptäck varför någon inte har kvalificerat sig för ett program eller gått igenom livscykeln.
 
-Klicka på nedpilen till höger om du vill visa en fullständig lista över undersökningsscenarier.
+Klicka på pilen till höger om du vill visa en fullständig lista över undersökningsscenarier.
 
 SCREENSHOT
 
