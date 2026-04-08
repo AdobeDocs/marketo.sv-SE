@@ -4,7 +4,7 @@ title: Inställningar och inställningar
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Lär dig hur du aktiverar behörigheter och använder området Inställningar f�
 
 >[!IMPORTANT]
 >
->I Alpha-fasen av Marketo AI är _åtkomst aktiverad som standard_ för följande roller: Admin, Adobe Product Admin Marketing User, Standard User. I stället för att aktivera det för roller som du vill ha åtkomst måste du inaktivera det för roller som du inte har.
+>I Alpha-fasen av Marketo AI är _åtkomst aktiverad som standard_ för följande roller: Admin, Adobe Product Admin, Marketing User, Standard User. I stället för att aktivera det för roller som du vill ha åtkomst måste du inaktivera det för roller som du inte har.
 
 ### Åtkomst för alla {#access-for-all}
 
@@ -43,7 +43,7 @@ Om du vill ta bort åtkomsten för någon roll följer du stegen nedan.
 
 ### Anpassad roll {#custom-role}
 
-Du kan också [skapa en ny roll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_ tillsammans med allt annat du vill ha och [tilldela den rollen](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
+Du kan också [skapa en ny roll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_, tillsammans med allt annat du vill ha, och [tilldela den rollen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
 
 <!-- ## Permissions {#permissions}
 
