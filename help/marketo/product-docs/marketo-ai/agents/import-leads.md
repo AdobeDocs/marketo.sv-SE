@@ -4,9 +4,9 @@ title: Importera leads
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importera och deduplicera leadlistor till din Marketo Engage-databas med hjälp av fältmappning.
 
-Vill du importera en lista över LEADS? FOLK? i csv-format, tillämpa vissa datavnormaliseringsregler och spara dem i Marketo-databasen.
+## Så här använder du {#how-to-use}
 
-Om du klickar på den här agenten kommer du till konversations-AI. I den vänstra rutan finns det en AI-assistent som ger agenten ett fönster där han/hon kan publicera vägledning, svar och alternativ för vilka datanormaliseringsfunktioner som ska köras.
+1. Klicka på rutan **Bygg med AI** i My Marketo.
 
-Om du vill starta importprocessen klickar du på bilageikonen för att överföra en fil.
+   ![](assets/import-leads-1.png)
 
-Skriv i importlistan och klicka på Skicka
+1. Klicka på agenten **Importera leads**.
 
-Ange den affärsregel som ska användas och klicka på Skicka. När du har angett ett fönster i mittkonsolen visas resultatet av den tillämpade regeln.
+   ![](assets/import-leads-2.png)
 
-Ange en annan affärsregel om du vill och klicka på Skicka.
+   Du dirigeras till konversationsdiplom. I den vänstra rutan skickar agenten vägledning, svar och alternativ för vilka datavalideringsfunktioner som ska köras.
 
-Om du vill visa en lista med mappade listfält till databasen klickar du på mappningsfliken.
+   ![](assets/import-leads-3.png)
 
-När du är klar att spara listan i databasen klickar du på Importera till Marketo.
+1. Om du vill börja importera dina leads klickar du på bilageikonen och överför dem via en .CSV-fil.
 
-Markera mappen där du vill spara listan, ange ett namn för leadlistan och markera kryssrutorna för medgivande och klicka sedan på knappen Godkänn och importera till Marketo.
+   ![](assets/import-leads-4.png)
 
-När listan har sparats visas en verifiering med en sammanfattning av poster som har bearbetats, misslyckats eller varningar.
+1. Skriv _Importera lista_ och klicka på **Skicka**.
+
+   ![](assets/import-leads-5.png)
+
+   Listan förhandsvisas i mittkonsolen.
+
+   ![](assets/import-leads-6.png)
+
+1. Ange önskad affärsregel och klicka på **Skicka**.
+
+   ![](assets/import-leads-7.png)
+
+   Resultatet visas i mittkonsolen.
+
+   ![](assets/import-leads-8.png)
+
+   Om du vill kan du ange ytterligare affärsregler.
+
+1. Klicka på fliken **Mappningar** om du vill visa mappade fält.
+
+1. Om några fält har mappats felaktigt åtgärdas de här.
+
+   ![](assets/import-leads-9.png)
+
+1. Klicka på fliken **Importera till Marketo** när du är klar att importera listan.
+
+1. Markera målmappen och ange ett namn. Markera varje medgivanderuta och klicka på **Godkänn och importera till Marketo**.
+
+   ![](assets/import-leads-10.png)
+
+När importen är klar tillhandahålls verifieringen med en sammanfattning av bearbetade leads, rader misslyckades och varningar.
