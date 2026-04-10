@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
-# Redigera e-postmallar med den avancerade HTML-redigeraren {#email-template-expert-mode}
+# Redigera e-postmallar med den avancerade HTML-redigeraren {#advanced-html-mode}
 
 I avancerat HTML-läge kan du visa och redigera råkällkoden för e-postmallar direkt från Designer-gränssnittet i [!DNL Marketo Engage].
 
@@ -40,13 +40,13 @@ Följ de här stegen för att öppna den avancerade HTML-redigeraren och rediger
 
 1. Öppna eller [skapa en e-postmall](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) i e-post-Designer.
 
-1. Klicka på knappen HTML i det övre högra hörnet i fönstret Redigera e-postmall.
+1. Klicka på HTML-knappen i det övre högra hörnet på skärmen _Redigera e-postmall_.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. Första gången du öppnar den avancerade HTML-redigeraren visas ett varningsmeddelande. Granska det genom att klicka på **[!UICONTROL OK]** när du är klar.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Följ de här stegen för att öppna den avancerade HTML-redigeraren och rediger
 
 1. Den avancerade HTML-redigeraren visas.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Lägg till önskade ändringar i e-postinnehållet.
 
@@ -64,7 +64,7 @@ Följ de här stegen för att öppna den avancerade HTML-redigeraren och rediger
 
 1. Simulering och sparande av innehåll är inte tillgängligt i avancerad HTML-vy av kompatibilitetsskäl. Växla tillbaka till skrivbordsvyn för att förhandsgranska innehållet och spara ändringarna.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
