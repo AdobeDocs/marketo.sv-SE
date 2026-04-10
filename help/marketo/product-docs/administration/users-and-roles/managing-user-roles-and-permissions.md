@@ -4,9 +4,9 @@ description: Ange, skapa och redigera användarroller, tilldela roller till anv�
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
@@ -24,16 +24,13 @@ En marknadsföringsanvändare behöver till exempel vanligtvis bred åtkomst i h
 Marketo har flera inbyggda roller med olika åtkomstnivåer:
 
 * **Admin** - alla delar av programmet, inklusive avsnittet Admin
+* **Adobe produktadministratör** - alla delar av programmet, inklusive avsnittet Admin
 * **Standardanvändare** - alla delar av programmet, utom avsnittet Admin
 * **Marknadsföringsanvändare** - alla delar av programmet, utom avsnittet Admin
 * **Web Designer** - endast Design Studio
 * **Analysanvändare** - endast avsnittet Analyser
 
-Du kan inte redigera rollerna Admin och Standard User, men du kan redigera de andra. Du kan också skapa nya anpassade roller som matchar de särskilda organisationsstrukturerna i ditt företag.
-
-## Marketo med Adobe Identity {#marketo-with-adobe-identity}
-
-Om du använder Marketo med Adobe Identity finns en lista med profilbeskrivningar [här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Du kan inte ta bort administratörsrollerna eller Adobe produktadministratörsrollerna, men du kan redigera/ta bort de andra. Du kan också skapa nya anpassade roller som matchar de särskilda organisationsstrukturerna i ditt företag.
 
 ## Tilldela roller till en användare {#assign-roles-to-a-user}
 

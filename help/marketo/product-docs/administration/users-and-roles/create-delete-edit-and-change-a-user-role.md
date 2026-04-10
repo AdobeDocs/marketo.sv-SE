@@ -4,9 +4,9 @@ description: Steg för att skapa, ta bort och redigera användarroller, inklusiv
 title: Skapa, ta bort, redigera och ändra en användarroll
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,10 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Följande roller är systemroller och kan inte redigeras eller tas bort:
+>Följande roller är systemroller och kan inte tas bort:
 >
 >* Administratör
 >* Adobe produktadministratör
->* Standardanvändare
->* RTP-redigerare
->* RTP-startprogram
 
 ## Skapa en roll {#create-a-role}
 
