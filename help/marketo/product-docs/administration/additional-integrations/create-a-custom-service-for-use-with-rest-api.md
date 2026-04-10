@@ -4,7 +4,7 @@ description: Skapa en anpassad LaunchPoint-tjänst som är länkad till en API-a
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 2%
@@ -18,7 +18,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 >[!PREREQUISITES]
 >
 >* [Skapa endast en API-användarroll](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Skapa endast en API-användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
+>* [Skapa endast en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md)
 >
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
+>Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
@@ -43,7 +43,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Ange en **[!UICONTROL Display Name]** för tjänsten. Markera **[!UICONTROL API Only User]** [som skapades](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
+1. Ange en **[!UICONTROL Display Name]** för tjänsten. Markera **[!UICONTROL API Only User]** [som skapades](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

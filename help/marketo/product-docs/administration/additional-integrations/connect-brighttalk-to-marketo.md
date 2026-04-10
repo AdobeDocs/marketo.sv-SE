@@ -4,10 +4,10 @@ description: Anslut din [!DNL BrightTALK] kanal till Marketo via LaunchPoint med
 title: Anslut [!DNL BrightTALK] till Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Lär dig hur du ansluter din [!DNL BrightTALK]-kanal till din Marketo-instans. F
 ## Steg i [!DNL BrightTALK] {#steps-in-brighttalk}
 
 1. Logga in på [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} och klicka på **[!UICONTROL Connect Now]**.
-1. Klicka på [!UICONTROL Advanced Marketo Connector] under **[!UICONTROL Connect]**.
+1. Klicka på **[!UICONTROL Connect]** under [!UICONTROL Advanced Marketo Connector].
 1. Du kommer till inloggningsskärmen och frågar efter: Klient-ID, Klienthemlighet, URL för identitetstjänst och URL för återställningstjänst. Logga in på Marketo för att få den här informationen.
 
 ## Steg i Marketo {#steps-in-marketo}
@@ -33,13 +33,13 @@ Lär dig hur du ansluter din [!DNL BrightTALK]-kanal till din Marketo-instans. F
 
 1. Skapa en [API-roll endast för användare](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Skapa en API-användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} med API-rollen [!DNL BrightTALK] som du skapade under steg 4.
+1. [Skapa en API-användare](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} med API-rollen [!DNL BrightTALK] som du skapade under steg 4.
 
 1. Gå tillbaka till området **[!UICONTROL Admin]**.
 
    ![](assets/connect-brighttalk-to-marketo-1.png)
 
-1. Klicka på **[!UICONTROL Integration]** under **[!UICONTROL LaunchPoint]**.
+1. Klicka på **[!UICONTROL LaunchPoint]** under **[!UICONTROL Integration]**.
 
    ![](assets/connect-brighttalk-to-marketo-2.png)
 
