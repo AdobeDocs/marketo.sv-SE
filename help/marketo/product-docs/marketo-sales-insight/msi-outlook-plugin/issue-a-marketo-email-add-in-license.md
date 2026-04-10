@@ -4,9 +4,9 @@ description: Lär dig hur du utfärdar en Marketo e-posttilläggslicens för Out
 title: Utfärda en Marketo e-posttilläggslicens
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,9 @@ Alla som vill använda Marketo-tillägget för e-post [!DNL Outlook] måste för
 
    >[!NOTE]
    >
-   >* Om du vill installera plugin-programmet från en annan plats lämnar du kryssrutan _Skicka registreringsmeddelande_ avmarkerad och skickar din [företagsnyckel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) till IT-teamet.
+   >* Om du vill installera plugin-programmet från en annan plats lämnar du kryssrutan _Skicka registreringsmeddelande med nedladdningslänk_ avmarkerad och skickar din [företagsnyckel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) till IT-teamet.
    >
-   >* Om dina säljare har administratörsåtkomst till sina datorer markerar du kryssrutan _Skicka e-post för registrering_ så är du klar. Mottagarna har **30 dagar** på sig att klicka på länken i e-postmeddelandet innan den upphör att gälla.
+   >* Om dina säljare har administratörsåtkomst till sina datorer markerar du kryssrutan _Skicka e-post med registreringslänk_ så är du klar. Mottagarna har **30 dagar** på sig att klicka på länken i e-postmeddelandet innan den upphör att gälla.
 
 >[!MORELIKETHIS]
 >

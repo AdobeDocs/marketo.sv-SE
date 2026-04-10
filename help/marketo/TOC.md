@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 1%
 
 ---
@@ -634,7 +634,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1005,6 +1005,7 @@ ht-degree: 1%
          + [Redigering av e-postmallar](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importera en mall](product-docs/email-marketing/email-designer/import-template.md)
          + [Konvertera bilder till HTML-mallar](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Avancerad e-postmall för HTML Editor](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [Design Accessible Content](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Anpassad CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Mörkt läge](product-docs/email-marketing/email-designer/dark-mode.md)
