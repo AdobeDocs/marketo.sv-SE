@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -262,22 +262,10 @@ Kontrollera den här sidan (samt [aktuell versionsinformation](/help/marketo/rel
     <td>Tillgänglig</td>
   </tr>
   <tr>
-    <td>Arbetsflöden för godkännande av innehåll</td>
-    <td>Möjlighet att införa arbetsflöden för godkännande av e-post inom Marketo Engage.</td>
-    <td>Inte tillgängligt</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>E-post i CRM</td>
-    <td>Möjlighet att skicka information om e-post till CRM.</td>
+    <td>HTML Editor</td>
+    <td>Möjlighet att ändra HTML-innehåll i <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">e-postmallar</a>.</td>
     <td>Tillgänglig</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Kodredigeraren</td>
-    <td>Möjlighet att ändra HTML-innehåll i e-postmeddelanden, e-postmallar och fragment.</td>
     <td>Tillgänglig</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>Stöd för Flytta, Ta bort och Importera program med e-postresurser</td>

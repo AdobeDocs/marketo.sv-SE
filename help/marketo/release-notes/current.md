@@ -3,9 +3,9 @@ description: Aktuell versionsinformation – Marketo Docs – Produktdokumentati
 title: Aktuell versionsinformation
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
@@ -48,19 +48,19 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
    <td> </td>
    <td> </td>
   </tr>
+   <tr>
+   <td><strong>E-posta Designer - Outlook-återgivningskorrigering</strong>: Den här uppdateringen åtgärdar återgivningsproblem, särskilt i MS Outlook. I avancerat HTML-läge kan du göra mindre HTML-/CSS-redigeringar eller lägga till script-taggar i e-postmallen.
+   </td>
+   <td>Frisläppt</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Redigera e-postmallar med den avancerade HTML-redigeraren</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
   <tr>
    <td><strong>Skicka e-post till Designer - Kvalitetskontroll av varumärket</strong>: Utvärdera den allmänna innehållskvaliteten för att identifiera potentiella problem med läsbarhet, innehållets enhetlighet och effektivitet, oberoende av varumärkesriktlinjerna.</td>
-   <td><i>Kommer snart</i></td>
-   <td><i>Kommer snart</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-posta Designer - Outlook-återgivningskorrigering</strong>: Den här uppdateringen åtgärdar återgivningsproblem, särskilt i MS Outlook. I expertläget kan du göra mindre HTML-/CSS-redigeringar eller lägga till script-taggar i e-postmeddelandet (det bästa sättet är att inte göra några andra ändringar i e-postmeddelandets HTML för att behålla de visuella elementen som de är).
-   </td>
    <td><i>Kommer snart</i></td>
    <td><i>Kommer snart</i></td>
   </tr>
@@ -96,6 +96,6 @@ Följande funktioner ingår i standardversionscykeln och kommer att släppas den
 
 * **REST API-sammanslagningslead-gräns**: Från och med 31 mars 2026 resulterar anrop som innehåller fler än 25 ID:n i leadIds-parametern i ett API-anrop för sammanslagningsleads i en felkod på 1080 och anropet hoppas över. Jobb som kräver sammanslagning av mer än 25 poster till ett bör delas upp i flera jobb för att säkerställa att dessa samtal blir framgångsrika.
 
-* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 juli 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Resten av API:t &#39;access_token&#39;-parametern har tagits bort**: Frågeparametern `access_token` som används för att autentisera Marketo REST API-anrop har tagits bort och är inte tillgänglig efter den 31 juli 2026. Alla nya och befintliga integreringar ska autentisera REST API-anrop med rubriken Authorization, [, vilket beskrivs här](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 juli 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Borttagning av SOAP API**: Stödet för Marketo SOAP API upphör 31 juli 2026. Tjänster som använder SOAP API-funktioner bör migreras till [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
