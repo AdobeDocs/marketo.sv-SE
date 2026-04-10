@@ -3,25 +3,21 @@ description: Översikt över Adobe Identity Management för Marketo Engage, inkl
 title: Adobe Identity Management - översikt
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management - översikt {#adobe-identity-management-overview}
 
-Alla nya Adobe Marketo Engage-prenumerationer (31 juli 2023 eller senare) är integrerade med Adobe Identity Management System. Befintliga Marketo Engage-prenumerationer migreras för närvarande till Adobe Identity Management System vid alla försäljningsevenemang, inklusive förnyelser, omavtalsevenemang och/eller tillägg. Migreringar utanför ett försäljningsevenemang stöds från och med oktober 2024. Marketo-administratörer får ett meddelande 2-4 veckor i förväg om deras prenumeration är planerad att migreras utanför en försäljningshändelse.
-
->[!NOTE]
->
->Marketo Support kan inte tillhandahålla några uppdateringar om Adobe IMS-migrering. Adobe Account Team kommer att nå ut med den beräknade tidslinjen de närmaste månaderna. Mer information finns i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} och i [Vanliga frågor](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Alla nya Adobe Marketo Engage-prenumerationer (31 juli 2023 eller senare) är integrerade med Adobe Identity Management System.
 
 För prenumerationer som är kopplade till Adobe identitet används Adobe Admin Console för användarhantering. Identitetsrelaterade begrepp, som enkel inloggning, hanteras också i Admin Console.
 
-* Mer information om [Adobe Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html){target="_blank"} finns.
-* Mer information om [hur du konfigurerar din Adobe-organisation för din Marketo-prenumeration](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"} finns.
+* Mer information om [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"} finns.
+* Mer information om [hur du konfigurerar din Adobe-organisation för din Marketo-prenumeration](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} finns.
 
 >[!NOTE]
 >
@@ -55,12 +51,8 @@ Adobe Marketo Engage prenumerationer på Adobe Identity Management System stöde
  </tr>
 </table>
 
-## Vanliga frågor och svar {#faq}
-
-Vanliga frågor [finns här](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
-
 >[!MORELIKETHIS]
 >
 >* [Administratörsinställningar](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
->* [Lägg till eller ta bort en produktadministratör](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
->* [Lägg till eller ta bort en användare](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}
+>* [Lägg till eller ta bort en produktadministratör](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
+>* [Lägg till eller ta bort en användare](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Steg för att skapa och ta bort användare, återställa lösenord 
 title: Hantera Marketo-användare
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Den här artikeln är endast avsedd för dem som _inte_ använder [Marketo med Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Om du gör det följer du stegen i [den här artikeln](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}.
 
 ## Skapa användare {#create-users}
 

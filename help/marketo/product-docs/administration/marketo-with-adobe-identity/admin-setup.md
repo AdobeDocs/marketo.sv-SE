@@ -3,7 +3,7 @@ description: Inledande installationssteg för Adobe systemadministratörer efter
 title: Administratörsinställningar
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -20,7 +20,7 @@ När du har lagts till som Adobe-systemadministratör för Marketo Engage i en A
 
    ![](assets/admin-setup-1.png)
 
-1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Om du tidigare har använt ett program med en Adobe ID kommer du direkt till Adobe Admin Console. Om inte, [konfigurerar du din Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -56,4 +56,4 @@ När systemadministratören har kommit åt Admin Console är det dags att skapa 
 
 >[!MORELIKETHIS]
 >
->[Lägg till eller ta bort en produktadministratör](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[Lägg till eller ta bort en produktadministratör](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}

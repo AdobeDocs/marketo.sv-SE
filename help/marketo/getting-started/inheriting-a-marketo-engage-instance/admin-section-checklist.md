@@ -3,7 +3,7 @@ description: Ärvd kontrollista för instansadministratör - Marketo Docs - Prod
 title: Ärvd kontrollista för instansadministratör
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 0%
@@ -33,14 +33,14 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   <tr>
    <td>Prenumeration och Marketo Engage produktadministratör</td>
    <td><li>Har din Marketo Engage-prenumeration migrerats till <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> än?
-<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/se/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
+<br/>     Om så är fallet, har du fått rollen "Adobe Admin Console Product Admin" av din "Adobe Admin Console System Admin"? Om du är osäker på vem i din organisation som har administratörsbehörighet i konsolen kontaktar du <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe kundtjänst</a>.</li>
 <li>Har du accepterat inbjudan till Marketo Engage Product Admin? E-postmeddelandet skickas när rollen tilldelas i Adobe Admin Console.
 <br/>     Om inte, leta efter <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> välkomstmeddelandet </a> i din inkorg och acceptera inbjudan att aktivera din Adobe ID.</li></td>
   </tr>
   <tr>
    <td>Produktprofil</td>
    <td><li>Tilldelas alla lämpliga användare till Marketo Engage produktprofil i Adobe Admin Console?
-<br/>     Om inte, se till att <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">lägga till och/eller ta bort användare</a> från Marketo Engage produktprofiler i Adobe Admin Console. Du kan inte tilldela användarroller i Marketo Engage &gt; Admin &gt; Användare och roller om de läggs till i en produktprofil.</li>
+<br/>     Om inte, se till att <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md" target="_blank">lägga till och/eller ta bort användare</a> från Marketo Engage produktprofiler i Adobe Admin Console. Du kan inte tilldela användarroller i Marketo Engage &gt; Admin &gt; Användare och roller om de läggs till i en produktprofil.</li>
 <p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om en oönskad användare läggs till i flera produktprofiler måste du ta bort användaren från alla produktprofiler. Annars har de fortfarande tillgång till Marketo Engage.</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Om din prenumeration redan finns på Adobe IMS går du vidare till följande granskning av användarhantering i Adobe Admin Console. Annars går du till Admin &gt; Användare och roller &gt; Användare i Marketo Engage.
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hur många användare</a> finns det?</li>
-<li>Finns det några användare som ska <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">tas bort</a>?</li>
+<li>Finns det några användare som ska <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">tas bort</a>?</li>
 <li>Har ditt företag policyer för att ta bort användare?</li>
 <li>Hur många användare har <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">administratörsbehörighet</a>?</li>
 <li>Ska någon av dessa användare ändras till <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andra roller?</a></li>
@@ -263,7 +263,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td><li>Vilken CRM synkroniserar du med? Salesforce? MS Dynamics? Veeva?</li>
 <li>Använder du en <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">anpassad synkronisering</a>?</li>
 <li>[Endast Salesforce] Har din instans anpassade synkroniseringsfilter implementerats?
-<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Kontakta Marketo Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
+<p><img src="assets/note-icon.png" alt="anteckningsikon"> Obs! Kontakta Adobe Support om du vill identifiera anpassade synkroniseringsfilter eller begära att en anpassad synkroniseringsregel implementeras.</li></td>
   </tr>
   <tr>
    <td>Landningssidor</td>
@@ -281,7 +281,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
    <td>Munchkin</td>
    <td><li>Är din <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-spårningskod</a> på din webbplats (inte en Marketo Engage-landningssida)?</li>
 <li>Är en <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>-webbläsarbegäran aktiverad?</li>
-<li>Är ditt <a href="https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> konfigurerat?
+<li>Är ditt <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> konfigurerat?
 <p><img src="assets/tip-icon.png" alt="ikonen för tips">TIPS: Om du saknar dokumentation om var munkinkoden finns på webbplatsen kan du visa alla URL:er genom att skapa en <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">webbsidesaktivitetsrapport</a>.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ Checklistorna nedan (efterföljande checklistor länkade till längst ned i varj
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (om tillämpligt)</td>
-<td>Om du följer stegen nedan måste du ha tillgång till <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Om du inte har konfigurerat en Adobe ID än <a href="https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html" target="_blank">lär dig hur du gör det här</a>.
+<td>Om du följer stegen nedan måste du ha tillgång till <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Om du inte har konfigurerat en Adobe ID än <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">lär dig hur du gör det här</a>.
 <br/>
 <li>Har du accepterat inbjudan till <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat produktadministratör</a>? E-postmeddelandet skickas när Dynamic Chat är aktiverat i din Marketo Engage-instans och du är utsedd som systemadministratör.
 <br/>     Om inte, sök efter välkomstmeddelandet i din inkorg och acceptera inbjudan att konfigurera din Adobe ID.</li>
