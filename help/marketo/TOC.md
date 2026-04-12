@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 1%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 1%
          + [Adobe Identity Management - översikt](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Administratörsinställningar](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Produktadministratörsinställningar](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Lägg till endast API-användare för Adobe IMS-aktiverade prenumerationer](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Lägg till eller ta bort en produktadministratör](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Lägg till eller ta bort en användare](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Vanliga frågor och svar](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Användarinloggning med Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Prenumeration och användarmigrering {#subscription-and-user-migration}
-            + [Migrera till Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Förstå Marketo prenumeration och användarmigrering till Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage Support Migration](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Felsökningsguide](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Inställningar {#settings}
          + [API-information för massexport](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 1%
          + [Dölj/visa en programkanal](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Hantera taggvärden](product-docs/administration/tags/managing-tag-values.md)
       + Användare och roller {#users-and-roles}
+         + [Lägg till eller ta bort en produktadministratör](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Lägg till eller ta bort en användare](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Skapa en användarroll endast för API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Skapa endast en API-användare](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Skapa, ta bort, redigera och ändra en användarroll](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-postverifiering](product-docs/administration/users-and-roles/email-verification.md)
          + [Exportera en lista med användare och roller](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -634,7 +628,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
