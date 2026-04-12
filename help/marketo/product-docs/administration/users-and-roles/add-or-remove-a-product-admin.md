@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**System**-administratörer skapas bara på Adobe Org-nivå. Om du tror att du behöver mer än en kontaktar du [Adobe Support](https://experienceleague.adobe.com/en/support).
+>**System**-administratörer skapas bara på Adobe Org-nivå. Om du tror att du behöver mer än en kontaktar du [Adobe Support](https://experienceleague.adobe.com/sv/support).
 
 ## Lägg till en produktadministratör {#add-a-product-admin}
 
