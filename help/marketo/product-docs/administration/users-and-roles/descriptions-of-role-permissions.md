@@ -4,9 +4,9 @@ description: Referenslista över alla rollbehörigheter i Marketo, inklusive Acc
 title: Beskrivningar av rollbehörigheter
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -32,10 +32,10 @@ När du [skapar eller redigerar en roll](/help/marketo/product-docs/administrati
 Visa och ändra inställningarna under Mitt konto i Admin.
 
 * Åtkomst till Adobe Connect - Ger användare åtkomst till Adobe Connect
-* Åtkomst till Adobe Experience Manager&#42; - Ger användare åtkomst till Adobe Experience Manager-skärmen
-* Åtkomst till Adobe organisationsmappning&#42; - Ger användare åtkomst till Adobe organisationsmappningsskärm
-* Åtkomst till administratörsgranskningsspår &#42; - Ger användare åtkomst till skärmen Admin Audit Trail (Granskningsspår)
-* Åtkomst till granskningsspår &#42; - Ger användare åtkomst till granskningsspår
+* Åtkomst till Adobe Experience Manager - Ger användare åtkomst till Adobe Experience Manager
+* Åtkomst till Adobe organisationsmappning - Ger användare åtkomst till Adobe organisationsmappningsskärm
+* Åtkomst till administratörens granskningsspår - ger användarna åtkomst till skärmen Admin Audit Trail (Granskningsspår)
+* Åtkomst till granskningsspår - ger användarna åtkomst till granskningsspår
 * Åtkomst till granskningsspår - Ger användare åtkomst till både resursgranskningsspår och administratörsgranskningsspår
 * Åtkomst till CAPTCHA - åtkomst till CAPTCHA-skärmen
 * Åtkomstkanaler - Ger användarna åtkomst endast för att ändra kanaltaggen, inte andra anpassade taggar
@@ -51,11 +51,11 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomstplats - Ger användare åtkomst till plats i Admin för att ange standardspråk, nationella inställningar, tidszon och valuta
 * Åtkomst till inloggningshistorik - Ger användare åtkomst till användarens inloggningshistorik i granskningsspår
 * Åtkomst till inloggningsinställningar - Ger användarna åtkomst till inloggningsinställningar i Admin för inställningar av säkerhet, IP-begränsningar och Smart List-rapporter
-* Åtkomst till den nya upplevelsen &#42; - ger användarna åtkomst till skärmen Ny upplevelse
+* Access New Experience - Ger användarna tillgång till skärmen New Experience
 * Åtkomst till anpassad aktivitet för Marketo - Ger användare åtkomst till anpassade aktiviteter för Marketo i Admin
 * Åtkomst till anpassat Marketo-objekt - Ger användare åtkomst till anpassade Marketo-objekt i administratören
 * Åtkomst [!DNL Munchkin] - GIves-användare får åtkomst till [!DNL Munchkin] i Admin för att ställa in spårningskod, personspårning och aktivera API-konfiguration
-* Åtkomst till prediktiva målgrupper &#42; - Ger användare åtkomst till skärmen Predictive Audiences
+* Åtkomst till prediktiva målgrupper - Ger användarna tillgång till skärmen Predictive Audiences
 * Access Revenue Cycle Analytics (Åtkomstcykelanalys) - Ger användarna tillgång till Intäktscykelanalys i Admin, för inställning av Synkroniseringssammanfattning och Attribution
 * Åtkomstroller - Ger användare åtkomst till att hantera och redigera roller, men inte användare
 * Access Sales Insight - Ger användare åtkomst till att hantera Sales Insight i Admin för att ange status, API-konfiguration, personbedömning och andra inställningar
@@ -67,8 +67,6 @@ Visa och ändra inställningarna under Mitt konto i Admin.
 * Åtkomstanvändare - Ger användare åtkomst till att redigera och hantera användare (men inte roller) i Admin
 * Åtkomst till webbhooks - Ger användare tillgång till webbhooks i Admin för att ställa in information och svarsmappningar
 * Åtkomst till arbetsytor och partitioner - Ger användarna tillgång till arbetsytor och partitioner i administratören för att skapa, redigera och ta bort
-
-_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Åtkomst-API  {#access-api}
 
@@ -102,11 +100,9 @@ Ger användare med **endast** **rollen** åtkomst till de enskilda API:erna som 
 Ger användarna åtkomst till Analytics-flikarna, e-postinsikter, rapporter och de tre objekten nedan, om de inte är avmarkerade.
 
 * Access Revenue Explorer (Handkomstutforskaren) - Avmarkering tar bort användarens åtkomst till Intresseutforskaren
-* Skapa rapport&#42; - Ger användare åtkomst att skapa, klona, läsa, uppdatera och flytta rapportresurser i analyser och marknadsföringsaktiviteter, samt intäktscykler för Modeler-resurser
+* Skapa rapport - Ger användarna tillgång till att skapa, klona, läsa, uppdatera och flytta rapportresurser i analys- och marknadsföringsaktiviteter samt intäktscykler för Modeler-resurser
 * Ta bort rapport - Avmarkera tar bort användarens möjlighet att ta bort rapporter
 * Exportera analysdata - Avmarkering tar bort användarens möjlighet att exportera analysdata
-
-_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Öppna kalenderpresentationer {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Visa databasen samt visa och redigera smarta/statiska listor.
    * Redigera segmentering
 
 * Ta bort person
-* Skapa lista &#42;
+* Skapa lista
    * Åtkomst till att skapa en listresurs i databas- och marknadsföringsaktiviteter
    * Tillgång till att skapa en smart listresurs i databas- och marknadsföringsaktiviteter
 * Ta bort lista
@@ -190,8 +186,6 @@ Visa databasen samt visa och redigera smarta/statiska listor.
 * Kör enkelflödesåtgärder - Gör att användare kan köra flödessteget **Ändra datavärde** på personer från databasen
 
 * Visa affärsmöjlighetsdata - Döljer affärsmöjlighetsinformationen på personinformationssidan
-
-_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Åtkomstmarknadsföringsaktiviteter {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Visa fliken Marknadsföringsaktiviteter, kampanjer och kampanjmappar.
 
 * Administrera SEO
 * Standard SEO
-
-_&#42;För att undvika avbrott för befintliga användare introduceras den här behörigheten i passivt läge och är synlig men inte tillgänglig just nu. Vi kommer att kommunicera hur den implementeras när den blir aktiv i mitten av 2024._
 
 ## Målinriktning och Personalization {#targeting-and-personalization}
 
