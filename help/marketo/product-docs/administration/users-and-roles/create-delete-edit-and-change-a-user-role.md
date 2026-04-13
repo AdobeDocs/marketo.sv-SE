@@ -4,9 +4,9 @@ description: Steg för att skapa, ta bort och redigera användarroller, inklusiv
 title: Skapa, ta bort, redigera och ändra en användarroll
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -95,10 +95,6 @@ ht-degree: 1%
    >[!NOTE]
    >
    >Ändringarna som görs i rollen påverkar alla användare som är kopplade till den här rollen.
-
-   >[!TIP]
-   >
-   >Vill du uppdatera kontots e-postadress? [Lär dig mer här](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Ändra en användares roll {#change-a-users-role}
 

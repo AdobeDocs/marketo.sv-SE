@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 1%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 1%
          + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
          + [Ändra attributinställningar för analys](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Skapa en anpassad flik för personinformationssidan](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Redigera kontoinställningar](product-docs/administration/settings/edit-account-settings.md)
          + [Redigera inställningar för stöd för Do Not Track-webbläsare](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Redigera inställningar för landningssida](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Redigera förfallodatum för länk i rapporter och aviseringar](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -625,7 +624,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
