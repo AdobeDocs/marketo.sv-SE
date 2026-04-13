@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 1%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 1%
          + [API-information för massexport](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
          + [Ändra attributinställningar för analys](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Ändra ditt Marketo-lösenord](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Ändra lösenordsinställningarna](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Skapa en anpassad flik för personinformationssidan](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Redigera kontoinställningar](product-docs/administration/settings/edit-account-settings.md)
          + [Redigera inställningar för stöd för Do Not Track-webbläsare](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 1%
          + [Begränsa Marketo-inloggningar baserat på IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Ändra din tidszon](product-docs/administration/settings/change-time-zone.md)
          + [Ange en återställningssida](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Ange standardplatsinställningar för en prenumeration](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [Ange standardvaluta](product-docs/administration/settings/set-default-currency.md)
          + [Sekretessinställningar](product-docs/administration/settings/understanding-privacy-settings.md)
       + Taggar {#tags}
          + [Skapa en ny programtagg och taggvärden](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,8 @@ ht-degree: 1%
          + [Skapa en användarroll endast för API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Skapa endast en API-användare](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Skapa, ta bort, redigera och ändra en användarroll](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [E-postverifiering](product-docs/administration/users-and-roles/email-verification.md)
+         + [Redigera användararbetsytor](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportera en lista med användare och roller](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Hantera Marketo-användare](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Hantera användarroller och behörigheter](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportera roller och behörigheter](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beskrivningar av rollbehörigheter](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -628,7 +625,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
