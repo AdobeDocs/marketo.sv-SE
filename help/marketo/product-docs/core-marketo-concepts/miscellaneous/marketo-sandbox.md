@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Lär dig mer om Marketo Engage sandlåda för testning före produktion. Använd en sandlådeinstans för att testa utan att påverka produktionen.
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -22,7 +22,7 @@ En Marketo-sandlåda kan inte synkroniseras med din vanliga CRM om den redan har
 
 ## Saker att känna till om sandlådor {#things-to-know-about-sandboxes}
 
-* Om du vill lägga till användare är processen densamma som att [lägga till användare i produktion](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
+* Om du vill lägga till användare är processen densamma som att [lägga till användare i produktion](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user). Även här måste de använda en annan e-postadress om de redan har en Marketo-inloggning.
 * Din Marketo-sandlåda börjar bli tom, men har samma funktioner som din produktionsinstans.
 * Om du skapar ett program i sandlådan och vill flytta det till produktion kan du utföra en [programimport](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Sandlådor stryps så att produktionsinstanser inte påverkas negativt av testmiljöer. Du kan skicka upp till 20 e-postmeddelanden per kampanjkörning.

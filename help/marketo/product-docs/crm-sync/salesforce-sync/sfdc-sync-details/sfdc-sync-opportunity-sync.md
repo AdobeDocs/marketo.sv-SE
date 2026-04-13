@@ -4,7 +4,7 @@ description: Läs om hur affärsmöjlighetssynkronisering fungerar från Salesfo
 title: SFDC Sync - säljprojektssynkronisering
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Nej, det kan du inte. Ändringarna i affärsmöjligheten i [!DNL Salesforce] syn
 
 ## Har Marketo stöd för mer än en valuta i säljprojektsbeloppet? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Nej, Marketo har bara stöd för en valuta. Affärsmöjlighetsbeloppet synkroniseras från [!DNL Salesforce] men valutan blir [standardvalutan](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) i din Marketo-prenumeration.
+Nej, Marketo har bara stöd för en valuta. Affärsmöjlighetsbeloppet synkroniseras från [!DNL Salesforce] men valutan blir [standardvalutan](/help/marketo/product-docs/administration/settings/set-default-currency.md) i din Marketo-prenumeration.
 
 ## Hur kopplar Marketo möjligheter och kontakter? {#how-does-marketo-associate-opportunities-and-contacts}
 

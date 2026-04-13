@@ -4,9 +4,9 @@ description: Ange, skapa och redigera användarroller, tilldela roller till anv�
 title: Hantera användarroller och behörigheter
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '457'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Du kan inte ta bort administratörsrollerna eller Adobe produktadministratörsro
 
 ## Tilldela roller till en användare {#assign-roles-to-a-user}
 
-Du kan tilldela roller till en användare när du [skapar användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) eller genom att [redigera en befintlig användare](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Du kan tilldela roller till en användare när du [skapar användare för första gången](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
 1. Gå till området **[!UICONTROL Admin]**.
 

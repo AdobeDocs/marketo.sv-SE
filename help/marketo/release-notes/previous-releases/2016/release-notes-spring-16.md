@@ -4,7 +4,7 @@ description: Versionsinformation -Spring '16 - Marketo Docs - Produktdokumentati
 title: Versionsinformation - våren 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Idag är det svårt att skilja mellan Marketo-instanser, till exempel sandlådor
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Tidsbegränsad åtkomst för prenumerationer](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## Tidsbegränsad åtkomst för prenumerationer {#limited-time-access-for-subscriptions}
 
 Idag är användare inbjudna att prenumerera på Marketo för en obegränsad tidsperiod. Med den här funktionen kan administratörer bjuda in användare till prenumerationer under en begränsad tidsperiod, till exempel två veckor eller en månad.
 
