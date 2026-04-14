@@ -4,7 +4,7 @@ description: Läs mer om syntaxen för e-postmallar i e-postredigeraren 2.0. Anv
 title: Syntax för e-postmall
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 0%
@@ -106,7 +106,7 @@ Standardvärde (valfritt)
 
 Exempel:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Alternativ 2 - Använd en \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Exempel:
 
 ## Fragment {#snippets}
 
-Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [kodfragment](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
+Om du definierar ett område som ett kodfragment kan slutanvändarna välja vilket godkänt [kodfragment](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) de vill infoga i det här området. Även om RTF-element kan konverteras till fragment i e-postredigeraren, kan de inte konverteras till RTF när du definierar ett område som ett fragment. Du kan ange ett fragmentområde med hjälp av en `<div>` med class=&quot;mktoSnippet&quot;
 
 Attribut som krävs
 
@@ -210,7 +210,7 @@ Exempel:
 
 `${textFontFamily}`
 
-## Nummer {#number}
+## Antal {#number}
 
 Om du anger en variabel som Number kan slutanvändaren ange en siffra i e-postredigeraren. Du anger en Number-variabel med `<meta>` med class=&quot;mktoNumber&quot;
 
@@ -370,4 +370,4 @@ Attribut som krävs
 
 >[!CAUTION]
 >
->Behållare kan bara innehålla moduler - om det finns något annat, anses behållaren vara ogiltig! Endast en behållare tillåts per mall.
+>Behållare kan bara innehålla moduler. Om det finns något annat, anses behållaren vara ogiltig. Endast en behållare tillåts per mall.
