@@ -4,9 +4,9 @@ description: Läs mer om e-postredigeraren v2.0 och dess funktioner. Skapa och r
 title: E-postredigerare v2.0 - översikt
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -102,12 +102,6 @@ Du kan lägga till en [!UICONTROL Preheader]. En [!UICONTROL Preheader] är den 
 >[!CAUTION]
 >
 >Token fungerar inte i [!UICONTROL Preheader] när e-postredigeraren används. Om du vill använda en token i [!UICONTROL Preheader] måste den vara via din egen HTML i en e-postmall.
-
-Massor av nya bra funktioner! Ha det så roligt!
-
->[!NOTE]
->
->Om du vill ta bort ännu mer kan du titta på den här [videon](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
