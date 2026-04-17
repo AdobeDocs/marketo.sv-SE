@@ -3,9 +3,9 @@ description: Lär dig hur du aktiverar Marketo AI-behörigheter, konfigurerar or
 title: Inställningar och inställningar
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Lär dig hur du aktiverar behörigheter och använder området Inställningar f�
 
 ## Behörigheter och roller {#permission-and-role}
 
-Det finns ett _Access Build med AI_-behörighet och en _Build med AI_-roll, vilket ger administratörerna större kontroll över vilka användare som kan komma åt funktionen **Bygg med AI**. Behörigheten tilldelas på rollnivån. Rollen _Bygg med AI_ har behörigheten _Åtkomstbygge med AI_ aktiverad som standard.
+Det finns en _Access Build med AI_-behörighet och en _Build med AI-användare_-roll, vilket ger administratörerna större kontroll över vilka användare som kan komma åt funktionen **Bygg med AI**. Behörigheten tilldelas på rollnivån. Rollen _Bygg med AI-användare_ har behörigheten _Åtkomstbygge med AI_ aktiverad som standard.
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ Följ stegen nedan för att aktivera _Access Build med AI_ för kvalificerade ro
 
 Följ de här stegen för att tilldela en specifik användare till rollen _Skapa med AI-användare_.
 
+>[!NOTE]
+>
+>Den här rollen **endast** innehåller _Åtkomstbygge med AI_-behörigheter. Om du vill att användaren ska ha tillgång till mer än bara Marketo AI måste du lägga till ytterligare behörigheter.
+
 1. I My Marketo klickar du på **Admin** och sedan på **Användare och roller**.
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ Följ de här stegen för att tilldela en specifik användare till rollen _Skapa
 
 ### Anpassad roll {#custom-role}
 
-Du kan också [skapa en ny roll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_, tillsammans med allt annat du vill ha, och [tilldela den rollen](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
+Du kan också [skapa en ny roll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_, tillsammans med allt annat du vill ha, och [tilldela den rollen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
 
 ## Inställningar {#settings}
 
