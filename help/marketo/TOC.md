@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Användarhandbok om Marketo
 user-guide-description: Produktdokumentation för Marketo
 feature-set: Marketo Engage
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
 source-wordcount: '9132'
 ht-degree: 1%
@@ -61,7 +61,7 @@ ht-degree: 1%
    + Marketo AI {#marketo-ai}
       + [Översikt](product-docs/marketo-ai/overview.md)
       + [Inställningar och inställningar](product-docs/marketo-ai/settings-setup.md)
-      + [Inställningar och inställningar](product-docs/marketo-ai/settings-setup-new.md)
+      + [Inställningar och inställningar](product-docs/marketo-ai/settings-setup-old.md)
       + Agenter {#agents}
          + [Importera leads](product-docs/marketo-ai/agents/import-leads.md)
          + [Program-QA](product-docs/marketo-ai/agents/program-qa.md)
@@ -625,7 +625,7 @@ ht-degree: 1%
          + [Chatbot-beteende](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Möteslista](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-aktiviteter](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics &#x200B;](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics ](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Vanliga frågor och svar](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation och konfiguration {#setup-and-configuration}
             + [Inledande konfiguration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
