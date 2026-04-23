@@ -1,12 +1,13 @@
 ---
 description: Lär dig hur du använder Importera leads-agenten för att överföra en CSV-fil, tillämpa affärsregler, kartfält och importera leads direkt till din Marketo Engage-databas.
 title: Importera leads
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,10 @@ ht-degree: 0%
 # Importera leads {#import-leads}
 
 Importera och deduplicera leadlistor till din Marketo Engage-databas med hjälp av fältmappning.
+
+>[!NOTE]
+>
+>Den här funktionen är i en öppen betaversion och är för närvarande i en fasad lansering under de kommande månaderna. Du kommer att få veta när det har aktiverats för din prenumeration när du ser en _Build with AI_-platta på din Min Marketo-skärm.
 
 ## Så här använder du {#how-to-use}
 

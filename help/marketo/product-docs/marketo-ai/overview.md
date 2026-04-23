@@ -1,19 +1,24 @@
 ---
 description: Utforska Marketo Engage AI-paketet med agenter som utformats för att automatisera marknadsföringsuppgifter som program-QA, lead-import, datavalidering och mycket annat.
 title: Marketo Engage AI - översikt
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
 # Marketo Engage AI - översikt {#overview}
 
 Marketo Engage AI har en mängd agenter som är utformade för att automatisera tidskrävande men viktiga marknadsföringsfunktioner.
+
+>[!NOTE]
+>
+>Den här funktionen är i en öppen betaversion och är för närvarande i en fasad lansering under de kommande månaderna. Du kommer att få veta när det har aktiverats för din prenumeration när du ser en _Build with AI_-platta på din Min Marketo-skärm.
 
 ## Åtkomst {#access}
 

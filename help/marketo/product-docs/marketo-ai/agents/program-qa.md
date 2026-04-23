@@ -1,12 +1,13 @@
 ---
 description: Lär dig hur du granskar dina program för bästa praxis i alla komponenter, som e-post, landningssidor, kampanjer med mera.
 title: Program-QA
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,10 @@ ht-degree: 0%
 # Program-QA {#program-qa}
 
 Granska dina program för bästa praxis i alla komponenter, som e-post, landningssidor, kampanjer med mera.
+
+>[!NOTE]
+>
+>Den här funktionen är i en öppen betaversion och är för närvarande i en fasad lansering under de kommande månaderna. Du kommer att få veta när det har aktiverats för din prenumeration när du ser en _Build with AI_-platta på din Min Marketo-skärm.
 
 ## Så här använder du {#how-to-use}
 
@@ -39,6 +44,32 @@ Granska dina program för bästa praxis i alla komponenter, som e-post, landning
 
    ![](assets/program-qa-5.png)
 
-AI Assistant tillhandahåller en QA för det valda programmet som visar vad som passerat och vad som misslyckades.
+   AI Assistant tillhandahåller en QA för det valda programmet som visar vad som passerat och vad som misslyckades.
 
-![](assets/program-qa-6.png)
+   ![](assets/program-qa-6.png)
+
+<!--
+   You have three validation paths to choose from:
+
+   | Path | What You Provide | Verification Type | Best For |
+   | --- | --- | --- | --- |
+   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
+   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
+   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
+
+1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
+
+PICC
+
+1. To start validation, click **Run QA Validation**.
+
+PICC
+
+1. The report generates. To see the full report, click View Full Report.
+
+PICC
+
+1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
+
+PICC
+-->
