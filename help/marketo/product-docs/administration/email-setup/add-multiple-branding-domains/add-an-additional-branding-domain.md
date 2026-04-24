@@ -4,10 +4,10 @@ description: Lägg till extra varumärkesdomäner för flera varumärken i en in
 title: Lägg till en extra varumärkesdomän
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '587'
-ht-degree: 0%
+source-wordcount: '713'
+ht-degree: 19%
 
 ---
 
@@ -45,9 +45,9 @@ Lägg till en extra varumärkesdomän när du kör flera varumärken från en en
 
 Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
-1. Välj _[!UICONTROL Admin]_&#x200B;i området **[!UICONTROL Email]**.
+1. Välj **[!UICONTROL Email]** i området _[!UICONTROL Admin]_.
 
-1. Markera domänraden på fliken _[!UICONTROL Domain]_&#x200B;och klicka på&#x200B;**[!UICONTROL Add SSL]**.
+1. Markera domänraden på fliken _[!UICONTROL Domain]_och klicka på&#x200B;**[!UICONTROL Add SSL]**.
 
    ![Admin - E-post - Domän - Lägg till SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,13 +91,15 @@ Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
 ## Saker att notera {#things-to-note}
 
-* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-mappning för domän till Marketo Engage**: Innan du lägger till domäner i användargränssnittet måste du [mappa CNAME:er till en domän som tillhandahålls av Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Anpassade SSL:er**: Om du behöver en anpassad SSL:er skickar du en [supportanmälan](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Använd inte kryssrutan för självbetjäning när du skapar SSL.
 
 * **Befintliga SSL:er**: När du lägger till en domän söker systemet efter befintliga SSL:er, som kan ha skapats manuellt tidigare. Om du råkar ut för den här valideringen skapar du din domän utan att välja SSL-skapande, så ansluter vi dem åt dig. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ha mer information/alternativ.
 
 * **Borttagning av domäner**: SSL-certifikatet tas inte bort när domänen **tas bort automatiskt.** Skyddsplanen förhindrar användarfel som gör att en webbplats saknar SSL-certifikat. [Kontakta support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om du vill ta bort SSL-certifikaten.
+
+* Om den domän du lägger till listas som något annat än en CNAME, kommer möjligheten att lägga till ytterligare profilerade spårningsdomäner att vara låst. Du måste redigera alla befintliga domäner och se till att det är en CNAME-post och inte, till exempel, en A-post. Knappen Lägg till söker dynamiskt efter endast CNAMES och CNAMES.
 
 >[!MORELIKETHIS]
 >

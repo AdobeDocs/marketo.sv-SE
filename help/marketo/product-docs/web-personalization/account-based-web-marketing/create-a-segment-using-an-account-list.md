@@ -4,10 +4,10 @@ description: Lär dig hur du skapar ett segment med hjälp av en kontolista i Ma
 title: Skapa ett segment med hjälp av en kontolista
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,10 @@ Så här skapar du ett segment med hjälp av en kontolista.
 >[!PREREQUISITES]
 >
 >[Skapa en ny kontolista](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>För att du ska kunna se Kontolistor i Web Personalization krävs en extra modul som heter &quot;Web ABM&quot;. Om du inte ser Kontolistor som ett alternativ kan du kontakta Adobe Account Team (din kontohanterare) för att få hjälp.
 
 1. Gå till **[!UICONTROL Segments]**.
 
