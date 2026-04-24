@@ -1,11 +1,11 @@
 ---
 description: Lär dig hur du använder Importera leads-agenten för att överföra en CSV-fil, tillämpa affärsregler, kartfält och importera leads direkt till din Marketo Engage-databas.
 title: Importera leads
-beta: true
+badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
