@@ -47,7 +47,7 @@ Följ de här stegen för att aktivera SSL för dina befintliga domäner.
 
 1. Välj **[!UICONTROL Email]** i området _[!UICONTROL Admin]_.
 
-1. Markera domänraden på fliken _[!UICONTROL Domain]_och klicka på&#x200B;**[!UICONTROL Add SSL]**.
+1. Markera domänraden på fliken _[!UICONTROL Domain]_&#x200B;och klicka på&#x200B;**[!UICONTROL Add SSL]**.
 
    ![Admin - E-post - Domän - Lägg till SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
