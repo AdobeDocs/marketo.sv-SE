@@ -4,9 +4,9 @@ description: Läs mer om tillgängliga rapporttyper, bland annat publiceringspre
 title: Översikt över rapporttyp
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -47,15 +47,15 @@ När du [skapar en rapport i ett program](/help/marketo/product-docs/reporting/b
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Scenrapport för personer efter intäkt</a></strong></td>
-   <td>Grundläggande rapportering för er intäktsmodell. Mer information finns i <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Inkomstcykelanalys</a>.</td>
+   <td>Grundläggande rapportering för er intäktsmodell. Mer information finns i <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Inkomstcykelanalys</a>.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestanda för landningssida</a>  </strong></td>
-   <td>Inte en ersättare för Google Analytics, men ändå bra information.</td>
+   <td>Visa besök, konverteringar och andra mätvärden för era landningssidor.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programprestanda</a>  </strong></td>
-   <td>Grundläggande mätvärden som medlemmar och framgång. Mer information finns i <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Inkomstcykelanalys</a>.</td>
+   <td>Grundläggande mätvärden som medlemmar och framgång. Mer information finns i <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Inkomstcykelanalys</a>.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Företagets webbaktivitet</a></strong></td>
@@ -67,11 +67,11 @@ När du [skapar en rapport i ett program](/help/marketo/product-docs/reporting/b
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Resultatrapport för engagemangsström</a> </strong></td>
-   <td>Se hur bra ditt <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagemangsprogram</a> fungerar.</td>
+   <td>Se hur bra ditt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagemangsprogram</a> fungerar.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampanjens e-postprestanda</a> </strong></td>
-   <td>Se hur bra ditt <a href="https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagemangsprogram</a> fungerar.</td>
+   <td>Se hur bra ditt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagemangsprogram</a> fungerar.</td>
   </tr>
  </tbody>
 </table>

@@ -4,9 +4,9 @@ description: Läs om våra partners i Marketo. Förstå vilka webbinarier och ev
 title: Event Partners
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,4 @@ Se instruktionerna om hur du integrerar Marketo Events online med din Event Part
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [[!DNL GoToWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [Zooma](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
