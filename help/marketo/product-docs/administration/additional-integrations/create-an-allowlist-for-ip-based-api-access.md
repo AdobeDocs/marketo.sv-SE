@@ -21,7 +21,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
 >[!CAUTION]
 >
->Om du aktiverar den här funktionen kan du inte komma åt [Marketo MCP-servern](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} just nu. Detta kommer att korrigeras i en kommande version.
+>Om du aktiverar den här funktionen kan du inte komma åt [Marketo MCP-servern](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mcp-server){target="_blank"} just nu. Detta kommer att korrigeras i en kommande version.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
