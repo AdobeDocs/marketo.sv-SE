@@ -2,12 +2,10 @@
 description: Lär dig hur du aktiverar Marketo AI-behörigheter, konfigurerar organisationsregler och hanterar inställningar som integreringar och meddelanden.
 title: Inställningar och inställningar
 beta: true
-hide: true
-hidefromtoc: true
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -79,7 +77,7 @@ Följ de här stegen för att tilldela en specifik användare till rollen _Skapa
 
 ### Anpassad roll {#custom-role}
 
-Du kan också [skapa en ny roll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_, tillsammans med allt annat du vill ha, och [tilldela den rollen](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
+Du kan också [skapa en ny roll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} och anpassa dess behörigheter, lägga till _Access Build med AI_, tillsammans med allt annat du vill ha, och [tilldela den rollen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} till specifika användare.
 
 ## Inställningar {#settings}
 

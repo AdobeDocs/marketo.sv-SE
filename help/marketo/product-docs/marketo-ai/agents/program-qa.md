@@ -2,10 +2,8 @@
 description: Lär dig hur du granskar dina program för bästa praxis i alla komponenter, som e-post, landningssidor, kampanjer med mera.
 title: Program-QA
 beta: true
-hide: true
-hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
