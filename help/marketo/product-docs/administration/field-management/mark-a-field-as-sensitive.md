@@ -3,20 +3,16 @@ description: Markera fält som känsliga så att deras värden aldrig är förif
 title: Markera ett fält som känsligt
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
 # Markera ett fält som känsligt {#mark-a-field-as-sensitive}
 
 Som Marketo-administratör kan du markera ett specifikt fält som&quot;känsligt&quot; så att dess värden aldrig fylls i i i förväg, vilket skyddar användarnas känsliga data.
-
->[!NOTE]
->
->Den här funktionen aktiveras för alla Marketo-förekomster tisdagen den 11 maj.
 
 1. Klicka på **[!UICONTROL Admin]**.
 
@@ -33,5 +29,3 @@ Som Marketo-administratör kan du markera ett specifikt fält som&quot;känsligt
 1. Markera kryssrutan **[!UICONTROL Mark Field as Sensitive]**.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
-
-Och det är allt! Framöver kommer inga Marketo-formulär som har aktiverats med förifyllning att visa data för det markerade fältet.

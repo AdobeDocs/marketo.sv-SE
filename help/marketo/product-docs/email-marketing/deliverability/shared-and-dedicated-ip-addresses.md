@@ -4,9 +4,9 @@ description: Lär dig mer om delade och dedikerade IP-adresser och deras proffs 
 title: Delade och dedikerade IP-adresser
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ _Pros_
 _Kon_
 
 **Volymändringar** - Volymtoppar kan påverka ditt rykte negativt och behöver hanteras.
-**IP-uppvärmningsprocess** - Räknandet byggs över tid. En del internetleverantörer (ISP) stryper IP-adresser utan historik för volymer, så du måste skapa ett rykte under de första veckorna (Marketo kan hjälpa dig).
+**IP-uppvärmningsprocess** - rykte skapas över tid. En del internetleverantörer (ISP) stryper IP-adresser utan historik för volymer, så du måste skapa ett rykte under de första veckorna (Marketo kan hjälpa dig).
 **Kostnad** - Det finns vanligtvis en extra kostnad att skicka från en dedikerad IP-adress till någon leverantör.
 
 **Fördelar och kong för en delad IP**

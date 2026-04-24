@@ -4,9 +4,9 @@ description: Lär dig hur du redigerar kvalificeringsregler i en Smart Campaign.
 title: Redigera kvalificeringsregler i en smart kampanj
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -29,14 +29,6 @@ Kvalifikationsregler styr hur många gånger någon kan gå igenom flödet i en 
 
    >[!NOTE]
    >
-   >När du anger en regel för en gång om dagen, konverterar Marketo den till timmar. Om du t.ex. anger regeln för en gång per dag och en person kvalificerar sig klockan 10 på en söndagskväll, kan den inte kvalificera igen förrän 19.00 måndag kväll. Den här logiken gäller även för veckor och månader. En månad räknas alltid som 30 dagar.
-
-   >[!NOTE]
+   >* När du anger en regel för en gång om dagen, konverterar Marketo den till timmar. Om du t.ex. anger regeln för en gång per dag och en person kvalificerar sig klockan 10 på en söndagskväll, kan den inte kvalificera igen förrän 19.00 måndag kväll. Den här logiken gäller även för veckor och månader. En månad räknas alltid som 30 dagar.
    >
-   >Kommunikationsbegränsningar tillämpas inte på smarta kampanjer som standard. Lär dig hur du [använder kommunikationsbegränsningar för en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
-
-   >[!NOTE]
-   >
-   >[Använd kommunikationsbegränsningar för smarta kampanjer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
-Uppdraget är slutfört! Nu vet ni hur ni styr kvalificeringsregler i en Smart Campaign.
+   >* Kommunikationsbegränsningar tillämpas inte på smarta kampanjer som standard. Lär dig hur du [använder kommunikationsbegränsningar för en smart kampanj](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.

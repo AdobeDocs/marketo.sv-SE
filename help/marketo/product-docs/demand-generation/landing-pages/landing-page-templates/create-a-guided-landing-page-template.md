@@ -4,9 +4,9 @@ description: Lär dig hur du skapar en guidad landningssidmall i Marketo. Använ
 title: Skapa en mall för guidad landningssida
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '1135'
+source-wordcount: '1127'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,12 @@ Exempel:
 
 >[!NOTE]
 >
->När du använder versionen `<img>` innehåller den återgivna HTML en genererad div-wrapper runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen,&quot; och kommer att visas :inline-block.
+>När du använder versionen `<img>` innehåller den återgivna HTML en genererad div-wrapper runt taggen `<img>`. Den ställs in på klassen .&quot;mktoImg.mktoGen&quot;, och kommer att visas :inline-block.
 
 ## Formulär {#form}
 
 Exempel på :Required-attribut:
-**class**: &quot;mktoForm&quot;
+**klass**: &quot;mktoForm&quot;
 **id**: ID-sträng. Innehåller endast bokstäver, siffror, bindestreck &quot;-&quot; och understreck &quot;_&quot;. Inga blanksteg tillåts. Måste vara unikt.
 **mktoName** : String. Det här är det visningsnamn som visas i landningssidans redigerare. Det bästa sättet är att använda ett beskrivande namn.
 
@@ -192,11 +192,11 @@ Valfritt:
 
 Exempel:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Exempel med alla attribut:
+
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 I det här exemplet visas ett vanligt användningsfall där en boolesk variabel styr synligheten för ett CSS-element genom att ange värdet för CSS-visningsegenskapen till antingen &quot;block&quot; eller &quot;none&quot; för att visa/dölja ett element med id:t med CSS. Landningssidans redigerare använder visningsnamnet Visa/Dölj i stället för AV/ON.
 
