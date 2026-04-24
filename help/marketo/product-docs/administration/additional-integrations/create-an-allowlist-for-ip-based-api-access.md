@@ -4,9 +4,9 @@ description: Begränsa API-åtkomst till specifika IP-adresser eller intervall v
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 >
 >**Administratörsbehörigheter krävs**
 
->[!NOTE]
+>[!CAUTION]
 >
->Den här funktionen fungerar oberoende av Marketo Engage [IP-baserade inloggningsbegränsningar](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} som ersätts av Admin Console [IP-baserade åtkomstkontroll](https://helpx.adobe.com/se/enterprise/using/ip-based-access.html){target="_blank"}. Den kommer att fortsätta fungera som den är efter Adobe IMS-migreringen.
+>Om du aktiverar den här funktionen kan du inte komma åt [Marketo MCP-servern](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} just nu. Detta kommer att korrigeras i en kommande version.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -31,7 +31,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Klicka **[!UICONTROL IP Restrictions]**, **[!UICONTROL Edit]eller klicka** i det övre vänstra hörnet i området **[!UICONTROL Edit IP Restrictions]**.
+1. Klicka **[!UICONTROL Edit],** eller klicka **[!UICONTROL Edit IP Restrictions]** i det övre vänstra hörnet i området **[!UICONTROL IP Restrictions]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
