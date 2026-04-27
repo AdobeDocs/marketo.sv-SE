@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: Ange krypteringsnyckeln för SOAP API och hämta slutpunktsinformation i Admin Web Services för utvecklare.
 title: Konfigurera dina SOAP API-inställningar
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
 # Konfigurera dina SOAP API-inställningar {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Vi rekommenderar att du använder REST API. Läs mer på [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>SOAP-API:t [tas bort](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) den 31 juli 2026. Vi rekommenderar att du använder [REST API](https://developer.adobe.com/marketo-apis/) i stället.
 
 >[!NOTE]
 >
@@ -36,7 +38,3 @@ ht-degree: 1%
 >[!CAUTION]
 >
 >Din SOAP-slutpunkt och [!UICONTROL User ID] är unika. Skicka inte skärmbilden i den här artikeln till din utvecklare.
-
->[!MORELIKETHIS]
->
->[SOAP API-dokumentation](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api)

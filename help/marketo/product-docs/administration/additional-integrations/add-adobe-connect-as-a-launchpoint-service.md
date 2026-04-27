@@ -4,9 +4,9 @@ description: Lägg till Adobe Connect som en LaunchPoint-tjänst så att Marketo
 title: Lägg till Adobe Connect som en [!DNL LaunchPoint] tjänst
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Marketo hanterar registreringen och närvaron av Adobe Connect webbinarium.
 
    >[!TIP]
    >
-   >När du skapar deltagarlösenordet inkluderas det värde du väljer i en frågesträng när länkarna skickas ut för händelsen. Så vi föreslår att ni gör det kundvänligt.
+   >När du skapar deltagarlösenordet inkluderas det värde du väljer i en frågesträng när länkarna skickas ut för händelsen. Det föreslås att ni gör det kundvänligt.
 
    >[!NOTE]
    >

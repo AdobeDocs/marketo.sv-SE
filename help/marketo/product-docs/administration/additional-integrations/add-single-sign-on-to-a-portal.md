@@ -4,20 +4,20 @@ description: Aktivera enkel SAML 2.0-inloggning så att identitetsleverantören 
 title: Lägg till enkel inloggning på en portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
 
 # Lägg till enkel inloggning på en portal {#add-single-sign-on-to-a-portal}
 
-Om du har en katalogtjänst som autentiserar användare kan du tillåta enkel inloggning (SSO) i Marketo. Vi stöder den här funktionen med [!DNL Security Assertion Markup Language] (SAML) version 2.0 och senare.
+Om du har en katalogtjänst som autentiserar användare kan du tillåta enkel inloggning (SSO) i Marketo. Marketo stöder den här funktionen med [!DNL Security Assertion Markup Language] (SAML) version 2.0 och senare.
 
 Marketo fungerar som en SAML-tjänsteleverantör (SP) och är beroende av en extern identitetsleverantör (IdP) för att autentisera användare.
 
-När enkel inloggning är aktiverad kan IdP validera användarens inloggningsuppgifter. När en användare vill använda Marketo-programvara skickar IdP sedan ett signerat SAML-meddelande till Marketo, som fungerar som SP. Det här meddelandet garanterar Marketo att användaren har behörighet att använda Marketo.
+När enkel inloggning är aktiverad kan IdP validera användarens inloggningsuppgifter. När en användare vill använda Marketo-programvara skickar IdP sedan ett signerat SAML-meddelande till Marketo, som fungerar som SP. Det här meddelandet bekräftar för Marketo att användaren har behörighet att använda Marketo.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ När enkel inloggning är aktiverad kan IdP validera användarens inloggningsupp
 
 >[!IMPORTANT]
 >
->Detta gäller **inte** för prenumerationer på Adobe Identity. Tidigare inställningar kan visas (från före IMS-migreringen), men de gäller inte längre. För prenumerationer som är kopplade till Adobe Identity ställs enkel inloggning in på Adobe Org-nivån i Adobe Admin Console. [Läs mer här](https://helpx.adobe.com/se/enterprise/using/set-up-identity.html){target="_blank"}.
+>Detta gäller **inte** för prenumerationer på Adobe Identity. Tidigare inställningar kan visas (från före IMS-migreringen), men de gäller inte längre. För prenumerationer på Adobe Identity konfigureras [enkel inloggning](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} på Adobe Org-nivå i Adobe Admin Console.
 
 >[!NOTE]
 >
->Är du en [!DNL Microsoft Azure]-användare? Kolla in deras [integreringsinsats](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Det finns ett stavfel i steg 5c i självstudiekursen. Ange relästatus till `https://<munchkinid>.mktoweb.com`, **_inte_** `https://<munchkinid>.marketo.com`.
+>Är du en [!DNL Microsoft Azure]-användare? Kolla in deras [integreringsinsats](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Observera att det finns ett stavfel i steg 5c i självstudiekursen. Ange relästatus till `https://<munchkinid>.mktoweb.com`, **_inte_** `https://<munchkinid>.marketo.com`.
 
 ## Skicka förfrågan {#how-to-send-the-request}
 
@@ -71,7 +71,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
    >
    >Om du inte ser **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]** kontaktar du [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Klicka på **[!UICONTROL SAML Settings]** under avsnittet **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** under avsnittet **[!UICONTROL SAML Settings]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
@@ -93,7 +93,7 @@ SSO är inaktiverat som standard. Följ de här stegen för att aktivera SAML oc
 
 ## Uppdatera inställningar för omdirigeringssida {#update-redirect-page-settings}
 
-1. Klicka på **[!UICONTROL Redirect Pages]** under avsnittet **[!UICONTROL Edit]**.
+1. Klicka på **[!UICONTROL Edit]** under avsnittet **[!UICONTROL Redirect Pages]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 

@@ -4,9 +4,9 @@ description: Lägg till Marketo [!DNL Munchkin] JavaScript på din webbplats fö
 title: Lägg till [!DNL Munchkin] spårningskod på din webbplats
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -41,13 +41,13 @@ Marketo anpassade JavaScript-spårningskod, [!DNL Munchkin], spårar alla person
    >
    >I nästan alla fall bör du använda den asynkrona koden. [Läs mer](#types-of-munchkin-tracking-codes).
 
-1. Klicka på och kopiera den Javascript-spårningskod som du vill använda på webbplatsen.
+1. Kopiera spårningskoden för JavaScript för att lägga till den på webbplatsen.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto!
+   >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto.
 
    >[!TIP]
    >
@@ -59,11 +59,11 @@ Marketo anpassade JavaScript-spårningskod, [!DNL Munchkin], spårar alla person
 
    >[!TIP]
    >
-   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 
-Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separata webblänkar som motsvarar dina arbetsytor. I så fall kan du använda [!DNL Munchkin]-spårnings-JavaScript för att tilldela anonyma personer till rätt arbetsyta och partition.
+Om du använder arbetsytor i ditt Marketo-konto har du förmodligen också separata webbpresentationer som motsvarar dina arbetsytor. I så fall kan du använda [!DNL Munchkin]-spårnings-JavaScript för att tilldela anonyma personer till rätt arbetsyta och partition.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
@@ -79,19 +79,19 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 
    >[!NOTE]
    >
-   >Om du inte använder den speciella arbetsytans [!DNL Munchkin]-kod tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det har ursprungligen namnet [!UICONTROL Default], men du kan ha ändrat det i ditt Marketo-konto.
+   >Om du inte använder den speciella arbetsytans [!DNL Munchkin]-kod tilldelas personerna standardpartitionen som skapades när ditt konto konfigurerades. Det har namnet [!UICONTROL Default] som standard, men det här namnet kan ha ändrats.
 
 1. Välj **[!UICONTROL Asynchronous]** för **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Klicka på och kopiera spårningskoden för JavaScript för att lägga ut den på webbplatsen.
+1. Kopiera spårningskoden för JavaScript för att lägga till den på webbplatsen.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto!
+   >Använd inte koden som visas på skärmbilden - du måste använda den unika koden som visas på ditt konto.
 
 1. Placera spårningskoden på dina webbsidor i elementet `<head>`. Nya personer som besöker den här sidan tilldelas den här partitionen.
 
@@ -103,7 +103,7 @@ Om du använder Arbetsytor i ditt Marketo-konto har du förmodligen också separ
 
    >[!NOTE]
    >
-   >Landningssidor som skapats i Marketo innehåller automatiskt spårningskod, så du behöver inte placera den här koden på dem.
+   >Landningssidor som skapats i Marketo innehåller automatiskt spårningskod. Du behöver inte lägga till koden till dem.
 
 ## Typer av [!DNL Munchkin] spårningskoder {#types-of-munchkin-tracking-codes}
 
@@ -119,7 +119,7 @@ Så här kontrollerar du att din [!DNL Munchkin]-kod fungerar när du har lagt t
 
 1. Besök din webbsida.
 
-1. Klicka på rutan [!DNL My Marketo] i **[!UICONTROL Analytics]**.
+1. Klicka på rutan **[!UICONTROL Analytics]** i [!DNL My Marketo].
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 

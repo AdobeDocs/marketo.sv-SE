@@ -4,10 +4,10 @@ description: Lägg till [!DNL Webex] webbinarier som en LaunchPoint-tjänst för
 title: Lägg till [!DNL Webex] som en [!DNL LaunchPoint] tjänst
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 2%
+source-wordcount: '97'
+ht-degree: 3%
 
 ---
 
@@ -31,7 +31,7 @@ Marketo Engage hanterar din registrering och närvaro av ditt [!DNL Webex]-webbi
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Service]** i listrutan **[!UICONTROL Webex Webinars]**.
+1. Ange **[!UICONTROL Display Name]**. Välj **[!UICONTROL Webex Webinars]** i listrutan **[!UICONTROL Service]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
@@ -43,7 +43,7 @@ Marketo Engage hanterar din registrering och närvaro av ditt [!DNL Webex]-webbi
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. När inloggningen är klar stängs fliken och _Ny tjänst_-spärren i Marketo Engage kommer att läsa &quot;Webbseminariekontot är inställt&quot;. Klicka på **[!UICONTROL Create]**.
+1. När inloggningen är klar stängs fliken och _Ny tjänst_-modalen i Marketo Engage visar &quot;WebBbinars-kontot är inställt.&quot; Klicka på **[!UICONTROL Create]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

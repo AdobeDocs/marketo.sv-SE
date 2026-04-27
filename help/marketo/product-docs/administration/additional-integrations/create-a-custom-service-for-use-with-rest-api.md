@@ -4,16 +4,16 @@ description: Skapa en anpassad LaunchPoint-tjänst som är länkad till en API-a
 title: Skapa en anpassad tjänst för användning med ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '150'
 ht-degree: 2%
 
 ---
 
 # Skapa en anpassad tjänst för användning med ReST API {#create-a-custom-service-for-use-with-rest-api}
 
-Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjänst. Så här gör du.
+Skapa en anpassad tjänst om du vill integrera med Marketo via ReST API.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!TIP]
 >
->Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för våra utvecklare. Vi har också [SOAP API](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api) om det är det du behöver.
+>Mer information om [REST API](https://developer.adobe.com/marketo-apis/) finns i dokumentationen för utvecklare.
 
 ## Skapa anpassad tjänst {#create-custom-service}
 
@@ -47,15 +47,11 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >Observera att vi redan har inbyggd integrering för populära webbinärtjänster.
-
 1. Klicka på **[!UICONTROL Create]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Absolut! Tjänsten är nu skapad. Låt oss gå vidare och hämta alla autentiseringsuppgifter för åtkomst.
+   Tjänsten har skapats. Hämta de autentiseringsuppgifter som ska användas för åtkomst.
 
 ## Autentiseringsuppgifter för API-åtkomst {#credentials-for-api-access}
 
@@ -81,4 +77,4 @@ Om du vill integrera med Marketo via ReST API:t måste du skapa en anpassad tjä
 
 >[!CAUTION]
 >
->Dela inte den här informationen, det är bakdörren till dina data. Håll det säkert!
+>Dela inte denna information eftersom den ger åtkomst till dina data.

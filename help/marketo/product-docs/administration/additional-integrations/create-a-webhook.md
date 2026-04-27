@@ -4,9 +4,9 @@ description: Skapa en webkrok i Admin för att ringa webbtjänster från tredje 
 title: Skapa en  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '202'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ Använd [!DNL Webhooks] om du vill dra nytta av webbtjänster från tredje part 
 
    * **[!UICONTROL URL]**: Ange den URL som du använder i din begäran till webbtjänsten. Om du vill infoga en token, till exempel personens e-postadress (**`{{lead.Email Address}}`**), klickar du på **[!UICONTROL Insert Token]** i din begäran.
 
-   * **[!UICONTROL Template]**: Om du vill överföra information i begärans innehåll anger du det via nyttolastmallen. Mallar tillåts för följande typer av förfrågningar: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en token i mallen klickar du på **[!UICONTROL Insert Token]**.
+   * **[!UICONTROL Template]**: Om du vill överföra information i texten i begäran anger du via nyttolastmallen. Mallar tillåts för följande typer av förfrågningar: POST, DELETE, PATCH eller PUT. Du kan använda dataformat som JSON eller XML. Om du vill infoga en token i mallen klickar du på **[!UICONTROL Insert Token]**.
 
    * **[!UICONTROL Request Token Encoding]**: Om tokenvärdena innehåller specialtecken (t.ex. ett et-tecken (&amp;)) anger du formatet för din begäran (**JSON** eller **Form/Url**).
 
@@ -51,4 +51,4 @@ Använd [!DNL Webhooks] om du vill dra nytta av webbtjänster från tredje part 
 
 >[!NOTE]
 >
->Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

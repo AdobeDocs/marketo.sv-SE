@@ -4,16 +4,16 @@ description: Integrera flera [!DNL Google AdWords] konton med Marketo med ett Ma
 title: Lägg till [!DNL Google AdWords] som en [!DNL Launchpoint] tjänst med ett hanterarkonto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 2%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
 # Lägg till [!DNL Google AdWords] som en [!DNL Launchpoint]-tjänst med ett hanterarkonto {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Från gränssnittet [!DNL AdWords] kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Från gränssnittet [!DNL AdWords] kan du sedan se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
 
 Om du har flera [!DNL Google Adwords]-konton kan du använda en [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (tidigare kallad [!DNL My Client Center]) för att integrera dem med Marketo.
 
@@ -92,7 +92,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   Se nu den relaterade artikeln nedan för hur du mappar [!DNL AdWords] offlinekonverteringar i din intäktsmodell.
+   Se den relaterade artikeln nedan för hur du mappar [!DNL AdWords] offlinekonverteringar i din intäktsmodell.
 
    >[!MORELIKETHIS]
    >

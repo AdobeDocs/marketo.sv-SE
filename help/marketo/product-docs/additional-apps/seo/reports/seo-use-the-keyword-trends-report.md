@@ -6,25 +6,25 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
 hidefromtoc: true
 feature: SEO
-source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # SEO - Använd rapporten om nyckelordstrender {#seo-use-the-keyword-trends-report}
 
-I den här rapporten kan du se hur nyckelord rangordnas över tiden.
+Se hur nyckelorden rankas över tid.
 
 >[!IMPORTANT]
 >
 >Den 31 mars 2026 tog Marketo Engage [bort funktionen Sökmotoroptimering](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) är fortfarande tillgänglig under en begränsad tid. Exportera alla data genom att följa stegen i artiklarna nedan.
 >
->* [Exportproblem](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Exportera nyckelordstrender](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportproblem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportera nyckelordsresultat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportera nyckelordstrender](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportera nyckelordstrender för konkurrent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Läs in rapport {#load-report}
 
@@ -36,18 +36,16 @@ I den här rapporten kan du se hur nyckelord rangordnas över tiden.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
-   Här är den:
-
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
-   Beskriver rapportobjekt:
+   **Rapportobjekt**
 
    | Objekt | Beskrivning |
    |---|---|
    | [!UICONTROL Keywords] | Antalet nyckelord som du spårar. |
    | [!UICONTROL Ranking URLs] | Antalet URL:er i webbplatsens rankning i det intervall som du har angett. |
    | [!UICONTROL Avg. rank] | Genomsnittlig rangordning av nyckelord i det intervall som du har angett. |
-   | [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar efter de nyckelord som gjordes under det intervall som du angav (under de senaste 30 dagarna) vid sökning i Google US |
+   | [!UICONTROL Avg. searches] | Genomsnittligt antal sökningar efter nyckelorden som gjordes under det intervall som du angav (under de senaste 30 dagarna) i sökningen i Google US |
 
 ## Filtrera data {#filtering-data}
 

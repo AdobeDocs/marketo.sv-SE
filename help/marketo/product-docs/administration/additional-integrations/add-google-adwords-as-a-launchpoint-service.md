@@ -4,16 +4,16 @@ description: Länka [!DNL Google AdWords] till Marketo via LaunchPoint för att 
 title: Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint] tjänst
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 2%
+source-wordcount: '264'
+ht-degree: 0%
 
 ---
 
 # Lägg till [!DNL Google AdWords] som en [!DNL LaunchPoint]-tjänst {#add-google-adwords-as-a-launchpoint-service}
 
-Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Från gränssnittet [!DNL AdWords] kan du sedan enkelt se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
+Länka ditt [!DNL Google AdWords]-konto till Marketo för att automatiskt överföra offlinekonverteringsdata från Marketo till [!DNL Google AdWords]. Från gränssnittet [!DNL AdWords] kan du sedan se vilka klick som resulterat i kvalificerade leads, affärsmöjligheter och nya kunder (eller vilka intäktssteg du vill spåra) efter att du [lagt till anpassade kolumner](https://support.google.com/adwords/answer/3073556){target="_blank"} i [!DNL AdWords]. Den här informationen visas inte i användargränssnittet för Marketo.
 
 Läs mer om [Google importfunktion för offlinekonvertering](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -90,7 +90,7 @@ Läs mer om [Google importfunktion för offlinekonvertering](https://support.goo
    >
    >[Automatisk taggning](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} måste vara markerat för att den här funktionen ska fungera. Inaktiveringen måste göras inuti [!DNL AdWords].
 
-Bra! Se den relaterade artikeln nedan för att lära dig hur du mappar [!DNL AdWords] offlinekonverteringar i din intäktsmodell.
+Läs den relaterade artikeln nedan om du vill lära dig att mappa [!DNL AdWords] offlinekonverteringar i din intäktsmodell.
 
 >[!MORELIKETHIS]
 >

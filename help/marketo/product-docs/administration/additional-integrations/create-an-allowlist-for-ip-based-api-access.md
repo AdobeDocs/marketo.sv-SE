@@ -4,9 +4,9 @@ description: Begränsa API-åtkomst till specifika IP-adresser eller intervall v
 title: Skapa ett Tillåtelselista för IP-baserad API-åtkomst
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Ibland vill du bara ge API-åtkomst till en viss IP-adress eller ett adressinter
 
 >[!CAUTION]
 >
->Om du aktiverar den här funktionen kan du inte komma åt [Marketo MCP-servern](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/mcp-server){target="_blank"} just nu. Detta kommer att korrigeras i en kommande version.
+>Om du aktiverar den här funktionen kan du inte komma åt [Marketo MCP-servern](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} just nu. Detta förväntas bli löst i en kommande version.
 
 1. Gå till området **[!UICONTROL Admin]**.
 
