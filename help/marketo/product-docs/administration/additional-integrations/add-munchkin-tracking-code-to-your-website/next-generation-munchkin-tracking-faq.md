@@ -90,4 +90,4 @@ Kolla in länkarna:
 
 ## Jag har fler frågor! Hur får jag svar på dem? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Besök [Marketo Community](https://experienceleaguecommunities.adobe.com/){target="_blank"}. Du kan även kontakta Marketo Support. De besvarar gärna dina frågor.
+Besök [Marketo Community](https://experienceleaguecommunities.adobe.com/?profile.language=sv){target="_blank"}. Du kan även kontakta Marketo Support. De besvarar gärna dina frågor.

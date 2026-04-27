@@ -59,7 +59,7 @@ Marketo anpassade JavaScript-spårningskod, [!DNL Munchkin], spårar alla person
 
    >[!TIP]
    >
-   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >För webbplatser med stor trafik (dvs. hundratusentals besök per månad) rekommenderar vi att du inte spårar anonyma personer. [Läs mer](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Lägg till spårningskod när flera arbetsytor används {#add-tracking-code-when-using-multiple-workspaces}
 

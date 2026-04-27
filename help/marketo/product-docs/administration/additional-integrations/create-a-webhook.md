@@ -51,4 +51,4 @@ Använd [!DNL Webhooks] om du vill dra nytta av webbtjänster från tredje part 
 
 >[!NOTE]
 >
->Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Läs mer i djupdykningen [[!DNL Webhooks]](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

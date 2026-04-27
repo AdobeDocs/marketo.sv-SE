@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->SOAP-API:t [tas bort](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) den 31 juli 2026. Vi rekommenderar att du använder [REST API](https://developer.adobe.com/marketo-apis/) i stället.
+>SOAP-API:t [tas bort](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/soap/soap-api) den 31 juli 2026. Vi rekommenderar att du använder [REST API](https://developer.adobe.com/marketo-apis/) i stället.
 
 >[!NOTE]
 >
